@@ -1,0 +1,23 @@
+taxonomy: tag
+_id: machine-learning
+parents:
+  - artificial-intelligence
+description: Machine learning is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence.
+regex:
+
+services:
+  news: 
+    url: https://smartableai.github.io/artificial-intelligence/api/news/machine-learning/
+    volume: 
+  learning: 
+    url: https://smartableai.github.io/artificial-intelligence/api/learning/machine-learning/
+    volume: 
+  projects: 
+    url: https://smartableai.github.io/artificial-intelligence/api/projects/machine-learning/
+    volume: 
+  people:
+    url: https://smartableai.github.io/artificial-intelligence/api/people/machine-learning/
+    volume: 
+  companies: 
+    url: https://smartableai.github.io/artificial-intelligence/api/companies/machine-learning/
+    volume: 

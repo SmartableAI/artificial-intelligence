@@ -1,0 +1,18 @@
+taxonomy: topic
+_id: natural-language-processing
+name: Natural Language Processing
+shortname: NLP
+parent: AI
+description: Enables programs to “understand” written or spoken language
+keywords:
+  - natural language processing
+  - speech recognition
+  - machine translation
+images:
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/natural-language-processing.jpg
+services:
+  news: https://smartableai.github.io/artificial-intelligence/api/news/natural-language-processing/
+  learning: https://smartableai.github.io/artificial-intelligence/api/learning/natural-language-processing/
+  projects: https://smartableai.github.io/artificial-intelligence/api/projects/natural-language-processing/
+  people: https://smartableai.github.io/artificial-intelligence/api/people/natural-language-processing/
+  companies: https://smartableai.github.io/artificial-intelligence/api/companies/natural-language-processing/

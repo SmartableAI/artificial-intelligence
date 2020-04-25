@@ -1,0 +1,19 @@
+taxonomy: topic
+_id: computer-vision
+name: Computer Vision
+shortname: Vision
+parent: AI
+description: How machines “see”
+keywords:
+  - computer vision
+  - face recognition
+  - facial recognition
+  - object recognition
+images:
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/computer-vision.jpg
+services:
+  news: https://smartableai.github.io/artificial-intelligence/api/news/computer-vision/
+  learning: https://smartableai.github.io/artificial-intelligence/api/learning/computer-vision/
+  projects: https://smartableai.github.io/artificial-intelligence/api/projects/computer-vision/
+  people: https://smartableai.github.io/artificial-intelligence/api/people/computer-vision/
+  companies: https://smartableai.github.io/artificial-intelligence/api/companies/computer-vision/

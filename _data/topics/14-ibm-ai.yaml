@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: ibm-ai
+name: IBM AI
+parent: AI
+keywords:
+  - Watson
+images:
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ibm-ai.jpg
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ibm-ai-2.jpg
+services:
+  news: https://smartableai.github.io/artificial-intelligence/api/news/ibm-ai/
+  learning: https://smartableai.github.io/artificial-intelligence/api/learning/ibm-ai/
+  projects: https://smartableai.github.io/artificial-intelligence/api/projects/ibm-ai/

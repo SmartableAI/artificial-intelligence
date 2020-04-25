@@ -1,0 +1,19 @@
+taxonomy: topic
+_id: ai-in-autos
+name: AI in Autos
+shortname: Autos
+parent: AI
+keywords:
+  - driverless
+  - self driving
+  - waymo
+  - tesla
+images:
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ai-in-autos.jpg
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ai-in-autos-2.jpg
+services:
+  news: https://smartableai.github.io/artificial-intelligence/api/news/ai-in-autos/
+  learning: https://smartableai.github.io/artificial-intelligence/api/learning/ai-in-autos/
+  people: https://smartableai.github.io/artificial-intelligence/api/people/ai-in-autos/
+  companies: https://smartableai.github.io/artificial-intelligence/api/companies/ai-in-autos/
+  projects: https://smartableai.github.io/artificial-intelligence/api/projects/ai-in-autos/

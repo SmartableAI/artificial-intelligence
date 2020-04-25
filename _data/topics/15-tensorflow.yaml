@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: tensorflow
+name: TensorFlow
+parent: Google AI
+keywords:
+  - tensorflow
+images:
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/tensorflow.jpg
+services:
+  news: https://smartableai.github.io/artificial-intelligence/api/news/tensorflow/
+  learning: https://smartableai.github.io/artificial-intelligence/api/learning/tensorflow/
+  people: https://smartableai.github.io/artificial-intelligence/api/people/tensorflow/
+  projects: https://smartableai.github.io/artificial-intelligence/api/projects/tensorflow/

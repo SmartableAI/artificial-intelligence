@@ -1,0 +1,15 @@
+taxonomy: topic
+_id: microsoft-ai
+name: Microsoft AI
+parent: AI
+keywords:
+  - cognitive services
+  - azure
+  - microsoft
+images:
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/microsoft-ai.jpg
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/microsoft-ai-2.jpg
+services:
+  news: https://smartableai.github.io/artificial-intelligence/api/news/microsoft-ai/
+  learning: https://smartableai.github.io/artificial-intelligence/api/learning/microsoft-ai/
+  projects: https://smartableai.github.io/artificial-intelligence/api/projects/microsoft-ai/

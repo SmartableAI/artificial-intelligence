@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: ai-ethics
+name: AI Ethics
+shortname: Ethics
+parent: AI
+keywords:
+  - ethical
+  - ethics
+images:
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ai-ethics.jpg
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ai-ethics-2.jpg
+services:
+  news: https://smartableai.github.io/artificial-intelligence/api/news/ai-ethics/

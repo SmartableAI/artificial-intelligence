@@ -1,0 +1,17 @@
+taxonomy: topic
+_id: ai-in-healthcare
+name: AI in Healthcare
+shortname: Healthcare
+parent: AI
+keywords:
+  - healthcare
+  - therapy
+images:
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ai-in-healthcare.jpg
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ai-in-healthcare-2.jpg
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ai-in-healthcare-3.jpg
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ai-in-healthcare-4.jpg
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ai-in-healthcare-5.jpg
+services:
+  news: https://smartableai.github.io/artificial-intelligence/api/news/ai-in-healthcare/
+  companies: https://smartableai.github.io/artificial-intelligence/api/companies/ai-in-healthcare/

@@ -1,0 +1,22 @@
+taxonomy: tag
+_id: artificial-intelligence
+parents: 
+description: Artificial intelligence (AI) is the branch of computer science and technology that studies the development of machines able to simulate aspects of human intelligence. This tag may also refer to the part of a computer game application that controls the behavior of the virtual characters with which the player may interact during the game.
+regex:
+
+services:
+  news: 
+    url: https://smartableai.github.io/artificial-intelligence/api/news/artificial-intelligence/
+    volume: 
+  learning: 
+    url: https://smartableai.github.io/artificial-intelligence/api/learning/artificial-intelligence/
+    volume: 
+  projects: 
+    url: https://smartableai.github.io/artificial-intelligence/api/projects/artificial-intelligence/
+    volume: 
+  people:
+    url: https://smartableai.github.io/artificial-intelligence/api/peopleartificial-intelligence/
+    volume: 
+  companies: 
+    url: https://smartableai.github.io/artificial-intelligence/api/companies/artificial-intelligence/
+    volume: 

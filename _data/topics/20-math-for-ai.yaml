@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: math-for-ai
+name: Math for AI
+shortname: Math
+parent: AI
+images:
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/math-for-ai.jpg
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/math-for-ai-2.jpg
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/math-for-ai-3.jpg
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/math-for-ai-4.jpg
+services:
+  learning: https://smartableai.github.io/artificial-intelligence/api/learning/math-for-ai/
+  people: https://smartableai.github.io/artificial-intelligence/api/people/math-for-ai/
