@@ -1,5 +1,5 @@
 ---
-title: "Most Influential AI Researchers in 2020"
+title: "The Most Influential AI Researchers in 2020"
 excerpt: "These are some of the most vocal and influential leaders working on artificial intelligence in 2020."
 type: collection
 heat: 203142
