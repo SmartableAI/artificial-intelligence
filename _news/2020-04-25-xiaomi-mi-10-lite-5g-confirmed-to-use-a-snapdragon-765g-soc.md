@@ -25,6 +25,6 @@ images:
     height: 473
     title: "Xiaomi Mi 10 Lite 5G confirmed to use a Snapdragon 765G SoC"
 
-secured: "JpXci+Om6KjLJ+bjc0J6j+Z87Bis8VV13diOmv/ug1dVVXnQ/OTKg/Si4YZc09DUi28w2kiw/j+mw+JvuAGnzvt7KgmAgsVZH4QaiJosfZq7ZabFjL5awT21Moa20So3f5mNVN3Ycvu42EjipJqmQrn5qVwNMaf+mEmz/E+MkYGU1IMCVInAdPRFuZm8CnG6hHVI1BR8WL1DORbvauRsuX0NsbmamhL9wu57OUYlLpEEzPzLICTD4l5WMmuB/lQPcRoimeq43wwVMlDq7zufurTSFrRuPUtIrYJwPDCowBId+T98okw2GtCZICws8mwR;IeUV3IeCvmWXh09D0HGONw=="
+secured: "WSnoQrtWiSLy4qaRL9Wm4rAetp0hjMLQncgYJAd4fAxm8sMmbDDo19+AJ8cYvqr7tuuu67U6xqwsP3t/peGQiBl6kW3wjzZLOQHbDvUT6ufCmDfoyWWa3IyBsRphdLexDDEsJEaWmUXW/gOTyCLDWpLEj7o/KowHa5dl9IZM7rs/xwv/U1PFpsUQ9pt3Ayn8vOGvIsf5L8zI3LaB2HVyjUX37nLlJZOHXG6nl65vYwdcQz9Vz33R9agkusWMOKk/wvxQs+07owsqdNGYY/4A5snuNJdvOdPbfhq/6Tu7gFR6NEqrG4qA/4WM4KRvEspV4y/j2NxWPmsqp5NDH1RNH+5Mqsm++7UebWB5HI+a+EikVtj1xjZyMymIn6fWAKifAHpV2vgFpKaZw4bP0FmE3MUpKbjCkfLRBNZiQXlW3CrVcZv+s+pL5wdlM3SUpcb6pYgEeIQzst2b5r3fgTaL2jmHPB8eaqnqy484Btzg9t4=;rxIlBmIn1/2xC0D1Y2SvBQ=="
 ---
 

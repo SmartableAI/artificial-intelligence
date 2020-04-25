@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/25/machine-learning-models-exp
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/25/machine-learning-models-explained-to-a-five-year-old-syndication/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 417
     title: "An explanation of machine learning models even you could understand"
 
-secured: "Uj1z6x2gGZivesLwN640k8VxJbnd61X4Vab4sdjkSyeDnp19124GGDqdaagTw/cm/jFB61aXIKZ7KINbfLtJ7G5xRtKfkjC3gyQtxiJRK5Qcl0nokDAfQMBEh6WIPqVnkSBv2JbIYao381ZVZZK72Ag1zMi+Y8TqJHJ/mlZ1KCjc8JXJ+8TobCgY/hwR6D5rflgTmpFhKCw3CKkHbigqGW3h2BL4UYkyK6D9mX5Dim1/kmHzXy9X/EemeQoPwrGDiAvM47VxByzzmiu5GnpsfB0YPk1+jUXi9ZmqSI5J5pWhjoxbchH/u/aw/L18w6v+JgbVjpYrLe0yKvku2us+o0i0FosOEn9VEHwe6yS4Uq6QT6ch7pc6Ta2qk9j4mjPu5JAUh0sHe8tG0nj+mBUfLzIYFkTbWKQIdDI1bG+P5ckosd50y/OpOZfT3gmRLe8voe8JQwYW89V7eHFKQfuo9LUucZ0isM1X2EUFoQ83QdU=;5e85rIgeXg1OEo4OdROUDA=="
+secured: "Dn7IK/RH24eRjqQenzW/3mOcV+SSOddGWrCh8xPvmCmOjOAfju/xVElw5o+xQjdxJazMG7hZ+/FhXwYJ1g1XOf7DWj+kLwhZ12wE9R0Bn62XgdDaCYa9TkBMJ5N8Jp1IAqSy8cT2Vdj9/j2BBDTN/FGAem4+7fcN9kUHhvVBY+R3e1mBd5WWWAjOfb/uVWVgFouDGza/Yha5XGuVV1oZ11Fpvh3WEbJJ6IXO6zh5oQ1Ue1ydc2ujaXB0zBmKWAeEaqjJ743mqTEJukylaLzrAnnb2nKQMAhXmqjeR6+UFIidU1cLRM0BzlFSNulf6lE9KISJeKUuf3Y/AixWGVh/PBLIPc7nem5Jq6qumE4BIt7W9uWcKonGSj0wr1aE3N4jOsIoI7eIoQhxhVNRcMIE4JMaBUld7NWGSsOJwLWZ9I0Vrss8J2ppSEDKNSJVBPVu0Q4Eh0D6SCa0uELOSqQeZXtjPJmb8hqIQ75c3Cj0np8=;ogI6I+qfWszEgJEfqmVuhA=="
 ---
 
