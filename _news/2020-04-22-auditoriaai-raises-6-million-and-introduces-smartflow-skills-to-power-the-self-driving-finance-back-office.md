@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office"
-excerpt: "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- Auditoria.AI today announced SmartFlow Skills, a groundbreaking new SaaS solution that"
-publishedDateTime: 2020-04-22T13:05:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office-1029117853"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office-1029117853"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office-1029117853"
+excerpt: "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- today announced SmartFlow Skills, a groundbreaking new SaaS solution that addresses the most pressing challenges of the enterprise finance back office."
+publishedDateTime: 2020-04-22T13:38:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance/article_2a4185c6-6b31-5968-b616-a1b081e1a222.html"
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "5zsum8RQL9D4B8vZZ3TCG+2gayd1wFg+kWjaz8TiRSgEku3jTUG4ib+YeQdCg5r3Y2siURaOKSqHbyn9XGxonUssfygZIPgoUWpmHYsdBE5Mk961H4MYyATGg0t6RLqWZ0qy/i314XRcZfmbWvbRVMh+2U5/csoRGhyXIS/xHP/SDg9P+LrszCP5xJfyaW1r4wepDEIkMovULHpmDsAw6EWGELKqHb4J/TTrX5G6UoqAl36N3cv38uo1V/MqInxmyCSWD4McPAD70/7T+9HAQhAUqi8uIsmggliexwLfeZjHgRf2jLdipsYYGYdOKbE1;QTDI4I2GVA6keLxp8FWetA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    title: "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office"
+
+secured: "6bP3IDFoiDq0ZPQ1ZarSiGgp8bZ+++W0pbVnmN+YLmHP7yXodCeuWijZuCkCqhjazTRamaqQZfLuCtj4y1VqeDU+QRmwW8YtlDDBGa6TZqyqUwiE1PFDk5JZMFl+xJyNl8I3Rw1+TobWYes7sjph1Madg+Vfo3VaN3k2T3fP6czv3Mr6ZIfiQ+AjklQMuiCrT725+Ozmna0355wGTsVcF8gbbuFi7+qTozr/jarsozb340OqhUxHFwIYRcJLkNWmYFqALhbkD2SkcHZpGOt/eNgMqNUk6ViAdLjC+eav2f2peN3D1yKQnwPkHGppdw9K;jqO/9w9v6kibtpmt7s8HIg=="
 ---
 

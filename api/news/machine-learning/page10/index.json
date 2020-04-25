@@ -1,0 +1,1285 @@
+{
+  "page": 10,
+  "value": [
+    {
+      "path": "_news/2020-01-29-jetbrains-taps-machine-learning-for-full-line-code-completion.md",
+      "title": "JetBrains taps machine learning for full-line code completion",
+      "excerpt": "JetBrains has laid out a 2020 roadmap for IntelliJ IDEA and its IntelliJ-based IDEs. The promised new capabilities range from additional machine learning driven code completion to collaborative editing. The company said the additional machine learning based code completion capabilities would make better use of the context for ranking ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.amp.html",
+      "publishedDateTime": "2020-01-29T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/10/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-large.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "JetBrains taps machine learning for full-line code completion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354.md",
+      "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
+      "excerpt": "The overall machine learning as a service market worldwide was valued at US$ 1,117.9 Mn in 2018 and is set to grow with a CAGR of 35.4% during the forecast period. Rapid technological advancements and the growing adoption of cloud-based technologies worldwide are primarily driven by the Machine Learning As A Service market.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354-2020-01-29",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products.md",
+      "title": "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products",
+      "excerpt": "The good news is that the same machine learning technologies utilized within these large organizations are offered to the general public by various providers, such as AWS, Google Cloud Platform and Azure — for a fee, of course. At AWS re:Invent 2019, there was a clear, overarching theme: machine learning. And not just machine learning ...",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/amp/",
+      "publishedDateTime": "2020-01-29T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1165431212/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-maine-to-build-institute-to-teach-tech-skills-machine-learning.md",
+      "title": "Maine to Build Institute to Teach Tech Skills, Machine Learning",
+      "excerpt": "We really see that [as] a great opportunity.” (TNS) — Wex uses machine learning and artificial intelligence in its day-to-day operations. At its call centers, the payment processing firm uses speech recognition technology to route calls. When monitoring accounts for fraud risk, the company uses sophisticated data analysis built by algorithm.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html",
+      "ampWebUrl": "https://www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html?AMP",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html?AMP",
+      "publishedDateTime": "2020-01-28T16:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/Cuyahoga+County+OZ.JPG",
+          "width": 2048,
+          "height": 1582,
+          "title": "Maine to Build Institute to Teach Tech Skills, Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai.md",
+      "title": "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI",
+      "excerpt": "Most exciting of all is that the tiny 18-person team has some very novel takes on deep learning forms of AI, the product of seasoned vets in machine learning technology and products. This is no me ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
+      "publishedDateTime": "2020-01-28T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/28/52508ce2-f9c8-402a-b6b2-8a1250faa0f2/binduheadshot6.jpg",
+          "width": 940,
+          "height": 512,
+          "title": "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-advantages-of-machine-learning-and-data-analytics-courses.md",
+      "title": "Advantages of Machine Learning and Data Analytics Courses",
+      "excerpt": "Advantages of Machine Learning and Data Analytics Courses: Considering that the data enormity is consistently on the rise, the urgent need to figure out such methods that can help to gain valuable insights on the same can be felt. As a result, the demand for professionals with adequate data science skills cannot be neglected. There is no ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/",
+      "ampWebUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
+      "cdnAmpWebUrl": "https://www-newznew-com.cdn.ampproject.org/c/s/www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
+      "publishedDateTime": "2020-01-27T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seat",
+        "domain": "newznew.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.newznew.com/wp-content/uploads/2020/01/892730_f4e5_3.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Advantages of Machine Learning and Data Analytics Courses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-how-artificial-intelligence-and-machine-learning-produced-robots-we-can-talk-to.md",
+      "title": "How artificial intelligence and machine learning produced robots we can talk to",
+      "excerpt": "You have probably already talked to a robot without even knowing it. But what are chatbots and how do they work? Business Insider explores this growing market.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/chatbots-talking-ai-robot-chat-machine",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-27T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5dfcd92d855cc25a74213a12?width=1200&format=jpeg",
+          "width": 650,
+          "height": 325,
+          "title": "How artificial intelligence and machine learning produced robots we can talk to",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-launchable-applies-machine-learning-to-software-testing.md",
+      "title": "Launchable applies machine learning to software testing",
+      "excerpt": "Startup Launchable, with Kohsuke Kawaguchi, creator of the Jenkins CI/CD platform, as a co-founder, is applying machine learning to software testing. The company’s technology predicts the likelihood of failure for each test given a change in the source code. Still in stealth mode, Launchable is positioned to offer “smarter” testing ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.amp.html",
+      "publishedDateTime": "2020-01-27T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Launchable applies machine learning to software testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-machine-learning-system-uses-images-to-teach-itself-morse-code.md",
+      "title": "Machine Learning System Uses Images To Teach Itself Morse Code",
+      "excerpt": "The blog entry by the delightfully callsigned [Mauri Niininen (AG1LE)] reads like a scientific paper, with good reason: [Mauri] really seems to know a thing or two about machine learning. His method uses curated training data to build a model, namely Morse snippets and their translations, as is the usual approach with such systems. But things ...",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2020/01/27/machine-learning-system-uses-images-to-teach-itself-morse-code/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-27T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/01/shutterstock_1210526857.jpg",
+          "width": 2395,
+          "height": 1349,
+          "title": "Machine Learning System Uses Images To Teach Itself Morse Code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-deep-learning-market-size-worth-us-564272-mn-by-2026.md",
+      "title": "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026",
+      "excerpt": "LOS ANGELES, Jan. 27, 2020 (GLOBE NEWSWIRE) -- The global deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026 and reach the market value of over US$ 56,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-worth-us-564272-mn-by-2026-2020-01-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-27T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-iguazio-raises-24-million-for-ai-development-and-management-tools.md",
+      "title": "Iguazio raises $24 million for AI development and management tools",
+      "excerpt": "AI adoption levels are higher than they’ve ever been in the enterprise. According to a January survey conducted by Gartner, corporate use of AI grew 270% over the past four years. But developing, deploying, and managing AI applications at scale requires a platform that supports doing so, which is what startup company Iguazio provides.",
+      "heat": 311,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/",
+      "publishedDateTime": "2020-01-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Logo_-_updated.jpg?fit=1200%2C627&strip=all",
+          "width": 1200,
+          "height": 627,
+          "title": "Iguazio raises $24 million for AI development and management tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-25-researchers-in-us-china-use-machine-learning-to-make-better-solar-panels.md",
+      "title": "Researchers In US & China Use Machine Learning To Make Better Solar Panels",
+      "excerpt": "This is a companion discussion topic for the original entry at https://cleantechnica.com/2020/01/25/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://businesscomputingworld.co.uk/t/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/244767",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-25T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BCW",
+        "domain": "businesscomputingworld.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg",
+          "width": 512,
+          "height": 512,
+          "title": "Researchers In US & China Use Machine Learning To Make Better Solar Panels",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.md",
+      "title": "GANPaint Studio uses neural network to 'paint' new elements into images",
+      "excerpt": "A team of researchers with IBM Research, MIT CSAIL and MIT-IBM Watson AI Lab has launched a new online tool called GANPaint Studio that utilizes a GAN neural network and semantic brushes to 'draw' entirely new elements into existing images. In the case of this particular tool, the elements include grass, clouds, brick, doors, trees, sky and domes.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images",
+      "ampWebUrl": "https://m.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.amp",
+      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.amp",
+      "publishedDateTime": "2020-01-24T11:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Photography Review",
+        "domain": "dpreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://2.img-dpreview.com/files/p/E~TS590x0~articles/7545535551/original_main.jpeg",
+          "width": 590,
+          "height": 436,
+          "title": "GANPaint Studio uses neural network to 'paint' new elements into images",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud.md",
+      "title": "Cortex Labs helps data scientists deploy machine learning models in the cloud",
+      "excerpt": "It’s one thing to develop a working machine learning model, it’s another to put it to work in an application. Cortex Labs is an early-stage startup with some open-source tooling designed to help data scientists take that last step. The company’s founders were students at Berkeley when they observed that one of the problems around creating ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/",
+      "publishedDateTime": "2020-01-23T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Cortex Labs helps data scientists deploy machine learning models in the cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-sebi-eyes-ai-machine-learning-to-fix-market-manipulation.md",
+      "title": "SEBI eyes AI, machine learning to fix market manipulation",
+      "excerpt": "Meanwhile, the capital markets regulator has also planned a ‘data lake’ project using tools like machine learning, artificial intelligence and big data analysis among other things. Data lake refers to a repository of data that is stored in a very raw or unstructured manner. “Use of advanced technological tools such as artificial ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece",
+      "ampWebUrl": "https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/",
+      "publishedDateTime": "2020-01-23T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "SEBI eyes AI, machine learning to fix market manipulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs.md",
+      "title": "Messy data is slowing down machine learning projects and driving up costs",
+      "excerpt": "A new survey from Trifacta quantified the impact of bad data on machine learning (ML) projects with a third of respondents stating that poor data quality causes ML projects to take longer, cost more and fail to hit the anticipated results. About a third of ...",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/",
+      "publishedDateTime": "2020-01-23T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Messy data is slowing down machine learning projects and driving up costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-what-are-important-ai-machine-learning-trends-for-2020.md",
+      "title": "What are Important AI & Machine Learning Trends for 2020?",
+      "excerpt": "To help you stay well prepared for 2020, we’ve summarized the latest trends across different research areas, including natural language processing, conversational AI, computer vision, and reinforcement learning.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/",
+      "publishedDateTime": "2020-01-22T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e287240a854780006af35ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
+          "width": 1200,
+          "height": 675,
+          "title": "What are Important AI & Machine Learning Trends for 2020?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-how-machine-learning-uncovers-opportunities-for-business-optimization.md",
+      "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
+      "excerpt": "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
+      "publishedDateTime": "2020-01-22T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 494,
+          "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-21-microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers.md",
+      "title": "Microsoft makes performance, speed optimizations to ONNX machine-learning runtime available to developers",
+      "excerpt": "Many of the deep learning models from Microsoft's Project Turing-- machine reading comprehension for the semantic search portion of Microsoft Search -- runs on the ONNX runtime, as well.",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
+      "publishedDateTime": "2020-01-21T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/21/875b8c65-4f5f-486c-8179-9d5bc4aa4d5e/onnxoptimization.jpg",
+          "width": 954,
+          "height": 719,
+          "title": "Microsoft makes performance, speed optimizations to ONNX machine-learning runtime available to developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-21-machine-learning-spam-in-google.md",
+      "title": "Machine Learning Spam in Google",
+      "excerpt": "Spammers are taking advantage of Google Rich Results algorithms in order to place content at the top of Google search. Spammers are taking advantage of machine learning technologies to automatically create video content from web pages and vice versa. The same technology can be used to create text content from podcasts and podcast content from ...",
+      "heat": 159,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/",
+      "ampWebUrl": "https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/",
+      "publishedDateTime": "2020-01-21T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/01/machine-learning-spam-5e26c3c13dc1a.png",
+          "width": 1600,
+          "height": 840,
+          "title": "Machine Learning Spam in Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-20-deep-learning-system-market-to-see-massive-growth-by-2025-google-graphcore-teradeep.md",
+      "title": "Deep Learning System Market to See Massive Growth by 2025 |Google, Graphcore, TeraDeep",
+      "excerpt": "HTF MI recently introduced latest version Global Deep Learning System Market Study 2019. It covered product Scope, Market Share, Size, Revenue, Opportunities, Growth Rate, Sales Growth, Demand, Supply,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-to-see-massive-growth-by-2025-google-graphcore-teradeep-2020-01-20",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-20T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning System Market to See Massive Growth by 2025 |Google, Graphcore, TeraDeep",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-19-dive-into-ai-and-machine-learning-with-this-40-training.md",
+      "title": "Dive into AI and machine learning with this $40 training",
+      "excerpt": "With four courses and over 280 lessons, this bundle will introduce you to the exciting and lucrative world of machine learning and AI The interconnected worlds of machine learning and AI can be found at the heart of some of today's most exciting and important technologies—from quantum computing and Google algorithms to medical innovations and ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/19/ai-and-machine-learning-training/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/",
+      "publishedDateTime": "2020-01-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F8b238210-38a9-11ea-917e-fb2730af35ad%26client%3Da1acac3e1b3290917d92%26signature%3D38805b0262324ddf51afce57692f092fd86987eb&client=amp-blogside-v2&signature=d5a5d6b2ff11988bc4300d6be4722d34508587fa",
+          "width": 600,
+          "height": 350,
+          "title": "Dive into AI and machine learning with this $40 training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-18-silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars.md",
+      "title": "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars",
+      "excerpt": "There’s a child’s riddle that asks you to indicate what can be held in your left hand and yet cannot be held in your right hand. Take a moment to ponder this riddle. Your first thought might be that anything that could be held in your left hand should also be able to be held in your right hand,",
+      "heat": 314,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-01-18T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172913287%2F0x0.jpg%3FcropX1%3D931%26cropX2%3D6060%26cropY1%3D0%26cropY2%3D3415",
+          "width": 1200,
+          "height": 799,
+          "title": "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-18-deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now.md",
+      "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
+      "excerpt": "The reason: they both invest in so-called deep tech, and they meet routinely with startups whose central focus is ... Siraj Khaliq is a partner at the global venture firm Atomico, where he tries to find world-changing startups that are enabled by machine learning, AI, and computer vision. He has strong experience in the area, having cofounded ...",
+      "heat": 66,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
+      "publishedDateTime": "2020-01-17T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/space.jpg?w=1024",
+          "width": 1024,
+          "height": 649,
+          "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-new-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.md",
+      "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
+      "excerpt": "Researchers of the ICAI Group -Computational Intelligence and Image Analysis- of the University of Malaga (UMA) have designed an unprecedented method that is capable of improving brain images obtained through magnetic resonance imaging using artificial intelligence. This new model manages to increase image quality from low resolution to high ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
+      "publishedDateTime": "2020-01-17T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fMagnetic_Resonance_Imaging-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-google-hopes-to-draw-more-cloud-customers-by-making-ai-easier-to-use.md",
+      "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
+      "excerpt": "Google's first Cloud AutoML tool will be for recognizing objects in images. It follows Google's Cloud Machine Learning Engine service and the Cloud Vision application programming interface.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/01/17/google-launches-cloud-automl.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
+      "publishedDateTime": "2020-01-17T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103643296-636_0045.jpg?v=1529471578",
+          "width": 3970,
+          "height": 2652,
+          "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-applying-deep-learning-to-localization-microscopy.md",
+      "title": "Applying Deep Learning to Localization Microscopy",
+      "excerpt": "Two such technologies that can be combined to produce a better understanding of biological systems are localization microscopy and deep learning. Localization microscopy is a recently developed technique that has the potential to transform our understanding of cell function at the molecular level. It provides pin-point accurate information ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx",
+      "publishedDateTime": "2020-01-17T02:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1096541144_80b03e6813c6441f98f150075dcfff1e-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Applying Deep Learning to Localization Microscopy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026.md",
+      "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
+      "excerpt": "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T00:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-apples-latest-deal-shows-how-ai-is-moving-right-onto-devices.md",
+      "title": "Apple's Latest Deal Shows How AI Is Moving Right Onto Devices",
+      "excerpt": "It’s all about keeping an edge in AI ... by adding more AI to the edge. “Machine learning is going to happen at the edge in a big way,” predicts Subhasish Mitra, a professor at Stanford who is working on low-power chips for AI. “The big question is how do you do it efficiently? That requires new hardware technology and design.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/apples-deal-shows-ai-moving-devices/",
+      "ampWebUrl": "https://www.wired.com/story/apples-deal-shows-ai-moving-devices/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/apples-deal-shows-ai-moving-devices/amp",
+      "publishedDateTime": "2020-01-16T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e20d1f9f2f8270008751d36/master/pass/Biz-applemobile-1026919434.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Apple's Latest Deal Shows How AI Is Moving Right Onto Devices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-best-of-arxivorg-for-ai-machine-learning-and-deep-learning-december-2019.md",
+      "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
+      "excerpt": "In this recurring monthly feature, we filter recent research papers appearing on the arXiv.org preprint server for compelling subjects relating to AI, machine learning and deep learning – from disciplines including statistics, mathematics and computer science – and provide you with a useful “best of” list for the past month. Researchers ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidebigdata.com/2020/01/16/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-december-2019/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T19:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2013/12/arxiv.jpg",
+          "width": 450,
+          "height": 380,
+          "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    }
+  ],
+  "nextPage": 11
+}

@@ -1,0 +1,1251 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-04-24-microsoft-office-365-how-these-azure-machine-learning-services-will-make-you-more-productive-and-efficient.md",
+      "title": "Microsoft Office 365: How these Azure machine-learning services will make you more productive and efficient",
+      "excerpt": "Office can now suggest better phrases in Word or entire replies in Outlook, design your PowerPoint slides, and coach you on presenting them. Microsoft built those features with Azure Machine Learning and big models - while keeping your Office 365 data private. The Microsoft Office clients have been getting smarter for several years: the first ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-office-365-how-these-azure-machine-learning-services-will-make-you-more-productive-and-efficient/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-office-365-how-these-azure-machine-learning-services-will-make-you-more-productive-and-efficient/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-office-365-how-these-azure-machine-learning-services-will-make-you-more-productive-and-efficient/",
+      "publishedDateTime": "2020-04-24T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/23/bd257cc5-e6b0-4817-bbcd-b95ebcdf40a3/resize/400x/529012c6be678840cc1a17dd23cb25e0/acronyms-ml.jpg",
+          "width": 400,
+          "height": 516,
+          "title": "Microsoft Office 365: How these Azure machine-learning services will make you more productive and efficient",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-minecraft-machine-learning-and-bots-enter-an-ai-wonderland-with-these-stayathome-workshops.md",
+      "title": "Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops",
+      "excerpt": "The post Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops appeared first on The AI Blog.\n",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/europe/features/minecraft-machine-learning-and-bots-enter-an-ai-wonderland-with-these-stayathome-workshops/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T14:59:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/93/2020/04/Win18b_Consumer_Creativity_Asus_Vivobook_Flip_T203_0194-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-former-fox-cto-joins-microsoft-azures-media-and-entertainment-business.md",
+      "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
+      "excerpt": "Hanno Basse, the former chief technology officer at 20th Century Fox, has been named CTO for Microsoft Azure Media and Entertainment. In his new role, he’s working with entertainment industry customers, partners, industry groups and vendors to create applications for Microsoft’s cloud, edge and AI technologies. His initial focus is ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hollywoodreporter.com/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
+      "ampWebUrl": "https://www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
+      "publishedDateTime": "2020-04-23T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn1.thr.com/sites/default/files/imagecache/768x433/2019/06/hanno_basse-getty-h_2019_.jpg",
+          "width": 768,
+          "height": 433,
+          "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-omnipresence-launches-cxmnowio-for-life-sciences-in-the-microsoft-azure-marketplace.md",
+      "title": "Omnipresence Launches CXMnow.io for Life Sciences in the Microsoft Azure Marketplace",
+      "excerpt": "CXMnow.io in the Azure Marketplace today, an online store providing applications and services for use on Microsoft Azure. The customer experience management (CXM) technology allows life sciences organizations with certain well-defined business needs to sign up online for a built-for-purpose customer engagement capability to use in their commercial or medical operations.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "publishedDateTime": "2020-04-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-how-microsoft-is-using-ai-to-make-the-planet-greener-and-what-other-companies-can-learn-from-its-environmental-game-plan.md",
+      "title": "How Microsoft is using AI to make the planet greener — and what other companies can learn from its environmental game plan",
+      "excerpt": "The company said it gave out 230 grants since launching the initiative. Microsoft also put large government data sets related to the environment on its cloud, Azure, to further help AI developers. And this isn't the first time Microsoft used AI to address climate change. The company gave farmers in India, a country heavily affected by rising ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6",
+      "ampWebUrl": "https://www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6?amp",
+      "publishedDateTime": "2020-04-22T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea05ca35bd7a5652d64a405?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How Microsoft is using AI to make the planet greener — and what other companies can learn from its environmental game plan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview.md",
+      "title": "Google Cloud's Anthos for AWS generally available, Microsoft Azure in preview",
+      "excerpt": "For Google Cloud, Anthos is a differentiator that can bring it more enterprise workloads as it competes with AWS and Azure. Google Cloud chief Thomas Kurian has been touting ... the vendor can have higher-level discussions with customers about machine learning and services like BigQuery. Google Cloud announces Anthos for Telecom, bringing ...",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/21/f845188f-8d56-4277-aab6-a38aaf57c3d6/thumbnail/1200x675/72fd8fe83f620363c3fbf8b8bd32e846/screen-shot-2020-04-07-at-4-35-13-pm.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Google Cloud's Anthos for AWS generally available, Microsoft Azure in preview",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks.md",
+      "title": "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks",
+      "excerpt": "Microsoft's AI masks and infrared temperature 2-in-1 detection device checks people entering ... [+] Cardinal Tien Hospital in Taiwan to make sure they are wearing face masks and whether they have a fever.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/",
+      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/",
+      "publishedDateTime": "2020-04-22T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9e84bcdea8300007de7c4c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-intels-project-corail-monitors-coral-reef-health-with-ai.md",
+      "title": "Intel’s Project Corail monitors coral reef health with AI",
+      "excerpt": "To commemorate Earth Day, Intel — in partnership with Accenture and Sulubaaï Environmental Foundation, a Philippine-based nonprofit dedicated to protecting Palawan’s natural resources — detailed Project Corail, an AI-powered platform that monitors and analyzes the resiliency of coral reefs. Since its launch in May 2019, it’s collected ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
+      "publishedDateTime": "2020-04-21T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/CORaiL_5small-e1587450236227.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Intel’s Project Corail monitors coral reef health with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm.md",
+      "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
+      "excerpt": "Recently, aridamo hospital announced the establishment of XG laboratory. The laboratory is committed to promoting",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm-2020-04-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-the-nba-and-microsoft-plan-to-release-a-new-ai-driven-dtc-streaming-platform.md",
+      "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
+      "excerpt": "The NBA and Microsoft announced a new multiyear partnership aimed at transforming the digital fan experience through a direct-to-consumer platform.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/nba-microsoft-team-up-for-ai-driven-personalized-streaming-platform-2020-4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
+      "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
+      "excerpt": "If your shop is obsessed with mixing AI into your stack, Amazon has almost too many options to consider. There are too many to list. They begin with basic tools like SageMaker for training models to respond to your data. These tools have attracted plenty of developers and that may be why the sales literature brags that “85% of TensorFlow ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.3x2.jpg",
+          "width": 700,
+          "height": 467,
+          "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-microsoft-to-launch-azure-based-streaming-service-for-nba-league.md",
+      "title": "Microsoft to launch Azure-based streaming service for NBA League",
+      "excerpt": "As the Official Technology Partner for the NBA, Microsoft will allow NBA Digital to leverage the power of its Azure platform to give birth to a new, direct-to-consumer platform, which claims to make use of Artificial Intelligence (AI) and Machine Learning (ML). Thanks to the AI and ML, Microsoft hopes to deliver personalized game broadcasts and ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.thewindowsclub.com/microsoft-nba-league-99193/",
+      "ampWebUrl": "https://news.thewindowsclub.com/microsoft-nba-league-99193/amp/",
+      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-nba-league-99193/amp/",
+      "publishedDateTime": "2020-04-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/04/Microsoft-NBA.jpg",
+          "width": 600,
+          "height": 338,
+          "title": "Microsoft to launch Azure-based streaming service for NBA League",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-train-a-deep-learning-image-classification-model-in-azure-with-mlnet-model-builder.md",
+      "title": "Train a deep learning image classification model in Azure with ML.NET Model Builder",
+      "excerpt": "LandUseUWP: Universal Windows Platform (UWP) application that consumes the model to classify satellite map images of locations provided by the user. Eurosat: A novel dataset and deep learning benchmark for land use and land cover classification. Patrick Helber, Benjamin Bischke, Andreas Dengel, Damian Borth. IEEE Journal of Selected Topics in ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/samples/dotnet/machinelearning-samples/mlnet-image-classification-azure-model-builder/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Train a deep learning image classification model in Azure with ML.NET Model Builder",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
+      "title": "Microsoft To Be AI Partner For NBA",
+      "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year partnership between the two parties. As part of their collaboration, Microsoft will become the Official Artificial Intelligence Partner and an Official Cloud and Laptop Partner for the NBA,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17?amp",
+      "publishedDateTime": "2020-04-17T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-nba-microsoft-use-ai-to-create-a-personalized-fan-focused-streaming-service.md",
+      "title": "NBA, Microsoft use A.I. to create a personalized, fan-focused streaming service",
+      "excerpt": "According to a press release, the multiyear collaboration will create a “new, innovative, direct-to-consumer platform” on Microsoft Azure, the company’s framework of cloud services. The streaming service will use machine learning and artificial intelligence to provide personalized game broadcasts and other content. For now, the NBA and ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/",
+      "ampWebUrl": "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp",
+      "publishedDateTime": "2020-04-16T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-microsoft-signs-multiyear-deal-with-the-nba-for-azure-and-surface.md",
+      "title": "Microsoft signs multiyear deal with the NBA for Azure and Surface",
+      "excerpt": "Microsoft has signed a multiyear deal with National Basketball Association (NBA) to become the official AI, cloud, and laptop provider for the league. The deal will see the NBA using Microsoft’s Azure platform to broadcast live and on-demand basketball games,",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/4/16/21223932/microsoft-nba-partnership-deal-azure-surface-details",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/16/21223932/microsoft-nba-partnership-deal-azure-surface-details",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/16/21223932/microsoft-nba-partnership-deal-azure-surface-details",
+      "publishedDateTime": "2020-04-16T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/mwjfKqcPIwq9DgAixwF1mBWKGvk=/0x0:1777x1168/1400x933/filters:focal(747x442:1031x726):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66663808/microsoftnba.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Microsoft signs multiyear deal with the NBA for Azure and Surface",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-pileus-helps-businesses-cut-their-cloud-spend.md",
+      "title": "Pileus helps businesses cut their cloud spend",
+      "excerpt": "Using machine learning, the company’s platform continuously learns about how a user typically uses a given cloud and then provides forecasts and daily personalized recommendations to help them stay within a budget. Pileus currently supports AWS, with support for Google Cloud and Microsoft Azure coming soon. With all of the information it ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
+      "publishedDateTime": "2020-04-15T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/register_mockup_image.27280a96.png",
+          "width": 622,
+          "height": 364,
+          "title": "Pileus helps businesses cut their cloud spend",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing.md",
+      "title": "Microsoft’s New Azure Edge Zones Highlights Opportunity To Combine 5G And Edge Computing",
+      "excerpt": "Microsoft's latest Azure Edge Zone offerings typify the kind of widely distributed, heterogenous computing-focused and modern software-based efforts that 5G networks will start to enable.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bobodonnell/2020/04/15/microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing/",
+      "ampWebUrl": "https://www.forbes.com/sites/bobodonnell/2020/04/15/microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2020/04/15/microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing/amp/",
+      "publishedDateTime": "2020-04-15T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-fareye-raises-25-million-to-orchestrate-deliveries-with-ai.md",
+      "title": "FarEye raises $25 million to orchestrate deliveries with AI",
+      "excerpt": "Additionally, Serve provides delivery progress reports and a drag-and-drop, single-touch interface that lets managers update customer preferences on the fly, alongside an AI-powered chat platform that plugs into existing systems to expedite customer inquiry resolutions. According to CEO Kushal Nahata, the platform handles over 10 million ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/amp/",
+      "publishedDateTime": "2020-04-14T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/FarEye-Team-Picture-feature-e1586805333499.jpg?fit=1059%2C528&strip=all",
+          "width": 1059,
+          "height": 528,
+          "title": "FarEye raises $25 million to orchestrate deliveries with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-microsoft-msft-invests-in-ai-for-health-to-fight-covid-19.md",
+      "title": "Microsoft (MSFT) Invests in AI for Health to Fight COVID-19",
+      "excerpt": "Microsoft MSFT recently announced that it is dedicating $20 million to its AI for Health initiative in an effort to combat the coronavirus pandemic. Launched on Jan 29, the AI for Health initiative was started to empower medical workers and researchers with AI as well as data science capabilities to improve healthcare services around the world.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-invests-in-ai-for-health-to-fight-covid-19-2020-04-14",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-invests-in-ai-for-health-to-fight-covid-19-2020-04-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-invests-in-ai-for-health-to-fight-covid-19-2020-04-14?amp",
+      "publishedDateTime": "2020-04-14T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-a-closer-look-at-microsoft-azure-synapse-analytics.md",
+      "title": "A closer look at Microsoft Azure Synapse Analytics",
+      "excerpt": "Then came AI, which depending on whether it's machine learning or deep learning, has diverging resource requirements. So, bringing the data warehouse together with the data lake is no mean feat. Azure Synapse has attacked the workload issue with a cloud-native architecture that builds on the separation of compute from storage in SQL Data ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-synapse-analytics/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/",
+      "publishedDateTime": "2020-04-14T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/09/ceef9f66-5c03-441e-b01b-07f3d706125b/thumbnail/1200x675/f59cb62c717acfcb85d3f3b1f0d107d5/coronavirus.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "A closer look at Microsoft Azure Synapse Analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform.md",
+      "title": "SiriusIQ Announces Strategic Collaboration With RackWare, Enabling Rapid Adoption of Microsoft Azure Cloud Platform",
+      "excerpt": "The Cloud Correct solution delivers a new level of automation, analytics and AI using the comprehensive Microsoft Azure platform-as-a-service (PaaS) components and quickly adapts to increase the breadth of the customer's on-cloud landscape. \"With RackWare, Cloud Correct can now deliver almost instant value to any system that can benefit ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-1029085316",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-1029085316",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-1029085316",
+      "publishedDateTime": "2020-04-13T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-11-wimi-hologram-cloud-nasdaqwimi-focuses-on-ai-vision-cloud-service-competing-with-google-and-microsoft.md",
+      "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Focuses on AI Vision Cloud Service Competing with Google and Microsoft",
+      "excerpt": "As a global technology giant, Google and Microsoft have been working in the field of artificial intelligence for a long time. Whether it is academic achievements",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15784675/wimi-hologram-cloud-nasdaq-wimi-focuses-on-ai-vision-cloud-service-competing-with-google-and-micr",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15784675",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15784675",
+      "publishedDateTime": "2020-04-10T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.ibb.co/9nGhxnZ/1.png",
+          "width": 554,
+          "height": 307,
+          "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Focuses on AI Vision Cloud Service Competing with Google and Microsoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-infragistics-adds-predictive-analytics-machine-learning-and-more.md",
+      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+      "excerpt": "In addition to its fast, easy integration into any platform or deployment option, Reveal's newest features address the latest trends in data analytics: predictive and advanced analytics, machine learning, R and Python scripting, big data connectors, and much more. These enhancements allow businesses to quickly analyze and gain insights from ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/new-jersey/princeton/infragistics-adds-predictive-analytics-machine-learning-more",
+      "ampWebUrl": "https://patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "publishedDateTime": "2020-04-10T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/961400/20200410/012804/styles/patch_image/public/reveal-update-image-4-20___10132652676.jpg?width=984",
+          "width": 771,
+          "height": 578,
+          "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-using-ai-to-analyze-coronavirus-data.md",
+      "title": "Using AI to analyze coronavirus data",
+      "excerpt": "These are two, 26- petaflop machines that are bridged by the Microsoft Azure C loud. On top of that, we put the C3.ai platform and these universities, they’re in the process right now of allocating an initial, I think, $6 million in research awards to, you know, apply AI to mitigate COVID-19 pandemic. These are genome- specific medical protocols.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/",
+      "ampWebUrl": "https://federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/amp/",
+      "cdnAmpWebUrl": "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/amp/",
+      "publishedDateTime": "2020-04-10T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "federalnewsnetwork.com",
+        "domain": "federalnewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://federalnewsnetwork.com/wp-content/uploads/2020/04/Virus_Outbreak_Spain_55530-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "Using AI to analyze coronavirus data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-heres-how-microsoft-teams-plans-to-use-ai-to-suppress-background-noise.md",
+      "title": "Here’s how Microsoft Teams plans to use AI to suppress background noise",
+      "excerpt": "And then, we see if we use a certain training set, how well does that do on the test set? So ideally yes, I would love to have a training set,” said Aichner. Other issues discussed in the VentureBeat report include building and improving a neural network. The report also looks at how data is moved between Azure and the cloud and the Edge.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.onmsft.com/news/heres-how-microsoft-teams-plans-to-use-ai-to-suppress-background-noise",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "On MSFT",
+        "domain": "onmsft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.onmsft.com/wp-content/uploads/2020/04/Teams-Noise-Supression.png?fit=1024%2C578&ssl=1",
+          "width": 1024,
+          "height": 578,
+          "title": "Here’s how Microsoft Teams plans to use AI to suppress background noise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-microsoft-dedicates-20m-from-ai-for-health-program-to-covid-19-data-analysis.md",
+      "title": "Microsoft dedicates $20M from AI for Health program to COVID-19 data analysis",
+      "excerpt": "John Kahan, Microsoft’s chief data analytics officer, said AI for Health “will collaborate with nonprofits ... which is marshaling supercomputers and cloud platforms such as Microsoft Azure to support coronavirus research. Microsoft also highlighted its partnerships with the University of Washington’s Institute for Health Metrics ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/amp/",
+      "publishedDateTime": "2020-04-09T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/200904-chart2-630x355.jpg",
+          "width": 630,
+          "height": 355,
+          "title": "Microsoft dedicates $20M from AI for Health program to COVID-19 data analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-microsoft-google-strategic-layout-ai-field-wimi-hologram-cloud-nasdaqwimi-ai-algorithm-leading.md",
+      "title": "Microsoft, Google Strategic Layout AI Field, Wimi Hologram Cloud (NASDAQ:WIMI) AI Algorithm Leading",
+      "excerpt": "Although the U.S. is still the leader in absolute numbers, the number of AI related patent applications submitted by Chinese researchers has increased by nearly 200% in recent years. As a global Internet giant Microsoft company,",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/microsoft-google-strategic-layout-ai-field-wimi-hologram-cloud-nasdaqwimi-ai-algorithm-leading-2020-04-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Microsoft, Google Strategic Layout AI Field, Wimi Hologram Cloud (NASDAQ:WIMI) AI Algorithm Leading",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-how-microsoft-teams-will-use-ai-to-filter-out-typing-barking-and-other-noise-from-video-calls.md",
+      "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
+      "excerpt": "Last month, Microsoft announced that Teams, its competitor to Slack, Facebook’s Workplace, and Google’s Hangouts Chat ... But one feature, real-time noise suppression, stood out — Microsoft demoed how the AI minimized distracting background noise during a call. We’ve all been there. How many times have you asked someone to mute ...",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/amp/",
+      "publishedDateTime": "2020-04-09T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/microsoft-teams-real-time-noise-suppression-chips.png?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI",
+        "AI Hardware",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-accelerating-digital-transformation-in-manufacturing.md",
+      "title": "Accelerating digital transformation in manufacturing",
+      "excerpt": "Digital transformation in manufacturing has the potential to increase annual global economic value by $4.5 trillion according to the IDC MarketScape.i With so much upside, manufacturers are looking at how technologies like IoT, machine learning, and artificial intelligence (AI) can be used to optimize",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/accelerating-digital-transformation-in-manufacturing/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T02:00:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d3ef2473-cd90-46d6-a056-b82f9ab7f3c2.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Accelerating digital transformation in manufacturing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    }
+  ],
+  "nextPage": 2
+}

@@ -1,0 +1,1238 @@
+{
+  "page": 2,
+  "value": [
+    {
+      "path": "_news/2020-04-17-microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time.md",
+      "title": "Microsoft: Our new machine learning model spots critical security bugs 97% of the time",
+      "excerpt": "Microsoft claims a machine learning models its built for software developers can distinguish between security and non-security bugs 99% of the time. Microsoft plans to open-source the methodology behind a machine learning algorithm that it claims can distinguish between security bugs and non-security bugs with 99% accuracy. The company ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/",
+      "publishedDateTime": "2020-04-17T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/05/b1b4f0cd-0452-48f5-886c-d3afe0a743dd/thumbnail/1200x675/77fef6207247b1bf98a280183c42a4e5/20200304-larry-bill-coronavirus.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft: Our new machine learning model spots critical security bugs 97% of the time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-everything-you-need-to-know-about-narrow-ai.md",
+      "title": "Everything you need to know about narrow AI",
+      "excerpt": "Symbolic artificial intelligence, also known as good old-fashioned AI (GOFAI), was the ... the kinds of skills we learn by example. This is an area where deep neural networks, the structures used in deep learning algorithms, excel at. They can ingest mountains of data and develop mathematical models that represent the patterns that ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/19/what-is-artificial-narrow-intelligence-narrow-ai-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/19/what-is-artificial-narrow-intelligence-narrow-ai-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/19/what-is-artificial-narrow-intelligence-narrow-ai-syndication/amp/",
+      "publishedDateTime": "2020-04-17T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-24-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Everything you need to know about narrow AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-teslas-acquisition-of-deepscale-starts-to-pay-off-with-new-ip-in-machine-learning.md",
+      "title": "Tesla’s acquisition of DeepScale starts to pay off with new IP in machine learning",
+      "excerpt": "Tesla’s acquisition of machine-learning startup DeepScale is starting to pay off, with the team hired through the acquisition starting to deliver new IP for the automaker. Late last year, it was revealed that Tesla acquired DeepScale, a Bay Area-based startup that focuses on “Deep Neural Network (DNN)” for self-driving vehicles ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/17/tesla-acquisition-deepscale-new-ip-machine-learning/",
+      "ampWebUrl": "https://electrek.co/2020/04/17/tesla-acquisition-deepscale-new-ip-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/17/tesla-acquisition-deepscale-new-ip-machine-learning/amp/",
+      "publishedDateTime": "2020-04-17T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/04/Screen-Shot-2020-04-17-at-5.50.22-AM-e1587128191319.jpg?quality=82&strip=all&w=600",
+          "width": 600,
+          "height": 301,
+          "title": "Tesla’s acquisition of DeepScale starts to pay off with new IP in machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
+      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "publishedDateTime": "2020-04-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
+          "width": 1440,
+          "height": 810,
+          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-pentagon-needs-tools-to-test-the-limits-of-its-artificial-intelligence-projects.md",
+      "title": "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects",
+      "excerpt": "In a request for information this week, the Pentagon’s Joint Artificial Intelligence Center, or JAIC, seeks input on cutting-edge testing and evaluation capabilities to support the “full spectrum” of the Defense Department’s emerging AI technologies, including machine learning, deep learning and neural networks. According to the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/upload/2020/04/16/NGai20200416/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-mindsdb-raises-3-million-for-open-source-automated-machine-learning.md",
+      "title": "MindsDB raises $3 million for open source automated machine learning",
+      "excerpt": "MindsDB today announced it has raised $3 million to grow its automated machine learning platform made for data scientists to quickly train and deploy models. The open source platform has been downloaded more than 250,000 times through Python pip installs or software with a graphic user interface and has been used by 20,000 developers.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/amp/",
+      "publishedDateTime": "2020-04-16T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Adam-Jorge-YCombinator.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "MindsDB raises $3 million for open source automated machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases.md",
+      "title": "New MIT machine learning model shows relaxing quarantine rules will spike COVID-19 cases",
+      "excerpt": "MIT has developed a new model of the spread of COVID-19 infection, based on publicly available data, combined with established epidemiological equations about outbreaks, and neural network-based inference. The model, described in a new report, proves accurate when trained on data spanning late January to early March in terms of anticipating the ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/amp/",
+      "publishedDateTime": "2020-04-16T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1210095941.jpg?w=1024",
+          "width": 1024,
+          "height": 668,
+          "title": "New MIT machine learning model shows relaxing quarantine rules will spike COVID-19 cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever.md",
+      "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
+      "excerpt": "PORTLAND, Ore., April 16, 2020 /PRNewswire/ -- SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a new web-based AutoML tool with a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever/article_35c486af-26f5-5532-8c78-a677135b8da5.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-how-machine-learning-can-keep-sas-retail-shelves-stocked-during-covid-19.md",
+      "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
+      "excerpt": "“Implementing technology with machine learning capabilities will provide retailers with the ability to run insightful analytics and augment this data with trends from other markets already dealing with this crisis. This gives them the ability to predict behaviours and stabilise supply chains,” he says. He adds this information can inform ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itweb.co.za/content/kLgB17e89BPv59N4",
+      "ampWebUrl": "https://amp.itweb.co.za/content/kLgB17e89BPv59N4",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/kLgB17e89BPv59N4",
+      "publishedDateTime": "2020-04-16T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/04/Morne-Laubscher-400X.jpg",
+          "width": 400,
+          "height": 303,
+          "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-walking-robot-uses-neural-net-to-change-gaits.md",
+      "title": "Walking robot uses neural net to change gaits",
+      "excerpt": "Insects rapidly transition between different walking gaits, in response to external stimuli. Scientists have now created a small robot that can do the same thing, utilizing an integrated artificial neural network – the technology might ultimately find use in better-performing prostheses. Known as the NeuroPod, the 3D-printed six-legged robot ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/robotics/neuropod-robot-neural-network-gait/",
+      "ampWebUrl": "https://newatlas.com/robotics/neuropod-robot-neural-network-gait/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/neuropod-robot-neural-network-gait/?amp=true",
+      "publishedDateTime": "2020-04-15T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/2f930f2/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2F4d%2F886754664b47b83cf6b1800fc049%2Fneuropod-1586897755-1.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "Walking robot uses neural net to change gaits",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-jordan-etem-networks-tackles-global-challenges-head-on-with-a-convergence-of-innovations.md",
+      "title": "Jordan Etem Networks Tackles Global Challenges Head-On with a Convergence of Innovations",
+      "excerpt": "With a strong presence in 23 cities and regions worldwide , Jordan Etem Networks leverages computer science, advanced machine learning and artificial intelligence to unify and strengthen neural networks for breakthrough innovation and stronger communities. Jordan Etem Networks goes beyond theoretical application and has a strong and central ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://menafn.com/1100024597/Jordan-Etem-Networks-Tackles-Global-Challenges-Head-On-with-a-Convergence-of-Innovations",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2020-04/14/SN_96c6beb6-bimage_story.jpg",
+          "width": 696,
+          "height": 522,
+          "title": "Jordan Etem Networks Tackles Global Challenges Head-On with a Convergence of Innovations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias.md",
+      "title": "Google’s AutoML Zero lets the machines create algorithms to avoid human bias",
+      "excerpt": "It looks like Google‘s working on some major upgrades to its autonomous machine learning development language ‘AutoML.’ According to a pre-print research paper authored by several of the big ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/amp/",
+      "publishedDateTime": "2020-04-14T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/07/robots-796x433.jpg",
+          "width": 796,
+          "height": 433,
+          "title": "Google’s AutoML Zero lets the machines create algorithms to avoid human bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models.md",
+      "title": "OpenAI launches Microscope to visualize the neurons in popular machine learning models",
+      "excerpt": "In addition to Microscope’s neuron visualizations, several works in recent years have attempted to visualize the activity of machine learning models. Introduced last fall, Facebook’s Captum uses visualizations to explain decisions made by machine learning models, while in March 2019 OpenAI and Google released the activation atlases ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/14/openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models/amp/",
+      "publishedDateTime": "2020-04-14T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/alexnet.png?fit=1234%2C659&strip=all",
+          "width": 1234,
+          "height": 659,
+          "title": "OpenAI launches Microscope to visualize the neurons in popular machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-artificial-intelligence-that-can-evolve-on-its-own-is-being-tested-by-google-scientists.md",
+      "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
+      "excerpt": "It's extremely exciting to see if it can turn up any algorithms that we haven't even thought of yet, the impact of which to our daily lives may be enormous,\" one computer expert told Newsweek.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781",
+      "ampWebUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
+      "publishedDateTime": "2020-04-14T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1581468/stock-math-equations.jpg",
+          "width": 2100,
+          "height": 1428,
+          "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-artificial-intelligence-evolving-by-itself.md",
+      "title": "Artificial Intelligence Evolving By Itself",
+      "excerpt": "Building an AI algorithm takes time. Take neural networks, a common type of machine learning used for translating languages and driving cars. These networks loosely mimic the structure of the brain and learn from training data by altering the strength of connections between artificial neurons. Smaller subcircuits of neurons carry out specific ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tasnimnews.com/en/news/2020/04/14/2243550/artificial-intelligence-evolving-by-itself",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "تسنیم",
+        "domain": "tasnimnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-top-5-things-to-know-about-neuro-symbolic-artificial-intelligence.md",
+      "title": "Top 5 things to know about neuro-symbolic artificial intelligence",
+      "excerpt": "What do you get when you combine neural networks with symbolic AI? The answer is: Neuro-symbolic artificial intelligence. Tom Merritt lists five things you should know about it. You hear a lot about neural networks and deep learning these days. They can do a lot of impressive things like create pictures of cats that never existed and other ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/top-5-things-to-know-about-neuro-symbolic-artificial-intelligence/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/top-5-things-to-know-about-neuro-symbolic-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/top-5-things-to-know-about-neuro-symbolic-artificial-intelligence/",
+      "publishedDateTime": "2020-04-13T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/04/30/5b11ee32-73c2-44a4-8b2b-3e5f9e608f39/resize/1200x/597423bf50db8a7114b211dfeb791671/istock-889289314azure.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Top 5 things to know about neuro-symbolic artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-deltec-bank-bahamas-says-machine-learning-will-transform-the-banking-sector.md",
+      "title": "Deltec Bank, Bahamas says Machine Learning Will Transform the Banking Sector",
+      "excerpt": "Innovation” Machine Learning Uses Three Structures to Produce Improvements – Deltec Bank Machine learning is a prerequisite feature",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15784506/deltec-bank-bahamas-says-machine-learning-will-transform-the-banking-sector",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15784506",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15784506",
+      "publishedDateTime": "2020-04-10T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/7d1cdecfaa1f9896ac0a4752d6ed7d1c.jpg",
+          "width": 600,
+          "height": 352,
+          "title": "Deltec Bank, Bahamas says Machine Learning Will Transform the Banking Sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-infragistics-adds-predictive-analytics-machine-learning-and-more.md",
+      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+      "excerpt": "In addition to its fast, easy integration into any platform or deployment option, Reveal's newest features address the latest trends in data analytics: predictive and advanced analytics, machine learning, R and Python scripting, big data connectors, and much more. These enhancements allow businesses to quickly analyze and gain insights from ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/new-jersey/princeton/infragistics-adds-predictive-analytics-machine-learning-more",
+      "ampWebUrl": "https://patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "publishedDateTime": "2020-04-10T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/961400/20200410/012804/styles/patch_image/public/reveal-update-image-4-20___10132652676.jpg?width=984",
+          "width": 771,
+          "height": 578,
+          "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-new-doe-program-drives-demand-for-machine-learning-programmers.md",
+      "title": "New DoE Program Drives Demand For Machine Learning Programmers",
+      "excerpt": "Machine learning is leading to numerous changes in the energy industry. The Department of Energy recently announced that it is taking steps to accelerate the integration of machine learning technology in energy research and development. The head of the Department of Energy announced that they will be investing $30 million in artificial ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/",
+      "ampWebUrl": "https://www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/amp/",
+      "publishedDateTime": "2020-04-10T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/04/machine-learning-in-energy-sector.jpg",
+          "width": 1000,
+          "height": 676,
+          "title": "New DoE Program Drives Demand For Machine Learning Programmers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-smart-garage-control-with-firebase-automl-vision-edge-and-raspberrypi.md",
+      "title": "Smart Garage Control With Firebase AutoML Vision Edge and RaspberryPi",
+      "excerpt": "After collecting about 400 images in many different conditions, I uploaded them into Firebase AutoML Vision Edge and had it automatically train a model for us. Upload the data to the Firebase console.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/firebase-developers/smart-garage-control-with-firebase-automl-vision-edge-and-raspberrypi-834fa0eaa7c6",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*D_0ACizWrSG-jDfpde6cfQ.png",
+          "width": 1200,
+          "height": 674,
+          "title": "Smart Garage Control With Firebase AutoML Vision Edge and RaspberryPi",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-automl-in-smart-iot-devices-a-sensiml-whitepaper.md",
+      "title": "AutoML in Smart IoT Devices - A SensiML Whitepaper",
+      "excerpt": "It then discusses automated machine learning workflows (known as \"AutoML\") and reviews the key stages of the development process from modeling to prototyping. Most importantly, the paper also ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automl-in-smart-iot-devices---a-sensiml-whitepaper/article_22257c63-fe2c-5137-a501-0ae8cf11e9f4.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "AutoML in Smart IoT Devices - A SensiML Whitepaper",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-darpa-taps-intel-and-georgia-tech-to-pioneer-a-machine-learning-immune-system.md",
+      "title": "DARPA taps Intel and Georgia Tech to pioneer a machine learning 'immune system'",
+      "excerpt": "In context: The proliferation of machine learning systems in everything for facial recognition systems to autonomous vehicles has come with the risks of attackers figuring out ways to deceive the algorithms. Simple techniques have already worked in test conditions, and researchers are interested in finding ways to mitigate these and other attacks.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html",
+      "publishedDateTime": "2020-04-09T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-09-ts3_thumbs-280.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "DARPA taps Intel and Georgia Tech to pioneer a machine learning 'immune system'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-darpa-snags-intel-to-lead-its-machine-learning-security-tech.md",
+      "title": "DARPA snags Intel to lead its machine learning security tech",
+      "excerpt": "Chip maker Intel has been chosen to lead a new initiative led by the U.S. military’s research wing DARPA, aimed at improving cyber-defenses against deception attacks on machine learning models. Machine learning is a kind of artificial intelligence that allows systems to improve over time with new data and experiences. One of its most common ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/",
+      "publishedDateTime": "2020-04-09T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1158998884.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "DARPA snags Intel to lead its machine learning security tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks.md",
+      "title": "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks",
+      "excerpt": "Intel is the prime contractor in this four-year, multimillion-dollar joint effort to improve cybersecurity defenses against deception attacks on machine learning (ML) models. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200409005168/en/ Intel Labs members demonstrate an example of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://journalstar.com/lifestyles/technology/intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks/article_114d2da4-fffd-595a-b051-2562b0a1c18a.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/f/70/f709e77e-7284-5b9a-bc01-3169b8612fca/5e8f3cee90cb5.image.jpg?crop=728%2C410%2C0%2C118&resize=728%2C410&order=crop%2Cresize",
+          "width": 728,
+          "height": 410,
+          "title": "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-amazons-ai-uses-meta-learning-to-accomplish-related-tasks.md",
+      "title": "Amazon’s AI uses meta learning to accomplish related tasks",
+      "excerpt": "or learning with five examples per new task. But the researchers say those baselines were complementary to their approach, and that they believe combining approaches could yield lower error rates. “In the past decade, deep-learning systems have proven remarkably successful at many artificial-intelligence tasks, but their applications tend to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/amp/",
+      "publishedDateTime": "2020-04-09T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon’s AI uses meta learning to accomplish related tasks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
+      "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+      "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "publishedDateTime": "2020-04-09T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-node-enables-companies-to-build-ai-into-their-applications-products-and-business-processes.md",
+      "title": "Node enables companies to build AI into their applications, products, and business processes",
+      "excerpt": "“Node has built ‘AI for the rest of us’ and is delivering self-service predictions to the market of over 100M companies and fortune 2000 that don’t have the expertise, data or available resources required to implement AI with the existing infrastructure-as-a-service and autoML tools that exist across cloud offerings.” As the first and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.helpnetsecurity.com/2020/04/09/node-self-service-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg",
+          "width": 304,
+          "height": 430,
+          "title": "Node enables companies to build AI into their applications, products, and business processes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-using-nano-scale-spintronics-researchers-aim-to-build-novel-artificial-brain.md",
+      "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
+      "excerpt": "New research project to develop AI hardware; a completely new kind of computer system that mimics how the human brain is built up. Out with CPUs and memory storage, and in with artificial neural networks that can increase computer performance by up to 100,000 times compared to modern supercomputers. Researchers from Aarhus University have just ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/au-uns040820.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/228779_web.jpg",
+          "width": 1440,
+          "height": 2159,
+          "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-when-machines-design-artificial-intelligence-and-the-future-of-aesthetics.md",
+      "title": "When Machines Design: Artificial Intelligence and the Future of Aesthetics",
+      "excerpt": "In a tech report on artificial intelligence, Building Design + Construction explored how Arup had applied a neural network to a light rail design and reduced the number of utility clashes by over 90%, saving nearly 800 hours of engineering. In the same vein, the areas of site and social research that utilize artificial intelligence have been ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArchDaily",
+        "domain": "archdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-machine-learning-market-value-booming-us-768-bn-by-2026.md",
+      "title": "Machine Learning Market Value Booming US$ 76.8 Bn by 2026",
+      "excerpt": "According to the Acumen Research and Consulting, the global Machine Learning market is expected to reach at US$ 76.8 Bn by 2026, along with the projected CAGR of 40.1% from 2020-2026. The published report global Machine Learning market provides a holistic overview of the current market covering the current trends.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-value-booming-us-768-bn-by-2026-2020-04-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning Market Value Booming US$ 76.8 Bn by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    }
+  ],
+  "nextPage": 3
+}

@@ -1,0 +1,1162 @@
+{
+  "page": 2,
+  "value": [
+    {
+      "path": "_news/2020-04-01-acm-prize-in-computing-awarded-to-alphago-developer.md",
+      "title": "ACM Prize in Computing awarded to AlphaGo developer",
+      "excerpt": "Silver is a Professor at University College London and a Principal Research Scientist at DeepMind, a Google-owned artificial intelligence company based in the United Kingdom. Silver is recognized ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/afcm-api033120.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/228188_web.jpg",
+          "width": 720,
+          "height": 813,
+          "title": "ACM Prize in Computing awarded to AlphaGo developer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-huawei-open-sources-tensorflow-competitor-mindspore.md",
+      "title": "Huawei open-sources TensorFlow competitor MindSpore",
+      "excerpt": "Huawei has announced that its framework for AI app development MindSpore is now open source and available on GiHub and Gitee. The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all scenarios across the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/in/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "publishedDateTime": "2020-03-31T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/RYqiU3byPDDFvXMxvn9kNm-1200-80.jpg",
+          "width": 970,
+          "height": 547,
+          "title": "Huawei open-sources TensorFlow competitor MindSpore",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-huawei-open-sources-tensorflow-competitor-mindspore.md",
+      "title": "Huawei open-sources TensorFlow competitor MindSpore",
+      "excerpt": "The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "ampWebUrl": "https://www.techradar.com/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "publishedDateTime": "2020-03-31T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/RYqiU3byPDDFvXMxvn9kNm-1200-80.jpg",
+          "width": 970,
+          "height": 547,
+          "title": "Huawei open-sources TensorFlow competitor MindSpore",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development.md",
+      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration for Machine Learning and Neural Networking Development",
+      "excerpt": "PRWeb/ -- Gumstix®, Inc., a leader in computing hardware for intelligent embedded applications, announced the release of four Edge AI devices designed to meet the demands of machine-learning applications moving massive data from the networks edge.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "publishedDateTime": "2020-03-31T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "TensorFlow",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-huawei-has-open-sourced-an-ai-framework-called-mindspore-to-rival-googles-tensorflow.md",
+      "title": "Huawei has open sourced an AI framework called MindSpore to rival Google’s TensorFlow",
+      "excerpt": "China’s Huawei Technologies Co. Ltd. has open sourced a framework for artificial intelligence-based application development called MindSpore, which was first revealed last year. Huawei developed MindSpore alongside partners including Imperial College London, Peking University and the University of Edinburgh, as well as a Turkish robotics ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/30/huawei-open-sourced-ai-framework-called-mindspore-rival-googles-tensorflow/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/33049627858_9852cfe418_h.jpg",
+          "width": 1390,
+          "height": 926,
+          "title": "Huawei has open sourced an AI framework called MindSpore to rival Google’s TensorFlow",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-agent57-outperforming-the-human-atari-benchmark.md",
+      "title": "Agent57: Outperforming the human Atari benchmark",
+      "excerpt": "Agent57: Outperforming the Human Atari Benchmark",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/nSh9GUWMWjWy1gGLXd8YWf-kqyK1VVI4-mvVihDnUkTPZYF619kUyrXfG0hH9JEZN4y0F9D5zThcQc6t_SE8SDoyaR_6N3M5GwigYLw",
+          "width": 512,
+          "height": 225,
+          "title": "Agent57: Outperforming the human Atari benchmark",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-deploy-your-deep-learning-models-on-iot-devices-using-tensorflow-lite.md",
+      "title": "Deploy your deep learning models on IoT devices using TensorFlow lite",
+      "excerpt": "Let’s see what this lite framework is all about. According to official documentation, TensorFlow Lite helps in deploying our models on mobiles and IoT devices i.e. it converts your TensorFlow ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/datadriveninvestor/deploy-your-deep-learning-models-on-iot-devices-using-tensorflow-lite-99d3ccdfc853?source=---------2------------------",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/565/0*ig0fBXW0W8OfKILY.jpg",
+          "width": 565,
+          "height": 427,
+          "title": "Deploy your deep learning models on IoT devices using TensorFlow lite",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-huawei-open-sources-mindspore-a-framework-for-ai-app-development.md",
+      "title": "Huawei open-sources MindSpore, a framework for AI app development",
+      "excerpt": "Huawei this week announced that MindSpore, a framework for AI app development the company detailed in August 2019, is now available in open source on GitHub and Gitee. The lightweight suite is akin to Google’s TensorFlow and Facebook’s PyTorch, and it scales across devices, edge, and cloud environments, ostensibly lowering the barrier to ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/",
+      "publishedDateTime": "2020-03-30T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/4430f3df-d46f-46c6-9767-ec2c36d7d8ef-e1585576947747.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Huawei open-sources MindSpore, a framework for AI app development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware",
+        "Google AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-nobleai-completes-contributions-to-tensorflow-googles-open-source-framework-for-deep-learning.md",
+      "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
+      "excerpt": "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists, and researchers and enables them to innovate and make discoveries faster, announced that it had completed contributions to TensorFlow, the world’s most popular open-source framework for deep learning created by Google. “Part of Noble’s ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.helpnetsecurity.com/2020/03/30/noble-ai-tensorflow/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg",
+          "width": 304,
+          "height": 430,
+          "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-ai-can-help-scientists-find-a-covid-19-vaccine.md",
+      "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
+      "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/",
+      "ampWebUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
+      "publishedDateTime": "2020-03-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-nobleai-contributes-to-tensorflow-googles-open-source-ai-library-and-the-most-popular-deep-learning-framework.md",
+      "title": "Noble.AI Contributes to TensorFlow, Google's Open-Source AI Library and the Most Popular Deep Learning Framework",
+      "excerpt": "TensorFlow is an end-to-end open source platform for machine learning originally developed by the Google Brain team. Today it is used by more than 60,000 GitHub developers and has achieved more ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/noble-ai-contributes-to-tensorflow-google-s-open-source-ai-library-and-the-most-popular-deep-learning-framework-1029036942",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/noble-ai-contributes-to-tensorflow-google-s-open-source-ai-library-and-the-most-popular-deep-learning-framework-1029036942",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/noble-ai-contributes-to-tensorflow-google-s-open-source-ai-library-and-the-most-popular-deep-learning-framework-1029036942",
+      "publishedDateTime": "2020-03-26T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-tensorflow-deepens-its-advantages-in-the-ai-modeling-wars.md",
+      "title": "TensorFlow deepens its advantages in the AI modeling wars",
+      "excerpt": "TensorFlow remains the dominant AI modeling framework. Most AI (artificial intelligence) developers continue to use it as their primary open source tool or alongside PyTorch, in which they develop most of their ML (machine learning), deep learning, and NLP (natural language processing) models. In the most recent O’Reilly survey on AI ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3534474/tensorflow-deepens-its-advantages-in-the-ai-modeling-wars.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/compet_strategy_win_chess_advantage-100746028-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "TensorFlow deepens its advantages in the AI modeling wars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-ibms-ai-generates-videos-of-chairs-golfers-and-more.md",
+      "title": "IBM’s AI generates videos of chairs, golfers, and more",
+      "excerpt": "While this in and of itself isn’t novel — it’s an acute area of interest for Alphabet’s DeepMind and others — the researchers say the approach produces superior quality videos compared with existing methods. If the claim holds water, their system could be used to synthesize videos on which other AI systems train, supplementing real ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
+      "publishedDateTime": "2020-03-25T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s AI generates videos of chairs, golfers, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-how-to-run-tensorflowjs-on-a-serverless-platform-reusing-models.md",
+      "title": "How to run Tensorflow.js on a serverless platform : reusing models",
+      "excerpt": "In a previous article, we introduced neural networks and TensorFlow framework basics. Today, we present how to convert models developed with Python TensorFlow for use with TensorFlow.js ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/warpjs/how-to-run-tensorflow-js-on-a-serverless-platform-cbdfe9e733b7",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers.md",
+      "title": "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers",
+      "excerpt": "MOUNTAIN VIEW, Calif., March 24, 2020 /PRNewswire/ -- CEVA, Inc. (NASDAQ:CEVA), the leading licensor of wireless connectivity and smart sensing technologies, today announced",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15648647/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15648647",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15648647",
+      "publishedDateTime": "2020-03-24T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-library-of-deep-learning-models-and-datasets-designed-to-make-deep-learning-more-accessible-and-accelerate-ml-research.md",
+      "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
+      "excerpt": "This iPython notebook explains T2T and runs in your browser using a free VM from Google, no installation needed. Alternatively, here is a one-command version that installs T2T, downloads MNIST, trains a model and evaluates it: pip install tensor2tensor ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://github.com/tensorflow/tensor2tensor",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://avatars2.githubusercontent.com/u/15658638?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle.md",
+      "title": "Behringer DeepMind 6 Analog 6-Voice Polyphonic Synth Bundle",
+      "excerpt": "Free shipping to the the 48 Contiguous States. Hawaii and Alaska orders are welcome but may incur an additional shipping charge. Please message us for details if necessary. The standard shipping method on smaller items is USPS Priority and larger items ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/10753498-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-javascript-face-detection-with-face-apijs.md",
+      "title": "JavaScript Face Detection with face-api.js",
+      "excerpt": "The face-api.js JavaScript module implements convolutional neural networks to solve for face detection and recognition of faces and face landmarks. The face-api.js leverages TensorFlow.js and is optimized for the desktop and mobile web. As explained by face-api.js creator Vincent Mühler, face recognition with deep learning is a detailed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/03/face-api-js/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/03/face-api-js/en/headerimage/faceapi-1584401193144.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "JavaScript Face Detection with face-api.js",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-10-ways-googles-deepmind-uses-ai-across-the-globe.md",
+      "title": "10 ways Google's DeepMind uses AI across the globe",
+      "excerpt": "DeepMind has attracted mixed headlines since Google paid $50 million for the U.K.-based AI startup in 2014. The awe inspired by DeepMind's AlphaGo system defeating Go world champion Lee Sedol was soon tempered by criticisms of its controversial access to personal health records, which the ICO ruled had breached the Data Protection Act ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.idginsiderpro.com/article/3533048/10-ways-googles-deepmind-uses-ai-across-the-globe.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idginsiderpro",
+        "domain": "idginsiderpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_neural_networks_technology_brain_by_4x-image_gettyimages_997524096-100817778-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "10 ways Google's DeepMind uses AI across the globe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-how-to-run-tensorflowjs-on-a-serverless-platform.md",
+      "title": "How to run Tensorflow.js on a serverless platform",
+      "excerpt": "In a previous article, we introduced neural networks and TensorFlow framework basics. Today, we present how to use TensorFlow.js, from online models to model conversion, web-based versus server ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/warpjs/how-to-run-tensorflow-js-on-a-serverless-platform-cbdfe9e733b7",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-a-look-at-the-tensorflow-ecosystem-in-2020.md",
+      "title": "A look at the TensorFlow ecosystem in 2020",
+      "excerpt": "TensorFlow Dev Summit 2020 took place last week and gave an overview of everything that’s been going on in the world of the machine learning library. While we have been covering TensorFlow, TensorFlow.js, and the recently open sourced TensorFlow Quantum, you may not yet have heard of TF Hub, TFX or TF Lite, so let’s see what they are all about.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/tensorflow-2020-169727.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/02/MLC_MUN20_Webbanner_Smartblock_550x214_56305_v1.jpg",
+          "width": 550,
+          "height": 214,
+          "title": "A look at the TensorFlow ecosystem in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-tensorflow-gets-its-quantum-of-solace-lid-lifted-on-all-seeing-crime-detecting-ai-upstart-and-more.md",
+      "title": "TensorFlow gets its quantum of solace, lid lifted on 'all-seeing crime-detecting' AI upstart, and more",
+      "excerpt": "Now, the price to attend the digital conference has dropped down to $50 for students and $100 for non-students. New TensorFlow library! If you’re bored at home and ‘social distancing’ from all your friends, family, and colleagues then try this: TensorFlow’s latest library that allows you to build quantum AI models. Your brain will ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/16/ai_roundup_130320/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/16/ai_roundup_130320/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/16/ai_roundup_130320/",
+      "publishedDateTime": "2020-03-16T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/03/13/oracle_bone.jpg",
+          "width": 927,
+          "height": 580,
+          "title": "TensorFlow gets its quantum of solace, lid lifted on 'all-seeing crime-detecting' AI upstart, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-behringer-deepmind-6-polyphonic-analog-synthesizer-cable-kit.md",
+      "title": "Behringer DeepMind 6 Polyphonic Analog Synthesizer CABLE KIT",
+      "excerpt": "***Please note, many of the products we sell are shipped in the manufacturer box. These boxes will often have images, model numbers, and other text that indicate the contents inside. UPS Ground Shipping Most orders are shipped within 1 business day via UPS ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/13643979-behringer-deepmind-6-polyphonic-analog-synthesizer-cable-kit",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-tensorflow-quantum-joins-quantum-computing-and-machine-learning.md",
+      "title": "TensorFlow Quantum Joins Quantum Computing and Machine Learning",
+      "excerpt": "TensorFlow Quantum (TFQ) brings Google quantum computing framework Cirq and TensorFlow together to enable the creation of quantum machine learning (ML) models. We’ve used TensorFlow Quantum for hybrid quantum-classical convolutional neural networks, machine learning for quantum control, layer-wise learning for quantum neural networks ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/03/google-quantum-tensorflow/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/03/google-quantum-tensorflow/en/headerimage/google-quantum-tensorflow-1584182115639.jpeg",
+          "width": 2121,
+          "height": 1414,
+          "title": "TensorFlow Quantum Joins Quantum Computing and Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-tensorflowjs-now-has-a-webassembly-backend.md",
+      "title": "TensorFlow.js now has a WebAssembly backend",
+      "excerpt": "Faster machine learning in the browser: TensorFlow.js combines ML and JavaScript, and now the open source library works with a brand-new WebAssembly backend! It offers an alternative to the WebGL backend to provide benefits in certain use cases.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/tensorflow-js-webassembly-169654.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/03/TensorFlow-WebAssembly.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "TensorFlow.js now has a WebAssembly backend",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-week-in-review-design-low-power.md",
+      "title": "Week In Review: Design, Low Power",
+      "excerpt": "Synopsys revealed DSO.ai (Design Space Optimization AI), an autonomous AI application that searches for optimization targets in very large solution spaces of chip design, inspired by the process of DeepMind’s game-playing AlphaZero. DSO.ai engines ingest ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://semiengineering.com/week-in-review-design-low-power-85/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/05/iStock-509646667-brainchip.jpg?fit=663%2C527&#038;ssl=1",
+          "width": 663,
+          "height": 527,
+          "title": "Week In Review: Design, Low Power",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-behringer-deepmind-12-polyphonic-analog-synth.md",
+      "title": "Behringer DeepMind 12 Polyphonic Analog Synth",
+      "excerpt": "Excellent items are almost entirely free from blemishes and other visual defects and have been played or used with the utmost care.learn more I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/32851741-behringer-deepmind-12-polyphonic-analog-synth",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-elon-musks-best-investments.md",
+      "title": "Elon Musk's Best Investments",
+      "excerpt": "A list of some of Musk's best investments includes PayPal Holdings, Inc. (PYPL), SpaceX, DeepMind (GOOGL), Tesla Inc. (TSLA), and The Boring Company. Musk is the CEO and co-founder of Tesla and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.investopedia.com/articles/investing/031316/elon-musks-5-best-investments-tsla-pypl.asp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.investopedia.com/thmb/116HqdfR7rOQoAhctt4rjgaZYqE=/680x440/filters:fill(auto,1)/ap_507406182676-5bfc3829c9e77c00587a7cc8.jpg",
+          "width": 680,
+          "height": 440,
+          "title": "Elon Musk's Best Investments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth.md",
+      "title": "Behringer DeepMind 6 37-Key 6-Voice Polyphonic Analog Synth",
+      "excerpt": "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/32842704-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-researchers-criticize-opacity-of-googles-mammogram-reading-ai-study.md",
+      "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
+      "excerpt": "Though a study published Jan. 1 describing the success of Google's DeepMind artificial intelligence at diagnosing breast cancer was largely met with praise and excitement, in a Feb. 28 response, a group of AI researchers criticized the study's lack of transparency. In the initial study, Google researchers found the DeepMind AI produced fewer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/researchers-criticize-opacity-of-google-s-mammogram-reading-ai-study.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg",
+          "width": 400,
+          "height": 300,
+          "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    }
+  ],
+  "nextPage": 3
+}

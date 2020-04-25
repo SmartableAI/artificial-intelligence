@@ -1,0 +1,1300 @@
+{
+  "page": 2,
+  "value": [
+    {
+      "path": "_news/2020-04-07-tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training.md",
+      "title": "Tenstorrent reveals Grayskull, an all-in-one system that accelerates AI model training",
+      "excerpt": "Tenstorrent, an AI and machine learning hardware startup based in Toronto, Canada, today emerged from stealth with over $34 million in financing and an all-in-one computer system dubbed Grayskull. Cofounder and CEO Ljubisa Bajic, a former Nvidia senior architect who previously served as director of integrated circuit design at AMD, claims that ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/amp/",
+      "publishedDateTime": "2020-04-07T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Tenstorrent reveals Grayskull, an all-in-one system that accelerates AI model training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed.md",
+      "title": "Honor confirms the Kirin 985 SoC, features and AI benchmark ranking revealed!",
+      "excerpt": "Between October last year and now, Huawei‘s Hisilicon chip department has released two high-end chipsets ... In a Weibo post today, the Honor VP shared the latest AI benchmark ranking with the Kirin 985 in the third spot. The chipset has ahead of it, only the Kirin 990 which is in the first spot and the MediaTek Dimensity 1000 in the second ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/?amp",
+      "publishedDateTime": "2020-04-07T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/kirin-985.jpg",
+          "width": 600,
+          "height": 337,
+          "title": "Honor confirms the Kirin 985 SoC, features and AI benchmark ranking revealed!",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-powering-the-edge-with-ai-in-an-iot-world.md",
+      "title": "Powering The Edge With AI In An IoT World",
+      "excerpt": "The edge has to be powered with more processing power. This will enable enterprises to run AI models at the edge, thereby bringing more intelligence to the edge.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/amp/",
+      "publishedDateTime": "2020-04-06T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-89.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Powering The Edge With AI In An IoT World",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious.md",
+      "title": "Laptops With Big Graphics Cards Are Surging For Reasons That Aren’t Obvious",
+      "excerpt": "It increases the output resolution and extends the battery life. DLSS 2.0 uses dedicated AI processors called Tensor cores. Max-Q Dynamic boost showing the power shift on an RTX 2080 Super laptop, 90W GPU power limit, ... [+] Witcher 3, Max settings, Core i7, 16GB of RAM. Not all laptops will support Max-Q GPUs, but for those laptops that do ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/?ss=consumertech",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/amp/",
+      "publishedDateTime": "2020-04-06T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b4260e2bb0400064288b7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1432%26cropY1%3D0%26cropY2%3D619",
+          "width": 1200,
+          "height": 519,
+          "title": "Laptops With Big Graphics Cards Are Surging For Reasons That Aren’t Obvious",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-nvidia-is-contributing-its-ai-smarts-to-help-fight-covid-19.md",
+      "title": "NVIDIA is contributing its AI smarts to help fight COVID-19",
+      "excerpt": "NVIDIA will add to this by providing expertise in AI, biology and large-scale computing optimizations. NVIDIA is also providing access to its own SaturnV supercomputer, but the primary focus is on its AI experience. The company likened the Consortium’s efforts to the Moon race. Ideally, this will speed up work for scientists who need ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/nvidia-joins-covid-19-consortium-170757511.html",
+      "ampWebUrl": "https://www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html",
+      "publishedDateTime": "2020-04-06T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252F0bdb02a0-77e5-11ea-9dbf-fe1d33f05e47%26client%3Da1acac3e1b3290917d92%26signature%3D339e80f4c01cbfcea068f19c8d953914536d6951&client=amp-blogside-v2&signature=e166ceba169fb26e58c6346bd2eb7c38916320d1",
+          "width": 600,
+          "height": 400,
+          "title": "NVIDIA is contributing its AI smarts to help fight COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-us-economy-and-national-security.md",
+      "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
+      "excerpt": "Other recommendations in the report include: On matters of privacy and ethics, the Commission singles out Clearview AI, a company that scraped billions of images from the web to create a facial recognition system, as an example of invasive AI-powered tech that should be avoided. Tech companies that track the location of individuals ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/amp/",
+      "publishedDateTime": "2020-04-03T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6146265.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-ai-is-greedy-but-we-can-teach-it-to-share.md",
+      "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
+      "excerpt": "Running Artificial Intelligence processes isn’t a lightweight computing operation. The so-called ‘data science workloads’ that AI solutions need to perform processes require more than your average laptop and,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
+      "publishedDateTime": "2020-04-02T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e84b1f12b3ff900068e6813%2F0x0.jpg",
+          "width": 640,
+          "height": 449,
+          "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-nvidia-a-clear-winner-in-otherwise-brutal-quarter-for-chip-makers.md",
+      "title": "Nvidia a clear winner in otherwise brutal quarter for chip makers",
+      "excerpt": "Last week, Needham upgraded the stock to buy, forecasting higher demand for chips used in medical applications, as well as in artificial intelligence applications. Why China’s AI champions must find alternatives to US hardware – and quick Nvidia is up about 14 per cent thus far this year, putting it in the top 10 gainers on the S&P 500.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
+      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
+      "publishedDateTime": "2020-03-31T19:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/01/df04e758-73bd-11ea-ab8f-988daf8efd6f_image_hires_101133.JPG?itok=fw4QshuF&v=1585707099",
+          "width": 1200,
+          "height": 630,
+          "title": "Nvidia a clear winner in otherwise brutal quarter for chip makers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-perceive-claims-20-100x-ai-efficiency-at-the-edge.md",
+      "title": "Perceive Claims 20-100X AI Efficiency At The Edge",
+      "excerpt": "Analyst Karl Freund examines Perceive Corporation's recently unveiled Ergo chip and what it could mean for AI processing at the edge.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/31/perceive-claims-20-100x-ai-efficiency-at-the-edge/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/31/perceive-claims-20-100x-ai-efficiency-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/31/perceive-claims-20-100x-ai-efficiency-at-the-edge/amp/",
+      "publishedDateTime": "2020-03-31T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e839a3c458d700006815131%2F0x0.jpg",
+          "width": 1200,
+          "height": 680,
+          "title": "Perceive Claims 20-100X AI Efficiency At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development.md",
+      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration for Machine Learning and Neural Networking Development",
+      "excerpt": "PRWeb/ -- Gumstix®, Inc., a leader in computing hardware for intelligent embedded applications, announced the release of four Edge AI devices designed to meet the demands of machine-learning applications moving massive data from the networks edge.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "publishedDateTime": "2020-03-31T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "TensorFlow",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-perceive-emerges-from-stealth-with-ergo-edge-ai-chip.md",
+      "title": "Perceive emerges from stealth with Ergo edge AI chip",
+      "excerpt": "On-device computing solutions startup Perceive emerged from stealth today with its first product: the Ergo edge processor for AI inference. CEO Steve Teig claims the chip, which is designed for consumer devices like security cameras, connected appliances, and mobile phones, delivers “breakthrough” accuracy and performance in its class.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
+      "publishedDateTime": "2020-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Perceive emerges from stealth with Ergo edge AI chip",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-huawei-execs-response-to-the-us-limiting-tsmc-chip-supply.md",
+      "title": "Huawei exec’s response to the US limiting TSMC chip supply",
+      "excerpt": "In other words, this will limit the Chinese tech giant’s global chip supply which is integral to its operations since it has its own ... Editor’s Pick: Xiaomi rolls out MIUI 11.0.16.0 Stable Update for Mi 10 Pro in China, Adds AI 8K video recording Xu Zhijun read the report from Reuters and People’s Daily and thinks it endangers the ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/03/31/huawei-execs-response-to-the-us-limiting-tsmc-chip-supply/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/03/31/huawei-execs-response-to-the-us-limiting-tsmc-chip-supply/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/03/31/huawei-execs-response-to-the-us-limiting-tsmc-chip-supply/?amp",
+      "publishedDateTime": "2020-03-31T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2019/05/huawei-logo.jpg",
+          "width": 4122,
+          "height": 2825,
+          "title": "Huawei exec’s response to the US limiting TSMC chip supply",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-how-ai-helped-dominos-improve-pizza-delivery.md",
+      "title": "How AI helped Domino’s improve pizza delivery",
+      "excerpt": "The fact is, AI and ML should be something all industries are looking at, including retail. We are now in the customer service era and small differences in service can make a big difference in market share. This past week Nvidia held a virtual version of its annual GPU Technology Conference (GTC), which has become a showcase for real life AI/ML ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.amp.html",
+      "publishedDateTime": "2020-03-31T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/04/drone-pizza-delivery-thinkstock-100579669-large.jpg",
+          "width": 1200,
+          "height": 1100,
+          "title": "How AI helped Domino’s improve pizza delivery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-samsung-says-chip-factory-worker-tests-positive-for-virus-output-not-affected.md",
+      "title": "Samsung says chip factory worker tests positive for virus, output not affected",
+      "excerpt": "Chip factories have been largely unaffected by the pandemic which started in China ... The Korea Centers for Disease Control and Prevention reported 78 new cases on Monday, at least 13 of whom were people who arrived from abroad. Purchase the China AI Report 2020 brought to you by SCMP Research and enjoy a 20% discount (original price US$ ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
+      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
+      "publishedDateTime": "2020-03-30T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/31/6e4808c2-72f7-11ea-ab8f-988daf8efd6f_image_hires_103108.JPG?itok=6oDRT2cN&v=1585621874",
+          "width": 1200,
+          "height": 630,
+          "title": "Samsung says chip factory worker tests positive for virus, output not affected",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-huawei-has-open-sourced-an-ai-framework-called-mindspore-to-rival-googles-tensorflow.md",
+      "title": "Huawei has open sourced an AI framework called MindSpore to rival Google’s TensorFlow",
+      "excerpt": "China’s Huawei Technologies Co. Ltd. has open sourced a framework for artificial intelligence-based application development called MindSpore, which was first revealed last year. Huawei developed MindSpore alongside partners including Imperial College London, Peking University and the University of Edinburgh, as well as a Turkish robotics ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/30/huawei-open-sourced-ai-framework-called-mindspore-rival-googles-tensorflow/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/33049627858_9852cfe418_h.jpg",
+          "width": 1390,
+          "height": 926,
+          "title": "Huawei has open sourced an AI framework called MindSpore to rival Google’s TensorFlow",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can.md",
+      "title": "Google is using AI to design AI processors much faster than humans can",
+      "excerpt": "At Google, AI algorithms are even being used to design AI chips. This is not a complete design of silicon that Google is dealing with, but a subset of chip design known as placement optimization. This is a time-consuming task for humans. As explained by ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcgamer.com/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/",
+      "ampWebUrl": "https://www.pcgamer.com/amp/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/",
+      "publishedDateTime": "2020-03-30T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dw6iBNHkdr8xXjXPs7tnaW-1200-80.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Google is using AI to design AI processors much faster than humans can",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-huawei-open-sources-mindspore-a-framework-for-ai-app-development.md",
+      "title": "Huawei open-sources MindSpore, a framework for AI app development",
+      "excerpt": "Huawei this week announced that MindSpore, a framework for AI app development the company detailed in August 2019, is now available in open source on GitHub and Gitee. The lightweight suite is akin to Google’s TensorFlow and Facebook’s PyTorch, and it scales across devices, edge, and cloud environments, ostensibly lowering the barrier to ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/",
+      "publishedDateTime": "2020-03-30T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/4430f3df-d46f-46c6-9767-ec2c36d7d8ef-e1585576947747.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Huawei open-sources MindSpore, a framework for AI app development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware",
+        "Google AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge.md",
+      "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
+      "excerpt": "The partnership between NVIDIA and Microsoft creates new opportunities for developers and businesses to develop intelligent solutions for the edge.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
+      "publishedDateTime": "2020-03-29T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e818dad08eb080006522520%2F0x0.jpg",
+          "width": 1000,
+          "height": 733,
+          "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-stuck-at-home-why-not-let-an-edgy-gpu-boosted-slice-of-azure-keep-you-company.md",
+      "title": "Stuck at home? Why not let an edgy, GPU-boosted slice of Azure keep you company?",
+      "excerpt": "The purpose of Azure Stack Edge is to shunt processing out of the cloud to where the local ... The expansion includes the incarnation with the Nvidia T4 Tensor Core GPU, which will allow those with machine learning needs to benefit from the hardware acceleration afforded by the exotic chippery. Naturally, Microsoft is cock-a-hoop about its ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/25/azure_stack_edge_gpu/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/25/azure_stack_edge_gpu/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/25/azure_stack_edge_gpu/",
+      "publishedDateTime": "2020-03-25T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/05/30/lonely.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "Stuck at home? Why not let an edgy, GPU-boosted slice of Azure keep you company?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-next-generation-of-ai-processors-featured-at-linley-spring-processor-conference.md",
+      "title": "Next-Generation of AI Processors Featured at Linley Spring Processor Conference",
+      "excerpt": "The Linley Group Principal Analyst, Linley Gwennap, will present “The Next Generation of AI Processors.” “The virtual format allows us to deliver ... and conferences focused on advanced technologies for chip and system design. The Linley Group is the publisher of the noted Microprocessor Report, a weekly publication.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200325005079/en/Next-Generation-AI-Processors-Featured-Linley-Spring-Processor",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200325005079/en/708301/23/Linley_logo_lrg.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Next-Generation of AI Processors Featured at Linley Spring Processor Conference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu.md",
+      "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
+      "excerpt": "Writing in the company bog, Vole says NVIDIA T4 Tensor Core GPU is used by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. In the blog Vole states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fudzilla.com/news/50538-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/1957140400ab3edd0bca8c79f8bc7bc5_L.jpg",
+          "width": 620,
+          "height": 431,
+          "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge.md",
+      "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
+      "excerpt": "Essentially, NVIDIA T4 Tensor Core GPU is leveraged by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. Microsoft states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the improved Azure ML capabilities.",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/",
+      "publishedDateTime": "2020-03-24T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329620_azure-4_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-ibm-invests-in-ai-hardware.md",
+      "title": "IBM Invests In AI Hardware",
+      "excerpt": "While the IBM hardware business today is limited to POWER and Mainframe chips and systems, the technology giant is quietly building its expertise and capabilities in AI hardware. Where this could end up is anybody’s guess,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/24/ibm-invests-in-ai-hardware/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/24/ibm-invests-in-ai-hardware/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/24/ibm-invests-in-ai-hardware/amp/",
+      "publishedDateTime": "2020-03-24T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7a793610380d0006fc0469%2F0x0.jpg",
+          "width": 745,
+          "height": 489,
+          "title": "IBM Invests In AI Hardware",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-supermicro-accelerates-ai-and-deep-learning-from-the-data-center-to-the-edge-with-new-nvidia-ngc-ready-servers.md",
+      "title": "Supermicro Accelerates AI and Deep Learning from the Data Center to the Edge with New NVIDIA NGC-Ready Servers",
+      "excerpt": "SAN JOSE, Calif., March 24, 2020 /PRNewswire/ -- GTC DIGITAL -- Super Micro Computer, Inc. SMCI, a global leader in enterprise computing, storage, networking...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/supermicro-accelerates-ai-and-deep-learning-from-the-data-center-to-the-edge-with-new-nvidia-ngc-ready-servers-2020-03-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Supermicro Accelerates AI and Deep Learning from the Data Center to the Edge with New NVIDIA NGC-Ready Servers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-artificial-intelligence-ai-chips-market-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2024.md",
+      "title": "Artificial Intelligence (AI) Chips Market boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2024",
+      "excerpt": "Global “Artificial Intelligence (AI) ChipsMarket“ Report 2020report recorddetailed estimation to improvement a",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2024-2020-03-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chips Market boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-nvidias-dlss-2-aims-to-upscale-its-low-res-reputation.md",
+      "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
+      "excerpt": "Nvidia has slowly been climbing out of the reputational pit it dug with the initial release of DLSS, its AI-enhanced technology for upscaling games to run on higher-resolution displays without visual or framerate compromises.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "publishedDateTime": "2020-03-23T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/Mw-doFVfOEHFoIvyaKh_CJJRUms=/756x567/right/middle/2020/03/22/6c4d0e24-e46c-4b83-82e7-06d4766bdd06/nvidia-dlss-2.png",
+          "width": 756,
+          "height": 567,
+          "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-huaweis-new-mid-range-phones-could-have-same-gpu-as-galaxy-s20-update.md",
+      "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
+      "excerpt": "Still, it suggests that the Kirin 820 will offer even better on-device machine learning capabilities. Even if we don’t see a major AI boost, the GPU upgrade suggests that Huawei’s new mid-range phones might be ideal for gaming on a budget. Now, about building out its mobile services and AppGallery.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/",
+      "ampWebUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/huawei-kirin-820-1094618/amp/",
+      "publishedDateTime": "2020-03-19T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/09/Kirin-990-with-Huawei-logo-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-playstation-5-vs-xbox-series-x-which-is-better.md",
+      "title": "PlayStation 5 vs. Xbox Series X: Which Is Better?",
+      "excerpt": "Microsoft has talked up some AI capabilities of the Xbox Series X based on its ability to handle 4-bit and 8-bit integers. It’s not clear if Sony’s RDNA2 GPU has a similar ability. Sony’s claims about the PS5’s more nimble GPU are interesting, but they need to be demonstrated in head-to-head comparisons. Sony has the not-inconsiderable ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.extremetech.com/gaming/307903-playstation-5-vs-xbox-series-x-which-is-better",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2020/03/Xbox-Die-Feature.jpg",
+          "width": 1179,
+          "height": 651,
+          "title": "PlayStation 5 vs. Xbox Series X: Which Is Better?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call.md",
+      "title": "Microsoft can filter out the sound of you eating potato chips on a conference call",
+      "excerpt": "The software giant's trained artificial intelligence software to identify background noise that isn't your voice. Snackers, rejoice. Just in time for us all to be working from home because of the pandemic coronavirus,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
+      "publishedDateTime": "2020-03-19T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/JZSQgmXsYYeJrmdTuLhBplTeIGs=/756x567/2017/03/13/a8a77ece-0a9f-437e-8a76-60905540b98d/chips.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft can filter out the sound of you eating potato chips on a conference call",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-media-alert-supermicro-announces-its-first-gpu-live-forum.md",
+      "title": "Media Alert: Supermicro Announces its First GPU Live Forum",
+      "excerpt": "Sessions will include: GPU Accelerated VDI Solution Powered by NVIDIA vGPU High-Density Computing Blade Servers & GPU Options Intelligent Edge Computing with NVIDIA EGX End-to-End AI with Supermicro's Validated NGC and EGX Platforms Accelerating Distributed DL Training with Optimized GPU Computing Solution Infrastructure Challenges within GPU ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2020-03/49150727-media-alert-supermicro-announces-its-first-gpu-live-forum-008.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    }
+  ],
+  "nextPage": 3
+}

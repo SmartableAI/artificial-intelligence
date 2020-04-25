@@ -1,0 +1,1270 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-04-23-paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision.md",
+      "title": "Paige raises $5 million more from Goldman Sachs to detect cancer with computer vision",
+      "excerpt": "Health care startup Paige has raised an additional $5 million to help diagnose cancer using computer vision trained with clinical imaging data. The idea is to use data sets related to treatment and genomics to train the company’s deep learning networks to detect breast, prostate, and other major cancers. New York-based Paige has raised over ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/",
+      "publishedDateTime": "2020-04-23T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/paige.jpg?fit=1200%2C722&strip=all",
+          "width": 1200,
+          "height": 722,
+          "title": "Paige raises $5 million more from Goldman Sachs to detect cancer with computer vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-lg-cns-trials-facial-payment-service-using-digital-currency.md",
+      "title": "LG CNS trials facial payment service using digital currency",
+      "excerpt": "It will also continue to test AI, cloud, and blockchain technologies to foster new services that promote agile work going forward, it said. In February, the company deployed a facial recognition gate service at its headquarters in Seoul. The gate solution has already been deployed to 26 different gates so far across LG CNS's headquarters ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/lg-cns-trials-facial-payment-service-using-digital-currency/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-cns-trials-facial-payment-service-using-digital-currency/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-cns-trials-facial-payment-service-using-digital-currency/",
+      "publishedDateTime": "2020-04-22T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2014/05/16/26cd255d-1d18-11e4-8c7f-00505685119a/thumbnail/1200x675/f46abd08d51d74b6af6201661736d2d0/samsung-chip-plant-giheung.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "LG CNS trials facial payment service using digital currency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-vietnamese-ai-group-touts-mask-ready-facial-recognition-for-smartphones.md",
+      "title": "Vietnamese AI Group Touts Mask-ready Facial Recognition for Smartphones",
+      "excerpt": "VinAI Research says it has developed facial recognition technology that can identify users wearing masks, and that it will bring the tech to mobile devices. The firm is a subsidiary of the Vietnamese conglomerate Vingroup, which also owns VinSmart, an electronics maker that also produces smartphones. VinAI Research says it is working with ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mobileidworld.com/vietnamese-ai-group-touts-mask-ready-facial-recognition-for-smartphones-104201/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile ID News",
+        "domain": "mobileidworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mobileidworld.com/wp-content/uploads/ani-kolleshi-vu-DaZVeny0-unsplash-1-1024x612.jpg",
+          "width": 1024,
+          "height": 612,
+          "title": "Vietnamese AI Group Touts Mask-ready Facial Recognition for Smartphones",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
+      "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+      "excerpt": "This article originally appeared on VICE News. MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_asia/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "ampWebUrl": "https://www.vice.com/amp/en_asia/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "publishedDateTime": "2020-04-20T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-vietnamese-smartphone-makers-devices-will-offer-mask-facial-recognition.md",
+      "title": "Vietnamese Smartphone Maker’s Devices Will Offer Mask Facial Recognition",
+      "excerpt": "Vingroup’s device unit VinSmart will add facial recognition capabilities to its smartphones that can identify users wearing masks, the company said in an emailed statement.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
+      "publishedDateTime": "2020-04-19T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-19-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
+      "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+      "excerpt": "This article originally appeared on VICE US. MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_au/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "publishedDateTime": "2020-04-19T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-18-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
+      "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+      "excerpt": "This article originally appeared on VICE US. There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of ...",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "ampWebUrl": "https://www.vice.com/amp/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "publishedDateTime": "2020-04-18T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-san-francisco-orders-residents-to-wear-face-masks.md",
+      "title": "San Francisco Orders Residents To Wear Face Masks",
+      "excerpt": "The city joins New York and Los Angeles County in mandating residents and essential workers wear face masks outside their homes.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/amp/",
+      "publishedDateTime": "2020-04-17T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F630811497%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5534%26cropY1%3D300%26cropY2%3D3413",
+          "width": 1200,
+          "height": 675,
+          "title": "San Francisco Orders Residents To Wear Face Masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
+      "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+      "excerpt": "MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of cameras into the facial ...",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "publishedDateTime": "2020-04-17T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-clearview-ai-exposes-source-code-to-controversial-facial-recognition-app-and-company-credentials.md",
+      "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
+      "excerpt": "A researcher found that a misconfiguration allowed anyone to register as a new user and access the database containing Clearview's code regardless of whether they had entered password.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
+      "publishedDateTime": "2020-04-17T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/04/17/19/25231518-0-image-a-2_1587149037389.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-server-screw-up-exposes-clearviews-facial-recognition-ai-software.md",
+      "title": "Server screw-up exposes Clearview’s facial recognition AI software",
+      "excerpt": "Clearview AI is widely seen as a privacy nightmare by the public and even privacy-challenged tech giants like Google. Now, the company has shown that it can’t even take care of its own data, according to a report from TechCrunch. It managed to expose its source code to anyone with an internet connection due to a server misconfiguration ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/clearview-ai-source-code-security-lapse-092558647.html",
+      "ampWebUrl": "https://www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html",
+      "publishedDateTime": "2020-04-17T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F28ce59d0-8081-11ea-bdfc-a85012ce4b5d&client=amp-blogside-v2&signature=f9db85aae85bfe0ff86ffd4d1d3a741e271a4252",
+          "width": 600,
+          "height": 350,
+          "title": "Server screw-up exposes Clearview’s facial recognition AI software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-former-fbi-agent-of-25-years-explains-how-to-speed-read-body-languagenow-that-were-wearing-face-masks.md",
+      "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
+      "excerpt": "Our facial expressions reflect our current emotional conditions. But now that many of us are required to wear face masks (to prevent the spread of coronavirus), detecting each other's thoughts and feelings can be tricky.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
+      "publishedDateTime": "2020-04-16T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106490292-1586980001137gettyimages-1154813597.jpg?v=1586980056",
+          "width": 6720,
+          "height": 4480,
+          "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-apple-facial-recognition-to-secure-more-products.md",
+      "title": "Apple facial recognition to secure more products",
+      "excerpt": "Biometrics could get another big mainstream boost as Apple facial recognition is being considered for future versions of iMac and MacBook computers. That describes at least some of the thought bouncing around in recent weeks after news broke that Apple has filed a U.S. patent application related to deploying facial recognition to a broader part ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.secureidnews.com/news-item/apple-facial-recognition-to-secure-more-products/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "secureidnews.com",
+        "domain": "secureidnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.secureidnews.com/wp-content/uploads/2020/04/apple-facial-recognition.png",
+          "width": 610,
+          "height": 292,
+          "title": "Apple facial recognition to secure more products",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-vulcan-capital-invests-in-mobile-sports-game-maker-nifty-games-and-computer-vision-startup-aireverie.md",
+      "title": "Vulcan Capital invests in mobile sports game maker Nifty Games and computer vision startup AI.Reverie",
+      "excerpt": "Nifty Games, a San Francisco-based startup that develops mobile sports games, announced a $12 million investment round. Founded in 2018 by gaming veterans, the company is developing “clash-style” mobile games for sports fans, similar to Clash Royale. It has licensing partnerships with the NFL and NBA, a key differentiator. “Sports games ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/",
+      "ampWebUrl": "https://www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/amp/",
+      "publishedDateTime": "2020-04-15T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/aireverie_cities-630x354.png",
+          "width": 630,
+          "height": 354,
+          "title": "Vulcan Capital invests in mobile sports game maker Nifty Games and computer vision startup AI.Reverie",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
+      "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
+      "excerpt": "The Australian Federal Police (AFP) has admitted to using a facial recognition tool, despite not having an appropriate legislative framework in place, to help counter child exploitation. Australia’s encryption laws: An insider’s guide Australia now has world-first encryption laws. This guide explains what the laws can do, what they cannot ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "publishedDateTime": "2020-04-14T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/16/43dce3ec-8083-443a-b027-321bdeafee8c/thumbnail/1200x675/cdefb4be9dbcbf757b2c3cad0ac932ec/afp-used-clearview-ai-facial-recognition-5e97a875b3157671f8b01e1d-1-apr-16-2020-6-30-34-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-computer-vision-ai-safeguard-atms.md",
+      "title": "Computer Vision & AI Safeguard ATMs",
+      "excerpt": "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-cyberlink-faceme-ai-facial-recognition-earns-997-accuracy-rate-high-ranking-on-industry-leading-nist-leaderboard.md",
+      "title": "CyberLink FaceMe® AI Facial Recognition Earns 99.7% Accuracy Rate, High Ranking on Industry-Leading NIST Leaderboard",
+      "excerpt": "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, announced its FaceMe® AI facial recognition engine has achieved prominent ranking on the NIST FRVT 1:1 (Facial Recognition Vender Test),",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.register-herald.com/region/cyberlink-faceme-ai-facial-recognition-earns-99-7-accuracy-rate-high-ranking-on-industry-leading/article_9360a84b-308d-5ff1-b47e-3d5f834b5a79.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/b/67/b67f2373-6b7b-5ed1-b823-f80aa3577cc5/5e8b2b98c13e3.image.jpg?resize=1200%2C589",
+          "width": 1200,
+          "height": 589,
+          "title": "CyberLink FaceMe® AI Facial Recognition Earns 99.7% Accuracy Rate, High Ranking on Industry-Leading NIST Leaderboard",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-hainan-rolls-out-face-scanning-machines-for-public-services-as-china-pushes-digital-infrastructure.md",
+      "title": "Hainan rolls out face-scanning machines for public services as China pushes digital infrastructure",
+      "excerpt": "A new 24-hour service is within reach with a face scan – in China. Authorities in the southern, island province of Hainan have launched facial recognition-backed public services, enabling citizens to attend to government-related matters without having to queue up for manual assistance during office hours. A total of 350 “public ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/article/3079624/hainan-rolls-out-face-scanning-machines-public-services-china-pushes-digital",
+      "ampWebUrl": "https://amp.scmp.com/tech/article/3079624/hainan-rolls-out-face-scanning-machines-public-services-china-pushes-digital",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3079624/hainan-rolls-out-face-scanning-machines-public-services-china-pushes-digital",
+      "publishedDateTime": "2020-04-13T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/13/107abe84-7d50-11ea-8736-98edddd9b5ca_image_hires_180925.JPG?itok=eGFvmZt-&v=1586772572",
+          "width": 1200,
+          "height": 630,
+          "title": "Hainan rolls out face-scanning machines for public services as China pushes digital infrastructure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-israeli-military-grade-biometric-facial-recognition-works-with-face-masks.md",
+      "title": "Israeli military-grade biometric facial recognition works with face masks",
+      "excerpt": "Advanced biometric facial recognition technology developed for Israeli law enforcement and intelligence agencies to capture escaping criminals is now used to identify healthcare professionals that need to wear medical face masks for protection, writes The Jerusalem Post. The technology was built by Corsight, a subsidiary of Cortica, a company ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.biometricupdate.com/202004/israeli-military-grade-biometric-facial-recognition-works-with-face-masks",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg",
+          "width": 640,
+          "height": 260,
+          "title": "Israeli military-grade biometric facial recognition works with face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-facial-recognition-guide-from-vpn-compare-presents-incomplete-picture.md",
+      "title": "Facial recognition guide from VPN Compare presents incomplete picture",
+      "excerpt": "As the Electronic Frontier Foundation has said, facial recognition is “one of the most pervasive surveillance technologies” across the globe. Indeed. It is an industry estimated to continued to increase with an expected worth of upwards of $15 billion by 2025. But now comes “the ultimate” handbook: Facial Recognition: An Ultimate Guide ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.biometricupdate.com/202004/facial-recognition-guide-from-vpn-compare-presents-incomplete-picture",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg",
+          "width": 640,
+          "height": 260,
+          "title": "Facial recognition guide from VPN Compare presents incomplete picture",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-watching-a-computer-identify-objects-in-a-movie-trailer-is-entertaining-as-hell.md",
+      "title": "Watching a Computer Identify Objects in a Movie Trailer Is Entertaining as Hell",
+      "excerpt": "Strangely, it would look a lot like object recognition software. Støj, a Copenhagen coding studio, ran the trailer for The Wolf of Wall Street through an object-detection algorithm that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/watching-an-algorithm-try-to-decode-a-movie-trailer-is-1791288059",
+      "ampWebUrl": "https://gizmodo.com/watching-an-algorithm-try-to-decode-a-movie-trailer-is-1791288059/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/watching-an-algorithm-try-to-decode-a-movie-trailer-is-1791288059/amp",
+      "publishedDateTime": "2020-04-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/f_auto/jsggjaht1igdkiauxrc9.jpg",
+          "width": 640,
+          "height": 304,
+          "title": "Watching a Computer Identify Objects in a Movie Trailer Is Entertaining as Hell",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-darpa-taps-intel-and-georgia-tech-to-pioneer-a-machine-learning-immune-system.md",
+      "title": "DARPA taps Intel and Georgia Tech to pioneer a machine learning 'immune system'",
+      "excerpt": "In context: The proliferation of machine learning systems in everything for facial recognition systems to autonomous vehicles has come with the risks of attackers figuring out ways to deceive the algorithms. Simple techniques have already worked in test conditions, and researchers are interested in finding ways to mitigate these and other attacks.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html",
+      "publishedDateTime": "2020-04-09T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-09-ts3_thumbs-280.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "DARPA taps Intel and Georgia Tech to pioneer a machine learning 'immune system'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-darpa-snags-intel-to-lead-its-machine-learning-security-tech.md",
+      "title": "DARPA snags Intel to lead its machine learning security tech",
+      "excerpt": "Chip maker Intel has been chosen to lead a new initiative led by the U.S. military’s research wing DARPA, aimed at improving cyber-defenses against deception attacks on machine learning models. Machine learning is a kind of artificial intelligence that allows systems to improve over time with new data and experiences. One of its most common ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/",
+      "publishedDateTime": "2020-04-09T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1158998884.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "DARPA snags Intel to lead its machine learning security tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-facial-recognition-is-no-match-for-face-masks-but-things-are-changing-fast.md",
+      "title": "Facial recognition is no match for face masks, but things are changing fast",
+      "excerpt": "But it could also throw a wrench in a number of facial recognition applications, including those used to unlock smartphones. Less than a year old, Google’s facial recognition system on Pixel 4 smartphones is built to recognize a person even if they’ve shaved their beard or are wearing sunglasses, but Face Unlock for Pixel 4 is rendered ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/08/facial-recognition-is-no-match-for-face-masks-but-things-are-changing-fast/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/08/facial-recognition-is-no-match-for-face-masks-but-things-are-changing-fast/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/08/facial-recognition-is-no-match-for-face-masks-but-things-are-changing-fast/amp/",
+      "publishedDateTime": "2020-04-08T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/facial-recognition-face-mask.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Facial recognition is no match for face masks, but things are changing fast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-creepy-face-recognition-firm-clearview-ai-sure-has-a-lot-of-ties-to-the-far-right.md",
+      "title": "Creepy Face Recognition Firm Clearview AI Sure Has a Lot of Ties to the Far Right",
+      "excerpt": "Clearview AI, the dystopian face recognition company that claims to have amassed a database of billions of photos, signed contracts with hundreds of law enforcement agencies, and shopped its app around to the rich and powerful, has extensive links to the far right, according to a Huffington Post investigation. In fact, one of its associates ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/creepy-face-recognition-firm-clearview-ai-sure-has-a-lo-1842740604",
+      "ampWebUrl": "https://gizmodo.com/creepy-face-recognition-firm-clearview-ai-sure-has-a-lo-1842740604/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/creepy-face-recognition-firm-clearview-ai-sure-has-a-lo-1842740604/amp",
+      "publishedDateTime": "2020-04-07T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Creepy Face Recognition Firm Clearview AI Sure Has a Lot of Ties to the Far Right",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update.md",
+      "title": "Pixel 4 Face Unlock can finally require eyes to be open in April update",
+      "excerpt": "The Pixel 4 may have one of the more advanced hardware in that market but it had one very peculiar misfeature. While the Pixel 4’s face recognition was proven to be quite accurate, it may have been too accurate to the extent that it can recognize and authorize faces even with their eyes closed. Although it can’t be fooled by photos ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/",
+      "ampWebUrl": "https://www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/amp/",
+      "publishedDateTime": "2020-04-06T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/google-pixel-4-30.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "Pixel 4 Face Unlock can finally require eyes to be open in April update",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027.md",
+      "title": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027",
+      "excerpt": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology (2D, 3D), By Application (Emotion Recognition, Attendance Tracking & Monitoring), By End Use, And Segment Forecasts, 2020 - 2027 Read the full report:  The global facial recognition market size is expected to reach USD 9.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324",
+      "publishedDateTime": "2020-04-06T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-04-the-global-face-recognition-market-is-expected-to.md",
+      "title": "The Global Face Recognition Market is expected to...",
+      "excerpt": "Reportlinker.com announces the release of the report \"Face Recognition Market Research Report by Type , by Computing ,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/g15793277/the-global-face-recognition-market-is-expected-to-grow-from-usd-3-546-56-million-in-2019-to-usd-9-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15793277",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15793277",
+      "publishedDateTime": "2020-04-03T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-computer-vision-and-coronavirus-pandemic.md",
+      "title": "Computer Vision and CoronaVirus Pandemic",
+      "excerpt": "This technology is called “computer vision” and it is applied in many spheres of life, for example, in medicine. Computer vision is used for: Segmentation of MRI images. The layout of MRI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/taqadam/computer-vision-and-coronavirus-pandemic-e5fb6e83f9f7",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1197/0*uLVocH9TkD-9xChT.png",
+          "width": 1197,
+          "height": 1199,
+          "title": "Computer Vision and CoronaVirus Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-washington-state-passes-new-facial-recognition-legislation.md",
+      "title": "Washington state passes new facial recognition legislation",
+      "excerpt": "Microsoft has long been calling for stricter regulation of facial recognition technology, and now is revealing the progress it has made since its 2018 call for the government to publicly regulate the technology. Since their public call in 2018, a number of countries have banned or put moratoriums on the use of the technology, but none have ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/msft/washington-state-passes-new-facial-recognition-legislation/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/04/blackbackground.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Washington state passes new facial recognition legislation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    }
+  ],
+  "nextPage": 2
+}

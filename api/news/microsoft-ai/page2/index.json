@@ -1,0 +1,1254 @@
+{
+  "page": 2,
+  "value": [
+    {
+      "path": "_news/2020-04-07-blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation.md",
+      "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+      "excerpt": "BlackRock and Microsoft Corp. have formed a strategic partnership to host BlackRock’s Aladdin infrastructure on the Microsoft Azure cloud platform,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation-2020-04-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-ibm-is-getting-ready-to-fight-for-a-place-in-the-cloud-universe.md",
+      "title": "IBM Is Getting Ready To Fight For A Place In The Cloud Universe",
+      "excerpt": "It all started when International Business Machines Corporation (NYSE: IBM) joined forces with the open-source software giant Red Hat. The deal was closed in July 2019,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/markets/20/04/15757392/ibm-is-getting-ready-to-fight-for-a-place-in-the-cloud-universe",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/carson-masterson-0mxw-dvulok-unsplash_1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "IBM Is Getting Ready To Fight For A Place In The Cloud Universe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-intel-pledges-50m-to-help-fight-covid-19.md",
+      "title": "Intel pledges $50m to help fight COVID-19",
+      "excerpt": "The University of Sydney has used Microsoft cognitive services to build the \"AI-infused bot\" that has been tackling between 200 and 400 individual student inquiries daily. Microsoft said each student is typically asking two to three questions. It said the bot provides the most appropriate answer to the question and, where necessary, directs the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "publishedDateTime": "2020-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/15/d734a519-076b-4e3d-8bfe-63dde72da3b4/thumbnail/1200x675/c14f1f558417c2eb9f6962e04f2a29df/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Intel pledges $50m to help fight COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-introducing-incremental-enrichment-in-azure-cognitive-search.md",
+      "title": "Introducing incremental enrichment in Azure Cognitive Search",
+      "excerpt": "Incremental enrichment is a new feature of Azure Cognitive Search that brings a declarative approach to indexing your data. When incremental enrichment is turned on, document enrichment is performed at the least cost, even as your skills continue to evolve. Indexers in Azure Cognitive Search add documents",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/introducing-incremental-enrichment-in-azure-cognitive-search/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T02:00:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/11209cb0-9fc2-4d87-8210-62744f0df29a.png",
+          "width": 883,
+          "height": 462,
+          "title": "Introducing incremental enrichment in Azure Cognitive Search",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-microsoft-university-of-sydney-collaborate-to-build-ai-infused-corona-chatbot.md",
+      "title": "Microsoft, University of Sydney collaborate to build AI-infused Corona chatbot",
+      "excerpt": "The University of Sydney says it has used Microsoft cognitive services to build an AI-infused bot in “double-quick time” that responds to student enquiries about COVID-19 and provides instant answers to many of their questions. According to Microsoft, the bot has been tackling between 200 and 400 individual student inquiries daily ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itwire.com/health/microsoft,-university-of-sydney-collaborate-to-build-ai-infused-corona-chatbot.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itwire.com/media/k2/items/cache/d3fc9082cdb7c699769ec4932d2f1b6f_M.jpg",
+          "width": 375,
+          "height": 250,
+          "title": "Microsoft, University of Sydney collaborate to build AI-infused Corona chatbot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-university-of-sydney-builds-ai-infused-corona-chatbot-to-support-students-with-covid-19-queries.md",
+      "title": "University of Sydney builds AI-infused Corona Chatbot to support students with COVID-19 queries",
+      "excerpt": "The University of Sydney has used the Microsoft cognitive services to build an AI-infused bot in double-quick time that responds to student enquiries about COVID-19 and provides instant answers to many of their questions. The bot has been tackling between ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/en-au/features/university-of-sydney-builds-ai-infused-corona-chatbot-to-support-students-with-covid-19-queries/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/04/5e8b9ea32bdd0-5e8b9ea32bdd31280px-Main_Quadrangle_University_of_Sydney.jpg-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "University of Sydney builds AI-infused Corona Chatbot to support students with COVID-19 queries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-microsofts-cto-wants-to-spread-techs-wealth-beyond-the-coasts.md",
+      "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
+      "excerpt": "The post Microsoft’s CTO wants to spread tech’s wealth beyond the coasts appeared first on The AI Blog.\n",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fastcompany.com/90485120/microsofts-cto-wants-to-spread-big-techs-wealth-to-the-heartland",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T11:06:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/04/p-1-american-dream-kevin-scott.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-microsoft-azure-speech-to-text-review.md",
+      "title": "Microsoft Azure Speech to Text review",
+      "excerpt": "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/au/reviews/microsoft-azure-speech-to-text-review",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft Azure Speech to Text review",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-cognitive-computing-market-extrapolated-to-obtain-775-billion-by-2025.md",
+      "title": "Cognitive Computing Market extrapolated to obtain $77.5 billion by 2025",
+      "excerpt": "Cognitive solutions enable large enterprises ... key players offering cognitive computing solutions and services. The major vendors Microsoft (US), Google (US), IBM (US), Numenta (US), SAS ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2000407/cognitive-computing-market-extrapolated-to-obtain-77-5",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-04-3-high-yield-tech-stocks-to-buy-in-april.md",
+      "title": "3 High-Yield Tech Stocks to Buy in April",
+      "excerpt": "As more people work from home, stream media, and use cloud-based services, data centers must expand their ... IBM's new CEO Arvind Krishna, who previously led the higher-growth Cloud and Cognitive Software unit, could also expand Big Blue's public cloud business to challenge Amazon and Microsoft. Those changes could offset the slower growth ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/3-high-yield-tech-stocks-to-buy-in-april-2020-04-04",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-high-yield-tech-stocks-to-buy-in-april-2020-04-04?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-high-yield-tech-stocks-to-buy-in-april-2020-04-04?amp",
+      "publishedDateTime": "2020-04-04T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-a-conversation-with-kevin-scott-author-of-reprogramming-the-american-dream.md",
+      "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
+      "excerpt": "The post A conversation with Kevin Scott, author of “Reprogramming the American Dream” appeared first on The AI Blog.\n",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/kevin-scott-reprogramming-the-american-dream/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T11:04:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/04/kevin-scott-reporgramming-the-american-dream-rural-virginia_1200x630-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-infragistics-adds-predictive-analytics-machine-learning-and-more-to-reveal-embedded-business-intelligence-tool.md",
+      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More to Reveal Embedded Business Intelligence Tool",
+      "excerpt": "Reveal's new machine learning feature identifies and visually displays predictions from user data to enable more educated business-decision making. Reveal reads data from Microsoft Azure and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/04/03/2011600/0/en/Infragistics-Adds-Predictive-Analytics-Machine-Learning-and-More-to-Reveal-Embedded-Business-Intelligence-Tool.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-clinical-ai-startup-jvion-launches-covid-community-vulnerability-map.md",
+      "title": "Clinical AI startup Jvion launches COVID community vulnerability map",
+      "excerpt": "In an effort to help flatten the curve in the coronavirus pandemic, clinical AI startup Jvion has launched the COVID Community Vulnerability Map, a free, publicly available tool that identifies populations—down to the census block level—that are likely to experience severe outcomes requiring hospitalization if they contract the virus.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/clinical-ai-startup-jvion-launches-covid-community-vulnerability-map/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/clinical-ai-startup-jvion-launches-covid-community-vulnerability-map/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/clinical-ai-startup-jvion-launches-covid-community-vulnerability-map/",
+      "publishedDateTime": "2020-04-03T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/03/75ed8f15-e5a5-49f5-9892-df69b2755c95/resize/1200x/6cb7e80e70af315b753960d372303a21/jvion-shot-2020-04-03-at-11-09-35-am.png",
+          "width": 1200,
+          "height": 975,
+          "title": "Clinical AI startup Jvion launches COVID community vulnerability map",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-azure-cognitive-services-get-all-new-natural-text-to-speech-voices.md",
+      "title": "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices",
+      "excerpt": "Microsoft’s Azure Cognitive Services has received three new voice styles for application in various text-to-speech environments. The AI API and SDK suite now has specific voices for customer service, newscasting, and digital assistants, with each promised to sound natural, reliable, and expressive. The Cognitive Services capabilities build on ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/",
+      "ampWebUrl": "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/",
+      "publishedDateTime": "2020-04-03T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2016/06/Artificial-Intelligence.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-explore-computer-vision-in-microsoft-azure.md",
+      "title": "Explore computer vision in Microsoft Azure",
+      "excerpt": "There are multiple specific types of computer vision problem that AI engineers and data scientists can solve using a mix of custom machine learning models and platform-as-a-service (PaaS) solutions - including many cognitive services in Microsoft Azure. The Computer Vision service enables software engineers to create intelligent solutions that ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-trophy-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Explore computer vision in Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones.md",
+      "title": "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones",
+      "excerpt": "The vehicle talks to the connected vehicle platform running in Azure that is deployed across hundreds of edge locations managed by the telecom provider. The partnership between Microsoft and telcos enables the ecosystem to build the next generation of applications and user experiences powered by data, analytics, and AI. Microsoft has partnered ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/?ss=cloud",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/",
+      "publishedDateTime": "2020-04-02T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e86c30074e9210006895af5%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-microsoft-expands-the-availability-of-azure-kinect-to-japan-germany-and-the-uk.md",
+      "title": "Microsoft expands the availability of Azure Kinect to Japan, Germany, and the UK",
+      "excerpt": "At MWC 2019, Microsoft first announced Azure Kinect, a connected depth camera that enables organizations to build AI vision solutions. Azure Kinect features best in class depth sensor, high definition 4K camera and a microphone array (7 mics). In July 2019, Microsoft announced the general availability of Azure Kinect in the US and China.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/",
+      "ampWebUrl": "https://mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/amp/",
+      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/amp/",
+      "publishedDateTime": "2020-04-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSPoweruser",
+        "domain": "mspoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mspoweruser.com/wp-content/uploads/2019/02/Azure-Kinect-1.jpg",
+          "width": 1080,
+          "height": 608,
+          "title": "Microsoft expands the availability of Azure Kinect to Japan, Germany, and the UK",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-microsoft-brings-new-voice-styles-to-azure-cognitive-services.md",
+      "title": "Microsoft brings new voice styles to Azure Cognitive Services",
+      "excerpt": "Microsoft today announced the launch of new neural text-to-speech (TTS) capabilities in Azure Cognitive Services, its suite of AI-imbued APIs and SDKs, that enable developers to tailor the voice of their apps and services to fit their brand. Each of three new styles — newscast, customer service, and digital assistant — offer fluid and ...",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/amp/",
+      "publishedDateTime": "2020-04-02T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft brings new voice styles to Azure Cognitive Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-an-interview-with-microsoft-president-brad-smith.md",
+      "title": "An interview with Microsoft President Brad Smith",
+      "excerpt": "The post An interview with Microsoft President Brad Smith appeared first on The AI Blog.\n",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.microsoft.com/en-us/research/blog/an-interview-with-microsoft-president-brad-smith/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T13:06:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2020/03/Research_Podcast_Smith_Social_1200x627.png",
+          "width": 1200,
+          "height": 627,
+          "title": "An interview with Microsoft President Brad Smith",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection.md",
+      "title": "ImmunityBio and Microsoft team up to precisely model how key COVID-19 protein leads to infection",
+      "excerpt": "In practical terms, the partnership between the two companies included a complement of 1,250 Nvidia V100 Tensor Core GPUs designed for use in machine learning applications from a Microsoft Azure cluster, working with ImmunityBio’s existing 320 GPU cluster that is tuned specifically to molecular modeling work. The results of the collaboration ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/amp/",
+      "publishedDateTime": "2020-04-01T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/covid-19-spike-protein.png?w=1024",
+          "width": 1024,
+          "height": 561,
+          "title": "ImmunityBio and Microsoft team up to precisely model how key COVID-19 protein leads to infection",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-nokia-stirs-telco-space-with-5g-backed-automated-operations.md",
+      "title": "Nokia Stirs Telco Space With 5G-Backed Automated Operations",
+      "excerpt": "Nokia Corporation NOK recently unveiled an out-and-out AI-backed service offering that helps communication service providers (CSPs) to support future network evolution, and optimize enterprise and cloud services on a global scale.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/nokia-stirs-telco-space-with-5g-backed-automated-operations-2020-04-01",
+      "ampWebUrl": "https://www.nasdaq.com/articles/nokia-stirs-telco-space-with-5g-backed-automated-operations-2020-04-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nokia-stirs-telco-space-with-5g-backed-automated-operations-2020-04-01?amp",
+      "publishedDateTime": "2020-04-01T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1421883099",
+          "width": 1024,
+          "height": 512,
+          "title": "Nokia Stirs Telco Space With 5G-Backed Automated Operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-immunitybio-combines-supercomputing-power-with-microsoft-azure-to-target-infection-doorway-of-the-coronavirus.md",
+      "title": "ImmunityBio Combines Supercomputing Power With Microsoft Azure to Target Infection “Doorway” of the Coronavirus",
+      "excerpt": "quickly deployed a High Performance Compute cluster on Microsoft Azure cloud services. The cluster contains over 1,250 NVIDIA V100 Tensor Core high performance graphics processing units (GPUs) specifically designed for machine learning and other ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200401005188/en/ImmunityBio-Combines-Supercomputing-Power-Microsoft-Azure-Target",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200401005188/en/760385/23/ImmunityBio.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "ImmunityBio Combines Supercomputing Power With Microsoft Azure to Target Infection “Doorway” of the Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-about-azure-edge-zones-preview.md",
+      "title": "About Azure Edge Zones - Preview",
+      "excerpt": "... using SD-WAN appliances on the same Private Edge Zone appliances and manage them from Azure. Typical use cases include: Real-time command and control in robotics Real-time analytics and inferencing with Artificial Intelligence and Machine Learning Machine Vision Remote rendering for mixed reality and VDI scenarios Surveillance and security ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/networking/edge-zones-overview",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "About Azure Edge Zones - Preview",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-container-support-in-azure-cognitive-services.md",
+      "title": "Container support in Azure Cognitive Services",
+      "excerpt": "Cognitive Services resources are available on Microsoft Azure. Sign into the Azure portal to create and explore Azure resources for these services. Important: The Read container currently works only with English. Face F0, S0 Face Detects human faces in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Container support in Azure Cognitive Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-lenovo-teams-with-microsoft-azure-at-the-edge.md",
+      "title": "Lenovo Teams With Microsoft Azure At The Edge",
+      "excerpt": "At the Transform 2019 event, Lenovo introduced the ThinkSystem ES350, an edge server about the size of a notebook powered by Intel’s Xeon-D chip and Nvidia Tesla T4 GPU accelerators and aimed at workloads like machine learning inference ... The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/",
+      "ampWebUrl": "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/",
+      "publishedDateTime": "2020-03-31T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-1024x1024.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": "Lenovo Teams With Microsoft Azure At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-microsoft-launches-edge-zones-for-azure.md",
+      "title": "Microsoft launches Edge Zones for Azure",
+      "excerpt": "As far as the details of the various Edge Zone versions go, the focus of Edge Zones is mostly on IoT and AI workloads, while Microsoft notes that Edge Zones with Carriers is more about low-latency online gaming, remote meetings and events, as well as smart infrastructure. Private Edge Zones, which combine private carrier networks with Azure ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/31/microsoft-launches-edge-zones-for-azure/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/31/microsoft-launches-edge-zones-for-azure/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/31/microsoft-launches-edge-zones-for-azure/amp/",
+      "publishedDateTime": "2020-03-31T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-675949746.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Microsoft launches Edge Zones for Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-finally-progress-on-regulating-facial-recognition.md",
+      "title": "Finally, progress on regulating facial recognition",
+      "excerpt": "The post Finally, progress on regulating facial recognition appeared first on The AI Blog.\n",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/on-the-issues/2020/03/31/washington-facial-recognition-legislation/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T07:58:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/5/2020/03/blackbackground.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Finally, progress on regulating facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-ai-lifecycle-management-startup-cnvrgio-launches-free-community-tier.md",
+      "title": "AI lifecycle management startup Cnvrg.io launches free community tier",
+      "excerpt": "Cnvrg.io, a data science startup headquartered in Jerusalem and New York, today released a community version of its machine learning automation platform designed to help enterprises manage and scale AI. CEO Yochay Ettun says the release was motivated in part by the influx of social distancing and remote work stemming from the COVID-19 pandemic ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/",
+      "publishedDateTime": "2020-03-31T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?fit=1000%2C600&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": "AI lifecycle management startup Cnvrg.io launches free community tier",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-covid-19-mapped-azure-powered-tool-ids-the-most-vulnerable-populations.md",
+      "title": "COVID-19 mapped: Azure-powered tool IDs the most vulnerable populations",
+      "excerpt": "Read More A company called Jvion, which specializes in what it calls clinical AI, is launching a COVID Community Vulnerability Map, a public facing tool built on Microsoft Azure maps that helps healthcare providers identify the social determinants of health (SDOH) that put populations at greater risk. That information can have a significant ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/azure-powered-covid-vulnerability-map/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/azure-powered-covid-vulnerability-map/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-powered-covid-vulnerability-map/",
+      "publishedDateTime": "2020-03-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/03/30/1f52aa7d-f4a3-4f5f-ac3d-bbdec514a86a/covid-map.png",
+          "width": 1260,
+          "height": 1004,
+          "title": "COVID-19 mapped: Azure-powered tool IDs the most vulnerable populations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service.md",
+      "title": "Nokia’s AVA 5G Cognitive Operations offers carriers AI as a service",
+      "excerpt": "That’s not the case for 5G network hardware maker Nokia, however, which today announced AVA 5G Cognitive Operations, offering AI as a service so mobile carriers can optimize their 5G networks and enterprise services. The key to AVA 5G ... The service will use Microsoft’s Azure cloud technology for its underpinnings, while supporting ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/amp/",
+      "publishedDateTime": "2020-03-31T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/screen-2020-03-27-at-1.07.49-PM-e1585339730516.jpg?fit=2394%2C1197&strip=all",
+          "width": 2394,
+          "height": 1197,
+          "title": "Nokia’s AVA 5G Cognitive Operations offers carriers AI as a service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    }
+  ],
+  "nextPage": 3
+}

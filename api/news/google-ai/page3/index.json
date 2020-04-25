@@ -1,0 +1,1295 @@
+{
+  "page": 3,
+  "value": [
+    {
+      "path": "_news/2020-03-11-cadence-tensilica-hifi-ip-accelerates-ai-deployment-with-support-for-tensorflow-lite-for-microcontrollers.md",
+      "title": "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers",
+      "excerpt": "SAN JOSE, Calif.--(BUSINESS WIRE)--Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that software for Cadence ® Tensilica ® HiFi digital signal processors (DSPs) has been optimized to efficiently execute TensorFlow Lite for Microcontrollers, part of the TensorFlow end-to-end open-source platform for machine learning (ML ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200311005239/en/Cadence-Tensilica-HiFi-IP-Accelerates-AI-Deployment",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200311005239/en/778960/23/bigstock-Voice-Recording-Or-Speech-Reco-321922831.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-google-launches-tensorflow-quantum-that-facilitates-hybrid-ai-models.md",
+      "title": "Google launches TensorFlow Quantum that facilitates hybrid AI models",
+      "excerpt": "Google announced the launch of TensorFlow Quantum, which is based on Machine learning and quantum computing coming together to build hybrid AI models. The TFQ was built in collaboration with the University of Waterloo, X, and Volkswagen. TensorFlow Quantum is an opensource library for rapid prototyping of quantum ML models. “TensorFlow ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technowize.com/google-launches-tensorflow-quantum-that-facilitates-hybrid-ai-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technowize",
+        "domain": "technowize.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.technowize.com/wp-content/uploads/2019/11/Quantum-Supremacy.jpg",
+          "width": 1100,
+          "height": 825,
+          "title": "Google launches TensorFlow Quantum that facilitates hybrid AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology.md",
+      "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
+      "excerpt": "/PRNewswire/ -- Highlights: Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and Go, Synopsys' DSO.ai™ solution is able",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-301021331.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ml-kit-or-tensorflow-which-is-best.md",
+      "title": "ML Kit or TensorFlow: Which is best?",
+      "excerpt": "This post is a follow-up on my article Build a Dog Camera using Flutter and Tensorflow. The Dog Camera app is similar to the regular Android camera app. But if there is a dog in view, its breed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/flutter-community/ml-kit-or-tensorflow-which-is-best-6c965e74366b",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*HBmxP0S3pgoPI7Od",
+          "width": 1200,
+          "height": 800,
+          "title": "ML Kit or TensorFlow: Which is best?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-tensorflow-quantum-and-first-release-candidate-for-tensorflow-22.md",
+      "title": "TensorFlow Quantum and first release candidate for TensorFlow 2.2",
+      "excerpt": "The TensorFlow developers have been keeping busy this week: Not only has the first release candidate for TensorFlow 2.2 arrived, but we can now also welcome the very first release of TensorFlow Quantum. Let’s see what has been happening in the world of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/tensorflow-quantum-and-tensorflow-2-2-rc0-169588.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/03/TensorFlow-Quantum.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "TensorFlow Quantum and first release candidate for TensorFlow 2.2",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-google-launches-tensorflow-for-quantum-computers.md",
+      "title": "Google launches TensorFlow for quantum computers",
+      "excerpt": "Google today launched TensorFlow Quantum (TFQ), an open-source library for prototyping quantum machine learning models. Quantum computers aren’t quite mainstream yet, but when they arrive they’ll need algorithms. TFQ fills that Gap by making it possible for developers to create hybrid AI algorithms that use both classical computing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/09/google-launches-tensorflow-for-quantum-computers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2017%2F11%2Ftensorflow.jpg&signature=01462be7a75153cb5cbca816cd2e6673",
+          "width": 1280,
+          "height": 640,
+          "title": "Google launches TensorFlow for quantum computers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-googles-new-tensorflow-quantum-tool-lets-developers-build-quantum-ai-models.md",
+      "title": "Google’s new TensorFlow Quantum tool lets developers build quantum AI models",
+      "excerpt": "Google LLC today open-sourced TensorFlow Quantum, an extension to TensorFlow that enables developers to build artificial intelligence models for quantum computers. Quantum computing is still in an early stage, but the technology is maturing rapidly. IBM Corp. is doubling the processing power of its quantum chips every year, while Honeywell ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/09/googles-new-tensorflow-quantum-tool-lets-developers-build-quantum-ai-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/quantum.png",
+          "width": 718,
+          "height": 400,
+          "title": "Google’s new TensorFlow Quantum tool lets developers build quantum AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-google-launches-tensorflow-quantum-a-machine-learning-framework-for-training-quantum-models.md",
+      "title": "Google launches TensorFlow Quantum, a machine learning framework for training quantum models",
+      "excerpt": "Google today announced the launch of TensorFlow Quantum, bringing together machine learning and quantum computing initiatives at the company. The framework can construct quantum datasets, prototype hybrid quantum and classic machine learning models, support quantum circuit simulators, and train discriminative and generative quantum models.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/09/google-launches-tensorflow-quantum-a-machine-learning-framework-for-training-quantum-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/09/google-launches-tensorflow-quantum-a-machine-learning-framework-for-training-quantum-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/09/google-launches-tensorflow-quantum-a-machine-learning-framework-for-training-quantum-models/amp/",
+      "publishedDateTime": "2020-03-09T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/2019_SB_Google_0264_quantum_2880_x_1177_px.max-1300x1300.jpg?fit=1300%2C531&strip=all",
+          "width": 1300,
+          "height": 531,
+          "title": "Google launches TensorFlow Quantum, a machine learning framework for training quantum models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-tensorflow-quantum-software-combines-quantum-and-classical-machine-learning.md",
+      "title": "TensorFlow Quantum software combines quantum and classical machine learning",
+      "excerpt": "The collaborative effort resulted in the creation of an open-source hybrid quantum-classical machine learning software platform, called TensorFlow Quantum. TensorFlow Quantum integrates Google’s Cirq and TensorFlow and will allow for the rapid ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/03/tensorflow-quantum-software-combines-quantum-and-classical-machine-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/03/blobid0_1583527327745.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "TensorFlow Quantum software combines quantum and classical machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-google-is-making-it-easier-to-develop-quantum-machine-learning-apps.md",
+      "title": "Google is making it easier to develop quantum machine-learning apps",
+      "excerpt": "TensorFlow Quantum is an add-on to Google’s popular TensorFlow toolkit, which has helped give machine learning a big boost since its launch in 2015. What does it do? TensorFlow is one of a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/f/615337/google-software-tensorflow-quantum-machine-learning-apps-ai-computing/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/fabian-grohs-oz61kfuqsus-unsplash.jpg?sw=1200&cx=0&cy=263&cw=1767&ch=994",
+          "width": 1200,
+          "height": 675,
+          "title": "Google is making it easier to develop quantum machine-learning apps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-web-developers-dont-need-a-math-degree-to-get-started-with-machine-learning.md",
+      "title": "Web developers don’t need a math degree to get started with machine learning",
+      "excerpt": "Google AI researchers conducted a study among 645 users of TensorFlow.js, a framework for machine learning with JavaScript. The goal was to find out what motivates software developers to get started with machine learning, what they expect from ML ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/web-developers-machine-learning-tensorflow-js-169458.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/03/tensorflowjs-survey.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Web developers don’t need a math degree to get started with machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-google-launches-tensorflow-quantum.md",
+      "title": "Google Launches TensorFlow Quantum",
+      "excerpt": "The worlds of quantum computing and machine learning are coming together with TensorFlow Quantum (TFQ), a new library unveiled today by Google. Google has been one of the leaders in the emerging field of quantum computing, where computers are able to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datanami.com/2020/03/09/google-launches-tensorflow-quantum/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/TFQ_logo.png",
+          "width": 411,
+          "height": 275,
+          "title": "Google Launches TensorFlow Quantum",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-08-installing-the-tensorflow-object-detection-api-on-windows-10.md",
+      "title": "Installing the Tensorflow Object Detection API on Windows 10",
+      "excerpt": "In order to achieve this goal, first I have to experiment with the Tensorflow Object Detection API. I have a Windows 10 system so I will use Tensorflow in Windows environment. Let’s get started ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@daniel.schwalm/installing-the-tensorflow-object-detection-api-on-windows-10-443750faf7b8",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/820/1*ubc_a9FvGl1fUwszAXYToA.png",
+          "width": 820,
+          "height": 533,
+          "title": "Installing the Tensorflow Object Detection API on Windows 10",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-tensorflow-object-detection-api-for-indian-driving-datasetidd-in-windows-10.md",
+      "title": "Tensorflow object detection api for Indian Driving Dataset(IDD) in windows 10",
+      "excerpt": "This blog explains how to build a custom object detection model using tensorflow object detection api considering huge data of IDD. The IDD dataset consists of images obtained from a front facing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-vidhya/tensorflow-object-detection-api-for-indian-driving-dataset-idd-in-windows-10-f1f99c19b110",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-07T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*VQ1zTOIB3CdlMSjI",
+          "width": 1200,
+          "height": 1611,
+          "title": "Tensorflow object detection api for Indian Driving Dataset(IDD) in windows 10",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript.md",
+      "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+      "excerpt": "It has been three years since the open-source machine learning platform TensorFlow was launched, and now the team is announcing new and ambitious plans for the AI library. The TensorFlow Developer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/03/hero_720.png",
+          "width": 720,
+          "height": 405,
+          "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games.md",
+      "title": "DeepMind technique encourages AI players to cooperate in zero-sum games",
+      "excerpt": "In a preprint paper, DeepMind described a new reinforcement learning technique that models human behavior in a potentially new and powerful way. It could lead to much more capable AI decision ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/amp/",
+      "publishedDateTime": "2020-03-05T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind technique encourages AI players to cooperate in zero-sum games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing.md",
+      "title": "Is Gmail Biased or Are Some Presidential Campaigns Just Better at Marketing?",
+      "excerpt": "Since 2015, Google has claimed that 99.9 percent of spam is blocked, and last year the company integrated its in-house machine learning framework, TensorFlow, to help filter 100 million additional spam emails every day. The company has also added new filters which automatically sort emails into \"primary,\" \"promotions,\" \"social,\" \"forums,\" and ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_ca/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
+      "publishedDateTime": "2020-02-27T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e56e74ebe0f7a009c5ac478/lede/1582753897422-GettyImages-914593224.jpeg?crop=1xw%3A0.846xh%3B0xw%2C0.1377xh&resize=2000%3A*",
+          "width": 2000,
+          "height": 1123,
+          "title": "Is Gmail Biased or Are Some Presidential Campaigns Just Better at Marketing?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships.md",
+      "title": "Researchers apply developmental psychology to AI model that predicts object relationships",
+      "excerpt": "Inspired by this, a team of researchers hailing from the MIT-IBM Watson AI Lab, MIT’s Computer Science and Artificial Intelligence Laboratory, Alphabet’s DeepMind, and Harvard University sought to simplify the problem of visual recognition by introducing a benchmark — CoLlision Events for Video REpresentation and Reasoning (CLEVRER ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/amp/",
+      "publishedDateTime": "2020-02-26T15:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?fit=1200%2C608&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": "Researchers apply developmental psychology to AI model that predicts object relationships",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-classifying-images-using-tensorflow-and-faced-challenges-a-case-study.md",
+      "title": "Classifying images using TensorFlow and faced challenges — a case study",
+      "excerpt": "We decided to use Deep Learning with TensorFlow by setting up a Convolutional Neural Network (CNN) to classify these images. It was necessary to have a large data set with training data for each page. Instead of taking many different pictures (which would have been very time consuming), we decided to make a video of each page and then take ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@simon.huber/classifying-images-using-tensorflow-and-faced-challenges-a-case-study-f283c039d720",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/freeze/max/400/1*DB25tGjRiWmvzRODq9TEOg.gif",
+          "width": 400,
+          "height": 224,
+          "title": "Classifying images using TensorFlow and faced challenges — a case study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-an-ai-to-make-practical-decisions-and-to-play-flappy-bird.md",
+      "title": "An AI to make practical decisions and to play Flappy Bird",
+      "excerpt": "The game of Go was famously solved by DeepMind's AlphaZero through a cutting-edge reinforcement learning approach. While Flappy Bird is nowhere near as complex as Go, it's a good starting place for any AI project in reinforcement learning. (Other companies, including IBM, have explored Flappy Bird as a testbed for AI.) The journalist didn't ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
+      "publishedDateTime": "2020-02-25T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/25/de47ff6a-924b-4b1f-80d3-8478d306daf6/dp3q8848.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": "An AI to make practical decisions and to play Flappy Bird",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-save-97-off-this-machine-learning-data-science-certification-training-bundle.md",
+      "title": "Save 97% off this Machine Learning & Data Science Certification Training Bundle",
+      "excerpt": "Master the Most Important Deep Learning Frameworks for Python Data Science Tensorflow Masterclass For Machine Learning and Artificial Intelligence in Python Complete Tensorflow Mastery For Machine Learning & Deep Learning in Python Python Regression Analysis: Statistics & Machine Learning Learn Complete Hands-On Regression Analysis for ...",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/save-97-off-this-machine-learning--data-science-certification-training-bundle",
+      "ampWebUrl": "https://www.neowin.net/amp/save-97-off-this-machine-learning--data-science-certification-training-bundle/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-this-machine-learning--data-science-certification-training-bundle/",
+      "publishedDateTime": "2020-02-25T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Save 97% off this Machine Learning & Data Science Certification Training Bundle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-of-all-jobs.md",
+      "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96% of all jobs",
+      "excerpt": "After Kasparov‘s loss, the experts didn’t miss a beat. They said Chess was too easy and postulated that machines would never beat us at Go. Champion Lee Sedol’s loss against DeepMind’s AlphaGo proved them wrong there. Apparently the only thing more powerful than human hubris is our ability to iterate new technologies. At least ...",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/",
+      "publishedDateTime": "2020-02-25T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/chesspieces-796x405.jpg",
+          "width": 796,
+          "height": 405,
+          "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96% of all jobs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-deepmind-develops-ai-with-an-imagination.md",
+      "title": "DeepMind Develops AI With An Imagination",
+      "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geek.com/tech/deepmind-develops-ai-with-an-imagination-1708908/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek.com",
+        "domain": "geek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.geek.com/wp-content/uploads/2017/07/ai-2.jpg",
+          "width": 690,
+          "height": 388,
+          "title": "DeepMind Develops AI With An Imagination",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-googles-deepmind-invents-ai-that-can-beat-you-at-atari.md",
+      "title": "Google’s DeepMind invents AI that can beat you at Atari",
+      "excerpt": "It was extremely mysterious when Google scooped up UK-based AI startup DeepMind last year for $400 million. The company’s website offered zero information about its technology or goals ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geek.com/games/googles-deepmind-invents-ai-that-can-beat-you-at-atari-1616575/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek.com",
+        "domain": "geek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.geek.com/wp-content/uploads/2015/02/Atari2600a.jpg",
+          "width": 625,
+          "height": 350,
+          "title": "Google’s DeepMind invents AI that can beat you at Atari",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-clever-browser-tool-erases-people-from-live-webcam-feeds-in-real-time.md",
+      "title": "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time",
+      "excerpt": "Mayes is a Google web engineer who developed his Disappearing-People tool using Javascript and TensorFlow, which is Google’s free, open source software library that allows the terrifying potential of artificial intelligence and deep learning to be applied to less terrifying applications. In this case, the neural network works to determine ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899",
+      "ampWebUrl": "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp",
+      "publishedDateTime": "2020-02-24T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--kY9EtKmN--/c_scale,f_auto,fl_progressive,q_80,w_800/rn8juxshvtinyw3oh5te.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-take-advantage-of-tensorflow-object-detection-api-part-1.md",
+      "title": "Take Advantage of “Tensorflow Object Detection API”- Part 1!!!",
+      "excerpt": "Description-The following is the step by step Tutorial for taking advantage of the Tensorflow Object Detection API-Part 1 (setting up models repository environment) series. Note: I have followed these steps on Ubuntu 16.04 and Ubuntu 18.04 systems. but before proceeding for actual process our system must have some required libraries as follows ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@Sahilchachere/take-advantage-of-tensorflow-object-detection-api-99041cd9bb27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T15:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*fMK7Y6XKoeHlJ5o9wGrMVQ.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Take Advantage of “Tensorflow Object Detection API”- Part 1!!!",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-google-launches-tensorflow-library-for-optimizing-fairness-constraints.md",
+      "title": "Google launches TensorFlow library for optimizing fairness constraints",
+      "excerpt": "Google AI today released TensorFlow Constrained Optimization (TFCO), a supervised machine learning library built for training machine learning models on multiple metrics, and “optimizing inequality-constrained problems.” The library is designed to help address issues like fairness constraints and predictive parity and help machine learning ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/21/google-launches-tensorflow-library-for-optimizing-fairness-constraints/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google launches TensorFlow library for optimizing fairness constraints",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-defeated-chess-champ-garry-kasparov-has-made-peace-with-ai.md",
+      "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
+      "excerpt": "Most remarkably, AlphaZero uncovered new approaches to the game that dazzled chess experts. Last week, Kasparov returned to the scene of his famous Deep Blue defeat—the ballroom of a New York hotel—for a debate with AI experts organized by the Association for the Advancement of Artificial Intelligence. He met with WIRED senior writer Will ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/",
+      "ampWebUrl": "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/amp",
+      "publishedDateTime": "2020-02-21T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e4c10d419656c0009fbe489/master/pass/Biz-kasparov-511682700.jpg",
+          "width": 2400,
+          "height": 1663,
+          "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change.md",
+      "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
+      "excerpt": "Subsequent developments have moved the analysis of the audio captured by these canopy-mounted 'Guardian' devices to the cloud, where Google's TensorFlow machine-learning framework is used to identify sounds of illegal activity and adjust audio inputs to minimise the number of false positives. The AI system uses 'binary classifiers' to ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "publishedDateTime": "2020-02-18T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/28/30cb4fae-507c-4d26-b536-81823c32cbda/instant-detect-2-system.jpg",
+          "width": 770,
+          "height": 474,
+          "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-google-brain-and-deepmind-researchers-attack-reinforcement-learning-efficiency.md",
+      "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
+      "excerpt": "Unfortunately, it’s data-intensive, which motivated research teams — one from Google Brain (one of Google’s AI research divisions) and the other from Alphabet’s DeepMind — to prototype more efficient means of executing it. In a pair of preprint papers, the researchers propose Adaptive Behavior Policy Sharing (ABPS), an algorithm that ...",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/",
+      "publishedDateTime": "2020-02-18T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    }
+  ],
+  "nextPage": 4
+}

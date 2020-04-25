@@ -1,0 +1,1326 @@
+{
+  "page": 9,
+  "value": [
+    {
+      "path": "_news/2020-02-11-arm-targets-iot-with-new-machine-learning-ip-processors.md",
+      "title": "Arm targets IoT with new Machine Learning IP, processors",
+      "excerpt": "The company added new machine learning (ML) IP, a new Cortex processor and neural processing unit (NPU) to its AI platform. In a statement, Arm said the combination of its latest IP with a related set of tools would provide hardware and software developers with more options for innovation when delivering on-device ML, while lowering overall ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
+      "publishedDateTime": "2020-02-11T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/London-IoT.png?fit=650%2C400&ssl=1",
+          "width": 650,
+          "height": 400,
+          "title": "Arm targets IoT with new Machine Learning IP, processors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-googles-machine-learning-is-making-you-more-effective-in-2020.md",
+      "title": "Google’s Machine Learning Is Making You More Effective In 2020",
+      "excerpt": "to email as well as increasing ways to help me complete or enhance a document, spreadsheet, or presentation with the Explore function.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/",
+      "publishedDateTime": "2020-02-10T20:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F881497148%2F0x0.jpg%3FcropX1%3D148%26cropX2%3D3119%26cropY1%3D1497%26cropY2%3D3169",
+          "width": 1200,
+          "height": 676,
+          "title": "Google’s Machine Learning Is Making You More Effective In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-and-lecun.md",
+      "title": "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun",
+      "excerpt": "Hinton joined his compatriots, Yann LeCun of Facebook and Yoshua Bengio of Canada's MILA institute, fellow deep learning pioneers, in an upstairs meeting room of the Hilton Hotel on the sidelines of the 34th annual conference on AI by the Association for the Advancement of Artificial Intelligence. They spoke for 45 minutes to a small group of ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
+      "publishedDateTime": "2020-02-10T12:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/79d4074f-3054-45ef-97ca-091d778943cd/hinton-bengio-lecun-press-briefing-feb-10th-2020.jpg",
+          "width": 7331,
+          "height": 4887,
+          "title": "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI",
+        "AI Hardware",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-machine-learning-the-tool-of-the-century.md",
+      "title": "Machine Learning: The Tool of the Century",
+      "excerpt": "There are 3 main types of artificial intelligence: narrow, general, and super. We have yet to achieve super, or even general intelligence. Artificial narrow intelligence (ANI) includes machine learning, which is being used to make self-driving cars, show you advertisements, and improve disease diagnosis. Machine learning is the field in which ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/datadriveninvestor/machine-learning-the-tool-of-the-century-fe5a20309920",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*3z-djqopm88GYDz2OB3qDg.png",
+          "width": 1200,
+          "height": 672,
+          "title": "Machine Learning: The Tool of the Century",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-the-role-of-machine-learning-in-marketing.md",
+      "title": "The Role of Machine Learning in Marketing",
+      "excerpt": "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@bo.lau/the-role-of-machine-learning-in-marketing-60918b8f51e2",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png",
+          "width": 1200,
+          "height": 672,
+          "title": "The Role of Machine Learning in Marketing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-top-5-companies-using-machine-learning-in-2020.md",
+      "title": "Top 5 companies using Machine Learning in 2020",
+      "excerpt": "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/800/1*IVYvNXzk1XVr7XM9Hu9X-A.png",
+          "width": 800,
+          "height": 445,
+          "title": "Top 5 companies using Machine Learning in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws.md",
+      "title": "Deep learning godfathers Bengio, Hinton, and LeCun say the field can fix its flaws",
+      "excerpt": "The three, who were dubbed the \"godfathers\" of deep learning by the conference, were being honored for having received last year's Turing Award for lifetime achievements in computing.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws/",
+      "publishedDateTime": "2020-02-10T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/791c60e2-4f7e-4ab8-9ddf-688966cfe2ac/hinton-lecun-bengio-aaai20-feb-9-2020.png",
+          "width": 3151,
+          "height": 1082,
+          "title": "Deep learning godfathers Bengio, Hinton, and LeCun say the field can fix its flaws",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws.md",
+      "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
+      "excerpt": "Each of the three scientists got a half hour to talk, and each one acknowledged numerous shortcomings in deep learning, things such as \"adversarial examples,\" where an object recognition system can be tricked into mis-identifying an object just by adding noise to a picture. \"There's been a lot of talk of the negatives about deep learning ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "publishedDateTime": "2020-02-10T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/791c60e2-4f7e-4ab8-9ddf-688966cfe2ac/hinton-lecun-bengio-aaai20-feb-9-2020.png",
+          "width": 3151,
+          "height": 1082,
+          "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-the-future-of-deep-learning-is-unsupervised-ai-pioneers-say.md",
+      "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
+      "excerpt": "Machines can do well at recognizing images and understanding language—when humans are involved with training. But for AI to reach new heights, the technology must figure out how to learn on its own, according to three AI pioneers.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/the-future-of-deep-learning-is-unsupervised-ai-pioneers-say-11581330600",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-152543/social",
+          "width": 1280,
+          "height": 640,
+          "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-deep-learning-has-limits-but-its-commercial-impact-has-just-begun.md",
+      "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
+      "excerpt": "There has been increased hand-wringing across the AI community in recent months about the limitations of deep learning. Even deep learning's staunchest defenders, Bengio included, are beginning to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
+      "publishedDateTime": "2020-02-09T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e40aef58b6cf300071e457e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-08-data-science-and-machine-learning-service-market-status-and-business-outlook-2020-2026.md",
+      "title": "Data Science And Machine Learning Service Market Status and Business Outlook 2020-2026",
+      "excerpt": "Market Insight Reports has added the report titled global Data Science And Machine Learning Service Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-status-and-business-outlook-2020-2026-2020-02-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T22:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Data Science And Machine Learning Service Market Status and Business Outlook 2020-2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-08-artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020.md",
+      "title": "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020",
+      "excerpt": "The report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020-2020-02-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T20:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-07-geek-of-the-week-trupanions-david-jaw-uses-machine-learning-to-help-facilitate-better-pet-care.md",
+      "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
+      "excerpt": "As the leader of the data science department at Trupanion in Seattle, David Jaw’s projects are actually around pets. Jaw, GeekWire’s latest Geek of the Week, uses artificial intelligence and machine learning to help automate medical insurance claims for pets, streamlining the process and removing the worry about what’s covered and what ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/david-jaw-2/",
+      "ampWebUrl": "https://www.geekwire.com/2020/david-jaw-2/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/david-jaw-2/amp/",
+      "publishedDateTime": "2020-02-07T14:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/hank_home_011-630x511.jpg",
+          "width": 630,
+          "height": 511,
+          "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-02-07-2019-machine-learning-and-data-science-survey.md",
+      "title": "2019 Machine Learning and Data Science Survey",
+      "excerpt": "Every year, since 2017, the Kaggle community sets out to conduct an industry-wide survey on the State of Data Science and Machine Learning. This is for the year 2019. The dataset was gathered from a pool of 19,717 usable respondents from 171 countries and territories, cleaned and prepared by the Kaggle community. The young, mostly Indians and ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@ubajakacj/2019-machine-learning-and-data-science-survey-4b882aced1a8",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1030/1*TlJDveTXMsiz48_94nFeKQ.png",
+          "width": 515,
+          "height": 338,
+          "title": "2019 Machine Learning and Data Science Survey",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-07-what-is-machine-learning-exploring-its-impact-on-customer-experience.md",
+      "title": "What is machine learning? Exploring its impact on customer experience",
+      "excerpt": "As machine learning algorithms become increasingly integrated into home and business applications, this offspring of artificial intelligence is certainly grabbing headlines. From self-driving cars ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@mahiprashanth866/what-is-machine-learning-exploring-its-impact-on-customer-experience-350bf3115497",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/844/0*bbnXzCvTKv0Wl7uc.png",
+          "width": 844,
+          "height": 422,
+          "title": "What is machine learning? Exploring its impact on customer experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-facebook-launches-3d-deep-learning-library-for-pytorch.md",
+      "title": "Facebook launches 3D deep learning library for PyTorch",
+      "excerpt": "Facebook AI Research (FAIR) today unveiled PyTorch3D, a library that enables researchers and developers to combine deep learning and 3D objects. As part of the release, Facebook is also open-sourcing Mesh R-CNN, a model introduced last year capable of rendering 3D objects from 2D shapes in images of interior spaces. PyTorch3D was inspired by ...",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/",
+      "publishedDateTime": "2020-02-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/pytorch3D-1.png?fit=2472%2C1314&strip=all",
+          "width": 2472,
+          "height": 1314,
+          "title": "Facebook launches 3D deep learning library for PyTorch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon.md",
+      "title": "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon",
+      "excerpt": "The European Central Bank (ECB) has partnered with Reply, a platform focused on digital innovation, in order to offer a 48-hour coding marathon, which will focus on teaching participants how to apply the latest artificial intelligence (AI) and machine learning (ML) algorithms. The marathon is scheduled to take place during the final days of ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/",
+      "publishedDateTime": "2020-02-06T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Euro-Money-Europe-20-bright-300x216.jpeg",
+          "width": 300,
+          "height": 216,
+          "title": "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-deep-learning-market-analysis-and-forecast-2026.md",
+      "title": "Deep Learning Market Analysis And Forecast 2026",
+      "excerpt": "The Deep Learning Market 2020-2026 is a valuable source of insightful data for business strategists. This Deep Learning Market study provides comprehensive data on aspects of competitive intelligence,",
+      "heat": 279,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-and-forecast-2026-2020-02-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T18:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Analysis And Forecast 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-04-ex-google-cloud-engineers-raise-8m-for-seattle-machine-learning-startup-kaskada.md",
+      "title": "Ex-Google Cloud engineers raise $8M for Seattle machine learning startup Kaskada",
+      "excerpt": "Kaskada CEO Davor Bonaci, CTO Ben Chambers and VP of Product Emily Kruger. (Kaskada Photo) Machine learning is all the rage in big tech, but still largely unavailable to most companies that don’t have the resources or the knowhow to build it. Seattle startup Kaskada wants to change that. The company just raised a $8 million Series A round to ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/amp/",
+      "publishedDateTime": "2020-02-04T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/Kaskada_Leadership_team-630x504.jpg",
+          "width": 630,
+          "height": 504,
+          "title": "Ex-Google Cloud engineers raise $8M for Seattle machine learning startup Kaskada",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-04-ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you.md",
+      "title": "AI, machine learning, robots, and marketing tech coming to a store near you",
+      "excerpt": "It's not going to work. It can turn into a big food fight.\" Retailers are increasingly realizing the value of artificial intelligence and machine learning as a way to churn through troves of data collected from customers through e-commerce sites. While these tools require the kind of digital base that both Mitchell-Keller and Colaneri mentioned ...",
+      "heat": 239,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
+      "publishedDateTime": "2020-02-04T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/01/15/cede3a51-32c8-47dc-8928-b8c18295dde9/resize/1200x/9f06c8112c21a809abb2fc0b6a7e4b11/retail-ai.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "AI, machine learning, robots, and marketing tech coming to a store near you",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-03-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
+      "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
+      "excerpt": "The software is called Cloud AutoML Vision. In an accompanying blog post, the chief scientist of Google’s Cloud AI division explains how the software can help users without machine learning ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131",
+      "ampWebUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
+      "publishedDateTime": "2020-02-03T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--TqcQXP7v--/c_scale,f_auto,fl_progressive,q_80,w_800/uuscxid9fobckrwjepfk.png",
+          "width": 800,
+          "height": 431,
+          "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-03-what-are-machine-learning-and-deep-learning-in-artificial-intelligence.md",
+      "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
+      "excerpt": "AI can be called a superset of Machine Learning (ML) processes, and Deep Learning (DL) processes. AI usually is an umbrella term that is used for ML and DL. Deep Learning is again, a subset of ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence",
+      "ampWebUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
+      "publishedDateTime": "2020-02-02T19:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png",
+          "width": 412,
+          "height": 338,
+          "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-03-intel-dumps-its-nervana-neural-network-processors-for-habanas-ai-chips.md",
+      "title": "Intel dumps its Nervana neural network processors for Habana’s AI chips",
+      "excerpt": "... told him it had decided to end its work on both the Nervana NNP-T training chips and the Nervana NNP-I inference chips, though it said it will still deliver on customer commitments for the latter. Habana has developed two AI chips of its own, namely the Habana Gaudi and the Habana Goya (pictured). The former is a highly specialized neural ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/02/02/intel-dumps-nervana-neural-network-processors-habanas-ai-chips/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-02T17:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/1-800x533.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "Intel dumps its Nervana neural network processors for Habana’s AI chips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-02-what-are-machine-learning-and-deep-learning-in-artificial-intelligence.md",
+      "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
+      "excerpt": "They say ML is a complete science in its own right and thus, need not be called with reference to Artificial Intelligence. AI thrives on data ... For example, if the machine is a self-driving vehicle, it has to create its own scenarios on road. There is no way a programmer can program every step as he or she can’t think of all the ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence",
+      "ampWebUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
+      "publishedDateTime": "2020-02-02T14:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png",
+          "width": 412,
+          "height": 338,
+          "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-02-first-drug-developed-using-machine-learning-enters-clinical-trials.md",
+      "title": "First drug developed using machine learning enters clinical trials",
+      "excerpt": "What just happened? Of all the domains where machine learning is expected to be revolutionary, medicine is perhaps the most universal. In a major new milestone, a drug developed using machine learning is about to enter human trials. Before a new medicine ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html",
+      "publishedDateTime": "2020-02-02T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/04/2019-04-08-ts3_thumbs-e3c.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "First drug developed using machine learning enters clinical trials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-01-how-artificial-intelligence-will-change-medicine.md",
+      "title": "How Artificial Intelligence Will Change Medicine",
+      "excerpt": "Using powerful computers, scientists have scrutinized this bounty with some fine results, but it has become clear that we can learn much more with an assist from artificial intelligence. Over the next decade deep-learning neural networks will likely transform how we look for patterns in data and how research is conducted and applied to human ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scientificamerican.com/article/how-artificial-intelligence-will-change-medicine/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-01T11:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/12E666E8-C229-4FDB-A12A437CAD23F0E0.jpg",
+          "width": 790,
+          "height": 497,
+          "title": "How Artificial Intelligence Will Change Medicine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-01-5-soon-to-be-trends-in-artificial-intelligence-and-deep-learning.md",
+      "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
+      "excerpt": "AI’s major headwind is the cost of the investment, which will skew returns in the short-term. When the turnaround occurs, however, companies who are making the investment can expect to be rewarded disproportionately with a wide performance gap and up to double the cash flow.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
+      "publishedDateTime": "2020-01-31T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e34ccbef133f400076b5a6a/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-laszlo-bock-thinks-machine-learning-can-make-work-better.md",
+      "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
+      "excerpt": "A Google veteran’s new firm uses artificial intelligence to send employees ‘nudges’ to prod them toward changes likely to produce a happier workforce",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
+      "publishedDateTime": "2020-01-31T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://si.wsj.net/public/resources/images/B3-FZ452_BOCK_SOC_20200128171741.jpg",
+          "width": 900,
+          "height": 471,
+          "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology.md",
+      "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
+      "excerpt": "The first step, which is the most important, is to view the enterprise AI challenge as a business problem instead of a technical problem.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
+      "publishedDateTime": "2020-01-31T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/921518908/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-interested-in-machine-learning-better-learn-pytorch.md",
+      "title": "Interested in machine learning? Better learn PyTorch",
+      "excerpt": "Building on the rampant popularity of Python was always going to be a good idea for the Facebook-born PyTorch, an open source machine learning framework. Just how good of an idea, however, few could have guessed. That’s because no matter how many things you get right when launching an open source project (great docs, solid technical ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html",
+      "publishedDateTime": "2020-01-30T11:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/09/data-science-certification7-100734862-large.jpg",
+          "width": 700,
+          "height": 467,
+          "title": "Interested in machine learning? Better learn PyTorch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    }
+  ],
+  "nextPage": 10
+}

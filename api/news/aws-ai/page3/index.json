@@ -1,0 +1,1169 @@
+{
+  "page": 3,
+  "value": [
+    {
+      "path": "_news/2020-03-25-aws-delivers-sessions-online-at-nvidia-gtc-digital.md",
+      "title": "AWS delivers sessions online at NVIDIA GTC Digital",
+      "excerpt": "Starting Tuesday, March 24, 2020, NVIDIA GTC Digital is offering courses for you to learn AWS best practices to accomplish your ML goals faster and more easily. Registration is free, so register now. The following sessions are available from AWS: \nS22492: Train BERT in One Hour Using Massive Cloud Scale",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-delivers-sessions-online-at-nvidia-gtc-digital/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T17:57:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "AWS delivers sessions online at NVIDIA GTC Digital",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-building-a-trash-sorter-with-aws-deeplens.md",
+      "title": "Building a trash sorter with AWS DeepLens",
+      "excerpt": "In this blog post, we show you how to build a prototype trash sorter using AWS DeepLens, the AWS deep learning-enabled video camera designed for developers to learn machine learning in a fun, hands-on way. This prototype trash sorter project teaches you how to train image classification models with custom",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-trash-sorter-with-aws-deeplens/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T13:37:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/deeplens-trash-sorter-1.gif",
+          "width": 1200,
+          "height": 545,
+          "title": "Building a trash sorter with AWS DeepLens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-making-accurate-energy-consumption-predictions-with-amazon-forecast.md",
+      "title": "Making accurate energy consumption predictions with Amazon Forecast",
+      "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including energy demand forecasting, estimating product demand, workforce planning, and computing",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T08:17:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/forecast-energy-production-1.gif",
+          "width": 1000,
+          "height": 374,
+          "title": "Making accurate energy consumption predictions with Amazon Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-this-week-amazon-has-a-chance-to-prove-it-can-do-the-right-thing-on-its-own.md",
+      "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
+      "excerpt": "The second solicits an independent investigation and report on Amazon’s facial recognition tech, Rekognition, detailing “the extent to which such technology may endanger, threaten, or violate ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379",
+      "ampWebUrl": "https://gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379/amp",
+      "publishedDateTime": "2020-03-24T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iz0nebw8k7iptywzjctx.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-investigating-performance-issues-with-amazon-codeguru-profiler.md",
+      "title": "Investigating performance issues with Amazon CodeGuru Profiler",
+      "excerpt": "Amazon CodeGuru (Preview) analyzes your application’s performance characteristics and provides automatic recommendations on how to improve it. Amazon CodeGuru Profiler provides interactive visualizations to show you where your application spends its time. These flame graphs are a powerful tool to help",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/investigating-performance-issues-with-amazon-codeguru-profiler/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T09:58:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/18/investigating-performance-codeguru-9.gif",
+          "width": 800,
+          "height": 478,
+          "title": "Investigating performance issues with Amazon CodeGuru Profiler",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning.md",
+      "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
+      "excerpt": "The reward for building the next generation of developer tools for machine learning will be many billions of dollars of enterprise value.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
+      "publishedDateTime": "2020-03-22T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F959488846%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4344%26cropY1%3D575%26cropY2%3D3017",
+          "width": 1200,
+          "height": 675,
+          "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-aws-announces-support-for-pytorch-with-amazon-elastic-inference.md",
+      "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
+      "excerpt": "With Amazon’s announcement, PyTorch can now work with Amazon’s SageMaker and EC2 cloud services. PyTorch is the third major deep learning framework to be supported by Amazon Elastic Inference, following in the footsteps of TensorFlow and Apache MXNet.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datanami.com/2020/03/23/aws-announces-support-for-pytorch-with-amazon-elastic-inference/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/shutterstock_1489195400.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-translating-documents-with-amazon-translate-aws-lambda-and-the-new-batch-translate-api.md",
+      "title": "Translating documents with Amazon Translate, AWS Lambda, and the new Batch Translate API",
+      "excerpt": "With an increasing number of digital text documents shared across the world for both business and personal reasons, the need for translation capabilities becomes even more critical. There are multiple tools available online that enable people to copy/paste text and get the translated equivalent in the",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translating-documents-with-amazon-translate-aws-lambda-and-the-new-batch-translate-api/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T16:14:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/20/batch-translation-6.gif",
+          "width": 432,
+          "height": 298,
+          "title": "Translating documents with Amazon Translate, AWS Lambda, and the new Batch Translate API",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-coronavirus-scare-india-postpones-summit-on-ai-to-october.md",
+      "title": "Coronavirus scare: India postpones summit on AI to October",
+      "excerpt": "NEW DELHI: Worried about the rising number of cases of Covid-19, the Indian government RAISE--Responsible AI for Social Empowerment) 2020 summit on AI (Artificial Intelligence)--to 5-6 October.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/technology/tech-news/coronavirus-scare-india-postpones-summit-on-ai-to-october-11584706416259.html",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/coronavirus-scare-india-postpones-summit-on-ai-to-october/amp-11584706416259.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/coronavirus-scare-india-postpones-summit-on-ai-to-october/amp-11584706416259.html",
+      "publishedDateTime": "2020-03-20T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/03/20/600x338/AI-kkGH--621x414@LiveMint_1584707001977.jpg",
+          "width": 600,
+          "height": 337,
+          "title": "Coronavirus scare: India postpones summit on AI to October",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-raspberry-pi-camera-with-smarts-cloud-or-local.md",
+      "title": "Raspberry Pi Camera With Smarts — Cloud Or Local?",
+      "excerpt": "[Mark’s] first pass was to use Amazon’s Rekognition service to process video. This allowed the camera to actually be smarter about what would trigger a detection event. In particular ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2019/03/07/raspberry-pi-camera-with-smarts-cloud-or-local/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/03/cam-1.png",
+          "width": 800,
+          "height": 450,
+          "title": "Raspberry Pi Camera With Smarts — Cloud Or Local?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-domo-announces-support-for-amazon-sagemaker-autopilot.md",
+      "title": "Domo Announces Support for Amazon SageMaker Autopilot",
+      "excerpt": "Amazon SageMaker Autopilot is an Amazon Web Services (AWS) solution that automatically trains and tunes ML models based on data provided by a customer. Companies can now use their data in Domo as ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15611470/domo-announces-support-for-amazon-sagemaker-autopilot",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15611470",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15611470",
+      "publishedDateTime": "2020-03-19T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-developing-applications-for-an-ai-enabled-world.md",
+      "title": "Developing Applications for an AI-Enabled World",
+      "excerpt": "Discover how modern organizations are transforming machine and deep learning investments into big business returns. Smarter applications that are capable of recommending products, predicting pricing, recognizing images, and improving decision making are ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/resources/200383/developing-applications-for-an-ai-enabled-world",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": "Developing Applications for an AI-Enabled World",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-amazon-elastic-inference-adds-support-for-pytorch-machine-learning-models.md",
+      "title": "Amazon Elastic Inference adds support for PyTorch machine learning models",
+      "excerpt": "Enhanced PyTorch libraries for EI are available by default in Amazon SageMaker, AWS Deep Learning AMIs, and AWS Deep Learning Containers, allowing developers to deploy PyTorch models in production with minimal code changes. In a blog post, Amazon explained that inference tends to account for around 90% of the compute costs for the average deep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/18/amazon-elastic-inference-adds-support-pytorch-machine-learning-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/aws-logo-reinvent2018-800x537.jpg",
+          "width": 800,
+          "height": 537,
+          "title": "Amazon Elastic Inference adds support for PyTorch machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-domo-shines-a-light-on-dark-data-with-new-augmented-capabilities-in-the-business-cloud.md",
+      "title": "Domo Shines a Light on Dark Data with New Augmented Capabilities in the Business Cloud",
+      "excerpt": "Domopalooza LIVE & On-Demand – March 18, 2020 – Today Domo (NASDAQ:DOMO) announced it is making it even easier to get BI leverage at cloud scale in record time through new augmented capabilities in the Domo Business Cloud.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15583687/domo-shines-a-light-on-dark-data-with-new-augmented-capabilities-in-the-business-cloud",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15583687",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15583687",
+      "publishedDateTime": "2020-03-18T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-at-aws-cloud-day-2020-in-jaipur-aws-architects-and-customers-share-their-experiences-on-aws-cloud-solutions.md",
+      "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
+      "excerpt": "On February 19, Amazon Web Services (AWS) organised the AWS Cloud Day in Jaipur. AWS solution architects, industry veterans and startups took to the stage to discuss Artificial Intelligence (AI), Machine Learning (ML), SAP, migration, cloud architecture, and how Amazon’s Cloud solutions are helping startups scale. The event was packed with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud",
+      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
+      "publishedDateTime": "2020-03-18T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1584522154228.png?fm=png&auto=format",
+          "width": 801,
+          "height": 401,
+          "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-tyler-technologies-micropact-global-alliance-members-secure-major-vocational-rehabilitation-and-employment-contract.md",
+      "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
+      "excerpt": "The completed project will be hosted on Amazon Web Services (AWS) and will feature 2,500 seats of Tyler’s Entellitrak ® solution ... Chainbridge Solutions leverages technologies such as Artificial Intelligence, Robotic Process Automation, and Machine Learning to deliver the next generation of case management solutions.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200317005053/en/Tyler-Technologies’-MicroPact-Global-Alliance-Members-Secure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200317005053/en/257505/23/tyler_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-aws-australia-returns-to-profit-after-posting-half-a-billion-revenue.md",
+      "title": "AWS Australia returns to profit after posting half a billion revenue",
+      "excerpt": "These included around cloud migration and modernisation, demand for contact centre technology and data analytics management and artificial intelligence. Last year, Migliorini spoke to ARN about AWS’ loss for 2018, saying the company had lowered its ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.arnnet.com.au/article/671884/aws-australia-returns-profit-after-posting-half-billion-revenue/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/adam_beavis.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "AWS Australia returns to profit after posting half a billion revenue",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-the-amazon-athena-query-federation-sdk-allows-you-to-customize-amazon-athena-with-your-own-data-sources-and-code.md",
+      "title": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.",
+      "excerpt": "To enable this Preview feature you need to create an Athena workgroup named AmazonAthenaPreviewFunctionality and run any queries attempting to federate to this connector, use a UDF, or SageMaker inference from that workgroup. We've written integrations with more than 20 databases, storage formats, and live APIs in order to refine this interface ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://github.com/awslabs/aws-athena-query-federation",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://github.com/awslabs/aws-athena-query-federation/raw/master/docs/img/athena_federation_flow.png?raw=true",
+          "width": 608,
+          "height": 552,
+          "title": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-the-smart-money-is-on-the-sensors.md",
+      "title": "The Smart Money Is on the Sensors",
+      "excerpt": "With a tracking module connected to the OBD II port and the integration of RFID readers, telematics use cases can be extended to identifying individual drivers and passengers through ID tag swipe. RFID technology allows businesses to, for example, keep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rfidjournal.com/articles/view?18461/2",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RFID Journal",
+        "domain": "rfidjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-amazon-updates-transcribe-with-automatic-redaction-of-personally-identifiable-information-feature.md",
+      "title": "Amazon Updates Transcribe with Automatic Redaction of Personally Identifiable Information Feature",
+      "excerpt": "Amazon Transcribe is an automatic speech recognition (ASR) service, allowing customers to add speech-to-text capabilities to their applications. Recently, the public cloud provider made a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/03/aws-transcribe-redact-pii/?useSponsorshipSuggestions=true",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
+      "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
+      "excerpt": "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15556274",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274",
+      "publishedDateTime": "2020-03-16T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-can-you-use-serverless-for-artificial-intelligence-today.md",
+      "title": "Can you use Serverless for Artificial Intelligence today?",
+      "excerpt": "At Radix we use multiple serverless services: AWS Lambda for computational ... tasks that are neither real-time nor involving artificial intelligence. But when does it make sense to use them ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/radix-ai-blog/artificial-intelligence-on-aws-lambda-9ef45ffe1309?source=post_recirc---------1------------------",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*1C3siq0SEr_vPuESChNTTw.png",
+          "width": 1200,
+          "height": 795,
+          "title": "Can you use Serverless for Artificial Intelligence today?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-here-are-20-companies-google-could-buy-to-boost-its-cloud-business-against-amazon-web-services-according-to-experts.md",
+      "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
+      "excerpt": "Google Cloud is likely going to make some big purchases to better compete with Amazon — some of them more likely than others.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/here-are-the-cloud-companies-google-could-buy-analysts-2020-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5c4bb3cd2bdd7f2b686a5184?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-washington-state-passes-landmark-facial-recognition-bill-reining-in-government-use-of-ai.md",
+      "title": "Washington state passes landmark facial recognition bill, reining in government use of AI",
+      "excerpt": "The Washington state legislature passed a bill establishing new guardrails on government use of facial recognition software. The bill cleared both chambers of the state legislature Thursday, hours before the session ended, positioning Washington as one of the first states in the nation to regulate facial recognition, a key component in the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/",
+      "ampWebUrl": "https://www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/amp/",
+      "publishedDateTime": "2020-03-13T18:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/legislature-630x473.jpg",
+          "width": 630,
+          "height": 473,
+          "title": "Washington state passes landmark facial recognition bill, reining in government use of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-a-complete-guide-to-the-machine-learning-tools-on-aws.md",
+      "title": "A Complete Guide to the Machine Learning Tools on AWS",
+      "excerpt": "Amazon Rekognition is a computer vision solution from AWS that helps developers to build applications that can recognize objects from images and videos. In addition to automatic object recognition ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/practicalmachinelearning/a-complete-guide-to-the-machine-learning-tools-on-aws-76dbf4e5aca3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/538/1*pCS2liznZQR4cm9WvU1oXw.png",
+          "width": 538,
+          "height": 340,
+          "title": "A Complete Guide to the Machine Learning Tools on AWS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-computer-vision-for-quality-control-cross-industrial-applications.md",
+      "title": "Computer Vision For Quality Control: Cross-Industrial Applications",
+      "excerpt": "Computer vision and machine learning can significantly augment the current activities of millions of workers, improve the accuracy level of operations and decrease the number of errors.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/13/computer-vision-for-quality-control-cross-industrial-applications/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/13/computer-vision-for-quality-control-cross-industrial-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/13/computer-vision-for-quality-control-cross-industrial-applications/amp/",
+      "publishedDateTime": "2020-03-13T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-58.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Computer Vision For Quality Control: Cross-Industrial Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data.md",
+      "title": "Using Machine Learning to Tackle Arms Proliferation In Russian Trade Data",
+      "excerpt": "We eventually settled on EMR (Spark & Livy), in conjunction with SageMaker, as it was perfect for our use-case. We picked these two for their ease-of-use in a collaborative work environment and ability to use multiple clusters to process our large dataset. The set-up process was substantial and required some of what would be called a sysadmin ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T19:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ji9YlyGqz6Y_1dCss28fnA.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "Using Machine Learning to Tackle Arms Proliferation In Russian Trade Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-artificial-intelligence-robots-market-competitive-outlook.md",
+      "title": "Artificial Intelligence Robots Market Competitive Outlook",
+      "excerpt": "This global Artificial Intelligence Robots Market report includes all the company profiles of the top market players and brands Client s needs are understood well by experts leveraging their expertise and strong knowledge base to identify and evaluate competition and",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1964127/artificial-intelligence-robots-market-competitive-outlook",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-toradex-collaborates-with-amazon-web-services-and-nxp-to-release-apalis-ai-vision-starter-kit-for-the-imx-8-applications-processor.md",
+      "title": "Toradex Collaborates with Amazon Web Services and NXP to Release Apalis AI Vision Starter Kit for the i.MX 8 Applications Processor",
+      "excerpt": "The cloud stack is deployed directly from the device in just a few steps via AWS CloudFormation as a dedicated AWS instance. AWS enabled the NXP i.MX 8 applications processor as a target for Amazon SageMaker Neo. Amazon SageMaker Neo allows developers to optimize a ML model for a certain device. Lastly, a trained and optimized model is included ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/news/toradex-collaborates-with-amazon-web-services-and-nxp-to-release-apalis-ai-vision-starter-kit-for-the-i-mx-8-applications-processor",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5e67d3c91f0cd-76219803_toradex_aws_nxp.jpg",
+          "width": 5000,
+          "height": 1934,
+          "title": "Toradex Collaborates with Amazon Web Services and NXP to Release Apalis AI Vision Starter Kit for the i.MX 8 Applications Processor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-artificial-intelligence-in-education-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis-by-2025.md",
+      "title": "Artificial Intelligence in Education Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis by 2025",
+      "excerpt": "New York March 10 2020 The global Artificial Intelligence in Education market report scope includes detailed study covering underlying factors influencing the industry trends The global Artificial Intelligence in Education market is expected to exceed more than US 4 Billion",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1960878/artificial-intelligence-in-education-market-insights",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    }
+  ],
+  "nextPage": 4
+}

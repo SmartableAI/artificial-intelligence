@@ -1,0 +1,1230 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
+      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+      "excerpt": "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for their specific use case in the Augmented AI console or via its Application Programming ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-ai-may-help-brain-cancer-patients-avoid-biopsy.md",
+      "title": "AI may help brain cancer patients avoid biopsy",
+      "excerpt": "A new study by UT Southwestern shows artificial intelligence can identify a specific genetic mutation in a glioma tumor ... practice of pretreatment surgeries in which glioma samples are taken and analyzed to choose an appropriate therapy. Scientists across the country have been testing other imaging techniques in recent years, but the latest ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scienceblog.com/515689/ai-may-help-brain-cancer-patients-avoid-biopsy/",
+      "ampWebUrl": "https://scienceblog.com/515689/ai-may-help-brain-cancer-patients-avoid-biopsy/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/515689/ai-may-help-brain-cancer-patients-avoid-biopsy/amp/",
+      "publishedDateTime": "2020-04-21T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2020/04/AI-may-help-brain-cancer-patients-avoid-biopsy-.jpg",
+          "width": 900,
+          "height": 708,
+          "title": "AI may help brain cancer patients avoid biopsy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-19-have-1000-to-invest-buy-these-2-artificial-intelligence-stocks-now.md",
+      "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
+      "excerpt": "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things la",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?time=1587323042",
+      "ampWebUrl": "https://www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?amp",
+      "publishedDateTime": "2020-04-19T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling.md",
+      "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
+      "excerpt": "Systems and Sociometrica analyze the sentiment of 63,000 social media posts each day to determine the emotional state of the internet in response to COVID-19.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/amp/",
+      "publishedDateTime": "2020-04-17T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e99d3447be2870006ce16f8%2F0x0.jpg",
+          "width": 1200,
+          "height": 1203,
+          "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-artificial-intelligence-trends-to-watch-out-for.md",
+      "title": "Artificial Intelligence Trends To Watch Out For",
+      "excerpt": "Trends and predictions in Artificial Intelligence can be difficult to predict, but one thing is certain - AI will make significant strides in the healthcare sector more so now given that we are battling a once in a lifetime pandemic. Although many businesses today throw the term “AI” around casually in their grey literature, it perfectly ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/349421",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349421",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349421",
+      "publishedDateTime": "2020-04-17T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190109070104-shutterstock-529299211.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Artificial Intelligence Trends To Watch Out For",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-global-artificial-intelligence-ai-in-healthcare-market-growth-size-share-trends-status-and-forecast-2020-2027.md",
+      "title": "Global Artificial Intelligence (AI) in Healthcare Market Growth, Size, Share, Trends, Status and Forecast 2020-2027",
+      "excerpt": "A new research report titled “Global Artificial Intelligence (AI) in Healthcare market” successfully exhibits the complete scenario of the global and an individual analysis of the various regional segments.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-growth-size-share-trends-status-and-forecast-2020-2027-2020-04-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Artificial Intelligence (AI) in Healthcare Market Growth, Size, Share, Trends, Status and Forecast 2020-2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-some-countries-in-the-middle-east-are-using-artificial-intelligence-to-fight-the-coronavirus-pandemic.md",
+      "title": "Some countries in the Middle East are using artificial intelligence to fight the coronavirus pandemic",
+      "excerpt": "AI's ability to crunch large amounts of data has allowed governments worldwide to collect information to try and stop the pandemic.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html",
+      "publishedDateTime": "2020-04-15T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106491036-1587017369683gettyimages-1209811046.jpeg?v=1587017408",
+          "width": 3317,
+          "height": 2083,
+          "title": "Some countries in the Middle East are using artificial intelligence to fight the coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-these-are-the-new-hot-spots-of-innovation-in-the-time-of-coronavirus.md",
+      "title": "These are the new hot spots of innovation in the time of coronavirus",
+      "excerpt": "Entrepreneurs are innovating in new ways as a result of the coronavirus. Potential examples include virus resistant nanoparticles for health worker protective gear and home schooling solutions, CEO of global start-up accelerator The Founder Institute Adeo Ressi tells CNBC Make It.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/15/hot-spots-of-innovation-as-a-result-of-coronavirus-pandemic.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/15/hot-spots-of-innovation-as-a-result-of-coronavirus-pandemic.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/15/hot-spots-of-innovation-as-a-result-of-coronavirus-pandemic.html",
+      "publishedDateTime": "2020-04-15T17:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106490055-1586970735615outschoolteam.jpg?v=1586970997",
+          "width": 1800,
+          "height": 1200,
+          "title": "These are the new hot spots of innovation in the time of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-artificial-intelligence-spending-in-health-care-will-see-a-15-billion-increase-by-2025.md",
+      "title": "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025",
+      "excerpt": "If the coronavirus has proven anything, it’s that health care organizations can no longer ignore the role of artificial intelligence in their daily work. In a report released by ABI Research, AI spending in the health care and pharmaceutical industries is expected to increase from $463 million in 2019 to more than $2 billion over the next ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will?amp",
+      "publishedDateTime": "2020-04-15T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1586980466/shutterstock_608550530.jpg",
+          "width": 5669,
+          "height": 3785,
+          "title": "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-3805-during-the-forecast-period-2020-2028.md",
+      "title": "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028",
+      "excerpt": "KEY FINDINGS The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-38-05-during-the-forecast-period-2020-2028--301045674.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-lucidhealth-and-riverain-technologies-are-committed-to-the-delivery-of-advanced-radiology-through-artificial-intelligence.md",
+      "title": "LucidHealth™ and Riverain™ Technologies Are Committed to the Delivery of Advanced Radiology Through Artificial Intelligence",
+      "excerpt": "“LucidHealth is committed to advancing the quality of community radiology patient care by combining leading radiologist expertise with cutting edge Artificial Intelligence. Riverain’s ClearRead in ... designs advanced AI imaging software used by leading international healthcare organizations. Riverain ClearRead solutions significantly ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200414005825/en/LucidHealth™-Riverain™-Technologies-Committed-Delivery-Advanced-Radiology",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200414005825/en/785010/23/Riverain_Technologies_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "LucidHealth™ and Riverain™ Technologies Are Committed to the Delivery of Advanced Radiology Through Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to-boost-growth-technavio.md",
+      "title": "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio",
+      "excerpt": "Technavio has been monitoring the artificial intelligence-as-a-service (AIaaS) market and it is poised to grow by USD 15.14 billion during 2019-2023, progressing at a CAGR of over 48% during the forecast period.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.register-herald.com/region/artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to/article_60905b39-6f72-547d-8ec5-a2ca4ff1c12a.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/d/56/d56fd7d1-9b5f-510e-ab82-2929c2a90a99/5e905cb07d069.image.jpg?resize=1000%2C564",
+          "width": 1000,
+          "height": 564,
+          "title": "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-upmc-launches-clinical-trial-for-covid-19-therapies.md",
+      "title": "UPMC launches clinical trial for COVID-19 therapies",
+      "excerpt": "The adaptive clinical trial relies on a type of artificial intelligence known as reinforcement learning to identify the best therapy for COVID-19, Angus explained. “This approach using adaptive platforms is not what people ever did normally, but it is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellwood City Ledger",
+        "domain": "ellwoodcityledger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-upmc-led-global-trial-fast-tracks-testing-of-hydroxychloroquine-other-covid-19-therapies.md",
+      "title": "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies",
+      "excerpt": "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp",
+      "publishedDateTime": "2020-04-09T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-application-and-by-end-user-researchandmarketscom.md",
+      "title": "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/b15773783/global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-applica",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15773783",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15773783",
+      "publishedDateTime": "2020-04-09T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
+      "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+      "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "publishedDateTime": "2020-04-09T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-artificial-intelligence-ai-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2025.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market 2020 Global Analysis, Opportunities And Forecast To 2025",
+      "excerpt": "The report provides a holistic summary of basic, secondary and advanced information pertaining to the Artificial Intelligence (AI) in Healthcare Market Research Report 2020. Market status, market value,",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-04-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market 2020 Global Analysis, Opportunities And Forecast To 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-microsofts-cto-explains-how-ai-can-help-health-care-in-the-us-right-now.md",
+      "title": "Microsoft’s CTO explains how AI can help health care in the US right now",
+      "excerpt": "Scott’s book tackles how artificial intelligence and machine learning can help rural America in a more grounding way, from employment to education to public health. In one chapter of his book, Scott focuses on how AI can assist with health care and diagnostic issues — a prominent concern in the US today,",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
+      "publishedDateTime": "2020-04-07T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/TrMdv5CKOKd-anE8ovz4hZ2WC84=/0x0:1314x739/1400x933/filters:focal(558x160:768x370):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66617290/y648_1.0.jpg",
+          "width": 1314,
+          "height": 739,
+          "title": "Microsoft’s CTO explains how AI can help health care in the US right now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-artificial-intelligence-ai-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
+      "title": "Artificial Intelligence (AI) Market - What Are The Main Factors That Contributing Towards Industry Growth?",
+      "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-04-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Market - What Are The Main Factors That Contributing Towards Industry Growth?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
+      "title": "5 practical reasons to embrace artificial intelligence",
+      "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "publishedDateTime": "2020-04-07T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/07/b9096b1a-0696-4267-a3f0-1ee3c61fe529/resize/1200x/ef5bf98b81cf782d65908c237d3d27b5/drone-garden.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": "5 practical reasons to embrace artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-from-artificial-intelligence-to-smart-pens-technological-advancements-in-diabetes-care.md",
+      "title": "From Artificial Intelligence to Smart Pens: Technological Advancements in Diabetes Care",
+      "excerpt": "By creating an interface through which the pen can keep a track of insulin doses, store the data in an app and share the data with users, care givers and health care professionals ... For the past few years, artificial intelligence has been touted to be the game changer in diabetes care, but somehow AI has not lived up to its initial promise.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/348861",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348861",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348861",
+      "publishedDateTime": "2020-04-07T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160126153527-sugar-glucose-test-diabetic-diabetes-insulin-blood-test-glucometer.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "From Artificial Intelligence to Smart Pens: Technological Advancements in Diabetes Care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources.md",
+      "title": "IBM Research releases a new set of cloud- and artificial intelligence-based COVID-19 resources",
+      "excerpt": "IBM Research is making multiple free resources available to help healthcare researchers, doctors, and scientists around the world accelerate COVID-19 drug discovery. The resources can help with gathering insights, to applying the latest virus genomic information and identifying potential targets for treatments, to creating new drug molecule ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources/",
+      "publishedDateTime": "2020-04-06T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/30/9d77cb26-0bf8-4a88-9914-3b3b1476683a/thumbnail/1200x675/e399bd4202906ef1cb6b7a5fac192bd4/20200324-scott-karen-3d-tr-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM Research releases a new set of cloud- and artificial intelligence-based COVID-19 resources",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-coronavirus-could-be-catalyst-for-healthcare-ai-advances.md",
+      "title": "Coronavirus Could Be Catalyst for Healthcare, AI Advances",
+      "excerpt": "Just as the U.S. government significantly invested to put Neil Armstrong and others on the moon by 1969 – $200 billion in today’s dollars by his estimate – Scott said similar funding in artificial intelligence technology could be a difference-maker for our nation’s battered health care system. Scott, 48, whose new book about AI will be ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/health/Coronavirus-Could-Be-Catalyst-For-Healthcare-AI-Advances.html",
+      "ampWebUrl": "https://www.govtech.com/health/Coronavirus-Could-Be-Catalyst-For-Healthcare-AI-Advances.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/Coronavirus-Could-Be-Catalyst-For-Healthcare-AI-Advances.html?AMP",
+      "publishedDateTime": "2020-04-06T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_710348230.jpg",
+          "width": 839,
+          "height": 630,
+          "title": "Coronavirus Could Be Catalyst for Healthcare, AI Advances",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-04-artificial-or-human-intelligence-companies-faking-ai.md",
+      "title": "Artificial Or Human Intelligence? Companies Faking AI",
+      "excerpt": "Some companies are choosing to approach these AI challenges not by scaling back their AI ambitions, but rather by using humans to do the task that they are otherwise trying to get their AI systems to",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/",
+      "publishedDateTime": "2020-04-04T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1126179832%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6480%26cropY1%3D292%26cropY2%3D3936",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial Or Human Intelligence? Companies Faking AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-how-ai-can-determine-which-coronavirus-patients-require-hospitalization.md",
+      "title": "How AI can determine which coronavirus patients require hospitalization",
+      "excerpt": "This is one area where artificial intelligence can help, experts at Jvion believe ... “Which patient could do well at home, and which patient is likely to not survive no matter what therapy is offered is one of the more difficult clinical challenges. AI can definitely help in this space.” Jvion’s AI will help identify uninfected ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/02/ai-can-help-manage-hospital-resources-during-the-coronavirus-crisis-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/02/ai-can-help-manage-hospital-resources-during-the-coronavirus-crisis-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/ai-can-help-manage-hospital-resources-during-the-coronavirus-crisis-syndication/amp/",
+      "publishedDateTime": "2020-04-02T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-3-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "How AI can determine which coronavirus patients require hospitalization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
+      "title": "Artificial intelligence can speed up the detection of stroke.",
+      "excerpt": "Timely detection and accurate segmentation of acute ischemic stroke (AIS) lesions on magnetic resonance images (MRIs) are essential for the triaging patient for endovascular therapy. Lesion segmentation is a routine process where the abnormal areas within ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://infosurhoy.com/news-summary/artificial-intelligence-can-speed-up-the-detection-of-stroke/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoSur Hoy",
+        "domain": "infosurhoy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://infosurhoy.com/wp-content/uploads/2020/04/20-artificialin.jpg",
+          "width": 453,
+          "height": 480,
+          "title": "Artificial intelligence can speed up the detection of stroke.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-artificial-intelligence-in-healthcare-market-insights-by-size-share-future-growth-and-forecast-from-2019-2029.md",
+      "title": "Artificial Intelligence in Healthcare Market Insights By Size, Share, Future Growth And Forecast From 2019-2029",
+      "excerpt": "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-insights-by-size-share-future-growth-and-forecast-from-2019-2029-2020-04-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Healthcare Market Insights By Size, Share, Future Growth And Forecast From 2019-2029",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-icon-group-partners-with-varian-to-advance-cancer-care-in-the-southern-hemisphere.md",
+      "title": "Icon Group Partners with Varian to Advance Cancer Care in the Southern Hemisphere",
+      "excerpt": "This artificial intelligence (AI)-driven holistic adaptive therapy solution is designed to deliver an entire adapted treatment in a typical 15-minute timeslot. Icon Cancer Centre is part of Icon ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere",
+      "ampWebUrl": "https://www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere?amp",
+      "publishedDateTime": "2020-04-01T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2020/pr-newswire_500_4_23.jpg?itok=ksaCxlcx",
+          "width": 763,
+          "height": 509,
+          "title": "Icon Group Partners with Varian to Advance Cancer Care in the Southern Hemisphere",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-predictive-oncology-reports-2019-full-year-financial-results.md",
+      "title": "Predictive Oncology Reports 2019 Full-year Financial Results",
+      "excerpt": "Predictive Oncology Inc. (NASDAQ: POAI) (“Predictive Oncology” or “the Company”), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Globe Newswire/447e5e17eb9b55a2c78f4e0aaea5fa81",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Predictive Oncology Reports 2019 Full-year Financial Results",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets.md",
+      "title": "Healthcare and artificial intelligence: How Databricks uses Apache Spark to analyze huge data sets",
+      "excerpt": "There is no shortage of big data sets in the healthcare world, encompassing everything from chest X-rays to drug research. Startups and established companies alike are both using artificial intelligence (AI) and machine learning to analyze these data sets and use the results to guide business strategy and treatment plans. Special Feature ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets/",
+      "publishedDateTime": "2020-04-01T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/12/dd98591c-0dd3-4ca8-b9b9-a86a1a885ead/thumbnail/1200x675/eb84aa5cfc1c259d5633e76710557363/ibm-tests-the-use-of-artificial-intellig-5e69776e710b2800019c9e04-1-mar-12-2020-2-28-12-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Healthcare and artificial intelligence: How Databricks uses Apache Spark to analyze huge data sets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    }
+  ],
+  "nextPage": 2
+}
