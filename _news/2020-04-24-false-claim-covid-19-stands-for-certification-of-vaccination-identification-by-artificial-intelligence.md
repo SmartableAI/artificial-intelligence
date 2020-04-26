@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2262AS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2262AS"
 type: article
 quality: 86
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 630
     title: "False claim: COVID-19 stands for Certification of Vaccination Identification by Artificial Intelligence"
 
-secured: "YUbnihZZTcUGQXU1bp5ectYwg63nZmc+P4yihaw6AXGJnYzzYkLz8/PGn03PaKQwMIuJUT42hMdSgAyas+qUh32+T0xSUEdN9jzU6bl7Ysx3K5hS039t+0+2uBxhlRyZkF6SnJkNY/pe73zNxub6PspL1u6xqkF0WqUwr8z7Mw/FxNkW5Me6d9eRYN126fkIZKKgvqkTRyilbWFVHjkeFGeKzTV8Pimmw/IjOqVuGUTSbFIqhHkM/AUV2V5XU7oR1zFK3ra1d4I4PQLZNNNoV29GACA5Z8qQ1ldmg4D2mwpA2zReoOd1jM0L7fN4+OnR;+r3d79BtQwWkNpbzwr8OKQ=="
+secured: "UK+AOYH7wmIfs/Y11ouxGd7j1iB2okAX0c7gA2BuYsmC+SdFUjfZhYVvHn68ZL/c9WU2VU1652yzApD21Ha4fgIhpn5idfYi4bazAx+vmEBW1XN5Edast7q8JE9aplinM6xZoOeCoaYgTQDs7YA8ZtA95//RcjibkPwZwZS4RuyRV5Rw8xR2qql9oA7ML7lYMupB9XwJzVUzSdyTm49f6SCmCa9STzFgxZQzxGaabNAUD8/1nemZfaT4nm0Abbc+luXfJ7SHmr4UjaK4fq+8X8vxzIZgrwILFMmUKLg0qkhc29fTxg1BWIFnvyJ0CsIq;94IRHHS5J15fNqbWyTYoRw=="
 ---
 
