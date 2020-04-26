@@ -7,8 +7,8 @@ webUrl: "https://www.thehindu.com/education/the-buzzword-is-ai/article31439800.e
 ampWebUrl: "https://www.thehindu.com/education/the-buzzword-is-ai/article31439800.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-buzzword-is-ai/article31439800.ece/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.thehindu.com/education/i0imy8/article31439799.ece/ALTERNATES/LANDSCAPE_615/27EPBSAIM-1"
@@ -24,6 +25,6 @@ images:
     height: 384
     title: "The buzzword is AI"
 
-secured: "3cdhSXmKlNNf2kvQDjPJoldGcfUG9LfS6DCxr5kvkJdaKWXhNw28brQMNAuvUW2GmO7l642cL6Js26EwDXkZ/AeF+4OMSfU9+jBrXYrZvRUZWWpaS/6JUymNv6XFJ5rAPz0VbhG4iWKM0NnLogmLmT+jwTaewcz+H7ti0sMOzTBvueWRvp75c/Hajc2ZoHb8Kqr8OwO5r/5Koj+R0/a/3Ksl+WRs6nkXZg21HCi9PSdpGYjVldhFk3MabwAf5ISVRY6OXEoCer8h5Sx2X9yc/NlyAR0VKUX/H2AkRBxeorfozs13jyfyHrqmDJzL9zmP;uPNr4g8ffciE13a6aQ9kbA=="
+secured: "JFYs1gfx1yUQruM5+Wt6MsjhnMPAfdp2j90jKiWpLmaQmgdE3atDtUdT2gBdLa1DjheU6w4O4GBsALS3fhZaBLtqPQzb9Ld6+1lZAf0zFHrJ6IH/uye21rfDutDm04Ky+b/JKktPVtjQ9fMvBkDTb9lFFoUP2Wv2JZA5xEloqVYga35YaqCUY4hg7sTrvtNlA7/TlHO47S9c5Qpmto3pMzT1w+eYtnh5fQ3HCft6yKyNX1sRbBGycohk50NUzTv9k9deJaskupzENy8VVylqDnRP5w1gYrygTybAszjcs84x+ckcZsv0wIVZvcLG58Y0Nho/TDCO4YX+Y1vuPXNGTd3OVuVcTpK6bwYvIm3fK3Y3fA1KNn1W3ptPdyxWPwKEa+6X0HtYd4k/KBwC2KfHTZlBKpDO73N93+P0yD+8jqfxYj7Tt1OuGSi5SKaWu+dJQM8pJ5qgzrgyElF2PiXTDqa4ZqupTUQ2YDuXvS54yoU=;6MqAvTHXNr1ztlZkynsm1Q=="
 ---
 

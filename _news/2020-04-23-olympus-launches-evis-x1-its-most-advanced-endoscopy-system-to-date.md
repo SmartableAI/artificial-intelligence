@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Olympus Launches EVIS X1, its Most Advanced Endoscopy System to Date"
-excerpt: "Being committed to innovation, Olympus is also already developing future technologies – in particular featuring artificial intelligence (AI). \"EVIS X1 is the latest innovation ... This minimally invasive technology could also help reduce physician stress during endoscopic therapy. Texture and Color Enhancement Imaging (TXI): TXI supports ..."
-publishedDateTime: 2020-04-23T07:08:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/olympus-launches-evis-x1-its-most-advanced-endoscopy-system-to-date-1029121019"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/olympus-launches-evis-x1-its-most-advanced-endoscopy-system-to-date-1029121019"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/olympus-launches-evis-x1-its-most-advanced-endoscopy-system-to-date-1029121019"
+excerpt: "HAMBURG, Germany & TOKYO, Japan-- ( BUSINESS WIRE )-- Olympus Corporation (President: Yasuo Takeuchi) today announced the launch of EVIS X1, its most advanced endoscopy system to date. The new system is to improve outcomes from disorders of the stomach,"
+publishedDateTime: 2020-04-23T07:38:00Z
+webUrl: "https://www.businesswire.com/news/home/20200423005044/en/Olympus-Launches-EVIS-X1-Advanced-Endoscopy-System"
 type: article
-quality: 54
-heat: 54
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "iUHnNkBfEfMRMwW9tYwUy0us0mi/Wo91mmV2enxB6I36+VciDwFUbKK/8ihj7srrMvUiA59H5Fi8oAtrQ2gdzCzWG+Txm6MDs27PMDjSP173TawW1va14Lmq2kReIExW32GJuXtbb9LBO2uSEC7hWysqgRaGHCXAl8mAgZBmGOa3VptkkjfAF+Zr1rqMSvcl9LFuEFPG3cWE+1XCrg/RaItQPIIA3lNEzEN0/3Z/Hi2KnicO9bIm8e2MDvY3e6mdnZkrcnUrHZAtwUvVH4WKiahbQn97YuOxjwskTT4CBb/G/L71rXHhcqMJV1feiiL1zJXsV5bg8Q/PFsKW4nsYJi37qawZ8V6NnIoBF1aUgHQk0W8X3KNXRMkhjZ3gDMmRZP4rtEGYv09wk5d3P/Ex1FXoBxdKqdpD3sK9GU15soV56etIh6w5hKxYBbGwtnEyMtsBDOGvT5EyFqIiR1y2EfITQMRmh6DmBBP5UYZ4vGw=;auvFA1+YtYoxbR6aTSHdEQ=="
+images:
+  - url: "https://mms.businesswire.com/media/20200423005044/en/786288/23/Olympus_EVIS-X1_CV-1500_front_72dpi.jpg"
+    width: 1200
+    height: 627
+    title: "Olympus Launches EVIS X1, its Most Advanced Endoscopy System to Date"
+
+secured: "suQz/PMbSnWYMsbO6suq0OKoovpAWab0ekRszslx/vt0NW79fozcx8uxbMkwsforUHrusE4jIMvmH/v72IBbVCofo179BQLkD/+Gl+J/kt9I9oET/LnQ8baXlRJXewPALmGPOYNjkQW+U+rdbKhl6fKR0ravS41x1VjHYZ4tjt67Sl8ZHvw9QdFryw9aCeXTIlG5EB7XctSZzh57k1z6P5/m4JbhfW2ni8jColCjS028T9vYG6PglYOun4fFdz/YEdOyBQ0lX372T2gUTSGn3u2QVeKo0xokuiB5g8iASq/9T0fNoKb7HjXx3wwCpMpB;XhvPW+k32A1rQwsk3T34Rw=="
 ---
 

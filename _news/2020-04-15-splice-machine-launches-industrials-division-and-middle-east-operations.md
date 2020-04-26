@@ -1,13 +1,10 @@
 ---
 category: news
 title: "Splice Machine Launches Industrials Division and Middle East Operations"
-excerpt: "Splice Machine, the leading scale-out SQL database with native machine learning, has today announced that it has launched a new"
-publishedDateTime: 2020-04-15T12:30:00Z
-webUrl: "https://www.prnewswire.com/news-releases/splice-machine-launches-industrials-division-and-middle-east-operations-301040683.html"
+excerpt: "Global leaders in financial services, healthcare, consumer products ... Splice Machine is the only scale-out SQL database with native machine learning. Splice Machine slashes software, infrastructure and people costs by combining operational workloads ..."
+publishedDateTime: 2020-04-15T17:30:00Z
+webUrl: "https://www.prnewswire.com/ae/news-releases/splice-machine-launches-industrials-division-and-middle-east-operations-301040683.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: PR Newswire
@@ -23,6 +20,6 @@ images:
     height: 628
     title: "Splice Machine Launches Industrials Division and Middle East Operations"
 
-secured: "4MSDXAKTZRSANkEegkiqzcFcu1Pso2QEFZm9fE230NcqG/o06sClNfumeS84FIKnbzKzBA/1fL7jaUztZu3ghbUTR9YpEdUfE0ZWHnXSujk0dqPYEJk/Oh/eXE1j/fhjN//mf2A0IEIfWflQP/cnaXNxz+hObIQtwJfOFHz9jsHzfmvMvdV7z+JgNFvnIniQy8TTKzGg/5+YrY15enF9OLecHkb4SFgvCvhHmKpLV/G4EN8NP3wRRi1iu1hDXOU8cBSyjYpMMhCUpRxajiGabZ5YQ9Cx1U2WJ6TBhCilnV4DcAqveGp39XUAGe656j/C5NYbbdwOTnUHkk0/1MD4kIX6zVtTT9fYgjLW3PF8jNHJWr0Pgd7Bw32jKCBCWqaPuMN5SENqCalFE/BEI2fpIJtE/kbPOxnFT+cxgvchRjxieF0OX/L7dcGhs5yMq7OioYrpONLSSEsGfwAZGgb9e9CNhTek/6HPp2VqXi5LcNA=;x84x9inHoIPrjYGm94WpSw=="
+secured: "qNn5mzzBOJDKNLLJlZiKF7Qsb3VZ5QJct34z0nHHuIV8F4B9+6Xgbknc++TjqxgkcAm06VpEqAx5Cj2D9EdlW5eaNj+gG5w9Cii/e7XJ7cKjLzujoihbFEjDoCp6qgP1IAMeBGOikp5wUDXB9W+mYH4+8NVhdsj9Jip4vkatfqT2Eda8/WbmB584+fnVI4RfOmegNRq73Wf+hXWCr/qZj+ocwjHp0SN+F4VDV05xjTANIrHOjs2nuNxP2KJkvD+Rkvag/I5zdl//sgGX+/IkUhpReIMYpRsUT5jmCZCUf5Y7kkkqDqEnTEDYdcOsZMMo;aOYD0RewWEhaWMnzqZZYXQ=="
 ---
 
