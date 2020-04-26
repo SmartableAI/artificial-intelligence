@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/04/26/microsoft-cto-ai-can-help-rural-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html"
 type: article
 quality: 75
-heat: 75
+heat: 76
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 1202
     title: "Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic"
 
-secured: "yGG1Iscq/kSYQnkeoLoKTkjQPvRt0ITk/1RC/Cynt8C/VEJfhZSUTtmcslTUNzoTUUbps0Or9fxO7HbUzYxwmTnj3cDGeXMtFbjA9/3nO5pC+gD/WsUdic2HNdOiwG+ksVO4BZlCQl/EpeEIs2Pi1VLdV4iDS+jCKIYXJgiJuLtDhsB8WmDgx/R1ASVGdQqWcGGvzYsvtABuardPLtkI/IFNfTM846qu2mv+JOBJ9upPkjh3+x6GIjCdv6zwmajgtpfHiHFRe+tjM9MsjGeqQFCWailUf21S7NMsNY1DJqWSlXwZHhdsDNsbZWKEF+3eIznBnT1yXTIMD2dgt9tePiIwcylRAAJqfinSuZ6t0U1D0sRDujFbJkpEgpcjUfmtnMkNMl6/1vfgwjZumi3AXTzUF+A4IKYsgmAh+Ga5kLRSZPMKZ1q02j6zsz2MmVNjjegeFuBPGzQy9jpIyFEf8htzPLZ3gdnP/y435MZsMLI=;NfAnDfh/hZO6VLAK3CN4pQ=="
+secured: "Bb8i3g9qa58Y6M0BH1IYd3JNPsQlRJbRN1nKJjuNPmlq1J3UzzkIKiAqXtr1/aVhEuu+ZyvDU5fz+Sf1fGji2NbiFF6rE8Qo4i0ImVLHW2lAvtpq5eUjO7MZCaPWxF1EqwyK5Q5SIqZGEWoxXzQ2D38heirE53zFHw0RncXqX4fUDLP1al3LC4YGb4jXwxFCaxjg6EmJh79p8dLsD3pHsmjhO/Ll3winPOGcYgQ0mMscCWsDnSkAhauRuMexdSBVUU3SF1h+Uize/1CIeCm8dkAegGw3dU8//hliN8P9EkoLNpQOhONNyVrvxuXpsJc4XU2yhEYSIrGwvZUAS/us0/QryOujj9IkbCLKQCixOXecJoWHZdpxvvNMlIKWQg0nlWvExEfP2k/mDjCluu7w5GUMpxvXL9lBMQoxrQ+bTRfpJWKHUp5IUw7PYkl7efm2KBZBhAybIgD6sHWHjFtNz6oSzINFmql8qtNNwMZG5pI=;hY/LeuFSNtpnzxMrm80olg=="
 ---
 

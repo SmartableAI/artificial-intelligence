@@ -24,6 +24,6 @@ images:
     height: 450
     title: "Student to Student: Artificial intelligence/machine learning"
 
-secured: "74ilTpSoyQlRkvfXFtPeMvAMg//7I19zqBPePbb4Bt9/L0+CuK2pXJ1qsaoJRNrH0mQskQAe1RVcKr2TVonxEm9lgOONPXr2fca7TBAPGZ6cigN3eN5a0VyDvdg+wE52S+nJzj2fNNRlR/oq8tt5JgGYRq6k/nsb3H65/ivs8FUT9PX47HrNmm37aYl0JPDAA4YTeZlE+nL+nNaZZp2VHxvswg4lUzZq1zO2FE4Vm3hdjmbpMj1kaDCi2n2prIgLnR3qiTRfmyZax3ge+76VO2jz/KuErenXeUgKeWXtSFoyEhok38jSrGQxmNrIQ26u;y/8PnTX0DLVZcwFxSyireQ=="
+secured: "gLAMJXd5ibY0z7Kin7Q8QUBkZtBo1SmBIZo+xm3+tpgMEbwJqwNuVZvSsGorbvMk9GRwbcZWOPJKu9oC0TT/BuaDmQIDbMn1lOvF3vUg+qoNLD90NYkkOt+7LH8IYVb5daTf6l0F/2c2phlySuKN0N9C9QVulDdxO+vAZfCBLkgU0CpRFT+o+T5rq1DW4FkTULnmnMwDZwylwck3NfyzjNx0u6QUtQK3gC/MvDa2vfKqmpfUw0dyv+XpsXZS7jam0N0uHyTWLS69HPJc/cPTDCNvcBTEcJHs0Qxwyd/isN1j2ntuzoeVIyjjAi/V/Nl7Ka1CI0FORrJhu+xO77Ja2ej9GIHGCrmPG2a1ZektVkg5uT6hQzW6fWtxE++u+RYsE8QkQSa+Kpcev5yRk+npbzeXIpTVuEyap9jrELmaU/6JAosd/O8sXHexNx3iBOm3URf5H1Q3RqEKG3x4/ZIyLsenIGOwndykVQFIQFSdWXk=;AvOHAmXuw7s4Kfdxf43mrg=="
 ---
 

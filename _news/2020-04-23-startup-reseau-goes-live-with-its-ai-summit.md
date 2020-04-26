@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Startup Réseau Goes LIVE With its AI Summit"
-excerpt: "Before it's here, it's on the Bloomberg Terminal."
-publishedDateTime: 2020-04-23T07:36:00Z
-webUrl: "https://www.bloomberg.com/press-releases/2020-04-23/startup-r-seau-goes-live-with-its-ai-summit"
+excerpt: "The online summit will cover themes and tracks across core technology and applications, where AI is playing a massive role Built on the founding pillar of #StartupsFirst, 'Startup Réseau' is an ecosystem of Enterprises, Capital, Markets, and Services – for Startups, by bringing in various types of structured interface for enabling unique ..."
+publishedDateTime: 2020-04-23T07:43:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/startup-reseau-goes-live-with-its-ai-summit-847656852.html"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "0ly2lqHMewVQMEq5DC6DeySqJqQik5pGkGsh7SFkdbc82CX8Csdp2/BrpWxc/vhjC5VYFeiWmlXnvAzUC8J+5lGjjrIFKLO7ifOkSIcBuKe3+Irc0XGOzpzWKidr6it3o/poySsdAas6LgzSlsODvOgnzeObe0Y8gDDCRkdAJLTz7TODG+JUNfVJFH2PeHV1ZLVTOoKEqkV7HdhMA18XiB3RkhX9g5Pw0wZrMGzcSwoHuQwv/jY2qkVcfhhbsFoFLVGO7Ps6h1LOzRHiTxh8qxQmnSNMtQA+50RSoFPznNOJtp+EzBtXsL4CSsOR2Ozu;YLvYIwGshPUWhQ5J7yB8oA=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "Startup Réseau Goes LIVE With its AI Summit"
+
+secured: "CU0Gg7P1rR6Fcu7uzr6ypug3P5Vd/vZ/H0S7Lxolqckp7aBSn9stJ+/iPNTIv5R4HMTSwwsb9DPn0zasO2llv3JWpcC5xEvmXYv0fP/LWISO/lFFoMADmQPZmVbpDi+7OBB0Mr1j/YsCuIz9jqMDQfg9LF8wxX0YnRJo5xpfZcpnHlsN2i+h3wtGf4FtTGwvOirvA6nyd95wr5CKepixERgALk6a833KC20e8KGhBk+Z/4LAopd2+spTZ/AmJ0Cm6XusnTIh64Z87nj9DDEHJL+fjT+jXnK3kgClHmNtl+L0VIKkbqr28DLSvIOj6tpj;TxEVdYR9W+377ZGnQ+eZYA=="
 ---
 
