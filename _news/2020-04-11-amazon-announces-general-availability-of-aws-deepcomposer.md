@@ -20,6 +20,6 @@ images:
     height: 835
     title: "Amazon Announces General Availability of AWS Deepcomposer"
 
-secured: "lFkQDyWvDYa4F88Wdzd3qEN7IQ+ECTUA4aHUIbMvhHooN+0PgiFd+Ps0Knw2BaA3NZ0rs2lsLo7LA5+1HaMka3fArfx35eMyKUQcW2RBll3+0WTvZ4/OplcUJNH5D/TbXVDTIDFu2CrD5crdIl/vfsUEA9HFq6ybmlLmhadbdMJqKWeNtbqk6Cu/CuT6od4O5SvCUownW2X1Edgpt162SORbOqZF/JepXAfWlGY2yua0DM4tAfHaXrdoC8sKm859tOwiW7fDTI1xuWeDl0SSZIRFDgcptzRQeYr/QNVlvL/PXiI47QOL3ltfcsTXx3/9;5pY4vZ5fMVHW60DmUtapcA=="
+secured: "4f6nuWuy/c73L3f5fFvEaYopWNI28Y/bMs6UO0okpon5hbnQROhljGEQXhLblVlKWsz9ZM4d3lH7GlrSJa2FstohMKH2zCk8WbxiObrO4V+bm/9BHLhjgKOF8pH8ah7cB/NOAT1xPVVWTRGJhYtqL4eDzijZ3x2m4TFdkSxlAok5M5lOi5YkY3IOc6o4pmIaDFDMTQa/XM2fuZPvIcHmTAOiFvSOt2QURqduNx3s+vG3oMIUMtDcZY/XTt9NqG2a/Sp1ZXmjmymTn/nHepVI72ht3PS3b+zMUmjr/doIYEmDtlLNqZI7aPpbOpEAt80J;J4pVNwA+9GpomghRoehL+Q=="
 ---
 

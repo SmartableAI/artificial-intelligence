@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-22T10:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-market-in-call-center-applications-growth-trends-and-forecast-2020-2025-2020-04-22"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     title: "AI Market in Call Center Applications-Growth, Trends, and Forecast (2020-2025)"
 
 related:
-  - title: "Global Artificial Intelligence in Security Market-Growth, Trends, and Forecast (2020-2025)"
-    excerpt: "The Artificial Intelligence in Security market was valued at USD 5.08 billion in 2019 and is expected to reach USD 14.18 billion by 2025, at a CAGR of 18.64% over the forecast period 2020 - 2025. The U."
-    publishedDateTime: 2020-04-21T08:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-security-market-growth-trends-and-forecast-2020-2025-2020-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
   - title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
     excerpt: "\"The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market. Additionally, the Speech Recognition Software market report also gives an in-depth evaluation of prevailing growth strategies ..."
     publishedDateTime: 2020-04-23T05:34:00Z

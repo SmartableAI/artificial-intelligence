@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office"
-excerpt: "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- today announced SmartFlow Skills, a groundbreaking new SaaS solution that addresses the most pressing challenges of the enterprise finance back office."
-publishedDateTime: 2020-04-22T13:38:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance/article_2a4185c6-6b31-5968-b616-a1b081e1a222.html"
+excerpt: "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- Auditoria.AI today announced SmartFlow Skills, a groundbreaking new SaaS solution that"
+publishedDateTime: 2020-04-22T13:05:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office-1029117853"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office-1029117853"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office-1029117853"
 type: article
-quality: 19
-heat: 19
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    title: "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office"
-
-secured: "NojktNHJBL/K1T+GVGnf07juwepRzWtok0BYPUY0k/C4UxNbnlVOjjGWPnEJmQbo4gCFe2q+KjVb1qez7xvPJqlb7ZK+Bdcog7WuzmKMtGNkTaOr+4jEIUD5yOX66PuUCga5MbZryab2xlNTafvY441OrojujMQJK+9bqs+cElPhLVNTFaMV8ZhdriGpLAHzxVmF6Nx9QqTuyOqRvh28hnGKo5gsXW0njLqseme2r6Af2Btik1EJhOUPZAqHcRFZL8pThc7VqfoKr6HWGvreu6qX3kaaDItqqA/gzlZ67NiEMmpQTUyH479OpatvvQbD;t2xYj5kIgCvFYl+7KxePMg=="
+secured: "lB8itMb03X4HWLJUVTHCf/2/KwZYwWLMix7B/y9PEgCFMnp1Yd8V3VrWXuY0HcPPcHNV6lfqZGWC4EwJ4OkgX5bPuXJl+4YyPbZl/KLPOZ5JfIFFHHhUPw51denv9pSPoJGvWg/i2tc0svcL6/YEawmDI1GpAngZ5nn4P2O6O3U0FXKa8SjPEqC3v2b6mrNdoE3wchW/OaUnOSj0hMEXdU8H0UBw+s1rSt7QEcScQb1XNVeSixXgQQTvwDRYTCaW/wAOqLMIFd/WdUWWxbO78J3KnCd6t3mCvl77gpVpx1qoZ5V1ayQU5zDUAUOeE41g;9Rs++F8TjuyV4FUt6Nth1Q=="
 ---
 

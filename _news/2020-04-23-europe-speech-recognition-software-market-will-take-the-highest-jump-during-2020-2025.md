@@ -37,15 +37,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence in Security Market-Growth, Trends, and Forecast (2020-2025)"
-    excerpt: "The Artificial Intelligence in Security market was valued at USD 5.08 billion in 2019 and is expected to reach USD 14.18 billion by 2025, at a CAGR of 18.64% over the forecast period 2020 - 2025. The U."
-    publishedDateTime: 2020-04-21T08:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-security-market-growth-trends-and-forecast-2020-2025-2020-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
 
 secured: "usFd0BmnY/jWUSzRrv7N0BeVTl+BI08GO2badptF6so3o/8vKbgHmDt/vCsfXeoox39lL9sy01IrTjupNZl7kb2pnnnzuEYYU5u/WMsPL103QZ+iUjJ1VOWuvbNMYqbXsIjC559Dfl0bYOV7HDk9co87eoTAnQ64/+6oLlerx0GthE8InUKZctbfiBjt237qeU4/eiHVqQm1vpJO8c2/VOcQYSZuhzaNNumIPVQR5fMuuQijIw5XSf/2XJ8WvgcxawUQYWLvIL8rG4oWhl2L8BFhz7Xyuw2rdgsziKqD8Ts9c/wT35yO8GwFNeMBRif9;fuMIxgDwFm6xw+c+kEBblg=="
 ---
