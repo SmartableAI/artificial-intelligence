@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Devlog 2 - Using Machine Learning to Create AI Opponents, A Case Study"
-excerpt: "Partly to give an otherwise fully multiplayer game some hint of single-player content. And partly because machine learning is just plain cool. It also helped that I had built the game in Unity and could use their ML-Agents toolkit. For context I should probably give a brief description of the control system in Riposte! It’s a controller based ..."
+excerpt: "A technical walk through of how I made AI opponents for the party fighting game Riposte! using Unity's ML-agents."
 publishedDateTime: 2020-04-24T15:23:00Z
-webUrl: "https://gamasutra.com/blogs/AaronMaus/20200424/361750/Devlog_2__Using_Machine_Learning_to_Create_AI_Opponents_A_Case_Study.php"
+webUrl: "https://www.gamasutra.com/blogs/AaronMaus/20200424/361750/Devlog_2__Using_Machine_Learning_to_Create_AI_Opponents_A_Case_Study.php"
 type: article
-quality: 54
-heat: 64
+quality: 37
+heat: -1
 published: false
 
 provider:
@@ -14,7 +14,6 @@ provider:
   domain: gamasutra.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -38,6 +37,6 @@ related:
         width: 500
         height: 500
 
-secured: "g3NewT2HTg3zQfJJj+JpZaVtHTbFch8zpUtt3JucSNcQpp7m+kxMz3EhpK0lkrthzlw3Ave9JXFc2cRo8Jh0bYRE0zuMx/sOZh3ZSj58gKATEn+jnd0kp7vm3spNneZE99A2HwB47nZ0F6sSc0ywWYK34Gi0QczMqpQRUjBazowPLzgW/oBvwujO5CFjgF2ftLfLZqtOBCgVd5Pp9xITPEl/WmsL2dx2pi8thkPbZo+l78W0KQ3PGdWupNVzedFqeu8/p0ZqYXC3NPPlKHqAWZ168wLokbXeBFcp9VakBxcnvz0s3LaG+igGIwunhUxHV6WB842yAxihzRdGL7apbKS0nTLTOVDrfjLM2LQIbyzIIsKBmpAEdxoTYsFUn0nz8ZrL/SwG2vhkfWX3YdlAUL87R23LRhpo3q3BAYlAVF9B1DW8APS/72STaAAW/4uuu8uEbrEpQUuDnBvGbhUaXvDp7+Nn1/akdyBPUi3jWj8=;p3DHH5DveTCax28QHy/FnA=="
+secured: "KRLcgFbKvItl5WRBn5A/Gl1J8jbJH5lD3rZTB5nMH1uJyNSqlNcsnFLaQwBi2JQo1IiCWJu4dtlGqPWVus0KUUrpyatOFfeGAGwk/qjScEmTbDdGBeMPhgcW2MB1wBuuhp1cWGgdnhIYbrfMl+rGl2hRKiMPUxVPi3atSTtzCKtrXR0BFNR1HELTpTTqYJl1I+hyeZGR1YZKpAyXaMB5Mj+bAsNHLeRozEw1BnvotHiSdVhzDgxzQT8sLQB3vv1XvA1xfUgo05tr/4/ZVfwl1vpeUitZg5cMd/RJt30DbzboXa6khapEcFrSTA7FvxGa;cAFxMkmfWqdYWmfFhMHGtg=="
 ---
 
