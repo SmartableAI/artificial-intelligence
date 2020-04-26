@@ -1,1 +1,1 @@
-# AI Everyday
+# AI Every Day
