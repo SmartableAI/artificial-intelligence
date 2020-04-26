@@ -2,6 +2,53 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-21-googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications.md",
+      "title": "Google’s DynamicEmbedding framework extends TensorFlow to ‘colossal-scale’ applications",
+      "excerpt": "In a preliminary whitepaper published this week on Arxiv.org, Google researchers describe DynamicEmbedding, which extends Google’s TensorFlow machine learning framework to “colossal-scale” applications with arbitrary numbers of features (e.g., search queries). According to Google, AI models developed on it have achieved significant ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications/amp/",
+      "publishedDateTime": "2020-04-21T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s DynamicEmbedding framework extends TensorFlow to ‘colossal-scale’ applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-microsoft-words-ai-wants-to-rewrite-your-crappy-sentences.md",
       "title": "Microsoft Word’s AI wants to rewrite your crappy sentences",
       "excerpt": "Microsoft has released a handy new tool for writers struggling to turn their ingenious ideas into words. The feature is a new addition to Rewrite Suggestions, an AI-powered editor for Word that was first unveiled at the 2019 Microsoft Build conference. The tool initially only offered ideas on different ways to express a phrase, but the ...",
@@ -600,6 +647,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-21-transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-inference-algorithms.md",
+      "title": "transcosmos releases \"Automated Call Answering Service\" with the power of speech recognition & intent inference algorithms",
+      "excerpt": "PRWeb/ -- transcosmos inc. released an \"automated call answering service\" that utilizes \"BEDORE Voice Conversation,\" a",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15845146/transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15845146",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845146",
+      "publishedDateTime": "2020-04-21T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-specification-gaming-the-flip-side-of-ai-ingenuity.md",
       "title": "Specification gaming: the flip side of AI ingenuity",
       "excerpt": "Specification gaming is a behaviour that satisfies the literal specification of an objective without achieving the intended outcome. We have all had experiences with specification gaming, even if not by this name. Readers may have heard the myth of King Midas and the golden touch, in which the king asks",
@@ -976,87 +1052,6 @@
           "width": 5000,
           "height": 3051,
           "title": "Clearview AI source code revealed, exposing majority security lapse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-using-ai-to-build-better-chips.md",
-      "title": "Using AI To Build Better Chips",
-      "excerpt": "With so many startups and large semiconductor firms racing to get new AI chips to market, electronic tool and design service firms like Synopsis, Cadence and Mentor Graphics are looking for new approaches to help designers speed their time to market. Ironically, one of the approaches being taken is to use AI to help build better AI chips.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
-      "publishedDateTime": "2020-04-20T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-introducing-the-digital-startup-alley-package-for-disrupt-sf.md",
-      "title": "Introducing the Digital Startup Alley Package for Disrupt SF",
-      "excerpt": "The Digital Startup Alley Package covers three people and includes: CrunchMatch: TechCrunch’s AI-powered founder/investor networking platform. Save time, zero in and connect with the people who can move your business forward. Each startup will create a customizable profile, allowing startups to easily note their value add and business model ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/amp/",
-      "publishedDateTime": "2020-04-20T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/CrunchMatch.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Introducing the Digital Startup Alley Package for Disrupt SF",
           "attribution": null
         }
       ],

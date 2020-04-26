@@ -29,6 +29,6 @@ images:
     height: 1202
     title: "Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic"
 
-secured: "wC6zXzftX3n3Myf/dUPWCmQMniLX5yLSRINlqK4dPUXYbr/HCQYWkqeGo4LP//XgMv9sr9KSbJcMWODZBjU+YoQBInv26ue0AxCVxh2QcUHl6yoaUejpjWZoFsmCsZkofPlFlbgVJ4poNdVM77prl2yil+J2j+91OmOPQxf8k4ZUtTNhdZ1D3/PWFNcNcqFZMvsbWj0Q4rPI92B0bCi9C9HJHO9NvqS19xxQOY2gja3/uX2UJz0AYB4D9kBeLZSzc3WK+jgiPo2+doZ3xxITQI0TpRu68P16sXmavvQ7arqxUA3Zfhqu3cICh0oc14Ho;Nf7qMbY3uFLlWCvRG88NpA=="
+secured: "yGG1Iscq/kSYQnkeoLoKTkjQPvRt0ITk/1RC/Cynt8C/VEJfhZSUTtmcslTUNzoTUUbps0Or9fxO7HbUzYxwmTnj3cDGeXMtFbjA9/3nO5pC+gD/WsUdic2HNdOiwG+ksVO4BZlCQl/EpeEIs2Pi1VLdV4iDS+jCKIYXJgiJuLtDhsB8WmDgx/R1ASVGdQqWcGGvzYsvtABuardPLtkI/IFNfTM846qu2mv+JOBJ9upPkjh3+x6GIjCdv6zwmajgtpfHiHFRe+tjM9MsjGeqQFCWailUf21S7NMsNY1DJqWSlXwZHhdsDNsbZWKEF+3eIznBnT1yXTIMD2dgt9tePiIwcylRAAJqfinSuZ6t0U1D0sRDujFbJkpEgpcjUfmtnMkNMl6/1vfgwjZumi3AXTzUF+A4IKYsgmAh+Ga5kLRSZPMKZ1q02j6zsz2MmVNjjegeFuBPGzQy9jpIyFEf8htzPLZ3gdnP/y435MZsMLI=;NfAnDfh/hZO6VLAK3CN4pQ=="
 ---
 

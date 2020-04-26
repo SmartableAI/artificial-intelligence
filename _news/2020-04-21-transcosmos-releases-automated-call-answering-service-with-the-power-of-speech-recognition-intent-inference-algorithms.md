@@ -1,15 +1,12 @@
 ---
 category: news
 title: "transcosmos releases \"Automated Call Answering Service\" with the power of speech recognition & intent inference algorithms"
-excerpt: "Helps businesses further utilize call logs for marketing whilst reducing call agents' workload TOKYO (PRWEB) transcosmos inc. released an \"automated"
+excerpt: "PRWeb/ -- transcosmos inc. released an \"automated call answering service\" that utilizes \"BEDORE Voice Conversation,\" a"
 publishedDateTime: 2020-04-21T07:05:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/p15845152/transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15845152"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845152"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/n15845146/transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15845146"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845146"
 type: article
-quality: 13
-heat: 13
-published: false
 
 provider:
   name: Benzinga.com
@@ -19,6 +16,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "j24t7c81BvpX/22xMtyIJBPbpvXQBj9JHYkDS53VKEnN+86tcxLW6NQ6ib+3lCWtc7XpU2GpRoqwviRiqSOmYqKUxJkdyZ8Wgv9+RfmiQJaNffWd9YCGQvG3JYpSmU7kRGRdZL6aplE7cKNNvJpopOhQGay51Y/yLfnRfVBD1qdooRBLAoUzvnSR/T/ajTV0kkKvCrcSYlA6gSfiOos71xGBqWI6QyQO7mCJES3YXqnn4hShOiLJXmX9I294ryeT6fga93pSGVNF3XIYt89ucCBt5QtrJDeUjkRH7WLZMpd4m1jhA32f3WqVjwR/IhZh;9No/hvOK3hR0FwLlEwziww=="
+secured: "GHiRY0Q6jHURz5esfCWlDEabHSSuA6NSX5Mznlt9gP5Ov3Kiqd6bgk5S1xeUeZ2KJeJT+SRaqNhBCoMFWvd/iIyXOs72GQw4Y45I8/lYHXsAGCEBBMz8Q8Za+wCvktHjhJh6awCocm74hlpyziIjg7PSZoEDBY4VLYVy6Hg2t9SeAXbUb0kqPtjEIpxepTFXjgZfzO9RtU8uBRXP4JNIDD1BH2uRSARqxynotQUWyxRxsce03z0mydYwiP1pVRSi0PPe5iG8QqmszV5ggBylvzt052yGho0spBnfMi5hfbgxfYjMIeXMaekCm9Qwx2VU;4fscO8eJFEbwGfPNipQzxw=="
 ---
 
