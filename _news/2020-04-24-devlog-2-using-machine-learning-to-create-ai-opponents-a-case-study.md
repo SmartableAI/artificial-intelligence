@@ -3,10 +3,10 @@ category: news
 title: "Devlog 2 - Using Machine Learning to Create AI Opponents, A Case Study"
 excerpt: "A technical walk through of how I made AI opponents for the party fighting game Riposte! using Unity's ML-agents."
 publishedDateTime: 2020-04-24T15:23:00Z
-webUrl: "https://www.gamasutra.com/blogs/AaronMaus/20200424/361750/Devlog_2__Using_Machine_Learning_to_Create_AI_Opponents_A_Case_Study.php"
+webUrl: "https://gamasutra.com/blogs/AaronMaus/20200424/361750/Devlog_2__Using_Machine_Learning_to_Create_AI_Opponents_A_Case_Study.php"
 type: article
-quality: 37
-heat: -1
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -14,6 +14,7 @@ provider:
   domain: gamasutra.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -37,6 +38,6 @@ related:
         width: 500
         height: 500
 
-secured: "KRLcgFbKvItl5WRBn5A/Gl1J8jbJH5lD3rZTB5nMH1uJyNSqlNcsnFLaQwBi2JQo1IiCWJu4dtlGqPWVus0KUUrpyatOFfeGAGwk/qjScEmTbDdGBeMPhgcW2MB1wBuuhp1cWGgdnhIYbrfMl+rGl2hRKiMPUxVPi3atSTtzCKtrXR0BFNR1HELTpTTqYJl1I+hyeZGR1YZKpAyXaMB5Mj+bAsNHLeRozEw1BnvotHiSdVhzDgxzQT8sLQB3vv1XvA1xfUgo05tr/4/ZVfwl1vpeUitZg5cMd/RJt30DbzboXa6khapEcFrSTA7FvxGa;cAFxMkmfWqdYWmfFhMHGtg=="
+secured: "cCBM/umo0zfyWM+LAcPSjoJYTD2E7w2YeUx0Cit3dqTncwaCnn3ImeFmv5GifZe/L2Slck0F3mEqrlTQWBntEOlkZXrt/mN+T88YZWODHDaEOoCne79hTv6PEbnVczrmJkYp/ikXtNPWHN83GJn5DuVOCMOYicZ2UTRqil+IurbKy2GFOUJlXO7YkqOa9Wi3uaZIBhxBYiFmY5ZWBW0uQxOIMuCKknEw3RSFkfzOCppFRM5kN+IPs1dc/o9yefyzK2+htrFxb+fhm0jPBAlTJtQ6ATyCbRLZkBWbi4zW0zsY9RJnqEqQKRfFUCbbS44u;kNlZXN8MyQvRdcquV1grMw=="
 ---
 
