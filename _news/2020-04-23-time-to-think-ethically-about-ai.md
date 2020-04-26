@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Time to think ethically about AI"
-excerpt: "Which means that, when it comes to AI, system design will point at the nirvana of ‘ethics in design’ and ‘ethics by design’ – algorithms that are powerful, scalable and transparent. On the other hand, AI as a new form of agency relies on delegation and responsibility. Delegation is assigning tasks to the machine to lower costs and ..."
+excerpt: "Camilla Ravazzolo, EU policy manager at the MRS, writes about reframing the discussion around artificial intelligence."
 publishedDateTime: 2020-04-23T11:44:00Z
-webUrl: "https://www.research-live.com/article/opinion/time-to-think-ethically-about-ai/id/5066692"
+webUrl: "https://www.research-live.com/article/opinion/time_to_think_ethically_about_ai/id/5066692"
 ampWebUrl: "https://www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai"
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 581
     title: "Time to think ethically about AI"
 
-secured: "T6hD9F+jWOqoeZipJOewSG0dJJSVz5CKddP6aQh+RNUQhTUH0oFSeHs21V36CJAVEGouO8RK6XR79wg64A9Ns6oG45vjp9k8h13BEvzWPv1gXH00obP1GofG7TXIQmHiWSka3f6wCB/GqjbADSAC5xmsVjtlDkMtR75szxbAo9jHEvbzHSx2AuETQaNIRidQxSUjlq/1g2JYF8k6e5Cux68S1aFREfa2ib3j+4pdmyJaCfzprq1RzPxvmmYUK1sSfpYtwwZfmYcxjIG4L12u6o/Gj17XBUHSR4kwcEiEJ9w2nStSqClSmAcg6ZQlbYXu;d/kw96kPXwfx4mri5RPwmw=="
+secured: "XDF+Q8dJhqYTyImNOUpfYIOvW7MxTYk5/bp1gjTcC/XYyX3ScE9iUwq9Fq/atfx3Oim6jzfSXDc/P0ihrUGtfPkMnID9UWEBL0w8wRnkTc1XR1lddU7Ho8dy3jMw9jTkwQJOSH3rjusExPkK/SbcrYW5uHBRJ7LOuHRtNX53VXYsvwGJ+Lv4DRIu0lD4QxpsX00WaQ/AwbqYo0GULJ/t5V7eFYTTY8qS/M5PDLJvGX6ye0Sjr14jwV1tBZ/DAcAf6ape70G1HeWNNxFHZX6Rp3PNLfZifHfkyEXi7JVmH3q3M5dSqmQ04BEZZ2M0p5lT;bwgispzSrsNXT2qkpJpBvw=="
 ---
 
