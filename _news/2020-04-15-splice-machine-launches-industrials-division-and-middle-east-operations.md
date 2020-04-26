@@ -20,6 +20,6 @@ images:
     height: 628
     title: "Splice Machine Launches Industrials Division and Middle East Operations"
 
-secured: "qNn5mzzBOJDKNLLJlZiKF7Qsb3VZ5QJct34z0nHHuIV8F4B9+6Xgbknc++TjqxgkcAm06VpEqAx5Cj2D9EdlW5eaNj+gG5w9Cii/e7XJ7cKjLzujoihbFEjDoCp6qgP1IAMeBGOikp5wUDXB9W+mYH4+8NVhdsj9Jip4vkatfqT2Eda8/WbmB584+fnVI4RfOmegNRq73Wf+hXWCr/qZj+ocwjHp0SN+F4VDV05xjTANIrHOjs2nuNxP2KJkvD+Rkvag/I5zdl//sgGX+/IkUhpReIMYpRsUT5jmCZCUf5Y7kkkqDqEnTEDYdcOsZMMo;aOYD0RewWEhaWMnzqZZYXQ=="
+secured: "/yxV9QMrWViVrShcAfWSEqaER21KRD+L97jMb5KRJbhMxZBJMi9lqKqrmXcAYIvIdiJPMaxrQbC6+OZf8m9xdRxrrqfC0yfQsmJwnm3P2wKx+8QRxf6SlMzajuAcpCTygSg1jun9NLqjWzgnpoKdO9eei8TlL4+2ElcTTKlWDPm+3Vhd/ndIX55HuPzWS2Gp3rSReHjnJOnPc8nxM7Xq9hDp2pOYCWEQLqRSqEZS5L0etEWkTERg60vvzIFNK5i9xnxv+355Hcj+mk+v73fSpTYinlgcXagq6hLMe1thAVTf+MrS+Yd2CenSCiw3/hIMaG+juC9OZWH2ejnRgaybX1peVeBnRCNSyrR7P/8ew5gxp611ZTul01R3YRCMZfM5U1ppX4mDlf/4K1IYKasW7QKowW0JTc274r9/o/YAy5Tm/plaVR62/qAAc2dhjXEdVXGeMF1oGWZyH9fUAxQbffdudcFtPcqgosENWJGQKD8=;ZTwUlUU0KTDAPyy2Rq9/zA=="
 ---
 

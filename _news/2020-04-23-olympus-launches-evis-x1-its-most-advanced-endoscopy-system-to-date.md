@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Olympus Launches EVIS X1, its Most Advanced Endoscopy System to Date"
 
-secured: "suQz/PMbSnWYMsbO6suq0OKoovpAWab0ekRszslx/vt0NW79fozcx8uxbMkwsforUHrusE4jIMvmH/v72IBbVCofo179BQLkD/+Gl+J/kt9I9oET/LnQ8baXlRJXewPALmGPOYNjkQW+U+rdbKhl6fKR0ravS41x1VjHYZ4tjt67Sl8ZHvw9QdFryw9aCeXTIlG5EB7XctSZzh57k1z6P5/m4JbhfW2ni8jColCjS028T9vYG6PglYOun4fFdz/YEdOyBQ0lX372T2gUTSGn3u2QVeKo0xokuiB5g8iASq/9T0fNoKb7HjXx3wwCpMpB;XhvPW+k32A1rQwsk3T34Rw=="
+secured: "p500OFOnvI+QTKvHTSWqq1cUKWY8gSTd8kCFexj2HcN9/rnHCcIjcHZ+8qgoenpa/QEYjBTKCfq2Nf/2cJEbirr3styeKYfnc83/16txfDqa6R77KPXuWTdqX56oFLMux/I3b1WoNfbxYUhIz061wwfg+uq6Wl/PUWbJGCha/QLuvV/qbHJM7GdCL05ooHlDkABuhXI/iMBjnrr9GeIG+vOUYz7YN0G4mvs4fAXIYJzYa7RZJ21bX1sbvyla8ojcEIeEoXahQL6XaikCU4QVeXM4OQpE5HcZ3TRmZvnJg66VdjENcla3u/LLAnUVUCvL8bLqAx+bYFh2IAJJQ4KgNGKdDEa6hhnqlrZSXOc+8zqQehJWctULbQnjWp8DtjNktbix4N6+hkiLI3X7vf3flsQJ8zkciVTInsl3hXuzbd/Dc5cu9h9kpzCYhY4bS7MMg8YYI1q78oDh9dyi66DSA9a6y68OcbtZa5uHfo0/LWM=;zBuzge58eTCHIQ0C0Rm0QA=="
 ---
 
