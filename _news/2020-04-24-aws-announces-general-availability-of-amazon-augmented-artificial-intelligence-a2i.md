@@ -24,6 +24,19 @@ images:
     title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
 
 related:
+  - title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence"
+    excerpt: "Amazon A2I makes it easier for developers to build and manage workflows to validate machine learning predictions with human reviewers Today, Amazon Web Service"
+    publishedDateTime: 2020-04-27T05:47:00Z
+    webUrl: "https://www.cxotoday.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 65
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/02/Amazon-campus-hyderabad.jpg"
+        width: 600
+        height: 450
   - title: "AWS Announces General Availability of Amazon Keyspaces (for Apache Cassandra)"
     excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 73 Availability Zones ..."
     publishedDateTime: 2020-04-23T23:11:00Z
@@ -38,6 +51,6 @@ related:
         width: 1200
         height: 627
 
-secured: "Q/Bumm4jQmOh/8vw+SowA+KN08QC1mA1gMHsvPLlLK0cZKL1dbG+zGk1GakxuPbPQQFgygacPq7dM/o0h9Mh+rISubnbx/xx1lBsnOWC5PjdVaZUHDVdgqZUgzO4T3UV7853K04ZkdVAEMzEIosbyoKBcP7SypIAOhN8+xCA7M1H7CeYDAfvSzdX2JUHVF9vhnEmqMvyy45ugXtbcpO9Co/qaKY+CIMKvvofE1euiuMVHONup7YDUhQRMZk7/bRYEDLU7ATMTnaiXb4SsucFFu+iq0RZSRy2CmhRFNcJP9NEt4QR3waMKDbWhmeIyoj2;4xnke9q2kQC1+NTXPMbiEA=="
+secured: "EvFOX82uqVhhu5DGfwTmEw5w+ONmnUe9y/rLSBGmOYQFYqPlZ1B635ds0nwnNtaj3QfxfQc5VvrO2IwDOEtjhUf4YFby+ul0mNpW9TjlgwNXMVzXl/Lz5iTwEmCxO2UgHHs1FPU44o50QSALQ4PU8jLpmxBBMiAVh99e4WsJ8bFZZcooZVKOrBCpvmbDjoZJvJW+JR9f/kz+RYq1o8IhHgu3X1MvE3rIx+Ifumwdoik4COilR0caBbAaLDo2YRQu6XmMoaWjIINO/IMKsgG1nwDoDTXiWj2AhFs+RdnEExNGEpqUfOfEp2NGeAJ7+hkm;ArRL8+NgesS7nRkAN2b+Lw=="
 ---
 

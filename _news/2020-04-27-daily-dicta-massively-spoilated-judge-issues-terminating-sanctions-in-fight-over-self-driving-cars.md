@@ -23,6 +23,6 @@ images:
     height: 372
     title: "Daily Dicta: “Massively Spoilated”: Judge Issues Terminating Sanctions in Fight over Self-Driving Cars"
 
-secured: "U3mT70+rFJUb2eIWSWQfRZbS0VD7TXLpvfoCeB5h03oyzTL1uFR+V4P4DRWhXQ+otXrKWWsCVYTgFpx1On5w31R3Yj0BGSgOnH0YbMBb/GZy88pHSu7sc2FZSNzjaP6sR7RtajNbp7uiuCCM+VQXQzZzumt2qgSPCS3GUW04wX/+l8O8rTbyV2UmmwbJtpruPsQkK/rrX7p6+luZPpcVe6CeBmDOV37jrhWDGCCnUnLfChTdOKr2e7S5lMX6yVthdXzvx2y3RM9bD/XVq7+ELtGjrFyjDS2vgYwOc+7sjG4mgMIKzEIo3Si4lukRcMpa;Xx/597H2tPnQKntQ4m23gw=="
+secured: "A/3BcOHclaenkvcb1UygTm2RXmucT9q7ko+03rWPrER2nxp39IxmYwV3vI7w/ZsaPKpv/foscZM/LwNW/ubGAkXspco1Z5AVJanys4ZVOq7/VjdcETZ6scvqCo6AOqWyzHYMTTHt+GzEjT5xXouHFi3hINNpSnGMShEGz5U1cuGoaSkaneCQSibghPnEBioVS8LN1m7wa/49+c1uEg1BOYI3ojwyjtrRssxA5Nr6gARBBUzrzKlBno7Yyl+hMREphpajsFR2KjFuwIJqtMtxKtdYXxdJaa0vJZCsIijULS9W9xirHDaR7/radZ/vJqFa+Nx0/DYjgs69djgKR8GULTyQSyAyFhxmd3Fzd+GOdsy4UbOehoz0Zqcm+0a8yZqbHgwo/J7Rhi4Q2MGArf6CWSvnKZzAA/28LQA1JOmEL9N5UqXlTZCv4JRvm8rlSV6tlfPZOs9BEzoXFC+mksStEPz0SZadewnmNbBxdyiHquo=;pw9CZ2t0jb71JO01V5RRiQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152247984.html"
 type: article
 quality: 87
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "Intel is using AI to gather real-time data on coral reef health"
 
 related:
-  - title: "Smart coral reefs: This underwater, fish-spotting AI helps protect the rainforest of the sea"
-    excerpt: "Intel, Accenture and Sulubaaï are hoping that Project CORaiL can soon start expanding to more reefs to help tackle the crisis. Engineers are already working on a new prototype including a better-optimized AI classifier, as well as a backup power supply."
-    publishedDateTime: 2020-04-22T11:33:00Z
-    webUrl: "https://www.zdnet.com/article/smart-coral-reefs-this-underwater-fish-spotting-ai-helps-protect-the-rainforest-of-the-sea/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/smart-coral-reefs-this-underwater-fish-spotting-ai-helps-protect-the-rainforest-of-the-sea/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/smart-coral-reefs-this-underwater-fish-spotting-ai-helps-protect-the-rainforest-of-the-sea/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 76
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/18/0c067e67-6216-4f9c-a24d-350d3553d70d/thumbnail/1200x675/7ca1d546b1c78ad7a7a272f5b8c7d959/20200318-daphne-karen-chip.jpg"
-        width: 1200
-        height: 675
   - title: "Using AI to prevent and detect epidemics"
     excerpt: "Seth Siegel, North American head of AI consulting at Infosys, tells Tonya Hall ways that AI can be used to detect and prevent epidemics, the importance of sharing data between countries during a pandemic, and what businesses need to do in order to protect themselves in a crisis."
     publishedDateTime: 2020-04-22T13:06:00Z
@@ -58,6 +43,6 @@ related:
         width: 770
         height: 578
 
-secured: "tZWR9rjm322wPmEnKgDPS+DDAmfUFJ32Srahx4hS8koXiJfHHr3r2zNituK4IO1QI5AJZ63o5smMZeoRS3TunvNtf9B2aEt4ZC/Ez9sSFjt9EyHvnAkHj0HPItePXowhP9vk/AVA+HYj4FhIuPMSlIYRhS8C8Luz96L8h//eFQugj0J36QfJxfRNOrYS9Y7jZzxo2WpZam4+WueYmeC/xlL1xaU0Ebm3UnvgUEYRykGcaIxpsrDcvNK7lZDwqs3dGKjk0+F45PkLVXHWpmPG8SCN52AcJRJAz5g85QW1NVFsnBPivdSxzTF2Cvvd/IsFBXg2gUz+3e+fxJpa0hxetoXmc9gX9rAIAis+OB4ozGVP2m1AKaKE3eqjb2vwaYj5C5frdtZsn6oljtVDLJc5LhwOrgeyRtysbwxDy3XszNJ/847TmMwKeOqHmU0dS247hHEl+nqPPme1DBnzW7Riq+qcO9F9VfWbKyEf/Ekit1o=;1Fh4D8ChUYiAiLRmx8T17A=="
+secured: "fk2khiWKYYEBckmxGpUuSsUKAq1+5XnuvyEtHn/nXF5ucA2ZN8rUHZ19eaMG5BTsH/zH56WBXJJY74hoH4vJew70lmUrWtGfzam8cpYPDnIrT7SRbM+/3HwJtncBReCuL75qJDyJP14W3LK1x3hSp2WwtUztODUSh5ibtzAIY3m2w0HZGPpgcyOR1VvW6pZuPI7xtwUXN8IQPXWpz40Aa47uGx+3ynKK+u3Ew10W74ugruh75cB63gwpcvf+dUFX0fCWQz5jbFm7YRVj7/DlhRROwVd3ktoEMZ9qBzaQyd416opA8g2YZmDdE4MtnFntxltssRLjEk2WqSGR7XSdg6jWbeLF1/jiRAZdT3nb5w0s0BgakivHbQS92532ayEojmzfnFPNr8idOP6sxFyZLlhXifW7aXEhdJ77jGM3HBd7Q/9wolqIce1bkFmSxNBYXDPpBmOuFjETiHf9uc2YzigTXQG7tZbIwg7RM4QJgv8=;o1HrgVpsVaIT1EVcO1/t4g=="
 ---
 
