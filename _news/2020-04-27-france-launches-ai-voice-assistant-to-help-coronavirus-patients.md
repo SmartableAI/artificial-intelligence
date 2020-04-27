@@ -2,20 +2,20 @@
 category: news
 title: "France launches AI voice assistant to help coronavirus patients"
 excerpt: "French researchers on Monday launched a voice assistant that can help callers suffering from potential coronavirus symptoms and direct them towards emergency services or their doctors using artificial intelligence."
-publishedDateTime: 2020-04-27T15:49:00Z
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-france-ai-idUSKCN229285"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN229285"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN229285"
+publishedDateTime: 2020-04-27T17:47:00Z
+webUrl: "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4"
+ampWebUrl: "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp"
 type: article
 quality: 87
 heat: 97
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200427&t=2&i=1516613138&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3Q1LK"
-    width: 817
-    height: 545
+  - url: "https://i.insider.com/5ea70079a2fd9112812bc8d2?width=750&format=jpeg&auto=webp"
+    width: 750
+    height: 500
     title: "France launches AI voice assistant to help coronavirus patients"
 
 related:
@@ -45,6 +45,6 @@ related:
         width: 1024
         height: 576
 
-secured: "KbN3x5BFE/99QIm/d2D3Ov4gZCxAO8g32OOVqbLMXoR4ItJ8z+rYXuatTDAP37aS3Ejir/XQ6VRhsPKPtYWjFiSYvsjAXUvFX+N4kHKg10O3gb0FyTJvXCqawMs7aUiqcTMsDvC4U3xHEgASe7CVrVcj7fhq9MB/ztRO0PWyfBEiRd9luVqC2CTl0R2en3zC2x5YeSV7CXBg6x8ebGROy11FCe4xyyc7WARBvMv3l61zdHNAE0AbvgTct6tQX90hrFbhy5hLEGDdozfNTyozvayqeXiVaOUmP0/MRptxo9mahYG7VTJKcEIwMJMduI3R;acqyF6gVjaLZNzZRXlwsjA=="
+secured: "dQLe1FUFmWjV3gF8dkITtYM8MY8NOterPSKwUgl/KmVaN0OTtw8tmREczZOT0LTy0u5hgkAWoi2Mj1ie2mTbTCZYVzfFTI9tW5LYaEOT9o7zPXUmb8YsG7zqGpT6hrXK50Sruh/nPku4vrCA6Q8Cb6J1ZnIqAFd9dF2QM3QZTphdbn+wUc515aLlefWMOvZQMEWzaWsSLSA4wDzh2pdsjXvcmRzBHTX89Bne1GgrBG7f6L3h4X/41Y3CDOwbffGtz/VCKA2J88L+l3II5dxNz/CqFIELtKdy9vQlxA7JFbP4+elpDR2vgxTyF6Us46s3;YR37NqLGliWuWBDgsWP5Lg=="
 ---
 

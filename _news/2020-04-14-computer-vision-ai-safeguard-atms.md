@@ -1,19 +1,23 @@
 ---
 category: news
 title: "Computer Vision & AI Safeguard ATMs"
-excerpt: "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs."
-publishedDateTime: 2020-04-14T13:24:00Z
-webUrl: "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms"
+excerpt: "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators."
+publishedDateTime: 2020-04-14T13:47:00Z
+webUrl: "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms"
 type: article
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "8qIjUmRZzvdzCBUTT20usKACko+GJL/SJYMg5vk2yWGvE//tA7i8noh+W+TFEyb1dKsBKVI5wVLf4lYw2pGLKZ2FXphfSoGD8LISHnkfZMJLDs0zPn5rwPt76x4Ms/qMTRWP/mND/henjh99i/2FaNnnRn1Ry13uILUF8J8fdGVU2MbKonnafnJnVnDxvn6IWyDLMs2Yv/XSaXiKKQ1FmfGeqZLRfTYi6BoQD8MorrzXsllL9/x1yAdemLmI0FfsxGSnlCR59AK70bnJWMza6o8mH4gy8nWFzzkEaLFCpEC/9cyU5pzhMFKX77oixNjsrgNhGLIQYZlC61DJ58sATNX8tkBuN1w8/gPzekXwWc4ti5KrmzjLw59dh628DDJstq3MQMYp/d4pYsIJsEAldiaTCGPTOeUFPQKeh/pc59pBV/5OOrLuNxGOuShslArZlu40eqJvErp6hLkIEAILWHUghKMB39r7bRe8T0QjpyM=;KWNmRUAHY8hewOlGjyKuQg=="
+secured: "mo461RA1uk6nbxsGASDupdBeQKeOeWfhlv8RV+W5Ldm1eVRh9J4hS16zio+i1DGrksgO9twlWQNIQVD8nmorT5AEyigP/ujRNfbMGEVb/8yDDwxN0hrevNCa43qufg5mhQZ82rFGOXnnZKP6MlpcnZJnBbckCwHzhsnheb2cI2k5fSLO6u9tQcw51N/1c86ek9J33HUokFva0HEsZyqkjUtb7BzZ3gRrqWTcrkY9KgTQutqW5q7EFBhp5YhxH1cpsCMVVH3EY1dZXVFLZHSiPl2dHrg32VbneMUYPwR1flZFSLB6DmMcpHmkJjEz3azacn8SoM6pRDYt0H+S9zwR2rFWbb5bNmrjEQYQFs8WYQBGRDePkZHaYd/Ykz4c+dUi+1t7A3nFNIkshnGISFBiYNVkwdnjidY1uqDrdBecjiLkcqTwa/rNEVpjESE18mLll1aE7QMgZQJWZg9dI4gdkrLFKLKw8NEBkkuoih8rBS8=;pWz0N4DiAkpelYeqkFt/gA=="
 ---
 

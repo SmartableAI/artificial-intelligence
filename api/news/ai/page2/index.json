@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-27-moneyball-medicine-data-driven-healthcare-transformation.md",
+      "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
+      "excerpt": "Thriving in the New Data-Driven Healthcare Market, author Harry Glorikian offers a prescription for how data and analytics will shape the future of healthcare delivery in the United States. We are all familiar with the Moneyball concept and how it transformed professional sports over the course of the past two decades – with an assist from Brad Pitt.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/",
+      "ampWebUrl": "https://www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/amp/",
+      "publishedDateTime": "2020-04-26T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1185375168%2F0x0.jpg",
+          "width": 1200,
+          "height": 567,
+          "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-autox-alibabas-autonavi-roll-out-robotaxis-in-shanghais-ride-hailing-services-market.md",
       "title": "AutoX, Alibaba’s AutoNavi roll out robotaxis in Shanghai’s ride-hailing services market",
       "excerpt": "Autonomous driving start-up AutoX is now offering its fleet of robotaxis as part of ride-hailing options on Autonavi’s Amap app, which aggregates mobility services provided by more than 40 companies in China.",
@@ -1266,51 +1311,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device.md",
-      "title": "Xiaomi launches the MIJIA Sweeping Robot G1, an affordable cleaning device",
-      "excerpt": "Notably, the robot also supports the Xiao AI voice assistant. It can also be linked with a smart door lock. Thus, the Xiaomi MIJIA Sweeping Robot G1 can immediately start sweeping as people start walking in. The device automatically goes to recharge once it is done with its designated task. The gadget starts from 899Yuan (roughly 127 US Dollars ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizmochina.com/2020/04/24/xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device/",
-      "ampWebUrl": "https://www.gizmochina.com/2020/04/24/xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device/?amp",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/24/xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device/?amp",
-      "publishedDateTime": "2020-04-24T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/s_e6443c3feee340f59542aef7dce697d6.png",
-          "width": 600,
-          "height": 428,
-          "title": "Xiaomi launches the MIJIA Sweeping Robot G1, an affordable cleaning device",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

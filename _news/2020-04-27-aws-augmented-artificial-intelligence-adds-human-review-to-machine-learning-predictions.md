@@ -5,7 +5,7 @@ excerpt: "Amazon’s new Augmented AI platform A21, a fully managed service that
 publishedDateTime: 2020-04-27T19:08:00Z
 webUrl: "https://sdtimes.com/ai/aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions/"
 type: article
-quality: 93
+quality: 95
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://sdtimes.com/wp-content/uploads/2020/04/Product-Page-Diagram_A2I@2x.2fe2e8e5eed05fa5045835c3f3f04e23a9245e9c-1024x377.png"
@@ -45,6 +46,6 @@ related:
         width: 1000
         height: 479
 
-secured: "teYFLcoYz7WTwh2RiZw3NOX8dZRgIJMvqrR+Du0VItwHHiH637vWOAKczZNuVVGd+aMq5OWKsdd69AYHDirFim8hiodgBp8qE0Nh1Y5frMjiUy+nd64pKmMVUIWsOUG6XbFCCajA8CpxHX7hywosYCRtHwiHizyv0RimkiKLRx5ITk6KJ8VNSjXtH6v9HNY0n65F6Xrr0nS2Cpo6JoufO8LM/wBmb6ktWN3xrQGxKXqFCBhBZm76YZYEwcAIRinY9E4U5GOeWktJTvFHrMzNvZ0qYvBctprncK6CILQsEk9Jg+n1Vg8drgIK+fkQObat;FNsnAnc6QEneT5sLOy/wcQ=="
+secured: "E6hgvgub7bIAWwMKncczTKsbiPUlqie//CkyMLQkSdAi1heu1mirgli/YP3OfkFsUuI6dqLrg4edf0NQRRlRhiLaZI/nm3p4nnK4nzUsf0bqYM6eE2LOm/M0eQBrzDddhW480VaqKqnkPm3U8aLFGCsnv8z/66dwJd98YCKt4dkThjAVU1vUZJlb6BY2Bta5Via0/+9cmQvUPXtqueprkprMR7dyvPZV5tKrGhlV+pIEDfMvFWw2buHwBuWEGOCQb94GWmVfj64IplI6aQiZPyX5wp/xcfSQao53Mj4tXwtxUq5pnpm2nmnlxuUi5BPyIrO+9eaN18kNkUIoiJpBo78zgd4HPh3NwTGzsWnTxZ9lge4mM9olx8khFla+asPzF6gYOd3RItciPLpW+yEg90O7wemKxUEhfPRBovchXbfjak0AyvC8R+JR1yCwxi77hm2ENpv2I87RnUbwgPmKb3hMg1nDGf6BPaQhDVMnhWI=;BwUBfqtHMoUUNfq2Uol4vA=="
 ---
 
