@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Logical Clocks Launches Hopsworks.ai: The World's First Artificial Intelligence Cloud Platform with a Feature Store"
-excerpt: "Logical Clocks, the enterprise behind Hopsworks - the first data platform for designing and operating machine learning"
+title: "Logical Clocks Launches Hopsworks.ai: The World’s First Artificial Intelligence Cloud Platform with a Feature Store"
+excerpt: "With Hopsworks.ai, Logical Clocks brings to the cloud the open-source and award-winning Hopsworks platform. For companies, this translates into reduced time and costs to bring new machine learning models to production,"
 publishedDateTime: 2020-04-27T11:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/g15882661/logical-clocks-launches-hopsworks-ai-the-worlds-first-artificial-intelligence-cloud-platform-with-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15882661"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15882661"
+webUrl: "https://markets.businessinsider.com/news/stocks/logical-clocks-launches-hopsworks-ai-the-world-s-first-artificial-intelligence-cloud-platform-with-a-feature-store-1029132183"
 type: article
-quality: 32
-heat: 32
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "TNEONtYZgusx8xH+/BBn8lKsSbewRD+ovRhLR712xvzM/vzvFH14B+uETw4whPR6XJXAanmhKhioJt5MRWX3OsZyaMjTXqtYnNXoemKu2pxWIhIPuBavLVxlyokrI4YPJ5LIWRv286gqeBvSF7EaQbZeclm4TGxsf5AhNzR9mAdzUVs3HpKvO/+L1Pq3AzNOy87L/1vhH1Uo52Ri3aDlYTHlA9R7zgwDxgAFcd3fFCarsxrnfDHDBapJN9pnt71KzM76jkvfhThKqeIlczlAknpHpbg5GY30fEj3wfnM3IeYclUAOeENXimoRd1H8mbF;yzokw0Y9KjCz0iJO7Upuaw=="
+secured: "HVpa47C0fjqQ+iYpJxGakSp7fZh/S4npagNeb+squy9WlmVJ7eaaVfR1ccQAj4HIC7DAWh+KP8LYgzWL+PxL1hibNUTtR97dOxX2BUwMTKxWbj8VP+hPYS+RKaP9wcMsgJJN436yMlpZYLQrygLBmZGQK/BK+AE8RiIYfaAbPmaFelPZgvn5IRh7Bp3GL2zsXD3Mmoa6HoSvFyU1bZE/mWPVR1oRQ+aah695QzBg2ncNfvLJULFzoxrtKbBf4e0wU6zILuSF3lX4VtACnzaII/xT96EiRHLjDA7rSU4qo38iOKJUYnmUmWgp4NklPJ/5;JsoHZZKJ99LhxrpC1ma8hg=="
 ---
 

@@ -537,6 +537,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-13-3m-funding-for-coronavirus-research.md",
+      "title": "$3m funding for coronavirus research",
+      "excerpt": "ARTIFICIAL intelligence software to improve coronavirus diagnosis around the world and other critical research will be fast-tracked under new Federal Government funding. Health Minister Greg Hunt ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.couriermail.com.au/coronavirus/3m-funding-for-coronavirus-research/news-story/065b5118cd43dce48a17e4c9840d96a9",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Courier-Mail",
+        "domain": "couriermail.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-12-facebooks-regnet-ai-model-tops-googles-efficientnet-runs-5-times-faster-on-gpus.md",
       "title": "Facebook's RegNet AI model tops Google's EfficientNet, runs 5 times faster on GPUs",
       "excerpt": "Facebook recently made progress in the GPU department. A team from Facebook AI Research (FAIR) recently developed a new low-dimensional design space. Named ‘RegNet’ the new design outperforms traditional available models including ones from Google. Further, it runs five times faster on GPUs. Also Read - Facebook launches Quiet Mode to curb ...",
@@ -1262,43 +1291,6 @@
           "width": 1200,
           "height": 602,
           "title": "Researchers propose paradigm that trains AI agents through evolution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-why-the-coronavirus-could-mean-more-bogus-cures-fake-government-crackdowns-and-misinformation-on-facebook.md",
-      "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
-      "excerpt": "Facebook, YouTube and Twitter’s content moderators were sent home due to the coronavirus, forcing the companies to rely more on algorithms to police content in the interim.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/?outputType=amp",
-      "publishedDateTime": "2020-03-23T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/TF1lbo3BNhg90uK3iZeOKvdnLJI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKL52PAY3BH6VDJKTGMCSD4VFI.jpg",
-          "width": 1440,
-          "height": 910,
-          "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
           "attribution": null
         }
       ],

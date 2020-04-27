@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-17-tensorflow-lite-gets-machine-learning-model-maker.md",
+      "title": "TensorFlow Lite gets machine learning model maker",
+      "excerpt": "Google has announced the TensorFlow Lite Model Maker. TensorFlow Lite is an open-source deep learning framework for on-device inference. The new tool is designed to adapt machine learning models to datasets with transfer learning. “It wraps the complex machine learning concepts with an intuitive API, so that everyone can get started without ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/tensorflow-lite-gets-machine-learning-model-maker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-13-at-4.22.27-PM.png",
+          "width": 781,
+          "height": 299,
+          "title": "TensorFlow Lite gets machine learning model maker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "TensorFlow",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time.md",
       "title": "Microsoft: Our new machine learning model spots critical security bugs 97% of the time",
       "excerpt": "Microsoft claims a machine learning models its built for software developers can distinguish between security and non-security bugs 99% of the time. Microsoft plans to open-source the methodology behind a machine learning algorithm that it claims can distinguish between security bugs and non-security bugs with 99% accuracy. The company ...",
@@ -184,14 +231,14 @@
     {
       "path": "_news/2020-04-16-pentagon-needs-tools-to-test-the-limits-of-its-artificial-intelligence-projects.md",
       "title": "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects",
-      "excerpt": "In a request for information this week, the Pentagon’s Joint Artificial Intelligence Center, or JAIC, seeks input on cutting-edge testing and evaluation capabilities to support the “full spectrum” of the Defense Department’s emerging AI technologies, including machine learning, deep learning and neural networks. According to the ...",
+      "excerpt": "The Joint Artificial Intelligence Center seeks cutting-edge evaluation capabilities to assess what systems can and can’t effectively do.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/?oref=ng-skybox-lander",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T14:50:00-07:00",
+      "publishedDateTime": "2020-04-16T14:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nextgov",
@@ -316,23 +363,23 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever/article_35c486af-26f5-5532-8c78-a677135b8da5.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever-301041756.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T06:23:00-07:00",
+      "publishedDateTime": "2020-04-16T06:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/22/c2216860-0a3c-5af2-ba20-9a5b036c0854/5e986247ecbff.image.jpg?resize=400%2C208",
-          "width": 400,
-          "height": 208,
+          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook",
+          "width": 2059,
+          "height": 1079,
           "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
           "attribution": null
         }
@@ -1195,35 +1242,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-when-machines-design-artificial-intelligence-and-the-future-of-aesthetics.md",
-      "title": "When Machines Design: Artificial Intelligence and the Future of Aesthetics",
-      "excerpt": "In a tech report on artificial intelligence, Building Design + Construction explored how Arup had applied a neural network to a light rail design and reduced the number of utility clashes by over 90%, saving nearly 800 hours of engineering. In the same vein, the areas of site and social research that utilize artificial intelligence have been ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArchDaily",
-        "domain": "archdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

@@ -2,6 +2,181 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-11-amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia.md",
+      "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
+      "excerpt": "... reckons it can win the high-end GPU battle – and dethrone Nvidia These are all the best graphics cards of 2020 Remember this is a GPU aimed at data center and heavyweight compute usage – the likes of AI applications – but seemingly we’re looking at something of a beast of a card with a 1,090MHz base clock and 1,333MHz boost, with ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/in/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
+      "publishedDateTime": "2020-02-11T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/WbcyGEkXqJLgzVDDVsHBc7-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-and-lecun.md",
+      "title": "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun",
+      "excerpt": "Hinton joined his compatriots, Yann LeCun of Facebook and Yoshua Bengio of Canada's MILA institute, fellow deep learning pioneers, in an upstairs meeting room of the Hilton Hotel on the sidelines of the 34th annual conference on AI by the Association for the Advancement of Artificial Intelligence. They spoke for 45 minutes to a small group of ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
+      "publishedDateTime": "2020-02-10T12:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/79d4074f-3054-45ef-97ca-091d778943cd/hinton-bengio-lecun-press-briefing-feb-10th-2020.jpg",
+          "width": 7331,
+          "height": 4887,
+          "title": "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI",
+        "AI Hardware",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-arms-new-cortex-and-ethos-chips-promise-up-to-480x-faster-ai-for-iot-devices.md",
+      "title": "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices",
+      "excerpt": "The microcontroller, the Cortex-M55, joins the company’s ubiquitous Cortex-M family of processor designs. Arm said the chip will provide more AI performance than any other product in the series. Cambridge, U.K.-based Arm doesn’t make any chips itself but rather sells blueprints under license to semiconductor manufacturers. The Cortex-M ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/02/10/arms-new-cortex-m55-ethos-u55-chips-promise-x480-faster-ai-iot-devices/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/arm.png",
+          "width": 718,
+          "height": 400,
+          "title": "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-softbank-owned-arm-to-launch-new-ai-chip-for-small-devices.md",
+      "title": "SoftBank-owned Arm to launch new AI chip for small devices",
+      "excerpt": "Arm Ltd, a semiconductor technology firm owned by SoftBank Group, unveiled a chip technology aimed at putting artificial intelligence functions on tiny devices such as sensors designed to detect patterns in human speech or other streams of data.",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-arm-tech-idUSKBN2041MK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2041MK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2041MK",
+      "publishedDateTime": "2020-02-10T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200210&t=2&i=1488376532&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1911W",
+          "width": 785,
+          "height": 545,
+          "title": "SoftBank-owned Arm to launch new AI chip for small devices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu.md",
       "title": "Arm focuses on AI with its new Cortex-M CPU and Ethos-U NPU",
       "excerpt": "“But the next thing or the next step is even more exciting to me: to get AI everywhere. And here we are talking about bringing the benefits of AI down to the IoT endpoints, including microcontrollers and therefore to a much larger scale of users and applications — literally billions more.” That’s very much what this combination of ...",
@@ -1086,178 +1261,6 @@
           "width": 1000,
           "height": 500,
           "title": "Macworld speculates that Apple bought Xnor.ai to make Siri smarter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-qualcomms-launched-a-trio-of-4g-chips-5g-aint-going-mainstream-anytime-soon.md",
-      "title": "Qualcomm’s launched a trio of 4G chips: 5G ain’t going mainstream anytime soon",
-      "excerpt": "The chip also features support for Qualcomm aptX audio and comes with an integrated X15 LTE modem. Phones with it will support 4K video recording and the ability to shoot 192-megapixel photos. As a final perk it also has Qualcomm’s latest fifth-generation AI engine. The engine has already been seen in the company’s top end chips and offers ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591",
-      "ampWebUrl": "https://www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591/amp",
-      "cdnAmpWebUrl": "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591/amp",
-      "publishedDateTime": "2020-01-21T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trusted Reviews",
-        "domain": "trustedreviews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/qualcomm_snapdragon_460_662_and_720g_mobile_platforms_-_chip_case-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "Qualcomm’s launched a trio of 4G chips: 5G ain’t going mainstream anytime soon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-looking-for-an-affordable-phone-wait-for-qualcomms-new-mid-range-chipsets.md",
-      "title": "Looking for an affordable phone? Wait for Qualcomm’s new mid-range chipsets",
-      "excerpt": "Combined with an improved Adreno 618 GPU, users can expect a significant leap in day-to-day as well as gaming performance over the Snapdragon 712. Imaging is one of the key focus areas for Qualcomm and the 720G gets a Spectra 350L ISP that enables image capture at up to 192MP as well as HEIF support. There are improvements in the AI engine as ...",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/",
-      "ampWebUrl": "https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/",
-      "publishedDateTime": "2020-01-21T00:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/01/Qualcomm-Snapdragon-460-662-and-720G-Mobile-Platforms-Chip-Case-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Looking for an affordable phone? Wait for Qualcomm’s new mid-range chipsets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-ai-can-do-great-thingsif-it-doesnt-burn-the-planet.md",
-      "title": "AI Can Do Great Things—If It Doesn't Burn the Planet",
-      "excerpt": "The effort may have consumed about 2.8 gigawatt-hours of electricity, estimates Evan Sparks, CEO of Determined AI, a startup that provides software to help companies manage AI projects. That’s roughly equal to the output of three nuclear power plants for an hour. A spokesperson for OpenAI questioned the calculation, noting that it makes ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ai-great-things-burn-planet/",
-      "ampWebUrl": "https://www.wired.com/story/ai-great-things-burn-planet/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-great-things-burn-planet/amp",
-      "publishedDateTime": "2020-01-20T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e1f606fbf8e550008579631/master/pass/Biz-powerplant-1140185265.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "AI Can Do Great Things—If It Doesn't Burn the Planet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips.md",
-      "title": "4G isn't dead yet: Qualcomm unveils LTE-versions of its midrange Snapdragon chips",
-      "excerpt": "The Snapdragon 662 supports triple camera configurations, a first for the company's 6-series chips. It will also have Qualcomm's third-generation AI engine to let phone makers add things like avatars, night photography and face and voice authentication to cheaper phones. The processor comes integrated with the new X11 LTE modem that can ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/",
-      "publishedDateTime": "2020-01-20T22:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/uTtvRMBczx9c-gHi594-X_c3hdY=/756x567/2019/12/17/7be74ffd-64e9-4938-aa31-3f17084d1fae/xiaomi-redmi-note-8-8.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "4G isn't dead yet: Qualcomm unveils LTE-versions of its midrange Snapdragon chips",
           "attribution": null
         }
       ],

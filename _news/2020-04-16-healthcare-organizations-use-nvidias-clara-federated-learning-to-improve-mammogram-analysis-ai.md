@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/nci-vol-2573-300.jpg?fit=1800%2C900&strip=all"

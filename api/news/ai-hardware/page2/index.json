@@ -2,6 +2,186 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-08-china-may-forge-ahead-of-the-us-in-ai-chip-race-but-at-what-cost-to-both.md",
+      "title": "China may forge ahead of the US in AI chip race, but at what cost to both?",
+      "excerpt": "Success in artificial intelligence is not limited to data and algorithms. The third component that determines success in research and applications is advanced specialised AI chips that provide increased computing power and storage, while decreasing energy consumption. Companies that have access to leading-edge AI chips are essentially in the ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/comment/opinion/article/3078827/china-may-forge-ahead-us-ai-chip-race-what-cost-both",
+      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3078827/china-may-forge-ahead-us-ai-chip-race-what-cost-both",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3078827/china-may-forge-ahead-us-ai-chip-race-what-cost-both",
+      "publishedDateTime": "2020-04-08T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/04/09/1d2a7b84-78c2-11ea-9479-e3cad17ef2b4_image_hires_014859.JPG?itok=3BOh8Ia1&v=1586368145",
+          "width": 1200,
+          "height": 630,
+          "title": "China may forge ahead of the US in AI chip race, but at what cost to both?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-is-nvidia-stock-a-buy.md",
+      "title": "Is NVIDIA Stock a Buy?",
+      "excerpt": "Those who have followed tech stocks like NVIDIA know the case for buying this company well. The GPU company orchestrated a comeback by turning to new technologies. Innovations related to artificial intelligence (AI), virtual reality (VR), the Internet of Things (IoT), and other industries will become more prominent in the near future.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/08/is-nvidia-stock-a-buy.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/08/is-nvidia-stock-a-buy.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/08/is-nvidia-stock-a-buy.aspx",
+      "publishedDateTime": "2020-04-08T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/ecc4ee9dca304103b2626a2e32141026.png",
+          "width": 720,
+          "height": 412,
+          "title": "Is NVIDIA Stock a Buy?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-huawei-korea-to-reportedly-enter-gpu-server-market-later-this-year.md",
+      "title": "Huawei Korea to reportedly enter GPU server market later this year",
+      "excerpt": "While Huawei already is one of the very few smartphone chipset markers, the company is now planning to enter the Graphic Processing Unit aka GPU server market which is currently being dominated by NVIDIA. As per the report coming from Korea, Chinese giant Huawei will be setting up a Cloud and AI Business Group in South Korea in year.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/04/08/huawei-korea-gpu-server-market/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/04/08/huawei-korea-gpu-server-market/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/08/huawei-korea-gpu-server-market/?amp",
+      "publishedDateTime": "2020-04-07T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2019/03/huawei-logo.jpg",
+          "width": 600,
+          "height": 450,
+          "title": "Huawei Korea to reportedly enter GPU server market later this year",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-tenstorrent-launches-ai-chip-with-conditional-execution.md",
+      "title": "Tenstorrent Launches AI Chip With Conditional Execution",
+      "excerpt": "Analyst Karl Freund gives his take on the Cambrian Explosion of new AI chips and how the bar will continue to creep higher. The latest entrant to emerge from Stealth is Canada’s Tenstorrent, who has some aggressive optimizations that make them stand out in the crowd.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/amp/",
+      "publishedDateTime": "2020-04-07T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8cacf5e9952f0006c612e3%2F0x0.jpg",
+          "width": 563,
+          "height": 291,
+          "title": "Tenstorrent Launches AI Chip With Conditional Execution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-microsoft-hires-apple-5g-chief-to-develop-new-hololens-and-ai-products.md",
       "title": "Microsoft hires Apple 5G chief to develop new HoloLens and AI products",
       "excerpt": "Caballero’s new position includes hardware design and technology engineering for Microsoft’s mixed reality and AI division, which he notes will include “HoloLens, Special Projects and more to come” — the sort of open-ended purview that suggests eventual involvement with many Microsoft-branded devices. During his 14 years at Apple ...",
@@ -1127,178 +1307,6 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence (AI) Chips Market boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-nvidias-dlss-2-aims-to-upscale-its-low-res-reputation.md",
-      "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
-      "excerpt": "Nvidia has slowly been climbing out of the reputational pit it dug with the initial release of DLSS, its AI-enhanced technology for upscaling games to run on higher-resolution displays without visual or framerate compromises.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
-      "publishedDateTime": "2020-03-23T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/Mw-doFVfOEHFoIvyaKh_CJJRUms=/756x567/right/middle/2020/03/22/6c4d0e24-e46c-4b83-82e7-06d4766bdd06/nvidia-dlss-2.png",
-          "width": 756,
-          "height": 567,
-          "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-huaweis-new-mid-range-phones-could-have-same-gpu-as-galaxy-s20-update.md",
-      "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
-      "excerpt": "Still, it suggests that the Kirin 820 will offer even better on-device machine learning capabilities. Even if we don’t see a major AI boost, the GPU upgrade suggests that Huawei’s new mid-range phones might be ideal for gaming on a budget. Now, about building out its mobile services and AppGallery.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/",
-      "ampWebUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/huawei-kirin-820-1094618/amp/",
-      "publishedDateTime": "2020-03-19T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/09/Kirin-990-with-Huawei-logo-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-playstation-5-vs-xbox-series-x-which-is-better.md",
-      "title": "PlayStation 5 vs. Xbox Series X: Which Is Better?",
-      "excerpt": "Microsoft has talked up some AI capabilities of the Xbox Series X based on its ability to handle 4-bit and 8-bit integers. It’s not clear if Sony’s RDNA2 GPU has a similar ability. Sony’s claims about the PS5’s more nimble GPU are interesting, but they need to be demonstrated in head-to-head comparisons. Sony has the not-inconsiderable ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.extremetech.com/gaming/307903-playstation-5-vs-xbox-series-x-which-is-better",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2020/03/Xbox-Die-Feature.jpg",
-          "width": 1179,
-          "height": 651,
-          "title": "PlayStation 5 vs. Xbox Series X: Which Is Better?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call.md",
-      "title": "Microsoft can filter out the sound of you eating potato chips on a conference call",
-      "excerpt": "The software giant's trained artificial intelligence software to identify background noise that isn't your voice. Snackers, rejoice. Just in time for us all to be working from home because of the pandemic coronavirus,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
-      "publishedDateTime": "2020-03-19T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/JZSQgmXsYYeJrmdTuLhBplTeIGs=/756x567/2017/03/13/a8a77ece-0a9f-437e-8a76-60905540b98d/chips.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Microsoft can filter out the sound of you eating potato chips on a conference call",
           "attribution": null
         }
       ],

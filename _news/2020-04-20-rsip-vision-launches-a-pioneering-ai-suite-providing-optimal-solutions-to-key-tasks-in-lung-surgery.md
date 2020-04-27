@@ -20,6 +20,6 @@ images:
     height: 349
     title: "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery"
 
-secured: "U72VCFmJUiITCxgDzLeXlpANu9MdOAZM78MtfxbHFtSSe7s/rOXYmcb7202BjlJeU+I4ahEQHm/rsPBB1wRCre4iEgS8EuRZzYkRO2bpQHhKBCXzlUKtEFpzBlsf3oLJzQ5prxpaC97BTrmezRjHXpKmw4AK/q1Zlje9mcTzZNy8anTFYGGVEBYSwujUVzCms32nulHyoQ8Yn7HDa/QozARbD3em19KN6jOspjSnyiIyWhY83g6O2vJDmztoMTcUYpHhCXjXvmgdmrjiyXp/gQtu+lTBHA9+pzMCDMuhISPRuZr4sl7oWp/JQ8INCcvA;FKc9uTOet9/t85G4Lm4NSQ=="
+secured: "gPehahMQLEkQV/8hwLK/fi3PD/OYj7NJpNgV6Vyn2yPL3aNbsz5TKo42y5fCNi/REBRoCPHc9cCNY+LM9xb2I1J8D9J4MzMR5qtVISdUlmsLyWu4gFWcN6T0jl2If7hbc0mfpw+qUDNLQAhB/dqjXFlt8sql1O/B/FsAB6Qk2Dha3wGLX/+RlVA6uRYl/lfL+ro5uch7h4VLnM7M03g/4/o0sM7h4RvTCcKzyDPPHwp00Dq1eAIjxqvR7qGAi7o3me1aijbGBKXJlELeeUqxT4dJDzQEmvs2kbHTZhMQoQQtRVOR6xSNsq1xVkHfIpQJtgUzUvVsuVJkuOIo5Rm2Qq8hrepCjH0RkT21RrZZswfLGXMRYwH9fMT0p0+4N+lRrNXA1JtzNMJdLVprlANWS+Jyb2LlZb3UHpG6TzYGr2jpmK+SMN1q/kHGSN0IbkVG8WQvuRUhnkWst0m/NVuuO3ECD+1ymi9yFAU47xVD3QA=;iH//7bvo37huzcTO5bln3Q=="
 ---
 

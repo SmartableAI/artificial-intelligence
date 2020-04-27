@@ -23,6 +23,6 @@ images:
     height: 959
     title: "NUS-led team develops artificial intelligence platform to combat infectious diseases"
 
-secured: "R5+gWEPkGxyA2yRt570iAMhPGyvxtiumS2YEOS00DYdw4OXY/6IpKVPY+xDsJCtHCK0TyEJk0iqB71uI/lWNVe8X8YTeX7BM1zotgyRZEk1ElxJzsWd/XPvu/6S98OcBNyMTBQduiYTYiMH4QbQb9/tr+xNEQ0muaNuilnaP5o5Nrr7CBoO8Ooru+RltpzAVBPfaUYadeqcAsO6pLbT/J+TSrwzpNM8NC9jeQoewBdczwOfnazxdcdqxaUdoaDfQk+CzdiZ6rtJgxsaIkw/vHbtCw9hVwqmcST80p9raGYKhOrbd2ChO8HzwubkNGTeA;JikHz9ISSIQ4KvIt+ir/HQ=="
+secured: "qvyd5D++1P0qiE/02hqTr2fUMK3RulP/DphP7mprnFteXtSrcxU6pR/N+kOo8xBmTG7BwjtTu0v6DTuDi8BYeNvlv0eRkBRJY6ipQHzA/zBsCJUsFfQGUXGCSZNEUUGvx6I7F6wp19J++xSXY34AuAihL83ZnKEZnBFd48jxSKus1SKJAH4mC0x4vCiUIF7WAbK7/g8u1H6wCVkSk8lGSFUncUhBojiQJOkje+831UD6P5FLBVa/d1SmHSrCd8AlmejcynowFPJuldkSTiW30Dvaivum6LTi4Nhs+eMUw6oO+7VzOkNfKNeNoFc3lKBsdFb2C0nOS9w2HVg/V8y/PF047B1GNMG+ZaLxVRtboz9ftzYVDSg/zJ2Zr+o7jwNB5X+/pqEkf1TzgmwI4d/OE+gWj5KjlI5Zjy4xN4NC45usNHaFLtHxytHSXn0AayOqzjL+jFbA1WdllqVXNCxXe374xcverfTYrXpCycxVb1c=;Do5K9aqhS8k17/2KQXDbpQ=="
 ---
 
