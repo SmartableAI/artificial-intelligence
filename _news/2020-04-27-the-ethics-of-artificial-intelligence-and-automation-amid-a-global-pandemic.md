@@ -5,8 +5,8 @@ excerpt: "Will a technological revolution entrench inequalities and lead to job 
 publishedDateTime: 2020-04-27T11:54:00Z
 webUrl: "https://morningstaronline.co.uk/article/f/ethics-artificial-intelligence-and-automation-amid-global-pandemic"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://morningstaronline.co.uk/sites/default/files/11robotimage.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1267
     title: "The ethics of artificial intelligence and automation amid a global pandemic"
 
-secured: "SBh+y4WU3j8QY0DL3XwkzY9PhLTC5TVzOH6N37liMQ/Aw0TNM1D6AlgWyCFonNIyXnpoiZVr6KCgNIa+AVReafmbdkRDH+avbPlkfdxdRzk0U8qDP5ZTXmRk2DClL4ZW/C8ejbRAJjk9LkDaKPCgjooF4ZVnTyodKjxKTSomBkg3pW6fmLrGfmyUWn9yLV1q3s+jlzmgfq/6qswTAC8Sk9unHWg4XhfEJHGZd+AnS+aJCphQVf+QB297mzONECaxHFkwdkiFUcEHi4FkFlqWGOZM6RaLkrZ0dGuwU0df1OAS5x8WRtKN8ZFKuYj02BxZ;u4XBMacCa2lqn2+4nn4ndQ=="
+secured: "jeIYYJPNtZB1KMonwbzy9tYRPkfRYVIwUwP2f6NQ+5rQVlC73uidKl/MwoneDD7ltxsPqYSN15HQaVIucXL6Ui/Jnqneyxu2AmibNhAAR0BFK7UwF7nMQTfMB+5Pth2OVdhu+L8IZGoyOuBtw8lR4EZlfN3gKJn4YHk0pOZRQ85lWH7RmOhZAaIn+bV0B89nAMFBKlOpnBw/1tehiyx6EGH+XAHIY4uFWNpQruIw2b1HcszTTxI1i1tVqFa6orFcjSZU5bijcciN3uDrrCtqWjpxczdys1e1ycVizVzN83Pp1LTKULN4dQJl1QEFcrRzbXwEF71ZYdmklnsOwUcV7CDWb99IY0kfQr/lFmh6XG5YxuYthgMwMRdThiyYqvbpevLkIYuaOclEjlMGVhDb89q3K9EGnQ2hGCaI7qEeyjz7aG0p56OFeE6vVgs8/jUJ6DDV6Wwpgdk2H5zfjyMfFZCQ1mt9hRMTixXdNVrjMq0=;JSC0MaP+jqS1tjD1t7dDuw=="
 ---
 

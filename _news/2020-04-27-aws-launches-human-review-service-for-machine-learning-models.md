@@ -7,8 +7,8 @@ webUrl: "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches
 ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp"
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp"
 type: article
-quality: 91
-heat: 91
+quality: 108
+heat: 108
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg"
@@ -30,6 +31,6 @@ images:
     height: 479
     title: "AWS launches human review service for machine learning models"
 
-secured: "KWTAsepFUjPRcAYakjENd7d/hLbLTmWyRNvVOEviAFmxeNSsT45DKO60b4vtYoNXQBcOMRljIkADHG/pvMPbOHjHBT75MHKinpwlSnbdPGrqlb1kg/4UnbmVLsT6Bpo6YC2IYMCsHgCGLsQrVRrnGv0BydLqOaS+3kssJpv3Ey116IzcaMVreGAYFqPcU83+vnPzyrZAm1DRfZFagEGTrTVRFHCGI0xce/BH29PWZECQIasmAdnjtwcmnumDEDidI/U19lp5GDTZGvTCrx2+agNUk4tSJSRUhTO/bJpltVyZpCNq8ZtNIRyJvx5pNQs6;iOMxxbb+PGEfuKDL/9IUAQ=="
+secured: "sD+GtPjm3p+QVv+4hXEPlF322+73KQdEpz9ECptXQwiu7sycOzIY8MW8LFYZJW7hF583Q37Bj5Cg6QuS4j/CzVuo/Fq0csbKQ5PyshBxfGhX0AndmR94xCL9Zp25jJOhbyOxQyiLvK4gu7mzDqDUPM5zVjaWvDep2tSqtV8k4+jDpiweE26OafvWphsNKusfLLqGGJNG6hhQscuSv6onsvBFKvZRVZ7olSh1CKbnt+BHxW0LBHYNmE0IGtud6rOQ1HAwWdSP59Eef0Mb40PCP8WeD1vDwVZA0cySkJMz32WLLFiAIHRWz2z7j1rrdrYs;RqhUGMN36zHvDJLqUoHypw=="
 ---
 

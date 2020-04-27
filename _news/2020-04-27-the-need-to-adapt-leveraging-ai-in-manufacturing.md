@@ -23,6 +23,6 @@ images:
     height: 430
     title: "The need to adapt: Leveraging AI in manufacturing"
 
-secured: "j7GarK9a+wId3R8p1qluVEFnh7A68jRe5E1uNMr88N+milJKi7nckn3Gv4/DT1XvkxoCdQ9wB7Ws/F6OBoCzDCJtd2yAvXeywJVDos0uHSu/KFgWJDYYs9kHPJ/an0U1eD0p1FofOFjyanCJW8IGLNK+dwSlz6gAU3z/tbGZ6qzwm6rv990nrvYeDLOLWv65VSzH5tHdq+SDyBaaFF0nxtU6wmdudLCSc21t7+C+dGPArtXvh1IduS/YjtlmIwajllbuOzHgIEVKijwPOZRvCAOlR64mEkw9CESQQJ63HhUq/7GEkRWVSzsxH5LoBIX6;3CtI6IR5uW0yWAs50LPVxw=="
+secured: "2E70UC1jzq/i98ulfuij9AvEc6p5mPcifBZ2nT+/691R9AYkvHxDGWThik4vkOj5LijrYKBvqTcZgm3SM8JRN/LvZMFPXZZEZrHmsqakF9/l71xhpgzubDHAMryFOs7KAb/S0LGP7jM2Gpwe8MiWykXwqiB9Sp/jSl/5o3o4QzLmAVwUDy+/sfwBvpcV7mpfOIc9ooW9BVXrM8oWQa4U3cwQX9pALJlu02gQFOwOQmghl+wLYGkKU76YR15ZaQeVGHXjkds/3Y7JnDBBYP2Ajwd5+oMcVX+zhJJJU7jB2E8J7oq/t1EZz9vtfz0A+UyXxO9PqlMWTb2VY6bz/X3adlvjFkcQQ5pmClcPuevMvJNzMfehAiHBtRGAQZ7jquoy4D/gHomGl4c845cjSwiTewrZO65kaRIENgQMRTj+kqfywIJ/PCoUZ35lfSvyqf0t3XtD9zTHrtiJDTEcEf61pau0H4IGbe+Hyux9cbh9jfg=;ix4ZBFEO6DYn6zx5n7PJvA=="
 ---
 
