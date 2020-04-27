@@ -2,8 +2,8 @@
 category: news
 title: "University of Maryland funds cross-campus, joint medicine & AI research"
 excerpt: "New joint program funds collaborative medicine and artificial intelligence research to solve big health care challenges."
-publishedDateTime: 2020-04-22T20:15:00Z
-webUrl: "https://eurekalert.org/pub_releases/2020-04/uom-uom042220.php"
+publishedDateTime: 2020-04-22T17:49:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uom-uom042220.php"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 300
     title: "University of Maryland funds cross-campus, joint medicine & AI research"
 
-secured: "SLW8eYeDFx44woL1ag4qvTUmo4+/yec4frnEqQNdxsE5aQu2CTNoL2PdXD7xkMFZjhk5LNqKWFlFyL7mW6Sj7gEEUgVUbm1lQtQsyuX8h8MWkjf8MM+Eer9e4KCQLfZttE/L2bp0Ge4c6Tbb337uSEUClA5f4Q8MS9gjSh9zvAVICQlD+RUi1aNOtMKJ51ErMg9B/lRUm++5PERpbkPXeX6oAjy4gW2emCpnb8CG312NNq8PD7/qhGTa/R77XCfox3ORYHs2ZkRb8E35Lbl0V3QWBp88I2vpWg+f0xHUqhZfBIdzXdEavfz1aMcNslcZ;qS2A1SWekmU/HMGv4YElBg=="
+secured: "rP8VAbE1ouyAFd5CWXqY/EDZMKbESkHKSOzrc/vz6UJg7JSzRAo5ysyNInLZXqHHurGHuxJKqCRKh23WFfEzVmMAOb98qPHTYxMIDNASgUYEdxS23g1MCBSWPzFcjurYIG9fvj2pC4+g6kx6cq0NIdyjdXNrx9Pzzb6yfkY44K5tn53ofYSyL272KWxBtn0T5pRaGYbK4zoYW3+IgcAS/JpiiUrf2mJ6zuxcTv3SxuJeAV4Rjt16ztjabcGFOjfdDZ2LFuDW/GgNK2FgvAt2fZBZ45upzGefLIMVZSN3KHTWfSJRwy2NAwusBYiQ1ATq;qW3lBuO4rmmONLcTzjcm7w=="
 ---
 
