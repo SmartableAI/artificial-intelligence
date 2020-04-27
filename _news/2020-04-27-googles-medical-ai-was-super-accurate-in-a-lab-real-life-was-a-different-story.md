@@ -24,6 +24,6 @@ images:
     height: 682
     title: "Google’s medical AI was super accurate in a lab. Real life was a different story."
 
-secured: "erf175qS+m1Plj/G1m1SAR5kJIdV9UpV9dYru/Oo+TMBhANzv8HPSa41iP6AXUNOop5hlPpTIr1w1P3RSqvoxMOB4IQnafx2tqrnkeseLXqfawi3tZodRReV2C2cL/AoIMvMW8tC9G6/oqWLqSlfQipW5J16gO+bmcYg6PLXgNzmTUeHV+vGVlTZ+MapjvE+MYjRrw9qmBzn+KEzL2jsbn7liEIs82uMXqMMYWrXH32+swGQ/QaEDaIV73bfjHMyCx9MzaYgYdFcnYlcHsIZPkams7iBt7jSBZYbAlgan/ykw5q5i7RnWlzSBmHV+qa6;6pEPpWI612VmNvR5rewHMA=="
+secured: "I9/ZDc3j02wRkpwH1HCGi3vvqABfCccDT4Z71/Vne6ddO0SXQmIqyP9o+hNyN2c671j8sQe3r9NQ3AxZ6LRZD5/InBWF5VHTxkOS2VpDOQg3agAG9hVg5lVE7ByL17Tiv1M8MLh5+nXStGr/vhXJOIim7MYlQV6dJ7KzdEzuq71H1PyBkwnCalpafbEVBqJAb2N22HiNFSzZbHDYMj9S7YKlHay4mSKPni6kAlQMZw5wsIXoKFtKYEXuce35dbx/YvW820GATWmMKFaNX8clg1bgiQgLF53tpYFRPS5eV7062kQ6nMMHmpgWvdZh49g7zbJfTUsTgad78umajDZ6bCUuDmogEovAywbB7R4t9mKYmyJhYOZLoUhrqaROWTu6L09omyQHDNWnCDBsAyQPOhYcIiipHrRoPbvMoIz/8VgoU7Yz7YdBq/Ug/oE/T+N+2bKKrJqALlC4WZ3K4bV74nKFeXOkop5we9i1H9L7ZB4=;GT8DS0HaDtijXfPCfcWWTQ=="
 ---
 

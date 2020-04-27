@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-arra
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Amazon’s AI uses a microphone array to localize multiple speakers in a room"
 
-secured: "KtFY3YTj8BFfvMRE7cbLKLyTvzrMSc8vKwkL86/BOW0PgM4kaGzgeRDjKIb66OxaAyWKJePtldxLIRwQ9uybmiawX8vc8YNpBSqeHQbU2PnoBoSJitsB3luYZv/hVIY5RQYT3mqifKfkvLGwCfbOVEYPm57IN2S68eI98z2I913EAbg2PvMVHIHAL3FHSPK1EyHxDnvADjUGupXVYtLDiBGxvtR9/UmfMyKI2rOIH/xXpWMOgyqpD3e295aeuPcqHC5W+EGI3JObqCMDk+qFze0bBhQ+vUJZkTWoDXCfpIXkhw83xac7jLx1UelJ6dke73529rd2N0wsFmbw8eroiEfIJDU0U50TF7B2FH9skHdgsaToUfiKTPzWS6iipeoXBGhGOqBK9QTU9qbHf9IPCTeZBlZtqq1+5URPonqBjyn5ok5LtPJtSOUNW6FRl+J7tnloor1HenICMmMhfsUvY1XN1iCIZnEOy8aD9zyLoMA=;dL1aOqq5+TSPow/eZxKISA=="
+secured: "sSLrViYws5hY64sAsbpkXupGEnkoLTv0l6kdxP6wI5tu/QtWp38gR4l/IzlCvf/5zmTXjfP9p/aJUkCjzWiZv2LAjQ530GAzaFwApQnoBzyA+JgJrvfiONdbbZbIzb/epMxcodD12WbtRIGXK6yAoHFnndAul5xJPU49PyyFpzTTmVpNsYTrFHA5RomPWd/p8HahscO/bg+rWbF401v48Hh21RW4yn5C0xuuaRJ1f/8fqpqUAVIwEFWILtO1wb6turuuLhAZRq/yaDK4h0bQFgRyAXmM6fUB7DiKRYxI8lNHBglwdhdK3MifrXAkv0NeThPq6LDdH7GooR7xAHHDoMAH3fFh+3ExAGS8G9Usaqn3+FKRyE6lN2Foirh4+7YZx+WuGvTb4J6V+IMznlFSrzFJySnzXgoZvvvzN1TfAeScC/qPR+ZzzqcP+5Fj6lrQiPqhOK4eJgxl3e1rAFmfIExxtfRq+ibjGHactZUoVXQ=;38iYQHGEBbnrqt7IGRAeKQ=="
 ---
 

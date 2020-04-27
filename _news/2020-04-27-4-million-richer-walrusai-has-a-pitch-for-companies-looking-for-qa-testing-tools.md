@@ -28,6 +28,6 @@ images:
     height: 682
     title: "$4 million richer, Walrus.ai has a pitch for companies looking for QA-testing tools"
 
-secured: "BLNhNiedJVoHS0BtVAC5Kx8oHlyJRzAAFYcb/eHh6n5Q1pINUmZMBR9fxD0DUT1ZztW687DoBog2J2NS33c/4jHozJteiyoJaP6Df9BupzOhGvdEje9gBzlt9ESDc0KqqkAsJ/Zr4+XFd5qy3Jiq7BtwwTcLzllHQCB9Vz05Tt7xyg6EefQiVNTjRlMS61cq7PeFJbtl4B9VqmIlrFAdOVD7Bssc8iWkBK4e0/EX4UCYK4DrWlFsFQ6gjRCSTivrmOuKMb7goIYQvlXmy5lRc0v4tgs+ltGYd9/maSuDer0C1RF34tFdrZQ11fz6Y10p;Ov1xYBMi1arL1HwAW/+lMQ=="
+secured: "qaxxIodQ5i85WnlDWxrkNnFNnwXY90x9vWGvVW9+UqAn8b0O12k1iE+Czpea/l2jSK4JUiaDf3Hv4akr61UenWX70ITRYP7CpCaUMVHw/1rsjXesEX/QdCxJsu/EqG/+QpSduuY7ov18GKIl/OSiJQGKW3kOZvYlBYB7om8JeyktuIx2wxe4zU+MAfEVY2defPkFtEoBxM59uVzEP8IvlXlWYSm+GXEHXZVwcRU/E2B6nkonhuVex8WRpF/OwYLvnPxNOg2bWMHqA2NriBFzKHPeQBWyC7GIgPHb9oSGuK/na+A4IOleNSq2x+qmfrsl6uE/EiBj5O3+ZhujetY/DTdCZlLERiWmtdWavIDSIUUUI/uTYSRN8J5sscF2VVDF607ZDvhcOWavnEzTHIFqkBhL68QDqakkfGhbyGaTqDcqE/yiryE/se5ZiYJHOpDGJTkbYoh8id1vCnub4dC+Z46CXosfFejw7M+aFT2U6fw=;QxYpLUgrTER7r/RbSx9PFA=="
 ---
 
