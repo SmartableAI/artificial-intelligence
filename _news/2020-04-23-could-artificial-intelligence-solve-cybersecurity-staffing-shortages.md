@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Could Artificial Intelligence Solve Cybersecurity Staffing Shortages?"
-excerpt: "For scammers phishing for personal information, financial data and intellectual property, higher education is already a prime target. Armed with artificial intelligence, those cyber criminals become even better poised to launch AI cyberattacks against colleges and universities. The Global Information Security Workforce Study predicts that the ..."
+excerpt: "The cybersecurity skills shortage is well documented, but the gap seems to be widening. Can artificial intelligence and automation solve the cybersecurity skill gap?"
 publishedDateTime: 2020-04-23T20:46:00Z
-webUrl: "https://edtechmagazine.com/higher/article/2020/04/could-artificial-intelligence-solve-cybersecurity-staffing-shortages-perfcon"
-ampWebUrl: "https://edtechmagazine.com/higher/article/2020/04/could-artificial-intelligence-solve-cybersecurity-staffing-shortages-perfcon?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/04/could-artificial-intelligence-solve-cybersecurity-staffing-shortages-perfcon?amp"
+webUrl: "https://edtechmagazine.com/higher/k12/article/2020/04/could-artificial-intelligence-solve-cybersecurity-staffing-shortages-perfcon"
+ampWebUrl: "https://edtechmagazine.com/higher/k12/article/2020/04/could-artificial-intelligence-solve-cybersecurity-staffing-shortages-perfcon?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2020/04/could-artificial-intelligence-solve-cybersecurity-staffing-shortages-perfcon?amp"
 type: article
 quality: 57
 heat: 57
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202004/AI%20security%20staffing%20GettyImages-941800436.jpg?itok=lmRKCmOO"
+  - url: "https://edtechmagazine.com/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202004/AI%20security%20staffing%20GettyImages-941800436.jpg?itok=lmRKCmOO"
     width: 1440
     height: 500
     title: "Could Artificial Intelligence Solve Cybersecurity Staffing Shortages?"
 
-secured: "tGVLeCtYfWj8tyqBWof/dw7pcXbwpq2ac76ZT1dXr7HlDPgDiTo1s8dG5yJZW6ZKhi2wmtvLXW4K+HaitsVSeNPDHOKGnnXvmW+l3FfgHHZ+IKGxDs1NnJ+Ng6PVNPK1hG8dQjTIctvTPiCcIZphShBrnk1HPzCITzuMKYoPrpvnW0qNwJYaWRnuCFcL/b5ZyssSSLLEEnTDjwriQ7YSrCzirdaOUvKa9+70D2jQiEWl7fhhgis0Hisavvv6fq4BXc6oTfrdPhTuuhIac2AHeCX1Aki5YxOQ1TeODuUzeSBUB1/ztX8GvoEB04HpwJ34zciNZ9lCHR7X2mNTbbNHWK493BfJUldMOhlvCUiRRGL1I6XAVkFXZoO/OKY73UCWd07wKzDKg9+mJ3qtpccQUS1ZWCsleSxxZ5VJ1/AHd7GWcNMPleWWjt5Jw3pbRmpK9yLMKNwaX4qKKzjo2RCP2Q5610Vf7fVQhewk59g14yc=;hmbiYWZ3YaaWbizH39dm2Q=="
+secured: "3qxbADbV80nZMDUbqcb4Qt1F8CMuuKsfe85sSMuxbQM6sCUS//mfc5vHLqKCSIZGgzZxt3nHVA12u+X/cZ9v/kRZUBs9CHHMIs8fIo0y83Iru1/ZqjCXJdV+8gNcV9r4hjgsiklBNSHlPhzo6KntPBJTj4r++KC0tnwcAUickMiuvibjPMHoQDqiiIaqRyhoeX/kbrYqpMCZkXjVLprNX5J2LcQlYMyd8WSDkOoXfVulzOYWIYccbuXZEdHJsr0FFzc9ur9u8WQydbH+gBGcP186huWmzoVOSfMIrNGCc/WIuAE9rZ0iX2UJjFE2kkgS;ECR0KRkH/FZSSzgysYMlDQ=="
 ---
 

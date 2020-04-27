@@ -28,6 +28,6 @@ images:
     height: 672
     title: "Qure.ai Deploys AI Radiology Software In The Fight Against COVID-19"
 
-secured: "VwVPnihhyR2FKcMCYD3js70cN+BQF/Gvm8i4JI2xK2UN2HuuBKS70+AhxMYzxIWdg18X/kHPsGhenmtmsEvBb7tQZebdXZ79BVt+SLqDJ9CIRKF/CrwBZO8IyAejW3d6V+6nFAOJG0c1hM1C0nTW5Brd3wQyRDrkGleM8bWIOiAlUwUBsq0mWolYaFO9UY83cqumTB5rASu2leSr5AdIrzIOwbrUfjr+wemF6VCls5w/golZ37TWVNYJuzxmk5DUC4+yUaPZSDroimYf5t3CxBr6nihSktfKTkK22fQiRVE4w5o+N/jUmVABO3kNDQ2T;FR5wnAPf2adKrwHfRNXDOw=="
+secured: "x5xlpEQEktitXVFAm2s7VN4GBgdczCnbj+5FjH+FC0U9r4/Dc28BAJXAaYoz/gwpzO8LXOiHS5hjahIC8QLTk2GYuFPMS1vka3lw2D2aWklsIJcrfRjzEUsfYAwFMr/HbGJHTRbycNddz7fOCQUUgMTxv1r8moEi+7lAA3rRW5Bw8V+awly8TrWuV9usbhJS/z0Du1g4dozr/wwf1+IrrylyWKYHI9Lh8HRjDidxOuOt/gTVocqV14kq+57vp03KYXjhNNAcuKnaKKSLZuO5st92Ipx05tfVTen5K66dzockJWkU2Un4VQjJS6PsmFr0vzeeo/773fquRIEeCg0wtajdiftuHXUV6nY5S01i8sFqFVS2kkl5u05KK6M32uWGjIzUwBKfFGq4x6JDxEBdqRKTB/YkyUq3kV+/9+UV9JE1FmzxNwvRI11kS3ifsEk9iv3IRKW/gM1VyhYvMdB/HuFgl2+Dkwnxfve1VyUJu9Y=;C2U+OPeMvf43i1A/S55EAQ=="
 ---
 

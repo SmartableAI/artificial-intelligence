@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Facebook, AWS team up to produce open-source PyTorch AI libraries, grad student says he successfully used GPT-2 to write his homework...."
-excerpt: "If you're stuck inside, and need some AI news to soothe your soul, here's our weekly machine-learning roundup. Nvidia GTC virtual keynote coming to YouTube: Nvidia cancelled its annual GPU Technology Conference in Silicon Valley in March over the ongoing coronavirus pandemic."
-publishedDateTime: 2020-04-26T09:37:00Z
-webUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/04/26/ai_roundup_240420/"
+excerpt: "Still, graphics hardware and AI fans will probably want to keep an eye on the presentation. Huang is expected to unveil specs for a new GPU architecture reportedly named the A100, which is expected to be more powerful than its Tesla V100 chips."
+publishedDateTime: 2020-04-26T10:22:00Z
+webUrl: "https://www.theregister.co.uk/2020/04/26/ai_roundup_240420/"
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/04/26/ai_roundup_240420/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/04/26/ai_roundup_240420/"
 type: article
@@ -16,10 +16,10 @@ provider:
   domain: theregister.co.uk
 
 topics:
-  - Microsoft AI
-  - AI
-  - AI Hardware
   - Facebook AI
+  - AI
+  - Microsoft AI
+  - AI Hardware
 
 images:
   - url: "https://regmedia.co.uk/2019/07/20/shutterstock_programmer.jpg"
@@ -27,6 +27,6 @@ images:
     height: 676
     title: "Facebook, AWS team up to produce open-source PyTorch AI libraries, grad student says he successfully used GPT-2 to write his homework...."
 
-secured: "myvxsLK5I2PaV0Pcdz4L8w+bHbnGEfioEjR42WHx8ZPvi1eJjp25OAvTHA7TZB/CR7rm8G5FgU/E2cfN/VhrL1AefsVtbGj/Lz1BmovTNAtcUOk5RAwj5jw5N11+RPwd762mzkugX6/DmhfS0wjq0difZbZ6NjPjXmec9usL6RcHp58KFMrIDyZZjPE2bhKEGY+TiMsPf3hfKLaqNxbU/8BYNDIKUkOdsYlq0AKj+3KyZ9w0YJ+WuMvSMSoojcMaajmjffNR9GqRQ0jLcOYfgJg5pTTAoorg/Ut90/XjohVcx6I6tVV4gmGliG+Upnbbz0zTYsORowx6R6NyniOtZNI3AyK0e4WzBgMXTuwqMgkdF1wf1OihbchtcAGjGvRhVWjHZvHDeYo1p3Q3qXhiI1wC6gZJpNr06Pa7aaWoogMpubTi5ces9wD+LuevGOsWKyvUGobNEIG5wgH68qwyFzPkLPzZkQgj02MjBfOxBRk=;UZIIRvzBOaJseg2E3RfxOg=="
+secured: "dz/HEB4m0vpWIWASoNQDDcYxNEc2yiXTE9KR2CYWG+l0twP3nU+2ffEyJca/M14tVjKWZrfNQWlAXyXfWcvrZqLTfzdpmyISn+fXI0sOwAg0vkuAH71k2iIqkrCrjiaiBI7fGF2F9LQkQPw8UDbvd5UdFREk50Qbr0S42ZHC6mLY89B4VYtIOmVLuXWQXHtmZ/2/PChH/f0c7UUsEN4mkzjrKIrYI109Jv9HicTjThe95cOtsj8zM0Ie1fZPyWUxSOCN2QzXsw0oEJMtdNLfwfCPdQ4NyP+QI2znSqZu1cGdC3mj7WUnjoWacML0Sof0;9vScJGKx5njW1ZbjSIBRwg=="
 ---
 

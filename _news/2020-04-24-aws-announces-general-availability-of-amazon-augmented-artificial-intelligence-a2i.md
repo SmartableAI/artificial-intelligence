@@ -1,27 +1,21 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
-publishedDateTime: 2020-04-24T17:26:00Z
-webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
+excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for ..."
+publishedDateTime: 2020-04-24T17:27:00Z
+webUrl: "https://stockhouse.com/news/press-releases/2020/04/24/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence"
 type: article
-quality: 47
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
-
-images:
-  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
-    title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
 
 related:
   - title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence"
@@ -51,6 +45,6 @@ related:
         width: 1200
         height: 627
 
-secured: "+P7A/AnxcVvRvGuRwVaNRrgkk32OVWeZnX/GGnaGnhWaWNxcyST4lk50gW/OxLjnvMc4xlpT9Fh+Z2+pxfACqWYeSO9BV72hGLj+8UBmp5aRPqOX5+wiv3Vpu7ngvLkgmw8IEhgaK5oqDRxGoppCFc3e5QquY+Cm84h1lsxNiEt4ZPi9m9TWjU+gpP7RFqlzRqDp8TcDaulm4t9c2ZJyqHwTlTmVlAtZeqowQHBuxI+OSdgzi/GLSN88U0GTm1yOZNFRsWFOVemO43Qwh4SxcwWhPXbGjS6yI0njeJVhWo94UMoudMbOM1Vb7Z7xelV0;18PTBbgmF1X4Mgf61BwGxA=="
+secured: "HqGr42eOWhKxCrCN31OlHPONwpz2zhj0plUD4vj71eb4SnOlYwkhsmju/Wv1iq/QmT+6mjCFNKUjoX8chX8fIopBWuEaVi7In3r908jp6/Vg+6pJ908D0B+dQPQe0u/qOCceNJbJlt+kWI1twOFXm8G/ie8vZXZLxQc3AKqBHVWL/D+ZCWJtA2NFDYKheHAr/VisbTbG1oW5J6ETwJYnZZO9p0fDjBh7+yg1KqdxyTgAZuLy5/UQmff16suBzQIpei9eTTtLMOLdARdhoOra/IlWHfPGMad+DP/Avw0oCLXLnKIAsU4/PNty7G3yupHA;CQWDp49rEGOjT9WbDXxRgg=="
 ---
 

@@ -29,6 +29,6 @@ images:
     height: 499
     title: "VW admits Tesla’s lead in software and self-driving in internal leak"
 
-secured: "/v0jTtLdA2e8mxa8XOfEa7XJ2Dz9/kC4qoS8miBoW05COQbIpRfSp9vsQHZzIrCg2xdYp43yxfc4GW/MfCMsfvYhjeb0DjWbNmwUrU6Pk2tDbJ+Yzgzo/6CB+le8t8/RMgb781Ka8aUcpscgMj0ULaSn0PA170OPSRx4uRYtwocFJe9CWv2HL3R5ryb+9vPHMIA/vKvpVfNFEuZbiZPByf6A9+cK24rSjXGkwUNr+dr9yfX9ULfc9s9eHRxAzBpoNEz1R/vbIyRC3Se60fNiIAtzbgurUl/qzYXuuCpqCFynWuyNobEyTbLuIu1UWeJJ;PrlitE3EZlWNZVtdVjC9/g=="
+secured: "8BTa1v7R4SUuogf2m8KkXYfmIW9DdNidsW0h7a13grOfi6Rnl9+pWBIBpxyTOYI3wi2r3IqtDetNSSSKZ6Abet5ozz5MId4odOYLQi+72FRQ+uPny2pb07HHW0yTvz1kA7xago21lRGUdEPamAr8qDYmuhNwa1G9hOlc66/hk242MgXF8uMwUvZjATcoMRctdyCg/KOn+cd9gL1dUOcxb4VDx+xyqD/JrLKib8QVkDqjb0fBh2+MqudlrwK1E1SER4SoM/6jaGs6yppA0XAuE1bNnp0ftGNfQ/gDaNe/I/gm98hqJi2dfefkyNoLnG9s/BZUVoAmwnkJtAbCVpmDdpDf/oYOCuDJWqnfl0qsBM/UUudJUZmQ4A51HrqhMtayUZOpF6lRYPF9atv/PqvbxrMe5shapY4Cr6zPnWmNvjIcIR8V9CB55MqKcjfHvjeuHR77lzk1b5+G30LRduG1Iywyy76RwlbGNVN/8iEqN2w=;IUd/8AtjOkPS9F6zNpi/gQ=="
 ---
 
