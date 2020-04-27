@@ -29,6 +29,6 @@ images:
     height: 851
     title: "Why The Founder Of ‘30 Under 30’ Fashion Startup Choosy Believes Reinvention Is Critical"
 
-secured: "M657W4uEqXrgPoWGf5UHOi/G1SMavqbBktMWfP8K59R4He3Mv8v3HDmHVXG/e1sCIzcyjTfhtBYo5RuZM+ORmP2tnxw6GOOk0vIuZa37X0cgMm4gELe4k47R5m+d/pM/Lwq0IuyGEsldMg+MbFNzBOK1jcP4aIAUzVcLtJ+wK/po1reIhd6ghLyYCEak/mZzj4I/1I6n0CEl5IklmGEFzkEHYSFPTkSOfzwjP+47HZsb/tavTmRij/0y06aCnSs+p1JtA54fV/vcRqFJQ8vFyNuw6mWiZpT566Tv/hgqc+iwyBLOfRjgr1C2nnyl31wJ;aCnrmjrfCDb4Zpx+F9eYWw=="
+secured: "ketYSUjDksqAqV/TzrwVhITtINoNpkgbzmDJojNtdNq4IqrAa0ELZgaxbNqMGvwbGllPVyXiO1c4dOyhm7VqI/dbemGdLynUrXCG0VHt3aJyrlH6+GO+7xU8AGYoWmsdBJqTKG/AF2tvSW3+qrZsrLCRgt9jYpubjv3VFxZdxMh9d/m3lXaCkbIp/HVeIpIvrnrjzm3gRZz7eAFtVPY0i/ORHhuhzpkSVpIyjFVdUF6TfVg5c2T7rISDLc0Nxpu2yQwOKZbMQbtwr+6G8QDojffppjdjkXf4549mmvxnl/RlO1lvPugkdf5Cutm24FhGa0Y/T6d7t0CX8HCX2itpAMroJjOoCF0uKbkCuAEf7XnXzKmvR3ajaYrDGX4fKYRJzH7M7xk9YhLgXEIVcurSLvfHJQAjZIH0WSrN3hRUkE0w6d1zOBkgcj1wdVnjViWA0YMwvLooq4aXdmsdabZGWAGn9S8UYCdICezWz7XoWzE=;UJooX5jAZErOw1aB1YrqsQ=="
 ---
 

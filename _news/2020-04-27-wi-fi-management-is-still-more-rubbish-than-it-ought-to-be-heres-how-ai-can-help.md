@@ -25,6 +25,6 @@ images:
     height: 459
     title: "Wi-Fi management is still more rubbish than it ought to be – here’s how AI can help"
 
-secured: "r+5w901oXkbfTpsnhMsxSrqE5zlDC6Icc3gYmT0xX3lRzLJYjNRcNpwp5XQGPrcLiPB4VFKfmg2yUsoIQg/I7hYX2+g6dtaMWpArZeEdenCygV8V7MZiaVO/eNw5vL3Qq3ao+pzhVAqM7KmhLfBVCne6B9kljkcUQFjkO8GIgKn41Rge5a/m/2EsDhQ4g3iXXm75r6KGTgaKEt8QQX4KuMbVsDws3x0FL4D3Aqtqy6cdF5lVWYoUdh+csw2H43WEg1h5DhfgfcUYefaFHF7TEC/Yukr5e+XHJA+ynY45qmveuzzD2MGxou5trcEOlJ3O;jTU3Zy4DgPOY8Cediu0VHA=="
+secured: "oC78DeQ18FrruylLZyMK2mAI/3xD/JJwIC0LI2SRlmYzBJl7vO8Esmmf9r50zGElj/ml0fOg6XP9BC9MWjhlmqesiN+9jhIrLC4eGSeabxe/xdbvs0oSA0tEK3S/lABUcK31hUYpvOyafRZnpW9jgUzYFwDifaNXnFFjAQ6Fq3+4SIE6k6opctOzufiE81E4DU8nMwRFDqRVe4GMef4gW7Ctr+P5IN/Qgae7d0Fu/5V9yQ974QhXjI6bmUfQ9/QjGybh8Pl6fD+HInp6PLpv6XIym1K7wKUUvAR/+xiDgScbyokAQV3qb5zb7jUkSFB2L4/GISs0jfMOZwmkm6qJOkDt5KUsr7Xw49+hUjwChmicbNVgKlYkxvBa4d4xOXC0vnFc1f5rAULANOIBSLx57kJI1uyL/H7La90D3cjoVaaDmj4IZP/sIlhy3HATOiBKqy9Mj0wTh8CXGBweAGu/1r/ZZFS6Gn50bjTQ5pMUO3s=;tQv4fieOONpzHPKm2/FMcA=="
 ---
 
