@@ -23,6 +23,6 @@ images:
     height: 600
     title: "A wild ride for self-driving tech pioneer"
 
-secured: "4wvUYgfWQvTDkVfdoPPjs6ozfUmhhCDFs4hO4PPPHEjgJjwpwTpB90nvN0rikrh0hVCPp0jkS+ce4g1890eyWAsSCvMhH3y+omS3rfwF70mX2K/hz9k1Sqbf9UbhfosJKuNDHXumYHqDRN50xR55dtEthOJXKPw6hFfk7qr2PxQsY+s4udQOwv0N0m19UHUQcTjg7lMKQWT39Xd3padCDsWvCrGBGKj2gewHCBt81Yf0VgnkFmbeJ1HnH0aM7N+MbYT2odhmSHvY3aarZ/dWVLkLutNPWwSQuYyrmMs8WZh7ENrWqqlga2+xrwJY/QEO;5uXWcUVRoqAEnHpUfpWZVA=="
+secured: "BGCLr/ta2wcgWmM1d3LvVeYZduzqQ0km3KY6JZZf/bOzyZWpZ1TOPtPsqJC6g+KH4UPx3PSQcnRoPl1KJdv6C4zLbjNeW3xLi7gAJ+qoNXJSG9Pu1ihnws/vEPmG9w+kggtc5L82GLytvWhzOayzIRGqv/UNxrv7/KCVjX+fysHfTHhQ8OleDk+5FHMAScyfHedoWcOnTO99lLrPndnzhVn1B2YF4iAiupKkv+IhOR5HuNcqfhug279ck05kSgApKM0s+I07YD2ji7GRyhenK6/Iemr73+7cW7uPeh9onL4DeYNg89RclDIUGfMdqmSTDjuhiz7R12/s2fW2+0gx+TVVCJi7MGKISTOJhaI/RGdHos4e8z3M/GEmZ+0WM0cqLsvN8nZATSZAGPUYLuJxXIAmj9B9YATP/KhRcrwIgraXjg8viRXkh46jHETREkiBWiS8/Wb4JYxg/aLmvP4fKEmaSvsM79dxU+aECFmhVAw=;LhHfdgivj0K/vlLXiiyIJA=="
 ---
 
