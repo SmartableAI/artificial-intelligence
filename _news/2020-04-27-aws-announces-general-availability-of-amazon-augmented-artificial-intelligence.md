@@ -5,8 +5,8 @@ excerpt: "Amazon A2I makes it easier for developers to build and manage workflow
 publishedDateTime: 2020-04-27T05:47:00Z
 webUrl: "https://www.cxotoday.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence/"
 type: article
-quality: 65
-heat: 85
+quality: 67
+heat: 87
 published: true
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.cxotoday.com/wp-content/uploads/2020/02/Amazon-campus-hyderabad.jpg"
@@ -51,6 +52,6 @@ related:
         width: 1200
         height: 627
 
-secured: "99HAeCdk6COtWT5oRfwZU/0ZndLvUAkMfIs3ZYlG7hZ8HOtGWp0sq7OVeX30iQpCitRmMr7j07YUq3XwJqJev5ayMM4QrmQKJWkrX8PwWReBA5mszhoU0lYzErZHdBzTiVa/84iHSPspbJ+Xok49gAwJAHuAENgn8VwuIcHpRwjp030dsSMifD88O13H7Mh1sxN/s2A3nw0Zzj0cYmZVO1WCrezMbYVLXUB8vqF9kUzOENkSiqc3UIH7qWvywXsAFVe+8NMr3K0BohekJAH6uTZac5PqzfE+7l8Tjyu2nyFU+9PGweHEI5rmzzN+Zj/n;VM/nb92VizSwuYpQbySLYQ=="
+secured: "mLNl16VhWhtnBkL/KWY+F6ObZljDpN7VkjWewlPRFc8IEEpWQjmAvWpq+fxL+ggJlDzNm1XWLuPXJgITh+9htUE38QnZq7fDMj4NUrc5dbco8iD3SGdsSinhovMB8Iz/1ksUtFEqiLRYk5nzCLsDqaz+WDUPLW+XPIWPUotWq7g4dgX4jG/B5VaJdS8ZTtXCQpmHBE28O14J+T2+xRvsb6nps6EfpKSnC061zmB3PbgNlV6KypdNRfw4lDvt797vzOATi5awYIKIF3amPDrF+0OU9exrHOz6pfVpDPXZKXjFUJNP6IWNCIK7AzvRLOm/Wfu5sXcLwawLmf7LZsySiMfw0f+F/jZFWTvXjOQZSrhAj8c6pBCyfI0cwDvaSqQ7O1eFvbu8hHWmVirF0dtjtaWcR55PTVeyesLdXyM0/i/dKfFsKIo9eK0TwNPBwSJJC+eq0IZY6zDVSaqfiDMKP3gdgLQNG94lnnTqxQERDug=;o5yf2xEM4pHIm6WI08RYcw=="
 ---
 

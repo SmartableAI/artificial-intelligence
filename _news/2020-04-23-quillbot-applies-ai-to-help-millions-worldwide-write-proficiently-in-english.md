@@ -20,21 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "QuillBot taps AI to rewrite and rephrase whole paragraphs"
-    excerpt: "QuillBot, a startup developing AI tools that intelligently rewrite text, today announced that it raised $4 million in financing. Fresh capital in hand, the cofounders hope to make QuillBot’s platform a one-stop editing shop, with modules that will summarize information from articles and complete paragraphs by synthesizing sentences informed ..."
-    publishedDateTime: 2020-04-22T13:03:00Z
-    webUrl: "https://venturebeat.com/2020/04/22/quillbot-taps-ai-to-rewrite-and-rephrase-whole-paragraphs/"
-    ampWebUrl: "https://venturebeat.com/2020/04/22/quillbot-taps-ai-to-rewrite-and-rephrase-whole-paragraphs/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/quillbot-taps-ai-to-rewrite-and-rephrase-whole-paragraphs/amp/"
+  - title: "QuillBot Raises $4M to Help You Become a Better Writer Using AI"
+    excerpt: "In 2017, Rohan Gupta, Anil Jason and David Silin were UIUC students pursuing computer science degrees. While studying artificial intelligence algorithms and natural language processing, they had a breakthrough. Essentially, they figured out a way to look at a body of text and generate a summary using AI, something the technology has struggled ..."
+    publishedDateTime: 2020-04-22T16:29:00Z
+    webUrl: "https://www.builtinchicago.org/2020/04/22/quillbot-raises-4m-seed-funding"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Built In Chicago
+      domain: builtinchicago.org
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/2020-04/Device_iPad%20Pro_Screen%20Mockup.jpg"
+        width: 1000
+        height: 624
 
 secured: "zhocGond80WwO4UDu+Gtzze8gmuolUGBGz2Gh8XQByUR9/I349aSOatX0MTJrGLXyJ461aKQIm4yZUbTLW0Td0RAepLLEgP5RsoNXzB5eyKhL4gYEJG+TecnwuRfOyYZPPEhTt66/b8Qf/ZqUqSNvGbha7FYdNBdETnhBiJncbUuvn03ISFKRaOMq+gtrWMJs9/Pv1FlKzrSMXz7px/qCXWE9tuMPaG0uSSCh/aOHRIeahOlKMlPbKsJgjAbR5xZxqoffNE6cG2FGbIoXzyUh/XPV8lMGTVXSg+aBDrrokUdF/CLhmW68Cf8ZCrRLcwD;gBgbtB33+yXgkO16hJd7qQ=="
 ---

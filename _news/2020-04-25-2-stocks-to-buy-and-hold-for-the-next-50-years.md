@@ -29,6 +29,6 @@ images:
     height: 800
     title: "2 Stocks to Buy and Hold for the Next 50 Years"
 
-secured: "eoZAzic65JDBOJ9ms9ojZP2y8mn93rGYLGU2tw4OO+VrAkM4GIWApFQsO3RaCezuBjCySgWGrALoFq0nIGNogK9nSB5YvhstosUQy/n9D6nrEOeZUYsDqk9hLPWjht55bsiMNWsnrD6j2G32b5KNHmYCoSolJa+IGw0YiYRhrKfqYTHbApT1i/qcxJ/XgEJjIdLpTg09A7/pk54Pf7y3K14Q1OXHR3xlw/amibqqEozh8GEiRI7Kh1lhSEdeOk+yBOnP0khdyYCzzMqwnrwZD63jXZhHOeGrVJB7/fG7qYiUxl514lbxWl04+q4yzlPI;C58CG8hmZztI3qRelyL9eg=="
+secured: "OBkJyj4atvYLSVT0pFIq/uwktbJKN6cRktkKCndUhQL54IewBtZDc+whQ18PQIGmQ1oC7ygjBvar2zMCuT4GS2Skxp59vrDmwAgfLLNAViRYDrnVV+mVyaDI86SWbLFrZ6ohd8OCmhlAmLbcgrZ036rAr6bz8WY6NAGCcjFEbvebnZbZZuGZX3k/nSez43Q7gAYGaO+6yqGXE6LHNoruA/fAtFwWN8/7FrBSkYMUO6Uy3DKnHq3/PoBuWzs0AhJU5b7c+0mKAF7Op1dYVTG1kMWjLGqkB19KT/Bi+EfQsIAHhI9oiVj+K0sOIKfvTRnY;2H0G5SWCNyCVJ6/A8x9tSw=="
 ---
 

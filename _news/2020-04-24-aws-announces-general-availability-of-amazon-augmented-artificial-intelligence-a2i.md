@@ -32,7 +32,7 @@ related:
     provider:
       name: CXO Today
       domain: cxotoday.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://www.cxotoday.com/wp-content/uploads/2020/02/Amazon-campus-hyderabad.jpg"
         width: 600
@@ -51,6 +51,6 @@ related:
         width: 1200
         height: 627
 
-secured: "EvFOX82uqVhhu5DGfwTmEw5w+ONmnUe9y/rLSBGmOYQFYqPlZ1B635ds0nwnNtaj3QfxfQc5VvrO2IwDOEtjhUf4YFby+ul0mNpW9TjlgwNXMVzXl/Lz5iTwEmCxO2UgHHs1FPU44o50QSALQ4PU8jLpmxBBMiAVh99e4WsJ8bFZZcooZVKOrBCpvmbDjoZJvJW+JR9f/kz+RYq1o8IhHgu3X1MvE3rIx+Ifumwdoik4COilR0caBbAaLDo2YRQu6XmMoaWjIINO/IMKsgG1nwDoDTXiWj2AhFs+RdnEExNGEpqUfOfEp2NGeAJ7+hkm;ArRL8+NgesS7nRkAN2b+Lw=="
+secured: "S+1x0rSlKQbDfthweXxjmiPYUgbIrpNNtlrR3sx2/Hgue0vhTf7R1iBIAjB7g5MqjnySzvEwVErhdRvTcIq4H2w1IiRCfoO+oV6nl57jGlnMPXCuBpXMxsoS/3M9EdE7eKgHJRzUG44EICc038MLN82MLvIsGuR64p6ozZAu/02uSDPZ4FU4wcbJNdFKmJrt7dLT15G9jQo33zRUwjs5FqOKQDYocDYzyuT8q2b443R3IW9YqkW3ODCBXBcyD1SjXQ23sN97yvrNjggjXQqAHrv63DAWktW+WeiU6WqAZ8ydbV0efE5rsRB9dpNEQPh8;jNXxNbB4ey2+aUi7lz2YSA=="
 ---
 
