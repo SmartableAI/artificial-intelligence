@@ -2,6 +2,43 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-10-new-doe-program-drives-demand-for-machine-learning-programmers.md",
+      "title": "New DoE Program Drives Demand For Machine Learning Programmers",
+      "excerpt": "Machine learning is leading to numerous changes in the energy industry. The Department of Energy recently announced that it is taking steps to accelerate the integration of machine learning technology in energy research and development. The head of the Department of Energy announced that they will be investing $30 million in artificial ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/",
+      "ampWebUrl": "https://www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/amp/",
+      "publishedDateTime": "2020-04-10T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/04/machine-learning-in-energy-sector.jpg",
+          "width": 1000,
+          "height": 676,
+          "title": "New DoE Program Drives Demand For Machine Learning Programmers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-man-creates-hilarious-ai-version-of-himself-to-take-his-spot-during-zoom-calls.md",
       "title": "Man creates hilarious AI version of himself to take his spot during Zoom calls",
       "excerpt": "Well, sort of. Reed created an \"AI Digital Twin\" or a Zoombot if you will, and taught it speech recognition and text-to-speech conversation. Now, the fake version of himself is able to stand-in on Zoom calls and even respond to programed questions like \"How are you?\" and \"Did you get that?\" The only problem is it's very clear the Zoombot is a bot.",
@@ -1215,35 +1252,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-upmc-led-global-trial-fast-tracks-testing-of-hydroxychloroquine-other-covid-19-therapies.md",
-      "title": "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies",
-      "excerpt": "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp",
-      "publishedDateTime": "2020-04-09T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

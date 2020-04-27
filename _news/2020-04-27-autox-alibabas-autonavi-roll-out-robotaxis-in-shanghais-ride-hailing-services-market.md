@@ -29,6 +29,6 @@ images:
     height: 630
     title: "AutoX, Alibaba’s AutoNavi roll out robotaxis in Shanghai’s ride-hailing services market"
 
-secured: "eHAvl7vDsXUh3IAlD1BZMhJDL7kC/idbA6LcR7SQYTEBgofPoUZ/G5eA7PP7LGwN4YR2uBtAnZLBs8+TAgzj6NAcFxbWUQJc19pNt8v9ZAyqgQS3VU1JuxsR0Y7578/rmrVWB+49ZrMlWgRmTaG5zuPGMe1hOeHF0DYNkSD08JhS8KNyr7pSlmExYThnin/PJlTd8QgRkSuS+3yjc3DRIBH0zMWesIOLMCDLVghjGJfNJO3WeMR+FkI6E+vqLLv3jmZhoLKW2ZUFPyP5gwiHI+/SPbqWiB9WpoWh5ZfP68VylI6VkDS8QjnJg2bJkxpG;gOUkgCNR+d1c6BILW8yf8Q=="
+secured: "bIeoS/mPrXuoRBEED5xT2oBbXAp6g5sSK4xGX1YzcUc+uMSvFgu2iuua13bVkK+m7CnvCRrHgdKeO675K3VeUXdXJKIO4jPGzGQf9et7Fk0j19e9KEpFUEWPF3o0QOr7jN5ekqpKGuqWLms1Hd+Q0SxZBIQi7t6X43rEcrgWvsBNIsSBRqazVQKbqsc0xzsy+9XUnmg3IX47swkIv4VJ6EjnDWupLiBmfUiYUTbEDBrHEbMBP/cB0Bqx/OJYvCiL8yiu2/c/ShbYG/hPv0sn9qZE/RNOFIqzfBPspd57y4WCVllc2VPDKVDZ31kl43fURt+dR6ueeMBduEp9WDJUnJ4Hi+9LBIrdWbqn4khm3OUiXY8vKlYLecYjbeDnlvAfNwR5dKOXsnzLBAP1QGs0w1HMJfkDxsaFnA7/8TvWSme4N++x6ucggeLf00oKqPK8c0XZZ91t+mXUelyWLlbnlQslflNGveAKWi2+AZ8l0Ck=;HZKRpYKvu+VDwhjG0Sj2cQ=="
 ---
 
