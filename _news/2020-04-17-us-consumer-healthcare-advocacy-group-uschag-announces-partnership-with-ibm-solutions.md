@@ -1,9 +1,9 @@
 ---
 category: news
 title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
-excerpt: "While the details of the relationship are confidential, the partnership includes elements of data acquisition, utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development for over a decade and Founded in 2018 ..."
-publishedDateTime: 2020-04-17T13:09:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
+excerpt: "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions. While the details of the relationship are confidential,"
+publishedDateTime: 2020-04-17T12:33:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 400
     title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
 
-secured: "MwWiduDzTA088gax4W7b2UNpbBMdYwfXyumF/Rxmifs/n1kzGDLukA0UfRqbVb+2euZ83IJ+fz7S+fFy3kESn5paWPySmXubZFdl7AgjrfTJkXexFnwrXhaoJNPjmT6OGg9Xl8ZsStWG4tFiHfaejnNmaaqcW1itxNl65ia/swfKCQNjR3cbwdr0QslryZdL3vB+ieE2wASqjFF+PS8Cnm9tuLr4dIrZkPs2zmk4nsrKOoigAlkDQBJsEWFDlsW1364mU5C2WynexgnBfx5Evn5qGwcZSPKK96ZyuJIgWz4CpFiSrdtP40cWWPGsceM2;gto1MNRcqvFvcjLH+8FrqA=="
+secured: "SBvbe9oXWX9jTHw7cN5X7bI4nmOyfER3f+5dWc3WS59/1IGmnnxtgwbS7S3ylFgvIajZgyNgt4sNUHD9NhBAhGoHl2PSczPE6LG1GjIURFN+t6477E+dcwKaikZTXEtGPUD+BEL4tVi5/OVyksTI//7lvQHQXZCNKOS9ac4JeXZJziXhfKnst0HV62hVQlxW9XvDcUa2VsqXzDPOfcJSrswX3VnQ4XQcpW96hzX1ciq3ofjVCxQjTHK96JGEKV+dbbhwkKccNa02LawJvwW22+upNpnHw14PMnbduCde2SPi+HiJTfRuKsEpwd/mT945;z6JkIqMkemstWhIQDC6GZQ=="
 ---
 

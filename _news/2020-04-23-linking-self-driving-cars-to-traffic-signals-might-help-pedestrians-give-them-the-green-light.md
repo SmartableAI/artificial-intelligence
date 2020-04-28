@@ -23,21 +23,6 @@ images:
     height: 368
     title: "Linking self-driving cars to traffic signals might help pedestrians give them the green light"
 
-related:
-  - title: "We’re About To Enter An Era Of Robotics And Self-Driving Cars: But How Will We Secure Those Things?"
-    excerpt: "The era of automation is very nearly upon us. More and more, we’re seeing artificial intelligence make its way into numerous industries. Perhaps most notable of these is the automotive space. Self-driving cars are already on the road in large numbers – and that’s got a lot of people very, very nervous. Are their fears justified, ..."
-    publishedDateTime: 2020-04-23T14:21:00Z
-    webUrl: "https://www.techbooky.com/security-in-the-robots-and-and-self-driving-cars-era/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 10
-    images:
-      - url: "https://www.techbooky.com/wp-content/uploads/2020/04/ai-robotics.jpg"
-        width: 1280
-        height: 719
-
 secured: "xoTBQTpK3m6bpu9UrsV1Ys6FI63q1ORiIcn8LrW+Xhr17W1bE7M/WYaEe62aN7hxZyFCI8dGWNwYHA9pyf2AEah7KAtkWcouW5HSA/KNbU/CDCd7m4bHBqHnllzrmDivAsxwPJhw/AIs8NgajfC69JQXax2D7Z7oCEYfaxCB4xO2ZaZKzML1keMLthzmHmYOrrj8TRRYDwnAAOe9OvFtpv6X36jHmbvZ1T43Jl+A9/xTucPCZMSclLtavd+ZGN50xOZCVwP6NvVAYoh4g8KgUi4NtzXtq/msvpe83oYS8yLwUblaY8itL7Vrc3xpt7efD08NHp+6cvI+tFbzMLWIavw8+bSoku91hAHjhFUFAH7PSObdUlfaQa3ZDgL9OLiLioIkjVF55WkzWMEmEbTV/RVTOVDovVPAUf7E5WSe2HBqGQnyjSBTbzhvHECQzbbEQVdAmGFG6lJOy2k9ijIdt5fQBb4iW6ZhEO8U0Tbtsno=;HrUOcdThBtraoL1e8F+cbg=="
 ---
 
