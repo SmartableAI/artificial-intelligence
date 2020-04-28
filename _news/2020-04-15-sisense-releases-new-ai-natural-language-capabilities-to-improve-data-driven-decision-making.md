@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Sisense Releases New AI Natural Language Capabilities to Improve Data Driven Decision Making"
-excerpt: "Sisense, the world's leading analytics platform for builders, today announced its latest quarterly release which empowers users with"
-publishedDateTime: 2020-04-15T16:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/sisense-releases-new-ai-natural-language-capabilities-to-improve-data-driven-decision-making-301041056.html"
+excerpt: "Sisense, the world's leading analytics platform for builders, today announced its latest quarterly release which empowers users with deep, actionable insights from their"
+publishedDateTime: 2020-04-15T16:42:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sisense-releases-new-ai-natural-language-capabilities-to-improve-data-driven-decision-making/article_71ef9a71-1ff9-5080-9047-4378bdddd103.html"
 type: article
-quality: 28
-heat: 28
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "Sisense Releases New AI Natural Language Capabilities to Improve Data Driven Decision Making"
 
-secured: "ja2aA9KrLZJu4h4beNfuzjBzDk5vz+6NiVUP18Lx5LyqIUZzyWVuvQkjiSwR4GYNrhSCXI9uhigBbiVjPMm+tKsabq1rr/AfC7yGRr9iA4UudQnSqzNThfGwYLI282NkBaQPrGlHEAYQ4Dg18RfDK85kdvUZKlp6O2hCKd7Z9qmFzuP36DcetPwjwGCEKbJrgTvrnrZo13JEJghAWJQTvC9/pYOVelmL/+YO6UCSNimLfdjV2crJYbMOeUOO9Q9f5+HyPjYWr9KfF2MzMAtH2AV2SP2S5XKfoUhK5HxSXfVH+Y3tPEp6uYEO0AHvTw9n;iJQjDWqzmIM3CDeUwQhK8w=="
+secured: "8kXG78imbw2Tl6f8ILNUMFxpBQrBZx0QT1eu1RTdU1IlWpxBOYuORvwwS4i7ZfltKlLbl3OqF7lnQt80/r0yGwVduDezVav1Y0lFf5AbQyVOk6y7JJ0zlgoIwRDLMyNdjHW08cbrmD4U9rID7cyIbfPe9+ckflMD30RHuqNNSlhZKOmF4hdkgIxSNVR6kYA3HBUIsSRV6i+Wv3UzqABOtAe9yMty3Q3QG2+pgMCXRcl2imcldODkq3ohLybGan8VqnKTBxmI0QPeim9UkcEuMfMivG4zBVjCmqTCno/zXMzRRqfQ/E8IdCaijOmNnqiq;Ps1aVkiP1gYXQFd6+43hnA=="
 ---
 

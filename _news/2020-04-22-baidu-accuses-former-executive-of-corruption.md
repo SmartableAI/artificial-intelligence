@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Baidu Accuses Former Executive of Corruption"
-excerpt: "Often considered as part of a triumvirate of leading tech companies in China, alongside Alibaba and Tencent, Baidu’s activities stretch from search and maps to AI and self-driving cars."
-publishedDateTime: 2020-04-22T13:34:00Z
-webUrl: "https://variety.com/2020/biz/news/baidu-former-executive-corruption-allegations-1234587072/"
-ampWebUrl: "https://variety.com/2020/biz/news/baidu-former-executive-corruption-allegations-1234587072/amp/"
-cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/baidu-former-executive-corruption-allegations-1234587072/amp/"
+excerpt: "Baidu, China’s leading online search group, has reported a former executive to the police. It accuses him of corruption. Wei Fang, a former VP at the company, was investigated by Baidu’s"
+publishedDateTime: 2020-04-22T14:32:00Z
+webUrl: "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/"
+ampWebUrl: "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/"
+cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 576
     title: "Baidu Accuses Former Executive of Corruption"
 
-secured: "b72gPOzVuJMUhY225JeCtUOPht+CtIp7Siu59lHPs6GjHeL4co6J5GkFgJNlzISz+OmQ6GvOf/SSMJP5nf22hXh7DQet6JGUNn9I/62V2EaOKYmVDO7PUBsmr4Q9kGgAooO5kCtUmX8o/wv6siBDLrQgHZLuCrJWXW8iAYcl8Tuse3FkysKgfhXQzxSyrHk5fNQfFTN3Re3dXsF1aOcDxeuinZea7pSRY2Q0nRtyN9/aXP83+YMfCxKT10Q8//wS5X/grXieQoOtG6enN1jEf6+yQOTWMqOWUAwJkmDqlcoKJdp9bNG7DB22EAMrwRck;NCuGUE+X8GghNab0Esp1xg=="
+secured: "x/v2JgviwT0ALIXOKZNDAzCBzxxXYa7MizQvIW0JmX4K5yY5w2Xkhz1p0TyQQp5sJedJGFBl0hqGkSgh9t0LexMJiwB5xOiRx2+3lD9wocjyJBndwlspP9+hiO0XSDZCxlcCg8FFNdD18c/Vin09vT/ohKCSOnS9l54jA8mwzO9LOFz1ZUUCle1O8TAt26SEC2DvZFoV7vlYkh3xLXNXRAzgd1edZVoAslSHKPbgQL2+tNRm9hYTNxxKobHg3P2WHSyFjNroYqF91BCdrfjPVmNpc2J3crSt7KpOd5IpiuLQgsL/ARQv49JzVOe0WsfF;4Q5zNHRArnyUD6gfmEa2ng=="
 ---
 
