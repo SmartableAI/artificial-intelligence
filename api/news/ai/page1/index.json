@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-28-how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean.md",
+      "title": "How Satellites And Machine Learning Are Being Used To Detect Plastic In The Ocean",
+      "excerpt": "New research shows that satellite data analyzed with a machine learning algorithm can detect ocean plastic with up to 100% accuracy.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/allenelizabeth/2020/04/27/how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean/",
+      "ampWebUrl": "https://www.forbes.com/sites/allenelizabeth/2020/04/27/how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/allenelizabeth/2020/04/27/how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean/amp/",
+      "publishedDateTime": "2020-04-27T19:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea4eb34165a170006a5c771%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": "How Satellites And Machine Learning Are Being Used To Detect Plastic In The Ocean",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services.md",
       "title": "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services",
       "excerpt": "According to foreign media reports, Intel recently launched a series of software and hardware products, including",
@@ -261,50 +306,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-27-france-launches-ai-voice-assistant-to-help-coronavirus-patients.md",
-      "title": "France launches AI voice assistant to help coronavirus patients",
-      "excerpt": "Anybody in France can now ring the “AlloCovid” service developed by French research institute INSERM, the University of Paris and French railway company SNCF, the group said. On the line, a female voice greets callers with “Bonjour,",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-france-ai/france-launches-ai-voice-assistant-to-help-coronavirus-patients-idUSL2N2CF138",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2CF138",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2CF138",
-      "publishedDateTime": "2020-04-27T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "France launches AI voice assistant to help coronavirus patients",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-27-microsoft-strikes-5-year-cloud-deal-with-coca-cola-for-azure-microsoft-365.md",
       "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
       "excerpt": "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years.",
@@ -374,6 +375,50 @@
           "width": 1024,
           "height": 604,
           "title": "Google medical researchers humbled when AI screening tool falls short in real-life testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-france-launches-ai-voice-assistant-to-help-coronavirus-patients.md",
+      "title": "France launches AI voice assistant to help coronavirus patients",
+      "excerpt": "French researchers on Monday launched a voice assistant that can help callers suffering from potential coronavirus symptoms and direct them towards emergency services or their doctors using artificial intelligence.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp",
+      "publishedDateTime": "2020-04-27T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea70079a2fd9112812bc8d2?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 500,
+          "title": "France launches AI voice assistant to help coronavirus patients",
           "attribution": null
         }
       ],
@@ -1268,50 +1313,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-how-artificial-intelligence-could-jump-start-the-luxury-sector-with-chinas-help.md",
-      "title": "How artificial intelligence could jump-start the luxury sector – with China’s help",
-      "excerpt": "Western brands such as Hermès and Louis Vuitton are looking to China to boost their sales as it recovers from the coronavirus outbreak, but many are considering how artificial intelligence can help th",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
-      "ampWebUrl": "https://amp.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
-      "publishedDateTime": "2020-04-27T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/04/27/1e57d9aa-852b-11ea-8863-2139a14b0dea_image_hires_180635.jpg?itok=FBMe-ogx&v=1587982007",
-          "width": 1200,
-          "height": 630,
-          "title": "How artificial intelligence could jump-start the luxury sector – with China’s help",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

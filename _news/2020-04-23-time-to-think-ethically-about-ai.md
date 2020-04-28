@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Time to think ethically about AI"
-excerpt: "Camilla Ravazzolo, EU policy manager at the MRS, writes about reframing the discussion around artificial intelligence."
+excerpt: "Camilla Ravazzolo, the MRS EU policy manager at the MRS, writes about reframing the discussion around artificial intelligence."
 publishedDateTime: 2020-04-23T11:44:00Z
-webUrl: "https://www.research-live.com/article/opinion/time_to_think_ethically_about_ai/id/5066692"
+webUrl: "https://www.research-live.com/article/opinion/time-to-think-ethically-about-ai/id/5066692"
 ampWebUrl: "https://www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai"
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 581
     title: "Time to think ethically about AI"
 
-secured: "IHe2EnmD7disgxUtWWmMY/UjNMocyszJiHB/XIeu5/QyyFNCLw2z/f+qVbLjcya9MYOjf+JPXwmZSUVE3+xdOXdDYLwbCY4/QzIZEvNMi9ncD0spSfvBZ8kvUvPbOaj8yxtBhyxU2Lh0hm3t+HdFwZBbArSD+0E5SuzagSiTXUnEZgBRK3fTQRbPLubweRRoQWbNhHBBPWwU70uxwB/Z6dB3a7QzQ7fNzfLto/g0r8m9WNxf3EmFMJ1HRb4HaWAUtVJdOCqIP+J6ojDLAGrPwyBEOMaZwe7jjtbIYIEwKr0SGo2kbCrI5mcLRMmqKjV/;JCuKPbyhDqLReZ3Ht5ghtw=="
+secured: "6d6nnqY/ODT3AEPOVJ4Y3sNxR3f0GvLoLD+5I7P3KS/PY6Cnl0vprIxapyTcAVdguMUC8GYYtOmJtUvXOL23RrHgvOVPAdMtHgRrrWATpY5hNouiYLFCGiE+H1x0rn3a6Gis/oNcZlJiVOK23NtLqYdLLRtAncYe7AZQg34nJHkUoo5I582BW9JypP3y0chEpDxNmOUgSOQZnrzXfuypdw3WZsjiuw6Y/LqsjEffuBIwlcLudBCgiHYkyYoWb/KZ/hqx5SAEv/Vy4fThp6LuxLTfAtidkJRJ2uabd3wQtE0p6kFdy1lYC+/vznpNWKOX;W0r9PaYiL1FWq7gCraIKLQ=="
 ---
 

@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "France launches AI voice assistant to help coronavirus patients"
-    excerpt: "Anybody in France can now ring the “AlloCovid” service developed by French research institute INSERM, the University of Paris and French railway company SNCF, the group said. On the line, a female voice greets callers with “Bonjour,"
-    publishedDateTime: 2020-04-27T21:56:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-france-ai/france-launches-ai-voice-assistant-to-help-coronavirus-patients-idUSL2N2CF138"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2CF138"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2CF138"
+    excerpt: "French researchers on Monday launched a voice assistant that can help callers suffering from potential coronavirus symptoms and direct them towards emergency services or their doctors using artificial intelligence."
+    publishedDateTime: 2020-04-27T17:47:00Z
+    webUrl: "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4"
+    ampWebUrl: "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 87
     images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
+      - url: "https://i.insider.com/5ea70079a2fd9112812bc8d2?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
 
 secured: "+Xm250V2qLeodMLVMSmUiLHV9+oiaYHiKW9B+4dUD0y69ZRhfcu8BugSQpFWFzq4JDDUN05denE/L+raJSkIWEGreY7xC3fR4vOBjnfCV12Le3iEjBKbJ+BaEttdOBZEer/O5wlTG4qHD0PZtejLXg7fDIe12pi8mjIUwasu/nawFocjYlToAmXYYK5ubc2icchKnLYUvFlG/CMFNfqg5ENoOb8dQOYjgy1/1PGuydwikzbJchP78gfcZaAVZwIeVm3uD40Z0Z+diCGyQEGbTIv/41ghpop9dFPycsP5HQOCj5bdNbqH1C0aCKRuyV3PkbcpoRc4xLOceqiL8AgYcRVMo9OtJKwtHZFAjAF7H+1d3gu8n69mg/PwM5hZf4hyQDUCVu2rB7WrEcjVYcbBoZ9GJRT4jW4IUNnmgicGmS/A4NBhWa8L0/8ojqKPmVJyKZ9MZzfR2281nZ/hab71HSeC1lOGk7wHcLpkBUyl5Dw=;tJy+qdqj7FW2zDTQ/6A3oA=="
 ---
