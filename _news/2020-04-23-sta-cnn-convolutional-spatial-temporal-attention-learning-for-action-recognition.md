@@ -18,21 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Misconception 3 (of 5): Managing Models Is Like Managing Traditional Software"
-    excerpt: "More recently, I covered the profound implications that AutoML will have on the enterprise and how ModelOps will be essential for managing shadow AI. This article deals with one of the most important topics in this series,"
-    publishedDateTime: 2020-04-23T11:19:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/amp/"
+  - title: "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications"
+    excerpt: "Arista Networks, today announced a new release of its Cognitive WiFi software that seamlessly delivers intelligent application identification, performance optimization, automated troubleshooting and location services."
+    publishedDateTime: 2020-04-24T06:18:00Z
+    webUrl: "https://www.newswiretoday.com/news/172782/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-53-3.jpg"
-        width: 640
-        height: 640
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 1
 
 secured: "Cgo/zJy6a1Kaa3il/2CHbYNhsoIBwXTyAsNRsRbulBQEwOIHMew2i0mp+RV+Mt8hyRrwmq7rRJ2LajDLyMC8+syr5QwKrSPXgQ3Hn7bJ/JvJ2fau6oabDXa1h3ywsUbYfbEbrABGMLxC19taXMNI84Bkc7Ei+EAN6AKBtUCScO65rbqW+YoFeNaZuZDSpBfiD9qTf2CQetQCGRaKQ4uiqitn2L/kI+hIqXDf0O17CMXXVmwdo4no1iJB49EMNtloULPc1dYxg5xLroNM1QUwnprWe2e6srYmU26YiV2rwUgPMLUFfX4qKuzQoFooBr6j;frpBJoEDMrydtO3gw/1V+g=="
 ---
