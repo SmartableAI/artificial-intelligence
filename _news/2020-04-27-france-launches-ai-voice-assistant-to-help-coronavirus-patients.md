@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/france-launches-ai-voice-assistant-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "France launches AI voice assistant to help coronavirus patients"
 
 related:
+  - title: "France launches AI voice assistant to help coronavirus patients"
+    excerpt: "French researchers on Monday launched a voice assistant that can help callers suffering from potential coronavirus symptoms and direct them towards emergency services or their doctors using artificial intelligence."
+    publishedDateTime: 2020-04-28T09:17:00Z
+    webUrl: "https://www.thejakartapost.com/life/2020/04/28/france-launches-ai-voice-assistant-to-help-coronavirus-patients.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/04/28/france-launches-ai-voice-assistant-to-help-coronavirus-patients.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/04/28/france-launches-ai-voice-assistant-to-help-coronavirus-patients.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 57
+    images:
+      - url: "https://img.jakpost.net/c/2020/04/28/2020_04_28_93922_1588047757._medium.jpg"
+        width: 747
+        height: 498
   - title: "Coronavirus Tech: France Introduces AI Assistant Tool To Help Fight COVID-19"
     excerpt: "A new French program uses A.I. to help users determine if they may have coronavirus and directs them to their nearest medical professionals."
     publishedDateTime: 2020-04-27T19:19:00Z
