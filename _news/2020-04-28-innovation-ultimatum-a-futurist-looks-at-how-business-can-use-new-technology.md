@@ -29,6 +29,6 @@ images:
     height: 480
     title: "Innovation Ultimatum: A Futurist Looks At How Business Can Use New Technology"
 
-secured: "Vp8dg3gJ0igylcqDVl5x6hBbiS9/E6/KozL4X7h3aP+dkVZTH+nDsi9b1ne8Az7RHRrc1n9LTFNAVnCA76oKbcPaVsKzuyAqbM563f+7iFLVW/9JNzo8OQqab3LgCqjXg/BJ+naRv5uctxJxijH5ij8LzP1Y/HIDjvgKIBuwmd47MEudDGaaOhQkwg9ipNg1TojBBoPi4ru4pf+YsCQC8gQB7u84fQZWnrCSmHJ5AkP9+OC5IuLE5Y/dRSvzfB3qVrTU6YEg4467bko28xmRkp6fXScDkWfRsJgsCLgHrp1ABRtoefFcx9duU6APtlvM;R7z+K98unS7YauT5qTjaVg=="
+secured: "ZAIO7JzF+liasI99jeH7HvkZN4pyAgQcyScq5v7Lj9QOVwLsqZYQw4ZXc+OOuh/reprFm6czLB4QfIvxplsSiPYqxE5zkJcZHfX/H4WF4xyuUelpbIZlJJkb6waAOS0w1dt7GwlOY6lCpahLBnbFC4fHoPnpSewka9tIfpdSaQVjaO5p9TsTTsurgNDAkex5Hvd/cCi/X/9UKWoZPe+GrRqd4run3HvPm2bQFHVdek7m5RBehB3WsJjVainCVcXInDgPG7FVYd64budpQgery14tGkoepd53/B7KGgbigNnnGh8EFoInx/jHkd7uMG3IOLrBfGMqSYgqBaVtGE3g7u2IOvLh870EL/eqJ6ZOqPapTF9qcsKVhXfSss8+JE3WbrXpwXbGWCnZPMcv6hgiKdQIndHQW56/dB5qHfsjP3V5276B/S/iXn85TLnhBo2W8gUCmJ/0PVp90MUZst8eChEu9wJBdPaASga2m5lCU6k=;gjPq3U8f5fDiI+vv9r+V/A=="
 ---
 

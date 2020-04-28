@@ -1,9 +1,9 @@
 ---
 category: news
 title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
-excerpt: "While the details of the relationship are confidential, the partnership includes elements of data acquisition, utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development for over a decade and Founded in 2018 ..."
-publishedDateTime: 2020-04-17T13:09:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
+excerpt: "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions. While the details of the relationship are confidential,"
+publishedDateTime: 2020-04-17T12:33:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 400
     title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
 
-secured: "+rBNr7Y/Evas6ZStg81l8KgDjdgPJKH3dMz6g+F20tYr1fu6MRyUWohaMuMhCddD0fqZUayXYx2YzW37dZq4hJynucZxPgU4zQ1shoyhxwxNNY9mxr4/SoJj1SlIxFfCbptdN6LqUHpcG1dYMCJZwyYGBWPWC9xSb6t9AGia87Y04JRt5Gj04hXss5Yru/kIgLHAb0oXDqzx/bgDHZGUu+OT3Wwve84+5UxShs6m0W+t+TOYBOJ6/wbvtuLgjvXiWdy2xYFFUUTQ0JUx7793nEBKHbhLAFd5sRJJFxWFqUlujGJwdPxLmzxZkfdiZAFh;7m1Hna+YNVb+sh6K0Zzy9A=="
+secured: "Uez2nx1ISEcGpm/UQ2osaVTZS2pp8m16PBMlz8nhIpqDdwMhsc4N0ptKofGWIx8pFXwI3xwYh5a/VZI1uzaRivTKSaiun98DvJHoMNhmRy7dhyJIvCUgZw2mvxHrDSalaIWdhAVNXRW6iGPBvfQR5nzY9BYuJ7MvpY59OBYmJ/oc3E8aNElogHWXm0Ltl6IlVDArm+kIAc34nMeeI5EnQtGQHpnBoHlbA+YZixjRhu5PTv2c2do3tOBbY+Ts3fu7ePXRCMwCwGU03AznrZW5P14OU9IIuFGpRb/f0SyMsdfYdhk72Hgx2SeyowFgdXJV;7L67dbaA0lIu7ZQZPGZVlQ=="
 ---
 

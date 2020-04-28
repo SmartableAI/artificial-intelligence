@@ -3,9 +3,9 @@ category: news
 title: "5G wireless networks leading fourth industrial revolution"
 excerpt: "Although higher data speeds will enable new use cases, including replacing existing wired broadband services, my premise is that data throughput speed is not where the true value of 5G lies. Two critical benefits introduced by 5G: Through improvements in data transmission technologies,"
 publishedDateTime: 2020-04-27T10:12:00Z
-webUrl: "https://www.techradar.com/nz/news/5g-wireless-networks-leading-fourth-industrial-revolution"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
+webUrl: "https://www.techradar.com/in/news/5g-wireless-networks-leading-fourth-industrial-revolution"
+ampWebUrl: "https://www.techradar.com/in/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
 type: article
 quality: 74
 heat: 74
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "5G wireless networks leading fourth industrial revolution"
 
-secured: "kCDqB1tY5UEJxuOUSIlEGjwOzOkldImPAwJFi3cwtY3qIakAlKkplJm2l6DK5O5zE1N4C4VLq18ae5miTWOWKxLaXFblUzggP1HbNR4eekYyjoEQTglsYYaYvsVbVm/nbjTog7nae2AU0LaKRh5YHNhn3PwmfSBwhplDdPxqLUofVtaEd12weQu5+gXfYHH4Vx0fHkL90OHyS09ZTmBbij9mixbGLo09bAX3M8/K+dPWMfotai+c1W+HELZjPLV1BB4PqCSaWf1UaHNvb7BG7+vRUVT00VEIxkSpkmcwBLbrivRTtFn7RCkOh8T3I28H;qoiqBShe6djUD9qzOcZN5w=="
+secured: "ktOn9QMMxxRhZX+ZqKhxCti/AytavbvJxhTZrvknu6U8DwxVx/txkW+eXi38xEfwHLeJQTW47qMHaTDIKu3cUtTfHHkMQhtijsvlcvUcdyGu8wKsTo2iv4sjlIdUZ/XXOMgN4FX/iAtgE1jmEpkoW09Ve0Bz2ra/gdN2DDN6GBqD+J8InVtP5Dw6SiAbHry7TaTRbJURSBZ0lcv0kiJfKmC6b3wH9C5UB9CbEaEO4/u5H3Itvr5sYVYLpvfg1h2i5654GjCRA4bqQN3xcLSl0bX8lwEVmP/eMgS/zi6yWfZnJLxK6Wz00nsz4FDFRvg3;r2owa2HrJi20vYjmBVyz6A=="
 ---
 
