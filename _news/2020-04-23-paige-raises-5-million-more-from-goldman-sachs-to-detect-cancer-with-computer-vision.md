@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/23/paige-raises-5-million-more-from-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/"
 type: article
 quality: 97
-heat: 109
+heat: 107
 published: true
 
 provider:

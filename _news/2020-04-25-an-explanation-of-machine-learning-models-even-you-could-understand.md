@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/25/machine-learning-models-exp
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/25/machine-learning-models-explained-to-a-five-year-old-syndication/amp/"
 type: article
 quality: 89
-heat: 93
+heat: 89
 published: true
 
 provider:

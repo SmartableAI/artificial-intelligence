@@ -27,19 +27,19 @@ images:
 related:
   - title: "France launches AI voice assistant to help coronavirus patients"
     excerpt: "French researchers on Monday launched a voice assistant that can help callers suffering from potential coronavirus symptoms and direct them towards emergency services or their doctors using artificial intelligence."
-    publishedDateTime: 2020-04-27T17:47:00Z
-    webUrl: "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4"
-    ampWebUrl: "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp"
+    publishedDateTime: 2020-04-27T15:49:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-france-ai-idUSKCN229285"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN229285"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN229285"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 87
     images:
-      - url: "https://i.insider.com/5ea70079a2fd9112812bc8d2?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200427&t=2&i=1516613138&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3Q1LK"
+        width: 817
+        height: 545
 
 secured: "+Xm250V2qLeodMLVMSmUiLHV9+oiaYHiKW9B+4dUD0y69ZRhfcu8BugSQpFWFzq4JDDUN05denE/L+raJSkIWEGreY7xC3fR4vOBjnfCV12Le3iEjBKbJ+BaEttdOBZEer/O5wlTG4qHD0PZtejLXg7fDIe12pi8mjIUwasu/nawFocjYlToAmXYYK5ubc2icchKnLYUvFlG/CMFNfqg5ENoOb8dQOYjgy1/1PGuydwikzbJchP78gfcZaAVZwIeVm3uD40Z0Z+diCGyQEGbTIv/41ghpop9dFPycsP5HQOCj5bdNbqH1C0aCKRuyV3PkbcpoRc4xLOceqiL8AgYcRVMo9OtJKwtHZFAjAF7H+1d3gu8n69mg/PwM5hZf4hyQDUCVu2rB7WrEcjVYcbBoZ9GJRT4jW4IUNnmgicGmS/A4NBhWa8L0/8ojqKPmVJyKZ9MZzfR2281nZ/hab71HSeC1lOGk7wHcLpkBUyl5Dw=;tJy+qdqj7FW2zDTQ/6A3oA=="
 ---

@@ -2,6 +2,140 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-27-ai-in-computer-vision-market-and-region-global-forecast-to-2023-market-effect-of-covid19.md",
+      "title": "AI In Computer Vision Market and Region-Global Forecast to 2023 (market Effect of COVID19)",
+      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-and-region-global-forecast-to-2023-market-effect-of-covid19-2020-04-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI In Computer Vision Market and Region-Global Forecast to 2023 (market Effect of COVID19)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-5g-wireless-networks-leading-fourth-industrial-revolution.md",
+      "title": "5G wireless networks leading fourth industrial revolution",
+      "excerpt": "Network providers around the globe are launching 5G networks that can connect the handful of available 5G-capable devices. Currently, very few devices are connected to these new networks, allowing providers to tout headline grabbing download speeds of 1 Gbps plus.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/au/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "publishedDateTime": "2020-04-27T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/R8QMpKF7qkxvCGZXbeJusD-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "5G wireless networks leading fourth industrial revolution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-how-artificial-intelligence-could-jump-start-the-luxury-sector-with-chinas-help.md",
+      "title": "How artificial intelligence could jump-start the luxury sector – with China’s help",
+      "excerpt": "Western brands such as Hermès and Louis Vuitton are looking to China to boost their sales as it recovers from the coronavirus outbreak, but many are considering how artificial intelligence can help th",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
+      "ampWebUrl": "https://amp.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
+      "publishedDateTime": "2020-04-27T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/04/27/1e57d9aa-852b-11ea-8863-2139a14b0dea_image_hires_180635.jpg?itok=FBMe-ogx&v=1587982007",
+          "width": 1200,
+          "height": 630,
+          "title": "How artificial intelligence could jump-start the luxury sector – with China’s help",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-vw-admits-teslas-lead-in-software-and-self-driving-in-internal-leak.md",
       "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
       "excerpt": "Volkswagen CEO Hebert Diess has admitted that Tesla has a significant lead when it comes to software and its use in its self-driving program, according to leaked internal communications. Tesla pioneered over-the-air software updates in the auto industry.",
@@ -572,7 +706,7 @@
       "path": "_news/2020-04-25-an-explanation-of-machine-learning-models-even-you-could-understand.md",
       "title": "An explanation of machine learning models even you could understand",
       "excerpt": "I will start out by explaining what machine learning is, along with the different types of machine learning, and then I will jump into explaining common models. I won’t go into any of the math, but I am considering doing that in another article in the future. Enjoy! Machine learning is when you load lots of data into a computer program and ...",
-      "heat": 93,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/04/25/machine-learning-models-explained-to-a-five-year-old-syndication/",
@@ -698,7 +832,7 @@
       "path": "_news/2020-04-25-2-stocks-to-buy-and-hold-for-the-next-50-years.md",
       "title": "2 Stocks to Buy and Hold for the Next 50 Years",
       "excerpt": "So far, Alphabet's long-term growth ideas include self-driving cars, drone delivery services, artificial intelligence, and balloon-based wireless broadband services. Alphabet's medical-science projects include robotic surgery, bioelectronic medicines ...",
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.fool.com/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
@@ -962,125 +1096,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-exclusive-meet-the-scientists-reversing-robotics-by-putting-the-man-into-the-machine.md",
-      "title": "Exclusive: Meet the scientists reversing robotics by putting the man into the machine",
-      "excerpt": "Cortical Labs is not your average robotics startup. Instead of creating artificial technology that is programmed to function like the ... Probably not, if you ask Chong and Kitchen, but they also admitted it’s too early to tell. Fluid intelligence is what they’re going for right now. The more complex devices that think with these chips ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.syfy.com/syfywire/meet-the-scientists-who-are-putting-neurons-into-computers",
-      "ampWebUrl": "https://www.syfy.com/syfywire/meet-the-scientists-who-are-putting-neurons-into-computers?amp",
-      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/meet-the-scientists-who-are-putting-neurons-into-computers?amp",
-      "publishedDateTime": "2020-04-24T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Syfy",
-        "domain": "syfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2020/04/hackersmatrix_0.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": "Exclusive: Meet the scientists reversing robotics by putting the man into the machine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing.md",
-      "title": "AI Weekly: AI models illustrate the importance of continued social distancing",
-      "excerpt": "Using a hybrid AI system dubbed SIRNet and several epidemiological models, which were trained on smartphone location data along with population-weighted density and other data points from the startup Safe Graph, World Health Organization, the U.S. Centers for Disease Control and Prevention, and elsewhere, the coauthors claim they managed to ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/24/ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/24/ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/24/ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing/amp/",
-      "publishedDateTime": "2020-04-24T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: AI models illustrate the importance of continued social distancing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-iss-news-space-stations-cimon-2-ai-robot-to-revolutionise-coronavirus-social-care.md",
-      "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
-      "excerpt": "SPACE experts have revealed IBM's revolutionary Crew Interactive MObile CompanioN (CIMON-2) continues to exceed expectations aboard the International Space Station (ISS). One of the AI robot's developers has now revealed how the project can aid social care in the post-coronavirus world.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp",
-      "publishedDateTime": "2020-04-24T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care-1273593.jpg?r=1587753177377",
-          "width": 590,
-          "height": 350,
-          "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

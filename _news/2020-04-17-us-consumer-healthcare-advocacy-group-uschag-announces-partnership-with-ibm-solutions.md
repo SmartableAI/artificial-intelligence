@@ -1,9 +1,9 @@
 ---
 category: news
 title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
-excerpt: "While the details of the relationship are confidential, the partnership includes elements of data acquisition, utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development for over a decade and Founded in 2018 ..."
-publishedDateTime: 2020-04-17T13:09:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
+excerpt: "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions. While the details of the relationship are confidential,"
+publishedDateTime: 2020-04-17T12:33:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
 type: article
 
 provider:
@@ -14,6 +14,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "wzrPm0LmUhOSAG1uLgNx5Eu0BKUKAU9O4FTb+m5g2b6TkiwdJSIbk9Mv6De9ZFhPKYbakxzb1/Fl4l1lX+RdG29rf2Tvy6WDd+NXl+0lGIhl+Y/gIzjP6qVX8HfO4gqMCU3tuxRHakcXHfgmosTgwPY6HlO3VG57N2Ej2oPFUhDnYpuj9ZvTjpy5TsipGK7Fjjp4ql7QDFUUUBBUuRVsUzgSpjWzlpu5ukW2md45J9ZvpzIpaIZe2+5jVcxBYw1doWoTFJ2Bb9n2vXaQGKQGagXYvbikvB/JZsgYHl2WEiXnOiC1m57wSVRSNWYbfdF4ucGYrMxruuIuDUnmKihx3TcpU6azTYw4zhy5ZZwY9+tDQe7m5giwCDvqwMuamZ8YtAaxAvljLHa8/s2maIbVNbOi1sLbBcuxre5F18fYMH9nLQwNxksb+8val96wBmnPVv0f4ypRuwRSoNO/txA4cg3/JINn40cUFrXZ6UN6BbQ=;jWBLs1SH1hf+wfNAZv6U2Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa72f18e-94ce-57c4-bfae-e17bf137f5eb/5e99a8d765877.image.jpg?resize=300%2C400"
+    width: 300
+    height: 400
+    title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
+
+secured: "tKKPsWQu2BiXZx77lLpeC6nObJappKlm4Enb583SZFE7Lzx3jD6RJKRAcB1sD9uhwia20IykLJQU3Zux4VmeKcrjGvNUBFs7KNXE2DDvMCBvgcO85wIJ6IA34xijhZS17UOOsQh2IHfSvEKPZ2XATYNzVYTyrwXQ27r+RcjOzhcH+rmwnWxv3P1cdUaIIJIFGBfmRRxnY5WwbhccVpEAE7RqJl4cJbMtU966rN787SChaGiyH8G9ToTImLKrdbAQJfIGMr5WqJ33xRWXkC6hmKonPMl6N+C4yaptrpkvxQAcy73TsLRaPposn0Qc2wVY;T4SF+XQrpk4gUST3UaHxOQ=="
 ---
 

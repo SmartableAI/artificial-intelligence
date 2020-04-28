@@ -5,8 +5,8 @@ excerpt: "Off-grid renewable energy solutions will be introduced to mobile telec
 publishedDateTime: 2020-04-27T20:52:00Z
 webUrl: "https://www.ecs.soton.ac.uk/news/6683"
 type: article
-quality: 21
-heat: 21
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://secure.ecs.soton.ac.uk/heights/heights-image-400.php?imgid=news_6683_img&anchor=CM"

@@ -2,6 +2,141 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-23-dangers-await-self-driving-car-tryouts-as-post-pandemic-roadway-efforts-get-underway.md",
+      "title": "Dangers Await Self-Driving Car Tryouts As Post-Pandemic Roadway Efforts Get Underway",
+      "excerpt": "Many parts of the economy and commercial industry have been brought to a temporary halt as a result of the pandemic, including the preponderance of the self-driving car roadway tryouts that had been taking place throughout the U.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/23/dangers-await-self-driving-car-tryouts-as-post-pandemic-roadway-efforts-get-underway/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/23/dangers-await-self-driving-car-tryouts-as-post-pandemic-roadway-efforts-get-underway/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/23/dangers-await-self-driving-car-tryouts-as-post-pandemic-roadway-efforts-get-underway/amp/",
+      "publishedDateTime": "2020-04-23T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1129565376%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Dangers Await Self-Driving Car Tryouts As Post-Pandemic Roadway Efforts Get Underway",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-deepminds-ai-studies-game-players-to-exploit-weaknesses-in-their-strategies.md",
+      "title": "DeepMind’s AI studies game players to exploit weaknesses in their strategies",
+      "excerpt": "In a paper published on the preprint server Arxiv.org, scientists at Alphabet’s DeepMind propose a new framework that learns an approximate best response in both imperfect information games (where players are unaware of the actions chosen by other players) and perfect information games (where each player is informed of all actions taken by ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/amp/",
+      "publishedDateTime": "2020-04-23T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": "DeepMind’s AI studies game players to exploit weaknesses in their strategies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-artificial-intelligence-and-automation-top-focus-for-venture-capitalists.md",
+      "title": "Artificial Intelligence And Automation Top Focus For Venture Capitalists",
+      "excerpt": "As most of the workforce seemingly shifted to a remote workforce, the need for automation, technology, and tools has never been greater. How are VCs investing in AI and automation?",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/23/artificial-intelligence-and-automation-top-focus-for-venture-capitalists/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/23/artificial-intelligence-and-automation-top-focus-for-venture-capitalists/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/23/artificial-intelligence-and-automation-top-focus-for-venture-capitalists/amp/",
+      "publishedDateTime": "2020-04-23T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea1b04f8a54cb0006b1eee2%2F0x0.jpg",
+          "width": 489,
+          "height": 392,
+          "title": "Artificial Intelligence And Automation Top Focus For Venture Capitalists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-otterais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings.md",
       "title": "Otter.ai’s newest feature offers live, interactive transcripts of your Zoom meetings",
       "excerpt": "Real-time voice transcription service Otter.ai is adding new functionality that will aid home school students and work-from-home employees alike. The company today is introducing an integration with Zoom in order to provide “Live Video Meeting Notes” — meaning, the ability to record and and view a live, interactive transcript directly ...",
@@ -345,7 +480,7 @@
       "path": "_news/2020-04-23-paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision.md",
       "title": "Paige raises $5 million more from Goldman Sachs to detect cancer with computer vision",
       "excerpt": "Health care startup Paige has raised an additional $5 million to help diagnose cancer using computer vision trained with clinical imaging data. The idea is to use data sets related to treatment and genomics to train the company’s deep learning networks to detect breast, prostate, and other major cancers. New York-based Paige has raised over ...",
-      "heat": 109,
+      "heat": 107,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/",
@@ -693,6 +828,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-23-europe-speech-recognition-software-market-will-take-the-highest-jump-during-2020-2025.md",
+      "title": "Europe Speech Recognition Software Market will take the highest jump during 2020-2025",
+      "excerpt": "The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.arnnet.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-lg-cns-trials-facial-payment-service-using-digital-currency.md",
       "title": "LG CNS trials facial payment service using digital currency",
       "excerpt": "It will also continue to test AI, cloud, and blockchain technologies to foster new services that promote agile work going forward, it said. In February, the company deployed a facial recognition gate service at its headquarters in Seoul. The gate solution has already been deployed to 26 different gates so far across LG CNS's headquarters ...",
@@ -917,186 +1081,6 @@
         "AWS AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-researchers-say-deep-learning-will-power-5g-and-6g-cognitive-radios.md",
-      "title": "Researchers say deep learning will power 5G and 6G ‘cognitive radios’",
-      "excerpt": "That’s where deep learning comes in. The researchers hope to use machine learning techniques embedded within the wireless devices’ hardware to improve frequency utilization, such that the devices can develop AI-optimized spectrum usage strategies by themselves. Early studies suggest that deep learning models average 20% higher ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/researchers-say-deep-learning-will-power-5g-and-6g-cognitive-radios/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/researchers-say-deep-learning-will-power-5g-and-6g-cognitive-radios/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/researchers-say-deep-learning-will-power-5g-and-6g-cognitive-radios/amp/",
-      "publishedDateTime": "2020-04-22T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/Internet-of-things-e1587584864398.jpg?fit=2309%2C1154&strip=all",
-          "width": 2309,
-          "height": 1154,
-          "title": "Researchers say deep learning will power 5G and 6G ‘cognitive radios’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy.md",
-      "title": "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy",
-      "excerpt": "Now power these self-driving EVs with locally produced renewable energy, and you’ve created a blameless transportation system. That’s essentially what self-driving start-up Cruise has done. But achieving carbon neutrality is just the first step—the next is becoming carbon negative.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/",
-      "ampWebUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/",
-      "publishedDateTime": "2020-04-22T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea09585dea8300007de92b9%2F0x0.jpg",
-          "width": 1200,
-          "height": 959,
-          "title": "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-clouds-fully-managed-anthos-is-now-generally-available-for-aws.md",
-      "title": "Google Cloud’s fully managed Anthos is now generally available for AWS",
-      "excerpt": "But support for Azure will come later this year and the company already has a number of preview customers for it. In addition, Anthos will also come to bare metal servers in the future. Looking even further ahead, Manor also noted that better support for machine learning workloads is on the way. Many businesses, after all, want to be able to ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
-      "publishedDateTime": "2020-04-22T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GOOGLENEXT_2019_0409_091100-0355_ALIVECOVE.max-2200x2200-1.png?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Google Cloud’s fully managed Anthos is now generally available for AWS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-announcing-availability-of-inf1-instances-in-amazon-sagemaker-for-high-performance-and-cost-effective-machine-learning-inference.md",
-      "title": "Announcing availability of Inf1 instances in Amazon SageMaker for high performance and cost-effective machine learning inference",
-      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. Tens of thousands of customers, including Intuit, Voodoo, ADP, Cerner, Dow Jones, and Thompson Reuters, use Amazon SageMaker",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-availability-of-inf1-instances-in-amazon-sagemaker-for-high-performance-and-cost-effective-machine-learning-inference/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T11:49:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "Announcing availability of Inf1 instances in Amazon SageMaker for high performance and cost-effective machine learning inference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

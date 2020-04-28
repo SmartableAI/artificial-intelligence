@@ -2,6 +2,176 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-21-ai-company-forgerock-raises-935-million-in-funding.md",
+      "title": "AI Company ForgeRock Raises $93.5 Million in Funding",
+      "excerpt": "Identity-authenticator sees demand jump as coronavirus creates mass shift to remote work.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ai-company-forgerock-raises-93-5-million-in-funding-11587463200",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-178343/social",
+          "width": 1280,
+          "height": 640,
+          "title": "AI Company ForgeRock Raises $93.5 Million in Funding",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain.md",
+      "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
+      "excerpt": "Blockchain and artificial intelligence (AI) solve different tasks, but they can work together to improve many processes in the financial services industry, from customer service to loan application reviews and payment processing.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
+      "publishedDateTime": "2020-04-21T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-24-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-learn-how-to-leverage-the-aws-cloud-to-build-and-innovate-at-scale-with-the-free-aws-summit-online.md",
+      "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
+      "excerpt": "The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online",
+      "ampWebUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
+      "publishedDateTime": "2020-04-21T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/static/default-ys-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech.md",
+      "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
+      "excerpt": "Humans in the Loop is a social enterprise founded in 2017. It helps refugees from conflict zones like Syria, Iraq, and Afghanistan settle in the country by acquiring digital skills that they can use for working on artificial-intelligence and machine-learning-related projects. SEE: How to implement AI and machine learning (ZDNet special report ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
+      "publishedDateTime": "2020-04-21T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/27/5b741f04-5703-4a2a-b76b-d785d75d14d2/thumbnail/1200x675/e45cf779a0407789e919a9781db17a1f/istock-1130569495.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-checking-ai-bias-is-a-job-for-the-humans.md",
       "title": "Checking AI bias is a job for the humans",
       "excerpt": "One of the primary problems with artificial intelligence (AI) is the “artificial” part. The other is the “intelligence.” While we like to pretend that we’re setting robotic intelligences free from our human biases and other shortcomings, in reality we often transfer our failings into the AI, one dataset at a time. Hannah Davis ...",
@@ -871,176 +1041,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-unlearnai-nabs-12m-to-build-digital-twins-to-speed-up-and-improve-clinical-trials.md",
-      "title": "Unlearn.AI nabs $12M to build “digital twins” to speed up and improve clinical trials",
-      "excerpt": "Today, a startup founded by a former principal scientist at Pfizer, which has developed a way of digitising this concept through the use of AI, is announcing some funding to further its efforts. Unlearn.AI, which has built a machine learning platform that builds “digital twin” profiles of patients that become the controls in clinical trials ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/20/unlearn-ai-nabs-12m-to-build-digital-twins-to-speed-up-and-improve-clinical-trials/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/20/unlearn-ai-nabs-12m-to-build-digital-twins-to-speed-up-and-improve-clinical-trials/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/unlearn-ai-nabs-12m-to-build-digital-twins-to-speed-up-and-improve-clinical-trials/amp/",
-      "publishedDateTime": "2020-04-20T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/6467612281_ccb5b72b02_b.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Unlearn.AI nabs $12M to build “digital twins” to speed up and improve clinical trials",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-googles-entities-as-experts-ai-answers-text-based-questions-with-less-data.md",
-      "title": "Google’s Entities as Experts AI answers text-based questions with less data",
-      "excerpt": "A preprint study published this week by coauthors at Google Research describes Entities as Experts (EAE), a new type of machine learning model that can access memories of entities (e.g., people, places, organizations, dates, times, and figures) mentioned in a piece of sample text. They claim that it outperforms two state-of-the-art models with ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/googles-entities-as-experts-ai-answers-text-based-questions-with-less-data/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/googles-entities-as-experts-ai-answers-text-based-questions-with-less-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/googles-entities-as-experts-ai-answers-text-based-questions-with-less-data/amp/",
-      "publishedDateTime": "2020-04-20T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s Entities as Experts AI answers text-based questions with less data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-the-nba-and-microsoft-plan-to-release-a-new-ai-driven-dtc-streaming-platform.md",
-      "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
-      "excerpt": "The NBA and Microsoft announced a new multiyear partnership aimed at transforming the digital fan experience through a direct-to-consumer platform.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/nba-microsoft-team-up-for-ai-driven-personalized-streaming-platform-2020-4",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-facebook-partners-up-with-researchers-to-fight-covid-19-using-ai.md",
-      "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
-      "excerpt": "To that end, Facebook AI has partnered up with academic researchers and other experts on a slew of ... Facebook has also partnered up with the Mila research institute in Montreal to share predictive, causal, and decision algorithms to effectively analyze clinical data. Facebook says it’s important for public health experts to understand ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai",
-      "ampWebUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
-      "publishedDateTime": "2020-04-20T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/t/the-corona/the-coronavirus-is-proving-to-be-big-business-for-facebook-n_n947.620.jpg",
-          "width": 620,
-          "height": 397,
-          "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

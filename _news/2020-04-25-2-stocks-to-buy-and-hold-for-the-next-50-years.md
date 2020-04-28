@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/25/2-stocks-to-buy-and-ho
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:
