@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects"
-excerpt: "The Joint Artificial Intelligence Center seeks cutting-edge evaluation capabilities to assess what systems can and can’t effectively do."
-publishedDateTime: 2020-04-16T21:43:00Z
-webUrl: "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/"
+excerpt: "The Joint Artificial Intelligence Center seeks cutting-edge evaluation ... including machine learning, deep learning and neural networks. According to the solicitation, the Pentagon wants to augment the JAIC’s Test and Evaluation office, which develops ..."
+publishedDateTime: 2020-04-16T21:50:00Z
+webUrl: "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/?oref=ng-skybox-lander"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 400
     title: "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects"
 
-secured: "VWcVB2diFn5hDCqEXrKuZwK3cX+bftg7q96Qosy3hXBLaWOlWOSOR6ftVLXyHAhDGnCJKVzBnJPFMwLuLlpLyZLvSxmkVBOfzK0BEZ2S1s4wYv8HTagqK+YBHwBu1ZjUCQ3xihIWVjzRkCTiwiC/0lppnWp+6PWVp8o+E0QwotaF7onarHgaGyGJsG7IUSFCczJZeABiwRAA2isNMHNKnNuUApZJvpyDlo0iI/PUcu2S46dujX8oWukfPQZjIOM5THb6TnTj0E0FyyYFDb2mu+CexoqlxyXBIcSUMxGkGrjWIoXRg5bDKlEX0zLUj/Ob;VdgLjUOVKfFdeFQ4MP1Avw=="
+secured: "xuYD6EkKJheVrhJJ7m8sugXgIHqyNhe2nR6gatDjVsaY2dMDrI5ZEZ4GW6kz0ATjZXi90plEr7p3PVYpwvNIbyf7aXcFxksGq9FmEW7+QWZ7PicBj1Xd81Nqx2jolWKigHAyLnxdt8Bj4OE9h0rsptZ1I9rASZRhnJNn31xsX3Ppv5A0Nl6O4ECwq0w4BMzk+4ljZgng5jJrxU+4iWct9ONAdEjDQxmKjYpM19XRdttQe/amFDiNelMySogGAh0bXHuFpMZvq8/XJitaTSX4DteiOaG5hNAdkSwc4SXaUcEZjdCqMOi1ZwI2yzsMdH4p;cECtM8Gx8a6C6bzr/ECb7g=="
 ---
 

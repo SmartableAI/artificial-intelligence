@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/27/google-medical-researchers-humbled
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/27/google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing/amp/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 604
     title: "Google medical researchers humbled when AI screening tool falls short in real-life testing"
 
-secured: "6745yn6Mr3mIISH8CDWXCIF6STGE7nWGVepsHMy0Rt/0Qdp7gnEJQ+kp2ZJIJzkzJYGwg5hGUhRvvwuMoV7CAj4SXqIXXvnRvxYEMZbzSWavEOA7km+PxP50QkaeehBN5emrIYXnquBD2xLHtDqgT+y+R9QVeWM2wPHVR+yw9Btx7+lYVU1OgvWOaHAyMS7UNMvaVuYpPIiZ+tW2NUHTKptQHX+n5iz/AtR/cVj+zLlIXJJ61l01wcAqVdg386PNxFdLd4xlwE68UcN259kmjzsYpaFXcqNVNnxFhoGpS7pwS6GojdYvkSVkOUjcyleedn0dTae0gedBH30Yb4doVoZiVYfWw4rrqacl1vekNPJeeN/LDNBdnQyuFntARqAasngDCTkFGilatq92i1MIwCLyzpLmlIHBq8LIcDSCmYiM8MQ3/olwdXCD+/8/NHCtpvi6T6aGLSAEBbK/2W7APDNIL3GrZk62gkpfEieP4Ok=;RIXyjP8FrbotGUHQ3n5SLQ=="
+secured: "BoGNexcqZ5U/RLpn5eWDqNnnktKT+kAs1oe+59BtkN43fnFuWVNHQLN4WZ7LHOaodfW6z1EdZ41HXGfrCN2ximzctcndzRK1h3XsJB/Z32BGDHj6v7UG9AkwYqhYhZYY8px6Lqf5Wef0Z8WQyjgWjt6S7pcIjwVNoLGeFvW4riSAq+aEO0+oAsQvh8AnDXdHupnErxh1oecQsiRzur0YSt5cl6K0I/cKLxAGtII+k0W6wKDx02zNN7ySx4YJE68H7N9lguVV0OMOCeZVSGJ0cdDrKo0UROBoGUT/S/3Ld0289M/vLqJnEyb52eSnRohXT3aFkYqRJ7Akfy5Cz+YPjpM92VS/6qVBXUrIWrF5uWBPlv+AXnvgdesCiUJ3/VMJ0F8hPq4DAU9p+hI4PqxszQ1pA/Cp2D8cNq/S/x4+pV2RltMtlShM8elL7thRKWsDxxgt0GtnLcsLhMlMP8DyqSd5lZpvp4UvBbpyslaOMlo=;KLkr+3pvcE0o0jgdf0Rn7w=="
 ---
 

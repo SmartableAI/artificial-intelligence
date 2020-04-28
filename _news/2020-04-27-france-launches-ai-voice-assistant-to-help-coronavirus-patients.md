@@ -1,11 +1,11 @@
 ---
 category: news
 title: "France launches AI voice assistant to help coronavirus patients"
-excerpt: "French researchers on Monday launched a voice assistant that can help callers suffering from potential coronavirus symptoms and direct them towards emergency services or their doctors using artificial intelligence."
-publishedDateTime: 2020-04-27T15:49:00Z
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-france-ai-idUSKCN229285"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN229285"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN229285"
+excerpt: "Anybody in France can now ring the “AlloCovid” service developed by French research institute INSERM, the University of Paris and French railway company SNCF, the group said. On the line, a female voice greets callers with “Bonjour,"
+publishedDateTime: 2020-04-27T21:56:00Z
+webUrl: "https://www.reuters.com/article/health-coronavirus-france-ai/france-launches-ai-voice-assistant-to-help-coronavirus-patients-idUSL2N2CF138"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2CF138"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2CF138"
 type: article
 quality: 87
 heat: 97
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200427&t=2&i=1516613138&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3Q1LK"
-    width: 817
-    height: 545
+  - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+    width: 1200
+    height: 630
     title: "France launches AI voice assistant to help coronavirus patients"
 
 related:
@@ -45,6 +45,6 @@ related:
         width: 1024
         height: 576
 
-secured: "rnKdrGmbDMqLsnN572UCbIC6LEozE9mtNaKG2Jg30vVuRqYzJEzkJTBCb9qub2nhLhTDEd7PKirbaWgBQzaQ2a65sEi3Us99NkKil/rcOkv5n6AcdCiCRmnTCOgJRn0zsi1xWQsqbBXeTQbflnMLhGV8cPDGhKyUuuvPSn6PhsU1s8KmPIsaWKgqGHeIgIYrIeMfIfvrUOphIDoBibAXmgFAJT2VDJLfLatyQWFcJewtaW3HglO8tHe2z81ColxMZxS+pJDED6hJqfh6rV/POl12kGvTthO/1FKmy1g/DKCBjtBBuJCLo0Li1ntuB+OG;+VEKLd05XlXYQr33PVwATA=="
+secured: "i+l0YiiFmwb0SWJAYW1YKF3wVfZM0mrJWkIjJRK+PSrKFa2K8iI/taxTwUIPUsRssFECcv2+LzueGcV/YC7MRzULBhjS1YycfE7K3NAkF5X0Oa6ZJpcNoWa3GZMdnGMFnzf75iZ/ORya/jyoUZxb7FvSa4V64HTt3nIVl846XXLXg3ORhz2TMs41whjF3LbbBgdMYQ4LFy1D1kHaisFPHvEAuj9eYiuSjBFOhGdBIBRJXDURG6I79IICNoapx3ME6fzRVrXz0qKQKH6GFfUQethSx00TG7yhfwuMH4W32p/AvNVr5CbEcQwXXmGl/mgl;Hq33MD22CLD/o4mDjg9QPQ=="
 ---
 

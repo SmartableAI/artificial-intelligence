@@ -5,8 +5,8 @@ excerpt: "Rats have long been highly-valued model organisms helping researchers 
 publishedDateTime: 2020-04-27T21:14:00Z
 webUrl: "https://www.hpcwire.com/2020/04/27/can-rats-ai-rats-that-is-shed-light-on-how-neural-networks-work/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/shutterstock_259521779-e1588020650899.jpg"
