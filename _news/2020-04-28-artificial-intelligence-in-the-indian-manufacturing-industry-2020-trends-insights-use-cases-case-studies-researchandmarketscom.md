@@ -1,23 +1,43 @@
 ---
 category: news
 title: "Artificial Intelligence in the Indian Manufacturing Industry, 2020: Trends, Insights, Use Cases, Case Studies - ResearchAndMarkets.com"
-excerpt: "The \"Artificial Intelligence in Indian Manufacturing Industry 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies in"
+excerpt: "The \"Artificial Intelligence in Indian Manufacturing Industry 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies in India have been digitizing their plants with advanced process controls,"
 publishedDateTime: 2020-04-28T09:12:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/b15892540/artificial-intelligence-in-the-indian-manufacturing-industry-2020-trends-insights-use-cases-case-s"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15892540"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15892540"
+webUrl: "https://www.businesswire.com/news/home/20200428005405/en/Artificial-Intelligence-Indian-Manufacturing-Industry-2020-Trends"
 type: article
-quality: 5
-heat: 5
+quality: 7
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
+  - AI in Robotics
   - AI
 
-secured: "CQ/Tvd5U5OAY7p0VlXosfJ3H3PvnJveg3DovWeqJrXFqhbgzOzAzwme3kLb8bhT0zzR7so2+Wzlrbu8fYd/atMIk9Np1QEaNMRGhWWrO630lFjkBqdjURbDcFOsqLCwr0kbvXdmddzqB7OiDTrhXdeLTS7xq35Qli3JRxzct83ueaJwazBUh+t+azux4Auz+K5wd2vWcPlK1Ew3Y6tb6AUbx6ZNW6oG1LA2urOREwv5JWB9gbadJx4umveU0+qBf5kl3sG1h5TLGx+0xRJrcugXhHBdSFSF+DqBMAYhu2Ad/MoJm27U92ZSzzNsLX5qc;ggk+W3WWnURy/p/gm+ZQhw=="
+images:
+  - url: "https://mms.businesswire.com/media/20200428005405/en/371054/23/ResearchAndMarkets_800px.jpg"
+    width: 1200
+    height: 627
+    title: "Artificial Intelligence in the Indian Manufacturing Industry, 2020: Trends, Insights, Use Cases, Case Studies - ResearchAndMarkets.com"
+
+related:
+  - title: "Artificial Intelligence (Ai) In Healthcare Market progressing at a CAGR of 40.48% during the forecast period 2020-2027"
+    excerpt: "The Artificial intelligence in the healthcare market dynamics, forces, companies and trends have been determined after conducting"
+    publishedDateTime: 2020-04-28T21:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-progressing-at-a-cagr-of-4048-during-the-forecast-period-2020-2027-2020-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+
+secured: "MSgwcr5WaWnBwUGW4cSAOxH9vop/AiKfaknSoQnGXiMRxn4UnvaDgy+/kW9CSdgTKANMSfGz1Tut+qZ6wUYQdTLOVtJJnkv7wtrDYszbX2d3Xz4vCYPG+8sJtlYX1CrQ8Ypps9cPm1gUZXrQI896UvtEAdJ2mQWqe9L9EnhcbDqHVAkoMEAdyveLGtEE8HjTBcYrflBRbk/XFwVOVF97h4dDZpE2hbPXQSVlU0H4X+17QCUJsSqamrvuhYafgML4NoMkjGMLhYPkLWHYhogtdO+GVE9MSpnoHfslxyftJ1XGfGK55aGRMgvP4tLTPdc9;h/P0NfYVB/X0B4XOj8n4YQ=="
 ---
 

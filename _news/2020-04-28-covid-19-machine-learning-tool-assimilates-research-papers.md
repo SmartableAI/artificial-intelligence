@@ -5,7 +5,7 @@ excerpt: "The volume of literature produced on the topic of COVID-19 is daunting
 publishedDateTime: 2020-04-28T18:12:00Z
 webUrl: "https://www.machinedesign.com/medical-design/article/21129935/covid19-machine-learning-tool-assimilates-research-papers"
 type: article
-quality: 4
+quality: 21
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 related:
   - title: "Machine Learning Tool Could Provide Unexpected Scientific Insights into COVID-19"

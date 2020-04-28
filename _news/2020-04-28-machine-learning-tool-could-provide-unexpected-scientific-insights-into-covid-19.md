@@ -32,7 +32,7 @@ related:
     provider:
       name: Machine Design
       domain: machinedesign.com
-    quality: 4
+    quality: 21
 
 secured: "/JxafOnd/dcu6q6HtCgiw08jiOKjK1zm17iEcfifQPDkL9eCDcqcYmzuovPcn76/qH6W+JLuYHqQKd6zW9RkBWqY3j+4rCPoZmLBfY1rgTZMfECsfaPsKifhNAa3XCIsDH5+Dj6e5hh3AE+hjvutPN+u0jZ1OSqOkA7/Q/o5WrbB3XaPKGNamwhpqaqAHxY2sh9OJNo4dKpHin7xa3jkFmsTHXGfsUNDZvd2e/fVEMRs5VrKkxTk1QITsaHEkzCAwiBuYUkOxZnIU1ixlmOxuybpi8QQcmcNXeO7u0Ue4It9vQ5WdfND6rDgaDYVj/3HYlfniu5JIuNYdqykxq78hjCuRdUwXCX57rBi0fr/fZjSqYfsSrYSwrT+qo8gcwuXSp5dR3ea0xtn3vswgfCvTHWY1aRhL8TBhtXrqk9HqlZUpeMDh7/46iaxn4N5jcnHqsUOhj9o7a09eIN11MxxuDW5c5ANNkhg3sWdLnqJxcA=;SDDYoQneNVTzssTFbbVd5g=="
 ---
