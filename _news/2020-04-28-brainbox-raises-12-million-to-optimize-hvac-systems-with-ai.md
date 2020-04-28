@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/28/brainbox-raises-12-million-to-opt
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     height: 599
     title: "BrainBox raises $12 million to optimize HVAC systems with AI"
 
-secured: "GEly2Mg/MHOJhbrjyzij3glCsEoWZ+AJXKjsBHpgPx42NT/37NAaL4rPSk1ipGvHjxZJ/TJn4fbA4bUvG5nPlXn1NYBaZdXu+86nuuU8nxW1BnrAzR7PvdT4ajIT0mj/mAUtASHO/0T4opWdSZ7+B2cJ4ZnReZsk7ebPUxHUirJr1uwsmCwIMqXJkPlX9XR/+9wTtc2Z0Uvtb0i8RsDWH+i+NJp9DsabKotYT7EzUD1pj7huWthClGjw86QpglG24OwqaJKCeJ0+c0/6xIASBWCR8J3AAG3/4LVWDInImHXsv0BNCHU0mXd2FQY/AGaq;OsHcrXC0ys7VGPTzhQ3sWg=="
+related:
+  - title: "BrainBox AI Raises $12M to Drive Global Growth of Autonomous Building Technology"
+    excerpt: "BrainBox AI, a leader in autonomous building technology, announces $12m fundraise to further deploy its AI tech to HVAC systems around the world."
+    publishedDateTime: 2020-04-28T13:41:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200428005130/en/BrainBox-AI-Raises-12M-Drive-Global-Growth"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
+    images:
+      - url: "https://mms.businesswire.com/media/20200428005130/en/787689/23/Brainbox_logo_RVB.jpg"
+        width: 1200
+        height: 627
+
+secured: "PnV+biT6vwySgt9JNpIPeZTO19igKHWS4gmkbQRpuGFO/+rEt7URfwCspt1rTxXGqpPUdZtpTRtEYPEFCja0OVqlEVEeoL0wC9X43kb3nubB6dn+PifWIdqtwwi5PB11q5WxLRi7kohgC1H6RdWpops4ILPFBsl7pFvGXaCLR63F+WhJxI6XPAdtySj+0/1ZcqsfRbAOwfZT5Dn9eAmC4ELN5W3qCTDtfh8T+JCZZK+vV0gxXW2rSp9B5Q/OY8Y+v101l97/j3MqxUtjWAQz6TsP/QHylK1uLE6arPQuTAarTx3IdhfpKYgAjsRqexv2CaOfTr5z7wDLUcbNDcC5i0mQgkGDpPepEgFV5WaUqRt6xFWYVoj8yzgKpJwD2iWRiu5loAz9SAbB4V+oLjFRJnBss+OpHOdppMPBGTMz9NXKeSrrkDsp49UPnBAL6V1XAlyLj2nYqflUbQey97sTDHUjqlHMYvongfg2FcFRN9k=;aFwGnFRX/MI5+j3Fy37nqQ=="
 ---
 

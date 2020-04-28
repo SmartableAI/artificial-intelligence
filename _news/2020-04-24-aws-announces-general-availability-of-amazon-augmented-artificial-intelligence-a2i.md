@@ -31,19 +31,6 @@ related:
       - url: "https://www.cxotoday.com/wp-content/uploads/2020/02/Amazon-campus-hyderabad.jpg"
         width: 600
         height: 450
-  - title: "AWS Announces General Availability of Amazon Keyspaces (for Apache Cassandra)"
-    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 73 Availability Zones ..."
-    publishedDateTime: 2020-04-23T23:11:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200423005964/en/AWS-Announces-General-Availability-Amazon-Keyspaces-Apache"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 51
-    images:
-      - url: "https://mms.businesswire.com/media/20200423005964/en/787134/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
 
 secured: "yE3ZePNaDBs0N8eFctK7/S6x1hwgHejFeUh304eYeYB8jevFHw4zADpU+ufPGMHgsMglK25ZYVqYT8aBnl88ieWfgEQS8FYHM7YkAjwDDDV4arTmlo8NbmKmVOxonMSyzx3YgMq2VmR38LpLZ5bveXeXFkUZkdbKk51NiijC7i9x9QlmuYoGVsCT6vx9fuvAmDABzTvdadnlXt+nRSezSdpMsSOJcEn0l8mDXqL+70x/4qCk83SE6ubt1peYIpMdSjYH1K2pRyustmLk+UkkKz53JbymrRqnuzH7JZkkjkWGb3JK9azbvjjNW0/4NX2R;Vb7pUZq+JbFg3i88dyHVCA=="
 ---

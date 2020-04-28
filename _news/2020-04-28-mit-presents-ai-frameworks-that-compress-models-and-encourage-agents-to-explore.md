@@ -28,6 +28,6 @@ images:
     height: 600
     title: "MIT presents AI frameworks that compress models and encourage agents to explore"
 
-secured: "vMFmygYNWWUyDyDfWE6KnKy4eAQSHoU6aPQ8iH74rxd6KUKFlBtXckQutWGmcjRvJjEINlMUdwKRrMnigMwDhhnAlOVnAc3s0Fs/mO7ecPLfFpSMmVKmvnvl996qn1OC29/nPzskOR7gMCsfcAyq186+BOm610nNkCpI/SvAoeuQlwoXrSfhZjfLAaMrDh4sMx54Op7u+IOt2aJx4jnQ5lxY11AAXOpcgRcoE+vCf9X/isBGY0ZnVwRmC0/FsdBGkCF+rQW5+6onUpqoJvsQZ8zItbvess0thfSED8a/SLisMF8A1l+J6JvL1j7IJzNa;UytIXMpXrATKDz608de9oQ=="
+secured: "JocAxuXreanNBpEW0SIvBNKg7kN5zULJ+6YuQRI3yebG2sj6w1Wj+WovsqthP8IcY0Y370bbNGa6yNHk4ddgHdKRMrGgcBgsAqfi5yznphq2/V+ODTx+JgdKDLQwd0LWkJKJiOqe5oP4+kmTMQztO95S27BrcwiPP/y5pQ6INn/ifkK/4ImPRz/Y7FNJn+9oz45nEutbfL+k/zIS/2z7RSLC0zzy7pd810+/V1EXDQ4cg1Oqhg3FtNmXx5jxt5nzK00UEUc7XDKVynkqPzxJ9N6S4RC/yKXokaT/3e2etOXbsgBETM2xtbcxV8VxV+zzlsxvE48t9ij6zO+zGCnIlO+Xu6658TjxaMGw5JwuozdVUpPwVarDllM13tcQvYT4lZtUb2ziSJ4rKC1wCphwlgTnwF0YO6UVcMaAf1soRSQgmqoJuQBPSIoUCIaBT0PmM8RCdQQDelPeXMjjk2TMz8xMRR7oXZK3tKedKljLKNs=;tKo3tjEzHrAtf0VTrJk+Pw=="
 ---
 

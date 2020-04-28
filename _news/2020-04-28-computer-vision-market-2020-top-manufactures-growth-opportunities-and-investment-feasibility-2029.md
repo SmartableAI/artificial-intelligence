@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-28T11:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-top-manufactures-growth-opportunities-and-investment-feasibility-2029-2020-04-28"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     width: 1200
     height: 630
     title: "Computer Vision Market 2020 Top Manufactures, Growth Opportunities and Investment Feasibility 2029"
+
+related:
+  - title: "Artificial Intelligence Chipsets Market Rising Trends, Technology and Business Outlook 2020 to 2026"
+    excerpt: "Verified Market Research has recently published a top quality, comprehensive and elaborate research study on the Artificial Intelligence Chipsets Market covering numerous insights about the current statistics and future predictions of the market."
+    publishedDateTime: 2020-04-28T17:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-rising-trends-technology-and-business-outlook-2020-to-2026-2020-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "HaLI8ug+FaPV+gixIw/UYtcdatxW6hJzKRh6gHWb/KySDjj+kQx7ulBfL9Up/8FHp/MqkivBYTnyRY7jHiIZesEIcNdGT+HjwTTAZyI7g0UOxGb4T5j5+1DxoxgOKc7/IO5XaTO1S6khus37OYzWiRdvVag3+3swxYA3E4QJHGpsTu770VUyw2zS+WJAGXBSj0LEOTT3Fwyk7WMsT5xGSth+2pmnscBo0yClFNLKC0znR/X6KhNK2GHIQEMinnGXlro8KkuSDI8TggI7/uCsiqQlsQMuVak4C5eHAbgv9cX00/H/Oi5YR5H6eD1gGqhw;k1fJjQJwBNyydvwCUzxBrQ=="
 ---
