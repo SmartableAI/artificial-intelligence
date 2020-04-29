@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-28-go-read-this-analysis-of-the-new-iphone-ses-ai-powered-depth-camera-system.md",
+      "title": "Go read this analysis of the new iPhone SE’s AI-powered depth camera system",
+      "excerpt": "For portrait photos, the iPhone SE’s camera uses machine learning to estimate depth of field, and Ben Sandofsky, one of the developers of mobile photography app Halide, took a closer look at how at how portrait photos taken by the SE’s single camera actually work.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/4/27/21239195/apple-iphone-se-2-machine-learning-depth-camera-system-halide",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/27/21239195/apple-iphone-se-2-machine-learning-depth-camera-system-halide",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/27/21239195/apple-iphone-se-2-machine-learning-depth-camera-system-halide",
+      "publishedDateTime": "2020-04-27T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/UhnXz-grSQZlJReywHd_g3l-MLI=/0x0:2040x1360/1400x933/filters:focal(755x579:1081x905):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66718093/vpavic_042020_3980_0037.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Go read this analysis of the new iPhone SE’s AI-powered depth camera system",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too.md",
       "title": "Tesla's latest Autopilot feature is slowing down for green lights, too",
       "excerpt": "Tesla has said its latest version of Autopilot, its autonomous driving software, is able to stop at traffic lights. But some Tesla drivers are learning it doesn't just stop at",
@@ -508,51 +552,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth.md",
-      "title": "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth",
-      "excerpt": "C3.ai's global customer experience and elevate sales performance using intelligent cloud technology.  As demand for enterprise-grade, AI applications continues to grow, so does the need for modern CRM tools to help businesses identify new leads,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-2020-04-27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },

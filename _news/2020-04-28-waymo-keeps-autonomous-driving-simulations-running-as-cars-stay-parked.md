@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-car-simulation
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-car-simulations-continue-despite-coronavirus/?amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Self-Driving Startups Work Through Health Crisis"
+    excerpt: "Just like the rest of the industry, trucking companies working to commercialize autonomous heavy-duty trucks are adapting to the uncertainties and disruptions caused by the coronavirus."
+    publishedDateTime: 2020-04-28T21:00:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-startups-work-through-health-crisis"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/autonomous-plus.jpg?itok=9dvyVy5b"
+        width: 470
+        height: 246
 
 secured: "qRxcsakZS/ZIqbiSLEJlZ0niFuZ7XIEjHi6TnPK57Bz3wPdsMtnARk6vhoFHRbPGfuCY3976xc37VcG/IJ+trOaUD7lHMyh8Sh37gdPQIflQAirAE0bC8HKDUoeEEK1vRQ/hdN5Y4ii1Xkgr1ytUhb6urMxMyfTexR5IsXp5S0q0ZdeDtdzhbO1TpSBpPKvrhWejER6p1fkjP+4o/W2KUbsUbtTfPeGkqZSNuNB+yYX8L8T1iMddi7/Pu19tc6HwNS007lou3aLN1quX3CRtBU2ll9TB0JghPmX5M8lghX2LR0OWfqM2HuPK2p1bUIWfzOOHWhZ4hAMk1cNq6wedbF913gIGEXOkFkNjk7r5aMoi/BAVAgSnmcOGVo0XcBrPqOmtSs3eKFio8FsMPahYNXo1kvH5/miG8JEy3M0/3EPMDJ6aKC3mzUG1ONxH3JiAIBmnUUAM2wd+Xibl3v7ms6wmfTgC7Fy2L4DYKCOfmIM=;8Kq+eUTNfdXdGfOQRydPmg=="
 ---

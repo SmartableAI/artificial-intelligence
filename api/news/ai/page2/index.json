@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-artificial-intelligence-ai-in-healthcare-market-progressing-at-a-cagr-of-4048-during-the-forecast-period-2020-2027.md",
+      "title": "Artificial Intelligence (Ai) In Healthcare Market progressing at a CAGR of 40.48% during the forecast period 2020-2027",
+      "excerpt": "The Artificial intelligence in the healthcare market dynamics, forces, companies and trends have been determined after conducting",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-progressing-at-a-cagr-of-4048-during-the-forecast-period-2020-2027-2020-04-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (Ai) In Healthcare Market progressing at a CAGR of 40.48% during the forecast period 2020-2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-utah-pauses-banjos-ai-surveillance-after-learning-of-owners-racist-past.md",
       "title": "Utah pauses Banjo's AI surveillance after learning of owner's racist past",
       "excerpt": "Utah authorities have put use of Banjo's surveillance tech on hold while they investigate for bias due to the owner's racist past.",
@@ -1048,7 +1094,7 @@
       "path": "_news/2020-04-28-waymo-keeps-autonomous-driving-simulations-running-as-cars-stay-parked.md",
       "title": "Waymo keeps autonomous driving simulations running as cars stay parked",
       "excerpt": "Waymo is continuing to run autonomous driving simulations as its fleet of test cars and trucks remains parked due to the ongoing coronavirus pandemic.",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-simulations-continue-despite-coronavirus/",
@@ -1266,50 +1312,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-go-read-this-analysis-of-the-new-iphone-ses-ai-powered-depth-camera-system.md",
-      "title": "Go read this analysis of the new iPhone SE’s AI-powered depth camera system",
-      "excerpt": "For portrait photos, the iPhone SE’s camera uses machine learning to estimate depth of field, and Ben Sandofsky, one of the developers of mobile photography app Halide, took a closer look at how at how portrait photos taken by the SE’s single camera actually work.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/4/27/21239195/apple-iphone-se-2-machine-learning-depth-camera-system-halide",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/27/21239195/apple-iphone-se-2-machine-learning-depth-camera-system-halide",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/27/21239195/apple-iphone-se-2-machine-learning-depth-camera-system-halide",
-      "publishedDateTime": "2020-04-27T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/UhnXz-grSQZlJReywHd_g3l-MLI=/0x0:2040x1360/1400x933/filters:focal(755x579:1081x905):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66718093/vpavic_042020_3980_0037.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Go read this analysis of the new iPhone SE’s AI-powered depth camera system",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

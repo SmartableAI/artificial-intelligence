@@ -2,6 +2,87 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-29-tectonai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges.md",
+      "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
+      "excerpt": "Tecton.ai is a data platform for machine learning that lets data scientists transform raw data into production-ready features.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/tecton-ai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/04/tecton-hero-1180px@2x-1024x357.png",
+          "width": 1024,
+          "height": 357,
+          "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-the-ai-meme-generator-is-better-at-making-memes-than-humans.md",
+      "title": "The AI meme generator is better at making memes than humans",
+      "excerpt": "Internet users have used the Imgflip meme generator to create their own memes for the better part of a decade. Now, the site is generating its own memes, using the help of artificial intelligence. Harkening back to AI-generated feet pictures and AI-generated faces,",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/ai-meme-generator/",
+      "ampWebUrl": "https://mashable.com/article/ai-meme-generator.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/ai-meme-generator.amp",
+      "publishedDateTime": "2020-04-29T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F29%252Fe6%252Ffccff94954e94c1197cd695c0359290d.89652.png%252F1200x630.png?signature=iB3J6jwGoxGkoaY0JIFKbiybHEs=",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI meme generator is better at making memes than humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-google-open-sources-faster-more-efficient-tensorflow-runtime.md",
       "title": "Google open-sources faster, more efficient TensorFlow runtime",
       "excerpt": "Google open-sourced TFRT, a faster and more efficient runtime that'll eventually replace the default runtime in the company's TensorFlow framework.",
@@ -173,50 +254,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-29-neural-net-generated-memes-are-one-of-the-best-uses-of-ai-on-the-internet.md",
-      "title": "Neural net-generated memes are one of the best uses of AI on the internet",
-      "excerpt": "I’ve spent a good chunk of my workday so far creating memes thanks to this amazing website from Imgflip that automatically generates captions for memes using a neural network. I’m addicted because the site A) takes the pressure off trying to be clever by auto-filling the captions;",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/tldr/2020/4/29/21241301/meme-generator-imgflip-neural-network-ai",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/tldr/2020/4/29/21241301/meme-generator-imgflip-neural-network-ai",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/tldr/2020/4/29/21241301/meme-generator-imgflip-neural-network-ai",
-      "publishedDateTime": "2020-04-29T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/zHU48KUA70jcfEZUm83TNAAy97o=/0x0:735x500/1400x933/filters:focal(310x192:426x308):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66727168/image.0.png",
-          "width": 735,
-          "height": 500,
-          "title": "Neural net-generated memes are one of the best uses of AI on the internet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-29-this-artificial-intelligences-absurdist-memes-are-funnier-than-what-most-real-humans-create.md",
       "title": "This artificial intelligence's absurdist memes are funnier than what most real humans create",
       "excerpt": "This Meme Does Not Exist can create new captions for some of the most popular meme templates at the click of your mouse.",
@@ -356,7 +393,7 @@
       "path": "_news/2020-04-29-roborocks-new-robot-vacuum-packs-a-pair-of-cameras-to-avoid-obstacles.md",
       "title": "Roborock’s new robot vacuum packs a pair of cameras to avoid obstacles",
       "excerpt": "Robot vacuum maker Roborock debuts its new S6 MaxV vacuum with a Qualcomm processor on board and stereo cameras for optimal obstacle avoidance while cleaning.",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.digitaltrends.com/home/roborock-s6-maxv-robot-vacuum-news-release-price/",
@@ -1278,52 +1315,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-artificial-intelligence-ai-in-healthcare-market-progressing-at-a-cagr-of-4048-during-the-forecast-period-2020-2027.md",
-      "title": "Artificial Intelligence (Ai) In Healthcare Market progressing at a CAGR of 40.48% during the forecast period 2020-2027",
-      "excerpt": "The Artificial intelligence in the healthcare market dynamics, forces, companies and trends have been determined after conducting",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-progressing-at-a-cagr-of-4048-during-the-forecast-period-2020-2027-2020-04-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (Ai) In Healthcare Market progressing at a CAGR of 40.48% during the forecast period 2020-2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

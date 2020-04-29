@@ -45,6 +45,19 @@ related:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/chandler_depot-1200x630-c-ar1.91.jpg"
         width: 1200
         height: 628
+  - title: "Self-Driving Startups Work Through Health Crisis"
+    excerpt: "Just like the rest of the industry, trucking companies working to commercialize autonomous heavy-duty trucks are adapting to the uncertainties and disruptions caused by the coronavirus."
+    publishedDateTime: 2020-04-28T21:00:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-startups-work-through-health-crisis"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/autonomous-plus.jpg?itok=9dvyVy5b"
+        width: 470
+        height: 246
 
 secured: "JD2uxCr7iEEmdMQnXIaG2U2t3VUXiTHTfm2e0uK6EhNaL+HEDA1pPnYG/wOYh4XDu2v0AjeO1UzrxtMzhCsMVn179aSZdB0pmb3Y9TntkEn8sIkk8T2KPYnO59WDC2Pvfz5bQWqoe/S4GJX6sksm+AOmQOrZSiqrJPyQZG2eZMaX54gm2e0tsCMH3h1qPaDL4b9Anw+qSuXWJ6wkKhIhd02hWoFG6QvbsfczEIq3yctKGc3EB70xptUR3X7eiKdWM9/yqwN438HIdTI2kI6EzvEwSc+jD2hk40AtXAbISFgaxCXoJh/uyG24YyZ1S7/1XxuqRDutPP2qXXDqE5uR+0xwFvwUhPycv847vurioXtGHARy+zcuUDoPuhi15Z0ceporG1NvUMc+W30V6jDFEj/us6HmtMrLijizzV0Gm3dD4hMSy0CuapVLy2xyFAlejAPOQJi9t/UiuffopHLT2j0fA8rUNY4siXZoNKgAcec=;aStZyEMxqL40oBxvnllFZQ=="
 ---
