@@ -1,26 +1,30 @@
 ---
 category: news
 title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
-excerpt: "C3.ai, a leading innovator in enterprise AI software for accelerating digital transformation, announced plans to collaborate with"
+excerpt: "C3.ai's global customer experience and elevate sales performance using intelligent cloud technology.  As demand for enterprise-grade, AI applications continues to grow, so does the need for modern CRM tools to help businesses identify new leads,"
 publishedDateTime: 2020-04-27T16:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-301047370.html"
+webUrl: "https://www.marketwatch.com/press-release/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-2020-04-27"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 79
+heat: 89
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-    width: 2695
-    height: 1414
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
 
 related:
@@ -34,6 +38,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "qeN0Cd4n2qDRSXWYwIA+iVJQJQ/7IMWiimu+KzEyfhaxx8EV9kzVNSQTxaYbwGseO5a+3Z5dWonfzdsE0nzYlxD7rHhn6G+RZU2QT8uLBkEl9KQfQFDyuJtRC9lNF0T54kNrEhYpzf8giUtmf5IbTblIZQfwSBnL3Kcpo5AJNrzSsYBqQiLCPkvq4ERiW8WBY+2EOgPbKhczqGNwj4HsrFgcAxwAi0fgSL1B17dSCSDifNEjmEBAYTCGvAtUs2FWymU6Tuc1eeMyh15z9JcjL3Zt+PZ3tvuwumpnLXMEKwm0oY5hmBibrflJ+4sekFhjrb5qETKuRPE8/23Hq2asSecWc86iR9obI7DNTwwC+XLcBRnxIYio5eY0reqY4rToHm2o/rHoDP7QRwoQ/ErBwk/TDxn5UtwOwbDjPj9RG17u2OR0BklDiDoNjgGm7VPq2mPCUXsECvex6RpzrMoBhOeKlNcH/vH8LDEKXEmQPvQ=;tyvfxXIPSZJx4iestzBqrw=="
+secured: "ZrCFv0dtmQMQJ7rUQ4ESB/QZgD8Nps4/fG5xRWMdngYxfCDf80goAWh9W+gb2FB9grGHcH+kT4Qg9V8zwGu639ZPkySgMaHpbYXW0lA7fNPBXLpgYSSnydCFbso7f6OdsZNpY2lwHVwsnAJmBxEFiKBMZn/V/DSiOzOVMomTmBcfciT/FzTEbvKD22Sn7L6450Iahj/Fe/YKZsaLfx27AhtC8i7RfvgEWWoM6ZDGbQXWWwDoPCYrwocIcRBC18D7jXZN789x/W3Y4f1/dMsT+liRbiKZg7WzYAsCXPvYPA8oYOtoCg5rpqGhVrRtq0wH;0bfCDJdt30LdXLUSMFzppw=="
 ---
 
