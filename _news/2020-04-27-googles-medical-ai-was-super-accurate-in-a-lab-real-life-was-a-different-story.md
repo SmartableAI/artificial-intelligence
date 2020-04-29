@@ -3,9 +3,9 @@ category: news
 title: "Google’s medical AI was super accurate in a lab. Real life was a different story."
 excerpt: "If AI is really going to make a difference to patients we need to know how it works when real humans get their hands on it, in real situations."
 publishedDateTime: 2020-04-27T17:46:00Z
-webUrl: "https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease/"
-ampWebUrl: "https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease/amp/"
-cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease/amp/"
+webUrl: "https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease"
+ampWebUrl: "https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease"
 type: article
 quality: 52
 heat: 52
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://wp.technologyreview.com/wp-content/uploads/2020/04/Right_eye_retina_web.jpg?w=1024"
-    width: 1024
-    height: 682
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2020/04/Right_eye_retina_web.jpg?resize=1200,600"
+    width: 1200
+    height: 600
     title: "Google’s medical AI was super accurate in a lab. Real life was a different story."
 
-secured: "OaaE76fThg7HtWQE0If1Gc4ixEcZJeYFrIQXB1hMzPBfgfAr2QI6bW3jcgOtcE26Uo5dSZPzeiFg8gjFxOdg4fbYvc5ZmcacDksfsWXOxnSoI3EC7o6BhhmjxR+iigIp6SIJi9pSvzn58Lb9J7uF5Qr9hM7xnWQzN1J92USZwn7q6N0/vQHwjm+q3kE24n4YkfjpIQUSUfb0j+1Ggqo0qg6VfZD6VWuhf17hUWBfOR7NhDm3HJ6E59zEDQF2vDehLVdwnBVZgQxlxo2oPsd2Hr75dPVxiIbic1S4PuKERCjO+GMvVN40QLy0xFAuzJGE;FjTN6X1TDQx7ePirf2HA/Q=="
+secured: "GwI3AveYBnIhgkgeyj8GV7s7BvRyrlGJBl+yC5Guf96W4IdnCCRL43JsD9vlmCv99wo8dS6Er9vjCV5SD8A+Lnl61An+V8C01WFNoUdXBdxltlP0g4HQPWDvSz12Ds4qY9zQYBz/tUDfv2nFzMgctOMSfJpdBKa8mJl+UzUS76ipk4d/9lfNN+kWj2XHeC8XG1ZvN8GgELKTaYKhu4/qFL42oDJyIOLNPd5Cgq0ezku0j8FFPo8xOEokjAaf2011inZ/Q03E1pM6v0vXW37ZDUfBnDZKdjy+2WK4p3IO1XTO9VtlE6xf3y3IzCvX61Uo;OdW4s++k3NDAzrnhJYoLOw=="
 ---
 

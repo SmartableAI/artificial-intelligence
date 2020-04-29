@@ -23,6 +23,6 @@ images:
     height: 449
     title: "Strategic nabs half mil from Feds for driverless vehicles R&D"
 
-secured: "BTCTdTOkDaZOvNUf7/nSW+T+8FJO+fPN7/WYkunyBjvCVg7F90VVGBdt6JrQnVSGm+e0irUNLqbaej/Qqep15p8dtcdTQGIf2ElvJExepxVGlxAJHVnbv+pu8phavR+5VA+RyX3akVrUYZ67vOsVaQ8sg9FpY+lcG4OqjG/VkXKB252N+hGqkeCTXYrrCvCcFf/yWa43WrtKX52gfdKllSnEQEO3W52dWZMyjqVsoCbpZxsZ8tE0CW571T5ZVGRnw678D120fqKRJyD/cd5AZ6GSYKJhqQiOY6SIVD9SbemuKx3+bDtU01slJNHJJjB0;q051ikCRLWsAtkFC6MaNoQ=="
+secured: "KW7v1w8K8124j+TdS/Yk7dKHTg+8gifUY5ySITiGqVsZoiJ4BThJ9HaFscNo+/7YjbppMZmfP7ZsrPHdaxrD8ewXwDmESlxLbzZfyeeJrEa/Wmh2TrxuOYTWyy9gPiCQYQyP2K2JHRFtKUjH2tsXPMTC8BGF3J3xuwHyK3f3g9/0MkNl+dEMcNdg3BVSCnfAnSq8ymT/iZ6ySM0ZSJsoUfj9G2do+bOLhuJCFtCziP4AQXicIPnWd/t7ll5hLIksVPOoinpSF9Ddj8uqUOl142Lix02zZAE3YLVhJWH8vCgnmAoBBc5d+Tv9iV5mBoEOGqEb1UvpBnMKtcyQmsml80GUY+ifnT/Amy+6Yq5bN7PAc6PsKQSfuq0nkkV+/MRh3/9zj/FYC8UQBsFg/IHmnZshXxYt9i/GwkWZ51ecr+k5oAy00WK7f5QURYN/N02AiqTq2THYhmQGU+pWXRXztkMPdi7jhqTejpz7gr2vcqw=;aypP0YLOzUeXhAmfDXdu3Q=="
 ---
 

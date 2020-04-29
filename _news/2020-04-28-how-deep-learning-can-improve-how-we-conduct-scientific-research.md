@@ -5,9 +5,9 @@ excerpt: "Whether we take it for granted or not, deep learning algorithms have b
 publishedDateTime: 2020-04-28T14:22:00Z
 webUrl: "https://thenextweb.com/syndication/2020/04/28/how-deep-learning-can-improve-how-we-conduct-scientific-research/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: The Next Web
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-33-796x417.jpg"

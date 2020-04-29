@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-29-ai-cant-solve-this-the-coronavirus-could-be-highlighting-just-how-overhyped-the-industry-is.md",
+      "title": "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is",
+      "excerpt": "Artificial intelligence has been hailed as a monumental technology that will change the world, but coronavirus is showing that it is still in its infancy.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
+      "publishedDateTime": "2020-04-28T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
+          "width": 3999,
+          "height": 2666,
+          "title": "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026.md",
+      "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
+      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026-2020-04-29",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-uk-start-ups-have-raised-825-million-during-virus-lockdown-but-less-deals-are-being-made.md",
       "title": "UK start-ups have raised $825 million during virus lockdown, but less deals are being made",
       "excerpt": "Funding into U.K. start-ups has soared by 34% as investors look to ensure their bets stay afloat during the coronavirus pandemic.",
@@ -442,6 +531,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-28-forwardx-robotics-captures-15m-in-series-b.md",
+      "title": "ForwardX Robotics captures $15M in Series B",
+      "excerpt": "The Beijing provider of intelligent warehousing robots – and maker of a famous, AI-powered suitcase – continues its North American expansion.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.freightwaves.com/news/forwardrobotics-raises-%2415m",
+      "ampWebUrl": "https://www.freightwaves.com/news/forwardrobotics-raises-%2415m/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/forwardrobotics-raises-%2415m/amp",
+      "publishedDateTime": "2020-04-28T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/04/ForwardX-1.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": "ForwardX Robotics captures $15M in Series B",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025.md",
       "title": "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025",
       "excerpt": "Market Study Report LLC has added a new report on Artificial Intelligence (AI) Chips market that provides a comprehensive review",
@@ -617,6 +743,52 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-how-deep-learning-can-improve-how-we-conduct-scientific-research.md",
+      "title": "How deep learning can improve how we conduct scientific research",
+      "excerpt": "Whether we take it for granted or not, deep learning algorithms have become an inseparable part of our daily lives. Personalized feeds, face and voice recognition, web search, smart speakers, digital assistants,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/syndication/2020/04/28/how-deep-learning-can-improve-how-we-conduct-scientific-research/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-33-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "How deep learning can improve how we conduct scientific research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1100,7 +1272,7 @@
       "path": "_news/2020-04-28-computer-vision-market-2020-top-manufactures-growth-opportunities-and-investment-feasibility-2029.md",
       "title": "Computer Vision Market 2020 Top Manufactures, Growth Opportunities and Investment Feasibility 2029",
       "excerpt": "The latest report pertaining to Global Computer Vision Market on the basis of qualitative and quantitative assessment is one of the most comprehensive and important additions to Market.us archive of market research studies with the primary aim to providing accurate market data and useful recommendations so that players can achieve strong growth in the future.",
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-top-manufactures-growth-opportunities-and-investment-feasibility-2029-2020-04-28",
@@ -1138,185 +1310,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-artificial-intelligence-and-the-evolving-role-of-the-cio.md",
-      "title": "Artificial Intelligence And The Evolving Role Of The CIO",
-      "excerpt": "How does any company with a passion for user experience express artificial intelligence in a world where the very concept can be seen as creepy, helpful and every other opinion in the middle? As a CIO of any company, how do you live and breathe the mantra of an exemplary, customized experience coupled with sensitivity? Find The Emotion Behind ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/artificial-intelligence-and-the-evolving-role-of-the-cio/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/artificial-intelligence-and-the-evolving-role-of-the-cio/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/28/artificial-intelligence-and-the-evolving-role-of-the-cio/amp/",
-      "publishedDateTime": "2020-04-28T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-20-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Artificial Intelligence And The Evolving Role Of The CIO",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-throughput-incs-elite-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to ELITE to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. SAN FRANCISCO,",
-      "heat": 108,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/throughput-incs-elite-now-available-in-the-microsoft-azure-marketplace-2020-04-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-waymo-keeps-autonomous-driving-simulations-running-as-cars-stay-parked.md",
-      "title": "Waymo keeps autonomous driving simulations running as cars stay parked",
-      "excerpt": "Waymo is continuing to run autonomous driving simulations as its fleet of test cars and trucks remains parked due to the ongoing coronavirus pandemic.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-simulations-continue-despite-coronavirus/",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-simulations-continue-despite-coronavirus/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-car-simulations-continue-despite-coronavirus/?amp",
-      "publishedDateTime": "2020-04-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/chandler_depot-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Waymo keeps autonomous driving simulations running as cars stay parked",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-shanghai-shares-fall-before-earnings-blue-chips-start-ups-climb-on-reform.md",
-      "title": "Shanghai shares fall before earnings; blue-chips, start-ups climb on reform",
-      "excerpt": "CSI300 adds 0.7%, Chinext up 0.6% but Shanghai slides 0.2% * Start-up board reform positive for A-shares - Morgan Stanley * Banks to report earnings; regulator warns on wealth p",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/china-stocks-close-idUSAZN00B8AI",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSAZN00B8AI",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSAZN00B8AI",
-      "publishedDateTime": "2020-04-28T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Shanghai shares fall before earnings; blue-chips, start-ups climb on reform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

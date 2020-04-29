@@ -20,6 +20,6 @@ images:
     height: 1079
     title: "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever"
 
-secured: "XMPpvzKruEgbhKoUcpTaFYAn++0PZtJgpFa3npFg7rVED82ZxMUoZ0j/4+mxVkutFy9zUkNLUROdWA1wZocXzn2de9FpqvwbOHv/7bEffaFE3Uz8C/pVhsS2nm3R+9H2IML115i7J0nsLJRPJozkauycgUVuiQVeZOIX/fd09a5gtJ/rpXgmtOihiL1aq+oZWks2kBOJdyZ0yp0HLYw3laxPADwjS9dENb0ixrQHrT2PBbSuJgHOh7AhjYeUfodD3vsWnuQCpOtmxDNknJwEsrZFAsMCn/AoGOYYmx11ExFeYkGLbXYpUPpbYHHZwiaG;WGBteuBYK2971eMGMpCPog=="
+secured: "AxA3WuWjV9EhnzvUE50DozVRfMDURj9WCdyI5glHtERgJOi8N31YU6F3DKYXo26JccslZ3nUdGqIONav9yJMO/XxMYpXzR92W2T4gtB7yCcc/BPs+sr6MZHfPDxzDQvSF4mgdDuk/pf+xQIqv6aruUjDKUcn2C8FLEy68ICEkBfhxh1UVFDGAPSAXweVjTn87keIZd7MbwqtPvtQEf3iHpZeM8xLYcFHcLQzHMrhdfAwICv1MSI4o0AStvAy1OR1QPMpHICKfb3zZ9OEQJsu81W1TdQb2Wxt0qxzNdRwwOb2zG0m+ic8X8j0KgxFxcm0;kDtxgT2i4cPGVdiHpwH47Q=="
 ---
 
