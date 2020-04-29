@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelle
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Audi abandons self-driving plans for current flagship"
 
 related:
+  - title: "Ford delays self-driving taxis to 2022"
+    excerpt: "Ford is putting the future of autonomous driving on hold until 2022 as it grapples with the COVID-19 pandemic."
+    publishedDateTime: 2020-04-28T23:26:00Z
+    webUrl: "https://www.engadget.com/ford-delays-self-driving-taxis-to-2022-231030762.html"
+    ampWebUrl: "https://www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffaaa14f0-899e-11ea-afdf-5a87c7809954&client=amp-blogside-v2&signature=0b6f392a8bccfb903035225147ea3a24dd7fe351"
+        width: 600
+        height: 350
   - title: "Tesla is working on pay-as-you-go subscription to its self-driving package"
     excerpt: "Tesla is working on a pay-as-you-go subscription to its “Full Self-Driving Capability” package in order to make its features more accessible. There are several things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry and tech companies developing the technology."
     publishedDateTime: 2020-04-28T15:52:00Z

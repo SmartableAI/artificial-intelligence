@@ -39,6 +39,21 @@ related:
       - url: "https://scdn.slashgear.com/wp-content/uploads/2020/04/audi-traffic-assist-pilot-1.jpg"
         width: 1680
         height: 1120
+  - title: "Ford delays self-driving taxis to 2022"
+    excerpt: "Ford is putting the future of autonomous driving on hold until 2022 as it grapples with the COVID-19 pandemic."
+    publishedDateTime: 2020-04-28T23:26:00Z
+    webUrl: "https://www.engadget.com/ford-delays-self-driving-taxis-to-2022-231030762.html"
+    ampWebUrl: "https://www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffaaa14f0-899e-11ea-afdf-5a87c7809954&client=amp-blogside-v2&signature=0b6f392a8bccfb903035225147ea3a24dd7fe351"
+        width: 600
+        height: 350
 
 secured: "iNq+tzs9NAO/2+VwMDdEUInB9tWbcUc6+iwX4+IOvhflNal3yLe2bi+OJBtvvEuli41NTsGxBYuKv5gXjcxwTxkNYkbMAuS19PvErevEhY7bM5VBTXVHgUzygqnmHpqkpZG0wBajGfO2V8fV43LRKcyTo91wPgnALObBrtgAFkjsQ8sQhYWftUmSrUZjUVwqiK5hkWavdkMNpwU43tjxa2BDwQn0LIam6+kreTQ81YhjLPsOof7HtmfgflYffDNfWW9KY/j1dlB49JGtbiOpNgCX1Cd28O5MEhSHAx4gaKrSje+mfXqA2CI/jd5FXEwNam/4Pl6ndzP+qvQyXAUKjf5fhXNgSO7uxf2c6FuvPTCWBFXmchn0o3rK8cJBfokLDipMi1RI+Jc1gfLKWEoGK3Qi7hdmaSQLs1ZBseH2HRChKirsLPPktfxWagi8gmlyORiI7SPJ96kNS7wjyTNwua3xvgmqspqmOyf1znMqgvU=;GDEKroMWCyGRD8z48eIe6w=="
 ---

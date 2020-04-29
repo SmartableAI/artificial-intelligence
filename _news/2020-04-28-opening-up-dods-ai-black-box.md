@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Opening up DOD's AI black box"
-excerpt: "As algorithms and other AI tools become more prominent to military operations, researchers are studying better ways to visualize and communicate their decision-making."
+excerpt: "Ramping up the technology while finding the appropriate balance in human/machine decision-making will require additional advances in ethics, testing and evaluation, training, education, products and user interface, Mulchandani said. \"Dealing with AI is a completely different beast in terms of even decision support, let alone automation and ..."
 publishedDateTime: 2020-04-28T16:10:00Z
-webUrl: "https://fcw.com/articles/2020/04/28/dod-ai-black-box-johnson.aspx"
+webUrl: "https://fcw.com/articles/dod-ai-black-box-johnson.aspx"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/machinelearning.png"
-    width: 760
-    height: 368
-    title: "Opening up DOD's AI black box"
-
-secured: "lMX+u3/KXKKtFNE/NlpC1lQEnLVrBBHzD347vfI/MwNQsWe8XgAJCcyscNUX64ze2II/WFrdLc5/LbIPQUvbEpnLTDzmxz1HsI6i9W7rqLnR/SzQVou+Qpe97cnSHgO/OiBkp+BLLMQiMhvqb4iuU4VrINOb44CSQZc2z+g21qRIBhyX65MMqgOv/pRBHCpwHNBBGzXb0fPu20o+gm9HwZ1DHBgCvRN1JQtEZkhos2/ldNVHtWyHWuFlDuYLFZL0VGV+QERkIo0wcPIJgro5qBrM2ai/1gDPWhuf7RGuEhfFprHqJlNckKnBZjPqlVEe;VjOHqaVxRoluG22Opz0p4Q=="
+secured: "c3mNKH0G5aNJm5Twn9egl/XaAUdD44DtdhE4ifQPfeOhwuasnJ4jcZRRcrgEDdlq5PtrFqNoH+TB9woVW9TfVa045XcSs47hM4iG6nbTfdcSTpjT8hB+ncmXK6rhHsdnLPxNbXUiS4hN5ed3gE5GZ29sjzJmY+dnRdruoHiT2RXGal8pTgG4Ui5lnNerRVnVMr66UL6ANdJ6Wzeh+WjCP/r4QOg9B615NJ7e/mxfOOOZgzoG931+TGE/Z51lHkONEHkO9h91o15B1pKXcKDUkSua2j9T+YLQy13hJ/V6KPpXLXOpPJ0ThpLxdRYCYMF+JHFkCWBcI+aQooiy3Vhd812iOb9w6HfCmkiv6ckSuTqL4RZz4kUZRQL/Aa3r8+z6zHtpKcsUf8tdVInwF04Oq58HT2m/gpob8K2U7GQFhncSU6jDJlxr83c8+kQG9ba7vdrQxnQyddn8b6H6aNkTzJ5z4gYNTYDfgAzUSGpjYvU=;1SjqP/PRLNJhlDVMW3BSRA=="
 ---
 

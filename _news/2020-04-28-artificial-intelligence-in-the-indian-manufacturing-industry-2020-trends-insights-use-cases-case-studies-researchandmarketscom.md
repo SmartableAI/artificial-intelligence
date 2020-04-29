@@ -5,7 +5,7 @@ excerpt: "The \"Artificial Intelligence in Indian Manufacturing Industry 2020\" 
 publishedDateTime: 2020-04-28T09:12:00Z
 webUrl: "https://www.businesswire.com/news/home/20200428005405/en/Artificial-Intelligence-Indian-Manufacturing-Industry-2020-Trends"
 type: article
-quality: 7
+quality: 9
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - IBM AI
 
 images:
   - url: "https://mms.businesswire.com/media/20200428005405/en/371054/23/ResearchAndMarkets_800px.jpg"
@@ -32,12 +33,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 77
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
 
-secured: "MSgwcr5WaWnBwUGW4cSAOxH9vop/AiKfaknSoQnGXiMRxn4UnvaDgy+/kW9CSdgTKANMSfGz1Tut+qZ6wUYQdTLOVtJJnkv7wtrDYszbX2d3Xz4vCYPG+8sJtlYX1CrQ8Ypps9cPm1gUZXrQI896UvtEAdJ2mQWqe9L9EnhcbDqHVAkoMEAdyveLGtEE8HjTBcYrflBRbk/XFwVOVF97h4dDZpE2hbPXQSVlU0H4X+17QCUJsSqamrvuhYafgML4NoMkjGMLhYPkLWHYhogtdO+GVE9MSpnoHfslxyftJ1XGfGK55aGRMgvP4tLTPdc9;h/P0NfYVB/X0B4XOj8n4YQ=="
+secured: "R7qDvbBD+DGtAa27cvEOlagYiQTiIiARypEhXB4PO+aYkvU3UsZMkOGyc29x4gf1avg6I75iBVtPVaifW+Kjlp/RK1qBNDrYBUrrgWXbmwiFExZsCcOWT7gI9l6witq0yOU+Eq3WaKGGN0mjMevcxzJnzzVnGD/TpdVSXxRHLtX95foel70/7Zn11D/+ZjPGfZrzzLzkt1Bu+mgHFAd7Qk90ABlqdHCV157PdTlkek6YF7/GFTW+66lTOl/hEXtEYy4NTiAEv2xrrcIA9byLXT1cv0UK6UXXj97SW4Wv4QgeQ5Wws3j2TzOX97mfQbp/lX+P1XQmeSWS2d+8yST4YGHRqJIW7ZSUC8KVUy5dxz/SL1CDP+zQUvgVyCzJE96WeY6zlWw3+Km9hkLUU6R673oHFeG65mmLLqEP7KsF90M0KhjmSf2YEXtTUsriDxGwDM64/Cfjj2hEX+z4FdnOcCf0HHmlJGVUYPQKKmHPQqo=;VdfX5SUqS3J8pIAssqOy0g=="
 ---
 

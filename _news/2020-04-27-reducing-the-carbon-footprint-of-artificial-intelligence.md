@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-27T14:23:00Z
 webUrl: "https://www.sciencedaily.com/releases/2020/04/200423143034.htm"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Science Daily
@@ -36,19 +36,6 @@ related:
       - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/04/New-system-could-reduce-the-carbon-footprint-of-artificial-intelligence.jpg"
         width: 800
         height: 520
-  - title: "Reducing AI’s carbon footprint"
-    excerpt: "we have to figure out how to shrink AI down to size.” “The model is really compact. I am very excited to see OFA can keep pushing the boundary of efficient deep learning on edge devices,” said Chuang Gan, a researcher at the MIT-IBM Watson AI Lab and co-author of the paper. “If rapid progress in AI is to continue, we need to reduce its ..."
-    publishedDateTime: 2020-04-24T07:03:00Z
-    webUrl: "https://www.controleng.com/articles/reducing-ais-carbon-footprint/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/04/CTL2004_WEB_IMG_MIT_EnergyEfficient_AI-Slider.jpg"
-        width: 645
-        height: 350
 
 secured: "M25/nn6zYPH6SCmeJCWVRQgUZkhHd4TGE4cVtr3A0NY1xJwVO7fZghSF851gs2GGU0H8KRzgzb++fI3z+fiJ8mX7rmoH9qLouZKXFuEIrfxx/3L03oBHfo5d+kmCt3a57ZRvz8y3g+UB4AsLAgHEX+D4oywb7MvaZkzWpKutHxXYenO8HPvpm9MKDdHPMaC5nrTvgKRqveIu0I1b8BkgWBhcAwU5ysc7VaKVBBn6SD2dJiDNU4oZodAdIubHGy18G3ykhw+ZAelBmUK3sphiTPuO1FVQFWPM9Ye/arbPbBqRfD930qKjyxC+rQXXQ0cl;zjMCueVlnV6RkMNNaB3NAA=="
 ---
