@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Google Reveals Self-Driving Tests Started In 2009"
-excerpt: "The idea of self-driving cars has been around for some time with recent testing on public roads approved by various governmental agencies. Now it turns out that some testing occurred even before the regulators were regulating."
+excerpt: "Google just released video footage from its archive of its first-generation Waymo Driver. \"Now, more than 10 years and billions of real-world and simulation miles later, we're releasing footage from our archive to share the remarkable progress made by the first generation Waymo Driver,"
 publishedDateTime: 2020-04-27T20:31:00Z
-webUrl: "https://www.mediapost.com/publications/article/350573/google-reveals-self-driving-tests-started-in-2009.html?edition=118171"
+webUrl: "https://www.mediapost.com/publications/article/350573/google-reveals-self-driving-tests-started-in-2009.html"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 375
     title: "Google Reveals Self-Driving Tests Started In 2009"
 
-secured: "jY86ZLBKRPFsPbbNpb+uhzu6jQ13Aaeawk8kBXmMu34lzKDWfIgn2I7tVKdjmc2beM5fv1//2LOj3EmaeZMxSZiaWs1F0eatEyNLKP/wE8PZBuF/fFCOGCK4sEOU2XnLZwmk4G7uqyqc/YsQ4rxMgnisPhRADVjfzA3WI4WURwgDhbKsyBbjql7heeqLRlB/bq16OHFlU32i52SrVL/n0kuV+ke73U8r+EnGJbpL6/kO7rvUVBzaQSujtxGPTAkg0oBOozi+rgFmFzCbZu2GJ5KaGnMSf0jM0lDQl3h8oYzIUwT3DH32h2jXHC50M2z2Q5FMEjEdyU2eFu0UcSZOwMNV11gEEvjhW21Np0X2ntDRe7Lofa9HwCPkI2M7bMf45wqOkYAc3d89o/pCyagObZKWZV3NlBIoWSwCqE+LXeilXplLppf0itZgNR5Ezbh1IjRpzNd7vgBCVO8+csFjBExbiqwzheVHhQSWQrabjTM=;Tu8aZfY/44uD5guWGEvbfg=="
+secured: "zK7re+rW9+ykGD7xVQyCTObccTFmlT9kuEh+fqofxy+4qYok2WbSMllp8XSTI2mGKUZovzsHnV3t71IGNgbtlwCTA6UwjUM8JXsiod+aWvRcwNNVicxVFKldCzv0byAGJqQraFoyNFdawr1p0YEEHYD+PLL/g1Bky4wbRkRZsqua0H1u43+EJWrhF7m4kv8ZG0YYpgKwbCJwapsGVZX1NW70OKFVsaog1151tYPCYHhi1YkHD0ohMoD+1CN71Xfxmjj4tMmuow0TfhCCOQIVUVU7rl/izOlUhTqjtN2YRl7KyBnJ2JvJ1SUvPmc8YWbH;4Q+a6USG9Q8HR2XQmGBpiQ=="
 ---
 
