@@ -23,6 +23,6 @@ images:
     height: 368
     title: "3 ways agile taught me to be a better leader"
 
-secured: "UrLZ/uxz7Rv+j1EuACHjYeqpFLxnjx+ECgG1fBHvB0e1Sa+AF/8Rnf7dAvAkhZLVj3QdyuoQUsQDo5ugbSWjz2PfedYA89Op+/tbzTdTuYdyA/V0nBHHGoYEprkE0MZ08NbZB3nw7506wBXA0DNoObKZjwbf1Vn2QAhz2/wZbrN2asEgwsKNhb3+/kC8pjhYs+YtISPSR5i/7ASQlIStRk1V6RZcWuu/sudSPf+e1FHZGcmSN/PqEakDMYwJ0EFazrIfUlGiy3w7LargEeWHTL+lCfro7gecTJKOjG1FmtYRrNEnLYEYTahEu1UxwBIH;i+HecZG4dFMoXpc2WVeP7Q=="
+secured: "opg5hlod6JR/D29RHkwljj/oBYP2NZTZ//JXdSniVa3JhF/IxPaOYswKYbKUHGmBHFHfwDxJOqavUi1cb2PP+gljas61hqezx5f1tPBBwHtX3elzbkdT6GeJm8MklPR5unWfiBOfk6cfzl693wO3rLEUBOHFC7jyAQIiBpxT3xLNPdWiAVHvuiPv2zBHQTo+KMw/QIl9hufBQOEbDBt09cT8YVUgu5X+2HTJZOJAmOqbmdy9Br2RCdp7NcySbK61pe0ftf6ONttKfzrIiYBEenFnfhAP0PihmQwrN+5oCFAGfbLbPgC0LrBZ3LqzIPBM9ai4162A2LhWPe7vtvs7T1y2QvMKFE5dIzjNA5H/5YFyJSa7yLjAC0g3kS3cEtogOcMnPcKuBQd12bj6qqy3Q32llmY3d/NwJ9mIpqMUiVJ1OnfVewhK+k7vygkai0zPg/I0u53RNBYdYvam5scSQvSl6OsLRzFmrSWSwK7dzKg=;/5ooMTZXpyu479bqvwTxNg=="
 ---
 

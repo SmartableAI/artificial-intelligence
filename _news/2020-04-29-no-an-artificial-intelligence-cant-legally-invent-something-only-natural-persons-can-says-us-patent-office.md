@@ -28,6 +28,6 @@ images:
     height: 600
     title: "No, an artificial intelligence can't legally invent something — only 'natural persons' can, says US patent office"
 
-secured: "DM0nG2pWZvQFh/bFW5jkkzZypCPh1gA0VFzLyyCTYaitQAKkJxU/fwaCVqKCuhSQe0jvKybvQrcp7rl4kF9BXptVLuFKn2xErz5UpvccYTK0WvX40eIwuxiE4lNGdGMN9/yDI2h33/S5KVQ1LpO2Ac+bJdWyRiNgyYJrbps+4YkaSp03CfeppKAgSzkewFa+M8ZY/gTKGeJQuzdNW3BkJkiUoSbSAwK6gKfQaKogGRrnvnD9dLKG+8Fcai/MHiiVntWuPBTKNQ4LC8rRT38wX4GYuP9+UoKg9tu+ngrHfqxuxKc6CSHfd57YWxCrXkkp;3V33LxodL+Rd4+sutoforQ=="
+secured: "5gnocMvp9eB+7luqnVXRE6VWxYu34uC00u4Y1cGZj4t7sb41m3KMpDmjEjWY33zhnru0tS88JIkQKHdMhBexS+ooSbQOdowxfI0U1l6dMxCWtrYUCEi89iFW/GxgNSR8DuaLH8aWfdBrtj7W0H2c2OLXMW7u7hieGQSt8OAR4vDJboUqXHlzP8aqsNFjYzOl99BCpjRk/lqLSkcc4PgUYaLKEoOgMz7lXsD9mIYDupl+uxzVsVkaj775TcG31FKPtKrc2E0BDtf+otIiG915qDPMg2y3ZRFWBCbyGmw6OzFjRFi/caeWzln6tW75aQivvTGM1/YT4MPDZVx0q/iPRJr9DVKUN6qrVBxmlCm79+VzYTxQDhCEwl4os/W5W54Gpbgls436c8BDMWZWhVRhpUjRD1psLBDybGQE/LPiQ7YUTMEkcubp2LiVnY+CRbKpENRZhavIo0EU3z+2Z937wBO84/vsHCVblGwcMImfVHk=;2CwSJ447flr5Dtd1F/1cBg=="
 ---
 

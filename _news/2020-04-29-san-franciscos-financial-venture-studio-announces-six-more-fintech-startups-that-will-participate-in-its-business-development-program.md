@@ -25,6 +25,6 @@ images:
     height: 653
     title: "San Francisco’s Financial Venture Studio Announces Six More Fintech Startups that will Participate in its Business Development Program"
 
-secured: "/9RA5WoQI32jH7LMBwhbtC8APrwQ3tSSkvLLMysG4QbDCwHeYEUdC/EQpylXDxpBmbnleRS15Abq5vh4zTWXzYlcV1K2yN+ic1qpQTtQw5g6gZxiwmbUyOzaGSsXGv3Uxwb8ghYl7sGPyy62ZN8ikOzEytJo9qkzdcvNGg4LLtyPOgEyZmjtP6J5LJXT/fZ6iiILulr1Z9O8G8dyA3t/vws5/2ShKdqyLpsfQPgUbfq5xr0ced/qLlw90lbo0yPpDEpK1G/4ERP1g8TnNDNBsRxZjwderLRTe8o4/wVv9cpjLL3lV5erbFt7tYU4V7M/;hXpKIE00PFovkg/Ilf77ww=="
+secured: "Vl5Wd902VClgw5THQGU6wc+NqA3EGx3bS/0qK0IhrzQJktkcTmg38ucQjS+gBEtqYOmuU5w3UT32mVr9+doD5V9+8D/eg5pWTt2k8P9HxXhlV7GNxtgFEopr2/qOQp/h5CZv8hXtjlbNDv/78vKvQecJ9qKMFs5bRrBQN2VIrsLwWLcsM61rxY/JQX4KOxuJxXblzj36jzUOc1T23SHEOyxsudQK9jZ3gvzdDFPazOW+y3FWzYCuXoGJDFKfXZKVKFWStQ8et13kESJ2EX8mh9CEvyvcFvWuGH0VVwy46VWYA+sxeQtA4wGQ+P60mufn/W3jxGlW/46dbMjERhwauGoOHJ/cImweT4zHuTpC+7933Wy85mvkGo4CBoVFPAnsto+8tDAy+pgwPDNU7dZX+a5NomY3mvgXFN8/dJg4hcz/7XOsc75Z+8xQWve+fMcAHYaXZvz068iF7EGfPIMEuxQBiqyrAgqLuZ2Zgq1PPcQ=;Zptm0SZcoepdM3jFNkJozQ=="
 ---
 

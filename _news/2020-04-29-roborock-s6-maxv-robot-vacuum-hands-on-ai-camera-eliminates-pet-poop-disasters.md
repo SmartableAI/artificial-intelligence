@@ -7,9 +7,9 @@ webUrl: "https://www.zdnet.com/product/roborock-s6-maxv-robot-vacuum/"
 ampWebUrl: "https://www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/"
 type: article
-quality: 83
-heat: -1
-published: false
+quality: 85
+heat: 95
+published: true
 
 provider:
   name: ZDNet
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/29/c6bf9a20-fbd2-4936-a1ca-bec926067d2e/resize/1200x900/32bb8dd0f8fd50e98ba8b741c9011d30/roborock-s6-maxv-robot-vacuum-eileen-brown-zdnet.png"
@@ -41,6 +42,6 @@ related:
       domain: digitaltrends.com
     quality: 84
 
-secured: "WhBI/nzAtWScr7RBjvUeGtjKoHwFlfEcsh7OqwKPwCK8N96r5iMZt5LV7XfC6vSPp+7vvXX2Lr1PH4vdFPmGSOskpeg2WYwCo6kfk/beDD/A1guh3/6hS/tBHGKCkSZe1NTEjPmwnot5REA3vd/4IQ9QDS/dmv7Es+k+Ov5ykfIUH1V4aOTom6uY7VHecaqoRJQY6Kbk8Jb9vTly7cigpJVwfOhSNBwgENIBW8n/aWZin58quHbzcu0toJr8GSnyR+iebXF1aOlqJNqS/IVpPts6iTgOID+g8UkbVTRUghoLdJA4RyaoTTC4e2Fmz433;FzV5AyRt+8PIJNxavCxpQA=="
+secured: "2FMv9rj8o2zDuyVh8jDR09VGEGcdRsUChy+ZoNMyrZLBWSdasZCAdDdTXvsYGF7Wbs3WcvI90zXu9SMTba1rXLiimOnDB1QEPcYt4D5CGHmnkD+8oeRh0AVuo/JqMuAkXhfJIavVySuqa6agglw58KsYQs3B/iUhmKNKgPzK2wxBJp/dulrG/O3jbxcu/+sS+r2gbNrS5bWhE5jTkP91RDlluU+arXDV0v0NU0uHLqmve7zoq337OBbckWWUm0A7kELHprhPH35Su4rVwXT+oKNiLz5oSMlVzRQ+HXsL99pQPBxrZC7mzMlzHK3pI1/KKl3UTqlTNydGm+4G7EMQ84MbYoA+S96JsCQMzEbVzNg+zsbNJ5pcx19OLLBgwTAbZw8phnjPtH3KeAmaj3et/WwgPAA6B5SRoGOEwnYt/paKsCIisQ7CMnAHb8PDpm8Tgp+iEiaAoB0ClqvpSFdhw5FgHiVyIShVzOD0yvjLi78=;CzUHsU+tPj1yg6oXH2FgRg=="
 ---
 

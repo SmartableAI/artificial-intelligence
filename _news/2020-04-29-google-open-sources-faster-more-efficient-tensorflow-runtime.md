@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-effi
 ampWebUrl: "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all"

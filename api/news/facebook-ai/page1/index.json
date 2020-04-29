@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-04-29-facebook-open-sources-blender-a-chatbot-people-say-feels-more-human.md",
-      "title": "Facebook open-sources Blender, a chatbot people say ‘feels more human’",
-      "excerpt": "Facebook's open source Blender chatbot framework achieved state-of-the-art results compared with Google's latest Meena model.",
-      "heat": 84,
+      "path": "_news/2020-04-29-facebooks-teaching-ai-to-lie-like-a-human.md",
+      "title": "Facebook’s teaching AI to lie like a human",
+      "excerpt": "Because, essentially, what Facebook‘s done is taught Blender’s chatbots to lie moderately better than everyone else’s. Today we’re announcing that Facebook AI has built and open-sourced Blender, the largest-ever open-domain chatbot.",
+      "heat": 109,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/amp/",
-      "publishedDateTime": "2020-04-29T08:03:00-07:00",
+      "webUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
+      "publishedDateTime": "2020-04-29T13:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +30,10 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook open-sources Blender, a chatbot people say ‘feels more human’",
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Facebook’s teaching AI to lie like a human",
           "attribution": null
         }
       ],

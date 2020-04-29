@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ford-robotaxi-self-driving-flee
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Ford delays the launch of its self-driving robotaxi service until 2022"
 
 related:
+  - title: "Ford Postpones Self-Driving Vehicle Service Until 2022"
+    excerpt: "The global pandemic is taking its toll on development of self-driving vehicles. Ford is now pushing the launch of its self-driving services to 2022, the company said Tuesday in its quarterly earnings report."
+    publishedDateTime: 2020-04-29T21:38:00Z
+    webUrl: "https://www.mediapost.com/publications/article/350712/ford-postpones-self-driving-vehicle-service-until.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
+    images:
+      - url: "https://s3.amazonaws.com:443/media.mediapost.com/dam/cropped/2020/04/29/fordautonomic_T7gy3Wf.jpg"
+        width: 600
+        height: 375
   - title: "Ford pushes back launch of first self-driving service to 2022"
     excerpt: "Ford announced Tuesday during its first quarter financial results presentation that the launch of its first service involving self-driving cars will be pushed back from 2021 to 2022. The automaker blamed the Covid-19 coronavirus pandemic,"
     publishedDateTime: 2020-04-29T17:00:00Z
