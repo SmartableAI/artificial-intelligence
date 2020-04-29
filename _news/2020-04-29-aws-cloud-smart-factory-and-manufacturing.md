@@ -19,6 +19,21 @@ topics:
   - AWS AI
   - AI
 
+related:
+  - title: "AWS: smarter manufacturing with cloud and IoT technology"
+    excerpt: "With industrial IoT and Industry 4.0 revolutionising manufacturing, we look at AWS’ services that can help organisations drive value from this change.  Harnessing its own Amazon Web Services (AWS)  at its core,"
+    publishedDateTime: 2020-04-29T09:37:00Z
+    webUrl: "https://www.manufacturingglobal.com/technology/aws-smarter-manufacturing-cloud-and-iot-technology"
+    type: article
+    provider:
+      name: manufacturingglobal.com
+      domain: manufacturingglobal.com
+    quality: 39
+    images:
+      - url: "https://www.manufacturingglobal.com/sites/default/files/styles/slider_detail/public/topic/image/21743298_1406722539365107_4308832733562613967_n.png?itok=vGaW73Lx"
+        width: 778
+        height: 518
+
 secured: "92ywR8GrIbvS3g+D6tLeI68HW57f/XR3SHGk88ji/gXyi5xKUNKxWdoN0LHLlpdt8cBCYKJ9fVvF01TB4abOYztUxlFbysOylGAPUBDxkLuiN4DtiTAeeAYDPlggRVi1qRkkfuoP6FdN+d1WdWYsx8llv+Es0ArrfOHYjCSvhVtO54BzHx+FDQe9c2bL7PsuNurjhdnUrnqA9FZ7PPw8XQ0iwd5tAvy73fIQOx+K8iO1QufoKsoKtrPIbj2pFZs579AlN2EyIq8Nc3nQDgJu3L0W2axnJuYZD5cTcQdy5Tz6SCvwsNJDaCzwpMOeozia;1iOKzWEdoc39BuGEKE8qFg=="
 ---
 

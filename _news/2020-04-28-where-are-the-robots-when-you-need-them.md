@@ -23,6 +23,6 @@ images:
     height: 723
     title: "Where are the robots when you need them!"
 
-secured: "T+HheAUr7YpFIS32oMEDhmq8j3rCGXt5lnZ5ALw+Uh2uWEJX/puje84GZq3uwvLN4FTH5EybXsAOHX58a3vYtC/eLOWg5IPirW+4UGIBVIYKNSwMOpnM+Uj8K1A/3F3NadSkEYJyRWPkwz/muhkIfsD85KnIxf/3lU7LWmGS2dGNjDCGqbMxPKlPunOy2bkx/MVgqJEcumclHyKG0QYsnWclwsvSHrZAX6v6UA1Biqi8o9pn/abfziwFlT7QtmjAYvlDX04fqYWUlwI6Kw+3Q1K+i+0W6NQLfnOCiJGxmarFa1TmV4/5ZSipcSlWyPCu;X2IV3bcOCsDNtfoCrOF5VA=="
+secured: "s6wXR0/FEePt5HupnEFRpOOemZQwO0pdzPu2AQtTwY7WitprqGtH5XWZRqGxdKT2I+JlDqcTyCsGDzrIII/eLJxAAXdYRjmvmmY9j0yH3wCw4AYNftdfvF4YLockz7gPmd3j+2B1XwO/kyqkO2JuKZVIxBMWJg3vXo0bh2Lyg4PdAyiPHTemHA59fpoSjgdGoBgITOmk/wOboxt2F3AIn0JxlSw2vao9w4CkReD2l5kep3+YmzVHaSbXzBvb9UVBj8lUEjd43cuavfm6zcAlxEqFpkYVyF1KgAkk/iWBHcgvKuTlWnCBIZ/EOk0FQvoA6G3iG+asmD1Q45yKyHLNN+ZhOs/uuE+GAcWh25IUyMTblvIeIvYhrh6fcFoCEoJ/XG3zffurgQgtrsL4QejTRWwqizPkr7yNrzt2V+/O+QCswTMLLoKatXirJaQtDYvfP2537nB6WQbeo6XgAp7hzFY3F+caG3TbZ3Xmj4SbsiM=;O87V7st9fhXMu+873rNBPQ=="
 ---
 
