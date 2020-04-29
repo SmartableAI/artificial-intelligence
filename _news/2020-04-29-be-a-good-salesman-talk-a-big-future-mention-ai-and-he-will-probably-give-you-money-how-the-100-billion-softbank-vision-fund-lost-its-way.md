@@ -31,12 +31,12 @@ related:
   - title: "'Be a good salesman, talk a big future, mention AI, and he will probably give you money': How the Vision Fund lost its way."
     excerpt: "A profile of SoftBank founder and Vision Fund key man Masayoshi Son."
     publishedDateTime: 2020-04-28T21:46:00Z
-    webUrl: "https://www.businessinsider.com/how-softbank-founder-and-vision-fund-guru-masayoshi-son-lost-his-way-2020-4"
+    webUrl: "https://www.businessinsider.com/how-softbank-founder-and-vision-fund-guru-masayoshi-son-lost-his-way-2020-4?utmSource=twitter&utmContent=referral&utmTerm=topbar&referrer=twitter"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 43
     images:
       - url: "https://i.insider.com/5ea742f75bd7a52d9169c9ab?width=1200&format=jpeg"
         width: 1200

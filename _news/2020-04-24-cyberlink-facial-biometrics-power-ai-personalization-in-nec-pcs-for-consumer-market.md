@@ -23,17 +23,6 @@ images:
     height: 260
     title: "CyberLink facial biometrics power AI personalization in NEC PCs for consumer market"
 
-related:
-  - title: "The New Face of Biometrics"
-    excerpt: "Face Forensics has come out with a unique form of facial recognition called CorpseID. Taking the traditional facial recognition and enhancing its abilities, this software works in a unique way that is able to identify an individual no matter what the condition of their body may be. Since it is designed specifically to identify deceased or ..."
-    publishedDateTime: 2020-04-24T19:23:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/article/21128099/the-new-face-of-biometrics"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 4
-
 secured: "B1tOGoP6bwsevTHQxDYTRiSK/dMbTbfHThJx1YUAcmj7uO/OkC0owq1+UB8CB2XuwzdySL+dj/JhBn78kVi0ow4BhkVe0u/L1sbpbiFbF/QCB0D56+t97BO3aA1CwbrlkedNRCus9+qptSXpcGME+TyQbrqfiDC//S2VIfcEriPGSJCrj7E9pAwpUGNXcS/+ozNdxJ80Fgh9ifXS1rW6rQQpDmJT4QQxkUP8bz5p8BvEVVGb4nNnLNeYILVVVUghy2dF3SRttwoiT5MUGvR6+4TJ1MJzrlsJdsljn+PKZLKBu/ljzJfvHmpMBiH4ssi3GZFvFEg+u8HMMEwkNc6CPQmxLdXP7iudzN6ZK+1AMrMd4vt5kQddYXj95wiLVJRphqSnqVa+tO6mF/ifwQrqlo05htL14pXoFMZIuhdn8mzim1UxA/GGiRb2EV0PBp0cdF7qys2tgnCVhQIU4FC7Nvs6+sKZFBzcLWKjnTsapUk=;c7o3yrmVzFeKVls6i194sA=="
 ---
 

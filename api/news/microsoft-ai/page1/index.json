@@ -5,7 +5,7 @@
       "path": "_news/2020-04-29-microsoft-this-is-how-to-protect-your-machine-learning-applications.md",
       "title": "Microsoft: This is how to protect your machine-learning applications",
       "excerpt": "The models that drive our ML applications are incredibly complex, training neural networks on large data sets. But there's a big problem: they're hard to explain or understand. Why does a model parse a red blob with white text as a stop sign and not a soft drink advert?",
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
@@ -43,7 +43,9 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Google AI",
+        "Machine Learning"
       ]
     },
     {

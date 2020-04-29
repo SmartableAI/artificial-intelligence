@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-this-is-how-to-protect-y
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/"
 type: article
-quality: 89
-heat: 89
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Google AI
+  - Machine Learning
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg"
@@ -29,6 +31,6 @@ images:
     height: 675
     title: "Microsoft: This is how to protect your machine-learning applications"
 
-secured: "agPJRhpP4/JKJl20T5HEA/6aSkKUOll0zj5fBi/SXaTr/BHbx7qC0THjQh87XcgLbldajAetD8Oeqqe3vyffCuqFiXZw6CespLnSj8lcE58XaLUjex3Cw3EtcBkOGaQIj4B0CidZueTpBiHjTAYkrf3BYlVTXmqdsYaFsc/PFaVLI/coT7uVzs1HYJIB+VKShEmV9JjV4goxd+CytZYtFG+HJHCVNI0AKDl5oqn08ucLfOL66zicbeM8kaCuJnrtdpxB/k0nEqzVaq/BroFGDCKWEHoez3bfmjoVAviObmMKeHjus1PTQFJX3wuVaCe2;A3n7vuWIfxrc5OLqEasLvA=="
+secured: "bwTVusylHnd5xqfaTUxBar3a8J97Y1K80dAj//urSE2DZrvtXRb1xzVla1fnfPP2ub8943DU9cPWvYI8KNdakXU0h98euveRfQqKjU2fNbC8wVCNv7ZzDvtoOk/ZIZr4jWh+CS1XhiEFDsaOPRBV4aro5uyehMXuBjVI4gSRp35r34puHWY5FD961Oy+X8cgAvpMvUYGIOGhYNtoXUuRk2TzrBZUF3lLF0XDLQZ6eWY5IT7P41YgahDNJPPcQG4NAaWXG5plY+a/PqJkcG+w6zoUW0WsD6rBeUsvyAbRk0ylQJ5RClUj3zIEY4e11anEpPtFdsdcUm3AmS2aWV0MzTKHM/omhg3WMkosCPh7pC958Ox08/OoZX2CoucNKqzUVm3MgWSH0TsqihkYuSiA9eAMjP5QfxX0gccQFrUoAzfjtKBNiz7ogx4oQU8N8P9UDkLm6+eVHxRdjibad9uBv7QfrzvUVgo1dXgDfdttTZg=;CZRp6G5JF4r4a/JzU/oyfQ=="
 ---
 
