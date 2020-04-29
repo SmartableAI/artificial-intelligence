@@ -2,6 +2,51 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-09-nuro-will-start-self-driving-delivery-vehicle-services-in-california.md",
+      "title": "Nuro will start self-driving delivery vehicle services in California",
+      "excerpt": "Nuro to test its self-driving delivery car in the state, the company announced on Tuesday. Keep track of the coronavirus pandemic. Crucially, it could be a big step to show Nuro's strengths as the company said it can deliver groceries and supplies to areas stricken by the coronavirus pandemic.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "publishedDateTime": "2020-04-09T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gh9rCPWglLqLLnPkvD6PHLBo1B4=/2020/04/08/e348bb1c-3476-4cd5-9d9b-45f1c08c60c5/ogi-nuro.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Nuro will start self-driving delivery vehicle services in California",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-microsoft-google-strategic-layout-ai-field-wimi-hologram-cloud-nasdaqwimi-ai-algorithm-leading.md",
       "title": "Microsoft, Google Strategic Layout AI Field, Wimi Hologram Cloud (NASDAQ:WIMI) AI Algorithm Leading",
       "excerpt": "Although the U.S. is still the leader in absolute numbers, the number of AI related patent applications submitted by Chinese researchers has increased by nearly 200% in recent years. As a global Internet giant Microsoft company,",
@@ -301,6 +346,43 @@
         "Microsoft AI",
         "AI Hardware",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-orlando-police-end-test-of-amazons-real-time-facial-rekognition-system.md",
+      "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
+      "excerpt": "The city of Orlando, Fla., says it has ended a pilot program in which its police force used Amazon's real-time facial recognition — a system called \"Rekognition\" that had triggered complaints from rights and privacy groups when its use was revealed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "ampWebUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system?_amp=true",
+      "cdnAmpWebUrl": "https://www-wgbh-org.cdn.ampproject.org/c/s/www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system?_amp=true",
+      "publishedDateTime": "2020-04-09T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/3960d7c/2147483647/strip/true/crop/1289x703+0+11/resize/990x540!/format/jpg/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F31%2F05%2Ff38c541872ecbe4555d2826173f0%2Forlando-traffic-cam-wide-4d242769fd25bb799656278a22eeccd635957ace.jpg",
+          "width": 990,
+          "height": 540,
+          "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -976,96 +1058,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026",
-      "excerpt": "Market Study Report adds 2020-2026 Global Artificial Intelligence (AI) in Automotive report that offers an exhaustive coverage of",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak.md",
-      "title": "Robots Are Cleaning Grocery Store Floors During The Coronavirus Outbreak",
-      "excerpt": "The coronavirus outbreak has forced retailers to focus more on sanitation while they are struggling to restock shelves and hire more employees. Some grocery stores are turning to floor cleaning robots for additional help.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/",
-      "publishedDateTime": "2020-04-08T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e71b1b4aaaa0006eceb13%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3999",
-          "width": 1200,
-          "height": 800,
-          "title": "Robots Are Cleaning Grocery Store Floors During The Coronavirus Outbreak",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

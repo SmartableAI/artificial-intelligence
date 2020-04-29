@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-28-now-is-the-time-for-an-economic-stimulus-in-artificial-intelligence-or-the-us-could-fall-behind.md",
+      "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+      "excerpt": "Increasing research into AI will help the US economy recover from the coronavirus pandemic and better position it for the future.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "publishedDateTime": "2020-04-28T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea8575df242ab230e628669?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai.md",
       "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
       "excerpt": "Clevrer examines AI models ability to make logical conclusions about content in a video data set using a hybrid of deep learning and symbolic AI.",
@@ -741,6 +787,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-10-ignore-elon-musk-and-mark-zuckerbergs-war-over-killer-robots-the-real-challenge-is-already-here.md",
+      "title": "Ignore Elon Musk and Mark Zuckerberg's War Over Killer Robots, the Real Challenge Is Already Here",
+      "excerpt": "Tech giants Elon Musk and Mark Zuckeberg have been engaged in a very public, somewhat silly and self-indulgent battle over artificial intelligence ... he thinks the Facebook head just doesn ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/ignore-elon-musk-and-mark-zuckerbergs-war-over-killer-r-1797249927",
+      "ampWebUrl": "https://gizmodo.com/ignore-elon-musk-and-mark-zuckerbergs-war-over-killer-r-1797249927/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ignore-elon-musk-and-mark-zuckerbergs-war-over-killer-r-1797249927/amp",
+      "publishedDateTime": "2020-04-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/k068hm9apd1dbdpxluss.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Ignore Elon Musk and Mark Zuckerberg's War Over Killer Robots, the Real Challenge Is Already Here",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-how-microsoft-teams-will-use-ai-to-filter-out-typing-barking-and-other-noise-from-video-calls.md",
       "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
       "excerpt": "Last month, Microsoft announced that Teams, its competitor to Slack, Facebook’s Workplace, and Google’s Hangouts Chat ... But one feature, real-time noise suppression, stood out — Microsoft demoed how the AI minimized distracting background noise during a call. We’ve all been there. How many times have you asked someone to mute ...",
@@ -1203,96 +1294,6 @@
           "width": 1500,
           "height": 1001,
           "title": "The ‘godfathers of AI’ just won this year’s Turing Award",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds.md",
-      "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
-      "excerpt": "Many of the studies claiming AI outperforms doctors when interpreting medical images are poor quality and “arguably exaggerated,” according to new research. The researchers warn that overhyping the power of these systems could lead to “inappropriate care” that poses a risk to “millions of people.” [Read: Facebook wants to get into ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/amp/",
-      "publishedDateTime": "2020-03-26T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design39-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-googles-ai-helps-robots-navigate-around-humans-in-offices.md",
-      "title": "Google’s AI helps robots navigate around humans in offices",
-      "excerpt": "“Dealing with noise in robot state estimation will be another interesting future direction.” Google isn’t the only tech giant pursuing autonomous robot navigation research. Facebook recently released a simulator — AI Habitat — that can train AI agents embodying things like a home robot to operate in environments meant to mimic real ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/25/googles-ai-helps-robots-navigate-around-humans-in-offices/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/25/googles-ai-helps-robots-navigate-around-humans-in-offices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/googles-ai-helps-robots-navigate-around-humans-in-offices/amp/",
-      "publishedDateTime": "2020-03-25T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/dc841940-773e-4eac-b8e4-991a1d03d459-e1585147826530.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AI helps robots navigate around humans in offices",
           "attribution": null
         }
       ],
