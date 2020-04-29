@@ -23,6 +23,6 @@ images:
     height: 720
     title: "Dame Jayne-Anne Gadhia’s new fintech Snoop closes £3.2m funding round"
 
-secured: "XULv410xvt1OZHEj4wux+W78sq4lj6ymPY9IoDIOxF/EE59uAd/9XXMGlUC9LUkosrDlqHFpMwM7Fa/YVntcJaAEK8wdjL749ml/MUonKlfqYY+tlzeX7m2EXzBYYlnEhDc7Zlr5ZCRMWy4J9bvrWb17qhB2Rl9gvsTAwL1KRilDkEP9yjRmN2hqaLuZ+rwTVlmVRbMuX6w/HaxwN63GARP8mYuo1I55rEIFvfwTiAQktCnsHjLvI7qYQ+RBgoqc6E1fVZ3qzz4K39B9gi/9SOdB9KIKDVhpCuKqlBYjg3P/Pe8a/E5gM7T7ZmnP8wz3;soIIjUkyWl2YvcLtlrQ2iA=="
+secured: "Gu+4vT5pUQXRr/6NQxy4s/dycVBBiCsC6YiVApMMIBYYQMFpkzOzJE0AtXG1hv9sNhsSNr0wC0nevGqiujVaHeFeWKxSMiS+5vkMjfSQpWe2r9U6LxRJSsEE7obghhezUGAsdTiBLcpAa8c0myJtHRxBB2U/FXJK18o0C6vMjTbmLsSyUH/vO/WGgGhIhC/EvlixqEOV2ed2ReAyqrfMw5W3OQc5oRskFIqPTxRa7JfrVWPeVu72YfenpgcunCA4IsgN80amRrGFz8O+rdZPFj+ovU4Wzugpj3RXhp0E7vBGPUWiIvwsiHh2aUOvvzeU63gVJeZTpdEQCllY2pOKclArqtHd/Rb349j0yJwn/u3cDXLFaXEzimxQQsTCnYhKwzgZ7x6OD4IGBboQkJsOvWWQHoZarfCoicDNQa1lNoqu4mlDkz/CDdfMLYvQ/XISWhcVm+jCLUVkgx5fOXC1vQ+wsB8cBe0PNVq6pL7Ds6I=;jqsy57zY0jxMis//rX14ng=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "MIT devised a new automated AI system for training and running certain
 publishedDateTime: 2020-04-29T11:10:00Z
 webUrl: "https://www.analyticsinsight.net/new-mit-neural-network-architecture-may-reduce-carbon-footprint-ai/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/04/AI.png"

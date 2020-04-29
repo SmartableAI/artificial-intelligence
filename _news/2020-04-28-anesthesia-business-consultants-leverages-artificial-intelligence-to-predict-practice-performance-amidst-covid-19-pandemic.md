@@ -5,8 +5,8 @@ excerpt: "ABC’s artificial intelligence platform, F1RSTAI, evaluates patient o
 publishedDateTime: 2020-04-28T16:02:00Z
 webUrl: "https://www.businesswire.com/news/home/20200428005773/en/Anesthesia-Business-Consultants-Leverages-Artificial-Intelligence-Predict"
 type: article
-quality: 0
-heat: 0
+quality: 13
+heat: 13
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "NYVh8D0+Va7NISB62gH8YJEb/k5cejO3x6iJ4Vt1PNbVd6iGHxFTWLi4ancmn4snX7TzR3RCk/8OJfpHubw7VhnDlRZyOhAFyJT6iQwob7Zl3HJ1amoHzC0k13WTsWHy7SaCHs1OsuiSRIjDkDuEKXofjXl4pXBEN1npaNDF0CA7KB1YbZct1PxTQK9givKNx+i5Fwm2pngXAEaeesKjs7NesBF6GSaBb/aAnXjZctaVF7HixRh+WM7Cfw7vffFmz66kW7Hqrqsi75qHzuS6qGS1V1F8IqbX91FrRXtS+XIVwZJ4WMeRdlAoWrduhFrrwZ6YV2Nu8Bs4hO5/+fixLwrYobEPXEFh7rhmv04EqevESExY6t/h//BMjuLDJsPXdcJnbLgTgV32T8iWP+RKUQhauX8yvLGG/PiDxi8BSp5HB2j0EStNK1g98NM5AuTs6hQyERp1ZsZT7m6WJPfFgUkAfqgomYYqIr2fsRrijhc=;z4FD9olWpr3E4rv/8KlkKw=="
+images:
+  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
+    width: 600
+    height: 300
+    title: "Anesthesia Business Consultants Leverages Artificial Intelligence to Predict Practice Performance Amidst COVID-19 Pandemic"
+
+secured: "RqQBccbdTlXQXRGf3dLVpGD0eZjgNCeDpCrjO4qTJeNl7F7wS1BngAV/U5K69aW9Ilydj+IFwVQ1jl9DLA7kxO7/6nqo5hsKG0WFTuVcXHbLX/C657flS8EdP6rGz6ghukbHOAgGNqSiRslUjCoN0ctgsVPqbMxANBfCRpL1h0i6k48gLpCXVQ8PKv3jUlDEknBbESxv86nNW3VWVoVnY4/kRrBKnCC4JqqtfQIuH0v2C6GG4JL14LnoOXhdfmkuXNlbfYfAr2qatOlcwEF2BBgCyU2R9gOWl4YX1kZaTIHgWaqfn+pN7nnRc/35Gq2G;3AnPBfaaotmDqIT9Z+Jhfw=="
 ---
 

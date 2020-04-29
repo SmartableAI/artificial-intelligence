@@ -5,9 +5,6 @@ excerpt: "that allow machine learning predictions from Amazon Rekognition and Am
 publishedDateTime: 2020-04-24T17:27:00Z
 webUrl: "https://stockhouse.com/news/press-releases/2020/04/24/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence"
 type: article
-quality: 42
-heat: -1
-published: false
 
 provider:
   name: Stockhouse
@@ -17,21 +14,6 @@ topics:
   - AWS AI
   - AI
 
-related:
-  - title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence"
-    excerpt: "Amazon A2I makes it easier for developers to build and manage workflows to validate machine learning predictions with human reviewers Today, Amazon Web Service"
-    publishedDateTime: 2020-04-27T05:47:00Z
-    webUrl: "https://www.cxotoday.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 67
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/02/Amazon-campus-hyderabad.jpg"
-        width: 600
-        height: 450
-
-secured: "+YewerQrYXIdau8y8D/JcdvtslczsxL+EBmdBWgjraZWmnonDWw6Xxtu75LcbPcmefIy95nJIpMW+EubG4NJrpD9h/9nZh7/R4wIyFdgQZOf/3TJsccpUZheiaEhUPAc1zo6aP5JsOIf0CHJnjaimJq1UWKbb383PYd+SPvLcgeKXshrpq7oj7KJ9W1FxDo9rwqF0X13/cF4Q1IVKotEm/3RKnbvtKTaUynEeBHH01Izqv5M6o2KW2G2Oz0+JEsD3a3fZH+6x/vrQ0YraiQtCepNeDwW3S5/V9wt+cIXiwO6wj7mS4pCMMmQpwyygbNC;kHi+KkAFxPcKoQmZsQAmFA=="
+secured: "erMzsZ82r10Eyuq9QrdRuhJ5krBKbK1O4aMzaiN+C5hxYpdrPCnLOwWPVmNndKU1KnvuLfZNtmmtI90iaZJSpBwXY/RjR6yJVdYAi+1MvOCYLTcRrpSVLLNF3YWI/6IgYp07LCroHy5XAtCyppThxZpxXO0IpLz0xtCFxXcWohT+Nb4ssHR7VAa9jBefFSfebnuznJLMPtGc/UK6kgtJ7062clj3IbnpGp+Nx9GCZ+mNq4HIRkrKS5o37wIMVHYO3SwPz8tUwt16CAK8FPct/P48hhhXYjejd4vrxiEpfvw2EfCSa3E5kxJLQBn++tVj;aJ4ZX5DlFKuHz91cxlhojw=="
 ---
 
