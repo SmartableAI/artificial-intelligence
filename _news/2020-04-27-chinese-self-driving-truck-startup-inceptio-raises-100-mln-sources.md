@@ -48,6 +48,19 @@ related:
       - url: "https://www.autonews.com/s3/files/styles/800x600/public/Inceptio%20self-driving%20truck.jpg"
         width: 800
         height: 600
+  - title: "Chinese self-driving truck startup raises $100 million"
+    excerpt: "Inceptio Technology, a Chinese startup developing self-driving trucks, has raised $100 million to further develop its technology as well as begin commercial trials. The company is developing autonomous trucks in China to create a freight network that it plans to begin operating in 2022,"
+    publishedDateTime: 2020-04-29T12:56:00Z
+    webUrl: "https://insights.globalspec.com/article/14083/chinese-self-driving-truck-startup-raises-100-million"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://insights.globalspec.com/images/assets/083/14083/Inceptio.jpg"
+        width: 752
+        height: 446
 
 secured: "nLo8/GIDjaEXs++xyC6hCTkdhAIFmh85tCuT9JYYJQXc9gNSQtyySrd1aUrUyD34DYUMqg5L9FSvxZzvvMWrpXFTgzaf7gfuGEzNlcUkvt29um2eiz3FUfZqqW/KkAYHjsup/kvU0MCknRKMMRL6QgN3iTnF4j4F8Pll3idNV3oINfPYtwC4jGReRqVKhLWxLNOVOo8BG9C7sEuoMx/hBvq8MdWONu6hkizvHbSn0eXancFRWtliydMCagAz6bmR0z027oQSlnWMMjggbB0tP608cbWEiCZDblwzhzFJoVu+b+4/qgq2nDoEh0w8YnwOeS3GhJ/rmnDqfFgkSqxn3qTcpoq229tPcxu3PECRO7XBcxZrPTJN4hcMcM0eU7YTTdz9+Fl4eneyU64s8qpsc1xVmETfnJg2nbbpoDHGbuUSXrs1S422WjqrMELqkt7kSScf6TmXQFPdFxEiN7IQPAJHz1vd3Nhk5b62PWpQc+E=;FA8U2k+CvtrVeRhD26eQBQ=="
 ---

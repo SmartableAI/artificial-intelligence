@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-29-this-artificial-intelligences-absurdist-memes-are-funnier-than-what-most-real-humans-create.md",
+      "title": "This artificial intelligence's absurdist memes are funnier than what most real humans create",
+      "excerpt": "This Meme Does Not Exist can create new captions for some of the most popular meme templates at the click of your mouse.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/memes-artificial-intelligence-technology-deepfake-imgflip-meme-does-not-exist-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/memes-artificial-intelligence-technology-deepfake-imgflip-meme-does-not-exist-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/memes-artificial-intelligence-technology-deepfake-imgflip-meme-does-not-exist-2020-4?amp",
+      "publishedDateTime": "2020-04-29T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea98910a34b3c06461a5317?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "This artificial intelligence's absurdist memes are funnier than what most real humans create",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source.md",
+      "title": "Determined AI makes its machine learning infrastructure free and open source",
+      "excerpt": "Machine learning has quickly gone from niche field to crucial component of innumerable software stacks, but that doesn’t mean it’s easy. The tools needed to create and manage it are enterprise-grade and often enterprise-only — but Determined AI aims to make them more accessible than",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/amp/",
+      "publishedDateTime": "2020-04-29T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1031459542.jpg?w=1024",
+          "width": 1024,
+          "height": 660,
+          "title": "Determined AI makes its machine learning infrastructure free and open source",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-ruha-benjamin-on-deep-learning-computational-depth-without-sociological-depth-is-superficial-learning.md",
       "title": "Ruha Benjamin on deep learning: Computational depth without sociological depth is ‘superficial learning’",
       "excerpt": "Ruja Benjamin urged engineers to consider historic and sociological factors when building deep learning systems in her keynote address at ICLR.",
@@ -1221,97 +1311,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech.md",
-      "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
-      "excerpt": "Humans in the Loop is a social enterprise founded in 2017. It helps refugees from conflict zones like Syria, Iraq, and Afghanistan settle in the country by acquiring digital skills that they can use for working on artificial-intelligence and machine-learning-related projects. SEE: How to implement AI and machine learning (ZDNet special report ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
-      "publishedDateTime": "2020-04-21T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/27/5b741f04-5703-4a2a-b76b-d785d75d14d2/thumbnail/1200x675/e45cf779a0407789e919a9781db17a1f/istock-1130569495.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-system-on-a-chip-takes-iot-processing-to-the-edge.md",
-      "title": "System on a chip takes IoT processing to the edge",
-      "excerpt": "A system on a chip (SOC) combines hardware and software, including components like a graphical processing unit (GPU), a central processing unit (CPU ... the way a human brain does and then further \"smartened\" with artificial intelligence (AI) that is made for use in the consumer, automotive, and industrial markets, it adds even more edge ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
-      "publishedDateTime": "2020-04-20T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/20/437b3bb6-e65d-4d94-9edc-7ee2da524058/resize/1200x/276df09e3c2848680ab542597b4baf2b/istock-958956392.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "System on a chip takes IoT processing to the edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
