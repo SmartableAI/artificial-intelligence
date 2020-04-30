@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-30T11:30:00Z
 webUrl: "https://www.businesswire.com/news/home/20200430005192/en/Dascena-Announces-Publication-Prospective-Study-Evaluating-Effect"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     height: 627
     title: "Dascena Announces Publication of Prospective Study Evaluating Effect of its Machine Learning Algorithm on Severe Sepsis Prediction"
 
-secured: "55fB77+v+QRNlGmMTf6RBYk08xnENYl+xIU1+zo2zy1oLnsa6d5ZvbvWsSIhBpkfGvsXHiUXwvXXhJGtjZ56o7tFIyOleLHipPQhoekMVrBagGJcIvWuBCHDkArFv0xvHIQ4OCGmKgogvtKozqKLTH0R1FKf+OwcwHgerULigZXn8nHocU4sTLcbH5yTzcvrYIMzmJE6Q8fMdvb+gq1V5DBrNo9+AHDqe57XYHACnadzL4d1QOtXvvVxlLGmfHrk/NInoOIsI1NVeMcj8zyTWpz2eDxLd9Ynu5S5Y8lGdu0Hi3EPHc4tFkmeMKpplO8o;I6vW3r/B5ljsCR+0fo7T0A=="
+related:
+  - title: "liveProject: Manning Publications Launches a New Project-based Learning Platform"
+    excerpt: "Manning Publications announces the release of liveProject, an innovative learning product that builds practical skills by immersing"
+    publishedDateTime: 2020-04-30T16:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/liveproject-manning-publications-launches-a-new-project-based-learning-platform-301050379.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://i1.ytimg.com/vi/rcdk4ijp7SE/hqdefault.jpg"
+        width: 480
+        height: 360
+
+secured: "mkZS7qeOYocwzrXkT6/GAQeymAFoW5LhDjCYkvbPIDhhiijW9sj9ukxpXPxe7aebmfjrjtl/zcSX7O2JmAr9dkN7WerrTk1Q98jraS8akhhjin4IhZDlQTIfgyocQ6iCyZDpbe1TAke4H0zvfjCjFpMvqOtoJOJOBx4+LsrtGIamgN1A7XIr6Htw2J4c2GlR12HHuQGmj3fl4tOZvTXW7IH5C8NVy/t+jAHDLJ/+NK8rSlK/CgDjeoqddhiZjvsN4Kh4VnwVyySAf7vQLdYQJTaOdQiq+4P3oqzEiXD9eZGNO4Ae1JqX4ipCWHfYVMvUTP5WYitR5TzEUbwINLpjh1Rev/GwMAQLjIjAXQlsPE3PoqH5+MNG5iTvDvHmjGZ+ehlmVSgJYJNF+BRo9ltCYag27xYMPSzqMCiv6kMuSmh/JIbdghXsLmT240+xhD7itierWoIUa1kjN5bDZkHfEi3cfskVvrcJ4fVCj+JPClY=;8H+CIH6+wWnn4akstp8sdQ=="
 ---
 

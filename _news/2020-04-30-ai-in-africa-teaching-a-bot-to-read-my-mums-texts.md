@@ -7,7 +7,7 @@ webUrl: "https://www.bbc.co.uk/news/world-africa-52411797"
 ampWebUrl: "https://www.bbc.co.uk/news/amp/world-africa-52411797"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-africa-52411797"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FD69/production/_112037846_img_20180827_082945_171.jpg"
@@ -41,6 +42,6 @@ related:
         width: 1024
         height: 576
 
-secured: "lSac2bIQCALl7WI3dcuZAnCKL02sN4sC0c36xq1z3DTumLvxRdXANtTmmGSJYtSL0HU47HgcLGOCuKuuLXvvj+ktrlZmqZSohswDljlaKwekcFnWr0ZiyXrRVcToTl7kN9dq8J3CsEZoSBFNV1hBsCpNZWE1JwKXZ5CL1jvvN+aceBGwVi5ipdHQXXBjFcDSEObhZAsetdxYo2DouWx6JM4fsxq/Rq9IkT6wfZdxVHclM/kneNGrTMfU9yDa/6eEK4f3stw8IlyLMLk0+zhtzSmyRwpK1BJFrHKdCLfXVhQg041R1BFmmKa/46Hd2JOL;TasqWM2HlBzW+xW+wleTww=="
+secured: "4JLXoraEqgcSLQFvxe7pKc/mkHaIz3OH56jGd8S6Vb4nrDg58c6Linv+i/4dmtnGxU5iq8YX3yck0oDVcOSpTXAO8N90LKLgChXPAmdh9AOAjrLcBC1rCFAWuCkm9DXwhbMU4FMBdTXUxLT5s41FNkhEjU0lAF0lYnbeDCHrerXr62iJNkVxkI+B6WzftOUzlQAGCN8Izdtgii6esMZix/X/XUxKVxMBLIJWwCmoBEKITXdJrHW9Q7LTDRE4Dg4DFF2v1GcIrVFoKmR/QH/Qc9b6OCjwzf+Fl+kzY8r7nbAK3pbRjf+1g4DuytWeWANKem784nOmgXDnIE96a/Ol2Z/OzY7LaGV9Kb49Ty894Lf0UeW1ts8QLpYUuTVpp3GY0MaqDG+1Ml4wgyCib0zXwQ58UmNXA7SQx2gH51Oc4Uo0cS679p28dWyFwPabbrQ3JaAGuCgHZtpj67iXw2MVyW2C/yLgUIakwdUzlTiB3oE=;06xWlFhC6wT6463JdHMUaQ=="
 ---
 

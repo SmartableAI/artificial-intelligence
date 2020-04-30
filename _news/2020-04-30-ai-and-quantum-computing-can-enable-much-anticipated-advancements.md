@@ -5,8 +5,8 @@ excerpt: "IBM has leadership in both AI and Quantum Computing. It believes they 
 publishedDateTime: 2020-04-30T07:12:00Z
 webUrl: "https://www.analyticsinsight.net/ai-quantum-computing-can-enable-much-anticipated-advancements/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/04/Quantum-Computing.jpg"

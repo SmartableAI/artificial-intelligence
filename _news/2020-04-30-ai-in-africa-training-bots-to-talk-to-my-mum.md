@@ -39,12 +39,12 @@ related:
     provider:
       name: BBC
       domain: bbc.co.uk
-    quality: 57
+    quality: 59
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FD69/production/_112037846_img_20180827_082945_171.jpg"
         width: 1024
         height: 576
 
-secured: "qxaibFX+7fY8p7GVkJQCDmqm2UeLUroGM3kVYnJsR9w8i9Vem453AOpZM4fSVkg6UG8rO70H62kQv/b1G0k9Von6BYkkU58PR1Yk2d/u8Z+h5kjBQi4dq9U/8YomRCnTCCZcrApei1RPlQ4N9JK7qjzFmxlCLZ3tTJ94maC2XlhHc3ut7A7nNjC6KYmHsVpxMzWeKgxZyCwT2/xGI7WXRweBl/jGUjdfenNuxDz2aKpJ4F+XLkkAXxeGkd34EoyuFk9JjRTJMg81xWOxVW09u5+ozzEJFBf4bfzrohN5XqnFOvoN05RQ6C6kTMwKFT/b;WGbPsk8ROKSVuQDjQv52Yw=="
+secured: "KrPfyP0YjFif9kBzSN+gz/ZE5M1l+UVvO8XEoZvbS2S8o9cLNqkmS+OQF/1HOyDziJQnSeU4uYEMfCs3z8g3kcSOe0NlRbiWu20tY2cZskEwT8T948s1gt4kvvFETBvg3iaGsdadbI/N5oNzyvHlLB6iqKJ5xfcaFBpRgxn8XtlNc2bGO/WUQzwtLQYjcPbFqd4rKDO9g0xBzuYyMA4sYYIRpEKY4zaijzgYoqGBHHaK6T50n3N+lSLFfkHff2Qb8+j12UTR4H+8FANZQi+Mlj4Nr8T4pSsUGNDG05luL3a6E46ww+6KN2iLQIXDqjQGhp45+SLQQNek0Z/i/VOS7vOBVal3SuxYeh9ZMem35xc/Zt1nXPGrsoY8ixb54Bb5ADn/7h15sqLf97ETtEEbE5tg0YEs+N26ABzJz1CmvhB0+WOv8HT7zhwfBMwiseDyEv6DYKRlwN1GhOk/jgptaxU+0kXVvGpK45gt65lro/g=;HNWu4FwupxLuJ5Fh/dx7XQ=="
 ---
 

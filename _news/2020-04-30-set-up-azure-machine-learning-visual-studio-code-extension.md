@@ -5,8 +5,8 @@ excerpt: "Run a machine learning model training script in Azure Now that you hav
 publishedDateTime: 2020-04-30T15:19:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-setup-vscode-extension"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
