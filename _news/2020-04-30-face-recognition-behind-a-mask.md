@@ -3,12 +3,10 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "C18lzIaFQT8qVeBcob5TS6ng4to5Z2ORpcLMyoqToV32N/0/YZjMSohdE5reZ4QzOKRWjVw+0ymub53nSzoOqzQA7rnwOCjdDbsirPAsjldDzlPzrA0wyarlftQoD5J1cQjZ33WQdcyEWH6hxPVbsIrGfYQcH0m8DHWL6t2/lVYSDeQPMdMOBsUl8i5fGi8fQ8qvBK7rvXw11ryaasc8jcT46QpA7YUsP6D3BYNw+4qydkijakacyLcTzhn9HxOgXgcoHwtuqPzEI0uTEMpVJyzMDOgkFALbCcMfwPEAzXzmbj2fvoFF7dFSvJdjP15WPnZM8CQYQymmpCsRbXjlazVwQNSaH6BzaKVOyyn/lvwDTMRaEbj+WALKYIhr9wj5tOnS2nbgLEQBb9jLxNCHepjCGb99YqEwP9yjXUwt+iMuJF93Oxq7wS2aLjEpmZfnTpLAIuazF9wP0+pom01bS5F8aESmHD44PrLSvOEOiUM=;9aNKH1YHhiRFDnYIC3JJMw=="
+secured: "sjI/pFReYY6P1CZ3ngYs+KvZ/u0w64yB46H6dZDANzLUANiQcInPCgmiXTDKpypZr3GNMC5ntOEupWDR9OR3ZelnlxsRmaGEQ9h5AeXHnH5xm8b5hPlpkfcx8tZItNrfjMCBnXf6RIu33Pgf8pZtcG24PmvISO1Pf1gFhxeG/bceoae5HMRSdOLoUGU/jOuQmY9/LF+hlxcgjbA/cYTNZAvueLxHYbTuDR7wJPRdHPquKzuX32ppdMmx6bTfS3kI2q5HXa2fzdqE7Q3HYrM00RRfpwnfSiw1+bWrk276UuyB13CyonyUFxSJJekoEoa7Tu3+F8rQ8cS82i03VYecnmjuEGO9mGJxkWN+5y+VkHQUhtRpAdNgVSqErcEJsmpPmzRoOfd7MSf6iF7BOXDyolC2uznUeWIPWlG871YWRoWkK8JbDwhmGbuWhAg023zyXMSgjIdZxDB0YwCCYpVXo76SWaDdA3MjnPuwRv7c3B0=;O1H/HcLU4tiornzehi79TQ=="
 ---
 

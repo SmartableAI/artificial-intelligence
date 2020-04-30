@@ -23,6 +23,21 @@ images:
     height: 630
     title: "IUPUI launches new institute on artificial intelligence"
 
-secured: "p1WK9lzYsm3BY51CXf/0svGp85qUpYfdlKdw2++Cc8yZhjv1PwK5/4TLqPjfcvlvn0ojPTBTahxyBc9hHO9DcGgQkc1a9bS5Owh2atZQNhr0eGlJhsQ7he5aJmukPDEuCa/GUUeiXBwHnJhd5IBTCRZgOakeu7soj/BDzPYK+8UQ2EAHxk3Y2SabNS2BR6utWWDbijYlrfPuv+JH7xnlvw2SF9xxzZDPAfCktS4/wfH9uZhPImMv3fTfBYiZ37GurHGmOjfH4JeZMsFlbjEZbvAT+/FQTHGwcfdqvSyvnL8iap6Mxkk99dun6guBADzu;+C/8D3o3qrJ+rAWYXlU3Mw=="
+related:
+  - title: "IUPUI launching AI research institute"
+    excerpt: "IUPUI says it will launch a research institute that will focus on developing artificial intelligence technologies, programs and applications."
+    publishedDateTime: 2020-04-30T18:19:00Z
+    webUrl: "https://www.wishtv.com/news/inside-indiana-business/iupui-launching-ai-research-institute/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.wishtv.com/wp-content/uploads/2020/04/Shaiofen-Fang-IUPUI.jpg?fit=960%2C540&#038;ssl=1"
+        width: 960
+        height: 540
+
+secured: "mon0YoS6W/NxPx6tZjejGDbTA/alIQ9f7AQ8IVAF3wmkqvzEUEXp+Y6HTvGQcnaZP+mY1FFvOqugi0cVPWBs7KwSYlFIcDXx5s0RzykjKrb01MkV8CUNThtghJovoL4+a8P8ghscuv0XfBf7ANvtBNG7BD6Pb8hrannIsiwQxpjirJQQVKVKVUkZJwqMeU8zKZw7V0Ui6zjTDoaUMTFLe4W/VvldnSy+LfGEq/vs3iSw1f+2iLAuhez1wNzrzLXt43SYGnDx8zsSyIKhalOa95DmoOa9+EvW3uZ5drNTm8qtN3M3YcKnWzGfxL1yVMhXe7NhRltEEUCdVg2mJSYIsN3cAVlXGknjZr9NbZ2kj6ems+1qTKxBTTcbs08KMIpEkZ/gAu59z9NttA2Ng2qkja/m1knSR6yi53DHr5yLWJyPCZi2D0ygYxwW9fpkb+dImB60JeaGUIJQxDePAXcrGfFf0jlhOSe7gycyRdcwdCA=;MChAzTeb/ZkXpEQZO2mxOQ=="
 ---
 

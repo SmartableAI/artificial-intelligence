@@ -2,6 +2,183 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-29-salesforce-researchers-are-working-on-an-ai-economist-for-more-equitable-tax-policy.md",
+      "title": "Salesforce researchers are working on an AI economist for more equitable tax policy",
+      "excerpt": "Tax policy is surely a complex beast, and depending on your political leanings, you probably have some strong feelings about how it should be implemented. Salesforce AI researchers are trying to build a model to bring artificial intelligence to bear on what will undoubtedly always be a highly",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/29/salesforce-researchers-are-working-on-an-ai-economist-for-more-equitable-tax-policy/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/29/salesforce-researchers-are-working-on-an-ai-economist-for-more-equitable-tax-policy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/salesforce-researchers-are-working-on-an-ai-economist-for-more-equitable-tax-policy/amp/",
+      "publishedDateTime": "2020-04-29T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Salesforce-Logo.jpg?w=1024",
+          "width": 1024,
+          "height": 659,
+          "title": "Salesforce researchers are working on an AI economist for more equitable tax policy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-this-ai-driven-meme-generator-delivers-the-avant-garde-content-you-need.md",
+      "title": "This AI-driven meme generator delivers the avant-garde content you need",
+      "excerpt": "Are memes art? And are computers capabale of producing it? The answer is yes, because we've discovered this AI meme generator.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/amp/",
+      "publishedDateTime": "2020-04-29T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/header-image-neural-ai-meme-generator-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI-driven meme generator delivers the avant-garde content you need",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-quest-for-fusion-energy-may-be-advanced-by-artificial-intelligence-and-machine-learning.md",
+      "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
+      "excerpt": "Algorithms are increasingly being deployed to predict disruptions that could potentially occur during fusion experiments and may help turn the long-discussed energy source into reality, experts say.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868",
+      "ampWebUrl": "https://www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868?amp=1",
+      "publishedDateTime": "2020-04-29T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1585581/iter.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-rise-of-the-machines-aiml-in-endpoint-protection.md",
+      "title": "Rise Of The Machines: AI/ML In Endpoint Protection",
+      "excerpt": "While AI/ML is no panacea for cyber threats we all face today, the rise of the machines has given us a powerful advantage in the never-ending battle against hackers and cybercriminals.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/amp/",
+      "publishedDateTime": "2020-04-29T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-50-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Rise Of The Machines: AI/ML In Endpoint Protection",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-microsoft-this-is-how-to-protect-your-machine-learning-applications.md",
       "title": "Microsoft: This is how to protect your machine-learning applications",
       "excerpt": "The models that drive our ML applications are incredibly complex, training neural networks on large data sets. But there's a big problem: they're hard to explain or understand. Why does a model parse a red blob with white text as a stop sign and not a soft drink advert?",
@@ -922,172 +1099,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai.md",
-      "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
-      "excerpt": "Clevrer examines AI models ability to make logical conclusions about content in a video data set using a hybrid of deep learning and symbolic AI.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/",
-      "publishedDateTime": "2020-04-28T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=2158%2C1619&strip=all",
-          "width": 2158,
-          "height": 1619,
-          "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-audi-abandons-self-driving-plans-for-current-flagship.md",
-      "title": "Audi abandons self-driving plans for current flagship",
-      "excerpt": "Audi is abandoning plans to upgrade its flagship A8 sedan with Level 3 autonomous driving, blaming patchy legislation rather than technological shortcomings for the decision. Announced back in",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/",
-      "ampWebUrl": "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/",
-      "publishedDateTime": "2020-04-28T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/audi-traffic-assist-pilot-1.jpg",
-          "width": 1680,
-          "height": 1120,
-          "title": "Audi abandons self-driving plans for current flagship",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-tectonai-emerges-from-stealth-with-20m-series-a-to-build-machine-learning-platform.md",
-      "title": "Tecton.ai emerges from stealth with $20M Series A to build machine learning platform",
-      "excerpt": "Three former Uber engineers, who helped build the company’s Michelangelo machine learning platform, left the company last year to form Tecton.ai and build an operational machine learning platform for everyone else.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/amp/",
-      "publishedDateTime": "2020-04-28T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-self-driving-car-testing-goes-all-virtual-just-like-everything-else.md",
-      "title": "Self-driving car testing goes all virtual, just like everything else",
-      "excerpt": "Waymo, the self-driving car company spun off from Google, shut down its robo-taxi service in Arizona and stopped testing its vehicles on public roads because of the coronavirus pandemic. But that doesn't mean driverless car testing isn't still happening.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/waymo-self-driving-cars-simulation/",
-      "ampWebUrl": "https://mashable.com/article/waymo-self-driving-cars-simulation.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-self-driving-cars-simulation.amp",
-      "publishedDateTime": "2020-04-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F28%252F74%252F15dc264d96e94d6db1661bd3c3faa4ae.3ac1d.png%252F1200x630.png?signature=2vUlsW8K3CFc03ydLk-T0w92WVE=",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving car testing goes all virtual, just like everything else",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
