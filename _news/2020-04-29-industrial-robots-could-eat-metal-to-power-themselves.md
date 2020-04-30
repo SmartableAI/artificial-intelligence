@@ -2,18 +2,18 @@
 category: news
 title: "Industrial robots could 'eat metal' to power themselves"
 excerpt: "Scavenging energy by foraging for metal could power Internet of Things electronics and robots, suggest researchers at University of Pennsylvania."
-publishedDateTime: 2020-04-29T21:40:00Z
-webUrl: "https://www.itworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.html"
-ampWebUrl: "https://www.itworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.amp.html"
-cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.amp.html"
+publishedDateTime: 2020-04-29T21:41:00Z
+webUrl: "https://www.networkworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.html"
+ampWebUrl: "https://www.networkworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.amp.html"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.amp.html"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - AI in Robotics
@@ -25,6 +25,6 @@ images:
     height: 800
     title: "Industrial robots could 'eat metal' to power themselves"
 
-secured: "QKD/wmDwGpqtolbV8J5NLMzXcjHRtvrDX2KDt03QMPdNWnKNpSw0+ruTiGQj2gZzP+yTX/k4FKu6ZPCNqscsvrNWKxjwGJo1NWH4zsmjjbRX52uSbuBNoRv6xvOaidzqQu6bFlJD2JW++ER6QPh1siAOrgkLaHHKTN0QFXT46BsIUIURXaF5Kz3lR5gPDkFcCIsT49EQOP8b1NJOaq8Lo4jOE7twiH8EYkBJcHXvq4YwkldFnMJ9Bv0JPEEVeqeXIV7ffTsMH7RleQcvPg//Y5E9XRMKN/bVvxGl9EPqt8RqiE0jY7HqNqaMT/Y5XCUF;vo8HLiCM9vn2vAV9FAqfmg=="
+secured: "O/vU4BKTHAFU/4d4g3MBXUJpJHhpRrtC1rpCGayzzYqLE48fwlCCcvvgJMmA/gCA8f/fiGDO2E+OES27t6xHjtzcoadK2tn8R9imnvvedn7ao7wKMiOHHKPAmh/ehyCsmR54dmcctUBfjRx+vlz39p+8x6TCHa8f7I089fLFVsDIgh6dVy1YLUyLRgpTW7F2RyfhW94Ob4JLmeNJW3O5CGnN/0lWHSpl9s5/wQtGq11VljmFuy+LvRdt+ZmV7OL3udqwPzmCUqL8zIJMwzxvOdw+mAQ0Dte0KA82bcgkjcb8z9vM0WcyqE7Rc5xWbuWJ;1rQPw6UMVGqcfuILVN6lXA=="
 ---
 

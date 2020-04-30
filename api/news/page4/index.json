@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-27-portrait-mode-on-iphone-se-relies-only-on-machine-learning.md",
+      "title": "Portrait Mode on iPhone SE relies only on machine learning",
+      "excerpt": "Apple's new iPhone SE is the company's first -- and thus far, only -- iPhone to solely rely on machine learning for Portrait Mode depth estimation.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning",
+      "ampWebUrl": "https://appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning/amp/",
+      "publishedDateTime": "2020-04-27T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/35547-65350-1C5L0C7fCMt3TJciKdyaNHg-l.jpg",
+          "width": 660,
+          "height": 330,
+          "title": "Portrait Mode on iPhone SE relies only on machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-corporations-are-hoping-computer-vision-cams-will-limit-their-coronavirus-liability.md",
       "title": "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability",
       "excerpt": "Aside from figuring out when to end their shutdowns as quickly as possible, one of the main concerns on the minds of large and small businesses is how they can avoid litigation once they do reopen. And it turns out that these business’s mission to avoid getting the pants sued off of them might inadvertently end up stomping on the personal privacy of the consumers they’re so eager to bleed dry.",
@@ -346,6 +383,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth.md",
+      "title": "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth",
+      "excerpt": "C3.ai's global customer experience and elevate sales performance using intelligent cloud technology.  As demand for enterprise-grade, AI applications continues to grow, so does the need for modern CRM tools to help businesses identify new leads,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-2020-04-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -977,13 +1059,13 @@
     {
       "path": "_news/2020-04-27-5g-wireless-networks-leading-fourth-industrial-revolution.md",
       "title": "5G wireless networks leading fourth industrial revolution",
-      "excerpt": "Although higher data speeds will enable new use cases, including replacing existing wired broadband services, my premise is that data throughput speed is not where the true value of 5G lies. Two critical benefits introduced by 5G: Through improvements in data transmission technologies,",
+      "excerpt": "Network providers around the globe are launching 5G networks that can connect the handful of available 5G-capable devices. Currently, very few devices are connected to these new networks, allowing providers to tout headline grabbing download speeds of 1 Gbps plus.",
       "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/5g-wireless-networks-leading-fourth-industrial-revolution",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "webUrl": "https://www.techradar.com/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "ampWebUrl": "https://www.techradar.com/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
       "publishedDateTime": "2020-04-27T03:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1007,95 +1089,6 @@
           "width": 1200,
           "height": 675,
           "title": "5G wireless networks leading fourth industrial revolution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-how-artificial-intelligence-could-jump-start-the-luxury-sector-with-chinas-help.md",
-      "title": "How artificial intelligence could jump-start the luxury sector – with China’s help",
-      "excerpt": "Western brands such as Hermès and Louis Vuitton are looking to China to boost their sales as it recovers from the coronavirus outbreak, but many are considering how artificial intelligence can help th",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
-      "ampWebUrl": "https://amp.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
-      "publishedDateTime": "2020-04-27T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/04/27/1e57d9aa-852b-11ea-8863-2139a14b0dea_image_hires_180635.jpg?itok=FBMe-ogx&v=1587982007",
-          "width": 1200,
-          "height": 630,
-          "title": "How artificial intelligence could jump-start the luxury sector – with China’s help",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-vw-admits-teslas-lead-in-software-and-self-driving-in-internal-leak.md",
-      "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
-      "excerpt": "Volkswagen CEO Hebert Diess has admitted that Tesla has a significant lead when it comes to software and its use in its self-driving program, according to leaked internal communications. Tesla pioneered over-the-air software updates in the auto industry.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/",
-      "ampWebUrl": "https://electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/amp/",
-      "publishedDateTime": "2020-04-27T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/Tesla-matrix-hero-post-e1583107083706.jpg?quality=82&strip=all&w=1000",
-          "width": 999,
-          "height": 499,
-          "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
           "attribution": null
         }
       ],

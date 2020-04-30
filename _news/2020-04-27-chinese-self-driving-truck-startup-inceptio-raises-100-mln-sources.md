@@ -2,22 +2,32 @@
 category: news
 title: "Chinese self-driving truck startup Inceptio raises $100 mln -sources"
 excerpt: "China's Inceptio Technology, a startup developing self-driving trucks, has raised $100 million in its latest funding round from logistics firm GLP, its key strategic investor G7 and other investors, two sources familiar with the matter told Reuters."
-publishedDateTime: 2020-04-27T07:48:00Z
-webUrl: "https://www.nasdaq.com/articles/chinese-self-driving-truck-startup-inceptio-raises-%24100-mln-sources-2020-04-27"
-ampWebUrl: "https://www.nasdaq.com/articles/chinese-self-driving-truck-startup-inceptio-raises-%24100-mln-sources-2020-04-27?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-self-driving-truck-startup-inceptio-raises-%24100-mln-sources-2020-04-27?amp"
+publishedDateTime: 2020-04-27T06:56:00Z
+webUrl: "https://www.reuters.com/article/inceptio-autonomous-idUSL8N2C90CW"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2C90CW"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2C90CW"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 89
+heat: 119
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+    width: 1200
+    height: 630
+    title: "Chinese self-driving truck startup Inceptio raises $100 mln -sources"
 
 related:
   - title: "Chinese self-driving truck startup Inceptio raises $100 million - sources"
@@ -62,6 +72,6 @@ related:
         width: 752
         height: 446
 
-secured: "nLo8/GIDjaEXs++xyC6hCTkdhAIFmh85tCuT9JYYJQXc9gNSQtyySrd1aUrUyD34DYUMqg5L9FSvxZzvvMWrpXFTgzaf7gfuGEzNlcUkvt29um2eiz3FUfZqqW/KkAYHjsup/kvU0MCknRKMMRL6QgN3iTnF4j4F8Pll3idNV3oINfPYtwC4jGReRqVKhLWxLNOVOo8BG9C7sEuoMx/hBvq8MdWONu6hkizvHbSn0eXancFRWtliydMCagAz6bmR0z027oQSlnWMMjggbB0tP608cbWEiCZDblwzhzFJoVu+b+4/qgq2nDoEh0w8YnwOeS3GhJ/rmnDqfFgkSqxn3qTcpoq229tPcxu3PECRO7XBcxZrPTJN4hcMcM0eU7YTTdz9+Fl4eneyU64s8qpsc1xVmETfnJg2nbbpoDHGbuUSXrs1S422WjqrMELqkt7kSScf6TmXQFPdFxEiN7IQPAJHz1vd3Nhk5b62PWpQc+E=;FA8U2k+CvtrVeRhD26eQBQ=="
+secured: "1FN8L/VXZzX02H3GVRPtqbFjzjgsbpbFAJLdyEpt5QW6MFdMA2pN0vR7GP0MmWZqcc+bSqlVOQR/U92te4ZK8CXku1V4nbwZ1UqjR9IVzFhxaEeyoFqEFxYhXF3K+GrIKa2kfg8lr4Y7H8FHz6iy0LfQ4Sbwb0Zt+i1mxZXVX06xzGSqaz4nThS99HQlBNh4Xf4eOLdbKPCcz4wQCvSmQ7Lsec66z44UJOcCbP+2AM6mrMxIn+6QrWZ2gLY7VsUgdZ/frZCQlv7j5r7JipzWvMGcslAW0JBPGiQBPeQ8ZnYIVqak8zuv9ObKP/WZJewM;F/623QV7BU8prCsCXSsASQ=="
 ---
 

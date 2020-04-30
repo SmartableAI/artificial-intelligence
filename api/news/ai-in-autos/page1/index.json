@@ -476,13 +476,13 @@
     {
       "path": "_news/2020-04-27-5g-wireless-networks-leading-fourth-industrial-revolution.md",
       "title": "5G wireless networks leading fourth industrial revolution",
-      "excerpt": "Although higher data speeds will enable new use cases, including replacing existing wired broadband services, my premise is that data throughput speed is not where the true value of 5G lies. Two critical benefits introduced by 5G: Through improvements in data transmission technologies,",
+      "excerpt": "Network providers around the globe are launching 5G networks that can connect the handful of available 5G-capable devices. Currently, very few devices are connected to these new networks, allowing providers to tout headline grabbing download speeds of 1 Gbps plus.",
       "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/5g-wireless-networks-leading-fourth-industrial-revolution",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "webUrl": "https://www.techradar.com/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "ampWebUrl": "https://www.techradar.com/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
       "publishedDateTime": "2020-04-27T03:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -564,16 +564,16 @@
       ]
     },
     {
-      "path": "_news/2020-04-27-chinese-self-driving-truck-startup-inceptio-raises-100-million-sources.md",
-      "title": "Chinese self-driving truck startup Inceptio raises $100 million - sources",
+      "path": "_news/2020-04-27-chinese-self-driving-truck-startup-inceptio-raises-100-mln-sources.md",
+      "title": "Chinese self-driving truck startup Inceptio raises $100 mln -sources",
       "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, has raised $100 million in its latest funding round from logistics firm GLP, its key strategic investor G7 and other investors, two sources familiar with the matter told Reuters.",
-      "heat": 118,
+      "heat": 119,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.reuters.com/article/uk-inceptio-autonomous-idUKKCN2290MB",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKCN2290MB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN2290MB",
-      "publishedDateTime": "2020-04-27T00:58:00-07:00",
+      "webUrl": "https://www.reuters.com/article/inceptio-autonomous-idUSL8N2C90CW",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2C90CW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2C90CW",
+      "publishedDateTime": "2020-04-26T23:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -592,10 +592,10 @@
       },
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200427&t=2&i=1516550136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3Q09T",
-          "width": 817,
-          "height": 545,
-          "title": "Chinese self-driving truck startup Inceptio raises $100 million - sources",
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese self-driving truck startup Inceptio raises $100 mln -sources",
           "attribution": null
         }
       ],

@@ -24,6 +24,21 @@ images:
     title: "Self-driving truck startup Inceptio raises $100 million, report says"
 
 related:
+  - title: "Chinese self-driving truck startup Inceptio raises $100 mln -sources"
+    excerpt: "China's Inceptio Technology, a startup developing self-driving trucks, has raised $100 million in its latest funding round from logistics firm GLP, its key strategic investor G7 and other investors, two sources familiar with the matter told Reuters."
+    publishedDateTime: 2020-04-27T06:56:00Z
+    webUrl: "https://www.reuters.com/article/inceptio-autonomous-idUSL8N2C90CW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2C90CW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2C90CW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
   - title: "Chinese self-driving truck startup Inceptio raises $100 million - sources"
     excerpt: "China's Inceptio Technology, a startup developing self-driving trucks, has raised $100 million in its latest funding round from logistics firm GLP, its key strategic investor G7 and other investors, two sources familiar with the matter told Reuters."
     publishedDateTime: 2020-04-27T07:58:00Z
@@ -39,17 +54,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200427&t=2&i=1516550136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3Q09T"
         width: 817
         height: 545
-  - title: "Chinese self-driving truck startup Inceptio raises $100 mln -sources"
-    excerpt: "China's Inceptio Technology, a startup developing self-driving trucks, has raised $100 million in its latest funding round from logistics firm GLP, its key strategic investor G7 and other investors, two sources familiar with the matter told Reuters."
-    publishedDateTime: 2020-04-27T07:48:00Z
-    webUrl: "https://www.nasdaq.com/articles/chinese-self-driving-truck-startup-inceptio-raises-%24100-mln-sources-2020-04-27"
-    ampWebUrl: "https://www.nasdaq.com/articles/chinese-self-driving-truck-startup-inceptio-raises-%24100-mln-sources-2020-04-27?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-self-driving-truck-startup-inceptio-raises-%24100-mln-sources-2020-04-27?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Chinese self-driving truck startup raises $100 million"
     excerpt: "Inceptio Technology, a Chinese startup developing self-driving trucks, has raised $100 million to further develop its technology as well as begin commercial trials. The company is developing autonomous trucks in China to create a freight network that it plans to begin operating in 2022,"
     publishedDateTime: 2020-04-29T12:56:00Z
