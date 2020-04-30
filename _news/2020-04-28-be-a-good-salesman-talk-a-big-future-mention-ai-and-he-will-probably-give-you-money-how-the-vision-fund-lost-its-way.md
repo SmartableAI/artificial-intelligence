@@ -5,8 +5,8 @@ excerpt: "A profile of SoftBank founder and Vision Fund key man Masayoshi Son."
 publishedDateTime: 2020-04-28T21:46:00Z
 webUrl: "https://www.businessinsider.com/how-softbank-founder-and-vision-fund-guru-masayoshi-son-lost-his-way-2020-4?utmSource=twitter&utmContent=referral&utmTerm=topbar&referrer=twitter"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i.insider.com/5ea742f75bd7a52d9169c9ab?width=1200&format=jpeg"

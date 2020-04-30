@@ -3,7 +3,7 @@ category: news
 title: "Romanian robotic automation start-up gets EUR 0.5 mln VC financing"
 excerpt: "Neogen Capital, a venture capital fund launched by local investor Calin Fusu, has invested EUR 500,000 in Robotic Pro"
 publishedDateTime: 2020-04-30T05:01:00Z
-webUrl: "https://www.romania-insider.com/mission-critical-investment-neogen-apr-2020"
+webUrl: "https://www.romania-insider.com/index.php/mission-critical-investment-neogen-apr-2020"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 800
     title: "Romanian robotic automation start-up gets EUR 0.5 mln VC financing"
 
-secured: "U8qpDpi53Rm9kTEO2FWv1yOCqxAmKaHkPXF/fv1of5j6LmrmEbPZUsz68FEhsJ+PSC8XesArpQ56j5WleezkZapXYkS6PfHo5r2AQWHn5jo3dh3tCnE/OtGamIgI3rRHLUruSoG9AfyHq/OT+i6m7Lrm+tv9iHWt5wtgMtg2WHUwLCUdiItLjBCiSLnxAtQe6siaWMHXQrg2GTOgBOBTuUoT7A6MNfs2cCqoiu8dljYGI/CP4Kx2O9RrpcdVoWmDmz1g62wI7CSwKa7EtNXoHHlCE4DNChw8j3yL5TMwmw7IUjx4Ak4YHYruwajKl/RT;Z7SOyTKze5l5+wqKNu3nqQ=="
+secured: "G9ZwKHv17RXA1ev3OdsY1YBG/28xkXFuYQ1BvAzOPrgD6SoSPaJptWbGCRdvVnAj9O1jmUJBD9xxBVaGS5O8uxuUbzLXqqhitFQAqsnmv6blAN9ha1AfWFeseIVTIud0Y25YkwO3e3m+VtgQrR2bFcZUAi6txRJrwl1vHlhPsWdaXf3E5Jn5Pm3bI1nf0vM4Z9elW51yPgPJ3ZfFFoif5i2Xb6kbqTGpUrAFnQudQ+xaxvoQixoq4VIBVUmwekY2z9rKB5aN+IpjtOVUeBmikqjz9ZYjuo5HdfJpKeDdxWMQogB+WZ2ANV5Gjw0THdOE;lIagLhk8hRsHrzuyYkqf5w=="
 ---
 

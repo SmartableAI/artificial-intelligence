@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-30-cyber-infrastructures-7-week-azure-data-integration-migration-soln-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Cyber Infrastructure's 7-Week Azure Data Integration & Migration Soln. Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to Cyber Infrastructure's implementation service SAN JOSE, CA,",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cyber-infrastructures-7-week-azure-data-integration-migration-soln-now-available-in-the-microsoft-azure-marketplace-2020-04-30",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cyber Infrastructure's 7-Week Azure Data Integration & Migration Soln. Now Available in the Microsoft Azure Marketplace",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-microsoft-reports-350-billion-in-q3-2020-revenue-azure-up-59-surface-up-1-and-linkedin-up-21.md",
       "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
       "excerpt": "Microsoft today reported fiscal Q3 2020 earnings, including revenue of $35.0 billion, net income of $10.8 billion, and earnings per share of $1.40.",
@@ -253,51 +298,6 @@
           "width": 760,
           "height": 428,
           "title": "Coca-Cola partners with Microsoft to use its cloud and AI services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth.md",
-      "title": "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth",
-      "excerpt": "C3.ai's global customer experience and elevate sales performance using intelligent cloud technology.  As demand for enterprise-grade, AI applications continues to grow, so does the need for modern CRM tools to help businesses identify new leads,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-2020-04-27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth",
           "attribution": null
         }
       ],

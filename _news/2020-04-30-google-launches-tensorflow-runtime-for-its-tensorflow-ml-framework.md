@@ -5,8 +5,8 @@ excerpt: "Google has launched TensorFlow RunTime (TFRT), which is a new runtime 
 publishedDateTime: 2020-04-30T05:58:00Z
 webUrl: "https://analyticsindiamag.com/google-launches-tensorflow-runtime-for-its-tensorflow-ml-framework/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/Google-Launches-TensorFlow-Runtime-For-Its-TensorFlow-ML-Framework.png"
@@ -23,6 +24,6 @@ images:
     height: 730
     title: "Google Launches TensorFlow Runtime For Its TensorFlow ML Framework"
 
-secured: "SeV6Ai/80mBjaMCSWPtH8GXetyIxu3we4FX1oeUDlXBwZw3znpjYujZlcTscVPzxG7w39VyMtKjR5Or3VFFLUIk8E8t9OTIYedXCUivX29Lyi5Gvk6v+8HliO5cjGFNSUv9p6iuygZ3NPqbeBjlv447JPhpOidd5RAOkhzqPoKUp2+sDcUWKWhKA9ysf8VOt+lUKcpsCrEjPM0bKpmIYYV5thFQc5FynA/rU82fxBZQJKtio8NNW96T07ajKbRa2/LSYI2DQDka47dcxrma2I77RxOZvigNA9UcgMVggxYKrjKlAxS8j/InGQ82bi4ul;pKbF9wdDjd+c3aIlM1QPXg=="
+secured: "xEyARFwiFgI64oiqIzmPCJznXKI3mHuuZyr3mslCweYEDgYFNvEDAbl0FaRHJbRUaCurEZ3F63736DxJoy+oL/EDr52++8lUag1ypVsREhOz3aLvPYooadmprY5J+yAz00ZJw4mm/mxb8arWfGjJNMd5xbAkNxj2lYCXUAxltI1wHDZzmoKV3pOd0B9Rg9a0eDTd9Wi+GIOr3aC1oAf3G4W5jmgeYPBvIasTD1Dk3irAmJD1r5FbPyrCqofY1svDWlrWpwLyicCimf+68Fiyms3brJ3oess7/wHlXwjhAT/R4lPsA8pBkHiSjNn1xFlVaScqnycK++Tj8a3E82wo+pH22ZCM6CcJfPBsvzD6/Yx0EAenZYyUDtNSFr64L+skP8loSOFhbeLGPGBcypsQjTeWrS+jjDf/QdemLlPmDNlCEysvMQ3EypTfq4u22Bv1PkP0VPKguvBlswrXFi5Rwk4cOR5LvlwT7f09l845Usc=;j1U4ODnECDHxUXDV920Mrg=="
 ---
 
