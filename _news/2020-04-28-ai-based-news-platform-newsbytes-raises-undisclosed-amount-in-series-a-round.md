@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/349909"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349909"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 338
     title: "AI-based News Platform NewsBytes Raises Undisclosed Amount in Series A Round"
 
-secured: "bZsvvMaqyf7ZEUv56WLlOF9Lnm1M82wg649CCnoNNaxdiMLL5enRrLLRIy2aAHNrpB97mUsYCu0TX78m6EnekK2sREaPeowXOT6upDj9cgr8NQ53f5Gy6B2vef0P8Q9hGtbU3jIOnoRGL0caM8Rg6AuoAZiloleKlTaBR1ccrui65VEk2G74R3rjdk9QIY4QS5/9W8FVYnZGzW0eDhChijBeWKJH60KYDbbQBoXobAB68a1+ObSd5Gz9aHhwpkUr35KorZ6q7zhuA2TODzSVGbXdJo8kZ7nB0V+T92PgzJVLOAy4Vg8wndCA6cvBdfl94zjJNSaXtZblR5Svzn4lgq4zP75oGDZeXdGQdp8SdhzF5sfVE0s0KBdvrftf0Oy13brohKv4CSeC/ueXldaXF31xohhWXhgKVeDMglVyOYKSpu3G8Ct65sjaFUbj0rluV6rhy1ZBjdyET7VRPMC/HW2lIFqdDCeWSRgu7QuHcOI=;1rfrERf35rslGrnMxUOrdA=="
+secured: "C8A8w5uqY3azGQeC1Qwn1qmRM/kW/R+owF+MytJD2P1LxjDtr5D/PUBe6qK+LLcQiUMmwSW5mdRszR+0zJkr/1gfD0EMMYif+pFsKgZh5UDhIXOlV9XAR95XVhTC2q6knmj4tafJBezPiLokR2XwINdVQTuxTWK/Q86mS97czkRFX17oniZqVKTYpFhqSOdPZpAIX23z2MzjU0FAegzyToexCmJvWxacZ8apmGsTCv7qgZN2m6m+wtP5wUBOU58c/XPrPgEPbgCxzgLsr3C+kfQMIPRq0Cn6JSmE8WCjxekhfjCj/Q4yaDbe/GI4eqdaGh+BbRjfdWq7VwDqEZK0zCiElAAbphCi4bBAe1uNxrSZOGktuPuruqZajF/59caQOokDaMTMZykFJXim9vkIcpvr+XMCM98WKC67bSCbT43FzWtCBAx/EWM91yp/BbBSYW3OadPG3XbqTsBzG7EehzAL4Lwyxjvn8DspR9LpTJM=;KkP6WqmMSP4DN6G/VWPaVA=="
 ---
 

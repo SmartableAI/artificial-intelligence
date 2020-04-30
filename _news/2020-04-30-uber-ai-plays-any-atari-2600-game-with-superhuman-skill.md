@@ -29,6 +29,6 @@ images:
     height: 350
     title: "Uber AI plays any Atari 2600 game with 'superhuman' skill"
 
-secured: "XdanVYiExJhgZ2FSy2z6mcs7xW0CD0xzIXBX5kuAClpcvMjZorazh1yOOA5+NeJmphX0E9x/gl+QHh8TmOosc5CzFoqeokP2oJzgX0MAtW3XNsiEOic1DlttXQfil2K78wWGUG+HnNIga5NgKtBTZuQGpW+km603zBzbpYdlWJJoe6a+yLcFmFoEm+lG23dcUv6U5dVS8uSAD9xiYy1QTcYuSM8QN2hP+qGa2XkFdfOPetOEV1fontxD6ZWA5cZe8rZtBHIjhgdTO7kffeZYGNHGfQkhTcCg+d0C+fnTXOPs7Pr6gK541Kg2bxDqf/o9;GEyl0tRvZTHU/pRiILdmyQ=="
+secured: "QAPBa8GJcmTkr3uLHjYhNpFyyPXoQdEWs/GZ1y3dn+blgWXrvPewwJ8TffYexkhfyHXM09uyc2iqA8KOwmZDrC6/2qqb8HkIKma5zcnuodgF4Pkq3bSfoybFqidP3y4In1zGCry1ZDCVSX+eD4aFo5ovQN3ESU1djYUsYQEVUE3fD7q5NWCLKYAwvSnvY8Vr9XIiBgKu3bB+/Isf3RHc9RoOKZAm8hwQxPXfcRzICP1plJA2dGjDp7+RjdSQVWjl8xvjVwGAZ0tA7spr9xXyjClpYaiRjoZfiR74VvR4kwDq/+2SbhSC1wDuR7viiRUPORI6ucTSOvqTToQHdle8lJb/chOmgBltM8nwZMr/cq/KQYEf9/BB7ic4PgC1eW9e5NidjrevWQuE+dxKDSWJVAfKxoOX80oZ3Qn0+MrSFb4KlrSFE4lxWfOoEyUcDvzsBJKrfRn8nG/ZhJ4cY94PHKU4JuwyajHie9Fg6XqEoC4=;Kr49nZ/d+Ld/ukBmEjwAww=="
 ---
 

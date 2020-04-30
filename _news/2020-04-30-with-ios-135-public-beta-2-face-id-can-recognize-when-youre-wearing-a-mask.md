@@ -29,6 +29,6 @@ images:
     height: 399
     title: "With IOS 13.5 Public Beta 2, Face ID Can Recognize When You're Wearing A Mask"
 
-secured: "WDgWfSRjcSC5R+zf9G+BRJjABQZNy8ioDwexIop6XftXHUECCBNybrLgrfCCnW3CzvUtenBXGcGgHjLHSAl7hbvuLynl+nAfRHoz6x/W1E3N/r11IU9haANEycl2UP1Gh6EfumGDm6Ge0A/YvWgjFiYDn3oyIUCcucnwrd8eNIUOa39w7c9WNBRt7D6TP669yjDgLS21W7j8GzI2XNUW8UR+BCalUT5C6Zj+ToSfj1bWwKA0Lfiox/fJtxuATlWB5Cn6qje9JhOsejnTkaey0sMZaso8i0FfB2Zg/KKTURgObWR5bnXRFs8yn92a1mAl;7jf/u9IgygoElaR7yOFsEg=="
+secured: "X2JY1CjkMdAiIxFJox+eFE1/JYcGRKKw6IJuS+d6IGGDJ01MkgIdMmmvjyQaELfPVQxitCcgqpQIxq/w2BifTKma0Gh21jDHak3dIXv47W7sJ7v/xzkoL6pVcKVGzHb3QwRfDO7QIlbRt/TRbGugLuKS1Tmc4qe/SlM58s3GJSbs4zqEcclS+j00c6O7hd6v7kguKs6S6wSzlOekC3M16fKllngvNLA2igNrURiIAQD37lhYOwCKjyhxVtSwL6rItIDJ0orkg27SgrjoNTqm/JpOlI3Jwl0ooVEsoW9R07dvRz7RWj5mlKvKxpo94Br1iV8WEDQATX/gjRbKFI8E0ZT7NlhOH8mn0p1Z9LxE1BJqt/iunt7gmU5LDNIUmb7VvUsw1kgsgjfqAZGFSy4vU+nb+A54WCIMaTtvGFxp3+EcH+OKYMqNda+EblAxoNjDPBYKog2nGpeqPwWYaU7u8soNfqix6LZrBvjLB2n0RX8=;s2dQ2zxsIyYLCrk0fThGhA=="
 ---
 
