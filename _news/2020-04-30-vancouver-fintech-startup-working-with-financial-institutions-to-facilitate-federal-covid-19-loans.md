@@ -23,6 +23,6 @@ images:
     height: 684
     title: "Vancouver FinTech startup working with financial institutions to facilitate federal COVID-19 loans"
 
-secured: "pF6HCzRlKzgKayBMV/lPhhufTAeg6a7Ml5znczFnuJGVFE9vDvFlWaL/ppcesZuxx8Q/ll/Uwmq1FyZhdbslF5SUwyryr4ZAM13pM7aRIp+eWBbHCcEsDiRD+CFqntrhQpD0TlIAyV2nGZ018AzDP3gvPZpPd4OBbXWYB1JFAUEp1Igi9BztZcjbuVmtMfXIha9qw9nzcI+iA72/QA3pQKhc1p5ad8s4br+y6ALlhn1btjSdJ1R0ISipeg08i82guR1LzP0Fo4KAke62LYRJGebuTzg57k7U1AOJBeVmsIDDCSWzn+4kmwPSfdJvDluq;KpueYDZSqGwjyG2DHbelXg=="
+secured: "I9YL4g0fspe98EkPUYHCkoNPd3Y/Fq5wfiE+IsGJf/zZKqU0mpIkoaHQ+Jzsh7HSWQAkBnkcy+T6cu+CPi2VQnivZOKBOSbGTqe4NrDAT+VefYQTmVU+bQeZnvNkzt99DqJI7MpFbDvKnDiL/W9ZTo9SCHQZn2k33+8xj5jmEALgdRaKa9mpL3pHzRSHRkOLHsmSZOBoesS4s/EfrZGfbaeZyO+d2vTr2LR1PA0vDuZpF+AWq8/AvKUOgRuKDCzFxCamMVTLjU0Rg6TamVVft/H8KSN30FCBhqXAu3b4ENHb2bU3JsL2p5DPY+43mA+YHO7cv9bfV7yJ/2t0KS4+CaSvlhgRXkdqC58Dsr7s9nAdBy38Md6EcEqd55vhujikTQ6hOUyZKsTfVzJmAy/EQtdKa3+z4F0AD50nr+VjHk12lpRt/M4kSUsTt/hSmHtAdgzE0fg9MHlCn14hudrTNH+IPpYicDHm8D1ERkw0idQ=;M7gSuvogtQH1jp7xtkmyLQ=="
 ---
 

@@ -2,18 +2,22 @@
 category: news
 title: "AI in Africa: Training bots to talk to my mum"
 excerpt: "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence."
-publishedDateTime: 2020-04-30T10:01:00Z
-webUrl: "https://www.bbc.co.uk/news/world-africa-52411797"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/world-africa-52411797"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-africa-52411797"
+publishedDateTime: 2020-04-30T10:43:00Z
+webUrl: "https://www.bbc.com/news/world-africa-52411797"
+ampWebUrl: "https://www.bbc.com/news/amp/world-africa-52411797"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -24,6 +28,6 @@ images:
     height: 576
     title: "AI in Africa: Training bots to talk to my mum"
 
-secured: "Jye2rw2tA5nFi70tn98EKp+yypLOk3dvdQFmnNNMPiD7UpnsJSSBPlzM4Z76GbPwAvNAwbvGxw0QDJNOQLpgVGZpEJzXS5EXpGtvwH2l5f1Hgm0tiG7xuMYCh5IW8ttq3pHro9uRhvMC5kMTW6u8vaNjF2iUZW/OeuJ1dUu5uxjlWSwA3trUHSMzUzmm9xMffXanN/BV/fNw3B1+euk+23GLOiN/nM+d15zFbjB6D9zcgL/U8jOIcRX02oTsbVpB5lurDPKxtfpFc7G4OVdGtARqsky/FhFGEktA23omAAvPDOgQmH5Xqh+F9Zbx09SB;MKrwv5osqUGfMxR/OQ7Rxw=="
+secured: "qxaibFX+7fY8p7GVkJQCDmqm2UeLUroGM3kVYnJsR9w8i9Vem453AOpZM4fSVkg6UG8rO70H62kQv/b1G0k9Von6BYkkU58PR1Yk2d/u8Z+h5kjBQi4dq9U/8YomRCnTCCZcrApei1RPlQ4N9JK7qjzFmxlCLZ3tTJ94maC2XlhHc3ut7A7nNjC6KYmHsVpxMzWeKgxZyCwT2/xGI7WXRweBl/jGUjdfenNuxDz2aKpJ4F+XLkkAXxeGkd34EoyuFk9JjRTJMg81xWOxVW09u5+ozzEJFBf4bfzrohN5XqnFOvoN05RQ6C6kTMwKFT/b;WGbPsk8ROKSVuQDjQv52Yw=="
 ---
 

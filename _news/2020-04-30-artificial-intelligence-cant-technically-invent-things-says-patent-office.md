@@ -8,7 +8,7 @@ ampWebUrl: "https://fox59.com/news/national-world/artificial-intelligence-cant-t
 cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,23 @@ images:
     height: 720
     title: "Artificial intelligence can’t technically invent things, says patent office"
 
-secured: "c3ps5F3IRkQToUQ5/hHbj2E0kU5A86u1UbueC9+I2NvWXcnTunq8ISkC6kGU37Zgrjh3w4lnYmfflhqYoATWnju7j6HlKD/Rd/cxbPM1gxYdb2y+sTwRcyguRdsS0FBsrq1tvX1QqvKg7hVlwy60kbTgSria37dBehw0czmatiQogNcEuxl7DzgnIaGypbYY/RrAgWNXaLTcYRetNZhgUCJNR0FRH5W+OhKqdDO17rYr9pe3if/rr6zZG4iuqyrHQA1rWBu+qNrDXSqeBKD8W+9Sl6oWfAXRabYWBaxjgqzZJtz1twIQ9lD1ctsQBDFV;GpvJEjT71faQuFJ06hRVTw=="
+related:
+  - title: "Patent office: Artificial intelligence can’t invent things"
+    excerpt: "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an"
+    publishedDateTime: 2020-04-30T11:36:00Z
+    webUrl: "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/"
+    ampWebUrl: "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/"
+    cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/"
+    type: article
+    provider:
+      name: WTTV
+      domain: cbs4indy.com
+    quality: 63
+    images:
+      - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/04/GettyImages-476176424.jpg?w=1024&h=683&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
+
+secured: "WbaT1elOo1k0NlvmSfsxPRjadpIpi5otfYMbfhWlB6c1QY9GknHvzrDq/vFU6paNGWASlo4BR9xL5+aBp9STEACWAo+oLryJ8HekYRZdvaFskbeKjKptLwOQyhDKTdGnrc9CjrZ/c9vLU7lT3+/IHFuRMkHIERu0Mz35WRUJeS5MTo4LTlSbN8KDqpOaAh1Oyz7AA5+iZQ8Latawi0+dyyKRX6lWtsK5zzoP0BjOSJ8ixPZRuagJMiF2DVjBWO7v9vnqMBgbG/MM+KoWhGk0UNldr1iNzURK80kFtdSnCEqilrUI/zbFSDkDMeHUCuPi;bQKlAWvvpOsfS0T0Asvqwg=="
 ---
 

@@ -1,29 +1,19 @@
 ---
 category: news
 title: "SAP Makes Support Experience Even Smarter With Machine Learning and AI Enhancements"
-excerpt: "SAP SE today announced several updates, including the Schedule a Manager and Ask an Expert Peer services, to its Next-Generation"
+excerpt: "SAP SE today announced several updates, including the Schedule a Manager and Ask an Expert Peer services, to its Next-Generation Support approach focused"
 publishedDateTime: 2020-04-16T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/sap-makes-support-experience-even-smarter-with-machine-learning-and-ai-enhancements-301040813.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sap-makes-support-experience-even-smarter-with-machine-learning-and-ai-enhancements/article_90b9f14e-1c6e-50c1-bbac-899058184560.html"
 type: article
-quality: 50
-heat: 50
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Finance
+  - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/847591/SAP__Logo.jpg?p=facebook"
-    width: 1717
-    height: 900
-    title: "SAP Makes Support Experience Even Smarter With Machine Learning and AI Enhancements"
-
-secured: "3Vun5JKGoC0OcP2ASJLMB0O+wh50WIjYhQ3W/duL2FqgEVLXwgvSvdB4NgLo5CimuhNaR0C+ESOW0yYWncaoGQswQlFfsCJhFiA0LOz+RAsV7uUEFdnVxCa3NN2hU0aRQYo50kY1rLCRbuvvx2XKJ3QTG4HY49Q30DsSWdjPTJOQcarViy2gR8FQ//HFFlVlfjpsEKXk1D7uEWRheP9gGQmFzMrRR3RPrHROMw7DKTYK9apch3KNLJETB+zejLa/5X+Aiqw/6OOiAcH80an6ZArYFG/uoW37fVxFeZjxYIV4qN2BuO0VjeYniGCK1h786wy1C+6fEz8EGfy0LKRnxqTpdbRtZTbPvtRZu4XLhZkkq/8ruQMzcVOzD9tDQv+q1gCOcxaPmBie0eZrGBrwAfVm2Dl9Q04mdHtcWlpRLGqxTtMYvjvkTLTcS9cRzZw8I0hw0Uj6UcA8k5Ka2l6RESLXpCyHzL2GYb+6qEurTNc=;lYUnZxhlV6L3o00XXeYPyg=="
+secured: "aS/Vc4u4u5WelI/sjJ6vvBzlckKCcfirA1b3/ZtyaSRmOjr9fK+d8SJJ4dKdYJFqjX0TVCJhV2LFaUKVekHh7+ZLYVF583ZYQbBJ9q7C9+T3KOuEfC62sR1XbAVJWglGb7lSgYkTrclcM41EIG1qcaauIiBsOhiODXwc1GMnkCxySkcOTXKg9cUSPJen0/ibbXzlFtLUKgbIklVx3fiFz4mI2hbSW0kBxG1DZ6Fdq99pKhCdapXc4I56mrB0KHpcenJhZIyWmye5pcY7JR7E2+or4ADByCaV8u2P8wgcNKZyeGNAFdfNNI4c5eIG6WqgiztfU3NWotp3TKykPcuUX5AETRyFixWrG+uxcULmW9df4SW85lUDY5UC4wqjt59wc5k5MJ38LckA+eyBPW0ejZIemoSeboR7OwyPIHjPN2xqvlY+PWtEkKfszOBJbJFgbb5xcDjtdA0bJmDZaJhnOieK0b9uZRBTSrw+ilXMT8w=;mN7wBEKIUjN/WJoopqlCkA=="
 ---
 

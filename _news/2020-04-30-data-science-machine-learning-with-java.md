@@ -5,8 +5,8 @@ excerpt: "The blogosphere is full of descriptions about how data science and “
 publishedDateTime: 2020-04-30T10:53:00Z
 webUrl: "https://www.finextra.com/blogposting/18707/data-science-amp-machine-learning-with-java"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEujk0HaAoU6g/article-inline_image-shrink_1500_2232/0?e=1593648000&v=beta&t=FV4ND0-T6FMddhWgOfVuiiqcoplSruzfGq0e0pI_oBQ"
@@ -23,6 +24,6 @@ images:
     height: 740
     title: "Data Science & Machine Learning. With Java?"
 
-secured: "di5ufW5s2PglcOxjp9zl+MhhGMJUIsMb8cgupMb8k9God4GDdBCHFKvvEsSz0pLOUVxudD5t7/ACsYbJ4hzmAOAOcz9VZ75a2aE7eUXy2R4r5wGieAzzynPiD34XXnVcM8t1gYL3Z4YrMBWpexKHZT72xahWQV8EMWI9HfnuGKuhubZkQM0bMUHI/8L2zoVzftBcA9L6Q9OBxGawAQKz4n1S3xwHFlcQwI9+PhahPLO4uosryoRMEVj68kXmG7nmziD5jRfMSTBMeyRUNb91XbDx76N6iaXhUgYkj0QusdrgbQ5ZYOIW/a7jHIBC0Vvz;lPphlLioTlk3TFv+BlokSg=="
+secured: "QJHlMv7xsnltDnteusRbpKo0DMAsTQllbB1lSOpuCiltej3NY3zVxbv+2CSX6kZFFooAeKhheAjy7iZO8j1P5dmQcOTvo2fyHkDjO+lIqteE7/cmDhkCNWoKd/ngtInIGrQDZI8LQT2epRk5RA99tBnOMG0gOsSaGBVCnsMr4RzU4qJoUk0CybdUB4geAEE4d1LVlx4vNxRfv8iyJxXhfbLY7b9x0DLHguWhHD1I01UWPOuXnJPVMNX1LupsiZYVxpc26tLkC0qlio/1dytiDJIeECEU7VI3lBYbgl9LdofvHsJR3Fbelm3YqI/tGo+ANm7nRPALVV3mxPsp/Sfaq2RFm8hG9rVOpUYs13eiC8hfTEP3dYsSWezMU/O/qq9OJ755GjWK9bdUy61VibSbrOWzYIFj7wMkrAkcyOx1WIlQfVK28TkaAft0H/5xc0uAbIX8zMK0/NjFn1aM2poXFhfJbZzbl+eERNPRGn4LBVw=;uZxs6PX7q05ZHeGPKCNr2w=="
 ---
 
