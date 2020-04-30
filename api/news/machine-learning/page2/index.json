@@ -2,51 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-04-21-nhs-starts-trial-of-machine-learning-system-to-manage-coronavirus-resources.md",
-      "title": "NHS starts trial of machine learning system to manage coronavirus resources",
-      "excerpt": "The NHS has started trialling a machine learning system that aims to predict the upcoming demand for intensive care resources needed to treat patients suffering from the COVID-19 virus. The COVID-19 Capacity Planning and Analysis System (CPAS) was ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/software/development/355381/nhs-starts-trial-of-machine-learning-system-managing-coronavirus",
-      "ampWebUrl": "https://www.itpro.co.uk/software/development/355381/nhs-starts-trial-of-machine-learning-system-managing-coronavirus?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/software/development/355381/nhs-starts-trial-of-machine-learning-system-managing-coronavirus?amp",
-      "publishedDateTime": "2020-04-21T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587468153/itpro/shutterstock_1700490094.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "NHS starts trial of machine learning system to manage coronavirus resources",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-21-artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech.md",
       "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
       "excerpt": "Humans in the Loop is a social enterprise founded in 2017. It helps refugees from conflict zones like Syria, Iraq, and Afghanistan settle in the country by acquiring digital skills that they can use for working on artificial-intelligence and machine-learning-related projects. SEE: How to implement AI and machine learning (ZDNet special report ...",
@@ -1276,6 +1231,43 @@
         "Machine Learning",
         "AI Ethics",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-deep-learning-helps-robots-control-their-limbs.md",
+      "title": "Deep Learning Helps Robots Control Their Limbs",
+      "excerpt": "AsianScientist (Apr. 13, 2020) – In a study published in IEEE Robotics and Automation Letters, researchers have shown that walking robots spontaneously developed coordinated limb control when trained using deep learning. Human motor control can execute ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.asianscientist.com/2020/04/in-the-lab/deep-learning-motor-synergy/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-12T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asian Scientist",
+        "domain": "asianscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.asianscientist.com/wp-content/uploads/2020/03/deep-reinforcement-motor-synergy.gif",
+          "width": 1096,
+          "height": 613,
+          "title": "Deep Learning Helps Robots Control Their Limbs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

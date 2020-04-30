@@ -8,7 +8,7 @@ ampWebUrl: "https://galusaustralis.com/2020/04/614140/global-automatic-speech-re
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/04/614140/global-automatic-speech-recognition-asr-software-market-2020-top-key-players-brainasoft-nuance-lilyspeech-smart-action-company-lyrix/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,32 +26,17 @@ images:
     title: "Global Automatic Speech Recognition (ASR) Software Market 2020 Top Key Players | Brainasoft, Nuance, LilySpeech, Smart Action Company, Lyrix"
 
 related:
-  - title: "Global Military Artificial Intelligence (AI) Market 2020 Industry Growth, Top Players, Segmentation and Forecast to 2025"
-    excerpt: "This new report titled Global Military Artificial Intelligence (AI) Market Growth (Status and Outlook) 2020-2025 has been added by MarketandResearch.biz to provide a detailed analysis of the market covering market trends,"
-    publishedDateTime: 2020-04-25T18:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-military-artificial-intelligence-ai-market-2020-industry-growth-top-players-segmentation-and-forecast-to-2025-2020-04-25"
+  - title: "Global Automatic Speech Recognition (ASR) Software Market 2020 – Brainasoft, Nuance, LilySpeech, Smart Action Company, Lyrix"
+    excerpt: "The report involves insightful data on the main sectors of the Global Automatic Speech Recognition (ASR) Software Market. The report has segmented market, by its types and applications. Each segment has analyzed completely on the basis of its production,"
+    publishedDateTime: 2020-04-30T04:07:00Z
+    webUrl: "https://galusaustralis.com/2020/04/622074/global-automatic-speech-recognition-asr-software-market-2020-brainasoft-nuance-lilyspeech-smart-action-company-lyrix/"
+    ampWebUrl: "https://galusaustralis.com/2020/04/622074/global-automatic-speech-recognition-asr-software-market-2020-brainasoft-nuance-lilyspeech-smart-action-company-lyrix/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/04/622074/global-automatic-speech-recognition-asr-software-market-2020-brainasoft-nuance-lilyspeech-smart-action-company-lyrix/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Enterprise Artificial Intelligence (AI) Market 2020 Industry Growth, Top Players, Segmentation and Forecast to 2025"
-    excerpt: "The segmentation allows the readers to understand the aspects of the global Enterprise Artificial Intelligence (AI) market such as its products, available technologies, and applications of the same. The segmentation is represented in a manner to describe their development over the years and the course they are likely to take in the upcoming years."
-    publishedDateTime: 2020-04-25T21:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-ai-market-2020-industry-growth-top-players-segmentation-and-forecast-to-2025-2020-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 27
 
 secured: "vre7EGkRHjBUBa3qQT+XFE3YNGe093SwqQMRMoGcCiVE0fAxcAmPt9vgIGbEQM2y7ykLMSTxQeO4mV/+5h/ZSx9Vnt3L/WeF09VxFiOVLUxVouXV3y+SR0Tvnj6Ls06c+r6lBfmpav2VvC5sKbQzhvHx8UfY28qeojYhJM3TarmA5q88AOuPTUk4qJX4fI80FYcMgxRbJYnIWO2quQLrAZq6HlNZ2YepVF0WP72nODQ6orThP32sordyonE5qrZkKk7vGffDn1OaaVUL2wEQ2lMIAYcK7UHAYU6j0qVMijgNfJ6D+D2W6DJKjNo2kRvzPEODl1IqS8jy2G/cNayq0gDb+xxkU2WhDngnRQHYJ3l0Cz+QWC76sbVzxkmphCStz2w6vYeh0vy3IgZgqD/TDwsAccXfuR17p+144FpetA2Pq9OD6v/98rxEn1bb5FcvPlpFZ6QgK3JI24NMHUNlVoyTGxphTnBJIsXw4WsNspE=;BBTp8PO2K1jbNIIKkx5t/g=="
 ---
