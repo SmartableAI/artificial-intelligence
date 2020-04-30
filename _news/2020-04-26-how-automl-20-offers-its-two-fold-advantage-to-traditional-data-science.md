@@ -23,21 +23,6 @@ images:
     height: 768
     title: "How AutoML 2.0 Offers Its Two-Fold Advantage To Traditional Data Science"
 
-related:
-  - title: "Top Data Science Glossary to Know About in 2020"
-    excerpt: "Chatbots use machine learning and natural language processing (NLP) to deliver a near human like conversational experience. AutoML–Automated machine learning or AutoML is the process of automating the end-to-end process of applying machine learning to achieve the goals of data science projects. AutoML is an attempt to make machine learning ..."
-    publishedDateTime: 2020-04-25T08:27:00Z
-    webUrl: "https://www.analyticsinsight.net/top-data-science-glossary-to-know-about-in-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 24
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/04/Top-Data-Science-Glossary-to-Know-About-in-2020.png"
-        width: 1652
-        height: 992
-
 secured: "Wjto7N4aEVLJhqE64CrcND+AWqTnRqa+R76Jp7cbNGYnagm6uZNB9O6DDC51M6TUCIK7EFe76JuPVp4QctwqJiZ1+EDTO1DnXbgACGvimAtIGvIqiMuT0+qXpcDDZm4FEdxTW1DYjFW7GyweGALgHOHVPHFNL7w+mso5Ri0VAyfOZBUmkqSXaOFpmMNteicdOWC/hFUDDfx/beCcUX8RHdK5GKVTiEtiiTX2vDIuLWOhMbjjpGmaZ1TAOCNtNw5LJdYxs/CNZ5jPQQtK4tFwakpu20Y+sW4dpr+F50OqH689rfv/qT6v8Lojmqkzy7MxHBiStCDkESTD7y36IJ0z74vGG/emhC6KWXfldQLMAm9/w/e5ZgVGfhz9UsUtNwVa+2WoepbCNDjPQioNn20r248uLU8GWY8MSljyc/s7k2Vis1KWrM5nw6ensKxqmb9uUILSUS6xUdVqMjSjP3eyXkM0YkcjZvbLoocP/16GBrM=;sSDtCLLN3vMAwUblZZEaUQ=="
 ---
 

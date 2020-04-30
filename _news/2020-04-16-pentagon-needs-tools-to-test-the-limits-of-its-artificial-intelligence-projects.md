@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects"
-excerpt: "The Joint Artificial Intelligence Center seeks cutting-edge evaluation capabilities to assess what systems can and can’t effectively do."
-publishedDateTime: 2020-04-16T21:43:00Z
-webUrl: "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/"
+excerpt: "In a request for information this week, the Pentagon’s Joint Artificial Intelligence Center, or JAIC, seeks input on cutting-edge testing and evaluation capabilities to support the “full spectrum” of the Defense Department’s emerging AI technologies, including machine learning, deep learning and neural networks. According to the ..."
+publishedDateTime: 2020-04-16T21:50:00Z
+webUrl: "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/?oref=ng-skybox-lander"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 400
     title: "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects"
 
-secured: "UzGe8Ew1sI4Pz5+G84SZ5MeEWZFJZ5dzWf2W02SwJGE+QWJeZTE8fiU7ycV5DLeNcIADYijmWe22qLbShO1fluutpiOl4wVY5PDshH6icknyxHZjahXS9GhaGludGzMmjUjsVVgYndZGzxiXVQYqonFGuFVG4JMjPhzrgBLzGycmJQy1IT6OHk/G6hJKSfVSFoxvmyTOqEwVX9gYdUZ1X9xGXGTX8ZtSoXrR05ybpczrsGnAh+aEa3UlZri+NBZUKZx+fWiA+B5B4E2XuKDbx8lPuUy6mazOrRXglEWTdUaiGD7PTkKndpPetcEaeihikgPcYekhOqzCEobdJsYkW/6mFeDR6QPH0rk8OyrAAflZZ7fgP+r84E5QR3lo3rXPFDxZOa4eGI9Tcj009FHtRK58ChhS7CSd8aM0EIC1mha9ltYN4DXxaPVq6nMD/Y3KrlfGW8OFZJfvS0JXn0KbbQIjsiFsizopJTWh+5G79IM=;ibztHn3thiBTYgt8fgX/mA=="
+secured: "rbYO3YRmh2ieUaNdn5axtZiO2BND+XKGY7jHU1vUE1E8mBjqquooyTsH7L+fPbptrf34W6FcKud6lx7kc3Ussn/Hpkhgkh7lzqZov1ogIlWJL1s0JBDS3/CASjFQSeDNRAcFRWOJ4Jz4xqQi6DG9LmeLin22PiqVMEU2sBf/OpqS0AAlZ7eRp8enQvVpRm1Ehp09imFFBlq9TheRvKmEgio5K0QLh2NkUBCyKqsqL8P/BUwaqYB8ylz2a0uLSHpt7LxKcOHmmEGNLkkfPOC/AEIncM+7OYBRSHonSLFaQIiEt+eiZCTE/UTLGhUsqpvi;9MrX0ZlmiyjrvNz/uio4xQ=="
 ---
 
