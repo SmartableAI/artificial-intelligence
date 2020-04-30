@@ -1,26 +1,30 @@
 ---
 category: news
 title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
-excerpt: "C3.ai, a leading innovator in enterprise AI software for accelerating digital transformation, announced plans to collaborate with"
+excerpt: "C3.ai's global customer experience and elevate sales performance using intelligent cloud technology.  As demand for enterprise-grade, AI applications continues to grow, so does the need for modern CRM tools to help businesses identify new leads,"
 publishedDateTime: 2020-04-27T16:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-301047370.html"
+webUrl: "https://www.marketwatch.com/press-release/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-2020-04-27"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 79
+heat: 89
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-    width: 2695
-    height: 1414
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
 
 related:
@@ -34,6 +38,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "T4V0m3bIab33Jb1mJSxWFtsuQzCSpFFRl5m6lqfF/GUqgTO5Ko4Aawfs2RJVPRxKxIbHkKgb8gqBhfQADbubdnibbVVedh/jpWo4x9cdZunwvW/vCdDNzgT3/iAP1DF8xuTZvAdXPEA1lbyXGERkK6zTzjvi9El4CEXfPKs450T27QFOJlQVZlXYcZ0qQjNCTgr2LgZIKvPOhQveDADLNMAFEHMKkOFHVHjVc3BN7gjYpRVkkweaEpTcDJzmzAv+oSsFnxsG7anQshs5Niwdu9ggsqbtru3DYPWq/BUYiQH1ztRKRH1Pym1GyOgjFPAV;WnSNjx9wk4HrhKSt57UKgw=="
+secured: "2i/4lbahuHQJDF8qplxS1BH/4P1NMU7haLxWhg0Nfi53nrEx3ciQdmlEf+Ng+CdKkLzt1qan8H8yGlfJn2u3oyPcMD3y3aYJFJ/Vm/NDfFdK+LC0/RSZpl21RwYSd5Yp2sPNpxdBUesk86K8V2pmCbiZcG+zVkfudSHaPDnNhf0wIktFJjvv5FYQzC0ziz6ToUtX8hlS0EEn+oEIjklfXtG2NlULFic1NreIpL0kSrhWPjzi9Uma7RnCiDtdSCb0R3cHcfLvn0xOpchNMOqsQTsN+Zc//Zh03ohDvgIs7Ri+BFhTqE4K2Fpa5XinF58u;cfQ5BMDFzmDt9MKsziduNQ=="
 ---
 

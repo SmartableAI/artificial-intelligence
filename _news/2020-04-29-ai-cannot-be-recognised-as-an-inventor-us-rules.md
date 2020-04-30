@@ -3,7 +3,7 @@ category: news
 title: "AI cannot be recognised as an inventor, US rules"
 excerpt: "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\"."
 publishedDateTime: 2020-04-29T12:40:00Z
-webUrl: "https://www.bbc.com/news/technology-52474250?at_custom4=242894B0-8A16-11EA-9319-4EA54744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
+webUrl: "https://www.bbc.com/news/technology-52474250"
 ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52474250"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52474250"
 type: article
@@ -59,7 +59,16 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/8KaGrcOcMPTz4e2ak0DOJtOz3bY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66726960/jbareham_170215_1460_0001_v2_3.0.jpg"
         width: 1400
         height: 933
+  - title: "Net Lease REITs: The Perfect Investment For Deflation And Low Rates"
+    excerpt: "What are inflation and deflation? And what cause them? I offer an explanation that forms the basis for the rest of the article. Five underlying economic forces"
+    publishedDateTime: 2020-04-29T05:01:00Z
+    webUrl: "https://seekingalpha.com/article/4340811-net-lease-reits-perfect-investment-for-deflation-and-low-rates"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
-secured: "tnjtbL3IQINzhZ7Hxpn4IpsZYlW+nUbaljDhAAdgm6R8vKa7hOx6MaHYwbBOHakhs17XmnWpgXOUr233kul7i8fi0ppJ5/TLQ5nlcJeSt8rgOJmPpK6ui+CmSn5XCvmBnNi7614u4fi9hPVvNbrKljE95XNvrsr+xL8ImD3SiSXbfSWQvdU6vno3x7qSEgGKRBq8UE+n1JGHl0VpqCji8H43O+1JI+PB6IC/ApdwA8xiQ24FHglaMJeVLJjvXPxMTj74x28zionfJ9Pp7SJ6652RFWMv8CPaVUh8ztQuhnsKDcVTXWEwDltAAditCzwt46YIYQoHJklt6+zPpy58oKZwlxzn2u8IH+ujwPA5qfBHyPnjxSRsm9gPKbrQVXNa7PdR1B4ZW9P29qS/XAN83uerQhblCuEM0IWQZ0+/8mEvDWtO3eSxQgQO9PdXTg5ivdPBQH/9Qj/aBtfzZpElLPwieffbkmR7BybSVcyMqPw=;9/JQlH9pNCNKajUqIfNUnA=="
+secured: "alwejb3jilP/amPi4Dn/wlQt4m9TH7BBRQPruBSHAHJ61jvF93je9/tODBfDeeNxuWwymnEfIHmCBOGTkZ0Pcw3FDrNsoPEOHajjSJBILsXgiwtdYNv81GHXen4lDRvrUoY1CgYV1TPHPJ27nxv1nOzP8H2ZtIeXnDAlI8MdkPODDNaiVYyyqjXwulBg06iGfwOr0h85JgaxceEq8gyEWhLVbnzQEL+rwjNX7PdkUGtmS5FS85bITUs4ZKOjdhl+vG+K+sWATJgK4To8wEAE6sQ+cybADCBGSNg5sud944wnc8YCwRHS5dnoolx2hMWy;gp28Cce/7FljB5qZHjoZSA=="
 ---
 

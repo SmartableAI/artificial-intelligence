@@ -19,18 +19,18 @@ topics:
 
 related:
   - title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
-    excerpt: "C3.ai, a leading innovator in enterprise AI software for accelerating digital transformation, announced plans to collaborate with"
+    excerpt: "C3.ai's global customer experience and elevate sales performance using intelligent cloud technology.  As demand for enterprise-grade, AI applications continues to grow, so does the need for modern CRM tools to help businesses identify new leads,"
     publishedDateTime: 2020-04-27T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-301047370.html"
+    webUrl: "https://www.marketwatch.com/press-release/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-2020-04-27"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 49
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
     images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "8SfJg4GtWF9M9PvnI9KuJHsG7ZBsNqXoEDsSKnImNsy0qsvZLMwHj7ZZjO8SKndt/chzc9YF9JmqZVHmBOlihfPSmGZHv8MX5p7TDsLATYuTqzwFqhzwIknMAkwdvmqbkUqxHQlejRPqXKZb8Xv9MC0Qua0FrGp4Ys+sXkXjxSOhD6HuiYGl+EFdayMus5Z1RE4O+8OHsRYxS+SvCtzZ/eyFopp+GDTm0l+zo7STY+g5Sik6S6v96k5QXVc4IxNFce7vWEQ4lkpPWbo+tGmorzNMXUDmVL2o/NjFNbrzyrWhMAcSSOeZAZ1rnHqYo4/0;YKwt91n7GD5WB091FqL80w=="
 ---

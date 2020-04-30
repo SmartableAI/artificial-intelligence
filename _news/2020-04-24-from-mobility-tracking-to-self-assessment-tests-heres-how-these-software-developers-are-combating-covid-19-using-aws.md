@@ -3,9 +3,9 @@ category: news
 title: "From mobility tracking to self-assessment tests, here’s how these software developers are combating COVID-19 using AWS"
 excerpt: "As the COVID-19 outbreak continues to escalate across the globe, concerns over its impact on humanity and its risk and effect on business is on everybody’s minds. While governments of affected countries are trying to arrest the spread,"
 publishedDateTime: 2020-04-24T10:05:00Z
-webUrl: "https://yourstory.com/2020/04/from-mobility-tracking-to-self-assessment-tests-he"
-ampWebUrl: "https://yourstory.com/2020/04/from-mobility-tracking-to-self-assessment-tests-he/amp"
-cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/from-mobility-tracking-to-self-assessment-tests-he/amp"
+webUrl: "https://yourstory.com/2020/04/tracking-self-assessment-developers-aws"
+ampWebUrl: "https://yourstory.com/2020/04/tracking-self-assessment-developers-aws/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/tracking-self-assessment-developers-aws/amp"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 400
     title: "From mobility tracking to self-assessment tests, here’s how these software developers are combating COVID-19 using AWS"
 
-secured: "0XvTnTrKnA3REAE0pwIFFtcza8KSGzRqO165DdJkd8/OlcfveZi5x5E5tbyoweu1i3/TyME01IYZmZVZh61k/jYwnS32TFbisH+YlMV6JuaX8OhXcyhi/HoGcIwm7etbPLvrMPmkkorKlImwQ8B9bdDDU1beILFptkKeBdHRDD+cqCr93BLsTYvog7+IteM0rWcjNhPhcdJZM4Ca705td+QQGoFg4I2dLD9EGLHW2T6oeNQNeQrcg4WGyn69e+8vw/euLqDjmOLGCjdWgxH5FZ1vuWkSU0n8kOes6Qj+VZvzphPakTLCufSdd9WphnJd;NGTghbpvTPKt00kynrpUiQ=="
+secured: "kqlZt/EueJz07e6W6g30xOqDB9CqSh5MMM7MR2WKpCB8K5FzvsCpHeCaVwRcDmuSbLJcDyxtw6SVcA64yjiVfAib3F4jxMpT9dA7xHn4PpXRTUAfVfl5L+Du+S8M6D6pP0LYxyjDs5sRsIb1sB/JmkV2gZGV3i4eUNqUP3+GaypqmAXO1beNo7ZbHT7KZyZ9Pf3rNnLSsQwt0qSB9zvhPZ2HVKE4Ni5lt6r3neY2uREiw6heTBT3L6BjLzEPG9Fw8s4lV64m9DQFm8F6pZ5IZeEwW8Z9u6qWHkXiyhXmZSWURP0g3Tu0K2PgPifISEP0;sFyObFxxX8bDGLG1dLs1og=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligenc
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -32,7 +32,7 @@ related:
   - title: "AI cannot be recognised as an inventor, US rules"
     excerpt: "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\"."
     publishedDateTime: 2020-04-29T12:40:00Z
-    webUrl: "https://www.bbc.com/news/technology-52474250?at_custom4=242894B0-8A16-11EA-9319-4EA54744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
+    webUrl: "https://www.bbc.com/news/technology-52474250"
     ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52474250"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52474250"
     type: article
@@ -59,6 +59,15 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/8KaGrcOcMPTz4e2ak0DOJtOz3bY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66726960/jbareham_170215_1460_0001_v2_3.0.jpg"
         width: 1400
         height: 933
+  - title: "Net Lease REITs: The Perfect Investment For Deflation And Low Rates"
+    excerpt: "What are inflation and deflation? And what cause them? I offer an explanation that forms the basis for the rest of the article. Five underlying economic forces"
+    publishedDateTime: 2020-04-29T05:01:00Z
+    webUrl: "https://seekingalpha.com/article/4340811-net-lease-reits-perfect-investment-for-deflation-and-low-rates"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "EpfwvAVWoKQhG4CQ6euKHIvDEBO7B/JrjGFYwyDJSpgA3L4uCdC3bE1MvlNBgB3lXrK6CVvnN9nOr+oOTCzN06O39x8+pyyurrqAqGkH4rPxCV91l1ZI1v2UJR7xJO/PQzH8kxE0g0rI0v7TKYB8hx19hnKRoAv+Upjc9598wN2REuY74Q5L4ODR1SijiFN/xlg7PdKgQ3CBqZWDiYGKzExu0coTCKeqNw1ARH6+qmjoXmjom+Y5f2Sz7E8/+wTa5ch3VIPXM/o8dzQbqFudHJP7QB4zUsndCf8xAlvaBo5VHlqe34EHB+kcUJk24lUgHHvPpRjQ9njkCyP1KMzRBFdrLIHU1Fk2s6piLUgBYV1VwGrf6P7VyuAcsLhosjAcLfuCAADuCdmuDVoUIHRJCpPlMgbXNbU0J1CS3vbqKJ2j4phFqLzkLy/KhRw95R0Uk+GPBuignO/EXsBKazrxs2dshIPHQma1vXrXDkF+86E=;EYw1JeLhCuG+bH4wh4vqBA=="
 ---

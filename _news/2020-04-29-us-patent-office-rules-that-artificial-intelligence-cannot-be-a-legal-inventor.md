@@ -47,7 +47,7 @@ related:
   - title: "AI cannot be recognised as an inventor, US rules"
     excerpt: "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\"."
     publishedDateTime: 2020-04-29T12:40:00Z
-    webUrl: "https://www.bbc.com/news/technology-52474250?at_custom4=242894B0-8A16-11EA-9319-4EA54744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
+    webUrl: "https://www.bbc.com/news/technology-52474250"
     ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52474250"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52474250"
     type: article
@@ -59,6 +59,15 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/26C2/production/_112022990_whatsubject.jpg"
         width: 1024
         height: 576
+  - title: "Net Lease REITs: The Perfect Investment For Deflation And Low Rates"
+    excerpt: "What are inflation and deflation? And what cause them? I offer an explanation that forms the basis for the rest of the article. Five underlying economic forces"
+    publishedDateTime: 2020-04-29T05:01:00Z
+    webUrl: "https://seekingalpha.com/article/4340811-net-lease-reits-perfect-investment-for-deflation-and-low-rates"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "KwCdPzUbGh/N+ppsSh7vdvZS9FmjH1w8m3PVWM9PFo5PX/baS2mSEYWOUxuU1tCrYCfTXKDVpcey2hzhMUM3L7veYF35RTWeLZEH2UcAYcIutMNmLG19ZKTz5cHTi0lY99+r477hGi+Ul2XZgmuMozXBo9lVkixhN/ExAqLayvcKd1NadViCgpwffCwzpYMWLUfkBFIRKIdFTvuPpe9Da77/24rSx4HCsq65XNGtYwogCpptX1TLOyO4O+HHD/YYC+GIgCBY4GLCbFSzkNRy/BrkNzGI4s4IiNEB0R1EXYWOMQHPlNB08VO5be78gao+ihqCFpV7T59czhI0Bsr7nMz4GzMIj/snft3ooYU0beYkmniz80SDJy0SsyvAHmgkgjCMSHOJM/UIUkPwSsXi0kcm0W4ahPVKj/aw6goLByPTAW44LcrFGjAe1ftkt7rUZEyFoF7noUELZ2/QxVsUfIWXYVbtOj8USRLfwx/0QXQ=;ayjiM8mOpLdwYognv07fBw=="
 ---

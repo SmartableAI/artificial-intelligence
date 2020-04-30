@@ -1,19 +1,25 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for ..."
-publishedDateTime: 2020-04-24T17:27:00Z
-webUrl: "https://stockhouse.com/news/press-releases/2020/04/24/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence"
+excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or ..."
+publishedDateTime: 2020-04-24T17:25:00Z
+webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "erMzsZ82r10Eyuq9QrdRuhJ5krBKbK1O4aMzaiN+C5hxYpdrPCnLOwWPVmNndKU1KnvuLfZNtmmtI90iaZJSpBwXY/RjR6yJVdYAi+1MvOCYLTcRrpSVLLNF3YWI/6IgYp07LCroHy5XAtCyppThxZpxXO0IpLz0xtCFxXcWohT+Nb4ssHR7VAa9jBefFSfebnuznJLMPtGc/UK6kgtJ7062clj3IbnpGp+Nx9GCZ+mNq4HIRkrKS5o37wIMVHYO3SwPz8tUwt16CAK8FPct/P48hhhXYjejd4vrxiEpfvw2EfCSa3E5kxJLQBn++tVj;aJ4ZX5DlFKuHz91cxlhojw=="
+images:
+  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
+    title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
+
+secured: "ClTmW61e7ukc1crrgw/rlsXEyVOvrRubM2wb/+tonzkoPRJRhvGmSzyx1wqxqPmJ4C8TgCv1Sa3xpaCDPrS4NGAoPILyAPe/V8Gt0FzWHFGbbjTIIZdnwdHktXIx9qRZM54TmMpNeiJAeyx01WM+PH129xti/566FE/XBK3MkowtRKNr4XKT/mAkWJ+zFZRJeRhzpHhgSwZByn/asGEWP6aVR+I++4F70opio6rEotb7a/fYO/lfbjDevoEKSjSA2IqlIqdU3Vq6rquIeA9VXDY0uujvjBbRO9fbRdPyOig1gfskDOOJN4eS8+GpSRjK;IvhEmrqAWSIVOqK0zmBhLg=="
 ---
 
