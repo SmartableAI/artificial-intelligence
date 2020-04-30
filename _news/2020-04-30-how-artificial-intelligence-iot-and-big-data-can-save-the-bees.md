@@ -26,6 +26,6 @@ images:
     height: 720
     title: "How Artificial Intelligence, IoT and Big Data Can Save The Bees"
 
-secured: "9HZLmau+3KOTu70nWsIhQMVzsnWYTllB/nyOiG+9Hs5ARfF6S/6s1lue4lBHW4QO2gh+14MQHX2PlhTkpR+Osx7qldoAY4edCAJ1eJx5GmX4P/hLkR4Y+PYP0ekE5b01a8sQ6KkE3RiEnQPbGiMwRDiNBLhnKDZCq6eidXHfD/zvhT7VXdXwcRGIdL3vhrQkc1jw2EtHL0VbyzpzfkUPcnBI5T9GqsPtlde8lUUJgTjA9Qff/1NqaF+yw2jidl3GiDiWZv7q6wAOgzU0C9vQai0FjOEF7NN//86Ssdh8j21szJxtsuzuZV89qgozONAB;D2GaxY/mJxTdpicPp75CNw=="
+secured: "nVLkguGkLdTevaexqNcJ6kW92tavGNWy75cH+mixQ7JB3N3tSg3VShq1Fnv0NstCH4RnblfgKKmQAeX0WnasNmeMfl4TIKdAXTjdr9UaIABFDwR+xPB5S2YQCnNhlK//8VamKTZKYZg0qJJfu/7Z0KVNZBbkWKwzv0+a0lMnLO6D7uHDaquet202nR5bt8hKE3Kdgr/20fnDKBy3DnWKbbxbTn8MaWwjEDIdfBmVufwUz8TOt/ohcaOwcOH0uiiCkYWqGKDS3u8IRw/NHsSQ5dz3byCRFO85z1jbwlhRW7Qeo89NqDySZUzyDF+q1TEnwtSUbjrSQMsAgIvOb4QKkJAE+GDUQYtq2ddJW+4XCmH4RtYdr0oX6YyBkQ1GCAfOdU2sUteKxGqN4s9I4imlZPUx/r+EnxcZSGDHQV57fRZZxh3KASi2cJIwZNLCXsbftG7UF2w9WbgC27JHAms6+cJMwLtPzm6c1N8HRNrZpC8=;8pxwh9xtxHMkk/31f+FEsg=="
 ---
 

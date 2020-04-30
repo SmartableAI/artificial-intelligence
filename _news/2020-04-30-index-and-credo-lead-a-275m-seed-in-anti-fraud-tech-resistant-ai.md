@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/04/30/index-and-credo-lead-a-2-75m-seed-in-
 ampWebUrl: "https://techcrunch.com/2020/04/30/index-and-credo-lead-a-2-75m-seed-in-anti-fraud-tech-resistant-ai/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/index-and-credo-lead-a-2-75m-seed-in-anti-fraud-tech-resistant-ai/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/04/64BD2795-BB78-4834-AD77-F7E951E9BD85-2.jpeg?w=1024"
@@ -28,6 +29,6 @@ images:
     height: 682
     title: "Index and Credo lead a $2.75M seed in anti-fraud tech, Resistant AI"
 
-secured: "669hGroDB2QamuTWhrUb6RX2yx7Z+TD6eTm6nbKl7OZETn+EOYPLaFO5zAT45RivA2EaD5u4w3yf48tlIBsrgAvpv1ThPhB2xjF0zX9RIN+bixIBSAGa5hy8cq3As44kWO95sr6XqRkiBJOJySNPoex/m/A/FkhAcNXMOdRXNNQfTVlb2Eyv+vC5lub1T6plgUmeHuKRHTCx52UxOTScI6WA0z25xf0hBD34I6U6F89Yt5dw7Y5v8yhdUDeYEYdZ8l7BmXb3Z86+dut09DiHm5MvtzV7DMMQ4cHHGBN8k1MNd2VmWYrR373JPzyLw5Po;Z8AFrdGxCn8b/38IkBUJFA=="
+secured: "FkvUicqV0T5hXlWfLbQOIpb/3p85JJM2YD0PZ0EDyDjKdqTto4PYWzFN/1nzu5exs0WQLIwwxgblOC3qlFmjU+L14HQ+JWRXSx75RBlF/g+2ZwY3+h2c1PIvfdOx5Z0s8lZAwg+OHy6pubv0j8QWEZxDAqN9PZgwD+71isupiMoFHRWcCtl3gHuuAl/9AiI6RcNMihm0g5mmCtYXdRP+d2mSJF7xq0cHV/gOVJ1gvxl+MbzmZdHjxOQOdbMwlVtTUJOxo4W7AUQwZpd4QavtJzjOTLa4sIJvSyK87l63Y2i+AUoUcroahwcc79oWA4omh8lOFT4clsLYMLfBfzlWJkIb9DceoQhsGC90eZ2lSYRJxHvGZuFmDMkcUgm0DL/ZLMb5DSOrN7wQwBlDtL3YDmJFKLnjMHRvATHNSk08ykQymXsQgBjpw7klxtvhNw7mXiSD0+fQDw5gQLv7xFvLBucErbiOAgzNw1V8wmiqeQ8=;8XzgLeA779NFxa4/IF5rxA=="
 ---
 
