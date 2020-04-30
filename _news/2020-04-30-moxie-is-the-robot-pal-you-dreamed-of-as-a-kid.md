@@ -29,6 +29,6 @@ images:
     height: 1533
     title: "Moxie Is the Robot Pal You Dreamed of as a Kid"
 
-secured: "JVal4hNHSpMPop51+N1TRLIyfh5HJlKyMLNmrNHA4/UYOmfvxVV27WHzITloOuyyByARcucE10cqHRVkCF+wjr8KaYAhfdtQth67jM9ECaPlBnZJG9UMXw4pKdAz8VVamdd57VjsL6tAYXj0XQrqK+sAoxUuydeTHlutpKVFKaPRY6CekqhAf/HZjJLHDaSTRUSbgGZq0RykW/NiA+A706rbQN2gGhRN6TcXhmejCaRox3leolN1eYXfP/2S0pw+8ZCHT/IjAP67cRDeuCVFntGyWmVbH8HEcODFuo4umYlNTBoO0xAJFAFRB2LUNZTt;yJ1CPPqBfTcv88id0nNRTQ=="
+secured: "fVw13G/BJvE+1ieu3QKDxcc1N79U2PuLLdXwJL0B4YIsliOc4Uxk8ZJm9+AtPC0shw2b4LF+9Z7Bxu94d3uwqfhIeJJkDaaoEJKmSktEYoG8X3ps+ZvSOTlx08xoFomssAPtiqDE0RPeDN4sI4C+FSjC34/jBGqYZ5YQMimYZ//jWQJISNkr1F6+CUjOlMaOHXChaOZ3uUyfT+a9TiLV+iFmINwSShVcjhvN3ff3RPn+ncZIOsrdsngxxeeU/Ypam1L4bFNNeLTmFjhkZayPz4ZR2FphlOHFhMgjRetKAoEYryqG9dUe08+MbepwYp1uTAgtDXA31Tb6POi8zIWV9tkNSyLvBoqebEMNSPUduHSPumEyv4Ho9pDZszXDAzD+c9etRfaVMVbh+NfKaBz4jUqPk5js8/psaelNdZ2h/jBV9XvqFXbn5IAPqInLkic9Q+Xy6hjg/4KEy6X8Y0CtPbX5ZSTJf2APSuXFXDBl0gM=;zPRqsPwroOGaDbw/fzmIKg=="
 ---
 
