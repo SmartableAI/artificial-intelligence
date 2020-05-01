@@ -3,12 +3,12 @@ category: news
 title: "412 Food Rescue Receives National Recognition"
 excerpt: "Food Rescue is the widely-celebrated Pittsburgh nonprofit with a mission that’s never been more important, KDKA's Ken Rice reports."
 publishedDateTime: 2020-04-30T22:53:00Z
-webUrl: "https://pittsburgh.cbslocal.com/video/4533794-412-food-rescue-receives-national-recognition/"
-ampWebUrl: "https://pittsburgh.cbslocal.com/video/4533794-412-food-rescue-receives-national-recognition/amp/"
-cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4533794-412-food-rescue-receives-national-recognition/amp/"
+webUrl: "https://pittsburgh.cbslocal.com/video/4533781-412-food-rescue-receives-national-recognition/"
+ampWebUrl: "https://pittsburgh.cbslocal.com/video/4533781-412-food-rescue-receives-national-recognition/amp/"
+cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4533781-412-food-rescue-receives-national-recognition/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/04/30/story_04900634_1588288408.jpg"
-    width: 480
-    height: 270
-    title: "412 Food Rescue Receives National Recognition"
-
-secured: "LVehz2tDlZ5DcoIBU9zgAe8ea4jZK+Up3/BP5TwMDAVcPn08ObXhK2Yi+OpDPHkZTTjsk/qsgl9jW3qbBmgb2h7bfz9vYuZzG4Xf1PGvHuwGi53kwEAjXCSqBXBNfs9FZE41LlwfP6AjomJWzC1AK8v6oDitPIt63F5KxVrn1NGi9y7uhlkonQdAtK/Lq6ygk+Rma4Vp2yDajcwi90hJKfQzTNtglsAMiqZK+jPnxUBxDQNiVisj+dDUFoEcxoCxqVGxpXKgrU1+1R04PXFMQ4tw9gNJHlFgPOCNnKURyMWuTD1AMeZgrK5A+DlC7SIhNDjGhWDibyK9zFo+K69KO/eQlPjGdwlU9hOYC7dCD0vEH6QzxcHwo2pDwUvADOhw87PZd/faOyiwc2fQ6NnN0bZ2ufSMVA5D7dFM631oa8QxBO2+mjjPGwKgCqqg7zIQIuNEVGFadZ7gAxp8CIKjwOSk+wkrwvWFHZtnZs/JDtA=;bEZw/CfepaDsIsFnBk5U5g=="
+secured: "rgwbIBzgVFHi9wHncZP0Y+P7auLJ3P6YlQlvI8FVUpDDPZHtXxu6irUQwjCYq/QhIZP20fbBmk3yfFpbtjiuTA3GVaMunsRExchFecVWvdZOU8XET0N4NwQ8tY1kHOoyN4ZrbMqPK0KRmObM82E6nkbRPdkrB2lGp+OjNuGs37oG8+NAmOl1qaFqHbRmudM2wtm4JgIF7CdWtNv/x3styP9d4ufZ5W2zfz2qOzEGp9sgjQyofR617rINhmKONEtUrIVNxchCA00XoiTZJIoYM/iqlU89nFffgQSRAMYfGW5AbKRAH6M95H0/hIcs34c5JQnBfXcKMOGyX5efFubxC9Euh3V7HBtYD08Rw0Jt4dvGrTfU31IY2oQ/+Y/9IsQfTS1C6icx37hLJUVXoFjt4O0UwTO16iA24AAYyU+rsSolCgx1MrvhRR7GMiNSSwb4oYGoeCCRglTUmszQdI9mxuIDnE6GddLGy0HMCy4zUsA=;aoqYYCSb/D5xJq9ghrBKpg=="
 ---
 

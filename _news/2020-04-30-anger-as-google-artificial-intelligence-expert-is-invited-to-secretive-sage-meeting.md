@@ -57,18 +57,20 @@ related:
         width: 1000
         height: 835
   - title: "Google executive attended meeting of key scientific group advising Government"
-    excerpt: "A senior Google executive responsible for its AI efforts has taken part in the Government’s coronavirus scientific advisory group for emergencies (Sage), the tech giant has conf"
-    publishedDateTime: 2020-04-30T14:32:00Z
-    webUrl: "https://www.shropshirestar.com/news/uk-news/2020/04/30/google-executive-attended-meeting-of-key-scientific-group-advising-government/"
+    excerpt: "A senior Google executive responsible for its AI efforts has taken part in the Government’s coronavirus scientific advisory group for emergencies (Sage), the tech giant has confirmed."
+    publishedDateTime: 2020-04-30T14:40:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/google-executive-attended-meeting-of-key-scientific-group-advising-government-39170871.html"
+    ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/google-executive-attended-meeting-of-key-scientific-group-advising-government-39170871.html"
+    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/google-executive-attended-meeting-of-key-scientific-group-advising-government-39170871.html"
     type: article
     provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 21
+      name: Belfast Telegraph Digital
+      domain: belfasttelegraph.co.uk
+    quality: 41
     images:
-      - url: "https://www.shropshirestar.com/resizer/qU2q6cE0DTmfIatTnsHXntGJJZ0=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-shropshirestar-mna.s3.amazonaws.com/public/2KILEIUPPNCPVA4CR6LHKN77OI.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.belfasttelegraph.co.uk/news/uk/9411e/39170868.ece/AUTOCROP/w1240h700/bpanews_ceadb59a-4267-49bd-a799-c9bfceb55c2a_1"
+        width: 1240
+        height: 700
 
 secured: "X5tB9sh37shfMaM4J4LuhDbVE1Ptnc/GMUkEVS2tz8LK0dWiJMdCLjyhYyzPHtNnBjy8DuoP2p6aB9pTKDRi5NsDaVaw4BPPAkNaOvLdplA8gPLGC7OIcfZNgnH+BYLAazGpzPBN3xiAPv/B5RehDCkINSDkigZAae/QH6eCqcEmD4NkctK9/swkD8szZk4hLvaWGLiizBe93oGBJ/m1htl2dzn5x5ujDXB7pcutNHXdH4BL1miogT/55rDjEwl+HkxbnLrXj/rlMgDmW2f759hfj/ozlNOzMtNCpQgN2hJrlyiMuw3guM3CID0U5Bzh05p99HrrvTeKjmropiVsusw7pBuEPJHW64EZgojc3QvQOdFHI3E13gSSnUCkUx0hp/StIXlhS66cddJdO08UGHAWIv5t92623YBfMVWdx0GSqRTSBBE63TqwErL5W6Mh0dnfuUPjWYBxuKsiLSXiW9G44KvKIrqGaoIKu7ZRVTU=;HT6BnO8r2Ywo9f4O7FZNqw=="
 ---

@@ -23,6 +23,6 @@ images:
     height: 720
     title: "Savings app Chip completes a £2.6m private Crowdcube funding round"
 
-secured: "JZMiw4+i4OW1DdXczdB+rTTiEfqz6wq6GQNiBTtP1o2wMhjQ1mkohQ8TXCD/kHQogNIatbkwvv0emdQ88okclOtjjovx2Nw+PcWJTvvLPCeloqgLhLV41uSywxiZcBKpCLHzvPdq5u9guBvnpxpmvo3K5j+AL0oQ/RcUvOGLPDHIs4Dhnj329NNVDhVI7FtHgzDybtv5aW7FHfu4KUP4NaBu9pzp2DNKPww8rRn/GBUaHE63BvOeqZIY7E38ItZd+IKq+7Gf8e8fSqUw1Xlz30eqoi9Pag0dT8ziPd9tcQmFtDLGTWqeb3A85QaQaXrJ;n69a0eKbJHFca/RcZNCLXw=="
+secured: "LFJRC9MULYf/rB2CUI4DKfTm5YCdPUHk2fGTL/TCV8GRgI7ZktII7RrsOwAuaUUOgu9uVP1+fPc7ZbuMfQFR0VqucqViuhziVLbBCL2FxFBUCenIxH8sFSN2kkNJ13xanWCmdyI3g36N1ptPFuaVon5wWkpRabUOBCKEgl3dtLrlAIPdZjKUoUjOCOgWlEZ3sY2dDbl6AGmqO/2X9SFdjm3WZq8qoXu2PueT4DwLIIPN5XTLj+ER2wuhjyesSS/v2UJH8R3/0Vhw1cMq1S5E310bQ7QeGWP/Ry1+Bdr+t+g+X9CrXmbrFEFRJN8X007XIS/QdejfW19+SQ93Wu8qcNRbjvLvSvD/gNd+GL+xzXo/bQYMquaurQijYNglRhsRELIXVbPN/2+lLLGdR3kUw9TAeNumozW2xYJoF5I283Wa/I340ZoOWVNgnpZYrDENxi+kf2W5Xn8IqZAdCWe842I2p5MthZjjZ7Ecm8r3604=;Ti9iAS7UT4iZZiEkAHxCDg=="
 ---
 

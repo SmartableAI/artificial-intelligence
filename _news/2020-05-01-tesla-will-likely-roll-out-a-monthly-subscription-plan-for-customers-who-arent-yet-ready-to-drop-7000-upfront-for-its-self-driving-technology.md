@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Tesla will likely roll out a monthly subscription plan for customers who aren't yet ready to drop $7,000 upfront for its self-driving technology"
 
-secured: "Wt32A3OSf6P0m2LfLfwHtXXgel5is1IiFriPtr0WyoGZZLWnETBh7rJcUQhqRWGhdw4bpZl1Bvjq2Xzi2OnhAvhI8lXQF/+N1HyBPn76/NBYuePyv04GHzaXWaD9gDrW3tfQsDVUQGDvzmH+E/nfb8QApdAFWHm6N/JFZA+ebX0F/LYZ2Pob2bdMFyaCkJbe9laDUmO4MGmmzSYVrAIZClMOm4cfI6Uu8m1u6/8B2/rV/wMFRJ+aBo4AW4Y3icDnFfuWx0Dh291S0Cxy3hLY1vkO/WY+/AGPH7gulTUYuqipduZw7MlqOj7zlCs+YarQ;xI+Cj+JPOinogguzKDIF9g=="
+secured: "CTybDJ/EXLeUT6uomFAHcUgGb4ejPjQ+mS28ls8AgDoHxnTSMXV645FiQ4pU+HXmOks+sfZvB7aMkF76Qae8uxyl5zJvksMNvgFUbJe3/lY8s01Cf4tppmvp669yHOFU62WbUT536hRED0sJjNV9tWZD5hoR5pwkEYFA1v2KbVDNgk8L+/ux4xgE+Ek8zo8cQv0zByNibkfpnoEOXXI2P5NtkA3+HObiJVe42C8z/zMspDpCjvYDGfOwnJHGBm4GE0GkIMaAUsshZJQVQNqCrkiYQGNcoy8zNLVt5MtOFF4j+w+KU6mYq5+17sUxbSXYZ67jDnsu0GaUVnd1GrJhYvWNqOrlydHFBMaioJRrtMq9IMIUppbdocQVakftP/xN5Qg5tFQgskwyC3AOnFgRUZ2rYxuhGPf2M4JLVrIDfIJV4yLQBF8692IgpTRvHw1gej/umjwKBHVLytatDEu64Xaz24I2nHf7kdkmgbuiE9w=;Nnyj/uACDR3IPPT/FvA6Uw=="
 ---
 

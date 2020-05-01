@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Google executive attended meeting of key scientific group advising Government"
-excerpt: "A senior Google executive responsible for its AI efforts has taken part in the Government’s coronavirus scientific advisory group for emergencies (Sage), the tech giant has conf"
-publishedDateTime: 2020-04-30T14:32:00Z
-webUrl: "https://www.shropshirestar.com/news/uk-news/2020/04/30/google-executive-attended-meeting-of-key-scientific-group-advising-government/"
+excerpt: "A senior Google executive responsible for its AI efforts has taken part in the Government’s coronavirus scientific advisory group for emergencies (Sage), the tech giant has confirmed."
+publishedDateTime: 2020-04-30T14:40:00Z
+webUrl: "https://www.belfasttelegraph.co.uk/news/uk/google-executive-attended-meeting-of-key-scientific-group-advising-government-39170871.html"
+ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/google-executive-attended-meeting-of-key-scientific-group-advising-government-39170871.html"
+cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/google-executive-attended-meeting-of-key-scientific-group-advising-government-39170871.html"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Shropshire Star
-  domain: shropshirestar.com
+  name: Belfast Telegraph Digital
+  domain: belfasttelegraph.co.uk
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.shropshirestar.com/resizer/qU2q6cE0DTmfIatTnsHXntGJJZ0=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-shropshirestar-mna.s3.amazonaws.com/public/2KILEIUPPNCPVA4CR6LHKN77OI.jpg"
-    width: 1200
-    height: 900
+  - url: "https://www.belfasttelegraph.co.uk/news/uk/9411e/39170868.ece/AUTOCROP/w1240h700/bpanews_ceadb59a-4267-49bd-a799-c9bfceb55c2a_1"
+    width: 1240
+    height: 700
     title: "Google executive attended meeting of key scientific group advising Government"
 
 related:
@@ -70,6 +72,6 @@ related:
         width: 1000
         height: 835
 
-secured: "778c+d1GIhS9ECMCxJAiFEskgEcv6Sz9Eqxi14WB0NWd6MAB7oPH9+Z65oW4hiAM5doSDVNJIeCdeYIvbhEYNpJ+V+DGXCT9nuzVTcMBuvfegaPLVs8HqgkWmWwWFV6ah8pyZ0mOX+KErg55S9Xgv7xBdV2K1N90cTGMCK5KfH1gTFHinHyUQMzRhrP9AgmZxbMWw2cm1+R75E3cgkjGraiS39eBgf643DBhPrA+riMuJcNVPEJFgRsPX+v7n8Ukcj6dKlqvyQb1Spw6z/E6IAK6RUJDo5XZte5iOBAAwBaMgNHDEntD2Aio97FR+JQe/7VgbkCVTmq+Evd4IAr7Lijpx8FYs77MW/OgBCPalvnCxeIu6Cd4KOd7o9h6HcHLqOfCsgMBEZ2GawbIPDw1n+faS05diAWnhJ6a2yfhTP6HupkWpYNg3tCyB+GU4lg5K+0EJdxUj187v9I0FNTZ+magKG3cYQJw7nTzBZvokfs=;kN3g7ixSOdMyYxBPWPAERw=="
+secured: "8fbowobP0eoOk4FOY72XQEWs9o+rBFR0eb4DG0GPdb4AkoMkv16P4IyHwjxYidJDNrflr3/aYQ1mQMEmoLKpJOxiMjCFT00ntmXzFPEa6ZW0hQ+8DkYmLBI7DUOF6204yZ4q8nzKU3k/IdOuIa1h+36JfYscJ58sB0nRMFVg6iDxh3ySIjY5l8BIPFBByfkgq6FCIIiovG17c7U4vhK4zG2bpOkGWqEM/Vep8kRvZ/THXrzjN8yEGB6JxYGCsjUlDpFOvFYGM2wYikDbzHdfe1G0IeO7aDWOz7+d+6Lys7rIhf8s3aAvJfLTRCflnA8p;zCaSBSd3hSQwStQB54gZMQ=="
 ---
 
