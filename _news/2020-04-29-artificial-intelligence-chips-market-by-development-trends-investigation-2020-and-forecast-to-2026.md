@@ -40,6 +40,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Neural Network Software Market Growth Analysis, Opportunities, Trends and Developments to (2020-2025)"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural"
+    publishedDateTime: 2020-05-01T04:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-growth-analysis-opportunities-trends-and-developments-to-2020-2025-2020-05-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "9H5pt6jBMfj3oV0z13uahc8wcOfvgGyDrce4OlZd2zdvp3wRTBxznKRJCQinU7XTz/hqB2qeMdAq70UZLeFTiDaQK4qccUHXG3Ek0XT7uUDdl4ZcQnQiN4Ho1UC0MnvypA7Ja5XTZu+E8MJHPf5+EKKwK17B7u/3MFgWXQybal5c7rb6+9fh5ezTxQxnl9OaiESWlIhfSSqXZlsLLzdBX0u/0iocbT3D4u/h4QsMW4WwV1azKGDtfnCHYAvEGj84iIImmCCOR8Ea74csd61m6FoqBnVDONBdBn5WA9heG0wyTXzmeHkT+tGFatV0kdvo;Q2nOGcEPF5LnGPFHAu5eag=="
 ---

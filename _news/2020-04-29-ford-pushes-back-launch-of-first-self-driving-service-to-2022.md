@@ -55,9 +55,9 @@ related:
         width: 1200
         height: 630
   - title: "Ford Postpones Self-Driving Vehicle Service Until 2022"
-    excerpt: "The global pandemic is taking its toll on the development of self-driving vehicles. Ford is now pushing the launch of its self-driving services to 2022, the company said Tuesday in its quarterly earnings report."
+    excerpt: "Chuck Martin , Staff Writer, Yesterday ; The global pandemic is taking its toll on the development of self-driving vehicles. Ford is now pushing the launch of its self-driving"
     publishedDateTime: 2020-04-29T21:38:00Z
-    webUrl: "https://www.mediapost.com/publications/article/350712/ford-postpones-self-driving-vehicle-service-until.html?edition=118210"
+    webUrl: "https://www.mediapost.com/publications/article/350712/ford-postpones-self-driving-vehicle-service-until.html"
     type: article
     provider:
       name: MediaPost

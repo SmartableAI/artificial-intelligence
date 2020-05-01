@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Ford Postpones Self-Driving Vehicle Service Until 2022"
-excerpt: "The global pandemic is taking its toll on the development of self-driving vehicles. Ford is now pushing the launch of its self-driving services to 2022, the company said Tuesday in its quarterly earnings report."
+excerpt: "Chuck Martin , Staff Writer, Yesterday ; The global pandemic is taking its toll on the development of self-driving vehicles. Ford is now pushing the launch of its self-driving"
 publishedDateTime: 2020-04-29T21:38:00Z
-webUrl: "https://www.mediapost.com/publications/article/350712/ford-postpones-self-driving-vehicle-service-until.html?edition=118210"
+webUrl: "https://www.mediapost.com/publications/article/350712/ford-postpones-self-driving-vehicle-service-until.html"
 type: article
 quality: 24
 heat: -1
@@ -68,6 +68,6 @@ related:
         width: 1920
         height: 1031
 
-secured: "TBU27QSpwbuu8QKlmYYsAvmI/ljZuA5EeJxb2j4G3NK8G3X4q49PtoYaGMGQopJT4v6/HDwhSlTuFD1QJ02r4H+kEqdrl9H4Vh9AloPX7KCZ7PJ0nmwi8btcuxpN4aKKlZ69kh4rY5UiHX0YjYaUv7BnPgXzC/x0uyIOBIlLwKYskqL2KDtE4/iBWnPoW4K05Z5P4jDG/D3hO0xWjXhqTcXSRaJ0GKElq05oY8r+dmunV2PuCdelIZUB6GXXVzBOP/57U9pi+6B9ZOEfZhtnr03wSqJbHYVuY2WXBPlM/Dl6fUwvBmU+dZEybMtqsWxe;tW/whaG77fQs9TW2yziFqw=="
+secured: "BW+ZR5D/pbP7QqOttKJlTyGqTx+gPPzFclVD3oIMMQjAuQJmdHYoi4hamrb9DhoLF0zozw/D1RPtcX6B3UXt8zPgxfBO1Ad/kkbgEqq98o1Juc7FWQ5x74stjug90BH9kqU+Sl32dhgW6FWSb4l5xnz/3Htx/wgFijl8WNAo+dN9/BOSMqtf7ATXqvVRIiV30TH6R9DPNRA5fwKMOVvSYx2wYzdESLOBslJqOoiYfE+00oYfCplqcol5n+UFLhc/fY6F7sqWjSN45zJ7qo/myhPaVN0TogOZx61ZfKMO+m1NexTjPCqMej4YhdzkURxG;Vu+o2UYSGruELq5SUVMwXA=="
 ---
 

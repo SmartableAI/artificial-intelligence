@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T16:52:00Z
 webUrl: "https://www.usnews.com/news/technology/articles/2020-04-29/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,23 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
+    excerpt: "Self-driving cars, trucks, rolling out of the labs onto American streets to help deliver groceries, meals, and medical supplies."
+    publishedDateTime: 2020-04-30T04:41:00Z
+    webUrl: "https://www.standardmedia.co.ke/article/2001369648/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
+    ampWebUrl: "https://www.standardmedia.co.ke/mobile/amp/article/2001369648/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
+    cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/mobile/amp/article/2001369648/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
+    type: article
+    provider:
+      name: The Standard Digital
+      domain: standardmedia.co.ke
+    quality: 44
+    images:
+      - url: "https://www.standardmedia.co.ke/images/thursday/selfdriving_vehicle5eaa5bb1afeef.jpg"
+        width: 640
+        height: 426
 
 secured: "cmUigKwST5OjTXO5B8Xme7QZdqjlaMnStv2IjdFVJvlh1BC7YYO4BN2F8wSPVAvG8ZsEqAKyC/26jG8jRpWI24dAf0we4afwV9pJpCrESqHPaXsXCSeyE6wUitZQ7OEqaSBymF51vRXS6SzdZhaFjdNvFVSv0vwR0LevLNsliTJffdr2iDvNl9nysTm+L9cSA1tfr8q/gCwFo6NCS0fFgqVBeSUOmCnq5ayP7nmcJ3n/RdX5xxFpCJ874FwejE7KTgnc1TTxSmIHdIteG51GlR6o3paGrfpTbmFCzCa+/3Hiq253/jLLtPitZ8tUdepi;BfZxcfxWm/oi2aRD/RX2jw=="
 ---
