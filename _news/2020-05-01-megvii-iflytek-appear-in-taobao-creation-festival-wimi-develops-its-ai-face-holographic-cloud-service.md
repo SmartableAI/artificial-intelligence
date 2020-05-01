@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15929960/megvii-iflytek-
 ampWebUrl: "https://amp.benzinga.com/amp/content/15929960"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15929960"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.ibb.co/DDmnR21/1.png"
