@@ -23,6 +23,6 @@ images:
     height: 400
     title: "ADLINK Technology AI Frame Grabber | New Product Brief"
 
-secured: "sQ35cghzEs526+0OLllaChDf/khIs+EaHmaE6q1iOWTdq75cekb9rrnsgWNWwf87JmfOZ7I02OSeMGs4hEvYzzR6HS06gjHsCLDW7WPg/XwGz3ptrkto6WroxlgvC35IU0L2Yu81uAlsmdOYhJZs/eTZGMhlVBosLJ1jJHPAbTDJQHaXc6lxIQ4cggMab/UEsEMedZwm9yuOp/61neWiyNygBhcTq0SPhdApIUPF/Q65i5Wxak19I2p/zyWy66ZQVBQaK9G2U46+uifxRY2rsgYDHGJAforxNxcXZO4+Pf3yURYA5GdfLL0zkEviy06l;/9VIIs1v4vTYbrc3hy2U3w=="
+secured: "uY/V/7OKwIKz/Hr7AjBoJkj+AnDlhfebD4lik9x+v/RPYJ7rzFEkw+4iwHFTox6lMPAMJ4pTNF1ELKqgC6Hgk0KI02kzglQdKAMR3LeNskTPMDHT0iwjq9iWOt9OuubXUqBL/mnuLF2QaVj5VZ7aUU+5bJ7LoC/X+cU+CCAGEGyiw9JabTCmw/JbeXrUSrj7v9Oe2RO8JQWi9lMFs4z5dno2CuypeGcQ5HFXR5/AicMzvYx1zt/+fVBWngnyANh6WROYWaBu3MwvhFoJRdK3baDIP9X4WCE2LKu2NDsoFLmpBxbp0o+WPEsxaC5uKHNL3jRFeRv0Jd9bNHmCuV8h+xq5X7vAhxZEMdju/HbMVhGKcxi65fy7P6ZPAzH97cOVEQhIZ4rlFOVGWwzOYMHb58oCzQsh5fpJ6cEeoRUJY+0NhcGwawy8JAr4wb0jaVU1HTg/42+hcOoXzK5Yi+6JDrpMSAxtAl53nvsylvieSzU=;fhSk25XGK8evmkeAeb0NaQ=="
 ---
 

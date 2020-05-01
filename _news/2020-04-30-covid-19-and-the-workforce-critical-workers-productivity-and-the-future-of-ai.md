@@ -24,6 +24,6 @@ images:
     height: 618
     title: "Covid-19 and the workforce: Critical workers, productivity, and the future of AI"
 
-secured: "GL+t20uss3RCLd05nHjZGg4XxlB1CudFJnufT8OYjg58WKP6BPfnpkq5GN8nQgE2jP6D6/PPYEq4W5T23SjsEoRYuZuKxG9i2r5gafnqb4yogxrxuHYqtZH+FHvHgdOWemuIz2ttGRD3T+5kjqvXh/R+CRhA9YCNp8QUwgoml+qwYIFlMOekuf1+5xMMik2yHaRdO1G3ADdOf5zSc4lmno5UyXcUS8H/WEicAZ/OAk66/xTgbY5Ce6qzM5EZqdGCVr3E1zaZ0cM54cvf0CP/Cg8T9bYLkdyIUixC9wUy+EzJfcveKBlseLIOM2GY7tny;Z44ZJJIs7Eb4K9gFT0MNbQ=="
+secured: "ntGcH/zsjoRj9KiRpQFcEL5NcdXqUaQSmUNkJYYmCl/tvs9L10yjjfHtPa8HgGaUCf2LKdBiNm5sn5yhn4j/XdqsURWB7vrYzYfA0FG2RXPjsQCLQQcDLEpyAjiN8Kb0wklewgcyhVgFB4E3crww4PqnLnM0ZTUDI8Txoa469AtRj9wyf5vtKWRwyFlY7UO4msDx1mohyrI0VcCbM4wi/fSs6fXD15f+ClS0lvLk550fW16vecaBs/i+x7SxIX6M/gcU4y54V9FQSyjD0MIXr1R/aL2/+hnVoc9Rpl2znMX+R4CIzxGyH0GVyH7l2KUGGiDitZO16Rda6w2UXKk9+Mgm7R+RKhlPa0VUuHGuWHY4/65UP+kMqJjQH9G3Nr7k2qfVH//ZHZww5e+psBCBaRFgmP0O5Ss97f0l6erlmcyuRE2ohIIYU9ExRHcvCyTunPnFOw3hAP/+TpwrBpym1BTUy2uM2nLPCovSqNTLIeM=;FG5VlFr5rRDwutdUqBSECw=="
 ---
 

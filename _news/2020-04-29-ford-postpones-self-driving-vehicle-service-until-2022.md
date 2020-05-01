@@ -39,6 +39,21 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/zBtgGOgC6okZfcHMjUvu96dUuy4=/2018/10/02/b2b370e2-b088-46b0-b050-6e0e85069241/ford-autonomous-car-signals-ogi.jpg"
         width: 1200
         height: 630
+  - title: "Ford self-driving robotaxi service delayed until 2022"
+    excerpt: "Ford issued a statement (PDF) on Tuesday outlining the reasons for its decision to push the service back to 2022: Given the challenges of the current business environment, as well as the need to evaluate the long-term impact of COVID-19 on customer behaviors,"
+    publishedDateTime: 2020-04-30T19:09:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/ford-robotaxi-self-driving-fleet-delayed-2022/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/zBtgGOgC6okZfcHMjUvu96dUuy4=/2018/10/02/b2b370e2-b088-46b0-b050-6e0e85069241/ford-autonomous-car-signals-ogi.jpg"
+        width: 1200
+        height: 630
   - title: "Ford pushes back launch of first self-driving service to 2022"
     excerpt: "Ford announced Tuesday during its first quarter financial results presentation that the launch of its first service involving self-driving cars will be pushed back from 2021 to 2022. The automaker blamed the Covid-19 coronavirus pandemic,"
     publishedDateTime: 2020-04-29T17:00:00Z
@@ -53,6 +68,6 @@ related:
         width: 1920
         height: 1031
 
-secured: "RO7VDvecF5xIidKPZ7zSpeE/PukODWu6+oXQifNJEI2+/a88DwEwfPMkJbcct414SNNcmCenNpZMM7x6X1QTvRUn3pu9PiHf6maE8jqoyP6yGw7Bm4R287d0NyX6mpx/cgWkk/gDJ9ecQiWRtkfgdrhHy6zKT9ZsqtqoIxrTP7wH44sMDEU26DG5RiPP30TMAT6s8HXZbrlaCtsuDteUg3zdhFLdPRnpPrQ66qzRe9LeOeJ1VQ0t9hy7nITAQXDBS2EV9sx2aRlxplsZ02cYA5jzjAR2IDAgACEf7Nt4HJNBTiMoLS3f0eItQKPgy+M2ZOsWOP6aTep1e4vBJcU2RJjN3o8P3M05bsxcraB3byNnU7lTyK4EXx2Ix1N4hJsoYeqGaK2+cgBczlyQ658GVN35Jofk1+ea0bz6r2KTrficfe0MtbQGiKJaVN2eL+5Lvlf48aIDVlJ6U8AEx0GyJgGMSfdKswxsUK+akkJx+rU=;0hw0200ywvj0Q5LhG81Qzg=="
+secured: "pzV3S89NfaJsEMTlMlbBLZaqdfbwMzm//5CyiE9H7tfUmALiKpyV6mLxhDbzoGG5fJy4sHuOeyf3bxwFQ4JuwQPzTfvsoC8EzOaV1J4wTT0iD2lQKYQT1e7BY3ZS2SIpj1SLCseiV9TmhayLhx9HYMf3J1GTdqsoOMpe1Dzm3XMLGEjlYGLgZyw2d27b9KT2T1taNVhSnn3Ait1pFNJK5pQAR9hDPvZkoosc/5FFaM8vdof0f8tmqx96A65PU4zM+fR4I59tJVgFEYWkCAkREPFRedsBaHToDKUrxEp0Ow4RpqhBdq9NnL4iuU3IqNGp;+ZHN3gFlicHfdCt8zev9Eg=="
 ---
 

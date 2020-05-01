@@ -7,8 +7,8 @@ webUrl: "https://cbs4indy.com/news/national-world/patent-office-artificial-intel
 ampWebUrl: "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/"
 cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/"
 type: article
-quality: 63
-heat: 73
+quality: 65
+heat: 75
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/04/GettyImages-476176424.jpg?w=1024&h=683&crop=1&resize=1280,720"

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-labs-diagnose-covid-19-voice-list
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-labs-diagnose-covid-19-voice-listening-talk-2020-4?amp"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Do I sound sick to you? Researchers are building AI that would diagnose COVID-19 by listening to people talk."
 
-secured: "c58Qi9Ous4L+oDFpca9W+yKETHood69fe57CiyK0Bj8tI8Q+QIV8PGUKVBn3m0mMZdSe6XSQuuOUD8jXLoQV7i1aB5nLlUnmaaJDINsfn6LHB9j3R5uxoHH7Km5ORTD4QAKuMV1yXj1zUO7Y0Bk7lymsd7g/AE41VBDbIC6ftSNj5I4pp3epCmWN+J6GaZsH5mpJoWPez4shFNbrPfAQ9tg0zRY4xJSbVo4Z9TlvFKe4LGJT23xqLHq2F05LBUHaq4J25QyUb2TXufbUx3QjX39NyuqLS1YEVslEIc+plUlDkDFMlAcfBGLmYwgPSFswiKQQdH0IhoDlXRvZC2C5Lf41PTcUkxRizY+KMBFelPmjA5xALUvO97hUWTzaskc2Bo6vtnMRVCN1qj4WTbFo8+B+voG4tRCqYbIDQ9UmV+Bnky91QoYPzbP/PiF6zEwNAPW8xz/V2QCeOxuo7SrfpZ847HJvbX/a02Crt87hNIQ=;2fWdXn4ZVRNSLro+wJlD5A=="
+secured: "MuSa71Wtt4QtJ6cpkcW6TXxTTZN4jMy+Dhk4wJczKuHkH8CJ1tgIfMMRanNopK40uY5h8iFd9ekc5qgxUCf3BwNkIkTJTJe/CuYsLpatcgl+XUpVEj7fQdRgfBGm3wUJCwHnJHDL/SCnp0bqNNHQzngRZd3UA2hQlFQnkstPAm59WyD057GNs8TyId+7CptJon2Pa62J+4oknKyxJQPsY34fSTGhtBolHFJexQejVZ6Vtb4qP49ubyvlpx0IdkNyKHx/gUadHD+eG0LYEJvkmmLNLFbxyvUmKNff+8u2bdHNNW1Gk5GHfe4UxWG8GRKXmAgT8v/P3dpKqsTq1KGHtWGPPfMELOa6aGMDnjGWtK+zz6XLDPcqbwRXh3666Q2wjavghczGpiJLDRpVWnwOO3gE6wEnbAYGRGv6ML4Eb3Yu9OBow+oloxnADuDWwGZFDveCuHTUZ8lU0JDfcP76jFaqHYTmcKFy3QP27TXiMfk=;pQz0Ljj+10DiUtcCAGNHyA=="
 ---
 

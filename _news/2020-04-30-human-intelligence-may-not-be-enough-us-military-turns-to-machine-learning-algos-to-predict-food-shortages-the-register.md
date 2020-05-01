@@ -25,6 +25,6 @@ images:
     height: 667
     title: "Human intelligence may not be enough: US military turns to machine learning algos to predict food shortages - The Register"
 
-secured: "jY1bQifmHZjHrtgp3eK3qKUj1f9hBdz1Uw0DH2ZC+yB0MGnWleppll2qXZ0CN1vod/3gHsIo5XZtUn7shXNmq0I9SWF6mzHwZl9QB9GGuXDQZ6c4cT/hFkM0qO0UPPUdAohjxk6s2jLvEKGmKj5+10NC9R0kP3y0Vbs+5otsgbc0nUUWbFpDc6kODs8qA6bk8rmZ7zfmb+Dt2M5hRjFUAo4jtnzw8qg+u2Fz/0sHNEiGbwDutLwAh32paMvtsxbdofY9TQAU7uNhtfBJGWuj1GWT5e58uRUqQS51AgXONWf27nIJAsDUuF6fHI9g/exO;y64A/bQIyS9f3AhqYVNkzw=="
+secured: "TfpxIEQtJbyOkJbAg6oE/a8j3hFEq172/Hw5MRhnO24u5imep3wR5iH63jiVkRpaeHke7trZH8Hof64fcQgMQPWIHYHw54EOLqBSYznCv+4SDZwQDezrxpxcVyEmr9DqoYO6vmn6vAOHlGuJXSnS/tONSHCz3mZsX700WJIr6bpbt6ECZlf973JaeHXAm7M4Az9AgxpJa6KTBtSoS+JPi7jvtjn/0t+s4x4uTIeFhbvWDrrQsa5UIaOPN31KWZ6XTpOdAW0KWUsvClXNOa+QN1Ifkf+qZKtES7In2Z8kArMpaZSYJqldbhYmDfkRYDmAgGNOgCbRS7Rne3pvjuvmtCFlr9H+BrNKbpyDqQZP3mcJP+zxz5tUHKmMF9by/hD1o/q0m9O0BFN9UDH+2aGW3oeqF3siReaqymiKSx+CkJojzKZ9BQAuGG5NtmnsJ2wwtq7Pg/Tg2G2sOnoWnczpoRjztDZkiwnn6Pj/5wGsz5I=;TkWIYme6TCAqJ8yvTKTM/w=="
 ---
 

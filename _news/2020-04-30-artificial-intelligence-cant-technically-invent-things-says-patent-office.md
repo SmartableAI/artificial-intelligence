@@ -36,12 +36,12 @@ related:
     provider:
       name: WTTV
       domain: cbs4indy.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/04/GettyImages-476176424.jpg?w=1024&h=683&crop=1&resize=1280,720"
         width: 1280
         height: 720
 
-secured: "ih464sQcdN22tj+OuywP7oXjHkrqUlVt5FlGMLsQDVJDdZv9dRV5+rxVRCzfa5AYVQj4VkKiYwlC7oLjjYOouA77zJwGSaqORcdLJY7A6y6Ty8HVns8YwvtQ5WqkpK23qUxZgRJcGQ/gUQCoxcTOUHhTilHRK61W6AV1DN7lKqQwgwG9ISbAtL8rlYWvjYNxNL58b68kjpiatQlGGP/4zXkvNpeH8Sdl6QLis7vWhvoWQOUdJiSoPIUZZ2H8tNLBwdokjxRZDI/5PMHgtYGz+PW7B/xAGwA+4xYv/ouvmCwQzO548FOoQU6C3kf1ikp0;il1T/cemXCUNQ5FJUkRtrA=="
+secured: "MD6RXFsBxsdMhURms/P53jEGWaAY87ygGpVoinzkqaASV99FXrnl2aFNSx0LNbvhSDzD5y5aWu0xxnRg+dpxlnIfl6B6s6+Dwt5ZWQn15d5QfGcGcui2lYvY0xqnyCqxonRf9ez5L/gN3S81ioL1fFVqspqdDTCTRLU5WFZT3mN0xNin9rYfo8uJE3gA6TRalZ0BOPCAScWDRwOQ/H2y1oXDjypJwOjxPCfGZR0DfXEmSJ2R+k1NN6ulRAj0fqN8vpGen1g/JRpIT2BTVbKnWES7GRFqcjt3RXDvOqin/M0QW92BxyijMHpxVRJ8PMoC;ckaZ0yRTyhxagjLPjk9x7w=="
 ---
 
