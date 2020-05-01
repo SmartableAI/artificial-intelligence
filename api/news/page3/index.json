@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-29-roborock-s6-maxv-robot-vacuum-hands-on-ai-camera-eliminates-pet-poop-disasters.md",
+      "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
+      "excerpt": "All in all, the Roborock S6 MaxV is a superb high-end robot vacuum with obstacle avoidance and an app that is easy to configure. For $749, it could be the only robot vacuum you will ever need to buy.",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/product/roborock-s6-maxv-robot-vacuum/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
+      "publishedDateTime": "2020-04-29T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/29/c6bf9a20-fbd2-4936-a1ca-bec926067d2e/resize/1200x900/32bb8dd0f8fd50e98ba8b741c9011d30/roborock-s6-maxv-robot-vacuum-eileen-brown-zdnet.png",
+          "width": 1200,
+          "height": 532,
+          "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-google-open-sources-faster-more-efficient-tensorflow-runtime.md",
       "title": "Google open-sources faster, more efficient TensorFlow runtime",
       "excerpt": "Google open-sourced TFRT, a faster and more efficient runtime that'll eventually replace the default runtime in the company's TensorFlow framework.",
@@ -51,7 +96,7 @@
       "path": "_news/2020-04-29-cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead.md",
       "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
       "excerpt": "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,",
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://mashable.com/article/cruise-gm-autonomous-cars-food-delivery/",
@@ -1063,51 +1108,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-pence-criticized-for-not-wearing-face-mask-at-mayo-clinic.md",
-      "title": "Pence criticized for not wearing face mask at Mayo Clinic",
-      "excerpt": "Vice President Pence came under fire for not wearing a face mask during his visit to the Mayo Clinic in Minnesota on Tuesday.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic.amp",
-      "publishedDateTime": "2020-04-28T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64516716-b4c3-47e2-bdcc-a4ff7685b5e3/3a487a03-26b2-4a59-b582-b040533a5ecc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Pence criticized for not wearing face mask at Mayo Clinic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

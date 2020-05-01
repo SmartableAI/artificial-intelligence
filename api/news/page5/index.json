@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-28-artificial-intelligence-and-the-evolving-role-of-the-cio.md",
+      "title": "Artificial Intelligence And The Evolving Role Of The CIO",
+      "excerpt": "How does any company with a passion for user experience express artificial intelligence in a world where the very concept can be seen as creepy, helpful and every other opinion in the middle? As a CIO of any company, how do you live and breathe the mantra of an exemplary, customized experience coupled with sensitivity? Find The Emotion Behind ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/artificial-intelligence-and-the-evolving-role-of-the-cio/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/artificial-intelligence-and-the-evolving-role-of-the-cio/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/28/artificial-intelligence-and-the-evolving-role-of-the-cio/amp/",
+      "publishedDateTime": "2020-04-28T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-20-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Artificial Intelligence And The Evolving Role Of The CIO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-throughput-incs-elite-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Microsoft Azure customers worldwide now gain access to ELITE to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. SAN FRANCISCO,",
@@ -1047,53 +1091,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
-      "title": "AWS launches human review service for machine learning models",
-      "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
-      "publishedDateTime": "2020-04-27T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg",
-          "width": 1000,
-          "height": 479,
-          "title": "AWS launches human review service for machine learning models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

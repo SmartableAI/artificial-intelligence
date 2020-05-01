@@ -2,6 +2,53 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
+      "title": "AWS launches human review service for machine learning models",
+      "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
+      "publishedDateTime": "2020-04-27T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg",
+          "width": 1000,
+          "height": 479,
+          "title": "AWS launches human review service for machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-uk-spies-must-ramp-up-use-of-ai-to-fight-new-threats-says-report.md",
       "title": "UK spies must ramp up use of AI to fight new threats, says report",
       "excerpt": "UK spies must use AI to counter cyber attacks and augment intelligence analysis, according to a new study commissioned by eavesdropping agency GCHQ",
@@ -1060,51 +1107,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-our-love-of-the-cloud-is-making-a-green-energy-future-impossible.md",
-      "title": "Our love of the cloud is making a green energy future impossible",
-      "excerpt": "Add to this, millions of students ‘driving’ to class on the internet instead of walking. Meanwhile in other corners of the digital universe, scientists furiously deploy algorithms to accelerate research. Yet, the pattern-learning phase for a single artificial intelligence application ... apps quickly emerge to help self-evaluate symptoms ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/25/our-love-of-the-cloud-is-making-a-green-energy-future-impossible/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/25/our-love-of-the-cloud-is-making-a-green-energy-future-impossible/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/25/our-love-of-the-cloud-is-making-a-green-energy-future-impossible/amp/",
-      "publishedDateTime": "2020-04-25T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-885294108.jpg?w=1024",
-          "width": 1024,
-          "height": 767,
-          "title": "Our love of the cloud is making a green energy future impossible",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

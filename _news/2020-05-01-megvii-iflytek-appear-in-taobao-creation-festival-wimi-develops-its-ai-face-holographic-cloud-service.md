@@ -3,9 +3,9 @@ category: news
 title: "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service"
 excerpt: "Taobao Festival is finally coming! In Hangzhou Boiler factory full of hard core industry wind, there are not only super hi playing methods such as artificial"
 publishedDateTime: 2020-05-01T02:07:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15929960/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15929960"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15929960"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15929936/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15929936"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15929936"
 type: article
 quality: 43
 heat: 43
@@ -16,7 +16,7 @@ provider:
   domain: benzinga.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 267
     title: "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service"
 
-secured: "To15fekJtVzJaNBTjkrvwJgDxG5h/UfX0K93miYqvZbbXKT81r3dPtjbL46WBkeH6+0gWe8DhOU1DYdL2LyopJFdTp3FLeHuDoePeI3nL7706JJlcFaDeL6LTeq9vt2wfqengrXrQX6GKcRFXDeyK6gcb3k0dJspm4ZHV9ZpTrvTFCnGa4HXQsq3QnybGtdPpohAJ4bLNK0JtHk3icMs3tqy95toMGmGzXpMeoKMWwc4IDIL5Rh3qaicg6O8P+/n6AVAkFoMfq0MV403+vJDfJQWs5BAjv7OrqPROSf+LyUOt7l914FFR4Ihr3VaQNEr;n4zhMvXVyGmHIRRnfktxYg=="
+secured: "r6+HQyeQyJYG7EVDmKk7u+5bGcabjjzvNerLunBtG0jCxMnGCVs7WHFg/K3v2251iU1W6sEHUFozCJau+okE5b7ENGey9pWvCW2YSf75GZ1FBeCp7B/yG5GKJsrsjYvUmBQOcspN3Blg+15zuvabik581oeH/c/j6hiOn/SKoqdyvQtI/YbTrsXNeuyxcAwlZ6ALZPKP7RZsKfrZvgs2VajJIqOpRQb2ZM93ZCSAspbfLiyhebZF/x7ZJhT150O9PI9RDJ45U/C2BEm4Xw3xgQ/fZVW+4fqBxOE2ZAs9JBfGhV/5aUAdA2uC+yA1zy4H;dR/DvkpjSqXInjnvR1pkdA=="
 ---
 

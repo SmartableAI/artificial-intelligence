@@ -29,6 +29,6 @@ images:
     height: 1025
     title: "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%"
 
-secured: "nhS/TKSJvgSXd+trKI2YOZOYzJWxn4fgZmvMRVmab9iPH7hzXQ97h+Ra3Qxywo01TgzqdIMAFUrn5oFERj2MaF6KrYFxsuI5aWaRKoSRr/DVk6sAGXEOqexXAeLmDIbrkNH6Sem21XLHsA4wiEpxaBNZzuVy2vYorFIsduaAdDMc/VwdjPjiUCApwg+QnY8Jyy6kgRBGu/hXWyaqGtvd+WjpQG2SD8nDnKpMUUdUVA+aA6HcCxPIcmlMWEwJFUBpyhKXtOd6I/apdljQKBQUQ3wcUgfBE/s8IetRzyRfX/5Vy7N7MtpIGfEcxSEA//Q/vljnqYPhWmdR8zQdXyUkJua2ebFRet5YSqWUU7IAFpfhrTnEs/bsJSzHXJM5J8BFIUktX8LtsiSoMXIyEI7WuiDmmbUEpIVCND/cq8XahnKa3n0CGwcfPcWKlkRjHc3IjvPGqNCFM+7w9tqDXno3r/Mt15hDs/wyUVncd3zVLPY=;knpTu5xrvn2H1h3JM7pApQ=="
+secured: "ENRFwJP1lnn1yw7gCiEvQMmzipVDiM72/9kbhNjf1sS/XSDeLhZspzqUXkGaNqmIFSc7nr9emXy7p7m0y2h/Qh/j9yaVyu/T9GIDSWfYaS5Rdy/hQyfpaVah1sL0nH0a9k8g64lmEqYqDNVoVMdeS9KXKEvxPzL3Y3D+4P0T8U5FcCYIKeVJ6C/ABfs6dpc6ZFQxGLRZ+uBD+dWfPIF5OmavmatFozip/8bJpI4AWnfC9HTmt15pr9MfUAjGromzkEAu8So2kZZrtRK5DT3iRkzh2Quibs34G1KEVuAdCBKmXdEYtdJWtBgDSzDLM6wcdhXquyoTfGNH00bNrotWzongJFidMSiFWbgjvZmk1RXdNvNF7bt9p9NF/7B1e+gBi7B0I2/+nMTkaJj9vkiEsGsnL8A7whVy9Gu1v0lOjF1JdbRTDJRQfQaXgzY4Vx0L8JlXjz04RcHzQgtM78aJ/Mb/BtZy6jSCkBQbQK8DXaA=;biKhKbTVSvkEeVI2YX8RsQ=="
 ---
 
