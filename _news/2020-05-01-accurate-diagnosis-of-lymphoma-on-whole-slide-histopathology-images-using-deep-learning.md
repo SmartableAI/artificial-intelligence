@@ -23,6 +23,6 @@ images:
     height: 448
     title: "Accurate diagnosis of lymphoma on whole-slide histopathology images using deep learning"
 
-secured: "uPCbiyD75adKSL4ZZ+FFb5WNXJzYhwfHE/QwSw7yaQffO39eNX03dTvII8JB8BH4oRoM9P71zBu7roIQJUx445cVEO8p++0f9cdgQ/VW8ofpKvxeQFI+3+bzkl5xnZ+rJsuOPKz/k6D6BaZbFgBiLZDecuMcKThni7/XZsaEWhk67XsBaccr/mj6vNUr9+Zj2I+GTm9jX+yIqniRtq0vUXe8Yv2qWXPV116agWEXfEVA3JksCgRptnsNZY8i66T5J4qoAHBZ7LT6QVSk+Izb655EeHqMvU9d85KPixWGWDR9Mu5ul1Eh9FfktC86pVFP;JKVupZd1ZjQoj0ViXs/vPA=="
+secured: "+xF/H5OtYWdeCuRyYM21958zUkgtDPAv7voA9BGzZHS6RSucJaeBPzKbWGSahuTaIfC1/VRnq/N5pHus7JzpuXF9SFkBDJSnhU8c0PMSXywwp/4i3bPqXp3Y3u9fhEuaoEM5GkG9DJiXXLTQbEQPqmXcAlfA80hscUk/xjWEHTmgD+iNMYn2Bid4CUq/ln6EzaciCNWMoUA9bZx2r/Fmn82Fd4Z3xTrb+Vsg+OPUYiex6uXfN1RFOWu5qsehsMId+kZzo/+kLwHFLDo3/HJ7ynT54Z/+x4MLIaUL/OayFHJsjMXYUoOeazL2EuHJw8YfVys+PjBOCYBNwYo5DLIggHYK8p5hdbRVA6uRklxUzWeZP89Cg95BKpB3GT7MevUXuQGIOuSW1wwlCo13Fpe8MQwT/Eksnh4y88TcvwYN59B60ugNBrSXIzfOu1LvSqDeLA0HNUpHljZ0/zqwIK5YAVUdmrscoP5GQQXfeven6g0=;LwuOZQYCxLRP1T+0k0Z3WQ=="
 ---
 

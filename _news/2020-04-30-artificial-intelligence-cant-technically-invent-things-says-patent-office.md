@@ -7,8 +7,8 @@ webUrl: "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-pat
 ampWebUrl: "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
 type: article
-quality: 87
-heat: 107
+quality: 85
+heat: 105
 published: true
 
 provider:
@@ -20,7 +20,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -61,6 +60,6 @@ related:
         width: 1280
         height: 720
 
-secured: "YYE1oo8hG5xbhYiB2OfS5mRdIzYCHhG9NxnXtNbHKQd3eot0SdRZSoJc7wIOV0UWgdHDujBj1PX+EuFzQGGrPTHdKRZ37p0qZuKEcLYw8GHPWI0pJoxNuytTIILcdefdTPvwR6NlVOgjCmi5nGd9f9N8vaJmAZoiydrX6r4zbGFdSLyHzOgrFjEufFGLrMm2D1rvLPguNRai/1UUGd7W5uYJM2TJdHomKQvoNip2o72dYi2++0bc9yYzT/J44Go1oXzRSldB7asKOtJXQPyszpQTK8AWPsBIYnpyJax/fi9kcwmNEwblCYYqqba0b2nY;IfHlQMfskPc4YEL41desnA=="
+secured: "QIoGWWM+SBvN74xpPYv3vNX8U9iKXQstuvsd4pU/yMHNqj3cbroWeW1Asg1HkJR6IEW/casoBA0CjoZwta1cjkRZK5KNuCYGQ2yPWSeWCVc/Ra4urgVoVTUINQXTjwUulDl1Dn/n2TJFiHSe+BgC8MAc5JgenTaxm+rXO7i92ZMKj7Fr62Kg231Q2lPlACLCx7uxVv3t1kz5Z8q2xmPhhJt/U+cmotzbxTZMYauh3VDx9ltnlYFv4zUsSz1LUEkxsdG/imcZtJyOZMpD+g7756i38gqQGht8hjrcFBBwVtv3KSELShvOuq1A6JzwAhJz;XeHj69EDOwthgfLgoz5Qlw=="
 ---
 

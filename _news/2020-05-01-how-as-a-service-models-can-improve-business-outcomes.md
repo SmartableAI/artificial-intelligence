@@ -29,6 +29,6 @@ images:
     height: 640
     title: "How 'As-A-Service' Models Can Improve Business Outcomes"
 
-secured: "rloaGz1yKSQJM1cjxk+/LxRJWFqQDpRe8pkkwUxNjZeu7/3qe23GhS/GXpReWAXOH8yn/eoQKjiFplTQYPnEDHTSzI8PFlr8yuFml+F/YouapRoju1bJ//VBBuJuPCjuwtGCd84cbqn/uzYuUcOGb6pt9V9mapmOD2k0T+O9tJcM24MzMXnQIjvZl95iybNr+WVHnHtfm4woOI/F46iFWqFhde6sGnVFlEar+5Ur+qsruCj8LGA/XfRuSVGViHI2FxMA5TnKqE1r3QIMJBgSdoBdJdyb5Yu5kt5xoCCO0bf689YKiehhdgSNaCuyCGlb;zbuYcliJMJ3uFGz+rR48BQ=="
+secured: "ebKrars98cEO/0N+Xoc8QLewDtwbOy9BJhktrdy5JJ/dG6Ut4ndUZZ928syuCUp2X2sLRY1rufs9Llm9nZ5x/XeNQzW/xRKSpk+KwUcD1eYg9EZj/tj/eRy0YSotKy6+rKdpSGT3zk7MkEqD4DAaDlCLsF5cwnNG2NpT0rQ2hEH7ZpaFHp7lm2+MlM8bZmqsJ+tJnHNbWWE1CoN271eKuXNzBWdXwVWZ/V11Q4KDQW6S6ZJm989tt+YSmVkTOBu1odYTNPedVUcrz4IotBdzxrPF6/AniD6T1T3egfrr+zTK2cqQR8IQCWDzZ5D9/cleo/l3SXjMkLh3mBMCYhQVl4qk3dgLX8s8AtdERxk7uCBz0DulwVR0KuGvbfUe+uZR1h5rujeBy43yyeZ381y4tNId2e42wUOpGWrxgRzAq44EDQcbZ9x219trTlkkoGtl0daG9Eyf28qvyJIYQVGPOOcVU5PRpyySJbcO66VIXdg=;m4UKwtH6ebLEw2sQ82p2Og=="
 ---
 

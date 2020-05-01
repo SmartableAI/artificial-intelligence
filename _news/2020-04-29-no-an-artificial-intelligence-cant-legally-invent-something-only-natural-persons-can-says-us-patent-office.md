@@ -39,7 +39,7 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 87
+    quality: 85
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg"
         width: 1100

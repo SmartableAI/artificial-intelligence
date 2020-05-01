@@ -3,10 +3,12 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
+webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "9gse8y6zNG4jJFS2VXfHyvArAbtmAFaJrM4dAl2I1E4rGyatAoPkCL9NmdrfssvCecec5Yo8uyla3guZK9cl0E0u1ghxLN4sP2GywPdUWvP301FPISZWSiNzONXIBXchScR9M2yYeNupwUom9iBdFGiHRhbm3sXBoNM2G36oAmh0gkpTTdbnpGTZT5PNCr6QNWvtp2cvk1uIPFaxGrxpy1/VSPAe1W/IyFXhSbq1kT+MDbTG2CA8k2t4y77IzbLGtRF9cKCl+HmQdEorLaRWMy3WXkS7KAJSLd6pOdAXSHCi46845kR1885cIkcf33giUDjjyS2RayFQC9+8Y6313VQxpXOq0IfxL2BqTPibTcr21wfMNn/5/9hrGZz9D3eapVNRiHGlbRQEuBxLcHvRFbvoyOEWlf115l8wHMumz+w6XLr54nY2ReB1fH0Evgag3o8ahRW9wSNUXWAJll1Z3VPliw1PVaetz7kp2aMt8xs=;PchfzteYDL060HTGeCnFXg=="
+secured: "b9CdVU9e9rW/FIozPGfFbbyCua9syBh0e3u4WuDPDjqDZrT+bGBOMaKnFIoI5vT490yqNblZj3goWlyZ9IaW1Ztj6dfYEE7NwAohs11sucVeh6/Y4WNAeDMXX0aRZ8UladDNi+c2plAyQDD20Bt0hP6woeasq6Lga7RXupCnK71awQcsotltSD11A24+SSqR2BbEoZEEP+lAAnKVWZBf2LubfMWiXUdApkIg7ugXDLx2qFMJBpQvTpjZ7LcHGwC69cVzF/4iDX/CRvZJgOrTFdAFeWmw730iOD32AQTfevW6KTu3Iuwh5NF7xsyjEEA2BpRaXiIIfQSZEo06JZrKL7v5p3xP8P+sN7IhK0CSdDng/1j6sWYDUNcnkTdCQnPhyjGg0iQMpNJbUeUQGb4IRvjGqs7N3nqxqi/4Zx8MxfwvfCktr63YfaOPuLr+AaIylkN72s5WU4ZR2qIVSt8JBmnPXiOP9zkx6bcsvh+RECU=;7W5vMWHO7YzI7BM5/IeHfA=="
 ---
 
