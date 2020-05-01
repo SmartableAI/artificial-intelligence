@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Google executive attended meeting of key scientific group advising Government"
-excerpt: "A senior Google executive responsible for its AI efforts has taken part in the Government’s coronavirus scientific advisory group for emergencies (Sage), the tech giant has confirmed."
-publishedDateTime: 2020-04-30T14:40:00Z
-webUrl: "https://www.belfasttelegraph.co.uk/news/uk/google-executive-attended-meeting-of-key-scientific-group-advising-government-39170871.html"
-ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/google-executive-attended-meeting-of-key-scientific-group-advising-government-39170871.html"
-cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/google-executive-attended-meeting-of-key-scientific-group-advising-government-39170871.html"
+excerpt: "Google says Mr Hassabis was invited by t, Sir Patrick Vallance, who leads the group, which has been advising the Government on its respon"
+publishedDateTime: 2020-04-30T15:01:00Z
+webUrl: "https://www.theargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
 type: article
-quality: 41
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Belfast Telegraph Digital
-  domain: belfasttelegraph.co.uk
+  name: The Argus
+  domain: theargus.co.uk
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.belfasttelegraph.co.uk/news/uk/9411e/39170868.ece/AUTOCROP/w1240h700/bpanews_ceadb59a-4267-49bd-a799-c9bfceb55c2a_1"
-    width: 1240
-    height: 700
+  - url: "https://www.theargus.co.uk/resources/images/11319113/"
+    width: 2168
+    height: 1445
     title: "Google executive attended meeting of key scientific group advising Government"
 
 related:
@@ -72,6 +70,6 @@ related:
         width: 1000
         height: 835
 
-secured: "eqK/C2sq5j+U2+Fu3D6r/bI3z9JqGC9MmSQaiKVdKTadDrE89mUrKdnNhPC6BXBHTZUX5LR18nj7huwrcmSSbAbzhtG1hOpKutH/GwF42Eaf/+1XPyHq2bUMR0mShdroR2d1v4XisHGZiWNCjk5SvcJ8uFmBoDJO1erc6gXyMuMUimZzvUII+fQbqGQPltXaRwijpypt2THUm0tOP+nnpRyFxMquwsU4b8/c1zq1/zFwBoBCkker/ep2V/WLv9waElw5i2IuAfDrpKZh1Z9IdM/d06nVSiNbGI823yUFj6wsOt2arxExMEQjp/ZIefF4ja0YhIlvkFyqpsdhht11KOBuf9aMjMuUViLuENjQ0/XsIjMIOvwy7hu74hP5RFKzDxrxpO95sa7/oCUC1PwjkPitxwB2k+np6bS0I3w877zY3taQDfDrz6bfzVQ8w3jUWzPcm1r19lbbgwdW5NteU+/zpAj2x+tO3Cq++LIl2LI=;epcXxDkCw4Kg9kBMPWT0aw=="
+secured: "SwKHHBbZxDMtyALpA54JT82h56aYQLOYOtFSKv0y+MO3IszitCTwuWK1xx+dc2oUvb3LAQi2GFBdvhU2d+ltjvP/TWizIXkKn22pOoBve4p+uyjZbcGTWzxtoY0JqpRm+wPX0y0Pk78zpCoHQVz3Ig3/kmFKeg5DKj6jnxZNQBkGT9nqccGj7Lv0Q8CHk/FfpARgqqckr39sRL8vWexGCWhCzYI+slF/cuoWGKVUpk3Behmy+aLP3Njy7ZAGLUbM/z1bOYiTN6b4lCrOk8JJSUvw+xT49OLLL9w+nHmtllLzJlxygI1UeOx82m4lgAAK;EGju9Bb5kh3quQujIXye7Q=="
 ---
 

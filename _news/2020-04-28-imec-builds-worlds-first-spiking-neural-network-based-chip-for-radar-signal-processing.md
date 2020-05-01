@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Imec Builds World’s First Spiking Neural Network-Based Chip for Radar Signal Processing"
+title: "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing"
 excerpt: "Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, today presents the world’s first chip that processes radar signals using a spiking recurrent neural network."
-publishedDateTime: 2020-04-28T19:00:00Z
-webUrl: "https://www.newswiretoday.com/news/172799/Imec-Builds-Worlds-First-Spiking-Neural-Network-Based-Chip-for-Radar-Signal-Processing/"
+publishedDateTime: 2020-04-28T11:38:00Z
+webUrl: "https://www.design-reuse.com/news/47876/imec-spiking-neural-network-based-chip.html"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Newswire Today
-  domain: newswiretoday.com
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.design-reuse.com/news_img2/homepage47876/20200428b_1.jpg"
+    width: 480
+    height: 275
+    title: "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing"
 
 related:
   - title: "First spiking Neural Network-based chip for radar signal processing"
@@ -45,6 +51,6 @@ related:
         width: 512
         height: 512
 
-secured: "fkIOZGgn4SCrOMs0JDq86g+hH7Jk+tr+6A6hsayNQIAzwHlq/nD0CG9B+vsSrFSYZ2bV3rR11TvxVb1GpQggnU/cZUoUtdofH93HL9Z612OSRm/WLlR3FcEMszmHhe+MmwP5rc6ZrjUIjz359u59RwSv9CC2O1/CMmP15d54HoSy+wloCHiGaxKvJ1jTWosDcuNaHDUqHNf2l3+G8yHz2pf8SlOhbMSATM0teFUJHfqlpwvCUOoWSa35RIbAiGxkm6Z+SspMxgK/4kIOBWDtZYZhYSxD5i6tcSDBVS4hl7bChSoAs9h8HJCYgsSHRRm/ltUdISd7CtCQOSMdZ1hq3u3HfAyA/QX1wfGik84fLJ7mQOOHNga01Nkl+iQWdRTvkLTx2ATEQqCHeIRP7KjZt+kr2Uqado8+nSA/RzJtyLDXp0abpO1o5WGAesuGD9VW4ms4qbIi/qn1OqS72osSS4YnV9VfHWtr92hgIuuT8ic=;XVouZUQjRRB8aKF5q3AYIQ=="
+secured: "1x9BsqTmCmJCqy1NE9HKOIpbXUrjZMtmPMHTS8DShRl9TwQnT7t8aEQyZjfEVnE9zSYpSLKJUZN4upebSdSykdV8DPLzAwD6SI/eageoFIhkx0MarMbAMA6F3k0jPMEtx70QQHbAHoa3JZA139RV+tepHm7JbiJWfIwFi0RvWP8j+4S+MDtkEt9M6rbbGe4FwHirbj7Lmt6mfvqPDwmjO2WPquPoNJa8az4D0dPbGBOzVgaaRERq+hg3cRIOqMQKBjiKIDSDfVFu6PcZF4PWvn+3OqCmERSBXjd2kVj9WtedOzwgBwP0BierH7p06Csf;lv0iz0THK/lsjsIhL3veYA=="
 ---
 

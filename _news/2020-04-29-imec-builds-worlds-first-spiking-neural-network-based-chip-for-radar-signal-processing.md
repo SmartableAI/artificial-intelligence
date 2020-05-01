@@ -37,15 +37,19 @@ related:
       - url: "https://www.newelectronics.co.uk/article-images/226526/imec.jpg?width=375&height=250&scale=canvas"
         width: 375
         height: 250
-  - title: "Imec Builds World’s First Spiking Neural Network-Based Chip for Radar Signal Processing"
+  - title: "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing"
     excerpt: "Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, today presents the world’s first chip that processes radar signals using a spiking recurrent neural network."
-    publishedDateTime: 2020-04-28T19:00:00Z
-    webUrl: "https://www.newswiretoday.com/news/172799/Imec-Builds-Worlds-First-Spiking-Neural-Network-Based-Chip-for-Radar-Signal-Processing/"
+    publishedDateTime: 2020-04-28T11:38:00Z
+    webUrl: "https://www.design-reuse.com/news/47876/imec-spiking-neural-network-based-chip.html"
     type: article
     provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 11
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 31
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage47876/20200428b_1.jpg"
+        width: 480
+        height: 275
 
 secured: "NcX/YfPPj0CZLU8zR8NBnoPElZXOUelNNLl16QeBrEmg+8avHMVO0XBnMLbkyaxFcHj1Y8FxRcahEXbEFPPNlMQm73KyfYt816vRBbyuGQNbqaBx8f6mzpNTAsc2saXRSTnioigxKu9n+RKTAopuKj4KeKDrmjFcKABerejx5ddZLIYxCZgGv/vAhHpQIA7SVHNjUQ+PQ4BzKVjEOok3+uRnzo7woMevPTGbSM3bDk+85xihI3nSjyns7JVcBZMstjbmS92Bx8FOYHgVgajYXVCMCa7cVb/d7x6bNfwbokhOxWyuosrY0gWIdP8ffCoT;VDrXL6PkoTqxtzYVvsBrMA=="
 ---
