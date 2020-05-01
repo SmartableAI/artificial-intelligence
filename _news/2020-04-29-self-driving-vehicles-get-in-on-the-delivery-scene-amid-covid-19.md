@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
-excerpt: "SAN FRANCISCO, April 29 (Reuters) - Self-driving cars, trucks, sidewalk robots and shuttles are rolling out of the labs and parking garage"
-publishedDateTime: 2020-04-29T16:50:00Z
-webUrl: "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29"
-ampWebUrl: "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp"
+title: "Self-Driving Vehicles Get in on the Delivery Scene Amid COVID-19"
+excerpt: "Since mid-April, the cars of General Motors Co's self-driving unit Cruise have flashed a \"SF COVID-19 Response\" sign on their windshields as they deliver food from SF-Marin Food B"
+publishedDateTime: 2020-04-29T16:52:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-04-29/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "cExNRyOhWUgId5T3In9A3g/cxfHRHPeY7wcyLEXw75oat0g7n8ceVHpre79UFYeMLdW4Led067AfRbogczjBqSLs6MUxkXr2hS3ro9A7oys/mlm6zhITRRJ4nb/1vw3Nwy36OMzD8/VATtJwQgaBMdU+MG7LLpBWsOgq3NzMO5ILtJPc9H5ckAowHFKFzAWTWNJ6kbidhym+7fReTOjEAjawKr3ApZ4C4vZpq2sa+UzadDwWGL1qmg/ou0vaE6jQQejP7teHjaoKVFA7aLO1KHlok21YOYlB/jrzefFsJk+4C3U52drZDP1OQpRUkK/QTS14JWY8kclTHCIlyFEsjngKAQ3yyScgnqA8WxfeJ2JLShY/uDt9glMGZh9ReTdrtpz/7YhntW8NypkzAPCnus4w5ynu6TPuJHIk8w+hq99zeWOsa5vcB1hvOPAkKtaGLt4xq4O2P/1qEwVMIDngEOKHW0fYf+GnnSY6o8VEhWM=;K3ktpgBveBktoTSlpSfywA=="
+secured: "cmUigKwST5OjTXO5B8Xme7QZdqjlaMnStv2IjdFVJvlh1BC7YYO4BN2F8wSPVAvG8ZsEqAKyC/26jG8jRpWI24dAf0we4afwV9pJpCrESqHPaXsXCSeyE6wUitZQ7OEqaSBymF51vRXS6SzdZhaFjdNvFVSv0vwR0LevLNsliTJffdr2iDvNl9nysTm+L9cSA1tfr8q/gCwFo6NCS0fFgqVBeSUOmCnq5ayP7nmcJ3n/RdX5xxFpCJ874FwejE7KTgnc1TTxSmIHdIteG51GlR6o3paGrfpTbmFCzCa+/3Hiq253/jLLtPitZ8tUdepi;BfZxcfxWm/oi2aRD/RX2jw=="
 ---
 

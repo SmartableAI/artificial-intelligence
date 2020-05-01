@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/craigsmith/2020/04/30/ai-for-national-secu
 ampWebUrl: "https://www.forbes.com/sites/craigsmith/2020/04/30/ai-for-national-security-and-the-challenge-of-china/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2020/04/30/ai-for-national-security-and-the-challenge-of-china/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eab5727ed706b0007e63ad8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1664%26cropY1%3D432%26cropY2%3D1368"
@@ -28,6 +29,6 @@ images:
     height: 675
     title: "AI For National Security And The Challenge Of China"
 
-secured: "ZGTrtTuxrcDOV/Nt7FNqbk+zApbX9224DnbbMsxMWiFLQNQP7nMDUf/vI07SOTDQOmbU1HotwL7QK1KJRRoHnsnnEqWMhldDJAUBByzMVBzfoD21xPxnudWHJHN/Xo7GOxKZbBQQf+FTWb5xWqwLYJa4+invifLuUhSrDRCaxAennMl6vffFUet2HAdqrvR4aDBneCpu7C9dYintgrGSwKjgKFfGfEVqGSKoGz4UOdv2OQ5Gu7HQ2gtPl0gPmmTzsg05iTu58mc5XWgH/bqnOcFcrP+DNtxDoZSgvF1TtkmDjb2Ez88BXWf/WOMZBj6f;xf5HdaoqiDoWG+2kjBionQ=="
+secured: "YuU327lK9zFOCJquUnVnMLJ/DyInnCaAWcnngiJRkIofXx5ZsYC5Qh/8PJ/zl2izF2S+CFBgZWN3FAHrS9iBEUA3rd6iDFFEmDq3DU2TPrMEsRMwJ9cdrlYVEgpE9qO6W2z7mYfnvfcW21s1scOpGxfGcFZCtRNAnunnileWOXatumV5nxmrENObYlrmrOiQ5YxQARLCf2TOXu3EmA5nFZRdxtNYV/oVJ7E3sJovqLN7TWwTwYr2LUenV4z5ajkaxOicf/k/p8f/9RZmMRXhrCu9jRnnqNQTz59edxrC22IxI5sxo4HgnAZ189fjoeTN/SIjFC6AyWzBIqCsjXwZfXHVL1rpDOOucmZhTVcZr5WwNQQDuqSchbU3rFO/Szd6n8SJR7RnJguaL42Fm/s4YH1az80ehsdb1+1obXL7Xwtdl/VkJIrxCYAvaGIKXCwFOrDT4NUk3xdRTb9Ku8xOUYIa0jvvutL7uH4FhwP9xG0=;5Z/7BaRa41bRQ5YGx39vOw=="
 ---
 

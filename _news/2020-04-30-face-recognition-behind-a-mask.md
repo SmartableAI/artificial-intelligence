@@ -3,12 +3,10 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "QJSqxyYcxT25vAr8wbITqv1fXoxgXJJv21D7a6V6EQYVO7+PUbecsQH876dcGlzblRkZBUsOfwKiFixjwPL64iy6RAao+6HJC8ELoylijMdDX6NMuKd45J/lPQLnc+OG7cNtqCHIHxcdaNLu/dqV1vnDvapda6H4RQi1mbikO3s1PfJGyK6NTxADlLF1MDn0+CbiVIcSlwTz1SQb4EPJALJaE7RP+Y3bOGGjjtBu4C818vaSNHHCp+sxGXnH6h/Azwbn9cdCQeRRYwV2xgZzL69tjxYhs2mgJ0U4OKx8G9/DTYRMilf0MXtrBvNE/D+G5PJT5AkCpddQstlQBeZkIIugRemoEZdD/K9yFwD+mdGbp9WpLliQwzY2NoE/rtGGhG419zhvKvz/pJkFXL1N7QbsPTK2uRe1hR6KhIl9SVkGD7gGWV+gDHxXhmpjTfBH56OhywE6/HmuvHoJV0cgc3x3bpY5jqjHJ2VOy8aAI5w=;Z1w7IZi/7ruOlJa0K7xzzA=="
+secured: "UC+akIAjzYll1u/jU1Igeb40juctMQNbbLvsv3pE/+89hcwTSjfZaD/X6/1kUY4QZzl7Cn4yzFbV/+BlCEFcDJ03mmVTmbqGeJWMqfLgVe7Y39vxv4yNLjXLiUE87DLpIhJ3OlM7RxhKaRffPt/QOCotuUXQnWk7XvCwXtqhHAnc3xKIF1VXSpL1BLRmw23RhmbZHlQ0i5oibwXNDirfOZg8IUF2eLi5BIV+R35a5uPtHwZ1UjpbEuLpsdZ+YNfDaKbABIdpfS79uJI4WdgtLUvd2qQx8WYCPdbSxxhO88oXvrqz1BHMl8XeVg9QUXvnh5jnnhI3icVUqkMwf/lAgqvIeLqcwq/1x7SvvdXRgEeArea7PQeP+QODpr7k8OcBhFGMZcvvxOwD0Ye5w/Kt/RYtCoOVHHURSzSLyU7iYGmaC8GSV3oRjeWNItZemRpZndU+f2z2fDghev9K5fgpRSGhXS+fNn6yHybENuYcrv0=;+UQ9OA6808sMCy/JJNAZ7g=="
 ---
 

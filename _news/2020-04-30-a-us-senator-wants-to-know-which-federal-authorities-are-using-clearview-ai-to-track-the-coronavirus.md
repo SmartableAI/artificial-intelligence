@@ -28,6 +28,6 @@ images:
     height: 415
     title: "A US Senator Wants To Know Which Federal Authorities Are Using Clearview AI To Track The Coronavirus"
 
-secured: "etMC4d5ZT5VQQ5L1pxJ/XA2d93aYhvLnAZTsv8nKKHIiruz4tKyk/yiDYOvd5FPvEJ+RMWrcx2/VSLbBCp3JyTKHIXwPFuTVrviV3iMzAuCbGcUf93TsQIH5XpcrO+M72FT3/4yy+Nyo7+98IuenRNditTWcHaYre+7ZUw0wSTtBpcWcST4inQ3OdMqEyZFhLLPAuDFRag0Y9OlHYmuWKVGkpEERQZwB+eVksZlU9d+mTF+sIjFErUPD/32hrbUBLps22H4hO5pw/8DQS5sEzRGB2rDi9R5vzH1EUl6hWfzO3yeFrFbKluNSZh4tY1bB;Ehb4zO5vuZO6AeW7skRAxw=="
+secured: "RSjs9YwBZuVeFxmkwq6MxJC/4FI6t5gnsUdLW1V/0lH5xyvsk/ZBpNEVec8ABLt6+MAO6WZFY0FYiUCrhjb+ibjFg/t31mNUqQZXJVOySrJL7X26C+cVm62chzIekRUIVVgAN6lfaW2Bia5r0Dec9z1/CxVnooTRe6H7UaoUx8Yud8yulszxLyaBdnkn1iwu3bpp3FeXzRCWDxbarTPrunM+Hl3RvxshTr5W232Y9BPER9Or4j5NU8nO7990zY1Pt5ZbV7WO4s3fXvbCdUMlojpYcJfROymQFRr1Qo9TG8smEjeER9ygvNzE4U4BdT9LTrm7GD15VzgSw+LTt8C4TMyX8W5IRAh4qA4nH5jIFsUh/2H4Guq6QLryyYG3YtzBhggTH6Sufz9tJFDaddRF71zxnVXWDmzg8MrqXrNXqw+Q8kbrGk+z5+Q99C68WopU9/Q8kfmIvjUgsdF/7HRTiVcEhnOa3QWDQBEYq29519A=;fIWxHPPiCnTDfp7ovE911w=="
 ---
 
