@@ -5,8 +5,8 @@ excerpt: "Having experienced some of the difficulties and headaches of implement
 publishedDateTime: 2020-05-02T07:56:00Z
 webUrl: "https://towardsdatascience.com/building-your-own-object-detector-pytorch-vs-tensorflow-and-how-to-even-get-started-1d314691d4ae"
 type: article
-quality: 31
-heat: 31
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://miro.medium.com/max/900/1*UUF6K1NYWO9BFMvyTlVqMQ.png"
@@ -23,6 +24,6 @@ images:
     height: 484
     title: "Building your own object detector — PyTorch vs TensorFlow and how to even get started?"
 
-secured: "jW3EvdijnWxvXDmwGsHBz0dnUjROXMW2snjYulEMKjyQtaPM+z2vz2cfqYyTbLuJpNmiIPhMdrdozq/uEdp1hSff2CRUI6nlFreTiM7h1jlBGS19XzAXIdSMTyWfdvZVJIy1yvwrQtA8gfijM0c4D22hGjFzKvcPy4cLb2MJ7J2fq2yeWS2LMp/Xn+9CaU6oGgO+s0BPH5/JnBTuFz8t60wHO08B64D8tDW4LyNXs2vy5xDLgCwNlU0PaBqlJnCzlBdRXEc63oUxhc5Uev0HR2cZhyiW6aLbAjnE1JeheFa6eD6MiKVSgK4FFPVFBTgt;Bieh6L/ItEv2x5i+8IEYog=="
+secured: "wQgbi3J6zWc1KNkuOjaQGlRo9zse5tbdU8GVI8EHAQcX70sGlnLOpm3I1lyFeNm5qsvkzuJVKUJwtWnn5EVJk7Usyw6/cBSWkfPtE4hOH+ZX5q1AiZWGtlAcqHitn44lTHsYakrpOPwifPPKFZEpu0DLVFXTuMo6s5RQzSkM/BPvoAI84XhJxHKkuGaIEcW8i6MSxtdm8CMRje5Hx8NI4NZVmhVAeaxUpcz+Jm0xCLM5CDd0RmqcM02GAy6oP1ONF1KAzKfHoqPFv9Zbw6px3t3gowcmXXzq2uPL0VvSoR7614pQEJcp0XfMnolDtN+c/X5FcUEr5ZLYKFYqMNF3MpFUufGDVSpTyNdfynauHx1FnNyeP8tkBnJMwjgNfChVCm0mPF80bLVICC/G6cE5WKD2HFMfZCSXzCGNUFz2sybZQ6iL6ADyGWqPMYI26jHqAYWYn64ICOV3/LIF6zew13SYD/kNAh3SghYUXJjREso=;iBHD+vKdabLY8zDs5GsjJA=="
 ---
 

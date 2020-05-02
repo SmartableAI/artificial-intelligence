@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Yann LeCun and Yoshua Bengio: Self-supervised learning is the key to human-level intelligence"
 
-secured: "x2il09V8lbSHj65N4nbxfZj1CFRGNMhnUOl9E+9P7BpfudxzWsuXLCnEmAjSkH091XjNyxNvcm8k3CI555KNnVQDLTIr3liJOyeuVkKECDdyZ7ny3IJdaTr/mMXc0MRJttHAx6wgIdS0tfYeH3YjUYI/pBp41m6daUnv4VAEMQ9CFd/HwO8NweCttv2t50RPADULj/YZGurlIWeAmJByRu7m1oYNx8Iq48i9MTzmXJgLscQZRnNoGK0+OLoYO+5vP+cqPM03X5f47oVn5+U4mGcYmIRdTmxudRViPX0dpB/tWowQiktzxPs5XGZKzD7Y;j0/oUwo5QhEvyZwzonYgDg=="
+secured: "9FRcAJ2pIpckOs9yf90tj1zq/bQkNuaYvcKfVmih1b88EpCHXbaZMHqH5AXoJkuP3I4r9CnukyC9keStzzMYIK9s+Zv7ZC/iu5BiPfDki/jA3HH4x0dLYZ5omFvcBe3A5LED48tzdNPljD6W/RlnjuSxImsOHTqvQSI5Ar7psyBTBxNMXAXvdhAVedSnbZIM14eB7nNFHsOJVWx03b02cG/NCDi9yuZ0s3eyuA/S13ATFhGMV5vZ8AczfxiM4YdZ+8aHFnrG4WwseHwH1omjepg/Ff/H/57jlqCATerEuD1FCF6f+SCV2Mi6gYT3q7DVe6XYXlDhtAOVp3wjSClW/GGbae2sXTgiTyqdYbCYoPf9JuroW3rgXZ74gw+3javn8qf9puSMPUxhkG//e64WTv+ktTrqKIG2GjCd3qwfnsXcBcu/c5/fco4wF3UkP77T33u3Dk2IiqH2AFK2mtdS8xoVY0jWKEi3Pw7Zj4CLhjU=;bO3w6Aj//8gP0Q9YJTExzw=="
 ---
 

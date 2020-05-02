@@ -5,7 +5,7 @@ excerpt: "Trusting AI to keep the banks safe can be a good or bad thing. It all 
 publishedDateTime: 2020-05-02T13:17:00Z
 webUrl: "https://www.marketwatch.com/press-release/money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity-2020-05-02"
 type: article
-quality: 63
+quality: 80
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
