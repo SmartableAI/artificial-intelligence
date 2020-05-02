@@ -1,31 +1,50 @@
 ---
 category: news
-title: "Artificial intelligence can’t technically invent things, says patent office"
-excerpt: "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an"
-publishedDateTime: 2020-04-30T11:32:00Z
-webUrl: "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/"
-ampWebUrl: "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/"
-cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/"
+title: "Artificial Intelligence can't technically invent things, says patent office"
+excerpt: "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office."
+publishedDateTime: 2020-04-30T08:39:00Z
+webUrl: "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 87
+heat: 107
+published: true
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://fox59.com/wp-content/uploads/sites/21/2020/04/GettyImages-1176548169.jpg?w=1024&h=720&crop=1&resize=1280,720"
-    width: 1280
-    height: 720
-    title: "Artificial intelligence can’t technically invent things, says patent office"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg"
+    width: 1100
+    height: 619
+    title: "Artificial Intelligence can't technically invent things, says patent office"
 
 related:
+  - title: "No, an artificial intelligence can't legally invent something — only 'natural persons' can, says US patent office"
+    excerpt: "The Artificial Inventor Project argued a \"creativity machine\" should be credited as an inventor, but the patent office disagreed."
+    publishedDateTime: 2020-04-29T19:55:00Z
+    webUrl: "https://www.businessinsider.com/artificial-inteligence-cant-legally-named-inventor-us-patent-office-ruling-2020-4"
+    ampWebUrl: "https://www.businessinsider.com/artificial-inteligence-cant-legally-named-inventor-us-patent-office-ruling-2020-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-inteligence-cant-legally-named-inventor-us-patent-office-ruling-2020-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://i.insider.com/5ea9ca3142278d04453dbf53?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Patent office: Artificial intelligence can’t invent things"
     excerpt: "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an"
     publishedDateTime: 2020-04-30T11:36:00Z
@@ -42,6 +61,6 @@ related:
         width: 1280
         height: 720
 
-secured: "Kbs03Z0pxUbkP9EuiE/hBRyzzXiW54YlK+BNONAqlXTprwNFhvIUTqnQAxuGKOYwlsG7FiqxcNw3zkZYRaFWlMH+oSvVe0hv+3efeenpLVLpDdATFD7B3sd3/uP2j9YBLD9hBEhQeH/W1WSiIVMVHm29KFiDFimoVel13Dubu5SO1LUs6Dhykfray7Oi93riy/rsM6/i1Pcu7S6iMapJCEsHJIGJeLsNrIOk+0XPNlkOVnd9ocnKJ1mTsaWYlm/Cw67cukl5vqJ72BxUEJqYSkL1AQJ930F1vJ105ibi8jRqXup0R2NMJ1/QsMVSlsxE;fSC+pkzTNTYl6COdPn/uLQ=="
+secured: "ORdkdy447VZ1mqaCVj6VByX3/YN1Pu1Ix0EX2GxzAD2W4dfUMYLIGKq7nKQ+0VkQs5JaT3L4wwkC8HR0p0AQjdoTkml9GfPMGtCel8iVVu5KAABDnWoVTBQdRgb6BWBAmA4vuvH0oCP+7RutEFmbhotHilHx8iz8NG0467h+b0bPA0wFwT9vdXXe+V9gUjgVdNTlkMilSIPkxOLHjjak/4uh71m0cXQ5dOiB23dIO6JEM1kfjIP3rcRIt/kArUUg4/xTtKF1ka1KvW12NUDSWvh0lC8MC1eNqCsBGhhf4Ykzle75oeeEKGe3OAJqQ5Ej;RAkz/RvLiswyIn5vuLpa2A=="
 ---
 

@@ -29,6 +29,6 @@ images:
     height: 619
     title: "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet"
 
-secured: "nEuZbbQJpkT3vqnwB/Yi0eihlqteL2PAhAamKCA36zq8MzaQduyKpf5klkVUaqloVxVMwjdFSJYxXjcSdx2F4JGP2Uid5S3C9bYeyWcnQPN3AD3UWme9WmTk/I6cy6Mp9Vcu8HTsFf99QL/3Xi2mSb8+HwBhBdiggioZzswrFshOQueOmLEQp7Xnweixo3d49L5/JBAGT9Dd/wzWPELbgYiooed/+zE3Atkls40zGQSklCZVP3aF2Hde/kdip+zzSZaHRdwd8vyAMtWv7qQcVmXshtkHte+Tt9x9x5Hv0Adq9GwMoI66U8yG2Az1YiIp;oaH+98wsJ368YpnXl/ecBQ=="
+secured: "SCpG1zINZHBPSeLsVeRzaHJZbY38A26FU3l1gx3ESvhFdYobkVPqAnr0jfaoHX2EB5DETqFgSfU7lgh9VFAH81HqwA0kucyJiRJheNE1Q1XjSb2XJKVro2oKSzisyw46tljfaIuSAWE37oNBLHGyavYtdIgkuyKa06poLvZ3WrtcRSo+Ftd1Zp7rQi9y5O8p6figuME+KqcYIzeRBpnWN6ZAh56ODQDamS7aKCQ9amYrAryTCR4++aesb6uIuFZyFaJei9Uw5N0adiSdwFicwkusI+utYWzpeU7L3zSbs9O0aMItJ3KzI9uA+E3A/voSUwZIYU0mMNE10Qo6IxkrbwTdOpzCPgf/9dr/iY4Hk6kAX2vAItEULxPo47vmYg2v+Q3lilWfr97uREzNj3eY/YeoeFN+K9hXIoFjV1EeCDQb4AsAnnFbuVKOFrpwokvxbiCdaME9kouEXD28En4yy0mckm+E2n+zoJfZtrSFlsQ=;/698vLDeCE/UOvFGIbXl3Q=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/fueling-driverless-navigation-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/fueling-driverless-navigation-with-ai"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 545
     title: "Fueling driverless navigation with AI"
 
-secured: "xZf8ivGZ1G9VHEQCIRR37zprQyodoE3k9tOA9IClfe1tIuJGxPaUrcmyzFn/8vWU3m/2PnJeuH34lEYzWqirYbue1VUMY0SNYWQYD70i8Cr4M0vIw5war1U542tpm5JDhJoHK6Fdv50Ee3z9g210ahvJz/0Uw1Vl2q6DJGMFg8ziVgEIcz3y+9AxZSohAxogFQNhkxQs7UP1KiAcEgxxoItodOes6jMUdBSw3jMyJZX71TJAhjN59BvSnE0xk3gvaIKKONWvEH3JVaY6zT9uhBouBrjUihsh3msshi6PjEwC9qfBP39WPD+gTBUBoE/ddNe5FWI+/iJ62JRrACB3k8M+iyvu1CpWL2Z1/aO4tphEB8ihs+BzYV6Zm80sPcAh3zuQQxhJfresiGGZ/7RM5yt+uICZtxTqX6Wu5WJdASD7krL3E+Amnsb9DJK1mQYGiQl0LkLABK44HJvIrcfmBEwwLT+IphPHBJ7Elm7n/+Y=;9PY05kKxC6d8zBqduLWovw=="
+secured: "SYAl2HW1urrK73UJs9DmKgA8aDwqoUAYlPrwYB+4zhqF1r8mrg/tTnLjAzxOK0Z9XtPYVIxySxE0dGbzswIfinwq2YIR/i4BcoOIX0hqBN2N777oQooL73p3AmAJ1VUVCs3pr8N6HMQZAxxbWm5wfQjn/slArpkZNz1oFgz41Nu9cpck0fHSSnzKvfR/OiBzTPyvnCkMhCvTSZPq4wHmqATgPq3mQBHNKjgR+85c890cyJ5WkvSonzgakJKeNpfZpWcoEQvmKGuW4vty4dPoD8oTLHtMZCDHQTDCharc7itGJteR5FnELPpuDK1d545fx7dtQKZO0j4VbA27dBgcJwVV7aGZejlw4J9tfLcX5X6WzmUcaEFEF14nE/eXFQswgK3GY2Ok+x+Wwz8l2y++HpO0ea8jMz81XJNEH+FvUaa3PICuXExW/J17EWVDGrliwpuowWPgdntNsikwm4vNLbWVyWbjMbSppValyKw8VyY=;PmW8trvAv0bDNCB+3goRIQ=="
 ---
 
