@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T07:17:00Z
 webUrl: "https://www.cnbc.com/video/2020/04/29/autox-rolls-out-robotaxis-in-shanghais-ride-hailing-market.html"
 type: article
 quality: 68
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -26,23 +26,6 @@ images:
     width: 1920
     height: 1080
     title: "AutoX rolls out self-driving robotaxis in Shanghai's ride-hailing market"
-
-related:
-  - title: "AutoX, Alibaba’s AutoNavi roll out robotaxis in Shanghai’s ride-hailing services market"
-    excerpt: "Autonomous driving start-up AutoX is now offering its fleet of robotaxis as part of ride-hailing options on Autonavi’s Amap app, which aggregates mobility services provided by more than 40 companies in China."
-    publishedDateTime: 2020-04-27T00:00:00Z
-    webUrl: "https://www.scmp.com/tech/apps-social/article/3081625/autox-alibabas-autonavi-roll-out-robotaxis-shanghais-ride-hailing"
-    ampWebUrl: "https://amp.scmp.com/tech/apps-social/article/3081625/autox-alibabas-autonavi-roll-out-robotaxis-shanghais-ride-hailing"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3081625/autox-alibabas-autonavi-roll-out-robotaxis-shanghais-ride-hailing"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 81
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/26/85068ffc-8611-11ea-8863-2139a14b0dea_image_hires_200054.jpg?itok=7SNEi299&v=1587902461"
-        width: 1200
-        height: 630
 
 secured: "PeNQKK8ThJa2ABduqGFru+aVkVFrQZFvRSAgtBatsg5NTOF7aZ/qMtQGCveIai5Txw5Z1W0G/DaYzVXs7wnxYpTS+7NXPfqNBBnfcMjBkJe8DFjL82nxBRjJAdUHylBrLDBjIK8JlbY+7Atn/InmkJUgS1tvX7EnER2SJAa57M4aRQExPYfKp3ahDZosCSnlw3BI+MM6WOCt7OAdu3PrcBR/nW0VYZ0CneXxJDbFDfiq55dJLnROmyeE5VfRzqAWyBP2QT5pRcwgnlvfZZUgmYqeaQ/pcupZbj83SIP2E5A6FqLudMQE/gKJM7ZVQgpl6A+Gz/sTi6QjHR5RPKtgg7g4qiZvh0VXeHlUzWvKfVp/DbnHdQCewRJ8kcyQ8z+YYKN+bv0IH3W0EH1wLDNRkZH1E4X83cN4LhkNEdLOvfIIPE7OjoXHi/QKzZ2MdQ8OjdjhvIDwJ8wR/0h+ZMm59zhhqmgPmCOZx4aCkRgSq64=;vMkfCYMCTtcO5mKWNvwuYg=="
 ---

@@ -3,12 +3,10 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "b9CdVU9e9rW/FIozPGfFbbyCua9syBh0e3u4WuDPDjqDZrT+bGBOMaKnFIoI5vT490yqNblZj3goWlyZ9IaW1Ztj6dfYEE7NwAohs11sucVeh6/Y4WNAeDMXX0aRZ8UladDNi+c2plAyQDD20Bt0hP6woeasq6Lga7RXupCnK71awQcsotltSD11A24+SSqR2BbEoZEEP+lAAnKVWZBf2LubfMWiXUdApkIg7ugXDLx2qFMJBpQvTpjZ7LcHGwC69cVzF/4iDX/CRvZJgOrTFdAFeWmw730iOD32AQTfevW6KTu3Iuwh5NF7xsyjEEA2BpRaXiIIfQSZEo06JZrKL7v5p3xP8P+sN7IhK0CSdDng/1j6sWYDUNcnkTdCQnPhyjGg0iQMpNJbUeUQGb4IRvjGqs7N3nqxqi/4Zx8MxfwvfCktr63YfaOPuLr+AaIylkN72s5WU4ZR2qIVSt8JBmnPXiOP9zkx6bcsvh+RECU=;7W5vMWHO7YzI7BM5/IeHfA=="
+secured: "D4DjBYxVniom2yG4ILoxLBkmNmXnqf7XPf5HO93CdPy/YXScW8HsZT/7WNT/p/uRAt037/KWLzjzxQIhuhra9yViyhE7se2IWI8aqbbAy2LQ8UDaRngBY/P29SbE+sxAxVL/bCNUhKuKOtFPVR/5deq2kGgSn5/0lrnMwtSWNTeu1oPLiPtqKGU8M9hAWcHPexFcqoXHWoo/zW7bJhBKvZQtxWl2cj8HbVETEcUdfno2QPuejRqGpmsvTC8Frt5wn077ziGvRGt0+NCHvAqJpVrPMtSJAuhN/OrdoyzrIWbdN3cdbeDuZWk8E2SOEKpjUo2TIJpPJv1WcZUlxNH+0giZnCJSVF2V3rn6LFf+l+KC9WVq1Yfe6o6/DtOeVKMIUcOz2FJfdamn8dIFAxOscim7oCWbhMStIM8b4AS4kclCVkilkTMKHyo40vbjrMvoNOdq77WGMfQlaW9wlaJ2fRCnocx2nwZ25uU23zpKmBA=;YfjvXtnHGgsLRqRBfHEY7Q=="
 ---
 

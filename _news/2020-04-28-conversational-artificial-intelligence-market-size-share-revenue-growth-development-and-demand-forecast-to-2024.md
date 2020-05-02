@@ -54,19 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Self-driving car market Size, Share, Revenue Growth, Development And Demand Forecast 2018-2023"
-    excerpt: "Apr 27, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
-    publishedDateTime: 2020-04-27T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-size-share-revenue-growth-development-and-demand-forecast-2018-2023-2020-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "TcuEOndLuyueeMDhdyxWTvkGe1aFBXUe7YaSQxINhy5ji3EZgMMn8uQv7rjDQ81D/1uVZ3wmBR/21hittXP26gr57nEueasDJ65Wh0/s+0sinGWq9/AtFOi4BFGU+9WEYy1d6PuhaSgjwzLxxphL6Z/SXt8jlohVZu3fkwHSWuVPW3/tO3hcrIRBWBXc6bRPvV00agvtYIDOwYU7wfvpP+zNoxJGSeES8ankEvjBmAWGxAI81+KsfPllazfM+vSZjl3f3nZUdlmqrxDjzOrOhGw8H0UyFDebtCPVBQcP7XHTmIoeNAbK/SB2HiD7fLR7;Sw1w9lUmTAw4QBgLJNlRiw=="
 ---

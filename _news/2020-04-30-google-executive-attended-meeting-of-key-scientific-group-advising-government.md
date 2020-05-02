@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Google executive attended meeting of key scientific group advising Government"
-excerpt: "Google says Mr Hassabis was invited by t, Sir Patrick Vallance, who leads the group, which has been advising the Government on its respon"
-publishedDateTime: 2020-04-30T15:01:00Z
-webUrl: "https://www.theargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
+excerpt: "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ..."
+publishedDateTime: 2020-04-30T14:35:00Z
+webUrl: "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: The Argus
-  domain: theargus.co.uk
+  name: Telegraph & Argus
+  domain: thetelegraphandargus.co.uk
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.theargus.co.uk/resources/images/11319113/"
+  - url: "https://www.thetelegraphandargus.co.uk/resources/images/11319113/"
     width: 2168
     height: 1445
     title: "Google executive attended meeting of key scientific group advising Government"
@@ -70,6 +70,6 @@ related:
         width: 1000
         height: 835
 
-secured: "SwKHHBbZxDMtyALpA54JT82h56aYQLOYOtFSKv0y+MO3IszitCTwuWK1xx+dc2oUvb3LAQi2GFBdvhU2d+ltjvP/TWizIXkKn22pOoBve4p+uyjZbcGTWzxtoY0JqpRm+wPX0y0Pk78zpCoHQVz3Ig3/kmFKeg5DKj6jnxZNQBkGT9nqccGj7Lv0Q8CHk/FfpARgqqckr39sRL8vWexGCWhCzYI+slF/cuoWGKVUpk3Behmy+aLP3Njy7ZAGLUbM/z1bOYiTN6b4lCrOk8JJSUvw+xT49OLLL9w+nHmtllLzJlxygI1UeOx82m4lgAAK;EGju9Bb5kh3quQujIXye7Q=="
+secured: "DBUDEK5USB5Y1sUtokx9+QP4BOp+hDae/M6D8McgPqNpNKhIAqJx8yxGRm3+yTXiEI43+QOvqS/SdRtpMOZNToOXvVihfKC4V287hMPUIjeGfXMOJW1GrCnzl14K4Gb/tLFSs0rg6kdpmG1jWzTc4RqmBaLIZVhKfajNoffXGSqAdmpkfkTArlPS0GJY2WelzJYOZvajYj5LnkP6vRDHDyxcyCdFm+5VaQDA6P/+6tuIxvUQ7z6mjK6SUbWStcYgUNukm73bPaXVhvKOUO9I4Oj5SnkAPlIbFJabOZzq1uxl4r3+d26YyRAhrl6ExMcu;HqcLz34wPmsbthoxpC3tIw=="
 ---
 

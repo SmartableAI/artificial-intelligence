@@ -2,8 +2,8 @@
 category: news
 title: "These pop songs were written by OpenAI’s deep-learning algorithm"
 excerpt: "In a fresh spin on manufactured pop, OpenAI has released a neural network called Jukebox that can generate catchy songs in a variety of different styles, from teenybop and country to hip-hop and heavy metal."
-publishedDateTime: 2020-05-01T13:18:00Z
-webUrl: "https://www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm"
+publishedDateTime: 2020-05-01T15:52:00Z
+webUrl: "https://www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm/"
 ampWebUrl: "https://www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm/amp/"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 682
     title: "These pop songs were written by OpenAI’s deep-learning algorithm"
 
-secured: "yttG0baf8njjzI7eGSmKXEwOiwoNnJP4BmRr58M08ZS09w2/+Wk8o4sIgzEkYBjdPi1QaAKDT8+khQaMPk10iAVbYG2jKw1NZu2WEHHaJp3zgVqXAKUVbdVnvH9Z/abWGO812VA3vsVD306IlH5nJiIIPGyZZjPhd32kEZ1hyGNrmPMI7zVSo8qbrhSQy2SWG8CCOF8VLX9EYuDOuukRMfkUgKsAPRa+OMEyVrlkzO4BlG6Q3POOvKjMQxHInQqsgyJAvSb+c2S6cW52G3PXdupLmenoALMI55OyX7aUHulSS5SIA21kzZcUWLCK47kj;fIFpzZ4K8e+JKTlY/1WGDA=="
+secured: "GLW6OtnM7xFTWa0PUB+ea5q0e5Bc6nvIw9Np48Ab7rIsDV9xFm/Tj17F04s/P2MK8AOZ7mHkZLbiGVsgpD/OGhaD4KXynzHeqXpfYMymYIK8UJAtTyzjxopctfi4tzeL55OtMid07y9NPDz/Z1bgQLyzu2sKCMPptFgO9ID8uQK+lJjwO84XJuRrFpsXU+3cMHjjBvKK5R5TBv11ip/J4dQshqmx0D3CQOBaNpkdxvD8OHtczYHSbgjTrP7pjfOtQTCFIgEoQuiNsHcrd1BnxicY+Izji/UX6KfSA0M2OVigdVAbA7OVdR+rCguZTN4q;ibBrp8Q8toFqPmf/UxgyoA=="
 ---
 
