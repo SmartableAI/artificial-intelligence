@@ -1,1 +1,1 @@
-# AI Every Day
+# A.I. Smartable
