@@ -2,6 +2,53 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
+      "title": "AWS launches human review service for machine learning models",
+      "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
+      "publishedDateTime": "2020-04-27T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg",
+          "width": 1000,
+          "height": 479,
+          "title": "AWS launches human review service for machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-uk-spies-must-ramp-up-use-of-ai-to-fight-new-threats-says-report.md",
       "title": "UK spies must ramp up use of AI to fight new threats, says report",
       "excerpt": "UK spies must use AI to counter cyber attacks and augment intelligence analysis, according to a new study commissioned by eavesdropping agency GCHQ",
@@ -1029,51 +1076,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-26-nvidias-rtx-voice-uses-ai-and-gpus-to-eliminate-noise-from-your-video-conferences.md",
-      "title": "NVIDIA’s RTX Voice Uses AI And GPUs To Eliminate Noise From Your Video Conferences",
-      "excerpt": "Whether it be someone typing away on a clicky keyboard, or someone’s kids, pets, or television constantly droning on in the background, interfering with the speaker, background noise just plain stinks.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2020/04/25/nvidias-rtx-voice-uses-ai-and-gpus-to-eliminate-noise-from-your-video-conferences/",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2020/04/25/nvidias-rtx-voice-uses-ai-and-gpus-to-eliminate-noise-from-your-video-conferences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2020/04/25/nvidias-rtx-voice-uses-ai-and-gpus-to-eliminate-noise-from-your-video-conferences/amp/",
-      "publishedDateTime": "2020-04-25T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea4d9798f541a0007e2284b%2F0x0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "NVIDIA’s RTX Voice Uses AI And GPUs To Eliminate Noise From Your Video Conferences",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

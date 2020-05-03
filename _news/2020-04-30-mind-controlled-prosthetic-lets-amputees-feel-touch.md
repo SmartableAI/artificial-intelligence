@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-30T18:51:00Z
 webUrl: "https://uk.reuters.com/video/watch/mind-controlled-prosthetic-lets-amputees-id712411311?chan=643aqbw7"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Reuters
@@ -28,6 +28,15 @@ images:
     title: "Mind-controlled prosthetic lets amputees feel touch"
 
 related:
+  - title: "Mind-controlled prosthetic lets amputees feel touch"
+    excerpt: "Mind-controlled prosthetic lets amputees feel touch Posted For the first time, people with arm amputations can experience sensations of touch in a mind-controlled arm prosthesis that they use in ..."
+    publishedDateTime: 2020-05-01T07:00:00Z
+    webUrl: "https://in.reuters.com/video/watch/idOVCBOV9ZV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 34
   - title: "Mind-controlled prosthetic arm enables patients to feel the objects they grip"
     excerpt: "The prosthetic arm represents an advance over other mind-controlled bionic limbs under development, the researchers said."
     publishedDateTime: 2020-04-30T09:03:00Z

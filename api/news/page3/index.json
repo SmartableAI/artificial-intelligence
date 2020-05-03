@@ -179,6 +179,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-30-mind-controlled-prosthetic-lets-amputees-feel-touch.md",
+      "title": "Mind-controlled prosthetic lets amputees feel touch",
+      "excerpt": "Mind-controlled prosthetic lets amputees feel touch Posted For the first time, people with arm amputations can experience sensations of touch in a mind-controlled arm prosthesis that they use in ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://uk.reuters.com/video/watch/mind-controlled-prosthetic-lets-amputees-id712411311?chan=643aqbw7",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20200430&i=OVCBOV9ZV&r=OVCBOV9ZV&t=2",
+          "width": 960,
+          "height": 540,
+          "title": "Mind-controlled prosthetic lets amputees feel touch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-openai-introduces-jukebox-a-new-ai-model-that-generates-genre-specific-music-with-lyrics.md",
       "title": "OpenAI introduces Jukebox, a new AI model that generates genre-specific music with lyrics",
       "excerpt": "The way OpenAI did it was also fascinating. They used raw audio to train the model — which spits out raw audio in return — instead of using “symbolic music,” like player pianos use, because symbolic music doesn’t include voices.",
@@ -888,46 +933,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-patent-office-artificial-intelligence-cant-invent-things.md",
-      "title": "Patent office: Artificial intelligence can’t invent things",
-      "excerpt": "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/",
-      "ampWebUrl": "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/",
-      "cdnAmpWebUrl": "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/",
-      "publishedDateTime": "2020-04-30T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTTV",
-        "domain": "cbs4indy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cbs4indy.com/wp-content/uploads/sites/22/2020/04/GettyImages-476176424.jpg?w=1024&h=683&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Patent office: Artificial intelligence can’t invent things",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-04-30-ai-in-africa-training-bots-to-talk-to-my-mum.md",
       "title": "AI in Africa: Training bots to talk to my mum",
       "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
@@ -970,6 +975,50 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
+      "title": "Artificial Intelligence can't technically invent things, says patent office",
+      "excerpt": "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office.",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "publishedDateTime": "2020-04-30T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Artificial Intelligence can't technically invent things, says patent office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1059,51 +1108,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-index-and-credo-lead-a-275m-seed-in-anti-fraud-tech-resistant-ai.md",
-      "title": "Index and Credo lead a $2.75M seed in anti-fraud tech, Resistant AI",
-      "excerpt": "Prague based Resistant AI has nabbed a $2.75M seed round. The security startup’s machine learning technology is designed to be deployed on top of AI systems used for financial decision making to protect customers in markets such as financial services and ecommerce from attacks such as",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/30/index-and-credo-lead-a-2-75m-seed-in-anti-fraud-tech-resistant-ai/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/30/index-and-credo-lead-a-2-75m-seed-in-anti-fraud-tech-resistant-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/index-and-credo-lead-a-2-75m-seed-in-anti-fraud-tech-resistant-ai/amp/",
-      "publishedDateTime": "2020-04-30T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/64BD2795-BB78-4834-AD77-F7E951E9BD85-2.jpeg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Index and Credo lead a $2.75M seed in anti-fraud tech, Resistant AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

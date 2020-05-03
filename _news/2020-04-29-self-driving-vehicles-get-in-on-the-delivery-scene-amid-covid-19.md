@@ -37,6 +37,19 @@ related:
       - url: "https://www.standardmedia.co.ke/images/thursday/selfdriving_vehicle5eaa5bb1afeef.jpg"
         width: 640
         height: 426
+  - title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
+    excerpt: "Self-driving cars, trucks, sidewalk robots and shuttles are rolling out of the labs and parking garages and onto American streets to help deliver groceries, meals, and medical supplies. Although self-driving car companies have paused on-road testing in the U."
+    publishedDateTime: 2020-05-03T21:00:00Z
+    webUrl: "https://japantoday.com/category/tech/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 24
+    images:
+      - url: "https://injapan.scdn7.secure.raxcdn.com/app/uploads/2017/09/20728766_1544633632269161_1607214437966247907_o-700x466.jpg"
+        width: 700
+        height: 466
 
 secured: "cmUigKwST5OjTXO5B8Xme7QZdqjlaMnStv2IjdFVJvlh1BC7YYO4BN2F8wSPVAvG8ZsEqAKyC/26jG8jRpWI24dAf0we4afwV9pJpCrESqHPaXsXCSeyE6wUitZQ7OEqaSBymF51vRXS6SzdZhaFjdNvFVSv0vwR0LevLNsliTJffdr2iDvNl9nysTm+L9cSA1tfr8q/gCwFo6NCS0fFgqVBeSUOmCnq5ayP7nmcJ3n/RdX5xxFpCJ874FwejE7KTgnc1TTxSmIHdIteG51GlR6o3paGrfpTbmFCzCa+/3Hiq253/jLLtPitZ8tUdepi;BfZxcfxWm/oi2aRD/RX2jw=="
 ---

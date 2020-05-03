@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Startup Réseau Goes LIVE With its AI Summit"
-excerpt: "Before it's here, it's on the Bloomberg Terminal."
-publishedDateTime: 2020-04-23T07:36:00Z
-webUrl: "https://www.bloomberg.com/press-releases/2020-04-23/startup-r-seau-goes-live-with-its-ai-summit"
+excerpt: "The online summit will cover themes and tracks across core technology and applications, where AI is playing a massive role Built on the founding pillar of #StartupsFirst, 'Startup Réseau' is an ecosystem of Enterprises, Capital, Markets, and Services – for Startups, by bringing in various types of structured interface for enabling unique ..."
+publishedDateTime: 2020-04-23T07:43:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/startup-reseau-goes-live-with-its-ai-summit-847656852.html"
 type: article
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "6yXaSqmEpc9xQ2rV8nNJcNrxWf4qzAcP7MCEBB3JZmsdustrsxARPmLx/VFX99mK1WyuwIuC6v+G8Y4NVp6rSBTxhBbpbj7a04Rwcaf2IRp97cAILmfi9KOOomC3WgtjEcbSIr3tQiDqVZ0cga/gTrwYi9zICalplnoyJ7l2LWTNHCoQ0kZl492SbOxMm2iTRhJ04q0MNJ4zh1/amtMl0qXqlPpozelVbftAQgCuQyvuqDcSFWRUNwwRs6dY7GtOI7msGDkus/geMl2xpKc0abrm5wbputIwCZzM9Nj+j5G8Qd6/uTbL2BRwlbE8tMM1;UaMUrzVRh3rSRHYqv0dEIA=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "Startup Réseau Goes LIVE With its AI Summit"
+
+secured: "4+ETib9L1bVP3U9mYrtg5DGNHbB238gUupwZ/udZgOe10UH6yczt7ZTDoMd78ninLKDPgJsHjF3BADvrM2ekYEbsW9jXh0BvSkDAmVvjLOJHaBMZMKGSgpEI02K8sgbFFdHMSJ1ExrT2eGi6Vku/QRwAAp0efhHns+6ENYLekITBRVfgD2X/o6xnR5Pbs+ACp6LVuQkoEMRRgJgZ9tL9eU55Kr/ut1gYQf1Yb09xVKIH6QJ+AmVjY5OczH2cy0RkQj76Sso6g8WuncKECcVIThymSelXUlX4SlhsvownuAdpymlRQKOjKceVz65ORiCc;j2LV9wW8aIwd1+6u4ssHDg=="
 ---
 
