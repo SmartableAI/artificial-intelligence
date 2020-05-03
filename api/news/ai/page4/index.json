@@ -1064,44 +1064,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-28-first-spiking-neural-network-based-chip-for-radar-signal-processing.md",
-      "title": "First spiking Neural Network-based chip for radar signal processing",
-      "excerpt": "Imec, the research and innovation hub, has unveiled the world’s first chip that processes radar signals using a spiking recurrent neural network. By mimicking the way groups of",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/first-spiking-neural-network-based-chip-for-radar-signal-processing/226526/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/226526/imec.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": "First spiking Neural Network-based chip for radar signal processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-04-28-can-ai-do-a-good-job-writing-marketing-copy.md",
       "title": "Can AI Do A Good Job Writing Marketing Copy?",
       "excerpt": "Parry Malm: It all started with a simple idea: the language a brand uses in its marketing is the crux of all marketing efforts. And yet there was no technology on the market that could make it better,",
@@ -1324,6 +1286,43 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-tectonai-emerges-from-stealth-with-20m-series-a-to-build-machine-learning-platform.md",
+      "title": "Tecton.ai emerges from stealth with $20M Series A to build machine learning platform",
+      "excerpt": "Three former Uber engineers, who helped build the company’s Michelangelo machine learning platform, left the company last year to form Tecton.ai and build an operational machine learning platform for everyone else.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/amp/",
+      "publishedDateTime": "2020-04-28T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }
