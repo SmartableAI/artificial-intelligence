@@ -28,6 +28,6 @@ images:
     height: 537
     title: "Intel to buy smart urban transit startup Moovit for $1B to boost its autonomous car division"
 
-secured: "fvvbBjZXp6Ci8MbEnOSTK6Ee3MtMvQlNdpqSKgJQcwNxNZwOcFqfgG1KZe+gHE7yFsK4aflwkq6EdbyT+2q2NvETf0B5N7qnZsr8JPsw8SUfxUaPW057E+4UFMqlbPO4U54Svy7BELcALgWGn9hDSnDr+rHlV97vXYrgGQExjj23djXRZebCwbE7jYl9EOuZS49MrvrSAaPVDDI2w80mRengbK1XY0W8wyt3fIPIRomYROlUwE6e3wd1ROjT7O68a0eASs+dA84ZCTf9cZog++CuweciETjXaoChrPy2gV4J4y5j9z+dhdKIrQFjp2Sz;ANraWEyzQ2pz4pJZEa+xUQ=="
+secured: "TV9Ji0IQeRGiGVOXTXdlyj5Lyicc0G2WbM80A2wdv1mt7T1RxkvxSIR89WVMpC5CKCRtZjHDwi/2r/dKPLblJDVT/CRQAeE6pkztSrGu1PL9SjU/E75bPtQ7G4/FwFDYkF8fYWzlwoWu37J5qO9GL3L9uK5iOQ5J+gS3IKsi8BDr8rjfZpcpTTV1HKSWBtxG5iLSe0oZ5EiPlYVnlFtyRhchBfsCWUqVpZOUS4fscPxFzxCPA3xzCYrwVJIJHVjEOmK/N+xRzqsmRoa5oCI58dL/wfPbSj7H0DZDi+QlnNkQTDcdPXv+kQ8vsAKLVuBe0WSXWkyMb4MyEPtx4IkJz/GrG9pijOPeu880s0/XsET4xvZ75lCse6HyfteRao3e8gmpBIIDd/lMMdiDeDxFZpnaC2oFriCiX8U/VHqdtm8Ms49r6AjfNhfiTNXw/mDFr/wNeyVPzrxr74x/epPVd0If81eeclR/kiK+V/A4Gdc=;cRQKtdL7Xe7GSjgUkGAQIA=="
 ---
 
