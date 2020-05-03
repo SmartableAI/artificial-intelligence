@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Adidas is using AI and 3D printing to cope with a plunge in sales during the coronavirus pandemic"
 
-secured: "15O252fantUvEjlezp0N/PeUY8LGfRePS8iuReuDeaykgZBDHC4gQlYzrmX1nBwAcvg1wGKOog8LdQUUASndp/n34QTRHjnw1Z9Qvwxwx8LZicv1VwF3D9Gc1HgAVlh2jhXWPTMqnG80Cm+nCDK4R83zRFsGmtMmv4eU2kleUE1FPKXJfMzXDevnGo3dZqmpPkhvJGEfB+R0v0ooGXCEKASnCb/wyvylTW6jAHWlIhyv17in6k+9e+/a3Aa+umhqmod7qsA377DuiJa5q2NiHI8ndn4+upn5oJHQUy3lTwW9W1oRQFTKiM/qVlprWSzt;KojBnCCU9WiUK0enHaGJ1w=="
+secured: "3Gkra7xzAkNXmrQTA75xReRbnclrofqaYODMwENQEbI2PF7U8CwAAByIwlgooeQrEyhPhMY5acZXIF4yF+MISg/y+OV6puwIeWQ8BIOWUu5rGd5VQxjz64TZPjxp+prydhYNLdA2R9KGW4ParlmN5xNLcdVPI/BM4rQcHts3Uk6QeX3ELFXiqCDa1GVwTrKXKQLI5HEUHz9Qmb2902OBYK8u052ySlH+rSjHSzwK6DDintUFLl7vW2OVIKUiHxxV1lttW0m9b99yVdPJiegFUFrq59TTs0fnCRW9dX/GnGN71Dl/1fTzs4uOn0QpI2TIEM7jaTbYxRfAaxQrl++eq4O6GHhL2I1qmed/UGRdg/6bJ9hmcEU/Sv7mUFVCnij/ESiDFrym2E/4Fhupvz1lTh7SZEiD3h9ENEk/jojJREQLVUXVUtdSqImvvkL+1zZD82XHnderMnHFulBYbhCEcfpF4KUf+eGavISjwALnURM=;A83HTTEyDF/CLASx84SQig=="
 ---
 
