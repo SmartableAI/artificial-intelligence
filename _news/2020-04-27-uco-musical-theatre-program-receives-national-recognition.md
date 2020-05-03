@@ -22,6 +22,6 @@ images:
     height: 720
     title: "UCO musical theatre program receives national recognition"
 
-secured: "td8dFfq8Q9onHku+BpPBcJVJZKmBz3LfMzVuI7gXZOcsrH9Q5IxEf48MyVkYBZpC3tUqm/3twraDLAS5WeD4LR+CHw7OtVZNgqHsiC+ve0k+zvucTESGrulQ8HEqnrQaTrilKqMp7zNuaThgXKI+GdQ/LSpavamOvLeo1Gj58KtzhVcmHaCliDSymMPZks0q26oTBwgu2DfGul1RAIpXxgOAoe7DIcbTBd2c28UgfaQjInoBdfnvE/Ky3Cm5hF2bPtMB+cmAnr1R6ZMxhp5avz/tVbZIfvwYMVfy3UZQZ9iluGrdnggJb9ERoXDmJ+n9;i6cMLtYy/dbSlWN51mBeQA=="
+secured: "XS00+YpAIlJCi6IQ6YAVekOUBqQzb8UK5wH4cTSqFK4A1DMMexXiYbzuWUlP8+kVqa265fiAvRoZ6ljlMOzzc3ofV/Ln6c0UHpDyxvCT/unY/XwTqGe7/7jXHFfvbdmEi0cR9sY+RxKgMj8Fd4/0OC/V2TuTRAVT2D8ekk8gglETAc/IHPxqwANvNGZtsiY8F5zrXzWPeLqe4iWagULv43r+bwd8/YksUJ4E+/DhCCXBbBxAP07uSKxt2mfQGlBz2FHWOcn1Paqm/q3qrEZzUt6YZakXvbCAeYoXvO2bJUfxDRTl/QjuJt+a6f5EzVPYhnoTgX6VUa3Gmjo6ONEGM2EMw3LMUrGmlBwcPlAzRetQ+t9NyYuVaDzG6Hvv6Oq+aET9Kklxf/dcxrbTyJTJdc5+KfQpRgk4KN0aJXmFGuHpg24/7a9jelOB6oBttV3fXAkOimhPma72WrrIdSw+3UiF8ob+vgbo3WXsc27vPi0=;3rAlpPFnozBaiEG21Jdqig=="
 ---
 

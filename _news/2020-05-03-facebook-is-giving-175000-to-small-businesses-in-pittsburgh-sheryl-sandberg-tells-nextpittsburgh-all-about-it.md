@@ -23,6 +23,6 @@ images:
     height: 500
     title: "Facebook is giving $175,000 to small businesses in Pittsburgh. Sheryl Sandberg tells NEXTpittsburgh all about it."
 
-secured: "ve/9Fj5ubJ1UFFNDJMsvhNX7v1gGjkinNW71TQFn2g5rpqevqzMG7ln9Dym5ZlGBV6Pec1G1DM+Nv2iuBRzORAihn/K8KssHpZHTqT6cVMQNyDyuCSHKSanl+0OsAEdxEky/SFkCrRiLB8L48zgSGrVhEPbaw92aVT3gb0XSRkV4b5P+7IQ9xwPieZxv9ebSAO/jG2JuuU6bvGJfax2QthgOhYU212ow3m1y96SLiA8BM68tsy0YKn3zQHbbBYErbQClTeqLq23G5+v/+n2U20U+iSoo12QSnxp1JpLXY9shRkkdwWFOB7HztGQ4/VMA;WxhKDqJDORElpxfHN/F/RQ=="
+secured: "WrvmLb4tUZ/WpU0/MYyXVCanLF9tJbICdI2pcX5IEOCuoIsNNyVAd0jmDiDb7aSVr/10eEnsRnYRAXp/ei0EQs3SKaUIFFXvhvuRgtofYRWeFglo4hgKpZVXVjhHUTApIwDTTMdxKc/E6hlRy0h9sIoLyKswxgk3etW25k1KoR5eeg3j+bnHrncSaI69lGQnd7qMU78uiL1pOzz0KhdkkJp36vg0E9PX+x3jCbsVHeU4qJTTwM7c0+lfXrL32SZ0x3fBuJukO3ctL8J4bCvhiiC3DF/xnXrpfr7nd7XmcQyCWF4xtG7h4R+9C8lzutIsaSbghH1y3O/LBgHPoLuW7Lic08rO4baWZUVr7yAuu318F4E5GBoinmKGbgZR4Y1yDmKxIeXu139qmoV0kOcK1RT+FwvlF+7BlxfnrrXWp3aLP+PyCENG1oska+e6oa2YLbxx55NXwt9m1kGE4CiPihbzH/HQVp/sslzHNC9yruk=;IN17yEVAzt+v6n9Y58SqYA=="
 ---
 
