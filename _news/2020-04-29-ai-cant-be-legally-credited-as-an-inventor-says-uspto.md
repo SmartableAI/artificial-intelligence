@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/us-patent-office-artificial-intelligenc
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/us-patent-office-artificial-intelligence-inventor-patent-221309654.html"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 600
     height: 350
     title: "AI can't be legally credited as an inventor, says USPTO"
+
+related:
+  - title: "US patent office rules that artificial intelligence cannot be a legal inventor"
+    excerpt: "The US Patent and Trademark Office (USPTO) has ruled that artificial intelligence systems cannot be credited as an inventor in a patent, the agency announced earlier this week. The decision came in response to two patents — one for a food container and the other for a flashing light — that were created by an AI system called DABUS."
+    publishedDateTime: 2020-04-29T16:35:00Z
+    webUrl: "https://www.theverge.com/2020/4/29/21241251/artificial-intelligence-inventor-united-states-patent-trademark-office-intellectual-property"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/29/21241251/artificial-intelligence-inventor-united-states-patent-trademark-office-intellectual-property"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/29/21241251/artificial-intelligence-inventor-united-states-patent-trademark-office-intellectual-property"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 83
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/8KaGrcOcMPTz4e2ak0DOJtOz3bY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66726960/jbareham_170215_1460_0001_v2_3.0.jpg"
+        width: 1400
+        height: 933
 
 secured: "0LmIdYQqFOJO4Ny/r95zRYHrFNcZuhcAGXiLVaBwafxznMhK/uojwEqL0ajDUbzLumMp/PW7311MiostbGmH4O/B0VcHtqqNdFpsMv8mTNnQ0c9uLRK7mpHok2ncZnJwbctNb0YxNmJhWhHK62TTQ9f14xg3qZSpRKeYDJnQfkvzhzuX2gFDCbNBhZd9s0l+aHJUFEAAydrvGI/BnxtkwdRNGOO5jI5vCO37Mt6OEi5omS9fH4jeDtukoWsDv9Ui6iUWyp0TU/9tvt1WcG+LtfbU6Dq+a704ZdHzx7/Nij4RmbyNPUONCvCwt0eu/pkq;TjLLnWBfTIojxgkhCJuBOw=="
 ---

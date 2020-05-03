@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Intel teases enthusiast gaming Xe GPU with 'tens of billions of transistors'"
-excerpt: "Judging by the fact Raja Koduri refers to the chip as the \"baap of all\", a term the Intel India team have been using in reference to the Intel Xe HP architecture, it sure looks a lot like Intel's prototype enthusiast and workstation GPU."
+excerpt: "It's more likely an Intel Xe GPU set to release in 2021, and it's just been teased by the Intel Odyssey team and Intel chief architect Raja Koduri on Twitter as a good fit for \"battle-fielding and b-floating\"."
 publishedDateTime: 2020-05-01T16:32:00Z
-webUrl: "https://www.pcgamer.com/intel-xe-hp-gpu-prototype/"
-ampWebUrl: "https://www.pcgamer.com/amp/intel-xe-hp-gpu-prototype/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/intel-xe-hp-gpu-prototype/"
+webUrl: "https://www.pcgamer.com/au/intel-xe-hp-gpu-prototype/"
+ampWebUrl: "https://www.pcgamer.com/au/amp/intel-xe-hp-gpu-prototype/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/intel-xe-hp-gpu-prototype/"
 type: article
 quality: 56
 heat: 56
@@ -25,6 +25,6 @@ images:
     height: 675
     title: "Intel teases enthusiast gaming Xe GPU with 'tens of billions of transistors'"
 
-secured: "6ikXVuQkPdyoDRGATLoltgT7FppFvFILsLeGrU5nEqYcmK0lidNVfzWXLNBbB92O/65txCI52Ox0caP9zLG7VCyvjl9JxTwkR9oujkJDjkG6ajUpKM+JmwJiueLECRXb9XV4mgI7beWOWcEegevMWBZftgI3vqJNkoqeu+rFshGHKuuEvkgRYlnoyN9aWku0KHKF4mTDN3Y0eSJngMVObxasDbxWqiEBffIY4S4TG/Y0Doajfhgghgzk8lAJpCQAfCc8q9cClvRBPqYWx/rTTeamzEUwwydKdoJHf91G8aCBcqknbCV+I3femKaNiYK4Y/0E/WdLIqEGg0qDy0HAXaO82hgeloflfx68kW+aSnxqKxCnQRE2QMYy5skhxWdzkjB1xKs699nLM3clSmmcNUW0BAd40DnfvJhNO4KoNY+B/bsVtu/mTn3ErTLjf/oFqax1EE8bLsKm/mZqMQ4BYvaAqQxBbqw0ctzlHMiqcRc=;ZCZTOEiWmzTMBZwg1vb+MQ=="
+secured: "LGYoIz2G5BqTfmoZ3P9OCThcpmTw8hAJ5n7d45xG0oERsU9LtEnKitNwmkPkRBJnOsZVNfARdZwBLejT4+/jCAcrSEhIHsLYleci3rgPC4CxbKGlg/fo7K/+NU7Z4l9y/YqSrdvjJfFieLsnUitUCp94B9/xftEAJrDO4YI4wj7qdGRtdSkkIfZ5J9beN1dnNpl+b+Ctfe7CADwwU9OVmSRKkjL0Z0bEOIrbdvMvZPnxP7nG/RRjvoWsHCS1/SzZTcj6OeTEwkrJkek+eRG5OU66otqilysmwyls1yKccNCsc9EkS9Hmeu86RonhwXJr;U8HSdXvgGTJqUiXhKLtovQ=="
 ---
 

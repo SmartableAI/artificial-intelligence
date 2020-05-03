@@ -2,6 +2,96 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-01-how-well-can-algorithms-recognize-your-masked-face.md",
+      "title": "How Well Can Algorithms Recognize Your Masked Face?",
+      "excerpt": "Makers of facial-recognition technology scramble to adapt to a world where people routinely cover their faces to avoid spreading disease.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/",
+      "ampWebUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "publishedDateTime": "2020-05-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ea9d268640d500008d511c5/master/pass/Biz-maskman-1217070531.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "How Well Can Algorithms Recognize Your Masked Face?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government.md",
+      "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
+      "excerpt": "Public sector organizations using Microsoft Azure will receive discounted rates and benefits under an amended agreement between the software giant and the UK government.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
+      "publishedDateTime": "2020-05-01T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/02/89020fc6-fe78-4bee-abb0-0ce4d0175c91/thumbnail/1200x675/66a68d9e60796e80b78d5bedaa0bde98/20200227-rsa-yehoshua-veronica.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
       "title": "Fueling driverless navigation with AI",
       "excerpt": "When navigation comes into play, AI can help to give drivers the very best directions, despite the complexity of the route.  Pierluigi Casale is Group Data Scientist at TomTom. Powerful, accurate maps can be created by deep learning models,",
@@ -1213,95 +1303,6 @@
           "width": 1000,
           "height": 600,
           "title": "Duolingo’s AI drives its English proficiency tests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next.md",
-      "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
-      "excerpt": "Microsoft is ready to roll out its 'spring refresh' of WVD, while working on a grander plan to make WVD more of a full-fledged cloud-managed desktop.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "publishedDateTime": "2020-04-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg",
-          "width": 875,
-          "height": 557,
-          "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-australian-businesses-lead-in-ai-deployment-but-bias-challenges-still-exist-genpact.md",
-      "title": "Australian businesses lead in AI deployment but bias challenges still exist: Genpact",
-      "excerpt": "Australians still fear AI bias and that algorithms can make decisions that affect them without their knowledge, a new report has found.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
-      "publishedDateTime": "2020-04-30T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/08/08/f6ceef89-c938-405c-9ff0-71b03a212cbd/thumbnail/1200x675/7d7f9d66decc95dc28d1267da7a0d33a/woolworths.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Australian businesses lead in AI deployment but bias challenges still exist: Genpact",
           "attribution": null
         }
       ],

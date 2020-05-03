@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-03-adidas-is-using-ai-and-3d-printing-to-cope-with-a-plunge-in-sales-during-the-coronavirus-pandemic.md",
+      "title": "Adidas is using AI and 3D printing to cope with a plunge in sales during the coronavirus pandemic",
+      "excerpt": "German sportswear giant Adidas plans to bolster its lagging performance by shifting strategy to focus on its digital platform.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/adidas-ai-3d-printing-coronavirus-sales-plunge-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/adidas-ai-3d-printing-coronavirus-sales-plunge-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/adidas-ai-3d-printing-coronavirus-sales-plunge-2020-4?amp",
+      "publishedDateTime": "2020-05-03T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5eaaeae442278d66c5040b96?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Adidas is using AI and 3D printing to cope with a plunge in sales during the coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-masked-or-not-mike-pence-keeps-the-peace-with-a-poker-face.md",
       "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
       "excerpt": "Task forces and vice presidents don’t get to decide things,” said Tim Pawlenty, the former Minnesota governor.",
@@ -429,6 +473,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-uw-team-imagines-a-better-parkinsons-test-lands-in-global-finals-for-microsoft-student-competition.md",
+      "title": "UW team imagines a better Parkinson’s test, lands in global finals for Microsoft student competition",
+      "excerpt": "A team of students from the University of Washington is among the global finalists in Microsoft’s annual Imagine Cup after putting their imaginations — and technical skills — to work in hopes",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/",
+      "ampWebUrl": "https://www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/amp/",
+      "publishedDateTime": "2020-05-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/teamtremor-630x353.png",
+          "width": 630,
+          "height": 353,
+          "title": "UW team imagines a better Parkinson’s test, lands in global finals for Microsoft student competition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -996,94 +1085,6 @@
           "width": 2488,
           "height": 1398,
           "title": "Watch This AI Algorithm Change Humans into Animorphs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic.md",
-      "title": "Drug discovery might be the best use of AI to tackle the pandemic",
-      "excerpt": "BenevolentAI's discovery of a potential coronavirus treatment show's that drug discovery is one application of AI that's living up to the hype",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/",
-      "publishedDateTime": "2020-05-01T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-21-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Drug discovery might be the best use of AI to tackle the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty.md",
-      "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
-      "excerpt": "He sees the vision of how AI and machine learning can help us work better in the post-pandemic world. Gaurav Kataria, VP Product at BetterUp says, “One of the key skills that we are focusing on is learning agility and resilience.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/amp/",
-      "publishedDateTime": "2020-05-01T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eac09d2af7fe60006a119f7%2F0x0.jpg%3FcropX1%3D467%26cropX2%3D9888%26cropY1%3D0%26cropY2%3D5304",
-          "width": 1200,
-          "height": 645,
-          "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
           "attribution": null
         }
       ],

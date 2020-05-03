@@ -1,11 +1,11 @@
 ---
 category: news
 title: "transcosmos releases \"Automated Call Answering Service\" with the power of speech recognition & intent inference algorithms"
-excerpt: "Helps businesses further utilize call logs for marketing whilst reducing call agents' workload TOKYO (PRWEB) transcosmos inc. released an \"automated"
+excerpt: "PRWeb/ -- transcosmos inc. released an \"automated call answering service\" that utilizes \"BEDORE Voice Conversation,\" a"
 publishedDateTime: 2020-04-21T07:05:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/p15845152/transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15845152"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845152"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/n15845146/transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15845146"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845146"
 type: article
 
 provider:
@@ -16,6 +16,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "kQtoGvYECgtzSoivWQO+z3Q6jyj+m1J6RAhc0wIVmebQP9S1ov0W79AP/sxBPvZqn7S6WV7/1PLet1Gw+Umrkbx/vgs9KlCxkdT6dh2K6xRwvzh5IwgMVAs3JZhFsOcvwLUytBeFGAlV4ss+Ctl801vhddOkcW+MIFgHR4A7rlpleWDc+w+YyCUQ3/kk1Ou8jD8LOP4J6DtNrBCq9hzQp7eageeZULdrUYz/CsOoZeAV0IAkIRMyw+5g2aeKv5G1j9XtcQlxdFTnJANOOTj+uxDRo3gCF7WENGJUaigx0CEs42buGPJ7b0Pre2byX9b0;R7pysvhX7pk4Tr0skxceyg=="
+secured: "7+4RImqI7AhyPz699qj1mGEVznCgTt108ozFigjDhF+wguhr26vVLUm4/ntHpZUE28ZZYX/AgM6HQUYbO2ifGVgnlaOufBj/SbGXFRix/fSramEKYfNIrF8Xfwos82fxEDTuZBY1EUO717cbgX3CT+07rIaWkW4DNmk089NkL9HOrppfduOptn+W2JlGtbqAJvYneuf8hBV4/E9iiteVqYW8xHW/x+Q43HTDI6mRRQXMFyUaUD3FWHZimoH2AAA8yAZGW7IIsXAHxLQ98jpp2Xtj837AoGyYz4p/vC7clsOkgX/+IS9yc+l7UIU0/99u;v9WBky4xGc3tMrc/vF8gyw=="
 ---
 

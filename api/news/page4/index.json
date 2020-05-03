@@ -2,6 +2,95 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-29-six-areas-where-ai-is-improving-customer-experiences.md",
+      "title": "Six Areas Where AI Is Improving Customer Experiences",
+      "excerpt": "This year's hard reset is amplifying how vital customer relationships are and how much potential AI has to find new ways to improve them.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/amp/",
+      "publishedDateTime": "2020-04-29T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea9ff80228117000681d192%2F0x0.jpg",
+          "width": 1200,
+          "height": 687,
+          "title": "Six Areas Where AI Is Improving Customer Experiences",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-ai-cant-be-legally-credited-as-an-inventor-says-uspto.md",
+      "title": "AI can't be legally credited as an inventor, says USPTO",
+      "excerpt": "The agency issued a decision on two patent applications for devices created by an AI system, determining that only humans can legally be credited as inventors. The items in question -- an emergency flashlight and a shape-shifting drink container -- were the brainchildren of a system called DABUS.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/us-patent-office-artificial-intelligence-inventor-patent-221309654.html",
+      "ampWebUrl": "https://www.engadget.com/amp/us-patent-office-artificial-intelligence-inventor-patent-221309654.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/us-patent-office-artificial-intelligence-inventor-patent-221309654.html",
+      "publishedDateTime": "2020-04-29T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F2c083800-8a59-11ea-b9df-8eb675eb9d1c&client=amp-blogside-v2&signature=f29b62f0f281346bc40c00273c75337c66be3c39",
+          "width": 600,
+          "height": 350,
+          "title": "AI can't be legally credited as an inventor, says USPTO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-do-i-sound-sick-to-you-researchers-are-building-ai-that-would-diagnose-covid-19-by-listening-to-people-talk.md",
       "title": "Do I sound sick to you? Researchers are building AI that would diagnose COVID-19 by listening to people talk.",
       "excerpt": "Researchers at universities including Carnegie Mellon University, Harvard, and MIT are collecting voice data to train algorithms to diagnose COVID-19.",
@@ -972,23 +1061,23 @@
       ]
     },
     {
-      "path": "_news/2020-04-29-this-ai-driven-meme-generator-delivers-the-avant-garde-content-you-need.md",
-      "title": "This AI-driven meme generator delivers the avant-garde content you need",
-      "excerpt": "Are memes art? And are computers capabale of producing it? The answer is yes, because we've discovered this AI meme generator.",
-      "heat": 87,
+      "path": "_news/2020-04-29-ai-cannot-be-recognised-as-an-inventor-us-rules.md",
+      "title": "AI cannot be recognised as an inventor, US rules",
+      "excerpt": "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\".",
+      "heat": 97,
       "tags": null,
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/amp/",
-      "publishedDateTime": "2020-04-29T05:33:00-07:00",
+      "webUrl": "https://www.bbc.com/news/technology-52474250",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/technology-52474250",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52474250",
+      "publishedDateTime": "2020-04-29T05:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "BBC",
+        "domain": "bbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1000,99 +1089,10 @@
       },
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/header-image-neural-ai-meme-generator-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This AI-driven meme generator delivers the avant-garde content you need",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-quest-for-fusion-energy-may-be-advanced-by-artificial-intelligence-and-machine-learning.md",
-      "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
-      "excerpt": "Algorithms are increasingly being deployed to predict disruptions that could potentially occur during fusion experiments and may help turn the long-discussed energy source into reality, experts say.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868",
-      "ampWebUrl": "https://www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868?amp=1",
-      "publishedDateTime": "2020-04-29T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1585581/iter.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-rise-of-the-machines-aiml-in-endpoint-protection.md",
-      "title": "Rise Of The Machines: AI/ML In Endpoint Protection",
-      "excerpt": "While AI/ML is no panacea for cyber threats we all face today, the rise of the machines has given us a powerful advantage in the never-ending battle against hackers and cybercriminals.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/amp/",
-      "publishedDateTime": "2020-04-29T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-50-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Rise Of The Machines: AI/ML In Endpoint Protection",
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/26C2/production/_112022990_whatsubject.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "AI cannot be recognised as an inventor, US rules",
           "attribution": null
         }
       ],
