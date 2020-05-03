@@ -29,6 +29,6 @@ images:
     height: 550
     title: "Masked or Not, Mike Pence Keeps the Peace With a Poker Face"
 
-secured: "/JWarQQSsXPOjDDrgPz/W1LN1ezSTvE/rS6GcbmxxKuvXSocdVtUMGZOJIjbE5Qvj6ctPtvRFzrCGK1CiK8Qh3BH6FJLmsHvdCTCCz7nahOlotJCcfp0eOf2UtA86cJBXHrj8p8K7HKUOCX3WQPYd2i4CfLRm6vRSPmwe4XkRrsZDX0rEKUpfVBYRIojYTP0CQnRIEriPUGrydXmjgBhwKbFO1zGVrfF+Tw1aDn3S0ycnY5jq3joMUWYo6R7Y5lRT1uuSoJSqROMdBRYP6/Z+6I6glxaX5nt+OW0tMVVH/NLGp7DO7ESOrMM1GZBdC+T;kJjUHQWnsQ9MwTA/je6EVA=="
+secured: "qU5Cm/Lhlw5vqQSP1RrkATko95QNGR+0/SHDP5LEIg6HbCBnMRmmCXyoMiSyLwXSxK6uJablY0211fr84Kezer4I0haimKKXWCYbFX+rexqd7eJEvU9O1iEK+YmkNqXN2fvsUOORsvYz2YjWZTJJfOS4is8gdzQynyGpSx0W0uITeDJgGV27kkFD6Y6LV2pemUUUFf/8bYVN4RtCa+fcV3jMMDJj04ZPqv/hVbbmLwQcki4qMzoe3Ji9ocSG1xwJGVj2l1jtJmcN0tR81Pzis/51DhmqG59m55afjOi9xqbMJJREQKvrqQzuwy7DNoCb;kK6osXERxtx8chcjmWdO2Q=="
 ---
 

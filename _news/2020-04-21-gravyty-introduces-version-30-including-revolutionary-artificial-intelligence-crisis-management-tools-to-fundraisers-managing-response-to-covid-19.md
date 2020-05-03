@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Healthcare
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://mma.prnewswire.com/media/1157652/Gravyty_1.jpg?p=facebook"

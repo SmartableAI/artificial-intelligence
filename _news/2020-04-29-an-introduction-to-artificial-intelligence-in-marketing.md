@@ -5,8 +5,8 @@ excerpt: "Marketers aren't fully leveraging artificial intelligence because of f
 publishedDateTime: 2020-04-29T13:01:00Z
 webUrl: "https://www.searchenginejournal.com/artificial-intelligence-marketing-introduction/364310/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2020/04/ai-marketing-5ea56bd6d31ab.png"

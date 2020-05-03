@@ -27,17 +27,6 @@ images:
     height: 630
     title: "Voice Recognition Market is anticipated to reach over $150 billion by 2026 , Impact of COVID-19"
 
-related:
-  - title: "Voice Biometric Solutions Market: Projected For Healthy Growth Rate During The Forecast Period 2026"
-    excerpt: "According to a new market report published by Transparency Market Research, the global voice biometric solution market is expected"
-    publishedDateTime: 2020-04-28T15:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-biometric-solutions-market-projected-for-healthy-growth-rate-during-the-forecast-period-2026-2020-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
-
 secured: "0OCyqVo09AeSIDq54H4YKiU3tNuxdlimwv3ZDcBNe7wfbZM79Zdvk8OqWtsZxon4+9xgx+AftJT8ymQg2PUNaNu0h54PaCgREgdrvMlgHKGwpEGeaUc0q/jblEwF+v0IIlqz3T99Xdc9dgtRu889I2VB+8X+cV/1RscwvSwsG5OoJGkQaV/nhlzxoEa6xTnj01gR5EjXjbH97Xs9XZmQfGfzkT10JkFNteMAxTF7e+rQWlOMpVW9lv8mzSFd0cDkJptVffMYkc++jlA+qSXaf0OY091A3Fn27wGySbgZ4sYKAG4TSDDR87ns5cp1Egdh;ZimExaIqej+amZczAWjYvg=="
 ---
 
