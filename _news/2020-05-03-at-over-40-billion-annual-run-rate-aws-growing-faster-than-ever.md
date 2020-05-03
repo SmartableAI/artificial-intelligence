@@ -1,24 +1,22 @@
 ---
 category: news
 title: "At over $40 billion annual run rate, AWS growing faster than ever"
-excerpt: "The cloud computing service logged $10.2 billion in sales this quarter, up from $7.7 billion from the year-ago quarter - a growth rate of 33%."
-publishedDateTime: 2020-05-03T09:36:00Z
-webUrl: "https://www.hindustantimes.com/tech/at-over-40-billion-annual-run-rate-aws-growing-faster-than-ever/story-4yUfFv9YxwpuvSatOsLAdO.html"
-ampWebUrl: "https://m.hindustantimes.com/tech/at-over-40-billion-annual-run-rate-aws-growing-faster-than-ever/story-4yUfFv9YxwpuvSatOsLAdO_amp.html"
-cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/at-over-40-billion-annual-run-rate-aws-growing-faster-than-ever/story-4yUfFv9YxwpuvSatOsLAdO_amp.html"
+excerpt: "The cloud computing service logged $10.2 billion in sales this quarter, up from $7.7 billion from the year-ago quarter a growth rate of 33 per cent. According to Amazon, AWS now spans 76 Availability Zones within 24 geographic regions,"
+publishedDateTime: 2020-05-03T11:27:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Science/20200503/3551645.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "Kx4grlK7W5f5oUUBtrorpUsS/rCkPq/2sO20DbLYfpL756TX8Seru+UeJcUTbpREzbhm/t+hy1czBsl4ZEfZq0+FBhjewLRoARtyYvEQm3AKWBh0s9kn8QjqNZ2mR0/+FaCc0ksPXQscSr1GLEV73fjawM2ZiLr1WpBX51nfLDqR00H+ZhGgZu1SDivnVHiOEJOGAeGRogRZ8EOAWw2DNelX95DrfZCUoeMsR3o5zm7crmZur5WUXsZjGUV7DDUp+xb0AfcXjQ/89o8IfviYi7xOjnfmgTG0IOmI7s4mH5xYPn4syPzIsqpXQGnqP/g9ZnKN+SjAOtrpP4dX8wgbeJ+Rd3JvXNg2lEiBeCiAE2KFo1Q3pvnPy5lNtbGzyXKUNlU8ny7eszq+z/1GwWPhehfycBXOfF37pYExUDfb4phII5/+Q5pY7ixNIzJyP9BWxUGXbK3qHbcgvfnCZTRQ95eoS4TKZjiQwIgKBVUvFR0=;S8Js7Gz23yRYE6bma8zkLQ=="
+secured: "4gU2wvRzWvmUa32NjcO8nSO5tpdW4FqM0BYgLNxbJL3SOVTQvc8d2Ll2ioeEolZaxtappHxDUBmrAQXBV7oo/jhpeN2XGaUhfFRqgYF+OHlqWsmYF2N/i19FJMMjgmVLlF8tbE4oqKJQBry/n1OEbXqgJN0jkwKfIrcG5sdIYNXpBTslTCRSl7OBZ778C5d0b/m3KQv2nTdqPOovnJ1SKPe95hhl5MopZgft81rBkCCqC1cKfWxxW5AVEYkEjDrGWva4zsuvKiJa9DBjvhqC2B0ZbB/uCr1TkLwTv7y5ppx4i/YgRyU3hTq1akqL1UB0;lMJON4CNvUbWgYnCt9gepw=="
 ---
 
