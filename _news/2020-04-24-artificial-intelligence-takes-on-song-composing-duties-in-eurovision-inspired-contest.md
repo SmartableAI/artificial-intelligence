@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/uncanny_1280p.jpg?itok=r0GCzFyg"

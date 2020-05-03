@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-01T22:23:50Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-to-select-ml-instances-on-the-fly-in-amazon-sagemaker-studio/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Learn how to select ML instances on the fly in Amazon SageMaker Studio"
 
-secured: "WBGfU5g+eLpuhDHgcziEomE5i3y5z8CVEvEWDwMFYuFzeLFD4mxbg78Xm7XzbC/GEUXOoWDtKnAigxZnerbNXEXr9TbKZShwXXaXil1UG7PsfUh+5tAuQxX6LXGAMYZ+18S6fCFELsvgTkbNqsGFb6b/AsW6Hl3U4Gi227E6phBIIrDF3A2DZmazCBz05hyQ+iuG02FBc9T21bdLPqOmvIJ0g2c0E0UAiSnEcgXM7IOjyCTngoQ9g4ZFmzGLjXqEy1sQgfmaMaWNf9g7K9CdHllVNWaluFm8QRqlnznQW3LBDcj4G6Dq5HzCljtDcePBUfe0GMVUyc3wn/J8vIodMw==;0owS/ZLfabg/6zKsNEwIlg=="
+secured: "bQqaNxSx+IhDQy+0VFzP7lexEqccF85O/AnUVJ5cGrBUPP09+Q6LaQWoEGg9PAz9ygWc9trj8/v4EhyQ4UFTKdxJ0MIgIdym11oDN3UoodlnmO9QRAl4ZmG3yBUhprQqnN4vwE0Z+OGjSkt6MWqnVw5d9Kx9KAiy7ZIzU22wRDAejUC4X0z01ljpH72nveVSgtnYuqU86E95MXsXkSgCImD4t4HmW5N8VH8DIX+Ol3OKZErNOBT6SK3kAToDuJ3B2QWnCtyfnAlX35tkcg/iavRqspc8VL+bIskpSdqAxCD7rMMatfeNBz17/qySykBRM4ACdOIaEzgPo2ZKUErj6w==;K1ckllkYKSbYdV/Vi2nIuw=="
 ---
 

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Engadget
@@ -30,32 +30,36 @@ images:
     title: "Ford delays self-driving taxis to 2022"
 
 related:
-  - title: "Audi abandons self-driving plans for current flagship"
-    excerpt: "Audi is abandoning plans to upgrade its flagship A8 sedan with Level 3 autonomous driving, blaming patchy legislation rather than technological shortcomings for the decision. Announced back in"
-    publishedDateTime: 2020-04-28T14:14:00Z
-    webUrl: "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/"
-    ampWebUrl: "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/"
+  - title: "Ford delays the launch of its self-driving robotaxi service until 2022"
+    excerpt: "Ford issued a statement (PDF) on Tuesday outlining the reasons for its decision to push the service back to 2022: Given the challenges of the current business environment, as well as the need to evaluate the long-term impact of COVID-19 on customer behaviors,"
+    publishedDateTime: 2020-04-28T23:01:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/ford-robotaxi-self-driving-fleet-delayed-2022/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
+      name: CNET
+      domain: cnet.com
     quality: 74
     images:
-      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/04/audi-traffic-assist-pilot-1.jpg"
-        width: 1680
-        height: 1120
-  - title: "Tesla is working on pay-as-you-go subscription to its self-driving package"
-    excerpt: "Tesla is working on a pay-as-you-go subscription to its “Full Self-Driving Capability” package in order to make its features more accessible. There are several things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry and tech companies developing the technology."
-    publishedDateTime: 2020-04-28T15:52:00Z
-    webUrl: "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/"
-    ampWebUrl: "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/"
+      - url: "https://cnet4.cbsistatic.com/img/zBtgGOgC6okZfcHMjUvu96dUuy4=/2018/10/02/b2b370e2-b088-46b0-b050-6e0e85069241/ford-autonomous-car-signals-ogi.jpg"
+        width: 1200
+        height: 630
+  - title: "Ford self-driving robotaxi service delayed until 2022"
+    excerpt: "Ford issued a statement (PDF) on Tuesday outlining the reasons for its decision to push the service back to 2022: Given the challenges of the current business environment, as well as the need to evaluate the long-term impact of COVID-19 on customer behaviors,"
+    publishedDateTime: 2020-04-30T19:09:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/ford-robotaxi-self-driving-fleet-delayed-2022/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 67
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/zBtgGOgC6okZfcHMjUvu96dUuy4=/2018/10/02/b2b370e2-b088-46b0-b050-6e0e85069241/ford-autonomous-car-signals-ogi.jpg"
+        width: 1200
+        height: 630
 
 secured: "E+oo21b3PMBZERiR4RLuXKaR59kC0N9iLzaqDotv/ISBmnLLB6F6SsrcGhtCIhMTuGea8jeM6VYnCV7+jFgVfFrZb9D8KIRl3PC1urNe/YAnVrVr9bVSzVY0e3sDxzbbGQhtxGszqjbAR1zyPKk+8J9TSjpG3rW2VYhc5Q2OW2IEDjbp/n2IHLJ6ha9SGmpEAFjz4e0jA2VutIL35n9u9T5LFD47t0utPwOPmgaJapsQ6ya4EGMJIp4708ELRPtsSKr1EpGnekiqP9VT9oj/1G1Ex32/omxvH2ZscXvrPPZC0ADMkWoMYOpbhEVPcuaaDaCEdrJmtVI8FGVwemQmdNB0P6hcVLj/9VTPIo117C4L5wwLDv1EWwqoc20S/AClvjZxr/m+DTB1DkhFspL2r7C5CJLGt1RT6bsKduB8mG1/dmY092ZiKRX/18bRcLh1ldhNOo3BMyjTfNyDwBD/rTqr7EyDud/OOxCewIu8lks=;SaOJjSiq0pFBZJtWriNEDA=="
 ---

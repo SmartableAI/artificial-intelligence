@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 20
-  - title: "Artificial Intelligence in Agriculture Market Worth $4.0 Billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer"
-    publishedDateTime: 2020-04-28T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-worth-4-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301048222.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
 
 secured: "0OCyqVo09AeSIDq54H4YKiU3tNuxdlimwv3ZDcBNe7wfbZM79Zdvk8OqWtsZxon4+9xgx+AftJT8ymQg2PUNaNu0h54PaCgREgdrvMlgHKGwpEGeaUc0q/jblEwF+v0IIlqz3T99Xdc9dgtRu889I2VB+8X+cV/1RscwvSwsG5OoJGkQaV/nhlzxoEa6xTnj01gR5EjXjbH97Xs9XZmQfGfzkT10JkFNteMAxTF7e+rQWlOMpVW9lv8mzSFd0cDkJptVffMYkc++jlA+qSXaf0OY091A3Fn27wGySbgZ4sYKAG4TSDDR87ns5cp1Egdh;ZimExaIqej+amZczAWjYvg=="
 ---

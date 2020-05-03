@@ -8,8 +8,8 @@ ampWebUrl: "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-dri
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Electrek
@@ -24,36 +24,19 @@ topics:
   - AI
 
 related:
-  - title: "Audi abandons self-driving plans for current flagship"
-    excerpt: "Audi is abandoning plans to upgrade its flagship A8 sedan with Level 3 autonomous driving, blaming patchy legislation rather than technological shortcomings for the decision. Announced back in"
-    publishedDateTime: 2020-04-28T14:14:00Z
-    webUrl: "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/"
-    ampWebUrl: "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/"
+  - title: "Self-Driving Startups Work Through Health Crisis"
+    excerpt: "Just like the rest of the industry, trucking companies working to commercialize autonomous heavy-duty trucks are adapting to the uncertainties and disruptions caused by the coronavirus."
+    publishedDateTime: 2020-04-28T21:00:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-startups-work-through-health-crisis"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
     images:
-      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/04/audi-traffic-assist-pilot-1.jpg"
-        width: 1680
-        height: 1120
-  - title: "Ford delays self-driving taxis to 2022"
-    excerpt: "Ford is putting the future of autonomous driving on hold until 2022 as it grapples with the COVID-19 pandemic."
-    publishedDateTime: 2020-04-28T23:26:00Z
-    webUrl: "https://www.engadget.com/ford-delays-self-driving-taxis-to-2022-231030762.html"
-    ampWebUrl: "https://www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffaaa14f0-899e-11ea-afdf-5a87c7809954&client=amp-blogside-v2&signature=0b6f392a8bccfb903035225147ea3a24dd7fe351"
-        width: 600
-        height: 350
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/autonomous-plus.jpg?itok=9dvyVy5b"
+        width: 470
+        height: 246
 
 secured: "iNq+tzs9NAO/2+VwMDdEUInB9tWbcUc6+iwX4+IOvhflNal3yLe2bi+OJBtvvEuli41NTsGxBYuKv5gXjcxwTxkNYkbMAuS19PvErevEhY7bM5VBTXVHgUzygqnmHpqkpZG0wBajGfO2V8fV43LRKcyTo91wPgnALObBrtgAFkjsQ8sQhYWftUmSrUZjUVwqiK5hkWavdkMNpwU43tjxa2BDwQn0LIam6+kreTQ81YhjLPsOof7HtmfgflYffDNfWW9KY/j1dlB49JGtbiOpNgCX1Cd28O5MEhSHAx4gaKrSje+mfXqA2CI/jd5FXEwNam/4Pl6ndzP+qvQyXAUKjf5fhXNgSO7uxf2c6FuvPTCWBFXmchn0o3rK8cJBfokLDipMi1RI+Jc1gfLKWEoGK3Qi7hdmaSQLs1ZBseH2HRChKirsLPPktfxWagi8gmlyORiI7SPJ96kNS7wjyTNwua3xvgmqspqmOyf1znMqgvU=;GDEKroMWCyGRD8z48eIe6w=="
 ---

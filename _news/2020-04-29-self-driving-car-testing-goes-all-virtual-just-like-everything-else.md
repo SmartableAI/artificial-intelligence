@@ -8,8 +8,8 @@ ampWebUrl: "https://sea.mashable.com/tech/10316/self-driving-car-testing-goes-al
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else?amp=1"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Mashable
@@ -24,23 +24,6 @@ images:
     width: 620
     height: 349
     title: "Self-driving car testing goes all virtual, just like everything else"
-
-related:
-  - title: "Self-driving car testing goes all virtual, just like everything else"
-    excerpt: "Waymo, the self-driving car company spun off from Google, shut down its robo-taxi service in Arizona and stopped testing its vehicles on public roads because of the coronavirus pandemic. But that doesn't mean driverless car testing isn't still happening."
-    publishedDateTime: 2020-04-28T14:00:00Z
-    webUrl: "https://mashable.com/article/waymo-self-driving-cars-simulation/"
-    ampWebUrl: "https://mashable.com/article/waymo-self-driving-cars-simulation.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-self-driving-cars-simulation.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F04%252F28%252F74%252F15dc264d96e94d6db1661bd3c3faa4ae.3ac1d.png%252F1200x630.png?signature=2vUlsW8K3CFc03ydLk-T0w92WVE="
-        width: 1200
-        height: 630
 
 secured: "hk2hL1qESZXNb4TcF9DOw3d7Fq3GtLP/ZhItaCXG0E2FiZFZufaLa6f56KkI2EMAgcz/i5/jqvffoMnOfQ6p1wNAuKP0DRDhIreW1DVNJMJk7nQdRiVbqsbDpAw5FTJRK28Fx3ACj2ThvYAG+ZiBL0U+FrtlZY3GtYLodzeqEXnbejyV3hFPExN9tUfPuLG8WLTH2oXLNtAJUjMbvmkL5P3WgtP2FrJwmPKzJatr472jwzuh5U5E/qDylOWFiI6e3N7HybymL+JcBxfs9uzRWcuzHlrXfxYtSnsGqkeoJMq10r53MXZxMdGXmJFbuXh4dlhtRhXDJvzgnNECKkqTQuUn72+VkZOzYx51GO8octWPoRfCzTtaLYLjDyci01I02ImRJDV8dQuCqneN/Ffh5QwrdTnJ32rHnrZB9Ogg/vBLibv74NZEedA+fIXTU6HiFa5fBDltgbt99AP0oUh7Xr/WIZhLce4vlJTrqKilieE=;jsjPrpaJtNQHWdVWHczGSw=="
 ---

@@ -22,17 +22,6 @@ images:
     height: 683
     title: "BrainBox AI raises $12 million ‘pre-Series A’ to expand into new markets"
 
-related:
-  - title: "Brain Corp raises $36 million to meet ‘growing demand for autonomous robots’"
-    excerpt: "Brain Corp, a developer of artificial intelligence systems for the robotics industry, has raised $36 million in Series D funding to “help meet the growing demand for autonomous mobile robots”. The"
-    publishedDateTime: 2020-04-28T15:05:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/04/28/brain-corp-raises-36-million-to-meet-growing-demand-for-autonomous-robots/32005/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 31
-
 secured: "y8d1iWOMoXW/gIOXpstkBI8WpVNI/Nl+nH6nZUwkjP+0EHQgxZLq0Oi3SXbUMakP/yoCIt7EVYTkc7By4t9V0B+5qOYJmLj3nCGK7T0OH6BaRG3RfXfWYH6aAAdstCz55isGw6r0pUhbEV8/CzCYfAAxHD6cm833sstlKIG/XX2aoGHn9C2Xr5/YL1tAkNpzBe47iKZy+KGiC4IVlYNa5wAnRJUIN7mf4fhNm/gwe7UjQrs0rSTwyFQ77y/aqf5AdCZDmQ5AR4fNrC5w6qmgQJT0SaWObyPk/psaWCxRYItQJUbBQSP2rynEr7ulXaA7;+Ip7eY6XqFf+2i7z5UgBaQ=="
 ---
 

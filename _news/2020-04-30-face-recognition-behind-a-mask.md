@@ -3,12 +3,10 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "NruW72eIH3EBfww3AGaIPhH708/HgMiGmXz7kfpbW9qm+rOq9h1sKCCuecxkjLOttqeHLCmrf+essYPMWovwphCFHDoMvULeJQM3encTr6dh4FrT8Y/Oeld9Mlsgcq5ly8b715sB4O7ljtfXJnjP6jIEXKR0yhasma8Zl8bHCsKszn52tDDmk0bxkEJw7F+9TF3FfSYtK/gxHu8SKp/mYsSHI2e6ggmZsKx+oYRAJFYZgAZ25USmd7sjNqJSs98EZq+Aa38ken6HBcb6Yal/KAUAhiru5nl3z24ahpy4c+e6pVD1Kn0JwcbRaokfXx3rzOChiPwNW67uBSPTFE7g9KJIFR/wBrIURAUkbJhrwSuPg4UZpXWFgWet0y6NlHBAa3qDrHwBsgYsho2rdfCjMiO4RlagM155VQKbuZmbB3+Ih7oybUp/DrnfsHxbTciG7dETCV8dkUu69TFiz0O//vMkyBNRaBqwxHwsh+JWFPg=;FQ4mpPLkzmWkLQmIqazDaA=="
+secured: "ljEILGJzz8cj6BftUq0KvNXvkO0I4vxtxJT0ulmMiAvu7lmGjcyIN0ITWOFbb9tdeouTRuvevy+SgH131kbJl3V5atHyT69Z1BaXRO9x6OGwEyTOdMtij/CY4chqPK9vFenfZKSJ0xUswCRO1Q2Xf0pAri43t8z5yW77R8kXXtnWO+njT4pwaQsEshZDYpUxSAciMK/XfyhdEeEBqVEx9c8zII9RP/5y0sqzddMGYjtNY9lNKTr122KCCKM66DSSB8OdjYQ6RL91vx1fizf6rNHH18pYv68yS+9kWcjrWg4oqIwGP5Nw29H+frGdpdUlB0MQuc1JIgnYoef3ayXSfOtwQZbbqx4BQy0JEMaVFoOz7L2AK5NDKZQ/ZDQMW4rizqYOOqFUUIIwf5wb0AKv2ijaW0wqlAb5w65mVm1ksR+jkxeO/I6ZXiVqd+eLeMAfn7FYjGJHoUEVi80uMi8m2U9ueohkLU1VI7qWMAx3Pic=;57xQpUbsLrujKgO/ToY/wQ=="
 ---
 

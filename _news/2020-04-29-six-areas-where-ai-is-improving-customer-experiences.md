@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-wher
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 1200
     height: 687
     title: "Six Areas Where AI Is Improving Customer Experiences"
-
-related:
-  - title: "How AI is changing the customer experience"
-    excerpt: "AI is rapidly transforming the way that companies interact with their customers. MIT Technology Review Insights’ survey of 1,004 business leaders, “The global AI agenda,” found that customer service is the most active department for AI deployment today."
-    publishedDateTime: 2020-04-28T13:20:00Z
-    webUrl: "https://www.technologyreview.com/2020/04/28/1000675/how-ai-is-changing-the-customer-experience/"
-    ampWebUrl: "https://www.technologyreview.com/2020/04/28/1000675/how-ai-is-changing-the-customer-experience/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/04/28/1000675/how-ai-is-changing-the-customer-experience/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/04/MITTR-AI-cust-exp-charts_1.jpg?w=1024"
-        width: 1024
-        height: 762
 
 secured: "5xfDxW5PFPxs90xPN7oaFXmwISjsb7xAKl+JNtcssZKWw4eJ3S+qTqz9WUbMxXp052SNh2uqnNWKSJgAlAoMHJ9ZossarSl9B/PFrQuwJpI3CqICTNsMfLD+jjJvXNN65q9DBeZU/oSuKaMcrStOeL2jWgR4uSd1NN7N2IrHX1PSx6p7WsyZk/DtKvWuqezUDp+qfcquMXwOuogflzbXqEiEl+1E4FvSwiLrWbioKJRiYYsQSK1eADLwHC7XwvZum2fXOPpo+tJPED9pQQe2BiXG/hDyce3qzkC4r/4+74EOxcEfj8WdjiXWaXn1y8FO+Iu3akGRx7n2v1OMnGM/jvdP7obu6cnUmCkywZMV91u4iWdlszJzmogq2A28oIwfnnTlm3ayMZZohGePeFCT7bKe2eDIXxMd8wMsxcEH33xhGcEqrLXGw0CMEwtSGqvgyS3InpIAEoflMfiNY5OR5oFEJpnzcMR9YFvNYKdMUUs=;vg0Ur8I3Fn8MwVB/Rb+MoQ=="
 ---

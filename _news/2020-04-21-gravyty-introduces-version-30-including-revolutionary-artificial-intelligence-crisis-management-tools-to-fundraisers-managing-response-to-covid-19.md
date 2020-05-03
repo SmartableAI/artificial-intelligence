@@ -17,6 +17,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://mma.prnewswire.com/media/1157652/Gravyty_1.jpg?p=facebook"

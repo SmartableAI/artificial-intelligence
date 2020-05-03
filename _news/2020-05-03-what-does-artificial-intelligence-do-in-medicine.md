@@ -27,6 +27,6 @@ images:
     height: 900
     title: "What does artificial intelligence do in medicine?"
 
-secured: "FJOXJtQJ19ZhSMeGQvIYplmcL5oQH75vDAmjsSDh0lOUm79rmnu/bOrDYFlam5ZejaAKCYL+mFAPbML6gLHACyB8oUXOjY65tf/JwiwwZX1GABuBt2gsQtGYw0CW8Et9QqKiF8uPbt9siqmT51IZl4jOPldIf8eVct3uTeYQaskqnUKs45pHoWsXR6sbAP8Dv1rEf8Py2iaHcsi2wP8j9aMfihKhwI/8lSEG4Pz41lQrxU68wL52NGLzZZMqqH+UjL9pN0HlfmQZhRGe+s9X+OyfrcnURYpX+tDG9v8T2E8nt4Ja/G8dqAUuJLC9F7RW;ZypGDZIoQAiuZAovQIs98A=="
+secured: "Z7CVVnB5M5YF1IlspMy6t7o/P2ls8KdkHAvihSgUylcEem+mpaZoDEVFozJyTvcbtTsd3PdGXIwgnUSUo+6qrqaKxmkiUkIrJNDPV/myJuoSs4Sqtv5xPG3dTuwIIB2YejQQWh/PdCcN1jCfgE+ILTFo1YvVwIBSmJ92no+SRu0wz0wAtScqFtQo37nVxu1pn1SVo8/A2KYA5HaVrERH6nJh3pJhDublaRFgK8jNSfZJ59a4B/Lf2eRK6jbbCFPFiPuZG8gAk5KkLQ0Tgp+7HzkFOfWhiMGbv3aTp//iKAfb8uqurX69oJqV89Jf4KY/i56jR8sh+WHZQQHMCzd6WnrIIDYKGGurTjE9YLPv/8c1DejbTPdXH7o+FCfSKuS7/A8CdUPN+X/EuqMAFsgEx/Sjz0s60uUrNUfiKKt7PhrYilPr4x+WXOYyodiG3C9/zJK+x6MN2ls67p1edmJ/zu60ay2oGqZ07KzO6I+Oca8=;HIDnxYI7Se58OT0H+RmVMA=="
 ---
 

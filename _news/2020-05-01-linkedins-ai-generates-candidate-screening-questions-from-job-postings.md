@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 600
     title: "LinkedIn’s AI generates candidate screening questions from job postings"
 
-secured: "ZHhC2h7b0PiccCJxH2aLrqqadxORFaGzxzTIZkH8VafsHTFUosf4h/dklrQ66cU1U1Rq/nKhCNXaK/QW8YN05q7sT27uJLkiHMRsLWnPU2Llt4ETPmGS3iSAILtfky4Lzo/h8DXZlYemcOJQnP9vbKxwu7BTVz1drmTNnFUaJtAh8zzirxK7N8gpbJibhJm1dWvOns1LS+8cYc04rMznZEr1ilYLf0CUqpwiipeNRlXykd33QwgaogBXlGTLd84DZacZWkIfE0pY9oy7a0TtzOlDHds0oru6NhbEiMqyNxaFCbTrXVPAR33guFcElZ7GIJ4Baj3EAKesHQ5DWL5JsXG856dwZqNstVLWHU/I73Yel7z2rdtcsqnZGDvr7NkhmkWRypfyBsOdrIs5YKA02lS+5Jmdse/IYprtUW+C6xdmDm4M7ir3I8MmfJfb+KcS9hoeRg3Ewh9AzKbDnMQuY5sQ8iFe+2XmvShhCfsOa2A=;Kf1HKb6CrV2fDn88hohihg=="
+secured: "NWHrRscWsOd59vGcLpRgZWYztAjK3pSeM1ASE1dAkaDLN6lZl9KiHfM2n10N2xRNqfwsaQoNAy8p1KYHwBxxbYH0ZG83ofGmk6/yW0HvqGcv4KA+Q6PuQgiEQbb+LxAHPCOCJYlVMz09bZ1SGQJfunqWV11SJHIDQ4kZVnC7KSnMPcf65GHFN5dDE7jDyQ4iK7/Joc71dqXDVkXNgvSu4/TWNNRi3rUCc1FJNWw0jmXbvkRqKxMYipzYmT5vIH5hX/ddN/3wuVqrf7oGIvHrpTaBwJmZ85YD1wMvrDQ8uUkBMhfkYojAPLz13/Ra9zgt3YLhuxB4pEJ+RBZgN7lf0OHM6jThLpZLipuLgyGA4KIA0dwc5fODbkEPjF3Q9fijDMl3S8uc5i8EY41dSMZtgkxHjvV/4WSmFbeSYJjsr+ZbnSrVDtvw+rAshDZTOmK/7e2ukkEUDHjuGJ7m7gfSQZL4ehsAdkfcfD+VYRwFi7Y=;iSFFHbwkpBRyXRAwvp+DrA=="
 ---
 

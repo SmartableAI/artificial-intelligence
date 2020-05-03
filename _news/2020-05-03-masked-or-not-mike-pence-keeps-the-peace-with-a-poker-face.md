@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-penc
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html"
 type: article
 quality: 74
-heat: 75
+heat: 77
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 550
     title: "Masked or Not, Mike Pence Keeps the Peace With a Poker Face"
 
-secured: "z2hbtpWUHWsnwl9YDqpPSfOwFu1gjEUTCnmqnBo1PGZvwU8LPkuf5EBR95lgOww0+0vAm9majbkNCYfGR1PY6N5NraMwmaYyTn4oCQS2OPNFvV88nHNy8nqawtsiJbMYjrXSzjSwrnZerVUnSL0n77WwY2EikMmbL8TB37Za2yn3taV18l6UDVD8oXQKLsJ/DXBPUCV6ZrNBGF9ekWWdR2g9ahWJ7mWuj3dLeGratJ9YUWFiweEE10+3CimptN6PLZZpIxo9qXOODy6DEFDyBfzA+iLc5bJYjm/AfEkjAN1ZQe7ul+Rss9AcCD3WuG9t;sbtWo40ad6LIVacwj9lN/w=="
+secured: "/JWarQQSsXPOjDDrgPz/W1LN1ezSTvE/rS6GcbmxxKuvXSocdVtUMGZOJIjbE5Qvj6ctPtvRFzrCGK1CiK8Qh3BH6FJLmsHvdCTCCz7nahOlotJCcfp0eOf2UtA86cJBXHrj8p8K7HKUOCX3WQPYd2i4CfLRm6vRSPmwe4XkRrsZDX0rEKUpfVBYRIojYTP0CQnRIEriPUGrydXmjgBhwKbFO1zGVrfF+Tw1aDn3S0ycnY5jq3joMUWYo6R7Y5lRT1uuSoJSqROMdBRYP6/Z+6I6glxaX5nt+OW0tMVVH/NLGp7DO7ESOrMM1GZBdC+T;kJjUHQWnsQ9MwTA/je6EVA=="
 ---
 
