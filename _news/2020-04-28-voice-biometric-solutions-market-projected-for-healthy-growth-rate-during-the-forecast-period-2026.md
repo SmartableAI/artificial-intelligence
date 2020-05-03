@@ -22,30 +22,32 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Market Size Report: Analysing Top Manufacturers, Production Cost and Growth Statistics Forecast 2026"
-    excerpt: "Machine Learning Market” Size 2020 to 2026 report provides a basic outline of the industry including definitions, classifications, applications and industry chain structure. The Machine Learning market analysis is provided for the global market including growth history,"
-    publishedDateTime: 2020-04-28T08:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-report-analysing-top-manufacturers-production-cost-and-growth-statistics-forecast-2026-2020-04-28"
+  - title: "Voice Recognition Market is anticipated to reach over $150 billion by 2026 , Impact of COVID-19"
+    excerpt: "The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published"
+    publishedDateTime: 2020-04-29T05:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-is-anticipated-to-reach-over-150-billion-by-2026-impact-of-covid-19-2020-04-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Drivers is Responsible to for Increasing Natural Language Processing Market Share, Forecast 2026"
-    excerpt: "The Global Natural Language Processing Market report now available with CMI, is a collation of valuable insights related to market size, market share, profitability margin, growth dynamics and regional proliferation of this business vertical."
-    publishedDateTime: 2020-04-28T16:49:00Z
-    webUrl: "https://surfacingmagazine.net/drivers-is-responsible-to-for-increasing-natural-language-processing-market-share-forecast-2026/"
-    ampWebUrl: "https://surfacingmagazine.net/drivers-is-responsible-to-for-increasing-natural-language-processing-market-share-forecast-2026/amp/"
-    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/drivers-is-responsible-to-for-increasing-natural-language-processing-market-share-forecast-2026/amp/"
+  - title: "Artificial Intelligence in Agriculture Market Worth $4.0 Billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer"
+    publishedDateTime: 2020-04-28T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-worth-4-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301048222.html"
     type: article
     provider:
-      name: surfacingmagazine.net
-      domain: surfacingmagazine.net
-    quality: 26
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
 
 secured: "vEd6z6gBVi+Ri90ItO6Zrru/0uzShKA5UONGhpLXPd96SzxzGVUaeAWpefWmfKMTd/3+/IH+zQCgUUeJanhTGbkQRd+CXWsjCfPJEU0fIZAsS1HM8eNV9ub6HdEUafCCbQw1V6stiUl3xD32x7VsYunwYHKxkaHVwoOdABY2vKsHCyI3nAvFxdID0Xvf7Att+ZdsHA73f8MRrOfozrDWreZLUGQ1FLrlOWx1G3w81Wmitxq5Sj22qXfl62f8Ge9/0cPTyz7fAbMOwqu01xDKA2eiG0xlmSaNu8JyEjlW28AiTrxAcXIjwvoQWUUfnn3a;MPUmQPCVq/MEUG95X3/kCA=="
 ---

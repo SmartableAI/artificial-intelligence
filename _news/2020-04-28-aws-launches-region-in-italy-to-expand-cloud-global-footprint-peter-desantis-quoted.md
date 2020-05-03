@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-28T20:43:00Z
 webUrl: "https://www.executivegov.com/2020/04/aws-launches-region-in-italy-to-expand-cloud-global-footprint-peter-desantis-quoted/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 272
     height: 270
     title: "AWS Launches Region in Italy to Expand Cloud Global Footprint; Peter DeSantis Quoted"
-
-related:
-  - title: "AWS Launches Region in Italy"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced the opening of the AWS Europe (Milan) Region."
-    publishedDateTime: 2020-04-28T06:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200427005932/en/AWS-Launches-Region-Italy"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: "https://mms.businesswire.com/media/20200427005932/en/787807/23/AWS.jpg"
-        width: 1200
-        height: 627
 
 secured: "8aSNep0U3MjJ4alxStgCAn83sSQcvYbHRKfDkNmFzK4u9HY8JAmOGLYuqHGIu9QMYxNJBjCmYmWGpQ6AJxr0rOkH+7QtzRWJhxab8lMLvoxq2WJr4X1Hoci8NxEmfs3pKNgOuYgsSIxih1Me2PlLP8Eeu2tvCobsguEArm8aYMMkX1uj0AwzK/GAvVRhz6Ww9cgynuY90nvWCJzwmjlJvXJOF3ab8npjLpt+WgGwEOPsJbcjWrzqprjvAYEDMD5/iuWtCQtisP7gJWpjX7tOuDHBoqGTZbXbpPMeIvF+ZZ+oyYmujMopwVdKnuayDTCzU/1IcGTBdMaTVo26JkeEseREM+gQmt2n5QlH3m8LMiJo6fAWvGH82rwhX9ANefestdd/O6vU3p66lw0YPeMSgTayGoUVzUn6iHP7aHloRp9x2L40J8vQ0OUvb/1huMZMkJO5JIz6YTU7i/jxqT+EfgMC3OzXtYt55mj7BZGfSLM=;hSfCd+LdJSfdAfVtWqqtcg=="
 ---
