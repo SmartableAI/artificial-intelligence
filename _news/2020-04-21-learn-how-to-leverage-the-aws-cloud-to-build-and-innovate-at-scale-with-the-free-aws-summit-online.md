@@ -22,6 +22,6 @@ images:
     height: 300
     title: "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online"
 
-secured: "iKZiSaNjSAlm6KHLJXagMSjiXhU9amvgh7ieZzGeCtWdVGewMPd/46NMNuTa9/nxz6mEfcL1MtuyL9NYOWu4bu6Pjt354IuHoUWqSl26zD8rwpipVZHZgAGzlP/MVsaCKl7iQiA5wiy/T6xC5x+RBSUh4TaDp5Uo4Ndj8VYN0Mt0Iwpk/r9NG6oAfC6I61X7/sfTzdNpz5h0vKOxMvshzDBSnjXDFXM8HrBWdwyXxrkq4WBpBiK5uIAloNtx732rEcXhroVRV9ulQvpfjn9AI9c569IOx7CKAenjJLhtdY3EEbYHOC4SpYOAl1jQDvYZ;OSDqedG6Gn5dwICKEVsJbw=="
+secured: "k0D+kFVDyg+J3e0dUOk3sR4EChmQbwbZj2ihXprsZrY3NGc2U22nXZijakaX/9KmRAkLuanWPy+oF41TB/KWgh7QjDa3AoEKgn85XwbjD1Z/0TUbW3Tcq6vqNLxDs+J3k3nbl4jfnXcZu8wDggrwHDM7hgV+iK5YGi3Juj6FUMpFaWaVJYtN4lUD+3X6jyT1irB9K8TFqfC8bXdt8737M6BiRgNFS/eF4mvAg+OnRwonk88vclAzsXOyjXkCOnOSPQlu8fApumVgL49aqa7JFKLegclvHsw+DPl+/Le7tjOr5C8qe0mo+9sHQkcEv6st;LpAOYzIu25yQLPdFOqtlgw=="
 ---
 

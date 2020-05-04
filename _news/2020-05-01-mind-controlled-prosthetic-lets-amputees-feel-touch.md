@@ -35,19 +35,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20200430&i=OVCBOV9ZV&r=OVCBOV9ZV&t=2"
         width: 960
         height: 540
-  - title: "Mind-controlled prosthetic arm enables patients to feel the objects they grip"
-    excerpt: "The prosthetic arm represents an advance over other mind-controlled bionic limbs under development, the researchers said."
-    publishedDateTime: 2020-04-30T09:03:00Z
-    webUrl: "https://www.statnews.com/2020/04/30/mind-controlled-prosthetic-arm-patients-feel-objects/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 21
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2020/04/prosthesis-1024x576.jpg"
-        width: 1024
-        height: 576
 
 secured: "T0HakmdBChAIck/1W9soKIV3UhC4LmFPMiki1VXV7Mqh/IEbNO4wOFDFMw4w7TM53Ec3yVzrcigiZuf1q6vdz156AZKlB+BPAJm/Sg/QkOMq+ScgPypbwoXoADdYY2S2031eo1ehk0QlEBpgO0qm77va/L21H1WbPVusAVje+czL0lcIdBe6Pa7ut76DVuADzch7AzvTVHQkt0NT/c0nzlFbmI0HlloC0iwNF4QkK6FmT/kyFaNxjEYdIbEE17G6zs0Swo9k/lawaPEyoJqu8a+zUE8ndb5/my5cXQrz4BrHaHbS80Hf9QZ7OHxPnstv;4/p7LS3Hp9JZMxB5EuoyrQ=="
 ---

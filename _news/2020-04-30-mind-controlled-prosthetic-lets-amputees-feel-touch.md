@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-30T18:51:00Z
 webUrl: "https://uk.reuters.com/video/watch/mind-controlled-prosthetic-lets-amputees-id712411311?chan=643aqbw7"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Reuters
@@ -37,19 +37,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 34
-  - title: "Mind-controlled prosthetic arm enables patients to feel the objects they grip"
-    excerpt: "The prosthetic arm represents an advance over other mind-controlled bionic limbs under development, the researchers said."
-    publishedDateTime: 2020-04-30T09:03:00Z
-    webUrl: "https://www.statnews.com/2020/04/30/mind-controlled-prosthetic-arm-patients-feel-objects/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 21
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2020/04/prosthesis-1024x576.jpg"
-        width: 1024
-        height: 576
 
 secured: "f4tk7gNletp4/pweIT6xdoM1CVb4uuUICwxol2RqmClymYzK5RUh/1cIoKJwelI3FehlSE35O1Y5z9BT9QXyjWvsVMzM6uyVWvX7XQNwoqhA15RfXL/3jmglKw8u4GWQ6UCjkVfH0Bfvxtjhai3bVqN9Viw7CcS79G8UUtbrt7z7k0EK+ATdYyHDjXDbcUPlPYwwQQua+n3Akuf3aJkRsXUOsJ/7fJOd9Wbc35R8riS1pEiUoPrITgSGQEahFfKoPZ4Z63SyXxx/2jsHTyiL+F0TxFzEp1c54v0W6so4j/Qkgsu1eKQHA+jRwFYcmOgq;xVWuphiGVTYGpIHPQZXjJw=="
 ---
