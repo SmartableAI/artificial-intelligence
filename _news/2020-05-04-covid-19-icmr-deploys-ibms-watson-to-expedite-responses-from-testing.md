@@ -1,30 +1,30 @@
 ---
 category: news
 title: "COVID-19: ICMR deploys IBM's Watson to expedite responses from testing"
-excerpt: "New Delhi, May 4 () Indian Council of Medical Research has deployed IBM's artificial intelligence tool Watson Assistant to expedite and simplify responses from testing to provide accurate and updated data on COVID-19,"
-publishedDateTime: 2020-05-04T09:20:00Z
-webUrl: "https://www.businessinsider.in/business/news/covid-19-icmr-deploys-ibms-watson-to-expedite-responses-from-testing/articleshow/75531818.cms"
-ampWebUrl: "https://www.businessinsider.in/business/news/covid-19-icmr-deploys-ibms-watson-to-expedite-responses-from-testing/amp_articleshow/75531818.cms"
-cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/covid-19-icmr-deploys-ibms-watson-to-expedite-responses-from-testing/amp_articleshow/75531818.cms"
+excerpt: "ICMR Director General Balram Bhargava said that it is critical to remain focused on testing, diagnosis and treatment of coronavirus patients in order to lower the growth curve."
+publishedDateTime: 2020-05-04T10:50:00Z
+webUrl: "https://www.moneycontrol.com/news/trends/health-trends/covid-19-icmr-deploys-ibms-watson-to-expedite-responses-from-testing-5219731.html"
+ampWebUrl: "https://www.moneycontrol.com/news/trends/health-trends/covid-19-icmr-deploys-ibms-watson-to-expedite-responses-from-testing-5219731.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/health-trends/covid-19-icmr-deploys-ibms-watson-to-expedite-responses-from-testing-5219731.html/amp"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: Business Insider India
-  domain: businessinsider.in
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.businessinsider.in/thumb/75531818.cms?height=275&width=412"
-    width: 412
-    height: 275
+  - url: "https://static-news.moneycontrol.com/static-mcnews/2020/05/ITC_may4-378x213.jpg"
+    width: 378
+    height: 213
     title: "COVID-19: ICMR deploys IBM's Watson to expedite responses from testing"
 
-secured: "4PLPv5K2UXEsO/UNhbHw6IOoTchPg1rVKE0KhY1hC4HICJRlj1w2ZE5z3y3t3fSflvN9RcrQuUmIFY/GDL/nwhQHWW6MFoukBToRwgU+ALO9djwJ5pwLoSDCpuwqarO0tlp9lMBODAMcUIGA71UAe7f0HpHWihVebjOpMMVIS9DdRpHRWl/3gBH3LvXo36dT3L+pJQojXGy6rP9DXxW5Od90TFySYlTivncg6g9aq36iev/TeX/sYjRoKw1skJFsNph8f2uZj3+Fsia+JApuxYMLDptZXmQhmuD1wKqnOWodrMlcjnnHpHq8pcYd7XjR;ajwuEijd3eU1XRw1ICxN3g=="
+secured: "NuGYwaM7f5ZrEqfYpJwYMpP0UqmJnp7TwIbhsyRdno1/4uGVYzKHum5QK8TaIXLeeUscjNQqsGeiKEt8D1RndyF/yihlNj1XtxyLGk1KvVmqKiHtI4fEQzBZ+qMeMPmzS4Pn2r6FzbfMLcx/ca0KTulSL9+ztBLmrzYW7vaFSasFdLCMe5gFd68L+S+ArorkrCO1iLxRo1IHST2SFk10qvl9jjagng63huGfyPi8gUM8XMPqkYP7TjR/2VDvNVqy9lYubj8LeRDWlxKHl9BoV3NffVX44Yvz6+QF+GFmpveisgFyAYmfvX/LsyhvrES6;sNNWkDU7cc7Hhb/ziY5zSQ=="
 ---
 

@@ -26,6 +26,6 @@ images:
     height: 420
     title: "Can Artificial Intelligence replace songwriters in the future? Study on AI lyrics suggests it is possible"
 
-secured: "Bm3dx486q4PJbxU8bop0EFOhVHdTIMRjqCoxKqcRI9go+l2fNDTFFEoyMpdOtoSNip3uixTy358PoeTJ96R0hG7G9aDUfzBZUDAS9PHqUWLFORLFuY8LPv0B/pVd6fmimpZt3ejTlgVxTZanE6dGskGBvJw4YXhxB6bjsWK3sQuVl0NxriBdF+JpIr+2Ai9wBHfA2RySCZM6bGnd9OBLv+0odOT3oVgnm0ZYfANUUeyx0Mf2eD5SkhPIqvK+Z37Is2HUSOM9kJ76Qjuu03FQrp/ZGWu/kfEfkzGjw7J7YawsUQXct/9EQ17vqrCEXGSP;MQvx4FquctH8lJ/PToZ6yw=="
+secured: "5AgWQbBbu1RZP3YBxbWCWgDRrW18w/LIdRYf0Ak6NXiMllcl1Pof+E3+Hyv2LRP7/hgmTzEYzIpJQ62ROCHa1+AOhpJrgf3eDQds4NtOJRJPMjr9dsYBD4eoj32aI2GjUyPvwpNYDqDgNgNgIdPSIsQhnTxGPAqYHs1ZYR09ryWRwvYnKoigJpcONVo9Gb0jZKTiRAEn0iTCvhtGjbZahT5B+itbKPI8CJ3eyyt2mUi1r04teuEXfDuc+GnnW4FQ/ReLe+3U2MdTM+BQYYfgqKVNnGd4n2mGqSSqKCYrDF6TCN064k6H0cXiAEzY2og8qzmGSYcBgYRZi7PMWvIYuPcH1cQ/pRuPF9xHcwtFmnY+ANXYxZW4k/pwXub+5UY6KRypBd7G/Me0wgUFqCdY3RbLew4F+ImjCa6OgWZeKDGoDxyzLQFHWU4hjCbEfB+cvKT0dQicaYOQ1+/yoLpXK8hGDss0XLYoWYHWgV7hLg4=;ol//YOkxbtiL/kH38BXowQ=="
 ---
 
