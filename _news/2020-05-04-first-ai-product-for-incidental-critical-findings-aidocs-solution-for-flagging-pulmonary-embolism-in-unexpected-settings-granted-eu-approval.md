@@ -2,8 +2,8 @@
 category: news
 title: "First AI Product for Incidental Critical Findings: Aidoc's Solution for Flagging Pulmonary Embolism in Unexpected Settings Granted EU Approval"
 excerpt: "Aidoc announced today that it obtained a European Union CE mark for the first AI solution for flagging incidental pulmonary embolism (iPE)"
-publishedDateTime: 2020-05-04T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/first-ai-product-for-incidental-critical-findings-aidocs-solution-for-flagging-pulmonary-embolism-in-unexpected-settings-granted-eu-approval-301051812.html"
+publishedDateTime: 2020-05-04T13:15:00Z
+webUrl: "https://www.prnewswire.com/il/news-releases/first-ai-product-for-incidental-critical-findings-aidocs-solution-for-flagging-pulmonary-embolism-in-unexpected-settings-granted-eu-approval-301051812.html"
 type: article
 quality: 1
 heat: 1
@@ -22,6 +22,6 @@ images:
     height: 1041
     title: "First AI Product for Incidental Critical Findings: Aidoc's Solution for Flagging Pulmonary Embolism in Unexpected Settings Granted EU Approval"
 
-secured: "/cEd3xzWNa/wSkelXk+2MKM0gJNHJPFfZNaUsyjRNYWNLVBlIdckZfV/rp9fqDky9zlT3UYaWYCOf7sDXBBF80JrwmlJxWInCoJd6gaV0y9X3mq1EIdjRqI6WYN+SMu/nn3dVfOvtxd+Kj+4+gkhMR8ezU9NBUinQxnRKqnxxP27N7LgiO7wxCl9Tcso56jg+jhi16kOt3R7hGEQnRoFY5eRND8H6kdwFsZfNaetFxH4xDhimq4agWh6uEr/k+5fwskqj06jjJBSuAX/4YQlMLbmaDyOJrWjlz8QOHd1uZGmnqTmJL1qhqLaFK9KmafcpUAMUTp6s6cQgXAZmswP3wWyJZqT8EN33anjhwJG+OwdG14wo+mgHGPfq2h6rAKR1XVoHMusnKXn6xdAAomuMT3yKDXiq8o4Exk+s6zZPDF+X4WILNrpThwVjbUSJKjzw2enMz1Lrrqri/5i4rrbWVbeaMLK1xnITLn2redFgZ0=;CQsfY0LmGcu0A2IZ7Kj89g=="
+secured: "10SDA9u0lIlRBNxbLH+h7++niTZ4rV3WmiEQPQ2VRuP68sFfVIgpBOC3H8lvcSUEbJooIxk3qjnQt6UFw3utQ74D35jeKyC0ihuUoxxp7QIVjMGE1oIxgIMu4qS43WohycIYk9n5sFqskVn4+WQW1YaZG728+nZzWBgRF3V9Voyc7aOVElVBVqe6DnIovI2G+9o4rF7aLetL/MP1E5WlElZnnRUymwstUzrnc71J1S3daU81p/ZTumKJ7zSxFor4DLa7YoEg1uJNOaCXp2HF7h0YoDFMuRAKHpFSpzxpuFBFVMlnvDipBMAHVI/VW/Pk;tXzuTJOIgAkWRDWYOZvqLQ=="
 ---
 

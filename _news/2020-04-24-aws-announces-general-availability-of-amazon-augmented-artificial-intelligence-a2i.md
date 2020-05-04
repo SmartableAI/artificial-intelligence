@@ -1,19 +1,25 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for ..."
-publishedDateTime: 2020-04-24T17:27:00Z
-webUrl: "https://stockhouse.com/news/press-releases/2020/04/24/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence"
+excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
+publishedDateTime: 2020-04-24T17:26:00Z
+webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "o6QSVdWqmqB9k7v+gkq1uRvIr4EfY9sR7faxoe+I3Lotvo/71jW8tYl8Cb9nrY2oWsWP6g85Be9//tKkTCNVpk5v7kvtzD5ReibIahEe+JlKCx/xQQi02FTV44z7Y922yePXOobUZTIw0oUF2cMWtDBnciyFNwZsE5IIoaZGqVl48W+z/PhKBWOnMzxk1lK43R1SZ/QtnzSEJBTkRMHVhXhR17iZApBevxCrqICT5DQMXU/cxerEYXu+LvIxvbqk/AebJ9V8o4qEF3qkUlrcnm/tNXRWKMqFvOw9Ql8aHXjZvlzIfgdTGXVYW7FCub3v;7HfOAYSk6y5eL0EYVkPLlA=="
+images:
+  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
+    title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
+
+secured: "rBch0W/DVjeDf6q01WkPwapAhCVUqtfwamesNmpJxlmxxXjqXm0PhA4x34HnKRi9sDXT/oF9TekJxB1ep4K9fvOFVRtlvjRAZjhum56J9WmAR8KZzpyhZo38mnPqrCG0Qx9IELB3oQquaoOHNEnDsrPg6H9VCS1vM4Yw98SORKOItEFRF6Vlse6i83e8HwG9vDfFzNRDKEror5Zovcg8twkQOdwLKASYIgj6y5bQoRt3WorRICSXTP2tHtx+rG5n33ED5HKrsk6TwhryvN8O0exjbJUcxyKLmU16qWlXVsCt+XlqBObNbIhn1eNAsqc1;aG1MXGo5ZTwSyjcxZL0hqQ=="
 ---
 

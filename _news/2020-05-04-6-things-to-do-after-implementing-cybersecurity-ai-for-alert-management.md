@@ -22,6 +22,6 @@ images:
     height: 630
     title: "6 Things to Do After Implementing Cybersecurity AI for Alert Management"
 
-secured: "6/HaK0UNKgQJ0h7QiTVs1T2WDbj/VCgxv5LirvWkeslq+sIfdDIZFvIahye+bh/9yt2Eg9QNalSH5vIvghXcTyLN1VJngPSjOWW7+hxwN3omHgXNVPFf1EZADtsm+CpCFF9yDhxqG4ZWv+tji6fakH0pq/7kASIZ+phQDbEDHqCqEW7Cdw2jaRAVdthSn3Q57gb4Wvy9xNWa+feJqzrbW6joBINKDB91q+Nd5oT5yBK7PpN+Wli63Ey3hbxX8AXbf8QiD4dtVKx/NBH66qypjoGSAUBoFAR2spTbs2uIZ4VjUaCbairwdqrm1FkBG3r6;BRHe+O4camwKf+1ikR8BKg=="
+secured: "1rh33rilNWTxlxRNTaosnM1Y+krKmXhQhp5fJf+1aPrPiGLTN4YcqZb5mbUBfyyud4+L7gI4DJts4kpu+7ZlJ/hmoCm7k/vEaPcKQorlfgTx+EZXU2g/uc8bVOXlCtRlYKl3zOnd721ojRHPyzq6OgMg1HuNsSOlHQp6eYfrpMTBbdQxoKlx/Pu//locIN/MMnB1TMnPuYN9KR2I9hj3/8QwX1FPb4E3xTc74HFlB/VcacTkTFI/C9COVe1g8VWxBFC68GK+/6s8AkJJg3pDKDu50xvIWhu5D7ofCXd/aCPm4DlehhJF1RxA+ir7yL/xu7B8qfr96IULjlR+31twtP78Q1QPYfNb321v116X2OlzLgv1DSqU37eKAtyObN22i4AtYoCoZoCLtl2UYf5+PTa5lym8Z17UGnhwnqbg+3z0ugpAgyyhQC1W3fH6VaaqHjlMpwte32w4dirya6qGWjsOwGc6i9rRvIDJRJq5zzE=;i/Ba8oVpk2QzWAqZfYv2cw=="
 ---
 

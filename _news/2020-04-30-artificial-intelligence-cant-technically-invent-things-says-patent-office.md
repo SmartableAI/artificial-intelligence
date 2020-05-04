@@ -41,7 +41,22 @@ related:
       - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/04/GettyImages-476176424.jpg?w=1024&h=683&crop=1&resize=1280,720"
         width: 1280
         height: 720
+  - title: "An artificial intelligence system cannot invent something, says US Patent Office ruling"
+    excerpt: "Patents are granted only to “natural persons” and will not be issued to AI-made creations. The US Patent Office has published a new ruling saying that its"
+    publishedDateTime: 2020-05-04T09:00:00Z
+    webUrl: "https://www.qrcodepress.com/an-artificial-intelligence-system-cannot-invent-something-says-us-patent-office-ruling/8537851/"
+    ampWebUrl: "https://www.qrcodepress.com/an-artificial-intelligence-system-cannot-invent-something-says-us-patent-office-ruling/8537851/amp/"
+    cdnAmpWebUrl: "https://www-qrcodepress-com.cdn.ampproject.org/c/s/www.qrcodepress.com/an-artificial-intelligence-system-cannot-invent-something-says-us-patent-office-ruling/8537851/amp/"
+    type: article
+    provider:
+      name: QR Code Press
+      domain: qrcodepress.com
+    quality: 49
+    images:
+      - url: "http://www.qrcodepress.com/wp-content/uploads/2020/05/Artificial-intelligence-system-Robot-with-Computer.jpg"
+        width: 886
+        height: 460
 
-secured: "mlZsz2vAnU0Cp8IIjvmxSq1CmofREeFfyi10FMedOb1KhMLehUGIsIWncOzY0n4t1Ln0c63KIGZnkJks/iI/40WYt88EuXOAhvIb0isAGQsGL/cRHwPgmmyeGweYnUbPF8xoL0/FOWE87O1QcC9nbXTCAHwY8pxP5UBDTxiqM39xnWYGcjtFNkk0nK5PCVlr6MYbF44LmGzCThmu0Oq1Wc4igmapDQCMC+MiGlWskx/Vc8bRp30IOC/3voeIt7utcsBdpewAStk8zDpS0jW5zR+uUJVaoTuC8YVo5rtupbp+qlD9MEhYGwE61HRGsx5Y;jRrppQHDpIFOMZ6oGyfePA=="
+secured: "tzJL6Ql3iu9Izt3s6Kz9pf4lSZ2lAD9nwrO+ZAb+I1F00eM47CoI/45hCS/vnx26vxWvTgOwjF1kxghl2yUZJWK5Xr3W46SxD/d1oJ35Yy3Gf6iUi3aHTZgv53GjsAfMabpujoshSg27LlaYwLk9YyyfRJCr512LuIFJ5uWEToQgtK5sRjoU8XKdIUBU5NfmpQbFTQLASZ/B27OfoJOShw1uyx5YEEPhmuRP7TPb5FDowJjmq4YPtuL3aT+HlUHz6Fb+OIJ0bEay6WwknXH8BrECVW1tevBSVn/4t/rzW7AJgu3XD+lhiVP0cWUpjKg7;C+jSQHCp+jOGmPYKj/2hOA=="
 ---
 

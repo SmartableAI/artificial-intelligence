@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-29-researchers-propose-ways-to-apply-ai-to-agriculture-and-conservation.md",
+      "title": "Researchers propose ways to apply AI to agriculture and conservation",
+      "excerpt": "A workshop at the International Conference on Learning Representations (ICLR) 2020 highlighted efforts apply AI to challenges in agriculture.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/researchers-propose-ways-to-apply-ai-to-agriculture-and-conservation/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/researchers-propose-ways-to-apply-ai-to-agriculture-and-conservation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/researchers-propose-ways-to-apply-ai-to-agriculture-and-conservation/amp/",
+      "publishedDateTime": "2020-04-29T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/12/ss-Farm-e1588136969774.jpg?fit=1000%2C600&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": "Researchers propose ways to apply AI to agriculture and conservation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-cb-insights-ai-funding-held-steady-in-q1-thanks-to-waymo-but-early-stage-startups-suffered.md",
       "title": "CB Insights: AI funding held steady in Q1 thanks to Waymo, but early-stage startups suffered",
       "excerpt": "AI startups globally raised $8.4 billion in Q1 2020, up from $5.58 billion the previous quarter and roughly flat compared to Q2 and Q3 2019.",
@@ -1258,50 +1303,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-can-ai-do-a-good-job-writing-marketing-copy.md",
-      "title": "Can AI Do A Good Job Writing Marketing Copy?",
-      "excerpt": "Parry Malm: It all started with a simple idea: the language a brand uses in its marketing is the crux of all marketing efforts. And yet there was no technology on the market that could make it better,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/paultalbot/2020/04/28/can-ai-do-a-good-job-writing-marketing-copy/",
-      "ampWebUrl": "https://www.forbes.com/sites/paultalbot/2020/04/28/can-ai-do-a-good-job-writing-marketing-copy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultalbot/2020/04/28/can-ai-do-a-good-job-writing-marketing-copy/amp/",
-      "publishedDateTime": "2020-04-28T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea8456d38448b000788994f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Can AI Do A Good Job Writing Marketing Copy?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
