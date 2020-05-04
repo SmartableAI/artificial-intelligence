@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-li
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Facebook’s teaching AI to lie like a human"
 
 related:
-  - title: "Facebook says its Blender chatbot 'feels more human'"
-    excerpt: "Facebook's new open-source chatbot blends personality, knowledge and empathy with the goal of being more humanlike."
-    publishedDateTime: 2020-04-29T16:37:00Z
-    webUrl: "https://www.cnet.com/news/facebook-says-its-blender-chatbot-feels-more-human/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-says-its-blender-chatbot-feels-more-human/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-says-its-blender-chatbot-feels-more-human/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/Kl3eL9EkMSeRH9r27UdVgj1jeIg=/756x567/2020/01/01/e6826d4a-a27d-4278-bf31-666729bde647/facebook-logo-laptop-4829.jpg"
-        width: 756
-        height: 567
   - title: "Facebook AI researchers develop Blender chatbot that can converse as well as humans can"
     excerpt: "Facebook AI Research (FAIR), the artificial intelligence and machine learning division of the social networking company, has developed a new chatbot ‘Blender’ that can converse as well as humans can."
     publishedDateTime: 2020-04-30T06:45:00Z

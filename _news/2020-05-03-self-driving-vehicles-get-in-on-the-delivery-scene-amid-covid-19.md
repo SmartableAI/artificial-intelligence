@@ -39,15 +39,6 @@ related:
       - url: "https://www.standardmedia.co.ke/images/thursday/selfdriving_vehicle5eaa5bb1afeef.jpg"
         width: 640
         height: 426
-  - title: "Self-Driving Vehicles Get in on the Delivery Scene Amid COVID-19"
-    excerpt: "Since mid-April, the cars of General Motors Co's self-driving unit Cruise have flashed a \"SF COVID-19 Response\" sign on their windshields as they deliver food from SF-Marin Food B"
-    publishedDateTime: 2020-04-29T16:52:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-04-29/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
 
 secured: "AnlB+Ft+f4hSkQFuHepU0BsY0A6hjWkNkCtJEoxbcoN98jv9TvISiXcvYbv6pyepHXGPaNAf0yLuP6uxM1cHghVWbM3nmjWbdBKfabI/CoCU5GeDQIUjfe3Rk2dWuO0/UGM99XL34s7P4kUkahsWfrvajz7BiCNlCPbKOMXYcG1jhtLUqYqSKxs6UdCANciEaj5bYb7f0ZIbMzgYgLYFN4E2GrEjGAYnZMPnF6ZSk9Gr4A9qRZ2EZ+8U8DWwLk7C7rXlvLc7XWzumHN/TPOHUNBwqWdvjFwjiPJNDyOoceUThq9r3S8VqZbod3XLuek8XhdLqh+Ut8BwWfms9KKU5Wpe7m6x+5GxISSu0b069haPkKWsZWjC7s0gZ5RKPLnJxl1qYdFOxLvG4KIYYzDrJRYn8gaQauwVOpnblikbuzwp/PfOMbs+MRfRrAuRKbrjrYxq+nGY1Li9k0W7hznl4JKn6s9z9eU9EwaI6EjWlT8=;yu89WguMmDc1kjPzibjbSA=="
 ---

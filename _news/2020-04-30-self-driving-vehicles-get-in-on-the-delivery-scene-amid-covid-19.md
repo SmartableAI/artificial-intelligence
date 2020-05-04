@@ -26,15 +26,6 @@ images:
     title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
 
 related:
-  - title: "Self-Driving Vehicles Get in on the Delivery Scene Amid COVID-19"
-    excerpt: "Since mid-April, the cars of General Motors Co's self-driving unit Cruise have flashed a \"SF COVID-19 Response\" sign on their windshields as they deliver food from SF-Marin Food B"
-    publishedDateTime: 2020-04-29T16:52:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-04-29/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
     excerpt: "Self-driving cars, trucks, sidewalk robots and shuttles are rolling out of the labs and parking garages and onto American streets to help deliver groceries, meals, and medical supplies. Although self-driving car companies have paused on-road testing in the U."
     publishedDateTime: 2020-05-03T21:00:00Z

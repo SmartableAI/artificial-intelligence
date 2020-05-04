@@ -35,21 +35,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg"
         width: 796
         height: 417
-  - title: "Facebook says its Blender chatbot 'feels more human'"
-    excerpt: "Facebook's new open-source chatbot blends personality, knowledge and empathy with the goal of being more humanlike."
-    publishedDateTime: 2020-04-29T16:37:00Z
-    webUrl: "https://www.cnet.com/news/facebook-says-its-blender-chatbot-feels-more-human/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-says-its-blender-chatbot-feels-more-human/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-says-its-blender-chatbot-feels-more-human/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/Kl3eL9EkMSeRH9r27UdVgj1jeIg=/756x567/2020/01/01/e6826d4a-a27d-4278-bf31-666729bde647/facebook-logo-laptop-4829.jpg"
-        width: 756
-        height: 567
 
 secured: "Z9RFiQdybbFi49xPdpLUvC1xHN03wUSYGZwEL7A/Oz9wJUdQBGVf9C1O3iqFGRyNyyQ9l6kKTJHpVAXqnDprdBLyUb9+poGfOqtXjnMDyU6NQtdy0DcNCYQMJ0alVgg32jTpIbyiXHdse3zcxw8vzJC9hhE+JIwbh6P5z1Qec9tZUx/sIgauFMxMEiCLNysZXd713DOiPzRuDmWcpJ22K054JIze2txSY0IpzYULarKbhTKoyk86I+ETFmFb0pidEtoLjRFSikCrLpBqCl52CSPFSWMHVibWiF1nXVYxpqlb7P2VtDu6uGSXQVrsVpCcAwN++ZgTiDTWZYzYXrQGhJH6U5AHRY7tui6UDmZ3ZtpA4oMa24lJoQkYcZSpW92xh7s9wTQgwMRXADMsXC059rnqYdDOz0iCHFPXN5VRhdMTDlyR5lUBJ9Usvzl4lPOoav44cGWg1OzXlxdMRFmggpwEmVdrCQg1y9mMl9AR1QQ=;N5X/7JlxPzo+LeZkjjvTpg=="
 ---

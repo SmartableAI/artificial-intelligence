@@ -19,21 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market by Component, NLP Type, Application, Deployment Mode, Organization Size, End User, and Region - Global ..."
-    excerpt: "The \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market by Component, NLP Type, Application (Pattern and Image Recognition, and Auto Coding), Deployment Mode, Organization Size,"
-    publishedDateTime: 2020-04-29T15:08:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200429005574/en/Natural-Language-Processing-NLP-Healthcare-Life-Sciences"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200429005574/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-
 secured: "TrQSE2hWamjxNhugtKkn4V5bvmxGKGyroWQd2D9/CanA8EKU5TX3+zzyxc3qyJK5rxrywSknNQf5k9KcM3xNjxEx+DfxvfnIOoOZYh+lm0vNIktC/k3nMXrkm35U3oIq9uSmKq1/1dk38Hs8TB7XtjYfNNvshmaGrfs9SEISoZIO70UoHMcAtt5Ie84d5K+ntWc7TGY79qfIIPtj5cp6SHA9CZ5a/fcQqBcQiED4W8FiO1vvRMb2cJJUV6kw2kBn4tjGvniCvMYlL/6yAKQaSiW6jQxHRLLndqMuimbmPmd0bveVeJrOhAhbF8nm9TPA;tXDkGpjba3ojM33d1HgR7w=="
 ---
 
