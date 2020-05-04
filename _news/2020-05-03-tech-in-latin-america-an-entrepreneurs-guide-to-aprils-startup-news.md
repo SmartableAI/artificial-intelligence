@@ -28,6 +28,6 @@ images:
     height: 530
     title: "Tech in Latin America: An entrepreneur’s guide to April’s startup news"
 
-secured: "WxHMRMRMK7y0Th9SFttHfw5Wk9xG8CdmemXdbjZeVSusOJwMqzCqipzPC9JwtAKbSKlH1d4TMJ3IJGdEFqMWcAbRGVLduG/7jEgmCz+1bcdmJPSlwZaxxabpLJ6PzhFpAUqUwipPq/6lw0BMh8qmXdRXR3reV8/Gxzm1Nl29GH7v6JqzUQ9o+3iF3g2dDd0NfU4ivRE1U2ALs0fXrwwnnmX9uQV0rqM0DVlf2g6Lk/o4QsAHDuSnKFq1EQAfBgmfY/fp2Ub91kffZ+w2Ekm18lccBZ4xTfZ6rdST1E15nUoiH3+M1pUbEdDFKpvavi0j;wCGHfIeyKzGWPQfc+8wvYQ=="
+secured: "ALkOw8FZZNYUAsq9b54G/qX2oOygfjM/zYFUc6SGHw9kH5pwUfTnA/jChGA3wcfZY1PSCyfhasti5xr/yg8MpS4j+AuPPatjcuHpINWEhWuqMB9ctFt8MGzJv2kqFu7DP8/A6HCWcHkv7BuE9fCvx/dDMLTElgpjj91+SS5zfJl2fGxBi3pXxw84AtEFcb2TxKgKfYWGWtJHgb+2neogs2u/qOGCJCaZ+YcKHcf6jOQfxw8hJfLWPRRzOYrpw97cNBopzf1BNkHTASrLWrOV3p+7fq4/YVyhUpFUdlWOrnlicJX3ZVme5JwUTBLlOk6A0UcWdY2JscPgE0KH5nxSm/D97eeBKpLMlHkZqfSHGpSCgSvdmrto3hAQsJCIhNW/zPfY1T79djFOrOdTKWNOZHTjSgf+mRzAq0/844umebSp3bbmN+lQjRNaZa4c7Vw4VuEuAu5jqLVpZCgQuzlGRjxEbH0H57f7Rwi3+4KJYp0=;epjC+lPtVKtX/ecUTT0I5A=="
 ---
 
