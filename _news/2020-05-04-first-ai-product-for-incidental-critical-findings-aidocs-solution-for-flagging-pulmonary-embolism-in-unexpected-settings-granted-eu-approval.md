@@ -22,6 +22,6 @@ images:
     height: 1041
     title: "First AI Product for Incidental Critical Findings: Aidoc's Solution for Flagging Pulmonary Embolism in Unexpected Settings Granted EU Approval"
 
-secured: "hbi5yBBJMjXYtoAbtTn//b9L7UgBjFH8jXRe+VJlME64hFnldMr1o1vxi91sOw3jO4zsxaGf7XneN/iYaHsZqKNgritG983NfLmcAbNflkGfe/IYHPbWJl5y03useRrVoUVVWhyhSmpydE+ET0b6cDwppitjMIkNckJKH1bnvdBC5R/UEJqQexHwBGNmrIjQTDF164erkF7DyM4y06mik/z9CJhiu2j/tILDIpn9aC0lyON0MjYx1ToHWh2+RJ6jUNgD05qtUXhDQJGi/n2jzb35F+D8Atx4Nz+I0yDY1AwoOPAKGhqCuBdwz3u/2lDB;x+24B76tqOAt+2GNOXvqDA=="
+secured: "/cEd3xzWNa/wSkelXk+2MKM0gJNHJPFfZNaUsyjRNYWNLVBlIdckZfV/rp9fqDky9zlT3UYaWYCOf7sDXBBF80JrwmlJxWInCoJd6gaV0y9X3mq1EIdjRqI6WYN+SMu/nn3dVfOvtxd+Kj+4+gkhMR8ezU9NBUinQxnRKqnxxP27N7LgiO7wxCl9Tcso56jg+jhi16kOt3R7hGEQnRoFY5eRND8H6kdwFsZfNaetFxH4xDhimq4agWh6uEr/k+5fwskqj06jjJBSuAX/4YQlMLbmaDyOJrWjlz8QOHd1uZGmnqTmJL1qhqLaFK9KmafcpUAMUTp6s6cQgXAZmswP3wWyJZqT8EN33anjhwJG+OwdG14wo+mgHGPfq2h6rAKR1XVoHMusnKXn6xdAAomuMT3yKDXiq8o4Exk+s6zZPDF+X4WILNrpThwVjbUSJKjzw2enMz1Lrrqri/5i4rrbWVbeaMLK1xnITLn2redFgZ0=;CQsfY0LmGcu0A2IZ7Kj89g=="
 ---
 

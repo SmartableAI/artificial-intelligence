@@ -1,21 +1,23 @@
 ---
 category: news
-title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
-excerpt: "SAN FRANCISCO, April 29 (Reuters) - Self-driving cars, trucks, sidewalk robots and shuttles are rolling out of the labs and parking garage"
-publishedDateTime: 2020-04-29T16:50:00Z
-webUrl: "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29"
-ampWebUrl: "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp"
+title: "Self-Driving Vehicles Get in on the Delivery Scene Amid COVID-19"
+excerpt: "Since mid-April, the cars of General Motors Co's self-driving unit Cruise have flashed a \"SF COVID-19 Response\" sign on their windshields as they deliver food from SF-Marin Food B"
+publishedDateTime: 2020-04-29T16:52:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-04-29/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "B7VFjZlUN5HijENidx/rkOcKXcEtKcZUz029dwecSiezZf6vn4Np7yM3lPScLoWBnpX1TrdTolDwyOhdRQj2ObQtu1suzX/5yPfrgPc7Wop24FGH5k4tOSNiqDbcKYoPRuZLnvsS9G5oqELKKp/4tOxILIJzYOd8ULApDbptZpkJydXIoopvlYxNQZ6LxV+I+s/nUnSQXoz7nHYCbXQfW1KH1nvbMLTCginQr58q/xLAwPS8U/KbX+uaxcoQSA16B4V7TF+/cGiwaMFpfVWSWVke9jWrU32dM55CMe9UfaXlaqzoqUgORjyb5H7/w6kTyzdsKWydwAX2MvzLO3balM+4jv45/ED0dxxsbViyojFge93boZfOUTQvB6O+Db/ToJihZELMpbd4qmQQ1rQoOAchfu+xgOGRn0pdGEcS3Pk+DJ9BSnjaSCTVpalycDSqueH/sI3mfq1i2e6wDzidE5lWAciOHioQCXEQbuuY+hA=;wXqX3dWz4wofWJ11CibHoA=="
+secured: "5DM5reLE2u+U3qZRXFrWeXHngBB7rV642eRJVf4AJMOUS66ZSFr/07cPbQC8C8MZt87xjYLV5BH/uPO+3AsAfxG9+5HitaRSfvdeAPo1Sd1yB8UtMEc/dPJJHilw+Cx79E/KFbeJGL5NmD58p/YOQtfCGlPjJMhG3efgHeDpE6oMKkbaBIo6f3JdM8adiYTbI4L/7ltDOZ5pHJwgWK5FYwR6HNts9wznuCDe46Mgy3xW6yIplvVKwdiLYk9JnwAwtGra5dpF8LWfau9cdkT7PVN3kYgxAR5wBa5TV+ol+IotKiyXisp32RxSY/Fx4WJ3;wC7n+S4dyKVfQsdcP0/LPQ=="
 ---
 
