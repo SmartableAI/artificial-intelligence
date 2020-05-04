@@ -25,6 +25,6 @@ images:
     height: 590
     title: "Queer Voice Shines In “Shubh Mangal Zyada Saavdhan”"
 
-secured: "qxKt6waY3GQtuQXVr+yTcPsO3qhW75jcYSRqzYWOAYRGu2QD9Xl0Yl7ieNRDqfEYwpvfi6D+udushexlSi7H0pQUQRMmo/mlA+/IO89PzVNelmXKUl/1H45ATTy2bDNWh/f2iUJQ/ZzYHrJ1GCLlerhi625or6iIgSZw6x6DH/KAPPK5GFnjqqHROsMA8R7YtxdMlW/fRf1j57wG0SbiEBw5+SfGYg1zgHNJZzJH2QS+Gz4WiVPGx3x2jwlJ1LHFAqG2/zDtTKq67ooxIpLZhKtC8mmLLB+VBjMFQF/3HCKHrxqppJ+q/Lc8qsofkA/n;845wBrDI7t5WO406WUXxkA=="
+secured: "/JAOA5nSrTVLei9GhMB2dVoKt7DrZsgucKwbjSDdKOaKhRPJ0Gp2QWLHKXonlvgrex44QIgjAwts7zKTey9nNdS+RXdyrl9NhuDm6klPgurAeFGMQa45SN2OymaSLKCxoJiIG21eb2fpqc+9x902l2FEozboWPkHoH+5R+7kwF32t1x+vDkH1U9XBPMcAjKaAYNBVJ6CJlnfrPtneWaovrJC8N4pGclLm0gnp586ztO0aDz5+w6y4o95Dssp9tUxwsFfgXiuoO9Dz0MMOHFfK1g1pAUYuPs/Q0CFstJI+P0gp3nRjMwg/je4yhrc8qYMfrwk3x3yBQ5SQBR5G//UE1PHJxsMfkoBYNtKa4CDMpgkrxVUbbRsSKZPIqVK3+lBIROZZyD+BZEHu2NKwIyeZO5wVfReaBgURcD7PUTnkYDJ50+1P9uoOtmHFIujKj/VIEEhIJSEUi6gNN9WlIYq/H+xhfaPp1kRp+L+ihIibCw=;TkX/WCGcGjGBFm/n3ckIaA=="
 ---
 
