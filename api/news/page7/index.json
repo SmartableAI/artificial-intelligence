@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-28-2020-iphone-ses-portrait-mode-solely-relies-on-machine-learning.md",
+      "title": "2020 iPhone SE’s Portrait Mode Solely Relies On Machine Learning",
+      "excerpt": "Developers behind the camera app Halide reveal how the new iPhone SE is able to capture photos in Portrait Mode simply using the single camera and machine learning.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/2020-iphone-ses-portrait-mode-solely-relies-machine-learning-2966313",
+      "ampWebUrl": "https://www.ibtimes.com/2020-iphone-ses-portrait-mode-solely-relies-machine-learning-2966313?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/2020-iphone-ses-portrait-mode-solely-relies-machine-learning-2966313?amp=1",
+      "publishedDateTime": "2020-04-28T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/16/2020-iphone-se.jpg",
+          "width": 1200,
+          "height": 733,
+          "title": "2020 iPhone SE’s Portrait Mode Solely Relies On Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-new-york-yankees-radio-voice-john-sterling-honored-with-2020-governors-award-at-new-york-emmys.md",
       "title": "New York Yankees Radio Voice John Sterling Honored With 2020 Governor's Award At New York Emmys",
       "excerpt": "Longtime NEW YORK YANKEES radio play-by-play voice JOHN STERLING was honored with the Governor's Award at the 2020 NEW YORK EMMY AWARDS. STERLING was recognized for his 60-year career at the event, which was held as a \"virtual gala celebration\" due to the COVID-19 CORONAVIRUS pandemic.",
@@ -1032,50 +1069,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room.md",
-      "title": "Amazon’s AI uses a microphone array to localize multiple speakers in a room",
-      "excerpt": "A team of Amazon researchers proposes a machine learning model that's able to localize multiple sound sources from microphone data alone.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/amp/",
-      "publishedDateTime": "2020-04-27T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon’s AI uses a microphone array to localize multiple speakers in a room",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

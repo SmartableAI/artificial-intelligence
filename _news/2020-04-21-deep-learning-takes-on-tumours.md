@@ -3,7 +3,7 @@ category: news
 title: "Deep learning takes on tumours"
 excerpt: "The cell movements hold clues to how drugs or gene variants might affect the spread of tumours in the body, and he is tracking the nucleus of each cell in frame after frame of time-lapse microscopy films."
 publishedDateTime: 2020-04-21T10:06:00Z
-webUrl: "https://www.nature.com/articles/d41586-020-01128-8?sf233092553=1"
+webUrl: "https://www.nature.com/articles/d41586-020-01128-8"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 576
     title: "Deep learning takes on tumours"
 
-secured: "pqPIic4+Ibvudi3Hhzj4pNm/E2HH/Fe4EmMUHt2z5Bbj7YAYYz7J8vBIdq61TVb/paE4Klir0LMt4pXMgQPAC2k/+xJEh0aBNLIjK1TebY7pMSvnToF4Qr/soaHX1gGvw0H8V+i8gTn5OJ/U/6D+zxzawqRpzZ6uYx3xmm52+GgP62+Ax+6LMCOxLQwDUuzIOnAemQzR15LYM/D2hGHxxsunZAjMpx9ak+hU5R4DRmOReFzjjvFKPPxn8BeNYs9VrP6LNcCB8DsUJr9Un1dPnptBIqRQDwtDVCjbnQ2PBO1bRMsBnGE/wpMr1Ch+9e7B;0PxncQKxLW2mSwEEulzWgQ=="
+secured: "0D6xDdtbpBpJzwbXuk14K+/xtqhaTeCf7G6yj6UryHyFrtfjwS6TmNprDd7G4dfIadWOpPXXXc/qdHZW570BYeQKY6IjXBUFbi3e8CUv0b5CbIVwPfaM/Y5/5NMZ4KJwFiCeRjoaFlVnzj3iUzz85frQyZI92yKKt3e6KE5IdTfzN2OXtM5Qu4vgZepib716X0g2oYUc7vF7tP1QNj4zXjgQEe2/jYG197bEr4K18PWClAIuwSi8qsFHoY3ZEXYr84HGp/UNyq4y75zuLNcl4ZQ/C81LCeXRbQFR3IdxqR/716zA/FSyI04UpUuJ1mfV;eOjELnInVl/yj169+1gmTQ=="
 ---
 

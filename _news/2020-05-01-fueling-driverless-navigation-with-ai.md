@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/fueling-driverless-navigation-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/fueling-driverless-navigation-with-ai"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

@@ -225,6 +225,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-29-experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility.md",
+      "title": "Experts Predict Marketing Future Shaped by AI, Data Ethics, and Environmental Responsibility",
+      "excerpt": "Essence, a global data and measurement-driven agency which is part of GroupM, today [29 April 2020] released a unique report on the future of advertising based on the predictions of experts across academia,",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.exchangewire.com/blog/2020/04/29/experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility/",
+      "ampWebUrl": "https://www.exchangewire.com/blog/2020/04/29/experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility/?amp",
+      "cdnAmpWebUrl": "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/04/29/experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility/?amp",
+      "publishedDateTime": "2020-04-29T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "exchangewire.com",
+        "domain": "exchangewire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.exchangewire.com/wp-content/uploads/2020/04/kyoko_matsushita-300x300.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": "Experts Predict Marketing Future Shaped by AI, Data Ethics, and Environmental Responsibility",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-ai-cannot-be-recognised-as-an-inventor-us-rules.md",
       "title": "AI cannot be recognised as an inventor, US rules",
       "excerpt": "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\".",
@@ -1059,51 +1096,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-ml-explainability-with-amazon-sagemaker-debugger.md",
-      "title": "ML Explainability with Amazon SageMaker Debugger",
-      "excerpt": "Machine Learning (ML) impacts industries around the globe, from financial services industry (FSI) and manufacturing  to autonomous vehicles and space exploration. ML is no longer just an aspirational technology exclusive to academic and research institutions; it has evolved into a mainstream technology",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ml-explainability-with-amazon-sagemaker-debugger/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T11:24:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/sagemaker-debugger-explainability-8.gif",
-          "width": 800,
-          "height": 426,
-          "title": "ML Explainability with Amazon SageMaker Debugger",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

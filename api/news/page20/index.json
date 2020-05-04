@@ -2,6 +2,50 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-15-artificial-intelligence-in-aviation-market-2020-development-analysis-and-future-estimations-2026.md",
+      "title": "Artificial Intelligence in Aviation Market 2020 Development Analysis and Future Estimations 2026",
+      "excerpt": "The Market Research Intellect has recently added an extensive report to its repository titled Artificial Intelligence in",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-development-analysis-and-future-estimations-2026-2020-04-15",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Aviation Market 2020 Development Analysis and Future Estimations 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-artificial-intelligence-spending-in-health-care-will-see-a-15-billion-increase-by-2025.md",
       "title": "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025",
       "excerpt": "If the coronavirus has proven anything, it’s that health care organizations can no longer ignore the role of artificial intelligence in their daily work. In a report released by ABI Research, AI spending in the health care and pharmaceutical industries is expected to increase from $463 million in 2019 to more than $2 billion over the next ...",
@@ -1034,43 +1078,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing.md",
-      "title": "Microsoft’s New Azure Edge Zones Highlights Opportunity To Combine 5G And Edge Computing",
-      "excerpt": "Microsoft's latest Azure Edge Zone offerings typify the kind of widely distributed, heterogenous computing-focused and modern software-based efforts that 5G networks will start to enable.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bobodonnell/2020/04/15/microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing/",
-      "ampWebUrl": "https://www.forbes.com/sites/bobodonnell/2020/04/15/microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2020/04/15/microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing/amp/",
-      "publishedDateTime": "2020-04-15T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
