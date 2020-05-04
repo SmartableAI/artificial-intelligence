@@ -24,19 +24,6 @@ images:
     title: "City of Markham launches IBM virtual agent ‘Watson’ to answer COVID-19 questions"
 
 related:
-  - title: "IBM and City of Markham launch virtual agent for COVID-19 related questions"
-    excerpt: "New service uses Artificial Intelligence (AI) and machine learning to provide an enhanced user experience and keep residents safe during pandemic"
-    publishedDateTime: 2020-04-29T13:21:00Z
-    webUrl: "https://www.canadianmanufacturing.com/technology/ibm-and-city-of-markham-launch-virtual-agent-for-covid-19-related-questions-252397/"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 22
-    images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2020/04/IBM_Canada_Ltd__IBM_and_City_of_Markham_launch_online_and_teleph-1024x683.jpg"
-        width: 1024
-        height: 683
   - title: "IBM and City of Markham launch virtual agent to answer COVID-19-related questions"
     excerpt: "The City of Markham says it’s the first government body in Canada to leverage one of IBM’s unique AI solutions after it"
     publishedDateTime: 2020-04-29T21:16:00Z

@@ -35,21 +35,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg"
         width: 796
         height: 417
-  - title: "Facebook open-sources Blender, a chatbot people say ‘feels more human’"
-    excerpt: "Facebook's open source Blender chatbot framework achieved state-of-the-art results compared with Google's latest Meena model."
-    publishedDateTime: 2020-04-29T15:03:00Z
-    webUrl: "https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/"
-    ampWebUrl: "https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "Facebook says its Blender chatbot 'feels more human'"
     excerpt: "Facebook's new open-source chatbot blends personality, knowledge and empathy with the goal of being more humanlike."
     publishedDateTime: 2020-04-29T16:37:00Z

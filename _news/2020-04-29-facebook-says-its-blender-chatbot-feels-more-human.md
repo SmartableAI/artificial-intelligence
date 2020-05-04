@@ -45,21 +45,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg"
         width: 796
         height: 417
-  - title: "Facebook open-sources Blender, a chatbot people say ‘feels more human’"
-    excerpt: "Facebook's open source Blender chatbot framework achieved state-of-the-art results compared with Google's latest Meena model."
-    publishedDateTime: 2020-04-29T15:03:00Z
-    webUrl: "https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/"
-    ampWebUrl: "https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "Facebook AI researchers develop Blender chatbot that can converse as well as humans can"
     excerpt: "Facebook AI Research (FAIR), the artificial intelligence and machine learning division of the social networking company, has developed a new chatbot ‘Blender’ that can converse as well as humans can."
     publishedDateTime: 2020-04-30T06:45:00Z

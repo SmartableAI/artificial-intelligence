@@ -1,24 +1,28 @@
 ---
 category: news
 title: "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0"
-excerpt: "1 year full license to the award-winning dotData Enterprise AutoML 2.0 platform * Full hosting by dotData on an enterprise-grade secure cloud infrastructure * 12 remote training sessions for an ..."
-publishedDateTime: 2020-04-29T14:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/n15911575/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-2-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15911575"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15911575"
+excerpt: "PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced"
+publishedDateTime: 2020-04-29T18:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-2-0--301049518.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "mGV0DlGeVkKNZl96ZbJ7mDYa2wk5vkC+MEhnEeNQCeXabC35VIlXe+lXgkez4YCwtuzy+NpC+5fuvKMZhhH1RS+bpS8BkvSPYe9yFdivUFj9yjXk8xz21NXyr8Tvk6r2CQ2/zItNL7bKoiUo1gYbJT81GB8MTBtJrvkxgCvKXutbbGBYzMlvvB7VFUOqjqO7dLw6UO+wpv4BPEyXgdBufSbTK8XB4Z1FZleLtKehl3vR2MuAGp7bVLisgTIW8DW6bn/cLbDAVNViAFC6BO4EUIRe2qU/yK86ZQYi1jNO/iwb1USS1PGg2MYA+mNK9Jfe;+3rHRfnDsYkuB0xM/oDKvg=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0"
+
+secured: "q8PD8Tk1bfhqGpsoAMHgyghBOdMr7L11ar3jBFVZZF/IWbKcsNPmLdytsxi2IJTGNQ395CFh64hLAFQUA4HUhvVynAds8/JHCx3tBdgWym4cR06Sd6601kHJpB/wbQzlPyxygyU9Zvm99mXR7YFZT7tspf6efFpwt34SgqUphDzv0WgQs51Vw+1ROTfygzG+AV9GFftUFYleimb/aVPwkbT8vG7RwC1uanle6unNQ2oiHgWpNGM13exjxEqTuXNrCot3qizQ2aY34Ezy3rLlFjHrGNTSEiPansTQ8pUQ9IhQXtg8xdWSxpwaEQQR7C1u;WGL7aUyLcK5pbvvfcH1WoA=="
 ---
 
