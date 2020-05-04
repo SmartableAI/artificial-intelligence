@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Your Organization Needs a Proprietary Data Strategy"
-excerpt: "We and others have been writing and talking about the value of proprietary data for many years. But we still see few organizations with strategies for how to acquire, develop, and leverage it. Most companies focus only on their internal data,"
+excerpt: "Companies need to be more focused on proprietary data — data that is unique to a company and can be used to create a sustainable competitive advantage. The ne"
 publishedDateTime: 2020-05-04T13:13:00Z
-webUrl: "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy"
+webUrl: "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy?date=050420&sm=twitter"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 675
     title: "Your Organization Needs a Proprietary Data Strategy"
 
-secured: "Kp6XnGKLdaq28c2olRlyhxKMtBoMNtD8QapeL2b4TQuxXFsuC7sjrjXbwkcmnibJ7HZuLpWxTOwtH+8aaGzXXhZdnHH/sS5BMyl6wYSM3tPd8FM4YixP6JfLmBucQsue6r9i3p6evE80j2eIzMQeRNMiOJBHy8IZr7YzBcTuUqQX3L5qE32blrOEkEnWUqUEVBVZH9noD6PYcX4aOaOmZKHNKJVMu7nI6WSCNBm2Z01JmZGBw0bRX/bX8JlMSTnR5Mncn78aoh++Q4ZyyGE4IADNOSSSfZYUGRJbn5ZZLGNPP7LBWWqoSkK9whbVrNmAnxq15cQS66/m5ba1Kk2AgzKNPm3aNXbWVsn3qmWPa4RqBLAF7tmud4NBT3sH3VSKhN3Yv8ZOlCkenXCUUT8HsDK5HaziKhoM6v7UeF/ixiTh7bNE61akkD5RAvXBlGmzL/ujBf1i334KPfcR6S4/YF9a/8jS0+eU6phrJWMkfpc=;fbT0FWdgtsLva7YtNAVdjg=="
+secured: "6xdxaFxe1gCk6N29W+fAFR6DU7XibPcJgtH6xhL1+gWD6hI7CW8pIyBlwQG/Szx15wo9g2WFcrVU8guhfj077bCwUy3lOK7X2BHYdeones/LVgPaZZSb5kK3ffk4G7gozAwVn9exZZsImnrUuC0hT/Q9pR+UFEcdYvihkDJjU/d6hCsd/aDi9Ckn8go73X79MeRCL4XMtCvxZspoqN/cFqoKb5pYlWRXWNXuFe7fycRzZ/znPy/dUvBLBu/lgiGhqcNaGbC5BEmQwYNDw/3Kv4W62/OmtNXwImcse0JnIdjw6Llw9XQFy8QyYjh/fA9g;o5aMxwYfeUXx9K1kB8Qk9A=="
 ---
 

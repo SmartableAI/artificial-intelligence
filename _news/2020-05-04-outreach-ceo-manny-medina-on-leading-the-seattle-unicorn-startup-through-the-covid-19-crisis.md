@@ -28,6 +28,6 @@ images:
     height: 420
     title: "Outreach CEO Manny Medina on leading the Seattle unicorn startup through the COVID-19 crisis"
 
-secured: "DDZ+8ndjJvCteExHxfJ2LvnZVorurXweSnwizhkihHdHG11gUKqM9OkSwJtgsXir/qo2CB//747gm/Q2xgzDiVgvt1vx768I4plyQBKmPo2A4/kBGNWenBb7oV0roYmXd9grwp2dkkHQ7dNpZW+Z688mNLCrFQ6FHK/nZ6T8bVPeQRmJQQ8AMsZah5lSaKzK0J4fALU1bhMXWCDzXk6J8yN2IGd7XZ85iR7YgkBrfj5zqo8r1buFCYqibToYFdRfhxUwJsXdHNHzwISGy68pNU8J9pa0XBFOaXdWgO5cuXUBONjBkBRgeLVFZ2SVtmea;4PyP+32ymUlvJKoOtauWnQ=="
+secured: "ZRfOnsC/GrJLBY7lo4Kmun7tolD0Ha/X/WeFCSq1TGJxg+2fFLPNjFrAac4I4y7iCeCpzsupFx6LPMWi/uaR66QfBXCYLQWKj26NDt1cwrLUbxe6n36QRI0yNaw8kRKJQ/k0mAn2DuNQD4IzNH3HbxEaCU6IwRXUbpGuBj/GAQqOwSnO1N8hb6/9GURew0JW4XThCANbTlii4pwr2MIPkygyUw1mOlSs5J/bero6/F7unkxD1lRgQ9aLI/wfRvDRcyAgdC3Wx5bIQS5x58Uc//ngt24L4npsYCBTvTZEjoSvBx+A5Dx5E7tWTeleKnxm+Cp5yCjfkc4gU5dfFL+nQlR9743BfxT+fWmSwdU+y+Cl7TVX5E0FeICK0alhxulWksnxjjOJGPp60Mdj32ikNeg8Z7s/sSj85Skp2EiKGAOYgwlsgJHpgROgrC5lI4Ixo8LJ07MtbkJNuBOmlntJZGt0RpDm1qdkrw7ixBdpX+8=;FiFRvP4YsyY87j+n5Zh0jQ=="
 ---
 

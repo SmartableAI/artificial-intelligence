@@ -29,6 +29,6 @@ images:
     height: 675
     title: "COVID-19: How universities made the pivot to e-learning"
 
-secured: "xCa+1c0IXU/Ooo3AkmZmIxtNo48nMD6Q7LOcrTV4I/Kl4C9zPSrJKwNDkuiPp4SImgWnJkU8oglIMi2P312Dwnj1N1gvrz6t/AUGH+RQsSzB0aNzY1sxFrYsBGzMA/ZLG6tN4pupDsX3cuirXntNQHK4JthGAp90alpWzlx/U6KFCVoP0t4ozyDxg8AsGWTPZl5r3+QsJjDE0SGmOibhfCdtlRFzOxoXe5ar/LbQyqcBTBf0FX1IQeCCiNwb0e8X9pjF14RQNTLI3895vfD5U+lGULI5uBk5HcUv+SnxnPUnD6DpNaKDN/+5qp3BvR4F;0+nWsRvlj3J2mfILSOzsvA=="
+secured: "S/ilZIlMnpRTyAOo+lZ3SlQfaAQcx5Hcrj/sWEvQoVykIj1oUHhu4DHmHAnfKPw79DiWWjdFIPBp9r7uws1zUhQFtrjqfl6AtwE9ZtSB1Rmd+E5ETRGsjY1UiccCp8eFDmGzXbLIIPnr0bAuMioY+XhB97bG0IifodpFi9va1yUrLmv2GhMpfE5JOmVyEaWRKz3wLRZBw87/zV1pdvjBmYhpmNqKwPERDg/CDTX9jzr+Gkw9xxZsT2hd8MAWn0bPrQDeFySnAlblRsRPiEm9An2irpzxjmWp+yyuTySxvW68/FJ9RDKSjc/Q2YgLVwQkRi85tsnEC+fjZ5XlBg0PtiZqZ5L661QBWYzwfC5jd+WcH/sRqESrMptSQPbVhr2Cz+i6/5TPFsBep1xjgEe/yLZTY+Udt7B5FKiMfe1KBnKQHeOX+airalJufSU9vSyR9s0Uupl07Z3IefekZgpP4y/1pex4kYfTnVEwRc8XCYA=;h8v8DC8xWsUnJpr8dx63Jw=="
 ---
 
