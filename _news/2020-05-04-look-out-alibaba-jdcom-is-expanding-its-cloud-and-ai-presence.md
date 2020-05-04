@@ -2,8 +2,8 @@
 category: news
 title: "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence"
 excerpt: "JD.com , China's largest direct retailer and second-largest e-commerce company, recently partnered with Cloudflare to strengthen its cloud and AI business. Cloudflare, which secur"
-publishedDateTime: 2020-05-04T12:52:00Z
-webUrl: "https://www.fool.com/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx"
+publishedDateTime: 2020-05-04T16:48:00Z
+webUrl: "https://www.fool.com/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx?source=eptcnnlnk0000002"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence"
 
-secured: "VudQPSFhyhn9KXvtBnJdarQuNWlI9yllDfB6DOr1TrVYh9qgQHeqDypqgkvBmD33A6bkvfK5pm9vZy+Oam3YUQdazp828A1BJ0TcsctqD8j728eJPO6gh2dWtDUHJZ7xpWiGz0+7xAB4Qj37MRfdZI7yUvipfXdimUJhEp3XcyMl4g2mHUtxj5kg0Wwj6IV3jfsYEw+2wO4/6TImmR/xMQRxupspxNBY5TgZlOJj8A0jmGomNhJU0M8ymtpMO0QAxQXuLsAO+BQxwpQx/1R/PSo4RpJxtV2VlUqE5Nqyopufyv61dWUmWXvrDKXx2MfefECJOeJP+GmUslti4xeFNdfPrJfAe+hw9OasaJRm35jJmsS5rIW/hXjXBPh1hCF9wMcLCcdrM3fq9LHvYRM6sXsci39ReI8n0FqAomc6XefCOMqOxzSZG3XRcFb25bntTS5SYIJytcfb+rqZPKoqJx8/wMar7MP436vKcFWDBqI=;pVTqMcy29AK6wU+I+jR3EA=="
+secured: "mRuFbl6oRWNmlFLuu0y0t8xGUSNjJ2iGOP66BGpuID8JlIkUGcLYGHpSTZh6FFyJAzu7wIrn9sBYtJTMPzKlvIRW+fT4ILO1sL1KBEMeAWrb05CWZVEG5WVAkpZqUlKk7L3vqBlwXtHnCS/ae9pSppNrBBH7BgPTilp2JzmB3P0H+GNHzsmG0Piik8J0gOhZtK63BF2UcamGT2+ILKTDnIyyZ7N5y+Dkbq4qG1QINXdoM/yGf9EJE9jo/Vju6ec3M8j0Bv8tPYZy3koGDkXCA4DeY+IAwd+i+d3T6fXeuElxuoEzHuzLkHQCZYYXsMha;7zj9KLHB2SIfMuSX+xaI4A=="
 ---
 

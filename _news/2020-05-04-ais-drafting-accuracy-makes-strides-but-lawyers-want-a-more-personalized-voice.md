@@ -22,6 +22,6 @@ images:
     height: 372
     title: "AI's Drafting Accuracy Makes Strides, but Lawyers Want a More Personalized Voice"
 
-secured: "UHJKDcpKV+MtVy2VYhVp+w/7CYZc94sx/0cwZdN19FUSx2BngrHNvDo4ZF67EZKO0G9nP7gYo01xIk3qiki439uoUS0vWRLHEqAuD4/9bSbynkIBJscaMgYhsKWkJAQVP/1cnHU+N4uxd9SJHkT8a/Diob+5W1RWukEwufjPzM8dg+jcln+8RaKTwGH75ji+jLx5m+USyxrYU7tWEiefy6BmOmTGuo98qNkIHeqSF7/6mMJfz1wvUkLLcEcxbb+K/ZeML+vriAKxuM4Ohk6CQordGBDXSnUG1i0JeRHQkwpq35ptnwX2AUANzBqMEHjk;mxNwuI6a+rSbox7qWzjOgA=="
+secured: "JzQWy+2nnD5M0/VNHgMBw1h8Cq9WORbYlazK6JGKu3Hu0rqWbyBjPS7mM4OJcfc8jH9N2Mp2+ogjepJMoORJxSfhd8/K+AVlZMUcsemPssolqRXqnBir3u0LlhNerETPJWKnHPPxFXCmqczLluNwJDuPfTd8VpkE0q82CBMV5kJl0/XF7BkErd3cWMurPcTDz7YoozQTN/MYFpBhUykhwwTA4vdQKP65z6YDAY+Rn2iJ02xSiBmLX52v+INt+xaWoVvob/jF2VYKhukxX+T+xm+dJbLD0TH6Q69AtegQB1EJbZGMY8wsrWWKQxsgXFhGExoEnqdasALzbMnXp1GBn01CUzOPhNDh2l+tmc5md1jMmNyGYJcPLwRMGzp0hcNxDNj1GYdNgrOsuNVulriQTSSqqhHAMTTERX7CHFc7H2QlcPO5dZUGaVlNyVSJrrcAvi7xIH35A3QmbEXEoxk6fZmktY8/GSfCzHgEqzHKv8Q=;SlCvr/uzOKS7TpAfHsnyVA=="
 ---
 
