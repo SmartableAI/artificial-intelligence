@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-04T10:38:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-overview-industry-trends-and-growing-opportunities-till-2026-2020-05-04"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -35,7 +35,33 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global AI in Sports Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026"
+    excerpt: "AI in Sports Market 2020 Wiseguyreports.Com Adds \"AI in Sports - Global Market Growth, Opportunities, Analysis of Top"
+    publishedDateTime: 2020-05-04T11:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-sports-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026-2020-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "AI in Transportation Market: Analysis: By Key Players, Applications, Growth Trends, Region & Segment Forecast To 2026"
+    excerpt: "The demand within the global market for AI in transportation has been rising on account of advancements in the field of automation technologies. Artificial intelligence has become one of the most sought-after technologies across the globe which has given an impetus to the growth of the global market for AI in transportation."
+    publishedDateTime: 2020-05-04T11:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-transportation-market-analysis-by-key-players-applications-growth-trends-region-segment-forecast-to-2026-2020-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

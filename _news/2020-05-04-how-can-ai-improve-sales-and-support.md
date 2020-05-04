@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/05/04/how-can-ai-im
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/05/04/how-can-ai-improve-sales-and-support/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/04/how-can-ai-improve-sales-and-support/amp/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -21,7 +21,14 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
-secured: "ILgUPUi845k5G3PwIvLSuZhr32rcixKbbMc967Isb8HUzZZkQritctP4xhJPyvKgAnE0G8pqvjvvshQR7QiH387nu/GjIUvmvVUNHB+7Laji1sKa4AGXzuu5zQF898dFwclAX0y/A/i0gwFjl6IgMqr6VXCl2NRMcUELGjtoBn8W65RBbwgwsWAhNX2o7hQULkDRRy9EWaLIGDeGcmqdZHxLZxkiDQZw7WgCmaL7CUoF6K4s2FsVWjPNnw7ffZvnQ4aL+SlsHk7OI+pyw39FuxfkvJIMimjZrmyogP4CIsOXpfKCzZ/FweK5aPpmQQaMXnkroMN24+N3cV89mUp7YnJSVm1Xn3/u2NIXe5zvGY+W9Ym468ZHQNzG5Dkhe5aBTnzYLVsSr/yw/4cr2TRl2OYfcVqCuCNmr/Ikwcfgns+TKPHj+XITO9Y8LoSMTCxz5zEAQIE1Sbyc5RaNFWnn7J/FGFqZLQQG2+I+3bHKZXg=;1aV83cNXBAadLzZKYNu3+g=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-77.jpg"
+    width: 640
+    height: 640
+    title: "How Can AI Improve Sales And Support?"
+
+secured: "v7yf+jO7sQkms7dDNwNOUMmrv5q9s0xYyDbbXhNOa/4JGqxB7IlJlWHIkPscj8AlEOdfQiV4l3bEoHWbvtBh145XnOINJVoEUVMwJoYm4qYkNDTaDnT1Ys0hXd6GEzt36lNlguCrgQ0HkkNIeptwspvAfPrx8+YOdKwBsrwcw2hztFSSP/eEKZk3xqqc/8EvD9QXF+UZMFqlrgkE1bI4ITcVtq4MhO5tvXz8QIK+OjImx0VKDbKDh2UsvQHMFRCT5w8GsEeLEwSQ1kG42ThM8rSgztasuoobknXgi4wx/6ur3infVReuEPPVV8GdjUzt;VHB7QvAThr/ieb6lH+ut8g=="
 ---
 
