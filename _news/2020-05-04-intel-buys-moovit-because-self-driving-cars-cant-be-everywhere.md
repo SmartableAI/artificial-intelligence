@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/intel-buys-moovit-because-self-driving-car
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 1613
         height: 913
 
-secured: "Rj91/ZRAwBn/lV+U4yVQkCm9x9062ycgCXXi2cLqrJV0Jb9UAxMpjdDi9ER+i7tShiBSv6raJsBK7TxcfKfkAZMGZ/pdIg6OCHCxyb3OWDxocfAxkkEuStYKze68yOxxUexjCMpFOL3zFbKqgseGyRYG1h2TqceKWrCubkULWCqyH/xedfWU4oH31y5BIbNPnc8cQ4OdmFhlWLOySgCNtmX32hqoKPkdt4qhF3AGiBehFcUwpoxzQQArc+3EiflQqmZRd+3XSgyw4aApZJfMIkVOTcOQwc22sZ+H+doAp8f51OTAdVFyqVsS0DImyQF1;uT208p10LbRWi9TCSm+Ghg=="
+secured: "U/T7+Zk8/p1gy1P7XfJT2WOANqocArEAzBaJQiLQEtKHxkRudbBrnoM2Fux7fa6LYsytDbzTVMGxm6sxLwNbOv3XkNr11mmCTMrmD/QHkKBcPvTYyu3Ayh/Mel/wk/NhKPjiSiDCr60vGfCiFtrh+BxndKgbDG+1/l67DJZJYfqK0D4TR482p2DVrrO/98oSPnvvc/n1MoLXSAbrRizghzch39fg9jNUKfUSw945jCZSzHBloLv61j/+zScIAvtYJXZqHPt/v6jSphVFthfx7Pwpf/ZF2JFrndqq87wtQeEwJ5lpPBFQAwJaTR4QoTXY8rvB+fbnj51JP2ujkvMhTMtVXtgv92bRMwUEaTcGLjwvj1maeW6TqvJZ+Bv04KjQLGLq131LzK+NvnuB7Q2L1y+LDjhbWRzDy75r1n5ZhleR8H8GGxWci/hF20EmXyecB/Nwy8pG5CHVLse7HfbQseFrrs52txDYBQG86s8Nxcc=;IIWrpXupwobVi/yUn+48PQ=="
 ---
 

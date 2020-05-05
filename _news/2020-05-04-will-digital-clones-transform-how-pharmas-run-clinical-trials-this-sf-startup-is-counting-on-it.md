@@ -24,6 +24,6 @@ images:
     height: 399
     title: "Will digital clones transform how pharmas run clinical trials? This S.F. startup is counting on it"
 
-secured: "lTU5Cam3ZBY4Zu6iEvaKFrfsXF5FiaViKV5l5fu7uDNN3yZHd9QLYt6QGw1glaMLq05iUce55g1KBrptfclHULTx5bwURpI23QWri1a723isfAxXdwBw2jt+jSW3jL5Q6ScwqdLzyJb24PrBUa/Z1nwgVz5h2U2uhpZyhzr5fAmzBXd05NiPrmKtOLeBp7bSOsp+qii9cl6bPy4zMH/18r3sud09dpHg7ofQSSIDRbitYfjbjRAx/kAay738Vrk/Z7fw4ftdbd9vE3im+fUl5mTuyBWADewnc8Ir2SMbexHdRRdC6+eJZPO7R5Ahndlg;OMKJvBwCvvb1tuPzwcJWrA=="
+secured: "2fWh6Cb+5DyAwAS+Htprqa/FxBfjisWVPdhdFLg3qT54YIHSYNpql/F9sN2qyqjfrc1FbJyFptOy8SfKk3+1k5pJVWZdHjD0iTPkydvp4I4MbMBw0qo+JXOb4b2ZiUxq3I+b01yzZfIKnpWSmEkdEAQ/t2eAercM9o1HAa/hoEfyN5DbrfFEUibnY/6/nMxaVm/j85o54mnXnOugpWyXeVZ4T6/R6P4FMra7JJ0w+qgFC3tX3JrK41SHzoV36h71+OcjlEDnvv8X0cycCqCduwGKbFq6kA+7IrbRpcVR681hDxljgXLpfDXQhGnC5SccShAlxMpguBN3u2q2ZWUoQpcgSRKn3VsjJZ4RLju8qAkEUb9zQUEGXhvy+e0B6+i7rmA8DCWcGjHdzZX/Sq80FhPdjZWxbT2vIZmbZoNyIK8i+oaLuABscjHuqx8C9FqH13mXWUBNqMf28xjCkOAG7uTrW0H5jNlKzo1vNSG2K/8=;YUJZXhtDR88TOqCY0QBcJg=="
 ---
 
