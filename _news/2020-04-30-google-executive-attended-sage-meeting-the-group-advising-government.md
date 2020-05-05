@@ -41,21 +41,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/04/30/21/27857536-0-image-a-54_1588278136392.jpg"
         width: 636
         height: 382
-  - title: "Top Google AI expert attended Sage meeting of Government scientific advisers about coronavirus"
-    excerpt: "Demis Hassabis, the founder and chief executive of the tech giant's DeepMind operation, sat in on a meeting of Scientific Advisory Group for Emergencies (Sage)."
-    publishedDateTime: 2020-04-30T15:32:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8274333/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8274333/amp/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8274333/amp/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 47
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/04/30/15/27846360-0-image-a-12_1588258192544.jpg"
-        width: 636
-        height: 382
 
 secured: "KBsLtvGjHAeQddD2VEeNx6m5vG7S4cBc89WUSxjcHufUQxHNQwAV+CaUaKtiVhyznZ5WUBbr2vsNGLglxr1zH8d6dV8qh8aB6n1caTZ3CRnrF2r59fTC/BQt3Z8rkhdsbhDMlGFVc4YQOl3lxBEu0NH0CI9JonyxLPFvFzl3leuDbKTbzQ1wg8UadxcTshVvalqv2Ha6mnEEmTyZgF+RSExXkz0k1d/99jtiUZgH821FCSF0g6OLm6JLWarTt5LXcTibviCMprl/RzhlJzJFzHIrU7cCQBWkPSkid8n9V9yuNt8An4323gGN26TKjeNDe8dVumNK4ewbRVPEcpc7bDbkaC+8B1XezPGDUJFB0vWF0eMmQelWYEsxYAWCnMiIlknGC3LEG9fV/hEI3Jpt+fOqUcghRxTQFePf3V02BTGKLj1A2ZkX6WuBeASy+yorethBbkcJPL3e+E4Zdtj0WCat+pgBZlEgY9QcPO7IuB0=;amKP3Z+QsTLZSSe9tLi6EQ=="
 ---
