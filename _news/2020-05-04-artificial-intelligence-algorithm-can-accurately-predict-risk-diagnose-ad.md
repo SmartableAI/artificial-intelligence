@@ -2,26 +2,20 @@
 category: news
 title: "Artificial intelligence algorithm can accurately predict risk, diagnose AD"
 excerpt: "Researchers have developed a computer algorithm based on Artificial Intelligence (AI) that can accurately predict the risk for and diagnose Alzheimer's disease using a combination of brain magnetic resonance imaging (MRI),"
-publishedDateTime: 2020-05-04T16:12:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-05/buso-aia050420.php"
+publishedDateTime: 2020-05-04T16:57:00Z
+webUrl: "https://medicalxpress.com/news/2020-05-artificial-intelligence-algorithm-accurately-ad.html"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-    width: 900
-    height: 300
-    title: "Artificial intelligence algorithm can accurately predict risk, diagnose AD"
-
-secured: "4JA40b6Ylc66SUu4fgQJPm+MyE6Pcp+bTsA4/yNSr4voMmbpd2i+SqBVVQah6plWf5WHVlohr5+jFKrgxIWpgi0t2ZJeoAzwzaY2P6EEpImliHalrFwYcvfik/hw/0a49x5VEmvuGfBL/MOhSLuDYh8YO2WxELV1JzVNHMjaIaPk+zslnS+wN6ySHfeJE15JcpfDhS3R3r3JEpxVRyKLPAthgtUE3+z+AYGwsCG0jUl2ej9MDVFDZsHhVG1jiHMioRixl04WsHXCMESdu12Zn7t41ENvHZ4e5D1z0PcMIo+uLEwJ7gszqt/2OmX+8fNE;OjrXHuOTGgx+bAZN1O9R2g=="
+secured: "tZr0/5UwQk1yxhKSkiQnvBqlLguT0kbllaSWdY/MnHKCEKGUoHtzqIXmjVMEay9bsuk3imyubeQerAazk2yYVIU/g9SPRq0X4gKH93Cb1H/drCkSsm7+kXgwBdLLZquNQug7gqyM1I6xVdmYhWKrqHUCT4NT7lfpf49dH1eL6JszbVV2tysWvrLXNTNw1xfaf9IjbbiEJxzdK03zGf/jt7ZfcDKx1BgbCWYNT3aNEYOyLkIfmwnEEfW6eYaL9Spv+QlFkSIDRH6N4K7oPqX2acZzgMDSWR6w0y+CA8gTcP8Pz4SC4RgwXMp0ZckqoM6QanufObCYwLqtHAbMCgMo54sW4MQg7mPBfwJ1T9AmBKlDhbuZWKIqnW23hLnC0oqtRJODdRxuWIL7sK//0Tvj/L8VM0X+KfcPyOZm+R+dhyIDOqjHmsFGgdoDB1EARQh9WqVlU5MrewtYG/OsFFuzwjaXBCWuPJN1ZEdwQdYx+/4=;2mbnhVCx43qxmPAjcGPNiA=="
 ---
 

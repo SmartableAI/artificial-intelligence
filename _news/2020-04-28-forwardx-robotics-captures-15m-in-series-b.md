@@ -1,15 +1,12 @@
 ---
 category: news
 title: "ForwardX Robotics captures $15M in Series B"
-excerpt: "The Beijing provider of intelligent warehousing robots – and maker of the famous, AI-powered suitcase – continues its North American expansion."
+excerpt: "The Beijing provider of intelligent warehousing robots – and maker of a famous, AI-powered suitcase – continues its North American expansion."
 publishedDateTime: 2020-04-28T17:03:00Z
-webUrl: "https://www.freightwaves.com/news/forwardrobotics-raises-15m"
-ampWebUrl: "https://www.freightwaves.com/news/forwardrobotics-raises-15m/amp"
-cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/forwardrobotics-raises-15m/amp"
+webUrl: "https://www.freightwaves.com/news/forwardrobotics-raises-%2415m"
+ampWebUrl: "https://www.freightwaves.com/news/forwardrobotics-raises-%2415m/amp"
+cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/forwardrobotics-raises-%2415m/amp"
 type: article
-quality: 74
-heat: 74
-published: true
 
 provider:
   name: freightwaves.com
@@ -25,6 +22,6 @@ images:
     height: 674
     title: "ForwardX Robotics captures $15M in Series B"
 
-secured: "PODz39wi1tASuUIWVmOIuRj0l8dx7DMOPcH1bC1J2w4KvGclnf0UVdEWyuVAq2xDLW/rwgufdilmdz0aXenA2QcxW2lxUI41eg9DqNEwiixPTDTRXRkiQvB+I+KqTHbYUEwahW3gEOx6c1eNdNaPdLwvM1wPdsNihOOWDtklMKrQGFvj0X9tGdA2Y+XJAOdCO4tOTMrRW3zswiq7ORF+ZhFD2IBeRj8rtO/1HND6MtGxsXhqDsyebf3K6dWAX87kNZn4CxRGAXulVIQVae3DfZaS8vqCrlli6A1Fy9uGmcicVeutThAXldLV5hggo9e3iJUAvMBz89rc7DMv1k6VfGlnZwR/Ou0IamaAFZQkhQZ4kb9K2JsmXwDI/QMOgAmgkQ3eO2rvnyUsWd8KyfU1iwppFH4V5eZw04M45ORZXDCQIhyksfIK6iZrW/5V7/RhqVNpOtid3ddU0IevBvZtktI2hdJGy+JNHNS37knLpnE=;MF4IXbE2bZ6WDAHOkCaHNA=="
+secured: "8RBuhXf0TbIE862Hpi6NqFwIs1jxxxkQO5JEWsFbRtjsNG2KVNCLUedr7R8wAvvk5Ngwii0AfxQVJHlj7o4M7MQw77iZkvmxdFzB5jRc6dxjWC2fkwPmwL7+F1hC2xnJuqXZcCMmCQDihvb2Kh57B8PuvzumP2dsPROzwA5E8bpyIg8QCUYn+fDa4KMv2+tLdo4YFjbNeJu3XJMMkgMZVE4YzCx1NeBhM+qaRXbPhCp1+Wisb3S3Q5Cc+VobHOwj6YdWK/vdNVWexIIuis25J7Kv977nYA5tmqNf1kiUHmtxmd6v2+1gpr3cDE58vIP0;CW0Z0O5GILpI1Fqp4NUuOQ=="
 ---
 

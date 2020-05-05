@@ -1,9 +1,9 @@
 ---
 category: news
 title: "The impact of artificial intelligence on intelligence analysis"
-excerpt: "In the last decade, artificial intelligence (AI) has progressed from near-science fiction to common reality across a range of business applications. In intelligence analysis, AI is already being deployed to label imagery and sort through vast troves of ..."
-publishedDateTime: 2020-05-04T19:30:00Z
-webUrl: "https://www.reuters.com/article/idUSWAOAMF42VPFX204H"
+excerpt: "In the last decade, artificial intelligence (AI) has progressed from near-science fiction to common reality across a range of business applications. In intelligence analysis, AI is already being deployed to label imagery and sort through vast troves of data,"
+publishedDateTime: 2020-05-04T21:52:00Z
+webUrl: "https://www.reuters.com/sponsored/article/future-of-intelligence-analysis"
 type: article
 quality: 67
 heat: 67
@@ -26,6 +26,6 @@ images:
     height: 630
     title: "The impact of artificial intelligence on intelligence analysis"
 
-secured: "D4o9WFuQlbxxAXKCbWkOs4NLNf2ESWiYHVo1aodvE5GhjyeBqwaFxF7PNRLzoUEWqYKFftGvNBvMLDQRVG6LP9lcaSuJcBayJv0BIlsS7sEXIrWX442x9qOWgMDmGx91dLwfusCZsr3wEKMJhVqogSz7Q4BR5wcroPQp6C2bkww8JCsDKGljtzcR8nUK5gn1Nuv+BJSNYn7gsLid1lqitRdCcKrekGKfEhia697CwbM3aSuc3DQhosFhw+6RIh2K3eSZ/LrsYdQ0cOTMPak6haZb+YZBjw8F9GmnZnN9DfrJ97ETE5UvrKHUCNbXO6BL;amM8OsUe260AewH3cY3tCQ=="
+secured: "ZeLIoWtlNDq8SRYmhJRbjxhTLYXIMiKFxCtXILMUC9UTwjX7CXFodkk43fnTDZnwjcBlLfypA+40zOQfe01M22PniOeAYffJWwu5DCAFKeL+zmcdlhgBzqhaQEPc7GWgquzo0hu+uP9+r5p2NYFjdH7wmBbGG10cJbux8EtQJwAez6JRisZ41VrgB5W0YNYszdhKfel5ezN9PeCibeqAiK31OIWxajVbwYgQzQbKOZelx5mRa5fecVECODlFvqrwC8tOzSqxY2gL0EeCiiXSbDH+fMeTpo0BNtImAhLZPLfNWWmyn4Fro8vzY/N/1j8g;6Yqsud5eZUoOv6by3LTspw=="
 ---
 
