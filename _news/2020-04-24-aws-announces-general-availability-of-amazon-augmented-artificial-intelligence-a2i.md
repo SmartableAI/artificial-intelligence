@@ -1,29 +1,25 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or ..."
-publishedDateTime: 2020-04-24T14:17:00Z
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i-2020-04-24"
+excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
+publishedDateTime: 2020-04-24T17:26:00Z
+webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
     width: 1200
-    height: 630
+    height: 627
     title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
 
-secured: "WKNKkaPxfHTS5fezTD2Y4T+3fWiMndkn0Sn9LZ/Ytdp74PL8k1rr6z1PXAln/5rUttsb4lbzrptJsX/u4MYGYzeIL5wxeuYONIf5shvlMi3zLwFmwSARqMI9b6Estf8zOTtUyunUWSGOWjgBhc9VOZfXLVIp8VSSpILRyih0nSR58YjM84hrc5//+jBQcuFNobrzI+rI1iF57pxJ7zP4/4ysb36qflcsWOuq2ry9RK8aNNVc5Rdhc6W/RkNrQsfaOiAUD7YZnd4n4b6XLwkAiNJ7PmDMo79WmexsOiqcLe/+Qa7iA1cN3DdkF9T0fSIs;/UZ8AnB3y0pQeBqMpV8frQ=="
+secured: "wfoDMMdK7lujkqXxqdBuEN7Pi88hWMEsp+iIXFmI1jPJcHoAhsMj2RuP8ZP2GOvx4fexMkR3fP4WuaHekF+GNDlYr3WQ+fKw5HOLrqNn+Bpv59Yca2E4szUpNZGG5Erc7U0t2SU5EkXC9KXXRnTIgal37jLFwlYB1z40F7X4KpQF4TgWp9DSF3k1QMOsvZrKyWjE+GBtmXI9XXRlRGDo1OjfczLcxahPV1KdIbZH6kGEjvrMGMXy9+SI6rEebqSYQB+EoK7gQ/wgW+wlq9eHfxf+rYgqxB6yuCb8St8Ir7fW5/NzOJ0QFPW0ffgDOVWN;tnuUrwIwyQjEOl5MAJ3EkA=="
 ---
 

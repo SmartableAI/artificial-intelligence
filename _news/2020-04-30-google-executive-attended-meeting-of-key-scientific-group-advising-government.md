@@ -5,9 +5,6 @@ excerpt: "Demis Hassabis is the co–founder of DeepMind, Google’s London-base
 publishedDateTime: 2020-04-30T14:35:00Z
 webUrl: "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
 type: article
-quality: 21
-heat: -1
-published: false
 
 provider:
   name: Telegraph & Argus
@@ -23,53 +20,6 @@ images:
     height: 1445
     title: "Google executive attended meeting of key scientific group advising Government"
 
-related:
-  - title: "Anger as Google artificial intelligence expert is invited to secretive 'Sage' meeting"
-    excerpt: "Demis Hassabis, founder and CEO of the tech giant's DeepMind operation, sat in on a meeting of the Government's Scientific Advisory Group for Emergencies on March 18."
-    publishedDateTime: 2020-04-30T20:31:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8275395/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8275395/amp/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8275395/amp/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 52
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/04/30/21/27857536-0-image-a-54_1588278136392.jpg"
-        width: 636
-        height: 382
-  - title: "Top Google AI expert attended Sage meeting of Government scientific advisers about coronavirus"
-    excerpt: "Demis Hassabis, the founder and chief executive of the tech giant's DeepMind operation, sat in on a meeting of Scientific Advisory Group for Emergencies (Sage)."
-    publishedDateTime: 2020-04-30T15:32:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8274333/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8274333/amp/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8274333/amp/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 47
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/04/30/15/27846360-0-image-a-12_1588258192544.jpg"
-        width: 636
-        height: 382
-  - title: "Google executive attended Sage meeting the group advising Government"
-    excerpt: "The London Economic |Demis Hassabis, co–founder of Google’s DeepMind division, was present for a meeting on March 18.| News"
-    publishedDateTime: 2020-04-30T17:33:00Z
-    webUrl: "https://www.thelondoneconomic.com/news/google-executive-attended-sage-meeting-the-group-advising-government/30/04/"
-    ampWebUrl: "https://www.thelondoneconomic.com/news/google-executive-attended-sage-meeting-the-group-advising-government/30/04/amp/"
-    cdnAmpWebUrl: "https://www-thelondoneconomic-com.cdn.ampproject.org/c/s/www.thelondoneconomic.com/news/google-executive-attended-sage-meeting-the-group-advising-government/30/04/amp/"
-    type: article
-    provider:
-      name: thelondoneconomic.com
-      domain: thelondoneconomic.com
-    quality: 44
-    images:
-      - url: "https://storage.googleapis.com/cdn.thelondoneconomic.com/wp-content/uploads/2020/04/6c505a29-google-e1588267350243.jpg"
-        width: 1000
-        height: 835
-
-secured: "ZnHNJLvvXaRWWZkDpG0cS0mlfUJuXqxnRsGiFbGcn+Yjx/9fju/eWV/AK1q7uB73wWf9Vhkw0tJjVPZY5RQw4uF//WuHi77HE7GRdzY8UsFlPhKlFJl6ZM6vBJdQhX1EmeCibtCXthFzKTcWLTbM0+MD/LPMys1XnqF2x090D91Zvt/U9NmmwoeLGJAitpX1XmpuSKpaGF8xDrlHnx+NF8FJm9lu6Y272UFG/28Mcm1BpeEs+9iD6M0bkitDELnjZyXOhwdDFEMSayIOIY6Hx34xI/Sg92aQqiNgbb80VhUlKifZLZnHK9shCrJVHKWE;Hu67Cb5VRnfI4mvt5akmBQ=="
+secured: "4eLtpSxUqiKxqsJPbNqNNwERs7uwTgBlG1/doh1wljywdMLGqZ3E/F/UHLUUWicTxj7ai5ITPgR12VSjaWYoDEZF+RBwzhFMDlydC5bhEMoHeycrV4zWg684FhLGq0aQpPRCksYTgie6CNidR+zzmcW/VAm0VJolXUIYeWfszuMmwZbVgkG6NoVL+1UZdWw719IvHLchbtzD5HwSuZeg6zfWbF1jlE/2KKqjJadEE3JJj3Lo6iq2phC1j2JUy0Duynmb+BGkvHAc+9HXwvgJ/vlnX/m3tYvTesqGJDOphzxZGzqeV71UenCF5DgbLqrA;9DPl+G1tI2ZU6IK+aQPJ8g=="
 ---
 

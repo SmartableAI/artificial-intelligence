@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Outperforms Human Intel Analysts In This One Key Area"
 excerpt: "An experiment from the Defense Intelligence Agency shows that AI and humans have different risk tolerances when data is scarce."
 publishedDateTime: 2020-04-30T17:25:00Z
-webUrl: "https://www.govexec.com/technology/2020/04/artificial-intelligence-outperforms-human-intel-analysts-one-key-area/165030/?oref=ge-category-lander-river"
+webUrl: "https://www.govexec.com/technology/2020/04/artificial-intelligence-outperforms-human-intel-analysts-one-key-area/165030/?oref=ge-rail-most-popular-static"
 type: article
 quality: 34
 heat: -1
@@ -37,6 +37,6 @@ related:
         width: 400
         height: 400
 
-secured: "eIlV0IhslAT1BpNLl6f6lo4K2D0iU5QCP3oGQQLa0C1GSCO5N45HB94/dUMW+FatREqUE/cmsOwXx1jw9yT4RBcHSY5KtAnJxdz9Rlp6G+LijQhDbpYc65QPoBlX+rWrrahNRkk9ydCcqad98S1VUi2scvVsfDWdnV7BiWQ9azgKYY/bzoIjHr1mgNSuh+7KvW9qn+COrF59GBH+Zy5GOWR2/2/eEU2W8nPzrvFJjQpTsGdvwVUyQTpm11Z62SDtNK/H7pmp7nDGS6YCOT6QZGClk82sOyJXjy9miyC4s/+j2ocBIFrAkd1IW7GW+2Xo+ByPlmOSN6ZMl/u3zolxIWIr/Qbo/rz+Dqe7LT+8SWS5jKPMuZV6sfSjv896za8lmTASaKpBOzUVXiEs6fHikR71Vf3k6Urg+UZHr8zxQaLP++rYT5oztl+9GyPvB2aHxedRWTkLM95WTlEoj4j2MykeSAzoaTVLfUnI6+KGSno=;UDNDWMrUPWYslnYVEuXEAg=="
+secured: "cVZvspRt6UokmW4f/BID+pLyDxkKqjd4YHeHS9H/j5s9vjYCv73kMeKO7SVWICBQwEzSxlqhL4D/hannD3pRz1Utg6tIW3V6Rrqvxfcmw/NI2eaoabjA6/2g2m/7zg7a1YnZrpsMy6inVKRlgtj8gwOWSzNLX8rgiA0d66EuhzLOE24F0RJx2tE0uOKt5+Mc3yzA9Z1DL+2STGblpIrJy1mQwiQdkBcqLfn3mI5TRPfMf3LPpQ/0PJ+TOIWqulzQZqCSSfO0DNKaWOSIIqZ72byWwB1uKkGc4b6v+aArB6tDAaO9rt/3cm8845oijLAn;MMeykv175CXyuTX7toF7xg=="
 ---
 

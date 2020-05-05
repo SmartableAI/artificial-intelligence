@@ -29,6 +29,6 @@ images:
     height: 682
     title: "IBM and Red Hat expand their telco, edge and AI enterprise offerings"
 
-secured: "qXg0CRPH+tyc/eYB1xLylgVEsvjTmB9v2oIQMC0v0oIZVlVknJ+FuMpokEwZoqz6PRHdCmjXZpS2iP2EYhTOZCONz471ycs9bFp4E/mqjESfyCEU3tLuRBdyh1U00PJ3n9+rBSyVHbE3VV3VzkDTPDwLpdGZyO7RbpusC1Xqr5NoIrNOaDjmXgYt4J+jsBc5E8GclfPoni2AbjP6yYY2ziC/AKJPBvHaLKiQsopvdcvGXM5bUVB/QtlYvZ6BxIctfoXnHIXQaWtPM8+7Ye8e2J4rpO5+jFejuekTv0bqto7shzwAnvNq2luR9MxTSFBn;mOU+XYtVYh/j/tCPJRLSCA=="
+secured: "j2n8WFGNgehm4xfIWt+v3E+KAY6CaQqpXiPR0jyiWEvzV8GaD75ccG+YQ5Z5r5cR8t0HlcFk8dPQ1z8sKSRwrfSxb8v8UKIFtSx5c/gw9fqI3nkchc5ix0HtrvqmYCx9c1egVy935+1T1M5PKMtbToL8LXhj5Xx+kfW7/6Vwnjgam17zu8rBk03HwcWLRd4MbyKiVsvtT1DNZBOz8PDihWxY22m46KVx9v+7juIyf2qFf29e8UI5CDCry4X1ou5wijXuf/6UTkiZ3temqvf0LEGCWaGzqMbhrmAgWabrSDGDUKfmb+DwoyS7BVMnh6Y0a/WeJsadpwILens4PrB17OUDvea/mcdrM2B2+l6Oln4gzf014OwogVt6qKNS1T9Kv05d0555A0PhPSsTl+uo8BdFexng2+DOqdGwq2X56GhCP2XtriD5W6aegwYaTAdwEP1/ShB1AYH+Vh76fXzHLnecJEemODhr+Zl+eYLJurU=;sLVDLzIFeh1Anb4ExOCTRw=="
 ---
 

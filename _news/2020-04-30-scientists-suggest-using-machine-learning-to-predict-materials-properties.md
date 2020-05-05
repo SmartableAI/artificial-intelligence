@@ -19,21 +19,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Scientists Suggest Using Machine Learning to Predict Materials' Properties (image)"
-    excerpt: "Researchers suggested using machine learning methods to predict the properties of artificial sapphire crystals. It is a unique material widely used in microelectronics, optics and electronics."
-    publishedDateTime: 2020-04-30T14:04:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/pub/230628.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/230628_web.jpg"
-        width: 720
-        height: 480
-
 secured: "xdQdtBm21z9GhaBuqoE42a7BKysGg7IOprb8hYGl1I1VSUNieJMmOdFa4rMcQI/y4qDiiiT4u5BrcgNGG+tD5AUph8wjHUbsYXak/gu21LJnmg9+Olohsdh8Ghgh0P3rMdXMoTGzsfQuuMJ6WMv5EcgiSEaTZExgY6VctgwyiJAo3MxW+UXKE6hGehF0gvOkhni/Ryxr7ESKjzkUI3iN+FNwXhvHO3UBumn+7qJ/4enFJTjolZAuJg66SWr65doZeCGp3nE10PeBZb5mI+j7eH+WTUzvwk3hT6xbyeOfMaRiq8UOD6XqHsF2ID55r0ah4nuwMkbpSQqEcKdBv3MvqNeffGxNFJMOoRi/NtGjZIKX91zt4Xtq8dWwet3pcbyTAC4SzQTR79Iy8IRS15HSu/VIy9kzxzUO0sA3YI92Kw9pX4223zKQvMClsDwss1XSA5d5VPHWqDu+fsEvtaFKh3I0s4jkF7irUAwlj7oTt8s=;HQb6zYkBbW0Gt4u+FlaAiw=="
 ---
 

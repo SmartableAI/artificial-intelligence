@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-8275395/amp/Anger-Google-ar
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8275395/amp/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -56,19 +56,6 @@ related:
       - url: "https://storage.googleapis.com/cdn.thelondoneconomic.com/wp-content/uploads/2020/04/6c505a29-google-e1588267350243.jpg"
         width: 1000
         height: 835
-  - title: "Google executive attended meeting of key scientific group advising Government"
-    excerpt: "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ..."
-    publishedDateTime: 2020-04-30T14:35:00Z
-    webUrl: "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
-    type: article
-    provider:
-      name: Telegraph & Argus
-      domain: thetelegraphandargus.co.uk
-    quality: 21
-    images:
-      - url: "https://www.thetelegraphandargus.co.uk/resources/images/11319113/"
-        width: 2168
-        height: 1445
 
 secured: "X5tB9sh37shfMaM4J4LuhDbVE1Ptnc/GMUkEVS2tz8LK0dWiJMdCLjyhYyzPHtNnBjy8DuoP2p6aB9pTKDRi5NsDaVaw4BPPAkNaOvLdplA8gPLGC7OIcfZNgnH+BYLAazGpzPBN3xiAPv/B5RehDCkINSDkigZAae/QH6eCqcEmD4NkctK9/swkD8szZk4hLvaWGLiizBe93oGBJ/m1htl2dzn5x5ujDXB7pcutNHXdH4BL1miogT/55rDjEwl+HkxbnLrXj/rlMgDmW2f759hfj/ozlNOzMtNCpQgN2hJrlyiMuw3guM3CID0U5Bzh05p99HrrvTeKjmropiVsusw7pBuEPJHW64EZgojc3QvQOdFHI3E13gSSnUCkUx0hp/StIXlhS66cddJdO08UGHAWIv5t92623YBfMVWdx0GSqRTSBBE63TqwErL5W6Mh0dnfuUPjWYBxuKsiLSXiW9G44KvKIrqGaoIKu7ZRVTU=;HT6BnO8r2Ywo9f4O7FZNqw=="
 ---

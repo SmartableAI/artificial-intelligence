@@ -23,6 +23,6 @@ images:
     height: 343
     title: "Scientists set up independent committee to challenge UK government’s COVID-19 response: “there is no transparency”"
 
-secured: "guwMSA4fvwkMe7FXY3bSuOO2RQ2kXN2yFEolKpScLdOfSTXnFVErV6XYLQ+QFuTnTOukShWtXjb4kdFqJYNZLWJAXA0/yA8cD3uWiWw/td++YaFu9G7psntDqxDljqz75LAVyvGSlZlfMh5Q97fBCxIjrTq32J2FbNs6MMue+u7Sybj2QAPZbItqK1cqECqrmk6ELHInH0o/nuZzg7EP8NFp7TBVD6HEgu4ShIORmIWeQ5u61uWJy7xq6xTuxECEyAQqqO8EHNDUdM1TOugxJKmLd8+HHBgdUNcxRHb/3I0XOCul7/3OQCzRIpTKoumV;Xpc9hKsf/U/EF5XGl/BE/g=="
+secured: "OCYnjLl7vbEO9CArsrzZmtWWyZsN5E0YcV6yBXQhN5NBp2GA6UOaD2EEP1R0CvLylcLFQ0tsNDhOvk7hbWqzx+psmOjkpBCgb7fSr/e5s4BhoNy1Ojg4PMxwpTqqRMpdW6dNBLhxTLInXXi1g4R0n+GgP7n3ugDSUGYhDKdmUDm6+AA3tFxDJvNC0KMAan+sl54ddM1y/j4dVdd8eNgrS+2gV2cjOviPhMCM1l3NzMyaaJ16bmDxCW8XK8oOrlTmlLHmvPOvOIrVbsYQpxBspMsDKAFmWSU1zGsF+Hj2fo37g54ZDU1jbDJban5ahyCSVWnGPcZsYOn646q+t+YtQxEb+dI6bzYc2gY9FgBMF/7hZgOjxVLYs9Y5Odf5IafGhIvYzSKg97u8KLbOaqDNcrpRLiP+8yfj0Z4hooOieFLSkaKnS0K9QmpTvx8SAXBPivMNBTjS2Lyc4Sxm1mN5qo+814IdAvbjjaXyfoL7sH0=;/JXfyQvF5sZjKRQFXfx5xQ=="
 ---
 
