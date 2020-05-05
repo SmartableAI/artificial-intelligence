@@ -39,19 +39,6 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/0c827a2/2147483647/strip/true/crop/510x340+94+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff4%2Fae%2Ffdcae926498284ed63b4a5b89366%2Fprosthetic-1.jpg"
         width: 1200
         height: 800
-  - title: "Mind-controlled prosthetic arm enables patients to feel the objects they grip"
-    excerpt: "The prosthetic arm represents an advance over other mind-controlled bionic limbs under development, the researchers said."
-    publishedDateTime: 2020-04-30T09:03:00Z
-    webUrl: "https://www.statnews.com/2020/04/30/mind-controlled-prosthetic-arm-patients-feel-objects/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 21
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2020/04/prosthesis-1024x576.jpg"
-        width: 1024
-        height: 576
 
 secured: "mAY7MKEOKwLA++Z5dhdIumjYG6ruQd7XRbRWeTu3QrWOeYRxkjLiYmzZXBSWKDjrtGXxnShyB0ujSZruCrto/oqzDyIq025+1vZmFSFrfVenAPu1AOIzHw1B0yoo8eYaLZM7jlDIy5tWrxSWRAEPlPuJhG224xcoD+ZXPXClT/1uFRumm706z2ltyURlLtYZKh1C5mGIIWIJtA3UmmlBgvr6LTjL3REeJKhuM7yDRPHaeYYHJidaj1QnaxWWjKtrHw2G2vw9k/wJlIZeOlodR8h7e7vwOvB0MFBlPqkBTzEz6NeCHkeXEtxIqiHk4kQ3+W0Mo2GF8aehmxqMJjjxbE3Or3fWc+evuj+ye8LH8NGmOC35t6mGv8TT1rFOmZ0V1wCmlkG0Zf7lR8fhtqv9ivW53rZCiU5puWyLbjzqI49QFjDUvTZOLBuq+majFPviCK8dFFQ/S2KFHByvIsms2WZzJcH+VEA68OrcMXNOeLw=;2hxPAs1fHcorQXiH1LoU8w=="
 ---
