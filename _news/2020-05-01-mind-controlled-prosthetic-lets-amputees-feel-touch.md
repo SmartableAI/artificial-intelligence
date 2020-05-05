@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-01T07:00:00Z
 webUrl: "https://in.reuters.com/video/watch/idOVCBOV9ZV"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -20,21 +20,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Mind-controlled prosthetic lets amputees feel touch"
-    excerpt: "Mind-controlled prosthetic lets amputees feel touch Posted For the first time, people with arm amputations can experience sensations of touch in a mind-controlled arm prosthesis that they use in ..."
-    publishedDateTime: 2020-04-30T18:51:00Z
-    webUrl: "https://uk.reuters.com/video/watch/mind-controlled-prosthetic-lets-amputees-id712411311?chan=643aqbw7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20200430&i=OVCBOV9ZV&r=OVCBOV9ZV&t=2"
-        width: 960
-        height: 540
 
 secured: "T0HakmdBChAIck/1W9soKIV3UhC4LmFPMiki1VXV7Mqh/IEbNO4wOFDFMw4w7TM53Ec3yVzrcigiZuf1q6vdz156AZKlB+BPAJm/Sg/QkOMq+ScgPypbwoXoADdYY2S2031eo1ehk0QlEBpgO0qm77va/L21H1WbPVusAVje+czL0lcIdBe6Pa7ut76DVuADzch7AzvTVHQkt0NT/c0nzlFbmI0HlloC0iwNF4QkK6FmT/kyFaNxjEYdIbEE17G6zs0Swo9k/lawaPEyoJqu8a+zUE8ndb5/my5cXQrz4BrHaHbS80Hf9QZ7OHxPnstv;4/p7LS3Hp9JZMxB5EuoyrQ=="
 ---

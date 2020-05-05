@@ -29,6 +29,6 @@ images:
     height: 1125
     title: "The rise of the robot"
 
-secured: "xl0oi7cpAlcAV50C/BAPI9wB50G4hsy/8c/XlgrDp3843w4h6yVjZl+Tv92No+rk5nKHgI0gfgcHcj2lUhhVn+y7hgh0BOxWi4dDJSKM66KAUOOf5q94fG0yZ/yVbORzvb2XppnIvtjafxBTb6+SGiTR8BHzXq9gesOn0fyUjRhS0l21ieLjKoz32VqEMnVC+X3QftoXS/MfusT2Pgyc1LZn3YJPlsof0RVYeQS85TA0j1TrFsnXwVgPXThOo+c3UZQG93PTGMkrtW9CiBMT/R8DG68zAe8U6Yzmf0bbACB7zf77jXuT5NSzkfI3y8/I;frUBt3EPV2bb7L7PvlZdmg=="
+secured: "QKBgQlUU82PW+ww66QU784CKK4Ph3XfztUBhChWSIBGKY+THLurE2sRsS58jApmal0Vm87rRJfKgOmzMuiUFgmzJqZ5kpkqlSrmYsmE4kC74naVq45vKbZoxl6KuuKlXDfOcu4NJj6qztoAptr8egyqaLwxBf6acmbgfq7BFhH/ixsDKRQNvPwoCQGZKET5EDLAB1vkaI4Qtlm5VZGFh+bnuBFZcCr8nXbAx7A83JKcXKWZf2gfepxUc3rK0Lrjnzg6VWI/XbGBfHm9MsMNzYgSVjeDlXYyuLuh0XEdTamrjsjGPbiv1LH1tNvLiAYEy;Ciuwl6wlvwOq1aZTSPR3wg=="
 ---
 

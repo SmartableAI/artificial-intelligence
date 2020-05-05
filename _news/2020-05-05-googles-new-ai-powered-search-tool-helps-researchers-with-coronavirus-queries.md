@@ -28,6 +28,6 @@ images:
     height: 418
     title: "Google’s new AI-powered search tool helps researchers with coronavirus queries"
 
-secured: "duAtuUlTszdexEhP+lc5B7sdeQQ5XuVIEnA9GxCAOvM8qyxazi/o2BsgNMcTy0aesMI5UNOIUYx+2FNU7n4poLvYlE/5f/VI02NzsKn5ZSnmi2GZHb+S1fnBxbcMixv1URLxcJOcEsZ8Wpk+ezAQpW3UeAa6jFS4ZzRZgBKhWu5MjqwCZAaRq5VVpVkTbSQAfgRFMDwmJoYqK0XY//XSsVRH7ZL4yzcLVRaXhbAR6aMFzECom2nzQ1ELTPTtKScWaB0DW4ARaoqRIaSVYH3X/y6d3CgKgCW3j/NDynsDnGb27sR5FppyCJjCDemFrwFM;Y+EzeTMBp6A8+0pGrMlRhA=="
+secured: "2W9uDmBmlNZ7/FSNSR+KZHMeBEcHUQqQqWUXBeYm1YPxjeR8Nsd/jR1siKr+NyXXjziKZHnqF3TFYedVDefWJ7QMRANBlJ/M2G955EBr/b2di5yk4f36lOF+geY/T2J/BlyqAZdsWBHwDsHfrVoDEHsfj00CBRZ/GptSMwIIMxiN3jon3xrkITd6XWlC+E1p8ROaL9IVJPZU7l+Ak9eD+lDSPpJJX+dRCExSoXKz2OXn/DSYo34kQ+aVjhs25FveLQRizMz8WZOMx8vrw3NNBoZ8nniL2JpCsIYrp7ksYjHkjFMZX0yQppE0VclHRpxEI5zgDU8seOzNPZTv3rM9gCaY6+wPYqQLjJH5MreIQGCls3bBLP8wGmXXE2KE+hGZqLpd7UUvlQ4avwRpHgrFcajXMvpKMXEk2RmCXgky/QUnbfu09yIsIC3pNE2wty2HC6EwIZBWB3vV4475waquCYVGojnhM0fJcMhZKMW3ELE=;H0ISJ4/P9PpGngieilPT+Q=="
 ---
 

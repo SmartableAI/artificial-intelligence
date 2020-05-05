@@ -3,7 +3,7 @@ category: news
 title: "Australian military gets first drone that can fly with artificial intelligence"
 excerpt: "Boeing has presented the Australian Air Force with a prototype of a jet-powered drone that they hope will one day fly alongside manned warplanes."
 publishedDateTime: 2020-05-05T05:41:00Z
-webUrl: "https://edition.cnn.com/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html"
+webUrl: "https://www.cnn.com/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html"
 type: article
@@ -45,6 +45,6 @@ related:
         width: 630
         height: 420
 
-secured: "ud5P2lp77kGIzwrZIO/r7k0hLwY3zcyKg6XvEmypa8H0LYZgEiIAQZ1iuwnJOZri6l6TMO5qGAV3S5VsgoaKRPr1Bg7kf6Bg36kw4HuguDkUEiXU5kwqQaaaJeigH7JpJXxPoQP0JujYCmWI8oyrlXIwj38pU1EpJJTtAfW6uYaclK4Q8KO1XJv22TGEoujZXmUzvv5s+jWT5VfaYFkqA1Dwj13KU6DIrGg/OVk9CMO4pD/aP5XvX9UIxXOqrNc7AaP+3v7+Gj60wuRCdULvT22qze3X3LWB+Pgqu36nMPkjGsjg/7gaA02eWz9VCdOkYdbOjHtpHz4jT+VY95pxnsPv+cPD/HZpttYbIUZzM2FOvnzdxRUgX2CqDk5ULqaFVW+GAdi05t2grRemtLalJXJ9cE/Rfo6oDn/dQNuLM9XiuDiiGcP0LQPikB8kRbZiEDK7ewN2lKT/yVsMj+XThlbR6VD6C12jHGCrampz9B0=;yYRXxkgB1Jrl8e/4Gbee+Q=="
+secured: "vcPQ1bA7l7b9fcNlCofWucmvIAvLCIvTVQPJDCGqJt5t74a8EL9jHqigr37axlQHzu3i2cjdMKdwdlSlArc4hiJljNnoySdgkqXTuP5KlazjUl4lkpkMDF3gbK1eJca5l2e18P3BZun+l/URR4s6eOz+mMg9MKj+v2IEORUvocvjPMJdHAjNXyxxnSKQ0j3qeeDC0u2POQ2OhSB8MGVhi23w+lauBSdfENbH1oJHGs9+npXlgk3CCzJaRYo8tx0El23DAVjkU1CQMAPUzIh8ZdQc3kslS5AePKC9+/POr6gGwU9yIiymLHMf/AFcM3wE;wpERn6RKJVcf93URRwgcTQ=="
 ---
 

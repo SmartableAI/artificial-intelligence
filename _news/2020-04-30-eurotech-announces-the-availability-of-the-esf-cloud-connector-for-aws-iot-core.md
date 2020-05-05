@@ -3,7 +3,7 @@ category: news
 title: "Eurotech Announces the Availability of the ESF Cloud Connector for AWS IoT Core"
 excerpt: "Eurotech announces the availability of the ESF Cloud Connector for AWS IoT Core - Eurotech.com. ETH: MI Distribution / Indexing: [+] / [Company listed above is a registered member of our network. Cont"
 publishedDateTime: 2020-04-30T04:57:00Z
-webUrl: "https://www.newswiretoday.com/news/172805/Eurotech-Announces-the-Availability-of-the-ESF-Cloud-Connector-for-AWS-IoT-Core/"
+webUrl: "https://www.newswiretoday.com/news/172805/"
 type: article
 
 provider:
@@ -14,6 +14,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "ibRPILDcXb425RtFaHf74euyOMFwsqSwBZ8visrDZjs2CSNJn2Ea5qn5CswT/CKcvv9bldBpNdtSyPqVeC1nFKmVX5sxkfTcqRk8XCEC38WkWcgZvJxQ5xmPwcg338lwesctOrjPEyQdHvU3y6mOHrs8+0GGIZG3DY1HTlL1hKSVmsRgTwV+W/AmFCUXKFoGvq0GAhWSBHnKcIhXS3KttXaaXu0eYecWXG3uj1AVz6rorTfjzRGa+z2wi2+8FEpAWdKP641rwGA4G78lqHKbR+dgRisnitPvG2Q8cCeVjW6yetmKIm1xQWxh+S+xu4RzPN7uLQ6F7KxT1Y9mt0BaOIkx4UJSvNPYLYR9LCLr3IAfpP5DRJHAjxL3vGY4ceqWSyXlx+LvZY7z5bC6H9Qwku0yDRIqKdCzFyEn8sUpKDU0LaeYDjob9Vo0ixRmppNsD263hIl/01TnAD9Aj0BjAp5ArLgRsD7Zgo/phNb5gG0=;JmOuwBh8TSqHWYfWiSRDkg=="
+secured: "UnEQIYbSGmVbZZtq/N/7d3Uc9UFuPMPfqdRKjgOfkgxb0BAJ0ka5K3R1APBKzGKpOBfd1mRAY1b+RSTAb0y+b6cEK1w4Pd+cYuWB5HXTFTo6/sEiDsuW6vzb8vX9/H2kN5gwinCpK7XUXoA5p5kRO1+goamvmjqfn5oZxGLDzDME9pyZAkM3CDIb8SYE4LS5GggQVSR6lzPXwq9Rt3GldmV2DWeYp7SpbjeEiIJdfo7Ha7Qe9MXs2vMa8tAhy5n0e1bGUKCYtWsZesuu1qwK7mz728fBRzq6dwo2KTI1XJjHfzeYNDbfdIPuYom4e8zHwuLS64k+sNB1olBad6eX6HIQcaiMuztQYlvwV0llLtdumRMlK1QsoFYLKKGqo+0xrh1xy9sIzuMLEMYV7bcpOgt6jl8Gv+8Mil0rl0enC1eudhORLfzMLM0T2bZbHmaXV7Y/uvQMlTgAR4QfNmvqHMxErYAj8CSyN/Hi0qdxhF8=;E894uAis71cXYqu1RWQnAA=="
 ---
 

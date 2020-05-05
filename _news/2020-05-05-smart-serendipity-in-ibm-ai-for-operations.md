@@ -43,15 +43,19 @@ related:
       domain: zdnet.com
     quality: 72
   - title: "IBM Unveils New AI Designed to Help CIOs Automate IT Operations for Greater Resiliency and Lower Costs"
-    excerpt: "New Watson AIOps and host of product updates are designed to bring automation to IT infrastructures for greater control, efficiency and business"
+    excerpt: "The challenges facing today's Chief Information Officers (CIOs) are more complicated and critical than ever before, as these leaders look"
     publishedDateTime: 2020-05-05T04:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-new-ai-designed-to-help-cios-automate-it-operations-for-greater-resiliency-and-lower-costs-1029162825"
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-unveils-new-ai-designed-to-help-cios-automate-it-operations-for-greater-resiliency-and-lower-costs-301052503.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
 
-secured: "WRdp5aI7PYw/X8n5PvWk9ic7yNx06H90QV/7hp+SrVn0h+jXj83oy/OooBqSkcgAs9TYiOc1yuoz8UMxYiFZ2Mp7zsjJHUnucllv7Lu5EelPVBLnXu3Eo4qtcr1Q7JzDU4HpSQecXpcZG4pw0IL2edxJ+bZgBuIPEiu/Duf6vS4bMTWRJAxZDIFA7D/wno5qww80synDPRntahNI3v8YpHvJe1f1T6tS1ArFo4Yix8w274OS9hUDua4gjL+cq/ahVsfwnGcw6+x3xpB8n6T4JBOdLWaRe3OKdGFhR3mphHM6iELCZx0cK2GG79lYGWrU;ld+e2SYEcbYRxFueJEGEnQ=="
+secured: "qLLICRd3liEzCNYeyrA2V1sCSWt1JfmmmDJGZpg7FBYJNQLjuT/zaVggM7T2uq/iCphCKoimueIUKNo7wenqnDMlhCXZmurYsWP8GKDhubvnmKM41xugW1k8SkuOTTFMt0XXk5UuFJ/g4X+eEinpsU7Mhk2rYnnALW276xmbIP+yLbatVms19Q2hIE6n/EymEil3RZjHD3inrCzA6+gVDoPcaLKKEVzwtrBxDxHlZGRUsajkvnBaLDLulX2VUZMiSDM7aKnVoEhIxQMb4SIsrGNxCMqwA4/n/3pG7Yao1UhMgU14NFr0603ZNlGHSkXF82BbPuNlYnVel5dgz6wbePbvCvVU3JCfbI17xrhJOCVN0fpdcIuX4DbU4MWdUxvBSl7bg8mqtvR6/gpPNaxGM0a0p8TheMU99WcieP8z4EO8wBgonqp/waZodeve+QOh4O+S9WBeF94UGDBw6Gk2ai6w31ciq0DfIQCy6jzAy4o=;t73cJ2WwQhHOdn6BPiezHA=="
 ---
 

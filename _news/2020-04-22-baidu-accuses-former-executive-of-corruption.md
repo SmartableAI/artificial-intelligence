@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Baidu Accuses Former Executive of Corruption"
-excerpt: "Often considered as part of a triumvirate of leading tech companies in China, alongside Alibaba and Tencent, Baidu’s activities stretch from search and maps to AI and self-driving cars."
-publishedDateTime: 2020-04-22T13:34:00Z
-webUrl: "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/#!"
+excerpt: "Baidu, China’s leading online search group, has reported a former executive to the police. It accuses him of corruption. Wei Fang, a former VP at the company, was investigated by Baidu’s"
+publishedDateTime: 2020-04-22T14:32:00Z
+webUrl: "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/"
 ampWebUrl: "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/"
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 576
     title: "Baidu Accuses Former Executive of Corruption"
 
-secured: "r+JIahCQEI5swr8vSHBkGWDrJMCgDLXSCXUVjDi4mDUEwTOLtCUkm0Gdk1i4Y6PCUel7qqde7RgKBIDjSu5PUtEvVlpk4nBx4YJCqpa086uBZDRqwgYf0iygMosdeJpJAF/ihiM8dJbsgktsIOY2YvQpZB+kX7oQrk6Bk7LeE2sL7YuCwzvZDzVVFbw4C+Lb+9xFdazjfp4T+7UMGjEaJ55O+eei8m6wgBMwVQcHA7zcMdhIyD0yZojE+f5YoVr1IhenC9xyCEBiKgxn3Xh5yLYACFCYCsMiLoBTOWfIlr5ygT3Ly3g43tJvajfviG8F;DmUSX95QEP81QeOCIXSQ/w=="
+secured: "kP052E/KxnB0KnUa7x/xeFRIMCBGmFdS+T7xts5Dx6ZOfjM3a5KfRt8nIrh3PPD/8yQcS+ifPF16qcF7gcDdM1jZdydvwyYYpAE/LSr8YRglIXT4obCUABxMbRa8lUNg0SavYYElR/JP1cLbqMlw87hPkD4JoIh/DEoPjeB/AOr2YiFlX/9vSdU2oxWHsh9VHGH6+jLgWa/ywdbjvATvxlX4sfQemJGHik5Khbfnm9emjub6P367Qfx/RmuRsG4Lspe1BTCmnxZ0Yv2FuGN8rTWPxCe4d+U2iweGmKayKz/YTurBjTFPZAV/a/Z98J7o;HzTFp+3wZ4nY+CHezRAwwQ=="
 ---
 

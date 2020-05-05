@@ -23,6 +23,6 @@ images:
     height: 270
     title: "Dell Technologies’ Jay Boisseau: Data, Processors, Algorithms Could Help Agencies Advance AI Adoption"
 
-secured: "M841se0h+nh7ORVkTA+RDdsX5qOy4mN7LCnJXs/O809O7oe3vSJ2r5ER2N/PsWORxn8P7P6J2MXELf+ibMpUg3rnCvEXbrK1QzQGx8gI8XSOVzedWoM3N7As5KEVZq5wVfUGdefSme0ACh/sTc+hxAPJI6KSBqMt9CExMg79JU6Xhenshkut4Q+Y93HgMPyZ27UJs2/8XDqBMZL+2at+0SUVYD2wdzp220bjk7SPsQPnDn/oplG0zeKrnKA0i4p1ABkHxNjE7Kn1gO4nD2VgX3CF3813kN6getVSv2gvQ71lVB/wCNXtsvzx/uOxuuyo;SB795+rmoL9/t35qdKA4XQ=="
+secured: "MHVe2W3L0ppWxzDmdcwjQDl8beIAKrMyfi6LRtVCMlW/A+dPOW08YLMtZSuBsEUj3J1a3rU0gvLT/rjf/LLsSTjCUnDNdTO5zByOeinhcIFmnNGe6B1FGep47eoY4lDlenuI0zBqs0dT/dUfabO3tmct+cheIF43xDhrYPCKKcqw15M2ZI2pqwh5hW1jNz3iR8DSjZ30dxawwpALLXjveDRtSg/zE5yAImM2XQUtq9VFB/C6IMJ3Njn/yNzIzIFt2wggUhI/NplV9RYFYTgs3h4OvQA4PJEM3KuzsjlQ+Mi4sU/abItxjpbUoUOlQvjIComkYCdRRAgnYM04Mnlb2Gsm+hMAJ/uENeY+1ZdgUNEKEF1MjnF1fSUVnas/LuI8+VtTQuf/PvN9AJfsdDg4E5F1HdXj/YUo6/UrI/mznhyZhq4VGrsKh12GReiYzld8E0fGL3FlexK978/171pvYG9bW3SB7tJPX+HIrIaRlLs=;Q9x7FlMZXNUsOOOiWlD+kg=="
 ---
 

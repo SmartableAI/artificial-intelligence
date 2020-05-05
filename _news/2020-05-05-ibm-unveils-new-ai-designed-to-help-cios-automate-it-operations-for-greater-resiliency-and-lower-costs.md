@@ -1,25 +1,26 @@
 ---
 category: news
 title: "IBM Unveils New AI Designed to Help CIOs Automate IT Operations for Greater Resiliency and Lower Costs"
-excerpt: "New Watson AIOps and host of product updates are designed to bring automation to IT infrastructures for greater control, efficiency and business"
+excerpt: "The challenges facing today's Chief Information Officers (CIOs) are more complicated and critical than ever before, as these leaders look"
 publishedDateTime: 2020-05-05T04:01:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-new-ai-designed-to-help-cios-automate-it-operations-for-greater-resiliency-and-lower-costs-1029162825"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-unveils-new-ai-designed-to-help-cios-automate-it-operations-for-greater-resiliency-and-lower-costs-301052503.html"
 type: article
-quality: 33
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - IBM AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    title: "IBM Unveils New AI Designed to Help CIOs Automate IT Operations for Greater Resiliency and Lower Costs"
 
 related:
   - title: "Smart Serendipity In IBM AI For Operations"
@@ -49,6 +50,6 @@ related:
       domain: zdnet.com
     quality: 72
 
-secured: "sggBJY/byaopu0nHwVP9EHOVhld2P3tyRNLkGi69eKw3Toa/4eaF/YTNXGv6NkhbpZGi3N4Gfz4KCz3W76NLVK0+63sVbNy+cLhO9X3Pq16V7G5fUyXEM/2i09gy0bYRLoJ6VfHZxFZ6MIlrLxKDArC3JgID8dh1QrLwPWTiWEzpaK+9qSN3X04kkUnU64TA1aM3Hq4eeSx4FDXrsG/BmizmDNHPNTwdkkdGIO+fEHZ04YV3neHjCeetWxi4COgsJUZpV5WVPHMUYfNl+05iQ2nRGGAj8e7XtjM6LMNsNL61kx5lB0Xc0aU5Z7sfXy4va3NJyh33LxQdjToPRH3zUIFayLHb8PBB31/N9ZXcTjIvD3Tb/rXsy6s3AXXY9NrNMIRw4MHeLs0FNEUO4/wOdX2DnQIg2dY2XTwKjR/3fxWEwlWm00noIrsqlIT23BCF4oFBC8qHCBH7527WgKFt9hLN+6mNKUHAM4kMUktACFs=;bCFUUG7jPLAk8WGV218vaw=="
+secured: "7rN/YNSs9maPpwvCLvhskDdAsnIbc6vTy5GTX3xGf+kWqFHnHoDtRicapd0ECDChKv0vJzSidD9OLG3QsMB9cevCneliamquPfeT6I28oR3r/rnuFEwfNkUDot1bmDPudaGiUGl6ERBHonmIdjmHiUU7jodm1ylkvcUe8F6inPiGZ3rMcMt4jM/shjMDPKRcB3JNpnc2dwl1rq2Rq97E7AYulH+f9/N+UZy69ypuKKeVUvET9dscouqOeI6JXOQrqT9yi7C1rnccHePkwNtN1EZSQzydQgL36/gYRe68bOo3JWb20PNElDfT+zQ3CKJL;hGxyEY1KRUZojldpggJ3+A=="
 ---
 
