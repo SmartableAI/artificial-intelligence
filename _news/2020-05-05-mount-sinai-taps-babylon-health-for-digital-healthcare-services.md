@@ -23,6 +23,6 @@ images:
     height: 300
     title: "Mount Sinai taps Babylon Health for digital healthcare services"
 
-secured: "r/yi4gZFC4oHl4ZB5XyUQZHsFh/NblY+aktdIncNBaEVeXn77Ex+mNonHWWhnEWFRGjW/ocAqJruK14mMLC9TEPkBet/kEpIP6sjF+m3ajP1kZY5hFR41h2Qk2H7s2BfRy6cNlOqCflWDSLbuQ83MOFYUCpGZ+RNF5PdqymaF77T9zyiBhkmOC1WAxZ4+7rFjYu5ce/hT+BhRRhJ/MnMGItSSAnG4qNMLm+qylu7AlDf6ObW9D3pgT5Wa+1cdf5lJhySpGO+Cc/bXlxsGdfe5Eg2cxH+2y1U9bnuHANng0cWdAD2y04xljFB4f/cT3DS;+UNWNIyZ3dznz84AX6vrtg=="
+secured: "F0Xox1aiB4XXVJjTt84+pqWG5ScI7uTpi6t4EWRQEbWxvtuJM3qASF0HbRouPW+Jwf0abIeIZc5MKRPytO/9UcfbxhIj6/PpaoyDd0tpwzvlfKwPv/EHdkDy0U+Sju1W50gBhoqxiF1ohtuinwqf2FzEuUkECyBTw3bBtU+aoqZjDXP4gsJeqE7G12IjLLNCzVJMO4XcfGIiCej6pZiKWhmXU/jZn4DsL9pglOK3tJXPSCEwST1S5Tnj0cqLKgoewRaJlf8S6QgEg2ty2LuE8YZbiX6Yurp7gPRcXQT1gU796RHbnsP3mreOMb3XEJJHTbd9hKMtjGYGXij4NUjxoC3KC+9rSaPMK8AKwlWzOj3/6bKvNTAzyMmweLVR4Jt3hkashVxGmJCw600Zyb+N8g/e9Kdkvmpu4Ne+lKSYfCWTk0lqzHB4yDDtsFaGNcYaO5pF4/vFh/rOGsJlJDACtbgmZvTKFqqmFayOeIyRI/k=;3ef7dzIip5iJn4sQHcL+9w=="
 ---
 

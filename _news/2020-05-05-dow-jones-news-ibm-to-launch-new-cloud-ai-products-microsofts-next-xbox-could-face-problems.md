@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 378
     title: "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems"
 
-secured: "26BKMPBlKGDDEZfZONnm1GX2oJ2OK8Y3AxoL7w1snpKuRn1avLAaTkz6nh+wt39jWgFsgQ3s7OKKus5oFPOQgm2SxQzrx65jcOE+T3zUaAb3dfnijfU4a4vl6c3ltHyL0fWJENdoo/+suiicCjGzfNAGEJ89xyvDJJvvdKlG1kJaK2na8UC9y4oqXXjoKgS/a3GU8zFGRVTIPrhiQUKo/2VtwuoJ4ne8yr4fL062VET1ueTZHv+wBGYqPXTWIhlRPKOcW2ZGvJr5sAmHIk8fbMUlbZ4o0wOiFEryI0WUHXLuGGTTvppbwG0Xi4hNueIO;n3a95WJNdh+yCpMSswgGsQ=="
+secured: "bvNYREZ+M6PZVT+HYCzBR6dNFwSpzeIJ7h6x9quLJjhsnsiX/pMYeHuQcGbaGr1Ym3LW0laYwfamTvtWeobObSPAX3pt/q1mgutfG3haOSB9UVnLsPCdzNkxEr+dUkj4lOOjYqd9kCNsuJ3fFyMfGhtWoekTADrLIuZaWUcAs5DxII3RJhY7MFwkjMyvgQIF7KZaig06RS1yZ90kUAgxxbtJdt6NUEMOJ9xZDSuxubXAc3/0NRFWEOfvUc9GZvBSl96/fWBIIli9yAaJHourvEyNFcbcun2rQvVA1nqq3gwNfu+vZwbIKtajLdzOmGmV3tp0HtXdUq0JEBwRW1acYp3yzbXKiFTlHC38pzlLHv+y0PGeqEyAX+DhzULSgHaBcEIqYAOel6NtNfOZIsjqnR8sZVbN1jTxsV/qQoQQA6W8IeZgzt/glCGFcqJ634GT0vviTbiBGFCv+amtLF4qUIHTyEl8R0lf+Bl8FQm3pms=;FQYJkJOoOQEnrOuwpxYyDQ=="
 ---
 

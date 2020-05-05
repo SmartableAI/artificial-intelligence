@@ -3,7 +3,9 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
+webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
 type: article
 
 provider:
@@ -11,10 +13,9 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
 
-secured: "NTbem6IQb20S3IB3tG00BbSwrNgH55z2ISYW+lXtalXl9Q14Ear9+t1Tdeayi8xMi6g1qyjdtLtPzeSVuvgyhw03gF/Nzl44iuzJHVqVD5BnPRUnUuKTEPqAXx5RfMhC34oV/m5LKEBoZ1l/T0o6lMjn5K2yGGBU+lYCOjWQsa8A65rHJyUZ2T5H46PgXPB7sT9l7fsYKzKD+reo2dbBRHOS5eS7IcV/VZuPOma/aQC2GM7mi0xoR5cLj8vAWkYbKd9yy6hQvD/c649n0EvGmljt4WArEMk3EjGCkNJB9kiPuW2qKvYjUOSfqPBOa/Lp644CFpmYD5EBBDBVOaJhCp7i7nN5D1uF3EFPTEFnasZZcAUdk7TpcZRr/xemlYe0L28wkPy6h4pT6dHU/us+L6fFg0/x7Q+hh89XgfE3RgweSePNcoBmC+RbGTm4v+16j8z8j+SQ5a78tTGu8NIVYjBLRH95vp8mSTYmjf7IK/U=;Pju2Jlw4ASUeBdxM77i3Tg=="
+secured: "8YUfdfQusCMwxleb8epChz5bxqL8Oil9kT4A0BT2svCl/oYh7YICmujXwljo1lKtMjzeRGPSp7AiWu4/EITBJay6a6FbuYXgWYs7+ZOuVMt3dj5Af8mFPQlTulJLc8nZOs2GRHXHwbWI4HfPp0pZXvyLFTl4kRgZ6oI8lw/tdZueiGGpY3OV92eHXAqlkP3MMzj9H3pDiGiAp4or/4koPInOBpiosu1qvVPDSiU3Cp0RYPBn/O0Q9+DkSuNS4OwUZO3xfWtqL/eXWLRuh9WQjGwASFYHu0kQFLKIgbDzmlkDjhbQcFBsYsqar6+UtJt1FHlYb4XR5kbxpuIkv4vRS/ANU/MafOMvIsrnu3H7hDQtnBdMdLQJT5KZNnptbkmKCN+SUzFxBQ6zHtUhFJ8eu6JBpksplM4xb9syrJfviOLHcF7zXJ1qoR0AU2QnxmsGqGuhR1sQZG2bSIJtR4Y27ylxj4/EOrlIPTtCpZCoEx4=;kNrHFru86EGI3vtnLhXnuQ=="
 ---
 
