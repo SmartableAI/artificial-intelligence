@@ -18,6 +18,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Artificial Intelligence Accelerates Search for COVID-19 Treatments"
+    excerpt: "Researchers are using an artificial intelligence-powered tool to determine which COVID-19-related research will yield valuable results."
+    publishedDateTime: 2020-05-05T13:40:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-accelerates-search-for-covid-19-treatments"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
+
 secured: "f579h8E5lE+TXbTto+SeeJfKnh8/tAdxy4bBYPsD+2vGLVyCKNqwEA4HyQspqSBlUH2jnRbJfmRXDEOtfXkYXjaVWueKQy4ecTCKBCOKRkdc7k6TnhPXx/6Uc7vzFh2rkXT9ehlzqwFEiGExKUcEkFvvn3e5rusb3Gds12CKvr/Pz0Wwfv2XoGAB77Q/srYUZGRbX4pyAy7+aQKxMD6UBIZe8+7fDcKcS9G+jpRNm97qtuT8E6zhcqCSIzazLlzhIculjD/jP0IF1nV60fAIw+uRD+xfeSD+qNohPf+h0bv1KJUYr22NIh0DWzvHqmeNLJ2WKU0gC7qOqHL1z25ALHuH3xUD4fTvPObymxRqroNVjFVk0piByVWhFEM6n3lcwIRArzoW362b5zfloR6Sivhg8C2JH38Mluz6EJeKKVYrd4joObhub0fAtEqUzp5vTD9FmoKBcIRi9FfPBsz5WJLtRtE/bc8cgYoUwwD8NLI=;tomPg2x9ZRKU4i5pT/kKOw=="
 ---
 

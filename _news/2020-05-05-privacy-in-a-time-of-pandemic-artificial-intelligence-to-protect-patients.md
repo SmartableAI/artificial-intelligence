@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/05/05/privacy-in-a-
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/05/05/privacy-in-a-time-of-pandemic-artificial-intelligence-to-protect-patients/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/05/privacy-in-a-time-of-pandemic-artificial-intelligence-to-protect-patients/amp/"
 type: article
-quality: 85
-heat: 85
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-28.jpg"
@@ -28,6 +29,6 @@ images:
     height: 640
     title: "Privacy In A Time Of Pandemic: Artificial Intelligence To Protect Patients"
 
-secured: "eJOyeZfO+ghOZEdx/EnXrgpfaL+vCVh6Fd7yvVgdsdLXGCdsS5cjKeNLAoMqn8r+h06ZvCtai5aHV18tFurghInBLx1CJf1DGm3XScvl6zRvdhGlzYiLVPJkhJgalO50aXGC4Iql1rNn+KtUx21yeIGBcj6p7Z/X/5BbhC6KnWf796axXdo3/+M/uhYVZ8/yj8nQl6fJWzLTNO2M+E6yumWKYsh21R5KaC0QQphTztvlF9rpc0c0A/6Eu2JPeMa2/405l23r0/uLX+DnGc5xrlFHIyO2wzQQqkTa4xV5xjNJmWMHqb5gzhwGOGS1cmFW;BtcSFmTlXlKQzzz1HTPnWA=="
+secured: "SDm+wjTPz4eGUs2KRjK866GhtiTJQgvkw+FggKo78R+2Z7Lau0c1PmmGLy9TL2UezRnKpiaHYV46l0BSdpOWMs7jNzQ7n96X8kRZa6OmciLXN7bkS1i48wKpp7ty+aPEQZ80K+rrvHFpIPqk6hZOeDadhHB+iFF1fILxR5w1ill+pFXlL65yFCU0PksK1NWqF4xksH0MaUH3uTFjJsg4jy0NVxcLtDGczC4KTWe+jiSUkEkpaNU8xqQvwuzRKGoO3Z05UY5pXnZvYZiPQb282cWPjAMfU4N9uxWS7xX8v2EbxlT/pUax/Yhz7QTKp9nhHQVep86ZYGrOZWi0kuDPs+emxk7j2a/c/9xCuaKe2Z6GQIhGqq7QlrlxbBmfa6w9R7bEqKwYdH8uk6uV4g7rnocDOXHtiY7weYIoHfQ8WQa9ubyGASDq+KfttHvftVu4gB3xBBDfdPfw2hizSMldwXRL7zi+5IOo/9X6+BM0aOU=;z7uFk/RoOEXJBFoSkoWPaA=="
 ---
 

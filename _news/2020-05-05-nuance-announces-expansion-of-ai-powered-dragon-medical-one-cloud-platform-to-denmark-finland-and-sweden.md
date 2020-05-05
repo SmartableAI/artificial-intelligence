@@ -23,6 +23,6 @@ images:
     height: 785
     title: "Nuance Announces Expansion of AI-Powered Dragon Medical One Cloud Platform to Denmark, Finland, and Sweden"
 
-secured: "BvH0PoRJywX2HFSGM6FPUf+JIm+vdMReNe5jayt/tOsVQOi+v8D2eBaAhu1u/7M5K3N5ATfGTZxnD3I6BLvbASgtL9cJiukW3Ery/pVeUrYGGS3aAlNXVnbgyyo/kypMjBcsX+6s7e3bSEpMsGYmyY5LvzWIDZ0N4Oo9SVDhpJ+uzu7y/KnZYFDBBe/Ta7Emiqgik0SHrICMUk4J8rLMEQGQSavs/87KCBfnmgmJnzJqTbc5cBXDrNk7wvsHZzGn0nMWo5s71iwopoU3A26t5zA6o1DIgcJECgC6bcYi8E+WD3QqCa/nkvOfRaTtYXJu;yQdoakOD7q7NlrJ5xjcWyA=="
+secured: "uSL17nihjng20T+ZbRda/Rj9ud6P1D3jel8GG1JWFa2FN1xUo+UyTxsxnPFYTAvLjX6+f5xOyMZ6bxYP3a0tLlo9yZDE1e6+16rdHKCtGqU/HCDOGNFKXWQn6CMflDOg3AaAjzg6hzAdlx/tPP2LysySZfAS5RnQVuIjX1dco4wzmaliThHBr8hQZylkRF+mOoMj8xv1IaDWsA7ZICLQ/hQR0C43ot71yAjGUEoN4Kf51sYpUH+qfVq2osQ0QYgcqs8u0vtdgSrDybDGypW0w3azBoDTLlvnK3D/lbSlJRJQHvdBsmApBktluUDHdGzceh56hE19h/W/Fkw5ytdxtK7dEGYAH1/codMd4j/9Ru0FLHS6q4Tz1ybZmjFNUVm1aSNP2C4bLuyBR+O4Bgeln4rJ1rBiSMFlJZeQhMOGqy2hMbDCv0oZFWYDzzZhU99fH9yF3fR1c3O8VJNeHlOjwvwaCwU/WSEnyao14NA+T44=;JsNIztAsWs08ywV6ECP/TQ=="
 ---
 
