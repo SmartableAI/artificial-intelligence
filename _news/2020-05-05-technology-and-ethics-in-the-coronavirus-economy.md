@@ -29,6 +29,6 @@ images:
     height: 682
     title: "Technology and ethics in the coronavirus economy"
 
-secured: "hXrkI15GaC+rp8cdn2fbs/qYAkbDpr2Yi3aTqidlD0vmGEjc4824NSVQ6S36SdZFMKcVv6evRJQaeKS0E0BdpnJk9Q90RbNF6rkuC+kU5vxZguN/JEu/34eH8xK2fLWEkgDuF4AzExEajBZexpN/FuR/vzbFl4DbHz1Ri+1ATthsnpLqKij54DWWr+KmTGzWOsm+vjAQ/RFSW7EhTM60+OK9XMNPSN8OUbo5wiqQPJYMGeRQvA3FiwMeWn/atZp0Ne+GmxpQ2ldfldQdMPhXq/dSEQ/gEDYzeqSuN+fHy139SZomj0ig8e38BvDF/NQL;jjG5XjE704jt22YTehbIcA=="
+secured: "3d8N0bgvIqUZrt2xWBYxlO/4KOWlEEmTmRz76mhayBNc7NF129gnqWxQPGLCDqUIMN5kRGBJSY4kfAuCcjsiNk3GJyrM5hkA4lDCVukxhL3hMsY8xOwT+chSoS0aIWN6wcJ6CCxrsivQf5+zNBZCqFJZEBdHTTW++LeiINwKiXTwwK2PFpylF8vY7vvCwVzFUK9nepxFdRa5Mmd7bJh7xX0n+v5rGwrHxV9BRxaxczWqSMimkTqSdv4ovJRDCZohMewtSBteY5ai7p6+vkJZNNMdhiKBd9//5z5JKKFL48ENTykUfsOKCdXqwM+6LA7fSHhThWiEN/yfAhDiwQwZml3FnV2B89+Rt3KRnLEsBB+6di1Ca7zr9nTQXl4nvwJNv8wk3eorAKsOosZcJeLznJUHbgseOQ247ukTogf6q0/VRI/cy1+7FgMuaKa9cqkPWmDBfZHJiQuV5ZamSIDZJLljYYyQT5Mz4K4/sBtX/bM=;YUNMZCkkH5QQX0i3a36WFw=="
 ---
 

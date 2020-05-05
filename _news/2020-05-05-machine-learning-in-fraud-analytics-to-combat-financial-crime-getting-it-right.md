@@ -5,8 +5,8 @@ excerpt: "Risk and compliance professionals gathered for a Risk.net webinar in a
 publishedDateTime: 2020-05-05T15:24:00Z
 webUrl: "https://www.risk.net/technology/7539921/machine-learning-in-fraud-analytics-to-combat-financial-crime-getting-it-right"
 type: article
-quality: 19
-heat: 19
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.risk.net/sites/risk/files/styles/metatag_image/public/2020-05/GettyImages-1208690722.jpg?h=c1e4ee25&itok=GxhN1cLq"
@@ -23,6 +24,6 @@ images:
     height: 234
     title: "Machine learning in fraud analytics to combat financial crime – Getting it right"
 
-secured: "OIynebzLeE6TTPBWBAFoKpgCuioXwjSsCM/QXjpWy3zK4AV89ezlUNUUG667GiFAIPrvBSbtE5eeBwgYIljTIq42xqjI+OrX0XHEneyD+tHzR3/z0B3f3me7HqLMBhYCHol4HtGO2j9QIPBsy+Gea6xViKS/ScSBSlu9Mc5QdTiRdBT/3Gep2Fkol7+Vzkcu/bA7fnIYu57sVOVdoCCKrvLeAmOCchNBbPpHFVMLoUGJnaJd9RGewqpoprE24IliANDSrpdE1Mufa4iu9QQrDCe+PleAZA/7GBAPcW30zDYI7/bCdKK8y6emT2HQ4Qiy;el8PgvOHhZXSNWQFNhty8w=="
+secured: "Blv8V9veZs9u7K7n9YAlUjrZfdVX1nuL7cD58ov2wk1m+6EC50otAtPT2mWZOVsIOraGOsjbpRt2rIQjeKatyYCjzNufpQEfrA1s9FZxusPUOxFDGHGXQrTiKNiLwVCLD3q3uibJYbT9kh59wKupzTXN8UKFvNaZX7dCUBtKnJPKTS+at4bz9fxSG7QBHhKabYGiYFUW1PKMZEzQJXx2zZVcc3vxP+Qx2Y70d6hH4AGohj6/2tRkTLcsr5GxR0t3Bng46661NVLPHaRm6/AaI67z6BMKekfTsK+ros1sowauUtG8oZ7d9Sn05rZM+jm+p2mBebtML8veCXooRzOaXPNDuAl3BKd82zCdI2/jsI0KfZr+BBBT4n9ywmU6nK0LCGrm0Qh7tTeKZXjiUB2SeWxED0+CvL+tegrU57ikpg8ebMM7C4i5GRwguohNpEAyx/C/3nwq+kP6ZJ9P/5Srh7SweDPG2YQohYVQaTL0Cp8=;xg8aEHmsuPAOI6D7XOJ7Xg=="
 ---
 
