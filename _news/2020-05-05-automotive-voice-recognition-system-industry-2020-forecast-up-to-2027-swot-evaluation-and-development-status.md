@@ -62,7 +62,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 5
+    quality: 7
     images:
       - url: "https://mms.businesswire.com/media/20200505005562/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200

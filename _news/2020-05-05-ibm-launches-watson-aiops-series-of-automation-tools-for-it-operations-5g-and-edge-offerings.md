@@ -40,18 +40,14 @@ related:
         width: 640
         height: 332
   - title: "IBM Unveils New AI Designed to Help CIOs Automate IT Operations for Greater Resiliency and Lower Costs"
-    excerpt: "The challenges facing today's Chief Information Officers (CIOs) are more complicated and critical than ever before, as these leaders look"
+    excerpt: "New Watson AIOps and host of product updates are designed to bring automation to IT infrastructures for greater control, efficiency and business"
     publishedDateTime: 2020-05-05T04:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-unveils-new-ai-designed-to-help-cios-automate-it-operations-for-greater-resiliency-and-lower-costs-301052503.html"
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-new-ai-designed-to-help-cios-automate-it-operations-for-greater-resiliency-and-lower-costs-1029162825"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
 
 secured: "nlqYdAV+1kYF5T2w0lW06fs568Tmw+rIB0cWFhKVPHJE8dF9M+DPijmjiX9EpXElZtR1PxI3z58Uyz4auKjUybUTYmfmbsNW2cScb/pUpFJxdzG3F25VgY/7cLixg7YTKNSqNQOtEag96SfVAK2HNCZGwx4nycEa/0wh/uYqF9bbheDjRtjZKBry+2Kw3z7Az21wO6PFNNh57KwvhX+QlfI/eRLb9Tz4sWmJe/CS1l09OX6IoK6s7/uCWPB58wNu1Vr9IO1+RmIHG39oMplBMrupRzbvQDTarHQ695a53uItFdvd3lg087NFZ7NsSxqCA3PJPci6BRTtDO+vm8SopBa6vW1iKB66zsHS1VyJPLVmMVH91dZh9hyKmA8gwH9kcV35rUN/c3sv5ZFQmcyCuFq+dnWehLn+KwjBHZpDGZhNSHiruh/T7xVSGw67PWIIllv9CC6kPwuDoSkWAON+apnC7zERl0gSclcobC9x7dI=;TAQlmP2/4TRGqq2cqEJIdA=="
 ---

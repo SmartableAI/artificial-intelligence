@@ -1,27 +1,23 @@
 ---
 category: news
-title: "AI -- a new tool for cardiac diagnostics"
+title: "AI: A new tool for cardiac diagnostics"
 excerpt: "Artificial intelligence (AI) may be an aid to interpreting ECG results, helping healthcare staff to diagnose diseases that affect the heart. Researchers at Uppsala University and heart specialists in Brazil have developed an AI that automatically diagnoses atrial fibrillation and five other common ECG abnormalities just as well as a cardiologist."
-publishedDateTime: 2020-05-05T13:56:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-05/uu-a-a050520.php"
+publishedDateTime: 2020-05-05T14:28:00Z
+webUrl: "https://medicalxpress.com/news/2020-05-ai-tool-cardiac-diagnostics.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-05-ai-tool-cardiac-diagnostics.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-05-ai-tool-cardiac-diagnostics.amp"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-    width: 900
-    height: 300
-    title: "AI -- a new tool for cardiac diagnostics"
-
-secured: "7SkmrChVzr+ZNEz7GkigoHFE7xiFSUMiatrp5LblcvL2JMepq2ZrmI0k6KxG+QNo5wS7HYslD7xq8VvgAbwMEMSpsNXZYxcoQI7uXheJ5iHP7szjdA5SadnsLbPCcluoEEDQE64utckBkEUx4T3W05tFU8OuWcOAVMhpVROPKaM9Am6h+WADoL5JwgnN5Ay9BYqE2cexVDCDkbovk5P62Y/sVW99EtfRKpUgEggxguf1cxZO1VHGTqpClNiIYbohPMuOA1Qn/8kg/Rzx3b4Av3KGNkr9j6Cs97GDC/78kdBnHj7LIVVH0IwLM3FJTY+Y;h5OY+jOpplB49mypqA/SvQ=="
+secured: "CVosFaE2DR3h5BGECTPKIFaXtWSJ0WLr1v2WQGXGAgOraWRXj78x/ug7Pgz/KhQzzLC3IPFWjj4V0ohxhiiwxMlvLUzJtXbV9M6DHkWUHaBf9mvaA2m1NUm3S4fBupGNpmgLPtE/PZJ++zIlDfNm0Dwjbj14GZmxL5iDNGqM/S5vfp9WSG6bQlC8jANuY6WJSyLimyfyTqQoXbFhAjDxHC5+KjhxbEhscPdv6QSglkDVI8/KaqWJC5wk43aGtH0SY/DFkhtqy+cd08pztHv2wKG+gZNI+IayaULamjzmLQfSJNSNuDrsgKf+mNtmLV6+G1Uvy0UTzz2WO7xdcDQEFhUGUwW6Y1dsZzE8CMMoa1aZXnXXcbhH7xa8+X9fN0TWirMxgtTAbKSa9CIZStUtZXrByjhuQKx+V0Ud+rU5dtvlhRUz71OjwWkqNlm2JXRP+o3xQ+zQLKqMGQegCQFVHp5rnslUso7axnJSPLfUjtM=;YgiYKVwwp/bMuglTzGdnmA=="
 ---
 

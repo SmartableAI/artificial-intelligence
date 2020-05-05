@@ -23,6 +23,6 @@ images:
     height: 308
     title: "Will Artificial Intelligence Take Over Quality Assurance or other Technology Jobs"
 
-secured: "3zpWFx+iYxE7ttGIFgkkgbVrxYDCzrFp9L3CPV09kwrv3e0c5KZohvJ3Fnqks1lYkWsh/Y7vDn79M67cm6Eyp/f7vCAqlXznbOKC3w+R/QKjdz8nDpG9qQD+tAIiGfrt38sokZtopme9Or4iNRFvs8ZuXzk9e/mmfx17/tbo3EAWOP5RlOOQyu0OpyhAawCjqzyofOLSqE1sk4s8SeyWEBaqqaM0StqRXG69vt8mFoh4wEzyOHLpL+O93C8NeUCERpgKtvflkwCxHtRC3ehHNPjnHI58re9qRBwTgcmryAIDeWp3r2AX/KhPxVIfFCfb;rrWtzU3ct9/2+LkivjSq6w=="
+secured: "HZMpVoZN2l6nBdjpKDWNNoppCCxKdOboLfgbh9iEWGQOWI18W+l3jIsoXJ4aEXI6oqSJn/TVr+oFUXr9bw3VFOS9zaLneGqC+BQDUs6LlABBBSOvA5c0XqAYYXZFc92i58KhrKWodjct8WwH3AQhsfK8na7SwdUcC68hasAwqR/+/k6prpAtL4g1y9npqR/K7z+o2I8kbs1chuzwAueek3Anu1SmqvEwlTg0rK2IfsPeMWX9JvHEoyCZxQ/I8TPI3rEIqAlA7q+mAiO553BvjNeJJPIgj/UbHt87QQfP5LzHl+9EZPY9/b/VD1DRmMrNOOTshCe0lbyNsyHCmPLPcml8N6hRP2U+pzodY5ATbDRk9DA8kNaFBsF77UAZvsf9W/9Pn6BAQjmH+KyQcl32xrYpe/LZLfud7s1/E2SMd9Qc0nCAYtZNNVPc/PZehv/o+pmITMhVfVVc1ey315iqCixSTJFqxtlmo1LLr+9er8I=;n4petWDJSl1vOnzD1svmQQ=="
 ---
 
