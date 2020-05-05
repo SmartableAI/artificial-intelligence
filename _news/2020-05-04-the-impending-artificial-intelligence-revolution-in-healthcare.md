@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-04T16:31:00Z
 webUrl: "https://hitconsultant.net/2020/05/04/the-impending-artificial-intelligence-revolution-in-healthcare/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 320
     height: 212
     title: "The Impending Artificial Intelligence Revolution in Healthcare"
+
+related:
+  - title: "Innovaccer Named in a Recent Gartner Report 'Healthcare Technology Innovations for Identifying and Managing COVID-19 Patients'"
+    excerpt: "Innovaccer is a leading San Francisco-based healthcare technology company committed to making a powerful and enduring difference in the way care is delivered. The company leverages artificial intelligence and analytics to automate routine workflows and reduce manual overhead to facilitate more patient-centered care. Its KLAS-recognized products ..."
+    publishedDateTime: 2020-05-05T05:24:00Z
+    webUrl: "https://www.medindia.net/health-press-release/Innovaccer-Named-in-a-Recent-Gartner-Report-Healthcare-Technology-Innovations-for-Identifying-and-Managing-COVID-19-Patients-465732-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 0
 
 secured: "Fzoqc2IxC80Mkp/FJpuwoCXOo6Zd2+3Nzw6pYYIk6vB9ewqrqzalgNx5JrK2b97BqgqtyqRnIyzL1w3QnzP2+pKxhJYi5swvCZIG3Ua5+AGirJYRe2D4eFgrZrASvJ6dwkC1rFrBEzbeVTunBNlSWQ5ULOendKG8tBAdETcGNetZ26B3BP94LzQBzfEkA9ANJK7Y8/CCrq8LeMh9BztBkCW3YGjX982s+2qUfzxlhZSWUt58ChvGKiV0G5qStfjlvOgkVI4nbMuuNgxRpwMe+EWV6V4uwW7wN04btjO9BYjEoCpV70qsAkT7l+6GQhWsdcTO5hju9fpYuYe8+3QiZ0kGED/HTwJqOmMXemf+xIGwcx8bBJLGkwV92urOEfQTEMlor5LhTTOYj2ge8vx7caY2UGf383Cwsr3anH8JeGxtGwmskhfu9VCRC1ORzkaJXcHiVBnes9kiOOuuQllV91SJhN5929hx+dlu0bL1t/E=;VqrqeODqmOrIDwSoxxOOaQ=="
 ---
