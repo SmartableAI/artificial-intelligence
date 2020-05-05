@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Google executive attended meeting of key scientific group advising Government"
-excerpt: "A senior Google executive responsible for its AI efforts has taken part in the Government’s coronavirus scientific advisory group for emergencies (Sage), the tech giant has confirmed. Demis Hassabis is the co–founder of DeepMind,"
-publishedDateTime: 2020-04-30T15:27:00Z
-webUrl: "https://www.thisislocallondon.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
+excerpt: "Google says Mr Hassabis was invited by t, Sir Patrick Vallance, who leads the group, which has been advising the Government on its respon"
+publishedDateTime: 2020-04-30T15:19:00Z
+webUrl: "https://www.nwemail.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
 type: article
 
 provider:
-  name: This is Local London
-  domain: thisislocallondon.co.uk
+  name: The Mail
+  domain: nwemail.co.uk
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.thisislocallondon.co.uk/resources/images/11319113/"
+  - url: "https://www.nwemail.co.uk/resources/images/11319113/"
     width: 2168
     height: 1445
     title: "Google executive attended meeting of key scientific group advising Government"
 
-secured: "eU6g4gY7hxZWligz2TB1eFL2D9p9YVoWWVAPY2JvELWUyh0Y2Ewz9xYoiPf717Yppl+Sc2mhDymjDgOGVJPdNqyXWDmZRvAQTFWOP3B1TJXD97iDYisf1S09gLhBJgcBzXerBZvczG/Uph/I58jmqav86opTPKGZV5Ijeflyx6CTDQfi5XMUnSwJhjpnaTPVe9RfkO3tUPyaarhSEuhXSPiry1QVgso0VB9uRqwySE8ueR7UE8oUbQZ2xjfaeAoiRdZ1ggqnH4EAdff0nhYZg0Yc7+GSuQtTM3WOm1fluWozwQ/J6suA3irtiiwGplw7;TE496teisCOwL7Zix1LuOw=="
+secured: "keVtHnF+ybz6XoCXjVcvDAd38Izs1iyWZIVNDKhgNo1m9qj9B1OD6U4Aoh20fJ2rkEB6KI21yhQgasYmkV+3Wk0JYSbMPzlFga6LJ8H6inKp4q0/T34rMi9zgXSQNw/up462LGTCHZauIQkmEDXsaEl2Ut/iZOwG/bRC2oKiZlLOGJ6sEMyoDuPKGlqxCpi0JvC4IkGnNMzj8N1OTuFctDw8ZLYlNvN6AJqcCHZsjxZo/Gwew4z+YTqQrVYzH2NgZjDja3WTpEytD8EYClAMqmFGMWsfbXhhhXqjOGvKvrqCd756t3/iDLTprdVY3lfM;vnfEHnY1qfSaW81+9zY2Qw=="
 ---
 

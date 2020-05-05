@@ -3,7 +3,7 @@ category: news
 title: "Microsoft adds five new Indian languages to its Microsoft Translator service"
 excerpt: "The Microsoft Translator service is part of Microsoft’s Azure Cognitive Services API, a collection of machine learning and Artificial Intelligence algorithms. Organizations can use these APIs ..."
 publishedDateTime: 2020-04-16T10:57:00Z
-webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece#!"
+webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece"
 ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 384
     title: "Microsoft adds five new Indian languages to its Microsoft Translator service"
 
-secured: "daQRJB7FK7lybW5FkpykDYtMC8I+zTobvpaeq5uKuaW6hzMfvL3/s+JIJvQBkgLRCOvtQpt9WSbh6L6aNryuq2mdxYM8un7DppgRVIV1obvH8dt/2Ieqdsmtiqz1UZKI265ACG9aqmsZxfi34+foFn0GUyvLdDJm9msjAdEnm+Ng/nOYtH2ruQtltKY25X2pbXan+xlzBzAb0l8UD8HkxiOMfv+BNhqHKUkxe71iJ2EA1jnJkO1WxZj3RoLAa6SwmlG8/e2D0JHp2jUn6a7apopjPe1C1352CWrH1hwpH5aJocS8Osb0gUxGJsUDdNXT;HWpsc97vTTSoY+2ZNvztiw=="
+secured: "OTNAChtB2vymcwN4LhQ7Wmo0Wx/pvx9knKCLHBEkId0TzptfykUHNddCyEsLJRV+zkg0DAR6HZbVhosrpy7GCeC6Z6e8xX8TzjhzgAPSDM17jZpLj/vFjSGgR2My8GaKW4MhVHBskQH4uZ/NO5SDzTkf1ZNkiSNWwsIMChW0JH6v9Fu57TRg4ktovj81UjEkq5YxRy990MrcejS5MtC1XoMwao4Aft8bny8sCSsAoCwXutX8OVUoiT7iozY/9h1vI4hTXiaPRQ332qdpL07tOR3bOzOv/OUDb+bXMph86S1DMJGGt/xQfJih6Grisv08;Ui25H9TVqxLMbiZNSKX10A=="
 ---
 

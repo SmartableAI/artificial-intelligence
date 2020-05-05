@@ -25,6 +25,6 @@ images:
     height: 399
     title: "The Pitch: This telehealth startup is targeting opportunity amid Covid-19"
 
-secured: "MD1RVhFyLtUDslvKE8aU/5yTXj72rYNIw/KYj+008H1TbYpLG1MOhNSHAoN78By5WW8Mveh+2U/zD2fhBMPSeWx8yLrhGh/QkFzt8+o/4Rqex6TTj4sz7zpp59TkUj+bw/zXg505ZoBHj24u1umZZ+hLYFhwTp9JMhqEHmJugNzjVS0jzRertlSvVKeBCKIFhswvert3J7GNz0k3u1s261rQwb2Lc+DO4e9woALO2uVoUsOpoSnoTrJgngCvBHg6rDhcZrBAhIA++VCK8ltZxSZTo9ui6ImAHVaCzqClLHm4Feyox1vS6CehYm0oxoOW;ew1A7jJM6nxexCvgQ7I9mA=="
+secured: "4K5lK5YQzszB3grID7qiH+KMAj2LAdv4YH0uVp+tfVL9LcOdwmGgBgjLI5qg6tHpRhsdTQDm//5l7+Cbff3ahOHK2/OWlvOgPGhTppHSULf/gg23q1dxjJ+lXxu1E9UR0RYLHibHugGL3Wqyrz8I1sTdzyEKTELBLYNch+kLIot0l4zECWZHIJ0iB14bzDHEDcAXQHid10U59ZLHcRbKLGey8/NC3DUXeYMNLXsOC7WCx+EzKC56IBuuZDDKaZNLfTVwugM9lpX8Wag/XRGIP+s4XDLsvgqACVdu996hokvm12l//9Mzw3uK2AUfn/7qJLFzZf3ubIMiHD104C31/YYF3Xoha0s1LHpcLL7b3cZeHvK9OO1Cvkaw94/SGY+QS+amKj7L33ltmZlj2hvbPY90lTKlVxCyfiTIfyU00CRdrs75xjDgJcLK+yzTBTC1j8Q/rWz1OPGkYGVdgv/LswEOXPYYp5e7FbxaLEtT6WA=;win92Ye3yX7xsz1wfcmHpQ=="
 ---
 

@@ -28,6 +28,6 @@ images:
     height: 463
     title: "AI And Medical Diagnostics: Can A Smartphone App Detect Covid-19 From Speech Or A Cough?"
 
-secured: "kOvQnNXjiC+H6dbag1vzPl3SCVFY56ye2tW68eTvOxwPW/TfkdDUa11/yC82y83JwmkhVjV726TF6JSp+aqM+TrSohwg+JAgULqca6g5DFTGY2T7Rj183nGAXt+Q9PxiZT9XpiztBYOc48v97L8IJrocYqo0bSuBZXwKkBeFHnfPtSYIJKnbxT2JYYhY1VphL0HKf63aYb1tE5odiLFIWVrys30VOwQEnbmy26YnHzkvey+MPvmgpw1BEdCRn47JvQdK/I9UsWANNT8dZSbz17yjxpZE0vZSua3o4BY1+MagZOvwl3A98E+KTZSq+mk6;gUV1GErrhsE/uK9lNSbESA=="
+secured: "tsk5uZQYa300iJWfIzpkXdY7IZiqDO6k1IrcC6yFjA7koSCYW4UjvT+hy5AcjqSwhH6+gdO/eLB3ML+um3dFOsl7In9SrcGOs9NK4LsWIeKhiAK2jfWbxIbQEJqA8AuMIq4kucfdW0AmEL45rnwfS7ALzjbnKeKdbVzOe2y4j8fGUyqpxnJcxc5bVHxGcnIYrr+EhNrisHWbNAnC9ZU4rz2F62q0KnQj4En0peB3K/bz6lmwRHNI9t0YcJ22M6uIRmQHvPxU97ZvimwR5yWrNWuzXcC1ES3EH+7EaQdibFcjxCLnJEV1PNb9W2Tu7Zl712S0Fc0TkIHR9H/pS75IMRRiUc8e2Y1ZRt2F6ZrP+/qpzamhvFlCuVsfiQ3KnptCgd16twJGPXnw2eILgotgDSgvvriv7WFieOqwRnzfQmyPP+BlUzHCerPiEk0AzGD1Ru0zk/vBdigJP2JA2Xezacb1e+QrDtmSpRzfSqQwNeo=;s9/jeDP+r7MI9G45E5LD0Q=="
 ---
 

@@ -20,6 +20,6 @@ images:
     height: 628
     title: "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability"
 
-secured: "WSB866FHiH3KLDvQ46Ml7M++dJpfWtQVsYhIS22leTeGmb0WyW7buIEZbO4tXePB6R+6k0gHYYWRba5TevcybrByzCE1udDhbqc3inMRRc/8CgzJCQ6xg5Ey0HfsFwzyrBBJu6r0v2KmI4W+VV6RSTsJwthYosgsUFcHUT5etEA6m2i5oiVY98ARoSXWveJrYNcMzmeiirwXfdIG0C2oazTWJI7YMmrP4pNIxlh6TH6+7/FFbwM/Rik9V+kurSX3JUHvWECyzzO/2OQbK7mbSWkTDk8/MBWeHHQtQ2EezgmUA+Gq+eGStuNCnf5QpJ/w;KmYlXRKh1PbhrrJniMWEhw=="
+secured: "mDvM6LInyiS7nJzZ9yycOIPFqvn8EdafuTXDWGflXigowy+NA94s9j6qYno2tUrF3xC6Im8NQWqG/4JrtbWy9r7ayew/cL+CfiB1KPYS/1aC8OAQORE/y7keh+jQW4QpkmK9C0km+fw/xZQPL+AiU08GvxXdhXrMcVQJXXdj9ERTy30E+SC1kqg67d3jLsKYFJ+4ifcbQ810RTxqU5Klr9/ydwQ2yuEw0rmCmbm6pch7aoXVAeo+1Y8nnlbCB7VsYv+PAW9pQdJL3Dsx3h8n5U9R/8LT97sjX9wlWkWsatQMFdQYNVwBNJlrBCFHAjLFNS5sKhmH6ILzPIg4lBB0OBpj2+aXsQPy1V9s/CFuSpCcmtp/UUEum3httUUzJVy5vFS20yGf1nMwFVQ7or5mUcSdkIrEVmQS8Vmod4mopD0j+7ZvEw98lWfV7h/7TotsKfDrkm/fI1qo6DVvNWaAq1aWq4nXRsh6F5Dv+qtrsDc=;jitkdt090xwFC7DWFIUZww=="
 ---
 

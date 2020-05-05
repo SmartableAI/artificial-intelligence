@@ -7,8 +7,8 @@ webUrl: "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-le
 ampWebUrl: "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/tax.png?w=1024"
