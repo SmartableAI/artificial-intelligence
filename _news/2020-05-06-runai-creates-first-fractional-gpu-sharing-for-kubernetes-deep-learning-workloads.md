@@ -5,8 +5,8 @@ excerpt: "AI, a company virtualizing AI infrastructure, today released the first
 publishedDateTime: 2020-05-06T20:00:00Z
 webUrl: "https://www.prnewswire.com/il/news-releases/runai-creates-first-fractional-gpu-sharing-for-kubernetes-deep-learning-workloads-301053864.html"
 type: article
-quality: 33
-heat: 33
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"

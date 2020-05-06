@@ -26,6 +26,6 @@ images:
     height: 498
     title: "Women Leaders in AI"
 
-secured: "mTXSg0Ye3ffnIC/ywSWGkXN3QIKo9A5RCQYu96CUaZ9LM2DHBqcPvrCL1wFQn+tdggf8Y0CwkoCxF5r/l+jF4I7R+JGpiBaon5xc0ko66z+fIeiZIZQ7MBeZ2pLRZR4zeCtvYYcymrzyNx69//7QFosLYThCkwlpSLSIy3RLixdOOv0h387i/cy0JlW20KuNwAVJi6gzVVu+ZpyWjucgTnD0G1ZSkSjWgoWofIEo1h4VHeOwekZLy1MihkP/sO528HkTMzxEjzbMVOirQAdqifZnnj4EQ1yNn8jlTFxxUyMJqbuTYnCMPfxdToG6UpsTjBlQpv0SVWGUU3LojPR71w==;RfR7xC1mRI1KTG24QkOQmw=="
+secured: "WkhRbtaDVJttxozSLN/buALgy89FX4F8cT8ljhQoTBpirsmHuuyUieGDOZUvCMmDcJ/iA66wlV+cLIjmekLwuu5Cqezg8w5zpHaLiQ8tCnbpoh/tUCxJrNn1Yo1KrZsc64iynPw+kLt9bYm7qfTvR47A3A8RzMuoGR+4Jx+N2Z3HhQtYYAUx3UanKttHR8SvKiL/ITM3nMooYmKTMKhqKfb/OlKOckGWTlPMTnbYuIdu5Zs+1uQxe8Y8GF8zYuexbQFgOee6KgU27E546qG+xjysqGHMp2blqOdA6jg7dsBnnVyWGfqZQ62XMLUfcJRgZ0oHjqxihEWrgTDFf9apZw==;ugdIndITsjtUkc6LajAz+w=="
 ---
 

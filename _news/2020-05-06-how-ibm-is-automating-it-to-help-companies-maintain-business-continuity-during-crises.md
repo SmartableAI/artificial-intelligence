@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-06T19:44:00Z
 webUrl: "https://www.businessinsider.com/sc/ai-can-help-it-departments-navigate-crises-2020-5"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Business Insider
@@ -27,6 +27,21 @@ images:
     height: 600
     title: "How IBM is automating IT to help companies maintain business continuity during crises"
 
-secured: "BU3sJtUrqGXWL2y6c4Z8Ct2BWnsdYzRrf0RKCgU2tAEfu5tnoHdH3YX+9veY+389u6yCccN8n/ek32rBfLyTliYfOf7M81Pn/I17bgQKwkxiu9oM/0ygLweUzHYiQILcYL+9K08RWNZNjsicnXSzw6sb730UQCBWSSZPu32HM6hdMWKOsZNXC7OU/oxJT4SEQEaHSuxbh1pjct+0WVZ6X5z/iPSeOSJleWhmr+vXyhqlR27WtTJZVfY3k4S4RP2zMjQ0IX47YbVAOkiEwmzQyeJye6V3cld13eqHOgiCazHYKLfMN18o/yjNbiGrDrsZ;GLvcm4UOoIVIJbhAnxwgvA=="
+related:
+  - title: "Leveraging digital technologies is helping healthcare, finance and manufacturing companies battle Covid-19"
+    excerpt: "Some healthcare, finance and manufacturing companies are surviving and thriving in these trying times by leveraging digital technologies, including using newer low-code or no-code development, cloud computing,"
+    publishedDateTime: 2020-05-06T20:20:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2020/05/06/leveraging-digital-technologies-is-helping.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
+    images:
+      - url: "https://media.bizj.us/view/img/11656850/gettyimages-1168971519*1200xx2121-1193-0-111.jpg"
+        width: 1200
+        height: 674
+
+secured: "8ifjq9oQBYtnPu3FMQVrCWfJuAQasfq2VLyW3IUFQZOul89GXgri4T5s/A0JllAZEib4wDcnPiy/uoaXoksMZJF0OhqQsroHGMjtdcWqrkx3RSqKDIpGlKVmR9dHgwdmFB5xeVTFr7PP8Z27b+34kc5UrSZV81l1rsupEMknbBjfPtztfSvq0K6fi3Z8Hn3Gb5X0jfpR0h4pAPY1n9/xrtYz9apVIDvvou576cDnkLEXgugry13uXe8k+l135WvUZxkj1y2vsu/h0OmL4r5UsJFSvd1WVM7AWfrIboiqHMa4ERilRrfoA+t+Ay2nnniRzwGaeQfL6UvFOQEI2G02/5WJE+/Jmeq8Cgm0RQ5LmQQ3qKPAbiXn3/Qowyh7w0HjJMcougGeCtcjOzz5sOrBo36f5mozxELa7skIVGvkNXgOrfvpw2AQTS6Qg4z9qPuS11GbDG58ODc1hlyhqmRjFayKQIlo2VHhg/IikmjtLBk=;hAhGqlEoz7U1D3BOX16z3Q=="
 ---
 

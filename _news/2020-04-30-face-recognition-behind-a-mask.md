@@ -3,7 +3,9 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
+webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
 type: article
 
 provider:
@@ -11,9 +13,9 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
 
-secured: "/8rqbRKa7Goo2WN5YyIp/51XJ6ys96pMWh1vGz50H6gERPPD+NX3TM5GFX/dK1p2NA6QFzOqx4cJSgW6ORFSu9DQb0VqQJogRf2Pu8sKBa6lA2yUAPYaR7z6LT2vVW8No7nEv6YDk+kTom1ipC0S+mNJnMs1qz/HneyWJAkgbTOP87QOnwYfJjjNOgVhLdzC4A684ETsOaB618b+wPwjncHHOsxLYIrKQurj8qGbK7wGAQwsCI7bwu+6+BY8N0x2R1nNKRcrvh4bes8g8vZMY2Vc5ma0HtH8d+AH1Sq5fL25/qwLqxq7lVoeADd/ewFiLZZjWzYdAN8ZirBsREoPQAykL8uOVLvdHkMiNqalafgE+uo7JfePD0Hc5N2GfAK5Jea6sMUflmHdaLNjXyE6GE2gnYmcQMBUpC9+E4o5HlTeEsfnzslkkWKbqed6/cY8nf+ydj8C7wEGJ23pllcNYw0it5NNo0ZT4cO8XKvXatQ=;R6BBys9ENzKFB40+6ytXIg=="
+secured: "DfavOegljVMWSTADwblQ/UEESiqHv+c9eQsLhZJk7aK4fGWOPNpdysUw8xyyisvs1UqhOlDdNNBsJbP9hzYgrMxE3jV1H1TSIa2snyXNiOWU7wfZu2nQ93rXyQu57ustUYs98DIDQ7PjGI1zaARpg+P3+3deXqbqPadtwuEITQ3fLEbCHs1AsD3l2W49nIKGhptDfEbV1WbslXoIggIkX5sNb+Elmw0uxRDfU7C2lnf6Bji2aBO3P4ve+337fcTnlp164rBJHBs1apoWRH/MXW+WDfIWnXbPreA6o0HIV0Hc7gw2pZHjPAEh52hiUEy2tQRyYZDaZnGNEBBtTde/u5xmxkO5n6nElfBmCv4pH72KfrtpP3bfTCPpwp8mJRJ8YLoQu6fMaSd99e7qmogJma/etXw4uI3T0Prt+eVm7YxiHj0f2y5fKsF8H9u/J9ZO/KSF79zHvQAug+NqjyubI3/DDzWxdee3PHWl5EdC1RY=;FmpE2+HteGS+/OILOpysrw=="
 ---
 

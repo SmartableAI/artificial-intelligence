@@ -1,0 +1,33 @@
+---
+category: news
+title: "Facebook’s AI ‘learns how to learn’ to transport payloads using a drone"
+excerpt: "In a recent paper, Facebook and University of California, Berkely researchers propose an approach to payload-carrying drone flight planning that “learns how to learn” models of environmental dynamics."
+publishedDateTime: 2020-05-06T20:46:00Z
+webUrl: "https://venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/"
+ampWebUrl: "https://venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/amp/"
+type: article
+quality: 87
+heat: 87
+published: true
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2018/08/Drones.jpg?fit=1200%2C800&strip=all"
+    width: 1200
+    height: 800
+    title: "Facebook’s AI ‘learns how to learn’ to transport payloads using a drone"
+
+secured: "C3ONNwtharkdMzgJq9qVh/WQCPmNgeLbbPYGP9UAM4SI0K7NEhbGpSZc0w0swMSa3ayoGTQXel44ne95nOta+rBrTy+kv1A9/R5C/xD9+4QQlcWsZ7lD3g8VOl3ijPoQvyolj493NuNv2/muW2mtC7vTkgx98GnzUbS9hXJPAyF4dLiecuTutS7dS7/9qLYUAeYtc9ebVsnCY2qHcfZRepknb1erBFjuFxC5hgn0yAwx43/Iki5r5EuD6s7Eia0txkr0765xSoADsuD7493EgPVbWnhcIJT7zqbXWPQJ+YLMwNSfCN+BpPwLGWXZ2Qjj;HJF7ox+CqS0dLJ54WJiPhg=="
+---
+
