@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-06T00:01:00Z
 webUrl: "https://www.ibm.com/blogs/watson/2020/05/women-leaders-in-ai/"
 type: article
 quality: 102
-heat: 102
+heat: 103
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 498
     title: "Women Leaders in AI"
 
-secured: "uUEC97QFfH9G9i8W0Gatq2sqV64kfCqMV/nGU8mE6c237/+F+pNsByFVt21ba3ZvtJKQtJXUCc7vjRvtEAU6hZNvtW6oYnyx1eWq5Rgv6xYJuLeswN9ylN+WnFwIgAVgodABtIhqXWsiQYTVo3lNpwe+r8yYS0iO+94Z7iOT/xKsgP+ypeobNpIyhQk4kz2dX4qHT0zohn47ALWkLR3ZMCYkGmsiVEQLvtU1AtFJmj2bSM9+ObdcPumFEtEjuc4LQ5Kn70P05TQPXyB00E69N6ha70IUdTejQ8HrVXXDRp0ZhAIS5P3HXDuyQGCgGkDAaLVVF1CL5u3XZNTlyiAx/Q==;Awc9HXcCuBN59gmj1Qcrlg=="
+secured: "7ZcIBDd3MikFrKsxshyGKIoq3IEvkkn6rikYhrWkAbE4KRTFE6l4M+tmnyXa8JssFMg6bjZLFWrttF/K0ZhLZGem+jvXcaqi6HawsxCVqLnily3eJVQ6arJz482i1AWKtMh0cFpRPGcOPtnoa2vj+BF68DZ6o+oLQEHEs+ArEn+DaO5U2K8cGC/jGi5P8TpUpjT8RXao2i7CxRxq0QMoatoRkyM5uJ0QHCju69M+u0LBT4uUOxp5wvoBkekwOhVjcEwRYLuF5YSkXcOcrvDb+/UiGHDYpv6YPWKBm2mjzbtymIe9f+z9gQ6RUzIXUXeRk8YXy4ObCVZXOK2z1A6stg==;5f/y8M1+yjVtufYHfMu1cg=="
 ---
 

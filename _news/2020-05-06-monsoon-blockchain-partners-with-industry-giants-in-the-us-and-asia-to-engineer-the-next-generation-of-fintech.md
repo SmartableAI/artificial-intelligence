@@ -29,6 +29,6 @@ images:
     height: 315
     title: "Monsoon Blockchain Partners With Industry Giants in the US and Asia to Engineer the Next Generation of Fintech"
 
-secured: "UfZeblglyDL3ivPlGoTf/ERQJEut1egeD5/aNFuzlH7a5E+e8+qkVOBuwBTIreMpIbkVLaxQgM6n7X3EYQAlUFBwspm37XGuRSIx1gQ6yib9XydCwkqq8WJW6lIQ73rImImSQmITrfWai67/tjiYcqnwrJ43wqR8h7f8/p/J+ApU6YVeeoy/ixW0yjQxAH6SNtaMkvcTAbLKGFhXVEb4CYSu333jMRW0etNTkCiC7EreAjTe3JfciJqzg31kDoFpp1e4t2M2GsvHSNv0VEl3vpTrdAbmKFrLkT+ROtz0VYqoG/jbrHYZouWNg4NO+T4x;m72Rk/Hg0KKouLDUuK04Yg=="
+secured: "BZMAmLSYKI8YPSSXA+wiuEiF2LZ6TUEmhVM2NyR3pnKyf6NoHPMg6ZO4rK/2GRjbnWMS0F3ToWsKzX4T+nkZ61m8Q+usNyaki9WGe/ScP8Xc5D3hmThHUfxnGHDtyeh/S0uC9699Olioy7g+PI9mwxr8w+O7dB+oP2vhuoM//cOqvxWGvxV3v0r+ZexlEbu6a/VQIDNDnpxT2HT98Itx3n4Kwliz9z76WO8FN+juNE2LBEM7D6tTANmHU9zioExRn/s8JTc9nCMY8X3vx+dFWI9gijeCvBWczFwolwPwsdfDg7x58PBA2JqOCQR0tKlhDpWCyaSFrA1ou6wNFXSYYNfIQEJrjLSobFrSjmCd+44Ug0D6KsZeAk+aBxUMrBQMfBKEk0LNfwcjZtUPwKCAjnW7a5HclEkCXRCxn6bhlEVabMfw1awhwIRuuRm4EFCueSDMVCZmBE7PRRhgHvxmGepzhj292jkIi2BeN9GnHv8=;Btc3P+0JKMXGCLZlfZs0DQ=="
 ---
 
