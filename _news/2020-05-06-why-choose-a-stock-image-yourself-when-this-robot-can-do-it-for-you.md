@@ -25,6 +25,6 @@ images:
     height: 630
     title: "Why choose a stock image yourself when this robot can do it for you?"
 
-secured: "2CjuV+LFd3VjMbFi6oXP04Lgwt2RhbnDp3V/vOH767P9ViN4KhcemHS3p8ogd0xDyD5CzWZDaK08m+Doj3GFwKjiFFGquxWZb8qQeScjMROnN/SQvGia8R4Sl8OkZeUT4SABptI+haYk8poqJz5FUyLxJ/A/a8Txs9OssfdkhBue01mpDQuRu/++qoOsaNoiwsXSv2sTji1GqfYLH183UeDeMiy52SOjSjlai7AbKu8Ai8nSOrxesFmq6gapeubMF+/RGH8LPU9WhnVndRX6IF6sqUKl7Iiqq+/5SmktDAEDlD7DHmbG/X+tG5fKzqXZ;MLK+HRIJHAZSNKBHWZ6HGQ=="
+secured: "s4MHdx8QpM97fyM0R8AsWgbP6x7kbDjp3pPlxufiKmb8OgKiEJmFQfd3ovR9mTCiqTkZdZFsrx/MJWcvMsg4+Ty0rOkzUwWnqjvnG2zue4tScKIjoPOo+vbvte+bgvj/j68ve9YYhOXveGjVlAEX5JSBAId0JUSqDEV5nPXWabtwplrm9db9fzypm/RSvYvZWALJA7g7LG7H2b7S5Lyu78ZMkDw2zmPfLtZNOuk+0tEyX4y4sbfWKwoqgDKpTqXA843Ztatzbb0Zxc5JDFmse9QCnKGIJJ5Fxv67IcOhaS7QOoNc46/EMWH+vgJsSRrSznuxETf1eLvtOJsFSBFbKveQd//SylAuyRmZJp1Qm9ZMSA3E7eMB8JvWxuGgolsbL7c920h/xlanivFtEGD8sFO52iD4G859PyOwkwFs2F6dzKqWScVnPRixdHIqqsaoZuhzTu9YSn+ruTYB1nrAyUElrocHN/zuJgScFEB/Lpc=;qiG88sPJznWIGniIrYASRg=="
 ---
 

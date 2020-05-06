@@ -5,8 +5,8 @@ excerpt: "Cognitive Services are a set of machine learning algorithms that has b
 publishedDateTime: 2020-05-06T08:21:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-next-big-thing-2025---microsoft-google-aws-baidu-nuance-communications-ibm-2020-05-06"
 type: article
-quality: 82
-heat: 82
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

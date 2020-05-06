@@ -2,6 +2,135 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-30-its-no-joke-ai-beats-humans-at-making-you-laugh.md",
+      "title": "It's No Joke: AI Beats Humans At Making You Laugh",
+      "excerpt": "Research shows people don’t trust recommendations from algorithms—and that’s a problem for companies that increasingly rely on AI-based technology to persuade consumers.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/",
+      "ampWebUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/amp/",
+      "publishedDateTime": "2020-04-30T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9747a11048ea0006cbddb7%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "It's No Joke: AI Beats Humans At Making You Laugh",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-moxie-is-the-robot-pal-you-dreamed-of-as-a-kid.md",
+      "title": "Moxie Is the Robot Pal You Dreamed of as a Kid",
+      "excerpt": "Whereas other companion robots like the household assistant Jibo or Paro the robotic seal are designed for adults or the elderly, Moxie is built to foster social, cognitive, and emotional development in children.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/",
+      "ampWebUrl": "https://www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/amp",
+      "publishedDateTime": "2020-04-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ea9c7ddf6ca1700082903b1/master/pass/Science_Moxie_gray_727A9788_face_lights_color.jpg",
+          "width": 2300,
+          "height": 1533,
+          "title": "Moxie Is the Robot Pal You Dreamed of as a Kid",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-patent-office-artificial-intelligence-cant-invent-things.md",
+      "title": "Patent office: Artificial intelligence can’t invent things",
+      "excerpt": "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/",
+      "ampWebUrl": "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/",
+      "cdnAmpWebUrl": "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/",
+      "publishedDateTime": "2020-04-30T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTTV",
+        "domain": "cbs4indy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbs4indy.com/wp-content/uploads/sites/22/2020/04/GettyImages-476176424.jpg?w=1024&h=683&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Patent office: Artificial intelligence can’t invent things",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-ai-in-africa-training-bots-to-talk-to-my-mum.md",
       "title": "AI in Africa: Training bots to talk to my mum",
       "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
@@ -44,6 +173,51 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
+      "title": "Artificial Intelligence can't technically invent things, says patent office",
+      "excerpt": "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "publishedDateTime": "2020-04-30T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Artificial Intelligence can't technically invent things, says patent office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -268,7 +442,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.newswiretoday.com/news/172805/",
+      "webUrl": "https://www.newswiretoday.com/news/172805/Eurotech-Announces-the-Availability-of-the-ESF-Cloud-Connector-for-AWS-IoT-Core/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-29T21:57:00-07:00",
@@ -998,43 +1172,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-29-dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-20.md",
-      "title": "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0",
-      "excerpt": "PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-2-0--301049518.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-29-cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead.md",
       "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
       "excerpt": "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,",
@@ -1158,134 +1295,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19.md",
-      "title": "Self-Driving Vehicles Get in on the Delivery Scene Amid COVID-19",
-      "excerpt": "Since mid-April, the cars of General Motors Co's self-driving unit Cruise have flashed a \"SF COVID-19 Response\" sign on their windshields as they deliver food from SF-Marin Food B",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-04-29/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-roborock-s6-maxv-review-the-robot-vacuum-for-pet-owners.md",
-      "title": "Roborock S6 MaxV review: The robot vacuum for pet owners",
-      "excerpt": "The Roborock S6 MaxV adds dual cameras and a Qualcomm chipset to its tried-and-tested mop and vacuum capabilities.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/roborock-s6-maxv-review-1112547/",
-      "ampWebUrl": "https://www.androidauthority.com/roborock-s6-maxv-review-1112547/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/roborock-s6-maxv-review-1112547/amp/",
-      "publishedDateTime": "2020-04-29T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/Roborock-S6-MaxV-robot-vacuum-cleaner-front-view-top-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Roborock S6 MaxV review: The robot vacuum for pet owners",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source.md",
-      "title": "Determined AI makes its machine learning infrastructure free and open source",
-      "excerpt": "Machine learning has quickly gone from niche field to crucial component of innumerable software stacks, but that doesn’t mean it’s easy. The tools needed to create and manage it are enterprise-grade and often enterprise-only — but Determined AI aims to make them more accessible than",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/amp/",
-      "publishedDateTime": "2020-04-29T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1031459542.jpg?w=1024",
-          "width": 1024,
-          "height": 660,
-          "title": "Determined AI makes its machine learning infrastructure free and open source",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

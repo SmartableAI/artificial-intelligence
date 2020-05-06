@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-06-computer-vision-is-transforming-healthcare-with-rapid-cell-counting-and-patient-identification.md",
+      "title": "Computer vision is transforming healthcare with rapid cell counting and patient identification",
+      "excerpt": "Fast forward to the present day and computer vision is being used to identify and count cell nuclei not only more accurately than people can count, but far faster. To accomplish this, an AI model is trained to identify cell nuclei.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/06/visual-ai-how-computer-vision-is-transforming-health-care-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/06/visual-ai-how-computer-vision-is-transforming-health-care-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/06/visual-ai-how-computer-vision-is-transforming-health-care-syndication/amp/",
+      "publishedDateTime": "2020-05-06T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-copy-1-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Computer vision is transforming healthcare with rapid cell counting and patient identification",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-computer-vision-market-share-scope-revenue-trade-analysis-trends-drivers-2018-2023.md",
       "title": "Computer Vision Market Share, Scope, Revenue, Trade Analysis, Trends, Drivers 2018-2023",
       "excerpt": "The computer vision technology landscape continues to undergo relentless transformation, concurrently creating new application opportunities. In 2017, the global market for comput",
@@ -180,9 +225,9 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
+      "webUrl": "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-30T08:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -198,9 +243,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1234,51 +1278,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-former-fbi-agent-of-25-years-explains-how-to-speed-read-body-languagenow-that-were-wearing-face-masks.md",
-      "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
-      "excerpt": "Our facial expressions reflect our current emotional conditions. But now that many of us are required to wear face masks (to prevent the spread of coronavirus), detecting each other's thoughts and feelings can be tricky.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
-      "publishedDateTime": "2020-04-16T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106490292-1586980001137gettyimages-1154813597.jpg?v=1586980056",
-          "width": 6720,
-          "height": 4480,
-          "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -5,8 +5,8 @@ excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today at its Think Digital conference u
 publishedDateTime: 2020-05-06T04:01:00Z
 webUrl: "https://www.prnewswire.com/news-releases/annual-ibm-list-celebrates-global-women-leaders-shaping-the-future-of-artificial-intelligence-301053531.html"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"

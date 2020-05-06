@@ -23,6 +23,6 @@ images:
     height: 1920
     title: "How This Chennai-based Startup Is Using Computer Vision To Detect Violations In COVID-19 Situation"
 
-secured: "vfmcqnZW9mjXjYlvGMcjN3hWBSi9dNhmvS9T68vOync+IbmY3qZm6SeIYz6i5pUhstbelNfaUnuLNuY1sCmJ4Jwc3nnbEpUqknixb4u8HGLCrsgN2+ykgIofImPX6+4NPfg4lXJm25lqtbZJC0vYf26bUXrqBaKH1UCPGdt/tcXZ/1r7iGh/V4EftDhdAYz/A87z7PcfcQwTAICM1n5jT+QmWNeXDncD6qhZiGmUfOCrLGKHQLXPp8bQ9H1ZPvHDpRFYrDK4slDJJJGwtpcEIztq+y72TOTeGkqK3rRiKR22M9rz7Rk49SnIyxnQtn97;3hRr1uhKPVa+BL0h7WovJA=="
+secured: "0eSC72/TLeDTRbCfWp/GynTG6nc7a6bT5zi6+OUTbJCEqQz21cb3UL8SgMGZV60d7mpDGR5eTStT2s/RFKeDvEqHfqzomxT/xs1IR7euEjzgD//0yfcY3OFpRrdlUG7Sfx0WA1LgZE42hXw2whvIeOhX+x07Kdork6uoVq6cJWiL8RZVlZCzDOEhLKJLTXFY30Ol49YCVF9CvbZIBLI2iyouI+iBjkvmgnSYbeywuV9Hn0z1xi6Xwm/dkanc0galxY4/LILLEf4CBq1f31QASBMIpGXid1/dKNDEjXO5YsCXAir/zez0RzG6//VBhIjDZriEW8O/gOIwHHjdLGGP9Cm2p+0z4PNqcuaiSahUTP8Z+8rb73KXLNXdzNbe2SGyMxGBCT4SNdQiPct8n0SK4CLZhiwg+0yAXg/RZ0zRq54GpknYXIEqBgadRxCPAEVZzUz/p6Z7/FGHT1mD1LNqvy1gx7d/b54+wA47Kc5UE8Q=;9P62Dww4O5BmNiTbIEJkTQ=="
 ---
 

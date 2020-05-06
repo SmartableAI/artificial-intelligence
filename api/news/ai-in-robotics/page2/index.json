@@ -2,51 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-04-22-how-will-service-robotics-market-deal-with-the-covid-19-crisis.md",
-      "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
-      "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/how-will-service-robotics-market-deal-with-the-covid-19-crisis-2020-04-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-22-how-artificial-intelligence-iot-and-big-data-can-save-the-bees.md",
       "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
       "excerpt": "Artificial intelligence (AI), internet of things sensors, big data analytics, and other technologies are being used to monitor and develop solutions to mitigate the global issue of declining honey bee and pollinator populations.",
@@ -1228,6 +1183,51 @@
         "AI",
         "AI in Robotics",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-researchers-teach-robots-to-move-more-like-animals.md",
+      "title": "Researchers teach robots to move more like animals",
+      "excerpt": "Some of the things they’re able to do are very impressive. A group of researchers at the Berkeley Artificial Intelligence Research (BAIR) laboratory at Berkeley are trying to teach robots to move like animals. The scientists say that they have presented a framework for learning robotic locomotion skills by imitating animals. Using a reference ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/",
+      "ampWebUrl": "https://www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/amp/",
+      "publishedDateTime": "2020-04-08T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/robot-motion.jpg",
+          "width": 1280,
+          "height": 608,
+          "title": "Researchers teach robots to move more like animals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -5,7 +5,7 @@
       "path": "_news/2020-05-06-cognitive-services-market-next-big-thing-2025-microsoft-google-aws-baidu-nuance-communications-ibm.md",
       "title": "Cognitive Services Market Next Big Thing 2025 - Microsoft, Google, AWS, Baidu, Nuance Communications, IBM",
       "excerpt": "Cognitive Services are a set of machine learning algorithms that has been developed to explain problems in the field of Artificial Intelligence (AI). Cognitive services offer an organized way to reach business objectives by dropping the efforts essential to work on recurring tasks.",
-      "heat": 82,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-next-big-thing-2025---microsoft-google-aws-baidu-nuance-communications-ibm-2020-05-06",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
