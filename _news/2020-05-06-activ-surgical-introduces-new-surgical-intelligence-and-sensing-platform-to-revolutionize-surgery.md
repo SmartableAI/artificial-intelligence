@@ -5,8 +5,8 @@ excerpt: "Activ Surgical, a pioneering digital surgery company focused on improv
 publishedDateTime: 2020-05-06T16:11:00Z
 webUrl: "https://www.prnewswire.com/news-releases/activ-surgical-introduces-new-surgical-intelligence-and-sensing-platform-to-revolutionize-surgery-301054095.html"
 type: article
-quality: 11
-heat: 11
+quality: 13
+heat: 13
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1164422/Activ_Surgical_Module_3_1.jpg?p=facebook"
@@ -23,6 +24,6 @@ images:
     height: 1005
     title: "Activ Surgical Introduces New Surgical Intelligence and Sensing Platform to Revolutionize Surgery"
 
-secured: "Qibiwnwo2hj5F9nhC7sRo+96BIc97UdKRES6etYZI43athyVe0qYJ7OvlOl0mkLJk08tUWyS7ZXyixOrpJfXn2Qe6Jbwvb/yyqEUNZdA6BJTp8rTGzhHS6OHBC1C4mXaT5fO+4MV5p0/2j4CxNECaoWlxL38IUnFIEtiYvblZTVP7JONO6y+BZdYCKwsTzqr8Yiq7cNhbYtqqaH5AO4IC1ICuEaWpOqLvt29ILyEi0BC7XGqZhEC1nRRUsNNwStwqRn+4PfwJAvjD4C6AKw/718p5BaIObrqKfkRQo4QIZCdilJRJwgwVK0E5E/HqSsZ;JehCiD3lmL2ufBbp1rW5Aw=="
+secured: "VUirvblPKPBcRbxjEr9J+R1YQWgtFF+9BshHqtVcKYHTxGlW3Y9KcEPTChDtqtft2MM5zalPIIi7SYSb/G5lAIPABuBeHDq1mW6rfbQfbaroAt+1yL7ut8/4Mg7BNAkKf6CAl9+ls8heOLWBkV3MrIuqpk1MnjAQUTUKPkHe62eLvcrfIcTuRuTWwf9f7O7YqeTSSGtp/vxRwyybjfJWPnIJnFmXv8fdyXeu0IiVtG5WcEn4VMF5tgErN2AK0X2i4f1Hf7TneivY1ERdk2X/GvuJWcKCh5XRZb77hAOdHcZl/EB4H3G4vbaOKHVGP0OnVpExgEwMCQo0pXIqXxzGwJOBnDriAif3rv5VTStOcupFanDAfMi+YebCGwuiEunU+vItmuWNfSpPQ4fbH/mexOJdCPY+8GSYewuY5sQSI+Su38Rjtm+/AYebAEWGPg+CKoZDSLtcwMlHRDxaeBpBnd/PYuRJNTVGMKCV6rqpdPo=;r4mw7CWqafJPZ9yiu8bF6Q=="
 ---
 

@@ -399,35 +399,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-face-recognition-behind-a-mask.md",
-      "title": "Face Recognition Behind a Mask",
-      "excerpt": "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
-      "publishedDateTime": "2020-04-30T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-30-ai-in-africa-training-bots-to-talk-to-my-mum.md",
       "title": "AI in Africa: Training bots to talk to my mum",
       "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
@@ -1234,6 +1205,35 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-inference-algorithms.md",
+      "title": "transcosmos releases \"Automated Call Answering Service\" with the power of speech recognition & intent inference algorithms",
+      "excerpt": "PRWeb/ -- transcosmos inc. released an \"automated call answering service\" that utilizes \"BEDORE Voice Conversation,\" a",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15845146/transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15845146",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845146",
+      "publishedDateTime": "2020-04-21T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

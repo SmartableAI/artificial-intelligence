@@ -29,6 +29,6 @@ images:
     height: 768
     title: "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers"
 
-secured: "7Yu5urTvSF0J/UYmbsnjn5Jsa3E4d06U5WVipjuoAIkdmhnYJFFklAxPwRzUTk5V4RlgpzzBwAFJ31yGtK1YOHJlY0VPfcG9Lkt6v3Z7UKSnpMwg0iNlmcNdq+ohEqfaIEH++C0mc/mpkqR6CuuYRxjLIroa7YlcbZtkvUt0eyH7S4Xa9pLfrd85bcBTMCrI2SQjlwpWsRsW8yNcu3HJTDj2wubUWEZxE4NnNnGjHzStYjRrgl6Vr5Eg1XGdgE4FNYsja0PrEqbs+k8hhzKEKE0eNa6ZeZRJxTszyn5aoQAP3ojVuCuk2vDIrPbC8+ge;MqokQjk4w4Ok2rXnnWnk/w=="
+secured: "96Mc9tpZEEU+RiD2jbNP5f++b0JbQJGBqRbITU5riyDr1ETH23TG+5n6rveleVn5dNp1XahSYlgu4QJJ2EN9IuNAfRxf3qveuQOQA+WxxMtRE5vDNCg+kB7FhWH+QqLZFQrGKLeE1orGi1Ge2IfLnJoqJ3SPYup3nVF6mgw2a3/oCTa7qiq1rA9tf6q+FaLS/VcjMDHz/vLDpL8jwGMtazk6ZvAXtBtp+994bT7sql+wzahmRg7UsOgSSdW6CFDN1ZCEvyFSHiJS5NZJkf1dVhjVLk/yqQkdfoQC2Swj3Ne5ziMqUu53sb45kUuOK8dz5czigGpCxO5jijdJe2sHyMDQ/C6n89yS+kdNXLoeIvTvsV6+MT/vmfgr1mAm6QWaWkIVQpQMb8wm5XwNR8mGQHBEYCnlqKhGbctM5DsOqUdoMscGBkm2gexbt0ERDwHHO3xGzpV/Vt6EUIUO+zQbchdLLo/9kVpiQnyqu/8STRE=;mGbWo88JIV+yi+xvA2r8SA=="
 ---
 

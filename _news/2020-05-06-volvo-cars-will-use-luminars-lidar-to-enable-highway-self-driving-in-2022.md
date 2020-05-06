@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/volvo-cars-will-use-lu
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 632
     title: "Volvo Cars Will Use Luminar's Lidar to Enable Highway Self-Driving in 2022"
 
-secured: "LuuMlw0sla7bBaUMuN+Kttr06JWxTyVkLAteuVQi7bBuJqccJvgfqegRXY+9WIrVgrHFNmiqMl4KzkYHvAhFhf0J9MtYYhSX3eBc0eTFUJ03C9eqqquC6GokOjdQK5GjAGTTzHINUZxJ4EsQMFrT4E/5eR7Gy1sf12ivmn4U1y0VqKWlAE2LTsheGWe0zfbxaz1tbeN5LxxqbJpjGKCgcTbMzeov19hUGmBVRM0qQWdIE32J+Frz6lA76Se8vNvWhAH4wgj4QwJuQIvg01xuYJ0GqcfrVYDdNwhFee+1F0QiBUcr1mXzDKw+VmbVUuJz;nVrNWkQLzRPr0XdY6UFq4A=="
+related:
+  - title: "Volvo cars will have lidar comparable to self-driving cars by 2022"
+    excerpt: "Lidar sensors will be available starting in 2022 as part of the SPA 2 architecture—the successor to the SPA 1 architecture that underlies many of Volvo's cars today. While Volvo hasn't announced specific model information,"
+    publishedDateTime: 2020-05-06T18:22:00Z
+    webUrl: "https://arstechnica.com/cars/2020/05/volvo-cars-will-have-lidar-comparable-to-self-driving-cars-by-2022/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 34
+
+secured: "O+R+KZcb/M3320JBs+70lR2PcVizpKm9wMHrlJO8qdR3Kn7oc/i2YEHUiqGJaGUNKojUsYTQzq9fyu09g6K8bZ8xuvCyYi5yzG8HWTalUUGKPEtCfEenF+5UgZMftihg7EnnpAP038Uzp24Jy4jpuvbnMk3996FLl0vsjgSiR/3oSgkP1R2LISAyQldmElYiJStI9E4QrVDJvci4UpQAcNW/bEf6bOKljI5FUxr7Y+cC1E9F/OasrkGa3LZJPaspc7l/Z0igVGryK+QwuQKYJODaR+35xTF7ca1L9CR7vC67ueEdJjFbVMAPYIFhfzC1JKQLJk6kLC8DzgQ0mUiuKWw4NkVHvCdoBHu8Lvo9fF5hH82rnqm28fTvg3ZZIaEXzfjhG8lDMHiknwGsUFVo6Gj1J1vsnyLo+rzQibIz9OXbcd7HeuSvDvGkXnrV0W0u4CDgnepfSBGruOENkfNhyi423w1n+WU/k7HIEQQaHsc=;k9shHSIoFIdF8d9hmVrH9Q=="
 ---
 
