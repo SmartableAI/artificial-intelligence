@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-05-the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero.md",
+      "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
+      "excerpt": "AI algorithms for deep-reinforcement learning have demonstrated the ability to learn at very high levels in constrained domains.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
+      "publishedDateTime": "2020-05-05T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-769726995.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity.md",
+      "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
+      "excerpt": "Trusting AI to keep the banks safe can be a good or bad thing. It all depends on who wins -- villains or heroes. We'll discover",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity-2020-05-02",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-3-ways-smbs-use-machine-learning-to-power-digital-transformation.md",
       "title": "3 ways SMBs use machine learning to power digital transformation",
       "excerpt": "Businesses should start small and fail fast with machine learning (ML) projects to get the best ROI. Some of the most common use cases for small- to medium-sized businesses (SMBs) include fraud detection,",
@@ -1164,88 +1257,6 @@
           "width": 270,
           "height": 670,
           "title": "Ransomware against the machine: how adversaries are learning to disrupt industrial production by targeting IT and OT",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-ai-in-fintech-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2025.md",
-      "title": "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2025",
-      "excerpt": "Mar 26, 2020 (AmericaNewsHour) -- Kenneth Research has published a detailed report on AI in Fintech Market which has been categorized by market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2025-2020-03-26?tesla=y",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning.md",
-      "title": "Coronavirus pandemic | Deep tech startups pitch in with chatbots, machine learning",
-      "excerpt": "From powering the MyGov Covid19 chatbot to helping airlines deal with waves of cancellation request, AI startups step up their game",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.moneycontrol.com/news/business/startup/coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning-5075071.html",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning-5075071.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning-5075071.html/amp",
-      "publishedDateTime": "2020-03-26T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static-news.moneycontrol.com/static-mcnews/2018/03/Amazon-1-378x213.jpg",
-          "width": 378,
-          "height": 213,
-          "title": "Coronavirus pandemic | Deep tech startups pitch in with chatbots, machine learning",
           "attribution": null
         }
       ],

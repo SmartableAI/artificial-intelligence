@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-lear
 ampWebUrl: "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/"
 type: article
-quality: 88
-heat: 88
+quality: 92
+heat: 92
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-769726995.jpg?w=1000"
@@ -29,6 +31,6 @@ images:
     height: 563
     title: "The future of deep-reinforcement learning, our contemporary AI superhero"
 
-secured: "fM2rpvsjIlCv4Z/x2ByjmyDlpbLbLJ4vgjdyWPyySiOU3j8HQ5EPflzGiLzJRrTcKbP4SDIPBcLR90js+ZUrDSYFsNfy/HguAXOCYVkAyEAntqlsdatRkWR8h/JK0O7/JTRMYj3Q5iSTMZkgEntnhRVb8WTKxyl8Ti5c3suSrlzrXV5QfdLduOsad/wQcIVy71aK+P9/B6THgw2QWjl9G2jsPXsg79nMzid8Er8LLLoCwfsI51Kil/DXzBXe1UANnrgLEBCKORY33vFd60uv30QvnyfPfz66CLgbt8Ke+0FLYn/joxFCzTXh74jKo6lJ;mqIH2zvatfKTfltMJ657FQ=="
+secured: "WtbtjYyuj/GCxe6Jdj5/zZaCf7s5kQPfYkesxkIz4f5b/Ujc0Y+YqsiY04kNv5ZEsmnvaE54wKBM3s8EO0jPzIDla5aTfK4FJcvfHnmRDggk9RdpqfYJ3lias2zfQZZg/VzsWZSwFQ7OJWaawq3Nq81nap48BydM/gF53VoQ2ouleHbjwPumqttKahCubmLNm9ixkbEBn2DjTf5h7HnlGpMLWd0UZqMRRXLf06uXnqgd2+HTeGPzEXgf0u40K16Ljm2Khuv0qUpwqeaM4H8EkB/VCepIboflWiM91hP//zhIU5v8TOHg16ljCtOHoqDrE2BcUQ7OJulgTpXFi3JfdKfKsBoZgpVMOLp08ma3yJVBeuQ5KbNsvm3auQxvujO3PQwk2lUdvSCjFGCzeinClUXYAs55Esxg3S2NfnzaxFNaTmnHQYK2hCgeDaogJFKlSk6+ZlKirg6CgxEkxV7iRZeBIQXxMMppx7B1OLIGkX0=;0+x7/zgAMiMpk0d9/JJkdw=="
 ---
 

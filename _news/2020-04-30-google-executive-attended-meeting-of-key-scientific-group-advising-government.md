@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Google executive attended meeting of key scientific group advising Government"
-excerpt: "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ..."
-publishedDateTime: 2020-04-30T14:35:00Z
-webUrl: "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
+excerpt: "A senior Google executive responsible for its AI efforts has taken part in the Government’s coronavirus scientific advisory group for emergencies (Sage), the tech giant has confirmed. Demis Hassabis is the co–founder of DeepMind,"
+publishedDateTime: 2020-04-30T15:27:00Z
+webUrl: "https://www.thisislocallondon.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
 type: article
 
 provider:
-  name: Telegraph & Argus
-  domain: thetelegraphandargus.co.uk
+  name: This is Local London
+  domain: thisislocallondon.co.uk
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.thetelegraphandargus.co.uk/resources/images/11319113/"
+  - url: "https://www.thisislocallondon.co.uk/resources/images/11319113/"
     width: 2168
     height: 1445
     title: "Google executive attended meeting of key scientific group advising Government"
 
-secured: "VjGlkV1GPKep40vQ3OMSHM1v5bzhUPqA7lAHor5AVIJz+0ljsHjmEKItOyqXX3JoxsIPtActjIWQUSHEmhVCBfTRoy17fRRE5GswM2gzSflH6zZhiHmWZ2R9C7rm+wcEsgVowK5Vjv63CAMQsV1l1/k9fVI+nkHaehEvAaJLqDr0oPtc5E9WXWby+Kwp8Ovox/Ek+jhXl2B8rotLRQEcahVg9KeyTrgyPzxOlquH5E4d7ZDxQYApxT1ue/1MHBa/V4b6/wmpPlravtDKrW0mYe6fE+lfKNUM8jpaTEN2p+Vgk+Tx4eEw36qnV6sYpcbd;dFAuMMM58hVX2Y4WmXeRNg=="
+secured: "TPJv97BRkvVWLUwBySsqUg/3hRhi1BKG94lCupMFIl53L+39BFEWZbJ9+Ztc1tMtD1PXCAN0kYf0RTtIMhq5gm+QF/NIyKr98W7MhZJcRrjDftb5C91EgnyzDNIAVYJXjBib6U1U+4VNx9ypz+XElVfMux392WeNGTpSktd+SlK8g2RFpz5ZU0RAsOgkoXjDmGWmDwwMJTdTYITsvsV8ywIIFQ9bvEyi+U1SYveuOVkMA72EFsPTu8/+JbEE1SjtqfoYgWA64fmSDjuKmzb52Pbnf5CARcZJMYOwZnkHiSX/6z6hYQelFdrwRZ5iY4fG;A/TvbgO1KtLhyn/+JYrQVA=="
 ---
 

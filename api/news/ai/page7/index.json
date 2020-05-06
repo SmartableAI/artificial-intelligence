@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-29-experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility.md",
+      "title": "Experts Predict Marketing Future Shaped by AI, Data Ethics, and Environmental Responsibility",
+      "excerpt": "Essence, a global data and measurement-driven agency which is part of GroupM, today [29 April 2020] released a unique report on the future of advertising based on the predictions of experts across academia,",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.exchangewire.com/blog/2020/04/29/experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility/",
+      "ampWebUrl": "https://www.exchangewire.com/blog/2020/04/29/experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility/?amp",
+      "cdnAmpWebUrl": "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/04/29/experts-predict-marketing-future-shaped-by-ai-data-ethics-and-environmental-responsibility/?amp",
+      "publishedDateTime": "2020-04-29T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "exchangewire.com",
+        "domain": "exchangewire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.exchangewire.com/wp-content/uploads/2020/04/kyoko_matsushita-300x300.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": "Experts Predict Marketing Future Shaped by AI, Data Ethics, and Environmental Responsibility",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-ai-cannot-be-recognised-as-an-inventor-us-rules.md",
       "title": "AI cannot be recognised as an inventor, US rules",
       "excerpt": "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\".",
@@ -1260,53 +1297,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai.md",
-      "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
-      "excerpt": "Clevrer examines AI models ability to make logical conclusions about content in a video data set using a hybrid of deep learning and symbolic AI.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/",
-      "publishedDateTime": "2020-04-28T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=2158%2C1619&strip=all",
-          "width": 2158,
-          "height": 1619,
-          "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI",
-        "IBM AI"
       ]
     }
   ],
