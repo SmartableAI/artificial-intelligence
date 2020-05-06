@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Getting by in the pandemic with help from (virtual) friends"
-excerpt: "California-based startup Replika created an artificial intelligence chatbot that are intended to be virtual friends for people needing a connection."
-publishedDateTime: 2020-05-06T04:08:00Z
-webUrl: "https://www.thejakartapost.com/life/2020/05/06/getting-by-in-the-pandemic-with-help-from-virtual-friends.html"
-ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/05/06/getting-by-in-the-pandemic-with-help-from-virtual-friends.html"
-cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/05/06/getting-by-in-the-pandemic-with-help-from-virtual-friends.html"
+title: "Getting By In The Pandemic With Help From (virtual) Friends"
+excerpt: "What sounds like ordinary banter between friends is in fact from a chatbot created with artificial intelligence. The custom-designed chatbots in this case come from California-based startup Replika and are intended to be virtual friends for people needing a connection."
+publishedDateTime: 2020-05-06T02:24:00Z
+webUrl: "https://www.ibtimes.com/getting-pandemic-help-virtual-friends-2970915"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: The Jakarta Post
-  domain: thejakartapost.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://img.jakpost.net/c/2018/11/05/2018_11_05_57915_1541399060._medium.jpg"
-    width: 747
-    height: 374
-    title: "Getting by in the pandemic with help from (virtual) friends"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/virtual-friends-created-by-the-mobile-application-replika.jpg"
+    width: 1024
+    height: 685
+    title: "Getting By In The Pandemic With Help From (virtual) Friends"
 
-secured: "ae0ae1h9bcZIzYCpcyy8ucKQYpJQ9l9tvWdPMmtoxavPnaw8QQPUCLzmUYGQmyi5QtqgUAbmB3RvtSFkxWbZAqnk9rGHUpzbC7XzOqDWUyw1H+oQwGBVZv19nN2Unop9yTRqaPd2SDcpi+975shmEJqLGgIvG0nwRyKIMngD03nSZdyeEunRrhrMQLFMpXU6ItCyEP6ScxDrjWcCm52fANRm0W5v/kzjlvHpudkbsyZrhAQbfpSsmiXdG660xzw/rcVAQ4rjZYYYeGbXQF3Id15uf5+Ggy4gBp0n+prK8RB+jZrU91chf7PO/v3KMZ5tuXZs3uZFm4fyRhHI9aGgLDPZI2yP9ao7owJGm0Gm+7G8ZvyjRQ0y95cNwMhUfWaNksGcffdNlr7QjaZSyh52KDJfR0B4D063erbMGpScwAsO9Hz6vMXid2uStQgRiF0zMhS6wR/Iy4wFV9NlbFKk8JU4Vrrzhf1KXtI1URqb5Ao=;y41/0qVPsFHL09aDQiTEaA=="
+secured: "PyW1qmbkF/7nWIsEtfBvmT8gqtpo6jKcRgVI9Be7148LmRuRYZdCjf8sml5+4L0dOW4behtpFBCTCo5BeUrnNY0SVMJKscg7Lq2CEP9TmKXslRTt9+8wXrd9TvbPJqIhA5QZfJFvv3V25drCDZJGkdiIMfuNhxMfTChOXjXEdFUgtbzITJlSTja0lDH1hdCp2zloxUsvLqSPGRdzQrbjlTDsMM/CoSZGqv+KelsC/KVZ4L3autTFu5f8d/YlKqUQscyD0xrMd6fySy40SLsBDSa3XbO5lbOSQs8f9mZ0f1yehs/R6bL2VzpLb2ofYAKv;kczRI3O39a0THTSV0QNIeA=="
 ---
 
