@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raise
 ampWebUrl: "https://techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/If7huQ20.jpeg?w=1024"
@@ -37,12 +38,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/covariant.jpg"
         width: 1200
         height: 799
 
-secured: "ydbF79qpzfK1tuHgh5BKOKyPu/H37KKJEVLnvylb0Nx8wegyPysRcPKICJmcswVJdHL8sHpzmV/ye+jijpYfb2QJ9fAkMhXoN/LOjrafcIfG65C6vpEIbVDok+xc51KSBRrINyRSMqTbLTh8x18k3A8q9Sgf8A/MYRoLXnlbqci2CPeP6GOfimbh2cG6EjM2/vCGFeIUpkGDcKYnb+SBQbFYY7aWqJViBaH3PFikgAsrfgffd6O8sG0J38cLPC1ub5GNPr/i48HDX7DcOYMlmVZG7JkPlg69+GAyd6GGiiDI1sDfDOLFZeDgTjptYSO1;CA74PMmzHm0udJHUabFjxQ=="
+secured: "d9TAYKIOUUgz9UAL7i045yHthhE79DiSVikzU2SgpBRo542lcvTqNwY6tT0NWk7pX4SZ+WEYpobB0kjorLoUtW43PRoQRWwiYxo+E3iXMZxUP/g6TkXtKe7PjOpVLfVE1RP9LdW1Urs3oo3BjkKqXt0317l8vIDZIM0048R3FpdadyVHBD/66626F0VjJ+A3zjjvd+HqQmP+an15ex/69E2cDNKs0oxoKO8ZGFoWIoq9rUQaZhhQoPatiIzI9ufO2N8rQyzaf+ss0TyKwPDSMfILlOFx5qVkiFTi8gtMZ4MNnedli6DrMyixLuR9RzvpFVJXtACQUnPbUI/WoUBKUkV9Dj2hhxKf9CvkQUAvdlgEm/2eD2g3MYkyrHlbLwQ9Kqgu0eWa0vWJpqSgDchkM0Xv8KGzMryvU/QoewOGLkyIzgy21xgSxSv5gZSmxMJGz1sAWXon5GtkhEibDCyGU9NgHqJuJ+y/fDk/ZRFeN+Y=;miYsUWzUfrwGsJgP+IxX2g=="
 ---
 

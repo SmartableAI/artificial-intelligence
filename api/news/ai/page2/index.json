@@ -2,6 +2,140 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-05-dow-jones-news-ibm-to-launch-new-cloud-ai-products-microsofts-next-xbox-could-face-problems.md",
+      "title": "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems",
+      "excerpt": "IBM is using its Think conference to roll out new products, and Microsoft will need to contend with game delays and a sluggish economy when it launches a new game console later this year.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
+      "publishedDateTime": "2020-05-05T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-how-self-driving-telescopes-could-transform-astronomy.md",
+      "title": "How Self-Driving Telescopes Could Transform Astronomy",
+      "excerpt": "Astronomers and physicists continue to pursue the answers to the universe’s deepest questions, but on many matters, including dark matter and dark energy, they are stymied. What if an autonomously operating telescope,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/how-self-driving-telescopes-could-transform-astronomy-1841433764",
+      "ampWebUrl": "https://gizmodo.com/how-self-driving-telescopes-could-transform-astronomy-1841433764/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-self-driving-telescopes-could-transform-astronomy-1841433764/amp",
+      "publishedDateTime": "2020-05-05T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mipdh6kpib860qz1yota.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "How Self-Driving Telescopes Could Transform Astronomy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-openai-begins-publicly-tracking-ai-model-efficiency.md",
+      "title": "OpenAI begins publicly tracking AI model efficiency",
+      "excerpt": "OpenAI says it will begin publicly benchmarking the efficiency of state-of-the-art AI models in an effort to quantify the field's progress.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/05/openai-begins-publicly-tracking-ai-model-efficiency/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/05/openai-begins-publicly-tracking-ai-model-efficiency/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/openai-begins-publicly-tracking-ai-model-efficiency/amp/",
+      "publishedDateTime": "2020-05-05T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/openai-logo-vertical-dimensional-purple-e1588267015132.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "OpenAI begins publicly tracking AI model efficiency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ai-hybrid-cloud-and-5g-dominate-ibm-think-digital-keynote.md",
       "title": "AI, hybrid cloud and 5G dominate IBM Think digital keynote",
       "excerpt": "Standing in front of a blue digital background, IBM CEO Arvind Krishna welcomed viewers to the virtual IBM Think conference on Tuesday. Originally set to be held in San Francisco",
@@ -179,6 +313,51 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-study-shows-how-our-brains-replay-recent-experiences-during-sleep.md",
+      "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
+      "excerpt": "While we sleep, our brains are busy organizing fresh memories into long-term storage—or at least, that’s the theory. Intriguing new research is bolstering this assertion, with evidence that our brains replay the day’s experiences during sleep,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411",
+      "ampWebUrl": "https://gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411/amp",
+      "publishedDateTime": "2020-05-05T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fnaf5qpslovyxvkyr4he.jpg",
+          "width": 800,
+          "height": 448,
+          "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1145,185 +1324,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-ceo-lays-out-new-initiatives-in-cloud-ai.md",
-      "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
-      "excerpt": "As he addresses the need for growth, Arvind Krishna must drive into the headwinds of a global economic crisis triggered by the coronavirus pandemic.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
-      "publishedDateTime": "2020-05-04T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-183494/social",
-          "width": 1280,
-          "height": 640,
-          "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-transition-to-cloud-now-an-existential-question.md",
-      "title": "IBM: Transition to cloud now ‘an existential question’",
-      "excerpt": "With hybrid cloud environments made essential by the mandated transition to remote working, the firm hopes Watson AIOps can help businesses better insulate themselves from future disruption. According to Hillery Hunter,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/au/news/ibm-transition-to-cloud-now-an-existential-question",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/ibm-transition-to-cloud-now-an-existential-question",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ibm-transition-to-cloud-now-an-existential-question",
-      "publishedDateTime": "2020-05-04T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/SGnnZFtV55P3GAh8dkMaER-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "IBM: Transition to cloud now ‘an existential question’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-think-new-automated-solutions-for-the-cio.md",
-      "title": "IBM Think: New automated solutions for the CIO",
-      "excerpt": "IBM released a new set of automated artificial intelligence (AI) operations capabilities during its Think Digital conference on Tuesday. In addition to Watson AIOps, IBM also released the Accelerator for Application Modernization with AI,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-think-new-automated-solutions-for-the-cio/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-think-new-automated-solutions-for-the-cio/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-think-new-automated-solutions-for-the-cio/",
-      "publishedDateTime": "2020-05-04T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/04/01/8c0c502c-c4a0-4f8a-9796-a49dc414e4ad/resize/1200x/597c68ada4dcca197717baf698ff3761/automation.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "IBM Think: New automated solutions for the CIO",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop.md",
-      "title": "AR experiment uses AI to cut and paste real-world things into Photoshop",
-      "excerpt": "Augmented or mixed reality experiences often involve placing virtual objects alongside real-world things as seen through glasses or on phone screens. Doing the reverse, that is, placing real-world",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop-04619244/",
-      "ampWebUrl": "https://www.slashgear.com/ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop-04619244/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop-04619244/amp/",
-      "publishedDateTime": "2020-05-04T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/ar-cut-paste.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "AR experiment uses AI to cut and paste real-world things into Photoshop",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

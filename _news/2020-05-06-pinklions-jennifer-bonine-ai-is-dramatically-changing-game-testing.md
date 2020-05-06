@@ -28,6 +28,6 @@ images:
     height: 1566
     title: "PinkLion’s Jennifer Bonine: AI is dramatically changing game testing"
 
-secured: "FtmMoI82oMQiux6SW+0yWhxbrUJ7SZ4IAfGiM0Si5CfktG1Pr+GwRToUEnL3y+mhqnsJdWwkRX0+P38vq0jc6zVwfTIOX+f5/WRZ/DpoO/3ep4bkjVsgVAu0doh+SmNwFdNjQ2whzbNZBWaZudda/iTkOz9O29OrbDaTuz6d6o+/FSwRyxJmOIaHBByrk/eqeaIlFmq36ndTF8GuPObOr35O1z9YuI+RD+LeVdmB0k4XmKzMvgYIZ9bHNAybykt62ZmD0c/8aj/9I0R1fJOHfwKZ98T0Tn+WXX+gowI4QvOEaOXzLZzdvfzq+Uqc/wUd;mTWi3dzEXxz/cWRd+nHz5w=="
+secured: "TTLkPgkPHThb7Z5KYljyuyIyL7BZ0QYoF7hrpMQionVdI3l2zumyrZQ+17a2DU7bhoLYPltevaD2S4kpbiBy27AFP2CZ9iq2t3kRiTshf0gxHEH5TnbzkK7yQL0wyLgziTS7zCOHShy9urr943WDP/RpsyzXKy1jdfW61pgDlWzSPqel0ptJYFHawgAXJJyfLUmvK+MviE25amJDQ2jhVqJmfWDp4rKCxoIc5/WGaYZx9laN4lm1KKjFkgqkYOH67WQ4Vb71Vzeq+zJKcBG2poNKfhbdWcgr6impp5T7uQmreb29yumzAtgL8zT7ui4b1KnYonLo2URre3waAEwInFpAB+RJdBCGoX33ZeDwJQ3uivsom6duzWyKSW+p75yrzQEDEZ9oZsw/hM19SKveyWijdXHonE9C+tOXb+Yi5DNMTIIRGYIbKVY2tjhqqgL/QtQ0amJ9GQG7q028xizXJrO92Bpmxx/BtncUbo9dOvg=;KGpJt5GvljdO+xB+ilQGFw=="
 ---
 

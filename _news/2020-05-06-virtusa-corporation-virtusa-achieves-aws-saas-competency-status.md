@@ -19,9 +19,9 @@ topics:
 
 related:
   - title: "Virtusa Achieves AWS SaaS Competency Status"
-    excerpt: "Virtusa Corporation (NASDAQ GS:VRTU), a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innovation engineering,"
+    excerpt: "SOUTHBOROUGH, Mass., May 06, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation (NASDAQ GS:VRTU), a global provider of"
     publishedDateTime: 2020-05-06T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/virtusa-achieves-aws-saas-competency-status-2020-05-06-9197013"
+    webUrl: "https://www.marketwatch.com/press-release/virtusa-achieves-aws-saas-competency-status-2020-05-06"
     type: article
     provider:
       name: MarketWatch

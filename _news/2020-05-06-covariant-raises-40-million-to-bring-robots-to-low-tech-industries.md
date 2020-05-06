@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/05/06/covariant-raises-40-million-to-br
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/covariant-raises-40-million-to-bring-robots-to-low-tech-industries/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     height: 900
     title: "Covariant raises $40 million to bring robots to low-tech industries"
 
-secured: "nPebRbvdRH3mNQhFGv6Y5YxwoOOV47hkKbLuhOmckpcbKJq/4PddWLBTZjN27DwYoH+gAbHAYIUv13+ju9LWuUnl7hg0WBCVcYuDumopWvEa7xSGZjAPQrTTnn1ldgtu6vR/PXB5YCA9/j7WoileUUzhGrfRUZY4sSYM95zG+RfsVjm6wQ3T5NECyvgwWn5gJyFbqm7GYrTjsEdVHUypN+wpftyxmKUzSwLpuu5u2hDmSW9dpJ52DQQ4ONT6EZ+uJaPlcd8+gbIrTBsarYYeg+f2GKrfboS7obA3DSsgRqXr7ntMRfXAX0lms30+ZZg2;5rFKZMHCLDTJ7dMlikaVqQ=="
+related:
+  - title: "Covariant Raises $40 Million in Series B Funding to Bring AI Robotics to New Industries"
+    excerpt: "Covariant, a leading AI Robotics company, today announced that it has raised $40 million in Series B funding, bringing its total funding to"
+    publishedDateTime: 2020-05-06T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/covariant-raises-40-million-in-series-b-funding-to-bring-ai-robotics-to-new-industries-301053756.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 61
+    images:
+      - url: "https://mma.prnewswire.com/media/1083489/Covariant_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
+
+secured: "MCNLQQNUNjUAoSUDsf7Fmz1VfaPiD9DXDAUG2r/4J5/NxV3uJTONNEdh09YoIEWlT02Y443arVBmxhN5ORxJStAZMAbfnwhOlcWDc1iagGdBrFTEnARq/fgkA42SLn1gM4emCNpR3VepzFK901MIiFmYgxX/H2cDn7RIZgKBIvVh/sHGYIPAKpGDTqb4a+4uNNIKImaSSZMN7ao6HstifE5F3AaESFLQIsl5+l8+KuSpb5z8XG2tDrnMP1TRqkOxH6Fj661SFGV3QjIw4UOqMBk5GoMuMunOyH3XkzLQluPw04z4e40gGyPzS7SSwVOvHUfu726HC9yK8Hph+BVSOrSmzyH+9LNElU7T8moiJvQ6X5cpXfjtKRz4CtwU1N19YHYWCPRZEROmEXH5jtnk1ybohjiXTpCSHjn6uhojajUTbXoO9TrPFaw19IEyg+dGWCMIHi5VCuhiu9mc1dqDqqw9ci59QnZ8xTx/fzko/S0=;kKrpQ48a1KBb3uiV6qp1fA=="
 ---
 

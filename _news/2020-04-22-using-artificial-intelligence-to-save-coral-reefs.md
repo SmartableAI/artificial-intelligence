@@ -1,20 +1,21 @@
 ---
 category: news
-title: "Using artificial intelligence to save coral reefs"
-excerpt: "\"Artificial intelligence provides unprecedented opportunities to solve some of society's most vexing problems,\" said Jason Mitchell, a managing director in Accenture's Communications, Media ..."
-publishedDateTime: 2020-04-22T12:56:00Z
-webUrl: "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.html"
-ampWebUrl: "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp"
+title: "Using Artificial Intelligence to Save Coral Reefs"
+excerpt: "What’s New: Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor ..."
+publishedDateTime: 2020-04-22T06:06:00Z
+webUrl: "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/"
+ampWebUrl: "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/"
+cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: CIOL
+  domain: ciol.com
 
 topics:
+  - AI in Autos
   - AI
 
-secured: "Uebf2fSUkBUF0IFuiNdff5hPkveBcCh3b1pQanasU17vZ2sfibt5IPGgI7sVJpA3wyeKD8l68xiKPH7qc4jIo2zKVnjQIychMYDt3HEqordJt6Mgj5Jw96S1o2i+/fh3vfzdQ74vBOT9Kgam4e0uDxXqEunVAncWww+ozhKpagDH+F9vbyLvzl4PWWLctY1k6TQ2N1jgcH/SKDzPBU2TODA9R4+oqbKeaCzCZ6AkXQguvFaeguZrNen+zY63i2KMOV9C9xizalZKt35PJUojFvwW+WGUOeCs6MLdPyLpjr8E8QjwixATadF01RaS8b/Q;fB8hfNBtiQoXlDOA2O1O9A=="
+secured: "oaxU14ZHDmsqprupfn+hfA2QmikFEowNMKP7yAsL3vPtiaQ08lN5VCg8Pu+sqfwxxU8LUjH4sJKsabcaSEDVMJ6oMd2vnt77jiMkIoLtnthfeJwhbJVMmqgLmk95HKQZV2aouBi6IBxq/VUdivqgUSE4wQZV+n0F2HVLHV1SCRWPkIgFJHpdXetsNE5U3+O410vjsgb6gxYZ7HRn81BBRBzPXqwtWVYdKA/pI0/ejt+9/ZnHwdavd6B7H/HlOix6HSkhegxepGVPSbXT7wOuiriFDkCuy7th9e6v725OyNE1+oL8u5NbE+cll6dh5Z92;XMcBuG8/Coh5BB1OUm1yRQ=="
 ---
 
