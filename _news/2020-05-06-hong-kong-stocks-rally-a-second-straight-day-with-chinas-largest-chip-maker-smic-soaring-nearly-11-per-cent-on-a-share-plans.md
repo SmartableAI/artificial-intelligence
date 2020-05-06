@@ -29,6 +29,6 @@ images:
     height: 630
     title: "Hong Kong stocks rally a second straight day, with China’s largest chip maker SMIC soaring nearly 11 per cent on A-share plans"
 
-secured: "nJLtHcn91EqS/l6TVtmvDv9dDrzlwO9eIZ9YlMznWbWybeevZiIGrlBgZ5YgFiH+KvYaOfb+T/FoPxkb9Z7c0yq4PTuRd8cUK+29DjNLus+aw1Q31EOkQAv540p2J4AmcBbzNXEyL31mdQM1ChjNfj+8wR563Mfg/sU0XdeZlQo+0Qj8AO01XNBzR3fTrjMyuDI6sfURF85dssHjnXyhqON0VkfI+R6KP/7/M6OfJH26ONqHQuN3kY3B2OcR1N7EZdMbEzMF9Hm0M9jcDn7mJIGd42G1x5K4lNaiy7PySxciJO0S4O35lb0g/pUQZvJH;WfMpoCCkR1oW9Z9DHZOKUQ=="
+secured: "IuTDA4e7ex12NbVeUczkEuXurYVs+ko8YAdBD/uz75L6EwfUcbIEIr5bCiODDTo5zyb3fhYsNIlvgbrZxDVZrKnu/rwVPsmEUzK7H3NPz1ZRigliC/PzBqzp8a7UyyIMirMRmzb2FQLqOJ4N4J1Is/oF6FllY3Xs644vXCtDHdieVk+jtIbsRz+8QAssWdjdgNgeSS/BQtPviJd8kmEQCqURmiBtQOHoOJx4XeV6NPOsQoW3vOqsPmdPHQMPAUPM7M+9XKUZWAZxoKAXzA8wYbuuF0f7OXwDLnXoAgpQtDWvQwf+vXpDS4H5TSmW7Xkmli1uiC4SxZQo79v/yrjh9id3EoCrXfj/EsKCUimjTvWxvhlybS3aQP4AED/hambX4yi4c+iBk99BwsEFBUXSH7u/skiKlGG4lXehnhGSeTiJ9JepNQUUHeDFnMbppw96qrXOtL7bGwY9PAZdwjGafsfRe7ybZ6lPC79Gl1U7wds=;+4TS2rIJnqhbwU23gl3CqA=="
 ---
 
