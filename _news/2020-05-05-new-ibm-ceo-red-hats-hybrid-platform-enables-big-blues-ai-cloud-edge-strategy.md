@@ -5,8 +5,8 @@ excerpt: "New IBM CEO Arvind Krishna, in his first major address to Big Blue's e
 publishedDateTime: 2020-05-05T22:44:00Z
 webUrl: "https://www.crn.com/news/cloud/new-ibm-ceo-red-hat-s-hybrid-platform-enables-big-blue-s-ai-cloud-edge-strategy"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.crn.com/resources/025d-0f56a6619da7-536dffef7d78-1000/krishna-arvind-ibm1.jpg"

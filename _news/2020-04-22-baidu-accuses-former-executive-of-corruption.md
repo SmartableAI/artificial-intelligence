@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Baidu Accuses Former Executive of Corruption"
-excerpt: "Baidu, China’s leading online search group, has reported a former executive to the police. It accuses him of corruption. Wei Fang, a former VP at the company, was investigated by Baidu’s"
-publishedDateTime: 2020-04-22T14:32:00Z
-webUrl: "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/"
+excerpt: "Often considered as part of a triumvirate of leading tech companies in China, alongside Alibaba and Tencent, Baidu’s activities stretch from search and maps to AI and self-driving cars."
+publishedDateTime: 2020-04-22T13:34:00Z
+webUrl: "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/#!"
 ampWebUrl: "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/"
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 576
     title: "Baidu Accuses Former Executive of Corruption"
 
-secured: "LnphJMkFhQzOqvUMThfzvUCtSOUujUg6c+Jo4DczTPIfmfgpbDTQ3gng2vk01QDBddbb3aC9PiZruKIEI8l5UKnbJBRx/hLxWQLKoBKnqtR1DXay7VV5LX3hveNgTduKPyLx9zaugPvkI9BQqq60ZdDb9WTradzqUfsseSX4qTBNgKNIuupMHJHBV8p3qKg/PRSDhfhL0U41oY+/YYhOqJo4KhuYSgwqypP5NG/pxb2bPDOnAcynLCsqDfHAlbVDI9h3DTLDcXoBXK/W8BLzmNeBSlCeP76MC+LhVV5a4gTB17Odz/8qTTQ8YrjsGdVViTEs8Gc/aLYtO/e8DPlsquWsfNjMXsMNlUGDxdZQhUMtT+hgPYTCmjGgSmHVeLA4gfMkVNVjcG+Yn6lUA0JCu9PruKo56qSNxRftjVyqRmw1A7BKr3l6eGjl34SVZEIU0QI109nBGZrPZGpIPKrS3g2ADrD8ro+UcRxI1zoePck=;en/dOQLJwn7fmu/k+VkV6Q=="
+secured: "9PqWTPq/O4R6uMVSpQHRvCaIDYkyVfZCE5UVeSdVt9FQKTNZ4L+5xzZIUxgSrmanNuD1bq/DnoRa1c7dsUShTfluidetFNxMobS8w0UM0e1VwBCsf7cCs4UfkarYsIyzcHihOqwH3yDytfAMrwF3QKRvNQQN5L5Y4FR3RFNIQQq6KaYe05gXBpcxeRpCnaBGn85yHUIN/QN42W3Ip9vuFb++VbmCq2ymLJSYRd2WdTTfimhTsN12lXme+xncWIXkMcM14INGktOChXs+ylO6sGmMvdkW+Pf95PWnYAx0f0icQDbBO9LHAXJWDpWQ0yqr;iu9hk93wK2rwEbPOIN0jaQ=="
 ---
 

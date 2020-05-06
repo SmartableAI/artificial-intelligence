@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 633
     title: "IBM’s new CEO lays out his roadmap"
 
-secured: "cjEMpjAgIN3FY46Gp9yFDE8UR0LMImaXjSTnmAWQ+FQGAhQEIsRzvc+/FYSXdRnUAGjxA1qxZaj1i69laMCzVG1Db0TBTgFAux0FBF9/HxuOue14KsJLnDxGoptWbymYlaCnHvvNYWz1KWwb9mcr0AACqbsOaXffEGb1ij6xZiIO4CMRJOnjiScm+YPJTQ8JAmnDWHs0Qcx4YIqSGN/8x95v5o2h207V3J6TkKVZJLI5/gYBsTDtzo/AOYnHGMKjLMpdrgLQ6T44Uo7lTQP73LLLFXqj/kzPXfvekZiqLmD8WBNqu6/wvWnmaGjpC5Lp;3HMqhb342bduaXJ8ABj+Xw=="
+secured: "78TYl9c77FteHl3aNeSHl4KldAZwe3IcdszcGjRZI8yWNStORMvEhAJiTDWFOgA/Vi3Ltn/PJmg6LLoLVUvVSPUnESsBThrCqciaKfPHa7+SM7freSevoxQq7pmaSZxpMLs44zaR+eH/KcICtBVgeeNc+k6FblVs3TAZV6mCwqrx+TgUQff5DZNZFrdgc+LHQxhLoodX/cbUv/U9vE0MJvl0DtJIZlH7Qkoh32Ci/86Sek0nQ8PSYVlC1V9IoyrrJZVK7NesC6foNyGo8Qgtpih6SoM1ROnsJEcyPK+Lg+pNqH5EfntQVRZ4wbAxMNu5;kpBS9eStJBK38FO5UzwvHg=="
 ---
 
