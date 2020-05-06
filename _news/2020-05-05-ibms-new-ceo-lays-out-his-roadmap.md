@@ -29,6 +29,6 @@ images:
     height: 633
     title: "IBM’s new CEO lays out his roadmap"
 
-secured: "by3/dkHeOQ+wN4cz/S5bX8VjMjiq+3sfDIESiR8sM8B4bxGqYl/l3L+aza1NctmNmVF7s0XJnjlgfVffM++f8UdaUD531Px2cEUEITlDdjsokbhZjlNYZeDKA4EkpUsTrshuaIlkGg7H00rTr0O/sry8Ha9uFobyBTAtiC7n1EgwjxNA8S43B1oZK0qZLaq40ioIQobAokwgU9ZW9D0R+kdq+sYJ9nMoGix5Q2wfxRRFnC5kTw/XceZcCSq4uWfnTsj0P7ZGmz3bZLqatclGHw/2AIYeMzYNaH0qbLJDZthEUcijCS5qwbTHtUvtIuXf;/yAtRVyU5WqpFuMipTAeLg=="
+secured: "YA9EEDVUHs1juPE32+dU9Hzll2qUu1zsxM/EY8v4GpO718EkARk1/mE0k0e8Nsc+EypRP4NmSSrFhmF0+N7LmybAS0lCAI2synAFCeV23yBmRQI/55xValiMDtDEPeoGddluGcbYw0UicndDwoTNXZRAVAVhRvvdaTBZavgwiXg3+9L/r7gy0YbogKmN36KfheeFMRWK2nsj0ABG+3atS/bQG1vyRuJeKdaDY/+WqbB+Ha/9r9hnQ83KyCsFFlOk51Qe5eEnYbH6GzZ3oSejJ4q1B6jnm81OgieIC2L9JVjTt+kZlAadLibf/5jA6J8P;pxViiEH2mOXvHcRKEermUQ=="
 ---
 
