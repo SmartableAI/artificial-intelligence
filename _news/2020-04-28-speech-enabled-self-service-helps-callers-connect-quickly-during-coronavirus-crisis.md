@@ -20,6 +20,6 @@ images:
     height: 225
     title: "Speech-Enabled Self-Service Helps Callers Connect Quickly During Coronavirus Crisis"
 
-secured: "y1puJZ6/TJzs/sCpynzjWnV5w5HaDIj55MkJ2LjZWr2WU4RFXxsDP5cgQz6iFVqbaCjC/XKrFr+SHrVywINBDuKjYxlGqtN+1cZQ9fzF2yRupbz+q1iAldgIczkp3sVPXDXUxomTVUfR5g9NlFzsCPm5NuYisJwRdj/wL1e9M20ThwlvBDEPuiRsizBmCX9zqakvVx/7TDWR5xmE2XZDupDhU3FodC+3Xu6Ynja6DStm7tcIRYg/wC1QJESZuBwL8LNICaep/aYAcJ/zi/hS8QD3J7BqRJZXtePLiXc8ROglATnWKkMzB9BfUIzgQci/;1d3gu5bWuRPQqXzwYSBeBg=="
+secured: "AYt1Xl8L3Lfuo/TQ83c/kS16nGVhRf5pnk/aRHQ9wJ++jYxYgBesbTsjHgMiCGQ1Xcvf8fh+ERU7kxo9/tXHzPS4J/cpKohG3VCFbexe2IrAfwAYqbVmatWtzDNRVcITjrXZQ1oUbWwBj+MAABq4KRYBGKrPpkTy/HQ3yr/wPbJo7SSb/fP35ssaZpC+yw+2zQpQD2GyL9qeLCa+cshwBN+KbkNsqWC6bZ60cbTU7lfSGdLaQpnaQSF11JVabiCo+TlNk69d5c308GaQ296pZ4kteL+qguJOmDPjRffjTyiMZbUxRNKpdDqOOoHaY+ULzPp7BzM1FaycdpPegmmqbhzt3emixbmvemL0OyAPHJCut37ppzGIqpf1kLsvmLHOG+zVB06c2HAt7p7DSAwfTwxRWqhGwrYWJ7xVHvgYas++3B6ZHWuPRiQG6ASKqrarO6XL5BMZSNQNBpOxUVu+528xJwuC5yIY+kvDDfgJjsY=;+n3eKhVVOo9FiK+OhTDpIw=="
 ---
 

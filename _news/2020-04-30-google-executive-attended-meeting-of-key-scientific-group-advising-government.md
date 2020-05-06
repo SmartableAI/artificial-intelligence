@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Google executive attended meeting of key scientific group advising Government"
-excerpt: "Google says Mr Hassabis was invited by t, Sir Patrick Vallance, who leads the group, which has been advising the Government on its respon"
-publishedDateTime: 2020-04-30T15:19:00Z
-webUrl: "https://www.nwemail.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
+excerpt: "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ..."
+publishedDateTime: 2020-04-30T14:35:00Z
+webUrl: "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
 type: article
 
 provider:
-  name: The Mail
-  domain: nwemail.co.uk
+  name: Telegraph & Argus
+  domain: thetelegraphandargus.co.uk
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.nwemail.co.uk/resources/images/11319113/"
+  - url: "https://www.thetelegraphandargus.co.uk/resources/images/11319113/"
     width: 2168
     height: 1445
     title: "Google executive attended meeting of key scientific group advising Government"
 
-secured: "keVtHnF+ybz6XoCXjVcvDAd38Izs1iyWZIVNDKhgNo1m9qj9B1OD6U4Aoh20fJ2rkEB6KI21yhQgasYmkV+3Wk0JYSbMPzlFga6LJ8H6inKp4q0/T34rMi9zgXSQNw/up462LGTCHZauIQkmEDXsaEl2Ut/iZOwG/bRC2oKiZlLOGJ6sEMyoDuPKGlqxCpi0JvC4IkGnNMzj8N1OTuFctDw8ZLYlNvN6AJqcCHZsjxZo/Gwew4z+YTqQrVYzH2NgZjDja3WTpEytD8EYClAMqmFGMWsfbXhhhXqjOGvKvrqCd756t3/iDLTprdVY3lfM;vnfEHnY1qfSaW81+9zY2Qw=="
+secured: "VjGlkV1GPKep40vQ3OMSHM1v5bzhUPqA7lAHor5AVIJz+0ljsHjmEKItOyqXX3JoxsIPtActjIWQUSHEmhVCBfTRoy17fRRE5GswM2gzSflH6zZhiHmWZ2R9C7rm+wcEsgVowK5Vjv63CAMQsV1l1/k9fVI+nkHaehEvAaJLqDr0oPtc5E9WXWby+Kwp8Ovox/Ek+jhXl2B8rotLRQEcahVg9KeyTrgyPzxOlquH5E4d7ZDxQYApxT1ue/1MHBa/V4b6/wmpPlravtDKrW0mYe6fE+lfKNUM8jpaTEN2p+Vgk+Tx4eEw36qnV6sYpcbd;dFAuMMM58hVX2Y4WmXeRNg=="
 ---
 

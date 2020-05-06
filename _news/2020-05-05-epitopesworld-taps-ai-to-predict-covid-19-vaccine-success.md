@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Epitopes.world taps AI to predict COVID-19 vaccine success"
 
-secured: "X3pP/cThMjlFNpbefFXdPfHJMP+L3D40snTeZN7m7mX+E529W8DtL7yg4RxVXUkR+hgXKY0ikl9Jblpf+c+Jv7kDy63GNOQsIJdWqlF+bbJX4dJyUeoKY/pCKAaRd67g9pQBmPOmxEKqU6JfTgWlqlv4fxgpfYKj4jzQjYKShcTtzwGqQgJ22v4Ue25K8pK48mOMr+YSfqIBHapuK/cHsqR3To/1h1kIL7lw7zoSTc8waB3Pa0aGZSdRuoovFN9hhAiX+jLH9eBR+KYjLB4XMG859q89K/aRmlmoYWk+DsHe7vzD0sdg1HKMddWnInMJ;d1fB2YPvvRk0+7vWvjAQmA=="
+secured: "qXy7uPeIuiIVy1bCxBu1/4GGnxNa6a8svFMQr26nLU4TpxQ8ELIbWNQ152ZPxwq9qszsOumf5VkeIrLdtJDBW2VM68yTa+RQdpOLyALRN9gPcUZvVtgxFModGOunRby1QCfVfq6g7ycx3P+HSEZxD/pv1lUV4etTcvwHm+OkcjQpmlNsnr/AEKjcTSlrvjh0nfAOD011T77ZS3WIKp3hueBX8zdrKjMsZk5yIILoIPsVZUmzdkdzPXdAbQ1V3huz0JqKVADhrsbBwd3GSUb8AcIXJBroOwllLsbiicTW0/QLOHCDb5bswGzGI+yUOn97k3fw8SYP+d0YDO65dn+zr4A1e53nk7f+dYDQ5TxqnlIf/99ysawJCHSbX1GJ0Fj/qqEVFTJcg4s0+kO4m/qpGxQppnmmtYXt8Vltwako7TA2tUNgq+o6IXeOsiTN5uFD5Om8PhmhRzTjRrLBYUS8ebZ3YPveoQ8GLeeeblNWKgc=;+ljS5z7j7s0tbooXKCAcDw=="
 ---
 

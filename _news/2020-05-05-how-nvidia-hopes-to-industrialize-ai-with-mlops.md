@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/how-nvidia-hopes-to-industrialize-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/577ae693-b828-4a28-93b5-9d7ba518a5c2/resize/1200x/a0c1793f8d8ebe9e2fc334808c235fb0/istock-1017199998.jpg"
@@ -29,6 +30,6 @@ images:
     height: 848
     title: "How NVIDIA hopes to industrialize AI with MLOps"
 
-secured: "2XXZtny2TCc4f3dh8Gt8qyPXAFEYtRomxAbgF1DPPTGKskUJfBADIXCVCazBv8lVLEVpQynpFZ6J3ErjlzY/1g6adaV5T5lGItKAEWI+faBFCkjTtUwUF7XPFi49w0+LpsoL5tuO4HfaCcKKguh/YoEPGwRiQKxnvZgdJZ/d2SJ5ltK52zQd0ko5VnTWbva+PMvD4wGUfV8H84LH5+vMygrhpKx8IUhcaH8NdmOCINLe4+GrgPVJHZDc/2m/O5Nff2Cm8kKA0ZTnZnFt+22QWnsAFeQWzgccJzG/YXVQB39f4D3Pb4VCXXXydOGzspbh;K3dBQdvC733q3ubcH/pU1w=="
+secured: "TQDSk/NX+Jwh87mJEEyFFogQLsF5kj9rLtnumEwBnhUzzVL1Fj2cAFMe3OFZZzEcGxe7ASWvvMUGEuCpnQUJdjZauZemfkywY2U37UBYcWtlRb/IwWZs80hqwVYiaglWSGuc6ppYCbV8YZncHvIV2VzCuUPpsn2UXb68WqNxc5da8ELkxuAcT8JdBMLYTmg11txPZHHjNhN4mlr+2DZOgrfBOLw8zwQ5r48KwIdFnZIr9xFH+cyjs6MYii0C5V30GhK3vD3sLDqe85LZnMT3idxbbjjV1oAWUFC1BETaZvqdkSvOWk02nT1yuTMTu1vddek8uzKVar2tqIgxNDooW67HeKNN55ScafQWivevP82nn0r8KDgKGGg7YIW9uQGKg+mxqK/3su4uC3xNSNO5pw+11H0maVoH9KrfQmb143TvnrY5NvgpbJUgguxjkDjvy4iIbOuOeesWpIInmIeKmpI7Wg4n3d/xPNlDJIKtA6M=;6k1YHuOjfpHT0xk5KGMiwg=="
 ---
 

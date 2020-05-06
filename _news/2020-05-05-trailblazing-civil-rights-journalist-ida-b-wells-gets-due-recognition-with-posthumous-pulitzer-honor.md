@@ -25,6 +25,6 @@ images:
     height: 795
     title: "Trailblazing Civil Rights Journalist Ida B. Wells Gets Due Recognition With Posthumous Pulitzer Honor"
 
-secured: "/gC+JoruDGxwU2hIRhd+nuBminCNYipfTGjlh5d1UUB6AOHnctjGifBtzc4bVH/E/BaRIQ+vdly8c5uRZyYPVZQG60F7LmscevhwfOKWd7MoQw+hJld7y/SvZ1HZU+/9E33dUhAAlweMJ8gcGsVE8v9v0/a2mg0tpYQTacOh8TSMc4MB8jq9zBcjigMuZGhodoOhLEVPJAEk86l14x0YdZs0zR2a5pbBQNoV9/+L+MdfsiTg6yl2Xxdi3wOejrShnOF58Jqyq6xJFdxB3xdJQcfeHvEFyUUmsbYz5KRND+Rmi5y7i8xtJE2C9O5K+be0;OF+lPA663XUdcvU0FJ/D6A=="
+secured: "kjYUucmPw+N/JrgTrXxBivcrzChlIRwDjClB+VdKRjeALl7EJ/LKxsI/Kl0xhr8UFWIH3qsq51u0jrOJbSk3oi0HMRq6V6xrIaIFedWj7EunbHK4sdpUziyKiezqO3KHy0CfWB27I2RRmyjXi3eYP1HRSzzmWqri6svyGJSvAMeLe8bFRBYMxOxkCV+qI7tJfnwJQNF4tWpgHbnwa1XziMGHhWSzN8OZMCy/f8i6wfeRxVY0K/fpXoIAJgd0cEESxjGXK9RI2uxO4aMJCakBceemVY2VNnyOOV6Bgm/7+4ogtgXuEqr6xC+GQgNjg28apbP4dOR57ZxrZW7ahsEYPBfMNcXSkBQ/ksSkZ5QxE4zyJdfuQwaTHXhVWkMI8YSpEtOXyHB5sxA2Aiy7yQWDMNBYcbcNpMTXdGRazUITwr+WRVwXOMrNBOznsIAF3mV52Vecki2BHa1YONQseP6/vGksncCDJdH4WtCLAWz0bdU=;93WHeivK26beLFtF9zjigQ=="
 ---
 

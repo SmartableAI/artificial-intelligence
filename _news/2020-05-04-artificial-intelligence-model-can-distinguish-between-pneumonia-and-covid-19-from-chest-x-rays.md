@@ -7,8 +7,8 @@ webUrl: "https://www.news-medical.net/news/20200504/Artificial-intelligence-mode
 ampWebUrl: "https://www.news-medical.net/amp/news/20200504/Artificial-intelligence-model-can-distinguish-between-pneumonia-and-COVID-19-from-chest-x-rays.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200504/Artificial-intelligence-model-can-distinguish-between-pneumonia-and-COVID-19-from-chest-x-rays.aspx"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fPneumonia-620x480.jpg"
