@@ -22,6 +22,21 @@ images:
     height: 315
     title: "UMB Grants Pumas-AI Exclusive License for Lyv, a Cutting-Edge Clinical Decision Support System"
 
+related:
+  - title: "UMB startup gets exclusive license for clinical decision support system"
+    excerpt: "AI was granted worldwide, exclusive rights to Lyv, a cutting-edge clinical decision support system designed to help health care professionals personalize treatment trajectories for patients in real-time."
+    publishedDateTime: 2020-05-07T16:44:00Z
+    webUrl: "https://thedailyrecord.com/2020/05/07/umb-startup-gets-exclusive-license-for-clinical-decision-support-system/"
+    type: article
+    provider:
+      name: Maryland Daily Record
+      domain: thedailyrecord.com
+    quality: 22
+    images:
+      - url: "https://thedailyrecord.com/files/2020/04/UMB-330.jpg"
+        width: 620
+        height: 330
+
 secured: "Tt/cG2RIChN1wFxMoo3Uva3jChGYjyYNwwzfTbCY/Ay8vzlsCvWVP4YPY0TyWBX6Z+j4slXQNLaDzzd2kyzfA8jLem6sv5hs4zvq1v7HAY2F9dj6l3lutpDQFsGNG9lDSf2vtLt3ox3y+GyR0qZVrYLvEAcAE/HktOAqV9wVqZI71IYpaMsmlRcFa+ranEC3Es5X77gVI+HpqRE+vpd9Kix1f75wSBsQFKBQgXHPBJmxdpSIclw+anpmsIxTsWnAdyhk/wF3XOGIssNaupLfJXUqnAOC0rHjqD7eCSt8a3is83VMQnMpwHFf02TZBxkg;fdvsRtthV+WgbS3Rki3XcA=="
 ---
 

@@ -37,6 +37,19 @@ related:
       - url: "https://res.infoq.com/news/2020/05/predicting-failing-tests/en/headerimage/Predicting+Failing+Tests-1588741558619.jpg"
         width: 1200
         height: 630
+  - title: "PATH - Prediction of Amyloidogenicity by Threading and Machine Learning"
+    excerpt: "We propose PATH (Prediction of Amyloidogenicity by THreading) - a novel structure-based method for predicting amyloidogenicity and show that involving available structures of amyloidogenic fragments enhances classification performance."
+    publishedDateTime: 2020-05-07T20:28:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-64270-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-64270-3/MediaObjects/41598_2020_64270_Fig1_HTML.png"
+        width: 436
+        height: 685
 
 secured: "E/x7LiTVM7D2HA6Wc4YFB6FjDGfL+VVO1QBcw1ibQosCQXSegsIG5KM38aTRIIPmZNJxJZ5/eSZY4EMnkLqRIbAg55JZulUGmWzkFERf6iK3MclV317Ndd+IBnHLmqcv9o1LAz6HMRpsLiCHv4mmNoviiH3fXnMT/95LrT5ygjHfKsTnW9bSY+EhtCOzzB6iIKl7CmAsjtGNAZnNo0zRpAISxclJraL57Bw1BgPW5AChMXS2V6cr8Bsc3ysqlrLQw46aQnUgxkTdT0ZMO/SwDzz4PZSCwGxrvjyxrF+EoKAvSqoO2DnjaR7mX/L3PYQ955BCuSwpAXCo3VTbjoY9V9YmM7by0WT6E63RbKRtC+AkfnLwO5uJMUSuygYorKiZvvN2JNtYnBkJ9g2A2uqUbIqBquKWqpskFzQxCDWjQmx+mpvbopw8iMgLOS8/1UdLG1dKPMgdZmGK/9RpqfoJ3ffNVrsyNA0F+5utkx1RkDI=;sl73MaUWrg/7KpW/XH6x3Q=="
 ---

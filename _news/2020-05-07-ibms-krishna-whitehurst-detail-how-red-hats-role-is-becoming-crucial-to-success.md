@@ -25,6 +25,6 @@ images:
     height: 400
     title: "IBM's Krishna, Whitehurst detail how Red Hat's role is becoming crucial to success"
 
-secured: "yzCf3/wOW8nxqeTVmf31BQV3AZ0lC/+sfQ3JnLbtbwKwxwVzH2MiNIew3rgo8wK+Mv6M24KMIJpt5OfgCDjiMoFrjjRxuELzS9EusmCl53I1UCZtaN4YPGOIxR0EPH46aJWOddJ49QUSEas0CLL95gZWKyt7Gnp1H8eookn8zvr5rTZpIcWLw3+9piUcvwiv3owH6Tb0WcBlcJnW2cIH19h60NJgPmOhvhBPNElAofhQNntB3MOyvNiLnCy5OvnoSAn7STNfCrMye5J3xabMlMcZ+UYijXHEK5CSlqeZn02P1SXpEQVfek/uXa0KyHog;mnsWoXSb4IAfh6pBS/Uk9w=="
+secured: "g69G5e+j5VO7MBM6dhy6wW1IE3gx7iv3A7BwSooDy84GIGxL2nprqLFxLm4KcVeNy1qDoe7WqTFsfohEkL8FIdJZWJyu+4J5C4Y0wI/r/10YyLKqYs4zkvKlRsgUOYeWmAEOMavToBemTkPdw3JjUc62oJvAcSqaMRuvIyZl7xaInSB7/V5tl9KATEkL2ZZVqAhbUNRStNQYWRx+TL2m4MZYTIb6kHdAVGKti+XClwErJTubhHu8z/8c11GCFVBIDJjhwm40GDeiCzgXLgqygVGRVkCPD+wpzzzmQiW0R72tREHm4wneHAzKiqsn+lZ6AWBF3kCkBPXapGxHNlD2dvuhO1A7+5rIM68iIcpDm4jmMRJngxwFCWNLmROSHbxB+1+cw1ouXULhw9S+Pc61C3+UDtPWjJVALyWS5/YT7n3LJbL/OhMMkEuqp6zFrCZ+E+zsLllrRbUF/P8RmZVAKzT6MAdP26F86ewCttRDnJ0=;BEGH10sdOW1dB+g1SACN3A=="
 ---
 
