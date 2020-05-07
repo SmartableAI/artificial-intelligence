@@ -27,6 +27,6 @@ images:
     height: 451
     title: "SD Times news digest: Cloudera announces new ML capabilities, Flutter 1.17 released, and Tableau 2020.2"
 
-secured: "wRKkfnFA5pPqSNdWsCdoXkMqF59cVk+7B8M34R2EUrSf4f7L6i/CCiyt0GmFyutcw/D3q8bQohskhJvUYv3f3u1yJvEi1G1uQuX+JoHrcfxSgyoi7TUuH04C1fA7YWwk4I3AY5BfpHu/9QSeZguQNA4UUN6geuhnWTSuJcS8U3pRrZroXqIXD2EQ3xfJrxht1j+EkNqF84zJFarjILkWoeQa1u84H3YhtwD7qheJufNYO4vIaHEKSytfdVcj0NQTwZpZkKY7nFbNRLtLjOG/QYajm5F6BTkmb2A6ZVhxEvum7i2Ti6p/+n+x7xLE5/fx;emwzJncDSp3WX+YdHE/NgQ=="
+secured: "nkTPXrOTh+vtKvwCK/88Oz+knRDE7QlPbREdzy0hP63CCP2CuxsX8xPjGt6vl3ojV3MWSTpIVTu7vYGBnOqaHwbbnL+ZRmQk/J+3SscRfbvFBts0XMDAwRjMckeigbjf/E5tWsAKzffO41L1dHvZycZVRPgeZLP4wFhSJKqQhTYKcF4Uh8K4gXrNvKI7shNCMSoobriOXaIMBx9Gp3wrNHAXcRI/ks+doWG4r5QbnE0bLB5wvrB4M4cwEzgZm92v0va3oa13sYbXonTYt+5mDUJ70wHV+0U5IJ3nQ1QIyBkoad64BYaz5ncQCZyPq/yDkcGhYj8KjVIR3EJeN8saDbycG/cYKL2vNqVJI7CJ8llq7BfwcNgEcqyFem2uogDIN1CZ5YV84KK4g7yWvnEJ8/MX3jZcxySfFmEAPXEzMVfO255hpbhCJUiOb9LAqnOtMgRF+kMDlWvuQmzd9OBIvF6CLpYCny4yrvfygtt91ZM=;XMWULxl13pRvCKIDxFROJQ=="
 ---
 

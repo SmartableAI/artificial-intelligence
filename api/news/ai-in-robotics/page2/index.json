@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-delivery-robots-arent-readywhen-they-could-be-needed-most.md",
+      "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
+      "excerpt": "Sheltering in place has driven up demand for deliveries, but machines still have trouble confronting the unpredictability of the real world.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/delivery-robots-arent-ready-when-needed-most/",
+      "ampWebUrl": "https://www.wired.com/story/delivery-robots-arent-ready-when-needed-most/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/delivery-robots-arent-ready-when-needed-most/amp",
+      "publishedDateTime": "2020-04-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ea314d879127b00083c056b/master/pass/Transpo-3photo.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-iss-news-space-stations-cimon-2-ai-robot-to-revolutionise-coronavirus-social-care.md",
       "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
       "excerpt": "SPACE experts have revealed IBM's revolutionary Crew Interactive MObile CompanioN (CIMON-2) continues to exceed expectations aboard the International Space Station (ISS). One of the AI robot's developers has now revealed how the project can aid social care in the post-coronavirus world.",
@@ -1177,43 +1222,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-couple-claim-sex-robot-with-soft-scottish-accent-saved-their-marriage.md",
-      "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
-      "excerpt": "A couple claim that a £6,600 Scottish sex robot - who shares their bed every night - has saved their marriage. Shelly, 45, and Darris Maxie, 48, from Texas, USA, splashed out on a computerised, Artificial Intelligence sex doll, called Camila, to save their marriage after the third person in their previous poly relationship left them.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349",
-      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
-      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
-      "publishedDateTime": "2020-04-13T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dailyrecord",
-        "domain": "dailyrecord.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article21857352.ece/ALTERNATES/s615/1_Screen-Shot-2020-04-13-at-093812.png",
-          "width": 615,
-          "height": 409,
-          "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

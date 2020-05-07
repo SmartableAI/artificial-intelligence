@@ -7,8 +7,8 @@ webUrl: "https://www.masslive.com/boston/2020/05/boston-looks-to-ban-facial-reco
 ampWebUrl: "https://www.masslive.com/boston/2020/05/boston-looks-to-ban-facial-recognition-technology-as-citys-surveillance-system-may-be-in-for-a-super-charge-update-aclu-says.html?outputType=amp"
 cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/boston/2020/05/boston-looks-to-ban-facial-recognition-technology-as-citys-surveillance-system-may-be-in-for-a-super-charge-update-aclu-says.html?outputType=amp"
 type: article
-quality: 15
-heat: 15
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
@@ -25,6 +26,6 @@ images:
     height: 1675
     title: "Boston looks to ban facial recognition technology as city’s surveillance system may be in for a ‘super-charge’ update, ACLU says"
 
-secured: "5+u87+cm41pKF+PUj/Mi8aKuuDh0jhv4znBAmXBdtTgIc2k+SiwlfZW185zm99GRESXFlnMGRTPvO+noqacGT32ju4/CI7xPCIDiGh/Pj/UxjNRbYCieGYi3wun6yiv8od+9M1uEwHjCXmbLvTk114KeQw+AenB+2szWoZMnyIY7zwzvQXi7USjkLTBrFiu/LfLGDvlLt+f3xgE2xXJaPmx/VFyyq92gOuu7NxrFesLKBEwcLOEWC81LN+I797A1a5BGJSLoJ9e6qmOQ87zDFL27IBOl43Y63voQlLnyvDQjflrW2ha3dyBVsTg17JPt;kEqCUb+q3AabQM2jv33Hww=="
+secured: "69AY4X2Kqi2evA3zcMX0Jabz/0a+VE8BfdYoW5/PTneJaZHsQEKtx8+o9MY5QSTxNVIto60DMCoOV/BrIjp6LfskCQx3a0o5jxmhkHpAAHFGcL6gWzHGGesYxAtQPnfdkn7fCxolVnUkSXeLK7KMRx+GzvzXPbj6rZByroPnGFdlx4WVCBSNFEHqInNz1zm6E9OqR6eekmdc0qtWHMAi9OqaV3aeVZglJigKCdN1lyNOWii9aiXqhgMeKOhtYvhv4XIlL9ydvqWrqvFhaanxiMbXwg8jD+6bzOtaGfx1mVuLyWZ41p/3fPgewDTMuVlhGkGxpY719HTUm3dlNG6gO+39nCzrHDLr5GPDNGHudzTQKsWFenlYoNB+6ebOoqhBJVzLWCGyu4G+MzbmYBhvrTzBoppbH0oX7LNgZ0Uepn9A+n78QWxL7aodhhPWdwuo4h2u9BhIGzAJbLWKOIpv114xd7EEz4bLjKLdW/QR9TE=;5yl072uErlMHCD/PBstcug=="
 ---
 

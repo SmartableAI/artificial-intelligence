@@ -5,8 +5,8 @@ excerpt: "Market Overview Enterprise AI Market was valued at USD 1843.69million 
 publishedDateTime: 2020-05-07T15:53:00Z
 webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-disclosing-latest-trends-and-advancement-2020-to-2025-2020-05-07"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
