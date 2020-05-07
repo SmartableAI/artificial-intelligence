@@ -3,7 +3,9 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
+webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
 type: article
 
 provider:
@@ -11,9 +13,9 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
 
-secured: "IUk2YzAXRK/6a8ETfXPPINEKmRd5L5XeZEzqnET9Q5eOh0u7LbyMgnXxxrvKG/SDbEWm8kfPI8/eoLZA7W0DJteV41S5VBicqhRKa+y0ZOo1WHP5gp9Ww+1wCj80GNJDfowCh2Ks1pNbkTYmfIukiz4MSVkXdtE33NlFu37e3iM8lOSIFEMRMbjvBCVLfd5elCxgGnyZDT+/Ubtmz3/7KnXXSsRSYyz91d1D6QHCdVeY1OT0DZOKXDxY7cb6bUamhVBZ8rPArxJZnHmBpH5CTsi5EaKJ7TokEZjtUWUSLg5eJDwOLJ8w+PiQQZDWqS435eGIGqmf1HH9nKlbWv/e3D9sw/ifq/PVSuR6b1Z6DfimOksPPOrfI3nfW749CLYpRNo7p2WO4OkWke3nUrBKFnNGgBJDsyegKnYFKrHp5WoWCuvXS245N5w6kU4DYjJDOBOBj1rxN0+nVm1v8UtYdI2q8TWDId7tmT2PF5iVOpA=;XH9S0TZPGMLkxm3BA2jmsg=="
+secured: "/2CCMAwYwimZYI4yooqfeitkfrL6Yhx4qJnHsMJF9c/wdFZ75Gl56hgaFGGHbbgTJ3k0OhZLHPSa7gN6aWGN77QOeAnEz0CX/+RuJN41XJWeHLFkZr1AeXnHWLa71heUNzqcufjxLNRSz9R7bZJX1aI0LP8/9OWQMp2TAPZ/pmAA85SgfNpmtE++DWQyhuE4QSNd0GmwmprsNKrdu3CsHSx2ZJd0ul6K4PVNhMlDOQCIBmVtK5tCehBZuhXDSN31VsAenS2WHRlClaULIze4qOA5d2kJE5X/qd4ak12anOFVqyQKcaZ41aZe/uZUiXb+Tyo9gLofBitTDJXNU5JVlL+UXc4xzI4OPb9EPpthycD1tDI51ySlFXET6BIKjrvl59xoX6ZVjeaZGRttn6NnPgIhEoBtxgoqNlYV6cwMDJS+4Cq8ByB3VFQGZkDf4WiH8/m0h/iHDjDAPA0JiqjcyIrUdcJAh3kpULxyPWk6mY8=;fMfSIg2VoAkjucbxVsKtAA=="
 ---
 

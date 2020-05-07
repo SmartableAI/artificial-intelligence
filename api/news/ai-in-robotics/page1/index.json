@@ -42,7 +42,7 @@
       "path": "_news/2020-05-06-invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers.md",
       "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
       "excerpt": "Assembly” may sound like one of the simpler tests in the manufacturing process, but as anyone who’s ever put together a piece of flat-pack furniture knows, it can be surprisingly (and frustratingly) complex.",
-      "heat": 81,
+      "heat": 98,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/",
@@ -80,7 +80,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {

@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-
 ampWebUrl: "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/amp/"
 type: article
-quality: 81
-heat: 81
+quality: 98
+heat: 98
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/invisible-ai.jpeg?w=1024"
