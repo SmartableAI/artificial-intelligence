@@ -1,25 +1,31 @@
 ---
 category: news
 title: "Virtusa Achieves AWS SaaS Competency Status"
-excerpt: "Achieving the AWS SaaS Competency differentiates Virtusa as an AWS Partner Network (APN) member that possesses deep domain expertise in the Builders categories of the new AWS SaaS Competency. APN Consulting Partners in the Builders category have deep expertise in building cloud-native SaaS applications via software development."
-publishedDateTime: 2020-05-06T13:11:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/virtusa-achieves-aws-saas-competency-status-1029170762"
+excerpt: "SOUTHBOROUGH, Mass., May 06, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation (NASDAQ GS:VRTU), a global provider of"
+publishedDateTime: 2020-05-06T13:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/virtusa-achieves-aws-saas-competency-status-2020-05-06"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Virtusa Achieves AWS SaaS Competency Status"
 
 related:
   - title: "Virtusa Corporation: Virtusa Achieves AWS SaaS Competency Status"
@@ -32,6 +38,6 @@ related:
       domain: finanznachrichten.de
     quality: 19
 
-secured: "vFaYmB316XNv62seUj14obQkD5bPIUYKOV3i8s9p/eFyECkp9BzhIFW75GMmSihIMO8rh+1Z4du5KstN/xytO+pJUF68GPAk4J8uhH1bh0Rd1RSJuznaBa3KVae9HQpC56G5TVJlWk3UwfWABRO3y8CtGbeay4YVr86HaIOZJoUIyqr7mjXf2h8WKcvo4rIkkfwZ3KsJjfbz3QiKCX0dRICo/YW3sZW5HUWH6U1tLBDcAx9nIWZ6dOcT95Bxhi1TrPa7N5IJLydqiqllxxjdjUr3U/QNs29asssRUI831aJpactqANSIt95UYk7qALA1;+ufq8r12zFK92VcKNesoLA=="
+secured: "qPtIexTcrcXQkto3K0sSEMawAiPJK8WS5VfmpWtfcTaefjvMH1VqWQYlWnpOyaIrwjEG3Yj9RYGQxt/Jx0fJliQgfEbNEGmi3Wak8LZNgxH0Botjbg3el0DJZ2x0Cu5mjP2dU/hQLRBCDcLEH4rlaRtQChSwkoLHQEDeCiUA3hINi6AJKVaMDUYEYoGvkSwulcdOvKHg0PyMNTThYXlZ3b8nsjUd+uLuZEX5RSh3cXBRZVaTlEq8BgBBhSNUiwPRltnqoxyCpMq9pqHsV3w5BI1ueEJbw5ua+A/UEzsR/hC5JkIg+5/Sdf2EUrz6y9XS;pHgoPm1ucAPfc02chCWB2g=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together/amp/"
 type: article
 quality: 90
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     height: 534
     title: "Machine-First World? Getting Drones, Robots, Self-Driving Cars, And AI-Driven Systems To Work Together"
 
-secured: "961CwfBu81OdZexrBpyz0YnsgsA4RDegledjElouJBLqY3YCMMNauKezXoUMFF+WHny47cpYcrS/xf01c2vGCr6graJs5KQmOZBzRH8WdzpRkg1pE6JsW7OVRt7xMjO68qcac69/lPqvczWx5mZCAB4Q8GPDOsvRMwiow1+AyfAEyBV4ooT6s1XyLPz0V/hkLWkRR1FoMoEPCypm0HOKIncmgUAI/YNDCTrVzH21Hx6W5gajKLd/jn5nPtj6W+1Ub4sP0Xs4epo9FsQHlv8ECu/aGBmyTzl+yiGlzGEOz+/yQDWaUDPjr5UDVfWoH7PMjJi6Eqj0tBhHQMAeczIcrUyBwNQs9EANHkUxONep+8hbchWX5AboLI4eYZAAwqiyusSxp01OXLw2tZwa2A62hcPTYQAnO5kZrNm0VzmHakubD9KoubGbYkZtuKI6PKHLlo1oPVI7clRUeM7USNoURHXQBnwTxxJXsGfplsY7M30=;+VprDpVZncrl3jNlKBv0Xw=="
+related:
+  - title: "Video Game Developers Are Helping Oxbotica Test Self Driving Tech In VR"
+    excerpt: "Autonomous vehicle software firm Oxbotica is employing video game developers to help create a virtual test world. The team has worked on leading flight simulators, racing games and sports titles (and without naming any names,"
+    publishedDateTime: 2020-05-07T01:04:00Z
+    webUrl: "https://www.carscoops.com/2020/05/video-game-developers-are-helping-oxbotica-test-its-self-driving-tech-in-virtual-reality/"
+    ampWebUrl: "https://www.carscoops.com/2020/05/video-game-developers-are-helping-oxbotica-test-its-self-driving-tech-in-virtual-reality/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/05/video-game-developers-are-helping-oxbotica-test-its-self-driving-tech-in-virtual-reality/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 39
+
+secured: "oz4vrddvNWD9XfD5yO324bDjj4UUEaX5fKe95+H+ff9lGr7lLCBD+UxQd8sYclywS9wYsBPAF+YSnBiWNMTlXub9zFeRlt6R3EeuaK72XMwlFGdUYHEE1EuvDe5lSRm//dFPOKTTmp7II/5bPjN68PT+CXDZ9pfgznMJLSZXFuhyIKl7ihwzfFZ/oi265c9Hpy7hvwaeLYxhncDXrJ2lglsnp5sGFinhtHWW0lt/arospl7jfHcybNRDtb/lshLvpcxHWljv1Ig1s4gCgi9HO8c9844YY0a/wrxQx6p9IpqR/V4i5MkJF0YYysgfq83JPRktTFM7Xa55PFs/mWdFlIqWTQqrH8n9ohYYzhbuaq4CcZtol5yGD7EmYHH+7i/tK9iwZSBrCtKHIitHShhCztEAWsZ4bZTn4Lk/CfLZ3YtYxPyFcFsKerJJgPKBUPb0IlRaoTM8aK8pBrLk2dbOG+aNNGaE28mrTDXxpxVwOWA=;zHJkL2UWOR94wHYRg7dY2g=="
 ---
 
