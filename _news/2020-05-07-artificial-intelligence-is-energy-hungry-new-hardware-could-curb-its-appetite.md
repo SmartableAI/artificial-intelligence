@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Artificial intelligence is energy-hungry -- new hardware could curb its appetite"
-excerpt: "A team of engineers has created hardware that can learn skills using a type of AI that currently runs on software platforms. Sharing intelligence features between hardware and software would offset the energy needed for using AI in more advanced applications such as self-driving cars or discovering drugs."
-publishedDateTime: 2020-05-07T09:03:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-05/pu-aii050520.php"
+title: "Artificial intelligence is energy-hungry. New hardware could curb its appetite."
+excerpt: "To just solve a puzzle or play a game, artificial intelligence can require software running on thousands of computers. That could be the energy that three nuclear plants produce in one hour. A team of engineers has created hardware that can learn skills using a type of AI that currently runs on software platforms."
+publishedDateTime: 2020-05-07T13:27:00Z
+webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q2/artificial-intelligence-is-energy-hungry.-new-hardware-could-curb-its-appetite..html"
 type: article
-quality: 34
-heat: 34
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Purdue University
+  domain: purdue.edu
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/231006_web.jpg"
-    width: 720
-    height: 720
-    title: "Artificial intelligence is energy-hungry -- new hardware could curb its appetite"
+  - url: "https://www.purdue.edu/uns/images/2020/hand-aiOG.jpg"
+    width: 800
+    height: 400
+    title: "Artificial intelligence is energy-hungry. New hardware could curb its appetite."
 
-secured: "E4+A0vC/iHwRj1jYN+oFAweLXJLy73tCJLmWb2CCnSmFBaQ812nmDefSBTCqZ6V/cgSQLElZu+F2qjKGRbSy/fvluZHHFkSPPPVaWDkObBz39o6HpD2fHRDXHyqWX8Xfchq3jzTIKVbzBI5/gic9Ffzfha0Wudn7PziBHN5xtDQ2IX0QqVrdVieZZ7sxU+YhEXT+hVzAREKwo6N7WFRF/IDElc8ufm5aY5qiPrbAGspojsNWZoIKuoXmmX7ultKXg86n/uw53cZ6wCRyz8JVgrbBIU6GX57eGvgck/25TfYk29Bdl5f/z6gpdiHtJqpkpmvlbNpW+bNcn75MQabp5PoNa7u9K4oV3RnchZuu1serVwqCKWx+t/23J7FM2LzpmfZJjNbj3d+7h7Qi88iu9bUwdQ1AmMV8mAPLGVxnzqP3Xe01j3jgWyJl+f7yMdPGNEcy1ueWMmaqmKdbT1wrBdQ5EDOWXaWwjSLQOHG2xXE=;7xAtgdQTNbgwshiXVGKAQg=="
+secured: "EOMHOVf8WdhT9rJTxAPNLWCY2k/I7Anfx76zzM0nmvu6bdtuF3cQN0fFpcsDqoTTf/XC15A4P0LrtopuqfsgZ7eSe+yxRmC7Ak0U2u1S0OFjIVqcTcMEhASZ8EHzZkn98t+fU2Ds9q9Z5LESJiLXbvCjJwou+SgxZp/FyWNvpX99+id4C69JWIbktKXuILta3KSCNnJp2R0H6kTXL2c10qIq72ukFrQsd330S2ieiPAhNx7Fm78mK3nQXDN/hLyF1Kn4gWL/DzjFUJZlebEdQFVu+ipZGP95nh535WgZ3yzT7CE+cCq5hY/QVEN5dlIq;6Vy3A/r9zUv/uGIaGbVLPg=="
 ---
 

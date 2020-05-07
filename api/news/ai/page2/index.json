@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-06-industrial-ai-startup-covariant-raises-a-40m-series-b.md",
+      "title": "Industrial AI startup Covariant raises a $40M Series B",
+      "excerpt": "Covariant this week announced that it has raised a $40 million Series B, led by Index Ventures. The funding brings the three-year-old Berkeley startup’s total funding up to $67 million. Co-founded by top UC Berkeley professor Pieter Abbeel,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/amp/",
+      "publishedDateTime": "2020-05-06T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/If7huQ20.jpeg?w=1024",
+          "width": 1024,
+          "height": 691,
+          "title": "Industrial AI startup Covariant raises a $40M Series B",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-covariant-raises-40-million-to-bring-robots-to-low-tech-industries.md",
       "title": "Covariant raises $40 million to bring robots to low-tech industries",
       "excerpt": "Robotics startup Covariant may be best known for robotic grasping, but it aims to enter new industries, like mail delivery and agriculture.",
@@ -182,51 +227,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-06-virtusa-achieves-aws-saas-competency-status.md",
-      "title": "Virtusa Achieves AWS SaaS Competency Status",
-      "excerpt": "SOUTHBOROUGH, Mass., May 06, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation (NASDAQ GS:VRTU), a global provider of",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/virtusa-achieves-aws-saas-competency-status-2020-05-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Virtusa Achieves AWS SaaS Competency Status",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-this-smart-ai-powered-stock-photo-library-helps-you-find-the-perfect-image.md",
       "title": "This Smart, AI-Powered Stock Photo Library Helps You Find the Perfect Image",
       "excerpt": "Sure, JumpStory™ gives entrepreneurs and marketers access to high-quality imagery, but it also makes it easy to find the right images for whatever project you're tackling Their",
@@ -313,52 +313,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
-      "title": "3 Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "publishedDateTime": "2020-05-06T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "3 Artificial Intelligence Stocks to Buy in May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AWS AI"
       ]
     },
     {
@@ -1340,6 +1294,51 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-technology-and-ethics-in-the-coronavirus-economy.md",
+      "title": "Technology and ethics in the coronavirus economy",
+      "excerpt": "The last two decades have ushered in significant change and transformation. I believe the 2020s will be dispositive in redefining the pillars of our economy, and COVID-19 magnifies this greatly.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/05/technology-and-ethics-in-the-coronavirus-economy/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/05/technology-and-ethics-in-the-coronavirus-economy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/technology-and-ethics-in-the-coronavirus-economy/amp/",
+      "publishedDateTime": "2020-05-05T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1215830807.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Technology and ethics in the coronavirus economy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

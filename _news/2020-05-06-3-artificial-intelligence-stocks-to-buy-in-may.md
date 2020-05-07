@@ -2,13 +2,13 @@
 category: news
 title: "3 Artificial Intelligence Stocks to Buy in May"
 excerpt: "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46."
-publishedDateTime: 2020-05-06T10:55:00Z
-webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
+publishedDateTime: 2020-05-06T14:45:00Z
+webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 type: article
-quality: 91
-heat: 91
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -20,9 +20,8 @@ provider:
       height: 50
 
 topics:
-  - AI
-  - AI in Autos
   - AWS AI
+  - AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
@@ -30,6 +29,6 @@ images:
     height: 378
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
-secured: "DemmPxeO/ORMMxb1CWw1T4/m0UY9+cxsxGUxLP7AlOlDhArb6lKErClW3DqW/gNuv/bTkp/RLTCjdt+ozmDroVLHPj6kOhHChIG0DXjwH114pKRN0CfIqdxKilRdppUsz7rbqQTQQcjGasnThsZkEl+p8pxR14w3LsUEFRACLYpFk1E4OfAqQh+CDMCwM3ANQ/Xu/5Y1TNfrO60scqkB2a8Ym5HEROTH/sQwbarC2KdpUf0DmSfwFp23xzDk6IT4sbwg0F7q6DmA/yQCM2cfSHl6P/yzzMzhkRfl1qrnzqcoMb+szM0KCkLfI2KTbKsr2rhPjufC/Eowss+lVuhcEJ7jrdPYU2Y6nSQnoxExNe8FgU89R/wyE+ja7/fceem8/P5XzGeweACePJrf83SpPW+1XBG12QXyi9L1GLUHlraskiDr1gmeacIeLQPo6bnngw9r5pJkNu2rHxPnglJQ3bElJKvDma2OqRJN55aHss0=;ObH4pT6GTYpOFz7yQhHAlg=="
+secured: "xOBDyEJVSlYKw9L+qt0/Bu62z3YsZjM2wLYOgaeaW+3/QIapr+rrdMPUBMKbQ+oqzD7LCNV3Y7HyFXM/Ctzgx6bdOt6aGa5XGhtkLKhjVJVAkgIMm1x2uNVXyXDzSYGujRhAWaKbQBoDhTXmV1rQYfUlruWjTOak4ofQDbwQTovKJ8UDJEtMxuBzyuneHwa9N3bFU2EGE6CK7eDdblyOjjYJmSOiIe4mLzO4IQYdCqHaphHKRcDPZ2Q7ePyOzuLMATpLAm0xD6VhBRPubAbuChfy4prahtfAcVM3wVwxXzzPw9tuaZ7U7VmrfW++v5C1;kXw1dXteuIN3q9cIHmvOxw=="
 ---
 

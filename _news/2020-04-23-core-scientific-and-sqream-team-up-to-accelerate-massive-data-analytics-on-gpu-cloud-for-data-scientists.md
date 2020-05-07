@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Core Scientific and SQream Team Up to Accelerate Massive Data Analytics on GPU Cloud for Data Scientists"
-excerpt: "Core Scientific, the leader in best-in-class artificial intelligence and blockchain cloud infrastructure and software solutions, and SQream,"
-publishedDateTime: 2020-04-23T16:32:00Z
-webUrl: "https://www.prnewswire.com/news-releases/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-301046296.html"
+excerpt: "About Core Scientific Led by a team that has a 10+ year AI success story, Core Scientific provides custom hosting solutions at scale. To learn more, visit www.corescientific.com. View original content to download multimedia:https://www.prnewswire.com/news-releases/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu ..."
+publishedDateTime: 2020-04-23T16:39:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-1029123856"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-1029123856"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-1029123856"
 type: article
-quality: 7
-heat: 7
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook"
-    width: 648
-    height: 339
-    title: "Core Scientific and SQream Team Up to Accelerate Massive Data Analytics on GPU Cloud for Data Scientists"
-
-secured: "LRAxEZRvTKZF8PrQoEhudL4gtEeDCVx3qDMrJxwiXC7MhFNOvEqw6pMl7fhIf84ICtBPLRKwDRu1qNkQHSm6P5MzjaIX6HczDJy2PXuqHOABJb2OauFxS3cRnphpX2MTx47jUIcjcD/72zO/Otb9ccE7uuaym4tFWXG6XzWvpY786vt0fMqCJwpmhqTe5zCczno7a4lDRcR3jOU7FIXQO/nvuxKAmE1q1d56lDbM0vi6ESqdVl8Zc0JHC79TPQuQhk0Bvs1shoWtc6O/fw08ru86pm2pcsYFMn0qPOHDvPctwZgYD+fNQKXubjRaLagRW6Bz3EM98kOqNz/wLFClvM0BLXqPm513oWjCs3CdOZohJEA7cse3FqtOy3Q9UrggE3MtSE0a8mTA4LJYPHXt/H526yeK98TdzY0pjNCRLkFWxWmPHhDiCXfHGgB+9r6EznksrVfAwmB/bJjiOLyVaKViqIIMLPUWZvI7UWMu7HA=;cRCz6pCtxhN0kxWv+rZrBw=="
+secured: "7DSgNNJStLdkzzgpO+72qpjkfuOH+mnr1SDtJkThtIt8ImyNMp7+r7gm9gQ7336xLusYdl96hBtD4P5YXxh0RNsxbMmu6+5iqsX+JVGwFq18qRoAQSdhvKOGEjyssmlVQN9YoSTzN16O2fbTOL4p0GDLOmSMAszOTfrtJF7PwKH42ubVo8dQ10xNWmNzmex1yIygaZespPCFDyO7TB8kR+N99KbbxBBbOFnZ4cdsIE342Qb/chDN6WdABzNJjJUIAviJmu54AOkXk/IWEqgtJS3DAJC4Wg39T4e6gLezfxaSScQ3klwnPMkF6O5qVFpvlfcvlfXYNN9TgaCKQ4RDOzzPiRiv/iVfq3Lr0mrcmmKKNWt/GJcaTDdzosNfi1uG+wk85rDmQNMOFxdZXapzHXMHtgpHqMDSDIYnUb1jPbAuIycYF8r57OVj8M/8DBwEGd2kRogZMPE+HV/dq06o7WOlk8eXQTR8/wNFzyhzthk=;e5Rj/HCxrRKOkLbVja0Pyg=="
 ---
 

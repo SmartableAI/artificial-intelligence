@@ -29,6 +29,6 @@ images:
     height: 630
     title: "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights"
 
-secured: "oJtqy7rH0giFZ0gsYj61LhttB1qir0GP3nJaktyD04YjhvX8ZIKMvxBQ3rpG5W/DGyB+HNU3roxrgtaraxh1pX+nD80tcqHPOa0gQQsrmjghAGeW5HOKE6ga8OXJRBug4WwABcMAPjFDDZ+0ZJb836U2R7GtHekg7m8Elnbakaks/qOxP+pZSXX7lXzYfP3+iKUbbKpe0JkFJG9K8fkgAtkDKjhbOj9Jp/r4+m0ixSIt8B8GBlMG/JvBUbtUQMIxBvCE3/wLMUtPPlM5qHeCUsk7AxYdX5g2cmHnTzT0Gl6nqqk+NzZVm5+1QOdRATyZ;0L/UNqJmeMOdNASZEnso5Q=="
+secured: "DGroF8nzZqGtaeBaFeBqbJ5qzg73TwZw81AMcEIPD9Hk2IaYOK9sTLyyXsP5+Gz+vbklHhVaB2hb7VofMY1lyoAW9geDb5Ixvntlx/J6G5Ur1hxpmf0EyVgUaxmidJw+iBlENojQTAtLWQaaYu6HKXnHOqzea5Mm25c9Ph+hBZiJrNrdwPNeUggrczHHSdejnXkxZnec26pJbjfrjrt8NpHmEGbEtPAkZuyUXMxAmwmlbayAQlTfPiInomhWdbozaeRdM4V3YBEf+C2dttJEBKSacVyR1YDkre+mW2d09OT66RF8tjiWEnudKE6nAeLKVx7OhSB0XTCfQ+yaKkpi4GiGB7tfTGQZUYP9WIjC+IKIgLzFljvdP+RJu7HA+A8NGTzDeB/jmZD3M/zhLNkgdJHBA0/mkeV9PzvXLLr22uNtYY1Mi1J3uT4tSBYle8l8CEFMjp8fJ8r09TI7pcKiW21rTeYKG/LGgce4NSBEZno=;nK4ZFU4DXmzRGc2r9RZtAA=="
 ---
 

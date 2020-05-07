@@ -128,6 +128,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-23-core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists.md",
+      "title": "Core Scientific and SQream Team Up to Accelerate Massive Data Analytics on GPU Cloud for Data Scientists",
+      "excerpt": "About Core Scientific Led by a team that has a 10+ year AI success story, Core Scientific provides custom hosting solutions at scale. To learn more, visit www.corescientific.com. View original content to download multimedia:https://www.prnewswire.com/news-releases/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-1029123856",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-1029123856",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-1029123856",
+      "publishedDateTime": "2020-04-23T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-respecting-rights-global-network-initiative-assessment-report.md",
       "title": "Respecting rights: Global Network Initiative assessment report",
       "excerpt": "In their first letter to shareholders, our founders highlighted Google’s mission to “develop services that significantly improve the lives of as many people as possible.\" This vision continues to guide all of us at Google. From Search to YouTube, Gmail to Google Maps—we’ve worked to ensure that our products",
@@ -1024,50 +1061,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-the-italian-ai-firm-helping-governments-fight-coronavirus-and-spot-the-next-pandemic.md",
-      "title": "The Italian AI Firm Helping Governments Fight Coronavirus — And Spot The Next Pandemic",
-      "excerpt": "Expert System, a publicly traded artificial intelligence firm based in Modena, Italy, has built a tool that will help governments prepare for future pandemics.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/giacomotognini/2020/04/23/the-italian-ai-firm-helping-governments-fight-coronavirus---and-spot-the-next-pandemic/",
-      "ampWebUrl": "https://www.forbes.com/sites/giacomotognini/2020/04/23/the-italian-ai-firm-helping-governments-fight-coronavirus---and-spot-the-next-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/giacomotognini/2020/04/23/the-italian-ai-firm-helping-governments-fight-coronavirus---and-spot-the-next-pandemic/amp/",
-      "publishedDateTime": "2020-04-23T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea0bfa5dea8300007de94b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D245%26cropY2%3D2946",
-          "width": 1200,
-          "height": 676,
-          "title": "The Italian AI Firm Helping Governments Fight Coronavirus — And Spot The Next Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,35 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-14-whats-driving-speech-recognition-market-growth-major-players.md",
+      "title": "What's Driving Speech Recognition Market Growth? Major Players",
+      "excerpt": "Speech recognition is a technology used in various devices such as smartphones cars and computers which enables the system to identify the sound of spoken words and convert them into machine readable forms It uses linguistic units for speech and",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2009622/what-s-driving-speech-recognition-market-growth-major-players",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-computer-vision-puts-the-focus-on-patient-monitoring.md",
       "title": "Computer Vision Puts the Focus on Patient Monitoring",
       "excerpt": "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World",
@@ -1123,43 +1152,6 @@
           "width": 780,
           "height": 494,
           "title": "Google’s Project Loon internet balloons headed for Indonesia ahead of a global spread",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-driverless-vehicle-technology-advances-amid-pandemic-commercialization-pace-accelerated.md",
-      "title": "Driverless vehicle technology advances amid pandemic, commercialization pace accelerated",
-      "excerpt": "Prior to the national guideline, Chinese cities including Beijing and Shanghai have announced local guidelines for self-driving tests, while Baidu already has approval to test self-driving ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globaltimes.cn/content/1185522.shtml",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T17:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-04-14/53ef8931-f304-451b-bdd7-cd82e32c20f0.jpeg",
-          "width": 500,
-          "height": 300,
-          "title": "Driverless vehicle technology advances amid pandemic, commercialization pace accelerated",
           "attribution": null
         }
       ],

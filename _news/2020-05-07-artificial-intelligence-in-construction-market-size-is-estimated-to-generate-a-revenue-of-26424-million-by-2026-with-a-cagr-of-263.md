@@ -5,8 +5,8 @@ excerpt: "The Artificial Intelligence in Construction Market size is estimated t
 publishedDateTime: 2020-05-07T10:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-is-estimated-to-generate-a-revenue-of-26424-million-by-2026-with-a-cagr-of-263-2020-05-07"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

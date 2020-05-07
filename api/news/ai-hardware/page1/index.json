@@ -1098,6 +1098,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-23-core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists.md",
+      "title": "Core Scientific and SQream Team Up to Accelerate Massive Data Analytics on GPU Cloud for Data Scientists",
+      "excerpt": "About Core Scientific Led by a team that has a 10+ year AI success story, Core Scientific provides custom hosting solutions at scale. To learn more, visit www.corescientific.com. View original content to download multimedia:https://www.prnewswire.com/news-releases/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-1029123856",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-1029123856",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-1029123856",
+      "publishedDateTime": "2020-04-23T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-nvidia-rtx-voice-is-great-for-improving-sound-quality-on-video-calls-and-doesnt-actually-need-an-rtx-gpu.md",
       "title": "Nvidia RTX Voice is great for improving sound quality on video calls – and doesn’t actually need an RTX GPU",
       "excerpt": "The way it works is you download the RTX Voice beta as normal, and install the plugin, whereupon non-RTX GPU owners will be greeted by an error message stating that ... car alarms going off outside your window, and so on (and as it’s AI-powered, it should get better with time and training). Remember that RTX Voice is still in beta, although ...",
@@ -1268,43 +1305,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-new-weka-ai-framework-to-accelerate-edge-to-core-to-cloud-data-pipelines.md",
-      "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
-      "excerpt": "WekaIO introduced Weka AI, a transformative storage solution framework underpinned by the Weka File System (WekaFS) that enables accelerated edge-to-core-to-cloud data pipelines. Weka AI is a framework of customizable reference architectures (RAs) and software development kits (SDKs) with leading technology alliances like NVIDIA,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidehpc.com/2020/04/new-weka-ai-to-accelerate-edge-to-core-to-cloud-data-pipelines/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2017/07/wekaio.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
