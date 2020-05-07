@@ -24,6 +24,6 @@ images:
     height: 800
     title: "Q&A: Ozow pushes for a cashless revolution in Africa, using cloud, AI"
 
-secured: "FKNS3TGI9wgjTmhKE8DUiCAIhKsux2Vl7KT6O1+N31mEjVZuLXtGi6cCMaSsAUX9KPi50z89n9fGXXhZR+m/bc1VoA+27TzuhpkHTCv0+wyLRaDTvbyTdHqgiaOxN2FdoHWuZLNtU+SAAusoiZdI6QJKLdOGEEwwb9h8miM1/mo4opclPKxgNcYtkPffmgeGizxNMw0ah5VqlTYwDcRX9l78IEBOKq1lNdBxEl3kvB6fVIsyy/gkNo6PbksYK+IfxHZJSVqScMjUJEyOCoHBY1RyJUfdzd8+0/e4Z3nWCfSbNcWL9lwlk4pKGf28AeqK;o7SWvapI3jTHUNKvEfvtwg=="
+secured: "6ZvbfEJwdDsASHwLlcsh/SGZQiN3OFPvqDpTcXo7KXGAht/y32qhQi4qERYY1UQ/WE13oN7URkLNL+gU/ehslS+ZTVHJmJjzneJsz2py1Wqi1zQ2mloviO82hajNDYW6uVfrk2zjOyYWNczeSyeQ5iook0KPnOSma/xS24YEXx+agGK31DHP/kh5UnEeXVYesiisGbbJAJIS2Msg1DVWDTDFhnY1UlqUj9R7fdB8sDelLV5C7JKFvW3hOYl8tyLPJzQuWy8FbDfLcSM7Xy/r66P0K033YGS1mrrIaAV3hIctFbytRJ6fD/1S/Zo/lp4m+VNo2RWUvYpTeHtluEzGFyg+B+b58eX/li0Dr/580GZ8dQhxep2IXvq0+jaqHkSAvDsWECqoznnyBTTRLx/GkZ6BefebJ/4YdLhMIoLPhGK1PYTkqdv4/jICfZKcpN8H2plvSsX9cH2LwRD8bP7PHVw9HZa4+F+tngrWyzJJt/Y=;JPG01rHrwpRT4DK8XwO5Eg=="
 ---
 
