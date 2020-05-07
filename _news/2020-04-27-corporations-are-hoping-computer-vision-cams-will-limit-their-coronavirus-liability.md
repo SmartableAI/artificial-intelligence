@@ -1,31 +1,25 @@
 ---
 category: news
 title: "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability"
-excerpt: "Aside from figuring out when to end their shutdowns as quickly as possible, one of the main concerns on the minds of large and small businesses is how they can avoid litigation once they do reopen. And it turns out that these business’s mission to avoid getting the pants sued off of them might inadvertently end up stomping on the personal privacy of the consumers they’re so eager to bleed dry."
-publishedDateTime: 2020-04-27T22:16:00Z
-webUrl: "https://gizmodo.com/corporations-are-hoping-computer-vision-cams-will-limit-1843108692"
-ampWebUrl: "https://gizmodo.com/corporations-are-hoping-computer-vision-cams-will-limit-1843108692/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/corporations-are-hoping-computer-vision-cams-will-limit-1843108692/amp"
+excerpt: "Aside from figuring out when to end their shutdowns as quickly as possible, one of the main concerns on the minds of large and small businesses is how they can avoid litigation once they do reopen. And it turns out that these business’s mission to avoid getting the pants sued off of them might inadvertently end"
+publishedDateTime: 2020-04-27T21:10:00Z
+webUrl: "https://www.gizmodo.com.au/2020/04/corporations-are-hoping-computer-vision-cams-will-limit-their-coronavirus-liability/"
 type: article
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bqt8nt8vn0nwvxrxmywh.jpg"
-    width: 800
-    height: 450
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/bqt8nt8vn0nwvxrxmywh.jpg"
+    width: 1200
+    height: 628
     title: "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability"
 
-secured: "pvXhsPavkISzxukT4yByUFQRjpgsbPpijJLyqf7mk1qUEN5tT5ZBXX+nClFuTfEbUCNE15Ek+9+3xrQ5lhVOK3XrIr0uRQ2evZIZmsf/G/cm/09m2eO3kO8qhGM9vKBSWlEjCxkb9UtpMLI5ifVzhyVXRe+L6pJ/1CZWR4N9Mmi1b11OIAyf+Oz15ntPXRZsGxKnZyesFGytiP13b7mrBFVJ5dSardX4ddWoIssvHRu8WFFvDJg+ZVyKv42fpACtqbC6vR1Or7GfMQHQ9njrVRYqBgrT/LkTcBBRAlBFye3q5VqHbxuPALgxPKXWoUvGVbE6f0YyIlXJJB6sj3EDDRVhjRGzHRATCv2636oC4vtjdHO0UGkYqeB/XX+aQGKFqB0MTB6O34wF/7yT2W/Id092HOd4Wem3MkNmM6+LopIercpwleODlnvbYPnyN9A1CT93hB4CrcU+eiOwXor/V2Jy0F9ZHXJo2rqjfhlMiA8=;v1w1dJlr207OHNxIC0rVLg=="
+secured: "iODzOjdRAMRc2r+sBGg4Z4hITGfhRddPCLyF0Tl64RT11fc0OJxgU7hMlAq6pjfEoRpFVdErmWJUw36SWquqavsd0nhIcaD5hA4l524EpVT6nPXvzYAPe3jTeS4inAyt5L84N3XjtyS32nlVvFhfX/Z86bjjWHKCJUeOqenUbJJRHFEvIlSmXr4EXE7MVTWU8W0dthuRjTvpmBzM6rQPvfrex6jf69glc2gnnBWYs5fL+m5y03CYQWGUUU4VBkLYU11JJ7RTsY5Nkgg2dr4VQBhTR9NSMbdpGYkklqjJeIHOk4Zb2UYzXWVt6mxAykVu;zQb9Xtr8Xv5ql8YAtHWUjg=="
 ---
 

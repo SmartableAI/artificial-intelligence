@@ -1,21 +1,20 @@
 ---
 category: news
-title: "Using Artificial Intelligence to Save Coral Reefs"
-excerpt: "What’s New: Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor ..."
-publishedDateTime: 2020-04-22T06:06:00Z
-webUrl: "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/"
-ampWebUrl: "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/"
-cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/"
+title: "Using artificial intelligence to save coral reefs"
+excerpt: "\"Artificial intelligence provides unprecedented opportunities to solve some of society's most vexing problems,\" said Jason Mitchell, a managing director in Accenture's Communications, Media ..."
+publishedDateTime: 2020-04-22T12:56:00Z
+webUrl: "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.html"
+ampWebUrl: "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp"
 type: article
 
 provider:
-  name: CIOL
-  domain: ciol.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Autos
   - AI
 
-secured: "TD3JqC5FjEp0DCo39kr8PAH4HCscyMvpD2X0QIWHB1ic1KfPpFQ0TM+0reinoOTiCf9+M/76VBzqoe9gS3u5w/TsyNUFMdfiYPkmIfnhbbTH8oBaHyEr4CRAzvgD+88+1S4GwumyBAQ2V3OTLqoTOrGmMU3OLkVUQ2udoZ/TQSXgibTWqaDpTImcZ2NBLezVg+FVXJxKjZ/TMN/L2ukW6ttKw3kjihw71kjg/2Q8Y5MxoCLTIsrhHvf2h+uCkVQIEsR0xrSJhCT/1Yc3lDt+9ANgU8C5QhUDKysYi3Tw5lYM0y2JKLJ0iYHqDMXlWcih;xkeFRrE5vaWRAXLWhxffdA=="
+secured: "gHoKeLhYDlTx4uFbEtKMRVVTwzsGpxS1TZBgyY9mwgagESYGh/ATRp28B7q5Jcgl0LKJ9NrxkEIo4PmbFQ38fRli4WzVBaa1D+GHYOWvU380/CE79/ehVn0fka6vJUQ7bVr2aFdw/dNrEUitKJNrh/xanJm3moMbccvBO2C6QDcwWIeq+lInRAmhUW0N+vQIxn7qzo1exv7cHvjPNPJ0Q3aAB17o60O36myQjfWcsvmsmyq/sjP/craEjd2bnOq4vfjgCJHqtyjDpi9YYMTAXWBsIz8RY9QgeIV1DJCgUP1ihPNxN2YxH+g+MackwZPv;gsry+TRewCUkTpZRRIUHgw=="
 ---
 

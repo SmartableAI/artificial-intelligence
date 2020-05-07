@@ -3,7 +3,7 @@ category: news
 title: "An AI algorithm inspired by how kids learn is harder to confuse"
 excerpt: "The standard practice for teaching a machine-learning algorithm is to give it all the details at once. Say you’re building an image classification system to recognize different species of animals. You show it examples of each species and label them accordingly: “German shepherd” and “poodle” for dogs,"
 publishedDateTime: 2020-05-06T17:18:00Z
-webUrl: "https://www.technologyreview.com/2020/05/06/1001271/an-ai-algorithm-inspired-by-how-kids-learn-is-harder-to-confuse"
+webUrl: "https://www.technologyreview.com/2020/05/06/1001271/an-ai-algorithm-inspired-by-how-kids-learn-is-harder-to-confuse/"
 ampWebUrl: "https://www.technologyreview.com/2020/05/06/1001271/an-ai-algorithm-inspired-by-how-kids-learn-is-harder-to-confuse/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/06/1001271/an-ai-algorithm-inspired-by-how-kids-learn-is-harder-to-confuse/amp/"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 682
     title: "An AI algorithm inspired by how kids learn is harder to confuse"
 
-secured: "wA45NrPugSTFFv9qilhNV/IpkvHauENMzZSWnNUY+rLB5chaSu+bs13iduoQ6wInqbKP+qSPnCEJHSLYtDuowFSkYa36hdL4GIVGwCxrquLokJukINDQIKaJt5HZlOCMq44zfbVS6O44++GPsy9xV8sBKEHLDaAZYVOdTtVrcN5UhWn1Aa7nL5AEG2H6YH/btajN5E2p7leCM0aca/hYMF4oMgNRB7mFP1NNe7vvuWz2OraGPLCePYzn3ovv23A9Zq1Qt4GGhnxuFcZa0qT7uP3gFI69vOl0hnlTy/WllnOe+bfHstZUoA8a2BVW03Zh;q/R4OYvQPh8eIaisVaEKgQ=="
+secured: "fTJ4+EicoCDS0UJUfnw8q9R6wnCQ1jQGGrU0m61E9q5hYWmik2OYy+FDky0BiCUXePVoWSJsH9GqEr1z38p5eMvr8yDmssiTnbE/+Xli6Yw5JpDL81No18UiwUMAX4j/CCaXpb607VMBNnWKk3mG04qv0e1ChKM4F6kVLlNkCdkehUiiMkBhi4woi2srVBuhcRAB6kplUYRndAW5g+Jcn0OORcpDiSvqmoZxtsXVb9iFqyyU849Z/UH/nmKEP9lEfAVdCUdQzv4gmYvAfOIO2ppcVFLDRev2ROm/1dl75Avmu7UgAIbwJUlAqZ8qiHU3;ngQolhKfkH9a8JmTV5pHSA=="
 ---
 
