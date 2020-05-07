@@ -41,7 +41,20 @@ related:
       - url: "https://imagevars.gulfnews.com/2020/05/07/AI-powered-vehicle_171ee14f7d5_large.jpeg"
         width: 750
         height: 563
+  - title: "Health Ministry launches self-driving vehicle to distribute masks, gloves, sanitisers in Sharjah"
+    excerpt: "The initiative, which was implemented in cooperation with Sharjah’s Family Health Promotion Centre, and Huawei, comes as part of the ministry’s efforts being made to contain the spread of coronavirus,"
+    publishedDateTime: 2020-05-07T09:13:00Z
+    webUrl: "https://www.gulftoday.ae/news/2020/05/07/health-ministry-launches-self-driving-vehicle-to-distribute-masks-gloves-sanitisers-in-sharjah"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 11
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2020/5/7/self-driving-vehicle-sharjah-main1-750.ashx?h=450&w=750&hash=A240B14D8B1C432D03E7628BDF317865"
+        width: 750
+        height: 450
 
-secured: "fvn9/nhHpt3jGHWhTE50YYhFfp1xSgbgDkO8ai/XlmTlKqUxO8t/tNkxpGgabCttzanZrEtnJRtzOxmTsMXe2rzy0QcLBI8QomfFW8gxpyNjNGMkko/wlrVKNIPldLLDuee1NuzYO2bv+s++oEYAkPMBlyaRHIGvvY8VFF/DqoFXY1AdA704Gv5BEqASdWha1YDGLf3C05XtU/+wPV05u9XXg1u0TelsC9sOz2JBD3aeJs1VVUFp5Rj59Q4l/DIqrWfR/MsKTUx3/Ab23QIBWEDeqOB81RYwpFEo1gUeMjkU2zVUfV3cRHnydYVvYD3w;ecWB2yFzvN9w5H5lFFZNqQ=="
+secured: "n+Z2H8kHE58BBS36mYRrI5rItF/FVGNLSpRV09+2X8AjVqRKKNLqnGMuI/LZrroApt5jmqjVzEfMkwNLCOV6O1+1SDrwKOe20zvaE4LjPJRHov+/Wvx6PYw8kJP8XkB0O7rbBa2CRk217qo0sgFn+Dp5yXXrXj0PRht+SJHakKm7BD1u2rJWUqadTN+aCmbLFcda6M/cC7zNyTR3JH8DwY8UF3CCQgww4yVuxxffb/KCycu0ollIytVrGi2c9ysqr8KhpzM27FQ2n6yBxKpdK7+j7CiNgXe2Cov6lG0Vy1C421GYFMlGiVGjeDZiAmYfUjyEJdt6cM7DYidmJ4gszQ+QbdJdmJpm7xJQ2DPd7VG7qMiLDtiKe4mzDlPCVjEXOpatrr9VqveNdArJ/eyNcFJgSZ/lb4cbouyH9f+dHeGWyqnFtWbUcy+n6B+/t6amwfoAaRtWA6Au97fMQJTPtIbQwwrzdf3ws1svuboHn20=;iFZdBhOekovKFxHMLZa9sg=="
 ---
 
