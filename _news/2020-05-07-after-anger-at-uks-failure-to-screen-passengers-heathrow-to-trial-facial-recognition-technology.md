@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-07T17:41:00Z
 webUrl: "https://www.iol.co.za/travel/world/europe/after-anger-at-uks-failure-to-screen-passengers-heathrow-to-trial-facial-recognition-technology-47651833"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,23 @@ images:
     height: 366
     title: "After anger at UK's failure to screen passengers, Heathrow to trial facial recognition technology"
 
-secured: "Qo8ZokDLBQwkMF6suwOpNwKv48H4hgKPkOaMuDgVIXDeqzmR8GQGz91APadRtxhEOvq9m1WZpacJkbz21Uad7bWBSuea2usoFjd2Yu3qLtUgjA3kfa2AjGmdhISgwn6UC0d45+CNUqqbx04snn3lBar0drKiPok2O+ecFkmaLgIiIS1YxblNf1oV9YPOf5AhjkAr57kdzOi9XKjLISjbZSWZYWlIRSnNghE/JNFKiDp3gIkSoEK9zS705HLnlufPuoMAu58l5l1qlUbFFi7TpmpuQJed7AxPNPMIEXHjSgJQMXNHHkH71wFNif5qJCcR;2zV10NPbHEtjaVpahI5BhA=="
+related:
+  - title: "Boston Mulls Facial Recognition Ban Ahead of Possible Updates"
+    excerpt: "While existing surveillance infrastructure does not use facial recognition technology, potential updates to the system could make it possible. Officials are considering a prohibition on the controversial technology."
+    publishedDateTime: 2020-05-07T19:12:00Z
+    webUrl: "https://www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/US-NEWS-BOSTON-LOOKS-TO-BAN-FACIAL-MLV.JPG"
+        width: 840
+        height: 630
+
+secured: "f3yPDjP4h13I6B5AzNWEeQwg8Lk9etcfsZNp46KcuC5c+NtFKPmFrC4T90CicQ3aincrbtP90idDiIL3x84hFS7dZA2qZKuUZNkmNykvYFu9VQEvRx/Y4DeUdfQDYcnYRsqbHARPC9wnxSjenDPJodDeWAiidkuVqV7cvu8c2/nWCSnRJLjkxMqwAK+/RvsqT5s6euJDOisvNsu5AIr8pFAI2HTA2YWuwUD/Q/ERa3TrkxmSwQrCtTsKgo+bWpTrdUMueFe0putKoFsCo03bQEGgaFtkGFEAJ/SdTznliIEsXzGO7hpH0wcyL+eFxPrH0wV0jwfVwDai3qnkC5Ew0tcFoRtwHBZ5xGGAiWwA4A5Q2xtWtqMD3fw/SiWi0eN2dGEQD6B8QYb8EPU7EpTt21c+V87ZodKSI9PHPtgWB8OvMHtUdM5gzCTj+JKpcehkLQK/+TELXiurHWRnfvGiX9F+NivPRqfqyxw4E1siSsM=;JKaWO3jLzR/ioSQhK3Nhrg=="
 ---
 

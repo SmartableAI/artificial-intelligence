@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/partnerreleases/2020/05/07/tradier-team
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/partnerreleases/2020/05/07/tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors/amp/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 1200
     height: 675
     title: "Tradier Teams With Q.ai, A Forbes Company, To Bring AI And Big Data Analytics To Customers And Retail Investors"
-
-related:
-  - title: "Building transparency and customer confidence in AI"
-    excerpt: "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent."
-    publishedDateTime: 2020-05-07T08:51:00Z
-    webUrl: "https://www.techradar.com/au/news/building-transparency-and-customer-confidence-in-ai"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/building-transparency-and-customer-confidence-in-ai"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/building-transparency-and-customer-confidence-in-ai"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg"
-        width: 970
-        height: 545
 
 secured: "Km1SRohN4SGziVfCQl5Gv+PMHUdFC5G3xI+/TAgrP66K+PGbfmxfI9o2mLuyocs4SpnuQxQQgJcv8kZlhP1xIlNSp8CUInp7WcvLup4dXFkX4I/qqWdSPfQSOSa1+bzREPhz/p+9w5mQIOGRUF+MEG8XB8A3pbYBPZnLciSgHV3GMAAp88MyZOBpLyzuBmBmEDYEu5tVRW22a7cH/oC4P5tiUVKWyebdST4hzmuf8saQ5koCC8YH+T8J6KA1LIs1qhraCbWAc3yKQ7uyshe+JaAzCLtEwYpJ8f+3ndengxsTs1ZLx7zPhhnjfAqzio8SzXvrZPOYIqLrND5/j7KELzyT+AdRdD2M4K1fgTGkAU7dQCyf7VzRh3VHqvqIp55NBvFeZi7VACp/P4aTLdihBlnIT8ODpe/mTGt/Rt0I9FAIAbh6bGF5oz8Hg+zyysIX9Dy8Es7W+WpKULjbYnsR8MW4nDhK8yOuCWyYylO1IF0=;DQ4plCQOPSsXNmAf+53ujA=="
 ---

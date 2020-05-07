@@ -1,28 +1,29 @@
 ---
 category: news
 title: "There’s Nothing Fake About These 10 Artificial Intelligence Stocks to Buy"
-excerpt: "Stock Market News, Stock Advice & Trading Tips Artificial intelligence is one of those catchy phrases that continues to grab"
-publishedDateTime: 2020-05-07T16:17:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/10-ai-stocks-to-buy-now-artificial-intelligence-1029179056"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/10-ai-stocks-to-buy-now-artificial-intelligence-1029179056"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/10-ai-stocks-to-buy-now-artificial-intelligence-1029179056"
+excerpt: "There's nothing \"artificial\" about these AI stocks to buy now. Each represents cutting-edge technology, and offers solid income along the way."
+publishedDateTime: 2020-05-07T15:06:00Z
+webUrl: "https://investorplace.com/2020/05/10-ai-stocks-to-buy-now-artificial-intelligence/"
+ampWebUrl: "https://investorplace.com/2020/05/10-ai-stocks-to-buy-now-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/10-ai-stocks-to-buy-now-artificial-intelligence/amp/"
 type: article
-quality: 68
-heat: 68
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
-  - IBM AI
   - AI
 
-secured: "2cNA3kUCsRqal/Jj6eFknOmaZIpiZ91Z338FyTPAMZagODWDuW5VyVAICTGG4kC/NwrPX18oApLDveWhUkev2rxMFEbt1W5/nKGX/YvY5Tg9nd7gDYVFT33dRMJw23nxu55SOuM5H1jq2bvMKa93JQfLAcTUxLeZHexDxaae3O0ALx+P59aMjS5zGI5DdayDrnzRNpsbJe0BhdMfE3M9dQjH1mnahzmUfWVMOTfMmmgOqUArCNasQfMsivMid7MKy86rf4hbNuFUqGonPkOKAHIB2ZWlqMcqKbc9gqF19WJRwtmo4S8/50kG2rwTvFRc1bwvbFZKjvrTKk1u3OGbOrmenoTHdrsq8WmFs0n4FthxbqDcxT8eJhg65l5JB93E+XsvJyohxs+lrZ9z6t5AqFE764i4MhDSg+Z5/AIvUIQy2647GeCEB6k5w8G0hFVhSROwBYdCeKEYvpnhtAxM9zz7vEbwD/UmO3NAX02lcOY=;WRxYsY/LsEcMdMllR49UPw=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600c.jpg"
+    width: 1600
+    height: 900
+    title: "There’s Nothing Fake About These 10 Artificial Intelligence Stocks to Buy"
+
+secured: "1DdcepWQ94LrSutT8CiI7ntVHYPkz6PAI/YICw5nnUOaeUGYifKhl1JEKyUyODwCfiwgGmwL7p660aj9qdVvfwmVEAO9KSFyOvZOJM9Yih0lWgOzRcTecavhpdE4bKGZHel+z/efbD1/5nNWblbhk/C+Ig8S801UyAmiP57x5Gz9svI7z2hIFbc1txjxcCRNjVCesvJQwbzP6AeZ1nMNVW92rQb6YxMakc97p8MMmbcQgU0Eksv5xcrk19icQmqCy/N+csg9LLoOeNjWLFkgqIo0Aq7YeeKmaWazhEi+2UVWKlZm9rjZBs6Dw7qGeQCD;XKg3aBLt7pD0AW2ItEscCg=="
 ---
 

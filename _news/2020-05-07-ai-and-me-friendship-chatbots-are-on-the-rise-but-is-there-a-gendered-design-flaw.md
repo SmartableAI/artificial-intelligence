@@ -28,6 +28,6 @@ images:
     height: 480
     title: "AI and me: friendship chatbots are on the rise, but is there a gendered design flaw?"
 
-secured: "dxchoG0OqqId60e+/btD1npJSq35Ty1NnBEbuH+mI0a+O1VL/3LIGrL1CKRYKFVpF+fjkOIEcSOnC52KYQjoAEoBzsWWSC+knEjFZWpRHjm39BuPbKen0Y2h+c4+9dt13o5P+zgCAkwHLueAQZiKuLvlCcvxubl5P3INc9DuJ9zoxj4PbtDERkc2Cwz0z5yQTwlu03V2tZKFml5SpwGkIUh72OZ2rfwKpOskGLH8mmTyWlWTf4hUoErAaBGazOuvlAyVq9Y/qBwDaUawsSuToeHxdxruCd0Yxw/ltiBiFfVsjibkobBsjWTjd/UjTXUO;374tNG1AnphtCt97gn+osw=="
+secured: "8GJ0qTpI9R6boxYhL4zN+6O+hBZkSDT64SMRJNkpuakvBqFxKDpC+yYFmd9S/wgzrVWPIZLLVfWiuJouAfLUvKf34OTe2E5t1+zv9Dx7ek7+OK8Rwpp96xpJjnebZBU//gXm2pPi5L5GD7ohDTqMz8jmuTDXMDmEOQtyRMjuasR5lmVCOhFtJLIIoGTlH2jTfNFkJbo9AHnzroj8Lbl9YdG/jGoetRuvfqd0Ga2DRaM7in2lAvjbsITHf5rQ8y6+OTeRnCI55mBuKM229agkoi3qMIOz9xK/Pjs/Q44TyQ30aOgVwCk3HqmMHk96xpNNhUxtBgKPZc2Leq0FKJcMoFxaogRTw8tF3bDoEyzrusIJz0Fz7aMgoYSTjW0xP6TtZhMyhqdv7RzzmkHiDOmm3b6KeNPy2J7zIBYZr1lJTpivu+rDP2kIp2GqeiMISiGQ2xNNbAby6U3yewo8QCPSOOvwjAlnzTq/Vfxhq2WeppY=;KLy/YFlRLNkpxSMuHab4KQ=="
 ---
 
