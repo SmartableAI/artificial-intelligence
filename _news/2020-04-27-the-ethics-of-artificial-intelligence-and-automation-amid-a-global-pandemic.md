@@ -17,6 +17,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI Ethics
 
 images:
   - url: "https://morningstaronline.co.uk/sites/default/files/11robotimage.jpg"

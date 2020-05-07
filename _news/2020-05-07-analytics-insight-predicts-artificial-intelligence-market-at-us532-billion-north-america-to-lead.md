@@ -24,6 +24,6 @@ images:
     height: 976
     title: "Analytics Insight Predicts Artificial Intelligence Market at US$53.2 Billion, North America to Lead"
 
-secured: "wHhDoB3mL0tlVWV58x/4fM7iIy0lC0177XM2z6ePO+GWxDoTBbFbm3qY3JmS3DRSedtOiNzxTU8h2AfPOR219mwLLZOD0uwiJr7mJIsR9oqaJe9aE1Mve2wBdZD2ns4VmKPzCcsjp9CF8GAQF9tik2bkSXI3N+8Cpr8Pj2MPeO+wgzNmbOEsiLG7leBr2Sfuk1qGCjAzC5eYHz1DOBz34dP4+//HL3kalYbmkpz9vChcGpvdpagk45Z45oQywcATqrQQReqbX7lZUpyuaBpsu5GK9xWq+Rz4QNLgkLh6zNhJ8nAJGRtbh+XQDxQGCN1g;B+WNHXfqIAzMBP0haQ8kww=="
+secured: "OGpVvKR4tP75dB81NVyLyB7MOTuzVKhP9ey+aFeKLHuYVeEzPaVHAcEEx+OgQox89b7X/+i4o40ReW7vKnA4oO+IXuh/djRNUIVXYIUsQuHsQLOgXxuQplHdlTI1gpTo+3Im3dIkPEo0hhV+a++/YMyUV8DA1GmntqaPqxSSt1urvuQVu6ofhSBeTrNot3+1c7OOdLWAZk6++GzRh+dSqbjVidh/OnJ5FbvcMivXlm9VifdRsoSy0HTXjM6oaS7VxlCI0lI5YE1XCLyiNjIwAVE8zN64pzV+XniH2A7HaNSFDFe6Zf/XXAmUlD/dIPAlEJWLHyGgH6LLPNM6iZhFpDgNQDG1G5iVw3Q22fa9nOkGpQeBf+l4O7JPcmk1FJ28CAJNlsp9XBloYbSVOZ0HVGl+9aG4oMw8CR/jzLAxWeJZJ9dBScmuo4JUEMj2Ru2UzCioVCMowxcKrqNU11WGvs1G0MLmEwLbiSflicmk5Zc=;vVLlv+gYtqHDDqF3C+pm8w=="
 ---
 

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
-excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to people in Sharjah. The Ministry of Health and Prevention (MoHAP) has announced it is deploying a self-driving vehicle to distribute personal protective equipment including masks, gloves and sanitizers to residents and workers of a ..."
+excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G)."
 publishedDateTime: 2020-05-07T08:00:00Z
-webUrl: "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_173952755/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/"
+webUrl: "https://www.zawya.com/uae/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_173952755/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_173952755/"
 type: article
 quality: 39
 heat: -1
@@ -55,6 +55,6 @@ related:
         width: 750
         height: 450
 
-secured: "n+Z2H8kHE58BBS36mYRrI5rItF/FVGNLSpRV09+2X8AjVqRKKNLqnGMuI/LZrroApt5jmqjVzEfMkwNLCOV6O1+1SDrwKOe20zvaE4LjPJRHov+/Wvx6PYw8kJP8XkB0O7rbBa2CRk217qo0sgFn+Dp5yXXrXj0PRht+SJHakKm7BD1u2rJWUqadTN+aCmbLFcda6M/cC7zNyTR3JH8DwY8UF3CCQgww4yVuxxffb/KCycu0ollIytVrGi2c9ysqr8KhpzM27FQ2n6yBxKpdK7+j7CiNgXe2Cov6lG0Vy1C421GYFMlGiVGjeDZiAmYfUjyEJdt6cM7DYidmJ4gszQ+QbdJdmJpm7xJQ2DPd7VG7qMiLDtiKe4mzDlPCVjEXOpatrr9VqveNdArJ/eyNcFJgSZ/lb4cbouyH9f+dHeGWyqnFtWbUcy+n6B+/t6amwfoAaRtWA6Au97fMQJTPtIbQwwrzdf3ws1svuboHn20=;iFZdBhOekovKFxHMLZa9sg=="
+secured: "Tk6PIoON6YduHtQFAeGEeoT0psjV2J0BKXQNTQoNDrwdTlFs77ZMvKDvgM/h8S8zfSgWYtVvoc8mJ7QjzMP6xQieesCs27pZuk9DoiQ30jX05iC5zhzD5/2oB1wR0vvJWXQfDIbwpUZ8E3RQk9IdDHzBl/NMg4HdAqkB8MMQTP8cXiBxc9IJ6753s989dphGfRXHQ984C6H3K+NZcmEQ1ek+uIsNgCFGGcepQfOyezL9j8x8M5/FEx3oYQ8TgxQMJUdcoLLJ863akJ5fI99F/ZdNKrMqAsLIfJWYq8zCg+G1RGP6g634kXCPzp8zGhfU;JT5/GYebvhJ108PevFgvzA=="
 ---
 

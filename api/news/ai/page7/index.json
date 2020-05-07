@@ -2,6 +2,183 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-30-linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers.md",
+      "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
+      "excerpt": "LinkedIn today launched a new AI feature that provides helpful feedback to members on their answers to job interview questions.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
+      "publishedDateTime": "2020-04-30T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-duolingos-ai-drives-its-english-proficiency-tests.md",
+      "title": "Duolingo’s AI drives its English proficiency tests",
+      "excerpt": "Duolingo tapped AI and machine learning to create a cheaper, faster English proficiency test that the company claims is on par with proctored exams.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
+      "publishedDateTime": "2020-04-30T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/06/duolingo_logo.png?fit=1000%2C600&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": "Duolingo’s AI drives its English proficiency tests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next.md",
+      "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
+      "excerpt": "Microsoft is ready to roll out its 'spring refresh' of WVD, while working on a grander plan to make WVD more of a full-fledged cloud-managed desktop.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "publishedDateTime": "2020-04-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg",
+          "width": 875,
+          "height": 557,
+          "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-ai-in-africa-teaching-a-bot-to-read-my-mums-texts.md",
+      "title": "AI in Africa: Teaching a bot to read my mum's texts",
+      "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-africa-52411797",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-africa-52411797",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797",
+      "publishedDateTime": "2020-04-30T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FD69/production/_112037846_img_20180827_082945_171.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "AI in Africa: Teaching a bot to read my mum's texts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-tesla-profits-says-full-self-driving-will-be-subscription-by-year-end.md",
       "title": "Tesla Profits, Says Full Self-Driving Will Be Subscription by Year-End",
       "excerpt": "CEO Elon Musk said the self-driving feature will roll out by the end of 2020, and he also complained that COVID-19 shelter-in-place rules infringe on rights.",
@@ -605,7 +782,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.newswiretoday.com/news/172805/Eurotech-Announces-the-Availability-of-the-ESF-Cloud-Connector-for-AWS-IoT-Core/",
+      "webUrl": "https://www.newswiretoday.com/news/172805/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-29T21:57:00-07:00",
@@ -1106,161 +1283,6 @@
           "width": 2400,
           "height": 1600,
           "title": "An AI Meme Generator Gives Us the Absurdist Art We All Need",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-10-steps-to-creating-trustworthy-ai-applications.md",
-      "title": "10 Steps To Creating Trustworthy AI Applications",
-      "excerpt": "Promoting \"trustworthy\" artificial intelligence-based applications for COVID-19 and other uses remains a high priority for policymakers, but crafting procedures that enhance AI trustworthiness requires careful consideration of many factors,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.law360.com/energy/articles/1268432",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1268432",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1268432",
-      "publishedDateTime": "2020-04-29T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-facebooks-teaching-ai-to-lie-like-a-human.md",
-      "title": "Facebook’s teaching AI to lie like a human",
-      "excerpt": "Because, essentially, what Facebook‘s done is taught Blender’s chatbots to lie moderately better than everyone else’s. Today we’re announcing that Facebook AI has built and open-sourced Blender, the largest-ever open-domain chatbot.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
-      "publishedDateTime": "2020-04-29T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Facebook’s teaching AI to lie like a human",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-tectonai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges.md",
-      "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
-      "excerpt": "Tecton.ai is a data platform for machine learning that lets data scientists transform raw data into production-ready features.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/tecton-ai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/04/tecton-hero-1180px@2x-1024x357.png",
-          "width": 1024,
-          "height": 357,
-          "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-the-ai-meme-generator-is-better-at-making-memes-than-humans.md",
-      "title": "The AI meme generator is better at making memes than humans",
-      "excerpt": "Internet users have used the Imgflip meme generator to create their own memes for the better part of a decade. Now, the site is generating its own memes, using the help of artificial intelligence. Harkening back to AI-generated feet pictures and AI-generated faces,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/ai-meme-generator/",
-      "ampWebUrl": "https://mashable.com/article/ai-meme-generator.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/ai-meme-generator.amp",
-      "publishedDateTime": "2020-04-29T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F29%252Fe6%252Ffccff94954e94c1197cd695c0359290d.89652.png%252F1200x630.png?signature=iB3J6jwGoxGkoaY0JIFKbiybHEs=",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI meme generator is better at making memes than humans",
           "attribution": null
         }
       ],

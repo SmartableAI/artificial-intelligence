@@ -40,11 +40,11 @@ related:
         width: 750
         height: 563
   - title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
-    excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to people in Sharjah. The Ministry of Health and Prevention (MoHAP) has announced it is deploying a self-driving vehicle to distribute personal protective equipment including masks, gloves and sanitizers to residents and workers of a ..."
+    excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G)."
     publishedDateTime: 2020-05-07T08:00:00Z
-    webUrl: "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_173952755/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/"
+    webUrl: "https://www.zawya.com/uae/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_173952755/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_173952755/"
     type: article
     provider:
       name: Zawya
@@ -55,6 +55,6 @@ related:
         width: 1200
         height: 878
 
-secured: "A/3BYKvLE8LcHfPhaL9o3VvSeCnfhUqDXQeHRH51ktEJh3mNzvs6KB+8D3bCjW6wj4yZkC9fnr0hlkU46vYQUikfX9+buYoBnGeeKDh578lpJGmN8TOZJGYPfEz1Afsx81W4xtwDBQdw/FlvIJ7+oU97W0dPmfVNZ2LKq3VX3NH5MShohbbOt/bmREdyWBEN/PEwd4j69LdrVC6tAy3xtliWLvsZRtgXoyUk8ybKUY6mxxl/BBLCJXjeO/L5ab98FHBZMw3GP7AQqByI+qBrCO5spbT4ZcxF5T4C4hfHEPF2rTfdS4j/DD1cQ5vXQmy/;jyV5EhsTXUWT0itJXLJ61A=="
+secured: "49BUib7Tu9Rwq/yQ2ewxRsudknZVoHQSZjYYwWLkmUCsL7XNgqBtp7NQy4BD3F9c3zLW0MKnaJbCvWoOBUXFqdwK2Up7OxrIONy0rcRm6M+WrplXagCsUH8QNVyZIIt5el/82/eRyohpeHit2cm0iAMlXvZPcr1hTC3j294QxWMF1CMcrquA1BEFaOhdl3xaKQQcJo8M6wy2RzwSUIcpvaNVBenIpgrgD3kWjFPOSWBg9roccuhBYZG6/K4lj7AR1kL/K9pIlqVm2/wFhc9IN3lik5/DdtF684/RUxwKl+n0BrO0NbayEyZ+wa0gDfCVlVwHzHkytwetjKlDoLlgf8iHz6NPPwJHSOBqtV33bfBeyEgzuD7YfCTbE/NylDS5Heyx+4ZGw+oiC/QLIU6vTr6mHQ7+WIa+7sM/Gyvb8pbGhRaPaj8/c45UJXldrTjfcSgTsF1sQnNZfcChV6cncLpZLm09dzkticLd6UCjFbY=;wYZoo/kXF3NplX7TnozN0A=="
 ---
 
