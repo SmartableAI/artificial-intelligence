@@ -1,24 +1,30 @@
 ---
 category: news
 title: "10 Tech Stocks to Buy for the Next 10 Years"
-excerpt: "The past decade has seen some breakout stocks, especially in the tech industry. The smartphone era kicked off earlier, but it was over the past 10 years that many tech stocks became the ticket to growth that resulted in several consumer electronics behemoths."
-publishedDateTime: 2020-05-06T18:27:00Z
-webUrl: "https://www.nasdaq.com/articles/10-tech-stocks-to-buy-for-the-next-10-years-2020-05-06"
-ampWebUrl: "https://www.nasdaq.com/articles/10-tech-stocks-to-buy-for-the-next-10-years-2020-05-06?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/10-tech-stocks-to-buy-for-the-next-10-years-2020-05-06?amp"
+excerpt: "To find tech stocks with upside for the next decade, look for companies that are strong now and have a business built for future growth."
+publishedDateTime: 2020-05-06T17:27:00Z
+webUrl: "https://investorplace.com/2020/05/10-tech-stocks-to-buy-for-the-next-10-years/"
+ampWebUrl: "https://investorplace.com/2020/05/10-tech-stocks-to-buy-for-the-next-10-years/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/10-tech-stocks-to-buy-for-the-next-10-years/amp/"
 type: article
-quality: 54
-heat: 54
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "1j1SuaADzpfr3IV/oHxvfJG8z81ToiCdJduA9HS8ECdyLH/mAICtOD2iCn/Cpr1juGdGCh1I/OrLCkYs/Buc5aOUMT+7EQ75qBbX2JxZDqQaViTUuKCxUrAIrMThaXHdcqdD6Qo8E1ERAyH8U71txqdeSZxwT2KEiK5ByCpGdeE7otpmTjBONRSeo9MK5tXB/jbcDQMr95/HSoBiIYDQaJ+RL0fFB5QLMyE6g8kACZgp3psyGHVNepkiQ31Trgf7gyV1w8EoxzHwkgfQFly+fad34y5LiFOnQepCP4tU1rwl5Ua4eU9SQ26GaSmotz+X8k7mODWzeMiVcyMOK3LTlmcfnRxa8QCRWsrPcDVs4hE9BMEwmb6lrOTCR4SwHrJpqyFY6T2K2LkpipNC6H+eIoKDcD6EjwGkiEQVjzKPLHCCPFNh+QNoCUVGi/gRJmB7qPvwWeUlQQYm2ILb0eplSfE5X8klq0jO8QYClTiTPBY=;O/MaDDkVEdf0tzPK5XaHbA=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/tech1600.jpg"
+    width: 1600
+    height: 900
+    title: "10 Tech Stocks to Buy for the Next 10 Years"
+
+secured: "FTKQMXSat90IYmmZicShNDEqklQN8/FVyjaSWicbV1fRqioo1tDG50gZz16mavDuiD8x50x/7piRLZvP2OsZdTQoNRzVaJDNKmAMVAF3BzzqGP37h3hpvfjYmubqDkPHU09qn53A+sdS+DDo0Xm7uEOkNlKXmn/S9fM9txas2ZKq9cU0AIN/+AjV02+W1H+GCw7ML50PdJ7KxP1lUwHdcmq+PjyTDHMhMTNP9/XPJBw8CMDOqnyTAmUHZbfEB4VbMHMoum6zDwFfPHsi/P2dcPRn52kl+WM9E6JpHRCnQBugvkqdDL5onT98kWCQRrkw;T/zZRRTvZq+sfOH9KuavWA=="
 ---
 

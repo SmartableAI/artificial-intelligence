@@ -3,9 +3,9 @@ category: news
 title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
 excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G)."
 publishedDateTime: 2020-05-07T08:00:00Z
-webUrl: "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_173952755/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/"
+webUrl: "https://www.zawya.com/uae/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_173952755/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_173952755/"
 type: article
 quality: 39
 heat: -1
@@ -68,6 +68,6 @@ related:
         width: 750
         height: 450
 
-secured: "LJU/LdEy/fvJcNMw77rF8oWyk8mA5cuBZHBlJSBwGqbmC0h31kKBRFTUem/8WGMMHVrxSS6UHxLoTz8SjSvQvfsZRRwXeu+SmDN0vHGy0mnFgne2+Go26kWTevSgPJ+RypephPbtDFuN9+PQgkR76E7hxy/LSKhbdCstBtCayWH2RE4LFOGXRdHvIYbN+W3r2yVNKJqJLdm4k7Ok/aD0AdocWW5JnkiHV04V7zKSU1Ufe9zNpHWrG1wLm4bFxnwrAk3V29Qywyr3jk8umYFLtMEQhLU2zbsuG/kPEcQZ7G8acdB/E7wsJ0KOx8+evVIU9LA2OXIdRopzFhsNpNCnT+HKThEHlvtU2sX4Ffj3Ahs2UNV9KAzJIl2exkUBjKIJWgSa0ikVRcPOlPlf6DhIzI1czQ117sXN4uAjS3EZyExPtJd8F9yhAGYyuWhSp8zKa6hF42CjLZ0i/ggqt1BpjIR/b2XTYKnazQwd5uK3fjY=;6+56kNro1QNrwt0typrRTw=="
+secured: "YpNBuBqmRNBErYDllO45V8529ke/ju23SfXQCVWOoqqxWimf2UjqNgFrLQLEb+Y5W2l6NU4nzGG8osYu/TYDU/WzUGjkSnzCYUEPCi9XoAIQhqKwkE2zmrRP9OC32iXAXBBnOof9pBORmMEn+2+MYx0uVZ/b7p64uYfNcCMkF/mHpllwk7VrefXq6lwT6IaVUMmh0prgVl9owUAUHDYgpG0u8x0/mIbXKA+BIfsfI9JmwigDWqyzZi+SVSkY7OMzPb8Hi8fN4aq10N/ppbx22Z6ki2abXIeTGp/xGB/ycIzoBC/G+G0LE/Q+HFST43o8;DvhSS3IuF2y9TlvsDke2Lw=="
 ---
 

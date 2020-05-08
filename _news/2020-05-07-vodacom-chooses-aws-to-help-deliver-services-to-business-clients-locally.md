@@ -8,7 +8,7 @@ ampWebUrl: "https://www.htxt.co.za/2020/05/07/vodacom-chooses-aws-to-help-delive
 cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/05/07/vodacom-chooses-aws-to-help-deliver-services-to-business-clients-locally/amp/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1920
     height: 1080
     title: "Vodacom chooses AWS to help deliver services to business clients locally"
-
-related:
-  - title: "Vodacom to expand services thanks to launch of AWS data centres in South Africa"
-    excerpt: "Amazon Web Services (AWS) has launched its next wave of data centres in South Africa. Its partnership with Vodacom will enable Vodacom Business to expand its offering and provide improved business, cloud and other services to its clients."
-    publishedDateTime: 2020-05-07T09:27:00Z
-    webUrl: "https://www.telecompaper.com/news/vodacom-to-expand-services-thanks-to-launch-of-aws-data-centres-in-south-africa--1337524"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 15
 
 secured: "utzmsTHWE621cR1IAxhVM8wm0k3XLjdavFug5BqhlMywCE2RtpDfwbWfexUke64qx55zAGCufJlTlzup7/v7OThr+UzIOUOdloAbp4ajUE9AKXNBr8MYawTrc7CWZIl/5WuyIGVrrO5KJvI/DsQf9fzSgG59fAaD5NnoUG2AcTZjMH2xdxa71egS0rkG8/JK/XPXOpna0j8XTB3/MQE5tebjHxJwCsTA3HtBK4JyFS9z5ZY/ziiVVgZOIqXc4Y5n3G22HSEnR/TTE1MGP9bEVWHSce1fux+36f3CRK+CoYh8mmaNHCCiP6sBSWY7LP/Izp9dODZSgbEaEl9hsDIitqX/Tc6f+mThjPAQyPaCJ7+VIOM407b9EFfWjj3HcSIVnJ02dM4y+VV68E4Wa7q6AsaC+YbF54nGNTBx326gEahny1DOG8lXkCfOjIHKY/HXTuY91L9eRKVZMJdu8iY+ABSrj3SI50qETHKJbfvyix0=;u9WDH0paesDOasrawT8+cg=="
 ---
