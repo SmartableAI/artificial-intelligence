@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Eightfold.ai and EdCast Team Up to Deliver AI-Powered Personalized Career Planning and Corporate Learning"
-excerpt: "Eightfold.ai®, the inventor of the Talent Intelligence Platform™, the first AI solution for enterprise talent needs, today announced a partnership with EdCast, the AI-Powered Knowledge Cloud company,"
-publishedDateTime: 2020-05-07T13:16:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/eightfold-ai-and-edcast-team-up-to-deliver-ai-powered-personalized-career-planning-and-corporate-learning-1029177949"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/eightfold-ai-and-edcast-team-up-to-deliver-ai-powered-personalized-career-planning-and-corporate-learning-1029177949"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/eightfold-ai-and-edcast-team-up-to-deliver-ai-powered-personalized-career-planning-and-corporate-learning-1029177949"
+excerpt: "Eightfold.ai®, the inventor of the Talent Intelligence Platform(TM), the first AI solution for enterprise talent needs, today announced a partnership with EdCast,"
+publishedDateTime: 2020-05-07T22:36:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/eightfold-ai-and-edcast-team-up-to-deliver-ai-powered-personalized-career-planning-and-corporate/article_71088cdb-da05-5f5d-b739-93bf777ad212.html"
 type: article
-quality: 52
-heat: 52
+quality: 2
+heat: 2
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "Bc+NTyKChqsFuHv1UqbCk16CXxRMjeZmSHBgsQ622iwZWuvReK5k2IlQbKn+eJU+ttJyn3XBM1zU3leRqOqrRFym8rVRk2RxyKWvyAzFk5PLUZa3vwvY4ZuEMup1pK8VWsDw9bjqv2k/+tKzinFlBsEaN5R73w9f4nGcYtu+YSmIEj8BPIEodrZcamFxQtAkHocqtyrEqnOm/Xm0pk6cbuwFQQKYgRsYMk8F6QmKOYNGZR7XgR9/CcHb6FzwX7b4ZMqDixPL1ciMUY523QQs7BzWkFQKOAsOISnOBqJex5AUvHWssus9uQQlxwYweqBd;GiXKSRYi/FytF2cTmjOIDw=="
+secured: "ltP4fus1Dnq4rUOCQyzGYmMKu23FVV71WxalfvRG29ZBY/ME7qONjQAkH6zSMW23vNuiv1krGc5q/bUdCumBCNEL6KdYlVS2+HGd5PmewCuE98hP81aeohxYkkLiRpKllOM8mwRGfy2xOx+PQ3TAzZDCVx1+1QkIbcCRMNmpO/cGQwVlDQbkzHkc6oo883sGp2tWbzmuNtI+wgaOy91eS8/w461+inO+NUbfdYiVLjTwP6kVPIJMXE1FI+TBKvirnmIHJcKcI4GbnvL+ZhHzwKY4zX3yMlVLkz5kmTef/3HrT6158mY8TJTkWSFjGy+G;pgevGVOAc22zNpmo/eW4Pw=="
 ---
 

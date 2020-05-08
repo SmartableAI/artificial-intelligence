@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -46,7 +46,20 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/JgPymIe21_tzx6tv4zRVd9KfmLQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66767987/acastro_180730_1777_facial_recognition_0001.0.jpg"
         width: 1400
         height: 933
+  - title: "Clearview AI will stop selling its facial recognition technology to private companies"
+    excerpt: "The controversial facial recognition firm Clearview AI Inc. has stopped selling its technology to private companies, it was reported today. According to Buzzfeed News, the company is “is cancelling the accounts of every customer who was not either associated with law enforcement or some other federal,"
+    publishedDateTime: 2020-05-08T04:01:00Z
+    webUrl: "https://siliconangle.com/2020/05/07/clearview-ai-will-stop-selling-facial-recognition-technology-private-companies/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/15908830396_71f3c072d0_c.jpg"
+        width: 800
+        height: 314
 
-secured: "tPhNiBBv2p3vPGmmQW2vV58TcyHRkapR5elT1AemPSeag/zDmFi6ZiG0EG8B/oYG78SRbVfGmAWaAo02jCo+y8OiZ8QgaHdCOG2W3TTeCi4H+uomAHTGtrqVQBR8OPvI2d7mviMTUwAoOyxLor4uKdBCryYxxCkdApwXzVt0KCdElUshYnUEcKg0Akk3enC1nkfBMx1vMD6ZCwxJ1lWJ3HII6DBe3l01BslGFN4F8YqHwgO2egiqBp/rQMazwE18TbP/oaz+9ymp19LFUrHTw2n0qp/UPXX50iH6kSnib40jWYfkcI1KAV9CHTBK661u;2j+w4x4upT+5PCio2mP77A=="
+secured: "2iZG5Z/4ExdzkippqcIHtzar5WyvkhJq2Cc4kBVpTvekWx59J3C8IdeV1KZiOr9FXokp5wdQxVripvVpM5IyVsP36Jibu3LAcgcdZGCV/HG7BYoZV8GCtzEP69Nrq3CuyvM2FK6IJ8aV/2LV4ZQzTtZJ9fVLpcVz/Sv9Yr6VxuuLgPkcwQ2hPEvs7cnvg1cZrCqTXhDJFG6wWBf38EWvfOmw05BckmaxAVdLrzlVsE5nWbQIjW1wqr093YkIYj5WPhmWZYRaKSX8NNvD63Tm7dosUMZG2hKkzIQKVbhO/MkrOKRiMwE8jKO25MFcA8DywT9Q46s60LsgVScyG3pAQG/eY+EqYc+COAXsF0ZcPAtBwJzT2IJEOCIiZii9GbyC/PlRylYi6ARdckEgUauncWdwcoIHhGX1H9tbHU3Cpmt7cLV10z+jT7RsgGioBZY6h1HzSX8GfvGgW41DFzQRnGt0khZbWWQ6DX2oCZAyC3Y=;oVNtKmjNIJ4LdLBm9a/2Vg=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 629
     title: "Alpha Roc Launches Open Beta: Machine Learning API and Self-Serve Platform for avid traders"
 
-secured: "OJStjy9CHBRoJHKLIlJFuFSSATM8C99u9ygWHX4z9DLBmYVFWxIcBkvUaQX4sgtOBNcRYEFEG3Y+wVwj/WJelu35e/6Gij7VhBH55/+Ymo89ODjrBR7Cra4XHWjvLNxxxjeihbiytdu9pk69ixPoJYWTvJH4974ShZxNLVP6rSVt5B9kFMz2I3IclnUpPz6SXHFlYvWOypUVk6O9VkWdeqjPaldYws4OP+qY6U/QUVOLdczIP5bY+R5L6aeaOenQZhjttuJtmlBY+2NXJvmCkJfWGs7QSrv1+a7uB3wJS3edVExpCTyf+Z0B29o4tWSk;xm3S2UJmxocTYCjId45HCQ=="
+secured: "9lZmHUoMjVFdaQIp7dv8GqMa69A7q0ujnDpAuBtny3xVS81qhU/H+zs3wkC/SZuzhCGUIwNMmAdeorrzcn64Qj10JRsF/0p7xGliTUXtPjs51LJcaQuE9aj47PrySXjcuHpWEA7oyl0KEewEpxdw6LpkH4lolAsbshTJ8/15XJgMeZuSjl1u3WRSmzTJlL8XQ3159JcFpVo+EhMQ/9QXNNFOr3cgaxsQxoj4KrNwlf6/kicR4hJcaceu5Grtzk3MaJLYOcG0N0WaMHM3fNopwZPXkDD+//z6OYVN5s5sgOZPiklzZ8MGvawVemo2erxNh7HFx+CkNB+M2XKuFyDTyJMLYdmMhp/e8zj1Sx4JRLQUxIT/Kk9c+yUvYpinkiI7gLLreSBey9sNPBPHqM7p8fL//0rl7Y9OVggeYyzzq1C1eOgW5ffgfZSjsWxqoctHetGUGsWlOtZwcVckAlaxbtjjBkt4s4lf1v2KSFaGfhU=;OnNdsI81Ba+5m7mEu//Amg=="
 ---
 

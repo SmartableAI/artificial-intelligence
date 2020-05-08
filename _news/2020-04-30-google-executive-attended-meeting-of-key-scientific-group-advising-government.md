@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Google executive attended meeting of key scientific group advising Government"
-excerpt: "Google says Mr Hassabis was invited by t, Sir Patrick Vallance, who leads the group, which has been advising the Government on its respon"
-publishedDateTime: 2020-04-30T15:30:00Z
-webUrl: "https://www.worcesternews.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
+excerpt: "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ..."
+publishedDateTime: 2020-04-30T14:35:00Z
+webUrl: "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
 type: article
 
 provider:
-  name: Worcester News
-  domain: worcesternews.co.uk
+  name: Telegraph & Argus
+  domain: thetelegraphandargus.co.uk
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.worcesternews.co.uk/resources/images/11319113/"
+  - url: "https://www.thetelegraphandargus.co.uk/resources/images/11319113/"
     width: 2168
     height: 1445
     title: "Google executive attended meeting of key scientific group advising Government"
 
-secured: "Mict+9QiBCDnYSe7ACeqpnQTCnUANksvpkQLUM44n8awOcPrvbEoLezGRoGTOEChhTy0Gc5A9KrxqMltZMrVzXrO7ACnUuOQ99lm9/dg0575LmgI35wGIm+ClaSLynvhK6DeiqjWO2i8AqpGTUMPknoX8Qgd/JRDFpki6rJvPglO8ZyV+zU8ylBdDeLQ/sPiK4t06Z4bKM1C+zCXCovLBwPy0acn+vDET0a5X27bd3wDk55N7EIEV85Zz66WDykAflx+Zlsr+c135QZb+p7ZUI5cLCv/kFOSOapTOpWDLgzUicUEqyTxSPNfCBPn+2Lv;n+pDAOgvmFK/aPCYSSMlEg=="
+secured: "s2wukTwHZd6Oqqt0sLJqNOUOTlpoI0ESOVpFA6GklnRWUll6XpO74gb9BNxdXP6eFXkLo4jy7ukwmLULCLh+rNbEZ84HyH0RMD5nO/GJErZ/H/ijnDL2i8q/QjV5vKYa7L8lGj53CkJhDfDpGeyC1rh4NdONA6DbkjJqNtKzeXiEGAD0IBK7c+xL3Y81dkPLet/M1iQIjmJq3YwQYVLYPmeU/Q2HzscXogO6/bS6++7dIx+6nPMsX52TLIyhoKY0OD/t/bs9APSszh6ZrR0G9ZCZ+CH0mxJuX+7FblmfF0Tb3csQ4VlqN4mxCfSwbI19;mI3n4kJSrOZxWW4kOjYYlA=="
 ---
 
