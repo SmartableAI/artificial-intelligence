@@ -40,6 +40,15 @@ related:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
         height: 878
+  - title: "Experts emphasize AI, machine learning, and big data are critical in fight against COVID-19"
+    excerpt: "Leading experts in the field of Artificial Intelligence (AI) discussed the potential of Machine Learning, Big Data, and other technologies at an online event organized by TRENDS R"
+    publishedDateTime: 2020-05-08T06:03:00Z
+    webUrl: "https://www.ameinfo.com/industry/technology/experts-emphasize-ai-machine-learning"
+    type: article
+    provider:
+      name: AMEinfo.com
+      domain: ameinfo.com
+    quality: 24
 
 secured: "zNLv0Yuqbs5EY7XhRLOym5Ld9g5IZl/cmyt7GiQGQQatZWRzK+4p1fF+e7FRzV2gJbc/WPyunllMivhRK6bpID+TwYo/8bXtZhfHrLfoQOM/FwexoTjD9FVlOpeqOOk+9JpWVeBB2Agicm/zoCKNYhLiRCUoidJUwoaVW0lIDBki1V0zmtwMdS7jgEEdEpwekuvRTJ4MwzcB9K+ckrX3CJZR3uWFR7l+/u6EobhjLsGWHm0rpeEMg7Q74nmtGLgnVA9jNDwCD9oj74DnDpyR+U4W4CnJ3Jc/UpnmdJvK/VvaP/YZdcQvzkuw/wZ9lIveXnZ8AnMWMHSPPaPFyJFEpFmKlfoYgZX4q/zwJCEE+NEbPH+/haGpw6JFT8STllOyTs7yI+eC5hgJ/RT1/lQNqpl/FrZ/jl8Y5fOl8zBWXTOZoAWHgMfE/RlgR503K9HVgB4BMzZb58CzagPeiF5QK4yKtsTj0pLGOyq3Zb3mx3s=;DVvOVK1Ojjvnm1BGem+AcQ=="
 ---

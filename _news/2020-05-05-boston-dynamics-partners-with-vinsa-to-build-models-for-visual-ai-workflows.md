@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Boston Dynamics Partners With Vinsa To Build Models For Visual AI Workflows"
-excerpt: "As part of its exclusive early adopter program, Boston Dynamics, a world leader in mobile manipulation robots, today announced a partnership with Vinsa,"
+excerpt: "As part of its exclusive early adopter program, Boston Dynamics, a world leader in mobile manipulation robots, today announced"
 publishedDateTime: 2020-05-05T13:00:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/boston-dynamics-partners-with-vinsa-to-build-models-for-visual-ai-workflows/article_12fff0fd-b1f1-5311-987c-1ad9ba35fb5c.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/05/n15954767/boston-dynamics-partners-with-vinsa-to-build-models-for-visual-ai-workflows"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15954767"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15954767"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "2IkSMdmtRq5xuLhjVwjfB4v/YnZKjFo890uMucZZNvizmLMaAZmtG7v9P2pbShNpPdXxlg8TR1lGK3AASCzhFlKSbHW0J8gCqllgaI7m8VJMGQ9OWET19+4O1itadXXEN7i5W9eIqnWpN72fV/Wd6e+Bqm74nkqibWQ1FpUFivq8Rr2cXjUJF6Nmv+9S9NrUINGZl2uj4HA6RniQd6ZorcuU0BJh72YNpCC88HqCo+lYV8kz+4CdMliI63Ev/J3lCItpUDTprzI+pZTBaQTi/X/giVvYlUZoA4cxkBm+XCfkCkHK4bJRSDi2SoOOeeVY;tgdb/JGI2JgFIX1+t3NA/Q=="
+secured: "XJyA9I70+rKQL5qz5kFjjcF5NiK47HXPzU46qkYSlDnQ53wS4C4CzTiWdSCssatDV6xRsCkqFUAZnT+txcSRXbXrOlLO/xhKWpJHUZ8UCdV5nr2lL39JbBwW1qz73j7pjqHVjNBdZ68Opm54IFINuz2MQa9AQMF/kgInsHDI/TO3MEX8Mv1JOXMHHkn1uiOT2Re1r65CdRkmfsJ3yV/gI9jsDZUJxz9mku5pBKla1hXIJjpvDazw/dWYDvPprGVvI1SastpT3XJNLdT+dttjjQM+e9Kt4HIGc6JivVv2/QvyYlXFBsimlQOyvHdsKYRZ;ND8gbl+6F+MtzY5tSO0crw=="
 ---
 

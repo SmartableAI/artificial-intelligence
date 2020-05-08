@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-23-europe-speech-recognition-software-market-will-take-the-highest-jump-during-2020-2025.md",
+      "title": "Europe Speech Recognition Software Market will take the highest jump during 2020-2025",
+      "excerpt": "The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cmo.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
+          "width": 600,
+          "height": 246,
+          "title": "Europe Speech Recognition Software Market will take the highest jump during 2020-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-google-debuts-ai-in-google-translate-that-addresses-gender-bias.md",
       "title": "Google debuts AI in Google Translate that addresses gender bias",
       "excerpt": "“We’ve made significant progress since our initial launch by increasing the quality of gender-specific translations and also expanding it to 4 more language-pairs,” wrote Google Research senior software engineer Melvin Johnson. “We are committed to further addressing gender bias in Google Translate and plan to extend this work to ...",
@@ -1163,35 +1200,6 @@
       "provider": {
         "name": "Psychology Today",
         "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-05-natural-language-processing-for-structuring-clinical-text-data-on-depression-using-uk-cris.md",
-      "title": "Natural language processing for structuring clinical text data on depression using UK-CRIS",
-      "excerpt": "Natural language processing (NLP) methods can be used to automatically extract clinically relevant information. Objective Our aim is to use natural language processing (NLP) to capture real-world data on individuals with depression from the Clinical Record Interactive Search (CRIS) clinical text to foster the use of electronic healthcare data ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://ebmh.bmj.com/content/23/1/21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-05T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BMJ",
-        "domain": "bmj.com",
         "images": null,
         "publishers": null,
         "authors": null

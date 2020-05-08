@@ -1,25 +1,27 @@
 ---
 category: news
 title: "5 Artificial Intelligence Stocks to Consider"
-excerpt: "[Editor’s note: “5 Artificial Intelligence Stocks to Consider ... Google is a top player in autonomous vehicles. The company’s Waymo unit could be worth as much as $175 billion, according ..."
-publishedDateTime: 2020-04-30T08:26:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/5-artificial-intelligence-stocks-to-consider-1028347999"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/5-artificial-intelligence-stocks-to-consider-1028347999"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-artificial-intelligence-stocks-to-consider-1028347999"
+excerpt: "The company’s Waymo unit could be worth as much as ... That puts it at the top of the heap among artificial intelligence stocks. Nvidia (NASDAQ:NVDA) is the pioneer of GPUs (Graphics Processing ..."
+publishedDateTime: 2020-04-30T10:26:00Z
+webUrl: "https://investorplace.com/2020/04/5-artificial-intelligence-stocks-to-consider/"
+ampWebUrl: "https://investorplace.com/2020/04/5-artificial-intelligence-stocks-to-consider/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/5-artificial-intelligence-stocks-to-consider/amp/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "gtY3aFNUreb2lJzbxEgz6mHSzni5c6rKu4nfpmdw9aRb+dxDtchNSabsB/GNlX7TKLQ9wHt/rUjgMxSiXVREeo/ZOKdeFI96p98leUMuZmTQV25e11sb5KD9Pv/ZSWPUNqsfqDyUsUngFQ6NioDwSFMOE1yUOaIIEd4ubM/502dFnLzJWv/VPe/qi1TpPWnfmNrWPffouqV2ImEV+BOMdbpO8+cV4VWm701pxQ5uEfkRD+ZvfRSGUio3rE/pUWtLDpyPMYMpKl7p0LTXTkI4AlvTMMMgufEFZrZVCg5CqXWKu4hTnsGvfWZGgL+Bd/Aq;rIYVTNi9/vuy2LHzr+myag=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg"
+    width: 1600
+    height: 900
+    title: "5 Artificial Intelligence Stocks to Consider"
+
+secured: "wBw289IDDyhewhgRUYWjvd4Rsu4yIkCYxFhuFpf2+grbyWhaLMowzEZNpnyaoXrt+EfndCi5Li9HmVrO6bS3FO0nIn+eISdmQIZ9BgHKQNIfpwEKO00bD7LKjghGfM+7ISZ3XxI4cllJHCllnQSPsO4EEdC3LtruH8DKBX+2qK20KJr+Oc1/D3tTScI7THLdw79d9RxRLUZF1+Znvk/0fGRZTuPL+slr5IgXBNX3U7bF843QJH8vjvQTGj5zCvyL/YSfKSrCFQ6xTSwCI8pM/jMD+6jOLn9wcWTUsISPUGwQ9hWOadRdoeEwWM73rHLt;2Zhe4Xje0esAz1TQY/68YQ=="
 ---
 
