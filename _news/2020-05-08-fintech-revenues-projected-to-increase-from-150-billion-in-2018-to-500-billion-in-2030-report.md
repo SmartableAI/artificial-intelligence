@@ -25,6 +25,6 @@ images:
     height: 300
     title: "Fintech Revenues Projected to Increase from $150 Billion in 2018 to $500 Billion in 2030: Report"
 
-secured: "l+PDlAaEDun0lTZ/moFNdXR7Jy+FxKp8mBHHlQOaT3vbrBsc+t12wUqsInFE9e1jKDeEl+9BQHFnp7YP8aNBF209SbsbM/E5Z68nfL8ojlJKtoUExw8XzsSehTcq0Ra/rdio2dzXTxbLLYGc5qXUl717xQxIpJNA0HH4d8GPC9K9vrAgo8ptzdqeeWvTWPpbOhBf87P/QxOcewslO/lRGyweuaCEdihhumhbOOu9WYHvIpvo2evbqnEAGE7nslomE/eyvzXEPN720pN6buHGT5N9e3LAyFKkVXtIQr6v8YRp+ahAUDFpkvWW8onnfl2Q;FiFnqM3O0b0i2SwjDXfptg=="
+secured: "B+BQGuEbApM3uFAoCy9qKsnJj7anB/J96ZtrDh82RHzq8zac5pptyKuOD0mpgkLrXFlD4tfb8yNFnG1duyuR8wdD27pUsAuaqyXleQBDhW1ZaRMR+B5EDLrqnbRp+Ud+AQaHkiFkDfBt2NFZQ9EbDQD1sUynPep0Bc8ORXp/o39spxm4xFieb/odwzcp93n//KFz8st+8v3u2MWUBrbpqXt+GmDNA9ujfTPvxOo7iCM2y2aBIneiPNAf91AApa3RI9KAT8MCU+0j4o7PiXHtgSlpNm8RFjGt4DL+OZYaJ5D6vdacp8iREZvbmUTk6QBjkvEomgtcV5o9j/CcAvy708kF2R+CcWVjBU4xugg2AEzzk+AEp3fQ4QOMUWUf6AC9xzGaD/1KHj41ecr3fbHF9XANDSgny6JHnn+1CukBmJYIrjhxqB27NJTC6L/vvJ5B6yfzzRUIrTkNTdd2McWsVWe9L6HWFpdao+l+WK7cwco=;3yFM5t9FzDRBwCVpuduifw=="
 ---
 

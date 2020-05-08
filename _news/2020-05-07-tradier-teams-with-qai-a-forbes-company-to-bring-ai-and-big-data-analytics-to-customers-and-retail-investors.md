@@ -1,13 +1,11 @@
 ---
 category: news
 title: "Tradier Teams With Q.ai, A Forbes Company, To Bring AI And Big Data Analytics To Customers And Retail Investors"
-excerpt: "Tradier is teaming up with Q.ai, a Forbes company, to bring advanced AI-driven intelligent investing to retail investors. The collaboration aligns with Q.ai’s mission to democratize access to AI and other quantitative investing methodologies by giving traders data-driven insights and seamless execution to help them gain an edge on the market."
+excerpt: "The collaboration aligns with Q.ai’s mission to democratize access to AI and other quantitative investing methodologies by giving traders data-driven insights and seamless execution to help them gain an edge on the market."
 publishedDateTime: 2020-05-07T14:08:00Z
-webUrl: "https://www.forbes.com/sites/partnerreleases/2020/05/07/tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors/"
-ampWebUrl: "https://www.forbes.com/sites/partnerreleases/2020/05/07/tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/partnerreleases/2020/05/07/tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors/amp/"
+webUrl: "https://www.forbes.com/sites/forbespr/2020/05/07/tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors/"
 type: article
-quality: 67
+quality: 27
 heat: -1
 published: false
 
@@ -21,12 +19,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb416c4858c0300077238c6%2F0x0.jpg"
-    width: 1200
-    height: 675
-    title: "Tradier Teams With Q.ai, A Forbes Company, To Bring AI And Big Data Analytics To Customers And Retail Investors"
 
 related:
   - title: "Building transparency and customer confidence in AI"
@@ -45,6 +37,6 @@ related:
         width: 970
         height: 545
 
-secured: "64aZKmtsEm6YpABcbP7H4ctmQ7m2HDoxpwbZeYqQO7L884LdyJA5MHAYDjldDA/19nIYgxqPl69RSBKg03IOC1uw8Y6oEsvXzwV87N6SdWPVqAEiibFggrvjfagiPT7SAASx13Z9ishCZsN9eGjtI5GbRRnrZXCjVaQsAPwI6W2x+quyj5+j9zkrVpbW80aMfP/NUAmmp4MzPeOnv2nBUUKAGDs0s7KBTJAXubegRZ+FyqDnty/BIUOjdSmndofNPPiPpjPuFOthjEOKfRkR0+V1dhipW6qO9QE19e7YZy7myG8srECqgnj7xAkwxjlL5C6pe3o6GmgPICZsWVpuj+5lIZxgnSSJNel5N8dBFoiB7imyq7X7a+t54Ls2/RAa2wAY7gGnLF4k3pAYcbL/ANdd8g0vvN/XAqjynVqeCmYoNYMex7BfrT14fyuXSCdYTfVLBSC6c+ukYCkrhcpc0fBcNYGjHydHVJenN90G6ko=;s8VWIEhLm+/iLesSz45zPw=="
+secured: "27QNAOSlC0dDq0ROjffpH/k3nUNiEBxEZPiYsd8rV/iiz+NDS/C0ry5jPwKgWhMd4W50SQ9IJ0F+G4gwg7BFEcNPkbH990IIeKXfEL407gMImt35JphEWRbBAImQ/FDResFkR5Z9B8noR1YyLk0N68eC9UDJaFvk7Y+qwOD0Fh5TfOPGqzliIQVHQtrsweRZNPuyAD1WCHwSYzVX79L5DgB4eLF0y4JQLYG6M5yVupx13aIbkHGwwTbVD+vYHVU2IsDgTuZDOcj81y+/isN5Bm066WGaGHHBmDxQ7HCQwJHNQhaKUqCqErzsBqMOEwBy3hcCNF/HsUWA0iaSm/dMwpJzbODYe1filBE6vk9a/NeSQZKugue0sZH1GB8sP9Nqs9OmoOIA1HIP1V4GRHoDbX3nbYPPk6Jzj0ceON8ZG+j+Yc2qP0f714mGJpb4D0ZoN+Ar1A9dmGkhKh/a3LUqw8KxUP//iUcRyHZYQQu43kE=;9uxsvsC8DwH5ZMB6p2fflA=="
 ---
 

@@ -1,16 +1,16 @@
 ---
 category: news
 title: "How Russia is using facial recognition to police its coronavirus lockdown"
-excerpt: "But after a few days—and showing no symptoms of novel coronavirus -- he said he stepped out of his building and threw out his trash. Then he went back inside. “Thirty minutes after that, the police were ringing at my door,"
-publishedDateTime: 2020-04-30T09:18:00Z
-webUrl: "https://abcnews.go.com/International/russia-facial-recognition-police-coronavirus-lockdown/story?id=70299736"
-ampWebUrl: "https://abcnews.go.com/amp/International/russia-facial-recognition-police-coronavirus-lockdown/story?id=70299736"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/russia-facial-recognition-police-coronavirus-lockdown/story?id=70299736"
+excerpt: "Bykovsky said officers told him he had been spotted on a camera set up on the front door of his apartment building and identified through a facial recognition system, which had then alerted them. “Honestly,"
+publishedDateTime: 2020-04-30T13:44:00Z
+webUrl: "https://www.goodmorningamerica.com/news/story/russia-facial-recognition-police-coronavirus-lockdown-70299736"
+ampWebUrl: "https://www.goodmorningamerica.com/amp/news/story/russia-facial-recognition-police-coronavirus-lockdown-70299736"
+cdnAmpWebUrl: "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/news/story/russia-facial-recognition-police-coronavirus-lockdown-70299736"
 type: article
 
 provider:
-  name: ABC
-  domain: go.com
+  name: GMA
+  domain: goodmorningamerica.com
 
 topics:
   - Computer Vision
@@ -22,6 +22,6 @@ images:
     height: 558
     title: "How Russia is using facial recognition to police its coronavirus lockdown"
 
-secured: "TOFWQDX7uJ1oSvTmkpM2yCYzTFpOJrTgr/thcvi4vCXVnt6BQe3F7QjmY3B1yRMl5iuDEON/Bf0SqcafIU6GF7R3xlMDVqYsiWh1NPeSat1qSAVnRuQqFSzAU7N5eddYbEeJZhxlsQCEbTPpE9OcG3A3TrC1ToHPA7eG3bb2c2CNmB1sHBSspyhrP6WMJSRDuaPOrR8iLewC2+5RL6PRb5oYyPQZTC+kV4Njdoqh1SThnc/xVQNlfJQbRqBcgF6fj7hibTc/aw8vvfjSgZu0kU04mqAbgJs6u6SX5/Twny+zS9kZcpsP8Up8Edt47o9NqhpnCrpOqO+52Qanb3Eg2PoK5GwnLETD0YIcr90tH0CZY0mIJhqkl/fVVZaWssw36ej+DAvKEYgIBmvrQJXjLPJ+hjwNtOZ8FsUDYFPLXd5IFkm43Fnv6ms4OxJgB+OTszsJKDnAELLQftcKV2icRPywVu4+B/BF123XDBbdhMI=;D14WuXpw7enbAE6fg45/nQ=="
+secured: "gf5adhy1hf8NoiGB5P1L1xY9V2WU6sdFX8DLwGllh+nMAEhnEABKbLDdDtsa7/dJRtXdZd5iOpjX9su4UFr525BuZWuIcwFwExzZ8CMjXFPE/KLh7jys+lsx1BDC6ytyob2TdMsH4Az8d+dDxtz8GnvSzEbr1CKdEA2BrkK/DbidaurpObOYK+ELB/oqKehTVbF6v8AI0tCQxWgadjtmrR3kcAubF27pn5SjBqG40yjh63ksCsqaqUWOBjBB7oaMLAzl863GYs5CJtoh0sWG2EmfoTI5FFRGxmoc55H2KKzii+oWEfbdy0tAB+9UT6/4;NIwvBvg4DljTQOV0QhGcPQ=="
 ---
 

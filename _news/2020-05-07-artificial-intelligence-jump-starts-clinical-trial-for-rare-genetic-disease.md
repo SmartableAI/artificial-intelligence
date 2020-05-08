@@ -22,6 +22,19 @@ images:
     height: 676
     title: "Artificial intelligence jump starts clinical trial for rare genetic disease"
 
+related:
+  - title: "Artificial intelligence jump starts clinical trial for rare genetic disease"
+    excerpt: "It was a pretty simple e-mail. Just a couple of lines. \"It looks like low-dose ketamine is an up-regulator for ADNP. Do you think this makes sense for ADNP patients?\""
+    publishedDateTime: 2020-05-08T14:02:00Z
+    webUrl: "https://medicalxpress.com/news/2020-05-artificial-intelligence-clinical-trial-rare.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-05-artificial-intelligence-clinical-trial-rare.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-05-artificial-intelligence-clinical-trial-rare.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 35
+
 secured: "D50ZagypwHQcj8RZMfc6hgQtlVv+S3aHFx1g6p8llEp4hdJnY6d550dYtmUiS4wQ6FG56BaPgpx+fChuwZf9++2+EMQptx4ewKqVFCXIKg9CM5Y9ExiO4Wc1n3MeHLOCjuY5LUxMw26iBSwgPl7smYSIV3GHnt2VjWqY0oacv5/Y0hKQps1av+5HUjgoXJtS96Tut0BQb7zDWnVIfFuZToQn3O0sfRcIsO/Mcsg+WhImZxWlDcOYPvK2PsEMnxwxUPRsMQ54WojDEU+9CH875PziNgdfgBtIAvWZm2KjKskVlN0g0YbsFClbnzPLlPuXMwBZl3npTYW0XahQ1zGsGkO7BjyXuYPeRVsujeab57i5xEGX7KDoqdMwaru7Zk9t0xyP2NNkyF/knkvmgasKkoCFJQnNzB4o/65sOhu+2VNlUtH13Ah4rWQvPdbVNxsSI8v3GRvUrQ6NviK+ZNXAWpUOuSoiqEFtawAmqhgJnBI=;RS5s0ZsP7xdRUadpCbSbqQ=="
 ---
 

@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "The AI Eye Episode 343: Intel (NasdaqGS: $INTC) Acquires MaaS Firm Moovit and IBM (NYSE: $IBM) Unveils Watson AIOps"
+    excerpt: "Intel Corporation (NasdaqGS:INTC) has acquired mobility-as-a-service (MaaS) solutions company Moovit for approximately $900 million. Moovit provides AI-powered mobility solutions, the addition of which \"brings Intel's Mobileye closer to achieving its plan to become a complete mobility provider,"
+    publishedDateTime: 2020-05-05T17:09:00Z
+    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/05051AIEye-INTC-IBM.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 32
+    images:
+      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+        width: 1280
+        height: 1206
 
 secured: "VbH0YjlATsugWarm6lxFYYgaDCP1k243Fd7y6zmUDcEF13/znbsp91jdUONqyUcdzZZXp8O0j2hp6EF7ZW9JGmpnFlt99zcU5plnrRmKQ/ktcP+pbRHO2Z7jHdiwQ81OkJkhVMvf/pTG22SkaLPxoTN2Xx/jiHA/Acqlsw2ccKYThhnF3h7Df1u7zsT7zIw4cY8slqh7/1Uyrl09IZVzUEEn4fwpuvmPx634StxG4yXfz8iXAwxRahdDcNjmfV4cjACBCnW9Ou+JH96xPoI07z0vR4FJKcEJmeQjwIei7+W5l3lrjZqpH9BN8rhR9uxg;WJkwPa1mRCFvzOJwlzZC9Q=="
 ---

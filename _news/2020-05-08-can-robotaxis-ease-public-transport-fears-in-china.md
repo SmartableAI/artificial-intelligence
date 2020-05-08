@@ -1,23 +1,19 @@
 ---
 category: news
 title: "Can robotaxis ease public transport fears in China?"
-excerpt: "Internet search engine Baidu, China's answer to Google, is rolling out a fleet of 75 of its Apollo robotaxis across three cities in China. Baidu worked with a number of carmakers"
+excerpt: "Internet search engine Baidu, China's answer to Google, is rolling out a fleet of its Apollo robotaxis across three cities in China, although it hasn't disclosed the number. Baidu"
 publishedDateTime: 2020-05-08T01:04:00Z
-webUrl: "https://www.bbc.com/news/business-52392366"
-ampWebUrl: "https://www.bbc.com/news/amp/business-52392366"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52392366"
+webUrl: "https://www.bbc.co.uk/news/business-52392366"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/business-52392366"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52392366"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI in Autos
@@ -29,6 +25,6 @@ images:
     height: 576
     title: "Can robotaxis ease public transport fears in China?"
 
-secured: "UBFv94N1g0wgleFs0CtVWqGkWvVNAEXwQ4eBVjHFLNFzwEw8iZ22umB21RsDvOzKTt3VcSQ6MLrItJHZ5zPe6Mkjp+p7da48/5a2wSyWWqR4tD/gWBfjpszh6stK/iteGVbGGVyEu+UJvAqGUCB3pi9x2NjePE6GotoOYPgfg7fA4qiESjWd6X31g5k+pKV1/QouehvzuldK1tcm1aN8URp+mumvILzbP1Jl6fNeuCycbkIY44BlL9zj9+4yf2dMBAbiAdpn3FZVCX9dqYtyI6zMDAqb6YM0FOYqRWH8QnhgOF4FDbTEmhTz9Pef6CuhQHXyltJgzFuf/Ut8BiilDTZG292nWYRPu8rHamX4CJO4i3/Om5RwQJffrPNBrZvt0hZHsOi1qaJ7JbH8z4Ne5vTc0fFuJhGjfj21UaY6JYsOWDq/237t7riShUmZ5vr8AGW0mfdfPoPflW5gxY65k5eYzsr0CgyuA/ZhrmhxxtA=;7oHPKPcUsWvls5L0a/jKLQ=="
+secured: "p3xAWlyvFVWFohLzU3oSvEncNqisDOzNyXnJaemwn1HzLPMAVWgarsep7T++VquLagFF9ki+gZxZCwVYlZ/lgmhhAxA3NmFpSJxgBFO7RMZfKnvfb0BXQNSCCVycHb2GtLd9Wv95k8pRjunIPTr3IGQp2UQBgNh6Fv/f7652u/Osq+pFhlbA/5k1Ev9JP8xxQLME9BOmDjJbdEJwVtkMLFud1GXQ2n+oCOJkWnvJzITPteul+xvVmwqmB8srIPxDMKQG5Z+YuNLa4nb/YAP1DMYMTNQxjzgTSr1i3Ilkp7O7Bn/ZgPlQYXCY4Q2f8HL7;ftND1C8bi52Kts5+8VQ5qg=="
 ---
 
