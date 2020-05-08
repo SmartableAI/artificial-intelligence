@@ -7,8 +7,8 @@ webUrl: "https://www.governing.com/security/Boston-Is-Considering-a-Ban-on-Facia
 ampWebUrl: "https://www.governing.com/security/Boston-Is-Considering-a-Ban-on-Facial-Recognition-Technology.html?AMP"
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Boston-Is-Considering-a-Ban-on-Facial-Recognition-Technology.html?AMP"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 secured: "JlnSPRZzI7g2zfR1L4kn4AX5b9NfCdIYFbgJ1iGmTC6Hfy1ikajNLMr5KWKyby7KHrIHUywu54jAnDYCez3og9TaETPnx8JBmSg6pz5cBmNaGURcfVjEvcwKcGwZm1Kshx94l58RRekle5uN/o/Jy7X1MtdtZ7BpfVcm6tWj8sIaAxi5283FEWZ22Fc0u0BHtpvDVbwqI9OIgAfzoCFENXWwppcGzGVPFn8YFK89yKSuzi/IvwD9GOMYyh+Pl6KMAOWUL2vi1vH67fRklKbNp1NWFCFhfgeFEt5mjDzpWF34UVdKkh4KY6eitozKDpR6;gGevemgZ/HgbuYngQ6tAAQ=="
 ---

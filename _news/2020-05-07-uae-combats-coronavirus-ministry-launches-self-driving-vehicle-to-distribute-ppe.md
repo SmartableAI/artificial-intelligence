@@ -3,9 +3,9 @@ category: news
 title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
 excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G)."
 publishedDateTime: 2020-05-07T08:00:00Z
-webUrl: "https://www.zawya.com/uae/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
-ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_173952755/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_173952755/"
+webUrl: "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_173952755/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/"
 type: article
 quality: 39
 heat: -1
@@ -41,6 +41,19 @@ related:
       - url: "https://imagevars.gulfnews.com/2020/05/07/AI-powered-vehicle_171ee14f7d5_large.jpeg"
         width: 750
         height: 563
+  - title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
+    excerpt: "The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to people in Sharjah.The Ministry of Health and Prevention (MoHAP) has announced it is deploying a self-driving vehicle to distribute personal protective equipment including masks,"
+    publishedDateTime: 2020-05-08T00:57:00Z
+    webUrl: "https://menafn.com/1100131197/UAE-combats-coronavirus-Ministry-launches-self-driving-vehicle-to-distribute-PPE"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/updates/pr/2020-05/07/KT_a01c5e47-5image_story.jpg"
+        width: 1200
+        height: 882
   - title: "Health Ministry launches self-driving vehicle to distribute masks, gloves, sanitisers in Sharjah"
     excerpt: "The initiative, which was implemented in cooperation with Sharjah’s Family Health Promotion Centre, and Huawei, comes as part of the ministry’s efforts being made to contain the spread of coronavirus,"
     publishedDateTime: 2020-05-07T09:13:00Z
@@ -55,6 +68,6 @@ related:
         width: 750
         height: 450
 
-secured: "epORj944Njt5dqYlvbqrg5LKJ7RsHyB2S+qmXzFTLliuCIHs/sx8Cv8r9a/lL03mBKwAQsMWwp3z8Ftimm2ABNFFTLGznrOe/MESSMxCtY+NWyLwo1yKoTl2asYH4C9jxZ4Qsa+2UlnEnn4ht84enTWR3Kv7RQXFCy5IRleZWZ0FsGbO5JDhGhdodM39CIiEHTLYo20jhBftWlLt1qDMiOAWI9jVChgDAFbQjJvLGdN+vLuhrNU0u3YD2Nlx/3mhTUJqfCUi14J882xNhZYBHqCpN2OQR/o7Ip4YNaZ0jolO9gZ2h666rQsicuoasC7TneIHb9cU6VnJMz0qqVKFFPvgL6MFp9UulGni7Ypc6Ec8lVUWcd8HYsCz2pL/pro6ao5AXH092p7CwtYRsC4K5zrQEBQfLHtlOjyfpoya7KNt6qx2fSH4FIFGJm6L146wqk8H9gf1QSPaF5kBAK2UFKhznxaU9IczNO3x61ty3dU=;04dsJQy59ktD32/2yCoFnw=="
+secured: "Oufa1Im03d0trY0HmkNccAljpN28PeaiR6vkFVn3i4t2ud8lhM0NLORae8yCdLOsqNTy6sopsX83ENucBbP1KPv8HedezuVgtd30DusmTeumZ8HgEfdohHZ5bQ9Nbod6nkkvTmAZN4tMAoviz2zI7EzNRdeEzumvoFBrGrv0fj1FD51Gv2IWqQtMnl04u2QpWRCp9weGuV8ttASJOn+QI5eUw0glq6v8ramk66PHVwZoANIrCxVkHslLKIjKkbj66N0Y7YLzCu2uuGy46Thl9CQrhb+xX3r+n1eETtpKaBt7foowQeSHocdgZVs26l9h;f3oM2MdcbJ8xFZsnuGgK+w=="
 ---
 

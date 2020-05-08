@@ -3,9 +3,9 @@ category: news
 title: "Building transparency and customer confidence in AI"
 excerpt: "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent."
 publishedDateTime: 2020-05-07T08:51:00Z
-webUrl: "https://www.techradar.com/au/news/building-transparency-and-customer-confidence-in-ai"
-ampWebUrl: "https://www.techradar.com/au/amp/news/building-transparency-and-customer-confidence-in-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/building-transparency-and-customer-confidence-in-ai"
+webUrl: "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai"
+ampWebUrl: "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai"
 type: article
 quality: 89
 heat: 99
@@ -46,6 +46,6 @@ related:
         width: 1200
         height: 675
 
-secured: "nOlRe7DAAWqxhpwS1bH3z5JGf/tcdwwS3fTkI7g/qUNykNaUgh2nJY7jLZXfMWfLc+2AdNHWGUiIUe1kFDOKQwC+crr/7rZcbVv5flBArDibh/W5n+Hgy5YBCyQ9Ymp9ThI4YVq2yjvfiPQJur4EdlRM8X48IJhTb27wzBXaetjU3xb0RoKFNFXw/xy6EyjZx561hxiV+HJFX6jLdVsk+E0vYNEZj3OWNfoyQRD3QgOBVm0qc1XXqvVz+PCpiewE3JtxVFil7KdTq5Xv6jeQ3VwVipj1ML2+RtJ9vmjMNRRG/aep9B9oU2qV4Jv98uBlDP2mfF4sgDH1ysDvPjbTLRyLRRPrbEMx8E293A6y/rW+logtbYZInAa3pEFTSSl0EPEzbfHjKygC8CfdiI/l07FIFc0ghmmXZv02y/blpubuRuFWIJ4eAyKNlT3aeYwVsREq8SloA6VMR3n5/zNJ9jsK3+oaukLAzIePalD6MRA=;kGpba3IwwBqkHAp4PszXUA=="
+secured: "/v/Yk7a1N4ilQFt/uIAVPCGmSeLmQbSeQ1Jjs41AtbtRzBqKqDhAAM4E+Eng5k10tFemo+bX1zBbHwMYhkcMEZvlNFQwqcfYJ3EjkmjmXZypO1kkQ+q8f9EkOj1g4WzbuG/x3FAU28RhPPbTqR3u9SGtEDrZlmnx0RQY1FcAJiWoxVrac0VbtR62Hsjn7I8V6tLKZnzDAcWC0uHlwOSIthEvkWQjE5FgKbydOUK0+yNu15jejj6WQG+izqtmwCMgiTAlqbXorLSUNybCbaBNDIfqIglj/AFeDh3T1xCnuHVXw9WDaBO9Hm2VlIZ+jdsa;WkboVh7kHu7jc5iDlhzCxw=="
 ---
 

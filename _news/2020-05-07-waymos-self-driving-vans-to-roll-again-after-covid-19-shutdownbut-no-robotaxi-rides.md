@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Waymo’s Self-Driving Vans To Roll Again After COVID-19 Shutdown–But No Robotaxi Rides"
 
-secured: "59aECNcNhNGXmEwuOFBtoqI4GmPxVxU3/RQVXch6qXIDNovdDicJdiYcGHHcekHq1sodfsgq0XykE3hFp4hLxpwahkMZbEfbFTsw6orsf/MQDvKaQGPzDhNi4W5Cnrv//+c4olTaXbJvB1nLwDInEnYmRVAfSpJ9Gn5TP8tyrGzkFiNoVDRubgJu7b7mjNY+UYlmFyt9R0gfQrriJfDGGDYPCgOGGgykKigvyACIUHpGa23jF1o9yk3R5/XMeTbKw9qpMiYKZWurTutQGZhbpLHDz8d+GSh9+mD/JxI07463pr14tgUC8r13HVrBKkpi;9cSAIGp7g5PJ/Yshd/QmoA=="
+secured: "9rjM9ImRolygBxqpQmTp9FCFF4zKkDAsGVfAoNMcGInndwW6G/iaOjPyQaQsqtV51iTmLwZLQ2KXxEzWMBTnIJ/fkOcMxiTi3I1wEaPUbyGSjjydkupyqPUUuC6/22EXA+6UKPR4gXe7HEeB3Sxo58hCJ/9t4/T//7XfyBYb//oBNOYsij5NQAiJQwsqhYXS9iUy+mCaDDD5RIsCYg2/XqVBMMVrn+2wL1N1ZnLl+raH8vB76autEmOWKMOMB/sZkSk8LRnyckh3gw+/Tr6P+vnLjcVDw8VnO4YCFvkB22koeS2omCAmYC3cwwckZ75ZAXyNhgEprAsodBOVdgI1Vj+mPTekK9rLPngdf2bYqw9myBCwV0GPJjIFqgibZ5pLzKL3VNG25h6sUgUWsoDhrCjE2Wxgw+hPUqmZ0DtguiMv8tPtz3YEwRWLd1oaxsN0dsNqSjwSEsz8pjmvqN3D10ltWQG3d/Lfsly1mpLBoms=;KWi7aSJcIrBXfT2qpob6bQ=="
 ---
 
