@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-07-waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides.md",
+      "title": "Waymo’s Self-Driving Vans To Roll Again After COVID-19 Shutdown–But No Robotaxi Rides",
+      "excerpt": "A portion of the Alphabet Inc. company’s easy to spot Chrysler Pacifica minivans will be on the road again from May 11.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/07/waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides/",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/07/waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/05/07/waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides/amp/",
+      "publishedDateTime": "2020-05-07T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb47f7d835fec0006764e53%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Waymo’s Self-Driving Vans To Roll Again After COVID-19 Shutdown–But No Robotaxi Rides",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-as-waymo-resumes-self-driving-tests-backup-drivers-are-still-worried-about-the-virus.md",
       "title": "As Waymo resumes self-driving tests, backup drivers are still worried about the virus",
       "excerpt": "Waymo is planning to resume testing its autonomous vehicles in Arizona on May 11th, nearly two months after pausing its robotaxi service as a result of the COVID-19 pandemic. But some of the company’s backup drivers are worried that Waymo may be rushing back into service too quickly.",
@@ -1244,43 +1289,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19.md",
-      "title": "Self-Driving Vehicles Get in on the Delivery Scene Amid COVID-19",
-      "excerpt": "Since mid-April, the cars of General Motors Co's self-driving unit Cruise have flashed a \"SF COVID-19 Response\" sign on their windshields as they deliver food from SF-Marin Food B",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-04-29/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-29-self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19.md",
+      "title": "Self-Driving Vehicles Get in on the Delivery Scene Amid COVID-19",
+      "excerpt": "Since mid-April, the cars of General Motors Co's self-driving unit Cruise have flashed a \"SF COVID-19 Response\" sign on their windshields as they deliver food from SF-Marin Food B",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-04-29/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026.md",
       "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
       "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
@@ -1239,44 +1276,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-starsky-robotics-failure-offers-a-sobering-look-at-the-state-of-ai.md",
-      "title": "Starsky Robotics Failure Offers a Sobering Look at the State of AI",
-      "excerpt": "Autonomous trucking company Starsky Robotics has closed its doors after failing to secure additional funding in late 2019. Anyone that follows the AI industry or the autonomous vehicle space knows that not every startup was going to make it to the finish line. But the demise of one of the pioneering companies of the autonomous trucking space ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.designnews.com/automation-motion-control/starsky-robotics-failure-offers-sobering-look-state-ai/181515550662728",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/default/files/Design%20News/Starsky%20Robotics_small.jpg",
-          "width": 700,
-          "height": 525,
-          "title": "Starsky Robotics Failure Offers a Sobering Look at the State of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "AI in Autos"
       ]

@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-27-tips-on-introducing-artificial-intelligence-in-your-business.md",
+      "title": "Tips On Introducing Artificial Intelligence In Your Business",
+      "excerpt": "As AI continues to grow and permeate seemingly every aspect of business, it’s important to cut through the noise and focus on where AI fits in your organization and how to best implement it.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/27/tips-on-introducing-artificial-intelligence-in-your-business/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/27/tips-on-introducing-artificial-intelligence-in-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/04/27/tips-on-introducing-artificial-intelligence-in-your-business/amp/",
+      "publishedDateTime": "2020-04-27T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinesscouncil%2Ffiles%2F2020%2F04%2F433.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Tips On Introducing Artificial Intelligence In Your Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code.md",
       "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
       "excerpt": "Thanks to smartphones and their downsized keyboards, autocomplete has become a nearly ubiquitous feature of how we write these days. To save us precious seconds composing and (at least in my fat-thumbed case) correcting words,",
@@ -1207,51 +1251,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-2-stocks-to-buy-and-hold-for-the-next-50-years.md",
-      "title": "2 Stocks to Buy and Hold for the Next 50 Years",
-      "excerpt": "So far, Alphabet's long-term growth ideas include self-driving cars, drone delivery services, artificial intelligence, and balloon-based wireless broadband services. Alphabet's medical-science projects include robotic surgery, bioelectronic medicines ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
-      "publishedDateTime": "2020-04-25T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569643%2Fhourglass-and-coins.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "2 Stocks to Buy and Hold for the Next 50 Years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

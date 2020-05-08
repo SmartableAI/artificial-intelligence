@@ -24,18 +24,18 @@ images:
 
 related:
   - title: "UMB Grants Pumas-AI Exclusive License for Lyv, a Cutting-Edge Clinical Decision Support System"
-    excerpt: "AI, a University of Maryland, Baltimore (UMB) startup company, has been granted worldwide, exclusive rights to Lyv, a"
-    publishedDateTime: 2020-05-07T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/umb-grants-pumas-ai-exclusive-license-for-lyv-a-cutting-edge-clinical-decision-support-system-301054773.html"
+    excerpt: "AI, a University of Maryland, Baltimore (UMB) startup company, has been granted worldwide, exclusive rights to Lyv, a cutting-edge clinical decision support system designed"
+    publishedDateTime: 2020-05-07T22:36:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/umb-grants-pumas-ai-exclusive-license-for-lyv-a-cutting-edge-clinical-decision-support-system/article_1245b621-8846-5e07-bff2-affbb5e7230e.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 25
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
 
 secured: "FcOE4Rjlvoe2jckXiDcK111We/ZHHQ35h8mbUQVJ27dhqRYDIhe8+5/+NXrT/KEfnWLyffbP8Na6ItYFziUAgLc9PNER1UA4/U7HxY9EC/kX4/kyXgQRjjaj1M98vFcsPuPk+C65miKcrrA+5YbQKR5YUOPBtToxpERfVKgNTqMpWwCIxbNUoqebGsmLaK4duaJY42q5FmaXKboAwZf2YEGQ9boztD27eIS+t45YJpxLLR0FT85ZA5g4gfn57hvLLuQqGE/9oFcq/rgo9jU5PtiHt612rvRN4RBvYWvhylKmVD9xtHMozfU1HUajsEI0;lzNMwYJuQQBMVik3VUktnQ=="
 ---

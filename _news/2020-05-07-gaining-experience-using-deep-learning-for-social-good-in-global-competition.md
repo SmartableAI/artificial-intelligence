@@ -23,6 +23,6 @@ images:
     height: 1180
     title: "Gaining Experience Using Deep Learning for Social Good in Global Competition"
 
-secured: "Ixo5ICweVhShlFSNEwNy3iyQo2JHtsvP2h/IsXSOaEPoHP4ZeEraVLc1T1Oiq+c2G5l/vRLWzYKKPg7JU83SO+bVRkAjw3Av0h/MygBjgGjzFSNOxvzq8CEaBPWjc7kzffrR/tU4s/c+aM5W00c2DhAt4NV6fXB8eAyXVBJZ3neN+cKUSRGSU9jupYO5t7LTJID7bB8DXj/RdhTdWVbOB5FwwDvGDE1mjM9wa9BWTjfrkCKJLZKB91OFhKQVWDQ2AR+H1EOt2PddcDZXGduaw8Yts/bI6koF44HKarB6r6CKUaBKFJEL6Qos1IOGHSgq;gCrpFOkVP1rZo3R+L/7Bgw=="
+secured: "W4hAX+4TyMkQoqeH9NQZObtBy6BK7SZJ++6bNvNZC0q/RaozeocQOAMe+s+4DJ4mFocPH9Z/O/YZOppBYBwh1jPH9UHC/7H/SQfU1Jx0/BakwT8KLLw/E/f9jDxeRP33CAgDKGlzq6KmPZx6oDccCu7iOAAS6BwNjD0v5yUavBbV3Xgzh95cSTNuY+oiZKsHh1gWT6pOebz7BP6TD+KfEcgPmNiLSch8CMuQQyNlF0wUKQouhVOkdFlrnw9G8xY0/kzIiwYbdFUV/OS4AR9JOd58hC7sJOGu89hbKG9zqhqVqdnKvSZPD4JfSl/mfxxFykIMvc6v4ujzHoElvGw5YmZ/hdaV/Jc37BISquhuQKgpVrTdd/4OlPKff9PSh5sumTxWpoIzTVwGwkV65YsQBxsDQISb72M2h3jObX3Vj9RxcYtViWKKXYAJeLGb7i12G1xpU4fdhjqHupJZoJ6oTTlsuM/Bvot+I6pvmxEalW8=;OGsTwKzj/OdkDAtSgnxRFg=="
 ---
 

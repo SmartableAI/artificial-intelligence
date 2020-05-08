@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-29-cb-insights-ai-funding-held-steady-in-q1-thanks-to-waymo-but-early-stage-startups-suffered.md",
+      "title": "CB Insights: AI funding held steady in Q1 thanks to Waymo, but early-stage startups suffered",
+      "excerpt": "AI startups globally raised $8.4 billion in Q1 2020, up from $5.58 billion the previous quarter and roughly flat compared to Q2 and Q3 2019.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/cb-insights-ai-funding-held-steady-in-q1-thanks-to-waymo-but-early-stage-startups-suffered/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/cb-insights-ai-funding-held-steady-in-q1-thanks-to-waymo-but-early-stage-startups-suffered/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/cb-insights-ai-funding-held-steady-in-q1-thanks-to-waymo-but-early-stage-startups-suffered/amp/",
+      "publishedDateTime": "2020-04-29T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/CB-AI-VC.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "CB Insights: AI funding held steady in Q1 thanks to Waymo, but early-stage startups suffered",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-salesforces-ai-economist-taps-reinforcement-learning-to-generate-optimal-tax-policies.md",
       "title": "Salesforce’s AI Economist taps reinforcement learning to generate optimal tax policies",
       "excerpt": "Salesforce's AI Economist uses reinforcement learning to generate economic policies that achieve specific societal outcomes.",
@@ -1012,50 +1056,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-artificial-intelligence-cannot-be-inventors-us-patent-office-rules.md",
-      "title": "Artificial Intelligence Cannot Be Inventors, US Patent Office Rules",
-      "excerpt": "Last year, two relatively mundane patents—one for a shape-shifting food container and another for an emergency flashlight—posed an existential question for international patent regulations around the world: Does an inventor have to be a human?",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules",
-      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules",
-      "publishedDateTime": "2020-04-28T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5ea84cafc1ee6b009e334eb7/lede/1588087983745-506027963_001d37ceb7_o.jpeg?crop=1xw:0.8457589285714285xh;center,center",
-          "width": 2105,
-          "height": 1184,
-          "title": "Artificial Intelligence Cannot Be Inventors, US Patent Office Rules",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
