@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Progress Expands Relationship with Microsoft to Deliver Faster, Easier Digital Experiences with Sitefinity"
-excerpt: "BEDFORD, Mass., May 06, 2020 (GLOBE NEWSWIRE) -- Progress (NASDAQ: PRGS), a leading provider of application development and digital experience technologies, today announced it has expanded collaboration with Microsoft to further integrate Microsoft Azure services into the Progress(R) Sitefinity(R) digital experience management platform."
-publishedDateTime: 2020-05-06T14:50:00Z
-webUrl: "https://www.marketwatch.com/press-release/progress-expands-relationship-with-microsoft-to-deliver-faster-easier-digital-experiences-with-sitefinity-2020-05-06-10184500"
+excerpt: "Progress (NASDAQ: PRGS), a leading provider of application development and digital experience technologies, today announced it has expanded collaboration with Microsoft to further integrate Microsoft Azure services into the Progress(R) Sitefinity(R) digital experience management platform."
+publishedDateTime: 2020-05-06T14:36:00Z
+webUrl: "https://www.marketwatch.com/press-release/progress-expands-relationship-with-microsoft-to-deliver-faster-easier-digital-experiences-with-sitefinity-2020-05-06"
 type: article
 quality: 51
 heat: 51
@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Progress Expands Relationship with Microsoft to Deliver Faster, Easier Digital Experiences with Sitefinity"
 
-secured: "R988SGrikF/yVQA/FpJykk9kPOP6TdWzLPAUpVXMDy2x0JpEDd98JY6nLcfU8nQC4TyDKPT7BT4EzlGeh3qMNiFpfczY0WApB1fBnn0NwAk8I4NhCBszQaUUy8cv4Rq3LEWnY9NK90uJgNdoMJ7lyhVmC+zcoEkiBIGWzYgpKVYov9rXru3QiHcRZCTNj0D2rcpC3NgjMAoS8u46wQy4nyZmFWDIiccwmKlDBk7/TJ/Kthzoxi4Ax9Mp2Yzz2Y4zj4zvBny1IL8se5P9DFKTIN4GOuqTGEhmH7MPOQBVROsYZQjzxa/5RwMqopz+XTIW;37M7eEcsx/qBmgVVGVruBg=="
+secured: "924STt9ajls4mi7wG3hx3Hk2kluRsFv6n/w+vOOONQz4ANxQ92lZnMCKyGEOLcA7rygNtWD7tRl0fsDIEKpi4lW0LmnX2K+YC0VtCuDs/X5iiP6LZB/zn7yAE0t93ps4JWVBbSmchMBn3Ao8DwYXrorZ/gYWgNJ3kAjrizrEeBDCTjHCg0LxXZ3+P92p2kgq+qFvrpEoXylrFKQWEJi5P7FjFDeB4x0fS9aeTHTzeD+WUHZB5JVDd1E0dg5nbqmA1K9n6/edya+dPlO951CYTpcQ+SVyLrmPobptGJ9sVxAxxSHpm5R2Y+Y7w+URiffM;n+x5wCnSoPJG+ID03Mfw7g=="
 ---
 

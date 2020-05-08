@@ -23,6 +23,6 @@ images:
     height: 562
     title: "New computer vision and biometrics applications from AnyVision deployed in COVID-19 response effort"
 
-secured: "FGpzFOdNeo/QbdwHS6cMIJqenPiB7zF9REGrtqToj4lp43/rGnRgyRs3ITe4X6J8O6Uz3F5jSluCgsB8Fv97UxOM0/fHzhuJ+ZLdIcT+Z15oJRSTTtKZ3LtD5V/QK7CXOAQ4XMc/U/dfUev7o17isLdA9fF3sULCYRuh5a/bnDmMijZyc4ZKZticLODIiABepnsQxGbod+nrTM5S/vXLvz9+UBW87jC8mOE6+I15/jUUItVIHUGgJtm9mtoTHPfDpDmsK2DMJNF386pZqA7XTC9uj4EPDCa5YfRhSsSBNwHxpgZWOpgqI/b5iaTf4UmD;KwBZ2SiAlYwGVqUofG3+zQ=="
+secured: "+o/9yaddcuYNkzwMG70742ZptufOJWZbWD5q5lXeDMHKHCj3WZoKKAQ30tmrmyxQTxztPuDw+PCxlSh6QPPxAG50PCJUgdAuyIjTy9r5WszRjEL8+Hq3dvgztwTj8wzWx32yhNbCJymt2OG0PF75vIC6cS4LucY7arL42zwE9fM7NuF1gdpwT1HijWi9KOrLKJ84Ll5tNj+/Hta2R9++B27vxoyKZcucEqXIkn4JGx1C+l2GBcuwG2JR5FQ8p132DT6Xk7r3IqVMF6LmN3VNdE9XeBGl67GJjTX6MkQ/ndG+G/v4ZeLMzbO/eOaboVvXf1LyTm+LUZiIz7OVfzb/h7FBF8RChATZB3FnjlNTMF29A86u62ye1ZmbUUvqwGY1/QCBNDKY16Gf6fcXxjk2szjyRtKVYkXM732R++qN2JYkI5a8FRgxi68UipQWw8a+foo6yPn7+EMH9yjMUohMrFbR8RgDSqgB+Q4ibjyDUog=;sEOSutUDb1JWdZNwDnwhcg=="
 ---
 
