@@ -27,15 +27,15 @@ images:
     title: "Artificial Intelligence-Based Security Market Size Rising at more than 16% CAGR During 2020-2025: Analysis of Key Players, Trends and Drivers"
 
 related:
-  - title: "Enterprise Artificial Intelligence Market Size Analysis, Top Key Players, Drivers and Trends 2017-2023"
-    excerpt: "Enterprises hold a prominent market value considering their services and solution created for different functions and business uses. These enterprises largely deploy technologies such as machine learning,"
-    publishedDateTime: 2020-05-04T00:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-size-analysis-top-key-players-drivers-and-trends-2017-2023-2020-05-03"
+  - title: "Artificial Intelligence Chipsets Market (2019 to 2025) – Regional Analysis and Forecasts by Treatment Type, End User and Country"
+    excerpt: "The Artificial Intelligence Chipsets Market is expected to exceed more than US$ 59 Billion by 2025 at a CAGR of 36% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
+    publishedDateTime: 2020-05-04T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2019-to-2025-regional-analysis-and-forecasts-by-treatment-type-end-user-and-country-2020-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

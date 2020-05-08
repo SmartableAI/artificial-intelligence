@@ -1,25 +1,21 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
-publishedDateTime: 2020-04-24T17:26:00Z
-webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
+excerpt: "Today, Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), announced the general availability of Amazon Augmented Artificial Intelligence (A2I), a fully managed service that makes it ..."
+publishedDateTime: 2020-04-24T13:17:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/04/b15876750/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15876750"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15876750"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
-    title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-
-secured: "DCwtOxVPazaNn8mv/MLR3u5hFkOXjfVmkrwfSeCcKgb/wCzm2om7ZTGZCa7paxPRJ/C7QBqn7OBQkymEOtBbgvmPYTPpgh4cjQ1l1htJPp4ZgQdhYEn5OFt/84QSnfYxHz+L5ek0/Gf9JtR/M94RePOsq2m605lgsgNPO355r3Oq/c+itF6X+zLKpA2+ZMKg+vjdbEWX94BCHgRk3Bq0HLT6HCBW0MXl45FjCcA2mfcIw8mQullQ3RjJzZb7sq8uRdr64ZHGnFjw7mfLygSf3Vj3qOj1v1Yp3HaPs+2Cb+WM88H7faf8ApS3unbkfU9r;5NDCUkE/buVxwt7yiETkrw=="
+secured: "8eTFv0p3+5wROPoPbj8DfCvcj9hFKeb4aPqD7DpDWio3zve+JdSQu6x+ieBBhEnNyDAAs7VAciZQ/AEovppkR/3L8w1TL2kBGxyi+o9mXIK+E/UTf7bu5I3K8KFOJDAbc0el9IIyYmL5q5QNIsKotHUc/Q6xu0A4/E4AQR0/PSuixFMUDHMxZpO+mhwqMikdMIXKEEEh/FcE8ziE7Euuuf3Oz2ccJhyFdYGm3OVHoZXhrmaBKTG9fUNSj2TQiAyQS115HPiWpCKnGjO8TCFdN88m/tQDz4MKoDj+Ujzf4gwMMSXDC1myuMigBQ0Ej2IL;Ft7tWD0/cXbmZ+e0GOIRQg=="
 ---
 
