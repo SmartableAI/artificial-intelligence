@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-07T15:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/robot-software-market-is-expected-to-reach-usd-1348-billion-by-2024-2020-05-07"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -26,6 +26,21 @@ images:
     width: 1200
     height: 630
     title: "Robot Software Market is expected to reach USD 13.48 billion by 2024"
+
+related:
+  - title: "Artificial Intelligence in Education Market is expected to reach of USD 2 billion by 2023"
+    excerpt: "Artificial Intelligence in Education Market Research Report, Application (Content Delivery Systems), Technology"
+    publishedDateTime: 2020-05-08T14:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-is-expected-to-reach-of-usd-2-billion-by-2023-2020-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "qZuS+0s6Agi9Lnz2KvIYt8wJ8+II2fZGUmipANVI4n3lgmNfwAvAZFcvbLscOWk1N9e6s3zQVVoInyi3zSkmNKUJ7r8JLdcqm3NtrNIQ16qzI+09+oLyUyUhdxTWnVPpVAc9IOImytk/mEBbsWM4XjfjRROIE01x5WMEhpnlSZzGspX4CLwj3HD9Dt6Cmysq+HD4DfawzUo4gGQ717BlHGo4DPa66MGO5UztJqwAYq/zogrHBy39QpeCAv6Sq29qhQdcDuoTRk9eAQA3vl9pk4dqZ2AgrJ7AaBpwdFstdPBYFTnav9luwbbLANjHcBKP;Ygevb+ZlDTxniDsh1KW11g=="
 ---

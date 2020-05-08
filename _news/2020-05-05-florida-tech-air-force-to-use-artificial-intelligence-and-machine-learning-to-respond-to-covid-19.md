@@ -5,8 +5,8 @@ excerpt: "Faculty, and students from Florida Tech's Center for Advanced Data Ana
 publishedDateTime: 2020-05-05T04:08:00Z
 webUrl: "https://spacecoastdaily.com/2020/05/florida-tech-air-force-to-use-artificial-intelligence-and-machine-learning-to-respond-to-covid-19/"
 type: article
-quality: 38
-heat: 38
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://spacecoastdaily.com/wp-content/uploads/2020/05/florida-tech-600.jpg"

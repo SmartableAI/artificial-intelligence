@@ -25,6 +25,6 @@ images:
     height: 628
     title: "The Best Apps for Learning A New Language"
 
-secured: "veXKF1UwwTrW0H/+Qw06WR2PLFgHpJF0AePL3PUsvldeSodtOB2h+3BpY7j36LHuup4wAE99Z/rsoAH+9DuzzMK5sIyBTYJurjS+cBuT8SLDrLF4SxwQLcN+31stLS/dgRh8XKBHt4ORdUBpmuOw9GGqkIsYR5ZMSZIna7D+n6rO/2QQ/ZwCjcHjI6sr2JXSM3kkg5GsxxI/VfdTogF8QGj/Ij4qbrA9XVNXXD8/jkP0S8WaE6hfyPdUDXfOUOwTHqMkAtAgkuRYlb7+FOl1lqEdNr6g1D9MgypkACw8Rvof4bh2Bsj8XUDw2GqfSvNS;rROiJo3be1iIgvLdwF4iIA=="
+secured: "wAHSe6H0PqfJrER2y0aGq8bOEwHlyn6Ak2fvf29SUt6ZPLHj9GBINz8wqy3PbJvE5X5kvyV9e6Gj5ndK5R7TOlQAsjGWoABEEUGIiWmaIfyB3hhM0Vbou6Fux/ztwq6lLDgw0nV3SexIJD6VfARkCMsbRH3tZ3ar5Yp/1Jry8bgg1c0mc/Up+GEI3wMvB04Te3vItUNBWR4Pjkpg4YliRHIX8Dy5JrQDU2eyxO4PO2kgHzOwYaEJVAimwURgdDJWmLYo4jnnjqLtnq4xV+kpylQX2Ht7vm02uoYybIhXbDqxL159ulsIje43ulV5VKmVlFW/ldpm3nFkKRTglaONhXF0Sct6Az4D9+ycqc/emOMX5yJu4+vDNWvVh+8nr/VZHJ+h54coxwfuoQRLxWdGvcf1A+LeJwPzTvrJWggB/Zt9eerm681cKrpjfiaExUJIkgV7UqCc4kkMl27LicUlB/RCa1tuLYyFgVDDT5+LH38=;7aoRjwebwnC4S/a8wBF/JQ=="
 ---
 

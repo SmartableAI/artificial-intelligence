@@ -7,8 +7,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence
 ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 secured: "MODC+lhM7WQCNFj6Ct/mrQia7YdCJU2ROL8VeYSUi7jM8W2mbXcQTm574+3b2iURU9GIncZ6lQCF6W8LpgOliVMqIqVUVlDWnpV5Yyg+qIceKynaeNQjLc+vOwzHhs8hKuC6DS7mVKNbkA7BP7v7oC7isa9e5Q9QgqG8VTQ4n0uDTM9ZmYRSqzd8CCnqw6V2jluKkTUW6vAiFQvGs0kWcbmFmE44JsgOTskAyRHjjkZ9XPGmVJq/bD59wT+OKeZ/iK0Tt4tI+XDPJQJ+baxQjGH1lb3tbNTCF+HzXUx2yzvXyjyVXAUexhbRwLDTlHeM;3jMaEcXJkjqZpTr8qzRr4w=="
 ---

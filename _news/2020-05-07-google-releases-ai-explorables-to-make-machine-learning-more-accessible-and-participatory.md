@@ -3,7 +3,7 @@ category: news
 title: "Google releases AI Explorables to make machine learning more accessible and participatory"
 excerpt: "AI Explorables is Google's initiative to elucidate the key concepts of machine learning via a series of interactive explanations to make the field more accessible and participatory."
 publishedDateTime: 2020-05-07T19:30:00Z
-webUrl: "https://www.neowin.net/news/google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory"
+webUrl: "https://www.neowin.net/news/google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory/"
 type: article
 quality: 75
 heat: 75
@@ -27,6 +27,6 @@ images:
     height: 428
     title: "Google releases AI Explorables to make machine learning more accessible and participatory"
 
-secured: "NfytLV5JrJ4QASY5e695nNnSG3e6QdNA5HMjFVVAMlIit8Ld87CGljhh6f9HqrkJS0fMYRrTzr7cOpX3GpejE5QP+WSNZ3j1orPQ24ep2V2/DKff5Ma4UmNdbat0LHLUL13/lvU/lqTLCSrdujtcaHGUxNs1khrSKhzbekLoJaSLFSuUI7wFl2Ji9yqz3N0S9HfzRU72f5yLBDOzKWhjT2jnflGzEbk6bE4hGvAv7YGBtfnDnkoJB/3P5SN0EpfOhos0ektX1MKKDkDhGROZFi7U9I/SkN/poZtEMybBwjYGIA+rGVL3MmbFsTZmNvWB7giktkkQXUS1iR5K5WDMdvKAoD5mkRvYh5dh6GfldHBr54xSyHMe/+dT6VXxGzxFLb5N8MnhiRtcJk5tU+FWkrv1tQi7exWoZjOovBSIz6FuS3j9bFwJyg9F+csTPnHgOkFMGWU3z2QmDk9AZoYUqdp/+uinn7gA9ZDli0uos2E=;5lZXW6wHqtbWvX7SvzFFdw=="
+secured: "JnKBhiJTMjTv75sP0+s/l4ccbdxC1MCtduTA4YlOCY8ml0aUpTPXB+VafzZCDUoKVSwx8ELFQhc0i6v8zlC09q1OjYtB/dy5aR+h1GxWVjRFYE4KAkY1aCI5a85q483bZ2NsNcPY24ihmZ4EK2j6nzGWQ/1asTGxlt0oT3sKSPy6nuTAwWlM5t4btzZYCRwaK94bpVlxR9ZP4vlQNSPS3/usYdEmmZ/eL+JbsfW1LRHJtxc9U4A6caARHzxGkvlu2tcgaBffg8cyW++RLISiqW4337ZDmhYXHdCa6QuCrtfL0qhAy3F1CVp6NEKwvlzE;rOiRnH9lEO8Ylz3P6Wfjkw=="
 ---
 
