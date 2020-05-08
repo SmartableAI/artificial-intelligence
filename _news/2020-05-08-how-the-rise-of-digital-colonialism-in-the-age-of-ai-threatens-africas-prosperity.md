@@ -23,6 +23,6 @@ images:
     height: 600
     title: "How the rise of ‘digital colonialism’ in the age of AI threatens Africa’s prosperity"
 
-secured: "vtjAdwpiEBx9sz0/zFYlQYy3WO14J7m3NGOas9f/IkjLR9MpePx9NE+MiSkVoJi3IQte2Ey+l477n/XiopX0X9/jzTufr+6Bd90SKiTWuggMSys8s+1mGAoee06WJkZcit5+RQ8UtRUsA4jVfIJSECwUNzKW9edKhN3If9Wl3+Nu50Q3ORWKTm1nJlBMOFlvDWCHukgD6D7SOYmeqn3y8np/DzzShYNb3h4OYuajBD9Caeb/rqbGpU5hyxcI5VkEIBdyKaUEmbTvD0kYbpu0jZth/dhm0PbP3yz2B8jL3QSiC7sTJemi1g/wWETn052s;JYeRCyE42C0Vc2l55CbOKA=="
+secured: "RAxOqGT0EpJUiGaAdQKfNTy/qUKjmzTSh0JPfooWM+Y2qBu4bf3hOpP7uw3A5NbXUwp7+Qv63hxDpw/5cCLJfOfAK1H8nUNum+PxIThv23euMvKMsZqAQol7jWzCyV3zvZdI1/lCbRudP9ZkKeG9BTIjOWlYemFCx+ogz/G7vx1ARfS2UT7yGjGyYw2FARtYyroAROsSUwHkZwytlt24T4982oUxmA41vvhTAWB6EalRNl6T2eNWKsA3eGMcDFCPPFobIY6ulkIsrkAOglb/9h1ypvvGsXo9W+EuKIgMpomSjgQqyvFhZchRstdhI1sX7vEdXrlIzkiLGltlIJPAhWJ3NcOpk2GhSq84F3+5etgQlYRfOFtINC31WZAVbTsiUwLcjbvUNuxU11bcA3zmmjWP/RvjF/JP3ot91rqV/D1PeKLCp8/voifYV5OqwHmHVXoNIh9gYVKsDr9W/K8ZQcHnKltt0PtTHVhTqZh25T0=;WtSXV4GXzwpLvrDF2MEP5Q=="
 ---
 

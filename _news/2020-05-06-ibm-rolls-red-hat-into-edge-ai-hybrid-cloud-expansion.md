@@ -2,21 +2,21 @@
 category: news
 title: "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion"
 excerpt: "Deeply assimilating its Red Hat technology, IBM this week rolled out a set of new platforms and services designed to help customers manage edge-based application workloads and exploit artificial intelligence for infrastructure resiliency."
-publishedDateTime: 2020-05-06T14:52:00Z
-webUrl: "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html"
-ampWebUrl: "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
-cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
+publishedDateTime: 2020-05-06T14:43:00Z
+webUrl: "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html"
+ampWebUrl: "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
+cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: ITworld
+  domain: itworld.com
 
 topics:
-  - Microsoft AI
+  - IBM AI
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 800
     title: "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion"
 
-secured: "+LfeUj95plXF0ElZMc+2LUq5gYHIcnyY93KIgB5o6WBCLXXEEfWjZuWi9cdu/Ttq1HiMzI4M4bUPZsUs35veTeC+1BcRRN5f6T5NjavvKs1SIwmpbHp9Q1i43PHLE74VVy2VV7hSwKZlFIJxBSSIIXiHMsugOXL/0hoF2t/M5UQeV4sMln9blfYv+JXhktaR090xoKbEQkLyREgNLyz9NG8PkBELRR7P1cCS/up9KBykW9qLBDS6p4q7MRuvelc2dKcoDqUXuor2D8JZsAfRlacLQ+nV92N/UyxmgxH+LuQCi6O3S7N/9SsYA58zREN4;qwksoXGBOKxoK+z0jJ2FVQ=="
+secured: "Eolcxtn8lLLMSblaAfCmGR8RseQ8BELzXxR0kd1GZaN3VqqmPa2AZM18+e491VnYrrgn0bVOo6RkoVN+//PHLk7DqKMlBFCdUbIPvNJ3z4bOfQdhJPXSMT8Hm569+EELnOpGASOL/9tAXsJyhLZWNJvNcui2XX992SGXAKmN7dWI3+9AeR0FBhgWoJ+oIC1WvFYF1rCij4gWkFZCXj8Xk4lSewrajA4BMxW3mKBxe35srTMoOiuL8p4vz0MrxnNnrkb629MSZ7nO2DEudMpi5yhfN2Hr6vqgaKiNhTm63SuG6Gq/Ub866VZxJMI3SAY8;DTWUD0ThY/3Y8gfTTd6w4w=="
 ---
 
