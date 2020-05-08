@@ -5,8 +5,8 @@ excerpt: "Merck announced its investment in SynSense (formerly known as aiCTX), 
 publishedDateTime: 2020-05-07T06:07:00Z
 webUrl: "https://www.chemeurope.com/en/news/1166161/merck-invests-in-artificial-intelligence-chip-startup-synsense-in-china.html"
 type: article
-quality: 54
-heat: 64
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://rs1.chemie.de/images//131135-76.jpg"

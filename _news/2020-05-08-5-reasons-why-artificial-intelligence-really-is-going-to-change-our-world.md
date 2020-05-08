@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artif
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/amp/"
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb49cca1b61700007592462%2F0x0.jpg"
@@ -28,6 +29,6 @@ images:
     height: 614
     title: "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World"
 
-secured: "xy4YnVMQqoSLM3a/XO/39a8PpwLGi7r+FqCYOBke/GBDW1SCnSbfcQrS6xyN2sJ75XoVSvgKAW7LaUCPHyJixUkXssx01aCuF8lRTnA9E/p0DwUEFDl3flyogTf2Y6o60DtNXyYS1n1meEQ4149b/cIu3V6okatPSHPPHMRM1xz63oo1JV6La/DTkIFyaPHXdtJW234szgT35prXS4Os2k4M2PwnDVwRix7W2TwwVcIit5/NiDSxLERLJ8GvXd9TC3yRcUYlo3Rt/w4RG5l+h6GQ61p4iQoT/FOhBKjTq2FtJyNUvYYsbK1dqlHvynyj;WtTIEbGcxIt7nCH1e1+DEg=="
+secured: "8n2AtVAl9Khs46pkwJuaEFabDbAEmSpmTJ6Aa8lf9QLDlIsORMdjxtTmRd1PilIFClWQ6zizpEUaZ9SbxStgz/DM7E3ucAp0gS2XrQ9QJA5NfQSXzYhMKpElagaD4X7ZRWL5CBOvJQ+qIrACPy/RzTp/4Js2FoE9rF67aKCeIbDV24jNVykbMOVH+HCveJHeS4QGqWw1olkUR7D5gTBLh6hDHqi6IdkqNxiqRliENoDVrRkUbX0yEJHEgN8U1a0WZ9UtSAKYqEnlDtCYf/jTGa85wX+IS6vsAzerxIo+bWEKOrvAdLvpJGIwVic9bxUoWe4w8DKQCRbut6dGI/syDR119cFDbZsD9jZBdEmDcYAcno2clQBMgInnN9TPldH6xz15WBLcipepmB9RZQUrU0ZFyTgEZvVovBzLD9JjgtudzmNj9GuH2vEBkmExRtfaNKILsXTaOUSTA9SSZxjuonRXsOoxsyAtkAL4aD/TH8E=;0Xb6Hv0v0k5Q6mYu3OkCuw=="
 ---
 
