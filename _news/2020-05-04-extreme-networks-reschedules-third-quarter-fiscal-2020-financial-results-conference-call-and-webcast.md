@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast"
-excerpt: "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its"
+excerpt: "SAN JOSE, Calif., May 4, 2020 /PRNewswire/ -- (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its third fiscal quarter"
 publishedDateTime: 2020-05-04T11:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-301051574.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast/article_0e5c3708-42e0-5f4f-a617-87fb070635b8.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/378309/extreme_networks_logo.jpg?p=facebook"
-    width: 1000
-    height: 524
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/3a/83af44f5-0ae0-58c7-8e66-64a2b59c9fce/5eaffd1588a88.image.jpg?resize=400%2C400"
+    width: 400
+    height: 400
     title: "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast"
 
-secured: "jrEn0GiBX2HOgMTrIA5fK4/uQx//ecAeMrN9FxcWnup8RKJc7szSjZx+HhAa5U0Ia4qv4NO0ZiuvvXfS/NLF1HrxcRy2jIn3XuXGFD1Dtd7pVRX7saEd70itl8HnfQLuwvZGgqWmBWl/J6O67UBG9pkjWQKxEEwEjKGcP305qw+owytnMDk84b/hxIjbeZo7WQa47wsMCsGNk6Hd7Ixi/mWz8gMthHvycORnk1be6z5b9fRJUbqSJUEH3lYby1tGvRkBzDOUx0sANv65NuzyG93ADIS2U1wIkJBHkWB4pc6VER0nCYCIlzeJjg6n/zOt;abpw4bZCsj+lp5k5RpBWHQ=="
+secured: "dFXgfAjo9aF/LFgWZ3cW2UMY4vGvFuemUzGcZQ2SxRG9yJGlsHPGqpeYs42oXbCsR6KSVcNl7noHXtRzYZIUqzZbSJ3/ekaNOfXFsL5LA66UkXcQRDHeg+nFooNQG3ZN0a9DPS7AOnXkm6eB0sv9xwrYFqOKwQO3WjEIg9+jE4t7rsRo9luMpcHVx0YBfI2Kb64kFdPDdCDQ/h+YMjDVHJW7WdaJHLQju/xiUqy9m+foKcq1eLs8JG/N5MboH/ZhYKVIjQp8C6CPqHyxHxIYgwmdE5m0LbEbe5a189Ke0PXqv5XrX1TnuQT2Kd0tyYnN;RE5nJ3TY/um/ZgmSMSlC1g=="
 ---
 
