@@ -1,27 +1,42 @@
 ---
 category: news
 title: "Productivity Gains from Visual AI"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-05-07T21:30:00Z
-webUrl: "https://www.computerworld.com/resources/202712/productivity-gains-from-visual-ai"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2020-05-07T20:23:00Z
+webUrl: "https://www.cio.com/resources/202712/productivity-gains-from-visual-ai"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     title: "Productivity Gains from Visual AI"
 
-secured: "FkBra4LPBXMBVkK7ucHidAd/huKw+rxrs7/AqVbueceCCrg7+pKH8DX3iJOYRc8wBXemYTsqyry6UaVwpIOYy6pdWrmm9R3xg/2wdrGXFUsukbF5JI6RWPDQJkq3BYmxHz8cf7h982UoXv6jQ8SQ71kofMV6CzvVdMhD3xWyJiT1r/N7cGhJ64UAcGQ+9Bx0Qru2BmXUx1fIq1Tx2fVwaoTNIyVwfnw4KWy03PwvTHQsnpsdxCNd5GxT4bnMfM3Sb08CmSPZyP6xIREW9VG2ywBa6+Q+e0SDBXItFvr7dsKXr6Q797Lz09bJJw2YHw50tcPRzLq9UgpfadGzSkzCPXT1XrkaW4/0AMXl8z4KqdaQYR/B3DVWYWH9m6oLzrQht8PydwyuFMdA/24e6s0+zY7AjDPAjVGjv31RRSzqcOrYbnf/qE9Y//eqn5MHScIQizLW2fhjOmhiWpULijg4C36uahIOXOjxD3Wx2whh20o=;wvPE9y2TcmhXFTcf/UhVGw=="
+related:
+  - title: "Visual AI Solutions Case Studies"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-05-07T20:03:00Z
+    webUrl: "https://www.cio.com/resources/202731/visual-ai-solutions-case-studies"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
+
+secured: "uZm/R3L5IUZVuWXRwThah7FqhaRbW4QjtDDfw87KUYkGKk8CihAGuVUzh0RC8RN4Gva9Ots7yF2EjcELQb9oNhTGucM4ZhSRsAEQPGxqBhjpAkIqXgQqSObH0Gsi/XkqpGnUgD/v+jhfca2utVChteStniut54NP6Yx/l0qOEqbBX5ljt106FxpjJz8a8LN7ZVj2NiYe5iI7ykTQEPyeouxMIViVWkBYeV8tf1j4NtC1Tmju9AY0R0TfWMNblthEVjAhg8hrxfLsMkNByDDxTbJTD1kZqIKgNY5/JyBcIIQexnge//JzUB4WarfryEHb;sSSnT32nQov7oV2/GLtGPQ=="
 ---
 
