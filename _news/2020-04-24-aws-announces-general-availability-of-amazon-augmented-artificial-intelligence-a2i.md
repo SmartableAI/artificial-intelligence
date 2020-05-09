@@ -1,29 +1,19 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or ..."
-publishedDateTime: 2020-04-24T14:17:00Z
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i-2020-04-24"
+excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for ..."
+publishedDateTime: 2020-04-24T17:27:00Z
+webUrl: "https://stockhouse.com/news/press-releases/2020/04/24/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-
-secured: "KSByJAtysQ0g2N2yZnyMU9fOhkdXEoZpK0SkvdDVvdVGFoZ9KuxJ1PBLQbqMG6e32PGKtlPuUNbZKyyfYldwB89i4zlPLG0HoKh/vAIAy8MDe/TORoJofSvbfg3cM/lsXzkC0K2b9ijQ5OXghT0ZbuIiVtS4E4GX7UmGXuYICPXS8Tmrha01+edov8u9HuLAZQPMNEiiHlZH5FFWxKQqupXGlglgbKZ/EB1zzFg40FKtgSVJTsfjwp2LUjU9rU5KUazmqSOg58/XVZ1rbPMFJD9TU0ydyKbb6EXaPK5/gJVqaUC7/qcWdIClzP5ghiyj;Lu5lsJXmfCdCJ1VDWI+FOg=="
+secured: "PlKcnqxHY/W/YYFO/cH75v2KzuOvXHkHVNPRCEVY9dZvUwhRl5ARi2tOvaps4Zjewl6ZLcDXQmQCfiRpQHjIE5e5zPazDvqpFXbZixI4oJtDO+lTKzEL42P51DG/Kolfh/paqSWQSHUC5uEeNUrAA34V36s/A0nqV0NPTLFN6pE7t4zVWp6h37+u5TfQETbB3KGOu2Xp5STP8LJ95IPUFxF27V2qun/rdI96AGMUz5Bxh7wwShFOKy+X4OQaeuXRLymWT2us0CtTAmB47O6ifWM7RXFU+KZk3rndHAqHDBD2y3wXaBPpIQbiGZomLI56;bMYhFUs2P4mdSSCCjsc3LQ=="
 ---
 

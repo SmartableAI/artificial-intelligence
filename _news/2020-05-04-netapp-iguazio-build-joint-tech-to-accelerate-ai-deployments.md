@@ -22,30 +22,6 @@ images:
     height: 456
     title: "NetApp, Iguazio Build Joint Tech To Accelerate AI Deployments"
 
-related:
-  - title: "Iguazio and NetApp Collaborate to Accelerate Deployment of AI Applications"
-    excerpt: "Data science startup Iguazio announces a strategic partnership with NetApp to simplify data science and bring AI to the masses"
-    publishedDateTime: 2020-05-04T11:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200504005011/en/Iguazio-NetApp-Collaborate-Accelerate-Deployment-AI-Applications"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 35
-    images:
-      - url: "https://mms.businesswire.com/media/20200504005011/en/788500/23/Iguazio_logo_light_png.jpg"
-        width: 1200
-        height: 627
-  - title: "Iguazio, NetApp collaborate to accelerate deployment of AI applications"
-    excerpt: "Iguazio entered a strategic partnership with NetApp that provides enterprises with a platform for developing, deploying and managing AI applications at scale and in real-time on top of the ONTAP AI framework."
-    publishedDateTime: 2020-05-04T12:04:00Z
-    webUrl: "https://www.telecompaper.com/news/iguazio-netapp-collaborate-to-accelerate-deployment-of-ai-applications--1337110"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
-
 secured: "nRsi6gRFZyUptGE2DvmqtuaTOR9K6MaMKBR7ybrsmImScyXtd00TqJef9gSkr9vDQNCv6aDmVV4hF98QNjSuyRIi8tPZUNBaIQWXNhfaD2iVxS+qXMu3oLmwYPxelXKwCdzusgsR6oUb8pExVfzBuIsZZV+zO0VVQHH5+ESHBI076LOp1oLq/cr63raP8MiXMIOef5fmlAWOU/hQMRsjDvsmS8zdfkmF8u7bvGyxjKbkboOVPcvH0rOrojpLiPIhpjWOE6CxNPGMY7hkEa0vRf0oKZMjvUX+QOsIsv6deI5kI7XMpP4iDzPS+YOOLE/g1o8oH7/2NuIhwFwz9mMb/LMtLc5uls9YqNvpl0ZI2uqhvHVrcR+nl04JjfSV8KCMYgkxtQ8J7k9nGGGiypMeD+yW05lVC1gQxpXQ1TiHCoRRcJRGKW9iCf0CS6IzRWF62YDUJ5c8bosw7OyEdHVGfghthd1wtk6mQkBcWQ2eUiM=;gjfx7DrDBTTMC0r+avgAiA=="
 ---
 
