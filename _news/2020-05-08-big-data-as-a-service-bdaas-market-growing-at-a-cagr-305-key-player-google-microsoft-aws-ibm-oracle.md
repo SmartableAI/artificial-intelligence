@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Big Data as a Service (BDaaS) Market Growing at a CAGR 30.5% | Key Player Google, Microsoft, AWS, IBM, Oracle"
-excerpt: "The global Big Data as a Service (BDaaS) Market size is expected to grow from USD 11.3 billion in 2019 to USD 42.7 billion by 2024, at a Compound Annual Growth Rate (CAGR) of 30.5% during the forecast period."
-publishedDateTime: 2020-05-08T02:56:00Z
-webUrl: "https://www.marketwatch.com/press-release/big-data-as-a-service-bdaas-market-growing-at-a-cagr-305-key-player-google-microsoft-aws-ibm-oracle-2020-05-07"
+excerpt: "Large enterprises segment to hold a larger market size during the forecast period. The adoption of BDaaS solutions is high among large enterprises, as they spend a significant amo"
+publishedDateTime: 2020-05-08T02:50:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/05/ab15986301/big-data-as-a-service-bdaas-market-growing-at-a-cagr-30-5-key-player-google-microsoft-aws-ibm-ora"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15986301"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15986301"
 type: article
-quality: 50
-heat: 50
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Big Data as a Service (BDaaS) Market Growing at a CAGR 30.5% | Key Player Google, Microsoft, AWS, IBM, Oracle"
-
-secured: "Ep+aAK2FZ1WZT7eG4bTfZcKk8aCXNNxE6vRqSRysRY62srXVtE59/5YSAc8k65GXmOUjFh+Fe1BobcglhQSO48B8lCSjROYwsjZpuT3qAGk7xNvYFHOe1UmEAJnCjXqVq72xisbCyyMPLSfuCIJ4gpl9CuInS8weO8FjJbC/VBK13kXhQ4jopJMVmAaYMM/Hvgt62c41UmUyHue4L70OvgVc1UzvdE24xI1ySiySSAw7fKKACM730oIoIMkNbQ8oTWsaHkwkG2QBL6wqHaZDT/8JaARvE0nKXVYtpBNrokRyC6vxONDfVkIssAjTNct8;/3zhzkY7yTrjeiOj/ZEN+g=="
+secured: "IbEZs82l6xo1OTF3ft6CzVl2fZCwcHT6EdPUX54zy1Cqv57a4EWejZewYcJkDKU71oq82GzMH2syJAtCrdScFvzExtVjJasxi1Cpp9ia/H5naY40UgAwyAaKaXY5pSBWkNo8eewGvyA/LhVKfBDMPd5ef+Iykvb1H8OPydg5FceDbF9QuEbq76GXAAgSnF6zZgc39jEPQeCqeK0ZDQRxjtw3dp7Z7BPaJAEV1qJmxEF2o17brV+uavB8aaAVxep0JyH5imuuo5Zv39vyuYtlMlBhWMJsnbEtTbFL8LVV65PkJFvFLxmgsPm/mwHbM1wDh8g2a+kA94efi2dbY5DCe9cyQvrF3NA8W2aaX21VBb3lM9LV42yoV4CyS1l3J3LZt87bxxIgGY53vjIK5gKFNlE2T3yziP6HUp78+n30U4ChTcn2D+mQ9+kMGBVMe9dRRfYzKUBqqHkjA9xU4Yya0kkw7AKX5NeOsZk9LOopcLs=;1pi/25tOipafSF49m5dMLw=="
 ---
 

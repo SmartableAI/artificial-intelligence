@@ -2,18 +2,18 @@
 category: news
 title: "IBM retrains Watson AI for IT operations"
 excerpt: "IBM is relying on technology from its Red Hat acquisition to deploy a new AIOps tool and help it deliver new edge-of-cloud computing services to support 5G networks"
-publishedDateTime: 2020-05-07T10:03:00Z
-webUrl: "https://www.itworld.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.html"
-ampWebUrl: "https://www.itworld.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html"
-cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html"
+publishedDateTime: 2020-05-07T10:16:00Z
+webUrl: "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.html"
+ampWebUrl: "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html"
+cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - IBM AI
@@ -40,6 +40,6 @@ related:
         width: 990
         height: 498
 
-secured: "pGgG/msMy03TcVF+TSE8erCd+5513l3O0mGm6KUV3VQ4ybHn2FzuMUW1A504X4wVVz6jzTd1v4hMZI7IKc8UqFyJ7ksGUJzuPTWGi2hjUaRpp/OpyZ4rn4ans5eQoKa+O4YKV8UkoIcXbt2CaboZ70Y7B+AUn44M5UEFT1a9CMqdni1jI1OdZlSHX8cuwGTWqmkxCqZfiFVPE7EuiVD9CKI0SoqDxxNJNP+vHus5qI8DTSDIND2zUGK/vjpfdM0ear8C7gHdqGtC6gyt9RGcZG5GSwKEP99JaJ7eeSAsO1tvPvRX3vfZ3d3SRj4oJiJu;Ff1CH4iW+HlVDvnqSXgmCA=="
+secured: "SwTQSSfvnwoI/OnGuEXydVtuNsRcVk/xUeQiCL6l7DTkOwTVznbLd4WBI2eT6kWZePQRKlTFVDuknTGRbu3YzpGWBGLTN2TMikIxEXCKUDQFldsSW+o3XdcNNthjV8cgW4HXubvxhTvAiaqtmcQ+eHNA3boXYtyOHorqhUfOAuVb9Inf7NLtYXBZnBpMZy3SNxeletbufQ6LOwRmucpibneUAcLBCqGVanreirsgAgr3Gx6lqy9jcZ1TyP4+a6cOAnQkFgVsdgQ9Z6IgeNDpY/e3oemRTqTXVBI2p45Wd4hwYaw8j+GtZGa3YEc2FUy1;pVrGWLJ8xE5szGxXSfNLJA=="
 ---
 
