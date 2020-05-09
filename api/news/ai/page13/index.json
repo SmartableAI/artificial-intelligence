@@ -2,6 +2,89 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
+      "title": "AWS launches human review service for machine learning models",
+      "excerpt": "A2I could be used by AWS customers that use services such as Amazon SageMaker, Amazon Rekognition or Amazon Textract, which are often used in critical and sensitive cases that need often need ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cloudpro.co.uk/business-intelligence/8537/aws-launches-human-review-service-for-machine-learning-models",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Pro",
+        "domain": "cloudpro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/04/awssignatairport.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "AWS launches human review service for machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy.md",
+      "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
+      "excerpt": "MYCIN was an AI program developed at Stanford University in the early 1970s, designed to assist physicians by recommending treatments for certain infectious diseases.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/amp/",
+      "publishedDateTime": "2020-04-27T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea5f65911e2a700077f78af%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D579%26cropY1%3D0%26cropY2%3D325",
+          "width": 579,
+          "height": 326,
+          "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room.md",
       "title": "Amazon’s AI uses a microphone array to localize multiple speakers in a room",
       "excerpt": "A team of Amazon researchers proposes a machine learning model that's able to localize multiple sound sources from microphone data alone.",
@@ -43,53 +126,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
-      "title": "AWS launches human review service for machine learning models",
-      "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
-      "publishedDateTime": "2020-04-27T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg",
-          "width": 1000,
-          "height": 479,
-          "title": "AWS launches human review service for machine learning models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     },
     {
@@ -809,6 +845,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-27-aws-summit-online-2020-helping-businesses-unlock-the-power-of-cloud.md",
+      "title": "AWS Summit Online 2020: Helping Businesses Unlock The Power Of Cloud",
+      "excerpt": "Further to that, it helps these organisations gain knowledge of building an end-to-end pipeline for delivery of ML models and automating ML operations with Amazon SageMaker and more. Madhusudan ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://inc42.com/features/aws-summit-online-2020-for-businesses-to-unlock-the-power-of-cloud/",
+      "ampWebUrl": "https://inc42.com/features/aws-summit-online-2020-for-businesses-to-unlock-the-power-of-cloud/amp/?utm_source=wigzo&utm_medium=referral&utm_campaign=features&utm_content=aws-2&utm_wref=55414&utm_wsource=browserpush",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/aws-summit-online-2020-for-businesses-to-unlock-the-power-of-cloud/amp/?utm_source=wigzo&utm_medium=referral&utm_campaign=features&utm_content=aws-2&utm_wref=55414&utm_wsource=browserpush",
+      "publishedDateTime": "2020-04-27T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i1.wp.com/inc42.com/wp-content/uploads/2020/04/Untitled-design-2020-04-27T122035.740.jpg?fit=1200%2C628&#038;ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": "AWS Summit Online 2020: Helping Businesses Unlock The Power Of Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-chinese-self-driving-truck-startup-inceptio-raises-100-mln-sources.md",
       "title": "Chinese self-driving truck startup Inceptio raises $100 mln -sources",
       "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, has raised $100 million in its latest funding round from logistics firm GLP, its key strategic investor G7 and other investors, two sources familiar with the matter told Reuters.",
@@ -1178,80 +1251,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-26-aktana-expands-leadership-team-to-advance-the-evolution-of-commercial-engagement-for-life-sciences.md",
-      "title": "Aktana Expands Leadership Team to Advance the Evolution of Commercial Engagement for Life Sciences",
-      "excerpt": "Life sciences commercial teams face a more complex and competitive environment than they ever have before,” said David Ehrlich, CEO, Aktana. “Customer behaviors and expectations have changed so rapidly that commercial teams are scrambling to adapt.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://apnews.com/Business Wire/7120d4ce22a742c4a2b789159ce65c61",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-26T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "Aktana Expands Leadership Team to Advance the Evolution of Commercial Engagement for Life Sciences",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-26-marshalls-speech-and-hearing-center-awarded-grant-from-parkinson-voice-project.md",
-      "title": "Marshall’s Speech and Hearing Center awarded grant from Parkinson Voice Project",
-      "excerpt": "The Marshall University Speech and Hearing Center (MUSHC) has been awarded its third grant from the Parkinson Voice Project in recognition of their ongoing SPEAK OUT! & LOUD",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.herald-dispatch.com/features_entertainment/marshall-s-speech-and-hearing-center-awarded-grant-from-parkinson-voice-project/article_df71843a-8c1d-5bbd-84f5-865f57700228.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-25T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Herald-Dispatch",
-        "domain": "herald-dispatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/assets/v3/editorial/6/e2/6e2c4b3d-433b-544d-97de-8e6f2902f1ef/5ea3578b52923.image.jpg?resize=945%2C630",
-          "width": 945,
-          "height": 630,
-          "title": "Marshall’s Speech and Hearing Center awarded grant from Parkinson Voice Project",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
