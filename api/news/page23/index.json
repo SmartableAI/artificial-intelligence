@@ -2,6 +2,170 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-20-how-to-keep-our-ai-obsession-from-overcomplicating-data-projects.md",
+      "title": "How To Keep Our AI Obsession From Overcomplicating Data Projects",
+      "excerpt": "To work effectively, AI needs to be used in the right way for the right applications. You wouldn't use a precision laser to tailor clothing. It could work, but it would create unnecessary cost and risk with no meaningful improvement over fabric scissors.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/amp/",
+      "publishedDateTime": "2020-04-20T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-4-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How To Keep Our AI Obsession From Overcomplicating Data Projects",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors.md",
+      "title": "MyndYou uses AI and passive data to detect cognitive decline in seniors",
+      "excerpt": "A quick glance across this landscape shows fall-detection contraptions, targeted social networks, and more. Artificial intelligence (AI) in particular is gaining a firmer foothold, with AI-powered social companions and fancy wearables designed to track all manner of activity or changes in behavior. Fledgling Israeli startup MyndYou is using AI ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/amp/",
+      "publishedDateTime": "2020-04-20T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Elderly.jpg?fit=2001%2C1000&strip=all",
+          "width": 2001,
+          "height": 1000,
+          "title": "MyndYou uses AI and passive data to detect cognitive decline in seniors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-starsky-robotics-failure-offers-a-sobering-look-at-the-state-of-ai.md",
+      "title": "Starsky Robotics Failure Offers a Sobering Look at the State of AI",
+      "excerpt": "Autonomous trucking company Starsky Robotics has closed its doors after failing to secure additional funding in late 2019. Anyone that follows the AI industry or the autonomous vehicle space knows that not every startup was going to make it to the finish line. But the demise of one of the pioneering companies of the autonomous trucking space ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.designnews.com/automation-motion-control/starsky-robotics-failure-offers-sobering-look-state-ai/181515550662728",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/default/files/Design%20News/Starsky%20Robotics_small.jpg",
+          "width": 700,
+          "height": 525,
+          "title": "Starsky Robotics Failure Offers a Sobering Look at the State of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-kavout-k-score-a-machine-learning-driven-stock-rating-is-available-for-developers-on-iex-cloud.md",
+      "title": "Kavout K Score, a Machine Learning Driven Stock Rating, is Available for Developers on IEX Cloud",
+      "excerpt": "K Score is a stock rating generated by applying machine learning ... with curated financial data. The platform provides a high-performance API along with custom-built services to help users ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kavout-k-score-a-machine-learning-driven-stock-rating-is-available-for-developers-on-iex-cloud-1029106470",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/kavout-k-score-a-machine-learning-driven-stock-rating-is-available-for-developers-on-iex-cloud-1029106470",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kavout-k-score-a-machine-learning-driven-stock-rating-is-available-for-developers-on-iex-cloud-1029106470",
+      "publishedDateTime": "2020-04-20T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
       "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
       "excerpt": "If your shop is obsessed with mixing AI into your stack, Amazon has almost too many options to consider. There are too many to list. They begin with basic tools like SageMaker for training models to respond to your data. These tools have attracted plenty of developers and that may be why the sales literature brags that “85% of TensorFlow ...",
@@ -889,171 +1053,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-widely-used-ai-machine-learning-methods-dont-work-as-claimed.md",
-      "title": "Widely Used AI Machine Learning Methods Don’t Work as Claimed",
-      "excerpt": "The study evaluated techniques known as “low-dimensional embeddings,” which are commonly used as input to machine learning models. This is an active area of research, with new embedding methods being developed at a rapid pace. But Seshadhri and his coauthors say all these methods share the same shortcomings. To explain why, Seshadhri used ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://scitechdaily.com/widely-used-ai-machine-learning-methods-dont-work-as-claimed/",
-      "ampWebUrl": "https://scitechdaily.com/widely-used-ai-machine-learning-methods-dont-work-as-claimed/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/widely-used-ai-machine-learning-methods-dont-work-as-claimed/amp/",
-      "publishedDateTime": "2020-04-18T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Machine-Learning-Artist-Illustration-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "Widely Used AI Machine Learning Methods Don’t Work as Claimed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
-      "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
-      "excerpt": "This article originally appeared on VICE US. There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of ...",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "ampWebUrl": "https://www.vice.com/amp/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "publishedDateTime": "2020-04-18T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-64-higher.md",
-      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading 6.4% Higher",
-      "excerpt": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) shares traded up 6.4% on Friday . The stock traded as high as $6.27 and last traded at $6.16, 251,800 shares changed hands during trading. An increase of 79% from the average session volume of 140,834 shares. The stock had previously closed at $5.79.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html/amp",
-      "publishedDateTime": "2020-04-18T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading 6.4% Higher",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution.md",
-      "title": "AI Weekly: When to ship or shelve a coronavirus solution",
-      "excerpt": "Those debates certainly carry over to the kind of AI being deployed right now, and the important question of when a company should ship or shelve a coronavirus solution. A lot of AI is being deployed in the pandemic to save lives and someday soon help us resume daily lives, much of which you’ve been able to read about here. But they aren’t ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/",
-      "publishedDateTime": "2020-04-17T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1214233667.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "AI Weekly: When to ship or shelve a coronavirus solution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Artificial Intelligence Is Energy-Hungry – Solution: New AI Hardware Made of Quantum Material"
-excerpt: "Researchers have developed new hardware for artificial intelligence. Credit: Purdue University image/Qi Wang Quantum material could offset energy demand of artificial intelligence. To just solve a puzzle or play a game,"
-publishedDateTime: 2020-05-07T14:39:00Z
-webUrl: "https://infosurhoy.com/technology/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/"
+excerpt: "Quantum material could offset energy demand of artificial intelligence. To just solve a puzzle or play a game, artificial intelligence can require software running on thousands of computers. That could be the energy that three nuclear plants produce in one hour."
+publishedDateTime: 2020-05-07T09:04:00Z
+webUrl: "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/"
+ampWebUrl: "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/amp/"
+cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/amp/"
 type: article
-quality: 43
-heat: 43
-published: false
+quality: 63
+heat: 83
+published: true
 
 provider:
-  name: InfoSur Hoy
-  domain: infosurhoy.com
+  name: SciTech Daily
+  domain: scitechdaily.com
 
 topics:
   - AI in Autos
@@ -23,6 +25,36 @@ images:
     height: 444
     title: "Artificial Intelligence Is Energy-Hungry – Solution: New AI Hardware Made of Quantum Material"
 
-secured: "NMRPyFDYzWBeZ7wi3srMh+xhUYagIWy1qXWt8kq2ePNFQ3OsFV6tIuaCaT79z6GdxqWlkBZXHhYPnlHM/Xvic5fB9FsX0+hETOA9vB6g6rxXi4XNeIrWv3RVqfgUXQW1tav1NPVc173skuScNqZGUOEQSplcA2SzmyCK8VgPEySgukOd+CHda23PqURw3K/PEj3AEluRVQTCvVEkgq/khqoGOGA/4UTVTMXzAm0z5SIzuzsv5Jr5GxlBJyB0hwbIDwzhYp1X/EoKtd5346UTifAw9Zv3R1ELnLLGxdLOeu85mj8wvNCYGfV2mbb/X14HoXTH87F4MnlivlIRcCeG3VbdEjTIP4od4DLdafdMzkvYzf2L6bq48jcbOCmvsIxoxEQ5spm1Qd6NS5YuHFqoKyQB2xPZjS0OtK2sPmFFu3NKUFa36mQWDGt2VlhP+R1JPbcCbaunpvYZpFJXvgW6WoNinUWrQrv4t9TL0R5jrKQ=;cdukmbWFVulS6M2qnSAuWA=="
+related:
+  - title: "Smarter hardware to make artificial intelligence more energy efficient"
+    excerpt: "Artificial intelligence requires a lot of energy. Simply solving a puzzle can require the equivalent of the energy produced by three nuclear plants in a single hour."
+    publishedDateTime: 2020-05-07T14:44:00Z
+    webUrl: "https://www.upi.com/Science_News/2020/05/07/Smarter-hardware-to-make-artificial-intelligence-more-energy-efficient/9551588854713/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2020/05/07/Smarter-hardware-to-make-artificial-intelligence-more-energy-efficient/9551588854713/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/05/07/Smarter-hardware-to-make-artificial-intelligence-more-energy-efficient/9551588854713/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 57
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/9551588854713/2020/1/15888580152278/v1.5/Smarter-hardware-to-make-artificial-intelligence-more-energy-efficient.jpg"
+        width: 800
+        height: 533
+  - title: "New hardware could curb artificial intelligence’s energy appetite"
+    excerpt: "Quantum material could offset energy demand of artificial intelligence. To just solve a puzzle or play a game, artificial intelligence can require software running on thousands of computers. That could be the energy that three nuclear plants produce in one hour."
+    publishedDateTime: 2020-05-08T11:00:00Z
+    webUrl: "https://knowridge.com/2020/05/new-hardware-could-curb-artificial-intelligences-energy-appetite/"
+    type: article
+    provider:
+      name: Knowridge
+      domain: knowridge.com
+    quality: 39
+    images:
+      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/05/New-hardware-could-curb-artificial-intelligence’s-energy-appetite.jpg"
+        width: 800
+        height: 453
+
+secured: "OWbClMMo43bFsQr8rKNoBVnA/J20UiX+YvwD1fiRGNNp/QjyLq/jK1+havHncMahd5SoVIV6hmwugXiP8M48JdO5UENt50Sg9rQpUqAdXfo1RkXkc3/DWgimQJgsN8gImD2R7MQLipGll23813jZWtS8SymcG5dqj7g7Z/ddZc4wX5mD4X4DUutmQo2oc9cDWV+7FeaJku3BulzpfkXR1SMy9Hrd1FPxOXlIGjN0lNgyM6znCJvBtPPRlvFNGgLvU6ylfZi39FXNeeEzUpsqJmIaoTGwNl+SqNqT+AApnpFpR7gEpyTz7Kw2vMVBHCWm;xnxG/xuP1ifuY46LH+zvLQ=="
 ---
 

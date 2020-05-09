@@ -39,6 +39,15 @@ related:
       - url: "https://www.nation.co.ke/image/view/-/5545208/highRes/2611316/-/nsek9xz/-/New+Document.jpg"
         width: 600
         height: 400
+  - title: "Getting by in the pandemic with help from (virtual) friends"
+    excerpt: "\"It's so good to hear your voice.\" \"I was worried about you.\" \"What would you like to do today?\" What sounds like ordinary banter between friends is in fact from a chatbot created with artificial intelligence."
+    publishedDateTime: 2020-05-08T20:11:00Z
+    webUrl: "https://japantoday.com/category/features/lifestyle/getting-by-in-the-pandemic-with-help-from-(virtual)-friends"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 4
 
 secured: "jylksJsQEneVrxaE3sYzI9otGui2f9u/KaZmd84F6wKjVtrKraDy3jMrHWlZCToJjh62m1jV8agtwvr0HS6rdep9D+twCiyMHYTS3xa7TgWA3C4G+jEiQTzPcx4JErzC9WVI0gcLNtwUeNfcoiienaHE/83qBXPZPJqoWxDXcCDncRB367o8y3x7h+hUJ8qbSH2Eu5h4fqsC0Tpwzv8mw7p8GqxvVMlhPSxpOKpSp7fN7acGGnitCIvLvS2SQj7b6zf2+fu8ANJfRhzp4v6nG5ix/1X//ENQLZHkeNyyBPb0T2C1ourUMR7qUtbl6Y3hhOmJcMJwfBZDr0S0g6AfxFKYxEJzTaD7Msb6ov3Fm/ReFmJyIdLOC7QSaMQbYyrie5thtR2LuAmtJakFrGgsR5/mwz1bq9NUyvXG7MpJEjl6QUA/iVgH0tnioghzr2ct9cXi0j3mp75RiflZMuSFiB0lvc2Rv51E8Oxcl8hPQS4=;UZ82Fmc+vUEIA1Dx05OINA=="
 ---

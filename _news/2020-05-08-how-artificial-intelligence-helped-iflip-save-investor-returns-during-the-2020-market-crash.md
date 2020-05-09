@@ -24,6 +24,6 @@ images:
     height: 1600
     title: "How Artificial Intelligence Helped iFlip Save Investor Returns During The 2020 Market Crash"
 
-secured: "Pni1xKb5aRmycChhkc2OTk/6VI8D25kezsRPjlYKzSa+cVdLACrkh6gcs5ZipDDuMwmBwgU7GxPKDzLaBHKJz2rNCBgSkwKw/3cEO3zGc4QIOdXiZ3cUU9LmksmxBg+XFE/qJYrtiPhW/AQbEahWUFk9DKFAa/1gyf7VZO4pi17DJthWORIyK3G7If3vw3XYQL6qB2TkmtiziFM/oPio+o3C7zc7iALq3gmLKLD3ieDUEFTkS8C9TA0SuFJAjx9tQm9w1HL3UjvzqqZ0S7TxJnjLQs41FTMG3vOJWKK/3OKJGgxKP97bhL0j8OgHCKTg;VQvRSn7n0OrLtgAxc3eJJA=="
+secured: "Sb/fIBJzKKt8o1p7pAwlLialpHZ2OqBxus8VJQ0HyeHX4CfPDQqbbkvBJ7h2T6KiaeldzdJpl0R/tk+QZoowymsP2FQEwp0V7FScLPE/lMg74K1JoFhxomRBKDJBk8b7UDrZzQ1ObeOYYklhoKufbPZAQ6j6/N/Of3dfdZ08YGuYRCJ7L+yjAO1pceUFIhiGeVYd1H0ob4LSzH22ix2DOpD2EWiRy3WCBc8BCJl1+MBuTMbhbqQrSR/cwAQDKgc7b+2BAvKxrY3/LCHzYQ/aM7jQGYITdzvNdtcErQAFWMIA9oZKFSRtg2+FI+dAjY/ah5+BjqY7nKD+pSRqW6pBNGot+nFvm+0g41fpsxPMMkwbxQKDCJWDn3WjQcFWD/+VZRTXOzZs1gVagkyBeaLaKtgiWDAvUs9AxG8qUcN6LTB186twCuvcWQqE8KXRYhUd08B4E/BQmypIUAtjo79YEKAFmUg/Bjlo7C/uJ3Ojkls=;eiuGrZWoUC/cXH8kCtB1kg=="
 ---
 
