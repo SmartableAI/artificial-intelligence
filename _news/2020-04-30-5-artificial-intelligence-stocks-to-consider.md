@@ -1,19 +1,25 @@
 ---
 category: news
 title: "5 Artificial Intelligence Stocks to Consider"
-excerpt: "The company’s Waymo unit could be worth as much as ... That puts it at the top of the heap among artificial intelligence stocks. Nvidia (NASDAQ:NVDA) is the pioneer of GPUs (Graphics Processing ..."
-publishedDateTime: 2020-04-30T10:26:00Z
-webUrl: "https://investorplace.com/2020/04/5-artificial-intelligence-stocks-to-consider/"
+excerpt: "[Editor’s note: “5 Artificial Intelligence Stocks to Consider ... Google is a top player in autonomous vehicles. The company’s Waymo unit could be worth as much as $175 billion, according ..."
+publishedDateTime: 2020-04-30T08:26:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/5-artificial-intelligence-stocks-to-consider-1028347999"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/5-artificial-intelligence-stocks-to-consider-1028347999"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-artificial-intelligence-stocks-to-consider-1028347999"
 type: article
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "UwJ9pBjFe4HkkwD/wWVWqGsyMXz0iGtD4Uym/CqmK5RSiZyEKh+xQobwqOpFMVgsELRsYpQgzOB/0tXqzNELfCHI8F8ktmbWFeepBOxlj7WjcO/hoNzYUxU7m3TrxSkC/tRNom1ETgs5JoLQ4uH3h/5voS0jTb7gilqUTDyC9K2Z3P8TQHyagGuIlMN8FT6EvYvQjK2TZtV+1N5OETWIf0jjgVwsyiOLtmawYGs7vpOTLw8gSXwilf3WH6qhJYNSTRxmNw6E2mmkyl65aJv9kya2YPm89jJsfZBZZBWOtqKBMKlymMtnnj/qQoRnpXWi;k2UXfN6QewfrNTjk55ImYg=="
+secured: "bDEV4bBgWgOkb2TZ1iwdJuCTGv7pz8q2Bbr2BDJ8bIJi9eozq0owpLNIe3f1qgk/SxiPsjaekF3tOMEZLiU4sOiCMo+J+AFTY53eiowp4UQhp313V3gLbAYAgKdf9mE0zp7jhz8JAOl76JEzwfpXjTFGIfOWYYR73QI2tvzGNwozBHRImo+U2yF/Sk3ou8R8F3yMNGMzo5GuhKFouZBrp7eba/xpjQu6T3hJIyS8Q7mt+JRrNhBpimBHTk5CNCbw30KMeTzTrFb6VUfXWmCWN918deO4weEL0Oz8Q5khXB9ZZCqiUPAe8luQWVH5WHjf;GN9G/uHyyWcFG+swyLY7eA=="
 ---
 

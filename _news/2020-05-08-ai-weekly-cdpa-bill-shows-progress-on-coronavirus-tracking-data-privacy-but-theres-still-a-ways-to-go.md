@@ -28,6 +28,6 @@ images:
     height: 1237
     title: "AI Weekly: CDPA bill shows progress on coronavirus-tracking data privacy, but there’s still a ways to go"
 
-secured: "DK6GyMIgr5gWd/ykjVnxOjjF6I9Vc6OBpg2+6+l/3raaLVJsAXhxli60E4nJg1DfQfE6MXryvYAMri36ZktYloKtmVk+gZtfv2BeErWymf/6nXt0GVkvyq9hjb7u3RfFSUPDy81O8AquHZsMt8I68Dnat6QszRwQMNfLHsSZIvdFcvwd29H8CCV1CGWJctNdM+Yq9ahQHmsVCnYYCn4iu52HLB6XBZT8l+iQKTKhhYPLW80LRwdXZp9B0EEwPJNmBgWE7imd0vyS2t1/VYKvh+jys9jARn2xAQAyE8sxcNc8OGB2N/C/2I7tH4kMa8lE;4z/RBEmEuKAcYCypJLeJyA=="
+secured: "05HCFkUliNzapuV+kZDP6HLK3TiZaJXlG/MPG0GRsbuvGyemY2+bQOhJ/Zv6w227WxwUglVrgbhs3YfsIbMkBkTXc9O/8NPuSgXdynpqg4bN8HRAiIYYZ5FZPAlHfBAtHEPG5x3loQw4RvBAuTuGIE5DIph3gKucY7/oB1Ajn6/DM6rhfAFUk5jjQaiV+Bzf9DVoS5h8Wrok2Y/2f8WkViwnuVy1rjPvQPxA90HZPYlwy6pVQmSqW//r9gE5NBP08lASOb7BXKtBaFmnbAncPDAWp72OajlDDcHgqmJaT1JnRT7JnLmgd2O+8AIhpqjytjtZXRS9OmAoEWJ3JHDIBMIsPpRR4z/QJdxbTzglhAlr6G0Q4LEMy1lC32f57AUjjVvOI8giGeAvcs/wW02jF5TDWancKZ2ABG1ISUTJ2mJbda5mWOHbGpfds3/OmUNibUeNaNwROlhB64fpZ/3YXNyodrjo5G9RmeWBRREZudE=;1SHIVTMbkulCJ65aXZHHFQ=="
 ---
 
