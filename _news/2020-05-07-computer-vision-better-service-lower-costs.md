@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Computer Vision = Better Service + Lower Costs"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-05-07T15:15:00Z
-webUrl: "https://www.computerworld.com/resources/202638/computer-vision-better-service-lower-costs"
+excerpt: "So where humans weren’t the answer, they turned to a computer vision-based POS system developed by Flytech and its subsidiary Berry AI."
+publishedDateTime: 2020-05-07T15:13:00Z
+webUrl: "https://www.infoworld.com/resources/202638/computer-vision-better-service-lower-costs"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     title: "Computer Vision = Better Service + Lower Costs"
 
-secured: "bYLgZGhRXTTgiagCuY+Gb6HDE5RApHQoJoRBY17OPPKy1OKhiEcjj1a1wq0h8AnpD37Lw3gfH0wMG/PTTyrlSKEZayMkWdfXJFYcS7rRHuAae5PzqHCaLkGRo59NpHNe0sSzVpj2tUOC1Z4VtmTI5RcQcIwFwGj9wxNDmt38GFVaAqvgKwM0Qzk2tGlHXlmd5sCoEMARkc4IbIPhMADZ8TgMzMby22dbpRhLYyE1sB8q+PhL6DqHhYTwvL3IUrZ4ApGAA2DKsnYy0bhEKrWkt2dkMbgsGhCE84ygR0kGuVZqRWAL99N3tFzXHYtzFqXu;bgFKw65uYBx4gHMPErr6Eg=="
+secured: "Cqs46/orHZqHoPxicOkbkGMyF6QeiNxdddZApnBYtm2LUCaT8oX2PPgWumJAClprHXCL/QxLVQwzGYMPgGDJ0W6scLTnJJzqw/dsTscowOqd5s4qhE1c50xcuRPYrr+uRGWbyBth3l5Q4Aiozx84+muIA7x0YNOfpNoZ4FJD5pA3frYz9evMLiN5EOnnKlvIYCOE26hSHs/39S3VunjMhw/f8+GbS/nZI3bJ9dqqjh0ISOkZNgjmrfibZXDZVBLHjfwXQQ/L3GQwa9Mh29nDQivAR1mtgT68bNw8l8f/qn3SFn57fa0Ucq7UDlgQmedk;My5NLu60ouTLa3oHzt1OJw=="
 ---
 

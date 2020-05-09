@@ -20,6 +20,6 @@ images:
     height: 275
     title: "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing"
 
-secured: "oy5MzzWD6E8QEkUKW/l175v3WahVJucaXVVchEVA128bSUBrGAsCc13s29Z5weP9oJi4sYr/TS9IM+9Tf18w3lgD+ad+SfnABNRdxf9ozrgWX8lDr4yQQzuZd5QfgDUIm+PUiw/BpcQ10iTXXwD0BVEil8caqVgqI4zkAv6GoCeUMJ6EquRoGq0J+wfIvFSHwoCOcvqy269bjZ5AEM/1dsiFWP9o6VE6e+gy6yBpb0bsNFiGfaP4CVO0QZH9FE2RgFHSU/1YguI54STMOVn01xFe+SWJNig1/EkQo5E/QML/PY5bpLxLO6Dfbf/m+/u/;1p2koLwQ99ID0Wcq8E35rg=="
+secured: "f/c0zmOe+FcjLx6kORiyRkABSDF3SDqBFL1t6LwXkJARFzk2/rNqq4prQfaWmnRUNJoBPZmPUtp8kUi85cvcwvFlVBGyx7+FEgin/rao82aKaU65UAMb9heZgucoyipB0BiJTg13sT/LuA8o2QbhQS+gUBDqIig1nD3F7Q4wMgVkDxo2yfFTqXeacqsiD65XHxjK2G27wfAQcNdpTp/mre2CwgXrcAu4jHXMOgT16UCpXC5SkfUuP11iOkryIJf+JW8pu2YjdIlzy8dsaaRpy5n9ZdareWLU5yEU1CW948Mzd8Lsapwuq7+Nu13OQnbZLkDyZr5+5qvl0xuiQb8gh/7KJOKQmCwwDuybQDL7hfokc3EMjfOcFbNmtnamOn4hR84IPO48HNf4CdFW/m2PAyGJh+N4AIpE71LquyBUnv6T0wc31mvM96HBZkDR+Em3hXxPjkwlNWGABqL5HqWP77O4xMphJoUMooEPzs/2cWA=;5kANnlOqaMUA0ZJt8QnMwg=="
 ---
 

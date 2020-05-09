@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-dron
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 1100
     height: 619
     title: "Australian military gets first drone that can fly with artificial intelligence"
-
-related:
-  - title: "Attack of the drones: Boeing rolls out first ‘Loyal Wingman’ AI aircraft in Australia"
-    excerpt: "A Boeing-led team has presented the Royal Australian Air Force with its first “Loyal Wingman” aircraft, an AI-equipped drone that’s designed to fly in coordination with crewed military airplanes."
-    publishedDateTime: 2020-05-05T00:35:00Z
-    webUrl: "https://www.geekwire.com/2020/attack-drones-boeing-rolls-first-loyal-wingman-ai-aircraft-australia/"
-    ampWebUrl: "https://www.geekwire.com/2020/attack-drones-boeing-rolls-first-loyal-wingman-ai-aircraft-australia/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/attack-drones-boeing-rolls-first-loyal-wingman-ai-aircraft-australia/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 80
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/200504-loyalwingman2-630x420.jpg"
-        width: 630
-        height: 420
 
 secured: "flnlhI1dWmBJWA0p/CyocKIKUZ3EZVZjgzLNeBPNDZKsfwV6JOBqzRHSKJ72kSHdqsjq2NbvsLKYLRO+IeHY8+IUP0MvKkzXAV9sP0xgTH75WhzxwCT7J1J9kMrMAjMYsOeFN6hNDr8UEZWQhV4HJ8tZM9JLc8vIYMf30Jx4OCDdteT847VWLaqMTjyocZRaLG1vxOkwJE6NGCLIYK85+4KUv+C0BmPeRwWQmlmm1WxRGQRUdjos6fY+Y2qnzaapMjVWcNjW1umcqcz1OcysD8Tr8nPNZQ4E1SPsXWcL5Obvq8F16LJzRGoGj+zfhwdH8YYMAUtXjJh+l+BYFBDGWfaVED7FaM22hfq6JO6+SEwxVJW2zDnAeFOyoX2S4qn4JWkO0Fd4+G07MxavcrI7wBUffH+GC5qiGz3SHi1m7huop3aKQnXF0T8No0eupxnzrOngsg3nddZWQTB0r3t0O5kdj686rgw9FsDGEb+6mhY=;bf+5qjjKxf+sMK6i9BQEwA=="
 ---
