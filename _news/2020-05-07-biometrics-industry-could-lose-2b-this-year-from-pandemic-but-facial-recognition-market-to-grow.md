@@ -23,6 +23,6 @@ images:
     height: 798
     title: "Biometrics industry could lose $2B this year from pandemic, but facial recognition market to grow"
 
-secured: "+UwFLs9tZ4uhdrWd92wABX4WH0qZDBciddlFpne/BltrVmTCdo5Mp24ylPTnYlVrkh51yq8Li9luIf7A3vepnXpR5yDiLyLRA66NlChVjntxJCWWhnRqn41FzDZGBktAhpZAkQl/DkWZxmmAXT/ckOreA2z3ZBtWxE1O88gdBSEK87Qz9ikfrR1+YaiDMtB+u527+HyXeK0/VOd/cN4aXDahMFeceU9ILJKb//VO/IQ782/GlmyqmpEnfp24VJLnxodsfBwpM/CdFK/dTlEqjlnpGv+zX9i4pv3482uHMEIXEfDxNq0zgeFRraTNLBP/;Mob0h3pMr1i9HdnfuYYZGw=="
+secured: "5M6jjGHkyPt8Ygu09aXHs3q3+/R6OGJYZz43scVI748cIPtjTi5rAN2EekOiY4NCueVxeSo72f7lkSssBJczuWfbgDlDl8DWOLbt4GuTKvuuTjqiHCbHojO5+uJ+SAA/WYu7jbN/d3qXJPehvqh/nkMWHHmLfmvAKBG1hPQSZEm7tU0852uq+TnmaU+xgWCmhR7Str0XF8STmgdT8zkfaqn0PJKmgby2ZwhkySf42F68WjegYIGYyMc7pCAdba9LM3sYNCAdDsyIAdw1KrBSbcA6FzCd0iCarV9CudHNhIkr2TVWtAAaBKYkeYxzKJ8BPkXjQUYQ9TWArG9S8ovJca1b8TEDxHRBxq7sASHCTVjQ8jzRcbSaVM7+jiq4hLsy+fd/O5TQ9LxMfLgNtxFsos42FF+Yiab83qhz2x5hMGWuprz4EzkzZ3eVXNDTZWcZ7+3/Zn84kCmPAuQ/Z7Cvs7h4uCZLzjAwEddnR8GkLIM=;aXr3pNwOP182pTMfv/hd2w=="
 ---
 

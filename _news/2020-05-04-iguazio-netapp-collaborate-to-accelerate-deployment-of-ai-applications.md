@@ -18,19 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Iguazio teams up with NetApp to accelerate AI app deployment"
-    excerpt: "Iguazio sells a “serverless” data platform-as-a-service product that creates real-time intelligence for applications located at the network edge as well as on public clouds and in on-premises data centers."
-    publishedDateTime: 2020-05-04T11:08:00Z
-    webUrl: "https://siliconangle.com/2020/05/04/iguazio-teams-netapp-accelerate-ai-app-deployment/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/iguazio1.png"
-        width: 813
-        height: 432
   - title: "NetApp, Iguazio Build Joint Tech To Accelerate AI Deployments"
     excerpt: "The joint offering is aimed at building the high-speed pipeline between the storage and analysis of data to improve the performance of AI and improve governance around the applications, said Asaf Somekh, CEO of the New York and Israel company. \"In the enterprise, there's a lot of hype around AI, but a lot in inefficiencies,\" Somekh told CRN."
     publishedDateTime: 2020-05-04T21:56:00Z

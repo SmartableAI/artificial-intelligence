@@ -28,19 +28,19 @@ images:
     title: "Global Report: Artificial Intelligence Market Size, Growth Research Analysis and Share to reach around US $54 Bn by 2026"
 
 related:
-  - title: "Analysis on New Product Launches in Covid-19 Related Markets-Global Vision Processing Unit Market 2020-2024 | Growing Adoption of Deep Learning and AI to Boost Market Growth ..."
-    excerpt: "Technavio has announced its latest market research report titled Global Vision Processing Unit Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The vision processing unit market is expected to grow by USD 892."
-    publishedDateTime: 2020-05-05T00:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200504005524/en/Analysis-New-Product-Launches-Covid-19-Related-Markets-Global"
+  - title: "Speech and Voice Recognition Market Size Industry, Global Industry Demand, Share, Top Players, Future Growth by 2026 Research Reports World"
+    excerpt: "Global \"Speech and Voice Recognition Market\" 2020 Industry Research Report is an expert and inside and out examination"
+    publishedDateTime: 2020-05-05T11:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-global-industry-demand-share-top-players-future-growth-by-2026-research-reports-world-2020-05-05"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
     images:
-      - url: "https://mms.businesswire.com/media/20200504005524/en/789195/23/IRTNTR43075.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
 
 secured: "SAzMrWtLV0k5RLIj3vmB3I7OSmW9qPWCPvttLyXhDmSPbkk29MjHTA7pPfCrI86TEyX1Aa186SbsGmGQIqsKjih4b7SOxD3m/OhyEvPkxSR8HRSdigOTwYTL7cgk4SE4956mk4p1rRpcIV+Fo32zbCYBFEHM9NNOHhmE4ENfLZ8IXhp9cuq9ORtmKaKs03tzLgmnK74PdjRvaHAxhVjvumKOC2Hq+yGN1Fj6u0ZmvNpPpP+FS8M8rQY8DfXwUcTVZbFLk4a/Y0R+KLpNVb9/7pqMYWUD/piduSZ/SHN1LcfaotwpGlCIEJAliU9JbQod;1KnQS+59UkkEx8Tf/vf+Vw=="
 ---

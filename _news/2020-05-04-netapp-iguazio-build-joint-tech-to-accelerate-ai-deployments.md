@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-04T21:56:00Z
 webUrl: "https://www.crn.com/news/storage/netapp-iguazio-build-joint-tech-to-accelerate-ai-deployments"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     title: "NetApp, Iguazio Build Joint Tech To Accelerate AI Deployments"
 
 related:
-  - title: "Iguazio teams up with NetApp to accelerate AI app deployment"
-    excerpt: "Iguazio sells a “serverless” data platform-as-a-service product that creates real-time intelligence for applications located at the network edge as well as on public clouds and in on-premises data centers."
-    publishedDateTime: 2020-05-04T11:08:00Z
-    webUrl: "https://siliconangle.com/2020/05/04/iguazio-teams-netapp-accelerate-ai-app-deployment/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/iguazio1.png"
-        width: 813
-        height: 432
   - title: "Iguazio and NetApp Collaborate to Accelerate Deployment of AI Applications"
     excerpt: "Data science startup Iguazio announces a strategic partnership with NetApp to simplify data science and bring AI to the masses"
     publishedDateTime: 2020-05-04T11:18:00Z
