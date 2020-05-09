@@ -5,8 +5,8 @@ excerpt: "Google open-sourced the TensorFlow Runtime (TFRT), a new abstraction l
 publishedDateTime: 2020-05-09T15:43:00Z
 webUrl: "https://www.infoq.com/news/2020/05/google-tensorflow-runtime/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://res.infoq.com/news/2020/05/google-tensorflow-runtime/en/headerimage/google-tensorflow-runtime-1589032710549.jpg"

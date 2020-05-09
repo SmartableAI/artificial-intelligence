@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AWS AI
 
 images:
   - url: "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg"
@@ -26,6 +27,6 @@ images:
     height: 479
     title: "AWS launches human review service for machine learning models"
 
-secured: "42iQUxOQQqBluLK+bzRgxIbVbYxgkpq7a2eq/8QXuLaZYxBlh/luOoAjdskM09yu29CXKpE0XC55pM8YnrW01CZ1WTjOshOwX8CLpeebTck4D7ltnf8vQuLkiExgm8WUK46ITl2laBnaS7Rx6lBySJ3nWUiSfvmyQyf0NnvVf/yAA9vA/kvMpyi8tIRyypVYq3OcOheBiS1tgUSS2fdHDJXqw36rfbLqHOa1u+HB0WUaKUgkplpG0AdFQRaQ2pWyWtQXRaBmllfYA1v/8byjk9ayIapFG1dkVQ1y7U1j/eR/puU7LAxvf/hMrL1O0lCe;joMc+pW0rYyO/B4yHarB+w=="
+secured: "sqi0lqDddOhb1dToRWcIrxgESdLH0xqa7yj5WFEwRfOpl6BG2xGCL5KhdZ1LfsEZ678dbiTTQk5G2xR3OPMPAHHSI5p6MUaUbhNCcjJuCYNBK2IawD9u709nROmJGbF1+Q19/wQ7cywnkaUqDWYBogdpoVY63qGeOrw1yHdcSeTWZzj1bPuYPqMTuLnwYhrwpVvMzTjXyPp0coSAJmxIlk+mfT6qzJytd+9sC7mOD7AKNzQQ+zAU2/GlLlhFO7W6RI2CSd7HOPb4I4PaQ/oW99ln4cR9+uz1hA05NMx4etZHNcKLJN/RTb35JhAYvKQ5fUV/pzTcVevO+nontbIiXVXgQkrHE6sqrb2MVdtb//kqZtaetCZwgApaPYwK4tf9LCcJ7EElvtzgEoidTw4KDgAobQu/qHgjpp07DkGB017RWrYCuV21IvZyGAaPhpbKHq3vCRh+VzcGdPE/VskrBdXl8j1ekitYoML7ouB6Tpw=;yk4a5FshOcPsAwlNCnivdQ=="
 ---
 

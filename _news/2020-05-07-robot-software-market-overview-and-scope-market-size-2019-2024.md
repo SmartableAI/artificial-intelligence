@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Marketing Market- Trends, market Share, Growth, Opportunity And 2023"
-    excerpt: "Artificial Intelligence in Marketing Market Research Report, by Application (Ad Optimization, Content Curation),"
-    publishedDateTime: 2020-05-05T02:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market--trends-market-share-growth-opportunity-and-2023-2020-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "J18v8qahaxEiqKIdtnOcW5knoSLoyl8FaXekav2EuM9IwXpjR5E6GMcjr52o7LD8JTrqCv836+M1WbzOEt922YMn83eDCvid+zIKOwDqsnvI2VlH20F/QDEADfeOPCY6S8x+8oijjP/bMmlkctLNfj+IlwvHYqMevq40Xb6nu1BvXgD7P3t4jwO3sCNsF4hyhH2VzvBon5hWWY/uvxz9RdyduW+zqd0AoIKfplZbi4mc9efk6ajzDikrOVpaaWAyH8EkbjMUtBsJs0FcdBWnFn+cGOZqYl83eT68x//yRxMtVaPyZqMA1y1ADm4Zu2y4;zQLQiN7KjpAJItUViPa3AA=="
 ---

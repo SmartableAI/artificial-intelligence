@@ -2,21 +2,21 @@
 category: news
 title: "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion"
 excerpt: "Deeply assimilating its Red Hat technology, IBM this week rolled out a set of new platforms and services designed to help customers manage edge-based application workloads and exploit artificial intelligence for infrastructure resiliency."
-publishedDateTime: 2020-05-06T14:43:00Z
-webUrl: "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html"
-ampWebUrl: "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
-cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
+publishedDateTime: 2020-05-06T14:52:00Z
+webUrl: "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html"
+ampWebUrl: "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
-  - IBM AI
+  - Microsoft AI
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 800
     title: "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion"
 
-secured: "hnsRS4V6Lz34DhI0A9ThCsQEZkNh4NOdg2p85SmG29GC098pqr1uPiw5cHTDWp9s6EYvBE53aJsncMAs9O8pInaSSnJN/v6vnY2ya0YdyhTYtvumw4ZMo0AESnk5cHEPyD31xNUon0Rp/tDOu4WzztuAck8BR8aJKVATj1vsCn0h3I+eAvmmgJrJMHYA24ejYZ2aPoH8m79aNOvOWdNCUbHFMA7/BheHy3+hDxi77zs+bK7kdgFMgDUQD1OJ8lAh/gw+ivYTw14x+qIENvLIYZIEPBS/M6cYg1cXYCaRn2qeDL3Yt8t6Sab6a8HEG6+x;PlaNpCRwcQK717VrEyFvfA=="
+secured: "V1Xy+vJV+HTx2rmzFTXkF6nS4LSARjZwy+va0fUJCKqztpNkZZ17seEBZc6VuPSWRJK/pc+2/iPykbJCWK3yFaPFTPZDIMnhEKK0yMyuVsECbwgw2pQ0o7MrfTbx/VDFKEUZxrB3gKg9lmGX1N23F9u6R5zvj/jt4QaIDgqgSZq/aidi3hVEBCcA8Djb0SfqhFxITgmzgX+y9XgqkfjP57S/0WqRe/FMApUFKfpvFLSNQoAzYzCQbS2/MFCaQWyaMCjo3344H+pa+/Z9wWSN4B7kbq04z+v65fKR0Sx8N+lEBsahX86PFivgzMB3TvM5;1GnPG+6OS4HcAzypF24Dow=="
 ---
 
