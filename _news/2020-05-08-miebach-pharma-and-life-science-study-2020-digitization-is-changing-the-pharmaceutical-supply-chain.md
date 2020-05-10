@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-08T08:12:00Z
 webUrl: "https://www.openpr.com/news/2038076/miebach-pharma-and-life-science-study-2020-digitization"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -16,21 +16,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Welcome to Supply Chain Startup"
-    excerpt: "Startups in fields as diverse as robotics, AI, the Internet of Things and 3D printing will transform our industry."
-    publishedDateTime: 2020-05-08T11:45:00Z
-    webUrl: "https://www.scmr.com/article/welcome_to_supply_chain_startup"
-    type: article
-    provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 39
-    images:
-      - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
-        width: 444
-        height: 333
 
 secured: "9xwGCQggXe35xGC+q8nnKI2bg+Dfkb/M4e5cyeMdSk0I1Iedgw9Yn7uffqHFU6200GhtcQLZan5YkcxGwZxCNr2aU3Z/EjBs3SeXykm39gTDA/ZHL2lq9Rnl2trlkRH9IPdqTt4A54gbF5sJ0yqp7pbtqw+fQWP75RIyj5gMdO88eE4uq5NjA0HSQ1OkYkX8tcjhLTPqp+zS1/hQ6es5lNW2AGOJ7ZJ5YkDd61BifrnftiULUsantDufn/WiOcW8zQmFZFYnMyZ/bYtMRv11BBCL0O090Tn0OylO8Jnzpbn+dpFi0vAvcWzLhbGUgjTT/BTWAGur6mlW2xbqHFFs0jY9PflYaPnPbXHZmkIlJFEDZpbhWvWxbe9bEPRxeg5lt1PGe04vh64kBWp8MylTT0PvqiYV9p0fnYdgJQaVOzZzUWkIZNzgcyDCM/lsbngnN/xaM7l4FAigqR8dj3DTAlOSnqLIer0YC0/NLr9IcrI=;gfTHY1yZmxGPHd8qTavCCw=="
 ---
