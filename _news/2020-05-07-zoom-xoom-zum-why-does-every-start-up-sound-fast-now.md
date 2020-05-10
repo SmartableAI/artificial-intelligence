@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.ht
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 1050
     height: 550
     title: "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?"
+
+related:
+  - title: "Zoom, Xoom, Züm: Why does every startup sound fast now?"
+    excerpt: "One day this quarantine, who can say which, I encountered the following pieces of information: Zoom, the videoconferencing company, saw its stock hit a new high; Züm, a ride-sharing venture, cut its workforce by a third;"
+    publishedDateTime: 2020-05-10T10:59:00Z
+    webUrl: "https://bdnews24.com/technology/2020/05/10/zoom-xoom-zum-why-does-every-startup-sound-fast-now"
+    ampWebUrl: "https://m.bdnews24.com/amp/en/detail/technology/1756928"
+    cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/1756928"
+    type: article
+    provider:
+      name: bdnews24.com
+      domain: bdnews24.com
+    quality: 44
+    images:
+      - url: "https://d30fl32nd2baj9.cloudfront.net/media/2020/05/10/zoom-graphics-100520-01.jpg/BINARY/zoom-graphics-100520-01.jpg"
+        width: 1024
+        height: 640
 
 secured: "YLdziLD0hiwjuMv1eFsaw3tFphiJC7HUSdBcwQdH+9kJBKEkR+fLECuu8LaFOEuJ7VGCGleu83fb5PDWxdhFZOwFIw6dIuKE5uqNSmtroYac+Oyd1l44z/EIlsj4io2vJ6wWzeTUSO9XZM9lPmvPFIMfsmBYFo37NZISk+VfxbzxzyQsRBAu4IiyCIVKI1N8/XrpyHbTeJqt5wr4tuZTzsCDtR5zYF/kn6DPUI26lFKsS6dSRzH7Dk9rcBSvU1HU0X3vxLfhCHimYWNGBl8vnwPzD4LXvuA4/TVVSgwfwl+kuWYVo0HrM97CtFoTAA285Kl9xQ05TxkMgXZOf0nB2d8EPSBiVZ0Mb//QDP90p3pPOvQF5Gl3WPa6Qi9L6RKFYtxrwIseRbf8Tpuvx6DZ2yXhjJ4kdW6zsPbuwMVV7cRJLpwXBFZuy1ReG8H+VuzvMvcVNb/8GrGLPKxrF28voCjFAFCgdKuiXPbZfd+6wlg=;xP35AVs/QUrKP+hDvddTog=="
 ---

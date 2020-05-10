@@ -3,9 +3,9 @@ category: news
 title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
 excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G)."
 publishedDateTime: 2020-05-07T08:00:00Z
-webUrl: "https://www.zawya.com/uae/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
-ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_173952755/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_173952755/"
+webUrl: "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_173952755/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/"
 type: article
 quality: 39
 heat: -1
@@ -68,6 +68,6 @@ related:
         width: 750
         height: 450
 
-secured: "sf0zmjRcSCj/12YkkjCBzuitXwts04Ng6FsbehJ+G3/3IJznsuKVvf86MIM2Mhogm09GPaX7VoacXm4P2wz3rmZkA2OEeHEUrWz8wzstHsU6V0oL3APONvDr7fyVE0xJ14ZM8TB6VA0eVgGL+QUqNHOVM1tcKz17h7JR97FYUokAcD+oUAHY9IuHTFrOXakhTdOWjrXBp57EBOOSf2dqoOY+fL29N8HRrPerreprnQ/LUo5d7kQVbvL3dS4H/Vd19s9E91BD7GmzD/8W+BMV6p2/COHkFDfC4v8N0UR4QRhN31oTnGcRJvyaD6h9J010ZXyFeQK0tkj9dPydAeERhHvlB0lnX6GIYZtMoNqapIplxPujHRav0/dKr+te6aV0RiQUOeGFWh7Dom4BP5tVNHBW9SvdrpI3DPsgXEGiVvequcRGs94k1YM4p3slBIgdk/1e5m7RZs9/Tl1Zdi6OSpSnt0iNdNhqWGNW0rnRd0s=;PNQ6Fh56Y+9QHQRFU7EkcA=="
+secured: "xYveZbgqlwKJklKZ900nLszEpTMbPdMPKPwfp3C7uJ4qraKHMBzg3THLsW1+WSZipLgx0pcUVsXmoL4NsrS5ktfe2WykBKED2rP3//ypHN3lHDogxMRpODjxcsHWxylx5YbTmFJ9INeChvKjYqNNdTP4dZLn0MufRAnCUSxbV6HBM0dvm9PBEaq2jRBtCIh/ikkyuobwnanPrEfZBBrrGrLTz0uf1mmacjNsF/Yr8J3zGTjwOs2TZ2ps3iFCJyldM+3Xmla8Ix6nLAsYl73t98tLHAC1vDSRGyJQBaeosywfnaWgnRF4DRKP2h0BEpFGN/jbKG/xeeZPldIUy1JeeFr90LvkTvZvKotjohSvEUiwKKtCfCI2VdnuSRLURnC+cNEyqwMhI2NNcmabPHgCbel9I7OamnSbNgpx2Wms15PjetrQYFNH/DMO7516Ee+Bo4uvJMP047AEiG5jKfjxreqoA0wm/IzQQl/DsBh8xmQ=;dx6f35RIuSKo3Rpdzf3+gQ=="
 ---
 
