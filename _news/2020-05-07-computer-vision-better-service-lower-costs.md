@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Computer Vision = Better Service + Lower Costs"
-excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
-publishedDateTime: 2020-05-07T15:22:00Z
-webUrl: "https://www.networkworld.com/resources/202638/computer-vision-better-service-lower-costs"
+excerpt: "So where humans weren’t the answer, they turned to a computer vision-based POS system developed by Flytech and its subsidiary Berry AI."
+publishedDateTime: 2020-05-07T15:13:00Z
+webUrl: "https://www.infoworld.com/resources/202638/computer-vision-better-service-lower-costs"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     title: "Computer Vision = Better Service + Lower Costs"
 
-secured: "r+SJa/T+tw/t9nTJyYWEs3xxDbr7OMv8VkemksxkMwpTdtajTEOC0aeO22co7YUOp47xB87KIDbbAegY20gdQHvfPjT7d1r9qLbJ27JP47eZp2hn+7Gq+6EFENLDBGRuwtjqgkSyws94kAys8rtYE4vijTVTaR68NEc3orM5nsAv5WaRYJf1uTxPjf3gJxgyWZMgUDWVqKscQ3GLaEspjULyb6OwV4WULo2k2KShTdjA2ReQsaRqVkAiT8fvoPQb96ziRnET/EgM1Ga3qx+MGQhWpiPXHEkI3UjYtNW3J613dYAid9hzNN7Bvhyz7fXj;GiIC6qMeXbS5M6zwPZvLYQ=="
+secured: "ubryaaUVrtccj541HnUlBBKr/9Zgs4gY/vW5WoHfPPXk4NcPrEl82pSOpxOFPeBE8y76L3urzR3S4aF+m5nf/0XsSnfBWvJmc9V76FV+YgNQRrvVBGUPccPvhdYZDH23Ivt3JTP7tZbEbfM3FgpWpll0QqlsK+6B+oGBFqVqfE6vbH0qDX6BPl181ocV/3g79Mx1o9JuawYG7UyKRQtkC54J5KpwGrHRqTpv2r6vipvnJ3ibmkXUCKdFosF4QGCHiUUrKzKF6iDSHdpsQwPBlEOrKYX963QYlYKO6uEigA8fwm/Hmt6R89D+FsSmzYxZ;9b8D1UIq+Idc1jZFi+Tl0g=="
 ---
 

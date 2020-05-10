@@ -26,6 +26,6 @@ images:
     height: 620
     title: "How Goodyear Is Using Data, Artificial Intelligence And Digital Twins To Create The Tyres Of The Future"
 
-secured: "nBDhocbGkljGDNx/ZmPQixJtuvvLHrO/gJ2+WNS3kx/pWRdF7bOcXcPibxFhTLsSviPxR0RxenuzlwlW7xYj37rnwQLqr7F4gESuWfJgnfVfZtbRFBgv3/Afi4BFa1SfthySuIauld7EaMk7qE6R5ZqU84FBI/l65Oi4ie1K1QR2LJ2AYgnY2XH4Ql2Kv7VQewZQs5suYeYVtR+mK/bgs3GY0uH3eX6Yq3nAz1EwEBPcWEiOm+zY/8SID9mco/jHb/tvh5Wn5UGekJxrpzJ0foSMmO7ZJcwr0KF+TcecIj/haoOVU12bedK2N/JZnY7/;577XXU9hn+cBPxszRFN7kA=="
+secured: "BRB/7Lt9aIYia8EJeny8aPtmu+FUb8o//DMiSMjnOTD4B6tdun/3jqnSC1AU0sTrH0/Apx4oQ3gIvihHCY/gCbeKKavzibCo0gZIh1wmqza5zQ/u0EiuTHVjQ4ceZbH6d/b1ZZWxnJA+0ZU5P6cpUq3muoWUYZ6dfOi2zTsMq+MwV+uyFlfJGucLQHuTzoh56Y8S1cPOZM3FPZOqiERFz6+rAjuzO/Cz3Q8iY3y1RFCMRJlsJLDWb1q82Oa9r6d/BMMypvzfWyWcmhz/3ZRULZB5B4SdfMxIxb7Yaj0cZaHddBwL0EIMS+rEBn/0zSg9X8Mkq2w/3bBGWXeB2lcK1NS63+w0sElAuiukYei3zd9i7jSPi6NJN9T61sIGtQgm57sLMRHtJ8AOGLKlsnZWbLv64mU5UCr3Bu99Y9PTGiheW2SKZqzm+VBr+BYCWlqBCjOO/letyl7Cbu/3ONd3OWggmh/CDRluQDNLwN8eCzg=;Ezxp2h49JuHw2+NMxxr7sA=="
 ---
 
