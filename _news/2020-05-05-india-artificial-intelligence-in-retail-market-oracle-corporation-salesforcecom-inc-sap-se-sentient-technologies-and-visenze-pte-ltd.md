@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-05T10:54:00Z
 webUrl: "https://menafn.com/1100116742/India-Artificial-Intelligence-in-Retail-Market-Oracle-Corporation-Salesforcecom-Inc-SAP-SE-Sentient-Technologies-and-ViSenze-Pte-Ltd"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -21,21 +21,6 @@ images:
     width: 660
     height: 300
     title: "India- Artificial Intelligence in Retail Market | Oracle Corporation, Salesforce.com Inc., SAP SE, Sentient Technologies, and ViSenze Pte Ltd"
-
-related:
-  - title: "Artificial Intelligence in Retail Market | Oracle Corporation, Salesforce.com Inc., SAP SE, Sentient Technologies, and ViSenze Pte Ltd"
-    excerpt: "The research report provides significant data on the Artificial Intelligence in Retail market size, regional outlook, the aggregate share of the key players in the market that has been provided in this report."
-    publishedDateTime: 2020-05-05T08:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-oracle-corporation-salesforcecom-inc-sap-se-sentient-technologies-and-visenze-pte-ltd-2020-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "1/x7t4gABvOGqR+lZ97c/ykhlmSuHUP7pJ4JpSwTXRRDSTMv0Zd13CRKEUqeJ4J21m1wAYojAwBQjbOjocpGmWpS9/4sv3/F1bAislzyrKZLi53jwZ0ESiqhdbtj9cjp1FxGsOgMv7nU/clyhUgA1sc54Vk5HSADjmTcAeJpmoIiSrI1LzhVFN0yJSi6a2lLLgHg6BAHYfaE3MvjSdpdLT+p+BY7ORSKP3sd9NuWlyVJ3nMDs3k5gAfQflVt+CSJp3uWK68KvgMZkA6ZjJaJ7SObm3jx9mDDN1j57SIumh3K/hGiJYPVd8c/FE5Nh8ak;2rLgtQUU7kKbYou8T/gK0Q=="
 ---
