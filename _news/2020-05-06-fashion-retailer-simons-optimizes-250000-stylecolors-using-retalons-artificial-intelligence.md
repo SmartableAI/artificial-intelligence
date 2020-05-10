@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-06T07:03:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fashion-retailer-simons-optimizes-250-000-style-colors-using-retalons-artificial-intelligence/article_24d570ec-efac-5d7c-bc50-f513ee2360f7.html"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -21,21 +21,6 @@ images:
     width: 400
     height: 235
     title: "Fashion Retailer Simons Optimizes 250,000 Style/Colors Using Retalon's Artificial Intelligence"
-
-related:
-  - title: "Fashion Retailer Simons Optimizes 250,000 Style/Colors Using Retalon's Artificial Intelligence"
-    excerpt: "Simons, one of the most iconic Canadian fashion retailers, continues to demonstrate leadership & innovation in retail merchandising"
-    publishedDateTime: 2020-05-05T12:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fashion-retailer-simons-optimizes-250-000-stylecolors-using-retalons-artificial-intelligence-301052688.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/1163866/Retalon.jpg?p=facebook"
-        width: 1800
-        height: 942
 
 secured: "MgCVq1QL06QQnXUbIa2JEHA52zVu/HXHtnAbeumvGaJX+kTdn0KdKm1S16heuDIFC8nrax8scWX38AVbRjKLxwA1Njo+wqPJ4N25mNYCxx1dmus6FuC7sPTjw2YIaVwQNA6uERYqlx/flJtFGweY3Yy2BvK/KzJXJWX7UxMRf65ZGn7Zr9AxdS+sm1Yb1udbzU6V89cYX6p8BgYrVzGtiaJGvsXVKi0OPlCChwSTEllv9DE91clrDAz9ACtQXgXnnnliKtGVO4FTeRrD1OQW9vOWrZ1E6olxhKsBYyxC8708ERRzyOmAUqt21BpxVR0yU9Wf8zKMqVZSjCyRsCbTJv+2DoWe/lVs8rLrSmSkuEEox08B5m7JS8UEBLVgue7CsTTvXyPxMEZBSsBRi5WY7HFr9fO1Rx4EgP308p9OFYD0/x/8YvDSc1QoN3N5ZXYJ2tvGp0SPEU9sk+E7piiQsfftb/LYM0exo2LAWN4BL+k=;RolF33+zaJBIFKeGzWuJ1A=="
 ---
