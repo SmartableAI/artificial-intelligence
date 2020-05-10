@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-hybrid-cloud-and-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-hybrid-cloud-and-5g-dominate-ibm-think-digital-keynote/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 905
     title: "AI, hybrid cloud and 5G dominate IBM Think digital keynote"
-
-related:
-  - title: "IBM kicks off Think Digital conference"
-    excerpt: "The coronavirus pandemic will \"dramatically accelerate\" adoption of AI and cloud computing, according to new IBM (NYSE:IBM) CEO Arvind Krishna, who is set to launch a slew of new products toda"
-    publishedDateTime: 2020-05-05T09:17:00Z
-    webUrl: "https://seekingalpha.com/news/3568857-ibm-kicks-off-think-digital-conference"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "4TXoltzGBclziZtY5R2yM862A7y3eqUKy8riDYB8vgGDzCg3FakGyfl44IqrpFqLhrD8cFYKQeB7jKLMGdd2/JSXb23/7n/QopTGNfJyO7zkpQipxvDuSwZcjU7vwjtyHP9TtAQiK83PqtlbH2rxvLNRt423BmtQOpu51Co70Wsu7vdUGE1842ae3xrjt1YMVBfYQ6BEjDEszt/a4TrQcIZo9fqSc/jvKZTWwQDOz80mqZDpXUxoopBWwIrSLLs5fzs6RLripV9pkJUtjOMsmmeGv8FixIvC0YD+rkoAI/GlXUhmSjPsDTAjZ+UZfXssTOqAe6j8hhLhYXk5gFlzJbt8y0zb+PhdPgBMQIJivoIqnq9J3kNF3ULdqctumwJ/gsp/cwdiHcMeH3ahnKIhlZ4rYx5s7rwDMMDBGMH4eljPeywtsof3v4P0SZWhLJ7QsTTZ0y4ZlnSL548IiMbqPQQaYraix7zA7HX6LquBBVc=;3Oo5fWEv9A47XDvHjkoUKw=="
 ---

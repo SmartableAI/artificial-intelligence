@@ -5,8 +5,8 @@ excerpt: "A new report from ABI Research forecasts a revenue drop of $2 billion 
 publishedDateTime: 2020-05-07T20:16:00Z
 webUrl: "https://www.biometricupdate.com/202005/biometrics-industry-could-lose-2b-this-year-from-pandemic-but-facial-recognition-market-to-grow"
 type: article
-quality: 11
-heat: 11
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/10143302/financialresults.jpeg"

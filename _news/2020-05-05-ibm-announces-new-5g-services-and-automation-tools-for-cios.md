@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-05T16:04:00Z
 webUrl: "https://pulse2.com/ibm-announces-new-5g-services-and-automation-tools-for-cios/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 1200
     height: 1031
     title: "IBM Announces New 5G Services And Automation Tools For CIOs"
-
-related:
-  - title: "IBM Watson AIOps automates the detection of IT anomalies"
-    excerpt: "IBM has launched a slew of new AI services that aim to help chief information officers (CIOs) to predict and tackle IT problems before they occur. Watson AIOps, unveiled at the company's Think Digital Conference,"
-    publishedDateTime: 2020-05-05T10:05:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1588670694/itpro/IBMBuilding.jpg"
-        width: 1000
-        height: 690
 
 secured: "LD06WVZHJGfsYxcFptJINSuc9zR9DY/Awepi4jCErKh9BRrIIpPLgCuS07Uv15+XNdCKdkct4FSPt/qmIpS9vlEHPDm6pgMa1nehq8k8z0FSQZ1yPZlL6iOidqUdSokpnff/jUfIE4EWe5FXY7vbZ7WrOobWVOkYXK3gcwAaglnGmAygdevcs2E6y0t2wGPxrpR6BVQE3xs5R8oGlo2nG0zI1vg2OYBm8ugwtbd9UmptYzveh6CXvbf+mTPyUJ0C/oisInQkDLtPpHuhh+JzA2TLHxOydVcD0UkRt8tdOei+DQVPr8Mn8oBR7bY5v2txvyQpYBFip6ziqN62Tri15zlKMm/R4yk8VoNa6oyoelPjbXXIvLw/EN7tQHM9pxzZbuWQOMG/Hz6UDaaUNJhq+b6mJfLzS9RugSO+IGA5W3A5wuRpojWZydpOH5/N7vJvlbae1VdS4uwC+SUG2A3LCgmkmuClsk+O1zSh/msymr8=;bPks4N6OJislmszbfqWRpA=="
 ---
