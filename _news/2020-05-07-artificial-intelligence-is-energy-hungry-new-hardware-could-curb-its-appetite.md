@@ -5,7 +5,7 @@ excerpt: "To just solve a puzzle or play a game, artificial intelligence can req
 publishedDateTime: 2020-05-07T13:27:00Z
 webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q2/artificial-intelligence-is-energy-hungry.-new-hardware-could-curb-its-appetite..html"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.purdue.edu/uns/images/2020/hand-aiOG.jpg"
@@ -39,6 +40,6 @@ related:
         width: 800
         height: 533
 
-secured: "x4YgN/oc1nWGEw5Q7o9ghivrT4s91a+x1sq8L0NS4MUT1daGH3vrAFSRZfJIvUmDElZRpcan3MJxQRx5EQdVg56nKfDiHFnZpVtKYA9JiTvL4Ls9JAsROu73Ru6ghlTZ9XSZFaSs7AU9iI/rOQN1RKW2T7uqesSPpcY6qEIfj3QuVLyRAptyyLQfkc4pscr8kchVuN41HMf4LYE5iU7/iaYGb9vAfdejBkCbN+ihGYPdL4RAnUhrGLK0R/vrjk+ukBNr4i6GZCYOEqUx3Zm1vsX5PRqKvLIVV3u3/aosL3BQ74SJT079tDl4l1FVn88D;jJvRrUoB8ku03lZ8cx6URw=="
+secured: "tfUUy53sDQS8ToIaJJbECZR2kBmWB8zztDykO4Np3/ves9aqTpKJMNTU343MGJXRKyPVZ5fY5VRAzzS3/4FPj2+tFgF8KnBk52nCupes/JivOj0jIJx0s96fhMwNPIJLraiWU3C2vDWhT4aDez6M7yLYGmM9F1oxx7AfOU0Wy86ekaQ4O6fekyoQ6KiXSre4Wzt1L3ZiiSKWcg45YAxj9U+Nk39Dja3FyaKBXozPOaIpmM5y/+iFj40enCjJCo0xd2wZtUs0vd20msHtamkL3UFhKzuu6filjS4eCJjd2pXXUWPLqpC0yofox+9VbPMlRZ99z2UhTW6XnJMVbj5Fyus6EjEdBBAyoVEk03HtDVRms48S9OK4AQssbBYPEEj0oJDhhazb0zfNGaeRajf8FGjc2u+fFSvbxdP6J/i7+zTtwbzugQHWk5BbB17DZIk27UKow2vBGJUdXINlHpFCS/MDVdU8Fzn/nDazit7CNuk=;FvyZNvCksLwpJYzlVLbWHw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "3 Artificial Intelligence Stocks to Buy in May"
-excerpt: "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46."
-publishedDateTime: 2020-05-06T14:45:00Z
-webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002"
+excerpt: "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ..."
+publishedDateTime: 2020-05-06T11:01:00Z
+webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 type: article
-quality: 91
-heat: 91
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -20,9 +20,8 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
-  - AI
   - AI in Autos
+  - AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
@@ -30,6 +29,6 @@ images:
     height: 378
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
-secured: "laVf16MYiy9xeVRk91VvVmFp1W5J6wwHUDV3p3DDZaz7uwBOiJWkPlMR9wvagJcf40gjJybESx2qkUNVNsaQNuFXC2PPoKmZi2pb6CX7ySuMYsMz7GraJGTAzvjP5TMTRk5l8tiinT6Q42BxulRE3JxqlePp9QO7SidMJByZ3WSOzmWH9k+/E/kdKbcZoy+1+OnJkEiBzJFjf2368r/oxlr1bfsU5plhg5GSQtCwkZalpxlaqxO09fN8nZwKreDo46fmrHb43CnV1GMjy2RxtLwQHVm3FFYJxC3m9KN8NDL7+OFARTPXDYTeG89ppx0sehjlMpwOnbKrasm6n9hSgK1MWccSPAdRKztYScu9RlD3s+snB+x5paGZZlE4g/ahCdHn6FW6twrFonseQycOuBxiv6xmaNa+WRJJHz17Dlo43sZKyjVlQSn7fgQgElguQ88bBAPNBafI0C5HsflaM0yTzyuQjCOyPCol0xNiAz4=;Lb01u2eFumMLGghvQQq/fg=="
+secured: "vN0nNLUDYZYMagOJwxhdhpUvvPtqGULQIQVGJdRVqI9ZiXcuoMIx3azZgk+6AjUqeIBKcBt4vVFOovtRRPBU1RJ6wLsCKetD04gH2d/5NKEdwH5FmHAK1ogq7GY/zfRV7oh75t/uAGaIfe2F6+9TU3QFWdNoKTPYIgzeqn4qeUDm8Q7so6VzYclIZRroT3+n6ol8v8iOjtnMC0VB2O0Ld3bYQs4J4crc89Msv2aI2WsJfZ5ZQVigGxYwc3f/NIuIhmk7qLFIlBOGYM7UMkYjKTsq1t+o4SgqvxM+e/itZ6BA6MA0Uqmy5Yu8xdjL4bdD;w1Yg+4orYg6wmKYncmk62A=="
 ---
 

@@ -2,23 +2,23 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-05-06-computer-vision-is-transforming-healthcare-with-rapid-cell-counting-and-patient-identification.md",
-      "title": "Computer vision is transforming healthcare with rapid cell counting and patient identification",
-      "excerpt": "Fast forward to the present day and computer vision is being used to identify and count cell nuclei not only more accurately than people can count, but far faster. To accomplish this, an AI model is trained to identify cell nuclei.",
-      "heat": 77,
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ...",
+      "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/06/visual-ai-how-computer-vision-is-transforming-health-care-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/06/visual-ai-how-computer-vision-is-transforming-health-care-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/06/visual-ai-how-computer-vision-is-transforming-health-care-syndication/amp/",
-      "publishedDateTime": "2020-05-06T04:02:00-07:00",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T04:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "The Motley Fool",
+        "domain": "fool.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +30,10 @@
       },
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-copy-1-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Computer vision is transforming healthcare with rapid cell counting and patient identification",
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
           "attribution": null
         }
       ],
@@ -42,7 +42,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Autos",
         "AI"
       ]
     },
@@ -628,7 +628,7 @@
       "path": "_news/2020-05-05-this-ai-tool-identifies-the-most-promising-covid-19-research.md",
       "title": "This AI tool identifies the most promising COVID-19 research",
       "excerpt": "An AI tool that scans reams of scientific literature for promising COVID-19 research could speed up the search for a coronavirus vaccine",
-      "heat": 107,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/05/05/this-ai-tool-identifies-the-most-promising-covid-19-research/",

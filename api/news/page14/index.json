@@ -2,6 +2,51 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-28-at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025.md",
+      "title": "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025",
+      "excerpt": "Market Study Report LLC has added a new report on Artificial Intelligence (AI) Chips market that provides a comprehensive review",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2020-04-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-alphabet-q1-2020-earnings-preview-what-to-watch.md",
       "title": "Alphabet Q1 2020 Earnings Preview: What to Watch",
       "excerpt": "Search giant Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) will report its earnings after the markets close on Tuesday, April 28. It will be the first time the technology giant will address shareholders since the COVID-19 pandemic dominated the world's focus.",
@@ -1017,51 +1062,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-waymo-keeps-autonomous-driving-simulations-running-as-cars-stay-parked.md",
-      "title": "Waymo keeps autonomous driving simulations running as cars stay parked",
-      "excerpt": "Waymo is continuing to run autonomous driving simulations as its fleet of test cars and trucks remains parked due to the ongoing coronavirus pandemic.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-simulations-continue-despite-coronavirus/",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-simulations-continue-despite-coronavirus/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-car-simulations-continue-despite-coronavirus/?amp",
-      "publishedDateTime": "2020-04-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/chandler_depot-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Waymo keeps autonomous driving simulations running as cars stay parked",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
