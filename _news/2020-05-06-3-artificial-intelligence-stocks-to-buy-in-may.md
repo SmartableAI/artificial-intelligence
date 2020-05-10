@@ -1,9 +1,9 @@
 ---
 category: news
 title: "3 Artificial Intelligence Stocks to Buy in May"
-excerpt: "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ..."
-publishedDateTime: 2020-05-06T11:01:00Z
-webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
+excerpt: "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46."
+publishedDateTime: 2020-05-06T14:45:00Z
+webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 type: article
@@ -20,7 +20,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
+  - AWS AI
   - AI
 
 images:
@@ -29,6 +29,6 @@ images:
     height: 378
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
-secured: "vN0nNLUDYZYMagOJwxhdhpUvvPtqGULQIQVGJdRVqI9ZiXcuoMIx3azZgk+6AjUqeIBKcBt4vVFOovtRRPBU1RJ6wLsCKetD04gH2d/5NKEdwH5FmHAK1ogq7GY/zfRV7oh75t/uAGaIfe2F6+9TU3QFWdNoKTPYIgzeqn4qeUDm8Q7so6VzYclIZRroT3+n6ol8v8iOjtnMC0VB2O0Ld3bYQs4J4crc89Msv2aI2WsJfZ5ZQVigGxYwc3f/NIuIhmk7qLFIlBOGYM7UMkYjKTsq1t+o4SgqvxM+e/itZ6BA6MA0Uqmy5Yu8xdjL4bdD;w1Yg+4orYg6wmKYncmk62A=="
+secured: "+xWIglNAzX8cXcuHxJWvmzcCIW63rEHSgajy+Rn0JLxx1tWSdelyz8OBZ8yeHhVBZdvJeXIB48DA8vyQjhUw0MWfIt2okI9jXQlUOcP2Gv8Y48KpCaGUbgRHrysXvTao7PHrFtLvXM8bP/BMc0Byig5kGsOJS9/x+wcZkYaC9nL5u1tgEqQPnsw58e5+iG/pyW1Aw0oahB8qg54jt0hZgFVQsT05tbT+8/SKaaSUx+t64XcOu9WGzaNQqEBL5RTd+3CH50tHlfbLfThQbJdtbvf3MxdWJ+8nXL7CiIZyBL/UVJ6eV6RVJW4T7V78fb56;fpei9MhBTpxfGBqhc2wmHw=="
 ---
 
