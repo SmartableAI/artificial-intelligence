@@ -5,8 +5,8 @@ excerpt: "Ubestream has launched AIchatin SaaS (software as a service) cloud com
 publishedDateTime: 2020-05-08T03:34:00Z
 webUrl: "https://www.digitimes.com/news/a20200506PD202.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.digitimes.com/newsshow/20200506PD202_files/2_b.jpg"

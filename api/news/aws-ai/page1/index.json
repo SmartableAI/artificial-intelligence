@@ -879,31 +879,23 @@
     {
       "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
       "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence",
+      "excerpt": "Today, Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), announced the general availability of Amazon Augmented Artificial Intelligence (A2I), a fully managed service that makes it ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T10:26:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/b15876750/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15876750",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15876750",
+      "publishedDateTime": "2020-04-24T06:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
