@@ -2,6 +2,139 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-11-60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-to-enforce-social-distancing.md",
+      "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
+      "excerpt": "Amazon is developing a robot that would roll through grocery stores and distribution centers, using banks of ultraviolet light to kill viruses on surfaces. The company provided “60 Minutes”",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/",
+      "ampWebUrl": "https://www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/amp/",
+      "publishedDateTime": "2020-05-10T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/uvrobot-630x379.png",
+          "width": 630,
+          "height": 379,
+          "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-ai-is-great-news-for-digital-marketers-who-are-bored-of-being-data-drones.md",
+      "title": "AI is great news for digital marketers who are bored of being data drones",
+      "excerpt": "For the last 15 years, marketers have been told to lead with data, to become more like machines. Now there’s a new mandate to succeed: be more human.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/growth-quarters/2020/05/11/ai-is-great-news-for-digital-marketers-who-are-bored-of-being-data-drones/",
+      "ampWebUrl": "https://thenextweb.com/growth-quarters/2020/05/11/ai-is-great-news-for-digital-marketers-who-are-bored-of-being-data-drones/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/05/11/ai-is-great-news-for-digital-marketers-who-are-bored-of-being-data-drones/amp/",
+      "publishedDateTime": "2020-05-10T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/AI-data-digital-marketer-gq-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI is great news for digital marketers who are bored of being data drones",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-finding-success-and-competitive-differentiation-through-carefully-planned-ai-implementation.md",
+      "title": "Finding success and competitive differentiation through carefully planned AI implementation",
+      "excerpt": "Across the wide spectrum of technology, artificial intelligence (AI) is the one experiencing the real boom in spending.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/paid-content/article/finding-success-and-competitive-differentiation-through-carefully-planned-ai-implementation/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/finding-success-and-competitive-differentiation-through-carefully-planned-ai-implementation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-success-and-competitive-differentiation-through-carefully-planned-ai-implementation/",
+      "publishedDateTime": "2020-05-10T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/11/b53de64e-673a-471b-aa02-0c95d22817c4/adobestock-180578830.jpg",
+          "width": 5309,
+          "height": 3539,
+          "title": "Finding success and competitive differentiation through carefully planned AI implementation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-monash-university-researchers-use-ai-technology-to-examine-hospital-readmissions.md",
       "title": "Monash University researchers use AI technology to examine hospital readmissions",
       "excerpt": "Researchers from Monash University have undertaken a study using artificial intelligence (AI) to understand the reasons behind hospital readmissions. According to the university, the study involved using AI technology to examine 10 years' worth of patient records.",
@@ -1186,133 +1319,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world.md",
-      "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
-      "excerpt": "Artificial Intelligence (AI) is one of the most transformative technology trends of our times. In this article, we look at why and how AI is going to change our world.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/amp/",
-      "publishedDateTime": "2020-05-07T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb49cca1b61700007592462%2F0x0.jpg",
-          "width": 1200,
-          "height": 614,
-          "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-clearview-ai-to-stop-providing-facial-recognition-to-private-companies.md",
-      "title": "Clearview AI to stop providing facial recognition to private companies",
-      "excerpt": "Maker of controversial says it's cutting off anyone not associated with government or law enforcement entities.",
-      "heat": 146,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
-      "publishedDateTime": "2020-05-07T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/tcvCfks6e4V39F8bVmD3sLv2B3o=/756x567/2020/05/08/8c6c9808-f26e-4358-9f9d-8cf65d0c04d3/gettyimages-1189384731.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview AI to stop providing facial recognition to private companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-clearview-ai-pinky-swears-it-will-stop-working-with-private-companies.md",
-      "title": "Clearview AI pinky swears it will stop working with private companies",
-      "excerpt": "This time Clearview AI really means it. Honest. The problematic facial-recognition company that scraped billions of photos off social media is now claiming that it will not sell its technology to private companies.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/clearview-ai-promises-stop-working-private-companies/",
-      "ampWebUrl": "https://mashable.com/article/clearview-ai-promises-stop-working-private-companies.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-promises-stop-working-private-companies.amp",
-      "publishedDateTime": "2020-05-07T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F05%252F08%252Fd5%252Fd5c7456e52a1497aa17cb217309948c1.81ee6.png%252F1200x630.png?signature=T8EDRfnUco0h6X57gBQn74EPOhg=",
-          "width": 1200,
-          "height": 630,
-          "title": "Clearview AI pinky swears it will stop working with private companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

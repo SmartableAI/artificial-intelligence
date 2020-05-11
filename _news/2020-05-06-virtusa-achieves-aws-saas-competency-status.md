@@ -1,19 +1,16 @@
 ---
 category: news
 title: "Virtusa Achieves AWS SaaS Competency Status"
-excerpt: "Virtusa Corporation (NASDAQ GS:VRTU), a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innovation engineering,"
-publishedDateTime: 2020-05-06T13:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/virtusa-achieves-aws-saas-competency-status-2020-05-06-9197013"
+excerpt: "Achieving the AWS SaaS Competency differentiates Virtusa as an AWS Partner Network (APN) member that possesses deep domain expertise in the Builders categories of the new AWS SaaS Competency. APN Consulting Partners in the Builders category have deep expertise in building cloud-native SaaS applications via software development."
+publishedDateTime: 2020-05-06T13:11:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/virtusa-achieves-aws-saas-competency-status-1029170762"
 type: article
-quality: 69
-heat: 79
-published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,23 +18,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Virtusa Achieves AWS SaaS Competency Status"
-
-related:
-  - title: "Virtusa Corporation: Virtusa Achieves AWS SaaS Competency Status"
-    excerpt: "SOUTHBOROUGH, Mass., May 06, 2020(NASDAQ GS:VRTU), a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innova"
-    publishedDateTime: 2020-05-06T13:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-05/49577788-virtusa-corporation-virtusa-achieves-aws-saas-competency-status-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
-
-secured: "Mc/nTaCmyBSesZV5XDD3amFF4P7LAoRQNSSRV1KjAI7/awZycGsQpibVFnW9c7Aw3aN1Yi5UsXhtZ7JJWzxBo/D5sUtlwoPLYkZPHyJ5j3d0Q5N2o6+/rEGBYZv6O+/s8Pg9Z0oeVRfpIkAlHi7az2kluDqRG4cFBaJgvuR58Je/ECnJcnDLBIhtmLacs1AYJK3Ke3AAGu+KmXWijOy2AcbA80i6Xl7M2EZS5fka1wzHq1SqLi6o47eU8Qlb+QMMG0SUrigeCSW55kYKKFypnsPXTvxQjWixy4MwDAx986NxBMlj47AzffPQAaruShJt;wi9ZpOjALC4wBgBRtaolXQ=="
+secured: "LAxvK9+FN8QhWzK3rz+nbiwQv0pnCnUmo2OiRvx5tRSZmthG4JFHbxKUpBM/4ZNLDolPiKpCM9RSUVnY37W00fmNIyq/hQ8RoYLO+KrzbjBZyC/P1l3iZDUs+wpVj9MKzdAdpj2qyxPM6z7k+PAzSpw4sRePTeG3klYAtCRFVwm95bzudBhCdSHz2hmQ4dxaZURqKHVGeKhS1MpxTnvaSXWP+2PVzEy16vIMK6EuBpjUaVJmPGMvnDM68jVTv7ssnBbzla15IZKf22JCCpCopqlA0MNCS/6FsAc3PnsLQprul5Y/XvH5psf36V563+wO;fj2EZIsWdOjmS9ml91c9PQ=="
 ---
 

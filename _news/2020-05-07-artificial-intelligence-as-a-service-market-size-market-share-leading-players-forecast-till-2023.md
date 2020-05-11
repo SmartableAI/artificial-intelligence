@@ -5,7 +5,7 @@ excerpt: "Global Artificial Intelligence (AI) as a Service Market was valued in 
 publishedDateTime: 2020-05-07T04:24:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-market-share-leading-players-forecast-till-2023-2020-05-07"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

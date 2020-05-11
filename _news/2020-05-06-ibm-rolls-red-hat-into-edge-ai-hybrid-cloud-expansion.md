@@ -7,9 +7,6 @@ webUrl: "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edg
 ampWebUrl: "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
 type: article
-quality: 61
-heat: 61
-published: false
 
 provider:
   name: Network World
@@ -18,7 +15,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-  - IBM AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg"
@@ -26,6 +22,6 @@ images:
     height: 800
     title: "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion"
 
-secured: "ENJCK6ulPEw8QaxqD/tC1Y2/SZlAeJXVCaFBO4I8CCHvvGo7HFMaxapMq2u/TmRhijsCizGRO9JNffU0LsGFSP00KmQao8qNsVrt7CdXL3kUXPIyvrHP3xPas6Hs8Nv/kpEEnV/ZsLlgf1H9VNHMg5iVqmSgcwzc7n8faGz0LeSs6AdvhqdwqTngYRZbn3qxpUYYzI1SAog/o2NDd5K/Ex4Mv8bZG4GnUhrS4r5aMCF0qM9z0LETj8Nj2X7bNBauSoi/Pu1cxYkPz59WTPoABibMoRNeTKrVgEtisN7XjGGNtt2wHQFyMkDdpq0rxNdM;IXUOlU2j3Wz6q24gqqDYGw=="
+secured: "nvDLIgd1bYA4PJutSD74yP9Zlw/1L8N84GymvGxhobRzVy/bpD1RRQTuwKb4kIi5coPh/59zwDE8R6TEMOGm46yKb1cd0vBK46WXHqe52id1asZT84TpAIbDaUfMCfpP97F2ft/W2Wuxv0H7ax+wD/hyAPJ3Jwj0stJl+4H6PByASbmwngnvcI8DTAEyxqhW4hFMSYg21Id6dGQHy2gocm4mjwhfi9yIbez7Um0auuLisWwzolU+M/wN6ynX9uDg5s12apk2MzTV6Usz9oHpmM00dTEIH+2tpNZWsx3C0W6GIjKoNNoo2b+/plwvXeD2;Ij7EWGiyEnjMAHFN74JQiQ=="
 ---
 

@@ -2,6 +2,178 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-08-5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world.md",
+      "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
+      "excerpt": "Artificial Intelligence (AI) is one of the most transformative technology trends of our times. In this article, we look at why and how AI is going to change our world.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/amp/",
+      "publishedDateTime": "2020-05-07T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb49cca1b61700007592462%2F0x0.jpg",
+          "width": 1200,
+          "height": 614,
+          "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-can-robotaxis-ease-public-transport-fears-in-china.md",
+      "title": "Can robotaxis ease public transport fears in China?",
+      "excerpt": "The rise of self-driving taxis in China comes at a time when ... Internet search engine Baidu, China's answer to Google, is rolling out a fleet of its Apollo robotaxis across three cities in ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/business-52392366",
+      "ampWebUrl": "https://www.bbc.com/news/amp/business-52392366",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52392366",
+      "publishedDateTime": "2020-05-07T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/687B/production/_112174762_robotaxi.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Can robotaxis ease public transport fears in China?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-clearview-ai-to-stop-providing-facial-recognition-to-private-companies.md",
+      "title": "Clearview AI to stop providing facial recognition to private companies",
+      "excerpt": "Maker of controversial says it's cutting off anyone not associated with government or law enforcement entities.",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
+      "publishedDateTime": "2020-05-07T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/tcvCfks6e4V39F8bVmD3sLv2B3o=/756x567/2020/05/08/8c6c9808-f26e-4358-9f9d-8cf65d0c04d3/gettyimages-1189384731.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview AI to stop providing facial recognition to private companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-clearview-ai-pinky-swears-it-will-stop-working-with-private-companies.md",
+      "title": "Clearview AI pinky swears it will stop working with private companies",
+      "excerpt": "This time Clearview AI really means it. Honest. The problematic facial-recognition company that scraped billions of photos off social media is now claiming that it will not sell its technology to private companies.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/clearview-ai-promises-stop-working-private-companies/",
+      "ampWebUrl": "https://mashable.com/article/clearview-ai-promises-stop-working-private-companies.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-promises-stop-working-private-companies.amp",
+      "publishedDateTime": "2020-05-07T17:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F05%252F08%252Fd5%252Fd5c7456e52a1497aa17cb217309948c1.81ee6.png%252F1200x630.png?signature=T8EDRfnUco0h6X57gBQn74EPOhg=",
+          "width": 1200,
+          "height": 630,
+          "title": "Clearview AI pinky swears it will stop working with private companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-how-are-companies-using-ai-to-enhance-the-customer-experience.md",
       "title": "How Are Companies Using AI To Enhance The Customer Experience?",
       "excerpt": "Companies are starting to integrate AI into many areas of the purchase process to help maximize both sales and customer satisfaction. How is AI helping improve the overall customer experience?",
@@ -792,6 +964,42 @@
       ]
     },
     {
+      "path": "_news/2020-05-07-smarter-hardware-to-make-artificial-intelligence-more-energy-efficient.md",
+      "title": "Smarter hardware to make artificial intelligence more energy efficient",
+      "excerpt": "Artificial intelligence requires a lot of energy. Simply solving a puzzle can require the equivalent of the energy produced by three nuclear plants in a single hour.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.upi.com/Science_News/2020/05/07/Smarter-hardware-to-make-artificial-intelligence-more-energy-efficient/9551588854713/",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2020/05/07/Smarter-hardware-to-make-artificial-intelligence-more-energy-efficient/9551588854713/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/05/07/Smarter-hardware-to-make-artificial-intelligence-more-energy-efficient/9551588854713/",
+      "publishedDateTime": "2020-05-07T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/9551588854713/2020/1/15888580152278/v1.5/Smarter-hardware-to-make-artificial-intelligence-more-energy-efficient.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "Smarter hardware to make artificial intelligence more energy efficient",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-france-is-using-ai-to-check-whether-people-are-wearing-masks-on-public-transport.md",
       "title": "France is using AI to check whether people are wearing masks on public transport",
       "excerpt": "France is integrating new AI tools into security cameras in the Paris metro system to check whether passengers are wearing face masks. The software, which has already been deployed elsewhere in the country,",
@@ -1094,216 +1302,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-predicting-failing-tests-with-machine-learning.md",
-      "title": "Predicting Failing Tests with Machine Learning",
-      "excerpt": "Machine learning can be used to predict how tests behave on changes in the code. These predictions reduce the feedback time to developers by providing information at check-in time. Marco Achtziger & Dr.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/05/predicting-failing-tests/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/05/predicting-failing-tests/en/headerimage/Predicting+Failing+Tests-1588741558619.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Predicting Failing Tests with Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024.md",
-      "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
-      "excerpt": "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024-2020-05-07",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-building-transparency-and-customer-confidence-in-ai.md",
-      "title": "Building transparency and customer confidence in AI",
-      "excerpt": "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai",
-      "ampWebUrl": "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
-      "publishedDateTime": "2020-05-07T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Building transparency and customer confidence in AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-deep-render-raises-16m-for-image-compression-tech-that-mimics-neural-processes-of-the-human-eye.md",
-      "title": "Deep Render raises £1.6M for image compression tech that mimics ‘neural processes of the human eye’",
-      "excerpt": "Deep Render, a London startup and spin-out of Imperial College that is applying machine learning to image compression, has raised £1.6 million in seed funding. Leading the round is Pentech, with participation from Speedinvest.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/07/deep-render/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/07/deep-render/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/07/deep-render/amp/",
-      "publishedDateTime": "2020-05-07T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Deep-Render-team.jpg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": "Deep Render raises £1.6M for image compression tech that mimics ‘neural processes of the human eye’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-ai-machine-learning-big-data-critical-in-fight-against-covid-19-experts-emphasize-at-trends-e-discussion.md",
-      "title": "AI, Machine Learning, Big Data critical in fight against Covid-19, experts emphasize at trends e-discussion",
-      "excerpt": "Discussion was part of a series of events organized by TRENDS Research & Advisory to analyze the impact of Covid-19 on various spheres of the global economy",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/AI_Machine_Learning_Big_Data_critical_in_fight_against_Covid19_experts_emphasize_at_trends_ediscussion-ZAWYA20200507073731/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200507073731/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200507073731/",
-      "publishedDateTime": "2020-05-07T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "AI, Machine Learning, Big Data critical in fight against Covid-19, experts emphasize at trends e-discussion",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

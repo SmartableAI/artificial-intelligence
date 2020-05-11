@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-30-5-artificial-intelligence-stocks-to-consider.md",
+      "title": "5 Artificial Intelligence Stocks to Consider",
+      "excerpt": "The company’s Waymo unit could be worth as much as ... That puts it at the top of the heap among artificial intelligence stocks. Nvidia (NASDAQ:NVDA) is the pioneer of GPUs (Graphics Processing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/04/5-artificial-intelligence-stocks-to-consider/",
+      "ampWebUrl": "https://investorplace.com/2020/04/5-artificial-intelligence-stocks-to-consider/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/5-artificial-intelligence-stocks-to-consider/amp/",
+      "publishedDateTime": "2020-04-30T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "5 Artificial Intelligence Stocks to Consider",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead.md",
       "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
       "excerpt": "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,",
@@ -1226,35 +1263,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-using-artificial-intelligence-to-save-coral-reefs.md",
-      "title": "Using Artificial Intelligence to Save Coral Reefs",
-      "excerpt": "What’s New: Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/",
-      "ampWebUrl": "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/",
-      "publishedDateTime": "2020-04-21T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

@@ -2,6 +2,216 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-07-predicting-failing-tests-with-machine-learning.md",
+      "title": "Predicting Failing Tests with Machine Learning",
+      "excerpt": "Machine learning can be used to predict how tests behave on changes in the code. These predictions reduce the feedback time to developers by providing information at check-in time. Marco Achtziger & Dr.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/05/predicting-failing-tests/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/05/predicting-failing-tests/en/headerimage/Predicting+Failing+Tests-1588741558619.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Predicting Failing Tests with Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024.md",
+      "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
+      "excerpt": "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024-2020-05-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-building-transparency-and-customer-confidence-in-ai.md",
+      "title": "Building transparency and customer confidence in AI",
+      "excerpt": "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai",
+      "ampWebUrl": "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
+      "publishedDateTime": "2020-05-07T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Building transparency and customer confidence in AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-deep-render-raises-16m-for-image-compression-tech-that-mimics-neural-processes-of-the-human-eye.md",
+      "title": "Deep Render raises £1.6M for image compression tech that mimics ‘neural processes of the human eye’",
+      "excerpt": "Deep Render, a London startup and spin-out of Imperial College that is applying machine learning to image compression, has raised £1.6 million in seed funding. Leading the round is Pentech, with participation from Speedinvest.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/07/deep-render/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/07/deep-render/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/07/deep-render/amp/",
+      "publishedDateTime": "2020-05-07T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Deep-Render-team.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": "Deep Render raises £1.6M for image compression tech that mimics ‘neural processes of the human eye’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-ai-machine-learning-big-data-critical-in-fight-against-covid-19-experts-emphasize-at-trends-e-discussion.md",
+      "title": "AI, Machine Learning, Big Data critical in fight against Covid-19, experts emphasize at trends e-discussion",
+      "excerpt": "Discussion was part of a series of events organized by TRENDS Research & Advisory to analyze the impact of Covid-19 on various spheres of the global economy",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/AI_Machine_Learning_Big_Data_critical_in_fight_against_Covid19_experts_emphasize_at_trends_ediscussion-ZAWYA20200507073731/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200507073731/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200507073731/",
+      "publishedDateTime": "2020-05-07T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "AI, Machine Learning, Big Data critical in fight against Covid-19, experts emphasize at trends e-discussion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom.md",
       "title": "Google to teach journalists power of AI, machine learning in newsroom",
       "excerpt": "In a global survey conducted by Google last year about the use of AI by news organisations, most respondents highlighted the need to train their newsroom on the potential offered by machine learning a",
@@ -788,6 +998,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-06-ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.md",
+      "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
+      "excerpt": "Deeply assimilating its Red Hat technology, IBM this week rolled out a set of new platforms and services designed to help customers manage edge-based application workloads and exploit artificial intelligence for infrastructure resiliency.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
+      "ampWebUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
+      "publishedDateTime": "2020-05-06T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing.md",
       "title": "PinkLion’s Jennifer Bonine: AI is dramatically changing game testing",
       "excerpt": "Sponsored Presented by PinkLion.AI “Now that we’re all in this unique situation with COVID-19, do we have an opportunity to do something dramatically different together?” asked Jennifer Bonine, co-founder and CEO of PinkLion.",
@@ -966,6 +1213,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-06-virtusa-achieves-aws-saas-competency-status.md",
+      "title": "Virtusa Achieves AWS SaaS Competency Status",
+      "excerpt": "Achieving the AWS SaaS Competency differentiates Virtusa as an AWS Partner Network (APN) member that possesses deep domain expertise in the Builders categories of the new AWS SaaS Competency. APN Consulting Partners in the Builders category have deep expertise in building cloud-native SaaS applications via software development.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/virtusa-achieves-aws-saas-competency-status-1029170762",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-logistics-ai-startup-covariant-reaps-40-million-in-funding-round.md",
       "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
       "excerpt": "Artificial-intelligence robotics startup Covariant raised $40 million to expand its logistics automation technology to new industries and ramp up hiring, the company said Wednesday.",
@@ -1008,321 +1292,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-runai-brings-virtualization-to-gpus-running-kubernetes-workloads.md",
-      "title": "Run:AI brings virtualization to GPUs running Kubernetes workloads",
-      "excerpt": "In the early 2000s, VMware introduced the world to virtual servers that allowed IT to make more efficient use of idle server capacity. Today, Run:AI is introducing that same concept to GPUs running containerized machine learning projects on Kubernetes.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpus-running-kubernetes-workloads/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpus-running-kubernetes-workloads/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpus-running-kubernetes-workloads/amp/",
-      "publishedDateTime": "2020-05-06T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Screenshot-2020-05-06-08.37.37.png?w=680",
-          "width": 680,
-          "height": 348,
-          "title": "Run:AI brings virtualization to GPUs running Kubernetes workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-industrial-ai-startup-covariant-raises-a-40m-series-b.md",
-      "title": "Industrial AI startup Covariant raises a $40M Series B",
-      "excerpt": "Covariant this week announced that it has raised a $40 million Series B, led by Index Ventures. The funding brings the three-year-old Berkeley startup’s total funding up to $67 million. Co-founded by top UC Berkeley professor Pieter Abbeel,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/amp/",
-      "publishedDateTime": "2020-05-06T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/If7huQ20.jpeg?w=1024",
-          "width": 1024,
-          "height": 691,
-          "title": "Industrial AI startup Covariant raises a $40M Series B",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-covariant-raises-40-million-to-bring-robots-to-low-tech-industries.md",
-      "title": "Covariant raises $40 million to bring robots to low-tech industries",
-      "excerpt": "Robotics startup Covariant may be best known for robotic grasping, but it aims to enter new industries, like mail delivery and agriculture.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/covariant-raises-40-million-to-bring-robots-to-low-tech-industries/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/covariant-raises-40-million-to-bring-robots-to-low-tech-industries/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/covariant-raises-40-million-to-bring-robots-to-low-tech-industries/amp/",
-      "publishedDateTime": "2020-05-06T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/covariant-founders.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Covariant raises $40 million to bring robots to low-tech industries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-spell-machine-learning-platform-goes-on-prem.md",
-      "title": "Spell machine learning platform goes on-prem",
-      "excerpt": "An end-to-end machine learning platform designed for ease of use, Spell now offers incarnations for both public cloud and data center deployment",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3541757/spell-machine-learning-platform-goes-on-prem.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3541757/spell-machine-learning-platform-goes-on-prem.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541757/spell-machine-learning-platform-goes-on-prem.amp.html",
-      "publishedDateTime": "2020-05-06T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_vector_by_kohb_gettyimages_1146634284-100817775-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Spell machine learning platform goes on-prem",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics.md",
-      "title": "Cloudera Machine Learning MLOps suite generally available as it aims to manage models, analytics",
-      "excerpt": "Cloudera Data Platform has seen solid traction in recent quarters from Cloudera and the hope is that CML MLOps will ride shotgun.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics/",
-      "publishedDateTime": "2020-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/04/505681e3-f238-45b7-bd5b-104ba4903fbc/end-to-end-production-workflows-in-cml.png",
-          "width": 799,
-          "height": 451,
-          "title": "Cloudera Machine Learning MLOps suite generally available as it aims to manage models, analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-sleeker-lidar-moves-volvo-closer-to-selling-a-self-driving-car.md",
-      "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
-      "excerpt": "Using technology from Silicon Valley's Luminar, the Swedish automaker plans to offer completely autonomous highway driving by 2022.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/sleeker-lidar-moves-volvo-closer-selling-self-driving-car/",
-      "ampWebUrl": "https://www.wired.com/story/sleeker-lidar-moves-volvo-closer-selling-self-driving-car/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sleeker-lidar-moves-volvo-closer-selling-self-driving-car/amp",
-      "publishedDateTime": "2020-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eb1926f0371f8083eb2ceaf/master/pass/265652_V60_R-Design_in_Crystal_White_Pearl.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-virtusa-achieves-aws-saas-competency-status.md",
-      "title": "Virtusa Achieves AWS SaaS Competency Status",
-      "excerpt": "Virtusa Corporation (NASDAQ GS:VRTU), a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innovation engineering,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/virtusa-achieves-aws-saas-competency-status-2020-05-06-9197013",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Virtusa Achieves AWS SaaS Competency Status",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

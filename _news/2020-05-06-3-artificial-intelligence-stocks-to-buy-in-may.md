@@ -7,9 +7,6 @@ webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-sto
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 type: article
-quality: 89
-heat: 89
-published: true
 
 provider:
   name: The Motley Fool
@@ -22,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AWS AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
@@ -29,6 +27,6 @@ images:
     height: 378
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
-secured: "OztjkXg+FYTVaqi2GPZelNX9hNZVHmo7Q93fg0hO8G3mVfK6YQP9GgIfeqCALlr15brjlI/sbrbXkJVARqy45QODdgbuhBZPBmYRzPdok6RNWnKZx0O8adVtup8U3HfPjB0GaPx1wBUUn2M61dsIzj8Vqhm+ZDIaV2x2UnEUexOHGynTfal4NGUEEsakwRvf+rpw4IzyuLhmEs5Ld8Av10zcnTBEVNbsGcBqdLsEd+0puX4sqiV9Nkq1kkm8pIxpNVe2VaPEYNSvD6xwvW1lnao9lXXPxXItBsHGvThAoo07Xiv5JI+d86HWL+/jXLBg;ElnWyDeh2qtwOs7tHPFIRA=="
+secured: "EvVCexYa1G4r84t+cZQ3jlvGszfKSyuful2JVUmkrkpn59bQODcarNAjIJRU/CrgymkNMAD9zuVxcFoeK/wov04JRx+g/RZBXYw6lNJH2KaW/AGPoWA8LvWVTXpDty0kvcymE4rVY7CUgJyIy/O8tI3QZZk9CmRFc7Fe2oDhGKr18jNxUUPdRijWjyOCzqqyevaCy/UQoZk5ZbX0vjzVEXcXgZrvx0m0ZNmKM60qXsuI3DCwSHo9PNXIlIAT//hQQT8+JOekxG5OUKdL102AWYXIhw3iGlkw/gPonDmbuHPWUlzi4pTGOc0zzgh0iN10;FIRcK+v3r2PO0DpzIetgWw=="
 ---
 

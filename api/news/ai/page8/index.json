@@ -2,6 +2,273 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-01-senator-questions-clearview-ai-over-coronavirus-tracking-plans.md",
+      "title": "Senator questions Clearview AI over coronavirus tracking plans",
+      "excerpt": "Sen. Edward Markey says COVID-19 contact tracing can't be \"used as cover by companies like Clearview to build shadowy surveillance networks.\"",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
+      "publishedDateTime": "2020-05-01T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Senator questions Clearview AI over coronavirus tracking plans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-3-ways-smbs-use-machine-learning-to-power-digital-transformation.md",
+      "title": "3 ways SMBs use machine learning to power digital transformation",
+      "excerpt": "Businesses should start small and fail fast with machine learning (ML) projects to get the best ROI. Some of the most common use cases for small- to medium-sized businesses (SMBs) include fraud detection,",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
+      "publishedDateTime": "2020-05-01T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/31/1d4ffefb-a94f-4bc2-89b4-b9f1d7257e4b/thumbnail/1200x675/3c077c568da3486c12635990b915a508/20200330-sf-april.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "3 ways SMBs use machine learning to power digital transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-watch-this-ai-algorithm-change-humans-into-animorphs.md",
+      "title": "Watch This AI Algorithm Change Humans into Animorphs",
+      "excerpt": "AI researcher Xander Steenbrugge used machine learning generative models to turn people into animals and back again.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_ca/article/884wek/ai-algorithm-turns-humans-into-animals",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/884wek/ai-algorithm-turns-humans-into-animals",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/884wek/ai-algorithm-turns-humans-into-animals",
+      "publishedDateTime": "2020-05-01T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5eab0bb5d93a90009b14b3f2/lede/1588269690157-Screen-Shot-2020-04-30-at-20037-PM.png?crop=0.8434xw:0.9986xh;0.081xw,0.0014xh",
+          "width": 2488,
+          "height": 1398,
+          "title": "Watch This AI Algorithm Change Humans into Animorphs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic.md",
+      "title": "Drug discovery might be the best use of AI to tackle the pandemic",
+      "excerpt": "BenevolentAI's discovery of a potential coronavirus treatment show's that drug discovery is one application of AI that's living up to the hype",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/",
+      "publishedDateTime": "2020-05-01T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-21-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Drug discovery might be the best use of AI to tackle the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty.md",
+      "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
+      "excerpt": "He sees the vision of how AI and machine learning can help us work better in the post-pandemic world. Gaurav Kataria, VP Product at BetterUp says, “One of the key skills that we are focusing on is learning agility and resilience.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/amp/",
+      "publishedDateTime": "2020-05-01T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eac09d2af7fe60006a119f7%2F0x0.jpg%3FcropX1%3D467%26cropX2%3D9888%26cropY1%3D0%26cropY2%3D5304",
+          "width": 1200,
+          "height": 645,
+          "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-how-as-a-service-models-can-improve-business-outcomes.md",
+      "title": "How 'As-A-Service' Models Can Improve Business Outcomes",
+      "excerpt": "For some, the transition to “as-a-service” means having a smarter business. To make this model work for you, it’s essential to have a sound strategy in place.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/01/how-as-a-service-models-can-improve-business-outcomes/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/01/how-as-a-service-models-can-improve-business-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/01/how-as-a-service-models-can-improve-business-outcomes/amp/",
+      "publishedDateTime": "2020-05-01T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F04%2F599.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How 'As-A-Service' Models Can Improve Business Outcomes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-microsoft-introduces-digigirlz-ai-class-brings-artificial-intelligence-to-high-school-girls.md",
       "title": "Microsoft introduces DigiGirlz AI Class, brings Artificial Intelligence to high-school girls",
       "excerpt": "Microsoft introduces Alice envisions the future, DigiGirlz AI Class targeting high school girls around the world to develop their understanding of AI.",
@@ -540,8 +807,8 @@
       "tags": null,
       "type": "article",
       "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15929960/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15929960",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15929960",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-30T19:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -551,15 +818,7 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i.ibb.co/DDmnR21/1.png",
-          "width": 554,
-          "height": 267,
-          "title": "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1039,256 +1298,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-openai-introduces-jukebox-a-new-ai-model-that-generates-genre-specific-music-with-lyrics.md",
-      "title": "OpenAI introduces Jukebox, a new AI model that generates genre-specific music with lyrics",
-      "excerpt": "The way OpenAI did it was also fascinating. They used raw audio to train the model — which spits out raw audio in return — instead of using “symbolic music,” like player pianos use, because symbolic music doesn’t include voices.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/4/30/21243038/openai-jukebox-model-raw-audio-lyrics-ai-generated-copyright",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/30/21243038/openai-jukebox-model-raw-audio-lyrics-ai-generated-copyright",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/30/21243038/openai-jukebox-model-raw-audio-lyrics-ai-generated-copyright",
-      "publishedDateTime": "2020-04-30T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/8R1BJShVjMuf-55i6NsrC0TXokY=/0x0:2000x1333/1400x933/filters:focal(840x507:1160x827):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66735464/openai_dactyl_one_handed_solve.0.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": "OpenAI introduces Jukebox, a new AI model that generates genre-specific music with lyrics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-openais-jukebox-ai-produces-music-in-any-style-from-scratch-complete-with-lyrics.md",
-      "title": "OpenAI’s Jukebox AI produces music in any style from scratch — complete with lyrics",
-      "excerpt": "OpenAI's Jukebox AI produces music in any style from scratch -- comlete with lyrics. The code, samples, and pretrained models are publicly available.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/openais-jukebox-ai-produces-music-in-any-style-from-scratch-complete-with-lyrics/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/openais-jukebox-ai-produces-music-in-any-style-from-scratch-complete-with-lyrics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/openais-jukebox-ai-produces-music-in-any-style-from-scratch-complete-with-lyrics/amp/",
-      "publishedDateTime": "2020-04-30T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/openai-logo-vertical-dimensional-purple-e1588267015132.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "OpenAI’s Jukebox AI produces music in any style from scratch — complete with lyrics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-advance-your-career-with-a-scholarship-to-the-aws-machine-learning-engineer-nanodegree-program-from-udacity.md",
-      "title": "Advance your career with a scholarship to the AWS Machine Learning Engineer Nanodegree program from Udacity",
-      "excerpt": "Machine learning (ML) is one of the fastest growing areas in technology and a highly sought-after skill set in today’s job market. The growth of artificial intelligence is expected to create 58 million net new jobs in the next few years, according to the World Economic Forum [1]. However, according to",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/advance-your-career-with-a-scholarship-to-the-aws-machine-learning-engineer-nanodegree-program-from-udacity/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T09:34:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/30/ml-nanodegree-1-1.png",
-          "width": 1000,
-          "height": 462,
-          "title": "Advance your career with a scholarship to the AWS Machine Learning Engineer Nanodegree program from Udacity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-learn-how-to-start-a-podcast-with-this-45-online-training-bundle.md",
-      "title": "Learn how to start a podcast with this $45 online training bundle",
-      "excerpt": "Sponsored Kick off your new podcasting career with The Start-to-Finish Guide to Launching a Successful Podcast Bundle for over 90 percent off retail price.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/amp/",
-      "publishedDateTime": "2020-04-30T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/S2HMbnk.jpg?fit=1200%2C800&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Learn how to start a podcast with this $45 online training bundle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-face-recognition-behind-a-mask.md",
-      "title": "Face Recognition Behind a Mask",
-      "excerpt": "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
-      "publishedDateTime": "2020-04-30T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-googles-ai-can-adjust-voice-emotion-pitch-and-speed-with-30-minutes-of-data.md",
-      "title": "Google’s AI can adjust voice emotion, pitch, and speed with 30 minutes of data",
-      "excerpt": "In a paper originally published last October and accepted to the International Conference on Learning Representations (ICLR) 2020, researchers affiliated with Google and the University College London propose an AI model that enables control of speech characteristics like pitch, emotion, and speaking rate with as little as 30 minutes of data.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/googles-ai-can-adjust-voice-emotion-pitch-and-speed-with-30-minutes-of-data/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/googles-ai-can-adjust-voice-emotion-pitch-and-speed-with-30-minutes-of-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/googles-ai-can-adjust-voice-emotion-pitch-and-speed-with-30-minutes-of-data/amp/",
-      "publishedDateTime": "2020-04-30T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AI can adjust voice emotion, pitch, and speed with 30 minutes of data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
