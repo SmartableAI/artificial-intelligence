@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/national-lab-taps-ai-machine-with-m
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1280
     height: 640
     title: "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus"
-
-related:
-  - title: "Tackling climate change with machine learning: The power of entrepreneurship"
-    excerpt: "The importance of start-ups and climate tech companies in advancing the use of machine learning to combat climate change was emphasized at a recent online workshop."
-    publishedDateTime: 2020-05-06T07:45:00Z
-    webUrl: "https://www.pv-magazine.com/2020/05/06/tackling-climate-change-with-machine-learning-the-power-of-entrepreneurship/"
-    type: article
-    provider:
-      name: pv magazine International
-      domain: pv-magazine.com
-    quality: 16
 
 secured: "fmf7Gfi65z4fHrDWHjx627hDxHt0kKMqykQZrINlVICVFRUQSprnqr5D1BW/1qQd1/MCNJAXBHjVLYUxJmQbEZTd2oS0DABYo+bSmBiLZPqNBvCTdjPyJPTAPwZUyN+dOjJmvxkhSmyMVEXHWX4pHAeyu2qvnbCVU8D07cQnLEf49aNwZARXCMTyzpCT4t21yFR7gQLLb0jZSL0tT7pAVgs5us3/BZAP5XV2xFczvpKjY+70GoYH51uzcgMAjm3s90Yrr6+8fZrMawkoOlvo0jWT5bfJQeHFY94dW+7ymQEjbOel4I2FmFGaUItilSphE92T/HN9AhmBtr7vbhQAM+/WhWEUdxzZrIHmZWeD50oqCap6r+f8IrJdKn/qOTSvsLAzwvASw8pmK91GojLup7TFpPlXcg++DueGIU0/rzJ9FyeKiXe6ANggTvG/66qHAJno4fBfOqAvPfpV+B3Y/ZVoIP0JJw41I68B602jxu0=;1mRWt4CqOY6obI/VKoH5vA=="
 ---

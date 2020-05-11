@@ -26,6 +26,6 @@ images:
     height: 619
     title: "Artificial Intelligence can't technically invent things, says patent office"
 
-secured: "uIRdyDML9zSVJDxrhOGUCfMkfMaxqxhA+YNT++vFc5ua2eNjVhIPMBWPeh6FK4sgUuX/O8eNEB05+cx/iYldhLQolelLZjL1BKDTsOVwjpI7tZNZ0YYFzlklNqbPynnnsctm4HDkg671D3YpwwGG6F2rCzuO/XWvF+6OdwxIvXwsG3HzyQE9DipA7l2MUXSlcm7n6kvl+/zJ0LSLBs/HO1u4QWJstiqIY+Ajc+siHwWcX4QXnFPjR1nnkUX0WX6HfeBrH0YuPEHaQGS9EKDSdC4jwfOz3y7B/SilV8UIJ/v5A/hZ7/ig6ghiY0WlBVOx;kUUkT5frJvTTrVHyH9hWzw=="
+secured: "4TjymzhzdvHgsCXl0hQLzAOGZ+A9P+6c4j9IaHS3fDB5QhZrjrpYoHZxzoSsxSizEDQJozaERewUrNX9kZB6OeuiHVMSAq9fquzCgvRw3ODBN/vdRCCQE1xo62JpfoLUvQxGp2yMBxQfsYY+MYy9d5uDpyJ+jpnB7Ckxvukz3Xe1/0L1K1Me6TYhc7I1Onoy41WLfkb6MFttX1ImSUXJdrd8I/2ZCXL2d3DSfV0+ybTxn6iQuqI/8uGijSqsgi62Cu9w+BucONDlAGIrZfxzkzZnG/w9G2y9SHpFvTBjFmHFIJuQEqB9tjFmw/fUiai6;8xoscSQ5X/MYXdPqxhteGA=="
 ---
 

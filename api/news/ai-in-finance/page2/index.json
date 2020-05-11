@@ -2,6 +2,97 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-01-30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses.md",
+      "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
+      "excerpt": "Hyunsoo Kim, cofounder of Superb AI, has been selected as the featured honoree for the Enterprise Technology category of this year’s Forbes 30 Under 30 Asia list, leading a pack of several fellow honorees who founded startups based on AI.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
+      "publishedDateTime": "2020-04-01T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e709bc5e1e61700080f01bc%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-ai-and-ml-move-into-financial-services.md",
+      "title": "AI and ML move into financial services",
+      "excerpt": "\"At the highest level, by utilizing machine learning, financial services organizations can pinpoint their most effective offerings, change how they attract and keep customers by identifying patterns in their behaviors/interactions with the institution, and [create] opportunities for engagement beyond just financial services.\" Machine learning ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-ml-move-into-financial-services/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
+      "publishedDateTime": "2020-04-01T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/27/a57f5328-54c9-4429-a05f-165bfe54dfed/thumbnail/1200x675/cff661fe04c50b47434ccd8665b9dfc3/mastercard-keeping-humans-in-the-loop-of-5e7d26ca80c7260bd0dee6fd-1-mar-27-2020-24-01-06-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and ML move into financial services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-oneconnects-gamma-lab-wins-fintech-team-of-the-year-award-at-the-asset-for-two-consecutive-years.md",
       "title": "OneConnect’s Gamma Lab Wins FinTech Team of the Year Award at The Asset for Two Consecutive Years",
       "excerpt": "(“OneConnect” or the “Company”) (NYSE: OCFT)”, a leading technology-as-a-service platform serving financial institutions in China, is pleased to announce that its artificial intelligence research institute,",
@@ -1022,72 +1113,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-radnet-to-acquire-deephealth-for-machine-learning-radiology-tech.md",
-      "title": "RadNet To Acquire DeepHealth For Machine Learning Radiology Tech",
-      "excerpt": "DeepHealth has developed machine learning/AI-based imaging analysis technologies ... Major vendors that provide competitive services include: Behold.ai Technologies RadNet disclosed the acquisition price and terms as 1.0 million shares of common stock upfront and up to 1.5 million shares as future contingent consideration based on the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://seekingalpha.com/article/4331947-radnet-to-acquire-deephealth-for-machine-learning-radiology-tech",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-4-steps-to-improve-customer-experience-with-ai.md",
-      "title": "4 Steps To Improve Customer Experience With AI",
-      "excerpt": "With the above-mentioned challenges in mind, a multi-step, holistic effort is the best way for financial services companies to ensure their AI and machine learning initiatives deliver a return on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ibmai/2020/03/13/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

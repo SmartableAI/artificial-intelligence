@@ -2,6 +2,72 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-29-2020-wfm-value-matrix-highlights-increased-roi-from-machine-learning-and-performance-analytics.md",
+      "title": "2020 WFM Value Matrix Highlights Increased ROI from Machine Learning and Performance Analytics",
+      "excerpt": "Nucleus Research today released the 2020 WFM Technology Value Matrix, its assessment of the Workforce Management (WFM) market. For the report, Nucleus evaluated WFM vendors based on their products’ usability,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Business Wire/4c5e1c6be9c84125bbe231ca706a3324",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "2020 WFM Value Matrix Highlights Increased ROI from Machine Learning and Performance Analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-20.md",
+      "title": "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0",
+      "excerpt": "1 year full license to the award-winning dotData Enterprise AutoML 2.0 platform * Full hosting by dotData on an enterprise-grade secure cloud infrastructure * 12 remote training sessions for an ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15911575/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-2-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15911575",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15911575",
+      "publishedDateTime": "2020-04-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-salesforces-ai-economist-taps-reinforcement-learning-to-generate-optimal-tax-policies.md",
       "title": "Salesforce’s AI Economist taps reinforcement learning to generate optimal tax policies",
       "excerpt": "Salesforce's AI Economist uses reinforcement learning to generate economic policies that achieve specific societal outcomes.",
@@ -1210,89 +1276,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-deep-learning-takes-on-tumours.md",
-      "title": "Deep learning takes on tumours",
-      "excerpt": "The cell movements hold clues to how drugs or gene variants might affect the spread of tumours in the body, and he is tracking the nucleus of each cell in frame after frame of time-lapse microscopy films.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/d41586-020-01128-8?sf233092553=1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-020-01128-8/d41586-020-01128-8_17881098.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Deep learning takes on tumours",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-system-on-a-chip-takes-iot-processing-to-the-edge.md",
-      "title": "System on a chip takes IoT processing to the edge",
-      "excerpt": "A system on a chip (SOC) combines hardware and software, including components like a graphical processing unit (GPU), a central processing unit (CPU ... the way a human brain does and then further \"smartened\" with artificial intelligence (AI) that is made for use in the consumer, automotive, and industrial markets, it adds even more edge ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
-      "publishedDateTime": "2020-04-20T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/20/437b3bb6-e65d-4d94-9edc-7ee2da524058/resize/1200x/276df09e3c2848680ab542597b4baf2b/istock-958956392.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "System on a chip takes IoT processing to the edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

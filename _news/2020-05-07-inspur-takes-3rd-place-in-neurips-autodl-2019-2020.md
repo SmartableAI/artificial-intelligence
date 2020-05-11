@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020"
-excerpt: "Recently, the results of the AutoDL (Auto Deep Learning) 2019-2020 finals held by NeurIPS, a top AI academic conference, was announced and Inspur's te"
-publishedDateTime: 2020-05-07T15:13:00Z
-webUrl: "https://www.businesswire.com/news/home/20200507005360/en/Inspur-Takes-3rd-Place-NeurIPS-AutoDL-2019-2020"
+excerpt: "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ..."
+publishedDateTime: 2020-05-07T14:42:00Z
+webUrl: "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://mms.businesswire.com/media/20200507005360/en/790124/23/inspur_logo.jpg"
-    width: 1200
-    height: 627
-    title: "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020"
 
 related:
   - title: "Inspur Takes 3rd Place in Auto Deep Learning Finals"
@@ -38,6 +32,6 @@ related:
         width: 1348
         height: 1348
 
-secured: "p70MED8VxCfL3Rh19DBmTcsD430XomUvi0ltchPCIpP4NfNPLz6WkE4kgQnm6F+QQ9ENnBGQLQqNUrjsqhKyKytjpWHGjjWz2RdqlJCU5SKsXaDGhqgcIBini/hbSsr6jKUSbK4aR3VmuqUEiNG8m4+vlOob9grE0k5HmUy3bUrkkNc5UzDIvMaq1LZ27YlWHTsLOCSnlx6ze39/YWfwf8vxUbTCHUhD4eTQwlGdmPaISWG4m2rBCUQ64JHh9JYKsUhVPbNOCv48en5759Z8csCZROvPtHkL1IuoHBqR/bx4GUgXbwLihSAANEK6lYVK52/qfKKAIE7wrjyaahitDef+o33BmquTbuT0NMzDROODl5EntZzITyu2vhe4oZfL34RgKxVNr95JIvfjq+HcRsKZgX34jVgehc/5Q3TKPb8dVl1wpDZCh9ZKd1q3iaAZRUcLOPO/pSp4hl8V8GLnsZIdn+Q5BtTqpXW+dSizsD4=;hHd6gqxNQO+bKrmmxDVCkg=="
+secured: "eQ6HFP0ZnC6dyTGS6vCVzCUS9/PYc2+c94ex0YZXArgrZrT4zMUYByl98lVWPqbWQSE8rlExwLj8R92LqrJAnHCoCYqqJPdCOxTIPF5mp/G2Kal4iYE5cI9ix6dzv7HnOPRFNpwF/WzWaGf5WnthA3dJE14Cie2wBLWqKBrYKUhU5svSjr9vUx0YOQBb35KubONBwm2p/hXAz6m+ZGB7xL15Z/svGp4yqT29dwCTOvOo75Jnwt4KoOWBSeqCLa0oQkYFyRpfBcPychbmTvfGIvj0D0SLKA8Lto2uZRgNZbm4WcLwNMLhsmnqaiPo7xOv;xxYQEDYwyFBrKPvApbBE+g=="
 ---
 

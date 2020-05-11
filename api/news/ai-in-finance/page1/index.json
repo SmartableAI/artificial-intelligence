@@ -95,6 +95,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-05-oil-downturn-looks-a-bit-like-2008-financial-meltdown.md",
+      "title": "Oil Downturn Looks A Bit Like 2008 Financial Meltdown",
+      "excerpt": "Oil and gas industry-focused cloud software firm exec observes similarities and differences between two historic episodes.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rigzone.com/news/oil_downturn_looks_a_bit_like_2008_financial_meltdown-05-may-2020-161977-article/",
+      "ampWebUrl": "https://www.rigzone.com/news/oil_downturn_looks_a_bit_like_2008_financial_meltdown-05-may-2020-161977-article/?amp",
+      "cdnAmpWebUrl": "https://www-rigzone-com.cdn.ampproject.org/c/s/www.rigzone.com/news/oil_downturn_looks_a_bit_like_2008_financial_meltdown-05-may-2020-161977-article/?amp",
+      "publishedDateTime": "2020-05-05T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rigzone",
+        "domain": "rigzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.rigzone.com/images/news/articles/161977_582x327.png",
+          "width": 582,
+          "height": 327,
+          "title": "Oil Downturn Looks A Bit Like 2008 Financial Meltdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-deep-learning-market-2020-outlook-and-analysis-research-report-forecast-to-2025.md",
       "title": "Deep Learning Market 2020 Outlook and Analysis Research Report Forecast to 2025",
       "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
@@ -143,31 +180,23 @@
     {
       "path": "_news/2020-05-04-extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast.md",
       "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
-      "excerpt": "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its",
+      "excerpt": "SAN JOSE, Calif., May 4, 2020 /PRNewswire/ -- (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its third fiscal quarter",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-301051574.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast/article_0e5c3708-42e0-5f4f-a617-87fb070635b8.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T04:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/378309/extreme_networks_logo.jpg?p=facebook",
-          "width": 1000,
-          "height": 524,
-          "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -358,6 +387,35 @@
         "IBM AI",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-regis-tr-and-sensiple-to-collaborate-on-delegated-reporting-services-for-sftr.md",
+      "title": "REGIS-TR and Sensiple to collaborate on delegated reporting services for SFTR",
+      "excerpt": "The European trade repository REGIS TR will join forces with Sensiple a market leader in regulatory technology solutions for repurchase agreements repo and secured lending The partnership aims to provide an interoperable web based end to end automated reporting solution",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2031013/regis-tr-and-sensiple-to-collaborate-on-delegated-reporting",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1175,97 +1233,6 @@
           "width": 615,
           "height": 384,
           "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses.md",
-      "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
-      "excerpt": "Hyunsoo Kim, cofounder of Superb AI, has been selected as the featured honoree for the Enterprise Technology category of this year’s Forbes 30 Under 30 Asia list, leading a pack of several fellow honorees who founded startups based on AI.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
-      "publishedDateTime": "2020-04-01T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e709bc5e1e61700080f01bc%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-ai-and-ml-move-into-financial-services.md",
-      "title": "AI and ML move into financial services",
-      "excerpt": "\"At the highest level, by utilizing machine learning, financial services organizations can pinpoint their most effective offerings, change how they attract and keep customers by identifying patterns in their behaviors/interactions with the institution, and [create] opportunities for engagement beyond just financial services.\" Machine learning ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-and-ml-move-into-financial-services/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
-      "publishedDateTime": "2020-04-01T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/27/a57f5328-54c9-4429-a05f-165bfe54dfed/thumbnail/1200x675/cff661fe04c50b47434ccd8665b9dfc3/mastercard-keeping-humans-in-the-loop-of-5e7d26ca80c7260bd0dee6fd-1-mar-27-2020-24-01-06-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI and ML move into financial services",
           "attribution": null
         }
       ],

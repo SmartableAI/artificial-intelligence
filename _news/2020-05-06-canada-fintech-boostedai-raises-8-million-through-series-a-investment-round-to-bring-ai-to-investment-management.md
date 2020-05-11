@@ -25,6 +25,17 @@ images:
     height: 450
     title: "Canada Fintech Boosted.ai Raises $8 Million Through Series A Investment Round to Bring AI to Investment Management"
 
+related:
+  - title: "Invisible AI Raises $3.6 Million to Improve Manufacturing Quality, Empower Workforces and Cut Costs using Edge AI and Computer Vision"
+    excerpt: "Invisible AI, a next-generation computer vision company, today announced that it has raised a $3.6-million seed round, led by 8VC. Participating investors include iRobot Ventures, K9 Ventures, Sierra Ventures and Slow Ventures."
+    publishedDateTime: 2020-05-06T20:16:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/news/2020/05/06/invisible-ai-raises-36-million-to-improve-manufacturing-quality-empower-workforces-and-cut-costs-using-edge-ai-and-computer-vision/15242/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 3
+
 secured: "k15Yr+j9L8PjyidTtVW4sgNMHYFT4ijFwkBgL3AU+sFJ5h8iwXpkdw/FW/GhgUhlxWduCCTLqghNNXpbP6cXgv8LMbF+zd5Whn8eknPgtCgKFjUGvGEweSrBcjCq095vvGx8gyGRyP4lK+gjGb3dMvM3Q5EyF5qd3M3myAWYQVq+VSsu9K27/36QDxbFUQzCnLc+BdnVNTw5KX+DOx2V+giohBVTAdvmKq83fZHGMb3IUK88eWDwLdBn9vZzF64rB+rP0AadjKMh+BW52lpxHc5TUQdID6Ki2PTdd5mCGRfTBgkEFk737+FOWuuGk/gGc5PvY7w1ywGUowPeXR3hDFCfsxJMzwQuTrKfBaVwqM2nPzPDPmUU7E0mz7lVTRXuAg1EWK/yBvenmpgXxg9tWJ5iZMcYGICs7JS5GsIKjXf8H8enfP3XorYmlC+70VQ6RLPvy8UkGq1qB52md4hEYeGCwjVxBmqJWHPm9y4RJE4=;RI0CU/XnJNwd2VG6sOcvBA=="
 ---
 
