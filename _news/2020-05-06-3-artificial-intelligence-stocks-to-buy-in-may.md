@@ -1,7 +1,7 @@
 ---
 category: news
 title: "3 Artificial Intelligence Stocks to Buy in May"
-excerpt: "Additionally, AWS Sagemaker allows data scientists within companies to construct machine learning algorithms or use standard pre-built models, all while cutting out a lot of the extra busy work at ..."
+excerpt: "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ..."
 publishedDateTime: 2020-05-06T11:01:00Z
 webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
@@ -17,7 +17,7 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
+  - AI in Autos
   - AI
 
 images:
@@ -26,6 +26,6 @@ images:
     height: 378
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
-secured: "Dm32+vpFj8thKSNvrMSum1NeGI/dwHaHUwU5QB6QXbVfbTzIRhkRt6yXgaoajCz1mz96VdPnYUnFwMDwWi1zT14LS4fuOmbtCcxYGT2zmCVn+Ko1KzKalh/RyloH9+fHOTwKlT/S+9Y7hgEsCfnnp1XxGx2Y1MfK8Pd1tRAuhnHSJOY9s0wCFsK2U3cBJ76zEt7uS5kEI1zsQKbOjCJV+p3IysuKRFunXt2yPqhW1HDJQRtKZv4Ei3AvfVqlXJtd1tCvIdUGfl4239Jybe9rBObmF1cUO1Gy63DQZ63chFc9doNClwwZYOvB2sKTPrv+;wlt8M93zgkZgjPNOLQkXzQ=="
+secured: "annrL7lf7Wd+eYHcRoI+XtpVgQj631eNLllHVT4p5ptnth/a7C32c9q9LkZbjPs1vKzB/7SsbsAAPIItHWNV1jJoSk/fjZgRlMS69/DWxwoCY+28rQynoYmzpP/ZYsoISRvwwKm3FHutyT0D4aP8bj5hwzgHGZxD4ONF23WANdkiFoaJi8zsDZ7mgCWSCvaw/9cRDoXaQeA2gTTx4e+9KCx63sxPqp5ohEf7wc91mbqpO/Pw2ffeTmgRIgL/2/k8g77Z3xXgPPs/8BIXedH0NT8hdH8C8nuin+xm5FvOXcYWu7P/pZCovmkgeaOfRbkV;gVZQVb01PBMwSCES+S6vrg=="
 ---
 

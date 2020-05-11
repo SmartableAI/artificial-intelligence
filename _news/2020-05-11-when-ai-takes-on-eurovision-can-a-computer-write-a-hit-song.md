@@ -3,7 +3,7 @@ category: news
 title: "When AI takes on Eurovision: Can a computer write a hit song?"
 excerpt: "The team—Can AI Kick It—used AI techniques to generate a hit predictor based on the melodies and rhythms of more than 200 classics from the Eurovision Song Contest, an annual celebration of pop music and kitsch."
 publishedDateTime: 2020-05-11T19:00:00Z
-webUrl: "https://arstechnica.com/gaming/2020/05/when-ai-takes-on-eurovision-can-a-computer-write-a-hit-song/?comments=1"
+webUrl: "https://arstechnica.com/gaming/2020/05/when-ai-takes-on-eurovision-can-a-computer-write-a-hit-song/"
 type: article
 quality: 47
 heat: -1
@@ -37,6 +37,6 @@ related:
         width: 500
         height: 281
 
-secured: "jnK+/EJBRrIlyp9W/sII2WB1hUKBe9QaPLYhX2UlQuCY8EOJk7sWC/fEawm8sQ1qW8F8bCIvooSJ/7QrFgRuypFvEEjsvYzfKMP1eJ1OzkliCWbY1ze7jdTEbas2O6s1leGUF2N+0dFXvo1XjVbnkQogtk+ajFP82c45Rol30Ix2ohFwiG+oY8Yswu/1VBSP6u4n0jPuRumgWJ8g9+NVRhbAqsSxUSzgJ0YUHpa5FPkmJJG47JVTdh6ORZvvEXpE3R66z1RYEtNQ7V302HHWKL6MgepNeqdKz/j6HDR5IwazQA30XCTbsyO8kdG+BAhPkofhW89XmlGrvT80hFaGe9rfHUPNyiwAa8T1qujo7I59E3LBt0ZBfQcOa3PntoFKCSbBfDDYg0KKjIwXkHRIGkaabc44YXyB2Z+u5AccNbAFGLfp3xDoPHeyPkFTr2/asC2q0JAl0RHO8P5ay/GPUmgUCmdmaaJr0im0QIpC+Bg=;CKTG2mPPmvLlBkWXTxaRUw=="
+secured: "TCSD3u8u6+dq5WVTZf2oOoVxinKW90NlEp9LluieH2uVaRMjlLwLTdiXBbes9pxIkmzKYRtvtHqcwV9Z8kgUKvVS/L0MldB1qJW9Reo7OzBrKlwC/Na8tLgfE+88JIFbb0jaKYR9Tyhbm5LIrVRfwhsScySiVwP7sx3ON0/Dn4IY3ylB4tjzLIHRcbKppvVM6QzjBi0uZJxrH+0eNbypnlF7VtCjJsm7LlGu3LyY7mhHRas/V7VrNuJFGajsODQ0tJ30xR87N2TG2LX13ZueP9G4I0i8VSYVkNhYCJBwxbCw1K8wXEP5Ax4RQS9FTe8hces6VD9hre0bZwVbaO6MmKo8vHWmApc9bSonxlQ7Jz5r2JckrwwgO7zIYQaYRe2RN5Tf13KgS+0CPhKCQ0UlxkGKO5jTfQ0JMjaAKzj0gEhdpvK4J5bjobdilUb/Pi3/ASaH3wrHg/+V5TDsOrmJAY7ty7E8N0r1or+51yiiD/c=;NGnfZwVIZ8U5Sn3ci3NJcw=="
 ---
 

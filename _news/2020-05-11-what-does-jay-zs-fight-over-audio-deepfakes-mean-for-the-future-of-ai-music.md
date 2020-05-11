@@ -24,6 +24,6 @@ images:
     height: 324
     title: "What Does JAY-Z’s Fight Over Audio Deepfakes Mean for the Future of AI Music?"
 
-secured: "uwFLI1tjoesk8ByIVjqFo7Czj0nwGFSd5s0rat3X4t6dufNoyRDCfJGqZbknH6LomGcAukttpSdVHIeJ4ZIUAj/zgR6qg6W2S2f4WkyKzYDSlkro/cKan4p8o6cR8Sq2Wrvu8k6zxtuz08jtA/yBvso/pmsaOzWI4acFaF2GbliyDFJQmsuK+to0w/CZEt0dSjTzPk9ZcLvyTVJbo1SmPbpSgXsjk84nQsI0a69EAlna8L/VQIu1lh1HxZmR9j+d7qdQUs9/V5RfyrmH8tcURH72ATZVUDpmvrJjX0mrr2Jbl/J3C2VVmnR/rMCi/P2d;gk4y33A3GMprekhGEd8AVA=="
+secured: "lB/JYF1IYCFAsZXcXXRE+M1SUhs1HQoqpxP9GAT+hZ0loe1pD3BsxQntFzZb3xuvQB6xslfTVJBR4oDiBqQvaDtRroP+SE3yUaoUFxWqbhn6XIWIQ4iED9lMVV55Fkl+aLHmhaNGaJpuUfrf9+HuGBh505UeR98IWrWDlQ/mXVGg4N0uwnE4ys0XjhVkt3B5Vb8MSLQFZ/wq86oa/y2YbRw8q3yW6eZPu4tF48JytHy63Vv33mgfE+QnmVpGM4gBNEF/84Z472nbtDigI0M/8FY57TT3AQDZfCSu44wKq51kNrZn8X5iPeQniuVADCbcbjzGBOLiUydBL5E7YtuUNRejyLsTZyMBhxzxb4f3T6yac6tqRQ4d1QvW4yfcwI4B73uSjeNCKpx/l6aeMBs3OH4ng7jmjWYn1Z7fxUcpmOcoiJRT8vEAUJKpKL3xJvEiLTbPreS5OqL+YpIEQpApiuKYoOxtTQg70icguvfl3vA=;vZIb/CyMKfD4GWwfKcUnQQ=="
 ---
 
