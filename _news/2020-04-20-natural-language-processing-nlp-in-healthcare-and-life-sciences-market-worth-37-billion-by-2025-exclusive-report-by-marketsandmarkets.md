@@ -14,6 +14,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "oVfJAe+mVA/QWnOnHtyimVdPI4akBSd+o0sJlUhEwcb0PWs5f1C6GOUpokgvVl6oACdRL5xKpC3ISuI+RLDhDrxiSsmh1Jy8B4x1QgtpTTYwVi79oiNoXLJr2A1/ewTjZXO7gh88YRw2KhWcZHSxpR36o+GuI99PK8QaVUsYeR8wzaxyA7Neny8dxNn1Fi2RGag0RY+oMKGPxfr3jm0eVBguRiyY+tRikM8NGGfvxaxlWD4pIpFNzXqMfHJ1iwZVLXiiOSaHhUqwDLBv7JPbB8AWt4xbRUiTeWHguLOv07BAbqiYbvcSvSnmptRaV/Ov;H/j6m0aZTvt04L2hEVXkaw=="
+images:
+  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+    width: 666
+    height: 350
+    title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Worth $3.7 billion by 2025 - Exclusive Report by MarketsandMarkets™"
+
+secured: "j0iq9V2qYMqiQF9kIACwhJHeNvQUEPkKDqjEEdFYcRnY3wVwZ+3s5bOoUPocVWMvvbH5sE9cYu3uq6ddctTDoY7Y9F6/oxNbzt8PoPPCZVVnXr3iUMV+sDEnEc1sr1pxIj7UP46BN3MjkGbCmBDs2plE3MogeoiyE3iLrv8iUmxS6mCIwJxxfmtI5m5BRQF9Hg/0tjX0ORLCY0bUgOI6GNne5LbwkZ5+SxuEVzbrcCAj8sPCIWHcgjIU1E9+D5LoYuqwnQ4Qsfyqyz4dgyqU8HgnbBVlPYTa4AwZmj6ssVx/Oppeu67Zf5THzRswcDR+;ouyh+2YzV+gmFtubu5d4/w=="
 ---
 

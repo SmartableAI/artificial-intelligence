@@ -22,6 +22,6 @@ images:
     height: 1257
     title: "IIIT-Hyderabad Announces 3 New PhD and Post-Doctoral Fellowships in AI and Blockchain Related Areas"
 
-secured: "rj1YPbNiK/k+mTFpZDFFi8jBPSKPJ06om4zmbxSGBcIjglAS/znehKP8xUhlqxAAyFGXUR/tWXYKz2CyKuqiFR1F8voRnhQZr++1CcGRe4/fUnbk91KSIN6PHGLIQRnW5UZ0X+LmDBnL9TjbTA5ywGXSTa08wMQbAwy50YcZ26z5ssu0X68sjoe1u/eBmXaDO9NOmdVtd29zKjY8rMLquUlY4wNOTdrDQasm8gnHtFcsV/Uhjh3Bq1MKLugPxkp6b6xAkq6VRcvWDhhOqq6OcbuJiPZYiyongEouNZ9tM8bFAQrt7xnGW2UoaIDelVNo;k/V3g1k2MBm0/PEHOF6ldA=="
+secured: "jl6AB2Jug3ywpa0o5A+jY3En/WGcLQev9aIVV902M/jlTJy6U67r2Lc3K1M3G83qINsx9nctMtMAzGcs912bL2XxfhKTC5fecU3Gh00cZjE/CRZhm+EZV1y8/+PnkutfhNVRv36eARuJnoX4gez+DIhoTWYxEV1fDQVsXzcv8CzVEhHxCiy8sxabp9rcUievzOk9fOgT+R6WxauNGMGfU9ScWnWY2lE5yO5NBtER8VxfPhYOM7XWD65BkzQ2HepI6fP4uSDRt3bNpCdGJmRFqb+IyDsoNoN/gfyMhE6IvPi8cwnzqJhD4yRAcS5Fg/CkHwpMLt8sHdt7TVip/c+VSfB2JcgOtpccUQ2Z6kutJQL2z8CxYhrDnQeFhtZbTKeGDOIxa1SmOAGMf/NbHqLoFslmx4Vo7tSV60B0ElT6QAMSOtJNoE1F6+LGxCzKwvl8U2G2GlAaGFQ5YoZ+jKsED0F1T+GZd6NFM9C8AV33MSQ=;IbziZj/pjTbKwsZ0E+BD/w=="
 ---
 
