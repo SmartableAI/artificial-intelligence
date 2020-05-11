@@ -1,19 +1,21 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
-publishedDateTime: 2020-04-24T17:26:00Z
-webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
+excerpt: "Today, Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), announced the general availability of Amazon Augmented Artificial Intelligence (A2I), a fully managed service that makes it ..."
+publishedDateTime: 2020-04-24T13:17:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/04/b15876750/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15876750"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15876750"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "4At/9Umu7NU5wl6kYzT7wZbBXwDGCZhXJGNNNHEnrnMu3VyspKgSJsfeBwLY2Kx1qTy6orIRSIc19A8tEaQ6bVRkZVEPJLE5vBCw8IimfPvEkP7hjpkS4oLhqtym/vvlSfw9TmrMoR/SmAmiXVELrGKlFPhfRWTt/8tMTtrQhFowyoXc6AFOT1Rch1yv+Mh83IRVbbx+E7ThDYDMbehtPA11Vg4xAYbsMfFgC8ms89qA467Hrwx55VPn0g9+Rs+P1xvrHXfH+JDotBDnREuJZkjRekEzszPMmjdTr2RJfZOYvIcIoPJixII1NwjcEvkP;bN0tt+lFepgS7hioiox6sg=="
+secured: "xtYY2kVs7YuoDWVbXIppdjThMp63/oLgkRdJfhBQQg3LTJkMEe2q94KqDEB/RBHUvuo9sULWm7rHJrpn27A6kYhgU8wPmOauK0gl0qIcls9hTL6vTVf6OnVhd1rcMoAtPIHAzoPbPdisMf4eDU14ezXXL+eH0i1uu/1J1Ilgsha4OJ5bluMQOv02aG3K4xDT6rJebjaqOkI2YOJCqEyLygJX9tpsOsFVH3cK12u4ZH8rbKoUze8XJNFF1kWJMAahGyAuXiYeOOrQ8p9rWPAGxjkDZrZpp2pxpZNB16iDgu9u7iy8BA/eZL3Kzl+HfHbm;TU1mSdNH9qKEpg+E59yatQ=="
 ---
 

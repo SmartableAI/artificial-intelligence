@@ -175,43 +175,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-06-ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.md",
-      "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
-      "excerpt": "Deeply assimilating its Red Hat technology, IBM this week rolled out a set of new platforms and services designed to help customers manage edge-based application workloads and exploit artificial intelligence for infrastructure resiliency.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
-      "ampWebUrl": "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "cdnAmpWebUrl": "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "publishedDateTime": "2020-05-06T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITworld",
-        "domain": "itworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-women-leaders-in-ai.md",
       "title": "Women Leaders in AI",
       "excerpt": "“Success must include two things: the development of an individual to his utmost potentiality and a contribution of some kind to one’s world.” — Eleanor Roosevelt\nThroughout history, across countries, industries, and professions, women trailblazers have opened the door for millions of other women to",
@@ -1307,6 +1270,51 @@
       "topics": [
         "IBM AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk.md",
+      "title": "Allergy Insights with Watson uses AI to predict allergy symptom risk",
+      "excerpt": "IBM today announced a new tool that taps AI to predict when allergy symptoms are likely to flare up. It’s called Allergy Insights with Watson, and it’s available in The Weather Channel app for iOS and Android ahead of a launch on the web. In addition to a 15-day forecast that predicts allergy symptom risk (e.g., high, moderate, low ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/amp/",
+      "publishedDateTime": "2020-04-20T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Allergy Insights with Watson uses AI to predict allergy symptom risk",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     }
   ],

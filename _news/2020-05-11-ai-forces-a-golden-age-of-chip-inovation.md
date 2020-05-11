@@ -23,6 +23,6 @@ images:
     height: 469
     title: "AI forces a \"golden age\" of chip inovation"
 
-secured: "SaDDjVArg6B3f0orfCabXy0v6b9ufz/fqfvDDF4BPXsfIil/u0dMsgjZBjNb7QhMDW/5AfJYAAsUS3ZEjCmKwdK/PoZ/GB5oAcB60oZSUULmhONL0NttwlfcQB0HXRvG2DMxRutqalSD2bUhaBXwoSDmiRTykF3rFyfMA9xL0bEBMF3cJP4/K61ASv3zdyLLehgqWzwI5K3vXRlQ8Gd7e0gXhVFEOX76DYF/NkMqtGDlZFn2stewGjZrYoknnx70nlqB0P3/Vshvc8GgBE9mWXYOmkcBbYMmeImzw3MkyPb1hSjZ0fs/y42bFmjTVMM5;olF45e1ynHz1k7UCgt/IhA=="
+secured: "H7WDnAkr1yohfsAMv05CuoQIQ1f/uR+UeiE9RGXL15JGcuUa+mnTmoHt8qP/pYtHiu5rc9XEM8n13w1lQnecemw+mP473eSxiSpjWaZupa7/cpUPnI/m1T6WjhVK8JJ20OC7XRaTLRPp8KcyPZsQaGp8vw9mzhiSSIqjipHdNzR7++ZQ8SqgnZ7FQtxyS2yWrxuosbsHh9mSU/8qO5YeuoFp4wjH1ik3iBPKhewEkiSOmk1FJwf/lT5L/Wh+Y6d3WbNTyXVCpIz18SK9BeSVPG0Qp+e7xr5ioFK/NF6tVeOfQG2RW6ZqmdWgK9xBrJT+nU9BYHSV5RYJislPZnINKqPrx4IDdyzSplMJAZpne4+zE9Zdzz0aYUPfvF14Snax+ZQM7S23l5MSbUXzVFS4OHy2KcyW/4N5KOf9BI5kq/7tyqrzuyb8RtIJ881OzbvMLdL4HW2GN1vLd3VKJyYtvTk69cPF/hG637m4piWpw5g=;MnWmHUfUm4OydhS4nKzIoQ=="
 ---
 

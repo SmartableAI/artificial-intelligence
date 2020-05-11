@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-08-how-ai-can-help-manage-mental-health-in-times-of-crisis.md",
+      "title": "How AI Can Help Manage Mental Health In Times Of Crisis",
+      "excerpt": "These tools will not replace the couch, tissue box and innate professionalism of the therapist's office, but they may very well keep us healthier in times when we can't make it to that office.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/08/how-ai-can-help-manage-mental-health-in-times-of-crisis/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/08/how-ai-can-help-manage-mental-health-in-times-of-crisis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/08/how-ai-can-help-manage-mental-health-in-times-of-crisis/amp/",
+      "publishedDateTime": "2020-05-08T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-68.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Can Help Manage Mental Health In Times Of Crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-zillow-bets-new-normal-for-real-estate-is-virtual-tours-digital-processes-machine-learning.md",
       "title": "Zillow bets new normal for real estate is virtual tours, digital processes, machine learning",
       "excerpt": "Zillow said its real estate 2.0 vision has been accelerated dramatically by the COVID-19 pandemic and remote work.",
@@ -1258,50 +1302,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-dtex-raises-175-million-to-detect-cyberthreats-with-ai-while-preserving-privacy.md",
-      "title": "Dtex raises $17.5 million to detect cyberthreats with AI while preserving privacy",
-      "excerpt": "Dtex, which is developing a privacy-preserving cybersecurity platform for enterprise customers, raised $17.5 million in venture capital.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/amp/",
-      "publishedDateTime": "2020-05-07T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/US-cyber-security-company-Dtex-Systems-The-Hague-011.jpg?fit=2500%2C1667&strip=all",
-          "width": 2500,
-          "height": 1667,
-          "title": "Dtex raises $17.5 million to detect cyberthreats with AI while preserving privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

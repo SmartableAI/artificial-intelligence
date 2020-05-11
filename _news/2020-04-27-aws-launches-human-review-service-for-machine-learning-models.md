@@ -1,32 +1,25 @@
 ---
 category: news
 title: "AWS launches human review service for machine learning models"
-excerpt: "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,"
-publishedDateTime: 2020-04-27T11:57:00Z
-webUrl: "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service"
-ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp"
+excerpt: "A2I could be used by AWS customers that use services such as Amazon SageMaker, Amazon Rekognition or Amazon Textract, which are often used in critical and sensitive cases that need often need ..."
+publishedDateTime: 2020-04-27T13:40:00Z
+webUrl: "https://www.cloudpro.co.uk/business-intelligence/8537/aws-launches-human-review-service-for-machine-learning-models"
 type: article
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
-  - AI in Finance
-  - AI
   - AWS AI
+  - AI
 
 images:
-  - url: "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg"
+  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/04/awssignatairport.jpg"
     width: 1000
-    height: 479
+    height: 667
     title: "AWS launches human review service for machine learning models"
 
-secured: "tZGeoxWrvPm6gCKmsmFJcDHsPmSUPSFozwlIF/Z2Np/D8waLv2nfZfIkVe2bpTQbdcpWtnXLB0KfFlc+imp6uZniqhpVkgeEUAdtJJZZX0ykkZ/CUEjnUCBahYdEb09AMLZeVkkUoTRTFEXLzG5/MRxARdZ5+vrLF4at6tUT99CUoqerd0jg6fqiH6Yf2deOKVA0QWhJM9nt9kssVX0iIan1rw5yt+XeZggjndm3V2tafl+u7BcNfS1HV/yNu5N3bfWaUH9OmCfDklkzUDdKZyRYlr+H4QZOResdRVkyjdg9mPUfJkqLq7nctpIlqCOCEhLEqGua71wVjBXhB471ePuVSpdmY4cNs4varGZecDKk1WmkpRFTHL4Io3DkRuKuS2/LnZmiNHF4KcPw4BeKinshOPwCxznlgTkEG43rWJLx6kZmi8oVVzJvbintfZFfXKzPUna1T60uwrdznUIDVvHW5t++7PTtR/h2hUkPzGM=;cpxUUYwfUWjvYVhW4vooNA=="
+secured: "iPAZvnf5m5d2ie5QJ1+Hx+ItRCxepyK1PN5nArFPYdB2RQHbujHPlq34LoJ7w3BREwPEIRmD0SJd3VJn0bSL+FEV3Hz6D6+qc4w71vkCtM2GDJPujeSq8DjycnV5oWfKs17zF3q75CI/UHbn4kh+KcWDGZfLUkRwMcDBvzHDTZIUNnnpgvpXe9unPj4/Mgw26L/TMIscuyQYWxvhialf+3r/VaUwimWVC4h66Gfi7oOgS877p78Fk8bom3e/wmUXyjtWyl3IHSGF/7vYXPrBUqONd2LQEFRt1pu4Hb/+2DaeQS5qBLbWfhM+sJn+dDvQ;PuNVF313EwTCFRlJxy/2KQ=="
 ---
 

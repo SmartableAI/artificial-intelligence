@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-11-how-ai-can-help-educators-leap-ahead.md",
+      "title": "How AI can help educators leap ahead?",
+      "excerpt": "Artificial intelligence (AI) can help with the challenges teachers are facing while trying to teach remotely – as well as when they get back into the classroom. As the world locks down and schools close,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/au/news/how-ai-can-help-educators-leap-ahead",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/how-ai-can-help-educators-leap-ahead",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/how-ai-can-help-educators-leap-ahead",
+      "publishedDateTime": "2020-05-11T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "How AI can help educators leap ahead?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-understanding-the-recognition-pattern-of-ai.md",
       "title": "Understanding The Recognition Pattern Of AI",
       "excerpt": "Of the seven patterns of AI that represent the ways in which AI is being implemented, one of the most common is the recognition pattern.",
@@ -1190,52 +1235,6 @@
       ],
       "topics": [
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-artificial-intelligence-can-take-banks-to-the-next-level.md",
-      "title": "Artificial intelligence can take banks to the next level",
-      "excerpt": "This struggle with customer service is ongoing for financial institutions. But it's an area in which artificial intelligence (AI), and its ability to work with unstructured data like voice and images, can help. \"There are two things that artificial intelligence does really well,\" said Ameek Singh, vice president of IBM's Watson applications and ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-can-take-banks-to-the-next-level/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-can-take-banks-to-the-next-level/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-can-take-banks-to-the-next-level/",
-      "publishedDateTime": "2020-04-23T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/23/e7141a30-003c-4e34-ad1d-6cc7c76daf90/resize/1200x/331adc6fa5179da2d9e9d3f835c07f81/woman-clerk-in-a-bank-flat-vector-vector-id483987118-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence can take banks to the next level",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
         "Natural Language Processing"
       ]
     }

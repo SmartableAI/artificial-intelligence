@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-21-vsblty-and-photon-x-developing-advanced-thermal-camera-technology.md",
+      "title": "VSBLTY AND PHOTON-X DEVELOPING ADVANCED THERMAL CAMERA TECHNOLOGY",
+      "excerpt": "Photon-X object recognition and analytics combined with VSBLTY facial recognition will provide an advanced screening tool for facilities to identify and validate that someone with a high ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/04/21/2019206/0/en/VSBLTY-AND-PHOTON-X-DEVELOPING-ADVANCED-THERMAL-CAMERA-TECHNOLOGY.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-vietnamese-ai-group-touts-mask-ready-facial-recognition-for-smartphones.md",
       "title": "Vietnamese AI Group Touts Mask-ready Facial Recognition for Smartphones",
       "excerpt": "VinAI Research says it has developed facial recognition technology that can identify users wearing masks, and that it will bring the tech to mobile devices. The firm is a subsidiary of the Vietnamese conglomerate Vingroup, which also owns VinSmart, an electronics maker that also produces smartphones. VinAI Research says it is working with ...",
@@ -1199,35 +1228,6 @@
             "attribution": null
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-04-the-global-face-recognition-market-is-expected-to.md",
-      "title": "The Global Face Recognition Market is expected to...",
-      "excerpt": "Reportlinker.com announces the release of the report \"Face Recognition Market Research Report by Type , by Computing ,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/g15793277/the-global-face-recognition-market-is-expected-to-grow-from-usd-3-546-56-million-in-2019-to-usd-9-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15793277",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15793277",
-      "publishedDateTime": "2020-04-03T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

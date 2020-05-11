@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-06-logistics-ai-startup-covariant-reaps-40-million-in-funding-round.md",
+      "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
+      "excerpt": "Artificial-intelligence robotics startup Covariant raised $40 million to expand its logistics automation technology to new industries and ramp up hiring, the company said Wednesday.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
+      "publishedDateTime": "2020-05-06T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183896/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-runai-brings-virtualization-to-gpus-running-kubernetes-workloads.md",
       "title": "Run:AI brings virtualization to GPUs running Kubernetes workloads",
       "excerpt": "In the early 2000s, VMware introduced the world to virtual servers that allowed IT to make more efficient use of idle server capacity. Today, Run:AI is introducing that same concept to GPUs running containerized machine learning projects on Kubernetes.",
@@ -363,7 +408,7 @@
     {
       "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
       "title": "3 Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "Additionally, AWS Sagemaker allows data scientists within companies to construct machine learning algorithms or use standard pre-built models, all while cutting out a lot of the extra busy work at ...",
+      "excerpt": "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ...",
       "heat": null,
       "tags": null,
       "type": "article",
@@ -401,9 +446,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -676,19 +720,27 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.reseller.co.nz/mediareleases/102748/united-states-image-recognition-market-will-take/",
+      "webUrl": "https://www.cmo.com.au/mediareleases/102748/united-states-image-recognition-market-will-take/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-05T21:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
+          "width": 600,
+          "height": 246,
+          "title": "United States Image Recognition Market will take the highest jump during 2020-2025",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1271,52 +1323,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops.md",
-      "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
-      "excerpt": "Point Roberts, WA and Vancouver, BC - May 5, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops-2020-05-05",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

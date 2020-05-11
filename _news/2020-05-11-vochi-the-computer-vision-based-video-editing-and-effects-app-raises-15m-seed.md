@@ -29,6 +29,6 @@ images:
     height: 576
     title: "Vochi, the ‘computer vision’-based video editing and effects app, raises $1.5M seed"
 
-secured: "GdJgNDX0qpdtX063oPwycNoOYKViPQjm1FewRjoBZO4bTaANRhX5zUlkOoLxEYZeQp3ZOZkEvrSNfZc1b61pNT3lfswVqsx6HDRa+IHmuC4b/w3KMT8RKGJNSqzsQZAtlPbw2YUc13hcBdbC/lIky8nwVrASiKg3TCpxCuA9V+CJ3Tf9cWAhVdA7lrzKqEikdB66hGt9dPXlwymiWtRlxUw8BYxByjQeYRRPNC3zOeElVqA5CuTVJrGxVsxInu5jQ2wHc7d1hjKeUrSnjev/wfJl3jOatQ6EL+xmIvQPRkHE6VWyLez9+2hkGb7Vp1J/;ErI8GiRx0e8LhRL9LxPiUA=="
+secured: "/bM31tRN+2tu2pUv2jWZLhPV+0Gh5kDR8w7C4EO0IDBP4BCIScYRpa2sqf4bERnpdEA6JSuwPZM4wautQraROUcD3JBTJPv5FVQ7bWb+ufEVpD/CoabUhiHXZ2hC53oCHMmxaMWVPEUta6yvVYr4fp0Io5BuWR8sRgPmOfGkADhXari+pqGLSQN36XnC6Ayhr4lWjhNSe1IPtzvWyihygtxGCdWewfEQBi5AM+qcpIG5tQ8XrPGMRdJ2ZbWfCNceIiImD7xzptnHAJGYR48W0CF/efQrflWzoorKZS8NirAzXqjpwl+puzHYR7UdIjqMYpTp3uErJVFvLOp7xOr+WEutG8VUQ+mAeNEu4334yD3wAQW41+oSnXwlPcZwjH/kAa5guQCKpqamTeFplnSTy9p5hUkgHjGb7eTU/EKqnmJKWEKGi//ZcgI7pH42JH4555uUfW9JJjsU95ux4YHTkBIq0PhLUAN3L6kW0ebc2pI=;/6MkKlO58zkdH+pe+oE95A=="
 ---
 

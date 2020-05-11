@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-05-ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop.md",
+      "title": "AR experiment uses AI to cut and paste real-world things into Photoshop",
+      "excerpt": "Augmented or mixed reality experiences often involve placing virtual objects alongside real-world things as seen through glasses or on phone screens. Doing the reverse, that is, placing real-world",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop-04619244/",
+      "ampWebUrl": "https://www.slashgear.com/ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop-04619244/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop-04619244/amp/",
+      "publishedDateTime": "2020-05-04T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/ar-cut-paste.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "AR experiment uses AI to cut and paste real-world things into Photoshop",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-australias-national-intelligence-office-seeks-smart-satellites.md",
       "title": "Australia's National Intelligence Office seeks 'smart' satellites",
       "excerpt": "Looking to demonstrate the application of miniaturised satellite systems with on-board machine learning and artificial intelligence applications.",
@@ -1245,43 +1289,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-top-5-most-useful-tools-all-data-science-freelancers-should-know.md",
-      "title": "Top 5 Most Useful Tools All Data Science Freelancers Should Know",
-      "excerpt": "Freelance data science professionals need to be proficient in certain tools to smoothly navigate their careers in turbulent times.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/top-5-most-useful-tools-all-data-science-freelancers-should-know/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-03T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/05/freelancer.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "Top 5 Most Useful Tools All Data Science Freelancers Should Know",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-01-how-well-can-algorithms-recognize-your-masked-face.md",
+      "title": "How Well Can Algorithms Recognize Your Masked Face?",
+      "excerpt": "Makers of facial-recognition technology scramble to adapt to a world where people routinely cover their faces to avoid spreading disease.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/",
+      "ampWebUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "publishedDateTime": "2020-05-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ea9d268640d500008d511c5/master/pass/Biz-maskman-1217070531.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "How Well Can Algorithms Recognize Your Masked Face?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government.md",
       "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
       "excerpt": "Public sector organizations using Microsoft Azure will receive discounted rates and benefits under an amended agreement between the software giant and the UK government.",
@@ -908,6 +953,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-30-the-danger-of-facial-recognition-in-our-childrens-classrooms.md",
+      "title": "The Danger of Facial Recognition in Our Children’s Classrooms",
+      "excerpt": "Schools in China have recently reported using facial recognition to monitor how attentive students are in the classroom. Cameras are installed above the blackboard and, by identifying facial expressions,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rstreet.org/2020/04/30/the-danger-of-facial-recognition-in-our-childrens-classrooms/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "R Street Institute",
+        "domain": "rstreet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rstreet.org/wp-content/uploads/2018/04/yoest-facebook-share-default.png",
+          "width": 1200,
+          "height": 628,
+          "title": "The Danger of Facial Recognition in Our Children’s Classrooms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-openai-introduces-jukebox-a-new-ai-model-that-generates-genre-specific-music-with-lyrics.md",
       "title": "OpenAI introduces Jukebox, a new AI model that generates genre-specific music with lyrics",
       "excerpt": "The way OpenAI did it was also fascinating. They used raw audio to train the model — which spits out raw audio in return — instead of using “symbolic music,” like player pianos use, because symbolic music doesn’t include voices.",
@@ -984,95 +1066,6 @@
           "width": 1200,
           "height": 600,
           "title": "OpenAI’s Jukebox AI produces music in any style from scratch — complete with lyrics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-advance-your-career-with-a-scholarship-to-the-aws-machine-learning-engineer-nanodegree-program-from-udacity.md",
-      "title": "Advance your career with a scholarship to the AWS Machine Learning Engineer Nanodegree program from Udacity",
-      "excerpt": "Machine learning (ML) is one of the fastest growing areas in technology and a highly sought-after skill set in today’s job market. The growth of artificial intelligence is expected to create 58 million net new jobs in the next few years, according to the World Economic Forum [1]. However, according to",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/advance-your-career-with-a-scholarship-to-the-aws-machine-learning-engineer-nanodegree-program-from-udacity/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T09:34:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/30/ml-nanodegree-1-1.png",
-          "width": 1000,
-          "height": 462,
-          "title": "Advance your career with a scholarship to the AWS Machine Learning Engineer Nanodegree program from Udacity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-learn-how-to-start-a-podcast-with-this-45-online-training-bundle.md",
-      "title": "Learn how to start a podcast with this $45 online training bundle",
-      "excerpt": "Sponsored Kick off your new podcasting career with The Start-to-Finish Guide to Launching a Successful Podcast Bundle for over 90 percent off retail price.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/amp/",
-      "publishedDateTime": "2020-04-30T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/S2HMbnk.jpg?fit=1200%2C800&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Learn how to start a podcast with this $45 online training bundle",
           "attribution": null
         }
       ],
