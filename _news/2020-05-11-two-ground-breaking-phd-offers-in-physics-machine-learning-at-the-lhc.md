@@ -93,6 +93,19 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/f21bed06690d5fc91294f0ab3c600bf2_L.jpg"
         width: 620
         height: 465
+  - title: "Microsoft and Intel are using deep learning to improve malware threat detection"
+    excerpt: "Microsoft in collaboration with Intel has announced a new tool that uses deep learning to find and classify malware with high accuracy."
+    publishedDateTime: 2020-05-11T17:29:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-and-intel-are-using-deep-learning-to-improve-malware-threat-detection"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 35
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/03/microsoft.jpg"
+        width: 1024
+        height: 563
   - title: "UPenn, Intel partner to use federated learning AI for early brain tumor detection"
     excerpt: "The project will bring in 29 institutions from North America, Europe and India and will use privacy-preserved data to train AI models. Federated learning has been described as being born at the intersection of AI,"
     publishedDateTime: 2020-05-11T14:13:00Z

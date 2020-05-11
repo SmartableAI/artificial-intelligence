@@ -29,6 +29,6 @@ images:
     height: 686
     title: "The Station: Uber has a taste for Lime, Tesla drama, Moovit gets acquired"
 
-secured: "FegPSaLAG2DTdsCbgRaNhwF9zW7+dqt7AX4DzOxIqAWFULfJ81herfY+PqgfO9z/8M4iLqGuoUhBYRrGE4mCNH/Jaxkg+ngcVkaQbtVU49WX8arkloGnYoGBO+qRmTUkHlS8wL9j2T5QPeqlNrtcrDcrowIZOYvm+l5B4mmIvH0afT0m3WGev/cYDLZZB+X2Gz2ZRo/xAKMD7LlbNLk7qlwl/Z0fAeZD9cVtZLJDO+S5stRuVKeiZfaMSRJDcRbmMlQGmTrt78DuUopPRxDo7V8ZQkW7QP3RIl9VV5HOreAxENzYDiKP7jVRFvgQLItY;ZGZFe/rnkxf19YKcHJK31A=="
+secured: "ojtRrwEMJsrIzS7h+5MAmSE3xj88vXCWMV0oQxopPBTVJguu5H37InulRA7PiY0QW7858CB88W/pn4QO45gEUhF50Zh7l/jb36yWZi2Wu3qHIvCGztXMoNKZ7yvaRrT7GoCm1rA7LY++ooJbzFmO1XdQtPu4Ht5nT4R/TB01GEIZqh4+fvnX37VzkbIRxZ4U9Ju8BMiuMhlrtieWS3GDFKZLTVOcdZ5LiMVymjNgZvw48gShcGh9nHS5a4IWtiIp/pLNXNKohPPLouFqBdEC+aqE1P4LMR8h00BEYNN1bqdKQ/SvB0LGPZBXCx6GnQE9;rrAX7Qjqu6DPNtv4hA+1lA=="
 ---
 

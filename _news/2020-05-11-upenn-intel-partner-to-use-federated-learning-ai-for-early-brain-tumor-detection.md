@@ -106,6 +106,19 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/f21bed06690d5fc91294f0ab3c600bf2_L.jpg"
         width: 620
         height: 465
+  - title: "Microsoft and Intel are using deep learning to improve malware threat detection"
+    excerpt: "Microsoft in collaboration with Intel has announced a new tool that uses deep learning to find and classify malware with high accuracy."
+    publishedDateTime: 2020-05-11T17:29:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-and-intel-are-using-deep-learning-to-improve-malware-threat-detection"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 35
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/03/microsoft.jpg"
+        width: 1024
+        height: 563
   - title: "US startup is testing drones in India to enforce social distancing"
     excerpt: "Police are using surveillance drones to enforce social distancing rules worldwide during the covid-19 pandemic, raising concerns about privacy violations"
     publishedDateTime: 2020-05-11T11:26:00Z
@@ -120,6 +133,6 @@ related:
         width: 1200
         height: 800
 
-secured: "QHwxmRnVaeov2V40Y6qTmjqga+FMlRTBCZWo9kzlNw+yciGHf8h0y/FjAP67SWJK/CSjusg2poKw2SBuzT7mlF5C+LxaDHy0vMIPKuBRilVPesAnFCEXzPTJCqPhLdrLVNOLltl1L1UJn6geY+RJDvcj/Fk4BddAsreJ48eIiheJYTlft5l/DBS+1RMAqWjltEF/PP1gAn6cbi+0Ik4rjHTEec8/jmFeMd6Jspvne3Na8oowmYngbsQtWCm/FNDloEfGlwlPVM03MSA3c5/oUkrk4meJWoQCNOANO4XYUd3FVPYb9XUajVeVWaDnw4hU;ri2DjGp1PcXfcjg8bFMDoQ=="
+secured: "+3UYJbXunlghQkMnj+C7u/p4hWP9kqTTjgExdFvUFqNQuATD8GIkycLVrHenE3KSYT16DUt8Q2LujGNQjGdgMIhbTPv7M5yGeP0Str1SoyCHVJ5zeP2EfyLQ4LGaT+Bdrd973x7o3fB1o0dCgNACJq14Sxjl2PSdJxxl/hxt56O4tuNXJYKjr8UTFIe+7YB6bD5XIcV4EskMARVFmGor/cUs4U/WzdqHc+92bjKLKjVjE+O4FLJfIBckvB8O6EpYTN1wziHIaXKjsd+YuyTopjEbdT0fDjnwH9t955KN/1aW5jn03m1ABUS3IyD9nTNaG8NzpNcnQ7qNDMya/bvKyXw93LjgUxeVjxJe9NZSbeii3y4Rz0EJZbBLxgxm+PgqHQ7LHyq2gIvBigr+wCsAv8pTRLy2K3yn24bt5Lu8lxCRE+DB7KUvjlremjnO5mBYG1mV5R13u1vieQLiM1iWQkz0WVGSdgn3Tyo5LcqQjXY=;DyKqjQwKgBpPYZI+PWILwg=="
 ---
 

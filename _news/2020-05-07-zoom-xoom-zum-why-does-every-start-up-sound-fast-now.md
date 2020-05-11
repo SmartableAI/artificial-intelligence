@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.ht
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: "https://d30fl32nd2baj9.cloudfront.net/media/2020/05/10/zoom-graphics-100520-01.jpg/BINARY/zoom-graphics-100520-01.jpg"
         width: 1024
         height: 640
+  - title: "Zoom, Xoom, Züm: Why does every startup sound fast now?"
+    excerpt: "There have been at least 120 startups whose names include something that sounds like “zoom.” Another fact: They have raised a collective $1.8 billion in funding."
+    publishedDateTime: 2020-05-11T16:52:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+    images:
+      - url: "https://media.bizj.us/view/img/11660440/zoom-soundalikes-0*400xx2400-2400-0-0.jpg"
+        width: 400
+        height: 400
 
 secured: "YLdziLD0hiwjuMv1eFsaw3tFphiJC7HUSdBcwQdH+9kJBKEkR+fLECuu8LaFOEuJ7VGCGleu83fb5PDWxdhFZOwFIw6dIuKE5uqNSmtroYac+Oyd1l44z/EIlsj4io2vJ6wWzeTUSO9XZM9lPmvPFIMfsmBYFo37NZISk+VfxbzxzyQsRBAu4IiyCIVKI1N8/XrpyHbTeJqt5wr4tuZTzsCDtR5zYF/kn6DPUI26lFKsS6dSRzH7Dk9rcBSvU1HU0X3vxLfhCHimYWNGBl8vnwPzD4LXvuA4/TVVSgwfwl+kuWYVo0HrM97CtFoTAA285Kl9xQ05TxkMgXZOf0nB2d8EPSBiVZ0Mb//QDP90p3pPOvQF5Gl3WPa6Qi9L6RKFYtxrwIseRbf8Tpuvx6DZ2yXhjJ4kdW6zsPbuwMVV7cRJLpwXBFZuy1ReG8H+VuzvMvcVNb/8GrGLPKxrF28voCjFAFCgdKuiXPbZfd+6wlg=;xP35AVs/QUrKP+hDvddTog=="
 ---
