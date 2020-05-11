@@ -25,6 +25,6 @@ images:
     height: 800
     title: "Don’t use face recognition to fight COVID: We need disease surveillance, not a surveillance state"
 
-secured: "+MQZNj0c9kbOXdeiYnSorO/AjM1QoDBENCbIhDp8NZW2579ynAmvrcb0IhVKxPRJs4GmgXVxR6anNjuxDwSqYLlGRXgztHkMN0HrOPrU5IBnfBjHTduTGm08lxSO/NTzrxahox0+9sU7mAkFVi6IlZqhblGKpH4a2z4EBeN1RbyooHMvVD9hgB7TR+Y3Llf242RCq1FbpuOykc81d82NSW0DEj4xQQH6SJAdUTr+xfy+KTBbu43okbShjjYU8TrNdPVsd8rZQ9/3cHuOHgoKQtmQMhB/hpRDmkvYXfoC+Em6nyQRt5axb4DW37iOUB7L;F7RMnF27NzyRFdaeDZO5xw=="
+secured: "ljYnKTPLSSudrJP8vXIOC244Pj4xnWM9ZMD2EkTZD2g15GsND+nJVQmTUtHLKVcj2+LbYI71ccQ3/e5Ht/ck58gz30iHq+60a1zjdQsdgfnGiICD5++IPnZeqGhI50exR8SntyFiaLzupw0dh7Qek+4U4rkFb/6lrlws7FV8YjtU4NQ6gpQkU1gbe21Fi2MhtI/nV/l7jJ0/IOjuwrd4Aapq/iwCKuW624am3n/adHcmcmNNOVBKw51aY9VyRjTBLwC7WTX3R8TsinTbzI1BarcwmsFlE3rB66n/l2kwVyLFEt8AeYLobnStEgKWOwdFSF77y38VNTmNA8VKSmEb9ZatiMCl2K01An42wvXLMbIGpTH0nauDeLJm5KTXMi483L8Fhj9YPuJGOg+0QsN5gIgwTbb9e+wBUCyVu/meQG7oyJWmq1a096O8B7g4hr6e0PJvSVviruHJGQ2G/qcyL6NmA5+TqAtLN0ymHYMt3/o=;+XquNF/NSJoma5Db+8likQ=="
 ---
 

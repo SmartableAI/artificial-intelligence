@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://voiceofoc.org/wp-content/uploads/2020/05/©JessicaRuiz_2019_Anaheim-6EDIT.jpg"

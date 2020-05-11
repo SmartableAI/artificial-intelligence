@@ -1,0 +1,22 @@
+---
+category: news
+title: "Uber may soon use 'Real-Time ID Check' to verify if drivers are wearing masks"
+excerpt: "Real-Time ID Check is a safety feature that will periodically ask drivers to take a selfie with the Uber app. These selfies are then crosschecked through Microsoft's Cognitive Services to confirm the driver's identity. The feature was implemented for rider's security and now, it might be used for something more amidst the COVID-19 pandemic."
+publishedDateTime: 2020-05-11T15:56:00Z
+webUrl: "https://news.webindia123.com/news/articles/India/20200511/3556408.html"
+type: article
+quality: 1
+heat: 1
+published: false
+
+provider:
+  name: Webindia 123
+  domain: webindia123.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+secured: "bLTCRiNr7LzHm88byV0nZ+qJv82P8MfxVBLcqXoX5CBxL+7uCJrwCh5lyBJ+jHLmfhHqDQvmcw2vUIlQ3rxaKl7aGn2js06HLeFTowZYh0dQOv5TGF4aij9wJq84VC8DhJI7yWXEBmziqPmv/57jR0nkmCOBy135MQX3tpCRTKfIWk/wtqn2Z1B1p7prHOWT9vhXOXZf9J5yfaODXu9OiXQt5epo1istnlS0VE4QXDIaKUZ1XPZa3FVO18utI6vQQ4RaQNB2peE9ViVQnlHpCmgd8x8kzESdkP5AkdYua5L/RLQQNEDSZIyB4vh00yp2;NBTwOq3CnTSO+lIwbKYLzw=="
+---
+

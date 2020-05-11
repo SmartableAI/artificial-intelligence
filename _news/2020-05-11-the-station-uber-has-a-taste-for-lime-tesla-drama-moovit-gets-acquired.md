@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/11/the-station-uber-has-a-taste-for-l
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired/amp/"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 686
     title: "The Station: Uber has a taste for Lime, Tesla drama, Moovit gets acquired"
 
-secured: "MNZ2+QMEQ+yFbKZmYhoUi6q171l/n1wLbPB8ffHl9odpdsGb2FFr3kKRa1f4pcvqqxrQ5O4TtSa7DnYnZHhQwQgOpHWzy0Zm5phwuyiUqD0aSdtPgOVaex1yoeR9D33wNMT6oQ648uCPjd75Ep9zk7uMCNuCAR4BgM3NLY7eJf+8m6jY3jbqhk1q0dzRw36gKE1JSDmnai/QzWULhyA24wSa4iBnspBkpv9LzdmS1S37xd2pAyt93Z6LiY8lGEhg2NLRxOrV0iRAjaLuhpZNG8SN76y9eDCu1Z1R+dAaWTmoyzJ4k6lzYrqrS8lxraXB;Bu+l5CWzWAAwQ12DdrRaLQ=="
+secured: "FegPSaLAG2DTdsCbgRaNhwF9zW7+dqt7AX4DzOxIqAWFULfJ81herfY+PqgfO9z/8M4iLqGuoUhBYRrGE4mCNH/Jaxkg+ngcVkaQbtVU49WX8arkloGnYoGBO+qRmTUkHlS8wL9j2T5QPeqlNrtcrDcrowIZOYvm+l5B4mmIvH0afT0m3WGev/cYDLZZB+X2Gz2ZRo/xAKMD7LlbNLk7qlwl/Z0fAeZD9cVtZLJDO+S5stRuVKeiZfaMSRJDcRbmMlQGmTrt78DuUopPRxDo7V8ZQkW7QP3RIl9VV5HOreAxENzYDiKP7jVRFvgQLItY;ZGZFe/rnkxf19YKcHJK31A=="
 ---
 
