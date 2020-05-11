@@ -39,15 +39,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/9551588854713/2020/1/15888580152278/v1.5/Smarter-hardware-to-make-artificial-intelligence-more-energy-efficient.jpg"
         width: 800
         height: 533
-  - title: "Artificial Intelligence Is Energy-Hungry – Solution: New AI Hardware Made of Quantum Material"
-    excerpt: "Quantum material could offset energy demand of artificial intelligence. To just solve a puzzle or play a game, artificial intelligence can require software running on thousands of computers. That could be the energy that three nuclear plants produce in one hour."
-    publishedDateTime: 2020-05-07T09:04:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 23
 
 secured: "tfUUy53sDQS8ToIaJJbECZR2kBmWB8zztDykO4Np3/ves9aqTpKJMNTU343MGJXRKyPVZ5fY5VRAzzS3/4FPj2+tFgF8KnBk52nCupes/JivOj0jIJx0s96fhMwNPIJLraiWU3C2vDWhT4aDez6M7yLYGmM9F1oxx7AfOU0Wy86ekaQ4O6fekyoQ6KiXSre4Wzt1L3ZiiSKWcg45YAxj9U+Nk39Dja3FyaKBXozPOaIpmM5y/+iFj40enCjJCo0xd2wZtUs0vd20msHtamkL3UFhKzuu6filjS4eCJjd2pXXUWPLqpC0yofox+9VbPMlRZ99z2UhTW6XnJMVbj5Fyus6EjEdBBAyoVEk03HtDVRms48S9OK4AQssbBYPEEj0oJDhhazb0zfNGaeRajf8FGjc2u+fFSvbxdP6J/i7+zTtwbzugQHWk5BbB17DZIk27UKow2vBGJUdXINlHpFCS/MDVdU8Fzn/nDazit7CNuk=;FvyZNvCksLwpJYzlVLbWHw=="
 ---

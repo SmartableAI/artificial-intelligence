@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence as a Service Market Size, Market Share, Leading Players Forecast till 2023"
+    excerpt: "Global Artificial Intelligence (AI) as a Service Market was valued in the range of USD 1-2 Billion in 2017 and is estimated to reach market value of USD 6-7 Billion by 2023 growin"
+    publishedDateTime: 2020-05-07T04:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-market-share-leading-players-forecast-till-2023-2020-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "TgIv2Ad7Os4s+07JF1LxSeIKNNDBka8KQwOm4K+L8IHBWkKD/N5R5VcP5AS0emlWpy+HyGb0Yax08FdTmR/LlBqpIeVWuTpJWr/x1D+6P+mQ9TWXKAzYKXCuj/jc5yrY5jjJODA01T4+tUhrze0V7uk2pYbkWeFeQLp/6Iyu1n5ahajB35MYlQJ6s2R+8/QqweamfGjRjEhktLzpD4OcvVjVLatAMEz3NuHLsZFu/7eE+lJ7Hi3Z5yn55JfLgdWc+8zE+XE/bg7lUrTjvbRB8E5GxO+5NjVk+2jb6cjEYUllaolsTASob2EYpUWQT0v/;QlbkC5hd76gdsqlcYbxTPw=="
 ---

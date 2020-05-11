@@ -28,6 +28,6 @@ images:
     height: 417
     title: "AI is great news for digital marketers who are bored of being data drones"
 
-secured: "/NvunC7GQnfXh6/joWrzvUvwqFQsS3Br7UDhPm7IaNHvX8NFIxjd19Wr/ArRTuKuUhj/E7G0tJGkgh+kixHsC9lHW4trC+IkD0FPL0MJaEetzkxHZJKr3G7jFb+G/sfLijDzi6DPKwZBLnBKaAowGtlU39LdLyUY/awB/FVshAbPXhPcvZTawJjMfswEasi/x14sOU6SkMA3GCPK/QOvs+BlUTWS/eMOVNjvFxbfMp8w3lz8SD2AVXYFptwf0kfqtVcUFywJ+NmeWsME6a3aYPjrw/IqTn8xEpmDRJYhrjti+cnZLhBt6w72+mPizq5C;QaNDubo9zeEymbNNMwoakQ=="
+secured: "dQytnVUFREo/JK6n3DImfey30QS8/VnCy8q7rZBNbD9rst9aB4cmld/x9tO/wOVrH4CfmcLMVRy6Li3HB3mhlCyNViVSQyG7Qox9Qoelu+cSR6xUIEjdsDnzRCUWsQnGurtdEKeUod0n/EbmbNvly6kEibN2dRVbTBHkVfaGPpv0rZzGqcF+QCSzS1OuExYdJV067KD3n0zh18BRTN6IyUjHOA4V3FpGW0qz0vpjeHFKFTUEtKpii3RV3Ygltkg0vSmL6E8rdaLZuzmcIptv6E5DENOnZyq8oUVDxPS9QGBRdVHcMOT1loP2YSIRanvtOfNKQXBavEs9XbLD+sedFch2SzG4tn8Q/1J02CJnahW9Zo6s886z9LrYhGSh+i1WfBejOu9/VBguU/j0d4pYB7CSaNCFwL80vrAXUvu7LFx2FNuzkkjgphMYEkQiJJ2eg5LfbP9SBQUeu1mAz/xgDSaEMSSVIG/PPQuRNvpZneE=;wkGpIcxWfpznD5gmWJRBFA=="
 ---
 
