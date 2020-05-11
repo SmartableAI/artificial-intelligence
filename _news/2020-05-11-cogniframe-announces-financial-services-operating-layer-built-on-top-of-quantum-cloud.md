@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-11T15:03:00Z
 webUrl: "https://www.pr.com/press-release/812292"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,21 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Inspur Announces its Latest Open AI, Compute, and Networking Solutions"
+    excerpt: "Inspur revealed its latest Open Computing innovations that continue to advance open computing systems. Offerings include"
+    publishedDateTime: 2020-05-11T18:36:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/inspur-announces-its-latest-open-ai-compute-and-networking-solutions/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/reionization-header-image.fw_-405x228.png"
+        width: 405
+        height: 228
 
 secured: "ft9uN0amv47yQmhGl/HtknqAfw54DIz9zm31W7cWzy/Yiqec0iYltysyd/xqBzuZ5W07TskbHXSHXDAJ0M/MhTX9/js0Vc52sb/dJiysRsqbV16d9UZv9napgo+bJiq66NYl+9P93bAHHlutO7pcXqhRShAzdcKq0qxyIChKDfpyvrRUOEa7YJUsCkOS7E7qKK7qLvBLxzKw/maB0KHadm9I+h1qAl3qJfbCBWyTeujYsr7YOq3X7tPwQUyxQSYXVwRquG72scrX39OovRdhaArURSDppmRkcTpSSt/T3VIV3sMlW+Z+eolxRAwBJSVc;leC9IC43H6VJ4ZIYVjrXBg=="
 ---

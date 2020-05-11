@@ -24,6 +24,6 @@ images:
     height: 627
     title: "Quantzig Launches New Article Series on COVID-19’s Impact - ‘Understanding Why Online Food Delivery Companies Are Betting Big on AI and Machine Learning to Thrive in the ..."
 
-secured: "W2pqbHbtoAhp3zu69q8dkzB4xL8zTmmhYkUSB2K5u7N32P9RAh6CixWSd72Rvb3MgAayzX2ClYGXUES5Z8zxh+zNLhb51nwhuQPZPnNzKDADqQBwll6FwpaVhg3V3MVfzAViixOlsVVwSXEgwhRmZ5do52vIu/m9bdfDV990WkgwH0r0OoMJUHMvV2KUf2cqHodppWo0gjBOBhAnPJPmsK2DXjUlcLmYfarsGj/2Fg6s7m4j+eVHIZIBPh0pTPQRPxlVMVYrQ8iZSu6jIdVA8P+j3FSNPFrr5pVhZpA/JgZpWkuOZPy3Ib8uAd1c5LWR;a8QLka6qDvaK3n0qbIKp2A=="
+secured: "8+Xqz59E0Lo/GCM1lNAo1x9uOqAmv+ALU4IllzgbelAbwARrIpmChMH7nI8juWmwS7q3zRj5AbJOyTcCUyoJLePBHIHcsd3DcnTUtEm1ejVuxujZ85anWwMEU6OxuYqgN3WfZ8MrCJfLUOhSQRR2/tIMyYiAkQvNmS7MExNTJLy52hOQd8xEbkMdHkJvLdbMiZthwJfzPbTYkJLZS/uL2EwE2Nr4Tdcoe7mXQCSm/MJQMra3Q2zwLqfMV9rRCFJj9O4Jhn/myut0u5DHFaw04yl1ll9fzrO3EmWllQtcng4CSc2OXSQ+AmR00/4/mCYtKVIsRsJRlCjsh2H5fOnynIVObiaRt/Nhe62tqt1f804A7HaeoDZMDZQpsHnw73yicA9KNZ0Tg0UFH82um8zuMcBXY2QvVhKSV4ZEWOTQTaPi7F/fziJHNAdYEs002qC+P9XW0MkS+vMAxeaKobKWa1tSDoFhEkLLflHK9LK+duc=;YMcckbhroVTG4rbXbwcZLw=="
 ---
 

@@ -20,6 +20,6 @@ images:
     height: 350
     title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Worth $3.7 billion by 2025 - Exclusive Report by MarketsandMarkets™"
 
-secured: "p0SWwtQZGmyMN1naQf3ENv7OMAP2Fbhatu12c+1DU0dX+OnYMlB61qC41XrlC0xOMbomRRUlr8CbS7TzxhYVf1AC9bV0GBmHHUd8F+aE3E2OFULJ8EzintxojAlT3nXmrRRklaTGzxGH4gn76LZ41B2OmxUBouZgPYgvlFB84kd/30DfMblxh4YQWAq4iWmwNlNV49UpTukzfYwX5MYz4xL7ED5neqpNjmpiCbrYyYuVzOIU37xI+nD8jlzXb2PICgbIvtyogiHNVvAMvVvv08sGF0Vv+4ii5X1HtMntocgnuM3aD8xkaoKZceQLcBdi;mRDUfZvklIacOdeS3GDIMw=="
+secured: "xw9vtvYFz6X5UIs6nyEyPUgtJRaH3yMRkY3R74DGrrHPCRAYWriFgCr9A7L0zzexPapCSMyJGy2URsG4ZBNr+OSUBnJV45DSBrwRvAqFoHDxfvtKv196UqsuChPhEBI3fTXCtgFXeDKaKlcrpwGg0qw4I3v1pbKzVyyD+cM/XKvmUouU7bbjOzLWzmhLw1uH3uofE1voxeeDNjaLuGScml0aFSabrkzTrmHb2NojUsuKDyEALF7hs0+CH7uoiAHUFszW5HIb1ikjE5yvsbpI8TqxMfVOz6BJ3qOVuSPG3+gaNwlOftk4Qpn8iXoPmacm;T0HgZ1rZl3eNlrEMh+JpEg=="
 ---
 

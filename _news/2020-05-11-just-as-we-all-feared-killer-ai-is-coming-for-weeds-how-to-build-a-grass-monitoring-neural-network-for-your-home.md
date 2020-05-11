@@ -25,6 +25,6 @@ images:
     height: 432
     title: "Just as we all feared, killer AI is coming... for weeds: How to build a grass-monitoring neural network for your home"
 
-secured: "zrhxwnepBGMRnIGyl5Z1eWSztCfdMkUU7NX6LWyi72hTDvp68aFnF5RZ/0ywzBBoeEZ7BIFmEltuPvGLGjZcPwTEbDFqsnz+4d1/GHqzfZvuzLYo59GGkxvxbGs1YnRk3iXB8XJ8EVeg0+fvfMZ7XsK2dRC4jMTDhzlQL07vXh91CCmuIKnJix12CiuS8tEkDhtoFNPbn0BbaJ0cLq9zYdYCXbcFic4MYdUEIawnQ45nKoHBIpcKGStXS+0LOMo8jk8BmRHArVlU6q38sD+Ylgzyz5kOY2RbHX0rjX34KtNfzYHyv2j3zOAUpLFcrcxJ;HO5Tlm+r6e11hOpavk4AnQ=="
+secured: "yho0BlGWLgqXrgW/XjfyWtgvstNvrz0+xGZzG+ev4hfeUe28OG3zNB5cXJ2sQbocGHsx0kIwXgqMB7ANpEur3ieCCHlvNJKlWjq8SCvzYHXPDGKCvXxktqi7AnOhBiJ8XvdklWhE2H2u7+0FYfy4UHz1WMngPYRN7mCIurgEMr4NCJoGxZopRW6ISb1zBHEl9HV3/cmmlMHfQbL+/QcyWYg1zt4DHfEx4N9241CK/sYxhKC4ezWGkFAqhSJEE4zNbY69K37U9QtFjszuyRSrS4ukJeBY9R9PaNQHFf+7iKJyjGMZC5QwIgMJDGssYG26TM24N6OHI1CUnhucNLMPnQbsYEF1tFlRn+ovxinT7MXaG76SHFyYJAUIVJ6aeP433VEZb6IhX7+2Uy1urAiuoJE1v0kTgCGzXOdB75ZKtUXInDZ/Y9so0e9FFFTMg6/G/USvHC8jwBxdDRqFwjb4NXIPrelifMjXAIT3Ri/H2LE=;cMaCVLDssc0yyCshSdk+Xg=="
 ---
 

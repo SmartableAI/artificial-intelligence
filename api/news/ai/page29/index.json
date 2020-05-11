@@ -2,6 +2,43 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-04-10-facial-recognition-guide-from-vpn-compare-presents-incomplete-picture.md",
+      "title": "Facial recognition guide from VPN Compare presents incomplete picture",
+      "excerpt": "As the Electronic Frontier Foundation has said, facial recognition is “one of the most pervasive surveillance technologies” across the globe. Indeed. It is an industry estimated to continued to increase with an expected worth of upwards of $15 billion by 2025. But now comes “the ultimate” handbook: Facial Recognition: An Ultimate Guide ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.biometricupdate.com/202004/facial-recognition-guide-from-vpn-compare-presents-incomplete-picture",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg",
+          "width": 640,
+          "height": 260,
+          "title": "Facial recognition guide from VPN Compare presents incomplete picture",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-startup-tenstorrent-shows-ai-is-changing-computing-and-vice-versa.md",
       "title": "Startup Tenstorrent shows AI is changing computing and vice versa",
       "excerpt": "The new chips coming out suggest, as ZDNet has reported in past, that AI is totally changing the nature of computing. It also suggests that changes in computing are going to have an effect on how artificial intelligence programs, such as deep learning neural networks, are designed. Case in point, startup Tenstorrent, founded in 2016 and ...",
@@ -1212,35 +1249,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-upmc-launches-clinical-trial-for-covid-19-therapies.md",
-      "title": "UPMC launches clinical trial for COVID-19 therapies",
-      "excerpt": "The adaptive clinical trial relies on a type of artificial intelligence known as reinforcement learning to identify the best therapy for COVID-19, Angus explained. “This approach using adaptive platforms is not what people ever did normally, but it is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellwood City Ledger",
-        "domain": "ellwoodcityledger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

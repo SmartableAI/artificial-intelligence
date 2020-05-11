@@ -53,14 +53,14 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
-      "ampWebUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "publishedDateTime": "2020-05-06T07:52:00-07:00",
+      "webUrl": "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
+      "ampWebUrl": "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
+      "cdnAmpWebUrl": "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
+      "publishedDateTime": "2020-05-06T07:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
+        "name": "ITworld",
+        "domain": "itworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -79,7 +79,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "IBM AI",
         "AI"
       ]
     },
@@ -1063,19 +1063,27 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.reseller.co.nz/mediareleases/102748/united-states-image-recognition-market-will-take/",
+      "webUrl": "https://www.cmo.com.au/mediareleases/102748/united-states-image-recognition-market-will-take/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-05T21:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
+          "width": 600,
+          "height": 246,
+          "title": "United States Image Recognition Market will take the highest jump during 2020-2025",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

@@ -2,6 +2,43 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-22-ibm-fenergo-sign-oem-agreement-to-help-clients-address-financial-risks.md",
+      "title": "IBM, Fenergo Sign OEM Agreement to Help Clients Address Financial Risks",
+      "excerpt": "IBM (NYSE: IBM ... and know-your-client platforms equipped with the Watson technology. IBM will offer customers a complete AI application suite that is focused on risk and compliance that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govconwire.com/2020/04/ibm-fenergo-sign-oem-agreement-to-help-clients-address-financial-risks/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GovCon Wire",
+        "domain": "govconwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300000wBvK4EAK",
+          "width": 272,
+          "height": 270,
+          "title": "IBM, Fenergo Sign OEM Agreement to Help Clients Address Financial Risks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-ai-in-medical-imaging-market-a-game-changer-in-healthcare-sector.md",
       "title": "AI in Medical Imaging Market - A Game Changer in Healthcare Sector",
       "excerpt": "AI in Medical Imaging Market: Introduction According to a new market report pertaining to the global AI in medical imaging",
@@ -1255,43 +1292,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-learn-how-to-leverage-the-aws-cloud-to-build-and-innovate-at-scale-with-the-free-aws-summit-online.md",
-      "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
-      "excerpt": "The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online",
-      "ampWebUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
-      "publishedDateTime": "2020-04-21T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/static/default-ys-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
