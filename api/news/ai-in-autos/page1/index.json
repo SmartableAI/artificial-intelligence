@@ -393,6 +393,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ford-shares-a-years-worth-of-self-driving-car-data.md",
       "title": "Ford shares a year's worth of self-driving car data",
       "excerpt": "Self-driving vehicles require massive amounts of data, which can be difficult to obtain without vehicles equipped with cameras and LiDAR and miles and miles of testing. To help advance autonomous vehicle research,",
@@ -1028,14 +1073,14 @@
     {
       "path": "_news/2020-05-04-your-organization-needs-a-proprietary-data-strategy.md",
       "title": "Your Organization Needs a Proprietary Data Strategy",
-      "excerpt": "The need for proprietary data strategies is increasing with new data types and the growth of artificial intelligence (AI ... Alphabet’s Waymo and GM’s Cruise Automation, for example, are ...",
+      "excerpt": "Companies need to be more focused on proprietary data — data that is unique to a company and can be used to create a sustainable competitive advantage. The ne",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy",
+      "webUrl": "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy?referral=00563",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T06:10:00-07:00",
+      "publishedDateTime": "2020-05-04T06:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Harvard Business Review",
@@ -1044,7 +1089,15 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/05/May20_04_1197992656.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Your Organization Needs a Proprietary Data Strategy",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1198,51 +1251,6 @@
           "width": 1200,
           "height": 675,
           "title": "AI Might Trick Us By Pretending To Be Dimwitted, Including For Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
-      "title": "Fueling driverless navigation with AI",
-      "excerpt": "Generally, Artificial Intelligence (AI) helps to make products and procedures more efficient, but it also handles intricate tasks that can’t be easily managed by humans. When navigation comes ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/fueling-driverless-navigation-with-ai",
-      "ampWebUrl": "https://www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
-      "publishedDateTime": "2020-05-01T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Fueling driverless navigation with AI",
           "attribution": null
         }
       ],

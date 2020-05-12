@@ -926,14 +926,14 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
-      "ampWebUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "publishedDateTime": "2020-05-06T07:52:00-07:00",
+      "webUrl": "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
+      "ampWebUrl": "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
+      "cdnAmpWebUrl": "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
+      "publishedDateTime": "2020-05-06T07:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
+        "name": "ITworld",
+        "domain": "itworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -952,52 +952,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
-      "title": "3 Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "publishedDateTime": "2020-05-06T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "3 Artificial Intelligence Stocks to Buy in May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
+        "IBM AI",
         "AI"
       ]
     },
@@ -1260,6 +1215,51 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-logistics-ai-startup-covariant-reaps-40-million-in-funding-round.md",
+      "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
+      "excerpt": "Artificial-intelligence robotics startup Covariant raised $40 million to expand its logistics automation technology to new industries and ramp up hiring, the company said Wednesday.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
+      "publishedDateTime": "2020-05-06T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183896/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

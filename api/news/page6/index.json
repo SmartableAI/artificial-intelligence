@@ -2,51 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-05-06-spell-machine-learning-platform-goes-on-prem.md",
-      "title": "Spell machine learning platform goes on-prem",
-      "excerpt": "An end-to-end machine learning platform designed for ease of use, Spell now offers incarnations for both public cloud and data center deployment",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3541757/spell-machine-learning-platform-goes-on-prem.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3541757/spell-machine-learning-platform-goes-on-prem.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541757/spell-machine-learning-platform-goes-on-prem.amp.html",
-      "publishedDateTime": "2020-05-06T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_vector_by_kohb_gettyimages_1146634284-100817775-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Spell machine learning platform goes on-prem",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics.md",
       "title": "Cloudera Machine Learning MLOps suite generally available as it aims to manage models, analytics",
       "excerpt": "Cloudera Data Platform has seen solid traction in recent quarters from Cloudera and the hope is that CML MLOps will ride shotgun.",
@@ -260,6 +215,51 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -578,19 +578,27 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.reseller.co.nz/mediareleases/102748/united-states-image-recognition-market-will-take/",
+      "webUrl": "https://www.cmo.com.au/mediareleases/102748/united-states-image-recognition-market-will-take/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-05T21:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
+          "width": 600,
+          "height": 246,
+          "title": "United States Image Recognition Market will take the highest jump during 2020-2025",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

@@ -24,21 +24,6 @@ images:
     height: 480
     title: "AI VIVO seeks pharma, biotech collaboration partners to advance drug candidates for COVID-19"
 
-related:
-  - title: "AI VIVO Seeks Collaboration Partners to Progress Top-ranked COVID-19 Therapeutic Candidates"
-    excerpt: "This underlines the ability of AI VIVO’s platform to systematically and correctly identify candidates with the highest chance of therapeutic success. AI VIVO is now seeking partners to test other candidates identified by the platform as top-ranked,"
-    publishedDateTime: 2020-05-07T12:02:00Z
-    webUrl: "https://apnews.com/Business Wire/1d21505ee1b6440c894ebdb420f96d8c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-
 secured: "QnJP0f8sJF3WnBLYx8tWOtMOWg4nX284y4o0b47dDpmjsCVyCZRDofP3geP01Jj/rXnUvqIqUzdP0x3Zuoy+L7YnENJzOHG8kmjUjAbIn71gJInH3NJFXieACamn9shAMaKpu67u1O8vVzstEXO77GRnELFR9wptwNLNmmKOE5uQH1koiPuLYfw/1UG1XG9xpuHaJr9LGXFNrvUE7SPaR8Vn30RB4U9R+c5sSReR3jCvm7EuKnhpdfdrIHn/9IwH7LlnQneXPqGdbTKmXkKg5Mt4gfBkaKlSZN2FRHEiAmHYIup7onewEj+4dvmLB6ETv0XXAsfQyXKdqa+RlNlcWkMtT3nnOGsaWx9uiR/9Qo6RPVzHTXTmSB+qp3xeqy8qt+JANDS/5J/d2YdNqXkJedhkdJnCHUg6JaONPkAQwgbkYch7mdI2qjZqXdhxh8ivOeZ8OckVNxSMo/0eU1C3ziXzMFjEmWxxCWBR81rrWLo=;VvJ9tfIhe6W0BTX7HNJEWA=="
 ---
 

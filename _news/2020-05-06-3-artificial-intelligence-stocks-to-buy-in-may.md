@@ -1,9 +1,9 @@
 ---
 category: news
 title: "3 Artificial Intelligence Stocks to Buy in May"
-excerpt: "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46."
-publishedDateTime: 2020-05-06T14:45:00Z
-webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002"
+excerpt: "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ..."
+publishedDateTime: 2020-05-06T11:01:00Z
+webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 type: article
@@ -17,7 +17,7 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
+  - AI in Autos
   - AI
 
 images:
@@ -26,6 +26,6 @@ images:
     height: 378
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
-secured: "t4esXaY04tzxURXoEQwrjXeK4XtkZWhmTp0Z26/XMQT+mNVoKjPrAj7v2/Faqh7rvJPspqRRM4eXo5gw6d5aed/3P1852BkpSyL0zanzdyJaqxd/VgdU5WCTgihEVALFeEdpAF+Hwfm+GZm4QLSto3a25DSKZEY3q6doB6leCGte6/nvltGn5sF9zSikYUGG90FBbQDN/3/vfql7Tbevq3V6jEz3ZB/OnHT+oq0cLCvWE+1TbM7wOvLWAl6JihocVFNLddTUDgRayk5wEaSYWzQ7aQrDFPtWOG9gukifGQKwusULPWSraeV4tbz6ZMIA;GPfYL3AbfOeicv98GiukRw=="
+secured: "a9MA7Xswl2FXsQy+a3R0JawT9y9As3ukGCN0PWDBdvxg+hKqMWX7KM4sIUJ/hECqmTMy/gwt6eAukbUcm3POWnptPGB0wLKvymWwRnuo5EfPwxJYSDNiFD5CnyQ7gBInxtbVwYzG3GG6NfzQ7Zl+Eh/V7ZaHd3Wr0UWLsJsSosLka5sQRsPgr7WYChZ+4e9uYkuxeEKAnKjj1sFcmUBxrs/j/YBGcZSjeKgLZzwWRS5Jcz4w4UhvDRKsmWOnwq7l9s4AbG+/p/fFwx+oqQB146uZ8FVqDSqVx/C2grV0rp81zB/rChoqEt2Wg9CGLOlU;5USGJky9F5deCiHT8ImJ6A=="
 ---
 

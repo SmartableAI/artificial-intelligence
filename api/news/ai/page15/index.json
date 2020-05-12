@@ -659,6 +659,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-27-countdown-to-kindergarten-tips-activities-from-creative-discovery-museum-to-prepare-little-ones-for-school.md",
+      "title": "Countdown to kindergarten: Tips, activities from Creative Discovery Museum to prepare little ones for school",
+      "excerpt": "Along with shape recognition, color recognition is an important step in cognitive development for children. It plays a part in object recognition, and helps a child develop the descriptive ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.timesfreepress.com/news/tfp-families/story/2020/apr/27/countdown-kindergarten-tips-activities-creative-discovery-museum-prepare-little-ones-school/521623/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Free Press",
+        "domain": "timesfreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.timesfreepress.com/img/photos/2020/04/27/gettyimages11354749461996225658_t1070_hcd394fbf6fdeeaf7133cf06c6bb2d88de71e4110.jpg",
+          "width": 1070,
+          "height": 714,
+          "title": "Countdown to kindergarten: Tips, activities from Creative Discovery Museum to prepare little ones for school",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem.md",
       "title": "Apple iPhone 12: This New Security Feature Could Solve The Face Mask Problem",
       "excerpt": "You try to open your iPhone using Face ID, but your face mask gets in the way. Apple iPhones use depth perception to detect your face for Face ID, so many of the tricks don’t work. It’s frustrating for many Apple fans,",
@@ -1212,50 +1249,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-ai-startup-weve-removed-humans-from-business-negotiations.md",
-      "title": "AI startup: We've removed humans from business negotiations",
-      "excerpt": "But that is exactly what happened in late March this year when Estonian startup Pactum, which provides an AI-based commercial negotiation tool, was engaged by Walmart to automate negotiations with part of its global supplier network.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-startup-weve-removed-humans-from-business-negotiations/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-weve-removed-humans-from-business-negotiations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-weve-removed-humans-from-business-negotiations/",
-      "publishedDateTime": "2020-04-27T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/20/0cbe715a-9388-45c9-8237-a85e194778e5/thumbnail/1200x675/2f631e2f35c572488ba70aa7ff321067/carfillingupistock-900314960.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI startup: We've removed humans from business negotiations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

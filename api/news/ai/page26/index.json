@@ -2,6 +2,43 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-04-16-how-machine-learning-can-keep-sas-retail-shelves-stocked-during-covid-19.md",
+      "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
+      "excerpt": "“Implementing technology with machine learning capabilities will provide retailers with the ability to run insightful analytics and augment this data with trends from other markets already dealing with this crisis. This gives them the ability to predict behaviours and stabilise supply chains,” he says. He adds this information can inform ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itweb.co.za/content/kLgB17e89BPv59N4",
+      "ampWebUrl": "https://amp.itweb.co.za/content/kLgB17e89BPv59N4",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/kLgB17e89BPv59N4",
+      "publishedDateTime": "2020-04-16T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/04/Morne-Laubscher-400X.jpg",
+          "width": 400,
+          "height": 303,
+          "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service.md",
       "title": "Microsoft adds five new Indian languages to its Microsoft Translator service",
       "excerpt": "The Microsoft Translator service is part of Microsoft’s Azure Cognitive Services API, a collection of machine learning and Artificial Intelligence algorithms. Organizations can use these APIs ...",
@@ -1235,51 +1272,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy.md",
-      "title": "Uber claims its AI enables driverless cars to predict traffic movement with high accuracy",
-      "excerpt": "It’s well-understood that without the ability to predict the decisions other drivers on the road might make, vehicles can’t be fully autonomous. In a tragic case in point, an Uber self-driving prototype hit and killed a pedestrian in Tempe, Arizona two years ago, partly because the vehicle failed to detect and avoid the victim. ATG’s ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/amp/",
-      "publishedDateTime": "2020-04-15T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber claims its AI enables driverless cars to predict traffic movement with high accuracy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

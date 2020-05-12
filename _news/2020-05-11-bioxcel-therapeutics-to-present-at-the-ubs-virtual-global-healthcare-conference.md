@@ -21,17 +21,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "BioXcel Therapeutics to Present at the BofA Securities Virtual Health Care Conference"
-    excerpt: "BioXcel Therapeutics, Inc. (“BTI” or the “Company”) (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence to identify improved therapies in neuroscience and immuno-oncology,"
-    publishedDateTime: 2020-05-07T11:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bioxcel-therapeutics-to-present-at-the-bofa-securities-virtual-health-care-conference-1029176390"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
-
 secured: "EK4qig8/8wLbGdTuHfEnk8XbAwCKHgeEQLsfIL9pvvM6WcYtkHpOysuPAkXhIVofVfXscPcdPn+7Hj06XfWxt+60DZiMBD3NtSNF18e/3/ZNphh0vZzyOC6DwAwBnFZUm9bK/oT4Ar0ShSxdX5WGh/4hmqjWldmWYEhwqdkay0nqJnAgAr2WNeKBz/sL0lI2wdZvVbBYsdJMzk5GlM8lfXifPhU0OlzvkebJ3EQUd5p2xX/tclOOzLBYnrWD7O3PqFPmjl5klIpEOfVqO0NLZw8sj47pUEBu3Hkq9ae/VR6ai1KtnxrSiXwKyQLCIizP;BSlinr5emXkV+SBtO4upRg=="
 ---
 

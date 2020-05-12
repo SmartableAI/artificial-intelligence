@@ -393,19 +393,27 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.reseller.co.nz/mediareleases/102748/united-states-image-recognition-market-will-take/",
+      "webUrl": "https://www.cmo.com.au/mediareleases/102748/united-states-image-recognition-market-will-take/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-05T21:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
+          "width": 600,
+          "height": 246,
+          "title": "United States Image Recognition Market will take the highest jump during 2020-2025",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1168,38 +1176,30 @@
       ]
     },
     {
-      "path": "_news/2020-04-27-apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem.md",
-      "title": "Apple iPhone 12: This New Security Feature Could Solve The Face Mask Problem",
-      "excerpt": "You try to open your iPhone using Face ID, but your face mask gets in the way. Apple iPhones use depth perception to detect your face for Face ID, so many of the tricks don’t work. It’s frustrating for many Apple fans,",
-      "heat": 81,
+      "path": "_news/2020-04-27-countdown-to-kindergarten-tips-activities-from-creative-discovery-museum-to-prepare-little-ones-for-school.md",
+      "title": "Countdown to kindergarten: Tips, activities from Creative Discovery Museum to prepare little ones for school",
+      "excerpt": "Along with shape recognition, color recognition is an important step in cognitive development for children. It plays a part in object recognition, and helps a child develop the descriptive ...",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/04/27/apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem/",
-      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/04/27/apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/04/27/apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem/amp/",
-      "publishedDateTime": "2020-04-27T08:36:00-07:00",
+      "webUrl": "https://www.timesfreepress.com/news/tfp-families/story/2020/apr/27/countdown-kindergarten-tips-activities-creative-discovery-museum-prepare-little-ones-school/521623/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T08:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Times Free Press",
+        "domain": "timesfreepress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e43ce58f133f400076c3c67%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Apple iPhone 12: This New Security Feature Could Solve The Face Mask Problem",
+          "url": "https://media.timesfreepress.com/img/photos/2020/04/27/gettyimages11354749461996225658_t1070_hcd394fbf6fdeeaf7133cf06c6bb2d88de71e4110.jpg",
+          "width": 1070,
+          "height": 714,
+          "title": "Countdown to kindergarten: Tips, activities from Creative Discovery Museum to prepare little ones for school",
           "attribution": null
         }
       ],

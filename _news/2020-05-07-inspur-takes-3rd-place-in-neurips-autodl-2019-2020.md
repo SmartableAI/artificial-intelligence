@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020"
-excerpt: "Recently, the results of the AutoDL (Auto Deep Learning) 2019-2020 finals held by NeurIPS, a top AI academic conference, was announced and Inspur's te"
-publishedDateTime: 2020-05-07T15:13:00Z
-webUrl: "https://www.businesswire.com/news/home/20200507005360/en/Inspur-Takes-3rd-Place-NeurIPS-AutoDL-2019-2020"
+excerpt: "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ..."
+publishedDateTime: 2020-05-07T14:42:00Z
+webUrl: "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://mms.businesswire.com/media/20200507005360/en/790124/23/inspur_logo.jpg"
-    width: 1200
-    height: 627
-    title: "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020"
 
 related:
   - title: "Inspur Takes 3rd Place in Auto Deep Learning Finals"
@@ -38,6 +32,6 @@ related:
         width: 1348
         height: 1348
 
-secured: "Fwahh3xR3FHzjk0MdRchj0wi+d93BLn9e3oWlzs10xXT0M+TTE5J0LOriyo7tSc3Ow4Ya6IV/WCjr/PN4lHkRQMw6swPbN1grQJIRQSiAOIeqxGSPeJMnsIXEOD2hs7PlvU9JuJhaR8zx2IjNB7mEGzrGEUlIzDfcHG59NsgiZotyhjD9Syb98I8dnoFJMWfuUqhz/0bjIqVglCN6zvVnGi9ttTjEggoG1sUCgvRqbOMWl/wBvNStBYUIrb343s3LNqJFwpqhG7bohIvwC2FtImP0e81Jkw5hMumSfZVKv8WO02i93EveT32HVhG23kM;ODcG0JdB6w4xK/FDUFloEg=="
+secured: "A2LRAdwiSTmi/px0vPlUWEozt7IpPK14iIOY+dQcKbvpTr67Ik5alDfjbUQl4Fw9lh0svp23B2cmRaZHKUvw0E3QWAZ4aLkRfrKC7ACZ0ulYRCYtDR6aOU5RoqLsfnNEokzglRzqiwHLxt8761ExnYmJR6LyDAohNdFtNm1uHweuSe3kuG2twwbs8wNfu3XLkC0Tx4YtFObWjzSLIWnHQX44XawnzbzNAGz86WkDX1yyy8xmldKYVNEC2ZkhEItrGzHV7/3oNDaKc8Qyv55Ut5KdQhkHdD1aBgA0oR3a2sEXJ6fj2+iXZ/Q+t6XycmiK;rssaGD2bDVUB0dp6lXTHQg=="
 ---
 
