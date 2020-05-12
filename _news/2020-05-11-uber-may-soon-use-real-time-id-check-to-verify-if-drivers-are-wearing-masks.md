@@ -33,6 +33,19 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/uber-mask-GettyImages-1211871217.jpg?w=1024"
         width: 1024
         height: 683
+  - title: "Uber may soon use 'Real-Time ID Check' to verify if drivers are wearing masks"
+    excerpt: "Uber might use its selfie system to check if drivers are following safety protocols by wearing masks or not. The system was first implemented for identity verification of its drivers by the company."
+    publishedDateTime: 2020-05-12T10:09:00Z
+    webUrl: "https://www.sify.com/finance/uber-may-soon-use-real-time-id-check-to-verify-if-drivers-are-wearing-masks-news-topnews-ufmp9agfeceig.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 21
+    images:
+      - url: "https://www.sify.com/uploads/uber_ufmp9agfefagi.jpg"
+        width: 600
+        height: 450
 
 secured: "bLTCRiNr7LzHm88byV0nZ+qJv82P8MfxVBLcqXoX5CBxL+7uCJrwCh5lyBJ+jHLmfhHqDQvmcw2vUIlQ3rxaKl7aGn2js06HLeFTowZYh0dQOv5TGF4aij9wJq84VC8DhJI7yWXEBmziqPmv/57jR0nkmCOBy135MQX3tpCRTKfIWk/wtqn2Z1B1p7prHOWT9vhXOXZf9J5yfaODXu9OiXQt5epo1istnlS0VE4QXDIaKUZ1XPZa3FVO18utI6vQQ4RaQNB2peE9ViVQnlHpCmgd8x8kzESdkP5AkdYua5L/RLQQNEDSZIyB4vh00yp2;NBTwOq3CnTSO+lIwbKYLzw=="
 ---

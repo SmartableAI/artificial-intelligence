@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/07/uber-may-use-its-selfie-tech-to-ve
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/07/uber-may-use-its-selfie-tech-to-verify-drivers-are-wearing-masks/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Uber may use its selfie tech to verify drivers are wearing masks"
 
 related:
+  - title: "Uber may soon use 'Real-Time ID Check' to verify if drivers are wearing masks"
+    excerpt: "Uber might use its selfie system to check if drivers are following safety protocols by wearing masks or not. The system was first implemented for identity verification of its drivers by the company."
+    publishedDateTime: 2020-05-12T10:09:00Z
+    webUrl: "https://www.sify.com/finance/uber-may-soon-use-real-time-id-check-to-verify-if-drivers-are-wearing-masks-news-topnews-ufmp9agfeceig.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 21
+    images:
+      - url: "https://www.sify.com/uploads/uber_ufmp9agfefagi.jpg"
+        width: 600
+        height: 450
   - title: "Uber may soon use 'Real-Time ID Check' to verify if drivers are wearing masks"
     excerpt: "Real-Time ID Check is a safety feature that will periodically ask drivers to take a selfie with the Uber app. These selfies are then crosschecked through Microsoft's Cognitive Services to confirm the driver's identity. The feature was implemented for rider's security and now, it might be used for something more amidst the COVID-19 pandemic."
     publishedDateTime: 2020-05-11T15:56:00Z

@@ -1,24 +1,34 @@
 ---
 category: news
 title: "Why an Ugly 2020 Won't Change the Long-Term Buy Thesis for Arista Networks Stock"
-excerpt: "The year 2020 was already going to be a ho-hum one for Arista Networks (NYSE: ANET), and the coronavirus pandemic certainly hasn't changed that. As expected, the first quarter notched a year-over-year decline in sales,"
-publishedDateTime: 2020-05-09T15:30:00Z
-webUrl: "https://www.nasdaq.com/articles/why-an-ugly-2020-wont-change-the-long-term-buy-thesis-for-arista-networks-stock-2020-05-09"
-ampWebUrl: "https://www.nasdaq.com/articles/why-an-ugly-2020-wont-change-the-long-term-buy-thesis-for-arista-networks-stock-2020-05-09?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-an-ugly-2020-wont-change-the-long-term-buy-thesis-for-arista-networks-stock-2020-05-09?amp"
+excerpt: "The year 2020 was already going to be a ho-hum one for Arista Networks , and the coronavirus pandemic certainly hasn't changed that. As expected, the first quarter notched a year-"
+publishedDateTime: 2020-05-09T19:00:00Z
+webUrl: "https://www.fool.com/investing/2020/05/09/ugly-2020-not-change-buy-thesis-arista-networks.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/05/09/ugly-2020-not-change-buy-thesis-arista-networks.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/09/ugly-2020-not-change-buy-thesis-arista-networks.aspx"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "60YAxKhuhtQ72y7x/As6p870sNPB25KE4eCJKPhp4R0Yhzwy4F69yr03Nuoj3C4YAeJ463EFONvUYd1N/wQh3sS7i4q7zD7OzWqZDwGoSqI2H0HJtU3Jf3qHE1F+PgtC1X6SIbbj+mexzBdGHGMSjp7gC2eRoTeMEzZ5uOB+PbBq7gtEBxmuYaSGLkhgsLaf9v3sNKRB5iU+6p0KcpRg408Lpg90D2wuZJnMRq08l9z3imkkKrQOTuW8CTD9/cc+3iujhLnEQ6oy45LsNXGer69vrNEK7OnoLi78QYMpZ94KdoQMfiMnXvZoVxF5rB/O;URc5zEJQMIi+E0tOMEhMWw=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
+    width: 580
+    height: 378
+    title: "Why an Ugly 2020 Won't Change the Long-Term Buy Thesis for Arista Networks Stock"
+
+secured: "we5gr3iZXQG40vDOleArJ4fajngwnadX74bD+6HKQ4EDhKpzhv4Z7FNDQLLHQsMvQlMgH2R4nQ0eGLN88y6e3TrZ4v1VMM8QV6ojkzG7QrAmPR2bM96+V1dTHwPWAk3fEcZxJQ0lLTYYfhVTDmSTvA1Py/ZRooee60kZ9svd37yynA7siPTTzKZ+n5IgZASFJh09ce2Yu6r5IUTWtqlWYwKHrU0tfPHlDoJ8eKbtBpQvcWhzCHwkiylXIusLK1S1K+zCU4k2+to+F/HPyu4oJobb2xlKqrVUWkfnoST3U3tXng8TpfIEpU9l5GbAWMIL;L3+RKxffmtkbkDYwAiDj9Q=="
 ---
 
