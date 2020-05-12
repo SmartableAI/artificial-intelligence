@@ -29,6 +29,6 @@ images:
     height: 682
     title: "SiMa.ai announces $30M Series A to build out lower-power edge chip solution"
 
-secured: "8SqnZqLRz+hxd/Rr0snRT30x2cUKJN43adSKQA7HGkZRfFHe53DZIL0OdqypI/Zw4rz5jTGyDsPLbIxhNOMu50KOvIrroJ4vjcjPGNYD/3xWex9w66OihsP3s5Ot7xaaIKmYt7AiJiTpomBz07lXssCQK0zxLefBn2Ajcipp/jBdsWsdt5YK/mKp/iwMMqjlI/mldA0Zp07NbDsZAIt9tete2PnrvER09nIIHVvL5/udoeFKM0OAMHz9QN116h5wXGygbSfPGNsk7MzsfXuy14+HsruH86fjh+ceZ1YR4gHUaJGVgLKEDYFut39edoZM;3+27U/YMILeh4Wff27mJFg=="
+secured: "6dBmJbvfIqnOT9GIlCQ4diFOraKpAgJoDM8mn38FpddvPCh5IlXlMNnkLC7+iiZYnNGaE1BOQozgsK1L+26GR51o+aJoTM44QFeTD7WbAXtLsdDY7r+isu3TxpDT9ZyM+EHVkif5SGaj2DiKkVrM47ug7tJi3DmaM3U2ZGGdpNM3NI1JLiaD6Zktrfn5le21VgjwCi5+y4gSPvXbSsS6LNlck76bmAk+SKK0LYUQ6qkhA/aDVK9MlykEZ8JxQOIxg76CDhSO/Wy8NqND2xQ9GkGO5Trfx2jshw3GAwWAzIwfP581A5xxlOX5u8XkQKDQW0o/VpCaoJ7mXsTxgjj85X0iv1Di4nGDUGtiT/4B1SSZGH/9DUz9A/Yke6p9uRpzvAAlrAg5eVoJjwM0wUkWh/tzBS8S7Oav3uEWSkPbOurvmKbk29Hmi2Jcpb+n7J4GsKeTZ+xcI44M6NhO+VOwPQFp55nLawWyWu63E8YrjyY=;NL2M47WXKk/jzVOfOrN3aA=="
 ---
 

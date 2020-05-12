@@ -25,18 +25,16 @@ images:
 
 related:
   - title: "Machine learning cracks quantum chemistry conundrum"
-    excerpt: "A new machine learning tool can calculate the energy required to make -- or break -- simple molecules with higher accuracy than conventional methods. Extensions to more complicated molecules may help reveal the inner workings of the chemical reactions that nourish the global ecosystem."
-    publishedDateTime: 2020-05-12T13:11:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-05/sf-mlc051120.php"
+    excerpt: "A new machine learning tool can calculate the energy required to make—or break—a molecule with higher accuracy than conventional methods. While the tool can currently only handle simple molecules, it paves the way for future insights in quantum chemistry."
+    publishedDateTime: 2020-05-12T14:44:00Z
+    webUrl: "https://phys.org/news/2020-05-machine-quantum-chemistry-conundrum.html"
+    ampWebUrl: "https://phys.org/news/2020-05-machine-quantum-chemistry-conundrum.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-05-machine-quantum-chemistry-conundrum.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Phys.org
+      domain: phys.org
     quality: 39
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
 
 secured: "s7scJ0O5VoUiDt+LXJGUZ5BmLrG0fUNr6d49puWxDnQk4t4R+wpM684F74in9LW/cTJrKO1twlG+xrHLFV3u62NaGxh8hi9PcC3iFRDYtnxFi4QexyNxXhzcCrkaYhHX9dAJ56Wmtdram2S0RDeE8wR6mSV40fQzBxicmzL24L2nzlotYadi1gX0O4JPSb3wsZ6T5JbkpJVAC+dsBWNExv/HQeJBDrmQ2+yNRYI69B6emPDFT37+YLV6epRE1PtC+Fvbuej3kQHjFyQgx03XWZBgPTTHVN9WXnrdxnKKy06MWn/hGd91OvCAXexlhopk;e4sETYCCEPIr12qUOoGALw=="
 ---

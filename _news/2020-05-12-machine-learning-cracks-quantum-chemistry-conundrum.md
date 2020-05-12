@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Machine learning cracks quantum chemistry conundrum"
-excerpt: "A new machine learning tool can calculate the energy required to make -- or break -- simple molecules with higher accuracy than conventional methods. Extensions to more complicated molecules may help reveal the inner workings of the chemical reactions that nourish the global ecosystem."
-publishedDateTime: 2020-05-12T13:11:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-05/sf-mlc051120.php"
+excerpt: "A new machine learning tool can calculate the energy required to make—or break—a molecule with higher accuracy than conventional methods. While the tool can currently only handle simple molecules, it paves the way for future insights in quantum chemistry."
+publishedDateTime: 2020-05-12T14:44:00Z
+webUrl: "https://phys.org/news/2020-05-machine-quantum-chemistry-conundrum.html"
+ampWebUrl: "https://phys.org/news/2020-05-machine-quantum-chemistry-conundrum.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-05-machine-quantum-chemistry-conundrum.amp"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-    width: 900
-    height: 300
-    title: "Machine learning cracks quantum chemistry conundrum"
 
 related:
   - title: "Artificial Intelligence Cracks Quantum Chemistry Conundrum"
@@ -38,6 +34,6 @@ related:
         width: 777
         height: 435
 
-secured: "RQrppsmLqKGMdm6XR5S59/Qhfs+IVRxxoX7jfHWJ+DbpNj8LJfpZDB+MeVfrSU8y8kUQE0mTlNtIckGwDnygipekAsexGIWx1ym+BQKbtba3YJT+JzeyZEai4f9OW0GXP7s0ipvzRyOObo1OoGz3G0yS3URsmcdd+8SZfgO+3IVQpz0O1larJNY/MdCKbmrInjGggV6qPscXcpJ6MOIwoGfeG0KrdMhwzToU8vE0zHAXZ80MmCRC9f9g5Gs6B/OQBJMTghaK12ojNQMPIg2dKXPYpDYzCqMCia3rama9hcVdo5MuZAo4tZmfe5vEUkqV;M1AKO2Xmk8dMv8qnLK5GzA=="
+secured: "FgNi/DgY4/sl1mb5+TF6skppU3yW/ZyGapb//7t/ePtUtQ2ey1Idh5LWQuq+Bwn4e8lWGwZvPSRj/rZOQrmzzTg2rNNDCy70iIoptpQzXEW9rmcurVCZMs+i9OmQjt09+iCqNtcT1J0bJ0fyqHsifJRQfLJwtrog6OJ3bxMM59kBmJCxQvc9m5U9Qn84jbmA7VF8kvxqxTiC1TfJuqOjzi10vq+MlxB/cNMOMtXwIYnGEXJoYklxkIxfriDR2H7GqDSFMULShgZQswQhqWNa9Sh3d1NKZhYBhuH8KsNR1I+v4s4uU5ncwwDP1BjtGBkDuob4HvBwAbLsHr29vNCIvDoTTAd3vGu8CYX1j0RRW5Vz8f5+TyNz9wvBt/it6943WX79xEJxkmjco3IZcJskZdMieSHXTLiECcrvyurukFRJr2gqGmUD79oZMcE/yLY0X3LtFEea1IUaIKyRMBZUd2ZAuM5Zxn9Koblbwce4/2Y=;b7rE/s4RpMNO+88vWXFqRA=="
 ---
 

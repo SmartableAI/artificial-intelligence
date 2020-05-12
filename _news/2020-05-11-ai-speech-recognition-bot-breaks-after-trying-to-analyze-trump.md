@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/ai-speech-recognition-bot-brea
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 405
     title: "AI Speech Recognition Bot Breaks After Trying To Analyze Trump"
 
-secured: "iqJUfXgZhoodPJ98wqCL+1M9VBM7Zy6E3KglQeimPtK2IReHs1mbFVw43gOGksn8k/SSeXRfpAx+h6VqiNzJv3Fq36t51gHnhKNSQ8CY+jra3SMvHUHZcDTa4qHU/py4jFKC8P2F2iiQjqjerRFH9cE/35/n4xh/OI4Q1Myq7WNGRLpzHntQ1YtIKKLH4RtQZ7wUo/t21kxLed0BEWq1A2imIVyxYSw7xoHwt0N4Z0jaYUvJei3Nh/PAkbSfVEdx4ZrDmRZeycKP0SisfyThbd2wq/Zf0oI+zSW1GdiOvBDjmwqqgvZOzjGDpx9rSeH9SU6syAyJgK51bxjBk6v7AGloikLHBXpSXhnt4GoDgwv8C5qqvVJE0RmwN/6LIsmo3/cFp4ytx+X6VIywq6zZ+SyqExj3Qyw6usLcrg6FCHIhOEKYX1/2clyCGlo1KaeOu0HJim1hf/zg671pdNsILJR5igpVN3Hx7O13cEvT3GM=;hlwRQ1c42mFS7fZiirAH/w=="
+secured: "r+P5Q5BB0PpUW5fQDjVOxYHW1OdN0wyINkDHrz8A6Rfd/eeMj2Ca+kygLD15noGVGuGdix1yRkvoyoXe9kXnW0wn9Oj4IPWz6Ar4QrJk/ixSF2RYuy63CTo7oosj6br0YgmpUzXlOQO1ctW5B+NgHkIVggn4j3e+ac8lrJ7Xg6ADU1vuiCqKWrGtS7YNw3/BFas6rPKgoP4aJlTWCRbZuYzCc66DBW/3wybrzmibBF5S+dq63ZKdK9u6BsOuz6JezAK295SNHyQfQF5mPOPxyr90U6/fOS09mXTLRqBwCuWQEr+4+oylsj4Oo9MCaixdr5Ha0oLseWDYF+3hAYtKm6roevjiYAN8S9U8etazzMkSMT9YfmHbirHlMaSsbnoE8DBRui+mHtiP38prmafNg+GVldxPlV70g59afMOZJ93cLQIh/fDGOVkdZCK+5fmxXy9oeD30H0tgdcUgnq1m2LuEaVpqEP/nPJFd+ULIm4E=;Nu9j9GXoVlqcMJJ3cC7aoQ=="
 ---
 

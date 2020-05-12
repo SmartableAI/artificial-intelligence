@@ -38,12 +38,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
 
-secured: "q5ZGBlaa926tTIzjdy7+rt+OrDdfTGvSHhyL7yqiIcMhqFFY3Botsw+siKeXuu++81ukTMqTsViIJzMgcgl3OmCAhZ0ojfjebZMdbPPVRGVOaR+fbCxK4t0ev7Pvny8i4Ee0Kt7DQPaYicr7qlrdz5clZmutz9nsmLgssyDNFK77D9oxjtLYrd2lD3UHoxzsKaoiuOoxfQXA7kKMe44tU1pcp42qSnWuEDtXdg3OCAASsJIxTFBXQEe3SqeZJFZpV6kureP5um9T2O1Re4Je+kmId2dO/vGfxdf3La0hy17Vku7/K5ez8DkEZXEcc3yj;BJN2odSvWybj1x/UBHXYkg=="
+secured: "12qhhb3saS5C03itnemMVnb3pgef3HKxxGBeaF5oPHfg3fyO8waSjKg+aNWjVyDnnKtroGtGKsSOo6dFRi+K56gkZbP46Cbc1x9tShXqGymIzKKYnVpqaTEnOe+UxiJvxBvsW16dizY3GafQ2slW6OsiMvHbBuT/ekfXqEg1xmewGfxzz5enEUJcaHkPUSlkkAg1KfeIrzBA42N8MBs+T+mOIjJIpVhvxmOLie6ieFuQQQnHlNq9Qz8QUBWjt9A/rmtZTV5HFgjuZrYdz7r8L0RvbHwp03YF5Y5THneFtZQxyFaTt2C+SXNkT7qCaCUfRJH3MRzgYXJ23mW1BCwtmk8cdn/A17BI0GSgz4AKcTcLjhdHfWIxpIGfMt8P7fB5bwJDmEbGbJLHdhzYqHgJdCoC0nlwO9SNjbMWcktbC9oGF/mtsP+NQ8qRv53V/k1+H4NhExq8gRCL85X7eH+wwZKI8dWk4j6cP0CZFLVxN+g=;lyD6YtD2V+BM6X3akO8b7w=="
 ---
 

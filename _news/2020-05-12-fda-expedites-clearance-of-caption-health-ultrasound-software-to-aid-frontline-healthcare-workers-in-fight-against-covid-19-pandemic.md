@@ -23,6 +23,6 @@ images:
     height: 972
     title: "FDA Expedites Clearance of Caption Health Ultrasound Software to Aid Frontline Healthcare Workers in Fight Against COVID-19 Pandemic"
 
-secured: "JRvemE8ZujPVJ8vFVGekp7YbCKfmUnzwaz2CPL5yngqyPHVOMbj73geH3aNbrWf+yYb9hDOFPvuhlNT9bP1SNjahF3e+Wc8OmmoQzzrPv8RUrcNpmjnnHRLJk3LIVUEzJAo6kOAOlkhjlnQLDaiGVREDD/ep3aEBCkx7n8H6cwC8sNKF23PqP62XHcvwvsJVoX0gQ4FmCrux5v+uMFWMFmDBLC9vGoHNPIaYTTSgzodIe/8aLwac81tZFoMRquSXoUf63R5QP6NUDsPnWj+/1mdHpllI6qIuF/ustR+MKOGrJZ+95/gztQssgI8Ikjrf;tFxM6OAJproGPfwcqoXn/A=="
+secured: "CwmPoXzYKGvnyHuOMeuvxT0BFlmMnPsjlJoUAJONx0N5mvcI5BfbjvjG2XYRK3fh4B6hgu2l4pfdeRKZhoBhZby+Wo1GBzGVOh0aBehqCQ/mc/Lh+doMDE/mAM5D5yuRLF2FwjF6N8FOYC3Zrkeitl28/G9kxJP99r6HlBFIB2GkcNwuap/jBcyqd0KC93ny8zE+AtPCcqNz+y5hMewpbuB9Ehg+f1CUtnuUpMBysc3SyTx/RIpv8dOvff6y2z5+Pdh5mqvLfEa2qI2ucc2soZsp0/Kzz58NpfSFEFQ0/SIVDqcnHICgxZG8Lm9mZrJ1kmds6K32JiKF2CreNg6YpulqkNtAJJkp/ocQHT+1gp2O7sIEMSAXlvopCVyvhoKhzTsGOarggcr5Xe3czAXXJN+DZbR3iBw87ba0NkLCIoJLpMV9VK8bjXDDGoweM0fsRn4Mo9sKsSqCQwiOtbTgTvpAj8KItGwZd2i/ET2L2u4=;3u102erpoHs+bVj06N6lHA=="
 ---
 

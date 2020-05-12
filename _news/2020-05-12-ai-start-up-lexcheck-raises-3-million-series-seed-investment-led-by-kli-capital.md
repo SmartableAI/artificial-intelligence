@@ -1,42 +1,38 @@
 ---
 category: news
 title: "AI Start-Up LexCheck Raises $3 Million Series Seed Investment Led by Kli Capital"
-excerpt: "PRNewswire/ -- LexCheck, an artificial intelligence (AI) and legal technology platform based in New York City, has completed a $3 million Series Seed round"
-publishedDateTime: 2020-05-12T13:47:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-301057626.html"
+excerpt: "PRNewswire/ -- LexCheck, an artificial intelligence (AI) and legal technology platform based in New York City, has"
+publishedDateTime: 2020-05-12T14:03:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649"
 type: article
-quality: 32
-heat: -1
-published: false
+quality: 62
+heat: 72
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1166880/LexCheck_Inc_CEO_Gary_Sangha.jpg?p=facebook"
-    width: 2080
-    height: 1088
-    title: "AI Start-Up LexCheck Raises $3 Million Series Seed Investment Led by Kli Capital"
-
 related:
   - title: "Lilt Raises $25 Million Series B Led By Intel Capital"
-    excerpt: "PRNewswire/ -- Lilt, the AI-powered enterprise translation software and services company, today announces it has raised $25 million in Series B funding."
-    publishedDateTime: 2020-05-12T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/lilt-raises-25-million-series-b-led-by-intel-capital-301055756.html"
+    excerpt: "PRNewswire/ -- Lilt, the AI-powered enterprise translation software and services company, today announces it has raised $25 million in Series B funding. Intel Capital led"
+    publishedDateTime: 2020-05-12T15:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-raises-25-million-series-b-led-by-intel-capital/article_48ae48d0-1b42-5c71-bec7-7b4af0175fe8.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1164922/Lilt_Logo.jpg?p=facebook"
-        width: 797
-        height: 419
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
-secured: "41RK93pL63qnJEDMn/b/fMd4tWpX6dwap9ZdmRUsC8FDHqoo5wqyMrU0Px4fvSxAikjfB1vjyI1V7JP2aEsbAs/CxwB6sx7JpsvH4/swHQr2/o+2fMujS7P1I5Q1wg6Npu8g+vX/auUHTGWKk6rsqdFmnyXmI76Y4RtstQxjCxWORqOXHX+zrAYlRCtJhjF+WtkpaEmaMT+LyIeW1G2CgPwhB/bz79PbDeHsfSnu/E3BxTV3KUEzMvVemPbeenFKPFpi3YnHlXsYyuEwZ0U426CvvoV2rUQ77+Jd4A9eINdrNTcFU5/H3ploRi1ulCFl;rKUtYPjwTVP1R+dy9b7RcA=="
+secured: "7Pf2qLq1+eMwyQzC1uPAJwic98eWu+v5ySiVExaX+nU4jZ3rCWtnk2+xiAeP7KE+UyIY5GYw2JEUZdDNMg9IWQXI/ugvGCALR/5+AhyWlR8g+oNcuXQvC7AMrK6tEtFD4JtksUCN657I4a/IL954NDU7bWknc0A+Rr5W/JLEII3pyGNpvptvgAasseY+blgE8Qku82qXrWnmlaNQVsE/rBs26XqkugfjRZkBu+glm7ii51cCY+BaUScdibCWzeZSqsMsTGnbYaWG1uUYPs6YxUNMCYtkhN3+ujrqdDrEKRfdlg20dP7QAOfg/ioWFZzvPfF5gWIQ4JXrZABW2971vVm4Khfp/e2Rp/YFa4yTYM2cMX8/6PLZsh7KXjL10jNRqLvJKgRHvXJRnJXXcbIXeL85aCbcshHQBJJ+KMaTSIYVtz02fNRVDY+XNbGobcVFods2Dng5O94si/DozGdVTLVC3BzJz1M84MUEvk76KUs=;Z8OYH53RcTGnugToOmciXg=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "AI tool searches thousands of scientific papers to guide researchers to coronavirus insights"
-excerpt: "We’re now building AI algorithms that allow researchers to plug search results into quantitative models for studying topics like protein interactions. We’re also starting to dig through the past literature to find hidden gems. We hope that very soon, researchers using COVIDScholar will start to identify relationships that they might never ..."
+excerpt: "The scientific community is churning out vast quantities of research about the coronavirus pandemic – far too much for researchers to absorb. An AI system aims to do the heavy lifting for them."
 publishedDateTime: 2020-05-12T12:35:00Z
-webUrl: "https://www.bozemandailychronicle.com/ap_news/conversation/ai-tool-searches-thousands-of-scientific-papers-to-guide-researchers-to-coronavirus-insights/article_dce9b88e-b780-5bcf-a8b1-95d4fc061de2.html"
+webUrl: "https://theconversation.com/ai-tool-searches-thousands-of-scientific-papers-to-guide-researchers-to-coronavirus-insights-137756"
+ampWebUrl: "https://theconversation.com/amp/ai-tool-searches-thousands-of-scientific-papers-to-guide-researchers-to-coronavirus-insights-137756"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-tool-searches-thousands-of-scientific-papers-to-guide-researchers-to-coronavirus-insights-137756"
 type: article
-quality: 26
-heat: 26
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: Bozeman Daily Chronicle
-  domain: bozemandailychronicle.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-    width: 1200
-    height: 630
+  - url: "https://images.theconversation.com/files/333182/original/file-20200506-49538-ey2oya.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=211&fit=crop"
+    width: 320
+    height: 211
     title: "AI tool searches thousands of scientific papers to guide researchers to coronavirus insights"
 
-secured: "37lxuBGF4afSoByO+4sX5iwsgWD2JP6XZZXB7FzEBTDQMQvbP4RPA5KABHgiesZcW9ZWsqVPlRJC3cODbPBcC81vler4xNp3Y2jeKz2UWtgFJ83Tj0MnhA1eGP/1fhnhCxpXhO5/fAfefQcPI3/kSQul8Fv+GPy9CABdxRtheA5xUBKq9i1ZUG15CTL18UCzgySwEXPfnlyvp70jpD3Dr92lUxqD2oKPQGPyAuRrvx1sewLU8AyaRxF98ELF4Ls26k8OCarNoKQ3aEWl+4VKNJ6P+K4lRerXL/5CWN51cAxNl3P6qeWnet6n2Y4vUs3G;+wls59KJYyRAx4grwJnByA=="
+secured: "mNFnkRyT4Fr6JuHfy2YrcZVzLdEGzew5RR5hht46YSFX9YfEHk84QFSrKWn4YzdGj8vOUnf0EWSTc1p4m2Js6FRyU+P/y3Sy2Q1ge/kopbXR2XlvW5unI8u1caXW9MxhBemkhcTAuiO2imO6zOqnfJnZyvr+iDwQRQBT4BoPGLpJPkem4Ecu/1eyQmpOWdg0UFajbCSp7qM7XcWuhXH4BgtM64NDM57XicGQAXq/vah6C6R7jw5E9UYRh1QHVCrXr9glRUA9IIxl957FhhIUHelCKJpwmVwtx0ttSpSAk6hg+GVSIe7N9MW8HunZXq97;ZCJkTYAen09JtDyuKvT2sw=="
 ---
 

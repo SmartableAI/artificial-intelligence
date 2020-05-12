@@ -5,7 +5,7 @@ excerpt: "Intel Capital announced that it's invested $132 million in 11 startups
 publishedDateTime: 2020-05-12T13:05:00Z
 webUrl: "https://venturebeat.com/2020/05/12/intel-capital-commits-132-million-to-11-ai-startups/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&#038;strip=all"
@@ -43,6 +44,6 @@ related:
         width: 1200
         height: 675
 
-secured: "VzAEjmaZG5LT036TTqxnW1nNxlsgNPC0a98eSn8QMsV6B3TZQ+DLN9PGkJw8Zt7TsAJrkkRCaiYvKRUd8WrRkgamkQhE3hg6XUyL9IbX/ZfmNTAcLVzrzi7YeleKC8vhHeCLSOLVWU7t7qAlKFDMiesl3FnboaRKhqobRG7y7FDwjI1wToV8oLK/Ss0whKItdOM2sfPkTiaIslrOwYAMBVnLDSvm1P46uoIQcOBs9+DsqTj1M+M5ZSh8xtx9H3dcjEmQq3IHxBVaGxql6FHOeBALqHsgnzg+zGHC7nD7XpkNGNKJlkmZXV1xNM4+U5hM;0BALQp7cQz5Ba73nbBGkTg=="
+secured: "B7JLGlmOd3SNUPDLm/WpbQ78f+Y3yqRNoNxd1cdeVotExbCPuIAe/y3WvfO+/raQ5ZmPaXQdRo2IvChoseSzrUfbhyCfmltmPf/xx6FCXnG7bF4ZyinHnOofopJN636yB8cjOwsz93K3eaPoA3DwndrmtGRSMcDLRm5lYZXrggaJWhMbmxBuvLJ8ShilGb0rHZL5s1o1GdNJY4I8DluSvB2/E/JlO+LdR1l4erM33GFZi1dYgCnyLmncKVU79tIlBvS4rrLwPFYs86oYmZC7L8mxhQH3LfYdkXeRhOL1lF6lbbhhoBLh2bNNiGqVtvZ7UjTtFOOQBqijNtBt0NRrf0QVnqgL1+LcQqYhjKeKgjSeKWFlgGnSV+8BWCa1ZJlItqMOMl7c32uNsh4ZyUjarIATUM2IIIDGrhhlYkvlpC46gvefq1SofvcrxdXAouRh415aDKFBcYMGHi5VI5y0i2ngUwpjaL/0Vhvo6Ggfdus=;6gYwohjMUnME5c61WzXu8Q=="
 ---
 

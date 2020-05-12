@@ -25,6 +25,6 @@ images:
     height: 287
     title: "Transformative Robotics Technology From Brain Corp"
 
-secured: "gmZpaGPvT4opXKhj/ta3qZAgY1oH2kXOGTz1e7j03FMmWVuQD0T5QMjThKuoVzYB6tiHFn80Ou0YHt8/Wq/Lxo5AuZcSWa3svhmMKxMAynX/HO/EEOw45TnTtX0OCNzA//t2zCZ+DtoFOec4c+TnAxmlqyjtg3rG+aOdq3RuJ5MX6Blzfb/v+ZxQ16xFBPA2n5YI29yt2/ZBij+b6VD4Jlf6HOalRwpjHKL3VUsN1z1X2iuUWmaV7BuRfKIpWLHI0DZC6/8B4puoOLWcWFgS/veQBuOv/3erY81buYfRDuTwAN7pnJJCnEZjo3uiCZ1S;ITs1uQ7TPHL4uh1wT+ZoaA=="
+secured: "YVp86I4sXO/TbF588lbiMq4si2ebw1BDMfmVK/68Ziwh89/MITHlwmqGNLhbXf30L/XIrRlSrM2w6F63wYdGCiSnyuWdtfQ/IGaCD7H5iLZYmuEeg1xhFf1iEhofkV0XXc94cOubCFismFo/PcB/klUSvdjy5bm7Gzid2BRY5QuCQXSq1EYaq4pqzbg41b2dvs0D0rN0o6kEpeJbCIa82szILa/gAxxsGLrxG3oigY9bIPjW4K5kGkhlg++7CeE3ibUQG4cN39ZvFbXof3QjB5BS9G20yhp1h2tr4p3BVzU7rzGUcKkwsEk+Sbllb1DXivSNoQcrm/hbbf7Eplih7ZgSAHBhS+6JW0F+TDTOXpQTIyqwZrEy+tAdgtiDOSuRUqVbcfODTzWejzELJdBo8RuIib29M2+eYj7zE+cG5YdpDcEIXj/Q7wjhVENvFBeRlJ35wOiCkku9ZiQlDtwcKK2GPFRSVcn6kBW4gKzYJ0o=;kB7Qsoe1qSbVm2Sc/St9Mg=="
 ---
 

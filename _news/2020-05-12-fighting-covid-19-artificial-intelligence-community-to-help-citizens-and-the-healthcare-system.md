@@ -24,6 +24,15 @@ images:
     title: "Fighting COVID-19: Artificial Intelligence community to help citizens and the healthcare system"
 
 related:
+  - title: "Artificial Intelligence community to help fight COVID-19"
+    excerpt: "On May 12, several leaders in information technology and artificial intelligence development joined forces to enhance automated public chatbot service Chloe for COVID-19 to support Canadians in the fight against the coronavirus."
+    publishedDateTime: 2020-05-12T14:03:00Z
+    webUrl: "https://www.canadianmanufacturing.com/technology/artificial-intelligence-community-to-help-fight-covid-19-253308/"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 19
   - title: "Outlook on the Healthcare Analytics Market in India to 2025 - How the Market Can Be Used to Combat COVID-19 - ResearchAndMarkets.com"
     excerpt: "The \"Healthcare Analytics Market in India 2020\" report has been added to ResearchAndMarkets.com's offering. Healthcare analytics is a part of the digital healthcare system, which is technologically advanced and provides enhanced health management services using IT and effective communication tools."
     publishedDateTime: 2020-05-12T09:52:00Z

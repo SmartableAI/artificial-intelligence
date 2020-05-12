@@ -2,27 +2,29 @@
 category: news
 title: "Hashtag Trending – Cable and satellite woes; creepy facial recognition; Apple production in India"
 excerpt: "Outlets are reporting massive drops in cable and satellite subscribers, new facial recognition tech is giving everyone the heebie-jeebies, and reports about"
-publishedDateTime: 2020-05-12T12:35:00Z
-webUrl: "https://www.itworldcanada.com/article/hashtag-trending-cable-and-satellite-woes-creepy-facial-recognition-apple-production-in-india/430668"
+publishedDateTime: 2020-05-12T12:34:00Z
+webUrl: "https://www.itbusiness.ca/news/hashtag-trending-cable-and-satellite-woes-creepy-facial-recognition-apple-production-in-india/115065"
+ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-cable-and-satellite-woes-creepy-facial-recognition-apple-production-in-india/115065?amp=1"
+cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-cable-and-satellite-woes-creepy-facial-recognition-apple-production-in-india/115065?amp=1"
 type: article
-quality: 26
-heat: 26
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944.jpg"
+  - url: "https://www.itbusiness.ca/wp-content/ewww/lazy/placeholder-620x250.png"
     width: 620
-    height: 251
+    height: 250
     title: "Hashtag Trending – Cable and satellite woes; creepy facial recognition; Apple production in India"
 
-secured: "35+s0DwVL5DUzA8S4Tp0RvlvaEP3TDMaVqyce7V5aNgNkFOqIs9swGZHiT2NzxsK7QMj2xyeqoEj+caTdHS29XuKJVFGmNdKPNwSVM3oqgH335vJHy/e93DZNOKPB4r9MKNWcyUCrZyuT3j/5oaZvckLJ0+UM8a3NkuCWPRgirN0ML2zMQeBg2B2jCewTPV9NVJ/X5DoSoB+2adY9/5fUnPum5wuLImvfQnNOC1LTUSse8pMr74JJBXbjlk9RFNpPadwN2NlJAjgHdgKSX8RtCuQ++IMbOt9H4Pb6XG0Sk7oLC/5htudWrrZD4DEIrP+;snb3ozcjj1Qmgj56FhlrpA=="
+secured: "z6paEgihn9Iz3rOJopeOILxAqjtWlB1UJziB2BeH9dAqPlSmuFC7Ri0wlHPnFauX3BE5yTM2RGo1fCjYljW7pnoDE22S6vu2cs6RcXyt6CwRj2bHEZ/oPoG66fErKlO1Lod1vYZEssa/O1YIN+CVt3tQVCKB/FzFaIPSLk2n3UkSBkyW2kxtW9y4/gV9XwjjNcGh6TyQukiwJOVsw2jTkLTU7/SDqZpA0lRNN+HdQvHbQCkWnsVXCTbC2jHtstnkCBPFdS3VeBYlHtKPOOCJhHcjmAg6Udsc4kFVKFVQkar8lnFypx3EtSezqZnxG4Wy;xwiK69+hZbgc3zCb7MOWFA=="
 ---
 
