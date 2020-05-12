@@ -27,6 +27,6 @@ images:
     height: 600
     title: "Facebook is using more AI to detect hate speech"
 
-secured: "xT4H9pSyxq2ITc2SSMGyot8q/j+Gfcw8JwfzBfbfbPYwLXMuzJkhnBBGxis++pMT+8/WcemsjkIKuRe7AFr4xxTw1h4/LKqIiioJvmQEU7H+iyDXLfMuoTdY/S4HOUymU8o+DJVJxrFBuPAT0ZZ3E8TK3fz/j3tUzb85RAD0FysoLO2iDubAfGS77zg3bEhEJQ2vY39h945ptr5radRwpgP3ciuqeth0e6hZSMCvPpQQ/CrvS9b+F7Dtq4rxa8klxdFX3swjSkyYBp1PWKaHOwbW+6yuGFjTiVssjvDnWp0PrOoYr3v4j4OmYjydMkLR;Y/AtSVW9FTGdKQFdi7R+wg=="
+secured: "jRtCy7vjdqi9IJjxAEFXwkc8BQHDFBHlnSAhtW2gwXuKu5Im4xtxahJK9XzOYJRPPy2Erg/axtOtw75Zfn24LiXlNN6w4Z3W5O07Ox4WfRMfSvJ+JcW9O+P10rWBjD9nHHnu6PQUKTQDLbeBJMrh1nDg1TSa+c5q2HJ8BqwyWr9QnJ3+HsJ8xioLvFlNsgGRqFGo5eYPjVosGz1VQceatRXvPnKzEBO8qPP10SRv7igVz/C07B1Ojs+k/piD//PDg08JoQBP5eFDUBs/ZnvPCx90ZvVoXeTCTy+M4RXtBHMkzqTHu357Q1CpXzQe1QrgZGsww9U6ZyqUy5YSfuIWrIXi8UfzTrwmn4HZcpOkbtyP/fVSwI6sE+hi1QtcBWtMdEilBFL+1EjX0JY4nQjOtVZz49FUKyVHYRbfTZSBY9YIeppdUC5Ie0Bix1FTdcb53tg1wU80yqUZsDNJeg6FNpQDho0vBbt56/qNDck+JvA=;OxtkmsKW6rKAL6XO44QtYg=="
 ---
 

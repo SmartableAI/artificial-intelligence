@@ -3,7 +3,7 @@ category: news
 title: "Infosys and DXC shift Kmart onto AWS Cloud"
 excerpt: "Infosys and DXC along with Amazon Web Services (AWS) are helping retail giant Kmart Group get ready to shift its mainframe applications into the AWS cloud."
 publishedDateTime: 2020-05-12T07:33:00Z
-webUrl: "https://www.arnnet.com.au/article/679641/infosys-and-dxc-help-shift-kmart-group-onto-aws-cloud/"
+webUrl: "https://www.arnnet.com.au/article/679641/infosys-dxc-shift-kmart-onto-aws-cloud/"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 529
     title: "Infosys and DXC shift Kmart onto AWS Cloud"
 
-secured: "nX0sc0J/SdiQ1oOqQsyHGRnUip03gLnBGdJAAjRkl799FHTSEokn8J7UNcjIFsNwgW3oTubEvR3iSjFD4MDUvnvjtC96F3aRH0dLUGu20eLr0T7lRrn0NGJAsM+4XoixSOuZ9iyiY7eUHqH5V/4EE3P1fC30uaQNVULU4kwwno9egC6z2znjFihFX38HPxYI3zdmR9I13oTNNSGNezVzuwiAV7E4/zAtmVLiTTKP/0CAcLNFckJxIRYWg5S3FYdVzdJejmoioGOVee2Jlb8ErfKNcSNbt52j1hD4SwGtgv1P3OyzIO/v1lQrk3Tsur6YR9I/FHf3m3OoBQM1qxhU7spM9QZTrcwqyTC+JI/m4UzaIQ/EGXyvN7862bWwkw5iBEFiJJvqs4pL+DXG0xfdTzJBrcLYe3JO04lJ+QprXSOFIVDCoj7M7+H5JjhhymKhQWQ+/8bplSU6Yiq6c7uttzH9Dl8MvxSGSH7ME/uPiGE=;/cwv/356YCQHNjRL1DQ5KA=="
+secured: "+gX7U5wgaRzVDlbxK7M3y7xUmaAgSVddKHtqkCjA00zaJDa530VvE5OHcZ7Tk7hWWnA/1kpb8LQUPVPNHSWlTTe+B4l6Rop4RVX+leemqebj9s/H6GhmnH7ZrUBHhZPDD622oG/j72tyBKKJSPk46KE/PEJDyzC0Yrop9g/GjUmOdmp0ksyydCYJcrQkyAJAEwabahsPIrDm9nKGFv4Ti6Ok2tlpvg15YJiVg/xAUZCJZHvlujMHvWOoiUCRH56UH7YzZez9ZGOY1NjzKvsnaTlfG9JzfWx5Vw0FThIKl2YTrl4N7yRKjVWC0LZWxvTp;bs2BKLrEaZ4Jb9Vkv552kA=="
 ---
 

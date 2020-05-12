@@ -39,12 +39,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 91
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/12/c82fab43-1856-4a3f-b289-fc5ab9d052bc/final-9-benchmarks-table-v2.png"
         width: 2881
         height: 2010
 
-secured: "e5uubIWpZjIxSDKE80s4SFC6EoRd6uNerww7GtS9hFkOx5gFJ5JWLI0/Ou/WYrutkSmdPa8N73dilo97Ygyl2X3S3Nyv5yJlC7UWyG4NtygtPWh3ReixPgNO8QQEDewBjCCjaEp6j1o1KcgR8denbr23RuwtqFLfQFP8xsEvCAd2SibZLqA0/zJQI+eG9qn/VExr6TQEB26A2kGrPVNErE33+wtqcYuoxio8Rgc7SD9fknRJqXPFqaiAQR4d0aAl2sGgSz4F7bvf78JPG24GNRVVMWDVHK7WzuNkam4Wg7GiKdJx7uY+XLB19dHN8A5w;bixKMLFduLaQ0d25Sg2JGA=="
+secured: "yoNccfGIYf+Ux1k831qjneUKM+mLFDTCPb90+WVx7A8O7AHAe3PS3VL15oWm6p38mVxpLPYsqDK1c6dEJySmK+bAC/x9N0qpkC6k8N6cWFJF01+xuW8yElQXrphVSCSJmPUh0I9eAQsS1v1mxTfenicmbhzIN/MrnOF7GfrtX5oPUx11hjNJ83N7lgqT8U7VDjBiRbdNyG7g580IEiqPn1z5tSycksAENfRxNoi0aNByMeNbMyP7zsTCq28z/MBPRE0oJQe797ptKZa8XOIiliK7SntxNMLUgFY7KkxoKQnr+BUfVlfQc2pxXxc5fdvOgg8j1B2MTJhthxIfPQ3vW6Vl1HvVaFJ3umgoB3WLbZGoqWa3k02uavuiay+G/TLiYLrfX37iluL3aa2VvQ7S84zOI/jkbkLzD5M8Cotsvi6ezHo94EOcc0HWPGQ/0seBs9dbIIfjucdbW0qOvkM+ODf1+Om6SCogwCCHX+tk5n4=;5VV4/FsatYbp7AvU30I0RQ=="
 ---
 

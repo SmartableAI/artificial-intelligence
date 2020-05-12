@@ -5,7 +5,7 @@ excerpt: "Capital has committed the funds to 11 startups that focus on AI, auton
 publishedDateTime: 2020-05-12T16:21:00Z
 webUrl: "https://seekingalpha.com/news/3573471-intel-capital-invests-132m-in-ai-chip-startups"
 type: article
-quality: 19
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 related:
   - title: "Intel Capital invests $132 million in 11 startups mostly focused on AI, autonomous computing"

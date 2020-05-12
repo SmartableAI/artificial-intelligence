@@ -8,7 +8,7 @@ ampWebUrl: "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c
 cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Waymo raises another $800 million for self-driving cars"
 
 related:
+  - title: "Waymo raises another $750 million for its self-driving car technology amid the coronavirus pandemic"
+    excerpt: "Waymo has now raised a total of $3 billion from external investors."
+    publishedDateTime: 2020-05-12T18:42:00Z
+    webUrl: "https://www.businessinsider.com/waymo-raises-750-million-funding-self-driving-car-technology-2020-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/5ebae238204ad30ed40ce0b9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "DispatchTrack raises $144 million to optimize delivery routes with AI"
     excerpt: "Logistics provider DispatchTrack raised $144 million, a mix of equity and debt. It's the first external funding round for the comapny."
     publishedDateTime: 2020-05-12T10:07:00Z
@@ -40,6 +53,6 @@ related:
         width: 1200
         height: 600
 
-secured: "IbP+BS7YrB+SekGx1LhVxLT+57q2VsighavugBFOudvpqLNBhvVWGopq3VJ2JtYc3N2klr8ZkPNQOAYMu0yCvscQMUkRRqlRZBT1zLw9ivFnVJQYlz7symE8I8PnFd4NFeHU/iZwNt9lqPzZI5Vx3BubzZG/y6e3rANaUbT8NpvprqrgDtycornU9UwYUsovbfjCMF4r0A75E1rtDzH4/ZbIoR3r8az4I3pkr6q1DXaXt64pS57rQG32yAnOftTPCvb1oPd9CIW+ifcEGLKRSJ9z+sopr2+jN4w4FRCU8e8yr7v1JUbjyVof3nVcGsZW;td34LQfJjkIEE4Rj/hC7Rw=="
+secured: "pxZOhZavC3xQML05mL8JnjQ4fvWQ/8BrHbQnf3t2a5LoVmKGeCjNpdyFvCCin4gn8zsGeRCqVdwnSQJfS0wEARplKawpUC3bvweLyZfQ9Nwb5eo8uSOrTqNhz+o888xaR1vpF90Q78jDMKyqhZDwH/fPYNVMusvPmyNtyKFF/DCbtSFcocqu76glZc2SRm7MO60JZQNEIIrCuGC7JhSKJA/vexrASSjHDmkcn95wvE88IA/5qQUqSluWOdcXGc9fFb9WqZqd3O0POBfVkrjAvlyNx+rsDZ54HtqrEMgogcgqUMJlKp5o4Zzz12pKaK93UvQ7eA+Ub3mwN16kk2uOwnhMpbbEDZXCPdUZaG7PWqzDE1K/qHP7dSlFLnKUUBykxhXDM1/kC8W+FXKAiJZjc0gvf9zgpQwHtQS97vnHITy2IYbl5iuomw2lW7xiIkM/JVij9R6/LKwQBODEOKWUOKUB5Og66oB6T8dGkHhSRsI=;ULRofbdVC1+j/jmxQiUuQw=="
 ---
 

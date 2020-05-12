@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Uber may soon use 'Real-Time ID Check' to verify if drivers are wearing masks"
-excerpt: "Uber might use its selfie system to check if drivers are following safety protocols by wearing masks or not. The system was first implemented for identity verification of its drivers by the company."
-publishedDateTime: 2020-05-12T10:09:00Z
-webUrl: "https://www.sify.com/finance/uber-may-soon-use-real-time-id-check-to-verify-if-drivers-are-wearing-masks-news-topnews-ufmp9agfeceig.html"
+title: "Uber may soon use ‘Real-Time ID Check’ to verify if drivers are wearing masks"
+excerpt: "Uber is making it compulsory for drivers and riders in certain countries to wear face masks as it is on the cusp to start functioning again."
+publishedDateTime: 2020-05-12T12:00:00Z
+webUrl: "https://www.hindustantimes.com/tech/uber-may-soon-use-real-time-id-check-to-verify-if-drivers-are-wearing-masks/story-oPITbChtVnTp4WtBcNkjkJ.html"
+ampWebUrl: "https://m.hindustantimes.com/tech/uber-may-soon-use-real-time-id-check-to-verify-if-drivers-are-wearing-masks/story-oPITbChtVnTp4WtBcNkjkJ_amp.html"
+cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/uber-may-soon-use-real-time-id-check-to-verify-if-drivers-are-wearing-masks/story-oPITbChtVnTp4WtBcNkjkJ_amp.html"
 type: article
 quality: 21
 heat: 21
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.sify.com/uploads/uber_ufmp9agfefagi.jpg"
-    width: 600
-    height: 450
-    title: "Uber may soon use 'Real-Time ID Check' to verify if drivers are wearing masks"
 
 related:
   - title: "Uber may soon use 'Real-Time ID Check' to verify if drivers are wearing masks"
@@ -34,6 +30,6 @@ related:
       domain: webindia123.com
     quality: 1
 
-secured: "0x/FqPFz4JXAyCtxkSB1deIiUbjt2pFrKIHhVZ74W9OeQnCx+/Xot5RsHqhv4v38WPTympqidlBhdc6ILbZKmWJkZdhQVuvNd3LMBgVDlJY/d3gIRCpP1naQzYeisQLWZYKzW8pM0up6OBb7x9vUqpiFPwxLFjakZhZQooSUNcpmO2n58BGpHXDK0jilHHnyoqikT+RRVMG6OTb+lDH8oOrqnqjHYO+nCmrSixZzRuCusDlXhIHXqSSugGiZn8leKz9abve8F10N3sY70fpXlToXCW8AS3V/e5pN3iy/EYkdbsNpz3qVufkHq9PSCr9t;coVVVr5VUqnDF89XoZHAaw=="
+secured: "P7ZC0TqtdQQAH8zCohi8sqobtTOCLkD/LSJMB4b8LDAnd4inmFcsiPvWxlWnR7rK4Iqto+0VBUe4SKd06Jt48c8wKdkq7JrShyqjaFhedV3XOnMMmBmuOMVKLkKGH8t7Nb8Nqvp/NocnFas8SUZLWjh8oWd3FOUKMbp23WwZqeFijNeRQFa0aAXQkbBLHUI1EDV9PvOBTbPiC/n2B7kF/dze6u1beUcA1KJFllJyfmc+sZ7r3Za4XFXyfLlP1ORQaEa/l6sO7lBtXMRcYrcS1uRtQxDWpc/cTHI8L8ugMDEnEGl9NgvCaS5SYk5Urgpg8r0PArWwnszANDDgc+AwKz/LlnV16RN9G8MzWn05Z7KtvAO6JLAb1GGdcAycHlhZveKQhptfgwS5UDzPc/VRhF2kzphCKyBdQDZGk/UNfu3hPJbfX5lK15/VQg+Ddr6TTUOoMe8IW+Pye4gB9lRm6IzTXC+owIH+WEUFBrgVsKM=;H5wDQE6BGwNu1z3dgVdaVw=="
 ---
 

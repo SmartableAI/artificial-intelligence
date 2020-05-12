@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/facebook-says-ai-has-a-ways-to-go-to-dete
 ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes/"
 type: article
-quality: 87
-heat: 97
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -21,6 +21,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/12/c82fab43-1856-4a3f-b289-fc5ab9d052bc/final-9-benchmarks-table-v2.png"
@@ -45,6 +47,6 @@ related:
         width: 756
         height: 567
 
-secured: "TTs4scBnK7lH3omYEXecjGFKKB1dDRb8rh0Ush6197qfmdANxv5p+EXkOnpGJ94Fxf1qucrs4/m78akshJ7K9vwy43Bsn6gKef10MwTyH3j3ElMjDa0b/WJWpzKpN/+YXHSgShY995YFFI7ztYVlo88yajWqZbl3yOguvHIF3orBL6c2MwYTy5YAbxlFmkZXCunA1b6iITW6IvrnV/X0fiekR/TWhytFaS1nib6NieUEy02VeNTpwG4k6Yfyae+H9yV9AM6+Z6YZP12SbfVX4syBwdj8fCjTg7CSIRsby4zYFXsYIoTwDoj/hqH0hfjL;8RGA2FDBUbSvL/p3xoouEA=="
+secured: "2S/s1wRYZjOBv9pA9OeW5MwafDToHhT19jG073WR6TSNM+S8KsfM+vK7PLQg3I1xZSia9ssXVUB6D40FR9l05YaEAQGEumtPUgT6/GJzyEwKRMRCFORQY2hv0rNnJG/4fxJGPm+465WIj4LhHqs54tW4oWZ/3sBk0R4xDUpPNFVzfiHDUu6ZYlrkIhL5MvCAyogMqaQd3ThUrcXX9yVJthXERYMDjMrCnhoitfuECJ7kfNSLBk6cz7AiLeUTlvyOplI3dOkcNKkjFodCWu9bn6my77E9nY6WIpZbrT9Aogzd+tCkX5dEz3bjCs8LdBuUGMHYsqKXYztMuYKoVyekLDRkECn5kqTLqfT4sofmbFlpfe077KCpc3lXc+auFRc/s1Z9Q6fcZEMNnnuoVUt1cIt1MIgSMwy/XGTVvypXIEViu1ITMmH7jbLYe4F9m5lAieyL/WD9FR4H7OR5ZOojpxYP1xv4cb+nNs3/5ga21VI=;Irz8qbc48ymkIDPTpyfBlA=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemist
 ampWebUrl: "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://scitechdaily.com/images/Tetrahedral-Electronic-Distribution-Water-Molecule-777x435.jpg"

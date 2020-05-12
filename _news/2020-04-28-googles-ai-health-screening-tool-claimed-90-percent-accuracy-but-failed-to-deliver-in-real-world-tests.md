@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d.newsweek.com/en/full/1585333/google.jpg"

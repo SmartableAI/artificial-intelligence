@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Mayo Clinic Collaborates With Ultromics to Rapidly Assess Patients Diagnosed With COVID-19"
-excerpt: "US research team is applying a pioneering artificial intelligence system to map for the first time how the COVID-19 virus"
-publishedDateTime: 2020-05-12T13:20:00Z
-webUrl: "https://www.prnewswire.com/news-releases/mayo-clinic-collaborates-with-ultromics-to-rapidly-assess-patients-diagnosed-with-covid-19-301057652.html"
+excerpt: "US research team is applying a pioneering artificial intelligence system to map for the first time how the COVID-19 virus attacks the heart with such deadly impact. The coronavirus has been found to kill more than one in ten victims with heart disease and also to significantly weaken the hearts of other sufferers."
+publishedDateTime: 2020-05-12T18:41:00Z
+webUrl: "https://apnews.com/PR Newswire/c54be12d22c4d8c7387ca1cb4b46041c"
 type: article
 quality: 14
 heat: 14
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1167056/Ultromics_EchoGo_Core.jpg?p=facebook"
-    width: 1200
-    height: 628
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     title: "Mayo Clinic Collaborates With Ultromics to Rapidly Assess Patients Diagnosed With COVID-19"
 
-secured: "6qQUbzK7qjSYzUqXjN+Yk8WMZ/rsiY9a17MH3xOURCkgBStQsO0POpy9H6kygKJF1w0xbUroaiY1TXJ6QdVNbUKD96HmCBMREfNEITZqN2RyZ+CT8HxqdVoc4qfze2KJ0O4BC7NXWGR2xRDAQcf3jSfqnLweH7FYpvcUYtxukI9Wpt9ZZLKqRrkZcd6EbFZifvj0ncgRf2UvPehne/4tswRFJ9x3XPKIKUYueY5N4E7ivkLCKOtw62HqBsjx/JqfrRiwCPGT1J8qf4ZtmqDEStRHq54FVHF4atd2o9eVKUGFGwufxqxUfjtyZyleJxDAEurKBDrkBi8KXBMQcfih7vJgicFwBUYyWm41/MP8c3lHup9nEyMEjQYfwdvIUwlo58VlBIUNd6Bx3a4gSvx8mTFd8er+EHkswXqHrZsK7uILanXzn6XNCWqCU9mToPQK/0P0c1wFTfPohuR3dnzHwLV5N0Yva1kSSwjARwpcky0=;kY01ArhyI047YZCX41XCEg=="
+secured: "a4hYXelrS4nt4PWV70N33aL6EvD35PDPqwGd8vj/Bs3E1tXLRty5WLaPIfKZpypAGfEZ8wUDSwi5qqGVrAYxPO/wcwIzkpXg8YbTIY/Qj7wcUkjstgxlQqUP6kW/nMtF+u2JF/osUIR8gBQG7FmV6ML9AjDKE4ylObNhcyhTvhwWFlSeW+BIafuwQPvF86mBz7fUhTB01+H0GJPwzBhHbHO96MHomCUnSkelr8CuVqkx/XTXKmNMD0k7i+CzpZrptmJrMFs3TLyqcNEyYnpcdxvRwJ4NYbMnjU7pg6LufvNc6wqUH0B2QOVn4rwqYMh6;HZ2mhGN9feMNl74lrTwJXA=="
 ---
 

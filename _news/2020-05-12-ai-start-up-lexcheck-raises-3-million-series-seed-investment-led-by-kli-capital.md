@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-start-up-lexcheck-ra
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -23,6 +23,17 @@ topics:
   - AI
 
 related:
+  - title: "AI-Heavy Investment Fintech Raises $14.5M In Funding Round"
+    excerpt: "Financial technology company Vise said Tuesday it had raised $14.5 million in Series A funding led by investor Sequoia Capital, which the company will use to bolster its artificial intelligence-driven investment management platform."
+    publishedDateTime: 2020-05-12T19:14:00Z
+    webUrl: "https://www.law360.com/articles/1272618/ai-heavy-investment-fintech-raises-14-5m-in-funding-round"
+    ampWebUrl: "https://www.law360.com/amp/articles/1272618"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272618"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "Lilt Raises $25 Million Series B Led By Intel Capital"
     excerpt: "PRNewswire/ -- Lilt, the AI-powered enterprise translation software and services company, today announces it has raised $25 million in Series B funding. Intel Capital led"
     publishedDateTime: 2020-05-12T15:08:00Z

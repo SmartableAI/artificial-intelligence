@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-12T12:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200512005140/en/Bitglass-Integrates-CrowdStrike’s-Machine-Learning-Technology-Provide-Zero-Day"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 1200
     height: 627
     title: "Bitglass Integrates CrowdStrike’s Machine-Learning Technology to Provide Zero-Day Advanced Threat Protection in the Cloud"
+
+related:
+  - title: "Bitglass Integrates CrowdStrike’s Machine-Learning Technology"
+    excerpt: "By incorporating CrowdStrike’s detection capabilities directly into Bitglass’ agentless proxy, the integration can identify and block malware in real time as infected files are uploaded to cloud applications or downloaded onto devices (even personal devices) –without the need for software installations."
+    publishedDateTime: 2020-05-12T18:21:00Z
+    webUrl: "https://www.hstoday.us/industry/industry-news/bitglass-integrates-crowdstrikes-machine-learning-technology/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 24
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2018/12/artificial-intelligence-3382507_1920.jpg"
+        width: 1920
+        height: 1280
 
 secured: "RR07qHloMiPVMq0rfGAmVufQBcld1JMiDWyHJ7dVmYdd/fNu5gXi0AbojlM5XYxJIczVWhlej38fka81WfHXF2Wll1ACuNtsxU/G9nwYCN4WF4D1nBisoqeENIW66r+ZRbJHDXJJKpUBC20clD0spR3mWYFopehZLEst12tJ8e2rL5NpngMbinYb3//kzDAnwFB6BOFCamtlJl6ZrcNsIyOXC8aGxv3dZ8vf6S9M7MlFStcGN9lkpPZPpWwZXxRRNL9hcONcRvqVvj1+3WknNoR6tr+Or58V9jOoXafiZdzp7hrC3jyn8qOL7h8H6o95;+braFnlW1Gj17Km/ektScQ=="
 ---
