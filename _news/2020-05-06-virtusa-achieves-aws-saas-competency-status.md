@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Virtusa Achieves AWS SaaS Competency Status"
-excerpt: "Virtusa Corporation (NASDAQ GS:VRTU), a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innovation engineering,"
-publishedDateTime: 2020-05-06T13:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/virtusa-achieves-aws-saas-competency-status-2020-05-06-9197013"
+excerpt: "Achieving the AWS SaaS Competency differentiates Virtusa as an AWS Partner Network (APN) member that possesses deep domain expertise in the Builders categories of the new AWS SaaS Competency. APN Consulting Partners in the Builders category have deep expertise in building cloud-native SaaS applications via software development."
+publishedDateTime: 2020-05-06T13:11:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/virtusa-achieves-aws-saas-competency-status-1029170762"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -18,6 +18,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "wELzRds4hW9BJiNQzOtiT2KNRldYjmT5jJhnlappNxpmUO1ipsVTTky/BQIg00YUvGVLuv1tn+Ac5Lk9z6HR2NpNcEG8zoD11DMliXN7QrYPFX/9g4GZtAUM+V27npiRCaR0jU1fXM8Zl+A2ovev7N8pB6iPMlaziMjKdfgP3uEgofMzqmUY2/M7Dzrsg5xkeTgjC5PnbOp8pPzaHDzw1oJHsXudWFYtRMnSQQexDFIriPc31jNx1+1+uSbIeb+o23Z+0e+sfVjv+o2l67GvSls3fb0tc24Otp1VQgbCgMB4NLXSD+n1AbrBKgbrFpfr;x6JCG4sHEn/paNQeZb6xnw=="
+secured: "qyEl0fLZAhdaTJDl9C75B1vN+COWNsYme+RPUbGyB4ZuYfaiRGK5zRMXzh+iCKgmMr63oOhOcAuLJAtNWEO8CuiXQ9UMjCh0aHTXOb0V8yansfoI/Po2XFYeQ1+D9UfLZqK8oMn1hLnARPTK1L3bLeMiZBgj5CLyO15aFMeuTVY4UpJVB0jtKdR/gIbq+3gXV38pChp9cRtpp4GcAJVCj05y2mnEJjpTTmbdaLIHYGfaiyJcIzYRjGiobeSLFIbT6L19nQpyFXx7ZoBdOrE+kb1Npxx8UaAK++zQPnLfGVtqlbeg+gwIS0hxadRn17gs;duIykKSGFxBSmAOpMtTsig=="
 ---
 

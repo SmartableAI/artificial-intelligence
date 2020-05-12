@@ -5,9 +5,6 @@ excerpt: "Prior to this, Inspur managed to make a spot for itself among the top 
 publishedDateTime: 2020-05-07T14:42:00Z
 webUrl: "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html"
 type: article
-quality: 4
-heat: -1
-published: false
 
 provider:
   name: Odessa American
@@ -17,21 +14,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Inspur Takes 3rd Place in Auto Deep Learning Finals"
-    excerpt: "A team from Inspur ranked in the Top 3 at the recent Auto Deep Learning Finals. \"Inspur’s leading core technology used in this competition has been applied to Inspur AutoML Suite, an automatic machine learning AI algorithm platform product."
-    publishedDateTime: 2020-05-08T15:13:00Z
-    webUrl: "https://insidehpc.com/2020/05/inspur-takes-3rd-place-in-auto-deep-learning-finals/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/05/autoDL.jpg"
-        width: 1348
-        height: 1348
-
-secured: "A2LRAdwiSTmi/px0vPlUWEozt7IpPK14iIOY+dQcKbvpTr67Ik5alDfjbUQl4Fw9lh0svp23B2cmRaZHKUvw0E3QWAZ4aLkRfrKC7ACZ0ulYRCYtDR6aOU5RoqLsfnNEokzglRzqiwHLxt8761ExnYmJR6LyDAohNdFtNm1uHweuSe3kuG2twwbs8wNfu3XLkC0Tx4YtFObWjzSLIWnHQX44XawnzbzNAGz86WkDX1yyy8xmldKYVNEC2ZkhEItrGzHV7/3oNDaKc8Qyv55Ut5KdQhkHdD1aBgA0oR3a2sEXJ6fj2+iXZ/Q+t6XycmiK;rssaGD2bDVUB0dp6lXTHQg=="
+secured: "iReKlFYppEAseaV2Iw0LyfNj2WFUOrUrKFg/oDVF6cJJZzAHYIfrnx939vJlHasV2UgeqtvZn2Hc9ApJB1VsY8EMZTvVNxte1ugh3uM6wRi7C8b4MzizYW8bD7eUfKQJP3BeduD1rXqcUh5N/N35SjGBOiA5hcrq/mI5zf6LhwjMn/+njpCefYYappuf5GsnQn7Kz8yj/4ukEU08HkHLsL39tWHOvx7Rww8mjLwycDzWU2Yunrf6hZ8S2M7XgjcDFfznCOPG9eGatcJHTFkxfD87ABkj5TqioNa5s/0WJ6tFOfH3ad148szmjbaW0wu4;sXfftUcx2wUZXgLmYCHvZg=="
 ---
 

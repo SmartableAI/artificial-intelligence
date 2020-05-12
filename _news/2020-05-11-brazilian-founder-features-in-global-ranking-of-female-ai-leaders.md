@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Brazilian founder features in global ranking of female AI leaders"
 
-secured: "+HTHxgAi5W1Z/Wqf2/S47zD5YcqrbFqJsI+KegaeigNQizV+RmcaG68++AUgC5Ib4GhBG9a3jGkkVjYmL8HuXiPxPN8NAgHTydCzasOft1Zn/E/IeZ1ostOoQc+qWvAvQkQUBrx5od58g827WyN3j82VBsPZyOJdxHbFDcP+A29wvGJ3SRPdxUkDfKyr+F2QopWGCXom91D/ekZy065rOiA1kmd7vEmeru1UwPl+a9MyJ1xM0JVCLlcs+ZPdb/6ptk32AJYcvlT//03eF90FzHG8h9q2hPvPWmvs5mGnhqwL3EZO3ngzZKkZGnSVOM/3;kvVq3aXxccvIrKTiQsMJOg=="
+secured: "c2UzzUW/l4s+2NCqBRI1Z6uifSJ0IWk0doGluc9lanQu95+odaU1Sm4mDUBukQnt1rKK/Pz/2ucSJ32hg4Hop386Ca1tkiyTtdU9FhLIyY/JLU/3CgdnKuuwDokAA/X90YmPAO8oorpaXX1n9xkOfm7ZPZUgEWsG2QKbtB1dvyN6FBeaXs3zBhd4BRDIdfdfYPVT620BAx2YpV5Llw2XV4Te4y47f5d02hcj6ZqXuDG1d59NueGiBoIQIi7a8k5dO6Bj5tHm/AI74MFGkQqhSfRAgwF7AQqy90/LUTL2MoxU46LphVB02OPxW4tzrmYXcxO/f7fGgq/DBTggDnzLrjgceTiLUUYCLsfHUNZB/iFBP4QVAjFJV6baRg1ZpS8sL4EX/NOpwUro1LAsrKhXYAaGoj63uFnErTt6LVsIcR1XJE+rsXs5NAGjJvBfpzqpfE+iMJtwxBtwOq/n2FtTXUL9JViqJ0BHRPB9FO64Hss=;AbgugpGYbhupN/tcdFUdNg=="
 ---
 

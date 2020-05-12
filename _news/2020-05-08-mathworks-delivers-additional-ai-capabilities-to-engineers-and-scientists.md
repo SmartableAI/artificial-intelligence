@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-08T00:59:00Z
 webUrl: "https://www.manmonthly.com.au/features/mathworks-delivers-additional-ai-capabilities-engineers-scientists/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 1102
     height: 606
     title: "MathWorks delivers additional AI capabilities to engineers and scientists"
-
-related:
-  - title: "SD Times news digest: Cloudera announces new ML capabilities, Flutter 1.17 released, and Tableau 2020.2"
-    excerpt: "Cloudera announced an expanded set of machine learning capabilities is now available in the Cloudera Machine Learning (CML). Capabilities include new MLOps features and Cloudera SDX for models. “Data scientists,"
-    publishedDateTime: 2020-05-07T15:01:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-cloudera-announces-new-ml-capabilities-flutter-1-17-released-and-tableau-2020-2/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 38
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2020/05/end-to-end-production-workflows-in-cml.png"
-        width: 799
-        height: 451
 
 secured: "CPXMmHXqUr7+xf57akf+jPiDNSfgKr88vfkNE1v4P50h8DZHXnJAQygg4NTvR7b93IKbhzDVgjMrTTD9uDRlcD3FGmT1KrsKIzypTrtzWjXy5vq5GioxRpKVS8zMRD4Yqr8rdyxh1jVFq3rN2k+bXKP+HGYCcANfIWZgPlfkGUwsf57HBCl+ZI6zqFW2cHYZX/sqovY8zheNu7k4bdx2LaYhoQp9dbtlacWwiFqpJm9CE60vXayzgGDyIHKM3shzEUmpd1kdNpz7kCx4pi+L3WAyJB48RBqO4XEgF4YAeT5XW9CSaq+2s8CrbgcEfgkusPtxpyMl0ekrlMjcNxN+EOSyYvEYKSigIxa0XaGOZbf9wZxq9EefHeRWbhX3eL1G/MDND6sHIATM+V/LgGeG0/DuM+vCD95+zNsXJJ6xW/k3hdDdJDIjXn6sd41vYVYLT1CViZeVYfQRZwQzUGFGQhBrMW4vp7nwkpH+a+TkxMw=;465j9JcQek4Y5if4/+xJ6A=="
 ---
