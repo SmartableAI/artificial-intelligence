@@ -5,8 +5,8 @@ excerpt: "In this report, the Global Artificial Intelligence (AI) market was val
 publishedDateTime: 2020-05-12T07:47:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2015-share-growing-rapidly-with-latest-trends-development-revenue-demand-and-forecast-to-2025-2020-05-12"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

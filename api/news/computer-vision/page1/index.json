@@ -214,51 +214,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-07-researchers-said-their-unbiased-facial-recognition-could-identify-potential-future-criminals-then-deleted-the-announcement-after-backlash.md",
-      "title": "Researchers said their 'unbiased' facial recognition could identify potential future criminals — then deleted the announcement after backlash",
-      "excerpt": "Harrisburg University researchers claimed their software could use photos of faces to predict \"whether someone is likely going to be a criminal.\"",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/harrisburg-university-lab-facial-recognition-identify-future-criminals-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/harrisburg-university-lab-facial-recognition-identify-future-criminals-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harrisburg-university-lab-facial-recognition-identify-future-criminals-2020-5?amp",
-      "publishedDateTime": "2020-05-07T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5d8764c92e22af0119409b92?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Researchers said their 'unbiased' facial recognition could identify potential future criminals — then deleted the announcement after backlash",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers.md",
       "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
       "excerpt": "Assembly” may sound like one of the simpler tests in the manufacturing process, but as anyone who’s ever put together a piece of flat-pack furniture knows, it can be surprisingly (and frustratingly) complex.",
@@ -430,9 +385,9 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164032",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164032",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164032",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164018",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164018",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164018",
       "publishedDateTime": "2020-05-05T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1200,6 +1155,43 @@
           "width": 1200,
           "height": 628,
           "title": "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-countdown-to-kindergarten-tips-activities-from-creative-discovery-museum-to-prepare-little-ones-for-school.md",
+      "title": "Countdown to kindergarten: Tips, activities from Creative Discovery Museum to prepare little ones for school",
+      "excerpt": "Along with shape recognition, color recognition is an important step in cognitive development for children. It plays a part in object recognition, and helps a child develop the descriptive ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.timesfreepress.com/news/tfp-families/story/2020/apr/27/countdown-kindergarten-tips-activities-creative-discovery-museum-prepare-little-ones-school/521623/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Free Press",
+        "domain": "timesfreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.timesfreepress.com/img/photos/2020/04/27/gettyimages11354749461996225658_t1070_hcd394fbf6fdeeaf7133cf06c6bb2d88de71e4110.jpg",
+          "width": 1070,
+          "height": 714,
+          "title": "Countdown to kindergarten: Tips, activities from Creative Discovery Museum to prepare little ones for school",
           "attribution": null
         }
       ],

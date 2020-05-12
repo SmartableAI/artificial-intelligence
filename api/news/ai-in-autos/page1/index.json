@@ -234,9 +234,9 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zawya.com/uae/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/",
-      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/SNG_173952755/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_173952755/",
+      "webUrl": "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_173952755/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/",
       "publishedDateTime": "2020-05-07T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -427,52 +427,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
-      "title": "3 Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "Additionally, AWS Sagemaker allows data scientists within companies to construct machine learning algorithms or use standard pre-built models, all while cutting out a lot of the extra busy work at ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "publishedDateTime": "2020-05-06T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "3 Artificial Intelligence Stocks to Buy in May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1244,6 +1198,51 @@
           "width": 1199,
           "height": 743,
           "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars.md",
+      "title": "AI Might Trick Us By Pretending To Be Dimwitted, Including For Self-Driving Cars",
+      "excerpt": "AI is not yet akin to human intelligence and the odds are that we are a long way distant from the promise of such vaunted capabilities. Those touting the use of Machine Learning (ML) and Deep Learning (DL) are hoping that the advent of ML/DL might be a path toward full AI,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/02/ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/02/ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/02/ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-05-02T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1189823259%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D289%26cropY2%3D3495",
+          "width": 1200,
+          "height": 675,
+          "title": "AI Might Trick Us By Pretending To Be Dimwitted, Including For Self-Driving Cars",
           "attribution": null
         }
       ],

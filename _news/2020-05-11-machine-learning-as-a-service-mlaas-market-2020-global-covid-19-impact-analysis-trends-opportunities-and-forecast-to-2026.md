@@ -41,6 +41,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Software System Market 2019-2024: Top Key Players Dominated Like Google , Baidu , Microsoft , SAP , Intel and More"
+    excerpt: "Get an extensive research offering detailed information and growth outlook of the global Artificial Intelligence Software System Market in the recent research report added by Big Market Research This report is a professional and comprehensive research formulated by taking into"
+    publishedDateTime: 2020-05-11T14:40:00Z
+    webUrl: "https://www.openpr.com/news/2041359/artificial-intelligence-software-system-market-2019-2024-top"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "axpv95IPRxmNIM60QlLedtQpAJeNKu6V25hmQyKvwBQ0fFplhoObz03WqZebETM1QKHcLtpJx5oDaQYn2kIMMHwpQ2PGImEKKpJ9PwxrLzuUs2itpWfbvhwG90hx30OAdXbLwocwHhXlC5KDp6DMrPq6I4F2asT3SLM3gdT6LJlyLfNcUETZIAqMcuKO/Rhuo1sTeOmtW5NpkGKzoatR2RIv9OWE4Fb3hbUHwrKCH7OR2cdgnVnofdr/sy2IQ+34vm5eCljq6nxZGSghNSx6rjwtgUvJEzjLa24s/OkBnCcMY+bmsHddtGmp6y2EMQMG;/eatSfSiHMWBtkh705FvrQ=="
 ---

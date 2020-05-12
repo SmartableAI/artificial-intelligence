@@ -24,21 +24,6 @@ images:
     title: "Zoom, Xoom, Züm: Why does every startup sound fast now?"
 
 related:
-  - title: "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?"
-    excerpt: "One day this quarantine, who can say which, I encountered the following pieces of information: Zoom, the videoconferencing company, saw its stock hit a new high; Züm, a ride-sharing venture, cut its work force by a third;"
-    publishedDateTime: 2020-05-07T15:53:00Z
-    webUrl: "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.html"
-    ampWebUrl: "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2020/05/07/business/07Zoom-illo/07Zoom-illo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
   - title: "Zoom, Xoom, Züm: Why does every startup sound fast now?"
     excerpt: "One day this quarantine, who can say which, I encountered the following pieces of information: Zoom, the videoconferencing company, saw its stock hit a new high; Züm, a ride-sharing venture, cut its workforce by a third;"
     publishedDateTime: 2020-05-10T10:59:00Z

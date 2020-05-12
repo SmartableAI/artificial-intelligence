@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-11T12:57:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-insights-by-size-status-and-forecast-2025-nvidia-intel-xilinx-2020-05-11"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MarketWatch
@@ -41,6 +41,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Software System Market 2019-2024: Top Key Players Dominated Like Google , Baidu , Microsoft , SAP , Intel and More"
+    excerpt: "Get an extensive research offering detailed information and growth outlook of the global Artificial Intelligence Software System Market in the recent research report added by Big Market Research This report is a professional and comprehensive research formulated by taking into"
+    publishedDateTime: 2020-05-11T14:40:00Z
+    webUrl: "https://www.openpr.com/news/2041359/artificial-intelligence-software-system-market-2019-2024-top"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "mzxXwItkQs74KPuvfe9XKLmNbMlRYKitid9GdWtI0HzvDmUwvk0LDNsml+VSjDJ+OdWHYlBbfEYrxh6xHE4uFe93sEtZ6C38gqmtONnJ9/XmS1wiNPBxxXrg8S5UwDcDSfWfERHoB4VOJXQ5eHPFClgZv7kRib2bm099hWOomOQoEi6ZiUubcWjBewyDfN5p4P3BHCQ++nk8pvOoTC/f/x1VdUV4VwbUUZhi573xutVTrkN17nhmei3HUc7oAiixVZK8THr96AX85qRdk5ywXFst4hiUec7dM1YIofkouI/ZY0ZIysQk2O8I6LmxD5DR;u9VdX3+WP35dkXVVf9gWQA=="
 ---

@@ -22,6 +22,6 @@ images:
     height: 585
     title: "Researchers look to curling as next sporting frontier for artificial intelligence"
 
-secured: "guKaqO+UFLMo1oB2Jg0DpoVPPxyjmBMMkPFHt86IAddP+6+D/ZxC89CJobF32QNPlUT+0ubRYuVR+qYL9o+Mqp0rIm2OU2i6UTDaVvW9Du4t16lZTmZdGT1cwcapUPIoaqN/9hdTGAMYAscHE4cmxcDIt3Ay2lnxHfDUlOzhXHbRRMEDmsEZGu/5fKhbyJut5sVFHNPa6a6YxR4I1ColCyQV4VPhNX4YQqefTzLRDOJgLJk4a6DJ7wdmiSYR4/Tsi/QzbbRlyvmHK6SM2cx2fl/qF6OKY+L4cWTPSBEFC35ifIJnEdqfQ/438jOd5B/g;BoKlPtI0pQwasIv4wb/Y4w=="
+secured: "n/neRxA9mwY59LBfpUYwYHyVePbNwjWtcTAVtl2g3sZyePO8HuVJRxHFS1hrUAY7L4+6Nds5Uu4XXsbJDuMxagzjCUS23/z7APvvAZBCwUaws1QBsTmiwr4/yHitgJmUeyHPrBTTNn9dPYJEzJzUYQOywsu/VLX1Y9XpD4LjQI+cMAIp3B+BwxKMDIsl+L2go/X6sxQ7b5kCY8+Ld8OSIW5zgUFg3TSolQuBE1gUmEaL+4tecVhhDA4mKggkL5wQ2obMT32YFS32o3ThcNoI2F6b/96mcN6oUPCJB7x4125tQ1AKMl1z1pTcL4K5JSXNSpzud4Hc4C6eaI2Nis9zs2Ba+03C/bwZx0E55JoBK+rJJPGv0Rx+Hw8RPLk/MViIUBfz67jzcmQ9kqWXwqd9FBmHfBLhVozdUM2DvzX6pwaLkUKV4h0UBwD8RFbYkIAR5MwA7e/C/7o7ej9cwLKkClR0cq/9FpZxlVR6CT4Sztw=;Vs5T/DFnubwYbp9cZBUrKg=="
 ---
 

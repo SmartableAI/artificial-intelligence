@@ -8,8 +8,8 @@ ampWebUrl: "https://www.qrcodepress.com/ai-and-machine-learning-help-google-read
 cdnAmpWebUrl: "https://www-qrcodepress-com.cdn.ampproject.org/c/s/www.qrcodepress.com/ai-and-machine-learning-help-google-read-along-teach-kids-reading-skills/8537872/amp/"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: QR Code Press
@@ -24,23 +24,6 @@ images:
     width: 875
     height: 492
     title: "AI and machine learning help Google Read Along teach kids reading skills"
-
-related:
-  - title: "Google’s Read Along taps AI to improve kids’ reading skills"
-    excerpt: "Google today launched Read Along, an app that uses speech recognition and natural language processing to provide kids feedback on their reading skills."
-    publishedDateTime: 2020-05-07T15:37:00Z
-    webUrl: "https://venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/"
-    ampWebUrl: "https://venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
 
 secured: "Qt6I/oKU/Yz1j9vDzcvLlJcosm85K9vaqVnB50WtLKT0ZjImkr7OGh/g5DhcbB42m8/PJpvg/VGpdbRVrmgp0I3jeCQq3+iNII71/d+P2jqvL8nfiALNBqv4TN44oM3mZyBSzAgR+O75+x3l5MCcjrER5L10IIMTd265XWv89OpdgYFB2TC2ikxMKw16EDvaqOTZrez8eqKVoDjdUzM0gioj40e4G5O95Y07rv6htH8yHdNZy6slS+PLTirvdAlAfQF1+qH2a/hwUozAnqbVORQma7NoXcNsfpvc6SW3O36beBEoEcEURHpCf9etVa4QbFjIZsIVEThGgi4w60/2wBJ1yVymgBpBCsKRrxWNQ+aGWq3yF30EOqYmdM9v8v7nWf08KyywANMRuht5RoGbYewoykzzAs7pVAj04OprLalAIpf0nORcOU/NmoxvixmHQ4c98c2UaQCxH1Z4oy9Bl4WNFg1LsYhZ3tiOVpt4WuQ=;ffVkZZ2ijxrZt17rH/pXKg=="
 ---
