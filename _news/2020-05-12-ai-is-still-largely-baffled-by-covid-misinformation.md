@@ -8,7 +8,7 @@ ampWebUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-larg
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,23 @@ images:
     height: 575
     title: "AI is still largely baffled by covid misinformation"
 
-secured: "6JU8nu7PdNiUCW+vVfaCY94IqX2F5laKXl3M+8bpxKRaKlW0A0tnNXEBUkG2eFEFs9UJcGgJBEA8Jb8TAi/VGTb1SUGeu6AsaDdGxxR1WKzUR9/LZnnA5TWcU1RAvR9efWjtivWu3zhazl604hSnGjUEQRmerCG/0EDfThVd4HFmIsV+oeRMobGypcu+POfQC2CdgpGN2kFugQ6cBYhnE0GhARoawl1qyoly+YfuCeuzfdkeDkxuCuvubx5X8P1VIZT9KgBd2+kvBEcGTEOy06aWnIkTMxccgug1ueKX+UUtbOMijeE0et/SiNK9QZc9;6hSDSpbZBRDGcsuHo1nqgw=="
+related:
+  - title: "Facebook Removed 50 Million Pieces of Covid-19 Misinformation in April"
+    excerpt: "Facebook announced it had removed 50 million pieces of content related to Covid-19 misinformation in April alone, based on 75,000 articles from the independent news organizations that serve as the company’s fact-checking partners."
+    publishedDateTime: 2020-05-12T21:21:00Z
+    webUrl: "https://www.adweek.com/brand-marketing/facebook-removed-50-million-pieces-of-covid-19-misinformation-in-april/"
+    ampWebUrl: "https://www.adweek.com/brand-marketing/facebook-removed-50-million-pieces-of-covid-19-misinformation-in-april/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/facebook-removed-50-million-pieces-of-covid-19-misinformation-in-april/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 44
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2020/05/burger-king-coronavirus-experience-CONTENT-2020-640x360.jpg"
+        width: 640
+        height: 360
+
+secured: "eBnqQr4Edi2kTL2LVNoCeaRx/vXzp25TJCo2jXgG/Yt85aaElfZTXlIjBbP4Fa6v+oaxME4zs5xiMWU86fQLVi/J7WxWI16ONmhl7W3zw45GtpGAhlCWyKVNhWnYbVScsoNCZpng1VohFaW0Uuaq56xygjW7jvhG3wcFRC4wSlF6UEz304X2qzeQShwoxZ7FFpOxYen3U8X61SouNsx32CUrP9PnJ8BP3IVhvX0BRyKQs66mcTWpzqkw9l3pzI57qvNx5GEG8jbIflU9g4oxx9f0FN8UhCIG9CF1u6mnYkAYQNsBwTmVVnzawMQtot/7+wenT60BevzpPVIbWruJmCwqA8948AMKanu6/TTo+yO0xhq97BekHQ1ytb/rXpw1A3fhE/RnVHlowfSu7T42KeOjTYQs+dkY/wPbpTpYPkWIDgLui+OE2nl4K8kP35Q67PbBwCvCVLQ7b42mrSrcvhp9cvuvm/2in6ipNX/u4mo=;rGXEafN39acOKn6tbIF5Pg=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 361
     title: "Port Automation Technology Demonstrated by Cosco"
 
-secured: "3yeb+4FZox2WLKb+jaV5B9zg8sIhcwaYBIMFxfBy9ow+a7Q1a5NOnGbmOmPR8cx0llj76w5jawyr2pK2CvnsEZnVeo1+pO1KWVAZBpm2WD5Qw/chAtlm+FmAyAyK5HOQkFKQwj+ldNUTg4H56BZ6M3ll0/sP/tzPCSwmS1lgk5gRbmjjUumr7otNx0EMi/w+lKtgy9ihYSdhgRQx+KAD4r/BfpOfX8fsiVMHdzFxrdSbfSsQBnmrjWfvajEWFWguekwUQQPQq4iu8XQJRZzv9i+U15p8bqLGv/sx352WI9z5la78tn+H8tkPkNuVf8da;/NWhC4OfjAkt2e4VBbJh6g=="
+secured: "Jqch/Y48TyHKOcutqXHhtkXt5J+iDhpE2hOpU+oi5IvJFCK0gwcmGs9+UZ5gsx2LT+H8cn1/oTIi8mM3OaGVFPQwSZXwJks7zHcrQmgQPSAuQIyZt3vq6Hd2xUvALXNV6exbngT0+IfwlnGQcybBhwmWSOYj/W+PtvGv7WiLBK54RQbT1Bpfyr83ZpXbLNQ3gbaS5B+trH/Hx/tfAJmc9bjr4jg//3IsPkQo1JLwOlnB0X5iWVcBQzDQk9CHx7PXAKI2D+tOHGVU5TL1Er1Q/HZONve2F0hIsY6dcyj04QHg2TRCmirFDT5gSoQAI5eYtdpbuLMn71vtxQ7OfZ+pFzPeo7NI4w2NEQigDyxiadFXTEd2FuzjccnjtDnEnaJcuM9ejFH2TfdcxAfrPUtyQz7IBU+rA5zlcXvL7cLD9J4ZbOP7i7+rI23Ko5KQxqcs6dhEtZ156Rj5EWNvl9trpKhC7W7w00msbT19BTMo9zg=;GvmzLtRuVlDIzpjNZ8tteg=="
 ---
 

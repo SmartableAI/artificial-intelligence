@@ -39,7 +39,20 @@ related:
       - url: "https://www.newshub.co.nz/home/new-zealand/2020/05/police-trials-facial-recognition-tech-without-clearance/_jcr_content/par/image.dynimg.768.q75.jpg/v1589311495907/new-zealand-police-generic-badge-CREDIT-NEWSHUB-1120.jpg"
         width: 768
         height: 438
+  - title: "NZ Police trialled facial recognition tech without clearance"
+    excerpt: "Police conducted a trial of controversial facial recognition software without consulting their own bosses or the Privacy Commissioner. The American firm Clearview AI's system, which is used by hundreds of police departments in the United States and several other countries,"
+    publishedDateTime: 2020-05-12T21:04:00Z
+    webUrl: "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12331487"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 39
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/RRGwnd0bOrayZWNOQLO_dR8ZwBU=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/RWJH3I7LCBBTNLGZWV6N2L5AVY.jpg"
+        width: 1200
+        height: 750
 
-secured: "Cwvd826VxrgFs/8eA1JKA4nyIsjbtWtZ7FS27yWM4Q8a2VGdjKd049J42dVa8KfwApF+KkjnoZCVPAtBeXSnnd4Qbel1w757EoPTjwr0F8tf9mJBuqRXedPOak/vMQhgtq5UIc9NAAq51UdZ+HPJ5hRD7YU9ubsyAUoALRWtXhgoiqCGAIjNUGl6wmvBWTFwnPQg8lmmPbwWrRwPIMPd8Om3NRlgHGXEZCMWFPbOOVDnYFPUqJat66kL2J8hs+cKvdZK/JKA2bwhhefE80/QLek4DJa8CsXiV2+WtI2XrI5CS0HOgTdos1KX9oY6Ucaj;s5kfz8ulyI9S4LcQl+VlMA=="
+secured: "YTbN1B2cEjilXXCcNa2xmv03y9aZ6C+Nh4q96fbNSw5s0UAeCexGr21/tWD+GvhQnJ5KVJhKYf1w7vyP4etmub0wlI8cRte1HNgpLoyl/QbRp+NHwcY2oSx4nHu2XNrFSV2xmOlZpn68k6zNyvaAYhHDREuIOMs9qvP1PWqeCRBOL8k/4Tg3Fjwpo5MTGIw+4XvJm0jQ1WtkhPt1LHG8MxuOOLS8aR73x8Ve2rwCOYOC++VKgNgZCjhdrGXS87FZx59GX9TpXHEKStl3iN93t6sMAE/lUtfMNImSMQ7AKDyqje8iiLv7NjrbUk/KsAyG2mNdDeWF7PBJ/IxPWoCHpGrJlU9X3u7U5nuJGTsbB5fPEaMbxGMxuxW73CTLtt4a2RnLhyvFTIyw+Iqd++8atj0Da2y35KITr6+Yyv5rIyGrKYqDwQfadQZDcBfRZ7PgAS9qltW9/aYpgn+45+GsrnOyXCmgityW5hMikksq5A8=;nhDkLvdjeJb28N0F20n7UA=="
 ---
 
