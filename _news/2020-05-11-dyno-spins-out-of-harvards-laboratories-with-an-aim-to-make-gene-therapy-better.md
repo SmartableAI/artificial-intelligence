@@ -65,6 +65,19 @@ related:
       - url: "https://qtxasset.com/fiercebiotech/1588979831/dna-1903318_1280.jpg/dna-1903318_1280.jpg?t.2eZ5FSDr1S5ybezl5h3kF0HskfKFHY"
         width: 1280
         height: 720
+  - title: "Dyno Inks Up to $2B+ in Gene Therapy Partnerships with Novartis, Sarepta"
+    excerpt: "Dyno Therapeutics, a gene therapy developer emerging from stealth mode, could generate more than $2 billion through collaborations launched with Novartis and Sarepta Therapeutics to develop treatments based on a delivery platform developed in the lab of George Church,"
+    publishedDateTime: 2020-05-11T13:37:00Z
+    webUrl: "https://www.genengnews.com/news/dyno-inks-up-to-2b-in-gene-therapy-partnerships-with-novartis-sarepta/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 38
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2020/05/Novartis_genetherapy_cell-processing-specialist-lab-hero-image.jpg"
+        width: 1600
+        height: 800
   - title: "Dyno Therapeutics Announces Ocular Collaboration with Novartis to Develop Improved Gene Therapies with AAV Vectors based on AI Technology"
     excerpt: "Dyno Therapeutics Announces Ocular Collaboration with Novartis to Develop Improved Gene Therapies with AAV Vectors based on AI Technology"
     publishedDateTime: 2020-05-11T12:56:00Z

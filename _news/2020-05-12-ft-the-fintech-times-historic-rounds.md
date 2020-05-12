@@ -23,6 +23,6 @@ images:
     height: 677
     title: "F|T: The FinTech Times – Historic rounds"
 
-secured: "REP3KKp8FE+presN+pCZSyoqnG/YMf2H8YZ7LrAaoMY5/1vSjJSm68x8kB59nAXKeFGMxRrLHeQpR9cxXNP+hq3Hs45+ZYyE81po0g8aP1UOYwIcTa/KGrFw1y5QClsqrwT7Q800ubXPbkC1RrBQG2VxbNM1d+UDVJT+8V+R/tokOaN90y16dH2xUNCa0CCFHVaQpWpT/7aXkBlQuHTfPq/Y1OSLDH0V5oEXA196T0I+KHgQsBO8MEo0t5ydPqhKIK5RSeoa58xJHVtzloioMkhLGyFb5oqSrOBtCxkZIN88tPjzdESwOH7lFN6uxfuO;hX249eSD02tEK8SFrRxhXw=="
+secured: "CW7y1i+2JxJ9i39ZVybXVKUv+lGdZ0G0CqKk+F3v9nlHaBzz+HH9AZhAhlRe08YhuGJLExKafb01ecXIy8PzYP0a+ZYLIYhePDvmSxl4qwCA5M0UNG8sepkqcHFTD3KEYjUOtb9wNFJ+r6UYV2ebuVC70d/651p9HVaoQOE8/Nt5Lwr/s+3gitlazAMhA5VpotMng++DHOVxy1CbyYd2/Nw9NJxBbIW1nxs49SvJmeBP6mBcVajpOf3Aj2JkiATK6Wty/1V3+IJvcvbuaootrcczyQ955AQmD+jv85FE+Kh8rl0TMOL590iOp+IggQvo0uh3TTsLY4hEte0hGbeRzaoB6BjC0oPI0dQhmGuy9aKw+JJumQebDtrSL7FoxKwsZqlkvAOBjB2wnBkbrdxS5JgxSQ5tO/6qofxZPMWxQExhNISREMhgdELafKdK6led0wSHlDfSkQ/3h9ZkgazhIIlV3fcwbxE+y6DK+dg5WP0=;BAx1hsy+jh/VDt87+ne8uQ=="
 ---
 

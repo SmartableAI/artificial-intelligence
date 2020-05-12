@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-12-simaai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution.md",
+      "title": "SiMa.ai announces $30M Series A to build out lower-power edge chip solution",
+      "excerpt": "Krishna Rangasayeem, founder and CEO, at SiMa.ai, has 30 years of experience in the semiconductor industry. He decided to put that experience to work in a startup and launched SiMa.ai last year with the goal of building an ultra low-power software and chip solution for machine learning at the edge.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/amp/",
+      "publishedDateTime": "2020-05-12T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1136623583.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "SiMa.ai announces $30M Series A to build out lower-power edge chip solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing.md",
+      "title": "Intel Capital invests $132 million in 11 startups mostly focused on AI, autonomous computing",
+      "excerpt": "A few AI driven investments include: Anodot, a startup focused on autonomous business monitoring via machine learning. Anodot is designed to catch incidents that impact costs such as app performance, customer incidents and success rate drops. Hypersonix, which is developing an AI driven autonomous analytics platform for retail, restaurants ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/",
+      "publishedDateTime": "2020-05-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/3b281536-3984-4d37-8041-c236f425cb2d/thumbnail/1200x675/30edb9414ab65af518d50bdaef074337/cfo-pwc-survey-business-return-may-11-2020.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Intel Capital invests $132 million in 11 startups mostly focused on AI, autonomous computing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year.md",
       "title": "AI-Brain-Chip Neuralink To Be Implanted in Human Brain Within a Year",
       "excerpt": "Speaking on on Joe Rogan's latest podcast, the billionaire said the device could one day fix \"anything that is wrong with the brain\".",
@@ -1214,96 +1304,6 @@
           "width": 1680,
           "height": 1120,
           "title": "You don't need an GeForce RTX GPU to access RTX Voice, after all",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-you-dont-need-an-rtx-gpu-to-access-rtx-voice-after-all.md",
-      "title": "You don't need an RTX GPU to access RTX Voice, after all",
-      "excerpt": "This app claims to use AI to reduce or outright cancel microphone background noise, and it was only intended to function for RTX card owners. However, as per the usual, the internet has circumvented those limitations. A user over on the Guru3D forums discovered that RTX Voice works \"just fine\" without a pricey RTX GPU in your system.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "publishedDateTime": "2020-04-23T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-23-image-31.jpg",
-          "width": 1680,
-          "height": 1120,
-          "title": "You don't need an RTX GPU to access RTX Voice, after all",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-google-claims-its-ai-can-design-computer-chips-in-under-6-hours.md",
-      "title": "Google claims its AI can design computer chips in under 6 hours",
-      "excerpt": "In a preprint paper coauthored by Google AI lead Jeff Dean, scientists at Google Research and the Google chip implementation and infrastructure team describe a learning-based approach to chip design that can learn from past experience and improve over time, becoming better at generating architectures for unseen components. They claim it ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/amp/",
-      "publishedDateTime": "2020-04-23T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google claims its AI can design computer chips in under 6 hours",
           "attribution": null
         }
       ],

@@ -2,6 +2,226 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-06-women-wanted-why-now-could-be-a-good-time-for-women-to-pursue-a-career-in-ai.md",
+      "title": "Women wanted: Why now could be a good time for women to pursue a career in AI",
+      "excerpt": "AI is on the rise during the coronavirus pandemic, but more women are needed to get the industry where it needs to be, according to a new IBM report.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/06/women-in-tech-jobs-in-artificial-intelligence-grow-amid-coronavirus.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/06/women-in-tech-jobs-in-artificial-intelligence-grow-amid-coronavirus.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/06/women-in-tech-jobs-in-artificial-intelligence-grow-amid-coronavirus.html",
+      "publishedDateTime": "2020-05-05T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106438406-1584006292285gettyimages-1154963750.jpeg?v=1584006364",
+          "width": 2119,
+          "height": 1414,
+          "title": "Women wanted: Why now could be a good time for women to pursue a career in AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-register-now-aws-summit-online.md",
+      "title": "Register Now! | AWS Summit Online",
+      "excerpt": "Join in to AWS Summit Online Australia/New Zealand on Wednesday 13 May 2020 and learn how cloud technology can help your business to lower costs, improve efficiency, and innovate at scale.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/resource-library/webcasts/register-now/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/webcasts/register-now/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/webcasts/register-now/",
+      "publishedDateTime": "2020-05-05T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibms-new-ceo-lays-out-his-roadmap.md",
+      "title": "IBM’s new CEO lays out his roadmap",
+      "excerpt": "Unsurpisingly, many of the subsequent announcements at the conference hinged on hybrid cloud, enabled in large part by IBM’s $34 billion acquisition of Red Hat in 2018. Take the technical preview of IBM Cloud Satellite.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.amp.html",
+      "publishedDateTime": "2020-05-05T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/ibm-cloud-native-100836782-large.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": "IBM’s new CEO lays out his roadmap",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero.md",
+      "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
+      "excerpt": "AI algorithms for deep-reinforcement learning have demonstrated the ability to learn at very high levels in constrained domains.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
+      "publishedDateTime": "2020-05-05T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-769726995.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-how-nvidia-hopes-to-industrialize-ai-with-mlops.md",
+      "title": "How NVIDIA hopes to industrialize AI with MLOps",
+      "excerpt": "We still spend far too much time training machine learning models rather than deploying them. Could MLOps--which brings data scientists and DevOps together--be a solution?",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
+      "publishedDateTime": "2020-05-05T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/577ae693-b828-4a28-93b5-9d7ba518a5c2/resize/1200x/a0c1793f8d8ebe9e2fc334808c235fb0/istock-1017199998.jpg",
+          "width": 1200,
+          "height": 848,
+          "title": "How NVIDIA hopes to industrialize AI with MLOps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-epitopesworld-taps-ai-to-predict-covid-19-vaccine-success.md",
       "title": "Epitopes.world taps AI to predict COVID-19 vaccine success",
       "excerpt": "A new freely available platform -- Epitopes.world -- taps AI to accelerate the development of vaccines targeting the novel coronavirus (COVID-19).",
@@ -1088,216 +1308,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands.md",
-      "title": "EU robotics project gives maintenance workers a ‘second pair of hands’",
-      "excerpt": "EU project to develop a collaborative humanoid that helps workers in industrial environments has come to an end.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/amp/",
-      "publishedDateTime": "2020-05-05T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/SecondHands-31-1.png?fit=1296%2C647&strip=all",
-          "width": 1296,
-          "height": 647,
-          "title": "EU robotics project gives maintenance workers a ‘second pair of hands’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-the-relentless-startup-fast-tracking-fords-self-driving-cars.md",
-      "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
-      "excerpt": "Meet Brian Salesky and the team of resourceful engineers at Argo, the little company trying to crack a big problem: safe autonomous driving.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/",
-      "ampWebUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
-      "publishedDateTime": "2020-05-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eb0b525d1f9c7765dcdadbe/master/pass/Backchannel-Argo-Selesky_6564.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-watson-aiops-automates-the-detection-of-it-anomalies.md",
-      "title": "IBM Watson AIOps automates the detection of IT anomalies",
-      "excerpt": "IBM has launched a slew of new AI services that aim to help chief information officers (CIOs) to predict and tackle IT problems before they occur. Watson AIOps, unveiled at the company's Think Digital Conference,",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
-      "publishedDateTime": "2020-05-05T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1588670694/itpro/IBMBuilding.jpg",
-          "width": 1000,
-          "height": 690,
-          "title": "IBM Watson AIOps automates the detection of IT anomalies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations.md",
-      "title": "IBM rolls out Watson AIOps that helps enterprises automate IT operations",
-      "excerpt": "IBM has launched Watson AIOps, a new offering that uses AI to automate how enterprises self-detect, diagnose and respond to IT anomalies in real time.Watson AIOps enables organisations to introduce au",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations/article31508049.ece",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations/article31508049.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations/article31508049.ece/amp/",
-      "publishedDateTime": "2020-05-05T00:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/f840m/article31508048.ece/ALTERNATES/LANDSCAPE_615/BL06IBM",
-          "width": 615,
-          "height": 384,
-          "title": "IBM rolls out Watson AIOps that helps enterprises automate IT operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone.md",
-      "title": "AI Hub Singapore creates first AI computer vision application that allows businesses to monitor social distancing with a mobile phone",
-      "excerpt": "To allow more businesses and people to monitor social distancing easily, AI Hub Singapore has created an AI application that turns a ubiquitous device - a mobile phone - into a social distance monitoring instrument.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164018",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164018",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164018",
-      "publishedDateTime": "2020-05-05T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

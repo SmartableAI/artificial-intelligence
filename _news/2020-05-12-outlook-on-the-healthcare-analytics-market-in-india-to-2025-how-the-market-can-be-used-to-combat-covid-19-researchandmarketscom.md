@@ -24,16 +24,20 @@ images:
     title: "Outlook on the Healthcare Analytics Market in India to 2025 - How the Market Can Be Used to Combat COVID-19 - ResearchAndMarkets.com"
 
 related:
-  - title: "UBTech robots being used to control coronavirus in Wuhan"
-    excerpt: "UBTech is supplying its robotics and artificial intelligence technologies in the ongoing effort to control coronavirus in China.  The AI robots have been installed in healthcare settings as well"
-    publishedDateTime: 2020-05-12T11:50:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/05/12/ubtech-robots-being-used-to-control-coronavirus-in-wuhan/32218/"
+  - title: "Fighting COVID-19: Artificial Intelligence community to help citizens and the healthcare system"
+    excerpt: "Several leaders in information technology and artificial intelligence development joined forces to enhance automated public chatbot"
+    publishedDateTime: 2020-05-12T13:00:00Z
+    webUrl: "https://www.newswire.ca/news-releases/fighting-covid-19-artificial-intelligence-community-to-help-citizens-and-the-healthcare-system-837899544.html"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 19
+      name: Newswire
+      domain: newswire.ca
+    quality: 42
+    images:
+      - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
+        width: 600
+        height: 315
 
-secured: "NC4/sJOXMsReIFPlNoeGa4FBb1ikSrTA16xheyaJPvgB/gJ86MukcouXmJRlGV4JZwXwg43nQmlKUA1y8e9LIH63CnxyOEsp/3ujseb9ui7iNCthzbONsM+WFNkQI+bWgDN8IGIhZgbu/EGylM6xNgYmKVs6EawLSNLucOPYRNw+La2b8x4NJBiSahbIrkcHr6mkCZysH1UOYDEyQdI5foARd2CcJIBwRjIHVqzDwjLpwV83ECt5oQ6Qfy5sAQw7aAe6G1fIQdjojj3nf0LbWdvdH3W07XQEoV1D2729KA0hYzWJURTd2LEUgAjGU5nl;oeTweVhy+cs3vWhzL0pCCg=="
+secured: "Pd30Oq66kdk4FBSO2TorwGk96Lpzju29a/DhXA0s3NrFhG0KyQ2913bo17czM4og/RlRB5O3H6BiHE/YIu9u0PbF1o2ji+mp+hHOgEWcDBZEo19n0LJaXI2Km5hnmTVUsw/X5PtwRE45tf/4tVFAd+5dAofZvu45jUFQo06DUbWsfT9ZSUMg0pai+tKTK5Ewo3L5MXtNj7UlEDOi4uctB+gUh6Om3ZoFsv6nKDS5uY/9q++haCnkkLeR8LFp84JDzcbVk2X7EgGQMYVLjNui9/jkfRgFTuKYgiSg8/Bt5Di9AnfKTtr+6XwezRxgWTM/CblH8nSR5BhxQTBKUshCNd1uLwSfrtzbq1Rzat4bDq5Igrf58yZnfuYfnr7BBFQzWBGbZHLq8vRR34B6PM7FA3SKr21PESZHAaynv498cqgwbVEPyXTqXg1BDczf7d+V4HsdCv50jW/LICgz4suzL07tNZ2ipZVBoCRR1H6cHdE=;RMwAHcxyqnoHrbsA7muRqw=="
 ---
 

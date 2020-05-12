@@ -2,6 +2,223 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-12-transformative-robotics-technology-from-brain-corp.md",
+      "title": "Transformative Robotics Technology From Brain Corp",
+      "excerpt": "With retailers seeking to enhance the customer experience, not to mention overcome current COVID-19 challenges, Brain Corp believes that technology offers a way",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.esmmagazine.com/technology/transformative-robotics-technology-brain-corp-98085",
+      "ampWebUrl": "https://www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
+      "cdnAmpWebUrl": "https://www-esmmagazine-com.cdn.ampproject.org/c/s/www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
+      "publishedDateTime": "2020-05-12T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "esmmagazine.com",
+        "domain": "esmmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA1XFxcLzEyMTMxODQxXFxcL1Rlbm5hbnRSZXRhaWwtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjUwMCxcImhlaWdodFwiOjI4NyxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC93d3cuZXNtbWFnYXppbmUuY29tXFxcL2lcXFwvbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNjk1OGI3MzBhOGQ5MGQyZWEwZjM0ZDNkZWMxMjQ0YmM2YTFmYmM2ZiJ9/tennantretail-1024x683.jpg",
+          "width": 500,
+          "height": 287,
+          "title": "Transformative Robotics Technology From Brain Corp",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-simaai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution.md",
+      "title": "SiMa.ai announces $30M Series A to build out lower-power edge chip solution",
+      "excerpt": "Krishna Rangasayeem, founder and CEO, at SiMa.ai, has 30 years of experience in the semiconductor industry. He decided to put that experience to work in a startup and launched SiMa.ai last year with the goal of building an ultra low-power software and chip solution for machine learning at the edge.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/amp/",
+      "publishedDateTime": "2020-05-12T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1136623583.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "SiMa.ai announces $30M Series A to build out lower-power edge chip solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-database-week-microsoft-oems-redis-enterprise-for-azure.md",
+      "title": "Database Week: Microsoft OEMs Redis Enterprise for Azure",
+      "excerpt": "Microsoft is upgrading the Azure cache service through a new OEM agreement to the full Redis Enterprise service.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/database-week-microsoft-oems-redis-enterprise-for-azure/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/",
+      "publishedDateTime": "2020-05-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/11/f9afed5d-33cd-438f-ba73-31b31abba8e1/redis-logo-2.png",
+          "width": 280,
+          "height": 280,
+          "title": "Database Week: Microsoft OEMs Redis Enterprise for Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing.md",
+      "title": "Intel Capital invests $132 million in 11 startups mostly focused on AI, autonomous computing",
+      "excerpt": "A few AI driven investments include: Anodot, a startup focused on autonomous business monitoring via machine learning. Anodot is designed to catch incidents that impact costs such as app performance, customer incidents and success rate drops. Hypersonix, which is developing an AI driven autonomous analytics platform for retail, restaurants ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/",
+      "publishedDateTime": "2020-05-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/3b281536-3984-4d37-8041-c236f425cb2d/thumbnail/1200x675/30edb9414ab65af518d50bdaef074337/cfo-pwc-survey-business-return-may-11-2020.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Intel Capital invests $132 million in 11 startups mostly focused on AI, autonomous computing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure.md",
+      "title": "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure",
+      "excerpt": "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure-2020-05-12",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-damien-patton-ceo-of-ai-surveillance-tool-banjo-resigns-after-kkk-neo-nazi-past-exposed.md",
       "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
       "excerpt": "News of the shift comes after OneZero re-surfaced newspaper reports from the 1990s which tied Patton to a fork of the Ku Klux Klan hate group and his involvement with a synagogue shooting.",
@@ -1086,223 +1303,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-deep-learning-system-market-insights-by-size-status-and-forecast-2025-nvidia-intel-xilinx.md",
-      "title": "Deep Learning System Market Insights by Size, Status and Forecast 2025 | NVIDIA, Intel, Xilinx",
-      "excerpt": "Advance Market Analyticsreleased the research report of Global Deep Learning System Market, offers a detailed overview of the factors influencing the global business scope. Global Deep Learning System Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-insights-by-size-status-and-forecast-2025-nvidia-intel-xilinx-2020-05-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning System Market Insights by Size, Status and Forecast 2025 | NVIDIA, Intel, Xilinx",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-google-the-next-big-fintech-vendor.md",
-      "title": "Google: The Next Big Fintech Vendor",
-      "excerpt": "Three recent stories regarding Google signal that it--like Amazon--is on its way to becoming a technology vendor for banks.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ronshevlin/2020/05/11/google-the-next-big-fintech-vendor/",
-      "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2020/05/11/google-the-next-big-fintech-vendor/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2020/05/11/google-the-next-big-fintech-vendor/amp/",
-      "publishedDateTime": "2020-05-11T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb413ca76d463000676c602%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453",
-          "width": 1199,
-          "height": 675,
-          "title": "Google: The Next Big Fintech Vendor",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-novartis-sarepta-partner-with-new-george-church-gene-therapy-startup.md",
-      "title": "Novartis, Sarepta partner with new George Church gene therapy startup",
-      "excerpt": "Dyno Therapeutics launched Monday with plans to use artificial intelligence to expand the use of gene therapy. The company was co-founded by George Church, the noted Harvard University geneticist, and others.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.html",
-      "ampWebUrl": "https://www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.amp.html",
-      "publishedDateTime": "2020-05-11T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11660263/dyno-ceo-eric-kelsic*600xx2201-1467-0-367.jpg",
-          "width": 600,
-          "height": 399,
-          "title": "Novartis, Sarepta partner with new George Church gene therapy startup",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired.md",
-      "title": "The Station: Uber has a taste for Lime, Tesla drama, Moovit gets acquired",
-      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hi and welcome back to The Station, I’m your host Kirsten Korosec,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/11/the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/11/the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired/amp/",
-      "publishedDateTime": "2020-05-11T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1159465876.jpg?w=1024",
-          "width": 1024,
-          "height": 686,
-          "title": "The Station: Uber has a taste for Lime, Tesla drama, Moovit gets acquired",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-how-ai-can-help-educators-leap-ahead.md",
-      "title": "How AI can help educators leap ahead?",
-      "excerpt": "Artificial intelligence (AI) can help with the challenges teachers are facing while trying to teach remotely – as well as when they get back into the classroom. As the world locks down and schools close,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/au/news/how-ai-can-help-educators-leap-ahead",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/how-ai-can-help-educators-leap-ahead",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/how-ai-can-help-educators-leap-ahead",
-      "publishedDateTime": "2020-05-11T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "How AI can help educators leap ahead?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
