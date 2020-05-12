@@ -43,8 +43,8 @@ related:
         height: 550
   - title: "Zoom, Xoom, Züm: Why does every startup sound fast now?"
     excerpt: "There have been at least 120 startups whose names include something that sounds like “zoom.” Another fact: They have raised a collective $1.8 billion in funding."
-    publishedDateTime: 2020-05-11T11:49:00Z
-    webUrl: "https://www.bizjournals.com/pacific/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html"
+    publishedDateTime: 2020-05-11T16:49:00Z
+    webUrl: "https://www.bizjournals.com/houston/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html"
     type: article
     provider:
       name: The Business Journals

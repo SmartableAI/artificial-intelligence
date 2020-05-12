@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-07T15:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/robot-software-market-overview-and-scope-market-size-2019-2024-2020-05-07"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     width: 1200
     height: 630
     title: "Robot Software Market Overview and scope, Market Size 2019-2024"
-
-related:
-  - title: "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024"
-    excerpt: "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,"
-    publishedDateTime: 2020-05-07T09:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024-2020-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "J18v8qahaxEiqKIdtnOcW5knoSLoyl8FaXekav2EuM9IwXpjR5E6GMcjr52o7LD8JTrqCv836+M1WbzOEt922YMn83eDCvid+zIKOwDqsnvI2VlH20F/QDEADfeOPCY6S8x+8oijjP/bMmlkctLNfj+IlwvHYqMevq40Xb6nu1BvXgD7P3t4jwO3sCNsF4hyhH2VzvBon5hWWY/uvxz9RdyduW+zqd0AoIKfplZbi4mc9efk6ajzDikrOVpaaWAyH8EkbjMUtBsJs0FcdBWnFn+cGOZqYl83eT68x//yRxMtVaPyZqMA1y1ADm4Zu2y4;zQLQiN7KjpAJItUViPa3AA=="
 ---

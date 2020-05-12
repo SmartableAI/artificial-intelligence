@@ -5,8 +5,8 @@ excerpt: "The \"Artificial Intelligence in Supply Chain Market by Component (Pla
 publishedDateTime: 2020-05-11T11:15:00Z
 webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-global-supply-chain-market-2019-2027-301056537.html"
 type: article
-quality: 56
-heat: 56
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -14,7 +14,6 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - Natural Language Processing
   - AI
   - AI in Healthcare
 
@@ -24,6 +23,6 @@ images:
     height: 419
     title: "Artificial Intelligence in the Global Supply Chain Market, 2019-2027"
 
-secured: "eD4WB8pex7J9nnrVSgZraxSPJDVtTaH20Yy/z5varX6q0yp3jFSqawdK1gGxjAst7soHRr9n7EgiNGt3z/PeR8Pht28h7Upa89AygCGt2etQgyceqdZVpRU0O+PKdTsnpbb/laKSkINUFyH6nPvIzEWD6ziK3vbxKWA5q8fic+IYLFMARwSS1pR12wxQSoLMhBMK0iVDnJ0aVvnrIZcUrvoBBTKLFSjNDNn5ZYgE79xQvmjpOmDcH2RLkPBVNKbYOVnaLEKXuoO7tXd2imlZzgfhk24uTsoXOIQVLnEtScTXnlMAcMgyZbBqhGmGwqNsNjurkUbBJ2uIjvWRUpapL82oDOlEPjj55XZfKFM2PjrlPDoBlo4IJA0H338seu0GptctGp5KKS0W52q+Gy/nlDeGSA9e+jZcx0LqG0q524OFk37MN64It6GE5++3zy/VEPcuYS95rGnuXGLc9Uuiv+BspqMyCT8eFOBptZKEsck=;WIgCKA0dWm+qkC393afJ+g=="
+secured: "oIR/z2KztyaNLD37uT6OtSuoZwD43umWA2u9OJNFWyd/JF09M/jLtlCp+As47jmV0HD01zbh1DuKZho3TmwyWO+3ay5q+AESjO5l9Uc/xpT8mbDBfuoriHWzWs6JLqjuM1V9dUrZf+pmf25+AHldSuVMXdywbInFRXDkmI/uyU4nepTYngw0x7GrWsZ3UjEqUwddla8CO51blW/Y3zUGsvAqxA6HVJgiDnJCCBndwRJnz2l3jyNpoGO+4GIrD6CiYzHXD5D0bkLz+PJg07yh31VHsHyjdg36SFaq2Y2yro/7SRkn0Osn6ApDHGtniMyd;ap+Vuz1zRwlCPEBBVKCEwA=="
 ---
 

@@ -1,28 +1,31 @@
 ---
 category: news
 title: "Study Shows How Our Brains Replay Recent Experiences During Sleep"
-excerpt: "While we sleep, our brains are busy organising fresh memories into long-term storage—or at least, that’s the theory. Intriguing new research is bolstering this assertion, with evidence that our brains replay the day’s experiences during sleep,"
-publishedDateTime: 2020-05-05T14:21:00Z
-webUrl: "https://www.gizmodo.com.au/2020/05/study-shows-how-our-brains-replay-recent-experiences-during-sleep/"
+excerpt: "While we sleep, our brains are busy organizing fresh memories into long-term storage—or at least, that’s the theory. Intriguing new research is bolstering this assertion, with evidence that our brains replay the day’s experiences during sleep,"
+publishedDateTime: 2020-05-05T16:17:00Z
+webUrl: "https://gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411"
+ampWebUrl: "https://gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411/amp"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Gizmodo Australia
-  domain: gizmodo.com.au
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/fnaf5qpslovyxvkyr4he.jpg"
-    width: 970
-    height: 543
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fnaf5qpslovyxvkyr4he.jpg"
+    width: 800
+    height: 448
     title: "Study Shows How Our Brains Replay Recent Experiences During Sleep"
 
-secured: "WB2dWHbw8PEGZUHqJaZncLiv6+epmqupi8uvL+7MJmOmzE+6kSFoXvBWrrsID1krNZ9sDupnMgbQ1hKEvNn0AiYrE29JbaBORnN5gx0YThrbq1YVy9WUsaB8jTow98H4gphg3r55zA/X9FymFhv0OZ9SXwkxbPwxYa3PNSoIGwKfl8QyxUg+oFGxq1bdWtIq+yCyV6TlTHOMqgV2eIrdbFnfg9Q37ObmbXQ+0gFD0o9Wp6oPaBMmPvhMXYA57PAe4vJbka38hRgDGrwURTT08+Xjs0bw8qwSOHVBpzFb6qq8Xnc/9XfajPQPuTYrrTZ4qXK1dVuBt7ZyE6tEhHKGaizKWKPRxWzkzq73nXsMzjuF5b6ESJQA1MikFWgsuuluFID9n3mBNHFFe2tPWxeB81DzUlo+Mi7+VdR8B7zR56FoeC5e5tGU07sHnvBk88Y3tVhDYy8J2pvEAfvQuR39km+mViWr/2NoBM0uLMDkeRg=;z1CdnooxzerSINTCjREWCg=="
+secured: "t3guwPOs/vOHkhTuUmX61ntP+vb6qiOJYJUzCstsrEGv3oKyjfMau4ljd0WzDptCeQBSwRBukZ/M8xaFqKFoS85jT05ChjJfV2hHNM0v/zE/iOw/ytHK9GfLW675ytD5f6pWl45zHCRU8YMSWt6NOemuUOnIcDdIypxUgfxLL04TuozT7Ge71l9ne2dhCGO5SkIW9mg1vA6JxSSs2NPYk2NepA/r7iFJn0LPPvx8NdYOFB7s8KT0xk+e+/MwLwNcCkBvCPznf/yd0mI4alGw0nUb7mfXhe3a7eczzuAmoDUuZZ7ml+N0jiBts75plhAy;KDHa5JRvEPpQq9024Aj+qg=="
 ---
 

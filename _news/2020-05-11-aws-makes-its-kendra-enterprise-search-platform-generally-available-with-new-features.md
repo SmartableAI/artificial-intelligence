@@ -5,8 +5,8 @@ excerpt: "Invent last December. Since its initial debut, AWS has improved the pl
 publishedDateTime: 2020-05-11T20:37:00Z
 webUrl: "https://siliconangle.com/2020/05/11/aws-makes-kendra-enterprise-search-platform-generally-available-new-features/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/kendra.png"

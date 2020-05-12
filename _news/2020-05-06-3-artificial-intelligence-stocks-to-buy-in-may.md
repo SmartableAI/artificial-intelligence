@@ -1,9 +1,9 @@
 ---
 category: news
 title: "3 Artificial Intelligence Stocks to Buy in May"
-excerpt: "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ..."
-publishedDateTime: 2020-05-06T11:01:00Z
-webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
+excerpt: "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46."
+publishedDateTime: 2020-05-06T14:45:00Z
+webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 type: article
@@ -17,7 +17,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
+  - AWS AI
   - AI
 
 images:
@@ -26,6 +26,6 @@ images:
     height: 378
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
-secured: "annrL7lf7Wd+eYHcRoI+XtpVgQj631eNLllHVT4p5ptnth/a7C32c9q9LkZbjPs1vKzB/7SsbsAAPIItHWNV1jJoSk/fjZgRlMS69/DWxwoCY+28rQynoYmzpP/ZYsoISRvwwKm3FHutyT0D4aP8bj5hwzgHGZxD4ONF23WANdkiFoaJi8zsDZ7mgCWSCvaw/9cRDoXaQeA2gTTx4e+9KCx63sxPqp5ohEf7wc91mbqpO/Pw2ffeTmgRIgL/2/k8g77Z3xXgPPs/8BIXedH0NT8hdH8C8nuin+xm5FvOXcYWu7P/pZCovmkgeaOfRbkV;gVZQVb01PBMwSCES+S6vrg=="
+secured: "t4esXaY04tzxURXoEQwrjXeK4XtkZWhmTp0Z26/XMQT+mNVoKjPrAj7v2/Faqh7rvJPspqRRM4eXo5gw6d5aed/3P1852BkpSyL0zanzdyJaqxd/VgdU5WCTgihEVALFeEdpAF+Hwfm+GZm4QLSto3a25DSKZEY3q6doB6leCGte6/nvltGn5sF9zSikYUGG90FBbQDN/3/vfql7Tbevq3V6jEz3ZB/OnHT+oq0cLCvWE+1TbM7wOvLWAl6JihocVFNLddTUDgRayk5wEaSYWzQ7aQrDFPtWOG9gukifGQKwusULPWSraeV4tbz6ZMIA;GPfYL3AbfOeicv98GiukRw=="
 ---
 

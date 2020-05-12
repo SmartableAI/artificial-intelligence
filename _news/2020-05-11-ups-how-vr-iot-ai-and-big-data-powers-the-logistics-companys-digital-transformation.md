@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/ups-how-vr-iot-ai-and-big-data-pow
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/"
 type: article
-quality: 78
-heat: 78
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -21,6 +21,8 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+  - AI in Autos
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2020/03/23/11232f1b-da8c-4e3c-98a8-966c33370e4f/thumbnail/1200x675/486d0069eff46635d66b70183fea7484/2020-ups-part0-main.jpg"
@@ -28,6 +30,6 @@ images:
     height: 675
     title: "UPS: How VR, IoT, AI, and big data powers the logistics company's digital transformation"
 
-secured: "tZ6T56sTabxsyTquA4Syw7fUZ9i53BHm9oJTbyg+RTe74SKR4gJqeMIh+39DPuOj6dQ8dOFJNYqlzA1TP3UZqw9cQ+D+Ls8A/Fn4lrU3Dm+NV4h39GgO+uHEFV7jwvjL1sYnnZxHgyOCiVMOMpq0duhHb/muyDNuEjz3iMlDDnscQxQWRvBf8kapbP5TfISQQGhGhLCcXjrqSkLxQusZ/wLErQv14RJ2i5j8tYKzt99/rddxeAWdbAkv9O7vsGohbzKiOFaH828fkp0ydkQdo+ywB+4crIYCD+1FrJwxeZ1JDHroYdKxYDGD4zKP164E;w8EsWXePrKn9E18dXylTjA=="
+secured: "k12POiQn+39NH/VZqRCzGBn+YHI0IlDfhgBCQSuZvGjm+dro+9oASOkyMhczsaMeizMPfFmjN8JlbtLhvv0jMgc4vpLPLKt/Kul4uYHHmaSijUO61JmkFsulX+VTlNeoAQtOfeCJ/Qs0yzvqQd4tnedy/gBNAP2BB1f5zPgk9qGmCz/lfPMyoh96DhaRpzaR48aoAsXCpFr3WLSU9uoDQ/htrm30S4lzP9lN6gwqDLysEtR3TZAJcU6uhK2ITu1u6MrbQipXjJnkBVixy3ziuqxIz1VUzEbJ/uf8i9rNhSAzOW4v2qZYcDh+F0Lp5VbkooFWXEGR67Xhj8w/FeznHPEQ+jyqDtGi/aQeYU9cO+E5M3LM47n2QUZKhJUqmnBDfc0YgcpO+Qns/RLOqtFwZBvYSAru5j/YoLp8bgs8KL2G+dMZqtZRzQ+lcGkfTP8JqppS74xccJKcHiza3uee/IQflk7xGT+cs370lV35+EI=;1JZMtEj/e+Yj2Ml9hI+e/Q=="
 ---
 

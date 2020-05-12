@@ -7,8 +7,8 @@ webUrl: "https://investorplace.com/2020/05/why-alibaba-stock-is-a-top-pick-for-a
 ampWebUrl: "https://investorplace.com/2020/05/why-alibaba-stock-is-a-top-pick-for-ai/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/why-alibaba-stock-is-a-top-pick-for-ai/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://investorplace.com/wp-content/uploads/2019/08/baba1600e.jpg"

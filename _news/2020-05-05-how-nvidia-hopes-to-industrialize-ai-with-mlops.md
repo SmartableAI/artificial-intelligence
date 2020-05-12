@@ -23,6 +23,7 @@ topics:
   - AI Ethics
   - AI
   - AI Hardware
+  - Google AI
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/577ae693-b828-4a28-93b5-9d7ba518a5c2/resize/1200x/a0c1793f8d8ebe9e2fc334808c235fb0/istock-1017199998.jpg"

@@ -7,8 +7,8 @@ webUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/11/waym
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/11/waymo_facebook_aws_roundup/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/11/waymo_facebook_aws_roundup/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://regmedia.co.uk/2017/05/09/shutterstock_garden_wall.jpg"

@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enter
 ampWebUrl: "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/"
 type: article
-quality: 85
-heat: 85
+quality: 102
+heat: 102
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2019/09/AWS-Logo.jpg?w=1024"
