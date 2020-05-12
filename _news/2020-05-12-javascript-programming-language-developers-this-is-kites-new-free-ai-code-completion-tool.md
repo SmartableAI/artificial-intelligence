@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/javascript-programming-language-developer
 ampWebUrl: "https://www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/"
 type: article
-quality: 77
-heat: 77
+quality: 79
+heat: 79
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/843fd8ab-846f-4d03-8060-bcd5d611ec7e/thumbnail/1200x675/6c7e3312371b165b65c90cd7fc188d5d/developer-go-is-the-programming-language-5eb921c27f8c3b07249d42e4-1-may-11-2020-11-50-12-poster.jpg"
@@ -28,6 +29,6 @@ images:
     height: 675
     title: "JavaScript programming language developers: This is Kite's new free AI code-completion tool"
 
-secured: "heAdG6lHhjrpu4WLOv+CyeUyDoQf4X7rTy4nuPrHcYCXdzUAixze8PHF4M4h79Dv/kl14RQ8WCMwQGQPKk8mKC8HhjDwF38tC55GPGRfwT/wZAN6DGtqQqJR7a1EjOdGjbrk+0ALuB2WMqJGfFstuvs5Eg2nwrSKNE1mSqphoKGc06wFXxBJWOHly/DbQKgayg2462RUE19WABxo+/5YgTUOtfTUQ4Dsv6mGBH7pOyHVKoqrgBSoFfzKJEmRucfeuIlDa7SFWdxAJxDnWr6R3kf2UYtThvlJ3zF9TULvR0Cph7XLF9pKt+9Ax9y5D7k7;x9MxQdoWrqVrEHI+dVypTA=="
+secured: "C0XttZYXwL8DfWBsqyt3Hbp4MUYfvVXVJYSag34XS6vIThuNiPBOJbD2v0/fri3oPacWOg4VOxzjXZnkfZlfC3NFxJ2rM3lUFu8Tq7xTBQhv0UfdBV1K2d+k39yT6HvRFIExYAbE+Ne+wu+oMRgso7PCEldCO890Otb7P9jdAV3g4wIZrv5gCMWk3MqyN2lUyH1Fh/LgxopInDKL3d/YcUypsWHy6eO2L5b34vpazyltSs3aCenieC1snZ9mLwsIZfrrk0t4skN0ei/ba/hlSDcevLo7jsOz2YpVQTBe1lPYG7BP80r4FknuOVjFLNjitfpnlPwUBAWoUJPlxB0n5/Vz+XlF2xU3cNsXtgai+S29ut3ODVGaK3p+nSPO33u3jK/O3uZ2kCndMwHHPKxe8OE/mK16ClDpO84vF/EQJLsmLqJKLd3BusiT2Kl7x3mgTEWcm4MoV5MANxXNCF4rjoapWddfh+fSmua8v5LBISg=;5QNnelphPfXEttjZ0h7RLQ=="
 ---
 

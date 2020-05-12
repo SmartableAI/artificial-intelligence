@@ -5,8 +5,8 @@ excerpt: "Socure, a leader in Day Zero digital identity verification, today anno
 publishedDateTime: 2020-05-12T15:07:00Z
 webUrl: "https://www.businesswire.com/news/home/20200512005635/en/Socure-Recognized-Gartner-Cool-Vendor-AI-Banking"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mms.businesswire.com/media/20200512005635/en/791197/23/Primary_Logo_RGB.jpg"
@@ -23,6 +24,6 @@ images:
     height: 627
     title: "Socure Recognized as a Gartner Cool Vendor in AI for Banking and Investment Services"
 
-secured: "YcZIMxklFqlWus4wRRtrd7fQ/QWgo6wl2sOGJV10TbJ0ubcGYTpLIxQGKyQ7QufmxT/7mV2lw9YBLRbyojkLcK26ySi5NDuiJBJGWRK1K88g7NYe4wRx1CaM+eWkoMCaptDw4AOyrIhPUG54NQQzaiwS+rssbsB69IMDYCaJ/04oZ6NhGtomCodip/AuGHRbqgHArx3APrdi4moaVqFGx8mNPK596N0CJ/P81dUABvH4MqtXRpk3XgW/Xr+sC0flkTob+TPJ+EclSBKs7hBafclz8ptKXrAYW44q0jFQMkcaxC7uy2QuSjkbqZZIoKGe;Dr4qBTXVWOgczOA6eUYsTA=="
+secured: "ZYUvtbmWdptW0GP3yDqpFAtmUDYbJsCReSQ/TodsOF/PpgNBFoiOKWSpv+voUvaE3tswX6UpUlHZiLkyqV4w4COtwRAMN4N7jEsBpUYnn+HZ+5Az8Klu6c3ckucpil9Lij+IFVeMF1vsfxaRL32h/1RRBjJveAFkIUdn9MyO7+SIvwU5LeTaihGB9XyaL1hyASpe4Nu06jXnFU7XjB399XFvo8yxA3dn5mLGq4/CL8hqsL4tcl8SrYIatECSRkxq9mutDtj0rvU7x2XyC9oIqe/AGWVvSZANQjs967fIiPdSDJdH/ZUAtl8zsSopkbItyCdoqqzQTIj5m80LWxzhh+/Z5eVATsgcS5MQfzOET7fHn4FrNpJFn3+eQoLtkL+VAYLA72lgVeXAkeCIUm+ZxMcHGpjIaiu6bvt7UWSu7vLaeuEggI43MM0T9dm11KKYnueKxfz3o8k7Wxz7QRsVEfQNVGqSNmaGk8bOGJ874bE=;xL90jNhQUTCcNiSQGwJMLw=="
 ---
 

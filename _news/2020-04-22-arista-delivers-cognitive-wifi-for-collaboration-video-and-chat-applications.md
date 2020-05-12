@@ -20,6 +20,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "Svr2tXr/9LVDYldynVp5Ykko7rOHcxXOBHjUc4qxE1YnC4NZ4iIyFPOygVtyhJq76fxXHVqubHpp5pU2dxHyA3Iq6R+0v90O3s2xmn1yOhi2Bk/oc7IWtmZveTf3OZi9LkUXNxUrPDA/P4+Nc8vqkqRuCFlCtSH/Xch9GLqjLlP9s3Q10Kx8fV2ZiIiISmFLiJW37IfaojvpJX7jd/IVVhI/4vaiZzfj0SANV9GapFbdNT3t/CTBdqB0nuCA0nROchTFbm/ZwL8PXTJflO/0XbXLVvLtJmHbALshOumG6N6raQez+AAe7q9I4enaNAxa;ey/eeRAZQjNAzXaLf4VxqA=="
+secured: "vLpDjAxyzsC4ZRmYkuBD+oMmIffGS1QfpY+BkMtUPZX6+8fF+4I4BjHyjAB8SZ6I43gAxom3WYJr6II7wnCyVBO1FEnXqqyGLoGkKlMOrnaEq95zg5H4sp0ILX1G+cp8JfHS9LkygPfnQUbVyf2kaVoEpx8Pmc3rBARH1nAuRVI8GJk+ROrbRxO+stt0is6vxwhQdkuIJHexUoIVD9pdsbAy9cVjrNC/R9UvCXk+D6sNqOBEtMtiOaleK2VZeILWMHduNKMhfz8CKnRVML3kfh/zy3K2Nr+7Uo+wdppkXx4lvOJxjMgb/iWcH72bCJVI;63uwQcfOl+mxVAuHDAAFmA=="
 ---
 

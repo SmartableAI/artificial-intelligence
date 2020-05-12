@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-capital-invests-132-m
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+  - title: "Intel Capital invests $132M in AI, chip startups"
+    excerpt: "Capital has committed the funds to 11 startups that focus on AI, autonomous computing, and chip design.The new investments include Anodot (real-time data monitoring), KFBIO (builds"
+    publishedDateTime: 2020-05-12T16:21:00Z
+    webUrl: "https://seekingalpha.com/news/3573471-intel-capital-invests-132m-in-ai-chip-startups"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "12qhhb3saS5C03itnemMVnb3pgef3HKxxGBeaF5oPHfg3fyO8waSjKg+aNWjVyDnnKtroGtGKsSOo6dFRi+K56gkZbP46Cbc1x9tShXqGymIzKKYnVpqaTEnOe+UxiJvxBvsW16dizY3GafQ2slW6OsiMvHbBuT/ekfXqEg1xmewGfxzz5enEUJcaHkPUSlkkAg1KfeIrzBA42N8MBs+T+mOIjJIpVhvxmOLie6ieFuQQQnHlNq9Qz8QUBWjt9A/rmtZTV5HFgjuZrYdz7r8L0RvbHwp03YF5Y5THneFtZQxyFaTt2C+SXNkT7qCaCUfRJH3MRzgYXJ23mW1BCwtmk8cdn/A17BI0GSgz4AKcTcLjhdHfWIxpIGfMt8P7fB5bwJDmEbGbJLHdhzYqHgJdCoC0nlwO9SNjbMWcktbC9oGF/mtsP+NQ8qRv53V/k1+H4NhExq8gRCL85X7eH+wwZKI8dWk4j6cP0CZFLVxN+g=;lyD6YtD2V+BM6X3akO8b7w=="
 ---

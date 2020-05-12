@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-12T10:07:00Z
 webUrl: "https://venturebeat.com/2020/05/12/dispatchtrack-raises-144-million-to-optimize-delivery-routes-with-ai/"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,23 @@ images:
     width: 1200
     height: 600
     title: "DispatchTrack raises $144 million to optimize delivery routes with AI"
+
+related:
+  - title: "Waymo raises another $800 million for self-driving cars"
+    excerpt: "Waymo said Tuesday that it has raised another roughly $800 million for its self-driving technology, expanding the size of its first external investment round to $3 billion. Why it matters: With the coronavirus pandemic likely to speed consolidation among self-driving tech firms,"
+    publishedDateTime: 2020-05-12T17:21:00Z
+    webUrl: "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html"
+    ampWebUrl: "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 74
+    images:
+      - url: "https://images.axios.com/sFX9HxvY_oBlORx1YPbGg0AmQlU=/2020/05/12/1589303283397.jpg"
+        width: 8702
+        height: 4895
 
 secured: "Z/II3Yy7Y1xL3JXk+XFSjiCc5VpL1qNXolwlMKHrwQd+6PkNU0I20jTz6FMR7lg0Htw7jybfOFVVyO6RtXeiZW7owlayY/LVCs0pasvfAXHwbpDQxkmTl5rNh58pbUjsBI8Q7f+ZcL4Z13x0Mzfe7Jtr/oHP/7gHqFpWnu3alMz/jpI3pzvmxIBpY2U9n+T1YjWCiBOwo8aypo48pJeI6XFcfU/Ua4sjDCQp9cL8KD8gm85MILSZFVk171XsM/2gcQxhRM+XpreeIOrYIw0x1KfpkpeZlo5NBx7hL1vlc3LLxqrCaSrThYn5qCygGc+I7OR8Kecrb1r0gqY3ijmInVM5SQp1uAOBZEPCwryHyyPzfgug6yucQuQ3jzB+BUVIPAYz5l/Mt6m7O0gr6ZIUgI126nGO7ScgMPmpy4gUd5NTAIJ/opUXqNsk5SNYmVKfBo1Esj9LE/QjSi6QhZBNv1ittqke4XwTEP0NG+y0Y30=;TI26s7Wln5NavDCQWaP67g=="
 ---

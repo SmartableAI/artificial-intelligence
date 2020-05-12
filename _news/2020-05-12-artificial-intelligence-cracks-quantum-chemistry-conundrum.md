@@ -1,20 +1,21 @@
 ---
 category: news
 title: "Artificial Intelligence Cracks Quantum Chemistry Conundrum"
-excerpt: "The tetrahedral electronic distribution of a water molecule. The oxygen atom nucleus is at the center of the tetrahedron, and the hydrogen nuclei are in the center of the pink spheres. Credit: Simons"
-publishedDateTime: 2020-05-12T13:58:00Z
-webUrl: "https://infosurhoy.com/science/artificial-intelligence-cracks-quantum-chemistry-conundrum/"
+excerpt: "Machine learning techniques accurately calculate the energy required to make — or break — simple molecules. A new machine learning tool can calculate the energy required to make — or break — a molecule with higher accuracy than conventional methods."
+publishedDateTime: 2020-05-12T13:29:00Z
+webUrl: "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/"
+ampWebUrl: "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/"
+cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: InfoSur Hoy
-  domain: infosurhoy.com
+  name: SciTech Daily
+  domain: scitechdaily.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -36,6 +37,6 @@ related:
       domain: phys.org
     quality: 39
 
-secured: "s7scJ0O5VoUiDt+LXJGUZ5BmLrG0fUNr6d49puWxDnQk4t4R+wpM684F74in9LW/cTJrKO1twlG+xrHLFV3u62NaGxh8hi9PcC3iFRDYtnxFi4QexyNxXhzcCrkaYhHX9dAJ56Wmtdram2S0RDeE8wR6mSV40fQzBxicmzL24L2nzlotYadi1gX0O4JPSb3wsZ6T5JbkpJVAC+dsBWNExv/HQeJBDrmQ2+yNRYI69B6emPDFT37+YLV6epRE1PtC+Fvbuej3kQHjFyQgx03XWZBgPTTHVN9WXnrdxnKKy06MWn/hGd91OvCAXexlhopk;e4sETYCCEPIr12qUOoGALw=="
+secured: "lCmD+uHG+izM+0IQZfzkIHkCtM2YHaGLlhvF46u9t+PYNTmEsags9Yc3zLQ/G7XCEdLM88mHjNhPNBT7hOuKx8LSmqc10TBPvQEaqQOR8jMZBpDuUzxf2yurLZ1XMxRMKdB42QCheak547OB0uN700GjtBQBpTTxFlalQsgCbgIKhMQNwGwIiwwb28S/3drEi8++KIxo0jBalc8DIcIFM/qE1isy8eEVJY/yqh8WbL+o+zps8tKD6MdPgvuaDo9HNFCxKptVoe0pLCgjnfer9KsOvTzb5ssl17utrauwQKnQ9HEMBM0aB9YDrPTI3v/c;2a7UDBYJiY0HXzOaawq41w=="
 ---
 

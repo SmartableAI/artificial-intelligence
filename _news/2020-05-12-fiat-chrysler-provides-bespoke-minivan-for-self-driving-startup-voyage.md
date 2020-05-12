@@ -45,6 +45,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/08/voyage.jpg?w=1024"
         width: 1024
         height: 682
+  - title: "Fiat Chrysler partners with Udacity spinoff on self-driving minivans"
+    excerpt: "Fiat Chrysler has agreed to supply vehicles specifically designed for the startup whose robotaxis have been ferrying seniors around a San Jose retirement community."
+    publishedDateTime: 2020-05-12T12:25:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/05/12/fiat-chrysler.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/05/12/fiat-chrysler.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/05/12/fiat-chrysler.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
+    images:
+      - url: "https://media.bizj.us/view/img/11661108/voyage-at-the-villages-waiting-for-a-pickup*600xx3000-2000-0-0.jpg"
+        width: 600
+        height: 400
 
 secured: "3hva/llpAUeQr+Jn3nqx3TrWfS0VUG44iM1bn/R0IZrmO/58mrRinEGyhCqLNnWf9spSMxVr/Ypuv0E1CgqGNZr7VPtebzQiTsRz5vO3sPGbc0aFFfdssb6eydaTqbQu8HentHrb5qIGRUDgI9diO8syH8nrm6vn355bUMDVyKlmrB1CAjkcyaTqF8/SfbSuuctkvo8AcUGf3+cDqdX1aDsAnhX4KX3PK4s50ZoqECQtW5gcbIw0epmLVYfaKUyglSWxA4cgTtSxvI5Z+nAWoDF1kXgr2N6uQcx1efM9Sm/nUnlbQKERvTUV+YXuwQ4C;z9JIUv0XOjBS2X6XuNJm/Q=="
 ---

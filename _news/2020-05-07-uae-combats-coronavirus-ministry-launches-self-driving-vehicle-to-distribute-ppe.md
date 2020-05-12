@@ -22,6 +22,6 @@ images:
     height: 878
     title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
 
-secured: "fvf8+DweRHRHZ3M1/3WKaZezI0lG5kdMm0jfMaB/WstcU8FFIIDe8hTizbk+HciT+2jvqdAvYhS7qWzOXhMnZZsuL0ew7nhfsg5AUL3YSkxmALDKMUNW2pK5ki6bo/is6/7umDQbcEDgU1i4sKM2sROv1WX8LyTNC+hU2MIiQOooF3tOoPeQLQeImjyaajqv/i2blFy2UFWRovwjHIaTNnVAkLW/0rxqt3mXoe+s/iRMbJ/YVFTmhfITvvgZKN4Sd2KcX4YFr3ncCYr7NZ7caBe8rT52jcu9RyRhe/S6BuTq0sCvJVKGvmu4Pcrpt3sz;lOBKqWyq4rDoP1L1Ld2muA=="
+secured: "cV4SKLsfy+V1yrWVkeBrGuVFLOFLuwqGcCx0RVtS8546kT5kDO/itwRPaVAQbyS8NXVaaf7U5OwrMZfq22MwddJrJ+elzY+wbqHiH/uJv/3N0jeOYUR58npte0aCFKnr/py+82hYN3ofIYABBUB6jpK7Fxrp19GXLt5YN4mFL3LfHBtCyghf1yDxpWVOo2HcguwmNWaC705PP+F83Py5rlvOtWjG/bCtH4A1Izx58Wb+SOvnrqhwJT9aAX5xo5EhtX6LM2Z1r70ZmZMooRzPRIKCSoh5Zp6H8DC+UC+pAFq1xEZ31GwcPo3dXMZS0syccVevZhuLnqx49UstbIGvOZDmXfZdp34odu1YghXud+Cdo/H4boM21zQD9iYTvWYmXDXej27k+hIiuP5M/byIHhr5pUzeP1CnCnEPe15dg3esj6TgFMQXIOO3bVD6zTZLkrD26aNL/kkel9288m2Aw+VwFejjnk1M6xdQQlujUTY=;+21fg7xEsNcvVBFtwwH5pA=="
 ---
 

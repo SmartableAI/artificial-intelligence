@@ -18,32 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Uber may use its selfie tech to verify drivers are wearing masks"
-    excerpt: "When Uber rolled out its selfie system for drivers in 2016, the ride-hailing company was focused on preventing fraud. In the future, it could be used to ensure drivers are wearing a mask. Uber said earlier this week — CEO Dara Khosrowshahi reiterated today — that it is working through plans to"
-    publishedDateTime: 2020-05-07T23:08:00Z
-    webUrl: "https://techcrunch.com/2020/05/07/uber-may-use-its-selfie-tech-to-verify-drivers-are-wearing-masks/"
-    ampWebUrl: "https://techcrunch.com/2020/05/07/uber-may-use-its-selfie-tech-to-verify-drivers-are-wearing-masks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/07/uber-may-use-its-selfie-tech-to-verify-drivers-are-wearing-masks/amp/"
+  - title: "Uber may soon use 'Real-Time ID Check' to verify if drivers are wearing masks"
+    excerpt: "Uber might use its selfie system to check if drivers are following safety protocols by wearing masks or not. The system was first implemented for identity verification of its drivers by the company."
+    publishedDateTime: 2020-05-12T10:09:00Z
+    webUrl: "https://www.sify.com/finance/uber-may-soon-use-real-time-id-check-to-verify-if-drivers-are-wearing-masks-news-topnews-ufmp9agfeceig.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/uber-mask-GettyImages-1211871217.jpg?w=1024"
-        width: 1024
-        height: 683
-  - title: "Uber may soon use ‘Real-Time ID Check’ to verify if drivers are wearing masks"
-    excerpt: "Uber is making it compulsory for drivers and riders in certain countries to wear face masks as it is on the cusp to start functioning again."
-    publishedDateTime: 2020-05-12T12:00:00Z
-    webUrl: "https://www.hindustantimes.com/tech/uber-may-soon-use-real-time-id-check-to-verify-if-drivers-are-wearing-masks/story-oPITbChtVnTp4WtBcNkjkJ.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/uber-may-soon-use-real-time-id-check-to-verify-if-drivers-are-wearing-masks/story-oPITbChtVnTp4WtBcNkjkJ_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/uber-may-soon-use-real-time-id-check-to-verify-if-drivers-are-wearing-masks/story-oPITbChtVnTp4WtBcNkjkJ_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: Sify.com
+      domain: sify.com
     quality: 21
+    images:
+      - url: "https://www.sify.com/uploads/uber_ufmp9agfefagi.jpg"
+        width: 600
+        height: 450
 
 secured: "bLTCRiNr7LzHm88byV0nZ+qJv82P8MfxVBLcqXoX5CBxL+7uCJrwCh5lyBJ+jHLmfhHqDQvmcw2vUIlQ3rxaKl7aGn2js06HLeFTowZYh0dQOv5TGF4aij9wJq84VC8DhJI7yWXEBmziqPmv/57jR0nkmCOBy135MQX3tpCRTKfIWk/wtqn2Z1B1p7prHOWT9vhXOXZf9J5yfaODXu9OiXQt5epo1istnlS0VE4QXDIaKUZ1XPZa3FVO18utI6vQQ4RaQNB2peE9ViVQnlHpCmgd8x8kzESdkP5AkdYua5L/RLQQNEDSZIyB4vh00yp2;NBTwOq3CnTSO+lIwbKYLzw=="
 ---
