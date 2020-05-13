@@ -23,6 +23,6 @@ images:
     height: 700
     title: "How To Get The Best Out Of Your Freelance Data Scientists"
 
-secured: "UrP0eAz1qDnoZb+kmpcVBoUpA4tIuY37yZHUgtlvs7qHs+JKxs9jEbamsPXxLgZ7RFRf/WmsZAH3PlBP19LNacDgNsTnYZy7TyolCS9pI1NZsF0Vk03vttaSxrkvVOzYIcqIiV6XmHzcPgyLGVEjitYPvvtPjv/KkdBegFJ309m06l+/y7YDzdWD4dV+AC/co8utx5JfmiltE4Zm/m71kuYlCYB6T/VBlUYEUJZ1bqPpwyGwPyAdMmTXnxIxRKy4QTkveBdGvZFyKRCtH/5ESAreQqGihDrtINQvvhfJS63sI+1z28UIFtiv+trAi2uH;DnJ60Qvx+0HuaPgh8F2oig=="
+secured: "cjar3HJ+5DMYWHfmsrn4NfbJP5/aYRSMJkevQYZMFPG/JxZ6mWVHNFdJCaZa3s/ctIqMjxRLDjqNG1ahBe5QX8ywW3228dG9HWj6qiVdaPG+hQp6zpuo8GWlC+sgaoGsBJnGJ509eXYyklLf95D8mirZMxEk1Tkr21VPqfflsOSuRwZW81ZgENoE4/WLz8Q3/iucbXNfBuL/JqMaGNgNOc+aEfe+QGjHgxCY0fpt5yByx/LIqcEbbhPxBXY+VUtOj+EW7vXfH7mvQy/eBBl5n+DviMbuzsFB+ZXvBFk7sApBRNl2JFoyXzTftoK7Xqzx2OJTQ7cTXrCIiuenSZHY+GWW16vbljugmBFBxf5ChcdwwgyJZof7lyE7YA8hcsRIsF+OwLa64TPEzFqxVhyU2B7yC7clKcq7hYiEq24juB/5Y7cRPdLKlJcmP17QQ0hFTdurZbr2vhjpFMrYrGstRrzwxvkBkr83tqRl0xu7760=;YtrXRu+FcZX/yTuxTAITLg=="
 ---
 

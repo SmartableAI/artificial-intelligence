@@ -23,6 +23,6 @@ images:
     height: 420
     title: "Yell orders through your microphone in Radio General now with Linux voice support"
 
-secured: "Vt7mUxQUBWEkD853sWjMvvxvyYJSfBe9InEZNwi4G8wRqrcVnQ6Ru9E5qOLqsGjyRD0WS41jxTKsPCVe9z9ZgKxrI1kXGoBSzL7r5t1LUvSzx8ZV896Oga1mKv9J4YEFv1T4NnIemnOe/6N8fNIu8hjRpq7RMcdysvnTrtbEUhJqpZ4kCOpOOuWa2uiU1AZTy/xfOOS0fO+dI0EV8gmzpt+biGIGL+F6V6utOLks97TT0VFRapwlACNaT/j37K3UD4xoyCYp92MSKJBzvnSAHcZ4mzPXlbBLItUOpC3fDQYw/MrzGJN+8RIhTaxuq+Es;e0Gkn7maJ4YQFEBx/7HFVg=="
+secured: "bPrEv3VxoZCqQy5wI4NoqWUhoo8qUDC1XQ2V5+bxgxrCxGzbNSePepKP/Oga7sE+vAbMOzMxaBeKq5h8JUPvu8bhVa6gZB3iZwhqDOsPGM71ooNSwyTOKVUckcVFlwAT7BsEtZkeqELCEmiaTLfsPefb94jNvac3Kdygsf4I4JJg2h9mfMYp6Q6FooOO8fQPBzHAVHf2epwb0ZBdUdtX1Uia8/RoOBc+QQlOi+dJLNrRF6CF/31P4A8etvgauDSX5yikqQ9914KNvcosxd66J6XACBJXL0E/T1y/CYeJoypTBI6D5A2LF+WlxJCv+1YSIyl4ZayApAaEDxj77EZBILGncN9DC6+9l/vLswHEzbLR1QLZp/RMDzQpuhFV2MkSv/H5FWIhXL2uF1V6MBaprE0rp/Nga5LQKe8S4gR77sYMKKg8tpbkHJr4p3BZr1SbJuJcx/DHObyQJBdzy//d4olDDALQ+Fb/SA3AiOkjSEI=;J4RZ1OxjPWRlSc+OmtTXaw=="
 ---
 

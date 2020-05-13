@@ -22,6 +22,6 @@ images:
     height: 573
     title: "How artificial intelligence, Amazon and UBC are working together to chart coronavirus treatment"
 
-secured: "i2j2qkMHdT6lzVXy0AVyr0MjwT1NRx9St24aMoEy1NCq18gKDRVglDrt7o1RN6hlk9qSQ/7hZj/6cRS+FWZFJHFTm6dhV65Zt29V+3Nu0tgWVIlYYOovzkbg8iITQlBivWXUVvODchbuWk5390aRZMN/zXj1tEZmibjnhCG+keJ+C992mZ3Zg6e+A8EWcaXuMdM/CjK4cSuHNKQcVFiOm13YNXPUd6K8loWTxxVaOk2Z/8B8rJtCpqAK/Vh8V48qTSqhy7kpE+dBgvKTEcxC8nqp5IZ9aqP+LkXYEoGHqZoGnkNz0kr1W4KBJWlBIexw;t7wwCu1LhqrZW/paTkeDdg=="
+secured: "QW11xuMfXPZMOvUVX85ssB8lfRdxHB/i7Gv4t8GnpoLLgqmEvqT9ln/I6RJYlkUq4Ntlyu4LPhjJlcG3u+fsQKxeedZYwsP+2RyEwmXjPkgGAX/ima7zPj2AYijcQ5iSjcT/cm5AVoepo1vqLzEAym1ITeEkSGelevQuPLMB/qZS2OY41Y9NGyFrliPK01ycSRTCgoCdqP5vpnKosnlfzVGBkYNEF+NUeknx8jMW1AlCk8VqBmw+BWSGZ98WtN7jkCXa/Y1+qMJlidhK1rgIM1zTEiTDuWM+shTSo+Qxjsk9DMLkBQCbno9JDEVTSSAaiYc5wf3CPaakYE/UzG8UTiws+V/miLAjcspnO/yHSaDKRrlNvcwcE5RYBEkTGcOR4UWsJ3FgbkM9dHii9ktxBhbbsGlU8+PWlBFeamfSXaZidcOiASs9ICIDvPxJrhDKNc2w5Ey8iFG/JtJ9m+6Ds51BXEveENdVM280JoVNEt8=;2hEgGV3r/PXK56eAEQ5LcQ=="
 ---
 

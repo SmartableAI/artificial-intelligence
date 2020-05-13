@@ -27,6 +27,6 @@ images:
     height: 450
     title: "Uber's self-driving car business may be at risk of shutting down as consolidation in the space ramps up, analyst predicts"
 
-secured: "gUWnbpUKst0dqIRIWcN9KD17ONBFhmX5LputuEd4WepFJVD1afXEKYW8PyKtVW0WFkqwLoXzunf73faq9IGhzXTCa6WaUgL203SsCl/7qx59XeEPIsdwUxkGYFybrRMlL+iHbWSCs/2koYOSl3YwBYy5G9ysGH3IXlbqC1xvbeNIdYSxi4g6uCpHyMWdKualH/G3P881/+PzUEeO+1Ma5R1w+vHVUFDcQ0LSrEi8ZHtv1rqUf/HB44xFnjTf1r+DnzW1GN5PeZtfdR6uAsPoZazefUl+7K4VOrYe+3B3mnnW4/493YVRftHcUkQ9qPgo;weDRkJn4GuBV0GxzNNIa0w=="
+secured: "+n43g2RPh57AMgWyN563HkLx4Ss2eLcpx7cuJcmvV9ki6cLUTK6haZtUcIOabyjgWK+IB/r+28DJxLD5quZWh8LujrS4mhjX8uMMXYrxhSnX0UdpgCm4cP/6CsPmVlmOUUDDipBik1h8R1uuj2RjCIwLj+Ao/A+44R6FJPxhSNmS3srE1TcdehceF/OR6aIi+KIuvcTo+WbFmrrr7FLPEk5mHYQvkNhLg+FuNxR3rhBajFh2rrk1mzfRA+pXgmh0V3XsmjDfHcSisb9DEK5Wb36kA6+tm7kCGFUpqQO8vNJuzpv0LdGUdvwq9KuYUsaflI7WkHB6sKlnl3GMJMZxbprNi+GxoSNc1/mqJxqtzEWUWQI5RShyTetfO8YcZorkx6221r1OJfE9Sj4r9Vd7UwQJ018hHdL8qej5Xb0k87jquiUsEklBBTmpstXVOkQshs6s0YWWDiKeOtphXY46ExXCp8vav6zFEgX98alesdE=;w4c7Q3gq0CSVXiL4OdcEZg=="
 ---
 
