@@ -1,28 +1,28 @@
 ---
 category: news
-title: "COVID-19 data challenge opened to accelerate research and innovation"
-excerpt: "Data on race, under-resourced communities and COVID-19 is limited, but disproportionately high rates of sickness -- and death -- seem to be emerging, particularly among African Americans, US Hispanics,"
-publishedDateTime: 2020-05-13T00:29:00Z
-webUrl: "https://eurekalert.org/pub_releases/2020-05/aha-cdc051220.php"
+title: "COVID-19 Data Challenge Opened to Accelerate Research and Innovation"
+excerpt: "PRNewswire/ -- Data on race, under-resourced communities and COVID-19 is limited, but disproportionately high rates of"
+publishedDateTime: 2020-05-13T13:20:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/covid-19-data-challenge-opened-to-accelerate-research-and-innovation-1029197143"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/covid-19-data-challenge-opened-to-accelerate-research-and-innovation-1029197143"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/covid-19-data-challenge-opened-to-accelerate-research-and-innovation-1029197143"
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-    width: 900
-    height: 300
-    title: "COVID-19 data challenge opened to accelerate research and innovation"
-
-secured: "DP0HaCHioXRo6kbo70R7XM6R1/ljGIT7cyFKRkmkJHDvLQJn9S9pI0x+6UdjIo2tLs72bYFiYljN1mnyHEKbMWDQ+fkBXO84Ts+uuVnm4FcB4NPBbDCHiyov/TkSv+1HYNKUh3A/cC3SZy5myQGJhJxNX/+HGoJ6bPKNVA0Rhi7BilO9Op2/3DYC3YUN6nnfvWShkJoOdwthL2OgSpC08FZ6ldmHiownuw+1Pkw/wj0bymSPewEhjfLGuN9CIRh0AaMMjFEqdqObgih5d3L+kxLpqzqIIeCKOrmFGngYK/6zo5JIb9iYmVcg3xMF1UP7;QLLm7pG6P3Dg2QAvR7dcIg=="
+secured: "IS1XY/kH2qifW+vUJihdl0DBmp3GLORLfMWpgWjs9f1kvaAs/C+stmvr2g+arVU1oHW5ACsxX5bhn1Jp7ATmfKCPFcHFXA5gN0Ze+vDte5Q/AQD0iZaxNxWhK8VE/ImaMkdySGSJQQCmXtLzXnaUxDoNi5EA1DqMQEHnofboKk0GyGD5msB+Mhw2hrEaBc4YfGvYOwRGw1opYLg1hctpZelV6+LBisepE+MxaaNoFDqThjNYgDLJkRYB48VfFu8L6jzgFdpzMR+N+RshJXVdGt/nW3uqxbEYHk/p2JOebwn2sUt3zy5YluChZThs/h9y;eBOOarsr3UP7nD08QXcrzw=="
 ---
 

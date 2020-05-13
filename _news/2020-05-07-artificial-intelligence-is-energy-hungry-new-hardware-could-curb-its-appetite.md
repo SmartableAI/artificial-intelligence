@@ -20,6 +20,6 @@ images:
     height: 400
     title: "Artificial intelligence is energy-hungry. New hardware could curb its appetite."
 
-secured: "zJsrJwu5e3iZAt3FJ5SQfYsg5nrfh2mNXxby9ljPPD1BUfoqF0F+jxTc0ExbRAaI1ADZuTOVgbnKqzUBC7qekhKtU4IiisU6a0PW4BZ42ndK1hY1htYkq3hHE3sJzUC4IOMU9K0SspIF/7qwg6PwPhtiWc3Rkhr1bE5uD7FyNWl5TVjSJqeMabSyc9uadx8T0cuydtljXFstBCwHRWjIB9oeCdlSyyxymUkwGxrXVSMeUP6hsv4G/At7N0teaoX+fCjOS5wiRxJ0ISnviamuzB/D7CPEeJcaspgwREKqOvKDevXNglj/CzCeDUMhoDVk;guLeqaIauOP+f7Og4XYuRQ=="
+secured: "3pD839TOGG0dhocciEoWxJupWNyb5yu2zOX2DUVvQf7E5oON4E7w1uUGM15lmmtuiBMPBp8HiM0mP+ib/f+P+2rLRbjcktzjIz93tQ/2AZdh9pHnPFNC/qN6PkAf/xSvkh3D9VnUEZbRMDY/F50TlVCct3qTq+okVxl6fg8EFRReQkkdx6opuO8v9+kOngN1yv2PUi9TTHUWt7L8+9IXwatg1gZk6uEhD1CP44Q+YiHgc788mQshaOY3bgXQnzw0rBE89fPjrutjc4wJ0AABTvbs2dApufmyvWTbSL+T8x+8Sm5pYJ9ZXpNSF40X1lgW;RC9byIvNWPCy0s/vy8RBnw=="
 ---
 
