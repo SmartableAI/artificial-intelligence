@@ -39,6 +39,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Netcracker offers AI-driven digital BSS/OSS to Microsoft Azure"
+    excerpt: "Netcracker Technology announced it's working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure. Netcracker is collaborating with Microsoft to integrate Azure Machine Learning (ML) and AI services with Netcracker's Advanced Analytics to add intelligent contextual decisioning and recommendations to enable more personalised customer engagements."
+    publishedDateTime: 2020-05-13T06:46:00Z
+    webUrl: "https://www.telecompaper.com/news/netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure--1338275"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 49
   - title: "Netcracker Partners with Microsoft to Offer Digital BSS/OSS and Orchestration on Microsoft Azure"
     excerpt: "Netcracker Technology on Tuesday announced it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure"
     publishedDateTime: 2020-05-13T02:23:00Z

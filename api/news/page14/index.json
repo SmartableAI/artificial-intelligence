@@ -2,6 +2,96 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
+      "title": "Fueling driverless navigation with AI",
+      "excerpt": "Generally, Artificial Intelligence (AI) helps to make products and procedures more efficient, but it also handles intricate tasks that can’t be easily managed by humans. When navigation comes ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/fueling-driverless-navigation-with-ai",
+      "ampWebUrl": "https://www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
+      "publishedDateTime": "2020-05-01T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Fueling driverless navigation with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-mind-controlled-prosthetic-arms-feel-like-the-real-thing.md",
+      "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
+      "excerpt": "An international team of scientists is reporting success with one of the most advanced bionic arms ever made. The system is integrated into the patient’s nerves, allowing them to control the ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/medical/mind-controlled-prosthetic-arm/",
+      "ampWebUrl": "https://newatlas.com/medical/mind-controlled-prosthetic-arm/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/mind-controlled-prosthetic-arm/?amp=true",
+      "publishedDateTime": "2020-05-01T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/0c827a2/2147483647/strip/true/crop/510x340+94+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff4%2Fae%2Ffdcae926498284ed63b4a5b89366%2Fprosthetic-1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity.md",
       "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
       "excerpt": "Trusting AI to keep the banks safe can be a good or bad thing. It all depends on who wins -- villains or heroes. We'll discover",
@@ -952,95 +1042,6 @@
           "width": 1200,
           "height": 600,
           "title": "OpenAI’s Jukebox AI produces music in any style from scratch — complete with lyrics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-advance-your-career-with-a-scholarship-to-the-aws-machine-learning-engineer-nanodegree-program-from-udacity.md",
-      "title": "Advance your career with a scholarship to the AWS Machine Learning Engineer Nanodegree program from Udacity",
-      "excerpt": "Machine learning (ML) is one of the fastest growing areas in technology and a highly sought-after skill set in today’s job market. The growth of artificial intelligence is expected to create 58 million net new jobs in the next few years, according to the World Economic Forum [1]. However, according to",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/advance-your-career-with-a-scholarship-to-the-aws-machine-learning-engineer-nanodegree-program-from-udacity/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T09:34:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/30/ml-nanodegree-1-1.png",
-          "width": 1000,
-          "height": 462,
-          "title": "Advance your career with a scholarship to the AWS Machine Learning Engineer Nanodegree program from Udacity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-learn-how-to-start-a-podcast-with-this-45-online-training-bundle.md",
-      "title": "Learn how to start a podcast with this $45 online training bundle",
-      "excerpt": "Sponsored Kick off your new podcasting career with The Start-to-Finish Guide to Launching a Successful Podcast Bundle for over 90 percent off retail price.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/amp/",
-      "publishedDateTime": "2020-04-30T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/S2HMbnk.jpg?fit=1200%2C800&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Learn how to start a podcast with this $45 online training bundle",
           "attribution": null
         }
       ],

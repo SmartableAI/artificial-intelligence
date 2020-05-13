@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Lilt Raises $25 Million Series B Led By Intel Capital"
-excerpt: "PRNewswire/ -- Lilt, the AI-powered enterprise translation software and services company, today announces it has raised $25 million in Series B funding."
-publishedDateTime: 2020-05-12T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/lilt-raises-25-million-series-b-led-by-intel-capital-301055756.html"
+excerpt: "PRNewswire/ -- Lilt, the AI-powered enterprise translation software and services company, today announces it has raised $25 million in Series B funding. Intel Capital led"
+publishedDateTime: 2020-05-12T15:08:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-raises-25-million-series-b-led-by-intel-capital/article_48ae48d0-1b42-5c71-bec7-7b4af0175fe8.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1164922/Lilt_Logo.jpg?p=facebook"
-    width: 797
-    height: 419
-    title: "Lilt Raises $25 Million Series B Led By Intel Capital"
 
 related:
   - title: "AI Start-Up LexCheck Raises $3 Million Series Seed Investment Led by Kli Capital"
@@ -47,6 +41,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "JVuV3ENn5dR0PNB4xuQu5n95p4U3Ujhm6uWkPrDkWR44aUDtimsy/UodJWL3irXnZffByO1PGfDmBYfC+/DEul9bp8Be0ahGo+uEtHE7x7kSXl4qQ+UVeRnN6ZHieAeTmttaz9F0Vvn6pR986SjLnb5aYaz8km063PYGiMZJ/Ce4PZPYMRwGn6MVQt6OPE1fLd0Of27X3174Lra+Dio/KJwlX3t2h4wa8oAj0IOn+1Dm7I3RNK7sk+x33of0sVTnIwZ1f5D92soLAFmZr3tYueLW3KAwP3srsJmYfBuOpjYuPva0rc5T+kjkVeAHAtwB;ptFQ99liVatOLXT+QytZ1Q=="
+secured: "4MPV9uL65ZD3TBV+8Nho8TnEJK0NCfy+5LCnMrnvg/ewO+qm6ihzRz5lCZRORvjdGJD0hB3BTr9VA8prT6Y9r70eAJO0ulqAG+Pi7tPHFgoaTY5dud7Hvp6fvkAOgBWoVC+XXhjNk1GlXHKXOB89m6CPXtTF4JeJMtsOLgMXw9ODON5jK8BrFr3dwbe39XIqt/5NfLOVpRUi6TzYF15zmf0flmA6otMUtfYZC7GB5CiZX776uLxvAFnMJrjL3xPvwy6vH/EslJiS86BaJPmHQ3RORvGYYyU9PMq7Kx1Azcg9V84V/zlf6dNDi2pw59dJRZ0jshVcrV0/IQ0bgDRM2qu3c4t4YGcTikTZeLdTzVQNCtJghX/1wnww0vQ2i1hTv5abOlmBqso+AMnNn50p0cFi1K9s8xkz621STSvEtBn4M3tNmDk+y6+aRna4H6hvfE6RysUMt1AmEkRTEjQQeFKFaIfQq0nYJBjvU2CHLnI=;EsrmcQH0V80l80xjIU6SNg=="
 ---
 

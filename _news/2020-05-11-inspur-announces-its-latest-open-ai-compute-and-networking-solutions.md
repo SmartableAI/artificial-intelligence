@@ -33,7 +33,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 27
+    quality: 29
     images:
       - url: "https://mms.businesswire.com/media/20200512005995/en/791322/23/inspur_logo.jpg"
         width: 1200

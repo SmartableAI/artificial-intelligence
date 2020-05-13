@@ -32,18 +32,14 @@ related:
       domain: businessinsider.com
     quality: 62
   - title: "Lilt Raises $25 Million Series B Led By Intel Capital"
-    excerpt: "PRNewswire/ -- Lilt, the AI-powered enterprise translation software and services company, today announces it has raised $25 million in Series B funding."
-    publishedDateTime: 2020-05-12T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/lilt-raises-25-million-series-b-led-by-intel-capital-301055756.html"
+    excerpt: "PRNewswire/ -- Lilt, the AI-powered enterprise translation software and services company, today announces it has raised $25 million in Series B funding. Intel Capital led"
+    publishedDateTime: 2020-05-12T15:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-raises-25-million-series-b-led-by-intel-capital/article_48ae48d0-1b42-5c71-bec7-7b4af0175fe8.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1164922/Lilt_Logo.jpg?p=facebook"
-        width: 797
-        height: 419
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "QSFqtu7N9Q6mzb82EzyZvJqIKhRryC4BTDrCYfrqo1P8G1D76VrGdpMSCn9gMmVWkHFcoYPBgZLVXh+iWofAIXksfDodY9p91o40xeFCPUr58/24LtToE7pf2d81n3nlUV9d9P5SAQPXcLwr84sWdgpO58CKW5PTprkqzw6/A47oUwiCDifoLgdIg3unOcIgA6QW4gaiNjp86hTPrdXaLBwd4c1/AuErps5/i12nwPL2mBPAzlNzefgx5bB651xOdRQoDWHSWET0FbE4v5Er5bJFQYjzBxYoFJIew2cDJwbZ/dVqW5VF6Ap24ffOmbXv;5aEtLgfPfVie1hH5y7vHLg=="
 ---

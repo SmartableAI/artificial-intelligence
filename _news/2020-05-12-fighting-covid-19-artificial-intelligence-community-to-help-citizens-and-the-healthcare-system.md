@@ -33,19 +33,6 @@ related:
       name: Canadian Manufacturing
       domain: canadianmanufacturing.com
     quality: 19
-  - title: "Outlook on the Healthcare Analytics Market in India to 2025 - How the Market Can Be Used to Combat COVID-19 - ResearchAndMarkets.com"
-    excerpt: "The \"Healthcare Analytics Market in India 2020\" report has been added to ResearchAndMarkets.com's offering. Healthcare analytics is a part of the digital healthcare system, which is technologically advanced and provides enhanced health management services using IT and effective communication tools."
-    publishedDateTime: 2020-05-12T09:52:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200512005415/en/Outlook-Healthcare-Analytics-Market-India-2025--"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
-    images:
-      - url: "https://mms.businesswire.com/media/20200512005415/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
 
 secured: "PkoCD4O48v5OxjuclJUH3m1u7zo+gqza4qlK5+OvXYRQlh52WuOFhYWdY8zxKcRf4yKRR9LF/8X2Eqp5plratw7xSnhn78bAWsOpFLPGJTn8+c6h6vO0+RVcVQs38eVOLIg/PbI6+Ne4Loy99M6d7pYqLMeVoBpkQdiIwSPQ05Nofsj+md7miWmqnnhAoX7v7J8V1T5ffsDFb7zQu9xv7T6MsVKzDBsCy8Ws30NT0xmiM8cCodoNdkUzi+S2ZWXShk8+KPKWVDagbLDrbng/70eu3DUUodwfNf0BiRLU9tQK/Dxwl1Phz3HXxefbrrGp;OAfWbbTIw+MbWO4SzRjcuA=="
 ---
