@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T08:52:00Z
 webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-ai-meme-competition-hate-speech-mark-zuckerberg-a9511606.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,51 @@ images:
     height: 1536
     title: "Facebook wants to build a 'hateful meme' AI to clean up its platform"
 
-secured: "npXSrMXSn2e3oPHdtTkkC+CsAoNJfJAdny+IIDl5XtCCdeIKg1CSnkS6pncedNMly6UkOCb3uHMMjZgi3rMm+VEd6JN/LYrlpuUaQkJvM9AAIArZb6fRuOKAPOctg328O0ium0VPLDMxQGvkf1RvJr09I8ViSDLIBcWacAZFF3yh0ZhTcs0QmKL1E26TpzOXDoTW3B6gXQq6w8BEB16CYQ2ph8KgJxn76mB/XPwyOw9ptnuPjKywHKj1Os5r9gFOewaKsK5yxxo1K1R1TUYT6G6YTILB0Le5V5/3IuIoEAZKDXakwAlQ9CKc4D+qE+/P;m0trDV/6EEZnYr94mPS2+w=="
+related:
+  - title: "Facebook gives researchers ‘hateful memes’ challenge to develop algorithms against it"
+    excerpt: "The social media giant is leaning on AI to filter out objectionable content as the coronavirus has sidelined most of its human moderators"
+    publishedDateTime: 2020-05-13T11:08:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/130520/facebook-gives-researchers-hateful-memes-challenge-to-develop-al.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/130520/facebook-gives-researchers-hateful-memes-challenge-to-develop-al.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/130520/facebook-gives-researchers-hateful-memes-challenge-to-develop-al.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 52
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200513163445.Medi.jpeg"
+        width: 800
+        height: 448
+  - title: "TECH BREAK: Facebook trains AI on 'hateful memes'"
+    excerpt: "Facebook said it was releasing the database to researchers as part of a \"hateful memes challenge\" to develop improved algorithms to detect hate-driven visual messages, with a prize pool of $100,000. \"These efforts will spur the broader AI research community to test new methods,"
+    publishedDateTime: 2020-05-13T11:17:00Z
+    webUrl: "https://www.nation.co.ke/lifestyle/-Facebook-trains-AI-on-hateful-memes/1190-5551346-hkqocq/index.html"
+    type: article
+    provider:
+      name: Daily Nation
+      domain: nation.co.ke
+    quality: 39
+    images:
+      - url: "https://www.nation.co.ke/image/view/-/5551454/medRes/2614855/-/sneh6az/-/CYBERBULLYING3.jpg"
+        width: 425
+        height: 262
+  - title: "Facebook throws open ‘hateful memes’ challenge for researchers to develop algorithms to tackle it"
+    excerpt: "The social media giant is leaning on AI to filter out objectionable content as the coronavirus has sidelined most of its human moderators"
+    publishedDateTime: 2020-05-13T11:26:00Z
+    webUrl: "https://www.asianage.com/technology/in-other-news/130520/facebook-throws-open-hateful-memes-challenge-for-researchers-to-develop-algorithms-to-tackle-it.html"
+    ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/130520/facebook-throws-open-hateful-memes-challenge-for-researchers-to-develop-algorithms-to-tackle-it.html"
+    cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/130520/facebook-throws-open-hateful-memes-challenge-for-researchers-to-develop-algorithms-to-tackle-it.html"
+    type: article
+    provider:
+      name: The Asian Age
+      domain: asianage.com
+    quality: 31
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200513165418.Medi.jpeg"
+        width: 800
+        height: 448
+
+secured: "BML2c4Xlu44bbVUttH/goGZKw8ASB1+5iEDTl4x2sVuIEj0DuOdmNJiwpMJRLLL3fH4SKA0ad+QI0o9sB+jvoWvTzsqOOj+nJFRprDmzmn6408gnhAkm+H7U1fmIJGfDXx/jKBBVhetUxpipNZ30/6jIMn02VBd6LtpcDQmIWHODYQk+fc6FCKW30xsx3Xr+rtuZ43z8qWA3jWw5Rg9RgHkJ7FPe6Zz8RpEpkn6TQtb6Hc6ixab9djw0mopjsSxVZv/Wverxs/nJj6woJLr9YSZoJ5lAUyRqUTCv3DmejZ7acKKIF3MBffDiLajrh+uU0iKQayYguMCV5RBUyJpINeJ0GvPTSKHJzEUlwY4yy6jxFGRlBMcEU4lEjMuNKhXE+0oLilUMsoXSBHYqXyMD/uBZ/08eQoXYl0GgFmrTYa0xfiPMInVGa+Xv555F7gVhWAJcoN5SZtdN1+JDpdTYHYnoapyKAp5HodZmmdkQyak=;fsIV286u5hO6hLunCpu+Ig=="
 ---
 

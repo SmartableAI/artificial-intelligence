@@ -24,6 +24,15 @@ images:
     title: "Bitglass Integrates CrowdStrike’s Machine-Learning Technology"
 
 related:
+  - title: "AI gateway and inspection plug-in enables machine learning tasks"
+    excerpt: "In is designed to simplify the training and deployment of machine-learning based classification, segmentation and object detection capabilities for visual inspection applications, primarily by removing the need for any additional algorithm development and coding."
+    publishedDateTime: 2020-05-13T04:01:00Z
+    webUrl: "https://www.vision-systems.com/boards-software/article/14175806/pleora-ai-gateway-no-code-inspection-plug-in"
+    type: article
+    provider:
+      name: Vision Systems Design
+      domain: vision-systems.com
+    quality: 19
   - title: "Bitglass Integrates CrowdStrike’s Machine-Learning Technology to Provide Zero-Day Advanced Threat Protection in the Cloud"
     excerpt: "Gen Cloud Security Company, announced today that it has partnered with CrowdStrike®, a leader in cloud-delivered endpoint protectio"
     publishedDateTime: 2020-05-12T12:00:00Z
