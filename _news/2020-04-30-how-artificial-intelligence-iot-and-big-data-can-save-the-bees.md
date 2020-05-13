@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEiucPFO0ynow/article-cover_image-shrink_720_1280/0?e=1593648000&v=beta&t=kN4swZqJrCIJ9w6E89GKpruOqtmBfy4La8RMvvhxCd0"

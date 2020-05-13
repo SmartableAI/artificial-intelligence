@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Nanorobotics Systems Market - Manufacturing Size, Global Share, Investment Opportunities, Future Trends, Business Demand and Growth Forecast 2027"
-excerpt: "Apr 24, 2020 Xherald -- Nanorobotics is an evolving technology arena that creates robots or machines which ... However, emergence of mind-controlled nanorobots and development of swarm ..."
-publishedDateTime: 2020-04-24T18:11:00Z
-webUrl: "https://www.marketwatch.com/press-release/nanorobotics-systems-market---manufacturing-size-global-share-investment-opportunities-future-trends-business-demand-and-growth-forecast-2027-2020-04-24?mod=mw_quote_news"
+excerpt: "Nanorobotics is an evolving technology arena that creates robots or machines which have components near to the scale of a"
+publishedDateTime: 2020-04-24T17:49:00Z
+webUrl: "https://www.marketwatch.com/press-release/nanorobotics-systems-market---manufacturing-size-global-share-investment-opportunities-future-trends-business-demand-and-growth-forecast-2027-2020-04-24"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "Nanorobotics Systems Market - Manufacturing Size, Global Share, Investment Opportunities, Future Trends, Business Demand and Growth Forecast 2027"
 
-secured: "JWwrS8crs2lfqyFiQQvSbr04kstlIsb7LOjOGzgIxWCssSBQMy3EvS8sqAXYUowEuBwr89Tx3/Ad2DIUWpOuYxEAAbUFnTQ2toxcIKhkvt5HnLEIdLa80FxIHgB7fD7peZlE0QOorfa/SVYHf0Z/TjnbsBINch0lVfD0DoWVPudk2VbqQSKQEDP+wyz0XfQiY+lGSqernKTyn2+1sFCkIqx44iMg1lCr/iFrUi8Fo/siKGMhKUrC2vVtN5ViH8XU6NVzQ6xgBMbiCHHB5U7PkpNxZQWhPXvtYyS0qTtM1AmpSzB/9rkefve57sk3vijP;rgLaL5JGMBefktr1ZwvMhg=="
+secured: "cdeFTwSjEjELEiPmIm/+i/1z8vIopq+jRd9PSsEtAIbmbxLL5prgig464Wrn8CXdFiQbDnPCVT5lIvjLHICWlxXMK1edkew7hVumHWq5CInIBp7nu8EIsd40hlN4jX7hrmFMCdldfb08FQkss2NpsFRr9RP/O4Xu9ToaNKH07FdaZf70bpqKrxkbcsowURLKEMeBNwZ3Dnz9Vb52bsRF9cvCs7IXJR7J5BgQTCQi7OpBgUI5hA1InraVzcQWkqNfgoSQMJCOKud2tQWOTSWmQmrxLua5rlaVRJpMiuFfCuQleuvfPBk7VKmVS2+sR9jY;+d+fWFFMHYAYOeKmvlrQ3A=="
 ---
 

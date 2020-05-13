@@ -39,6 +39,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Netcracker Partners with Microsoft to Offer Digital BSS/OSS and Orchestration on Microsoft Azure"
+    excerpt: "Netcracker Technology on Tuesday announced it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure"
+    publishedDateTime: 2020-05-13T02:23:00Z
+    webUrl: "https://www.thefastmode.com/mobile-network-operators-m-a/17086-netcracker-partners-with-microsoft-to-offer-digital-bss-oss-and-orchestration-on-microsoft-azure"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 21
 
 secured: "iISMeye4bh03VVIDKFLDXok/vTG1AglPsJMs/i5MI4lnu+wxzWF5IRKQztTYbzAoXcfxmCqRNtDkh6nZwO7NIaypyEODPmF8SUu2hj4OAGs9QpRK2VGLrWAVBQ/Ag3JZy8Vz0Bm2qCOpvcv8JAz607sM0sIi5ITShhWA9TEla8AgkkAty98CYvQCIpVU3crjHxAU90nvBGFzlgS3Tpd57y+1RntqDAOVZz6KXPM3XGck4K9kkY3/edhhq1fEfuplYz621H2MAkcpBkQ4aGiWw4SPkc9YEmD3e9a5rBoO16b1cEJpP4CnUX2An2P6ywoP;wFg+L/WBbBkQ7LBB0KMxLw=="
 ---

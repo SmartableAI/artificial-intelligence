@@ -5,7 +5,7 @@ excerpt: "Given the huge impact technology and artificial intelligence will have
 publishedDateTime: 2020-05-11T20:21:00Z
 webUrl: "https://catholicphilly.com/2020/05/news/world-news/papal-academy-fosters-ethics-alliances-in-ai-debate/"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://catholicphilly.com/media-files/2020/05/20200511T1049-681-CNS-VATICAN-AI-NATURE_800.jpg"
@@ -34,7 +35,7 @@ related:
     provider:
       name: Angelus
       domain: angelusnews.com
-    quality: 61
+    quality: 78
     images:
       - url: "https://angelusnews.com/wp-content/uploads/2020/05/20200511T1049-681-CNS-VATICAN-AI-NATURE-e1589211174823.jpg"
         width: 1602

@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.theconversation.com/files/328213/original/file-20200415-153334-1xc9z3c.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=480&fit=crop"

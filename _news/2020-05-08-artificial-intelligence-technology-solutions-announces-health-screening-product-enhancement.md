@@ -7,9 +7,9 @@ webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence
 ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 related:
   - title: "Artificial Intelligence Technology Solutions announces that RAD is taking orders for Wally Unit with Health Screening Option solution"

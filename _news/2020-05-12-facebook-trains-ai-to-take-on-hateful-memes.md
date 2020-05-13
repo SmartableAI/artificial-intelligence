@@ -37,6 +37,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/05/hateful-memes-challlenge.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
+  - title: "Facebook’s AI is still largely baffled by covid misinformation"
+    excerpt: "In its latest Community Standards Enforcement Report, released today, Facebook detailed the updates it has made to its AI systems for detecting hate speech and disinformation. The tech giant says 88.8% of all the hate speech it removed this quarter was detected by AI,"
+    publishedDateTime: 2020-05-13T02:12:00Z
+    webUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/"
+    ampWebUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/AP_19148851357453-e1589306268959.jpg?w=1024"
+        width: 1024
+        height: 575
 
 secured: "jtmkVhhNUIrMFkknxLkvWgsCem7P5S0Ca/M9SaoR1TXMSDS5mH65EtTuqlRPcnq+mqE0R327INhyLBueeDDKc5bMeYMOSQhKQ/v5q5IiRIoEi7L5ZamR/xm0sU0wZFakt6Auhz0/f2hGwQEA6P5ZzhNsSEwGLX+jI7UQv6QH309B8OqVqZSByFtFS6ZGdlZdo5O1d+AnChoCpi27Q/Wbg60SdsN3NfwuE0djgu2ZP/BF7cAnNnEFkbd2Q9d2kGYPTrrT43ibe9g/CORq/k062SJS/zDZdxViP9JXRbkkVyGb4CupnCmodo8x/R85ygCXDpbNEnhVKqT6JVpUYsZ4b8LwWnmJtn45TiNJ6bq6sdiQSdkaqsyLZ8/HtqLRvSuZDB9VYwtt/gCjMBZpVVrVWiDOwQfPAEAUZfMjAPA7wxozkP0WabryyJFRpr9Z5VKqFCxDldeXWyo1irrOKY3zXzeJor7MD0cEfzqx0lhXRzU=;ngq4N68Q77UmVQLy3npnRw=="
 ---

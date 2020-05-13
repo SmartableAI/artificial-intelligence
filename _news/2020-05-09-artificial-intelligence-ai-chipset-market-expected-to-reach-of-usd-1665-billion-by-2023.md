@@ -5,8 +5,8 @@ excerpt: "May 09, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI) chipset
 publishedDateTime: 2020-05-09T09:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023-2020-05-09"
 type: article
-quality: 74
-heat: 84
+quality: 76
+heat: 86
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

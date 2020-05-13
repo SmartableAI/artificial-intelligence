@@ -5,8 +5,8 @@ excerpt: "TensorFlow 2.2.0 includes multiple numbers of changes and bug fixes in
 publishedDateTime: 2020-05-12T13:36:00Z
 webUrl: "https://analyticsindiamag.com/tensorflow-2-2-0-released-intuitive-features-including-new-tensorflows-docker-images/"
 type: article
-quality: 31
-heat: 31
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/05/aim_tf2.2.png"
@@ -23,6 +24,6 @@ images:
     height: 737
     title: "TensorFlow 2.2.0 Released: Intuitive Features Including New TensorFlow’s Docker Images"
 
-secured: "+DrSv/TKQmW3OanH2JOrxQrQlBUgokvNl6DtiJ6JRBSNjAXJ4lodWDRodw0iSRE5bC4zn+vrAUG4lY254gXZzC4IVQEIVBqMdCoGk+VpThcKMB/FOAel3/W73T6gXJsDmj2vNcJkz7OsEAxDvHkh1dXCxyrAXLfGw+88wJVAN5niNVqxn5c3T/e3Tm/Vwb0KGSZQXj5VkhrppLU5maLsfsWd4PxAiV7eSMM9C1ZZ1YzH0DivFGt2c2JmLbtiyxUW2Wx8PEM5JE9Cyx458kuZiKXVdH0Ggtwt253KQQguZhvfwj7O9MAANmmS+iMagI/G;+4MHONal6d7MsT2KfaVRzw=="
+secured: "nNPmKLsc/OQMXZMNf2cB82HwjJg6FkYqaKSuIomTVolQWwk7rSgDfQrnBPzQC/+FOSA46/fEBYAREJjcu7z3J7B7NsayNWw1sK2mrV9z0aNBXjmoEzHIpAwNFjVxG5i50F1s/GutXvo+0G0d9okgvrz+DYAAFUJeBS+5SnJS5YL5JY3Kt13OrIdByYeXVp3Q6yraZzM8miEqZLx9/4bLoeN5ue2fZE/mT7YgzD5kQQJcyNon0GhBYsZvaXv5ZSlM33suUKAL+TEusdF2jLMDnVKn2KQu9fzW9qfUZyInFUudFt9alFbmVxeG42GVLKgC/iJeurJb8e9708hy01xQxIpI5gzzngdfMENyUxtKFCjRszecTx/7sXhgQnAM60CeWIJPrk6jL5ZWjZLbbyxGGz6KwrpUOnactq71uhCJt+I/fuPycyab74uogTyKrjhLirDtLsbjeLZvCn3OFhvoMsRhy4mky5igXdEg0l6e0xE=;EIPYAoJC5NeH1yIxGw2nxg=="
 ---
 

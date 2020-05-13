@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Alpha Roc Launches Open Beta: Machine Learning API and Self-Serve Platform for avid traders"
-excerpt: "Alpha Roc announces that its proprietary trading algorithm -ALPHA, is officially going into open beta. Institutional and retail traders"
-publishedDateTime: 2020-05-08T00:49:00Z
-webUrl: "https://www.prnewswire.com/news-releases/alpha-roc-launches-open-beta-machine-learning-api-and-self-serve-platform-for-avid-traders-301055467.html"
+excerpt: "Alpha Roc announces that its proprietary trading algorithm -ALPHA, is officially going into open beta. Institutional and retail traders will now be able to utilize Alpha Roc's institutional-grade application program interface (API) to directly access and execute Alpha Roc's strategies in real time."
+publishedDateTime: 2020-05-08T01:00:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/alpha-roc-launches-open-beta-machine-learning-api-and-self-serve-platform-for-avid-traders-1029180557"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/alpha-roc-launches-open-beta-machine-learning-api-and-self-serve-platform-for-avid-traders-1029180557"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alpha-roc-launches-open-beta-machine-learning-api-and-self-serve-platform-for-avid-traders-1029180557"
 type: article
-quality: 29
-heat: 29
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1165591/Alpha_Roc.jpg?p=facebook"
-    width: 1201
-    height: 629
-    title: "Alpha Roc Launches Open Beta: Machine Learning API and Self-Serve Platform for avid traders"
-
-secured: "9lZmHUoMjVFdaQIp7dv8GqMa69A7q0ujnDpAuBtny3xVS81qhU/H+zs3wkC/SZuzhCGUIwNMmAdeorrzcn64Qj10JRsF/0p7xGliTUXtPjs51LJcaQuE9aj47PrySXjcuHpWEA7oyl0KEewEpxdw6LpkH4lolAsbshTJ8/15XJgMeZuSjl1u3WRSmzTJlL8XQ3159JcFpVo+EhMQ/9QXNNFOr3cgaxsQxoj4KrNwlf6/kicR4hJcaceu5Grtzk3MaJLYOcG0N0WaMHM3fNopwZPXkDD+//z6OYVN5s5sgOZPiklzZ8MGvawVemo2erxNh7HFx+CkNB+M2XKuFyDTyJMLYdmMhp/e8zj1Sx4JRLQUxIT/Kk9c+yUvYpinkiI7gLLreSBey9sNPBPHqM7p8fL//0rl7Y9OVggeYyzzq1C1eOgW5ffgfZSjsWxqoctHetGUGsWlOtZwcVckAlaxbtjjBkt4s4lf1v2KSFaGfhU=;OnNdsI81Ba+5m7mEu//Amg=="
+secured: "Q3UddhXgo0zfc8jlAJKWTHxeT9B702jFGrbkMKPKNXhFW4iwkd/fsES8d66mfudtoiK/htUjcunxMxFgHVslZNMb2Owod+qFfIZ/IFqbm2cvTGvjoTNCHfyXlyBnDHHdmmlWV4nVo1zcvBu8XtV7vKZHYToumSDdyzWV3ZTP6lUPZax64ZFuhfCJy15sLQFbixgWkgRyYeKF5L7eqNVJMK8Z1T8vAurFFBpK1hzxPJhz+9pg5ufdARdEobtt9bnoNWMewrZkLx9YHsQ50v9pGyMEOjxsLblU1T/AFSkAVCB1HrS/L2fjRnCOyAyjvK4ORpWhdA6+O6Zi3XPs1fPECPiwKORpg/KZLXI5Q78kI73VY3N3YA2v8PfpvVJo9t9fXzHfBBPKT/GujUPYTLiZvsxMFeYil3nYJlQzYzkus0h/Dv+QRtR2DzG2AmqcNPic53XQWIkZNqPvq0bqCqbfw7DNnml1USwDR/KhtDksDSs=;L6RMJoeoszkiy93SoUcJSw=="
 ---
 

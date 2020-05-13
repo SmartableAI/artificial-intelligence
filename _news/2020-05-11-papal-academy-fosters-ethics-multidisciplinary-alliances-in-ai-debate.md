@@ -7,8 +7,8 @@ webUrl: "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multi
 ampWebUrl: "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/amp/"
 cdnAmpWebUrl: "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/amp/"
 type: article
-quality: 61
-heat: 71
+quality: 78
+heat: 88
 published: true
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI in Healthcare
   - AI
   - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://angelusnews.com/wp-content/uploads/2020/05/20200511T1049-681-CNS-VATICAN-AI-NATURE-e1589211174823.jpg"
@@ -35,7 +36,7 @@ related:
     provider:
       name: Catholic Philly
       domain: catholicphilly.com
-    quality: 39
+    quality: 56
     images:
       - url: "https://catholicphilly.com/media-files/2020/05/20200511T1049-681-CNS-VATICAN-AI-NATURE_800.jpg"
         width: 533

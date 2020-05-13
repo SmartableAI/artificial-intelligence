@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-12T16:07:00Z
 webUrl: "https://venturebeat.com/2020/05/12/facebook-is-using-more-ai-to-detect-hate-speech/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Facebook is using more AI to detect hate speech"
 
 related:
+  - title: "Facebook’s AI is still largely baffled by covid misinformation"
+    excerpt: "In its latest Community Standards Enforcement Report, released today, Facebook detailed the updates it has made to its AI systems for detecting hate speech and disinformation. The tech giant says 88.8% of all the hate speech it removed this quarter was detected by AI,"
+    publishedDateTime: 2020-05-13T02:12:00Z
+    webUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/"
+    ampWebUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/AP_19148851357453-e1589306268959.jpg?w=1024"
+        width: 1024
+        height: 575
   - title: "Facebook trains AI to take on ‘hateful memes’"
     excerpt: "Facebook said it was releasing the database to researchers as part of a “hateful memes challenge” to develop improved algorithms to detect hate-driven visual messages, with a prize pool of US$100,000."
     publishedDateTime: 2020-05-12T23:28:00Z

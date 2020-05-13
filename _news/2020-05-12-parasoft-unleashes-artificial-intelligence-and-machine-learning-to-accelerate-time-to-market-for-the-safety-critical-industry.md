@@ -14,8 +14,8 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1166942/Parasoft_New_Test.jpg?p=facebook"
@@ -23,6 +23,6 @@ images:
     height: 998
     title: "Parasoft Unleashes Artificial Intelligence and Machine Learning to Accelerate Time to Market for the Safety-Critical Industry"
 
-secured: "SFU1vPyowicVzQRVI9JktfXSPNIqnPZEQkcdbquk9ybUwiDqKY15ZQqsvp0TpJjkIYx3AgFUR+d1NRjf4Cb31gTiYg93J+Tw3cg5zCW2zpyzSZe/T4CM1BwQiHMl5GHo5RUc+ghka7VP/5CbKg9P7uvkSFzSSs3sjXosuukVLdTgGp15iijAZewzwWgZFNhS65VIiIAhYmsrqE/y8yaOkZ2bhn5dIpFBaPvH8B97aLHIn+qMr6Ydzf0M2G+N3j++ZzbHjjEbhlcnYVjrbTUalY3gycf6x3lctxaH7jHlujx4sf9rG4FN9MrLtjByUaj6Cd2vXs8zBZFtbC+v/eoXGialoEUnmTPi8HjZamQoZdYxRBMMSgqNV8safyoUJsbSVT2S0SfxnDff3CcY/HMzOwBCIi42V47dWh+oJT6o8DWszQqNuCm8mc1Ve3aCWZXxUdiN424HiZYpa9F6Zq+Q67ew4D8x1ZIBjC8u4MdypQI=;MwdDnx2lfcXpYH1NTSahfA=="
+secured: "ddanN6gMFehVvXn62+RfzM+p1bWhA2HHc4CL+EImJIVA8DTFOm7BLsa4mFuSa4dKR4n9a2Vh73anBFTTFAaeoMLe5ERfeCfCveakQ7Ya+J/Ivr9krO+LZ2Hto0JfYdGdtcKqCNE8pLGEzCNyaHfRnhLICf4zPwOc4RfEs2oJ27dmeuJ79+zYRx5zw+oChICdTQAXIht3z98qj7eWI8TT1HMUjEWs5sKid6S09Gc0BBPSoNmWSQrw2mhH53h+t9JlO1ZuAIwzgB+viiIT9uMyy4PuWIObzfFY9/MUjpQJhNoYDRcNS83LRezvfHHxona+;VuhVXdzULXPOgjfjf+lJnw=="
 ---
 
