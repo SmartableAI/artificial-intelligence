@@ -7,9 +7,9 @@ webUrl: "https://www.nbcnews.com/health/health-news/live-blog/2020-05-13-coronav
 ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1205916"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1205916"
 type: article
-quality: 71
-heat: -1
-published: false
+quality: 88
+heat: 118
+published: true
 
 provider:
   name: NBC News
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://media3.s-nbcnews.com/j/newscms/2020_20/3347946/200513-coronavirus-burial-st-petersburg-se-119a_2827cbc0f17eb8e10eaf618c8886b51e.fit-560w.jpg"
@@ -41,7 +42,37 @@ related:
       - url: "https://i.insider.com/5ebc2ccafc593d14a14c0353?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "Does facial recognition tech work on people wearing masks?"
+    excerpt: "That’s why Rank One, a facial recognition company, has developed a new periocular recognition system. This form of identification uses only the eyes and eyebrows to identify a person. The technique is fairly accurate in controlled circumstances (when the person is directly facing the camera),"
+    publishedDateTime: 2020-05-11T21:38:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-05122020.html"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-05122020.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Question-of-the-Day-for-05122020.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1685691625.jpg"
+        width: 940
+        height: 627
+  - title: "Uber will verify drivers are wearing masks with facial recognition software"
+    excerpt: "Uber is implementing new safety measures against coronavirus for drivers and customers including wearing a mask, regularly washing or sanitizing their hands."
+    publishedDateTime: 2020-05-13T09:58:00Z
+    webUrl: "https://www.nydailynews.com/coronavirus/ny-coronavirus-uber-drivers-masks-facial-recognition-software-20200513-rvxnknoppjdepfplfpg4ueyvve-story.html"
+    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-coronavirus-uber-drivers-masks-facial-recognition-software-20200513-rvxnknoppjdepfplfpg4ueyvve-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-coronavirus-uber-drivers-masks-facial-recognition-software-20200513-rvxnknoppjdepfplfpg4ueyvve-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 57
+    images:
+      - url: "https://www.nydailynews.com/resizer/HOOohnVayfl2byjed_nnY8TiwzQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U3V2CT35TRG4VGCPGP33D6VYUU.jpg"
+        width: 1200
+        height: 808
 
-secured: "4KyOR5Y6baFhagBcaGHxIiYlX6gdbv7deppKjYzuSG+CkZ464KsIEKux64mg46nlNNzUKoDg01gJvi+uBVADESGhSd5bAp3vVk5XHhC8qHOOzS6MhFdpt2R6O/D44WxKVRsGXwpELiIzxsBmgeVfiDLwbVHgMGikAgwl2iypcyLTnZrCmG+HLyOx6J8fLdmepu4mmtmoWalt5guhe4chYpYC6zW5gacua9e29rMQ8XoN7h+AdaryTPtnQBEWzLKyv4GOMAyLdWoaaNWncBS+ru0pFwUHlwYRsxM5r/vFzTZoZLMBM+r34MhVUhwBN2Ms;3HqRJuPxnNoEY3GXvvEo+g=="
+secured: "ugBXbqgEEvKRBpmPZIQ2YjwhK3WEA+4Hs04mN43QXHyCU4O8pKGJmS+N0RSfRLyLaO9vX02mqfZIfiChN8eUJCDmrbRj4De6XhAcKPAltyLzoC5PnjB7QB0++bx5VHn5kJDHnozL1Ruk2zmZjCk8vyrwFOYUA8FNZojg87No8lkAW6vHuRKXHkjVzRzICr25+mtjDA5NECqK6cF6ZW+wBzasrtgScrVt812w/MJC6OsgfB8hdIiZsYyrj+uty/PqYw+Z3JrAFugzGIiCc47Dh5KjiuFp8wNV6DrxzQgHEm69NPQ2thIuWUeyg8E056+bYYk4Pu4btI/VW2U1OhmDxBysk5eKUxjbFBFurG2qTivGWFV8c3S/bPyVjJ7Bd3yw7jUtjxoc5Iwq+oEaMQz0CwYf/e6kYanQtUnJgM8Vn29i3h/1srLj13GJ/05yHlTdquQgQnYrmb6WcsOtX22LPM/dsJV2pP07LDOFJKCg40k=;PBen3H27duktpBZRU0kOHA=="
 ---
 

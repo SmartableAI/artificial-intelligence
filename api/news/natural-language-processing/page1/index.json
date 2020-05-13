@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-13-uber-to-use-facial-recognition-tech-to-determine-if-drivers-are-wearing-masks.md",
+      "title": "Uber to use facial recognition tech to determine if drivers are wearing masks",
+      "excerpt": "Chiara Sottile Riders and drivers on the Uber platform will have to verify they are abiding by new COVID-19 safety guidelines, including wearing a mask or face cover and regularly washing or sanitizing their hands,",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-13-coronavirus-news-n1205916/ncrd1206346",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1205916",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1205916",
+      "publishedDateTime": "2020-05-13T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2020_20/3347946/200513-coronavirus-burial-st-petersburg-se-119a_2827cbc0f17eb8e10eaf618c8886b51e.fit-560w.jpg",
+          "width": 560,
+          "height": 359,
+          "title": "Uber to use facial recognition tech to determine if drivers are wearing masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook.md",
       "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
       "excerpt": "MarketResearch.Biz published a new industry research report “Automatic Speech Recognition Software Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market.",
@@ -1207,52 +1245,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy.md",
-      "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
-      "excerpt": "MYCIN was an AI program developed at Stanford University in the early 1970s, designed to assist physicians by recommending treatments for certain infectious diseases.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/amp/",
-      "publishedDateTime": "2020-04-27T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea5f65911e2a700077f78af%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D579%26cropY1%3D0%26cropY2%3D325",
-          "width": 579,
-          "height": 326,
-          "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

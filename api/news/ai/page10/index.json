@@ -2,6 +2,204 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-04-intel-buys-moovit-transit-app-for-900m-to-help-develop-robotaxis.md",
+      "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
+      "excerpt": "Moovit will remain independent while its technology and the data it collects from more than 800 million users in 102 countries will be integrated into Intel's Israel-based autonomous car unit, Mobileye.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autonews.com/mobility-report/intel-buys-moovit-transit-app-900m-help-develop-robotaxis",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Intel-main_i.png",
+          "width": 800,
+          "height": 600,
+          "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-theres-more-to-usability-in-ai-and-iot-than-you-think.md",
+      "title": "There's more to usability in AI and IoT than you think",
+      "excerpt": "You think your app is usable, but there are more things you should think about before launch. Here are five key questions to ask yourself about your AI or IoT project.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
+      "publishedDateTime": "2020-05-04T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/03/ec657806-e8cc-4b44-9b4e-2b9f1eb7583c/thumbnail/1200x675/c0eadaba26f5c428f78e4dc438118cea/20200131-menezes-bill.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "There's more to usability in AI and IoT than you think",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims.md",
+      "title": "Allen Institute’s VeriSci uses AI to fact-check scientific claims",
+      "excerpt": "Researchers at the Allen Institute and University of Washington describe VeriSci, an AI system that automatically fact-checks scientific claims.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/04/allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/04/allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims/amp/",
+      "publishedDateTime": "2020-05-04T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Allen Institute’s VeriSci uses AI to fact-check scientific claims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-behringer-deepmind-12-true-analog-12-voice-polyphonic-synthesizer-w-4-fx-engines-2-oscs-lfos.md",
+      "title": "Behringer DEEPMIND 12 True Analog 12-Voice Polyphonic Synthesizer w/ 4 FX Engines, 2 OSCs & LFOs",
+      "excerpt": "I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a message. Free Shipping offers are only applicable to shipments within the continental United States. If you reside in Alaska, Hawaii, or ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/33493715-behringer-deepmind-12-true-analog-12-voice-polyphonic-synthesizer-w-4-fx-engines-2-oscs-lfos?bk=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3ODNiNjRhNS1lYjY0LTRhMzYtYTU4NS05OWJiMmNiOGZlNDYiLCJpYXQiOjE1ODg2MDQ3NjYsInVzZXJfaWQiOiIiLCJzZXNzaW9uX2lkIjoiIiwiY29va2llX2lkIjoiMmI0M2ZhNzQtMmZlZi00ZjVhLWE5MWEtM2YyMTQwMDA3ZDBkIiwicHJvZHVjdF9pZCI6IjMzNDkzNzE1In0.M5zuy0P-TpZNnHPFOxUY63ZxblprmUzv3DVKq8KtTi4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-tackling-cybercrime-with-ai-during-covid-19.md",
+      "title": "Tackling Cybercrime With AI During COVID-19",
+      "excerpt": "On a recent panel discussion with AI experts about the world after coronavirus from an AI perspective, Sophia explained that robots were created to help humans deal with big problems like the pandemic or climate change.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sap/2020/05/04/tackling-cybercrime-with-ai-during-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/05/04/tackling-cybercrime-with-ai-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/05/04/tackling-cybercrime-with-ai-during-covid-19/amp/",
+      "publishedDateTime": "2020-05-04T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216339679%2F0x0.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": "Tackling Cybercrime With AI During COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-how-should-your-business-get-started-with-ai-begin-with-why.md",
       "title": "How Should Your Business Get Started With AI? Begin With Why",
       "excerpt": "When it comes to AI, it’s tempting to focus on the technology rather than the underlying need its intended to address. Asking why may prove to be the key to helping businesses get started with AI.",
@@ -1053,228 +1251,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-watch-this-ai-algorithm-change-humans-into-animorphs.md",
-      "title": "Watch This AI Algorithm Change Humans into Animorphs",
-      "excerpt": "AI researcher Xander Steenbrugge used machine learning generative models to turn people into animals and back again.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
-      "publishedDateTime": "2020-05-02T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5eab0bb5d93a90009b14b3f2/lede/1588269690157-Screen-Shot-2020-04-30-at-20037-PM.png?crop=0.8434xw:0.9986xh;0.081xw,0.0014xh",
-          "width": 2488,
-          "height": 1398,
-          "title": "Watch This AI Algorithm Change Humans into Animorphs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-masked-or-not-mike-pence-keeps-the-peace-with-a-poker-face.md",
-      "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
-      "excerpt": "Task forces and vice presidents don’t get to decide things,” said Tim Pawlenty, the former Minnesota governor.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
-      "publishedDateTime": "2020-05-02T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/03/us/03dc-virus-pence-image1/03dc-virus-pence-image1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-tectonai-snags-20-million-to-solve-ais-data-problem.md",
-      "title": "Tecton.ai Snags $20 Million To Solve AI’s Data Problem",
-      "excerpt": "While the COVID-19 pandemic has halted many venture fundings, Tecton.ai has been able to buck the trend. This week the company announced a $20 million investment from Andreessen Horowitz and Sequoia (last year there was a $5 million angel round).",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/02/tectonai-snags-20-million-to-solve-ais-data-problem/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/02/tectonai-snags-20-million-to-solve-ais-data-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/05/02/tectonai-snags-20-million-to-solve-ais-data-problem/amp/",
-      "publishedDateTime": "2020-05-02T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eadc484240a4f00063e7dd1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D410%26cropY2%3D3785",
-          "width": 1200,
-          "height": 675,
-          "title": "Tecton.ai Snags $20 Million To Solve AI’s Data Problem",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet.md",
-      "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
-      "excerpt": "If a marketer can get an accurate read on someone’s emotional response, they can tweak their campaigns and achieve better results.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/amp/",
-      "publishedDateTime": "2020-05-02T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/02/emotions.png?fit=1059%2C619&strip=all",
-          "width": 1059,
-          "height": 619,
-          "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-is-augmented-intelligence-the-best-perspective-on-ai.md",
-      "title": "Is Augmented Intelligence The Best Perspective On AI?",
-      "excerpt": "From Davenport’s point of view, introducing technology that automates and performs tasks previously accomplished by humans actually creates more jobs for people who take time to learn about how they work.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/02/is-augmented-intelligence-the-best-perspective-on-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/02/is-augmented-intelligence-the-best-perspective-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/02/is-augmented-intelligence-the-best-perspective-on-ai/amp/",
-      "publishedDateTime": "2020-05-02T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x1066/https://specials-images.forbesimg.com/imageserve/5eada7c4b091c000065b9855/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 1066,
-          "title": "Is Augmented Intelligence The Best Perspective On AI?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

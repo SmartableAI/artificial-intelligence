@@ -5,8 +5,8 @@ excerpt: "The CRO is exploring ways advanced data science can change various asp
 publishedDateTime: 2020-05-12T14:06:00Z
 webUrl: "https://www.outsourcing-pharma.com/Article/2020/05/12/Artificial-intelligence-technology-improves-clinical-trials"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/artificial-intelligence-technology-improves-clinical-trials/11385478-1-eng-GB/Artificial-intelligence-technology-improves-clinical-trials.jpg"

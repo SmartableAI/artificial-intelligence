@@ -8,7 +8,7 @@ ampWebUrl: "https://knowtechie.com/france-is-trialing-facial-recognition-tech-th
 cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/france-is-trialing-facial-recognition-tech-that-checks-if-people-are-wearing-face-masks/amp/?p=119742/"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 1600
     height: 900
     title: "France is trialing facial recognition tech that checks if people are wearing face masks"
-
-related:
-  - title: "Does facial recognition tech work on people wearing masks?"
-    excerpt: "That’s why Rank One, a facial recognition company, has developed a new periocular recognition system. This form of identification uses only the eyes and eyebrows to identify a person. The technique is fairly accurate in controlled circumstances (when the person is directly facing the camera),"
-    publishedDateTime: 2020-05-11T21:38:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-05122020.html"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-05122020.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Question-of-the-Day-for-05122020.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1685691625.jpg"
-        width: 940
-        height: 627
 
 secured: "E+K7oEhin1To8Br7J4z8Ixan2VWi1GnRXjPveoUunJOd+aCHZy+6+v5Q3Phk+LyY8lxmWwifISj3o+y44GMO5ZqEv8JAS+qSGuRQylyrltoudQ07l94KBQI4t57SRmZqJnP6DJtVO9heRE4VZXL6vrFqUCscYJAknzvFF+Qjx6KBrE48Pak3h/tZ8CAGDh615V2WpW9V3G54Kl/E2jeyX+4Ab7RopfWb74EavpF1FglOWqJkQzcZFwD3rbhl8NX/MjaN5eWSMEEBZ4/jLu6gPgIpqA3ARt3Kk9wD0ZRkOztLYCuR6Lakg2+7j2PQ3ild96F4MIehCLbMvBGgNcy8LnWoNunf+YvbFxurjPd4mlqvqJRQALfBhZ7AiSyTUZfJrgI1HgGGNQ+PB3LXi6zcAuqF/nGzrSAL6cmy4F4BDU/JoXPRA8pRtvfWc+TtlnWEk6JJHmk9IVzCc5X374vKBafwVQivXuJ+6w6HJWkHi34=;oHSnf3SSoWLjclhcHNspjA=="
 ---

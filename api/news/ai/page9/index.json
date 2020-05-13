@@ -2,6 +2,162 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-05-microsoft-cisco-collaboration-leveraging-iot-data-to-drive-better-business-value.md",
+      "title": "Microsoft-Cisco Collaboration: Leveraging IoT Data to Drive Better Business Value",
+      "excerpt": "Microsoft Azure IoT and Cisco IoT, industrial IoT market leaders, they have decided to team up to share the availability of an integrated Azure IoT solution, that provides the necessary software, hardware,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.analyticsinsight.net/microsoft-cisco-collaboration-leveraging-iot-data-to-drive-better-business-value/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/05/microsoft.png",
+          "width": 929,
+          "height": 523,
+          "title": "Microsoft-Cisco Collaboration: Leveraging IoT Data to Drive Better Business Value",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-watson-aiops-automates-the-detection-of-it-anomalies.md",
+      "title": "IBM Watson AIOps automates the detection of IT anomalies",
+      "excerpt": "IBM has launched a slew of new AI services that aim to help chief information officers (CIOs) to predict and tackle IT problems before they occur. Watson AIOps, unveiled at the company's Think Digital Conference,",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
+      "publishedDateTime": "2020-05-05T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1588670694/itpro/IBMBuilding.jpg",
+          "width": 1000,
+          "height": 690,
+          "title": "IBM Watson AIOps automates the detection of IT anomalies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-xilinx-and-avnet-combine-to-provide-solutions-for-autonomous-car-developers.md",
+      "title": "Xilinx and Avnet combine to provide solutions for autonomous car developers",
+      "excerpt": "Chipmaker Xilinx and Avnet, a designer and distributor of electronics components, have combined to offer a range of solutions for autonomous car development. Xilinx is a big name in the industrial",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://roboticsandautomationnews.com/2020/05/05/xilinx-and-avnet-combine-to-provide-solutions-for-autonomous-car-developers/32076/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics & Automation News",
+        "domain": "roboticsandautomationnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2019/11/restrict-access-ad.jpg",
+          "width": 842,
+          "height": 595,
+          "title": "Xilinx and Avnet combine to provide solutions for autonomous car developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations.md",
+      "title": "IBM rolls out Watson AIOps that helps enterprises automate IT operations",
+      "excerpt": "IBM has launched Watson AIOps, a new offering that uses AI to automate how enterprises self-detect, diagnose and respond to IT anomalies in real time.Watson AIOps enables organisations to introduce au",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations/article31508049.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations/article31508049.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations/article31508049.ece/amp/",
+      "publishedDateTime": "2020-05-05T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/f840m/article31508048.ece/ALTERNATES/LANDSCAPE_615/BL06IBM",
+          "width": 615,
+          "height": 384,
+          "title": "IBM rolls out Watson AIOps that helps enterprises automate IT operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone.md",
       "title": "AI Hub Singapore creates first AI computer vision application that allows businesses to monitor social distancing with a mobile phone",
       "excerpt": "To allow more businesses and people to monitor social distancing easily, AI Hub Singapore has created an AI application that turns a ubiquitous device - a mobile phone - into a social distance monitoring instrument.",
@@ -1110,175 +1266,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-intel-buys-moovit-transit-app-for-900m-to-help-develop-robotaxis.md",
-      "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
-      "excerpt": "Moovit will remain independent while its technology and the data it collects from more than 800 million users in 102 countries will be integrated into Intel's Israel-based autonomous car unit, Mobileye.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autonews.com/mobility-report/intel-buys-moovit-transit-app-900m-help-develop-robotaxis",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Intel-main_i.png",
-          "width": 800,
-          "height": 600,
-          "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-theres-more-to-usability-in-ai-and-iot-than-you-think.md",
-      "title": "There's more to usability in AI and IoT than you think",
-      "excerpt": "You think your app is usable, but there are more things you should think about before launch. Here are five key questions to ask yourself about your AI or IoT project.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
-      "publishedDateTime": "2020-05-04T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/03/ec657806-e8cc-4b44-9b4e-2b9f1eb7583c/thumbnail/1200x675/c0eadaba26f5c428f78e4dc438118cea/20200131-menezes-bill.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "There's more to usability in AI and IoT than you think",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims.md",
-      "title": "Allen Institute’s VeriSci uses AI to fact-check scientific claims",
-      "excerpt": "Researchers at the Allen Institute and University of Washington describe VeriSci, an AI system that automatically fact-checks scientific claims.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/04/allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/04/allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims/amp/",
-      "publishedDateTime": "2020-05-04T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Allen Institute’s VeriSci uses AI to fact-check scientific claims",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-tackling-cybercrime-with-ai-during-covid-19.md",
-      "title": "Tackling Cybercrime With AI During COVID-19",
-      "excerpt": "On a recent panel discussion with AI experts about the world after coronavirus from an AI perspective, Sophia explained that robots were created to help humans deal with big problems like the pandemic or climate change.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/sap/2020/05/04/tackling-cybercrime-with-ai-during-covid-19/",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/05/04/tackling-cybercrime-with-ai-during-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/05/04/tackling-cybercrime-with-ai-during-covid-19/amp/",
-      "publishedDateTime": "2020-05-04T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216339679%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": "Tackling Cybercrime With AI During COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

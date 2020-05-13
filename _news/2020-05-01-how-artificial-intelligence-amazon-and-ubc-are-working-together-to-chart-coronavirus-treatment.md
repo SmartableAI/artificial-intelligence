@@ -3,7 +3,7 @@ category: news
 title: "How artificial intelligence, Amazon and UBC are working together to chart coronavirus treatment"
 excerpt: "UBC researchers are teaming up with Amazon Web Services to develop a global cloud-based dataset that uses artificial intelligence to build treatment models for COVID-19 patients."
 publishedDateTime: 2020-05-01T13:42:00Z
-webUrl: "https://www.ctvnews.ca/sci-tech/how-artificial-intelligence-amazon-and-ubc-are-working-together-to-chart-coronavirus-treatment-1.4920374"
+webUrl: "https://www.ctvnews.ca/sci-tech/how-artificial-intelligence-amazon-and-ubc-are-working-together-to-chart-coronavirus-treatment-1.4920374?cache=yes%3FclipId%3D89531%3FclipId%3D89531%3FclipId%3D86116"
 ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2020/5/1/1_4920374.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2020/5/1/1_4920374.html"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 573
     title: "How artificial intelligence, Amazon and UBC are working together to chart coronavirus treatment"
 
-secured: "nlpj7Ukhz+e14qoX64vcrjXH5BUqLuBFC2iI5syGD/Y69tbCo9XIKrsE5A6i+0EHmHJbg7M3cpjLJjoLZrOmWh2RU5skaadXt5OO9nVeAgePR2AGA7YrnKFXHVsFsA0ZvKRsKtg99BnbUUNybfw/bWUFMEXCeqJ2qMSKwoQ0rjun9rVR2ThPHa+FMyBWOOju35ik+bpZ+lGPPGZbj0bdpKWtc9iA9Rk5PLYkVutpK9Xcv80fGzwur+rZZNbzDSvju5PEox4fM8T4eWwY1s67kTQX+wdGp/slFW4DBmMwPa0qbrSCI3MZIsattJJkr4av;aAlxCOElq7XkU+leWAHNfg=="
+secured: "SMHZNebF6EWjI1csf5QioXdmkQ7dfuulvmWqYpZe0zigxVzQYvsVTrF/n8t6swb3jE6hd43X8JYWn4SZX1rPuK1x9spqvhWw5olFs994pNIbLN2RqolOestB0iiRaTWU7XTWyzPcyUNmGmOQefeFJ8VXnd3MpLfnIA85lRP7YPMhyBPZCuVdTdIhGF/4/yVBlzlM6hFaXTqJJztMp6fT/uJ1/lGH5h9QU8EhB7UrlkSJvuDsPTS5wgzfm+yk18bqqVnScJi+SlB3h0r/BwoMMx1xwp+LCZrdYaWjOxZJp4xYaR/VpFWjVmEb19S6HWw0;ofIiH7a55p/+Uun2dZnpBA=="
 ---
 

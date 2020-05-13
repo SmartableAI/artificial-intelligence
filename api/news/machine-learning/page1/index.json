@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-13-microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai.md",
+      "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
+      "excerpt": "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai-2020-05-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-artificial-intelligence-cracks-quantum-chemistry-conundrum.md",
       "title": "Artificial Intelligence Cracks Quantum Chemistry Conundrum",
       "excerpt": "Machine learning techniques accurately calculate the energy required to make — or break — simple molecules. A new machine learning tool can calculate the energy required to make — or break — a molecule with higher accuracy than conventional methods.",
@@ -1227,51 +1273,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-covid-19-how-universities-made-the-pivot-to-e-learning.md",
-      "title": "COVID-19: How universities made the pivot to e-learning",
-      "excerpt": "One Rhode Island university has transitioned nearly seamlessly into remote learning. Here's how they did it safely and effectively.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
-      "publishedDateTime": "2020-05-04T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/04/3b314e67-8a80-43eb-9c3b-044b9e74526e/thumbnail/1200x675/44abc715eefb0ea033f4e25b30ac2d56/20200428-salveuni-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "COVID-19: How universities made the pivot to e-learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

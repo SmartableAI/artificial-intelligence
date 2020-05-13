@@ -22,6 +22,6 @@ images:
     height: 627
     title: "MATHia® by Carnegie Learning Wins “Best Artificial Intelligence Solution” in The EdTech Awards 2020"
 
-secured: "1mtAN9qST+YqmZYv4NMgHR7O5up0k8Btgw6nV7QDHABoTy3/WtNUkOMa2Jjl5WpDvcoMUIX2b833zRDumLnFl7HxKqXiFwdCM/81G+fxHsKLLU5/fOlGMZnjJOjX7eVLVfc1+BAeQYyNbEtaqzga7uWQEbks4glktds3hzOG17sdRStwIRzLs8+kxhMOnb/G+Hh6iOhriRa/377nhzNWhI1QGwhYxZ/86dW+tRlYnM+sg9Vxn0DQ5LZYQJS3TWjBcT6inHXypZhvr9N39N6NEb00ZFiG1NKKLcex+nh1RLHTvCEAqXyxdiaFpsm3btEx;1QYIICIpZYCr3NHerZuoVg=="
+secured: "IBXMiq61WoddE+MExKpj9F54UeJyuztJlK4D6OaGnq2weL/vLr4nVCpvZFFhMecazYauSCWNA1+5t0yFD9G1LUu/lqX2ZXin9TEooGoGGyfLOHvnXgzWSn/fMoWMm+oEqHu+AWS8Y9d4S27+c0Fmmc/t/n+pmdaO+kXTf8IlLLD6xJY9IliNYdD99m+DMFtxn0kTY1uCsUNjkhL2cOHffiYaTPnHsH/Ylo5S0EbgEkpPQ/658nDybMaRVqXQx74g1VU0adXRPNZ3o3vIfKoXGdROYRMOgJsjVNKBfZUfbyRRwfdvNyzlDeUr+oyvWUv9DT5+XsdgswOOs2ZwLbPruLs4GicKZ4n3VcMAhdkGOZg2uB11Kc/HMyyohYK4M7FTosWgcd9lDfD4W3yHVTXeR/40NgKNPcJWGZsOUWOO5dE63hDCS+eJ6lTehMlHFw33XJ7SoF1pJXLxcbFDQV0VJR2PBIkNzUNQuii+ONZByQA=;priny6iUTpnTouEPudYRJA=="
 ---
 
