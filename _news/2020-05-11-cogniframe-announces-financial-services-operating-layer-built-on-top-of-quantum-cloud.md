@@ -26,7 +26,7 @@ related:
     provider:
       name: HPCwire
       domain: hpcwire.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/reionization-header-image.fw_-405x228.png"
         width: 405

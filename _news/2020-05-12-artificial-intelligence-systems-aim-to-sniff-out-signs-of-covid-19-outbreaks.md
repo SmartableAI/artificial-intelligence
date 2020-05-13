@@ -5,8 +5,8 @@ excerpt: "Read our COVID-19 research and news. Science’s extensive COVID-19 co
 publishedDateTime: 2020-05-12T21:44:00Z
 webUrl: "https://www.sciencemag.org/news/2020/05/artificial-intelligence-systems-aim-sniff-out-signs-covid-19-outbreaks"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/ca_online_new.jpg?itok=BUAsp448"

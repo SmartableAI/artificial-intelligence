@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mms.businesswire.com/media/20200505005225/en/789328/23/Boosted.ai_Logo_Full_Color_050520.jpg"

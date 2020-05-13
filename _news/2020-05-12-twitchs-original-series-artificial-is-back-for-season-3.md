@@ -5,8 +5,8 @@ excerpt: "Signifying its commitment to original programming, Twitch today announ
 publishedDateTime: 2020-05-12T13:50:00Z
 webUrl: "https://www.broadwayworld.com/bwwtv/article/Twitchs-Original-Series-ARTIFICIAL-is-Back-for-Season-3-20200512"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cloudimages.broadwayworld.com/columnpiccloud/1250-abaac3221fbb0701af33c389230291fb.jpg"

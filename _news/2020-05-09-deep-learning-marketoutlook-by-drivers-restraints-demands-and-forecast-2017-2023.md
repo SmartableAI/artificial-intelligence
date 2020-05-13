@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-09T04:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-marketoutlook-by-drivers-restraints-demands-and-forecast-2017-2023-2020-05-09"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market By Products, Manufacturers, Services, Consumption, Applications and Forecast 2020-2027"
-    excerpt: "The research report of the global Natural Language Processing (NLP) market provides in-depth insights to ease decision making or to find relevant information. The report comprises various entities inclusive of drivers,"
-    publishedDateTime: 2020-05-08T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-by-products-manufacturers-services-consumption-applications-and-forecast-2020-2027-2020-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

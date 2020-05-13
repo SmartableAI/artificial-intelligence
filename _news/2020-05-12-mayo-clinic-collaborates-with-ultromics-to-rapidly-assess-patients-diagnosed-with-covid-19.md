@@ -23,6 +23,6 @@ images:
     height: 628
     title: "Mayo Clinic Collaborates With Ultromics to Rapidly Assess Patients Diagnosed With COVID-19"
 
-secured: "/QQv4yNsLXowVgFOcMu6QYpy+R92Lhl4auY/fz72nxo0x1Ry2CHUeZKUH6JGLIIgPSGNBk9FM6+7HaMPpYd+Gagqp7YTF8rY4poX+yZiGnw6/WsCbKNyQojbAAsXsbQdU45BEGpswxzaKdLvjbMZBf1dRRd1BJkKjww735PZT1YwXXI8iiGX+ZJXqzz+GuY/HCqVvtbtPrxcCbLnDilMT7Fxne5BX6dCjCviTp6P/Gu1j6B7gdZxkJdUS3BsRkYMb1Xc6/z/I8DTDwwOiz2rdNiJBQ+nXoktlSWF4dLxLpvTdvHl3DDJUXGHSHlj/q5Q;TOSZkWHuu9uKqzS0yVmRzw=="
+secured: "UdLZTLdsbgvRb4Z3wMdSOBtRRZL4VO4OFx+UmJTTQipVpnRoHqAevACQ88iUGiZ3YmdggbeqoC9Ynpn0QyO4tukgHk3qJwNuOPbb/I6t7YgXPaDOcmiXTCqb/Mc4OZo/NsZlEJw2pEtYaZ3oXTcesxv/sY4enw+P8bPMd+JpODC7MfYY5GhV9wX1XGrNbK8y7eMLvTlvW0J3aL+CZ6hF1d7KS0b41Qfib28qI1SRgIf8I5SyCdYxXNoW/ua+hcBZ6YcQWXEDw1zX0wmDKdQXJJvCY3M9wYHwQZkSb1meOVS5/XkK+z0IAOFmKlZr2myvmw9FH3RmB/9k1cCyUbE68gj0bWdGAr/41+EzFBDaXytQpyseAJoQwPLb6UaxwU9vw0fESNr3njm4uGLHCaRoVap+vGDiYCqTjq9UPS0/E6azMMyXH36Qf2XQROWnPu2xusf9vfjkdHPjYoeu+PHQy47a/K2u2bqfbrxTfWhWPCc=;5RRhuaydyzckjDO14XsQfw=="
 ---
 

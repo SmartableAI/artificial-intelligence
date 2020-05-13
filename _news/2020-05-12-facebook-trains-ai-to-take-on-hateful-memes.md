@@ -32,12 +32,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/05/hateful-memes-challlenge.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
 
-secured: "w5iEmHoLEDwlkk+AJZcgje14qqpkjrrIERPsM0e9MVNQ67Wno8cFRx3vCTwpWCqDIfo7IPV3y+xwpDLk4KVAyaeRKJJbPh/TZgeG9nOVaEjd91k2uDNcdiwQ1WgGU82Fx8+BmADSG8FfvjAi4TRM74P0XVLSkKgtXxbzFAUSAbThH4ew2gJbaJcgbOhGMaSlQuCWh5W3lTspTrGiigIeEhy2pyMNSoziNQcp6pkTC7U2d+uJFNptcQ8SmrcYa3K+admH2KXNn5Sqhi9jN/+JMC6+W42J3Sr9dnUq30VKmT7Yk2xwA+YgNKzKvqgvxCFp;vNOouiJt2WCdz4G3C4ikTw=="
+secured: "jtmkVhhNUIrMFkknxLkvWgsCem7P5S0Ca/M9SaoR1TXMSDS5mH65EtTuqlRPcnq+mqE0R327INhyLBueeDDKc5bMeYMOSQhKQ/v5q5IiRIoEi7L5ZamR/xm0sU0wZFakt6Auhz0/f2hGwQEA6P5ZzhNsSEwGLX+jI7UQv6QH309B8OqVqZSByFtFS6ZGdlZdo5O1d+AnChoCpi27Q/Wbg60SdsN3NfwuE0djgu2ZP/BF7cAnNnEFkbd2Q9d2kGYPTrrT43ibe9g/CORq/k062SJS/zDZdxViP9JXRbkkVyGb4CupnCmodo8x/R85ygCXDpbNEnhVKqT6JVpUYsZ4b8LwWnmJtn45TiNJ6bq6sdiQSdkaqsyLZ8/HtqLRvSuZDB9VYwtt/gCjMBZpVVrVWiDOwQfPAEAUZfMjAPA7wxozkP0WabryyJFRpr9Z5VKqFCxDldeXWyo1irrOKY3zXzeJor7MD0cEfzqx0lhXRzU=;ngq4N68Q77UmVQLy3npnRw=="
 ---
 

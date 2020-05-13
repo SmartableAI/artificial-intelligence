@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing (NLP) Market By Products, Manufacturers, Services, Consumption, Applications and Forecast 2020-2027"
-    excerpt: "The research report of the global Natural Language Processing (NLP) market provides in-depth insights to ease decision making or to find relevant information. The report comprises various entities inclusive of drivers,"
-    publishedDateTime: 2020-05-08T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-by-products-manufacturers-services-consumption-applications-and-forecast-2020-2027-2020-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "Ezp2nlXh8j0ODbTdO+CfA29kEPO5z8CDKKpVnW4zh8xOpfWvLDjTWC0bhJgBrfiih9RlvVqacBtYNxFTREYh99CRwxWt0xsncXTQq8cwO8U+6/yXmOuc/XMoQbWFEqOnwLg8f+hDowTiBlUDuNqIsBT9GQ6x/mmVdUFR0k9rHLQ+mGh/uJwMCA5mUd4a/BUr4CVKwvoSJVfSr7P6qIEJIztRz2EcjxvHIVnqvSbGAcLAWyZ9zQg4eXPRPx4Xwj3U84htK4aF/bznz6xzyJtQEoZLbxwt7VcP+tvapPxf4dbMCn/4vR3f7dPRy41X6WVx;Mixze8yRxDn05uaNJoX4qQ=="
 ---

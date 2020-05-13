@@ -5,8 +5,8 @@ excerpt: "Artificial Intelligence startups received a record $26.6bn in funding 
 publishedDateTime: 2020-05-11T13:04:00Z
 webUrl: "https://www.infoq.com/articles/artificial-intelligence-advertising-approaches/"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Machine Learning
 
 images:
   - url: "https://res.infoq.com/articles/artificial-intelligence-advertising-approaches/en/headerimage/artificial-intelligence-advertising-approaches-h-1588939301815.jpg"

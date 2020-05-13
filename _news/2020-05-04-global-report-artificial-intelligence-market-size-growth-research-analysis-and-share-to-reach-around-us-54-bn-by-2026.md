@@ -20,6 +20,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

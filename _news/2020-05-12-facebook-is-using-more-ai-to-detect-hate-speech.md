@@ -5,8 +5,8 @@ excerpt: "Facebook reported large gains in AI used for hate speech detection and
 publishedDateTime: 2020-05-12T16:07:00Z
 webUrl: "https://venturebeat.com/2020/05/12/facebook-is-using-more-ai-to-detect-hate-speech/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/hateful-memes-challlenge.png?w=1200&#038;strip=all"

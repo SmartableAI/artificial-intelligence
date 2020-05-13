@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://technical.ly/baltimore/wp-content/uploads/sites/3/2011/09/Johns-Hopkins-University.jpg"

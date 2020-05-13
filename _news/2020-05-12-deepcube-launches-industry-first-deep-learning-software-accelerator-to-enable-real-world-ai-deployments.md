@@ -5,8 +5,8 @@ excerpt: "DeepCube today launched the only software-based inference accelerator 
 publishedDateTime: 2020-05-12T13:17:00Z
 webUrl: "https://www.businesswire.com/news/home/20200512005105/en/DeepCube-Launches-Industry-First-Deep-Learning-Software-Accelerator"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mms.businesswire.com/media/20200512005105/en/790877/23/DeepCube_logo_on_black.jpg"

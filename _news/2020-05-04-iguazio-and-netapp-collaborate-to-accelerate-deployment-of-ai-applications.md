@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mms.businesswire.com/media/20200504005011/en/788500/23/Iguazio_logo_light_png.jpg"

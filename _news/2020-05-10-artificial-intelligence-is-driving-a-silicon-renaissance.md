@@ -4,10 +4,12 @@ title: "Artificial Intelligence Is Driving A Silicon Renaissance"
 excerpt: "More innovation is happening in the semiconductor industry today than at any time since Silicon Valley's earliest days."
 publishedDateTime: 2020-05-10T19:55:00Z
 webUrl: "https://www.forbes.com/sites/robtoews/2020/05/10/artificial-intelligence-is-driving-a-silicon-renaissance/"
+ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/05/10/artificial-intelligence-is-driving-a-silicon-renaissance/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/05/10/artificial-intelligence-is-driving-a-silicon-renaissance/amp/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 104
+heat: 104
+published: true
 
 provider:
   name: Forbes
@@ -19,7 +21,14 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
-secured: "nXVWupdb09/Pb+g+rKUB3gn4jEcTNgLDTTHp/y3khjBMiNosbksMoMTWFvaRWijGdMGggmIM1OaPwgUwb/rqmPlaZZ5RIw7pPje+t7g+/8pHw3zsqUFlW5dEhC3UPLqNPacIIY+2+kD+ZyZzSWJe9QbhYmdDbl6I3eKrhlpL0JeIc1UdfuEhhwaDXsqevFWwBeD4h2cfs6tJURGYenlh4tpLmlX3tzcZJWPlpBBgTUrdigFNF+HlWb6P5DoCLREN50e49cfSnoPbUTaiT+3/htsAHk/qHHJ49ibjQikt9pIN2jMygSv0G95Im52Uph4oxUQNy8OWW79C8INszphZhclc5hgJB8lkjbP6q6DMfUOTxd5uTd141Plac5MbJkxLCn/hnShJBo16P35yRtjF36CFTCEHpqV/XLlBtPwZ2DzlOiZNbVZll6/SOT3rKYcoSq79KOh36W6lY+4GyO+OZBld2u76sByRrEZ7joMF6P8=;gY3S4Ew0WM3GtE24Jtzdlw=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb85a25a96e2d0006574822%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D28%26cropY2%3D726"
+    width: 1199
+    height: 676
+    title: "Artificial Intelligence Is Driving A Silicon Renaissance"
+
+secured: "h5TFtVchsr3S26HW94UJxHumH+3bVg/bKlufj7ag0mVdmUgUBLREmBHmlZmw4OXrkZnX5JBzVsiTLwaf7ZpjxJqpyAq+QN7pNSU11x8/pOlbELVQEiLXTmPbRC9CtYmD2R7hny9kU+AUZP2MYO6JC4K/UkVjizgHV7e1yC5iJlHqivxTDbf/RCOUp7nUqbuZL9ez/8HfcfCX/vOl/1F06pOH9Xua8W/9rCEWUjyBCN3yi6/tSOadBWLxl82eN0Nn/iYC2l211km/UBGo09DvME8NlWdFsSAvnEWIG1JbtzFe5W2RuRrvmWXRGfW6re+e;LHtufBY3GuSgKESMZU/YVw=="
 ---
 

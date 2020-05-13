@@ -23,6 +23,6 @@ images:
     height: 419
     title: "Innovations and Developments for Wearables, Thermoelectric Generators, Holographic Displays, AI Chips, VLC, Micro-LEDs, and VCSELs"
 
-secured: "+RB1kxZkyJ4yZuBGMtRPG7YNpp62BjAT293SWlMresOavhwh1v7wYDZNENWY9IbHZzRj3gArt6T87QltcgVOqevb3fhvPj0PlvE1s3Q3B2WaKKq+Wbbp97/+QkJkE0IzxfkrLKwgJXPDnACK8ICek6rVRFvw3FqlGF2uZAlqY4QtEHE/s1pee/z/9Qh8EhOh8qWRHbWKwtlu15Qb/ODOhW+/16wvGmpK6e+XIS86jT0ahdGv6qVTfCDymuiWznhO1OAvx2ftKgdgpZBx8SvTZWR/iN+G39AZRsHtUVR7/dNioeP1YY6xplSYvaK2uINQ;UvmOqswBMv4+8ZXgU6JGHQ=="
+secured: "5iBuGZlBLflM5fzBPTHLL+fNMfqvBr/NkTnHEoPYgp3pLeR03nttYdrdFmxDvVLIX7Beix/4iMAgaymIP60+Ze1NqbOQirzp41l2mY/2H5u0wsDdtXdtZ3WJJEK4kO7mPK2qFiHPqEn6zF0+bXi+PyO6m/ggwCKvhdj4yEe9NpQZeWLwFM1PphCGB1UQHZnOEOh+GOV81CghdKiQPWZX5XNfxFc/wz0kVQnjv7CD0MJIJJRKrvLDILmYR71Hmgxx0rAU+vaTsVUHF9N3Z7Q7IdX04dD/vtO9e54Jx9RCHmkJt9ez+jFAV5f+4P9X7z3It3m76nD3HbU3Y3B+CTsQVcin3iIH+V9bBNMggAiqZFhkF2FWGCmiOQ2HIPRoWPXr0qQRI+3KTE+wxhJfo8Q3lNfpBaWnPjBbibsnOdpUp25cGSuUKrgFq1qc52fTs1RhiOYuwNY28ajNiSypICckX9sgfufyRwx0Ae3W27RXpDE=;k8e9cgrizprVaAImNimeJA=="
 ---
 

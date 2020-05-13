@@ -5,8 +5,8 @@ excerpt: "AI is set to change many industries. IBM has gathered adivce from wome
 publishedDateTime: 2020-05-11T15:17:00Z
 webUrl: "https://www.businessinsider.com/sc/advice-from-women-in-ai-ibm-2020-5"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/5eac607542278d190755e946?width=1200&format=jpeg"

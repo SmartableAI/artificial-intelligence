@@ -5,8 +5,8 @@ excerpt: "Inspur revealed its latest Open Computing innovations that continue to
 publishedDateTime: 2020-05-11T18:36:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/inspur-announces-its-latest-open-ai-compute-and-networking-solutions/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI Hardware
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/reionization-header-image.fw_-405x228.png"

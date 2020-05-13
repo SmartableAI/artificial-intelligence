@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://singularityhub.com/wp-content/uploads/2020/05/OFA-neural-net-AI.jpg"

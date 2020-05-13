@@ -18,6 +18,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Finance
 
 images:
   - url: "https://technode.com/wp-content/uploads/2020/03/bigstock-micro-chip-quantum-processor-259779781.jpg"

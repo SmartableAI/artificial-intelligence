@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.idgesg.net/images/article/2018/02/fintech_mobile_payment_transaction_thinkstock_896567288-100749749-large.jpg"

@@ -23,6 +23,6 @@ images:
     height: 1414
     title: "Foxconn Partners With Socionext and Hailo to Launch Next-generation AI Processing Solution for Video Analytics at the 'Edge'"
 
-secured: "nDRylcki0unvjp1qzTjZUDtP7D7pM2t9zUA9ggSjI0zKHiazzYiC9W20y+d6IJSjkkBUwQEWxiXK80voyD+o0wk18YXONIdqd4q2GxghM5bBkhsR+3ihmT50CNaZly+OukA7FO+7XwzisF9dTDMhUcnY5VU6Xn2I8CWj1qWDgUfuAD8Q+2mCeTuZKen2L1EefJN/8qTpIcqX2RC5KeQGt7b5/YdAbXyrVbgOy1CgfK9nw8WDuj+NR/tX6BParIqpOnr4feGWwuQEnR9yO2t1jS9llldee1Gq03gWqseN1/Xm7HBX7yW9E7es9U6Mbbbk;F9bnR19ac4zRxBZ6dwZd6Q=="
+secured: "fPM0hDpeu0od9XoKP1KJW23SkT3Kg34uCVl3tz/OO01V7V6FXRC6A4CboYLxGKO8o5zcnncrmtrcUP7GcJhSV5DGIReliImABKC9izRwMqEU0L2q4oHU0gMaFSwqfLINdQQcybyzJ/WEehqBpSL2UbutGTRy+X6nqvLmUcLe0EAqJoFa3QaeZJT/i4C/S+mYaXFFbq5Yeex5Rf3r8A60P6XXfs2Y068bOddG/S67Njo6YVHJOoofXrUd1UQspqYgyEWLcI39PccTH72nelsnhrCFZPbfDKaFm2mO0S+MOdfNJQwmaYUHChoFHxUWC/H8PuAcWvlF300hq/Yk7Mcy1Vu0+r7l2/PaV3SsSBGCw6l0QERb/TmtCyw8zeEpdkODAf4QczOcOIoxkB+pg9/q4+YzNooBqlctPOu3+ZtwUv5b24yEyA8hTAl300ffnacTR8b/R0wyKqlN4FtGRQsUoFCf077txZWm0dKAyzFd+YQ=;4XJXA4ZDt5XlIRe9zssQPA=="
 ---
 
