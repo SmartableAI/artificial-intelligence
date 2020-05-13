@@ -2,51 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-04-29-microsoft-reports-350-billion-in-q3-2020-revenue-azure-up-59-surface-up-1-and-linkedin-up-21.md",
-      "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
-      "excerpt": "Microsoft today reported fiscal Q3 2020 earnings, including revenue of $35.0 billion, net income of $10.8 billion, and earnings per share of $1.40.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/",
-      "publishedDateTime": "2020-04-29T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all",
-          "width": 2048,
-          "height": 1025,
-          "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-29-microsoft-this-is-how-to-protect-your-machine-learning-applications.md",
       "title": "Microsoft: This is how to protect your machine-learning applications",
       "excerpt": "The models that drive our ML applications are incredibly complex, training neural networks on large data sets. But there's a big problem: they're hard to explain or understand. Why does a model parse a red blob with white text as a stop sign and not a soft drink advert?",
@@ -1220,6 +1175,51 @@
         "authors": null
       },
       "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-a-closer-look-at-microsoft-azure-synapse-analytics.md",
+      "title": "A closer look at Microsoft Azure Synapse Analytics",
+      "excerpt": "Then came AI, which depending on whether it's machine learning or deep learning, has diverging resource requirements. So, bringing the data warehouse together with the data lake is no mean feat. Azure Synapse has attacked the workload issue with a cloud-native architecture that builds on the separation of compute from storage in SQL Data ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-synapse-analytics/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/",
+      "publishedDateTime": "2020-04-14T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/09/ceef9f66-5c03-441e-b01b-07f3d706125b/thumbnail/1200x675/f59cb62c717acfcb85d3f3b1f0d107d5/coronavirus.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "A closer look at Microsoft Azure Synapse Analytics",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

@@ -1014,43 +1014,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-08-controversial-face-recognition-company-clearview-ai-pledges-to-stop-selling-tech-to-private-firms.md",
-      "title": "Controversial face recognition company Clearview AI pledges to stop selling tech to private firms",
-      "excerpt": "According to legal documents first reported by Buzzfeed, the company is ending non-government related contracts in response to class-action lawsuits and scrutiny from regulators.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8301907/Controversial-face-recognition-company-Clearview-AI-pledges-stop-selling-tech-private-firms.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8301907/amp/Controversial-face-recognition-company-Clearview-AI-pledges-stop-selling-tech-private-firms.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8301907/amp/Controversial-face-recognition-company-Clearview-AI-pledges-stop-selling-tech-private-firms.html",
-      "publishedDateTime": "2020-05-08T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail Online",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/05/08/20/25231512-0-image-a-2_1588965563238.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Controversial face recognition company Clearview AI pledges to stop selling tech to private firms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-08-mercedes-benz-to-make-mbux-artificial-intelligence-tech-even-more-proactive.md",
       "title": "Mercedes-Benz to make MBUX artificial intelligence tech even more proactive",
       "excerpt": "Benz's MBUX infotainment tech is its voice-activated virtual assistant. The company's artificial intelligence software allows a driver to search for destinations, control vehicle functions and more. And as MBUX evolves,",
@@ -1315,6 +1278,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-deepmind-compares-the-way-children-and-ai-explore.md",
+      "title": "DeepMind compares the way children and AI explore",
+      "excerpt": "In a preprint paper, DeepMind researchers propose a paradigm for comparing the exploration behaviors of children and AI models.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
+      "publishedDateTime": "2020-05-08T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": "DeepMind compares the way children and AI explore",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

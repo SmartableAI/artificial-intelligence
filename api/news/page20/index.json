@@ -2,51 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2020-04-28-amazon-appflow-brings-serverless-ipaas-capabilities-to-aws.md",
-      "title": "Amazon AppFlow Brings Serverless IPaaS Capabilities To AWS",
-      "excerpt": "AWS announced the launch of Amazon AppFlow, a managed integration service for exchanging data between external Software as a Service (SaaS) applications and AWS services. Amazon AppFlow acts as a two-way conduit for the data flowing between SaaS applications such as Salesforce,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/28/amazon-appflow-brings-serverless-ipaas-capabilities-to-aws/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/28/amazon-appflow-brings-serverless-ipaas-capabilities-to-aws/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/04/28/amazon-appflow-brings-serverless-ipaas-capabilities-to-aws/amp/",
-      "publishedDateTime": "2020-04-27T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea7cd5811fa6f000658c4bd%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Amazon AppFlow Brings Serverless IPaaS Capabilities To AWS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-28-apple-iphone-12-how-this-security-feature-could-solve-the-face-mask-problem.md",
       "title": "Apple iPhone 12: How This Security Feature Could Solve The Face Mask Problem",
       "excerpt": "You try to open your iPhone using Face ID, but your face mask gets in the way. Apple iPhones use depth perception to detect your face for Face ID, so many of the tricks don’t work. It’s frustrating for many Apple fans,",
@@ -1026,6 +981,43 @@
           "width": 1200,
           "height": 800,
           "title": "Apple iPhone 12: This New Security Feature Could Solve The Face Mask Problem",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-computer-vision-technology-provide-safety-improves-operation-efficiency-says-deltec-bank-bahamas.md",
+      "title": "Computer Vision Technology Provide Safety, Improves Operation Efficiency says Deltec Bank – Bahamas",
+      "excerpt": "Security is a major issue when dealing with financial information. That's why fintech companies are turning to computer vision to combat this problem and provide greater security for their customers.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15888714/computer-vision-technology-provide-safety-improves-operation-efficiency-says-deltec-bank-bahamas",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15888714",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15888714",
+      "publishedDateTime": "2020-04-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1587328009.jpeg",
+          "width": 3300,
+          "height": 2550,
+          "title": "Computer Vision Technology Provide Safety, Improves Operation Efficiency says Deltec Bank – Bahamas",
           "attribution": null
         }
       ],

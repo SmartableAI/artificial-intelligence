@@ -40,56 +40,10 @@
       ]
     },
     {
-      "path": "_news/2020-05-12-aws-launches-machine-learning-based-enterprise-search-service.md",
-      "title": "AWS launches machine learning-based enterprise search service",
-      "excerpt": "Amazon Web Services (AWS) has announced the general availability of Amazon Kendra, a machine learning-based search service for organisations with large datasets. Kendra enables businesses to index all of their internal data sources,",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355612/aws-launches-machine-learning-based-enterprise-search-service",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355612/aws-launches-machine-learning-based-enterprise-search-service?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355612/aws-launches-machine-learning-based-enterprise-search-service?amp",
-      "publishedDateTime": "2020-05-12T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1585738240/itpro/AWSApyGlass.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "AWS launches machine learning-based enterprise search service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-05-11-amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning.md",
       "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
       "excerpt": "Enterprise search has always been a tough nut to crack. The holy grail has always been to operate like Google, but in-house. You enter a few keywords and you get back that nearly perfect response at the top of the list of the results.",
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/",
@@ -1273,6 +1227,51 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-covid-19-how-universities-made-the-pivot-to-e-learning.md",
+      "title": "COVID-19: How universities made the pivot to e-learning",
+      "excerpt": "One Rhode Island university has transitioned nearly seamlessly into remote learning. Here's how they did it safely and effectively.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
+      "publishedDateTime": "2020-05-04T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/04/3b314e67-8a80-43eb-9c3b-044b9e74526e/thumbnail/1200x675/44abc715eefb0ea033f4e25b30ac2d56/20200428-salveuni-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "COVID-19: How universities made the pivot to e-learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-12-damien-patton-ceo-of-ai-surveillance-tool-banjo-resigns-after-kkk-neo-nazi-past-exposed.md",
+      "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
+      "excerpt": "News of the shift comes after OneZero re-surfaced newspaper reports from the 1990s which tied Patton to a fork of the Ku Klux Klan hate group and his involvement with a synagogue shooting.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339",
+      "ampWebUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
+      "publishedDateTime": "2020-05-12T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1589117/banjo.png",
+          "width": 1548,
+          "height": 1090,
+          "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-cheat-sheet-a-comprehensive-guide-to-ai-terminology.md",
       "title": "Cheat sheet: A comprehensive guide to AI terminology",
       "excerpt": "Despite that, there is a lack of consistency in how many AI concepts are discussed, not just at the STEM education level, but in popular entertainment, science writing, and even at times in scientific journals.",
@@ -43,52 +87,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-aws-launches-machine-learning-based-enterprise-search-service.md",
-      "title": "AWS launches machine learning-based enterprise search service",
-      "excerpt": "Amazon Web Services (AWS) has announced the general availability of Amazon Kendra, a machine learning-based search service for organisations with large datasets. Kendra enables businesses to index all of their internal data sources,",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355612/aws-launches-machine-learning-based-enterprise-search-service",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355612/aws-launches-machine-learning-based-enterprise-search-service?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355612/aws-launches-machine-learning-based-enterprise-search-service?amp",
-      "publishedDateTime": "2020-05-12T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1585738240/itpro/AWSApyGlass.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "AWS launches machine learning-based enterprise search service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -260,7 +258,7 @@
       "path": "_news/2020-05-11-amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning.md",
       "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
       "excerpt": "Enterprise search has always been a tough nut to crack. The holy grail has always been to operate like Google, but in-house. You enter a few keywords and you get back that nearly perfect response at the top of the list of the results.",
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/",

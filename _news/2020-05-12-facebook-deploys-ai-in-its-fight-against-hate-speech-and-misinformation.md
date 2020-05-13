@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/facebook-ai-hate-speech-covid-19-160037191.htm
 ampWebUrl: "https://www.engadget.com/amp/facebook-ai-hate-speech-covid-19-160037191.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-hate-speech-covid-19-160037191.html"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F54d59260-ea8a-11e9-bf7f-758b7f2dc3d2&client=amp-blogside-v2&signature=45436068159308fc2a7d743785a6f90e67a9e5f9"

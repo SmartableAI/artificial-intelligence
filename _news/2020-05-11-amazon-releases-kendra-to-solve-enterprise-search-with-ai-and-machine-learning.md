@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-en
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -31,6 +31,21 @@ images:
     title: "Amazon releases Kendra to solve enterprise search with AI and machine learning"
 
 related:
+  - title: "Amazon Launches Kendra To Solve Enterprise Search With AI"
+    excerpt: "Amazon announced the general availability of Amazon Kendra which is an AI and machine learning-powered, easy to use enterprise search service."
+    publishedDateTime: 2020-05-13T08:20:00Z
+    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068"
+        width: 1200
+        height: 676
   - title: "Amazon Releases AI-Based Enterprise Search Solution"
     excerpt: "Kendra, which utilizes machine learning, will be useful for enterprises looking to index internal data sources and make them searchable."
     publishedDateTime: 2020-05-12T17:00:00Z

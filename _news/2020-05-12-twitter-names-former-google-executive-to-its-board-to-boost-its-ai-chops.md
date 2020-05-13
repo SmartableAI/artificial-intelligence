@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/12/twitter-names-former-g
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/12/twitter-names-former-google-executive-to-its-board.aspx"
 type: article
 quality: 88
-heat: 98
+heat: 99
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 1200
         height: 675
 
-secured: "F1+Go8awbuOfA4SNOSFdyjMe35dFwL9sjAb6O+qvynoV49pOjNeovP9lh9aB5b3SMXZMwJIeSgjngFnwvKhoW1i5unc3kYaFkSDHhelSupvrF+FmMEPYZMh9GOLC37lpAeBKZbjOaOD/0THRG6//8fyYoOxJQdUVyyEprW87uUKkDWNePnyx+WW/FfM+aqi2uMlBK27raCa+MimWtTFQnLJCXbbYfRqcS/+BrSBBft60MOT26486AQTq9OfwAYg/ZGUGH2nPodUCzO+Wt70vnm1P219JnbGvSudlUlwW9cNFtXQ+usnZhLt5N8YfJ4kiLnTxwjRehwAqxXLPGfKLFoRPPEMftbTaWto4kfh/hfteot3uhKKGMsbddGlHofxySyzs2zqBg4tTyy4O2kY+TM5JPrPGdGDmfoWxjao6OiAuRHB0Fd4tFLD62iEfrqoSmNr+b7AbLWFvXI5IQCxi469YC/HSjXbhRSHLiviH4CU=;GDYPrHfg8VNoQYnLMChidQ=="
+secured: "EH+UeQzFc9CdE9MLaPKbXyJtrW2L2g4NqHglCo3n8yCopC4WEhHXUK2uk7QIPzLQ9iZo4YzU+mNAi0//rQ77QfatyM+5zxbK+sRF5MB7rVod0JkQnVUFCroYW7OcZ4a1HH2oSo95VUhpr60XS+bJGmsqZ8EFB7tiUw+3iSenZtQ7iDLpsuxgDXe/6yQcqTAWmGfsjkYe4qsQRXY/JrINfrUzbit634FjZz5s4rpCA0Iv7ThWho51E/HIQN6Y8tO+poYK3YUDFWKn05io3XxE4z0IAXjB4PaXxdPHJyuJ95rUUxnyvNcqXQi7OKSX9ipkqOlj7ftkzHn9Smq4x9jbJvv5sO0iR5dsOueBNhO3x/qT89UBpTYO0lvWhWgBzVi+i+yygtvpS4IDSnGfZNFuPOF/qOqVwI5sdRqfA12CdJsV8Z+f8EWOcuKyHj30CW1ACaNy5zm+/SfzenTCTFRA5jsj8zWhj6BADfZBECZoTxc=;zr2uHrW+LLLRnwu2dDinzQ=="
 ---
 

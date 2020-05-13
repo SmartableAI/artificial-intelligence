@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-13-elon-musk-has-a-complex-relationship-with-the-ai-community.md",
+      "title": "Elon Musk has a complex relationship with the A.I. community",
+      "excerpt": "Elon Musk is one of the first investors in DeepMind, he helped set up the $1 billion OpenAI research lab, and he's often making comments about AI. WWIII, more dangerous than nukes, scariest problem: several people in the AI community told CNBC that they struggle to take Musk's AI comments seriously.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "publishedDateTime": "2020-05-13T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105773439-1551717349171rtx6p9uc.jpg?v=1551717410",
+          "width": 3986,
+          "height": 2657,
+          "title": "Elon Musk has a complex relationship with the A.I. community",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-meet-the-googlers-working-to-ensure-tech-is-for-everyone.md",
       "title": "Meet the Googlers working to ensure tech is for everyone",
       "excerpt": "During their early studies and careers, Tiffany Deng, Tulsee Doshi and Timnit Gebru found themselves asking the same questions: Why is it that some products and services work better for some than others, and why isn’t everyone represented around the table when a decision is being made? Their collective",
@@ -1279,43 +1324,6 @@
         "Machine Learning",
         "AI in Autos",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-deepmind-cambridge-ml-professor-asks-ai-winter-or-the-wonder-years.md",
-      "title": "DeepMind Cambridge ML professor asks: ‘AI winter’ or the wonder years?",
-      "excerpt": "And will the promise of AI be delivered without heavy recruitment in more ML specialists? The issues will be addressed by former Amazon ace and the first DeepMind Machine Learning Professor at Cambridge University, Neil Lawrence, in a Cambridge Network virtual lecture on April 21. The Network's first online business lecture – introduced to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessweekly.co.uk/news/hi-tech/deepmind-cambridge-ml-professor-asks-‘ai-winter’-or-wonder-years",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Weekly",
-        "domain": "businessweekly.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.businessweekly.co.uk/sites/default/files/styles/article350/public/field/image/neil-lawrence_0.jpg?itok=ys7IWhhc",
-          "width": 605,
-          "height": 400,
-          "title": "DeepMind Cambridge ML professor asks: ‘AI winter’ or the wonder years?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

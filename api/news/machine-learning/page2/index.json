@@ -2,51 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-05-04-covid-19-how-universities-made-the-pivot-to-e-learning.md",
-      "title": "COVID-19: How universities made the pivot to e-learning",
-      "excerpt": "One Rhode Island university has transitioned nearly seamlessly into remote learning. Here's how they did it safely and effectively.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
-      "publishedDateTime": "2020-05-04T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/04/3b314e67-8a80-43eb-9c3b-044b9e74526e/thumbnail/1200x675/44abc715eefb0ea033f4e25b30ac2d56/20200428-salveuni-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "COVID-19: How universities made the pivot to e-learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-02-artificial-intelligence-in-retail-market-share-scope-trends-drivers-challenges-forecast-2023.md",
       "title": "Artificial Intelligence in Retail Market Share, Scope, Trends, Drivers, Challenges - Forecast 2023",
       "excerpt": "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market",
@@ -1235,6 +1190,51 @@
           "width": 796,
           "height": 452,
           "title": "This neural network was fed 10,000 dicks to learn how to draw one",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-machine-learning-as-a-service-mlaas-market-analysis-global-industry-size-share-trends-and-forecast-2020-2026.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Analysis – Global Industry Size, Share, Trends and Forecast 2020 – 2026",
+      "excerpt": "According to the report published by Acumen Research and Consulting, the global Machine Learning as a Service (MLaaS) market was expected to reach at US$ Mn in 2018 and is anticipated to exceed US$ Mn by 2026.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-analysis-global-industry-size-share-trends-and-forecast-2020-2026-2020-04-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service (MLaaS) Market Analysis – Global Industry Size, Share, Trends and Forecast 2020 – 2026",
           "attribution": null
         }
       ],

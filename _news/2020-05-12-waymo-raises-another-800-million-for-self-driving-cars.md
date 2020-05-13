@@ -8,7 +8,7 @@ ampWebUrl: "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c
 cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html"
 type: article
 quality: 74
-heat: 95
+heat: 96
 published: true
 
 provider:
@@ -53,6 +53,6 @@ related:
         width: 1200
         height: 600
 
-secured: "yA/s+dbcJWfrCA+2OfblgBdYX7nqeO8CXQaV3D3JusgSDkHhpYu062ty4c5Tez1XwL/dRvJnubIrCIzXA34uIgihmDCIs+AxWuojgU6B7XFM7CW1QsY65FyZJD1l72VM3j1TSe4rSspRI0nF3AApy/QZTDu77jFJKKshGenfyAgkFa2AuBXcMPNvmWsGhV18NlpY7zZo6DHNVtJuTLW7ClguZyOy7MuTXAqUAaQxVJIpz/pQ6CY2FS7BjMul302H1xgZ5kRdPhHDBxkuDd+wrbYUcdQKYBaJHo9y3lItspCj2htDinmQTpiy+K5MfepMIj/cBBNTbEXRMCLGiv1dZ7jDh6dZA7ljtCT8ALN6y8G8b8qmQygMr1OQGjuVYOqnGLj49mhLQPo6bEIwEkuoWMk1tq2JMegggqFP+VzwrDbfjtbqcUMt16803L1pN7sZdXWmmyCtifNusMo8xs7KGkYfBldsNhMpWeC6sp43LlY=;bCt79n9W74VBvJcfQcJbsw=="
+secured: "FbSzkhF9pzKm10/Wm5Iz5Ynmasnqc0lEVkokjlnpbB2G/5Y3c5+Pp+ltCyVphgGi3IJH/gFlXCUj0LW5sWeODRyM49bPf9mWycmeBIRuiStx+AuKfy95cSbyLjyrSGFGBR1yR8pAmBtjzIsI44nBwuLMMAHqe6SPKmMgpiUam6ktyWRLqx51Iat5KgzZodwu5L9aI6fMd1KwlUGntiTbSN7Py8dWkiZwFzpAIDVrUkrcdxAQo17FTkjI36ydF7+BrFiBjXXjzT12hrIMODY9p+uraT+x8YmVFeIeWGB9Y+kfANnjgmXkrmnc4ZEXVNdDHz2QMVIlzM1O+4tuyHFKYAGvXz4149AaVtnE3SmMdeTHHvpUr9Q/u+F2vcvc9jVHFiW3lYEOwIk590u604vCW1sIA/f+56omkaqLZ5SvukGeThPQC2GddPlncGsHSd04CwFPhPLx8PABydvoTEmYYfKQ4U8gO8afBmwk8BHHimY=;1zxEp3mhdDd7p1dZR2lUzQ=="
 ---
 

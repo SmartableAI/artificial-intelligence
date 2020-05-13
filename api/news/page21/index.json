@@ -2,43 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-04-27-computer-vision-technology-provide-safety-improves-operation-efficiency-says-deltec-bank-bahamas.md",
-      "title": "Computer Vision Technology Provide Safety, Improves Operation Efficiency says Deltec Bank – Bahamas",
-      "excerpt": "Security is a major issue when dealing with financial information. That's why fintech companies are turning to computer vision to combat this problem and provide greater security for their customers.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15888714/computer-vision-technology-provide-safety-improves-operation-efficiency-says-deltec-bank-bahamas",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15888714",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15888714",
-      "publishedDateTime": "2020-04-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1587328009.jpeg",
-          "width": 3300,
-          "height": 2550,
-          "title": "Computer Vision Technology Provide Safety, Improves Operation Efficiency says Deltec Bank – Bahamas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-27-12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy.md",
       "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
       "excerpt": "MYCIN was an AI program developed at Stanford University in the early 1970s, designed to assist physicians by recommending treatments for certain infectious diseases.",
@@ -1028,6 +991,51 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-moneyball-medicine-data-driven-healthcare-transformation.md",
+      "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
+      "excerpt": "Thriving in the New Data-Driven Healthcare Market, author Harry Glorikian offers a prescription for how data and analytics will shape the future of healthcare delivery in the United States. We are all familiar with the Moneyball concept and how it transformed professional sports over the course of the past two decades – with an assist from Brad Pitt.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/",
+      "ampWebUrl": "https://www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/amp/",
+      "publishedDateTime": "2020-04-26T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1185375168%2F0x0.jpg",
+          "width": 1200,
+          "height": 567,
+          "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

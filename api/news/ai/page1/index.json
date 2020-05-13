@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-13-elon-musk-has-a-complex-relationship-with-the-ai-community.md",
+      "title": "Elon Musk has a complex relationship with the A.I. community",
+      "excerpt": "Elon Musk is one of the first investors in DeepMind, he helped set up the $1 billion OpenAI research lab, and he's often making comments about AI. WWIII, more dangerous than nukes, scariest problem: several people in the AI community told CNBC that they struggle to take Musk's AI comments seriously.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "publishedDateTime": "2020-05-13T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105773439-1551717349171rtx6p9uc.jpg?v=1551717410",
+          "width": 3986,
+          "height": 2657,
+          "title": "Elon Musk has a complex relationship with the A.I. community",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-artificial-intelligence-in-healthcare-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2019-2024.md",
       "title": "Artificial Intelligence In Healthcare Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2019-2024",
       "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
@@ -394,7 +439,7 @@
       "path": "_news/2020-05-12-waymo-raises-another-800-million-for-self-driving-cars.md",
       "title": "Waymo raises another $800 million for self-driving cars",
       "excerpt": "Waymo said Tuesday that it has raised another roughly $800 million for its self-driving technology, expanding the size of its first external investment round to $3 billion. Why it matters: With the coronavirus pandemic likely to speed consolidation among self-driving tech firms,",
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
@@ -431,7 +476,7 @@
       "path": "_news/2020-05-12-twitter-names-former-google-executive-to-its-board-to-boost-its-ai-chops.md",
       "title": "Twitter Names Former Google Executive to Its Board to Boost Its AI Chops",
       "excerpt": "Fei Li, the former Google executive, and Stanford professor is coming on board to help expand Twitter's use of AI on its platform.",
-      "heat": 98,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.fool.com/investing/2020/05/12/twitter-names-former-google-executive-to-its-board.aspx",
@@ -521,7 +566,7 @@
       "path": "_news/2020-05-12-facebook-deploys-ai-in-its-fight-against-hate-speech-and-misinformation.md",
       "title": "Facebook deploys AI in its fight against hate speech and misinformation",
       "excerpt": "The company has long sought to rein in the prevalence of hate speech spread on its site. Detecting hate speech is no easy feat. The company is even tackling hate memes.",
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/facebook-ai-hate-speech-covid-19-160037191.html",
@@ -559,7 +604,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1247,50 +1293,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-damien-patton-ceo-of-ai-surveillance-tool-banjo-resigns-after-kkk-neo-nazi-past-exposed.md",
-      "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
-      "excerpt": "News of the shift comes after OneZero re-surfaced newspaper reports from the 1990s which tied Patton to a fork of the Ku Klux Klan hate group and his involvement with a synagogue shooting.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339",
-      "ampWebUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
-      "publishedDateTime": "2020-05-12T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1589117/banjo.png",
-          "width": 1548,
-          "height": 1090,
-          "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

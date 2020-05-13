@@ -5,8 +5,8 @@ excerpt: "Global Artificial Intelligence and Machine Learning Industry Market Re
 publishedDateTime: 2020-05-13T07:29:00Z
 webUrl: "https://www.openpr.com/news/2043680/artificial-intelligence-and-machine-learning"
 type: article
-quality: 8
-heat: 8
+quality: 10
+heat: 10
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 secured: "aYkXyR8E3oogONbl/RX+oHG6VtZ98usljpuILXf6r0fM+jjLHwnaGpiFTMRTAqz3FCDoJjPe8fva74Xf2a16EqHZD3QJCjFCsudlSTTa9oLKXzCLoJdD2r4sfzHROt2LxdaBLu6dld5WXJvqL54z6lJfblEs9Vs8+MNnrQVD1+jWWWbCLKX7MK7GBXkbjNvDN3iQixqp8jxfbJF1+Yq71uUS/5D4LP/gpuHpDPKrRPN0xfXgxB+LEl1xmz5pQ9R+JPN5BjBH32bJNbGob08KNWz9VyyDrNJrpJKW1H86zxdHOcv6bFTtry1wcl5icO60;Zl/LP41SkUcFfFW2kgEaJw=="
 ---

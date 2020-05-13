@@ -51,7 +51,7 @@
       "path": "_news/2020-05-12-facebook-deploys-ai-in-its-fight-against-hate-speech-and-misinformation.md",
       "title": "Facebook deploys AI in its fight against hate speech and misinformation",
       "excerpt": "The company has long sought to rein in the prevalence of hate speech spread on its site. Detecting hate speech is no easy feat. The company is even tackling hate memes.",
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/facebook-ai-hate-speech-covid-19-160037191.html",
@@ -89,7 +89,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {

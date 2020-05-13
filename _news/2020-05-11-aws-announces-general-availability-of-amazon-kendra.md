@@ -17,6 +17,21 @@ topics:
   - AWS AI
   - AI
 
+related:
+  - title: "AWS launches Amazon Kendra, an ML powered enterprise search service"
+    excerpt: "AWS announced the general availability of Amazon Kendra, a highly accurate and easy to use enterprise search service powered by machine learning."
+    publishedDateTime: 2020-05-13T02:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/05/13/amazon-kendra/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 24
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093159/aws1.jpg"
+        width: 1280
+        height: 763
+
 secured: "yz35mBdF/ns7JJ5HSKwO7a9P6oGHcPMxAqHUDJ65DlOIBg6CyG4QfZ0Y+AdP0TMBkghTYHaTjyVO9I7yeSvypbqjmEr//UP/a394j3dms6Uu874qkQ2MZ7JrF9l0+4IDDBVX9R29hrfGQQRsaaS4sEM1lH/FSNxxS1Ky4eb5gWOuNtyTMvJ7YsywCmSzNWhtWArX/YZwPNJx0og3dLtWXop2byHGP0CS2xsNhWYB16M4AtkZNnBYoXKjIhas1O+Z/ii/xMaTLYvNiu8uvugp7iRLDRzXsDzvj5aPNhbZBNwyXhzR4RwjtFRJf+ERvkNw;BshJvc41ijRRi8wC3d28qA=="
 ---
 

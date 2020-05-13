@@ -2,51 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-05-08-deepmind-compares-the-way-children-and-ai-explore.md",
-      "title": "DeepMind compares the way children and AI explore",
-      "excerpt": "In a preprint paper, DeepMind researchers propose a paradigm for comparing the exploration behaviors of children and AI models.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
-      "publishedDateTime": "2020-05-08T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind compares the way children and AI explore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-08-artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement.md",
       "title": "Artificial Intelligence Technology Solutions Announces Health Screening Product Enhancement",
       "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK: AITX) is pleased to announce that Robotic Assistance Devices (RAD), its wholly owned",
@@ -1273,6 +1228,50 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-googles-read-along-taps-ai-to-improve-kids-reading-skills.md",
+      "title": "Google’s Read Along taps AI to improve kids’ reading skills",
+      "excerpt": "Google today launched Read Along, an app that uses speech recognition and natural language processing to provide kids feedback on their reading skills.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/amp/",
+      "publishedDateTime": "2020-05-07T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s Read Along taps AI to improve kids’ reading skills",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

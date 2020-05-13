@@ -2,51 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-04-29-would-you-give-up-some-security-if-face-unlock-worked-with-a-face-mask-on.md",
-      "title": "Would you give up some security if face unlock worked with a face mask on?",
-      "excerpt": "It’s the end of April 2020, and we’re all doing our best to adjust to the new normal of social distancing and wearing face masks wherever we go. Companies around the world are pivoting their business models to create face masks for those who need them.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/",
-      "ampWebUrl": "https://www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/amp/",
-      "publishedDateTime": "2020-04-29T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/03/Woman-wearing-facemask-1-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Would you give up some security if face unlock worked with a face mask on?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-29-googles-ai-attempts-to-predict-how-yeast-cell-genes-will-express-themselves.md",
       "title": "Google’s AI attempts to predict how yeast cell genes will express themselves",
       "excerpt": "Google’s work in AI and gene expression follows the publication of a study describing a “massively parallel reporter assay” (MPRA),” a framework designed to investigate DNA. The researchers claimed it could be used to create AI models that predict gene regulation for industrial and life science applications. An older work proposes a ...",
@@ -1237,6 +1192,50 @@
           "width": 4842,
           "height": 2952,
           "title": "UK start-ups have raised $825 million during virus lockdown, but fewer deals are being made",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-rise-of-the-machines-aiml-in-endpoint-protection.md",
+      "title": "Rise Of The Machines: AI/ML In Endpoint Protection",
+      "excerpt": "While AI/ML is no panacea for cyber threats we all face today, the rise of the machines has given us a powerful advantage in the never-ending battle against hackers and cybercriminals.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/amp/",
+      "publishedDateTime": "2020-04-29T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-50-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Rise Of The Machines: AI/ML In Endpoint Protection",
           "attribution": null
         }
       ],
