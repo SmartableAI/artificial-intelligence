@@ -7,7 +7,7 @@ webUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely
 ampWebUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/AP_19148851357453-e1589306268959.jpg?w=1024"
@@ -52,6 +53,6 @@ related:
         width: 800
         height: 500
 
-secured: "z0TwrwYik/poJoQk6UDVdbnplWpQkBCkCqDSQtAe8gx9wkuqXslkkiarJi0cCUcrVY4aFKjTV8Sc/Hv+tQXdV3sQM28V4jEVBVVHaQA3B6OhXh+48VN2jJWP3xr5wXAKAoqYuTEFSekHn6l4luVhBl8p3dMJkyIZvhLJICN2YaS9nTZUISzBd231qPNUpkMqex7zhPKFm9F8viWubnMMSLHbVoHa30k3N/WiXrejpK8TCpasFZiWAmZHfopdiOIdtxLHuZyXG7fsYDKfU3qOi1M8IKbppuKG44QWY/SE7afWnbM3++YZtvtFgoz5xUTl;oxJaexTlWZN/P+KUfnGC9g=="
+secured: "yHQUQXM/OcYqXmpgIO+iFyIL2ckp4R8AZbVia7UNCv+z97+59e+9hoZ8DQHHf5dLEIspEtmnkrsMljGQnHXMJPXbi9X9RoGXC9gx8yveHaqb5hmUIzz3gDR07C0qKiQW7xgIUFlezdYzVO406/t/4qF4IU2CIaxAZAbqIAot78bn5JCxl/wMTt7rSCYr44IWMlWMAON5AGRUXIZB+sjMicCpOQMeU+P4GsfSQnIhfM75gRocCYwaNFDlGiUhTXk/JzUQXBBP8g785zs02NDT2qzOMIn55HPrLqSQ8R213XvQR0S+dwkT55N+KMib54CLCJzIw6cDG9/0S5C7C1Y6GUiFMBapLhXMxfTrz6pdqTLm/le2HjjdrqCh4ljc4742gOhITPmxpnNU2fWAUVp0/hTo17KCpe/MzMJLvnZt4lvyn9wy/VrJeyNEE6xcBxIG8n3KKHflJ+o5QWwg/5E0DKttt0geL0Bceffi1FE+zxs=;d7ssGbHZgIAMRluRqYU7DQ=="
 ---
 

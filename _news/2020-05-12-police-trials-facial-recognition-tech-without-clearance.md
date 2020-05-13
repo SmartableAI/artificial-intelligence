@@ -27,20 +27,20 @@ images:
 
 related:
   - title: "Police trialled facial recognition tech without clearance"
-    excerpt: "Police would not say what they used Clearview AI for in the trial, or who had access to it. Clearview, which has been used in the US to solve everything from mailbox thefts to cas"
-    publishedDateTime: 2020-05-12T22:24:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/police-trialled-facial-recognition-tech-without-clearance"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxMyUyRnBvbGljZS10cmlhbGxlZC1mYWNpYWwtcmVjb2duaXRpb24tdGVjaC13aXRob3V0LWNsZWFyYW5jZQ=="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxMyUyRnBvbGljZS10cmlhbGxlZC1mYWNpYWwtcmVjb2duaXRpb24tdGVjaC13aXRob3V0LWNsZWFyYW5jZQ=="
+    excerpt: "The police's high tech crime unit handling the technology appears to have not sought the necessary clearance before trialling it."
+    publishedDateTime: 2020-05-12T19:32:00Z
+    webUrl: "https://www.rnz.co.nz/news/national/416483/police-trialled-facial-recognition-tech-without-clearance"
+    ampWebUrl: "https://amp.rnz.co.nz/article/af504dcc-60a1-4740-b633-3cd419c727e4"
+    cdnAmpWebUrl: "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/af504dcc-60a1-4740-b633-3cd419c727e4"
     type: article
     provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
+      name: rnz
+      domain: rnz.co.nz
     quality: 59
     images:
-      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/13/eight_col_F802.jpg?w=700&h=393.75&fit=crop&auto=format"
-        width: 700
-        height: 394
+      - url: "https://www.rnz.co.nz/assets/news_crops/59711/eight_col_F802.jpg?1529543726"
+        width: 720
+        height: 450
   - title: "NZ police conducted Clearview AI facial recognition trial"
     excerpt: "RNZ has learned that police conducted a trial of a controversial facial recognition software without telling their new boss or talking to the Privacy Commissioner. American software firm Clearview AI is used by hundreds of police departments in the United States."
     publishedDateTime: 2020-05-12T19:37:00Z

@@ -33,7 +33,7 @@ related:
   - title: "AI helped Facebook crack down on 68% more hate posts in Q1"
     excerpt: "COVID-19 has put a crimp in the company’s human-moderator operation, but it says that its algorithms are getting better at targeting harmful content."
     publishedDateTime: 2020-05-12T22:00:00Z
-    webUrl: "https://www.fastcompany.com/90504188/ai-helped-facebook-crack-down-on-68-more-hate-posts-in-q1?partner=feedburner"
+    webUrl: "https://www.fastcompany.com/90504188/ai-helped-facebook-crack-down-on-68-more-hate-posts-in-q1?partner=rss"
     type: article
     provider:
       name: Fast Company

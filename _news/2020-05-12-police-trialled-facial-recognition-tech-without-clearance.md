@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Police trialled facial recognition tech without clearance"
-excerpt: "Police would not say what they used Clearview AI for in the trial, or who had access to it. Clearview, which has been used in the US to solve everything from mailbox thefts to cas"
-publishedDateTime: 2020-05-12T22:24:00Z
-webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/police-trialled-facial-recognition-tech-without-clearance"
-ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxMyUyRnBvbGljZS10cmlhbGxlZC1mYWNpYWwtcmVjb2duaXRpb24tdGVjaC13aXRob3V0LWNsZWFyYW5jZQ=="
-cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxMyUyRnBvbGljZS10cmlhbGxlZC1mYWNpYWwtcmVjb2duaXRpb24tdGVjaC13aXRob3V0LWNsZWFyYW5jZQ=="
+excerpt: "The police's high tech crime unit handling the technology appears to have not sought the necessary clearance before trialling it."
+publishedDateTime: 2020-05-12T19:32:00Z
+webUrl: "https://www.rnz.co.nz/news/national/416483/police-trialled-facial-recognition-tech-without-clearance"
+ampWebUrl: "https://amp.rnz.co.nz/article/af504dcc-60a1-4740-b633-3cd419c727e4"
+cdnAmpWebUrl: "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/af504dcc-60a1-4740-b633-3cd419c727e4"
 type: article
 quality: 59
 heat: 99
 published: true
 
 provider:
-  name: TVNZ 1
-  domain: tvnz.co.nz
+  name: rnz
+  domain: rnz.co.nz
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/13/eight_col_F802.jpg?w=700&h=393.75&fit=crop&auto=format"
-    width: 700
-    height: 394
+  - url: "https://www.rnz.co.nz/assets/news_crops/59711/eight_col_F802.jpg?1529543726"
+    width: 720
+    height: 450
     title: "Police trialled facial recognition tech without clearance"
 
 related:
@@ -81,6 +81,6 @@ related:
         width: 1420
         height: 798
 
-secured: "VnPPdgPuZvbszItm39HXQOaSUItWQWkrtQZtYAjMIEShPf5q0d+zGgtDfkrUBaEXn/LiIdVTGFqzMdFEUmkDiP3z9dN9RbrCLlhw8kBMyj1fTpt4n1rCUyITagLNXjaxAnxEsmqWrVV6BDfDOvbuOwM70Z3E8MXMoufldvxSaNpRKuFEOKotmt4OqctvOQM//1KBvr8V0ccyExQzMUv6SDI0tyh4U0O5cffhvl/wmY0T2xwaAO4Z8tPqvWlL0oy7+9JHZoctI2sORXuvrYb5JSq8SYUdo9XvjKbaMy+0P4a+I14U3fn1mlzURgjvDk8y5FrcVhzzaFFUjNCJ5e6Oav2vgx3xvUAbbpARvZ5NuwUuiias1DUk4plYFEjHnt+rcbqKqmS6UNdS2RLb77q4XoLxPZFE+9A2wZg77WhEz5bD+L6Ues2cEjFDGFLMxTPcI2yFS8ImP6FfuY+1kp1YRoDaQH9UG1RKfyG1tZJ598k=;RcLQiCgo6PL2n3tHusO6tg=="
+secured: "Xewz0sX/tC4LY17w6TkfaThuS5tYSEsOhYwUgp0lrxCr0Pyji0nKu7Aq0YiYJRx+HoonUlDM8WSeFYPT1LwAmu0MkNvLcsGD5ATmzVrs7uWiw8HXYH1sDb+L2IwlTk5ooQ5npKotlVteninbpFR8gQt1mBj6p4lJsY2Z9SpS8GzuYrWShpSUKWHOXoFV2JZ16rbPOvS26bc0yKCMnv0t/px4ccx3n7VdPapHuEdwvOatxgK0rOJb0aI1QhP7rbT8JXGXHAhFrkJ3OTNlXYlz2BPcmUj5DCwNF+bt/3pWTdsbf+o/9TijkCIbs1xn68V6;MpnekX6jLda16QtaKIkJKg=="
 ---
 

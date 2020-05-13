@@ -31,6 +31,19 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/reionization-header-image.fw_-405x228.png"
         width: 405
         height: 228
+  - title: "Inspur’s Open AI, Computing and Networking Innovations Driving Adoption of Total Open Solutions"
+    excerpt: "Inspur, a leading data center and AI full-stack solutions provider, today revealed its latest Open Computing innovations that continue to advance open computing systems. Offerings include an OCP Cloud Optimized Rack Solution for SAP HAHA workloads."
+    publishedDateTime: 2020-05-13T03:56:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200512005995/en/Inspur’s-Open-AI-Computing-Networking-Innovations-Driving"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: "https://mms.businesswire.com/media/20200512005995/en/791322/23/inspur_logo.jpg"
+        width: 1200
+        height: 627
 
 secured: "ft9uN0amv47yQmhGl/HtknqAfw54DIz9zm31W7cWzy/Yiqec0iYltysyd/xqBzuZ5W07TskbHXSHXDAJ0M/MhTX9/js0Vc52sb/dJiysRsqbV16d9UZv9napgo+bJiq66NYl+9P93bAHHlutO7pcXqhRShAzdcKq0qxyIChKDfpyvrRUOEa7YJUsCkOS7E7qKK7qLvBLxzKw/maB0KHadm9I+h1qAl3qJfbCBWyTeujYsr7YOq3X7tPwQUyxQSYXVwRquG72scrX39OovRdhaArURSDppmRkcTpSSt/T3VIV3sMlW+Z+eolxRAwBJSVc;leC9IC43H6VJ4ZIYVjrXBg=="
 ---
