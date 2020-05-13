@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/11/the-station-uber-has-a-taste-for-l
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired/amp/"
 type: article
 quality: 73
-heat: 74
+heat: 73
 published: true
 
 provider:

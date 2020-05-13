@@ -8,8 +8,8 @@ ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/05/police-trials-fac
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/05/police-trials-facial-recognition-tech-without-clearance.amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newshub
@@ -26,6 +26,34 @@ images:
     title: "Police trials facial recognition tech without clearance"
 
 related:
+  - title: "Police trialled facial recognition tech without clearance"
+    excerpt: "Police would not say what they used Clearview AI for in the trial, or who had access to it. Clearview, which has been used in the US to solve everything from mailbox thefts to cas"
+    publishedDateTime: 2020-05-12T22:24:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/police-trialled-facial-recognition-tech-without-clearance"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxMyUyRnBvbGljZS10cmlhbGxlZC1mYWNpYWwtcmVjb2duaXRpb24tdGVjaC13aXRob3V0LWNsZWFyYW5jZQ=="
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxMyUyRnBvbGljZS10cmlhbGxlZC1mYWNpYWwtcmVjb2duaXRpb24tdGVjaC13aXRob3V0LWNsZWFyYW5jZQ=="
+    type: article
+    provider:
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 59
+    images:
+      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/13/eight_col_F802.jpg?w=700&h=393.75&fit=crop&auto=format"
+        width: 700
+        height: 394
+  - title: "NZ police conducted Clearview AI facial recognition trial"
+    excerpt: "RNZ has learned that police conducted a trial of a controversial facial recognition software without telling their new boss or talking to the Privacy Commissioner. American software firm Clearview AI is used by hundreds of police departments in the United States."
+    publishedDateTime: 2020-05-12T19:37:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018746240/nz-police-conducted-clearview-ai-facial-recognition-trial"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 54
+    images:
+      - url: "https://www.rnz.co.nz/assets/news_crops/96617/eight_col_83755442_l.jpg?1582059547"
+        width: 720
+        height: 450
   - title: "NZ Police trialled facial recognition tech without clearance"
     excerpt: "Police conducted a trial of controversial facial recognition software without consulting their own bosses or the Privacy Commissioner. The American firm Clearview AI's system, which is used by hundreds of police departments in the United States and several other countries,"
     publishedDateTime: 2020-05-12T21:04:00Z

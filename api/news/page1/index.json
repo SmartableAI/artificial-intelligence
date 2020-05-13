@@ -2,10 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-12-facebooks-ai-for-hate-speech-improves-how-much-is-unclear.md",
+      "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
+      "excerpt": "The company says algorithms flagged almost 90 percent of the hate speech it removed in the first quarter. But it doesn't report how much slipped through.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/",
+      "ampWebUrl": "https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-ai-hate-speech-improves-unclear/amp",
+      "publishedDateTime": "2020-05-12T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ebac50348074637267906e8/master/pass/Biz-emptyoffice-157752805.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-police-trialled-facial-recognition-tech-without-clearance.md",
+      "title": "Police trialled facial recognition tech without clearance",
+      "excerpt": "Police would not say what they used Clearview AI for in the trial, or who had access to it. Clearview, which has been used in the US to solve everything from mailbox thefts to cas",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tvnz.co.nz/one-news/new-zealand/police-trialled-facial-recognition-tech-without-clearance",
+      "ampWebUrl": "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxMyUyRnBvbGljZS10cmlhbGxlZC1mYWNpYWwtcmVjb2duaXRpb24tdGVjaC13aXRob3V0LWNsZWFyYW5jZQ==",
+      "cdnAmpWebUrl": "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxMyUyRnBvbGljZS10cmlhbGxlZC1mYWNpYWwtcmVjb2duaXRpb24tdGVjaC13aXRob3V0LWNsZWFyYW5jZQ==",
+      "publishedDateTime": "2020-05-12T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TVNZ 1",
+        "domain": "tvnz.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/13/eight_col_F802.jpg?w=700&h=393.75&fit=crop&auto=format",
+          "width": 700,
+          "height": 394,
+          "title": "Police trialled facial recognition tech without clearance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech.md",
       "title": "Facebook upgrades its AI to better tackle COVID-19 misinformation and hate speech",
       "excerpt": "Facebook’s AI tools are the only thing standing between its users and the growing onslaught of hate and misinformation the platform is experiencing. The company’s researchers have cooked up a few new capabilities for the systems that keep the adversary at bay,",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/",
@@ -79,43 +161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-police-trials-facial-recognition-tech-without-clearance.md",
-      "title": "Police trials facial recognition tech without clearance",
-      "excerpt": "The police's high tech crime unit handling the technology appears to have not sought the necessary clearance before trialling it.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2020/05/police-trials-facial-recognition-tech-without-clearance.html",
-      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2020/05/police-trials-facial-recognition-tech-without-clearance.amp.html",
-      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/05/police-trials-facial-recognition-tech-without-clearance.amp.html",
-      "publishedDateTime": "2020-05-12T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newshub",
-        "domain": "newshub.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newshub.co.nz/home/new-zealand/2020/05/police-trials-facial-recognition-tech-without-clearance/_jcr_content/par/image.dynimg.768.q75.jpg/v1589311495907/new-zealand-police-generic-badge-CREDIT-NEWSHUB-1120.jpg",
-          "width": 768,
-          "height": 438,
-          "title": "Police trials facial recognition tech without clearance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -324,6 +369,51 @@
           "width": 1400,
           "height": 933,
           "title": "How Facebook is using AI to combat COVID-19 misinformation and detect ‘hateful memes’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-facebook-is-using-more-ai-to-detect-hate-speech.md",
+      "title": "Facebook is using more AI to detect hate speech",
+      "excerpt": "Facebook reported large gains in AI used for hate speech detection and announced the launch of the $100,000 Hateful Memes challenge for AI researchers.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/12/facebook-is-using-more-ai-to-detect-hate-speech/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/hateful-memes-challlenge.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook is using more AI to detect hate speech",
           "attribution": null
         }
       ],
@@ -716,6 +806,44 @@
       ]
     },
     {
+      "path": "_news/2020-05-12-artificial-intelligence-cracks-quantum-chemistry-conundrum.md",
+      "title": "Artificial Intelligence Cracks Quantum Chemistry Conundrum",
+      "excerpt": "Machine learning techniques accurately calculate the energy required to make — or break — simple molecules. A new machine learning tool can calculate the energy required to make — or break — a molecule with higher accuracy than conventional methods.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/",
+      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/",
+      "publishedDateTime": "2020-05-12T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Tetrahedral-Electronic-Distribution-Water-Molecule-777x435.jpg",
+          "width": 777,
+          "height": 435,
+          "title": "Artificial Intelligence Cracks Quantum Chemistry Conundrum",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-simaai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution.md",
       "title": "SiMa.ai announces $30M Series A to build out lower-power edge chip solution",
       "excerpt": "Krishna Rangasayeem, founder and CEO, at SiMa.ai, has 30 years of experience in the semiconductor industry. He decided to put that experience to work in a startup and launched SiMa.ai last year with the goal of building an ultra low-power software and chip solution for machine learning at the edge.",
@@ -936,133 +1064,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-cheat-sheet-a-comprehensive-guide-to-ai-terminology.md",
-      "title": "Cheat sheet: A comprehensive guide to AI terminology",
-      "excerpt": "Despite that, there is a lack of consistency in how many AI concepts are discussed, not just at the STEM education level, but in popular entertainment, science writing, and even at times in scientific journals.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/amp/",
-      "publishedDateTime": "2020-05-12T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Cheat sheet: A comprehensive guide to AI terminology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-aws-launches-machine-learning-based-enterprise-search-service.md",
-      "title": "AWS launches machine learning-based enterprise search service",
-      "excerpt": "Amazon Web Services (AWS) has announced the general availability of Amazon Kendra, a machine learning-based search service for organisations with large datasets. Kendra enables businesses to index all of their internal data sources,",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355612/aws-launches-machine-learning-based-enterprise-search-service",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355612/aws-launches-machine-learning-based-enterprise-search-service?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355612/aws-launches-machine-learning-based-enterprise-search-service?amp",
-      "publishedDateTime": "2020-05-12T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1585738240/itpro/AWSApyGlass.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "AWS launches machine learning-based enterprise search service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year.md",
-      "title": "AI-Brain-Chip Neuralink To Be Implanted in Human Brain Within a Year",
-      "excerpt": "Speaking on on Joe Rogan's latest podcast, the billionaire said the device could one day fix \"anything that is wrong with the brain\".",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://dailytimes.com.pk/611147/ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year/",
-      "ampWebUrl": "https://dailytimes.com.pk/611147/ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/611147/ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year/amp/",
-      "publishedDateTime": "2020-05-12T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/05/12/neuralink-brain-implants.jpg",
-          "width": 600,
-          "height": 349,
-          "title": "AI-Brain-Chip Neuralink To Be Implanted in Human Brain Within a Year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

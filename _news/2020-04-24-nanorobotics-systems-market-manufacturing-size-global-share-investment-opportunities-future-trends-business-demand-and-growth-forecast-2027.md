@@ -1,13 +1,10 @@
 ---
 category: news
 title: "Nanorobotics Systems Market - Manufacturing Size, Global Share, Investment Opportunities, Future Trends, Business Demand and Growth Forecast 2027"
-excerpt: "Nanorobotics is an evolving technology arena that creates robots or machines which have components near to the scale of a"
-publishedDateTime: 2020-04-24T17:49:00Z
-webUrl: "https://www.marketwatch.com/press-release/nanorobotics-systems-market---manufacturing-size-global-share-investment-opportunities-future-trends-business-demand-and-growth-forecast-2027-2020-04-24"
+excerpt: "Apr 24, 2020 Xherald -- Nanorobotics is an evolving technology arena that creates robots or machines which ... However, emergence of mind-controlled nanorobots and development of swarm ..."
+publishedDateTime: 2020-04-24T18:11:00Z
+webUrl: "https://www.marketwatch.com/press-release/nanorobotics-systems-market---manufacturing-size-global-share-investment-opportunities-future-trends-business-demand-and-growth-forecast-2027-2020-04-24?mod=mw_quote_news"
 type: article
-quality: 47
-heat: 47
-published: false
 
 provider:
   name: MarketWatch
@@ -27,6 +24,6 @@ images:
     height: 630
     title: "Nanorobotics Systems Market - Manufacturing Size, Global Share, Investment Opportunities, Future Trends, Business Demand and Growth Forecast 2027"
 
-secured: "8pwq8waVALLqioXnnJUbBqhuuookWoDd7twJXTFmYAISG9HwUYCJeaSeHodBiLY8cPtgt0fytBCcf3kwVO4Crs3LO4jOz9ok3os69xwGa0+EGw1cFIMflM+1bda3RN6kZkdBz5aLCGYBkPj6AtveEIWIeq5J+mNwHerxnZ5sHhPAKGTHDk1yd25qf+kGl8iaJsKsQUwT8VzLHqli/WZkofZHTDtIBe6VxAgR0YQgGwA3/KSDP32tO7ao/IVOBZN5FU5BfVO9XUlUgvJfeTSp2xtuGO2dmji7JvuN+PGFR5Wj1WwFC6Qc84/HXXZR+WKn;3AMO/kU+5hcmOnh/elYCyw=="
+secured: "JWwrS8crs2lfqyFiQQvSbr04kstlIsb7LOjOGzgIxWCssSBQMy3EvS8sqAXYUowEuBwr89Tx3/Ad2DIUWpOuYxEAAbUFnTQ2toxcIKhkvt5HnLEIdLa80FxIHgB7fD7peZlE0QOorfa/SVYHf0Z/TjnbsBINch0lVfD0DoWVPudk2VbqQSKQEDP+wyz0XfQiY+lGSqernKTyn2+1sFCkIqx44iMg1lCr/iFrUi8Fo/siKGMhKUrC2vVtN5ViH8XU6NVzQ6xgBMbiCHHB5U7PkpNxZQWhPXvtYyS0qTtM1AmpSzB/9rkefve57sk3vijP;rgLaL5JGMBefktr1ZwvMhg=="
 ---
 

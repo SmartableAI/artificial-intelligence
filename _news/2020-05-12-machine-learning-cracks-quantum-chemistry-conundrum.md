@@ -30,7 +30,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://scitechdaily.com/images/Tetrahedral-Electronic-Distribution-Water-Molecule-777x435.jpg"
         width: 777

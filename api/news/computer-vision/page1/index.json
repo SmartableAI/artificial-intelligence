@@ -2,30 +2,30 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-05-12-police-trials-facial-recognition-tech-without-clearance.md",
-      "title": "Police trials facial recognition tech without clearance",
-      "excerpt": "The police's high tech crime unit handling the technology appears to have not sought the necessary clearance before trialling it.",
-      "heat": 79,
+      "path": "_news/2020-05-12-police-trialled-facial-recognition-tech-without-clearance.md",
+      "title": "Police trialled facial recognition tech without clearance",
+      "excerpt": "Police would not say what they used Clearview AI for in the trial, or who had access to it. Clearview, which has been used in the US to solve everything from mailbox thefts to cas",
+      "heat": 99,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2020/05/police-trials-facial-recognition-tech-without-clearance.html",
-      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2020/05/police-trials-facial-recognition-tech-without-clearance.amp.html",
-      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/05/police-trials-facial-recognition-tech-without-clearance.amp.html",
-      "publishedDateTime": "2020-05-12T12:41:00-07:00",
+      "webUrl": "https://www.tvnz.co.nz/one-news/new-zealand/police-trialled-facial-recognition-tech-without-clearance",
+      "ampWebUrl": "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxMyUyRnBvbGljZS10cmlhbGxlZC1mYWNpYWwtcmVjb2duaXRpb24tdGVjaC13aXRob3V0LWNsZWFyYW5jZQ==",
+      "cdnAmpWebUrl": "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxMyUyRnBvbGljZS10cmlhbGxlZC1mYWNpYWwtcmVjb2duaXRpb24tdGVjaC13aXRob3V0LWNsZWFyYW5jZQ==",
+      "publishedDateTime": "2020-05-12T15:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newshub",
-        "domain": "newshub.co.nz",
+        "name": "TVNZ 1",
+        "domain": "tvnz.co.nz",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.newshub.co.nz/home/new-zealand/2020/05/police-trials-facial-recognition-tech-without-clearance/_jcr_content/par/image.dynimg.768.q75.jpg/v1589311495907/new-zealand-police-generic-badge-CREDIT-NEWSHUB-1120.jpg",
-          "width": 768,
-          "height": 438,
-          "title": "Police trials facial recognition tech without clearance",
+          "url": "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/13/eight_col_F802.jpg?w=700&h=393.75&fit=crop&auto=format",
+          "width": 700,
+          "height": 394,
+          "title": "Police trialled facial recognition tech without clearance",
           "attribution": null
         }
       ],
@@ -42,7 +42,7 @@
       "path": "_news/2020-05-11-vochi-the-computer-vision-based-video-editing-and-effects-app-raises-15m-seed.md",
       "title": "Vochi, the ‘computer vision’-based video editing and effects app, raises $1.5M seed",
       "excerpt": "Vochi, a startup operating out of Belarus that’s created a “computer vision”-based video editing and effects app for mobile phones, has raised $1.5 million in seed funding. Leading the round is Ukraine-based Genesis Investments (backer of BetterMe and Jiji).",
-      "heat": 99,
+      "heat": 98,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/11/vochi/",

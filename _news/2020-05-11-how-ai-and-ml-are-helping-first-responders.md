@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

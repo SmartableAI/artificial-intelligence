@@ -25,6 +25,6 @@ images:
     height: 657
     title: "Self Driving Water Taxis: Buffalo Automation speaks to our Inventive Past"
 
-secured: "A6uVtBNZjxfc1Zq/PsVWM16bvnMO35nKRGdJluTJBR2MUVheWCaDcmE7IkWFEZ0Wt3FMFBPpUItWtPMTPiejP2CoVJYRWPgT0WEvT0Ut2jmvN5r8Q2KPDB+MMc9NSEVnWmQvF9RMWcU9U4DfRchy1xzgX78h3oQaI7IsbBRICHuF+fBTOEQiSDpgGUpof46uHwzZEgAbSiEaRarfQXAqO/OiIdkG/lku/umASiGw5jydtXFQwVlo50yfIFd6wHGdO6/rkGgjXidOf4QM5GQLLhS9z/d4odRcOXqp7bP9o2s9BuIyM74AP0zjb+F8qNYl;G1C/M8N5fF6YO2/7YmDkew=="
+secured: "pvaaSrDZoye+PrOSxP9m5ulWjh7gCOfGoJmrLAxIByBbGWEDwABSeNylKNiLUUISOBXt+A+ecMP/AZrR+DZF0okH/MeYv4Ys3nwm4EqecF6QtmCySXYvENNycoqLBGaDKGkZbz5INzpN9tlMHT5+zbG5r8NxCLjS7LdODj1lrl3L9vb2gKgdyCD/AUF0bGFbCV+UttyOdAGabFmA6vW+dstICQ+fu8QSJ22az/QcDHc9c1Nj75joO4V9r+iP831QU0l1oqRWcvXhyB3jLzH8BHst+GOZ2EKC+zZErqQQqTOn/qicjwJ79toGLcuhHU+fSsHG4OMxhWvUoSV8cFvjSjW3QeuxNggZ1UU6l01ukw8JbD5hyoqKy9PphgiQqjZehbqO52D6BVNrH+95hDYtwikNJ7JTC5ahhRxpiHBxRBpFAe9JT6TAUXdBcTMbgkbqPoCWhkNARWMCGKprrFIjoDZGsh+IN/R5xT8FhoRJ4w4=;S53cVHbvkoDtTEekYNf/mQ=="
 ---
 

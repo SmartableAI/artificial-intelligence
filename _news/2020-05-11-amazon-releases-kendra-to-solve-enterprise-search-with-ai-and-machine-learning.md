@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-en
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     width: 1024
     height: 649
     title: "Amazon releases Kendra to solve enterprise search with AI and machine learning"
+
+related:
+  - title: "Amazon Releases AI-Based Enterprise Search Solution"
+    excerpt: "Kendra, which utilizes machine learning, will be useful for enterprises looking to index internal data sources and make them searchable."
+    publishedDateTime: 2020-05-12T17:00:00Z
+    webUrl: "https://www.cfo.com/technology/2020/05/amazon-releases-ai-based-enterprise-search-solution/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 37
+    images:
+      - url: "https://cdn.cfo.com/content/uploads/2020/05/GettyImages-1149809222.jpg"
+        width: 594
+        height: 396
 
 secured: "V6LigEaT2Sw2uZrE4Ih7dv9NP3gi7r6ZHctOUQRTozzPGPR3BRoxaEXL4Bfrt46HWNazO1giDDtbaGOOqtb1eXsC5Fte5OOx+XmZpoiNQUv4xbdcKCNnig+xawlMsPMZr5BCjTXc21e6UcZfx0lzf7bABKFcEuCkya+QxqB50olK43Yk1kZccbNf3vvC7wrOJFCYdKgFxm19/H65On1E8DTD2LtZHAJN560/Ej9rDGlDaxxtF8uHc0xkTnWCQpdDXFU1rMj5JC0vLpCVfl2/sfiPEcjMR+mYo17kdFgNfTC03QeiL0gZ7+bT2e0zWMHe;abGQ+hDo30QWy2kRG2XXOg=="
 ---

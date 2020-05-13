@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/11/vochi/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/vochi/amp/"
 type: article
 quality: 98
-heat: 99
+heat: 98
 published: true
 
 provider:

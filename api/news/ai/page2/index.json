@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-11-brazilian-founder-features-in-global-ranking-of-female-ai-leaders.md",
+      "title": "Brazilian founder features in global ranking of female AI leaders",
+      "excerpt": "Karla Capela is the only Latin American appearing on the list of artificial intelligence shapers released by IBM",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
+      "publishedDateTime": "2020-05-11T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/05/12/58e755f4-da25-4d63-93c1-d2b9a7f1a0cc/thumbnail/1200x675/54f9de3d1e16af385d53687195a630d0/storage.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Brazilian founder features in global ranking of female AI leaders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning.md",
+      "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
+      "excerpt": "Enterprise search has always been a tough nut to crack. The holy grail has always been to operate like Google, but in-house. You enter a few keywords and you get back that nearly perfect response at the top of the list of the results.",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2020-05-11T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/AWS-Logo.jpg?w=1024",
+          "width": 1024,
+          "height": 649,
+          "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans.md",
+      "title": "Fiat Chrysler and AV startup Voyage partner on self-driving minivans",
+      "excerpt": "Self-driving vehicle startup Voyage said Monday that it has inked a deal with Fiat Chrysler to supply purpose-built vehicles, a partnership that will help accelerate its plan to launch a fully driverless ride-hailing service.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/11/fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/11/fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans/amp/",
+      "publishedDateTime": "2020-05-11T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/voyage.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Fiat Chrysler and AV startup Voyage partner on self-driving minivans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-ceo-of-softbank-backed-startup-banjo-resigns-after-hidden-neo-nazi-past-surfaces.md",
       "title": "CEO of SoftBank-backed startup Banjo resigns after hidden neo-Nazi past surfaces",
       "excerpt": "The state of Utah suspended a $20 million contract with Banjo after CEO Damien Patton's hidden neo-Nazi past was unearthed last month.",
@@ -614,7 +751,7 @@
       "path": "_news/2020-05-11-how-ai-and-ml-are-helping-first-responders.md",
       "title": "How AI and ML are helping first responders",
       "excerpt": "Artificial intelligence and machine learning are helping firefighters, police officers, and EMS medics respond to emergencies and save lives.",
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/how-ai-and-ml-are-helping-first-responders/",
@@ -875,7 +1012,7 @@
       "path": "_news/2020-05-11-the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired.md",
       "title": "The Station: Uber has a taste for Lime, Tesla drama, Moovit gets acquired",
       "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hi and welcome back to The Station, I’m your host Kirsten Korosec,",
-      "heat": 74,
+      "heat": 73,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/11/the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired/",
@@ -1002,7 +1139,7 @@
       "path": "_news/2020-05-11-vochi-the-computer-vision-based-video-editing-and-effects-app-raises-15m-seed.md",
       "title": "Vochi, the ‘computer vision’-based video editing and effects app, raises $1.5M seed",
       "excerpt": "Vochi, a startup operating out of Belarus that’s created a “computer vision”-based video editing and effects app for mobile phones, has raised $1.5 million in seed funding. Leading the round is Ukraine-based Genesis Investments (backer of BetterMe and Jiji).",
-      "heat": 99,
+      "heat": 98,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/11/vochi/",
@@ -1165,139 +1302,6 @@
           "width": 5309,
           "height": 3539,
           "title": "Finding success and competitive differentiation through carefully planned AI implementation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6.md",
-      "title": "What Are The Best Big Data Cloud Storage Providers? Here Are The Top 6",
-      "excerpt": "The amounts of data organizations accumulate is growing exponentially. This means we need to find the right place to store the data. In this article, we look at the best cloud storage providers for your big data.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/11/what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/11/what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/11/what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6/amp/",
-      "publishedDateTime": "2020-05-10T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb8d364e33df900063dfc40%2F0x0.jpg",
-          "width": 1200,
-          "height": 776,
-          "title": "What Are The Best Big Data Cloud Storage Providers? Here Are The Top 6",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-monash-university-researchers-use-ai-technology-to-examine-hospital-readmissions.md",
-      "title": "Monash University researchers use AI technology to examine hospital readmissions",
-      "excerpt": "Researchers from Monash University have undertaken a study using artificial intelligence (AI) to understand the reasons behind hospital readmissions. According to the university, the study involved using AI technology to examine 10 years' worth of patient records.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-use-ai-technology-to-examine-hospital-readmissions/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-use-ai-technology-to-examine-hospital-readmissions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-use-ai-technology-to-examine-hospital-readmissions/",
-      "publishedDateTime": "2020-05-10T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2013/11/13/ba035051-4c63-11e3-90a0-0291187ef9b6/thumbnail/1200x675/635e48b6fd8caa407250956c6594274b/toronto-lake-flickr.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Monash University researchers use AI technology to examine hospital readmissions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-10-why-the-way-you-talk-about-artificial-intelligence-needs-to-change.md",
-      "title": "Why The Way You Talk About Artificial Intelligence Needs To Change",
-      "excerpt": "What happens if we don't fix the hype around AI? Is it possible to quantify issues caused by technological terminology misuse? All this and more is asked and answered in Gemma Milne's 'Smoke + Mirrors\" - out now.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/paularmstrongtech/2020/05/10/the-way-you-talk-about-ai-needs-to-change-or-were-all-doomed/",
-      "ampWebUrl": "https://www.forbes.com/sites/paularmstrongtech/2020/05/10/the-way-you-talk-about-ai-needs-to-change-or-were-all-doomed/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paularmstrongtech/2020/05/10/the-way-you-talk-about-ai-needs-to-change-or-were-all-doomed/amp/",
-      "publishedDateTime": "2020-05-10T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea9e569228117000681cfa6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1691%26cropY1%3D561%26cropY2%3D1513",
-          "width": 1200,
-          "height": 676,
-          "title": "Why The Way You Talk About Artificial Intelligence Needs To Change",
           "attribution": null
         }
       ],

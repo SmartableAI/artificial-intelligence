@@ -42,6 +42,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
+      "title": "Artificial intelligence can’t technically invent things, says patent office",
+      "excerpt": "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/",
+      "ampWebUrl": "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/",
+      "cdnAmpWebUrl": "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/",
+      "publishedDateTime": "2020-04-30T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://fox59.com/wp-content/uploads/sites/21/2020/04/GettyImages-1176548169.jpg?w=1024&h=720&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Artificial intelligence can’t technically invent things, says patent office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-roborock-s6-maxv-review-the-robot-vacuum-for-pet-owners.md",
       "title": "Roborock S6 MaxV review: The robot vacuum for pet owners",
       "excerpt": "The Roborock S6 MaxV adds dual cameras and a Qualcomm chipset to its tried-and-tested mop and vacuum capabilities.",
@@ -379,6 +416,51 @@
         "IBM AI",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-nanorobotics-systems-market-manufacturing-size-global-share-investment-opportunities-future-trends-business-demand-and-growth-forecast-2027.md",
+      "title": "Nanorobotics Systems Market - Manufacturing Size, Global Share, Investment Opportunities, Future Trends, Business Demand and Growth Forecast 2027",
+      "excerpt": "Apr 24, 2020 Xherald -- Nanorobotics is an evolving technology arena that creates robots or machines which ... However, emergence of mind-controlled nanorobots and development of swarm ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/nanorobotics-systems-market---manufacturing-size-global-share-investment-opportunities-future-trends-business-demand-and-growth-forecast-2027-2020-04-24?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Nanorobotics Systems Market - Manufacturing Size, Global Share, Investment Opportunities, Future Trends, Business Demand and Growth Forecast 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1139,88 +1221,6 @@
           "width": 615,
           "height": 384,
           "title": "AI, robotics start-ups leverage tools to combat Covid-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-kebotix-raises-115-million-to-automate-lab-experiments-with-ai-and-robotics.md",
-      "title": "Kebotix raises $11.5 million to automate lab experiments with AI and robotics",
-      "excerpt": "Kebotix, a startup developing AI tools to expedite the discovery of chemicals ... Perhaps unsurprisingly, in a recent survey of 100 pharmaceutical executives, Pharma IQ found that 94% believe intelligent automation technologies like robots and AI will make an impact on lab practices within two years. “In a short period, Kebotix has managed ...",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/",
-      "publishedDateTime": "2020-04-16T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/7e0fd2ea-d4bb-4524-8980-e9a4a4bc93d3-e1586978829363.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Kebotix raises $11.5 million to automate lab experiments with AI and robotics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-roboads-develops-new-robots-to-aid-healthcare-security-staff.md",
-      "title": "RoboAds develops new robots to aid healthcare, security staff",
-      "excerpt": "UAE based Robotics startup, RoboAds Inc, has developed a new generation of telepresence robots to ... The robot utilises the latest advancements in AI, machine learning, digital signage and video analytics. It can analyse the number of visitors, age, gender and emotions. RoboAds team, the company said, is dedicated towards developing advanced ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/business/story/RoboAds_develops_new_robots_to_aid_healthcare_security_staff-SNG_172484541/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_172484541/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_172484541/",
-      "publishedDateTime": "2020-04-16T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "RoboAds develops new robots to aid healthcare, security staff",
           "attribution": null
         }
       ],

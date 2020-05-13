@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Foxconn Partners With Socionext and Hailo to Launch Next-generation AI Processing Solution for Video Analytics at the 'Edge'"
-excerpt: "A new generation of chips means a new generation of capabilities at the edge.\" The next generation of the BOXiedge AI computing solution is equipped with applications for a broader market relying on low latency, a high data rate, high reliability, and quick processing at the edge. Smart retail and smart cities, for instance, require ..."
-publishedDateTime: 2020-05-12T20:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/foxconn-partners-with-socionext-and-hailo-to-launch-next-generation-ai-processing-solution-for-video-analytics-at-the-edge-301057562.html"
+excerpt: "Foxconn, a global leader in smart manufacturing, is joining Socionext, a major provider of advanced SoC solutions for video and"
+publishedDateTime: 2020-05-12T20:13:00Z
+webUrl: "https://www.prnewswire.com/il/news-releases/foxconn-partners-with-socionext-and-hailo-to-launch-next-generation-ai-processing-solution-for-video-analytics-at-the-edge-301057562.html"
 type: article
 quality: 12
 heat: 12
@@ -23,6 +23,6 @@ images:
     height: 1414
     title: "Foxconn Partners With Socionext and Hailo to Launch Next-generation AI Processing Solution for Video Analytics at the 'Edge'"
 
-secured: "ZQMrS4IIqAdyJEr9TFHH9gVSI8by6ZNArhy661NRcIdkQODC417UotFhKIkvly8/pnYsWtUZ23KLiPsDBNzUZ0GbLGdxE56rmoscUatuGn3lpJp/Hpz/5Q3anm92bcVhiWd5nszFPhHfduAd+IgZNpFXAZfRjwX+X9csm21Jr1Sp57qEKhfb/T6HH3PYE9Wv101GsOOEbnjhjObSOMQKVLg55PkwVj9JAHeGOKttiMdLOGGTQyHt1wABCOy8FbhI0ZFr/Fjx0Jbl/u8aQe7tcqsJfoUU3Va0gjHgJ7vKRquAAoUYGv51lM7W+6nJ5Dl4;vu8c/IHE6Q8mizZRmpnumQ=="
+secured: "nDRylcki0unvjp1qzTjZUDtP7D7pM2t9zUA9ggSjI0zKHiazzYiC9W20y+d6IJSjkkBUwQEWxiXK80voyD+o0wk18YXONIdqd4q2GxghM5bBkhsR+3ihmT50CNaZly+OukA7FO+7XwzisF9dTDMhUcnY5VU6Xn2I8CWj1qWDgUfuAD8Q+2mCeTuZKen2L1EefJN/8qTpIcqX2RC5KeQGt7b5/YdAbXyrVbgOy1CgfK9nw8WDuj+NR/tX6BParIqpOnr4feGWwuQEnR9yO2t1jS9llldee1Gq03gWqseN1/Xm7HBX7yW9E7es9U6Mbbbk;F9bnR19ac4zRxBZ6dwZd6Q=="
 ---
 

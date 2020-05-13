@@ -1,22 +1,24 @@
 ---
 category: news
-title: "Cerence launches Cerence ARK Assistant—a turnkey automotive voice assistant—in U.S. English"
-excerpt: "Cerence ARK Assistant provides OEMs the ability to quickly develop, deploy and manage an automotive voice assistant without sacrificing the performance, flexibility and breadth of capabilities that Cerence is known for."
-publishedDateTime: 2020-05-12T14:22:00Z
-webUrl: "https://www.automotiveworld.com/news-releases/cerence-launches-cerence-ark-assistant-a-turnkey-automotive-voice-assistant-in-u-s-english/"
+title: "Cerence Launches Cerence ARK Assistant—a Turnkey Automotive Voice Assistant—in U.S. English"
+excerpt: "Cerence Inc. (NASDAQ:CRNC), AI for a world in motion, today introduced Cerence ARK Assistant, a new turnkey automotive"
+publishedDateTime: 2020-05-12T12:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/05/g16009301/cerence-launches-cerence-ark-assistant-a-turnkey-automotive-voice-assistant-in-u-s-english"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16009301"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16009301"
 type: article
-quality: 0
-heat: 0
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Automotive World
-  domain: automotiveworld.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "fz6f8C5Z1i2c1dOMcdMt1iahqdp/gwxk6noJDUBaRVhKgkUdt7ohM61OkuqR59/gzWoHZE9QODSJTHdAgbr2hu+k59LKmXhJvhPfj2vijJIgiQDL4U492S8hsAtp0s9Ur7IFS0kUANCISM7A8CSPTFoiqTP6cR/yCzfk8DBaIAh0uYweT/krCUSHuKJoka+YbOkN/36vpXRD+LSTPTyGJDqGA40nI/D+53SAoQDbfDfMmLOWJc/t48bBAPlZAwNJkvzTepKh8oxO6leQZqv+ZEhMFr05YcqKyWon27jg495jxJgzOKQjCxNOiAdwUHSF;KDM7nhCowkSeYdcyDva7tw=="
+secured: "Lo1EoVDbpGgN4FOTCaaUKmS7Yy3HayFpVoCa0kB9PhE+7NeNSx/2ZsEiBN6sl1Dd8/qw0SvNrGbtXFRAsrP5aliWxUljRFtjDUZbRtNRlyoiBW3VXotnOQXuuZp7kZns7ZdtzPAB/xVzi6HVHFj2QtFURJbR8mEdWWakyMTJzHpVFaTHkknX69lAjkOZARj0iv4MTzPNIKOkRja8M6NNT6pYgMl7LCC8XiOoqDTDhP38MKotaeRKa9v9TfURPSYKt8B+TXXIfK1pw/p98USobq47I+Sp2QcPVl10U/jvLcNwgpWoBh3jR7tgV8/YPYAQ;p7fochPRAVqoRR+KphM6Vw=="
 ---
 

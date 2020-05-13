@@ -7,9 +7,9 @@ webUrl: "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemist
 ampWebUrl: "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: SciTech Daily
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - IBM AI
+  - Machine Learning
 
 images:
   - url: "https://scitechdaily.com/images/Tetrahedral-Electronic-Distribution-Water-Molecule-777x435.jpg"
@@ -38,6 +39,6 @@ related:
       domain: phys.org
     quality: 39
 
-secured: "lCmD+uHG+izM+0IQZfzkIHkCtM2YHaGLlhvF46u9t+PYNTmEsags9Yc3zLQ/G7XCEdLM88mHjNhPNBT7hOuKx8LSmqc10TBPvQEaqQOR8jMZBpDuUzxf2yurLZ1XMxRMKdB42QCheak547OB0uN700GjtBQBpTTxFlalQsgCbgIKhMQNwGwIiwwb28S/3drEi8++KIxo0jBalc8DIcIFM/qE1isy8eEVJY/yqh8WbL+o+zps8tKD6MdPgvuaDo9HNFCxKptVoe0pLCgjnfer9KsOvTzb5ssl17utrauwQKnQ9HEMBM0aB9YDrPTI3v/c;2a7UDBYJiY0HXzOaawq41w=="
+secured: "yZquFYER9aXV0giBq0znz4hn+jWBJBq1vpb32UbV54hkIcckrS7DExemXVKIvSxouiR4eyAfNnCkS+ugx88V2upR3iKSuLrufToAI8DrDFm7rjOCuk/d1+U70H2KGXqax5JGjPUJpJD88oZviMpha3MZO8ydt7bmbuXp7elCAaUzKKgaOtTRrOQrXJkKs2MrwkRF/EnpQ2e82jlnxxve6DZkgbtb6S3H0sb0Qj7I6pJPM4TYx5Q5Ydg/4nWj5B1EZ1ElWeSurdhcaLttG20Se5JSZxfaZAjWMbuHDj6l6KEdnoJ9OXwsnqMVJ1a6Z1mJnvc9GZRsAhu/SAQIOhTn+KGP3Xv5AKf6ZDKYh/hHAhzI7m5atXTRmqXdHvzwzC8h/VOWbTvJqSUQROiPfHJXnv62JFoLC5HlaRyy2RB10G8wz5kb03BUE2+mv/i2Ub6IkhzDIasy5Vrx1A8CMqVdGhUQIrVq+fGuinZ5L2p5i9A=;opMHW7kL9NRE+rA94V/7PA=="
 ---
 
