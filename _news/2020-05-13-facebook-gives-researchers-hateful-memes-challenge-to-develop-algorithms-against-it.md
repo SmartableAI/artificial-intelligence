@@ -8,7 +8,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/130520/
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/130520/facebook-gives-researchers-hateful-memes-challenge-to-develop-al.html"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/28/11/fb-1.jpg"
         width: 2048
         height: 1536
-  - title: "TECH BREAK: Facebook trains AI on 'hateful memes'"
-    excerpt: "Facebook said it was releasing the database to researchers as part of a \"hateful memes challenge\" to develop improved algorithms to detect hate-driven visual messages, with a prize pool of $100,000. \"These efforts will spur the broader AI research community to test new methods,"
-    publishedDateTime: 2020-05-13T11:17:00Z
-    webUrl: "https://www.nation.co.ke/lifestyle/-Facebook-trains-AI-on-hateful-memes/1190-5551346-hkqocq/index.html"
-    type: article
-    provider:
-      name: Daily Nation
-      domain: nation.co.ke
-    quality: 39
-    images:
-      - url: "https://www.nation.co.ke/image/view/-/5551454/medRes/2614855/-/sneh6az/-/CYBERBULLYING3.jpg"
-        width: 425
-        height: 262
   - title: "Facebook throws open ‘hateful memes’ challenge for researchers to develop algorithms to tackle it"
     excerpt: "The social media giant is leaning on AI to filter out objectionable content as the coronavirus has sidelined most of its human moderators"
     publishedDateTime: 2020-05-13T11:26:00Z

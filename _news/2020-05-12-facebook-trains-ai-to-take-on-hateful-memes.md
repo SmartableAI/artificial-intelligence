@@ -24,34 +24,47 @@ images:
     title: "Facebook trains AI to take on ‘hateful memes’"
 
 related:
-  - title: "Facebook is using more AI to detect hate speech"
-    excerpt: "Facebook reported large gains in AI used for hate speech detection and announced the launch of the $100,000 Hateful Memes challenge for AI researchers."
-    publishedDateTime: 2020-05-12T16:07:00Z
-    webUrl: "https://venturebeat.com/2020/05/12/facebook-is-using-more-ai-to-detect-hate-speech/"
+  - title: "Facebook trains artificial intelligence on ‘hateful memes’"
+    excerpt: "Facebook said it made a commitment to \"disrupt\" organised hateful conduct using artificial intelligence. Here's how."
+    publishedDateTime: 2020-05-13T17:30:00Z
+    webUrl: "https://www.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
+    ampWebUrl: "https://amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
+    cdnAmpWebUrl: "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 71
+      name: richest
+      domain: thesouthafrican.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/05/hateful-memes-challlenge.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-  - title: "Facebook’s AI is still largely baffled by covid misinformation"
-    excerpt: "In its latest Community Standards Enforcement Report, released today, Facebook detailed the updates it has made to its AI systems for detecting hate speech and disinformation. The tech giant says 88.8% of all the hate speech it removed this quarter was detected by AI,"
-    publishedDateTime: 2020-05-13T02:12:00Z
-    webUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/"
-    ampWebUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
+      - url: "https://gcs.thesouthafrican.com/2020/05/7764b0a6-facebook-ai-scaled.jpeg"
+        width: 2560
+        height: 1707
+  - title: "TECH BREAK: Facebook trains AI on 'hateful memes'"
+    excerpt: "Facebook said it was releasing the database to researchers as part of a \"hateful memes challenge\" to develop improved algorithms to detect hate-driven visual messages, with a prize pool of $100,000. \"These efforts will spur the broader AI research community to test new methods,"
+    publishedDateTime: 2020-05-13T11:17:00Z
+    webUrl: "https://www.nation.co.ke/lifestyle/-Facebook-trains-AI-on-hateful-memes/1190-5551346-hkqocq/index.html"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: Daily Nation
+      domain: nation.co.ke
+    quality: 39
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/AP_19148851357453-e1589306268959.jpg?w=1024"
+      - url: "https://www.nation.co.ke/image/view/-/5551454/medRes/2614855/-/sneh6az/-/CYBERBULLYING3.jpg"
+        width: 425
+        height: 262
+  - title: "Facebook Trains AI On 'Hateful Memes'"
+    excerpt: "Facebook unveiled an initiative Tuesday to take on \"hateful memes\" by using artificial intelligence, backed by crowd sourcing, to identify maliciously motivated posts. The leading social network said it had already created a database of 10,"
+    publishedDateTime: 2020-05-12T20:54:00Z
+    webUrl: "https://www.ibtimes.com/facebook-trains-ai-hateful-memes-2974956"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/12/facebook-said-it-is-refining-its-artificial-intelligence.jpg"
         width: 1024
-        height: 575
+        height: 709
 
 secured: "jtmkVhhNUIrMFkknxLkvWgsCem7P5S0Ca/M9SaoR1TXMSDS5mH65EtTuqlRPcnq+mqE0R327INhyLBueeDDKc5bMeYMOSQhKQ/v5q5IiRIoEi7L5ZamR/xm0sU0wZFakt6Auhz0/f2hGwQEA6P5ZzhNsSEwGLX+jI7UQv6QH309B8OqVqZSByFtFS6ZGdlZdo5O1d+AnChoCpi27Q/Wbg60SdsN3NfwuE0djgu2ZP/BF7cAnNnEFkbd2Q9d2kGYPTrrT43ibe9g/CORq/k062SJS/zDZdxViP9JXRbkkVyGb4CupnCmodo8x/R85ygCXDpbNEnhVKqT6JVpUYsZ4b8LwWnmJtn45TiNJ6bq6sdiQSdkaqsyLZ8/HtqLRvSuZDB9VYwtt/gCjMBZpVVrVWiDOwQfPAEAUZfMjAPA7wxozkP0WabryyJFRpr9Z5VKqFCxDldeXWyo1irrOKY3zXzeJor7MD0cEfzqx0lhXRzU=;ngq4N68Q77UmVQLy3npnRw=="
 ---

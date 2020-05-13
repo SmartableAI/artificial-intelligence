@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-12T16:07:00Z
 webUrl: "https://venturebeat.com/2020/05/12/facebook-is-using-more-ai-to-detect-hate-speech/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/AP_19148851357453-e1589306268959.jpg?w=1024"
         width: 1024
         height: 575
-  - title: "Facebook trains AI to take on ‘hateful memes’"
-    excerpt: "Facebook said it was releasing the database to researchers as part of a “hateful memes challenge” to develop improved algorithms to detect hate-driven visual messages, with a prize pool of US$100,000."
-    publishedDateTime: 2020-05-12T23:28:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/05/13/facebook-trains-ai-to-take-on-hateful-memes/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 39
-    images:
-      - url: "https://s3media.freemalaysiatoday.com/wp-content/uploads/2018/10/facebook-logo-bloomberg1310.jpg"
-        width: 800
-        height: 500
 
 secured: "jRtCy7vjdqi9IJjxAEFXwkc8BQHDFBHlnSAhtW2gwXuKu5Im4xtxahJK9XzOYJRPPy2Erg/axtOtw75Zfn24LiXlNN6w4Z3W5O07Ox4WfRMfSvJ+JcW9O+P10rWBjD9nHHnu6PQUKTQDLbeBJMrh1nDg1TSa+c5q2HJ8BqwyWr9QnJ3+HsJ8xioLvFlNsgGRqFGo5eYPjVosGz1VQceatRXvPnKzEBO8qPP10SRv7igVz/C07B1Ojs+k/piD//PDg08JoQBP5eFDUBs/ZnvPCx90ZvVoXeTCTy+M4RXtBHMkzqTHu357Q1CpXzQe1QrgZGsww9U6ZyqUy5YSfuIWrIXi8UfzTrwmn4HZcpOkbtyP/fVSwI6sE+hi1QtcBWtMdEilBFL+1EjX0JY4nQjOtVZz49FUKyVHYRbfTZSBY9YIeppdUC5Ie0Bix1FTdcb53tg1wU80yqUZsDNJeg6FNpQDho0vBbt56/qNDck+JvA=;OxtkmsKW6rKAL6XO44QtYg=="
 ---

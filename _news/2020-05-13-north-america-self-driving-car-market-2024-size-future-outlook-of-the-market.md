@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T15:42:00Z
 webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-2024-size-future-outlook-of-the-market-2020-05-13"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "North America Self-driving Car Market 2024 Size, Future Outlook of the Market"
 
 related:
+  - title: "North America Self-driving Car Market 2018-2023|Share, Growth, Top Manufacturers"
+    excerpt: "Middle East and Africa self-driving car market A self-driving car also known as the driverless car or an autonomous car,"
+    publishedDateTime: 2020-05-13T17:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-2018-2023share-growth-top-manufacturers-2020-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "North America Self-driving Car Market 2018-2024 :Size, Future Outlook of the Market"
     excerpt: "May 13, 2020 (AmericaNewsHour) -- North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a"
     publishedDateTime: 2020-05-13T15:42:00Z

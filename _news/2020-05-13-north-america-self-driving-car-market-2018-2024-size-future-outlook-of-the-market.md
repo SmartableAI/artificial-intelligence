@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "North America Self-driving Car Market 2018-2023|Share, Growth, Top Manufacturers"
+    excerpt: "Middle East and Africa self-driving car market A self-driving car also known as the driverless car or an autonomous car,"
+    publishedDateTime: 2020-05-13T17:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-2018-2023share-growth-top-manufacturers-2020-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Latin America Self-driving Car Market 2024:Overview and scope, Industry Outlook, Size & Forecast"
     excerpt: "May 13, 2020 (AmericaNewsHour) -- Latin America self-driving car market A self-driving car, also known as the driverless car or an autonomous car or"
     publishedDateTime: 2020-05-13T15:32:00Z

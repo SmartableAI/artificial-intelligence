@@ -54,19 +54,6 @@ related:
       - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/28/11/fb-1.jpg"
         width: 2048
         height: 1536
-  - title: "TECH BREAK: Facebook trains AI on 'hateful memes'"
-    excerpt: "Facebook said it was releasing the database to researchers as part of a \"hateful memes challenge\" to develop improved algorithms to detect hate-driven visual messages, with a prize pool of $100,000. \"These efforts will spur the broader AI research community to test new methods,"
-    publishedDateTime: 2020-05-13T11:17:00Z
-    webUrl: "https://www.nation.co.ke/lifestyle/-Facebook-trains-AI-on-hateful-memes/1190-5551346-hkqocq/index.html"
-    type: article
-    provider:
-      name: Daily Nation
-      domain: nation.co.ke
-    quality: 39
-    images:
-      - url: "https://www.nation.co.ke/image/view/-/5551454/medRes/2614855/-/sneh6az/-/CYBERBULLYING3.jpg"
-        width: 425
-        height: 262
 
 secured: "nV0uSshcI4ZMqEK7I8/7hh5DdPwWn7Cbh9UAawAuUUO0ax4yMzu+PrHv+V9reU3w4iOoiHgiggHG93Z7g0A7hwCVamai2kZegrtsJaU7cXFwCMtwK/mvM6UmhNpgC2NDVuai1ovlVUJC7FsEyFR6mzLCNVT2KTR/Fkcpu0UfZO47QFdNvXowJm2tCTDP0H8foVizIlkYM6JS68No1oCvcyJZtri/me6qonQP3A2KkaPlolLzdi3m95r3LxGuxjB+VtP6hfvKQbm9sVVUAuE8a4Licvuy94JS30lJXOGP9Mq6NBQu5OAFnIpO4y3+JV4o;0/owYGHcP5DLC5k2nGjeNQ=="
 ---

@@ -24,49 +24,47 @@ images:
     title: "TECH BREAK: Facebook trains AI on 'hateful memes'"
 
 related:
-  - title: "Facebook gives researchers ‘hateful memes’ challenge to develop algorithms against it"
-    excerpt: "The social media giant is leaning on AI to filter out objectionable content as the coronavirus has sidelined most of its human moderators"
-    publishedDateTime: 2020-05-13T11:08:00Z
-    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/130520/facebook-gives-researchers-hateful-memes-challenge-to-develop-al.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/130520/facebook-gives-researchers-hateful-memes-challenge-to-develop-al.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/130520/facebook-gives-researchers-hateful-memes-challenge-to-develop-al.html"
+  - title: "Facebook trains artificial intelligence on ‘hateful memes’"
+    excerpt: "Facebook said it made a commitment to \"disrupt\" organised hateful conduct using artificial intelligence. Here's how."
+    publishedDateTime: 2020-05-13T17:30:00Z
+    webUrl: "https://www.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
+    ampWebUrl: "https://amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
+    cdnAmpWebUrl: "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 52
+      name: richest
+      domain: thesouthafrican.com
+    quality: 74
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200513163445.Medi.jpeg"
-        width: 800
-        height: 448
-  - title: "Facebook wants to build a 'hateful meme' AI to clean up its platform"
-    excerpt: "Computers find it difficult to read text and images simultaneously as humans do, so the social media giant is hoping to develop an algorithm that can manage the feat"
-    publishedDateTime: 2020-05-13T08:52:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-ai-meme-competition-hate-speech-mark-zuckerberg-a9511606.html"
+      - url: "https://gcs.thesouthafrican.com/2020/05/7764b0a6-facebook-ai-scaled.jpeg"
+        width: 2560
+        height: 1707
+  - title: "Facebook trains AI to take on ‘hateful memes’"
+    excerpt: "Facebook said it was releasing the database to researchers as part of a “hateful memes challenge” to develop improved algorithms to detect hate-driven visual messages, with a prize pool of US$100,000."
+    publishedDateTime: 2020-05-12T23:28:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/05/13/facebook-trains-ai-to-take-on-hateful-memes/"
     type: article
     provider:
-      name: Independent
-      domain: independent.co.uk
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 39
     images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/28/11/fb-1.jpg"
-        width: 2048
-        height: 1536
-  - title: "Facebook throws open ‘hateful memes’ challenge for researchers to develop algorithms to tackle it"
-    excerpt: "The social media giant is leaning on AI to filter out objectionable content as the coronavirus has sidelined most of its human moderators"
-    publishedDateTime: 2020-05-13T11:26:00Z
-    webUrl: "https://www.asianage.com/technology/in-other-news/130520/facebook-throws-open-hateful-memes-challenge-for-researchers-to-develop-algorithms-to-tackle-it.html"
-    ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/130520/facebook-throws-open-hateful-memes-challenge-for-researchers-to-develop-algorithms-to-tackle-it.html"
-    cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/130520/facebook-throws-open-hateful-memes-challenge-for-researchers-to-develop-algorithms-to-tackle-it.html"
+      - url: "https://s3media.freemalaysiatoday.com/wp-content/uploads/2018/10/facebook-logo-bloomberg1310.jpg"
+        width: 800
+        height: 500
+  - title: "Facebook Trains AI On 'Hateful Memes'"
+    excerpt: "Facebook unveiled an initiative Tuesday to take on \"hateful memes\" by using artificial intelligence, backed by crowd sourcing, to identify maliciously motivated posts. The leading social network said it had already created a database of 10,"
+    publishedDateTime: 2020-05-12T20:54:00Z
+    webUrl: "https://www.ibtimes.com/facebook-trains-ai-hateful-memes-2974956"
     type: article
     provider:
-      name: The Asian Age
-      domain: asianage.com
-    quality: 31
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200513165418.Medi.jpeg"
-        width: 800
-        height: 448
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/12/facebook-said-it-is-refining-its-artificial-intelligence.jpg"
+        width: 1024
+        height: 709
 
 secured: "i03txo4njQJI8Mn953OBlLE3EBPF0gmPj0QvzV1f1nhMJA508q0hx6Midfm09bHV4TBgKXbKOnqv3ntsfwdMuwfzYC/a0lVuH+qiRb2n9kOAgDTX2lzSuTBUezAO8RigJ6s4JEkeJXPIRwn6vz/xT1lRpndkTSa3iA9vmXYXJEyQwxEJIlRsPmh6I7WF4BbmsE/tus1iYES4ARQ/ylboSjF8eCNpWJjjWNYnbbH94JPAdJRWDJnopHmfUEthX7xgV3KtlSBJ6oNcPVadvQS7VpPUFA2Ofyi/t05yySPL8R9tXS9v1neE8sSXfMOXcw7W36cRDuIB1CXrb0h6vc7qOkwS7TAF0AA+9TD0pT2QZ3ag5F8UsMOlQ7a5wYteWhFqdCMLkxC7Xhp8XcbtWauuLED4D1hMbnxmVbDwW0b3m9nZR83OhQcmU4LUsKW/R82yEUBh4S3xx9fIe/BJQQT7tTqys2wD0dbGVbBuW93ru6c=;9U1zo/gJ+9Ot5poa15UaZw=="
 ---

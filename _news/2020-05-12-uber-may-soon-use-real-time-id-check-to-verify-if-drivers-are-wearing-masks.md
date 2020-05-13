@@ -8,7 +8,7 @@ ampWebUrl: "https://m.hindustantimes.com/tech/uber-may-soon-use-real-time-id-che
 cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/uber-may-soon-use-real-time-id-check-to-verify-if-drivers-are-wearing-masks/story-oPITbChtVnTp4WtBcNkjkJ_amp.html"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,19 @@ topics:
   - AI
 
 related:
+  - title: "Uber rolls out AI to verify drivers are wearing face masks"
+    excerpt: "Uber has begun rolling out an AI system to its app that checks whether drivers are wearing masks. It's intended to help prevent the spread of COVID-19."
+    publishedDateTime: 2020-05-13T17:49:00Z
+    webUrl: "https://venturebeat.com/2020/05/13/uber-rolls-out-ai-to-verify-drivers-are-wearing-face-masks/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
   - title: "Uber may soon use 'Real-Time ID Check' to verify if drivers are wearing masks"
     excerpt: "Real-Time ID Check is a safety feature that will periodically ask drivers to take a selfie with the Uber app. These selfies are then crosschecked through Microsoft's Cognitive Services to confirm the driver's identity. The feature was implemented for rider's security and now, it might be used for something more amidst the COVID-19 pandemic."
     publishedDateTime: 2020-05-11T15:56:00Z

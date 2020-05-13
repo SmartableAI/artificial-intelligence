@@ -18,6 +18,19 @@ topics:
   - AI
 
 related:
+  - title: "Uber rolls out AI to verify drivers are wearing face masks"
+    excerpt: "Uber has begun rolling out an AI system to its app that checks whether drivers are wearing masks. It's intended to help prevent the spread of COVID-19."
+    publishedDateTime: 2020-05-13T17:49:00Z
+    webUrl: "https://venturebeat.com/2020/05/13/uber-rolls-out-ai-to-verify-drivers-are-wearing-face-masks/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
   - title: "Uber may soon use ‘Real-Time ID Check’ to verify if drivers are wearing masks"
     excerpt: "Uber is making it compulsory for drivers and riders in certain countries to wear face masks as it is on the cusp to start functioning again."
     publishedDateTime: 2020-05-12T12:00:00Z
