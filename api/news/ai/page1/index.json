@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-13-kite-brings-its-ai-powered-code-completion-to-javascript.md",
+      "title": "Kite brings its AI-powered code completion to JavaScript",
+      "excerpt": "Originally for Python only, Kite has added a JavaScript-trained machine learning model to its add-on for popular code editors and IDEs",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3543276/kite-brings-its-ai-powered-code-completion-to-javascript.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3543276/kite-brings-its-ai-powered-code-completion-to-javascript.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3543276/kite-brings-its-ai-powered-code-completion-to-javascript.amp.html",
+      "publishedDateTime": "2020-05-13T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/robot_workforce_workers_artificial_intelligence_ai_thinkstock_905028734-100749936-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Kite brings its AI-powered code completion to JavaScript",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-confetti-koalas-and-candles-of-love-backstage-at-eurovisions-ai-song-contest.md",
       "title": "Confetti, koalas, and candles of love: Backstage at Eurovision’s AI song contest",
       "excerpt": "Huang was joined on the jury panel by Ed Newton-Rex, the founder of AI composer startup Jukedeck, and Vincent Koops ... Collins and Carlise suggested holograms and robots, but the best reply came from their son: dancing guitars. His answer exposed the one thing about Eurovision that the AI contest couldn’t replicate: spectacular live ...",
@@ -50,7 +94,7 @@
       "path": "_news/2020-05-13-uber-rolls-out-ai-to-verify-drivers-are-wearing-face-masks.md",
       "title": "Uber rolls out AI to verify drivers are wearing face masks",
       "excerpt": "Uber has begun rolling out an AI system to its app that checks whether drivers are wearing masks. It's intended to help prevent the spread of COVID-19.",
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/05/13/uber-rolls-out-ai-to-verify-drivers-are-wearing-face-masks/",
@@ -87,7 +131,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -124,6 +169,50 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-uber-will-require-everyone-to-wear-masks-starting-monday-and-is-using-ai-to-enforce-the-rules.md",
+      "title": "Uber will require everyone to wear masks starting Monday — and is using AI to enforce the rules",
+      "excerpt": "The company will require drivers to upload selfies with their face coverings in order to enforce the rules.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/uber-require-face-masks-may-18-ai-enforcement-coronavirus-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/uber-require-face-masks-may-18-ai-enforcement-coronavirus-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-require-face-masks-may-18-ai-enforcement-coronavirus-2020-5?amp",
+      "publishedDateTime": "2020-05-13T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ebc2ccafc593d14a14c0353?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber will require everyone to wear masks starting Monday — and is using AI to enforce the rules",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -306,43 +395,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-13-finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure.md",
-      "title": "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure",
-      "excerpt": "Finxact, an emerging leader in Core-as-a-Service banking, today announced that it has completed a replatforming initiative to support its financial institution clients on Microsoft Azure. Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure.",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-1029197121",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-1029197121",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-1029197121",
-      "publishedDateTime": "2020-05-13T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-13-amazon-ec2-inf1-instances-now-support-amazon-sagemaker.md",
       "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
       "excerpt": "Patrick Moorhead gives an update with Amazon's team that has been busy with customers, optimizing and adding capabilities, some of the Inferentia and EC2 Inf1 instance leads.",
@@ -384,6 +436,51 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure.md",
+      "title": "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure",
+      "excerpt": "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating digital transformation,",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-2020-05-13?mod=mw_quote_news&tesla=y",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1210,88 +1307,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-microsoft-deepens-partnership-with-redis-to-improve-capabilities-of-azure-cache-for-redis.md",
-      "title": "Microsoft deepens partnership with Redis to improve capabilities of Azure Cache for Redis",
-      "excerpt": "Microsoft and Redis Labs today announced a major partnership to bring native integration between Redis Labs technology and Azure cloud. As part of this partnership, Redis Enterprise is now available as two new tiers of Azure Cache for Redis.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mspoweruser.com/microsoft-azure-cache-for-redis/",
-      "ampWebUrl": "https://mspoweruser.com/microsoft-azure-cache-for-redis/amp/",
-      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-cache-for-redis/amp/",
-      "publishedDateTime": "2020-05-12T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSPoweruser",
-        "domain": "mspoweruser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mspoweruser.com/wp-content/uploads/2020/05/Redis-Enterprise-for-Azure-Cache.jpg",
-          "width": 1663,
-          "height": 945,
-          "title": "Microsoft deepens partnership with Redis to improve capabilities of Azure Cache for Redis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-sony-just-teamed-up-with-a-robot-avatar-company-with-big-ambitions.md",
-      "title": "Sony just teamed up with a robot avatar company with big ambitions",
-      "excerpt": "Sony and remotely-controlled robot startup Avatarin are teaming up to make telepresence avatars smarter, borrowing tech from Aibo and more. It’s the latest move by the freshly-founded Sony",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/",
-      "ampWebUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
-      "publishedDateTime": "2020-05-12T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/avatarin-robot-avatar.jpg",
-          "width": 1502,
-          "height": 1063,
-          "title": "Sony just teamed up with a robot avatar company with big ambitions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

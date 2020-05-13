@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Shield AI Recognized As One of World's Most Innovative Companies"
-excerpt: "Shield AI, the technology company focused on utilizing its innovative AI technology to safeguard the lives of military service members and first responders while in harm's way, today expressed its gratitude to Fast Company for naming the startup as one of the \"World's Most Innovative Companies\" for 2020."
-publishedDateTime: 2020-05-08T10:13:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/shield-ai-recognized-as-one-of-world-s-most-innovative-companies-1029181402"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/shield-ai-recognized-as-one-of-world-s-most-innovative-companies-1029181402"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/shield-ai-recognized-as-one-of-world-s-most-innovative-companies-1029181402"
+excerpt: "Fast Company praises tech startup for developing pioneering AI technology for use in conflict zones SAN DIEGO (PRWEB) Shield AI, the technology company focused"
+publishedDateTime: 2020-05-08T10:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/05/p15986951/shield-ai-recognized-as-one-of-worlds-most-innovative-companies"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15986951"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15986951"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "f2AMKGWHRv8sKQZDUc7VOR6wx8yYUYW2kTDs//hakf5/fCAyT3siMJ/iEXWix1JP+M4bo95rgopTbvZbiainkmDPMzZh6yYnaMUt7BbKlhLlsMp3ZfAZi9VJXTBThMXQHCPDHqN1Qh5/Oupp8iEeRuzU/2v9KHVxKpA9RY28CbAdhcIDxa0LCIeKx7KL8bIw91jleF9ozw1rdG3Ro6bJ64MO60gG34OxxXMoluc6OlmJrAfNWdLiRoz/DH6QAYLdi+fZJwfCARdzDfX3WI6Hjg+8aU2KMqRpMmHirPo6CshBwR17vO3qLSLt5Cr3QMVN;lxyUmIBrlLYPPK2MjhFlCQ=="
+secured: "TqUJ6TLYejpCYfZkMuJS9WfhBkGbmXC+vDMU1xv+rx4dCmljRp9jT9znjMtS284gXXewh336un+ituFwJiFVQC+VrX/FxwgQbXk8K1HNJe3LstnjG/6F7lrE9vWAJhP0n9CdnJU34DwI2fzkdMk8Uo4o2LVZl60RLt+knOViVD5YnDv9Ut9OmH03YQOd6T2s+kS3JpQ1UAMA0eBPZ4t3wZMpXJIY8R5lU4pWzwIzZuZiu2Dyi+pdNzXlIYFYGBBORq5zUgxmaTU3JVuQVUvFHjm5tByiDWWJhz4netFovB5aDRBQMVTcFG/opmvVbFrl;6TLy/4IJtLVC4C476Xb+6A=="
 ---
 

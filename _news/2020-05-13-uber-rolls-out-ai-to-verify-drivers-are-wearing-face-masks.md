@@ -5,8 +5,8 @@ excerpt: "Uber has begun rolling out an AI system to its app that checks whether
 publishedDateTime: 2020-05-13T17:49:00Z
 webUrl: "https://venturebeat.com/2020/05/13/uber-rolls-out-ai-to-verify-drivers-are-wearing-face-masks/"
 type: article
-quality: 67
-heat: 87
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all"
@@ -48,6 +49,6 @@ related:
       domain: webindia123.com
     quality: 1
 
-secured: "X5PAjXpZMYuvqUvLD9CXpUmmDjlqlbI+cfisPumuplSfUwFyrXiMjFvBZysB/ZghzEqzNQKr/UilH0HsWLHjlNEjK1F986SjOsNTnuntikiEWr/5xuW/KX8nhCWk0uPO98tTZqtVYrRvYLsDKIiY1ft3w1tLS9YLMPuxgV49jCGnbZCf2KivP4kVU2XQNJkR1EeweJU4CTzocxczZFza7Oogv602I0JeldEoXsj0VOOwJ+SGL6nahTu/aCO3k/990jcJrbJF5zMp+xIGFfcLEkoNjLb7dO+0oJN9oTB0KDizkjGe4DSDl3wHWJPPmY7t;D6ydms5jlVJK2I7QUkSVgw=="
+secured: "aVyGCDlWfq1a23i1SVZ4DcHqVypXfOt4mePtnV/P/yQd1X57eLOh7ybw43F2lR5mhOSlbqRpOvE8qGh1f1h52+9kjoCvcAbCEoUzydH2/UlRd7wg9V8562dZBkAT84sIo4JSdAUMBPvGrJ4o0+bfZTSXaOx+t6kgDETJEtY+1fc1kCapHW4wzCfqgYCHrTh0nag6NbitftviG5qFgozQsvhwHnnN4LHpN1wHbZ0JGdgFhz0TdmVmLHvbQjc6x17Wh4ibqB6JaEfkqoYj2qQkcth9m/S/3DXitDZ3l8oEh9wzScGiYzVSzh/I6rH1hs4wnACv3UXWpR0cL2Ku5JblhqKG8246sP5TgAWsOrIQGULSEKD3iO5P37j73NTo7D4b/CkrUsP5O7arTgBtgl0HgJ9u7WqNPCIuGJzwcpqfMJeb8yDZAWtZJS5vYFva7UgyFsu9RHIv/ALykAtRfwmKb3Ann1KuUAP5mszTxBR+L18=;FrjPsb+EGG9VS6GugmJnQA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/javascript-programming-lang
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 1200
     height: 675
     title: "JavaScript programming language developers: This is Kite's new free AI code-completion tool"
-
-related:
-  - title: "Kite launches Pro plan for its AI-powered Python code completions, adds JavaScript support"
-    excerpt: "Kite and its AI-powered developer environment now offer a Pro plan for $19.90 per month. There's also a new Python engine and JavaScript support."
-    publishedDateTime: 2020-05-12T14:11:00Z
-    webUrl: "https://venturebeat.com/2020/05/12/kite-pro-ai-powered-python-javascript-code-completions/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/05/kite-team-resized.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
 
 secured: "C0XttZYXwL8DfWBsqyt3Hbp4MUYfvVXVJYSag34XS6vIThuNiPBOJbD2v0/fri3oPacWOg4VOxzjXZnkfZlfC3NFxJ2rM3lUFu8Tq7xTBQhv0UfdBV1K2d+k39yT6HvRFIExYAbE+Ne+wu+oMRgso7PCEldCO890Otb7P9jdAV3g4wIZrv5gCMWk3MqyN2lUyH1Fh/LgxopInDKL3d/YcUypsWHy6eO2L5b34vpazyltSs3aCenieC1snZ9mLwsIZfrrk0t4skN0ei/ba/hlSDcevLo7jsOz2YpVQTBe1lPYG7BP80r4FknuOVjFLNjitfpnlPwUBAWoUJPlxB0n5/Vz+XlF2xU3cNsXtgai+S29ut3ODVGaK3p+nSPO33u3jK/O3uZ2kCndMwHHPKxe8OE/mK16ClDpO84vF/EQJLsmLqJKLd3BusiT2Kl7x3mgTEWcm4MoV5MANxXNCF4rjoapWddfh+fSmua8v5LBISg=;5QNnelphPfXEttjZ0h7RLQ=="
 ---

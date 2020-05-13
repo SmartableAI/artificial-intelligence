@@ -29,6 +29,6 @@ images:
     height: 417
     title: "Confetti, koalas, and candles of love: Backstage at Eurovision’s AI song contest"
 
-secured: "Ou5eqx3Vgg4lwLhfYZuZjg/CG7u5By2K21oYQ4dcL371LtSJyFDcx32wdHMUTxtqpk7PUgygqqgHAaw+DuiDFJfdhwSUipN1BlTIQ6vKWcLIIg078w3DVlnPmHvZhbeP8t8FnZMAqymMVQdhWZ4fXo18ONRx9ad999ABL+rfs5zc/iOTdAmByjWK87Jp2gHJlZfv/6n99JtOXEeY7HWNJzfnOkLTI2bgGEKow1hUknSK55Zg40L93OE6+60MMZCxdkDQaHCcGwHvW3kuJbUavB8NDCx6OmK85KZ27mro+KEGGDalu3aF2XPCTWGDwzB+;CxrWOZIoASxyupMO+DEO1A=="
+secured: "zSUSsUm7Nyk1PoS+DnurcFDcuxqXofqp9PWLd+QU9uYK8EQqWQwctFhooTyW6yjgGo4ViZ4d3Td6a7H+6JIbnx/2KHVYX41tiTh/Rs5Ybwh44xeLbBzOuJH44JMdZNsZGd22JpehJ2mzBX2flPrnsYtLaemAdS8RVVFj1DW251cDZCJGk2JofizimHWoD+b9GNQAH2DF8XxyaGWbdyxD+064nd0P3dV0qyPFShjiZeGEybsiYrzMmxT+RJGT57bFq41vuqGS2qHuWcwvANIFWFZZpQSMC25wXf8Lpj/kdC4wCmiiUZDFfpM+5jh7D9X4BR0k5hJC3ts8m5mnBN5h6y0P5W4CBMjVNcDtQxOtHPNWBhTeO/tOMg0ycO6sOZLRD9r+C0aXl4uZex/UCgmJpmWO+/UpdVoyNPcRGmEAz+p8lptaNUORn4/kcPRjfEpcL51P/0giN0Zmzmn3a+2RqO8WtCq2w0j4H/LbNyRGKCA=;5JJKzNdXJWS8N2FL2JyQ6g=="
 ---
 

@@ -27,21 +27,21 @@ images:
     title: "Kite launches Pro plan for its AI-powered Python code completions, adds JavaScript support"
 
 related:
-  - title: "JavaScript programming language developers: This is Kite's new free AI code-completion tool"
-    excerpt: "Kite's code completion has supported Python for six years. Last January the company landed $10m in funding as it launched more complex line-of-code completions for Python, helping"
-    publishedDateTime: 2020-05-12T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/"
+  - title: "Kite brings its AI-powered code completion to JavaScript"
+    excerpt: "Originally for Python only, Kite has added a JavaScript-trained machine learning model to its add-on for popular code editors and IDEs"
+    publishedDateTime: 2020-05-13T19:34:00Z
+    webUrl: "https://www.infoworld.com/article/3543276/kite-brings-its-ai-powered-code-completion-to-javascript.html"
+    ampWebUrl: "https://www.infoworld.com/article/3543276/kite-brings-its-ai-powered-code-completion-to-javascript.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3543276/kite-brings-its-ai-powered-code-completion-to-javascript.amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/843fd8ab-846f-4d03-8060-bcd5d611ec7e/thumbnail/1200x675/6c7e3312371b165b65c90cd7fc188d5d/developer-go-is-the-programming-language-5eb921c27f8c3b07249d42e4-1-may-11-2020-11-50-12-poster.jpg"
+      - url: "https://images.idgesg.net/images/article/2018/02/robot_workforce_workers_artificial_intelligence_ai_thinkstock_905028734-100749936-large.jpg"
         width: 1200
-        height: 675
+        height: 800
 
 secured: "iXRjbcz1dFTlgrCJ9+RZ2Cvv5Rj/21IIHiRHeHPICysQkDLXQ0OuGnqBq9exPeyC245WdjMTGXkkE5lzC1k9ncI5xQcXoy7BWrwkYFnTpm/vNgfmEWq7lOBpL7nvkjO3QQbXXlIfB99vQ5DP1ILN4BAo2nBOeGcIfDf7ihqNnKk1zWqOz/fbbFfvydFcixx5PT/x65BTSUfoEjAhD+WzaPDNd0GEZJQ2kJ+BxmJG8AFFpKHSgb7x4YQRI5rWwS4NJaaqOJNmdn/qBAkuN8d4X8cVfmVwOy86vr1Ke/wz1SWrQR6L7NkgAXVnkW/BwUlntuWfcGXygYH2mMh+JN24OAtP1m3v9EMMv098HSndB2smiaH5JUxvQ/RolFH1InM9wQ81Htq4EqySRxsJzzjeXAEw2zofsUumMj9xrOq7rTynVeLNo0O6BJxBSM0TbWcXg4pjUJJaeu/2kCYKzjBLnTfeTlx1wIvWkc725n1TupI=;B4VdouiyACQ6bTfHFA9kBA=="
 ---
