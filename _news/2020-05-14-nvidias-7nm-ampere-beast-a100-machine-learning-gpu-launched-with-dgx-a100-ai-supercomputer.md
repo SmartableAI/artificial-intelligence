@@ -57,7 +57,33 @@ related:
       - url: "https://regmedia.co.uk/2020/05/14/a100_1.jpg"
         width: 2000
         height: 1700
+  - title: "Nvidia Unveils Its First Ampere-Based GPU, Raises Bar for Data Center AI"
+    excerpt: "Nvidia took the wraps off its first Ampere-based GPU today, the A100, along with a raft of products that rely on the new GPU and new architecture for massive improvements in both performance and power efficiency of AI and other GPGPU computing tasks."
+    publishedDateTime: 2020-05-14T14:45:00Z
+    webUrl: "https://www.extremetech.com/extreme/310500-nvidia-raises-the-bar-for-data-center-ai"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 53
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Nvidia-A100-GPU.jpg"
+        width: 1344
+        height: 742
+  - title: "Nvidia unveils the A100 Tensor Core GPU"
+    excerpt: "GPU compute beast for DGX A100 AI system The focus of the GTC 2020 was Nvidia's new A100 Tensor Core GPU, which is based on the new Ampere architecture GA100 GPU, and will be a part of Nvidia's new DGX A100 AI system."
+    publishedDateTime: 2020-05-14T15:44:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50832-nvidia-unveils-the-a100-tensor-core-gpu"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9c64f03b16d1179ee51e7183e913ffd6_L.jpg"
+        width: 620
+        height: 465
 
-secured: "gm5Vu7cRkb5aiZwtnzncoTDfy1JxJpVYq+s6gShhEZlc5DtSevLNIuxZC2NEgknljcG/OrgISUfAb88EPgoeeXsclE3YQDtMLReyNzIoyOw1lK36wvwfiAMiKcNd7GLtXzZAUsd07vUWbZE7wfX35SWiVPlrAa4cDTydmo2T3Di9R2FRWybd21MralnSmJ5+w7qBV+nuGOd/mBc0UI0frT1JAqKOpni8MIho7skx2DDD2NXt3P9BnR1/z2yGxLTi7eThoacwrHiLhTJxBBTHD13OzLIUpFeWY8I75oAk6Mls7AFISUo0muGs4Oii7vhy;d4TECG2e1PfV2kvj3lQzYQ=="
+secured: "OefdNCP1urd05eVib4nd6hSU422XbbAWQHv0LaXVmq07gBGLnjA1YDDpQ8Y3TyjISaH84mpFRHjvewBRNFSURfb28EzQXIfEGT3Zv9z3iqSzVza7sFl60dmvlhW5zSzThfLy/CKufcZJLkie5rNKCCTX61RulbCYbn6YdrV7bNCwhCh35GFsq5dAluo211c+JL7INcsvE/3+YbzuqxbBNSvYjYHpVlmNLR39qgDZkuWn3TCPAvDzo4+tXgv7NZwKclWGeWcdViGJ4DPDjla9ElplbpftlaASMNc3iPYAdCDuC3vIkrE4s6x79DqP3nzkAIHDmJ88Dvcew3+DNlO6QBE/vBtPxYb3CB68dH6RSq1o8LfWGJwERoIiXAswi4XPhhDmdOHTLX3L4HzKvlpOPg50PZWmSOMmpE01xY8pj9R/junkU8RXbVvp8GlvjYDe1686dq3sIs5ESo9oG0s5nYEltDMSaRioVn6a1Vnh7OM=;odfpE+FR92zcVM+lVvzZKw=="
 ---
 

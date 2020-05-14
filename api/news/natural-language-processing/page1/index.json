@@ -40,10 +40,55 @@
       ]
     },
     {
+      "path": "_news/2020-05-14-traitify-raises-12-million-to-assess-job-candidates-personalities-with-ai.md",
+      "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
+      "excerpt": "Traitify, which taps AI and machine learning to assess the personality traits of job candidates, has raised $12 million in venture capital.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/14/traitify-raises-12-million-to-assess-job-candidates-personalities-with-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/share_image-e1589311151114.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-artificial-intelligence-chipset-market-2020-top-growing-companies-structure-inspection-and-forecast-2025.md",
       "title": "Artificial Intelligence Chipset Market 2020 Top Growing Companies, Structure Inspection and Forecast 2025",
       "excerpt": "Market Research Engine has published a new report titled as \"Artificial Intelligence Chipset Market Size By Component (Hardware, Software ), By Technology (Machine Learning, Natural Language Processing (NLP),",
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-top-growing-companies-structure-inspection-and-forecast-2025-2020-05-14",
@@ -83,7 +128,8 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI in Robotics"
       ]
     },
     {
@@ -490,9 +536,9 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
+      "webUrl": "https://www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
       "publishedDateTime": "2020-05-08T16:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1215,51 +1261,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026.md",
-      "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
-      "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026-2020-04-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-14T07:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cognitive-services-market-estimates-pre-and-post-covid-19-impact-and-recovery-analysis-by-2020-2029-2020-05-14"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     width: 1200
     height: 630
     title: "Global Cognitive Services Market Estimates (Pre and Post) COVID-19 Impact and Recovery Analysis by 2020-2029"
+
+related:
+  - title: "Deep Learning Market 2019 - Challenges, Drivers, Outlook, Growth Opportunities - Analysis to 2025"
+    excerpt: "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The scope of the report includes a detailed study of Deep Learning Marketwith the reasons given for variations in the growth of the industry in certain regions."
+    publishedDateTime: 2020-05-14T15:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2019---challenges-drivers-outlook-growth-opportunities---analysis-to-2025-2020-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "DOALbBvTYQ0ymU7WFwB7mGBThr6ZzH2+vQOApGUc193YHqGdsKdBl1Hy1PTnelzf6PuhZHvXRg/TbfQYG3aInhuXvZ/D80UsGAmUDR6//WeSbkUtJLdcGH2ZAsC9n6eGa60CTIQcGmq+mbVOxkwbRIZYfKBsca485HAKI0MQgfUBRgU4vnKMwMnJSQKVMTcNN1WMWkmdAR/02303b0HxdP6x7IcQuGLGc6XYnr3lskIdWGxtSCyr4MNuKsnFhwpJoWCnE0TcP9Lc9O4PQrplnlQJk1+bNqu6dTAu3APdDOpyMfYeW/tSCm5EtaykMaAG;KBALYSt+O58Kf3XYSzkVHw=="
 ---

@@ -50,6 +50,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 84
+  - title: "Nvidia's bleeding-edge Ampere GPU architecture revealed: 5 things PC gamers need to know"
+    excerpt: "Nvidia revealed its next-gen Ampere graphics architecture on Thursday in the form of the A100 data center GPU. PC gamers can glean a lot about future GeForce graphics cards from the announcement."
+    publishedDateTime: 2020-05-14T15:06:00Z
+    webUrl: "https://www.pcworld.com/article/3543834/nvidia-ampere-gpu-architecture-reveal-geforce-pc-gamers.html"
+    ampWebUrl: "https://www.pcworld.com/article/3543834/nvidia-ampere-gpu-architecture-reveal-geforce-pc-gamers.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3543834/nvidia-ampere-gpu-architecture-reveal-geforce-pc-gamers.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 80
+    images:
+      - url: "https://images-na.ssl-images-amazon.com/images/I/41PHJMoCeFL.jpg"
+        width: 500
+        height: 429
 
 secured: "0QLerfEH9g64EkQbEmy6GfU23n6Mjwx7txZ8m8+678BE6i/oiPZV6NxPWMOpxJyrHJEPHmWaxhmosUYl05+d/QcA85vrM6rNW+sOsfP9e/+9KUecUlnIyq6IQzY3EC4PW3L8a1i7QbzJ7aOF170pAg7d8/EZP60FZ+8YndWhuhAGmUCjxwitv3XZula9FJ0AKjWafH8pCnfho1Gn8OYec4WLjbDqv5Td1Ea9/19Dbk8wFRvrUI0Vsi/3Qwh2l/YhFWCfJzAa2P0Nq645FV1XlGvtuv1YHOB6KbzoSIgIqT/0NnQbGnYOMrPRL7zSCIk3;gPHYCPysCwDW6LOkm3WASg=="
 ---

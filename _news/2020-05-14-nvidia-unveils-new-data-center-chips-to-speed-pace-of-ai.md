@@ -39,6 +39,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/HF2WomES921lXx07YJ_w3OkXx-w=/0x0:1980x1320/1400x933/filters:focal(832x502:1148x818):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66796434/2555435ebae590030837.15346566_NVIDIA_A100_GPU.0.jpg"
         width: 1400
         height: 933
+  - title: "Nvidia's bleeding-edge Ampere GPU architecture revealed: 5 things PC gamers need to know"
+    excerpt: "Nvidia revealed its next-gen Ampere graphics architecture on Thursday in the form of the A100 data center GPU. PC gamers can glean a lot about future GeForce graphics cards from the announcement."
+    publishedDateTime: 2020-05-14T15:06:00Z
+    webUrl: "https://www.pcworld.com/article/3543834/nvidia-ampere-gpu-architecture-reveal-geforce-pc-gamers.html"
+    ampWebUrl: "https://www.pcworld.com/article/3543834/nvidia-ampere-gpu-architecture-reveal-geforce-pc-gamers.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3543834/nvidia-ampere-gpu-architecture-reveal-geforce-pc-gamers.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 80
+    images:
+      - url: "https://images-na.ssl-images-amazon.com/images/I/41PHJMoCeFL.jpg"
+        width: 500
+        height: 429
   - title: "Nvidia Unveils 7nm Ampere A100 GPU To Unify Training, Inference"
     excerpt: "Alternatively, the A100 can link with seven other units to act as one giant GPU. [Related: Nvidia Plans To Buy Cumulus Networks In Networking Software Play] In a pre-briefing with journalists, Nvidia CEO and founder Jensen Huang said the A100 will create a tectonic shift in the economics of spinning up new data centers for AI inference and ..."
     publishedDateTime: 2020-05-14T11:33:00Z

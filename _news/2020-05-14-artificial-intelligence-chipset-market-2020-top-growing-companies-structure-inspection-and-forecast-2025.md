@@ -5,8 +5,8 @@ excerpt: "Market Research Engine has published a new report titled as \"Artifici
 publishedDateTime: 2020-05-14T12:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-top-growing-companies-structure-inspection-and-forecast-2025-2020-05-14"
 type: article
-quality: 56
-heat: 76
+quality: 58
+heat: 78
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI
   - AI in Healthcare
   - Natural Language Processing
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

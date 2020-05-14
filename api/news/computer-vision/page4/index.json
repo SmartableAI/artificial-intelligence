@@ -2,6 +2,96 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-30-global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025.md",
+      "title": "Global Computer Vision Market 2020 Industry Status, Segment Analysis, Key Players, Business Growth and Forecast to 2025",
+      "excerpt": "MarketsandResearch.biz is releasing the latest insights through extensive research titled Global Computer Vision Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 which provides a comprehensive researched abstract of the key players with considerable shareholdings at a global level regarding demand,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025-2020-03-30",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Computer Vision Market 2020 Industry Status, Segment Analysis, Key Players, Business Growth and Forecast to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-amazon-proposes-technique-for-improving-computer-vision-models-without-reprocessing.md",
+      "title": "Amazon proposes technique for improving computer vision models without reprocessing",
+      "excerpt": "They say it enables old models to bypass computing features for all previously seen images every time new ones are added, which could save enterprises developing computer vision-enabled ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/amazon-proposes-technique-for-improving-image-classifiers-without-reprocessing/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/amazon-proposes-technique-for-improving-image-classifiers-without-reprocessing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/amazon-proposes-technique-for-improving-image-classifiers-without-reprocessing/amp/",
+      "publishedDateTime": "2020-03-30T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon proposes technique for improving computer vision models without reprocessing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-huawei-open-sources-mindspore-a-framework-for-ai-app-development.md",
       "title": "Huawei open-sources MindSpore, a framework for AI app development",
       "excerpt": "Huawei this week announced that MindSpore, a framework for AI app development the company detailed in August 2019, is now available in open source on GitHub and Gitee. The lightweight suite is akin to Google’s TensorFlow and Facebook’s PyTorch, and it scales across devices, edge, and cloud environments, ostensibly lowering the barrier to ...",
@@ -1130,88 +1220,6 @@
           "width": 1200,
           "height": 600,
           "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-how-china-built-facial-recognition-for-people-wearing-masks.md",
-      "title": "How China built facial recognition for people wearing masks",
-      "excerpt": "Hanwang, the facial-recognition company that has placed 2 million of its cameras at entrance gates across the world, started preparing for the coronavirus in early January. Huang Lei, the company’s chief technical officer, said that even before the new virus was widely known about, he had begun to get requests from hospitals at the centre of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://arstechnica.com/tech-policy/2020/03/how-china-built-facial-recognition-for-people-wearing-masks/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-heres-what-facebooks-internal-facial-recognition-app-looked-like.md",
-      "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
-      "excerpt": "Facebook developed an internal facial recognition app that allowed users to scan peoples' faces and identify them. Images obtained by Motherboard now show what that app looked like. Business Insider first reported the existence of Facebook's facial recognition app in November last year. The app, made between 2015 and 2016, was available to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/k7ekmv/facebook-facial-recognition-app",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/k7ekmv/facebook-facial-recognition-app",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/k7ekmv/facebook-facial-recognition-app",
-      "publishedDateTime": "2020-03-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e6fb419fce7bf009dc0fe79/lede/1584379361591-facebook-app-logo.jpeg?crop=1xw:0.8432xh;0xw,0xh",
-          "width": 2000,
-          "height": 1123,
-          "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
           "attribution": null
         }
       ],

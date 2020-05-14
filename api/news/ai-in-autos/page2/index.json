@@ -2,6 +2,89 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-05-scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models.md",
+      "title": "Scientists found a way to plug adversarial backdoors in deep learning models",
+      "excerpt": "By installing a backdoor in the deep learning algorithm, the malicious actor ironically gained access to the building through the front door. This is not a page out of a sci-fi novel. Although hypothetical,",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/05/scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/05/scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/05/scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models-syndication/amp/",
+      "publishedDateTime": "2020-05-05T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-10-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists found a way to plug adversarial backdoors in deep learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-rising-from-rock-bottom.md",
+      "title": "Rising From Rock Bottom",
+      "excerpt": "With an unavoidable recession in the cards, what can we expect in the coming months? How quickly can markets, societies and small businesses recover?",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/amp/",
+      "publishedDateTime": "2020-05-05T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-the-relentless-startup-fast-tracking-fords-self-driving-cars.md",
       "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
       "excerpt": "Meet Brian Salesky and the team of resourceful engineers at Argo, the little company trying to crack a big problem: safe autonomous driving.",
@@ -1130,89 +1213,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-alphabet-earnings-five-key-takeaways-as-covid-19-hits-google.md",
-      "title": "Alphabet earnings: Five key takeaways as Covid-19 hits Google",
-      "excerpt": "Google parent company Alphabet has given a key indication of how the Covid-19 crisis will impact Silicon Valley ahead of a string of first-quarter results.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cityam.com/alphabet-earnings-five-key-takeaways-as-covid-19-hits-google/",
-      "ampWebUrl": "https://www.cityam.com/alphabet-earnings-five-key-takeaways-as-covid-19-hits-google/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/alphabet-earnings-five-key-takeaways-as-covid-19-hits-google/amp/",
-      "publishedDateTime": "2020-04-29T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2020/04/1192592454.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": "Alphabet earnings: Five key takeaways as Covid-19 hits Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026.md",
-      "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
-      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026-2020-04-29",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

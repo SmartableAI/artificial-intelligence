@@ -2,6 +2,313 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-14-patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars.md",
+      "title": "Patent Office Declares AI Cannot Be An Inventor, Stuns AI Devotees, Has Impacts For Self-Driving Cars",
+      "excerpt": "Can AI be an inventor? According to a recent decision by the U.S. Patent and Trademark Office (USPTO), the answer seems to be no. There is more to this story, though, and we’ll need to push past the surface to understand the full nuances involved.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-05-14T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6ff40aaa542800075a1352%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D371%26cropY2%3D3524",
+          "width": 1200,
+          "height": 676,
+          "title": "Patent Office Declares AI Cannot Be An Inventor, Stuns AI Devotees, Has Impacts For Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-ai-and-machine-learning-are-at-the-heart-of-future-healthcare.md",
+      "title": "AI and Machine Learning are at the heart of future healthcare.",
+      "excerpt": "Because of the influx of the different types of information we can hold for an individual, the future is relying on data management solutions to influence the way we store, use, and protect information.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://frontlinegenomics.com/ai-and-machine-learning-are-at-the-heart-of-future-healthcare/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Front Line Genomics",
+        "domain": "frontlinegenomics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://frontlinegenomics.com/wp-content/uploads/2020/05/alexander-sinn-KgLtFCgfC28-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1710,
+          "title": "AI and Machine Learning are at the heart of future healthcare.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-adobe-announces-ai-toolbox-for-experience-platform.md",
+      "title": "Adobe announces AI toolbox for Experience Platform",
+      "excerpt": "Most companies don’t have the personnel to do AI well, so they turn to platform vendors like Adobe for help. Like other platforms, it has been building AI into its product set for several years now, but wanted to give marketers a set of tools that take advantage of some advanced AI",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/amp/",
+      "publishedDateTime": "2020-05-14T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Adobe-Customer-AI.jpg?w=680",
+          "width": 680,
+          "height": 586,
+          "title": "Adobe announces AI toolbox for Experience Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-sonys-new-image-sensors-are-the-first-ever-with-integrated-ai-processing.md",
+      "title": "Sony's new image sensors are the first ever with integrated AI processing",
+      "excerpt": "Sony on Thursday announced two new image sensors which it claims are the first in the world to come with built-in artificial intelligence processing. Including AI processing functionality directly on the image sensor affords multiple benefits,",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85228-sony-new-image-sensors-first-ever-integrated-ai.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85228-sony-new-image-sensors-first-ever-integrated-ai.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85228-sony-new-image-sensors-first-ever-integrated-ai.html",
+      "publishedDateTime": "2020-05-14T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-9.jpg",
+          "width": 1665,
+          "height": 1087,
+          "title": "Sony's new image sensors are the first ever with integrated AI processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks.md",
+      "title": "Uber introduces AI to make sure its drivers wear face masks",
+      "excerpt": "Uber is making face masks mandatory in the US, Canada, India, and most of Europe and Latin America -- and will use AI to ensure drivers follow the rules",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
+      "publishedDateTime": "2020-05-14T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-35-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Uber introduces AI to make sure its drivers wear face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip.md",
+      "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
+      "excerpt": "Sony’s camera sensors are already inside many of the high-end smartphones, but its new AI image sensor promises to make things even smarter – and high-end features cheaper, too. The",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/",
+      "ampWebUrl": "https://www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/amp/",
+      "publishedDateTime": "2020-05-14T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor.jpg",
+          "width": 2307,
+          "height": 1334,
+          "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
+      "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
+      "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report",
+      "ampWebUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
+      "publishedDateTime": "2020-05-14T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/iStock-914562482.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-drive-upshifts-to-ampere-gpus-for-a-smoother-self-driving-roadmap.md",
       "title": "NVIDIA Drive upshifts to Ampere GPUs for a smoother self-driving roadmap",
       "excerpt": "During its GTC 2020 keynote today, NVIDIA finally pulled the veil back on its Ampere GPU architecture – at least somewhat. While details about Ampere are still slim, we do know that the",
@@ -211,10 +518,55 @@
       ]
     },
     {
+      "path": "_news/2020-05-14-nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance.md",
+      "title": "Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 petaflops of performance",
+      "excerpt": "Nvidia unwrapped its Nvidia A100 artificial intelligence chip today, and CEO Jensen Huang called it the ultimate instrument for advancing AI.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/a100.jpg?w=1200&#038;strip=all",
+          "width": 1194,
+          "height": 686,
+          "title": "Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 petaflops of performance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidias-first-ampere-gpu-is-designed-for-data-centers-and-ai-not-your-pc.md",
       "title": "Nvidia’s first Ampere GPU is designed for data centers and AI, not your PC",
       "excerpt": "Nvidia is unveiling its next-generation Ampere GPU architecture today. The first GPU to use Ampere will be Nvidia’s new A100, built for scientific computing, cloud graphics, and data analytics. While there have been plenty of rumors around Nvidia’s Ampere plans for GeForce “RTX 3080” cards,",
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer",
@@ -385,10 +737,55 @@
       ]
     },
     {
+      "path": "_news/2020-05-14-nvidia-unleashes-disruptive-ampere-gpu-architecture-and-dgx-a100-supercomputers-to-power-next-gen-ai-data-centers.md",
+      "title": "NVIDIA Unleashes Disruptive Ampere GPU Architecture And DGX A100 Supercomputers To Power Next-Gen AI Data Centers",
+      "excerpt": "NVIDIA is calling the newly announced DGX A100 \"the world's most advanced system for all AI workloads\" and claiming a single rack of five DGX A100 systems can replace an entire AI training and inference-focused data center,",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2020/05/14/nvidia-unleashes-disruptive-ampere-gpu-architecture-and-dgx-a100-supercomputers-to-power-next-gen-ai-data-centers/",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2020/05/14/nvidia-unleashes-disruptive-ampere-gpu-architecture-and-dgx-a100-supercomputers-to-power-next-gen-ai-data-centers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2020/05/14/nvidia-unleashes-disruptive-ampere-gpu-architecture-and-dgx-a100-supercomputers-to-power-next-gen-ai-data-centers/amp/",
+      "publishedDateTime": "2020-05-14T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd33b898984300063f86d5%2F0x0.jpg",
+          "width": 1200,
+          "height": 1028,
+          "title": "NVIDIA Unleashes Disruptive Ampere GPU Architecture And DGX A100 Supercomputers To Power Next-Gen AI Data Centers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu.md",
       "title": "NVIDIA begins shipping the A100, its first Ampere-based data center GPU",
       "excerpt": "NVIDIA announced today that its NVIDIA A100, the first of its GPUs based on its Ampere architecture, is now in full production and has begun shipping to its customers globally. Ampere is a big generational jump in NVIDIA’s GPU architecture design,",
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu/",
@@ -478,7 +875,7 @@
       "path": "_news/2020-05-14-nvidia-and-databricks-announce-gpu-acceleration-for-spark-30.md",
       "title": "Nvidia and Databricks announce GPU acceleration for Spark 3.0",
       "excerpt": "At its GPU Technology Conference event today, Nvidia is announcing GPU acceleration for Apache Spark 3.0, made possible by open source software developed in collaboration with Spark's creators at Databricks.",
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/nvidia-and-databricks-announce-gpu-acceleration-for-spark-3-0/",
@@ -521,10 +918,55 @@
       ]
     },
     {
+      "path": "_news/2020-05-14-traitify-raises-12-million-to-assess-job-candidates-personalities-with-ai.md",
+      "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
+      "excerpt": "Traitify, which taps AI and machine learning to assess the personality traits of job candidates, has raised $12 million in venture capital.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/14/traitify-raises-12-million-to-assess-job-candidates-personalities-with-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/share_image-e1589311151114.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-artificial-intelligence-chipset-market-2020-top-growing-companies-structure-inspection-and-forecast-2025.md",
       "title": "Artificial Intelligence Chipset Market 2020 Top Growing Companies, Structure Inspection and Forecast 2025",
       "excerpt": "Market Research Engine has published a new report titled as \"Artificial Intelligence Chipset Market Size By Component (Hardware, Software ), By Technology (Machine Learning, Natural Language Processing (NLP),",
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-top-growing-companies-structure-inspection-and-forecast-2025-2020-05-14",
@@ -564,7 +1006,8 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI in Robotics"
       ]
     },
     {
@@ -654,451 +1097,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-are-ai-investments-dead-thanks-to-covid-19.md",
-      "title": "Are AI investments dead thanks to COVID-19?",
-      "excerpt": "And how do you go from managing data points to injecting AI in the enterprise? Read More I reached out to Ryohei Fujimaki, Ph.D., an expert on AI/ML and the founder and CEO of dotData, which delivers data science automation to the enterprise,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/are-ai-investments-dead-thanks-to-covid-19/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/are-ai-investments-dead-thanks-to-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-ai-investments-dead-thanks-to-covid-19/",
-      "publishedDateTime": "2020-05-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/12/e745a8e4-9e72-4d9b-b3c5-1aed8acff879/art-intel.jpg",
-          "width": 1024,
-          "height": 819,
-          "title": "Are AI investments dead thanks to COVID-19?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-facebook-sucks-elon-musk-hits-back-at-facebook-ai-head-who-claimed-tesla-boss-has-no-idea-about-artificial-intelligence.md",
-      "title": "'Facebook Sucks': Elon Musk Hits Back at Facebook AI Head Who Claimed Tesla Boss Has 'No Idea' about Artificial Intelligence",
-      "excerpt": "Elon Musk had a blunt response for the vice president of artificial intelligence at Facebook after he questioned the SpaceX and Tesla CEO's knowledge on the subject: \"Facebook sucks.\" Musk hit back after Jerome Pesenti,",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973",
-      "ampWebUrl": "https://www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973?amp=1",
-      "publishedDateTime": "2020-05-14T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1575729/elon-musk.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": "'Facebook Sucks': Elon Musk Hits Back at Facebook AI Head Who Claimed Tesla Boss Has 'No Idea' about Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-sonys-first-ai-image-sensor-will-make-cameras-everywhere-smarter.md",
-      "title": "Sony’s first AI image sensor will make cameras everywhere smarter",
-      "excerpt": "Sony’s new image sensor could one day appear in cameras like this one. Photo by Amelia Holowaty Krales / The Verge Sony has announced the world’s first image sensor with integrated AI smarts. The new IMX500 sensor incorporates both processing power and memory,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price",
-      "publishedDateTime": "2020-05-14T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/r7QODjaWVv90Czz6GGFPaV-QapE=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66795902/akrales_180816_2793_0073.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Sony’s first AI image sensor will make cameras everywhere smarter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-data-security-startup-dathena-snags-12m-in-series-a.md",
-      "title": "Data security startup Dathena snags $12M in Series A",
-      "excerpt": "Singapore-based data security startup Dathena rakes in $12 million in its Series A round, which will be tapped to boost its R&D work and expansion plans in the US market, where it has a sales partnership with Microsoft.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/data-security-startup-dathena-snags-12m-in-series-a/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-security-startup-dathena-snags-12m-in-series-a/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-security-startup-dathena-snags-12m-in-series-a/",
-      "publishedDateTime": "2020-05-14T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2013/09/25/1655ed1c-1d16-11e4-8c7f-00505685119a/thumbnail/1200x675/136f10bf51e85181748a0ab9f24ffc3e/singapore-dollar620x465.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Data security startup Dathena snags $12M in Series A",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-unveils-ampere-gpu-architecture-for-ai-boost-and-the-first-target-is-coronavirus.md",
-      "title": "Nvidia unveils Ampere GPU architecture for AI boost, and the first target is coronavirus",
-      "excerpt": "Nvidia Corp. launched its newest line of chips Thursday, detailing artificial-intelligence capabilities up to twenty times greater than previous",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/story/nvidia-unveils-ampere-gpu-architecture-for-ai-boost-and-the-first-target-is-coronavirus-2020-05-14",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/467AADA6-9564-11EA-B90C-10B5F5B65E83",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/467AADA6-9564-11EA-B90C-10B5F5B65E83",
-      "publishedDateTime": "2020-05-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s.marketwatch.com/public/resources/images/MW-IG441_Nvidia_ZH_20200513150145.jpg",
-          "width": 890,
-          "height": 501,
-          "title": "Nvidia unveils Ampere GPU architecture for AI boost, and the first target is coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-singapore-based-data-protection-startup-dathena-raises-12-million-series-a.md",
-      "title": "Singapore-based data protection startup Dathena raises $12 million Series A",
-      "excerpt": "Dathena, a Singapore-based company that provides AI-based data protection and privacy solutions, announced it has raised a $12 million Series A. Part of the funding will be used to expand Dathena’s co-sell partnership with Microsoft in the United States,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/amp/",
-      "publishedDateTime": "2020-05-13T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1185880486.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Singapore-based data protection startup Dathena raises $12 million Series A",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020.md",
-      "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
-      "excerpt": "Waymo, the autonomous driving unit of Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL), announced Tuesday that it has raised a further $750 million in external investment.",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/news/20/05/16026539/another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16026539",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16026539",
-      "publishedDateTime": "2020-05-13T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/waymo_minivan_7_1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai.md",
-      "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
-      "excerpt": "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai-2020-05-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea.md",
-      "title": "Using ‘personalized AI’ to end coronavirus lockdown is a stupid, cruel idea",
-      "excerpt": "A trio of AI and business experts from INSEAD, a prestigious business school, recently penned a lengthy article in the Harvard Business Review extolling the virtues of “personalized AI” prediction models to end the coronavirus lockdown.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/13/using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/13/using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/13/using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea/amp/",
-      "publishedDateTime": "2020-05-13T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design52-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Using ‘personalized AI’ to end coronavirus lockdown is a stupid, cruel idea",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-artificial-intelligence-cant-yet-learn-common-sense.md",
-      "title": "Artificial intelligence can't yet learn common sense",
-      "excerpt": "The quest to make AI as smart as humans is still ongoing. But there are things your company can do to get better results from the technology.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-cant-yet-learn-common-sense/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-cant-yet-learn-common-sense/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-cant-yet-learn-common-sense/",
-      "publishedDateTime": "2020-05-13T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/13/7c16912b-b0eb-4826-9e76-7bddcaa31dd9/resize/1200x/2dbb27f927dfced01c232730649a514c/istock-1046249370.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial intelligence can't yet learn common sense",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

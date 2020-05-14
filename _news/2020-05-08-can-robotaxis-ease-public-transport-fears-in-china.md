@@ -2,18 +2,19 @@
 category: news
 title: "Can robotaxis ease public transport fears in China?"
 excerpt: "The rise of self-driving taxis in China comes at a time when ... Internet search engine Baidu, China's answer to Google, is rolling out a fleet of its Apollo robotaxis across three cities in ..."
-publishedDateTime: 2020-05-08T01:03:00Z
-webUrl: "https://www.bbc.co.uk/news/business-52392366"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/business-52392366"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52392366"
+publishedDateTime: 2020-05-08T01:01:00Z
+webUrl: "https://www.bbc.com/news/business-52392366"
+ampWebUrl: "https://www.bbc.com/news/amp/business-52392366"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52392366"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -25,6 +26,6 @@ images:
     height: 576
     title: "Can robotaxis ease public transport fears in China?"
 
-secured: "zS1pfFz2Diw0qXq+oaMKUTnKcm+8yRxmHB9yTQR+A/rIVn8xW+nvw/0LSaX8XcEpw1u8GV68joITIETJp+rf4dt8wearFDy7UINao/7st5Vr5zJ1+eGIoAHu1iJ6QYwWZOsb5ZTsLwfu3qtlIjjGk8OkjII0X/GIzwNR+HLWBm4+mmJICWV8ZI8A0GuzsKSQtOcHg3V5z2MRmWK1mynViLCQOZWnHzHPtOq7jfdXnzV67M9LuL7RAWfkHJde/2YV+jCv+c3P9jfBVmVRTJW+YKG20CXaSKQrUUzAlg2dt+KM02pVKM58/OvqtusR6pEM;TPPu3IsNJVK6X/8yBD/Z7A=="
+secured: "oPZrrno1FuyW7EQAmQjDYZCN+Uy51L+GBsAxwji/q/fE/vgrPVsLeJRu7W56vInoh/cbB1sYNhcT3O8/7Lh5LD8VfZCapQ5JX92SwpIc9kpTBxw8vfSvZjHhQMSRtVu08OUA3poNEn4Sk22UdWxp/Dvjc24fuy0tjIm6dYgiFxmDiMZQhw6o8IMS+MNcugMgqKIVn4p812RGOhhIxuy4mxLHdGnEhR4M1FB3ooiwTaLqMa8kiLOLqC8DJxujafe9xR+1u2lpkayaTRbDZ3m3n7FLkKWDb9Z3Md+Q38Cjxbs5/HBRY387tfZzBEEDgOH+;jxcEZItsgQZNuDR1pQgq1Q=="
 ---
 

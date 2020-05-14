@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-24-system-reduces-the-energy-needed-for-training-running-neural-networks.md",
+      "title": "System Reduces the Energy Needed for Training, Running Neural Networks",
+      "excerpt": "Although artificial intelligence has turned out to be a spotlight of some moral concerns, it also has some significant sustainability problems. MIT researchers have developed a new automated AI system with improved computational efficiency and a much smaller carbon footprint. The researchers’ system trains one large neural network comprising ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.azocleantech.com/news.aspx?newsID=27202",
+      "ampWebUrl": "https://www.azocleantech.com/amp/news.aspx?newsID=27202",
+      "cdnAmpWebUrl": "https://www-azocleantech-com.cdn.ampproject.org/c/s/www.azocleantech.com/amp/news.aspx?newsID=27202",
+      "publishedDateTime": "2020-04-24T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Clean Tech",
+        "domain": "azocleantech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.azocleantech.com/images/news/ImageForNews_27202_15877319223121634.png",
+          "width": 639,
+          "height": 426,
+          "title": "System Reduces the Energy Needed for Training, Running Neural Networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-this-neural-network-was-fed-10000-dicks-to-learn-how-to-draw-one.md",
       "title": "This neural network was fed 10,000 dicks to learn how to draw one",
       "excerpt": "Word on the street is artificial intelligence is out to steal your job, but we often forget about all the good things it also does for us: Like helping us draw penises. One industrious researcher took it upon themselves to feed a recurrent neural network with 10,000 dick doodles in order to teach it how to draw the human phallus — and the ...",
@@ -1246,53 +1283,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-tensorflow-lite-gets-machine-learning-model-maker.md",
-      "title": "TensorFlow Lite gets machine learning model maker",
-      "excerpt": "Google has announced the TensorFlow Lite Model Maker. TensorFlow Lite is an open-source deep learning framework for on-device inference. The new tool is designed to adapt machine learning models to datasets with transfer learning. “It wraps the complex machine learning concepts with an intuitive API, so that everyone can get started without ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/tensorflow-lite-gets-machine-learning-model-maker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-13-at-4.22.27-PM.png",
-          "width": 781,
-          "height": 299,
-          "title": "TensorFlow Lite gets machine learning model maker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "TensorFlow",
-        "Google AI"
       ]
     }
   ],

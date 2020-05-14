@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026.md",
+      "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
+      "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026-2020-04-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-new-york-yankees-radio-voice-john-sterling-honored-with-2020-governors-award-at-new-york-emmys.md",
       "title": "New York Yankees Radio Voice John Sterling Honored With 2020 Governor's Award At New York Emmys",
       "excerpt": "Longtime NEW YORK YANKEES radio play-by-play voice JOHN STERLING was honored with the Governor's Award at the 2020 NEW YORK EMMY AWARDS. STERLING was recognized for his 60-year career at the event, which was held as a \"virtual gala celebration\" due to the COVID-19 CORONAVIRUS pandemic.",
@@ -1131,51 +1176,6 @@
           "width": 1200,
           "height": 630,
           "title": "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-google-releases-a-data-set-to-spur-development-of-multilingual-ai-models.md",
-      "title": "Google releases a data set to spur development of multilingual AI models",
-      "excerpt": "Google today released a natural language processing systems benchmark — XTREME — with nine tasks that require reasoning about semantics across 40 languages and 12 language families. Researchers at the tech giant assert it can evaluate whether AI models capture knowledge shared across languages, which can be useful for a growing number of ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/13/google-releases-a-data-set-to-spur-development-of-multilingual-ai-models/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/13/google-releases-a-data-set-to-spur-development-of-multilingual-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/13/google-releases-a-data-set-to-spur-development-of-multilingual-ai-models/amp/",
-      "publishedDateTime": "2020-04-13T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases a data set to spur development of multilingual AI models",
           "attribution": null
         }
       ],

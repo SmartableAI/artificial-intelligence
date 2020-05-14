@@ -1,23 +1,29 @@
 ---
 category: news
 title: "We designed an experimental AI tool to predict which COVID-19 patients are going to get the sickest"
-excerpt: "Some people have extremely mild cases while others find themselves fighting for their lives. Clinicians are working with limited resources against a disease that is very hard to predict. Knowing which patients are most likely to develop severe cases could help guide clinicians during this pandemic."
-publishedDateTime: 2020-05-14T13:08:00Z
-webUrl: "https://www.houstonchronicle.com/news/article/We-designed-an-experimental-AI-tool-to-predict-15269539.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/We-designed-an-experimental-AI-tool-to-predict-15269539.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/We-designed-an-experimental-AI-tool-to-predict-15269539.php"
+excerpt: "COVID-19 doesn’t create cookie cutter infections. Some people have extremely mild cases while others find themselves fighting for their lives. Clinicians are working with limited resources against a disease that is very hard to predict."
+publishedDateTime: 2020-05-14T14:12:00Z
+webUrl: "https://www.rawstory.com/2020/05/we-designed-an-experimental-ai-tool-to-predict-which-covid-19-patients-are-going-to-get-the-sickest/"
+ampWebUrl: "https://www.rawstory.com/2020/05/we-designed-an-experimental-ai-tool-to-predict-which-covid-19-patients-are-going-to-get-the-sickest/amp/"
+cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/05/we-designed-an-experimental-ai-tool-to-predict-which-covid-19-patients-are-going-to-get-the-sickest/amp/"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: The Raw Story
+  domain: rawstory.com
 
 topics:
   - AI
 
-secured: "dPTLrBbPN64kCdgLvAJmEOwrk1qQC24qDS3tO0R5RH6SedSiQUdm/BnhRppp0QdRa5TEQh0k0aupk0+5ZnuaKdrnCwvM6Abvx+pSjaC7cmhQyP5ks6Cxb7kULzrT7y+j5LA8378H+UXgY0pIBAPrRx7A9u5Uj74RVlGozAblQT+dsgYXHSz4DMbs28CUVUkrWAft1ov4k+1mewqhxNY1hR/zFSfpHVYN83BuUPa7/4OmhoTvA+j06jiEfJO1+YZbqnnXALrOYY3SQRdnL+KvqlV5Osc4Xvi9MegLZfOyyMySb8OYY3azNYLszqypXxrz;7/0T71PT8zGapvWwT37MLg=="
+images:
+  - url: "https://www.rawstory.com/wp-content/uploads/2020/05/Coronavirus-Paris.jpg"
+    width: 761
+    height: 412
+    title: "We designed an experimental AI tool to predict which COVID-19 patients are going to get the sickest"
+
+secured: "0hUeTt6Cobpgo7C4GDY2a2GH/7n4xLvRvfgiGX9ywMTjYTXRV6Uttvf1Cu7fHys6qW9laQLYs8uRc6w9lYLtiXVfyBTA7n+YXEiBkrrsUnPFUG4fC6MuNl+DIw9E/4IWVlLKGZ97jgSCgmjfmSjgzKk37Y15vltuOqmdi8d2gQEADR4pQ/4CqQY5UxbtHaxibnkUacueUmxOF/wuUQEU3duORbZZ7cXAXYkUBnZo9LQVisM62/OJLoyQayrgYGDimEFAL0SaPjp8VUnTGnnM78QzuTQC2nvZUSfHOijNt9Uay3Galy6Y1dgSywB/CUxN;86qbqgU7CrQAEnf78edGRg=="
 ---
 

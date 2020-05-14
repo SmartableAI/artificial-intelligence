@@ -2,6 +2,98 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-05-the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero.md",
+      "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
+      "excerpt": "AI algorithms for deep-reinforcement learning have demonstrated the ability to learn at very high levels in constrained domains.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
+      "publishedDateTime": "2020-05-05T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-769726995.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers.md",
+      "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
+      "excerpt": "The Consumer Technology Association penned an open letter alongside a number of other industry representatives asking the U.S. Trade Representative’s Office to loosen tariffs on a number of tech categories manufactured in China.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/amp/",
+      "publishedDateTime": "2020-05-05T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-931630954.jpg?w=724",
+          "width": 724,
+          "height": 483,
+          "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-study-shows-how-our-brains-replay-recent-experiences-during-sleep.md",
       "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
       "excerpt": "While we sleep, our brains are busy organising fresh memories into long-term storage—or at least, that’s the theory. Intriguing new research is bolstering this assertion, with evidence that our brains replay the day’s experiences during sleep,",
@@ -1181,96 +1273,6 @@
       "topics": [
         "AI",
         "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-how-will-service-robotics-market-deal-with-the-covid-19-crisis.md",
-      "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
-      "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/how-will-service-robotics-market-deal-with-the-covid-19-crisis-2020-04-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-how-artificial-intelligence-iot-and-big-data-can-save-the-bees.md",
-      "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
-      "excerpt": "Artificial intelligence (AI), internet of things sensors, big data analytics, and other technologies are being used to monitor and develop solutions to mitigate the global issue of declining honey bee and pollinator populations.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
-      "publishedDateTime": "2020-04-21T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9fc586dea8300007de8a08%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Robotics"
       ]
     }

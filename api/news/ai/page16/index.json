@@ -2,6 +2,549 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-29-do-i-sound-sick-to-you-researchers-are-building-ai-that-would-diagnose-covid-19-by-listening-to-people-talk.md",
+      "title": "Do I sound sick to you? Researchers are building AI that would diagnose COVID-19 by listening to people talk.",
+      "excerpt": "Researchers at universities including Carnegie Mellon University, Harvard, and MIT are collecting voice data to train algorithms to diagnose COVID-19.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/ai-labs-diagnose-covid-19-voice-listening-talk-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/ai-labs-diagnose-covid-19-voice-listening-talk-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-labs-diagnose-covid-19-voice-listening-talk-2020-4?amp",
+      "publishedDateTime": "2020-04-29T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5d55bf4dcd978450f616290a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Do I sound sick to you? Researchers are building AI that would diagnose COVID-19 by listening to people talk.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-microsoft-reports-350-billion-in-q3-2020-revenue-azure-up-59-surface-up-1-and-linkedin-up-21.md",
+      "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
+      "excerpt": "Microsoft today reported fiscal Q3 2020 earnings, including revenue of $35.0 billion, net income of $10.8 billion, and earnings per share of $1.40.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/",
+      "publishedDateTime": "2020-04-29T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all",
+          "width": 2048,
+          "height": 1025,
+          "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-would-you-give-up-some-security-if-face-unlock-worked-with-a-face-mask-on.md",
+      "title": "Would you give up some security if face unlock worked with a face mask on?",
+      "excerpt": "It’s the end of April 2020, and we’re all doing our best to adjust to the new normal of social distancing and wearing face masks wherever we go. Companies around the world are pivoting their business models to create face masks for those who need them.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/",
+      "ampWebUrl": "https://www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/amp/",
+      "publishedDateTime": "2020-04-29T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/03/Woman-wearing-facemask-1-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Would you give up some security if face unlock worked with a face mask on?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-googles-ai-attempts-to-predict-how-yeast-cell-genes-will-express-themselves.md",
+      "title": "Google’s AI attempts to predict how yeast cell genes will express themselves",
+      "excerpt": "Google’s work in AI and gene expression follows the publication of a study describing a “massively parallel reporter assay” (MPRA),” a framework designed to investigate DNA. The researchers claimed it could be used to create AI models that predict gene regulation for industrial and life science applications. An older work proposes a ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/googles-ai-attempts-to-predict-how-yeast-cell-genes-will-express-themselves/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/googles-ai-attempts-to-predict-how-yeast-cell-genes-will-express-themselves/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/googles-ai-attempts-to-predict-how-yeast-cell-genes-will-express-themselves/amp/",
+      "publishedDateTime": "2020-04-29T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI attempts to predict how yeast cell genes will express themselves",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-an-ai-meme-generator-gives-us-the-absurdist-art-we-all-need.md",
+      "title": "An AI Meme Generator Gives Us the Absurdist Art We All Need",
+      "excerpt": "Titled, wryly, This Meme Does Not Exist, the tool is very simple: Select from one of dozens of popular memes and let the generator do the rest. Pick Dave Chappelle’s Tyrone Biggums’ Y’all Got Any More of That meme and it’ll spit out something about emails.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-meme-generator-coronavirus/",
+      "ampWebUrl": "https://www.wired.com/story/ai-meme-generator-coronavirus/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-meme-generator-coronavirus/amp",
+      "publishedDateTime": "2020-04-29T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ea9d66f08103b0008367982/master/pass/Cul-mememe-865675824.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "An AI Meme Generator Gives Us the Absurdist Art We All Need",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-10-steps-to-creating-trustworthy-ai-applications.md",
+      "title": "10 Steps To Creating Trustworthy AI Applications",
+      "excerpt": "Promoting \"trustworthy\" artificial intelligence-based applications for COVID-19 and other uses remains a high priority for policymakers, but crafting procedures that enhance AI trustworthiness requires careful consideration of many factors,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.law360.com/articles/1268432/10-steps-to-creating-trustworthy-ai-applications",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1268432",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1268432",
+      "publishedDateTime": "2020-04-29T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-facebooks-teaching-ai-to-lie-like-a-human.md",
+      "title": "Facebook’s teaching AI to lie like a human",
+      "excerpt": "Because, essentially, what Facebook‘s done is taught Blender’s chatbots to lie moderately better than everyone else’s. Today we’re announcing that Facebook AI has built and open-sourced Blender, the largest-ever open-domain chatbot.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
+      "publishedDateTime": "2020-04-29T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Facebook’s teaching AI to lie like a human",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-tectonai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges.md",
+      "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
+      "excerpt": "Tecton.ai is a data platform for machine learning that lets data scientists transform raw data into production-ready features.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/tecton-ai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/04/tecton-hero-1180px@2x-1024x357.png",
+          "width": 1024,
+          "height": 357,
+          "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-covid-19-insights-quantzigs-latest-success-story-illustrates-how-multi-touch-attribution-analysis-solutions-can-help-e-learning-companies-drive-conversions-and-improve-rois.md",
+      "title": "COVID-19 Insights: Quantzig’s Latest Success Story Illustrates How Multi-Touch Attribution Analysis Solutions Can Help E-learning Companies Drive Conversions and Improve ROIs",
+      "excerpt": "Quantzig, global data analytics and advisory firm, that delivers actionable analytics solutions presents a new case study series that focuses on how coronavirus is impacting businesses across geographies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200429005776/en/COVID-19-Insights-Quantzig’s-Latest-Success-Story-Illustrates",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200429005776/en/570204/23/Quantzig_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "COVID-19 Insights: Quantzig’s Latest Success Story Illustrates How Multi-Touch Attribution Analysis Solutions Can Help E-learning Companies Drive Conversions and Improve ROIs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-the-ai-meme-generator-is-better-at-making-memes-than-humans.md",
+      "title": "The AI meme generator is better at making memes than humans",
+      "excerpt": "Internet users have used the Imgflip meme generator to create their own memes for the better part of a decade. Now, the site is generating its own memes, using the help of artificial intelligence. Harkening back to AI-generated feet pictures and AI-generated faces,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/ai-meme-generator/",
+      "ampWebUrl": "https://mashable.com/article/ai-meme-generator.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/ai-meme-generator.amp",
+      "publishedDateTime": "2020-04-29T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F29%252Fe6%252Ffccff94954e94c1197cd695c0359290d.89652.png%252F1200x630.png?signature=iB3J6jwGoxGkoaY0JIFKbiybHEs=",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI meme generator is better at making memes than humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-roborock-s6-maxv-robot-vacuum-hands-on-ai-camera-eliminates-pet-poop-disasters.md",
+      "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
+      "excerpt": "All in all, the Roborock S6 MaxV is a superb high-end robot vacuum with obstacle avoidance and an app that is easy to configure. For $749, it could be the only robot vacuum you will ever need to buy.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/product/roborock-s6-maxv-robot-vacuum/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
+      "publishedDateTime": "2020-04-29T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/29/c6bf9a20-fbd2-4936-a1ca-bec926067d2e/resize/1200x900/32bb8dd0f8fd50e98ba8b741c9011d30/roborock-s6-maxv-robot-vacuum-eileen-brown-zdnet.png",
+          "width": 1200,
+          "height": 532,
+          "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-google-open-sources-faster-more-efficient-tensorflow-runtime.md",
+      "title": "Google open-sources faster, more efficient TensorFlow runtime",
+      "excerpt": "Google open-sourced TFRT, a faster and more efficient runtime that'll eventually replace the default runtime in the company's TensorFlow framework.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/",
+      "publishedDateTime": "2020-04-29T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google open-sources faster, more efficient TensorFlow runtime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead.md",
+      "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
+      "excerpt": "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/cruise-gm-autonomous-cars-food-delivery/",
+      "ampWebUrl": "https://mashable.com/article/cruise-gm-autonomous-cars-food-delivery.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/cruise-gm-autonomous-cars-food-delivery.amp",
+      "publishedDateTime": "2020-04-29T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F29%252F5e%252F1efeba8e0f7e467eb123699e8e9356c2.e6915.jpg%252F1200x630.jpg?signature=Hvy3PtU_wTqrmzWJ1FvBYTRijw0=",
+          "width": 1200,
+          "height": 630,
+          "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition.md",
       "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
       "excerpt": "Many industries, including retail, manufacturing, and healthcare, are adopting IoT-enabled devices and using AI or machine learning (ML) technologies to enable such devices to make human-like decisions without human intervention. You can also apply some of the use cases involving powering IoT-enabled",
@@ -703,552 +1246,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-quest-for-fusion-energy-may-be-advanced-by-artificial-intelligence-and-machine-learning.md",
-      "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
-      "excerpt": "Algorithms are increasingly being deployed to predict disruptions that could potentially occur during fusion experiments and may help turn the long-discussed energy source into reality, experts say.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868",
-      "ampWebUrl": "https://www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868?amp=1",
-      "publishedDateTime": "2020-04-29T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1585581/iter.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-fintech-solution-provider-fis-vc-division-to-invest-150-million-in-high-potential-financial-tech-companies.md",
-      "title": "Fintech Solution Provider FIS’ VC Division to Invest $150 Million in High-Potential Financial Tech Companies",
-      "excerpt": "FIS (NYSE:FIS), a financial services technology provider ... including those related to artificial intelligence, machine learning, digital enablement and automation, data and analytics, and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/04/160795-fintech-solution-provider-fis-vc-division-to-invest-150-million-in-high-potential-financial-tech-companies/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/04/160795-fintech-solution-provider-fis-vc-division-to-invest-150-million-in-high-potential-financial-tech-companies/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/04/160795-fintech-solution-provider-fis-vc-division-to-invest-150-million-in-high-potential-financial-tech-companies/amp/",
-      "publishedDateTime": "2020-04-29T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2017/11/Fintech-NYC-small-1-600x450.jpg",
-          "width": 600,
-          "height": 450,
-          "title": "Fintech Solution Provider FIS’ VC Division to Invest $150 Million in High-Potential Financial Tech Companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-uk-start-ups-have-raised-825-million-during-virus-lockdown-but-fewer-deals-are-being-made.md",
-      "title": "UK start-ups have raised $825 million during virus lockdown, but fewer deals are being made",
-      "excerpt": "Funding into U.K. start-ups has soared by 34% as investors look to ensure their bets stay afloat during the coronavirus pandemic.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
-      "publishedDateTime": "2020-04-29T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105446571-1536765456472rts20xk6.jpg?v=1536765553",
-          "width": 4842,
-          "height": 2952,
-          "title": "UK start-ups have raised $825 million during virus lockdown, but fewer deals are being made",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-rise-of-the-machines-aiml-in-endpoint-protection.md",
-      "title": "Rise Of The Machines: AI/ML In Endpoint Protection",
-      "excerpt": "While AI/ML is no panacea for cyber threats we all face today, the rise of the machines has given us a powerful advantage in the never-ending battle against hackers and cybercriminals.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/amp/",
-      "publishedDateTime": "2020-04-29T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-50-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Rise Of The Machines: AI/ML In Endpoint Protection",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-microsoft-this-is-how-to-protect-your-machine-learning-applications.md",
-      "title": "Microsoft: This is how to protect your machine-learning applications",
-      "excerpt": "The models that drive our ML applications are incredibly complex, training neural networks on large data sets. But there's a big problem: they're hard to explain or understand. Why does a model parse a red blob with white text as a stop sign and not a soft drink advert?",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
-      "publishedDateTime": "2020-04-29T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: This is how to protect your machine-learning applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district.md",
-      "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
-      "excerpt": "Yandex today announced the launch of an autonomous delivery service in Skolkovo, Russia, powered by its Yandex.Rover robots.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
-      "publishedDateTime": "2020-04-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/yandex_drone-e1588089973460.png?fit=750%2C375&strip=all",
-          "width": 750,
-          "height": 375,
-          "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-prediction-of-the-functional-impact-of-missense-variants-in-brca1-and-brca2-with-brca-ml.md",
-      "title": "Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML",
-      "excerpt": "In silico predictions of missense variants is an important consideration when interpreting variants of uncertain significance (VUS) in the BRCA1 and BRCA2 genes. We trained and evaluated hundreds of machine learning algorithms based on results from validated functional assays to better predict missense variants in these genes as damaging or neutral.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41523-020-0159-x",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41523-020-0159-x/MediaObjects/41523_2020_159_Fig1_HTML.png",
-          "width": 685,
-          "height": 393,
-          "title": "Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-alphabet-earnings-five-key-takeaways-as-covid-19-hits-google.md",
-      "title": "Alphabet earnings: Five key takeaways as Covid-19 hits Google",
-      "excerpt": "Google parent company Alphabet has given a key indication of how the Covid-19 crisis will impact Silicon Valley ahead of a string of first-quarter results.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cityam.com/alphabet-earnings-five-key-takeaways-as-covid-19-hits-google/",
-      "ampWebUrl": "https://www.cityam.com/alphabet-earnings-five-key-takeaways-as-covid-19-hits-google/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/alphabet-earnings-five-key-takeaways-as-covid-19-hits-google/amp/",
-      "publishedDateTime": "2020-04-29T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2020/04/1192592454.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": "Alphabet earnings: Five key takeaways as Covid-19 hits Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-ai-cant-solve-this-the-coronavirus-could-be-highlighting-just-how-overhyped-the-industry-is.md",
-      "title": "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is",
-      "excerpt": "Artificial intelligence has been hailed as a monumental technology that will change the world, but coronavirus is showing that it is still in its infancy.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
-      "publishedDateTime": "2020-04-28T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
-          "width": 3999,
-          "height": 2666,
-          "title": "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026.md",
-      "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
-      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026-2020-04-29",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-self-driving-car-testing-goes-all-virtual-just-like-everything-else.md",
-      "title": "Self-driving car testing goes all virtual, just like everything else",
-      "excerpt": "Waymo, the self-driving car company spun off from Google, shut down its robo-taxi service in Arizona and stopped testing its vehicles on public roads because of the coronavirus pandemic. But that doesn't mean driverless car testing isn't still happening.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else",
-      "ampWebUrl": "https://sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else?amp=1",
-      "publishedDateTime": "2020-04-28T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/news/s/self-drivi/self-driving-car-testing-goes-all-virtual-just-like-everythi_p3je.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Self-driving car testing goes all virtual, just like everything else",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-the-secret-sauce-behind-project-cortex-good-metadata.md",
-      "title": "The Secret Sauce Behind Project Cortex: Good Metadata",
-      "excerpt": "It will of course, apply security trimming, just as it does with Microsoft Search results. Sounds pretty sexy, no? AI! Machine learning! Azure Cognitive Services! But the foundation of all this ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cmswire.com/information-management/the-secret-sauce-behind-project-cortex-good-metadata/",
-      "ampWebUrl": "https://www.cmswire.com/information-management/the-secret-sauce-behind-project-cortex-good-metadata/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/the-secret-sauce-behind-project-cortex-good-metadata/amp/",
-      "publishedDateTime": "2020-04-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/844a4b56a53d42f580970c9b535081e1.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": "The Secret Sauce Behind Project Cortex: Good Metadata",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-uk-start-ups-have-raised-825-million-during-virus-lockdown-but-less-deals-are-being-made.md",
-      "title": "UK start-ups have raised $825 million during virus lockdown, but less deals are being made",
-      "excerpt": "Funding into U.K. start-ups has soared by 34% as investors look to ensure their bets stay afloat during the coronavirus pandemic.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
-      "publishedDateTime": "2020-04-28T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105446571-1536765456472rts20xk6.jpg?v=1536765553",
-          "width": 4842,
-          "height": 2952,
-          "title": "UK start-ups have raised $825 million during virus lockdown, but less deals are being made",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/14/21258419/nvidia-ampe
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -42,6 +42,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 84
+  - title: "Nvidia's bleeding-edge Ampere GPU architecture revealed: 5 things PC gamers need to know"
+    excerpt: "Nvidia revealed its next-gen Ampere graphics architecture on Thursday in the form of the A100 data center GPU. PC gamers can glean a lot about future GeForce graphics cards from the announcement."
+    publishedDateTime: 2020-05-14T15:06:00Z
+    webUrl: "https://www.pcworld.com/article/3543834/nvidia-ampere-gpu-architecture-reveal-geforce-pc-gamers.html"
+    ampWebUrl: "https://www.pcworld.com/article/3543834/nvidia-ampere-gpu-architecture-reveal-geforce-pc-gamers.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3543834/nvidia-ampere-gpu-architecture-reveal-geforce-pc-gamers.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 80
+    images:
+      - url: "https://images-na.ssl-images-amazon.com/images/I/41PHJMoCeFL.jpg"
+        width: 500
+        height: 429
   - title: "Nvidia Unveils 7nm Ampere A100 GPU To Unify Training, Inference"
     excerpt: "Alternatively, the A100 can link with seven other units to act as one giant GPU. [Related: Nvidia Plans To Buy Cumulus Networks In Networking Software Play] In a pre-briefing with journalists, Nvidia CEO and founder Jensen Huang said the A100 will create a tectonic shift in the economics of spinning up new data centers for AI inference and ..."
     publishedDateTime: 2020-05-14T11:33:00Z
@@ -56,6 +71,6 @@ related:
         width: 1000
         height: 600
 
-secured: "jDxCol97K/aEuHTjhOwZz4rJN1ZUD2RhTMpgFMhkcDItEhmus1dIuC1057R/dvi4He8RzeeStmGIPcbLR0mxjdGx5wP+9v1p2eWcxbU8AJcQqjCXDcnyr5jZKgdBjEDUHGA1ub4srSH+/OFqYx+rkZFdoBgw0Nupo7wlpH7I+1VLhnjjT3nei1T5nfEj+UwT/hvTXn02s7xGidhmKlbqrSWmAovvnWHSH6bOM5BC0ovQFd+pppuFoF5WyKoEmklh3QzcZbrTPX5wZ6ysPqwswNNrS+wau8c0j5nAQnSKcBnRQ8Q5AljyydAmYab4gqeX;E0zRaWUgroWbWjX8Q5DpVA=="
+secured: "0E19rQlY41abYGCDT9fswRKMgYnYet6KeE9ezTAReOSnV8owqzXC0xaAdhCEL4WpPTmGAmWyE1JHmoE7t5nvWCQQWnXeeEqlM7ENWYhRpanRQHStVJj+404ePrn6piY4r9oINRU83nlwwhp5BaUQiGRgKGd5xw4t1tb38Uelp7+D109Z/T+1RGyUfExogh3m5aChzngBcgsv5AjazbOqm9uJO0KZmgdJ4Oj/eDM4rrd2piR/9Zw1S6OEymvOC+b6NXI4ZTs9rcYi6knjFXsgT0UGMJUFSap0S94ZgfQBjKtUnMyApZaUQ5O8UK7GOZKBxpQzMOMXVkS4tmUrqq4SRMsmuPjgLmqzofdWYp1wa8R/EL275h5jla1n0a0Y8XPx/moYEBYpNskbc3xnAOPT/MZiMq/yM70eLQ9+F4+5zJzlC/7kG6Yw/0X6weVuARE5s820jl0hO7FL/pD/+MYBIEH0DrikduEkZxSFW+tlHvA=;AdiLL3kg9ueaxshc6TvRSQ=="
 ---
 

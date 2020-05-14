@@ -2,6 +2,89 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-29-alphabet-earnings-five-key-takeaways-as-covid-19-hits-google.md",
+      "title": "Alphabet earnings: Five key takeaways as Covid-19 hits Google",
+      "excerpt": "Google parent company Alphabet has given a key indication of how the Covid-19 crisis will impact Silicon Valley ahead of a string of first-quarter results.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cityam.com/alphabet-earnings-five-key-takeaways-as-covid-19-hits-google/",
+      "ampWebUrl": "https://www.cityam.com/alphabet-earnings-five-key-takeaways-as-covid-19-hits-google/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/alphabet-earnings-five-key-takeaways-as-covid-19-hits-google/amp/",
+      "publishedDateTime": "2020-04-29T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2020/04/1192592454.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": "Alphabet earnings: Five key takeaways as Covid-19 hits Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026.md",
+      "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
+      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026-2020-04-29",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-self-driving-car-testing-goes-all-virtual-just-like-everything-else.md",
       "title": "Self-driving car testing goes all virtual, just like everything else",
       "excerpt": "Waymo, the self-driving car company spun off from Google, shut down its robo-taxi service in Arizona and stopped testing its vehicles on public roads because of the coronavirus pandemic. But that doesn't mean driverless car testing isn't still happening.",
@@ -1172,96 +1255,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars.md",
-      "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
-      "excerpt": "To make things parsimonious, there are two overarching categories conventionally used when discussing trust levels, namely a citizenry of little or no trust, known as a low-trust nation or locale, versus being characterized as a high-trust nation or locale,",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-04-21T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F182201783%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D419%26cropY2%3D3567",
-          "width": 1200,
-          "height": 675,
-          "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides-through-search-and-map-apps-in-changsha.md",
-      "title": "Chinese internet giant Baidu offers free trial robotaxi rides through search and map apps in Changsha",
-      "excerpt": "Baidu’s Apollo robotaxi program has set up a complete mechanism for safety evaluation and technical support,” the Nasdaq-listed company said in the statement on Monday. “This time [we are ready to] launch the service at a large-scale to the public.” We tried out a futuristic, self-driving robotaxi in China The company’s move to expand ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/apps-social/article/3080712/chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides",
-      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3080712/chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3080712/chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides",
-      "publishedDateTime": "2020-04-20T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/20/774b19fe-82e3-11ea-8863-2139a14b0dea_image_hires_165514.JPG?itok=p5GpxoUY&v=1587372921",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese internet giant Baidu offers free trial robotaxi rides through search and map apps in Changsha",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

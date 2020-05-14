@@ -50,7 +50,7 @@
       "path": "_news/2020-05-14-nvidia-and-databricks-announce-gpu-acceleration-for-spark-30.md",
       "title": "Nvidia and Databricks announce GPU acceleration for Spark 3.0",
       "excerpt": "At its GPU Technology Conference event today, Nvidia is announcing GPU acceleration for Apache Spark 3.0, made possible by open source software developed in collaboration with Spark's creators at Databricks.",
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/nvidia-and-databricks-announce-gpu-acceleration-for-spark-3-0/",

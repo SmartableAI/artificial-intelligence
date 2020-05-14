@@ -56,6 +56,32 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/51630/content/small_nvidia_a100_ampere.jpg"
         width: 708
         height: 566
+  - title: "Nvidia Unveils Its First Ampere-Based GPU, Raises Bar for Data Center AI"
+    excerpt: "Nvidia took the wraps off its first Ampere-based GPU today, the A100, along with a raft of products that rely on the new GPU and new architecture for massive improvements in both performance and power efficiency of AI and other GPGPU computing tasks."
+    publishedDateTime: 2020-05-14T14:45:00Z
+    webUrl: "https://www.extremetech.com/extreme/310500-nvidia-raises-the-bar-for-data-center-ai"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 53
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Nvidia-A100-GPU.jpg"
+        width: 1344
+        height: 742
+  - title: "Nvidia unveils the A100 Tensor Core GPU"
+    excerpt: "GPU compute beast for DGX A100 AI system The focus of the GTC 2020 was Nvidia's new A100 Tensor Core GPU, which is based on the new Ampere architecture GA100 GPU, and will be a part of Nvidia's new DGX A100 AI system."
+    publishedDateTime: 2020-05-14T15:44:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/50832-nvidia-unveils-the-a100-tensor-core-gpu"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9c64f03b16d1179ee51e7183e913ffd6_L.jpg"
+        width: 620
+        height: 465
 
 secured: "M1sSmA8wMg9wzruPVHYfVIUIfUazpEm5zj2gaLHJLdPQ9X8AGEet3W1AvN1f4Lclp2RorgozxHcC/A76pZgO6k6Pzz+QLIOWdqhKqAWRFLD6tnw3cQxOpMX5mvv4Z6aNCvX/1kcl5pvfW5JomYTmBSODJ+nOEV4nZnZQQgBmwjWrJFfmRsJmgfAOL5Lz/+I1iaGLVR6PM7/DjNFCZ3o0/NyxDm7L/iWn8TliTUnyFioAvyNKTynT/6Nq+kQSARDlzwubgO+YNO0XlIiOzl1LrBLJkAjLfp1C8kk4wguhJiXJpzjz74uWX4i4Nv/xUOAI;EjQaRpH1jghNzYA9hBtRig=="
 ---

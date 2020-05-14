@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
+      "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
+      "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report",
+      "ampWebUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
+      "publishedDateTime": "2020-05-14T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/iStock-914562482.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-artificial-intelligence-chipset-market-2020-top-growing-companies-structure-inspection-and-forecast-2025.md",
+      "title": "Artificial Intelligence Chipset Market 2020 Top Growing Companies, Structure Inspection and Forecast 2025",
+      "excerpt": "Market Research Engine has published a new report titled as \"Artificial Intelligence Chipset Market Size By Component (Hardware, Software ), By Technology (Machine Learning, Natural Language Processing (NLP),",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-top-growing-companies-structure-inspection-and-forecast-2025-2020-05-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Chipset Market 2020 Top Growing Companies, Structure Inspection and Forecast 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020.md",
       "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
       "excerpt": "Waymo, the autonomous driving unit of Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL), announced Tuesday that it has raised a further $750 million in external investment.",
@@ -1200,98 +1293,6 @@
           "width": 1440,
           "height": 720,
           "title": "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero.md",
-      "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
-      "excerpt": "AI algorithms for deep-reinforcement learning have demonstrated the ability to learn at very high levels in constrained domains.",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
-      "publishedDateTime": "2020-05-05T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-769726995.jpg?w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers.md",
-      "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
-      "excerpt": "The Consumer Technology Association penned an open letter alongside a number of other industry representatives asking the U.S. Trade Representative’s Office to loosen tariffs on a number of tech categories manufactured in China.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/amp/",
-      "publishedDateTime": "2020-05-05T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-931630954.jpg?w=724",
-          "width": 724,
-          "height": 483,
-          "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
           "attribution": null
         }
       ],
