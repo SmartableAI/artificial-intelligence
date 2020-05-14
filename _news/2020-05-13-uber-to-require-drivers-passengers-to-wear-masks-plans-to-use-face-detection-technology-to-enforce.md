@@ -23,6 +23,6 @@ images:
     height: 1362
     title: "Uber to require drivers, passengers to wear masks; plans to use face-detection technology to enforce"
 
-secured: "hqhD3ej4J9CDkX1WUGl04u8MJCQu0F2w8Wfqfq6o5YccfsJ/7oiRH4ykkYw9a7Lkf4qrXhhOjvoJY9bw+xToZwIJ6D17x0kLi0Q3jNMpn0GJHPX/gD/cG93MomfMsT+8jVQTXCIW2f8wuSUwTTvZ7/f7G1heqgcNi0U+sWTMaWkwwBQAPiu6r3sP/Z3w7HGNbGiqUqx/2QxwL6oYHIgLOLndrmbkOzLN5c6x1h9ZyES3e+AGFUjS2RgWDU6n5TUAv/7ib+CYaF3TzzHez5HrE6d6WQttN1WI8NVntgM3zk51NEtkFFpF27pVg+8RGULY;TCjrMT4Etkl52oDWv3uevg=="
+secured: "QFV/KdXDU+m7wuYS9wtL8/fJZycMUQ7KZ3+0ttZl3YmNqeQAslym5suYBBGvz7ixzucFW1IuV092W5IFLrfav6vgnY8joXQJQSakE5LnWunH+QIDF660bGQJjaTgG/wZp65tvahONTIjjNszQpvekyaJETSKYNhw3iwQ0E2befDcuUnIKN4fqi7C/hVTDarYB5mwaoqcw+TY5GX//HisMO9xU86wMj+ArK8asHlb7T0FuI80EY7ziLy9fol/DGe2UEvy/sLFKhrxsZlY3ZAKjwlDhhRJsFIqtBgoY8HfkVqAdLld9e8UbgyW5ZoXaumyGZ2ckQ3WWgIQX7a+XPpJKQDRKs/m89SSZh7SIgbkPajKSKSRSBhvgb8jNc+GBT7haJ/8q8PAkH0AMwyjpw3WDeH08gjc5NMRfittPTYsgLoNu9Uz97iMtn0z8FLuaGVmUYTPdRYhhWbMeFd7uZIBO5YXcSkK6YgoXBnSICx7/Qk=;pP+xFg/H9Y5Wn+cXp/qbWQ=="
 ---
 

@@ -3,7 +3,7 @@ category: news
 title: "Yell orders through your microphone in Radio General now with Linux voice support"
 excerpt: "Radio General, a strategy game that puts you in a tent with a radio and a map and has you direct troops around released recently with Linux support."
 publishedDateTime: 2020-05-13T13:33:00Z
-webUrl: "https://www.gamingonlinux.com/2020/05/yell-orders-through-your-microphone-in-radio-general-now-with-linux-voice-support/comment_id=180818"
+webUrl: "https://www.gamingonlinux.com/2020/05/yell-orders-through-your-microphone-in-radio-general-now-with-linux-voice-support/comment_id=180837"
 type: article
 quality: 19
 heat: 19
@@ -23,6 +23,6 @@ images:
     height: 420
     title: "Yell orders through your microphone in Radio General now with Linux voice support"
 
-secured: "oRzHH01p+AQkXF1SD2mmRBuRkLb+1EWvH3m+ccI0Qw6DRpN2s90d5sJ8AP6p+Dp/4YiqX7qFEjorVDlND2Vw+D8ToJpDhSQX2MKaMpO2BZdM4R1fnST9zFHHRmqSYVDdYyAUYIMdsoOVICVKeR5x1Y37jUO7xPsRAc34GBnuXvAbIb6vdNKs1wAZEJsQIJDVbU5Lbdgu9SNpYjEssCi8MRLB7TMMvYEfHpUhosfPtmbXZ51fUiegjAUQwe08zdSCm59Jm5HdJ490TAK03A6w6WPSfb5ZC69YNyHeROrchI+R4cSMwAxwwx49vOZES74tN6O3eztRlQOUniwHygEnCE8niBQxFnVy5bJe/EMfOo4qAu6xQutxbMz1TL98nzwCBreAn2CfZxLQlcVmwhTaUylBEEiiB1g1pMSpdSIQG49F01MLJ2Y6perXahd8mTFjunugbRddrNOSWav5kMCt2nONQtjQ/WqphlBxHeoxcJg=;RRH7yeT/h5okUJqa/ifsoA=="
+secured: "mvIVDvGaghVK7PI6+1nEk55bfC2vUw84YvR0l4NGpIQXSAecdtJpR923b8uSTJF30FGjMRf7KZMm6WDmGrWUrEsZrV0/mrBwk+lB+YxysfEWk19KhQ8jMMosZhh6DW5dKcygrHM/rvGUEACIv3d6COAlkWHAnBESLuJGFbiGGfYh2w4L01XOSUmca6DO2mb122Vb2jSS90GxaL3mWeKPU+22hap/Jh6sVEeqlUOvNhk7/4Fio4LeU4bcDlF/9EJkq92i34uczf9qJmzv0FhfL2Mu51byuP4iJzy6f68HiyzDIDFIbQio/3BmQX489viz;SS9QxgNoeu7Rn43XuPbJ1g=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-05-01-senator-questions-clearview-ai-over-coronavirus-tracking-plans.md",
+      "title": "Senator questions Clearview AI over coronavirus tracking plans",
+      "excerpt": "Sen. Edward Markey says COVID-19 contact tracing can't be \"used as cover by companies like Clearview to build shadowy surveillance networks.\"",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
+      "publishedDateTime": "2020-05-01T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Senator questions Clearview AI over coronavirus tracking plans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-how-artificial-intelligence-amazon-and-ubc-are-working-together-to-chart-coronavirus-treatment.md",
       "title": "How artificial intelligence, Amazon and UBC are working together to chart coronavirus treatment",
       "excerpt": "UBC researchers are teaming up with Amazon Web Services to develop a global cloud-based dataset that uses artificial intelligence to build treatment models for COVID-19 patients.",
@@ -1224,43 +1268,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-training-instance-segmentation-neural-network-with-synthetic-datasets-for-seed-phenotyping.md",
-      "title": "Training instance segmentation neural network with synthetic datasets for seed phenotyping",
-      "excerpt": "A team of scientists led by Yosuke Toda, Designated Assistant Professor at the Institute of Transformative Bio-Molecules (WPI-ITbM), Nagoya University, and Fumio Okura, Assistant Professor at the Institute of Scientific and Industrial Research,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://eurekalert.org/pub_releases/2020-04/iotb-tis042420.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/230120_web.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": "Training instance segmentation neural network with synthetic datasets for seed phenotyping",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

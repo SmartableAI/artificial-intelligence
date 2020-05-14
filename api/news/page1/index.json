@@ -136,7 +136,7 @@
       "path": "_news/2020-05-13-artificial-intelligence-cant-yet-learn-common-sense.md",
       "title": "Artificial intelligence can't yet learn common sense",
       "excerpt": "The quest to make AI as smart as humans is still ongoing. But there are things your company can do to get better results from the technology.",
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-cant-yet-learn-common-sense/",
@@ -174,7 +174,9 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
       ]
     },
     {

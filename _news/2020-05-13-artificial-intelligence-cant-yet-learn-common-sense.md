@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/artificial-intelligence-cant-yet-l
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/artificial-intelligence-cant-yet-learn-common-sense/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-cant-yet-learn-common-sense/"
 type: article
-quality: 89
-heat: 89
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/13/7c16912b-b0eb-4826-9e76-7bddcaa31dd9/resize/1200x/2dbb27f927dfced01c232730649a514c/istock-1046249370.jpg"
