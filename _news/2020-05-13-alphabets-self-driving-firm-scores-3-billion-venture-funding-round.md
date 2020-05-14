@@ -51,7 +51,7 @@ related:
     provider:
       name: freightwaves.com
       domain: freightwaves.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://s29755.pcdn.co/wp-content/uploads/2020/05/waymo_minivan_7.jpg"
         width: 1200

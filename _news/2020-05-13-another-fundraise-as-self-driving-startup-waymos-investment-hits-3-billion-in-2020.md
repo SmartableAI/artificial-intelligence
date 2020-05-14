@@ -7,7 +7,7 @@ webUrl: "https://www.freightwaves.com/news/another-fundraise-as-self-driving-sta
 ampWebUrl: "https://www.freightwaves.com/news/another-fundraise-as-self-driving-startup-waymos-investment-hits-3-billion-in-2020/amp"
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/another-fundraise-as-self-driving-startup-waymos-investment-hits-3-billion-in-2020/amp"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s29755.pcdn.co/wp-content/uploads/2020/05/waymo_minivan_7.jpg"

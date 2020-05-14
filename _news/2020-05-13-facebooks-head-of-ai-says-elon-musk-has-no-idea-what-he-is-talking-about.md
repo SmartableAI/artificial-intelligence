@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/facebook-ai-head-slams-elon-musk-202
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5?amp"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 1024
     height: 512
     title: "Facebook's head of AI says Elon Musk 'has no idea what he is talking about'"
+
+related:
+  - title: "Musk has no idea what is he talking about, says Facebook head of AI"
+    excerpt: "Facebooks Head of Artificial Intelligence (AI) has slammed Tesla CEO Elon Musk over his understating of AI, saying he has no idea about the Artificial general intelligence (AGI) technology."
+    publishedDateTime: 2020-05-14T04:37:00Z
+    webUrl: "https://www.sify.com/finance/musk-has-no-idea-what-is-he-talking-about-says-facebook-head-of-ai-news-topnews-ufoklzfacgaei.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 39
+    images:
+      - url: "https://www.sify.com/uploads/Tesla_ufoklzfachgcg.jpg"
+        width: 650
+        height: 408
 
 secured: "L8zQ1rkrLuFMq/PZvoZt2iPtmcAdrenACCK5WitCMp8BO14uhfB38lkkDiC+NiS7n2JnMPEgey8Eo7j04SwVJWDz0r6UBFM7if3pYDisuY24NIiDbtI3QYqsfpmohLVATYvVadWxY6dU5hFU7PhcnVauwObPLUjO/+QcrvoAzfOThq6fDpCK7lGmfmw5zdRKa8BJ6A6v7E2AQ/3qAs5LTOve0JH4JGI5WF1LZrA9gPbSZAk15V1NXCAH8NVgZNWX2uY+ogXsbk3CxkrkTtHTu60UH8d2TThzgy/KCbMg22n0WxSZzPoKQj4OO4v/EMEizvsLvNVbVukq7ui4mzdBmDyaFNH+HSnPGryuclpCf1xpDRiW/BxiLQGdevKxUQhhd65kDsC+5hQ74/4xS6Iw/84e6kpD0gI/DzDK1wEF3YBv8yixUj4RnaRh3EfSLcixRX9ZTlHPFz6LIjmS4jqMa9WXaDBJQj3S4i9drdaVwr8=;n9M8DhRtYl5iJV9Qp4lVNA=="
 ---
