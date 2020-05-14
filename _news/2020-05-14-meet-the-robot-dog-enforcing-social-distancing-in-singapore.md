@@ -2,24 +2,24 @@
 category: news
 title: "Meet the robot dog enforcing social distancing in Singapore"
 excerpt: "Leaves crunch underfoot as Spot marches through the park, back straight as a tabletop, stride brisk as a soldier’s."
-publishedDateTime: 2020-05-14T12:40:00Z
-webUrl: "https://lmtribune.com/world/meet-the-robot-dog-enforcing-social-distancing-in-singapore/article_8d28e4bd-b4c9-5c88-9fcd-9e050486f15f.html"
+publishedDateTime: 2020-05-14T16:25:00Z
+webUrl: "https://www.havasunews.com/nation/meet-the-robot-dog-enforcing-social-distancing-in-singapore/article_8bf5799c-95ff-11ea-9ebd-ebcba19a00d6.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Lewiston Tribune
-  domain: lmtribune.com
+  name: Havasu News
+  domain: havasunews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/custom/image/8f9fc10a-f686-11e5-881b-57c563266ac9.jpg"
-    width: 1200
+  - url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/b/f2/bf211c9a-95ff-11ea-bc60-efc086b1372b/5ebd717768db2.image.jpg?resize=945%2C630"
+    width: 945
     height: 630
     title: "Meet the robot dog enforcing social distancing in Singapore"
 
@@ -40,6 +40,6 @@ related:
         width: 320
         height: 209
 
-secured: "ijsw2/Z8rmPcEsFclX8FE0cZxiNh35/G74/ztbs5n62UpJRGNtABk2MhJdwWQJQEBloZSm/rFn6dt+SPoEvY1BSe1BQykgtBzzoLjeEOTxnkrU1kHKDHOA2muF+UpVHaJeorWuf7+mb+Vhhi8VC2ixIL7TvIUGTuNXWf/hdjg1aR2mgQNgU9qqGijJvFEGhccKXoI19lPcZQDUL8U0HdZLKtjA4DTVPrTKqQqmZmDuuS4BhNbdvght2U1ycOgYJagbM7eteD5crp3WyBy8O2FB4mVYtMaVMyq6ain5r3qtZ35St0R4dGzHK+qfBU5Vg9;UzfZ2OK0Cdg+E8XM2MsTng=="
+secured: "3CxdYpKsBJR35g2X444utsCbFWlh2GxIxj9t5PU3c0O6M/vN+VLp8axWPQKN1TA3I2KekIwt2PL2G7xvAkwKVYGUp9z2k99uzxhT9kVnmltYkB5gQ8vG3UaZyFEn4vjGZFIND5uHHoR5iYQgpFyvcMSiKVREmqtcpuELFErTHwxKNPsSwYJP5gc8pjabUJ/1N9VxqKmpTJCPv4YDbxANQi2gT1T1WGU/fC7BDjgRY0rhPpxU0+zVmJyc/DWKuRAjLTG8PhSL8K9Z5uRxF7ccm6gvJiBrmCYONmNrCME+M95fAqxgcmr4GPy7CvWdnL64;gpT5rLQFK0PIL9nI4osQWQ=="
 ---
 

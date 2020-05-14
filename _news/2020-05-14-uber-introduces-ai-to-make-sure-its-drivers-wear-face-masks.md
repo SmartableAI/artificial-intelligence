@@ -29,6 +29,6 @@ images:
     height: 417
     title: "Uber introduces AI to make sure its drivers wear face masks"
 
-secured: "NDIQnbst4d/+6yfEKaCbI8C7tR/2k96+I4a3wrq1+lafrIRrYhWl3w0yz+Ol+jvhbrYnKkNYMNrdWe1P7Sd8tuSzq8X+s5fdvDcWOrLTd7CNtrXx6Quk7RKwX03I4tAwNVh2MKlhyTWwJoXzyiA7+0al+wNLO2H9CZXGSGcu0bXXeitFEG6I0nIKtBeMabLru0UNlIbx4C+nMdyXMHyFMlsFidIGZB/zUKOpT7vlqLtGfOh61RGH8ZulrDWgLOhxZJRHWMI/LElkThuS8739j+XjKit8fP9eEBDi9p0bYuC4peLLt5Tty6HZKCMgjBiW;Lo+92GODvZpRuBOiE3Jf1Q=="
+secured: "6evLNbsMNzf2dzXGrHt1icPPAXKGiKOQCYmZP2EWTrXFx+cGZCwijfg4XfuAiZEb7DSaoeG4+TTokeII5cbyi/1G2Z/Vq/IKh79ll/EyhLXIQtvdL42xnjtb24Qmvb5q0ouxlmn0b539T1XRJBkHtFUIxPOyoZGUZczKLMePbYSU74p7k0EhKUPn72E1cpDic7y6iX9CE6cIOKLGMm5UJkwfq5SBuDmEVH9prSKDTW9+Fu9laaxAyyfOfKQNiv0NdDOXnLhx3bTxby7QifS6jlJWKlkvjUoueDaDMi3fHUb73QrIACKcymK2Ncht4W56TQN/CaIwZVTmam/8rf1xC46qvjApzIhlnH3aal4zhCZCAjNf7wjLDWbFBtqaTKgL9IP3uk78nTnDEbZKtQ++22BW7vg/Bnh7p8olUoKR5JSuJ1EAtrS7KqtxCwTXnpna+Ngw/eqIr0n2/UqAcoae6wmfbB9IwZ2/6bFOtn5/XfQ=;p/Ov2qlMdYMhNKHsl0NVgw=="
 ---
 

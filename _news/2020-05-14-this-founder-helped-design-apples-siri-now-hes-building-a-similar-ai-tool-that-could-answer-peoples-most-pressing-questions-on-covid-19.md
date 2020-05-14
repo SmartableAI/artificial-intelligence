@@ -27,6 +27,6 @@ images:
     height: 600
     title: "This founder helped design Apple's Siri. Now he's building a similar AI tool that could answer people's most pressing questions on COVID-19."
 
-secured: "cd8IX5ChEDrFEtDkn3O8VhY8RqXnzprymNqhZLhOILNiGkyLw3i3/qmMW6DmSZ+YqqMywXRTvbD/7/6LUwoCr0hm5vBfzT0+G+/IvJXLQ2q0YmgE9FJo9WIMHcPZMs3wRx3EZjkV16GVKe06ILu22WBg5YFKGc2bZQe0BW7xa5207bVX4YQx5SctQG+M+FAMdwWq8IRq4Z5b26ua9aJrx+1e9E7Wz406dQDM2YwitFwRzK/L1DxTERF/kEZKlQv2ocDjmm5b0detzKi9cNdaVgQ8DOoXeiXm0hZxFnxQZuIYvGpLa+/T+KMbGtqcboH3;9B4nuXaQakRBoL4sxWrRDQ=="
+secured: "an7ewg1oQbwrHtyRxu2BnTVI1EPVXwdaFZ1WmdTAx8hIDlV1WeKR4sDodjuegpgwFGCViVS6Ql8z9og+e+xL5tjaUqSO5QDQ40yka1jXyNyw0n7GiFb56whxUq74cHSay3WTmVtqkOLr0IvCnDxNGI3YjNjGYn/AJDYbChtFwmzr7vLRNMhhtyEcuUEfiBrYFscdt+eeKUoFhfw5+36pm/RWZhuovzyoMhdJMURjnnbD9nV7yXBxOP1lNWMSIYjLnLlalUalht0b20mAo/0/WwNmK4agRNPaza0SMcUAz6QjubJiwn0zmu4G7VUiv+GJkJa30uhGDuXSG+KU0ZCpQOssV2lN3XFMuhe6sfurUhvmNgsXcap0eFELt6hH/1LFUfv3Kv1j4O0kXkf9s7jrUnR9k5U+1rjxen4QvadXFBwLJr7rgKXAfgXNs0QzntYbFPlQw2AaWeV47RQ6C3UxHMhck2hUlCW/4xd121YTOc8=;P3MLZVtK3O94RpfLHDH1uA=="
 ---
 

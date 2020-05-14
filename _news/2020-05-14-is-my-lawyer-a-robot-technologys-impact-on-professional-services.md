@@ -5,8 +5,8 @@ excerpt: "Professionals embracing technologies such as AI, robotics, data rooms,
 publishedDateTime: 2020-05-14T15:01:00Z
 webUrl: "https://www.law.com/dailybusinessreview/2020/05/14/is-my-lawyer-a-robot-technologys-impact-on-professional-services/"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/392/2020/05/Handfinger-Drover-Article-202005140943.jpg"
@@ -23,6 +24,6 @@ images:
     height: 372
     title: "Is My Lawyer a Robot? Technology’s Impact on Professional Services"
 
-secured: "vSZRoPsrAp2r77tKfxG756T9zB9ZOpPBy3lSFnhv2hN7zx9DcgTG5aR4yKs5yFlmxzbTa/+Z4oZ7Sq16/VXYQUj2rjkZGH18/zEr25ju6mmT9JxHUTAERhonHEBibPCmPtHnrnnIJw/0Yrec7ynuuCjgVcNMyLcq3mWkAUWpiJv1qL1CKK987MdlzCvBm9bKSJ7FCTtz0+qaW+4LZ3bM8QyW6pmkHUXNSjBioZHtpoY9+zP3wyb2SRS0N6u4hm9TWNPXIU7NmNVNri0Ly+HOJ7HGGSHcNzsvbQlI9p27pUIA7IGfFs3IjU539+JzmpdY;nznemX6TIPseFqSVUMiKog=="
+secured: "veIGq3EGhue/7PEMqUMPO78SJ+kOjnTBaTRB15CMwJZYvYlN60OC3mzTlkUNj5VqySHTQWNWYhnuoCjIzqsQx9CpW0xlCuffp0dX+fcRO/1Th3neSLDodrL3Ok0JEEpAIW9nwTB9BQ1LPgUbAbc7ayp6qrLtjfpyFPe/O6ANRSF8uVTDzh/ESKPSPxjwBnb/pNEhtM1N5boUzp/hWaCdvoOAbILxyfipUG4FXzGQGKR2jhjdoIJpZao4q+wNZKG+3qmiKYDI1EKXn8Bq5zwbB1ZCMN7HTwIYZHtzsdPUrK8rvAa2W3ckluuCy9cyDJA7AvQuBAS5oDkZuuir+zasumQX2mIUNpTxotTTGcTV+dM9ZJH066Hmr5h7DYHacAXjzd0FS6TBm0tXBYTtHjlGVkGvcaQOjCyrJx2YRCsdkdV/dQYYJuvj9qhIXi3JJj6NnbiI8MgYU2Lub9kZFKkFuJ8Lra7F1WPkdaZ/oZEh4K0=;SA+vZv/0K+srEt00r9I6dg=="
 ---
 

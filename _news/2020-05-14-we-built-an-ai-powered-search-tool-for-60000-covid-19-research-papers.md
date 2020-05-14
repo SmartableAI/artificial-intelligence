@@ -22,6 +22,6 @@ images:
     height: 720
     title: "We built an AI-powered search tool for 60,000 COVID-19 research papers"
 
-secured: "/+oWn6mwjFwc+lT8iM5lwC9tVvUSlgbe/IQ8+qzJvt6wuuXV4WY++FIJQUhP5ib9hI0D6ZjX0IlT60IhZXIjg0TFhiavrj/ouBO7NKnUfjlyrokiSfsmVI1CWih8XrWECh7Sr/ywoyMBesofVhBKPzIV/mEr7gqAmgUqgdn7SpZDJrWacNKdjV48+TCg6VI+9tW6oeD6Vv5Q5TX5bgdTKjryJxxrEHERNgpn/VPTrY+A2gpZjeOXbbbc3LYuvcWqVoowHfr+FUah1oRjkSR89RTcYWrhwCNw3Jz9IFtVxzmHwXNRrTStuxnsWjbWnHch;V4Kl/XSiV7YXbReXkaJAGQ=="
+secured: "dHyKnbSVPBVEnxmvhFbfHIaX5ekYzFxJtRMS5JRUtULDpN/qsIfuEuuoHGAwW+hoXkI3A81BrEicyxHDewUG0UDepmKz/hB7IGg+T9nIU5zaugjh7PTdmP9YUtLsNiU3prZwzS8r9SY9dWDEwKXe1ntMf2CS++jVSqfSdy+bBwEcwTUv/sOjGl985r0msmrMF4pRvLgexZaqohOQNrocSl1C3ibJQ0+4LZLLxSlWhuHBaviHOOx80w3SPhU6sat84k/mJ3P93pWXo1EJUq9mVTHogqc4asVsu8mmRhVavn4cbF8lzqgYKiFcFWOAY3kq6Iobw570dG5+f51dlxd1ftnM/XqilqjLvMFCWpsuW6XAilBWr2GG9vEUX8kiNQFqyIyPXQDjkE+66HplgmOMO25LbrC0j/bYMOCwGXlql3uW9WMEV0N+4lJb2oaHxOBGxyFD4KhbRnovBbBR2ZXqYxtVz1c3iDG5u6QL0oHuY14=;JmZxagNKmMhqcLZsRKInIA=="
 ---
 
