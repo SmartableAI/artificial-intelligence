@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/facebook-ai-head-slams-elon-musk-202
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5?amp"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Facebook's head of AI says Elon Musk 'has no idea what he is talking about'"
 
 related:
+  - title: "Facebook’s head of AI thinks Elon musk has ‘no idea what he’s talking about’ — and he’s not alone"
+    excerpt: "Elon Musk is a prominent figure in the AI community, but a lot of experts don’t see eye to eye with him. Today, Facebook‘s AI head, Jerome Persati, said that Elon Musk has “has no idea what he is talking about when he talks about AI."
+    publishedDateTime: 2020-05-14T09:52:00Z
+    webUrl: "https://thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 74
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/07/Elon-Musk-hed-796x419.jpg"
+        width: 796
+        height: 419
   - title: "Musk has no idea what is he talking about, says Facebook head of AI"
     excerpt: "Facebooks Head of Artificial Intelligence (AI) has slammed Tesla CEO Elon Musk over his understating of AI, saying he has no idea about the Artificial general intelligence (AGI) technology."
     publishedDateTime: 2020-05-14T04:37:00Z

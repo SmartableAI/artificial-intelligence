@@ -226,7 +226,7 @@
       "path": "_news/2020-05-12-netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure.md",
       "title": "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure",
       "excerpt": "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure.",
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure-2020-05-12",
@@ -624,6 +624,43 @@
         "authors": null
       },
       "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.md",
+      "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
+      "excerpt": "Deeply assimilating its Red Hat technology, IBM this week rolled out a set of new platforms and services designed to help customers manage edge-based application workloads and exploit artificial intelligence for infrastructure resiliency.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
+      "ampWebUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
+      "publishedDateTime": "2020-05-06T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1224,51 +1261,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next.md",
-      "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
-      "excerpt": "Microsoft is ready to roll out its 'spring refresh' of WVD, while working on a grander plan to make WVD more of a full-fledged cloud-managed desktop.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "publishedDateTime": "2020-04-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg",
-          "width": 875,
-          "height": 557,
-          "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

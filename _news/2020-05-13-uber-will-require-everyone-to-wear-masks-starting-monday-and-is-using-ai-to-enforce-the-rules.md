@@ -74,6 +74,19 @@ related:
       - url: "https://www.nydailynews.com/resizer/HOOohnVayfl2byjed_nnY8TiwzQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U3V2CT35TRG4VGCPGP33D6VYUU.jpg"
         width: 1200
         height: 808
+  - title: "Uber recognition technology checks if drivers are wearing face masks"
+    excerpt: "As countries start lifting precautions taken against the coronavirus pandemic, ride-sharing platform Uber has announced new technology that will confirm all their drivers are wearing masks. “Our new technology will verify if the driver is wearing a mask by asking them to take a selfie."
+    publishedDateTime: 2020-05-14T09:20:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/uber-coronavirus-drivers-face-mask-a9513746.html"
+    type: article
+    provider:
+      name: Independent
+      domain: independent.co.uk
+    quality: 24
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/02/13/16/uber-coronavirus.jpg"
+        width: 2273
+        height: 1705
 
 secured: "CqorropzocJ0aX8WklSbkka7RmD+ZTzWGxtlGEefQTii8uHj81MCIgUyuqfLdgtocYfHV4vpNo0Gl3+H8Ih9BBQAotXLOz08e8syuDLyttOfwAq9duOL/QHR58iQcLSxIj1qb2vAKeLzOd8qCmemqZSRePdoQK3te2OUsqnExPe7V25cyLEHlpeXSrjgJehHLTBH2PFOexLvi+iSd3MJylMJWj5GJjTjRJ3NEwMqlg8r9K6aDpZGINdk7IqptGD6NdwPLZE7BNbM5zBZSkzESbPFQfL91PrsQGBalmer38K76YQ0bfQ9KiCqhb+nkr48FHwnO7v2PfU8fEnX2cnkGQ1+SwIOVyhgF7bsS/QIKoUShZTtmM2RdQKXg9b9mcJ4353cLBo82tmT3u9hfQ23VUv8COTlyLrxSRNsM182rcjfZNQ91yg84ENNfjiPNRsZb2Ami9/4qDAp/iuzy7N2qsBPdn5hmj/JpoQGqxYRUkg=;8J1WuGc/pcZpFoRii/OaFw=="
 ---

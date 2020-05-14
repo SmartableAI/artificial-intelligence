@@ -2,6 +2,43 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-05-04-after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms.md",
+      "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
+      "excerpt": "After Facebook invested over Rs 43,000 crore in Jio platforms last month, Reliance Industries Limited (RIL) on Monday announced that US private equity firm Silver Lake will invest Rs 5,655 crore (nearly $750 million) into Jio platforms.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gulfnews.com/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
+      "ampWebUrl": "https://gulfnews.com/amp/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
+      "publishedDateTime": "2020-05-03T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2020/05/04/20200504-jio_171de660947_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-dems-deploying-darpa-funded-information-warfare-ai-driven-tool-to-target-pro-trump-accounts.md",
       "title": "Dems deploying DARPA-funded information warfare AI-driven tool to target pro-Trump accounts",
       "excerpt": "Trump Democratic political action committee advised by retired Army Gen. Stanley McChrystal is planning to deploy an information warfare tool that received original funding from DARPA, the Pentagon’s research arm -- transforming technology originally envisioned as a way to fight extremist propaganda into a campaign platform to promote Joe Biden.",
@@ -1019,51 +1056,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-uw-team-imagines-a-better-parkinsons-test-lands-in-global-finals-for-microsoft-student-competition.md",
-      "title": "UW team imagines a better Parkinson’s test, lands in global finals for Microsoft student competition",
-      "excerpt": "A team of students from the University of Washington is among the global finalists in Microsoft’s annual Imagine Cup after putting their imaginations — and technical skills — to work in hopes",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/",
-      "ampWebUrl": "https://www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/amp/",
-      "publishedDateTime": "2020-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/teamtremor-630x353.png",
-          "width": 630,
-          "height": 353,
-          "title": "UW team imagines a better Parkinson’s test, lands in global finals for Microsoft student competition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

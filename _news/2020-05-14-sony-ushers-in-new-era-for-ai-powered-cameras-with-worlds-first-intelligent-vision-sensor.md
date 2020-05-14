@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-14T07:08:00Z
 webUrl: "https://inews.co.uk/news/sony-latest-ai-powered-cameras-intelligent-vision-sensor-2852683"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ images:
     width: 2677
     height: 2008
     title: "Sony ushers in new era for AI-powered cameras with world's first intelligent vision sensor"
+
+related:
+  - title: "Sony’s first AI image sensor will make cameras everywhere smarter"
+    excerpt: "Sony’s new image sensor could one day appear in cameras like this one. Photo by Amelia Holowaty Krales / The Verge Sony has announced the world’s first image sensor with integrated AI smarts. The new IMX500 sensor incorporates both processing power and memory,"
+    publishedDateTime: 2020-05-14T09:53:00Z
+    webUrl: "https://www.theverge.com/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 87
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/r7QODjaWVv90Czz6GGFPaV-QapE=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66795902/akrales_180816_2793_0073.0.jpg"
+        width: 1400
+        height: 933
+  - title: "Sony's new image sensors will make cameras smarter with onboard AI"
+    excerpt: "Sony's latest image sensors have AI processing onboard, so they'll be able to recognize objects and handle some light machine learning tasks."
+    publishedDateTime: 2020-05-14T07:06:00Z
+    webUrl: "https://www.engadget.com/sony-image-sensor-ai-smart-cameras-070036055.html"
+    ampWebUrl: "https://www.engadget.com/amp/sony-image-sensor-ai-smart-cameras-070036055.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-image-sensor-ai-smart-cameras-070036055.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F134621e0-955a-11ea-a7d6-e6aa8c715868&client=amp-blogside-v2&signature=5da282c637662c7311e1cb0cf2400e729e9130c4"
+        width: 600
+        height: 350
 
 secured: "g0Bk8xhcXz3e8jcQ5ly9QhhmHPmBA8gC7E8U5wRpALld2fc7ns72ntn7jlyZFo2wu3tDy5Xp3u3lyTKDOAJFkLgAdXtya8Ulb8mWiM6bUACguZOKp7zNmWCBkC+IXpQ59YCmg4TPGC1goQdVgO3HOhfvI5gg6wgp1h+BJXcQ0GPbpsswrfQSz1hsJwUTtUuk/fLC1TW8dEJtElsYctvY9L+GFJmSEIqVDu3jb/UKLD2LLMDgHBqholUCMjb3p5rw+V5GCGFRDgs2uGsHMTHhQG5FyV1FljCHXBKPCSgeyvVAfVEfa1bw9PtBXtE+nupD;9epKMfTQg0seAAN17QgKVA=="
 ---

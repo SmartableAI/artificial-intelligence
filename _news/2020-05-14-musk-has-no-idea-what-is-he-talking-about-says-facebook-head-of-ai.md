@@ -39,6 +39,21 @@ related:
       - url: "https://i.insider.com/5ebc148f48d92c67f652cf9c?width=1200&format=jpeg"
         width: 1024
         height: 512
+  - title: "Facebook’s head of AI thinks Elon musk has ‘no idea what he’s talking about’ — and he’s not alone"
+    excerpt: "Elon Musk is a prominent figure in the AI community, but a lot of experts don’t see eye to eye with him. Today, Facebook‘s AI head, Jerome Persati, said that Elon Musk has “has no idea what he is talking about when he talks about AI."
+    publishedDateTime: 2020-05-14T09:52:00Z
+    webUrl: "https://thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 74
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/07/Elon-Musk-hed-796x419.jpg"
+        width: 796
+        height: 419
 
 secured: "C5ktzIpLdgbbwpBGbjsmPbaKiZlwKlkdOK84YXM8V+AytEl87PMbz8cXSEW5qV1G9S3lBDd92iJ6PbXqf+E1eRzopE2o8CCKD9U14v0yyNov3Ae80zecfWFEhfipDYXQxuQhRjvw3jIdgVE3PD1elqBF1twR7lWFwS/WXZAUJ11UQsL9TNUoNr9CERVE682ePT4L04zojc78qQjbIZbvq0Zzw11NR8ImvRJUKTqc3JuuItdhKpZ79dK8N75P0K9nciCsoNST9U8VPiQTMzH5VDD4v1GI/SmGzI1NoV7W+WfS4xFmSnpe8DrnelQ8d9AyBLfOUaqhDypS1j7doanGWcav+MFG7W6MYA/aZimExYYCVLt+ZdQTGaFHHo8aUT3cKNyUgBjs3PRT17eQg8Qgr5RWmDyZZPFldBRuFcxN+yVCHen+608MRaUF83USxbx/an3fYfEuiiGpg1+DxukO6Mvt4ifK1sLLY/bi7l77kVw=;gGKyPSYdfJOU8xme5ggBMg=="
 ---
