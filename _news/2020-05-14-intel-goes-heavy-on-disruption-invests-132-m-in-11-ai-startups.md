@@ -23,6 +23,6 @@ images:
     height: 449
     title: "Intel Goes Heavy On Disruption, Invests $132 M In 11 AI Startups"
 
-secured: "33Yhhp0BFvuOu8C8kW05IN5THqLrtaGhPWhqZOGmiXhGMkyy/GbHwB2gu0dvwyk7s6MVcC9im3anpiydI6AUj1tYSldfjp8Wo7zPeID+gRrCc/fBRGyGlMmIdtB1fE3JRTsiqV64V7xOsRNGmle7n9jVebkGPZ4yClmWS2ahAo/+iazg7jvdXKdY9Xk/kw/Q7yegY9gtHYENGYqs9PaO3sj2bZ5VZKZTMQXBL08Azs0cWrPGYGrtyHnf0N+kuCe76vBEk2jo5gC2Pmoe+RrCk+Mgl8rV+L26VZRqEEdAhKiI3wN/BDnS4YMFosdxYLKX;Bl26k/8X04Of3uTYMaFJIw=="
+secured: "rJU1kwdjFN55LhxpZxHSk287Tg6/5gh/37DYcSLYAYt4Pwbzo+UP47LyG58166kGdDaIsol9NIBG+Arjy7ut8LVd+N+s6EE45RdAG4JeygguumZWq5L+ceHSY3qWucAF5XtrfrHIH/fVPKKC+9//v5roJJy5Y+asPzMbXrwlMhm73/Kfqd5CGbV/MKUwtnBjgOj5NutpHmyVFsf7fvFV6U/gcyzKS6iaqek39EE2EVl613m2TtgO65z5qKbOVm9h/CakpbbV+OlXehSIlEtrkFM0fYM4nzG0SXyTXT9ffY0yx12J5VyzmFBPV+UL6Ep9EZJkHstkdqAMgNNiceJTD5IAma2ZZ0WHwzZbX853ha7Kb9FL+S9V2368FZklJqiNltIYYn/MFPVrMrBNZ3+Uub/XPHrhpOaYiG3aLSG9XDUe+uo4nILjPHSz1F21e1TR4LZknaaB4lyhSpDujjArVrL3iCRBrK45jQhHGI652yE=;ISnlC9aiRPniEXiaEGumPg=="
 ---
 

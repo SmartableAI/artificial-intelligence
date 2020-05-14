@@ -5,8 +5,8 @@ excerpt: "Two Vietnamese IT engineers have passed Google’s TensorFlow Develope
 publishedDateTime: 2020-05-14T07:15:00Z
 webUrl: "https://vietnamnet.vn/en/sci-tech-environment/two-vietnamese-it-engineers-receive-google-s-tensorflow-developer-certificate-641031.html"
 type: article
-quality: 36
-heat: 36
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://vnn-res.vgcloud.vn/ResV9/images/vietnamnet-bridge.png"

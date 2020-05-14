@@ -7,8 +7,8 @@ webUrl: "https://www.theverge.com/2020/5/14/21258403/sony-image-sensor-integrate
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.vox-cdn.com/thumbor/r7QODjaWVv90Czz6GGFPaV-QapE=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66795902/akrales_180816_2793_0073.0.jpg"
@@ -58,6 +59,6 @@ related:
         width: 2677
         height: 2008
 
-secured: "r/louqHiLUS5kALka9N++IPZ2DFXgSpOWS/9GTbU+fhZ8cXbYkNrsE2qblL4G1K4wmQiKxPC+bhi1zftIFn55IQGEA+UYpmCAdI6Gv8124M1/9D/YkKna95zk43UvXp6fGZeVPwH0p1Wj64bfHQUDVgPPkGETg+QeAPpTZeajFP2VmIf2eiIktJRXeARKg+sACQ27/5IprCerU0EShl2f/TKWxLWnF3rH5bxHThvymSVb6jMpyU40GWHN0UKbp57xdjLp8wF77m7wKzmtdVkp/p445ghzUrpkUvmWSnqQVjAT9VEg1BkGARBkV/piIji;eVfNe/DT/B9fAzAvpSH8JQ=="
+secured: "2cfhD1lR5zVJKWPW/KUJZT6fQPBtE5WzXhm1O7OQI7AZ3Uzq/2CHFA/4eG99WGWZnD/O01hzrAp0bNsw7zKFnL92RrFokCFcxNa2ql+8IqS0wU74K3srd8jqSR3c8lzfyFs9VATJVeD36O+KyTl5xhikJPNQ2VoEDqjPcDM5SUb6PP7Ctr9Yv8Hh98pTq9wvXK092E1Nc8lnnsENNIVr0W3oztqZpn8Cv9JDOcypRXJKBOIBG6Sg9umXlL5skMeRq5W+Hy82hZ8Z4vMb5h57qrDB+b3OV4+cHiAuXyCjbbxAcon+uVwXlmnWXY4tgEjQuwlkbvAFJrkRez2ySkyoORA3rVjXyIFtJ43t7a9gBz5PCSmQFlGdIgkKQbW1h8L36ZJSq5zIuVn9knYMFmdnGjsSjoGfd21R9dSY2p0Y5uLZmHX7jlYTdCqXVNhfd+TK3JgW+clHiKhzQbrIHQsquxJwPToHk1auv0tXtvMp5Qg=;7A0+WrCWiSBcZXYjihgvfQ=="
 ---
 

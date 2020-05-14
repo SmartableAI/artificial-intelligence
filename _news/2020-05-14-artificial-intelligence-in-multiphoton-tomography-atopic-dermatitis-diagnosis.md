@@ -5,8 +5,8 @@ excerpt: "Obtained heatmaps show what aspects of the images are important for a 
 publishedDateTime: 2020-05-14T09:25:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-64937-x"
 type: article
-quality: 33
-heat: 33
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,6 +15,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-64937-x/MediaObjects/41598_2020_64937_Fig1_HTML.png"
@@ -22,6 +24,6 @@ images:
     height: 555
     title: "Artificial Intelligence in Multiphoton Tomography: Atopic Dermatitis Diagnosis"
 
-secured: "2/kLAwnMJkwYA90l1YHdxwfrywVIbqSam63CqNsBMSBoaTlS5pnPaeJOUuUGWtx40jyUSqoUHOitoKhZATsvWHlaMBsMWpEh0qtyl8LTAQ4ZVEX9uU/XULQD9hMeUaVeT3p0d4mPeEMiPVXHGWzVvkj0E1ZpeO4uj6dhO9Y+y23u+3knNfHLDGcG7wWx1v19O77qYbGTF4im86R51IO9kB67UyQSHC4B9rtEGD1xvxk5lHnyKGgjEP+2TxUuVkV817S8Z3Lb0IsDkptD7T3aW1pVvEP6xiQkFOk/xHGqU5mrVYpbiZ0UQP5gxaLfrrsh;GYp/uPqVApd6RwMKnPuE4w=="
+secured: "BTT9u0+HNoLg19Ufvqncm6N4RaZ82CmVehhQQ5KEJEyD+AQwxHJ7q7yqlHZDuQnxtuXuIiykJ3pBDPol3f7zoVbguskX+JnBq2N7AQ9faoieKIhdTnyjTs2UOXmbycpgh1kB0wFM43rXy2pLE7nHZn4LCqn7RSUpcfZXbt4AfxZaS6s+BPfxtBE18LPNwOvhQ4Lw/NaHrexpHYQcQrp7VWdgfJ08bPTdZaBJul2nKh6skvvWHoWIEZCVAfiivi6BRz2MNAXnbb3DrvFF3VmCTcG/WLLTaj2Bm9wJslSI6aYqXTNykLz4bM+zJh8fGJyaFEmnw0CEfWqQAC3Q1e/BVeZ31Qsq4WCFe/zmeqg0/xxoQKH5Fy33yrs33NtexTIwuQEQc1GugGeua7oerLQNKJI13vaZT1+sIq5FLqYTDPLPHDD2vokCTDQiuxqOtGrpdGYT8ZjNkilZ3YGeMaHwb1Z88/KtSZRXUylo6Ka+7I8=;u6btuPhoRn2AGt4AcJ0ong=="
 ---
 
