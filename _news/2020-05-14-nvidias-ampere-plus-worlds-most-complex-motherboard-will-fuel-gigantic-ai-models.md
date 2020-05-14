@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/nvidias-ampere-plus-worlds-most-complex-m
 ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/"
 type: article
-quality: 83
-heat: 83
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -23,6 +23,8 @@ topics:
   - Machine Learning
   - AI
   - AI Hardware
+  - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/14/1da79d85-66af-4eca-b991-3d2cf1492395/nvidia-2020-hgx-platform.jpg"
@@ -30,6 +32,6 @@ images:
     height: 1600
     title: "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models"
 
-secured: "1xDNGa47HdqUFy+WvXsbsrP961xAVJlypl7LVYIdVNfLjvm0CUudeBU2pNbSok1UzrY8CzZUstTsU7+TvB1U/5/RCs1OpAbir3SIb1ScvOabrHzPpddQtcgDf06Hlf9S9ShvYp/woDKxAPoXo4ksAr0uHAXxf5uvxStyyayJ43mFc6oZpj7nzqlRNgusi0jS3XeX1kE1jdKY0yji2Td+2HuHJc5OrKvzNh9ZJZaHLGJVkWKBPI9wB1TNvUP+v/uqmxD5fbHSucZNSZyCGmbF+f1e/3LqCF1XTUxrGVTaSWa7CyQyjZDZBTywzmTSXHQl;8slOGQbonPoMa9lnk6ewCg=="
+secured: "yxTYlZqaZWrTkVZTtPGUaskVFr91xDW7DL56zs43uG5SQfYPwz62zST7nGmfBhNMnjjnY4iEZ4irTs6e2HPFRQWVP/+rbkEI3UL6CS80uSJuWTwqw3fptV/X62bwdkgPgo/m/8W0KD+XUJYk+7k7maDihQziXyX2NhKeIu1mHacC3MvVWLi8R/ob/L2MTy/vf4va3D7Gdx0j+qSekhDXPpaW12nGiHPqSW5M3jr3Alr11BV++Pl8njB8SKsSRBJEIYiJjqLLaClSE6/zfOo+t0a92L79Fj8/eWo+sptsnlNvggq3JFjJJtlvDIQrjfsffVVrUMNW5xQShcxP9v7k8f9nLCZarN2NxF0CU8OEn8FXULLmfE9iDRxp7RNbzkBv+yw6x1zPmkbtzB12L1ZlaPlPEtIRB+vqepW1ms1ukVXX8IZl5lQ8FQqJwcKbFB6b3CIyDJ+0nnOi484dpp0hDBH00Tb7FZ8hQU52GV/yuxU=;2TeIt5+74ZDdOHmnl6hZdw=="
 ---
 

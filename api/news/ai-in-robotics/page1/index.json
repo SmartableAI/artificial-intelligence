@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-14-how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx.md",
+      "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
+      "excerpt": "We built a virtual customer service robot with the Xavier NX, a powerful GPU that can decode 32 video streams at once but is little bigger than a credit card and costs just $399.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx",
+      "ampWebUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
+      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
+      "publishedDateTime": "2020-05-14T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-to-bui/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx_rwas.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
       "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
       "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
@@ -98,7 +143,7 @@
       "path": "_news/2020-05-13-another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020.md",
       "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
       "excerpt": "Waymo, the autonomous driving unit of Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL), announced Tuesday that it has raised a further $750 million in external investment.",
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.benzinga.com/news/20/05/16026539/another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020",
@@ -1248,51 +1293,6 @@
           "width": 1200,
           "height": 630,
           "title": "Why choose a stock image yourself when this robot can do it for you?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-hands-on-with-the-ecovacs-deebot-ozmo-t8-aivi-multi-purpose-cleaning-and-mopping-robot-with-video-surveillance-feature.md",
-      "title": "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature",
-      "excerpt": "The Ecovacs Deebot Ozmo T8 AIVI is an AI-driven floor cleaning robot that has every feature you could need in a multi-purpose robot – and a video and microphone that can scan your home whilst you are away.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/product/ecovacs-deebot-ozmo-t8-aivi/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/ecovacs-deebot-ozmo-t8-aivi/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/ecovacs-deebot-ozmo-t8-aivi/",
-      "publishedDateTime": "2020-05-06T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/05/41ed2ce0-5f02-4f4a-b2dc-3f942aeb32fc/ecovacs-deebot-ozmo-t8-aivi-video-eileen-brown-zdnet.png",
-          "width": 1440,
-          "height": 720,
-          "title": "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature",
           "attribution": null
         }
       ],

@@ -2,6 +2,43 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-05-05-study-shows-how-our-brains-replay-recent-experiences-during-sleep.md",
+      "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
+      "excerpt": "While we sleep, our brains are busy organising fresh memories into long-term storage—or at least, that’s the theory. Intriguing new research is bolstering this assertion, with evidence that our brains replay the day’s experiences during sleep,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmodo.com.au/2020/05/study-shows-how-our-brains-replay-recent-experiences-during-sleep/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/fnaf5qpslovyxvkyr4he.jpg",
+          "width": 970,
+          "height": 543,
+          "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models.md",
       "title": "Scientists found a way to plug adversarial backdoors in deep learning models",
       "excerpt": "By installing a backdoor in the deep learning algorithm, the malicious actor ironically gained access to the building through the front door. This is not a page out of a sci-fi novel. Although hypothetical,",
@@ -1008,51 +1045,6 @@
         "AI in Autos",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings.md",
-      "title": "IBM and Red Hat expand their telco, edge and AI enterprise offerings",
-      "excerpt": "At its Think Digital conference, IBM and Red Hat today announced a number of new services that all center around 5G edge and AI. The fact that the company is focusing on these two areas doesn’t come as a surprise,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/amp/",
-      "publishedDateTime": "2020-05-04T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1124597376.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "IBM and Red Hat expand their telco, edge and AI enterprise offerings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

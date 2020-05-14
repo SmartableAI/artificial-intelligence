@@ -26,6 +26,6 @@ images:
     height: 576
     title: "Can robotaxis ease public transport fears in China?"
 
-secured: "oPZrrno1FuyW7EQAmQjDYZCN+Uy51L+GBsAxwji/q/fE/vgrPVsLeJRu7W56vInoh/cbB1sYNhcT3O8/7Lh5LD8VfZCapQ5JX92SwpIc9kpTBxw8vfSvZjHhQMSRtVu08OUA3poNEn4Sk22UdWxp/Dvjc24fuy0tjIm6dYgiFxmDiMZQhw6o8IMS+MNcugMgqKIVn4p812RGOhhIxuy4mxLHdGnEhR4M1FB3ooiwTaLqMa8kiLOLqC8DJxujafe9xR+1u2lpkayaTRbDZ3m3n7FLkKWDb9Z3Md+Q38Cjxbs5/HBRY387tfZzBEEDgOH+;jxcEZItsgQZNuDR1pQgq1Q=="
+secured: "YNOY8P3TGDBb51qzSFcQhYGZA8pP9yzKBchwBb4IW2lL4atBHlzESthVX1qxkC0mPRYPjl0exuuUq9JO1tgbz3bblOrA0M6bx2Ibn8lU3BCydLlKitd/S66JyaYJI58DpDzN985zhGfyY+Um0ijnhKIA6qnUvBYbaOvSk4s0Oh4VUAxUD503o4qfXzY7xHzFVctTOP09xZVwYrOYoUY423JZkFjtiD/Gp8o2s8ss9KzhHs7gyUSN0LOBzKqF43ZbJS378xHvvmOvwfDOtldhNwhp1pI50KHs/kxy9Ueags84JSgLMEDNLbAGYhO4fY9h;2nYdZ5OovgJXIK451A/f4g=="
 ---
 

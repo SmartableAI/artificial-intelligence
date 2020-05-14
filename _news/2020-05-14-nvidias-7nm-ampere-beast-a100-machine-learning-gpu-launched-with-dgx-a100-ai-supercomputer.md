@@ -70,6 +70,19 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Nvidia-A100-GPU.jpg"
         width: 1344
         height: 742
+  - title: "NVIDIA Introduces 7nm Ampere A100 Tensor Core GPU"
+    excerpt: "NVIDIA Introduces 7nm Ampere A100 Tensor Core GPU NVIDIA CEO Jensen Huang has formally announced the first product powered by the company’s new Ampere architect"
+    publishedDateTime: 2020-05-14T15:03:00Z
+    webUrl: "https://pcper.com/2020/05/nvidia-introduces-7nm-ampere-a100-gpu/"
+    type: article
+    provider:
+      name: pcper.com
+      domain: pcper.com
+    quality: 39
+    images:
+      - url: "https://pcper.com/wp-content/uploads/2020/05/nvidia-ampere-a100-sxm4.jpg"
+        width: 1280
+        height: 640
   - title: "Nvidia unveils the A100 Tensor Core GPU"
     excerpt: "GPU compute beast for DGX A100 AI system The focus of the GTC 2020 was Nvidia's new A100 Tensor Core GPU, which is based on the new Ampere architecture GA100 GPU, and will be a part of Nvidia's new DGX A100 AI system."
     publishedDateTime: 2020-05-14T15:44:00Z

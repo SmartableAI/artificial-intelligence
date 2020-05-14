@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-11-what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6.md",
+      "title": "What Are The Best Big Data Cloud Storage Providers? Here Are The Top 6",
+      "excerpt": "The amounts of data organizations accumulate is growing exponentially. This means we need to find the right place to store the data. In this article, we look at the best cloud storage providers for your big data.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/11/what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/11/what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/11/what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6/amp/",
+      "publishedDateTime": "2020-05-10T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb8d364e33df900063dfc40%2F0x0.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": "What Are The Best Big Data Cloud Storage Providers? Here Are The Top 6",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-monash-university-researchers-use-ai-technology-to-examine-hospital-readmissions.md",
       "title": "Monash University researchers use AI technology to examine hospital readmissions",
       "excerpt": "Researchers from Monash University have undertaken a study using artificial intelligence (AI) to understand the reasons behind hospital readmissions. According to the university, the study involved using AI technology to examine 10 years' worth of patient records.",
@@ -1040,51 +1085,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-catching-fraud-faster-by-building-a-proof-of-concept-in-amazon-fraud-detector.md",
-      "title": "Catching fraud faster by building a proof of concept in Amazon Fraud Detector",
-      "excerpt": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/catching-fraud-faster-by-building-a-proof-of-concept-in-amazon-fraud-detector/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T07:51:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/07/fraud-detector-4.jpg",
-          "width": 800,
-          "height": 566,
-          "title": "Catching fraud faster by building a proof of concept in Amazon Fraud Detector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

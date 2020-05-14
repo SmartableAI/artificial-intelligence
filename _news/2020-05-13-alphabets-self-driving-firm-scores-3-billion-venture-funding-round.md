@@ -56,6 +56,19 @@ related:
       - url: "https://s29755.pcdn.co/wp-content/uploads/2020/05/waymo_minivan_7.jpg"
         width: 1200
         height: 800
+  - title: "Self-Driving Car Company Waymo Grows First External Round To $3 Billion"
+    excerpt: "Self-driving car company Waymo announced it has raised $750 million, bringing the total external fundraising to $3 billion"
+    publishedDateTime: 2020-05-14T04:31:00Z
+    webUrl: "https://pulse2.com/waymo-750-million/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 39
+    images:
+      - url: "https://cdn.pulse2.com/cdn/2018/11/Waymo.jpg"
+        width: 1000
+        height: 667
 
 secured: "sviROOmAgskRbZr0K6lGte5H085MnURbrwjByZfh/DGsNIc49At+8nyK8CE1nlEkmQbjHqEHFShbNoi6pB8dGxv6Mnk55xaddD7ZbqRTwMVYvc8PRm4liZ0s6/zydc10oIJar3krelgOoZGKO7v3Rk7tcZsrOoxzmSN4wyK8LD2lbjiz+apC3084+XbENh+0M60yDWJTHWs0HXkHzD8rM0BCor6ZAlf6eBbmHWTv/wQmkLfBwjqG+9DgUshMME0PvyVc+dYyXIOJJ06JdlAxvKQ3TYhdXAefUswfXr+RR1NRTqsV84M2sBQD2DNZH5bs;ZKmbkgHw67biGk/QAr1hkw=="
 ---

@@ -82,6 +82,19 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Nvidia-A100-GPU.jpg"
         width: 1344
         height: 742
+  - title: "NVIDIA Introduces 7nm Ampere A100 Tensor Core GPU"
+    excerpt: "NVIDIA Introduces 7nm Ampere A100 Tensor Core GPU NVIDIA CEO Jensen Huang has formally announced the first product powered by the company’s new Ampere architect"
+    publishedDateTime: 2020-05-14T15:03:00Z
+    webUrl: "https://pcper.com/2020/05/nvidia-introduces-7nm-ampere-a100-gpu/"
+    type: article
+    provider:
+      name: pcper.com
+      domain: pcper.com
+    quality: 39
+    images:
+      - url: "https://pcper.com/wp-content/uploads/2020/05/nvidia-ampere-a100-sxm4.jpg"
+        width: 1280
+        height: 640
 
 secured: "Z6rE63N5ToNoB2SjkeFLdxZy+lsinNOC85oIBVnCuQiPTfUw4pGxHBOzhA4+WpZ/VL1d5xallizZYkFtNnJMCdN7XWPx85RKD5GpAPMzWQ8x+2pi1NJo4RWjAwy3sdyh6DKp4bVVcWseZiNU2wYTaFBUBgUBiXar8FT37GetvV1NVg+/E6q6VvlbXKFqJ0/dXr76oeH4xOpr4w/R0s2LRFmtjuPEHlE8z/7aDR8htuyTZt5D2uxev7fNGpFLJIXyNWAyhj2sSQLbefFV7Q+c0ly0Z8Po5N2XMxtoww7eGAnFMi6B39sbBqR3rAsEarxcbPVI5UEAT5B+SX6rxpBTlhI/BCrkIWab+IdcZ9+SgZfp5SA4DNRg+7NNd/ozM0n0zRMvGlkcrWQxriQ3ukYRzbIxaUrqqyjVcNevwgPp7awPSGGQrmZyrIIZrQUtJItM/WXt4zmfmwzWDgquuyQJueCT2YgPKMqx76tQsMPcPV8=;sm4UrhPbF2axo5y0kIWysA=="
 ---

@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-05-cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers.md",
+      "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
+      "excerpt": "The Consumer Technology Association penned an open letter alongside a number of other industry representatives asking the U.S. Trade Representative’s Office to loosen tariffs on a number of tech categories manufactured in China.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/amp/",
+      "publishedDateTime": "2020-05-05T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-931630954.jpg?w=724",
+          "width": 724,
+          "height": 483,
+          "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-technology-and-ethics-in-the-coronavirus-economy.md",
       "title": "Technology and ethics in the coronavirus economy",
       "excerpt": "The last two decades have ushered in significant change and transformation. I believe the 2020s will be dispositive in redefining the pillars of our economy, and COVID-19 magnifies this greatly.",
@@ -1215,51 +1260,6 @@
           "width": 1280,
           "height": 640,
           "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-transition-to-cloud-now-an-existential-question.md",
-      "title": "IBM: Transition to cloud now ‘an existential question’",
-      "excerpt": "With hybrid cloud environments made essential by the mandated transition to remote working, the firm hopes Watson AIOps can help businesses better insulate themselves from future disruption. According to Hillery Hunter,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/au/news/ibm-transition-to-cloud-now-an-existential-question",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/ibm-transition-to-cloud-now-an-existential-question",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ibm-transition-to-cloud-now-an-existential-question",
-      "publishedDateTime": "2020-05-04T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/SGnnZFtV55P3GAh8dkMaER-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "IBM: Transition to cloud now ‘an existential question’",
           "attribution": null
         }
       ],

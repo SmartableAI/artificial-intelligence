@@ -3,7 +3,7 @@ category: news
 title: "Inspur Releases 5 New AI Servers Powered by NVIDIA A100 Tensor Core GPUs"
 excerpt: "Inspur released five new AI servers, which fully support the new NVIDIA Ampere architecture. The new servers support up to 8 or 16 NVIDIA A100 Tensor Core GPUs, with remarkable AI computing performance of up to 40 PetaOPS,"
 publishedDateTime: 2020-05-14T13:49:00Z
-webUrl: "https://www.businesswire.com/news/home/20200514005480/en/"
+webUrl: "https://www.businesswire.com/news/home/20200514005480/en/Inspur-Releases-5-New-AI-Servers-Powered"
 type: article
 quality: 53
 heat: -1
@@ -62,6 +62,6 @@ related:
         width: 700
         height: 705
 
-secured: "yp+54hZHBuQQGyQsQSpI3hSD6vSq6MLfi57+BW85zD+N7NTbkCikKUTtI1xpjGWOWXkZi5YAzCy9nOOMYSCHYbLbT1o45xyX++Q1ODAvWup8OyzOlvrkXntcDgLACsGuSZxJGmj9BRjH0IMaMMQqVKgtGoJFYM0WLjILO8YDamrG3EqCjxQnukbyJ4s1WiiFFNJJFbWDuWlZ+vZuwL0OXUM6HEoaxrc0TwuFgOIZEeE0i0plKWIlsRSkqL21nTPRRjcW/tlLkheid7XIM/FJGGwL+hZu3TCshw8USt9EZOyNwgXmTlaXq1AHyNOtv2kV;siVZdZW21vBmC9C3IeZ5uw=="
+secured: "EMSpe9ZFb2liZTvgsLQjh1ANXPAfmJFIK/i0EH2uzIPaverU2yRVVlmxlW6GbdwAYfFITxhATHUqOQQNOW/93GUaq6b/LI59z0xLWEKJ0PtQ5K4twnn+vWWruJfTJf4qJhUj7ufIjD1XoAHuBq+qiHPZrlvhuz/aYVUldbjrYl01e3N6ojIvVWv7wTYvOuPEeREnhrM7mmYZMZURDZztGcf0F6mXbwRpxSaRBtL5mrNJKUouYgB+cVZQ86kEdlugFPsj9Liev8Glavt2uOqv1keQeQlNHFsZPbmQHrIcz5KqZRPpZ2p3q71xqk2vlg44;0NZK5jQkrAKxg+7A9v+MTg=="
 ---
 

@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-14-gms-self-driving-unit-crusie-to-cut-8-of-staff.md",
+      "title": "GM's self-driving unit Crusie to cut 8% of staff",
+      "excerpt": "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
+      "publishedDateTime": "2020-05-14T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103",
+          "width": 1920,
+          "height": 1471,
+          "title": "GM's self-driving unit Crusie to cut 8% of staff",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx.md",
+      "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
+      "excerpt": "We built a virtual customer service robot with the Xavier NX, a powerful GPU that can decode 32 video streams at once but is little bigger than a credit card and costs just $399.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx",
+      "ampWebUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
+      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
+      "publishedDateTime": "2020-05-14T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-to-bui/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx_rwas.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-this-ai-will-judge-you-for-eating-microwave-meals.md",
       "title": "This AI will judge you for eating microwave meals",
       "excerpt": "MIT CSAIL has created an AI system called Sapple that uses motion sensors and smart energy meters to work out how you're using microwaves and hair dryers",
@@ -49,7 +139,7 @@
       "path": "_news/2020-05-14-nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models.md",
       "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
       "excerpt": "Nvidia unveiled its latest data center chip architecture, “Ampere,” and a motherboard to power multi-chip servers for AI. The company sees ever-more-gigantic neural networks in coming years.",
-      "heat": 83,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
@@ -88,7 +178,9 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Microsoft AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -700,51 +792,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-14-how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx.md",
-      "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
-      "excerpt": "We built a virtual customer service robot with the Xavier NX, a powerful GPU that can decode 32 video streams at once but is little bigger than a credit card and costs just $399.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx",
-      "ampWebUrl": "https://www.pcmag.com/news/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=true",
-      "publishedDateTime": "2020-05-14T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07MUnAdQq5kTP8yqc45Xfeh-3.fit_lim.size_1200x630.v_1589318858.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-14-nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai.md",
       "title": "NVIDIA Launches Ampere A100 GPU For Data Center Computing And AI",
       "excerpt": "NVIDIA launched its Volta architecture and the V100 GPU with Tensor Cores, which dramatically accelerated performance for FP32 and FP16 tensor operations used in training AI deep neural networks (DNNs).",
@@ -1049,7 +1096,7 @@
       "path": "_news/2020-05-14-nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu.md",
       "title": "NVIDIA begins shipping the A100, its first Ampere-based data center GPU",
       "excerpt": "NVIDIA announced today that its NVIDIA A100, the first of its GPUs based on its Ampere architecture, is now in full production and has begun shipping to its customers globally. Ampere is a big generational jump in NVIDIA’s GPU architecture design,",
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu/",
@@ -1272,50 +1319,6 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-kustomer-acquires-replyai-to-enhance-chatbots-on-its-crm-platform.md",
-      "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
-      "excerpt": "Today, Kustomer is announcing some M&A that will help in that strategy: it is acquiring Reply.ai, a startup originally founded in Madrid that has built a code-free platform for companies to create ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/amp/",
-      "publishedDateTime": "2020-05-14T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/08/chat-bots.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
