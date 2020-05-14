@@ -47,19 +47,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200514005480/en/791666/23/inspur_logo.jpg"
         width: 1200
         height: 627
-  - title: "Video: NVIDIA Launches Ampere Data Center GPU"
-    excerpt: "NVIDIA announced that the first GPU based on the NVIDIA Ampere architecture, the NVIDIA A100, is in full production and shipping to customers worldwide. “NVIDIA A100 GPU is a 20X AI performance leap and an end-to-end machine learning accelerator – from data analytics to training to inference."
-    publishedDateTime: 2020-05-14T13:37:00Z
-    webUrl: "https://insidehpc.com/2020/05/video-nvidia-launches-ampere-data-center-gpu/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/05/A100.jpg"
-        width: 1000
-        height: 1084
 
 secured: "a/xCfXLk1cbAXZfvSxbZxA+YpzBxOCCEpxYR5IEUyfgt+QX5nI7oOre9Cm+KRQOBYuHWyBQgzLJ6oeA7cRzX5cM8ukWawoDlk0JR53Tt87D+T6W8r2EuTa9b5Oo+Wm0jipcxcGbll3DM1uTk3RQGJ9KiPLssj+bQuMIZWvsqymg3LvItSf6GuqfrNO9CiDg7jt+B/PMdbh74NQ9fnd6aLIApGfxojQe4mUU2A4qLM+CoBoksAzrYgXm/uoWPyfMRX6F6zZQIHYc7mUjUrY1+DZHVwD3Kui25U42lA4F8aMGSe0FL45KiRjqupo7CajEC;lRDWNpU+mY5OOvuEdqcIng=="
 ---

@@ -80,6 +80,19 @@ related:
       - url: "https://www.nzherald.co.nz/resizer/RRGwnd0bOrayZWNOQLO_dR8ZwBU=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/RWJH3I7LCBBTNLGZWV6N2L5AVY.jpg"
         width: 1200
         height: 750
+  - title: "Police searched for suspects in unapproved trial of facial recognition tech"
+    excerpt: "An unapproved police trial of controversial facial recognition software conducted dozens of searches for suspects in New Zealand. This week, RNZ revealed police did not have any of the necessary clearance from their bosses,"
+    publishedDateTime: 2020-05-14T21:27:00Z
+    webUrl: "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12332097"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 37
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/Y7XwpEKbUgTfIgtWVZOspyMnt3k=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/I5GYOMZPHZGXZGPB7HJHKFYD2U.jpg"
+        width: 1200
+        height: 750
 
 secured: "YTbN1B2cEjilXXCcNa2xmv03y9aZ6C+Nh4q96fbNSw5s0UAeCexGr21/tWD+GvhQnJ5KVJhKYf1w7vyP4etmub0wlI8cRte1HNgpLoyl/QbRp+NHwcY2oSx4nHu2XNrFSV2xmOlZpn68k6zNyvaAYhHDREuIOMs9qvP1PWqeCRBOL8k/4Tg3Fjwpo5MTGIw+4XvJm0jQ1WtkhPt1LHG8MxuOOLS8aR73x8Ve2rwCOYOC++VKgNgZCjhdrGXS87FZx59GX9TpXHEKStl3iN93t6sMAE/lUtfMNImSMQ7AKDyqje8iiLv7NjrbUk/KsAyG2mNdDeWF7PBJ/IxPWoCHpGrJlU9X3u7U5nuJGTsbB5fPEaMbxGMxuxW73CTLtt4a2RnLhyvFTIyw+Iqd++8atj0Da2y35KITr6+Yyv5rIyGrKYqDwQfadQZDcBfRZ7PgAS9qltW9/aYpgn+45+GsrnOyXCmgityW5hMikksq5A8=;nhDkLvdjeJb28N0F20n7UA=="
 ---

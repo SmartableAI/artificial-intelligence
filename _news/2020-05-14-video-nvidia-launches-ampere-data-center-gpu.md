@@ -24,43 +24,77 @@ images:
     title: "Video: NVIDIA Launches Ampere Data Center GPU"
 
 related:
-  - title: "NVIDIA Launches Ampere A100 GPU For Data Center Computing And AI"
-    excerpt: "NVIDIA launched its Volta architecture and the V100 GPU with Tensor Cores, which dramatically accelerated performance for FP32 and FP16 tensor operations used in training AI deep neural networks (DNNs)."
-    publishedDateTime: 2020-05-14T13:14:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai/amp/"
+  - title: "NVIDIA A100, the first Ampere GPU, is an absolute monster"
+    excerpt: "NVIDIA made a lot of announcements during its GTC 2020 keynote today, but at the center of many of them is the company’s new Ampere GPU architecture. Ampere is something that’s been"
+    publishedDateTime: 2020-05-14T20:58:00Z
+    webUrl: "https://www.slashgear.com/nvidia-a100-the-first-ampere-gpu-is-an-absolute-monster-14620645/"
+    ampWebUrl: "https://www.slashgear.com/nvidia-a100-the-first-ampere-gpu-is-an-absolute-monster-14620645/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-a100-the-first-ampere-gpu-is-an-absolute-monster-14620645/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/NVIDIA-A100.jpg"
+        width: 1280
+        height: 852
+  - title: "NVIDIA Unleashes Disruptive Ampere GPU Architecture And DGX A100 Supercomputers To Power Next-Gen AI Data Centers"
+    excerpt: "NVIDIA is calling the newly announced DGX A100 \"the world's most advanced system for all AI workloads\" and claiming a single rack of five DGX A100 systems can replace an entire AI training and inference-focused data center,"
+    publishedDateTime: 2020-05-14T13:08:00Z
+    webUrl: "https://www.forbes.com/sites/marcochiappetta/2020/05/14/nvidia-unleashes-disruptive-ampere-gpu-architecture-and-dgx-a100-supercomputers-to-power-next-gen-ai-data-centers/"
+    ampWebUrl: "https://www.forbes.com/sites/marcochiappetta/2020/05/14/nvidia-unleashes-disruptive-ampere-gpu-architecture-and-dgx-a100-supercomputers-to-power-next-gen-ai-data-centers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2020/05/14/nvidia-unleashes-disruptive-ampere-gpu-architecture-and-dgx-a100-supercomputers-to-power-next-gen-ai-data-centers/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
-  - title: "Inspur Releases 5 New AI Servers Powered by NVIDIA A100 Tensor Core GPUs"
-    excerpt: "Inspur released five new AI servers, which fully support the new NVIDIA Ampere architecture. The new servers support up to 8 or 16 NVIDIA A100 Tensor Core GPUs, with remarkable AI computing performance of up to 40 PetaOPS,"
-    publishedDateTime: 2020-05-14T13:49:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200514005480/en/Inspur-Releases-5-New-AI-Servers-Powered"
+    quality: 83
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd33b898984300063f86d5%2F0x0.jpg"
+        width: 1200
+        height: 1028
+  - title: "NVIDIA Drive upshifts to Ampere GPUs for a smoother self-driving roadmap"
+    excerpt: "During its GTC 2020 keynote today, NVIDIA finally pulled the veil back on its Ampere GPU architecture – at least somewhat. While details about Ampere are still slim, we do know that the"
+    publishedDateTime: 2020-05-14T13:29:00Z
+    webUrl: "https://www.slashgear.com/nvidia-drive-upshifts-to-ampere-gpus-for-a-smoother-self-driving-roadmap-14620569/"
+    ampWebUrl: "https://www.slashgear.com/nvidia-drive-upshifts-to-ampere-gpus-for-a-smoother-self-driving-roadmap-14620569/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-drive-upshifts-to-ampere-gpus-for-a-smoother-self-driving-roadmap-14620569/amp/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: SlashGear
+      domain: slashgear.com
+    quality: 73
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/NVIDIA-Drive-Ampere.jpg"
+        width: 1517
+        height: 800
+  - title: "NVIDIA's newest AI supercomputer joins the fight against COVID-19"
+    excerpt: "NVIDIA is bringing its AI expertise to bear in the fight against COVID-19, the company announced during its GTC 2020 keynote on Thursday. Specifically, the first of NVIDIA’s new line of AI-driven supercomputing systems,"
+    publishedDateTime: 2020-05-14T13:07:00Z
+    webUrl: "https://www.engadget.com/nvidia-gtc-2020-ai-health-covid-19-130031390.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-03%2F0f55cd10-7138-11ea-bdbb-345696d81c5b&client=amp-blogside-v2&signature=07f74a6dcb7a0064c5f40595596a2ffe5910b5f6"
+        width: 1036
+        height: 630
+  - title: "Nvidia Unveils Its First Ampere-Based GPU, Raises Bar for Data Center AI"
+    excerpt: "Nvidia took the wraps off its first Ampere-based GPU today, the A100, along with a raft of products that rely on the new GPU and new architecture for massive improvements in both performance and power efficiency of AI and other GPGPU computing tasks."
+    publishedDateTime: 2020-05-14T14:45:00Z
+    webUrl: "https://www.extremetech.com/extreme/310500-nvidia-raises-the-bar-for-data-center-ai"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
     quality: 53
     images:
-      - url: "https://mms.businesswire.com/media/20200514005480/en/791666/23/inspur_logo.jpg"
-        width: 1200
-        height: 627
-  - title: "New NVIDIA DGX A100 Packs Record 5 Petaflops of AI Performance for Training, Inference, and Data Analytics"
-    excerpt: "NVIDIA unveiled the NVIDIA DGX A100 AI system, delivering 5 petaflops of AI performance and consolidating the power and capabilities of an entire data center into a single flexible platform. \"DGX A100 systems integrate eight of the new NVIDIA A100 Tensor Core GPUs,"
-    publishedDateTime: 2020-05-14T13:13:00Z
-    webUrl: "https://insidehpc.com/2020/05/new-nvidia-dgx-a100-packs-record-5-petaflops-of-ai-performance-for-training-inference-and-data-analytics/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/05/dgxa100.jpg"
-        width: 700
-        height: 705
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Nvidia-A100-GPU.jpg"
+        width: 1344
+        height: 742
 
 secured: "s288RJMuzfeomAU3yIF2TwxJq/yjOS0iMSaotCzWd1S5xxrIk6TwZcA+dYBjCq7sjk7y6MFuh4bUg80M+vsFTOo9jVoHPZ1D7Sae5yU/3ft5IS9gbip15K+1l5k2J/vlm1vlJYPBm43oA8LHb8PfZDJt8Dyv2xrpsHWqdxcB27Nq/MksPMiOjX2+LGKCVLIdFFWpaFImFx9+Qm2kHpl0fYOTpmuig13P8DZZH5rEoQWxdsnmoZ8MmFz3PSSCt7tD9zhmbD2jealAojbT1ZJ1pexcoa6MpFKIM0TBDED4ZvewQhLjl0QAubC/oyqzP7+v;aqvghw2Kdp8BmvxHfYuRSQ=="
 ---

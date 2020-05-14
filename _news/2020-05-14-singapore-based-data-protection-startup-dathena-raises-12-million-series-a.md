@@ -28,6 +28,6 @@ images:
     height: 682
     title: "Singapore-based data protection startup Dathena raises $12 million Series A"
 
-secured: "38gLXhIMtkI8p2vU8sLp6aQl0Cvvl5u+Pq/Ks6wC+cPh1Tzan7pJwdfeJFIMhmxOV4GxoL4jJEL6ej3oTOx8QqIlNkdZ1JCdrR9oumhXKv9+9tDZgMUoFv9jiACOU2v09/XIAqHPtjhZylNBjtO732OmWd1O5GfBC6pEm61IrPuSPNUyGfeZqqilthIZoVQbzUHzG9yDslsfxrVDD4rpCmIymwMoLBYxDNPeGReTduKUIHhaHnT0tTDyBXqXz2viJ586/4NutfkG9cR/E48+Gw506m+ghQopiWQ3ELvG6NKiTJ030V0mm/F4svR+JUWK;2uEnSf3VDL4LquLcq7eVMg=="
+secured: "q5ucP5zEN3T8hExAwo9JjCb0uRIKXtCwG6Aqoe+6SZvS0f7f4HInb49nQaj//msCUTcqmQ/JmmL4YMGgyBtmtU6L6584ay2VFjQzX2HP+JS1T/8K8HQFfvZep9IC0FQK+wODC46uWQxeavXIL0/lrI/wWDAxUU0M56TnTm3z6xODZdCZ7E0inRiHaxQgi6oL8t73nf0EOhtHYLlvZi9UumdAJBb/J58IsPm7TA2DkGe/VbdSt150Ktzm7tS0842QVinSKWpva3Xlo5jCL+h+IC7dNdKYerLSwdyIS0QP0M+RPbeIz8E30zpkJhQ77I+Mr+2go11m5sNaOCfPgI17Y8mgpR9OLwObLcFE6GsclN+neoy0cqne+C8wfzWtY4wnY1iBor+XU9pv0HSztZdiVxR1gB36Vnc9LyXRli76hxnXFGVsPZHM+c4/a9CH2VeWVyIEIY5cwb4HlXf2jNgxb9hXnrYT2TKWxc1nlnro+rE=;XS4qDYhc2CvaUUuvfhYU/g=="
 ---
 

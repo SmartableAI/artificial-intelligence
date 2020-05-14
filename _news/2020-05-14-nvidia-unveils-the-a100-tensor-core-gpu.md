@@ -69,19 +69,6 @@ related:
       - url: "https://regmedia.co.uk/2020/05/14/a100_1.jpg"
         width: 2000
         height: 1700
-  - title: "Nvidia Unveils Its First Ampere-Based GPU, Raises Bar for Data Center AI"
-    excerpt: "Nvidia took the wraps off its first Ampere-based GPU today, the A100, along with a raft of products that rely on the new GPU and new architecture for massive improvements in both performance and power efficiency of AI and other GPGPU computing tasks."
-    publishedDateTime: 2020-05-14T14:45:00Z
-    webUrl: "https://www.extremetech.com/extreme/310500-nvidia-raises-the-bar-for-data-center-ai"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 53
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Nvidia-A100-GPU.jpg"
-        width: 1344
-        height: 742
   - title: "NVIDIA Introduces 7nm Ampere A100 Tensor Core GPU"
     excerpt: "NVIDIA Introduces 7nm Ampere A100 Tensor Core GPU NVIDIA CEO Jensen Huang has formally announced the first product powered by the company’s new Ampere architect"
     publishedDateTime: 2020-05-14T15:03:00Z

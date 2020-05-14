@@ -2,6 +2,133 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-13-facebook-gives-researchers-hateful-memes-challenge-to-develop-algorithms-against-it.md",
+      "title": "Facebook gives researchers ‘hateful memes’ challenge to develop algorithms against it",
+      "excerpt": "The social media giant is leaning on AI to filter out objectionable content as the coronavirus has sidelined most of its human moderators",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.deccanchronicle.com/technology/in-other-news/130520/facebook-gives-researchers-hateful-memes-challenge-to-develop-al.html",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/technology/in-other-news/130520/facebook-gives-researchers-hateful-memes-challenge-to-develop-al.html",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/130520/facebook-gives-researchers-hateful-memes-challenge-to-develop-al.html",
+      "publishedDateTime": "2020-05-13T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200513163445.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": "Facebook gives researchers ‘hateful memes’ challenge to develop algorithms against it",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-elon-musk-has-a-complex-relationship-with-the-ai-community.md",
+      "title": "Elon Musk has a complex relationship with the A.I. community",
+      "excerpt": "Elon Musk is one of the first investors in DeepMind, he helped set up the $1 billion OpenAI research lab, and he's often making comments about AI. WWIII, more dangerous than nukes, scariest problem: several people in the AI community told CNBC that they struggle to take Musk's AI comments seriously.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "publishedDateTime": "2020-05-13T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105773439-1551717349171rtx6p9uc.jpg?v=1551717410",
+          "width": 3986,
+          "height": 2657,
+          "title": "Elon Musk has a complex relationship with the A.I. community",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook.md",
+      "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
+      "excerpt": "MarketResearch.Biz published a new industry research report “Automatic Speech Recognition Software Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook-2020-05-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-artificial-intelligence-in-healthcare-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2019-2024.md",
       "title": "Artificial Intelligence In Healthcare Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2019-2024",
       "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
@@ -267,7 +394,7 @@
       "path": "_news/2020-05-12-police-trialled-facial-recognition-tech-without-clearance.md",
       "title": "Police trialled facial recognition tech without clearance",
       "excerpt": "The police's high tech crime unit handling the technology appears to have not sought the necessary clearance before trialling it.",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.rnz.co.nz/news/national/416483/police-trialled-facial-recognition-tech-without-clearance",
@@ -1158,140 +1285,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing.md",
-      "title": "Intel Capital invests $132 million in 11 startups mostly focused on AI, autonomous computing",
-      "excerpt": "A few AI driven investments include: Anodot, a startup focused on autonomous business monitoring via machine learning. Anodot is designed to catch incidents that impact costs such as app performance, customer incidents and success rate drops. Hypersonix, which is developing an AI driven autonomous analytics platform for retail, restaurants ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/",
-      "publishedDateTime": "2020-05-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/3b281536-3984-4d37-8041-c236f425cb2d/thumbnail/1200x675/30edb9414ab65af518d50bdaef074337/cfo-pwc-survey-business-return-may-11-2020.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Intel Capital invests $132 million in 11 startups mostly focused on AI, autonomous computing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure.md",
-      "title": "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure",
-      "excerpt": "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure.",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure-2020-05-12",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-damien-patton-ceo-of-ai-surveillance-tool-banjo-resigns-after-kkk-neo-nazi-past-exposed.md",
-      "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
-      "excerpt": "News of the shift comes after OneZero re-surfaced newspaper reports from the 1990s which tied Patton to a fork of the Ku Klux Klan hate group and his involvement with a synagogue shooting.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339",
-      "ampWebUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
-      "publishedDateTime": "2020-05-12T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1589117/banjo.png",
-          "width": 1548,
-          "height": 1090,
-          "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

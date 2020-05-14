@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-14-omnichannel-personalization-with-amazon-personalize.md",
+      "title": "Omnichannel personalization with Amazon Personalize",
+      "excerpt": "As the touchpoints customers use to engage with brands move to an increasingly complex mixture of digital and real-life interactions, you’re faced with the daunting task of delighting your customers with personalized experiences that hit the mark across these channels. Customer expectations are evolving",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/omnichannel-personalization-with-amazon-personalize/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T13:33:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/image002.jpg",
+          "width": 800,
+          "height": 608,
+          "title": "Omnichannel personalization with Amazon Personalize",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-aws-to-offer-nvidia-a100-tensor-core-gpu-based-amazon-ec2-instances.md",
       "title": "AWS to offer NVIDIA A100 Tensor Core GPU-based Amazon EC2 instances",
       "excerpt": "Tens of thousands of customers rely on AWS for building machine learning (ML) applications. Customers like Airbnb and Pinterest use AWS to optimize their search recommendations, Lyft and Toyota Research Institute to develop their autonomous vehicle programs, and Capital One and Intuit to build and deploy",
@@ -1186,51 +1231,6 @@
           "width": 600,
           "height": 423,
           "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-amazon-a2i-is-now-generally-available.md",
-      "title": "Amazon A2I is now generally available",
-      "excerpt": "AWS is excited to announce the general availability of Amazon Augmented AI (Amazon A2I), a new service that makes it easy to implement human reviews of machine learning (ML) predictions at scale. Amazon A2I removes the undifferentiated heavy lifting associated with building and managing expensive and",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-a2i-is-now-generally-available/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T11:21:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/Product-Page-Diagram_Textract@2x.png",
-          "width": 1200,
-          "height": 485,
-          "title": "Amazon A2I is now generally available",
           "attribution": null
         }
       ],

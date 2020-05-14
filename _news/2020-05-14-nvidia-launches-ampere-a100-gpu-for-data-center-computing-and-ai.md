@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200514005480/en/791666/23/inspur_logo.jpg"
         width: 1200
         height: 627
-  - title: "Video: NVIDIA Launches Ampere Data Center GPU"
-    excerpt: "NVIDIA announced that the first GPU based on the NVIDIA Ampere architecture, the NVIDIA A100, is in full production and shipping to customers worldwide. “NVIDIA A100 GPU is a 20X AI performance leap and an end-to-end machine learning accelerator – from data analytics to training to inference."
-    publishedDateTime: 2020-05-14T13:37:00Z
-    webUrl: "https://insidehpc.com/2020/05/video-nvidia-launches-ampere-data-center-gpu/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/05/A100.jpg"
-        width: 1000
-        height: 1084
   - title: "New NVIDIA DGX A100 Packs Record 5 Petaflops of AI Performance for Training, Inference, and Data Analytics"
     excerpt: "NVIDIA unveiled the NVIDIA DGX A100 AI system, delivering 5 petaflops of AI performance and consolidating the power and capabilities of an entire data center into a single flexible platform. \"DGX A100 systems integrate eight of the new NVIDIA A100 Tensor Core GPUs,"
     publishedDateTime: 2020-05-14T13:13:00Z

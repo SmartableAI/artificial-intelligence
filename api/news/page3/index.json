@@ -2,6 +2,133 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-13-facebook-trains-artificial-intelligence-on-hateful-memes.md",
+      "title": "Facebook trains artificial intelligence on ‘hateful memes’",
+      "excerpt": "Facebook said it made a commitment to \"disrupt\" organised hateful conduct using artificial intelligence. Here's how.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
+      "ampWebUrl": "https://amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
+      "cdnAmpWebUrl": "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
+      "publishedDateTime": "2020-05-13T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "richest",
+        "domain": "thesouthafrican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gcs.thesouthafrican.com/2020/05/7764b0a6-facebook-ai-scaled.jpeg",
+          "width": 2560,
+          "height": 1707,
+          "title": "Facebook trains artificial intelligence on ‘hateful memes’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution.md",
+      "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
+      "excerpt": "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has announced the general availability of Amazon Kendra, described as an enterprise search solution which leverages \"machine learning to enable organizations to index all of their internal data sources,",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution-2020-05-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-facebooks-head-of-ai-says-elon-musk-has-no-idea-what-he-is-talking-about.md",
+      "title": "Facebook's head of AI says Elon Musk 'has no idea what he is talking about'",
+      "excerpt": "Elon Musk has repeatedly warned that AI is on the brink of outsmarting humans and that it could prove more dangerous to mankind than nuclear weapons.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5?amp",
+      "publishedDateTime": "2020-05-13T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ebc148f48d92c67f652cf9c?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": "Facebook's head of AI says Elon Musk 'has no idea what he is talking about'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-north-america-self-driving-car-market-2024-size-future-outlook-of-the-market.md",
       "title": "North America Self-driving Car Market 2024 Size, Future Outlook of the Market",
       "excerpt": "May 13, 2020 (AmericaNewsHour) -- North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a",
@@ -706,7 +833,7 @@
       "path": "_news/2020-05-12-police-trialled-facial-recognition-tech-without-clearance.md",
       "title": "Police trialled facial recognition tech without clearance",
       "excerpt": "The police's high tech crime unit handling the technology appears to have not sought the necessary clearance before trialling it.",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.rnz.co.nz/news/national/416483/police-trialled-facial-recognition-tech-without-clearance",
@@ -953,143 +1080,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-facebook-deploys-ai-in-its-fight-against-hate-speech-and-misinformation.md",
-      "title": "Facebook deploys AI in its fight against hate speech and misinformation",
-      "excerpt": "The company has long sought to rein in the prevalence of hate speech spread on its site. Detecting hate speech is no easy feat. The company is even tackling hate memes.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/facebook-ai-hate-speech-covid-19-160037191.html",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-ai-hate-speech-covid-19-160037191.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-hate-speech-covid-19-160037191.html",
-      "publishedDateTime": "2020-05-12T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F54d59260-ea8a-11e9-bf7f-758b7f2dc3d2&client=amp-blogside-v2&signature=45436068159308fc2a7d743785a6f90e67a9e5f9",
-          "width": 600,
-          "height": 350,
-          "title": "Facebook deploys AI in its fight against hate speech and misinformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-facebook-is-using-more-ai-to-detect-hate-speech.md",
-      "title": "Facebook is using more AI to detect hate speech",
-      "excerpt": "Facebook reported large gains in AI used for hate speech detection and announced the launch of the $100,000 Hateful Memes challenge for AI researchers.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/12/facebook-is-using-more-ai-to-detect-hate-speech/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/hateful-memes-challlenge.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook is using more AI to detect hate speech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-this-was-supposed-to-be-the-year-driverless-cars-went-mainstream.md",
-      "title": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
-      "excerpt": "Perfecting the technology has taken longer than expected. The coronavirus pandemic has made it even more difficult. By Cade Metz and Erin Griffith SAN FRANCISCO — Tech companies once promised that fully functional, self-driving cars would be on the road by 2020 and on the path to remaking transportation and transforming the economy.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.amp.html",
-      "publishedDateTime": "2020-05-12T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/08/business/00robotcars5/00robotcars5-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

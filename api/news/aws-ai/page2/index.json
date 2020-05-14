@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-24-amazon-a2i-is-now-generally-available.md",
+      "title": "Amazon A2I is now generally available",
+      "excerpt": "AWS is excited to announce the general availability of Amazon Augmented AI (Amazon A2I), a new service that makes it easy to implement human reviews of machine learning (ML) predictions at scale. Amazon A2I removes the undifferentiated heavy lifting associated with building and managing expensive and",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-a2i-is-now-generally-available/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T11:21:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/Product-Page-Diagram_Textract@2x.png",
+          "width": 1200,
+          "height": 485,
+          "title": "Amazon A2I is now generally available",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
       "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
       "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence",
@@ -1225,43 +1270,6 @@
           "width": 1024,
           "height": 768,
           "title": "Security measure or Big Brother? Civil rights groups ask Amazon to stop selling its facial recognition system to law enforcement",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success.md",
-      "title": "Why your firm should host a hackathon – and 5 ways to ensure its success",
-      "excerpt": "Hackathons have become de rigueur in the tech world – Facebook, Inc. held its 50th in February – but it’s not just tech companies that can benefit from scheduling an all-day brainstorming and development session, management consultants Elizabeth ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436",
-      "ampWebUrl": "https://www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436?amp=1",
-      "publishedDateTime": "2020-04-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2016/04/Hackathons-header.jpg",
-          "width": 620,
-          "height": 250,
-          "title": "Why your firm should host a hackathon – and 5 ways to ensure its success",
           "attribution": null
         }
       ],
