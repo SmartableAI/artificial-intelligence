@@ -18,6 +18,19 @@ topics:
   - AI
 
 related:
+  - title: "Transformative AI Processing Solution for Video Analytics at the Edge"
+    excerpt: "Sensor-enabled technology is at the heart of exciting innovation in the retail, smart city, and industrial sectors."
+    publishedDateTime: 2020-05-13T20:45:00Z
+    webUrl: "https://www.embedded-computing.com/guest-blogs/transformative-ai-processing-solution-for-video-analytics-at-the-edge"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 39
+    images:
+      - url: "http://share.opsy.st/5ebc581e611ce-Picture1.png"
+        width: 254
+        height: 300
   - title: "Foxconn Partners With Socionext and Hailo to Launch Next-generation AI Processing Solution for Video Analytics at the 'Edge'"
     excerpt: "Foxconn, a global leader in smart manufacturing, is joining Socionext, a major provider of advanced SoC solutions for video and"
     publishedDateTime: 2020-05-12T20:13:00Z

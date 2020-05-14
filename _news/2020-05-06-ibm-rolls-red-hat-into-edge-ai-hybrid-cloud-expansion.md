@@ -2,18 +2,18 @@
 category: news
 title: "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion"
 excerpt: "Deeply assimilating its Red Hat technology, IBM this week rolled out a set of new platforms and services designed to help customers manage edge-based application workloads and exploit artificial intelligence for infrastructure resiliency."
-publishedDateTime: 2020-05-06T14:52:00Z
-webUrl: "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html"
-ampWebUrl: "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
-cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
+publishedDateTime: 2020-05-06T14:43:00Z
+webUrl: "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html"
+ampWebUrl: "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
+cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html"
 type: article
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: ITworld
+  domain: itworld.com
 
 topics:
-  - Microsoft AI
+  - IBM AI
   - AI
 
 images:
@@ -22,6 +22,6 @@ images:
     height: 800
     title: "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion"
 
-secured: "phK0wz114Xz3Jprfyv+VeeYtVzG9aUp1ToIQ/2rYiYCtoaPqb8k3NdEyVVA7h6VWuHQLPSkaVgJ6SxH7/Nx8emG9E5STyMvGTIjoUq3V7L92O5Ubtnde6J5R5sfXqaAhCG70G1nz7kXWtCWSKhwYEu2l2hkxwo/UdMx6l2XAXBKf7Z62D4eeDbWK+QcesOakFj1aUhMSn5uYIbmi+ZWWAoQVCCe75rtR0wMEANcJkeEAs25XtLWvI4RwTVMc6+9F0VvqzJdjlqh2gy01iJNwDhcBpnJxXnqA/2OVdaF0s79uh3xFLR9BFdBcW37iVPls;f0WHNmWFOp1JMej2hRy6NA=="
+secured: "Oce+ynnSPKQRo6gxBOwJqtrCOy6NZNq7V2cNOi6Y5bQW98wyrM/EvW6BWIip7AuqzddwOhiYHa3ChlPAWTiagTGj9boD2mPWoyDmTIMBD00+bNAzs9VV3heDMM20Vn7wM8DxRYFRdZljXGcViCFiNmdqfcm43JCD5WL6kr6NG6asuk3lTrMiF0EsWiymHcs9HWEjdQrOUvxa9LVQDiYdynarDjKBaRWWos+lu1yP21e30BDOLkhenafeF6vbxO3AgUfIt77yXCiYLnDFiy7Crefo1fTF2rJI+hJ8qGuDY375788U7JOX8Wu35IT/5zZZ;Rl9tA8Q01YvYvi+k7cAnuQ=="
 ---
 

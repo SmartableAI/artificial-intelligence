@@ -2,6 +2,124 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-12-facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech.md",
+      "title": "Facebook upgrades its AI to better tackle COVID-19 misinformation and hate speech",
+      "excerpt": "Facebook’s AI tools are the only thing standing between its users and the growing onslaught of hate and misinformation the platform is experiencing. The company’s researchers have cooked up a few new capabilities for the systems that keep the adversary at bay,",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/amp/",
+      "publishedDateTime": "2020-05-12T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/Reuters-Facebook-Fact-Checking.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": "Facebook upgrades its AI to better tackle COVID-19 misinformation and hate speech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-ai-might-soon-be-able-to-diagnose-coronavirus-based-on-symptoms.md",
+      "title": "AI might soon be able to diagnose coronavirus based on symptoms",
+      "excerpt": "Researchers from the UK and US developed artificial intelligence that can diagnose COVID-19 by associating a set of parameters and self-reported symptoms with the help of a mobile app. The",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://bgr.com/2020/05/12/coronavirus-symptoms-ai-diagnoses-covid-19-without-a-test/",
+      "ampWebUrl": "https://bgr.com/2020/05/12/coronavirus-symptoms-ai-diagnoses-covid-19-without-a-test/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/05/12/coronavirus-symptoms-ai-diagnoses-covid-19-without-a-test/amp/",
+      "publishedDateTime": "2020-05-12T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://boygeniusreport.files.wordpress.com/2020/03/coronavirus-travel.jpg?quality=70&#038;strip=all",
+          "width": 1600,
+          "height": 1066,
+          "title": "AI might soon be able to diagnose coronavirus based on symptoms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-police-trialled-facial-recognition-tech-without-clearance.md",
+      "title": "Police trialled facial recognition tech without clearance",
+      "excerpt": "The police's high tech crime unit handling the technology appears to have not sought the necessary clearance before trialling it.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rnz.co.nz/news/national/416483/police-trialled-facial-recognition-tech-without-clearance",
+      "ampWebUrl": "https://amp.rnz.co.nz/article/af504dcc-60a1-4740-b633-3cd419c727e4",
+      "cdnAmpWebUrl": "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/af504dcc-60a1-4740-b633-3cd419c727e4",
+      "publishedDateTime": "2020-05-12T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rnz",
+        "domain": "rnz.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rnz.co.nz/assets/news_crops/59711/eight_col_F802.jpg?1529543726",
+          "width": 720,
+          "height": 450,
+          "title": "Police trialled facial recognition tech without clearance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-australia-wins-ai-eurovision-song-contest.md",
       "title": "Australia wins AI 'Eurovision Song Contest'",
       "excerpt": "An editor for Dutch broadcaster VPRO had the idea, after the Netherlands won last year's Eurovision Song Contest. And it grew into an international effort after this year's contest was cancelled because of the coronavirus pandemic.",
@@ -949,131 +1067,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-damien-patton-ceo-of-ai-surveillance-tool-banjo-resigns-after-kkk-neo-nazi-past-exposed.md",
-      "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
-      "excerpt": "News of the shift comes after OneZero re-surfaced newspaper reports from the 1990s which tied Patton to a fork of the Ku Klux Klan hate group and his involvement with a synagogue shooting.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339",
-      "ampWebUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
-      "publishedDateTime": "2020-05-12T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1589117/banjo.png",
-          "width": 1548,
-          "height": 1090,
-          "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-cheat-sheet-a-comprehensive-guide-to-ai-terminology.md",
-      "title": "Cheat sheet: A comprehensive guide to AI terminology",
-      "excerpt": "Despite that, there is a lack of consistency in how many AI concepts are discussed, not just at the STEM education level, but in popular entertainment, science writing, and even at times in scientific journals.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/amp/",
-      "publishedDateTime": "2020-05-12T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Cheat sheet: A comprehensive guide to AI terminology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year.md",
-      "title": "AI-Brain-Chip Neuralink To Be Implanted in Human Brain Within a Year",
-      "excerpt": "Speaking on on Joe Rogan's latest podcast, the billionaire said the device could one day fix \"anything that is wrong with the brain\".",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://dailytimes.com.pk/611147/ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year/",
-      "ampWebUrl": "https://dailytimes.com.pk/611147/ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/611147/ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year/amp/",
-      "publishedDateTime": "2020-05-12T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/05/12/neuralink-brain-implants.jpg",
-          "width": 600,
-          "height": 349,
-          "title": "AI-Brain-Chip Neuralink To Be Implanted in Human Brain Within a Year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
