@@ -1,44 +1,25 @@
 ---
 category: news
 title: "Artificial intelligence could serve as backup to radiologists' eyes"
-excerpt: "That's where artificial intelligence and imaging could come into play. Schoepf was principal investigator in a study looking at the results of Siemens Healthineers' AI-Rad Companion as compared with traditional lung function tests."
-publishedDateTime: 2020-04-27T07:15:00Z
-webUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.amp"
+excerpt: "The lung tissue was gone, and there was very little you could do in terms of therapy to help patients ... That's where artificial intelligence and imaging could come into play."
+publishedDateTime: 2020-04-27T04:01:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-04/muos-aic042320.php"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Artificial intelligence could serve as backup to radiologists' eyes"
-    excerpt: "Deploying artificial intelligence could help radiologists to more accurately classify lung diseases. \"Everybody has a different trigger threshold for what they would call normal and what they would call disease,"
-    publishedDateTime: 2020-04-28T20:54:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/04/200427091641.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "Artificial intelligence can serve as backup to radiologists' eyes"
-    excerpt: "That's where artificial intelligence and imaging could come into play. In the study, researchers went back and looked at the chest scans and lung function tests of 141 people. Chest scans aren't currently part of the guidelines for diagnosing chronic obstructive pulmonary disease,"
-    publishedDateTime: 2020-04-27T14:30:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200427/3548143.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/230100_web.jpg"
+    width: 720
+    height: 479
+    title: "Artificial intelligence could serve as backup to radiologists' eyes"
 
-secured: "Ci5lPnSoNcQ9gZfcarf2Y2jj3Dfh7n4e74RBjeA7Jy8vGMDSUU91Jpp7Q6R9euAeqaPSIcZiNC1La76PySHXW3Yp8PZnCgkpEdCsuer4RNBvUtqAOslCWlzLASkcI+Ogl+4V4S7LfhTXhDyQqgOtP2RyRG49yaGPZ2T/DyUDHZUsTzpbicpz+uZzuniKunoKQ7kVx+gmZJdqEyXDpJzu7mfQGFAnXZnkAb2wpXG3V5o7muEY+cJD+hkczL1Y4pc1vCWCA/4Opz2Ju3HUmHhdbtsnFyhtSc79Fy/qXY0uschEYZKYRpyvwrgwNq9osl2maPY1pWgozTSwZCIWxn8qINKtDRwSaKYsD+WdnuDoqDw2p+h7VeZXgEekwRkAJ44SI39681i+QXpfgepBegS4WSqb//QJ3lGGfvIltl2+56ke3r0RGEi4K66OJnLFuiVJMZYY2DWJjRqRIAy405FENu/3Zw6t5TQV2Mh5fmOtWps=;pWenGIhNWK1LjnhJXUEahw=="
+secured: "Cwvp4r03ZOOdAOnNE2d5djSkVh4OBtIqAAhRX3KZpaPYkSGBKMXazWZo2WtDhmmbJV71SEQIkcBjq0vy+G/doOMb6wHvRmEEo7X7jyg9vsyjp87j3DLt4x23UmiNOfWp83h6CgZX0kFJpVDJmhTUJy+citQovQw5DfGF8ezEhFMmDTRG0IMZswgDjHkF19/6Wy4Hg6EY+MOcW3y+9WKxpl9IwQCrX/CiM+WzFjADnwfuzd1zSnUg3XCfox7EuYN3dHUUEh4etFZvhJWTsEQpB1Tfim+q0nHoyPrZoWR0KYgMTiQI5KZOda+V7Cu+g3+M;jfTFjzx75BT31UGbUOo5dg=="
 ---
 

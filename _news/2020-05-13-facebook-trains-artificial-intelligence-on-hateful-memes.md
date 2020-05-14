@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.thesouthafrican.com/technology/online/facebook-artificia
 cdnAmpWebUrl: "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Facebook trains artificial intelligence on ‘hateful memes’"
 
 related:
+  - title: "Facebook to use AI to identify 'hateful memes'"
+    excerpt: "Facebook in a blog post said, \"These efforts will spur the broader AI research community to test new methods, compare their work, and benchmark their results in order to accelerate work on detecting multimodal hate speech,"
+    publishedDateTime: 2020-05-14T06:26:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/facebook-to-use-artificial-intelligence-ai-to-identify-hateful-memes-5264621.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/facebook-to-use-artificial-intelligence-ai-to-identify-hateful-memes-5264621.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/facebook-to-use-artificial-intelligence-ai-to-identify-hateful-memes-5264621.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/01/Facebook-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
   - title: "Facebook trains AI to take on ‘hateful memes’"
     excerpt: "Facebook said it was releasing the database to researchers as part of a “hateful memes challenge” to develop improved algorithms to detect hate-driven visual messages, with a prize pool of US$100,000."
     publishedDateTime: 2020-05-12T23:28:00Z

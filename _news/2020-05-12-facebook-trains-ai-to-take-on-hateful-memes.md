@@ -39,6 +39,21 @@ related:
       - url: "https://gcs.thesouthafrican.com/2020/05/7764b0a6-facebook-ai-scaled.jpeg"
         width: 2560
         height: 1707
+  - title: "Facebook to use AI to identify 'hateful memes'"
+    excerpt: "Facebook in a blog post said, \"These efforts will spur the broader AI research community to test new methods, compare their work, and benchmark their results in order to accelerate work on detecting multimodal hate speech,"
+    publishedDateTime: 2020-05-14T06:26:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/facebook-to-use-artificial-intelligence-ai-to-identify-hateful-memes-5264621.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/facebook-to-use-artificial-intelligence-ai-to-identify-hateful-memes-5264621.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/facebook-to-use-artificial-intelligence-ai-to-identify-hateful-memes-5264621.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/01/Facebook-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
   - title: "TECH BREAK: Facebook trains AI on 'hateful memes'"
     excerpt: "Facebook said it was releasing the database to researchers as part of a \"hateful memes challenge\" to develop improved algorithms to detect hate-driven visual messages, with a prize pool of $100,000. \"These efforts will spur the broader AI research community to test new methods,"
     publishedDateTime: 2020-05-13T11:17:00Z

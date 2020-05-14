@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-21-ust-global-named-winner-at-the-microsoft-ai-awards-20-for-the-best-innovation-in-artificial-intelligence.md",
+      "title": "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence",
+      "excerpt": "UST Global, a leading digital transformation solutions company, announced that it has won the 2020 most innovative AI application award for societal impact from Microsoft. UST",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://indiaeducationdiary.in/ust-global-named-winner-at-the-microsoft-ai-awards-2-0-for-the-best-innovation-in-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Krishna-Sudheendra-CEO-UST-Global-recieving-the-award-from-Jean-Philippe-Courtois-EVP-and-President-Global-Sales-Marketing-and-Operations-Microsoft-Corporation.jpg?fit=1000%2C1058&ssl=1",
+          "width": 1000,
+          "height": 1058,
+          "title": "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-19-have-1000-to-invest-buy-these-2-artificial-intelligence-stocks-now.md",
       "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
       "excerpt": "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things la",
@@ -1193,51 +1230,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-enterprise-artificial-intelligence-along-with-telehealth-and-teleconferences-can-help-in-fighting-covid-19.md",
-      "title": "Enterprise Artificial Intelligence Along With Telehealth And Teleconferences Can Help In Fighting COVID-19",
-      "excerpt": "In the fight against COVID-19, enterprise artificial intelligence (AI) is not getting the same attention as teleconferencing and telehealth technologies. A massive shift to working from home to avoid spreading the virus means virtual collaboration companies like Zoom Video Communications are in the headlines. The same dynamic is playing out in ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/348557",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348557",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348557",
-      "publishedDateTime": "2020-04-01T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190416142211-shutterstock-1168340332.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Enterprise Artificial Intelligence Along With Telehealth And Teleconferences Can Help In Fighting COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

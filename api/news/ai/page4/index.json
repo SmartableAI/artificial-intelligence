@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-10-banjo-ceo-resigns-to-preserve-the-companys-ai-surveillance-deals.md",
+      "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
+      "excerpt": "Banjo's CEO has resigned to prevent his racist past from affecting the AI surveillance company's deals with Utah and others.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/banjo-ceo-resigns-020523666.html",
+      "ampWebUrl": "https://www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
+      "publishedDateTime": "2020-05-09T19:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F3729fa60-9248-11ea-bd0d-d3fefe9341ba&client=amp-blogside-v2&signature=9faec48e566990e0328ac6a78f600c99de1a3e20",
+          "width": 600,
+          "height": 350,
+          "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-a-different-kind-of-science-fiction-the-innovation-case-for-centering-discussions-of-inclusion-driven-ai.md",
       "title": "A Different Kind Of Science Fiction: The Innovation Case For Centering Discussions Of Inclusion-Driven AI",
       "excerpt": "What if our innovations were inspired instead by feminist science fiction writers and theorists like Ursula K. Le Guin, Octavia Butler and Donna Harraway.",
@@ -395,6 +439,43 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-3-companies-that-highlight-the-power-of-crowdfunding-for-vr.md",
+      "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
+      "excerpt": "Facebook allegedly has plans to use artificial intelligence to monitor its ad program and prevent fake news. Driverless cars are already underway, powered by AI. It will even start taking over the more dangerous jobs, where a shortage of workers is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.smartdatacollective.com/3-companies-that-highlight-the-power-of-crowdfunding-for-vr/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2018/07/virtual-reality.jpg",
+          "width": 1000,
+          "height": 665,
+          "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1198,89 +1279,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors.md",
-      "title": "Tradier Teams With Q.ai, a Forbes Company, to Bring AI and Big Data Analytics to Customers and Retail Investors",
-      "excerpt": "Tradier is teaming up with Q.ai, a Forbes company, to bring advanced AI-driven intelligent investing to retail investors. The collaboration aligns with Q.ai's mission to democratize access to AI and other quantitative investing methodologies by giving traders data-driven insights and seamless execution to help them gain an edge on the market.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tradier-teams-with-q-ai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors-1029181200",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tradier-teams-with-q-ai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors-1029181200",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tradier-teams-with-q-ai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors-1029181200",
-      "publishedDateTime": "2020-05-08T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world.md",
-      "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
-      "excerpt": "Artificial Intelligence (AI) is one of the most transformative technology trends of our times. In this article, we look at why and how AI is going to change our world.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/amp/",
-      "publishedDateTime": "2020-05-07T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb49cca1b61700007592462%2F0x0.jpg",
-          "width": 1200,
-          "height": 614,
-          "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

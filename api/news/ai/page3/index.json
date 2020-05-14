@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-11-amazon-launches-cognitive-search-service-kendra-in-general-availability.md",
+      "title": "Amazon launches cognitive search service Kendra in general availability",
+      "excerpt": "Kendra, Amazon's AI-powered cognitive enterprise search service, launched in general availability after a lengthy preview.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/amp/",
+      "publishedDateTime": "2020-05-11T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon launches cognitive search service Kendra in general availability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-arlington-asset-investment-corp-ai-q1-2020-earnings-call-transcript.md",
       "title": "Arlington Asset Investment Corp (AI) Q1 2020 Earnings Call Transcript",
       "excerpt": "Arlington Asset Investment Corp Q1 2020 Earnings Call May 11, 2020, 10:00 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator",
@@ -1254,50 +1300,6 @@
           "width": 1200,
           "height": 676,
           "title": "Why The Way You Talk About Artificial Intelligence Needs To Change",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-10-banjo-ceo-resigns-to-preserve-the-companys-ai-surveillance-deals.md",
-      "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
-      "excerpt": "Banjo's CEO has resigned to prevent his racist past from affecting the AI surveillance company's deals with Utah and others.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/banjo-ceo-resigns-020523666.html",
-      "ampWebUrl": "https://www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
-      "publishedDateTime": "2020-05-09T19:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F3729fa60-9248-11ea-bd0d-d3fefe9341ba&client=amp-blogside-v2&signature=9faec48e566990e0328ac6a78f600c99de1a3e20",
-          "width": 600,
-          "height": 350,
-          "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
           "attribution": null
         }
       ],

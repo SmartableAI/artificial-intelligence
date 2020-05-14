@@ -2,6 +2,88 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-06-mobile-ai-market-sharerevenue-growth-forecast-and-segmentation-based-on-industry-wise.md",
+      "title": "Mobile AI Market , Share,Revenue, Growth Forecast and Segmentation based on Industry-wise",
+      "excerpt": "Global Mobile AI Market Research Report, by Mobile Platform (Android, iOS, Windows), by Application (Virtual Assistant, Camera, Chatbots, Navigation, Drones), by Vertical (Finance, Education, Travel & Tourism,",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/mobile-ai-market-sharerevenue-growth-forecast-and-segmentation-based-on-industry-wise-2020-05-06",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Mobile AI Market , Share,Revenue, Growth Forecast and Segmentation based on Industry-wise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-united-states-image-recognition-market-will-take-the-highest-jump-during-2020-2025.md",
+      "title": "United States Image Recognition Market will take the highest jump during 2020-2025",
+      "excerpt": "\"The Image Recognition Market 2020 Research Report investigates the industry thoroughly and offers a complete study on Image Recognition volume, market Share, market Trends, Global Image Recognition Growth aspects,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cmo.com.au/mediareleases/102748/united-states-image-recognition-market-will-take/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
+          "width": 600,
+          "height": 246,
+          "title": "United States Image Recognition Market will take the highest jump during 2020-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-women-wanted-why-now-could-be-a-good-time-for-women-to-pursue-a-career-in-ai.md",
       "title": "Women wanted: Why now could be a good time for women to pursue a career in AI",
       "excerpt": "AI is on the rise during the coronavirus pandemic, but more women are needed to get the industry where it needs to be, according to a new IBM report.",
@@ -1217,88 +1299,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-rising-from-rock-bottom.md",
-      "title": "Rising From Rock Bottom",
-      "excerpt": "With an unavoidable recession in the cards, what can we expect in the coming months? How quickly can markets, societies and small businesses recover?",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/05/05/rising-from-rock-bottom/amp/",
-      "publishedDateTime": "2020-05-05T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-lenovo-launches-two-processor-servers-with-64-core-amd-epyc-chips.md",
-      "title": "Lenovo launches two-processor servers with 64-core AMD Epyc chips",
-      "excerpt": "Lenovo is launching two-socket ThinkSystem servers that feature Advanced Micro Devices Epyc processors with 64 cores each.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/05/lenovo-launches-two-processor-servers-with-64-core-amd-epyc-chips/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/05/lenovo-launches-two-processor-servers-with-64-core-amd-epyc-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/lenovo-launches-two-processor-servers-with-64-core-amd-epyc-chips/amp/",
-      "publishedDateTime": "2020-05-05T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/lenovo.jpg?fit=1200%2C564&strip=all",
-          "width": 1200,
-          "height": 564,
-          "title": "Lenovo launches two-processor servers with 64-core AMD Epyc chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

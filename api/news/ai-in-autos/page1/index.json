@@ -305,6 +305,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-09-3-companies-that-highlight-the-power-of-crowdfunding-for-vr.md",
+      "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
+      "excerpt": "Facebook allegedly has plans to use artificial intelligence to monitor its ad program and prevent fake news. Driverless cars are already underway, powered by AI. It will even start taking over the more dangerous jobs, where a shortage of workers is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.smartdatacollective.com/3-companies-that-highlight-the-power-of-crowdfunding-for-vr/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2018/07/virtual-reality.jpg",
+          "width": 1000,
+          "height": 665,
+          "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-waymo-self-driving-cars-hit-the-road-again-in-phoenix.md",
       "title": "Waymo self-driving cars hit the road again in Phoenix",
       "excerpt": "Those residing in the metro Phoenix area will once again start to see Waymo's self-driving vehicles hitting the road. On Thursday, the Alphabet Inc division said it will start redeploying its autonomous cars starting May 11.",
@@ -1225,44 +1262,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems.md",
-      "title": "Gap in AI chips between China and US may be larger than it seems",
-      "excerpt": "But competition could fracture a global research community as US and Chinese governments bid for local control of AI chips.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
-      "ampWebUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
-      "publishedDateTime": "2020-05-04T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2020/03/bigstock-micro-chip-quantum-processor-259779781.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": "Gap in AI chips between China and US may be larger than it seems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
