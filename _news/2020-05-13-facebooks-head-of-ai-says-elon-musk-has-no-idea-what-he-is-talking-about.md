@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/facebook-ai-head-slams-elon-musk-202
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5?amp"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -44,6 +44,21 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/07/Elon-Musk-hed-796x419.jpg"
         width: 796
         height: 419
+  - title: "Elon Musk Has No Idea What He’s Talking About, Says Facebook’s Head Of AI Jerome Pesenti"
+    excerpt: "Facebook’s Head of AI, Jerome Pesenti, has strongly condemned assertions made by tech billionaire Elon Musk about the future of AI. On Wednesday, May 13, Pesenti took to Twitter to criticise Musk, describing him as having ‘no idea what he is talking about when he talks about AI’."
+    publishedDateTime: 2020-05-14T13:02:00Z
+    webUrl: "https://www.unilad.co.uk/technology/elon-musk-has-no-idea-what-hes-talking-about-says-facebooks-head-of-ai-jerome-pesenti/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/elon-musk-has-no-idea-what-hes-talking-about-says-facebooks-head-of-ai-jerome-pesenti/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/elon-musk-has-no-idea-what-hes-talking-about-says-facebooks-head-of-ai-jerome-pesenti/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 50
+    images:
+      - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/05/musk_pesenti.jpg&quality=70&width=808"
+        width: 808
+        height: 424
   - title: "Musk has no idea what is he talking about, says Facebook head of AI"
     excerpt: "Facebooks Head of Artificial Intelligence (AI) has slammed Tesla CEO Elon Musk over his understating of AI, saying he has no idea about the Artificial general intelligence (AGI) technology."
     publishedDateTime: 2020-05-14T04:37:00Z

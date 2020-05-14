@@ -54,6 +54,21 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/07/Elon-Musk-hed-796x419.jpg"
         width: 796
         height: 419
+  - title: "Elon Musk Has No Idea What He’s Talking About, Says Facebook’s Head Of AI Jerome Pesenti"
+    excerpt: "Facebook’s Head of AI, Jerome Pesenti, has strongly condemned assertions made by tech billionaire Elon Musk about the future of AI. On Wednesday, May 13, Pesenti took to Twitter to criticise Musk, describing him as having ‘no idea what he is talking about when he talks about AI’."
+    publishedDateTime: 2020-05-14T13:02:00Z
+    webUrl: "https://www.unilad.co.uk/technology/elon-musk-has-no-idea-what-hes-talking-about-says-facebooks-head-of-ai-jerome-pesenti/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/elon-musk-has-no-idea-what-hes-talking-about-says-facebooks-head-of-ai-jerome-pesenti/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/elon-musk-has-no-idea-what-hes-talking-about-says-facebooks-head-of-ai-jerome-pesenti/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 50
+    images:
+      - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/05/musk_pesenti.jpg&quality=70&width=808"
+        width: 808
+        height: 424
 
 secured: "C5ktzIpLdgbbwpBGbjsmPbaKiZlwKlkdOK84YXM8V+AytEl87PMbz8cXSEW5qV1G9S3lBDd92iJ6PbXqf+E1eRzopE2o8CCKD9U14v0yyNov3Ae80zecfWFEhfipDYXQxuQhRjvw3jIdgVE3PD1elqBF1twR7lWFwS/WXZAUJ11UQsL9TNUoNr9CERVE682ePT4L04zojc78qQjbIZbvq0Zzw11NR8ImvRJUKTqc3JuuItdhKpZ79dK8N75P0K9nciCsoNST9U8VPiQTMzH5VDD4v1GI/SmGzI1NoV7W+WfS4xFmSnpe8DrnelQ8d9AyBLfOUaqhDypS1j7doanGWcav+MFG7W6MYA/aZimExYYCVLt+ZdQTGaFHHo8aUT3cKNyUgBjs3PRT17eQg8Qgr5RWmDyZZPFldBRuFcxN+yVCHen+608MRaUF83USxbx/an3fYfEuiiGpg1+DxukO6Mvt4ifK1sLLY/bi7l77kVw=;gGKyPSYdfJOU8xme5ggBMg=="
 ---

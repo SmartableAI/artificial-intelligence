@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/05/10/finding-patte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/10/finding-patterns-and-anomalies-in-your-data/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -27,23 +27,6 @@ images:
     width: 1200
     height: 800
     title: "How AI Is Finding Patterns And Anomalies In Your Data"
-
-related:
-  - title: "Understanding The Recognition Pattern Of AI"
-    excerpt: "Of the seven patterns of AI that represent the ways in which AI is being implemented, one of the most common is the recognition pattern."
-    publishedDateTime: 2020-05-09T19:55:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1032667470%2F0x0.jpg"
-        width: 1200
-        height: 584
 
 secured: "uRwxmyHd8RnApGI+MdTnT/S+ciI90eUX9dzog3Orp95IjDbg6B4vtg2I22wjqNeyLUHEWT95xgz9qDKH4oJVROoHxB05glpXTL4+wTrVLFLpW3ICnxi2uc0UwmwIKvDGwDBjg3zEzVQFFPcn858XOj+0WU0GkSd/M0/SviKJGJa8goX6PdWYSIoVZfhNadXweCabLwpXxHyu29gKsLr/RBSc21t9NzWx8QsdcCIi1ShDMkiPkmwySfMHQGwSd1OA5Gpbb3n+UerErcy0/ZiX59pl/cF1V5Mw+k7f61AnnnCi9sFugmooliTpZpExHAUBXEiTkfZAjx/7ktwAjeHbkuYYowCaDjbQZHlFB+aDvzm97PYaL5gx724hE3nmFWTkYrP+F6Z+qupVlD0QuH7UsfrMZap54QDuHdvMsY9hBDZPoisEgXMwWMwFJt8Pa+fCoMN9Z/+FMbo66XLprpyd3BtO3kNIJjUxD+yOySKpStA=;RJ+BYoToTKnkbwVsX/W2Vw=="
 ---

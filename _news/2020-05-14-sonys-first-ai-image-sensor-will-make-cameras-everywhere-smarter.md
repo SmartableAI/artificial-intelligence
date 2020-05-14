@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Sony’s first AI image sensor will make cameras everywhere smarter"
 
 related:
-  - title: "Sony's new image sensors will make cameras smarter with onboard AI"
-    excerpt: "Sony's latest image sensors have AI processing onboard, so they'll be able to recognize objects and handle some light machine learning tasks."
-    publishedDateTime: 2020-05-14T07:06:00Z
-    webUrl: "https://www.engadget.com/sony-image-sensor-ai-smart-cameras-070036055.html"
-    ampWebUrl: "https://www.engadget.com/amp/sony-image-sensor-ai-smart-cameras-070036055.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-image-sensor-ai-smart-cameras-070036055.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F134621e0-955a-11ea-a7d6-e6aa8c715868&client=amp-blogside-v2&signature=5da282c637662c7311e1cb0cf2400e729e9130c4"
-        width: 600
-        height: 350
   - title: "Sony ushers in new era for AI-powered cameras with world's first intelligent vision sensor"
     excerpt: "Artificially intelligent cameras will be able to track people and objects with high precision in real-time recorded footage courtesy of the world's first intelligent vision sensor, Sony has claimed. Vision sensors are sophisticated systems generally used by a smart camera to monitor changes in its field of vision,"
     publishedDateTime: 2020-05-14T07:08:00Z
