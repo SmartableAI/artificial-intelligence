@@ -2,6 +2,52 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-05-the-relentless-startup-fast-tracking-fords-self-driving-cars.md",
+      "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
+      "excerpt": "Meet Brian Salesky and the team of resourceful engineers at Argo, the little company trying to crack a big problem: safe autonomous driving.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/",
+      "ampWebUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
+      "publishedDateTime": "2020-05-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eb0b525d1f9c7765dcdadbe/master/pass/Backchannel-Argo-Selesky_6564.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-microsoft-cisco-collaboration-leveraging-iot-data-to-drive-better-business-value.md",
       "title": "Microsoft-Cisco Collaboration: Leveraging IoT Data to Drive Better Business Value",
       "excerpt": "Microsoft Azure IoT and Cisco IoT, industrial IoT market leaders, they have decided to team up to share the availability of an integrated Azure IoT solution, that provides the necessary software, hardware,",
@@ -1221,51 +1267,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-how-one-microsoft-mom-inspired-health-care-companies-to-embrace-the-life-saving-potential-of-ai.md",
-      "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
-      "excerpt": "The post How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI appeared first on The AI Blog.\n",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/transform/how-one-microsoft-mom-inspired-health-care-companies-to-embrace-the-life-saving-potential-of-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T09:00:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/05/Melissa-Mulholland_Featured_Cropped-1024x598.jpg",
-          "width": 1024,
-          "height": 598,
-          "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

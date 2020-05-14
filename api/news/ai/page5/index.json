@@ -2,6 +2,52 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-08-clearview-ai-to-stop-providing-facial-recognition-to-private-companies.md",
+      "title": "Clearview AI to stop providing facial recognition to private companies",
+      "excerpt": "Maker of controversial says it's cutting off anyone not associated with government or law enforcement entities.",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
+      "publishedDateTime": "2020-05-07T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/tcvCfks6e4V39F8bVmD3sLv2B3o=/756x567/2020/05/08/8c6c9808-f26e-4358-9f9d-8cf65d0c04d3/gettyimages-1189384731.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview AI to stop providing facial recognition to private companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-clearview-ai-pinky-swears-it-will-stop-working-with-private-companies.md",
       "title": "Clearview AI pinky swears it will stop working with private companies",
       "excerpt": "This time Clearview AI really means it. Honest. The problematic facial-recognition company that scraped billions of photos off social media is now claiming that it will not sell its technology to private companies.",
@@ -1218,50 +1264,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-dtex-raises-175-million-to-detect-cyberthreats-with-ai-while-preserving-privacy.md",
-      "title": "Dtex raises $17.5 million to detect cyberthreats with AI while preserving privacy",
-      "excerpt": "Dtex, which is developing a privacy-preserving cybersecurity platform for enterprise customers, raised $17.5 million in venture capital.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/amp/",
-      "publishedDateTime": "2020-05-07T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/US-cyber-security-company-Dtex-Systems-The-Hague-011.jpg?fit=2500%2C1667&strip=all",
-          "width": 2500,
-          "height": 1667,
-          "title": "Dtex raises $17.5 million to detect cyberthreats with AI while preserving privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

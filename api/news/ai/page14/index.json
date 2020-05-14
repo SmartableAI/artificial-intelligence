@@ -2,6 +2,43 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-30-aws-brings-ground-station-capabilities-to-ireland.md",
+      "title": "AWS brings ground station capabilities to Ireland",
+      "excerpt": "AWS Ground Station is now available in Ireland, markings its third introduction in the EMEA region, following Stockholm and Bahrain",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.capacitymedia.com/articles/3825418/aws-brings-ground-station-capabilities-to-ireland",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Capacity Media",
+        "domain": "capacitymedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.capacitymedia.com/Image/ServeImage?id=48058&w=780&h=442&cr=true",
+          "width": 720,
+          "height": 408,
+          "title": "AWS brings ground station capabilities to Ireland",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-ai-in-africa-training-bots-to-talk-to-my-mum.md",
       "title": "AI in Africa: Training bots to talk to my mum",
       "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
@@ -1216,52 +1253,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-google-open-sources-faster-more-efficient-tensorflow-runtime.md",
-      "title": "Google open-sources faster, more efficient TensorFlow runtime",
-      "excerpt": "Google open-sourced TFRT, a faster and more efficient runtime that'll eventually replace the default runtime in the company's TensorFlow framework.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/",
-      "publishedDateTime": "2020-04-29T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google open-sources faster, more efficient TensorFlow runtime",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

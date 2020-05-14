@@ -5,7 +5,7 @@
       "path": "_news/2020-05-13-microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai.md",
       "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
       "excerpt": "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,",
-      "heat": 98,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai-2020-05-13",
@@ -44,7 +44,10 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI in Robotics"
       ]
     },
     {

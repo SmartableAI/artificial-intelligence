@@ -2,6 +2,97 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-05-the-relentless-startup-fast-tracking-fords-self-driving-cars.md",
+      "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
+      "excerpt": "Meet Brian Salesky and the team of resourceful engineers at Argo, the little company trying to crack a big problem: safe autonomous driving.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/",
+      "ampWebUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
+      "publishedDateTime": "2020-05-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eb0b525d1f9c7765dcdadbe/master/pass/Backchannel-Argo-Selesky_6564.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto.md",
+      "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
+      "excerpt": "To this day, the Roomba remains the one successful mainstream home robotic. It was a feat iRobot achieved after a decade or so of throwing concepts against the wall, ultimately achieving success through a combination of outward-facing simplicity and under-the-hood sophistication.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/amp/",
+      "publishedDateTime": "2020-05-04T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/moxie.jpg?w=990",
+          "width": 990,
+          "height": 811,
+          "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-lets-make-a-deal-with-our-robot-overlords.md",
       "title": "Let’s Make a Deal With Our Robot Overlords",
       "excerpt": "The pandemic will accelerate automation. This might be an opportunity for workers.",
@@ -1180,80 +1271,6 @@
           "width": 1200,
           "height": 450,
           "title": "Current thinking: how does the brain work?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-diamonds-shine-in-energy-storage-solution.md",
-      "title": "Diamonds shine in energy storage solution",
-      "excerpt": "The new carbon structure could be a potential micro-scale power supply for anything from implanted biomedical sensing systems monitoring heart and brain functions, to small robotics and electronics.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/04/200421090540.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-robo-nurse-of-the-future.md",
-      "title": "Robo nurse of the future",
-      "excerpt": "Failure to insert an IV line is one of the leading causes of injury and infection. Researchers at Rutgers University in the US have developed a robot that finds blood vessels, even if they’re very small, and successfully inserts a needle or catheter.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/04/robo-nurse-of-the-future/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/11134/gettyimages-1168897253-2048x2048_4038263225044594476.jpg?crop=0.0000000000000013895057943753,0.45791664232810403,0,0.049895857671895291&cropmode=percentage&width=1200&height=450&rnd=132328005720000000",
-          "width": 1200,
-          "height": 450,
-          "title": "Robo nurse of the future",
           "attribution": null
         }
       ],

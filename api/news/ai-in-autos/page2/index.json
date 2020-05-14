@@ -2,6 +2,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-04-lets-make-a-deal-with-our-robot-overlords.md",
+      "title": "Let’s Make a Deal With Our Robot Overlords",
+      "excerpt": "The pandemic will accelerate automation. This might be an opportunity for workers.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "publishedDateTime": "2020-05-04T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
       "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
       "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
@@ -1165,51 +1203,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-audi-abandons-self-driving-plans-for-current-flagship.md",
-      "title": "Audi abandons self-driving plans for current flagship",
-      "excerpt": "Audi is abandoning plans to upgrade its flagship A8 sedan with Level 3 autonomous driving, blaming patchy legislation rather than technological shortcomings for the decision. Announced back in",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/",
-      "ampWebUrl": "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/",
-      "publishedDateTime": "2020-04-28T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/audi-traffic-assist-pilot-1.jpg",
-          "width": 1680,
-          "height": 1120,
-          "title": "Audi abandons self-driving plans for current flagship",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

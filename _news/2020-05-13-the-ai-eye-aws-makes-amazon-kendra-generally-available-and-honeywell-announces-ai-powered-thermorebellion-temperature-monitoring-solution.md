@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T17:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution-2020-05-13"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 1200
     height: 630
     title: "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution"
+
+related:
+  - title: "AWS Announces Major Enhancements to Amazon Macie"
+    excerpt: "AWS announced major enhancements to Amazon Macie, delivering important new features, greater availability worldwide, and substantially reduced pricing"
+    publishedDateTime: 2020-05-13T23:44:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200513005890/en/AWS-Announces-Major-Enhancements-Amazon-Macie"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: "https://mms.businesswire.com/media/20200513005890/en/791605/23/AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
 
 secured: "yzST+ACRoAC4k+XKVRYfnetb/afl6R2UtmQSyz+WvGIkSF2gA+DUfwtPKjCObxjRiRk9144iQtaWP9fCvubwxvAzKbRzPdszXIYLaT88peieV6dvOIESPFv6ZHRgtSqLF6GWBZvRqHOXz+QeynACcytpdC/92dIfPEWzGb8dEDq15OsaYJOXaiC2Ir9b1lqNCFvHUwCRlhaeIihOFFCT3DXQrhh6NI/K5fMFC7wx9MXlSqSfRwyb180G7Rg61JjFD/LNBMmsojHr3+CqvJN3F4/ghiv/ny7U2eOa6ZqV7OZi6LTA0jAdXXrwBhcDQYGv;vrdoPcO12nPfAe5HlcgOWQ=="
 ---

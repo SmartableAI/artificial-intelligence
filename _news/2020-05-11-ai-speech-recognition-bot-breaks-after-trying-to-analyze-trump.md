@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/ai-speech-recognition-bot-brea
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

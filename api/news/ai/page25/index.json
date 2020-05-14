@@ -2,6 +2,51 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-04-20-the-nba-and-microsoft-plan-to-release-a-new-ai-driven-dtc-streaming-platform.md",
+      "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
+      "excerpt": "The NBA and Microsoft announced a new multiyear partnership aimed at transforming the digital fan experience through a direct-to-consumer platform.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/nba-microsoft-team-up-for-ai-driven-personalized-streaming-platform-2020-4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-facebook-partners-up-with-researchers-to-fight-covid-19-using-ai.md",
       "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
       "excerpt": "To that end, Facebook AI has partnered up with academic researchers and other experts on a slew of ... Facebook has also partnered up with the Mila research institute in Montreal to share predictive, causal, and decision algorithms to effectively analyze clinical data. Facebook says it’s important for public health experts to understand ...",
@@ -1205,50 +1250,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-for-this-high-yield-stock-5g-and-artificial-intelligence-outweigh-coronavirus.md",
-      "title": "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus",
-      "excerpt": "Leading nodes are the smallest, densest, most advanced chips, with higher power and better battery efficiency. More powerful chips are needed in all the big megatrends today, from 5G communications to artificial intelligence applications in the data center. For instance, Taiwan Semiconductor gets almost half of its revenue from smartphone chips.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx",
-      "publishedDateTime": "2020-04-18T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568547%2Fgettyimages-474499852.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

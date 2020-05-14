@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-11-ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump.md",
+      "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
+      "excerpt": "An AI speech recognition bot designed to analyze speech and compile it into a database broke when it tried to analyze Trump's speech patterns, its creator",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
+      "ampWebUrl": "https://amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
+      "publishedDateTime": "2020-05-11T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/bf3770e6-d718-5402-b212-cb364f2fa018/default-1589197781-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai.md",
       "title": "Paradox Raises $40M Series B to Help Companies Embrace the Future of Work with Conversational AI",
       "excerpt": "Press Release Paradox, the conversational AI platform helping HR and talent teams automate administrative tasks and deliver real-time candidate and employee communications, announced today $40M in Series B funding,",
@@ -1270,51 +1307,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-watsons-creator-wants-to-teach-ai-a-new-trick-common-sense.md",
-      "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
-      "excerpt": "David Ferrucci built a computer that mastered Jeopardy. Since then, he's been attacking a more challenging task.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/",
-      "ampWebUrl": "https://www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/amp",
-      "publishedDateTime": "2020-05-09T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eb441d7d965c2a1fbff9f01/master/pass/Biz-robotreading-97394346.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

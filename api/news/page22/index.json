@@ -2,6 +2,50 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-04-27-amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room.md",
+      "title": "Amazon’s AI uses a microphone array to localize multiple speakers in a room",
+      "excerpt": "A team of Amazon researchers proposes a machine learning model that's able to localize multiple sound sources from microphone data alone.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/amp/",
+      "publishedDateTime": "2020-04-27T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon’s AI uses a microphone array to localize multiple speakers in a room",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
       "title": "AWS launches human review service for machine learning models",
       "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
@@ -982,51 +1026,6 @@
           "width": 1200,
           "height": 630,
           "title": "AutoX, Alibaba’s AutoNavi roll out robotaxis in Shanghai’s ride-hailing services market",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-larry-page-highlights-new-businesses-says-hes-having-a-good-time-in-alphabet-shareholder-letter.md",
-      "title": "Larry Page highlights new businesses, says he's having a 'good time,' in Alphabet shareholder letter",
-      "excerpt": "Google may be Larry Page's best-known project, but it's Alphabet's \"other bets\" that took the spotlight in his 2016 shareholder letter ... of kooky projects: artificial intelligence.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/04/27/alphabet-2016-shareholder-letter-larry-page.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/04/27/alphabet-2016-shareholder-letter-larry-page.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/27/alphabet-2016-shareholder-letter-larry-page.html",
-      "publishedDateTime": "2020-04-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103597047-GettyImages-495431358.jpg?v=1529471416",
-          "width": 2000,
-          "height": 1332,
-          "title": "Larry Page highlights new businesses, says he's having a 'good time,' in Alphabet shareholder letter",
           "attribution": null
         }
       ],
