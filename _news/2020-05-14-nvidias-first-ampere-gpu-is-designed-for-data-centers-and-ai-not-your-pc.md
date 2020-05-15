@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/14/21258419/nvidia-ampe
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -70,6 +70,19 @@ related:
       - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
         width: 1000
         height: 600
+  - title: "Nvidia’s first Ampere GPU is the A100, and it’s for datacenters"
+    excerpt: "Nvidia designed the A100 GPU for data centers, rather than traditional PCs. Jensen Huang noted during his GTC keynote that cloud services are surging and said that he expects the Ampere line to “do remarkably well,"
+    publishedDateTime: 2020-05-15T16:36:00Z
+    webUrl: "https://techreport.com/news/3470558/nvidia-dgx-a100-ampere-datacenter-gpu/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://cdn.techreport.com/wp-content/uploads/2020/05/nvidia-a100-gpu.jpg"
+        width: 1181
+        height: 717
 
 secured: "0E19rQlY41abYGCDT9fswRKMgYnYet6KeE9ezTAReOSnV8owqzXC0xaAdhCEL4WpPTmGAmWyE1JHmoE7t5nvWCQQWnXeeEqlM7ENWYhRpanRQHStVJj+404ePrn6piY4r9oINRU83nlwwhp5BaUQiGRgKGd5xw4t1tb38Uelp7+D109Z/T+1RGyUfExogh3m5aChzngBcgsv5AjazbOqm9uJO0KZmgdJ4Oj/eDM4rrd2piR/9Zw1S6OEymvOC+b6NXI4ZTs9rcYi6knjFXsgT0UGMJUFSap0S94ZgfQBjKtUnMyApZaUQ5O8UK7GOZKBxpQzMOMXVkS4tmUrqq4SRMsmuPjgLmqzofdWYp1wa8R/EL275h5jla1n0a0Y8XPx/moYEBYpNskbc3xnAOPT/MZiMq/yM70eLQ9+F4+5zJzlC/7kG6Yw/0X6weVuARE5s820jl0hO7FL/pD/+MYBIEH0DrikduEkZxSFW+tlHvA=;AdiLL3kg9ueaxshc6TvRSQ=="
 ---

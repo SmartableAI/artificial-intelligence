@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cr
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -45,7 +45,18 @@ related:
       - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "GM's Self-driving Car Unit Cruise To Lay Off 8% Of Staff: Reports"
+    excerpt: "(RTTNews) - Cruise, the self-driving vehicle start-up majority-owned by General Motors, reportedly plans to lay off 150 employees or about 8% of"
+    publishedDateTime: 2020-05-15T17:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gm-s-self-driving-car-unit-cruise-to-lay-off-8-of-staff-reports-1029207494"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/GM-s-Self-driving-Car-Unit-Cruise-To-Lay-Off-8-Of-Staff-Reports-1029207494"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GM-s-Self-driving-Car-Unit-Cruise-To-Lay-Off-8-Of-Staff-Reports-1029207494"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
 
-secured: "tHZMi+Ts5RAkDCxrvk+1LMFXRvkdsADlBWad6Ywib7ncggSLCjH4ZEaRDL6xdAQpARdpo5gEzXYLD8AaXXA5rBLRmTLLLY57oQDnmDqooxuBRUkzBPfCApiej8XzJYwn93Zz2LwSJITqBJbhEysY5zqEs4folL540WUijsOQx1JGqssZxgCW76EwO5Xsr4QXShhgKWsIu8OyD++GhAV3IxdFKo7JIGfxd3hr2wZSc1m3HGx6x52KmMSc5tUHyZQ4Ge4SR/tvJLWQl/8MCWVUhXvlJT0sVZGqHiUc5geHXIemypqKGFYGvppKIODWDWCmcXElw7ic3FEinyWLs682muC7FFxYxtfPMCgXQg2TBWZ24hEgJha5ZbsbOIxhFoIsMvaOpKLjJRZewwRP9TvFDfIic9PhI+Exlsr/YBUX+tOSeRQhYJQYOIm4Cf8IFsnzpCEC0O9twJig+qmhJrOvt77Yfn6UoymWNxVpY6+thH8=;kr6/o9sw4HkEX5rw+uPTrw=="
+secured: "vWltpXszcB0WgFFwMmn9JZRU/FSvlmnT+zMhFmppNyv7INwts0sUbEqQaIEXxscSjELGXhEKeMJI1j1uoK5T9XeiD4QI1gKHskv9Uvkj+rhfPDrJHQjBaBwqi9OT/O3rnOybos/kqfm1hnNPsJxl8RgxML1BqByBCIdCk3ENoVCLiJYe8d5d+o1HbGBko4gWkz9qu8N0Jei1Ax2K2M6pxVtbu5igPsOYAeaOujnn47MzC73YRHydDvHXqZaNRNncziJTogxcDbI80s6LbusuTrUl3zCimTKEq3mXQWSCv/LmoRnWNMz+ChZqWql5Y5RXLUssHqcfFZBwn0yPDje0Xu2buYUGP6U+KsbnNNSzsL8x7HNyFtLgk/Ze3UquMZ3vbSOB4JoocBEYZqdQwKdSSJzc5lTbNYinuEphsKFgTom78KKPy92JYA8+NUnnYcqv72YG5aOOTzZVf+11cdM7X4Il5YRk7V+jgKewbKE0mpk=;4J6NTd57A1HEtuNEgmNTog=="
 ---
 

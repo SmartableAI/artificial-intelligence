@@ -23,6 +23,6 @@ images:
     height: 300
     title: "'We either have to succeed fast or fail fast': How Houston Methodist's innovation hub is making its mark"
 
-secured: "Y8/fgnA/OvJ+U7H2CYscsKbNiHO4FU/3xaAotrLEIEv6CpWXGGb92+dxmlDUEB/pRqO5zATro28BokcH9KRQn5hoxXCt8wVFIuA+2zV1/2SgOrRU9+GtMvvokasXzQ6FGWwSZT1EC8aQknuRC+NFQ/ThWvwIpt0cZdJiNlqCpIyvmGoFJZlo56BlSgRuYKTyiK+adAEgWBufLhC6TV4j55zD8HFFkcSRcSMYP1BQXpDl/qWAb/vKyviDullBVOzOVbjxHwWhIbTA7SLsJYpFP7LOY7x+QEV7k0nlDcuC+ZEXya7EJqDAIbBaZPSHPKBc;Gj9Uj4DK35vTYQGJb0Ra0A=="
+secured: "baLeWeoIoMhZN4u+IvrsZDYRrU4Kcw9vW2nboV3pFdWRvLTniDZX+viWKD3KF/Iq9NJwfcQzMP5iBfo9HqxYl7+rkhGKJ4JjcM+qzrsGb1tH6ms4O5pbjoHV/70PJnCl2jrGLWWO+yoQhKs6LeqVGM9nH4/V4VmnCkVHUogPUAmBPOieR06u0DdNMXupgkLwb6qKQScWYT1pmUVua9QE509YXQUm6in1vQLMEQt/s96f9mb4Dfy9BgKdAgZWILnP4THUxJoN0YgXO9z11OUBTDnUfyuDJJJdoqrSvL1LjE8xoCWa1I0z3YnV21lcwFrkU6xmwJlJj8qdsGiDKWPX6THEW2b8txoJcsf2x9fcEVqQJoara6izGyO2qe19mKwlIT+WWc7j/826wkEqqJa8xRp867Ys0vyQeoRZhGAe8WkFuUXDx8h8aLQ0sfk2LZYHUbNKkKJ/H4/4H66FEMlQA35IcNN0Jrb4FHtWanrST8A=;HruPFeRPbejYjE4QH2gTkA=="
 ---
 

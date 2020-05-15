@@ -67,6 +67,19 @@ related:
       - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
         width: 1000
         height: 600
+  - title: "Nvidia’s first Ampere GPU is the A100, and it’s for datacenters"
+    excerpt: "Nvidia designed the A100 GPU for data centers, rather than traditional PCs. Jensen Huang noted during his GTC keynote that cloud services are surging and said that he expects the Ampere line to “do remarkably well,"
+    publishedDateTime: 2020-05-15T16:36:00Z
+    webUrl: "https://techreport.com/news/3470558/nvidia-dgx-a100-ampere-datacenter-gpu/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://cdn.techreport.com/wp-content/uploads/2020/05/nvidia-a100-gpu.jpg"
+        width: 1181
+        height: 717
 
 secured: "PlUlHMofle6y7R4S4MuPO2pQ8y38b3O5DwBM+yqtpNa2EL4flDtdi/6Ns5GbH5ZpCnK+DTQq1Nyki3B03vr6mD63wJaX3ZvmUBMutOts+ZE1kSXdh1BSUxp3AABJ78VyALt3aeo6O3vevhgiZ2V7mPPNovzBoWeeEXTQIyfqYefvZaHGZQwrCWiwvP3+igEGmMmkZVLsQvbFj3D19i9TbCSCRubwQNiizRko7xcwwAZR6ka/O7TAtcRY0rklMvTmG5dVpg/+jI1lzhmz+DUoq4T/jpjpVd9e3tkIvKUrN/cFD+a6D+rCBrtWsUkU1hHzu5XZzGkTs/IcvrBjxAwDTU9ROtsacJKlddUvZJEln9cnxrMjGQ7g5Xf+FwubuDJn9o1Xr4RHsMtS8BtiyDgG7LyVxX0uYzaAOxmpRkrrNM9ZAc57JHphFHBsHgwn7MHfPYUS1/qPE8okVzdGYhdxfMbUY5pFgxSPG/X7ef83u7I=;oNP9Q7i25bUOE0itN8oIQg=="
 ---

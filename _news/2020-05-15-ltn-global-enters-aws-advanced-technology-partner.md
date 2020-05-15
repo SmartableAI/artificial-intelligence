@@ -8,8 +8,8 @@ ampWebUrl: "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-adva
 cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Rapid TV
@@ -41,6 +41,19 @@ related:
       - url: "https://www.multichannel.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcyMTc2MTY2NTgzNTQyOTk2/ltn-columbia_4286.jpg"
         width: 620
         height: 349
+  - title: "LTN Global Named Advanced Tech Partner In AWS Partner Network"
+    excerpt: "LTN Global, a provider of transformative media technology and video transport network solutions says it will leverage Amazon Web Services (AWS) across its suite of modular offerings to improve video production,"
+    publishedDateTime: 2020-05-15T16:22:00Z
+    webUrl: "https://tvnewscheck.com/article/more-news/249000/ltn-global-named-advanced-tech-partner-in-aws-partner-network/"
+    type: article
+    provider:
+      name: TV NewsCheck
+      domain: tvnewscheck.com
+    quality: 39
+    images:
+      - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
+        width: 581
+        height: 201
 
 secured: "pc1oeIE3JwqAW6qM/I6+MO+3hmm0KPNFq1sOhzTgiz5RZ5+vcgWrERyyeei9fDHg+6mnAEisQWXRmdRppw4FM4fxhQHunENkMJq6LhuXAIiVbjxPo9uJOSQBDEwIB8iLvCnlrYFzBcSIUj8MPcq3zb3524BSeFz5GKcDv2HKRfN2uYpe45XRkjvM2PGKb19Tl4H34aEffqHv9E4ol3dCOdzk7yIvkAptrMIs8GwPvWHH61aJEoOSxvm9kcQgunSx7gRwWJ7/QOwK0M3ZvdXElQCC/d+k9LMW4m32/QMokZL7JPS2YDjhNmAwGepXheNP;qhZ6orO/imnkUkVzxMhV9Q=="
 ---
