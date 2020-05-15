@@ -3,12 +3,12 @@ category: news
 title: "AI set to transform healthcare in world’s poorer regions"
 excerpt: "There’s been a lot of hot air in the business with respect to AI,” says Anup Akkihal, head of Logistimo, which focuses on less sophisticated but more robust technology adapted to local limitations in order to improve healthcare supply chains in poorer nations."
 publishedDateTime: 2020-05-15T03:00:00Z
-webUrl: "https://www.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204?src=rss"
+webUrl: "https://www.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204?bcmt=1"
 ampWebUrl: "https://amp.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
   domain: ft.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -24,6 +25,6 @@ images:
     height: 281
     title: "AI set to transform healthcare in world’s poorer regions"
 
-secured: "M1zu/5IgYTski45s5lNt87b5g1dlCv5m5DpPToSxQaiQgSFex8NvmB7DHBTGu5v2El2tbqZoMKr4v5DdgSvbeDI28Ug9xMQspQY/Vy7iLBAJIdmiOi9AdbbrmdoX24JG9g36fpcynnXkLviozc4/5fKUuiyM8WOD0rTI8ODTtDZEYHXYpLcIxReORItUs1brvejwO8wNl1Jhik5xSSvFe6/9gLe8A+WLmDcYp1TY527IHKwHicCCniUOJrkUiHTy8YpyO44B2UAWzKb8neDlAJ3IFjlElCYwY4Z0DEjdIwdD867EjgtlOiLtYFwycc+X;kfCC6K0vxx0mcpPqynEKnA=="
+secured: "lxpy5K21McW2LNn8rOKt6T/A/Fom3gixwCCxwWqSnJz7TIzRNJj43wxTZkEWi66lHmzF80diIfqEyrGoe/IB15M2tWw1IkTkQo24iJxyz4vJcnp3oTnAOa0wi7zouRB1fvlBvSQtLJqzlYF2ZDdkcjvFT78LtUzT9AgEQDiKEIcEQMLYSoKK5cLK03YoQnt49Vxc0YnlE/ppzTpRbpVT2+qfZsT8eySmu0cz4xRdYOTKy11uaGiUpA4YPcLdEH+hnwIkTOhAEib6dFsuxRNUJvd3Kg9hQ3UgcLJnSMzp2nzkRB5vl8HsPAqflS6MbpeM;QajZGajge0XI09lmP7xOdA=="
 ---
 

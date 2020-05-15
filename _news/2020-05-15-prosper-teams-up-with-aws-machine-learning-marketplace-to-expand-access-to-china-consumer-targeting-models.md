@@ -5,8 +5,8 @@ excerpt: "Prosper Insights & Analytics, in cooperation with the AWS Machine Lear
 publishedDateTime: 2020-05-15T13:14:00Z
 webUrl: "https://www.businesswire.com/news/home/20200515005294/en/Prosper-Teams-AWS-Machine-Learning-Marketplace-Expand"
 type: article
-quality: 6
-heat: 6
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mms.businesswire.com/media/20200515005294/en/754028/23/Prosper_Insights-Analytics.fw.jpg"
