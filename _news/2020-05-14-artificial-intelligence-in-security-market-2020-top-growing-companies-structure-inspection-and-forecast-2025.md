@@ -27,6 +27,19 @@ images:
     title: "Artificial Intelligence in Security Market 2020 Top Growing Companies, Structure Inspection and Forecast 2025"
 
 related:
+  - title: "Global Neuromorphic Chip Market Size, Share and Forecast by 2025- Industry Research Report"
+    excerpt: "The Neuromorphic Chip Market was valued at USD 111.04 million in 2019 and is expected to reach USD 366.14 million by 2025, at a CAGR of 22% over the forecast period 2020 - 2025. Keeping the pace of advancement of disruptive technologies such as Artificial Intelligence (AI) and Machine Learning (ML),"
+    publishedDateTime: 2020-05-15T06:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-neuromorphic-chip-market-size-share-and-forecast-by-2025--industry-research-report-2020-05-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Chipset Market 2020 Top Growing Companies, Structure Inspection and Forecast 2025"
     excerpt: "Market Research Engine has published a new report titled as \"Artificial Intelligence Chipset Market Size By Component (Hardware, Software ), By Technology (Machine Learning, Natural Language Processing (NLP),"
     publishedDateTime: 2020-05-14T12:34:00Z

@@ -23,6 +23,6 @@ images:
     height: 420
     title: "Self-driving freight startup to provide all-electric vehicles for Swedish drink company"
 
-secured: "o6ujQap/PnwnDbUe8xjiF/fVN0UtNPUXin5FAt4meLyyxB+NBbsHgRQ6qKwV2KMf62qyeWUFTkkeR8kZwjpX3bjMMPY8xUAIQYEKrYmzLythHD+PNknfCdkzYkTmbBrLILZbA07k7ReaH074y1whlcnHzbvcellTLq/hURpsl/RI7iOOhnK/PQpMKXtFwyMisEp+RTbWQLLZWOMDn84sJznDZ06WdMjlxhsQQUHfyWZ+N0wYg9K3zFu/nyCF/z1KVqiYxVit0VLNc6Z21OCh92ukbgT7BMgwWIwBAcqg0Y1jAJXlW9lBTTrqXFgbwN2b;mWkp/lqm0WkIJLb5wGAzTg=="
+secured: "9kgIQvkNLxwl5+OrfduwARJbfqhOcZWJAOps0fHu6LHdxKxjOjPfCfm20/zoHu4pIhVMfthLEn1SxiFmvq6Cshc4+wjldssQlqfBpB7VC+gdlHy11f2UWgQeeRlYrktKwsHsWziG6nCfL1J/izPK5FPkc0zZCI2maDux+NuRkReWgNMqWC2YR63dVEaeqMfo97yHTJPhQJuA7BcpDBpwSfxIr+g+4fdNfkEK0MLQxuGLMuwGhii3ukbLOd1j56pJkzzMikjOjveObtMB8HLud59ky8Z3zlUv6cbFOF+CVZFE2dfiFXO8/ChVXTfuNV5cNdEaRvKcOILlutfTywp8c7CO7O+srHnU221/+wL//txlFgYwqg5/N4IlKeiJWbm00G6+tDrvLd1XkVNQGlki+WpsIBiMufX/mTzqtn0ADzEUAYMP2FsYdCAJYR+bDuKR9BoL8TlH8Qdzpb2STCUp5rIUeuImy1WFloc1acbk+pM=;LqgpZtXPhgNRtpmJrLpfPg=="
 ---
 

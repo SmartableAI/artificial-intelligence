@@ -2,6 +2,43 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-27-uco-musical-theatre-program-receives-national-recognition.md",
+      "title": "UCO musical theatre program receives national recognition",
+      "excerpt": "A local musical theatre program has received national recognition. The University of Central Oklahoma’s musical theatre program was recently recognized by the",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://kfor.com/news/local/uco-musical-theatre-program-receives-national-recognition/",
+      "ampWebUrl": "https://kfor.com/news/local/uco-musical-theatre-program-receives-national-recognition/amp/",
+      "cdnAmpWebUrl": "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/local/uco-musical-theatre-program-receives-national-recognition/amp/",
+      "publishedDateTime": "2020-04-27T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oklahoma's News",
+        "domain": "kfor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kfor.com/wp-content/uploads/sites/3/2017/09/uco.jpeg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "UCO musical theatre program receives national recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-france-launches-ai-voice-assistant-to-help-coronavirus-patients.md",
       "title": "France launches AI voice assistant to help coronavirus patients",
       "excerpt": "French researchers on Monday launched a voice assistant that can help callers suffering from potential coronavirus symptoms and direct them towards emergency services or their doctors using artificial intelligence.",
@@ -1236,43 +1273,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-aws-summit-online-2020-helping-businesses-unlock-the-power-of-cloud.md",
-      "title": "AWS Summit Online 2020: Helping Businesses Unlock The Power Of Cloud",
-      "excerpt": "Further to that, it helps these organisations gain knowledge of building an end-to-end pipeline for delivery of ML models and automating ML operations with Amazon SageMaker and more. Madhusudan ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://inc42.com/features/aws-summit-online-2020-for-businesses-to-unlock-the-power-of-cloud/",
-      "ampWebUrl": "https://inc42.com/features/aws-summit-online-2020-for-businesses-to-unlock-the-power-of-cloud/amp/?utm_source=wigzo&utm_medium=referral&utm_campaign=features&utm_content=aws-2&utm_wref=55414&utm_wsource=browserpush",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/aws-summit-online-2020-for-businesses-to-unlock-the-power-of-cloud/amp/?utm_source=wigzo&utm_medium=referral&utm_campaign=features&utm_content=aws-2&utm_wref=55414&utm_wsource=browserpush",
-      "publishedDateTime": "2020-04-27T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i1.wp.com/inc42.com/wp-content/uploads/2020/04/Untitled-design-2020-04-27T122035.740.jpg?fit=1200%2C628&#038;ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": "AWS Summit Online 2020: Helping Businesses Unlock The Power Of Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

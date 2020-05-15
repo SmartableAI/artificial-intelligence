@@ -1,28 +1,22 @@
 ---
 category: news
 title: "New Amazon Ad Reports and Campaign Structuring Now Available Only From Sidecar"
-excerpt: "Sidecar continues to cement its leadership position in helping retailers bolster their Amazon Advertising approach. The company has"
-publishedDateTime: 2020-05-14T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/new-amazon-ad-reports-and-campaign-structuring-now-available-only-from-sidecar-301059293.html"
+excerpt: "Sidecar continues to cement its leadership position in helping retailers bolster their Amazon Advertising approach. The company has enhanced its Sidecar for Amazon solution"
+publishedDateTime: 2020-05-14T13:37:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/new-amazon-ad-reports-and-campaign-structuring-now-available-only-from-sidecar/article_dacbc414-ca14-5864-a0c9-9f1f173b386f.html"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/659858/Sidecar_Logo.jpg?p=facebook"
-    width: 2354
-    height: 1235
-    title: "New Amazon Ad Reports and Campaign Structuring Now Available Only From Sidecar"
-
-secured: "/PswO95XxRuXLu/1uuR6ZiyQL/7Eg0Q4WmN0h9EH7ftNZYchDs+KN/dksIX6bozdztgsJTHRj1idEDzoJ1wcNlJHUKNzGThEjA5cX1cCyMkbcr+sW/3Wi9t2N7clHizjzoPbiOD0+EI2MUV2syscxBvF/u5AMjIKzy2LnIPNAls6LSemxP8nUdNOJJGfy9WKWGCCS8d0Djomkbb/IeKghtu8b+yDBmZ7t/Ubn6trLjSgE9CCRnsIyCQ4lsRATizpTq6N4kTqCxA88DUFXE5mry0NsUmYcQutz71kj7nynLvBcaDbbJD33DbDYot8clszci6hdlLiXx95En5cvT928HWcc1+Ok3OMe4y3dbGrZ/jpQ/dMeqyEmFWtNwSXxmvzUh8i3LOl+m14YzI6r8s0QQi2b0TT+LmoFuLZCIzKejYzcOXQFJO30Z5hQQClP6sNOJtrudr7wPmEkIE1QSS7SERut2d4B+XjnoE/e14d8Z0=;bZutROy1BBdVHT8llTKxTA=="
+secured: "r4Ysv627Z/72KN/kd8zXpKw5pLUkDWj1kFgyaQy2yhAxAVWoo/Sq4DzFLcNHUBYQp0cU70LjZFu44Jq1q6fOSyigqTr+++JYB+C0o9v4XKWSwfGOzHiDEbqhwrDGOif0yuYWPKJ74em+aYKHDwRYN3lRJHcuXsFaSfqWgkei7Q030fhXJNXRj9G1614acdkSTQawlmO3AE90ZdDU4VASWoMxMek24yl5zeMnRuXJHbhacKMkD/kQOwNEu0y+I56FgExn8faGY5gD54seiAGry2hvWtzjiJdhR+uYoVFtbJATmi5UghYpPQFPvG7bxbJV;28HAnKSLL4Id9hic5Lhu5w=="
 ---
 
