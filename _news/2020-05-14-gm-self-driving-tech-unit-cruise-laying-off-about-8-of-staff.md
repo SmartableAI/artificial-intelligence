@@ -60,6 +60,15 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 500
+  - title: "GM Self-Driving Tech Unit Cruise Laying off About 8% of Staff"
+    excerpt: "(Reuters) - General Motors Co's self-driving car unit Cruise told staff on Thursday it has decided to lay off workers, the latest start-up in the nascent industry to cut jobs during the coronavirus pandemic."
+    publishedDateTime: 2020-05-15T08:30:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-05-14/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
   - title: "GM’s Self-Driving Unit Cruise to Lay Off Almost 8% of Staff"
     excerpt: "Cruise, the self-driving car unit majority owned by General Motors Co., is laying off almost 8% of full-time employees to cut costs in the midst of the coronavirus pandemic."
     publishedDateTime: 2020-05-14T20:45:00Z
