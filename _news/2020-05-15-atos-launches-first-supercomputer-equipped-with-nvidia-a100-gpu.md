@@ -32,7 +32,7 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
-    quality: 34
+    quality: 36
 
 secured: "ofjsL0gUATcLqIxrgMIkdQlBC3+6AFsVPzzgU0CI935AaX7IbH+BxndWOhoTlNtMWJw9ufOZNcrSAvOIiW3eZYI5n1YKEsIP1AVQZlZ6TFCKe7hwwgnpFGQvu96j97A9dCkOP0BnEdidHF7CD2sG+b1OTNvpeyD/9bNnyHOHvHoThchmWId6olrIFxydZLgx0A+BX8eLcfrpjzn29iLt3x3VWuHo3oDZXYP9/I7nKU2WuZl0YBSOigImxS0Q1qRKPdUg3azOJk2WoasF+RJ4TUhc2BbdWpAM9O2q4rzu5mlxgApWfYLJoHN3C/vhORzo0ZsDWOEnEay/V3IKrP/xPg2mEZXXtR1xg9yInLnxllJPx5W7+FScsBLCpDX/wub1K6YoeiLrmuH3LlZgWnGj8yrZ7kWRTtPQJUwRGauIc7Kkfp/mdFBH20D5ye7ziAzFvur5+TfNr1eYCwWCZd+aaxo12buyUQwkik/cR1yihuI=;gnq/myG+jjwvEmO6LWM1xA=="
 ---

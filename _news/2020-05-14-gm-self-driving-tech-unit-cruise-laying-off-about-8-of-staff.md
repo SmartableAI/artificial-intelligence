@@ -45,6 +45,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/7FHj1F4czAfdkj9N6YN4mLOGHiA=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66798730/vpavic_200121_3874_0010.0.jpg"
         width: 1400
         height: 933
+  - title: "GM's self-driving unit Cruise to cut 8% of staff"
+    excerpt: "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations"
+    publishedDateTime: 2020-05-15T03:32:00Z
+    webUrl: "https://www.cnbc.com/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103"
+        width: 1920
+        height: 1471
   - title: "GM-Cruise lays off 8% of staff as self-driving companies face tough times"
     excerpt: "Cruise Automation laid off about 150 people on Thursday. It’s the latest sign that self-driving car companies face a tough time ahead."
     publishedDateTime: 2020-05-14T20:30:00Z

@@ -37,6 +37,19 @@ related:
       - url: "https://mma.prnewswire.com/media/1167022/Socionext_Foxconn_Hailo.jpg?p=facebook"
         width: 2700
         height: 1414
+  - title: "Foxconn Partners with Socionext and Hailo to Launch Next-Generation AI Processing Solution for Video Analytics at the \"Edge\""
+    excerpt: "Taipei, Taiwan, Yokohama, Japan and Tel Aviv, Israel May 12, 2020 ---Foxconn, a global leader in smart manufacturing, is joining Socionext, a major provider of advanced SoC solutions for video and imaging systems, and leading artificial intelligence (AI ..."
+    publishedDateTime: 2020-05-13T06:41:00Z
+    webUrl: "https://www.design-reuse.com/news/47965/foxconn-socionext-hailo-ai-processing-video-analytics.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 12
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage47965/20200513_1.jpg"
+        width: 480
+        height: 411
   - title: "Foxconn, Socionext and Hailo Launch AI Processing Solution for Video Analytics at the Edge"
     excerpt: "Foxconn has partnered with Socionext, a major provider of advanced SoC solutions for video and imaging systems and leading artificial"
     publishedDateTime: 2020-05-13T02:03:00Z

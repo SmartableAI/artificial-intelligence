@@ -28,6 +28,6 @@ images:
     height: 577
     title: "Pandemic effect: How do consumers feel about AI right now?"
 
-secured: "4Rkj+mCfNc37Q8nqdhiJ1Q99ZHvl+xghJWR/bmYzWp6X9tgK1d4HGzbQnco20M3/F2x4Od03ZeHQk3ZOAWamR6vZU5ac1772jYJJNzKQcnz/z8N3cWESoyg//wqdHj8lae37N/PeBvD7ZU+hGsAzCA+jmKpGrfKjO4hoPnx7h6d8iPIhwE1Wvj8I2rPH7vN2PJV6oTcbCAJd+i2GMlG2oaZe4puIjiC+cFDhsnuunQJNbcWl1ZczClYTaiA5P9AcIlX8V1R+fKoAdhWW7vT5dKfQcMUWACvBVZaYvlKpvAdA7j9ArZxcgQlk9dinm4BF;oH4ZLzFYNGI0hDDRMjtnXQ=="
+secured: "XnU9JpQtH7CSvcPwt0pnvGUvI9lmFRslUmZn4EC8ak1z2mgdlYgqQ6pokSdq+a5+RevfmtxSFISuUZM/cDsy8Z2MjoJHnuINbSoNs/T8KFlwjEnmY/L9kmCWJKSD+qiaBtf+MtSreeO2vBpQnuQZ4oCE5tH4qz2iI+p7T7A0R9XOIYYfMAzKcQvWLTDl//v/a6YwikK+cyF2DrQp7afUqXwXHC1GnNmSgs+YIi4UnLhCAJHIOoWfm9dbMxQ8dLSFGuN9clni1PQ9/93iLxIgQSEQBtMuiVWDLESJtx8HhZ4QkWBLKme/p+E1B0yE9l/s15RX9GE3w46gE37SB7TP7/r/2m5M99Uh6MvV2DfUdj9pqhNkhNG1o4tQatvfRnbbqTItL8XmVWxENWiZKBKG8+aH2QEpsU0HaLNadTRVKZqFfzSI6VK0A3ScX2Tj7xy/BPFbyJRK4FQ9sYKZ7BLLUuHYGVBTBgqea1f1QzYoQ7g=;0RL7tAQ2q+Sdt08oQ6Lfjg=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Nvidia has announced a number of product launches, including a system 
 publishedDateTime: 2020-05-15T11:20:00Z
 webUrl: "https://www.telecompaper.com/news/nvidia-launches-ampere-gpu-plus-range-of-smart-ai-products--1338745"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 related:
   - title: "Atos Launches First Supercomputer Equipped with NVIDIA A100 GPU"

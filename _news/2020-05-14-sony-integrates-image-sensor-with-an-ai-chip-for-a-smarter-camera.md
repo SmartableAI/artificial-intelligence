@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/sony-integrates-image-sensor-wi
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 756
     height: 567
     title: "Sony integrates image sensor with an AI chip for a smarter camera"
+
+related:
+  - title: "Sony Announces Its First Image Sensor With Integrated AI"
+    excerpt: "Sony has announced the IMX500 sensor This is the first AI image sensor in the world AI cameras will be more secure, cheaper and faster Sony has announced its first Artificial Intelligence (AI) image sensor."
+    publishedDateTime: 2020-05-15T13:46:00Z
+    webUrl: "https://www.ibtimes.com/sony-announces-its-first-image-sensor-integrated-ai-2976822"
+    ampWebUrl: "https://www.ibtimes.com/sony-announces-its-first-image-sensor-integrated-ai-2976822?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/sony-announces-its-first-image-sensor-integrated-ai-2976822?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/15/sony-announces-its-first-image-sensor-integrated-ai.jpg"
+        width: 1200
+        height: 800
 
 secured: "zsqzEpUEDChEhGk6t+UK5f/9LV+xSwmP/SmxJ+f2Hk9wqtRPe7454z9xkUrqy/2gZX9uQcFDEgz78P7LMA3UZxpIm7+p+V5ewFR+exb5ifEYBhDjvf4kXrFJ02O5l3GcvaNWsL7HKCWvzFRud0xjGNvExUwR8LVIdgePXxbvjgxQGHJ6uXmAHcGBGrfAr99w8zykoKWYB2z4KIi4G+zjTTguymQwkwMvkD5ZIRAy5KneDthXerQnAsj9uqNngsY6fkAJZMeqfZuaUjoH6rE9j0qo845t2I+QPFE0cxLu7QUOjA93VL/qm7RAGp3ob3iwpo+Ri5b2cNxE6pDGgd5xMio3fczfnhArbE5jn5oA855YUbMtaAit4BXP1B9w+PN0jvZ7M1vCOrwSc4ir5b43pwnpGy865+oz4GMRz/jdKj5Knui34XhkSO17qj8yootz9pv1NtvcZKpVD9AsiVluqeHcNp3/J8MnsA68gTEjHAY=;JUigL7UkHcOYYn4UufWOOg=="
 ---

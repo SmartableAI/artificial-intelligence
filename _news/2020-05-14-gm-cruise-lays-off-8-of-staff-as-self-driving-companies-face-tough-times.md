@@ -60,6 +60,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200514&t=2&i=1518677074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4D23U"
         width: 830
         height: 545
+  - title: "GM's self-driving unit Cruise to cut 8% of staff"
+    excerpt: "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations"
+    publishedDateTime: 2020-05-15T03:32:00Z
+    webUrl: "https://www.cnbc.com/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103"
+        width: 1920
+        height: 1471
   - title: "GM Self-Driving Tech Unit Cruise Laying off About 8% of Staff"
     excerpt: "(Reuters) - General Motors Co's self-driving car unit Cruise told staff on Thursday it has decided to lay off workers, the latest start-up in the nascent industry to cut jobs during the coronavirus pandemic."
     publishedDateTime: 2020-05-15T08:30:00Z
@@ -83,6 +98,6 @@ related:
         width: 470
         height: 246
 
-secured: "k4LkE1N7RnQFqRDuMqALBnK/Ya5UGAYxTUJJvjpjlAb533bNyTVXrKxFXCXpJimqXhsDlGFAmIxY/QFRSD5Gr674XZFdGyH80WXc1PrM8kAMv/wnfktPefrlRJ1dfnRRH8ieIDY1YH+DS8ZwVUHKj8yQF1us5sBccNeJNHupaf64aYivtqlz0zhJReF0bxq2AwlQMZHTg8Iy3wl9A1vK5ZUdTqwJSs3bPOEWoKK48GKX0kZEvbuzWCRUypgDSyyNM111rVn8SesXLLvrY7bdSLTlcYNxqhhLQ1GhNDRNlUrzsHEXJltTCyjQSsWIj3WZ;sG6e5bKpYFhMSbx7TQcMdg=="
+secured: "YphD1DyfNdapf6fr1n8Nft5pxQOY1vvDpKbaEv0AHYOY9u9W6djTOkVPMyTaHswLCxm7fbhbMdjn4Pz/EvacOt/BkBBZMWgoFcHSPCKu4jIIeC+udo4z1dLxGip0D59T1JEzFIyc8jnV2tqxkfMa3zdwklD27LU3mUBSkpe6OyICU+UwpJqx+/KkEGCNjzd3QZaAPiy3Ba5OGEQQ7sT3ey4Njvb/hkXAFskvXMORS4+Yjwxa4+c81vSdy7gT5ps//4chRqBuXlcrEtIB6+IM9ZDrnZhGiqk4cn4Ep9BCxOXZtFhGj0wRy/VyPasUxbNVD9q13su0kGGTgKApP5JS2UoSia/gWjQn74htTbLqcq57NwKq4Di3I6Sa05SZaf6B6YuPOx9TJHjMZRYuoggm4yP2xrxaF1qQB3XiX0l4AOngKIY9D8VTsFsTgtwnBKTlVGq7Flr+n9LmEE7+APavRmHxXLXboPoXk6EN6hJFgTk=;1M2rKnnBecP6SezkN0wX4A=="
 ---
 
