@@ -40,7 +40,7 @@ related:
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/15/sony-announces-its-first-image-sensor-integrated-ai.jpg"
         width: 1200

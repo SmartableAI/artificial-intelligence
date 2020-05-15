@@ -2,6 +2,43 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-04-15-sisense-releases-new-ai-natural-language-capabilities-to-improve-data-driven-decision-making.md",
+      "title": "Sisense Releases New AI Natural Language Capabilities to Improve Data Driven Decision Making",
+      "excerpt": "Sisense, the world's leading analytics platform for builders, today announced its latest quarterly release which empowers users with deep, actionable insights from their",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sisense-releases-new-ai-natural-language-capabilities-to-improve-data-driven-decision-making/article_71ef9a71-1ff9-5080-9047-4378bdddd103.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Sisense Releases New AI Natural Language Capabilities to Improve Data Driven Decision Making",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-walking-robot-uses-neural-net-to-change-gaits.md",
       "title": "Walking robot uses neural net to change gaits",
       "excerpt": "Insects rapidly transition between different walking gaits, in response to external stimuli. Scientists have now created a small robot that can do the same thing, utilizing an integrated artificial neural network – the technology might ultimately find use in better-performing prostheses. Known as the NeuroPod, the 3D-printed six-legged robot ...",
@@ -1213,35 +1250,6 @@
       "provider": {
         "name": "GlobeNewswire",
         "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-whats-driving-speech-recognition-market-growth-major-players.md",
-      "title": "What's Driving Speech Recognition Market Growth? Major Players",
-      "excerpt": "Speech recognition is a technology used in various devices such as smartphones cars and computers which enables the system to identify the sound of spoken words and convert them into machine readable forms It uses linguistic units for speech and",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/2009622/what-s-driving-speech-recognition-market-growth-major-players",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,8 +7,8 @@ webUrl: "https://www.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204?src=rss
 ampWebUrl: "https://amp.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cdc166d4-6845-11ea-a6ac-9122541af204"
 type: article
-quality: 59
-heat: 59
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
   domain: ft.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -25,6 +24,6 @@ images:
     height: 281
     title: "AI set to transform healthcare in world’s poorer regions"
 
-secured: "iO3XzZoea7NLwv1htyeG7XxnU07fQ8XDen6Lv6HEc3Fx2F3Zgh8rvLwnTVrjMwJgfCZTQKvfuMQ9urzXPThSPhEWCbw6ezEop5U2HEh4LdkzOOPUDM7XGVMUOsYuSfLEsctXxz9KzQ/lZoH7C7IG6XWuJWBHyz3Gv8YjVInQKv3WcG39HxPsqhJfsc8Cf8vHw6nhH1C1i/+4bgmeEpZmixNUPZD++tCcWrGPG5xOFUS2s53OtNOOlGo5IAzgXcSca3rt9BaDAzLpqFH9IHr6Kq8JsldRjAHk39IOIzlW5lb3IPNfUtMxi/i6okN4752GGziGkrlZERHFQoegFoR5ZEbz3mqh2pJhJSdjYIs32uqcP4NOz0AqrVXmRSuiFwSdqJ+bsZpyQrxXJs7fDDiQrMqDdMobU4yd2GxYaZ9jV6dh/1zmQ2Ni2gsxZqhcDIzpbASKj4VbQB5wxhcWOgW2bqYWApBrKYSc/i5/32h3M+k=;I1lRjwuZdhsuT4+rutaReQ=="
+secured: "C2yWcFp8Fv8iY3xABNFEVXX0Wz9UCC1V/JT1NuxI0mQR4qvx2hA5x9R17CyZUQDDRP+SwcML4WDN2XBtwW5Jc5uzuUgtK7pBs9dQ0bEfOECbP3kIa6PdRvtV7HyR+v+Q7+u5ONLFmjPgzoCyUJxwCKYJ64hKEvPfGtbdqK/zAhQNkA7AKR5hAyyZBzsGzd8ozJT0JreeiBVrZVVbhvq8qhRU7KRI2RdcD5Fn2kS7x68wpdrotkSYAMBUNTvjOGIuZy/lq4brdmYQmacDGFUsI1Jp8XKaTVT3tKw3H7/VwruGnAYivTQ0wU5mh7E9x2ZV;rgJdEbrXu7pyxUlgZOM0/w=="
 ---
 

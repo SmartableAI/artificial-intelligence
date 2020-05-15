@@ -7,7 +7,7 @@ webUrl: "https://www.ibtimes.com/sony-announces-its-first-image-sensor-integrate
 ampWebUrl: "https://www.ibtimes.com/sony-announces-its-first-image-sensor-integrated-ai-2976822?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/sony-announces-its-first-image-sensor-integrated-ai-2976822?amp=1"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/15/sony-announces-its-first-image-sensor-integrated-ai.jpg"
@@ -41,6 +42,6 @@ related:
         width: 756
         height: 567
 
-secured: "VvfTQQbZfOOh8DrNQI/otSu3g48RVb6R+iNjpfiVsDhNL1aRsz41u5YLgOjvfurCs40M64hVJ6sN51kTN8nENafXkM451DtZhRrei7mRdRWiOS1Ewsc6EvUkwvnobcSyCaJixiF7+7DyVhxja8WjTLm2UXmtw9yJ5R2dM8UwoH4jqc/vmC2umjvCvHoikYjs+8OtwpkWg0UgnC07T+asIhw3R9FYHmFIwq6UsXTM3Q3hq5cbeWXdCjdfLkrwSEh07Q2K42iJ3oURuJRAUzoHJQBI1PPTXVIQ2Gv7G9mlRHU0APFZPmTekvv5S58Vt45i;UojumCOi3w4J1w/nYhFwjQ=="
+secured: "TH7WrkpVgEKdsYkNCNl2ZNylsjhtaF68M5u+bf32/WLzpHQOFobMpFyUhfJeZT4nPmaNFrYzBkNT2ZoMyqUeBF8Wesiugh5r6vNVEE18sHNZgzYhZ4lVMvE6EeMCZejkmHYWWBD+YB5AqGimvJnJ7ayzMxbEGu4icBaY3zOBD/X5nCGQpRDWnySHnNNYaYAtQ6E4nSnjUjH22CZJh9K0hStqTK4l05LN8IrNraU0RfYF1CHNYSt2EfhxM/5mzhENyp5k+T++1iwlngKhzmSlsKu+pBBOEUqAEds9j7Ry7696CZraafN6K18rFKj1i8Ra1hnq/fTknp7ZISztpzUFZ0uvqUBffT7IsnRFNI/V1Q894KUf/u/mZ4OeNIDttvFrTHwjCjM3cdQ+ySNpRq1VqKSM4pPT+B6EhZbpNIIyWuQ5RXZOfO6+YUhdmxWZJ5MKbXRTYuzDx3urvIfmKJpcEUYq7eN+kGzYwmnWiPHC2hc=;VjP2vuUQrRmVmDyRKDXYVg=="
 ---
 

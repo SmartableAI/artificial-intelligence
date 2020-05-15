@@ -2,6 +2,35 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-04-20-ethics-and-governance-of-ai.md",
+      "title": "Ethics and Governance of AI",
+      "excerpt": "At the Berkman Klein Center, a wide range of research projects, community members, programs, and perspectives seek to address the big questions related to the ethics and governance of AI. Our first two and half years of work in this area are reviewed in \"5 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cyber.harvard.edu/topics/ethics-and-governance-ai",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Medical School",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-19-have-1000-to-invest-buy-these-2-artificial-intelligence-stocks-now.md",
       "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
       "excerpt": "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things la",
@@ -1233,43 +1262,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-britains-first-robot-water-taxis-to-be-unveiled-in-plymouth-as-us-tech-firm-announces-trial.md",
-      "title": "Britain's first robot water taxis to be unveiled in Plymouth as US tech firm announces trial",
-      "excerpt": "The water taxis are equipped with an artificial intelligence system called Auto ... had already trialled the driverless craft in New York in October. It says “autonomous identification ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telegraph.co.uk/news/2020/04/17/britains-first-robot-water-taxis-unveiled-plymouth-us-tech-firm/",
-      "ampWebUrl": "https://www.telegraph.co.uk/news/2020/04/17/britains-first-robot-water-taxis-unveiled-plymouth-us-tech-firm/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/04/17/britains-first-robot-water-taxis-unveiled-plymouth-us-tech-firm/amp/",
-      "publishedDateTime": "2020-04-17T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2020/04/17/TELEMMGLPICT000229271416_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7M9RnK4I0Z98Woo3Q9OmDRA.jpeg",
-          "width": 2498,
-          "height": 1563,
-          "title": "Britain's first robot water taxis to be unveiled in Plymouth as US tech firm announces trial",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

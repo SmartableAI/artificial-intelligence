@@ -5,7 +5,7 @@
       "path": "_news/2020-05-15-facial-recognition-firms-are-scrambling-to-see-around-face-masks.md",
       "title": "Facial recognition firms are scrambling to see around face masks",
       "excerpt": "Because of face coverings prompted by the coronavirus pandemic, companies are trying to ID people based on just their eyes and cheek bones.",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/health/facial-recognition-firms-are-scrambling-to-see-around-face-masks/",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {

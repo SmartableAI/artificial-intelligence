@@ -2,10 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-15-boeing-loyal-wingman-a-combat-drone-that-leans-hard-on-ai.md",
+      "title": "Boeing Loyal Wingman: A combat drone that leans hard on AI",
+      "excerpt": "But luckily, at least one wingman is still rolling.  Earlier this month, Boeing Australia delivered the first of three prototype drones to the Royal Australian Air Force. The aircraft, nicknamed Loyal Wingman,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/boeing-loyal-wingman-a-combat-drone-and-historic-aircraft/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/boeing-loyal-wingman-a-combat-drone-and-historic-aircraft/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/boeing-loyal-wingman-a-combat-drone-and-historic-aircraft/",
+      "publishedDateTime": "2020-05-15T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/RvXgziYDiKnRyBupRm1gPdTpvlM=/756x567/2020/05/14/667a5774-b864-4956-a51a-31e6f607ca1e/1-ats-loyal-wingman-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Boeing Loyal Wingman: A combat drone that leans hard on AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-15-facial-recognition-firms-are-scrambling-to-see-around-face-masks.md",
       "title": "Facial recognition firms are scrambling to see around face masks",
       "excerpt": "Because of face coverings prompted by the coronavirus pandemic, companies are trying to ID people based on just their eyes and cheek bones.",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/health/facial-recognition-firms-are-scrambling-to-see-around-face-masks/",
@@ -43,7 +87,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1276,44 +1321,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-ceo-talks-new-ampere-based-gpu-advanced-ai-system-in-gtc-2020-keynote.md",
-      "title": "Nvidia CEO Talks New Ampere-Based GPU, Advanced AI System In GTC 2020 Keynote",
-      "excerpt": "NVIDIA Corporation's (NASDAQ: NVDA) annual GPU Technology Conference is virtual this year and takes place May 19. Ahead of the conference, CEO Jensen Huang's",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/news/20/05/16033361/nvidia-ceo-talks-new-ampere-based-gpu-advanced-ai-system-in-gtc-2020-keynote",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16033361",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16033361",
-      "publishedDateTime": "2020-05-14T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/nvidia-superpod-press-image-1280x515.jpg",
-          "width": 1280,
-          "height": 515,
-          "title": "Nvidia CEO Talks New Ampere-Based GPU, Advanced AI System In GTC 2020 Keynote",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
