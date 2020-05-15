@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-14-nvidias-first-ampere-gpu-is-a-silicon-monster-for-ai-and-servers.md",
+      "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
+      "excerpt": "Ampere hype had been at the highest levels as of late, with many getting excited about Nvidia's next-gen GPU architecture and the improvements it may bring. But when CEO Jensen Huang was shown in a video pulling a very",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
+      "publishedDateTime": "2020-05-14T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-27.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-a100-the-first-ampere-gpu-is-an-absolute-monster.md",
       "title": "NVIDIA A100, the first Ampere GPU, is an absolute monster",
       "excerpt": "NVIDIA made a lot of announcements during its GTC 2020 keynote today, but at the center of many of them is the company’s new Ampere GPU architecture. Ampere is something that’s been",
@@ -519,7 +564,7 @@
       "path": "_news/2020-05-14-nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu.md",
       "title": "NVIDIA begins shipping the A100, its first Ampere-based data center GPU",
       "excerpt": "NVIDIA announced today that its NVIDIA A100, the first of its GPUs based on its Ampere architecture, is now in full production and has begun shipping to its customers globally. Ampere is a big generational jump in NVIDIA’s GPU architecture design,",
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu/",
@@ -687,43 +732,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-sony-says-it-created-worlds-first-image-sensor-with-built-in-ai.md",
-      "title": "Sony Says It Created World’s First Image Sensor With Built-in AI",
-      "excerpt": "Sony Corp. touted on Thursday the world’s first image sensors with built-in artificial intelligence, promising to make data-gathering tasks much faster and more secure. Calling it the first of its kind,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor?srnd=all",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
-      "publishedDateTime": "2020-05-14T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

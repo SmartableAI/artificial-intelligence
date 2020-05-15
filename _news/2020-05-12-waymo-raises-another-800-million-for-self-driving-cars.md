@@ -8,7 +8,7 @@ ampWebUrl: "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c
 cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html"
 type: article
 quality: 74
-heat: 96
+heat: 94
 published: true
 
 provider:

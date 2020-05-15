@@ -39,21 +39,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/2555435ebb0b0b549420.45298401-Argonne-National-Laboratory-Installs-NVIDIA-DGX-A100-Image-courtesy-Argonne-National-Laboratory.jpg?w=1024"
         width: 1024
         height: 768
-  - title: "NVIDIA's 7nm Ampere Beast A100 Machine Learning GPU Launched With DGX A100 AI Supercomputer"
-    excerpt: "According to NVIDIA, its Ampere -based A100 GPU is already in full production and shipping to customers. Although the company isn't getting down to the nitty gritty about architectural details, it says that the A100 represents the single largest uplift in performance ever moving from GPU generation to generation."
-    publishedDateTime: 2020-05-14T13:00:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ampere-dgx-a100-ai-machine-learning"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ampere-dgx-a100-ai-machine-learning"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ampere-dgx-a100-ai-machine-learning"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 81
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/51630/content/small_nvidia_a100_ampere.jpg"
-        width: 708
-        height: 566
   - title: "Ampere, Nvidia's latest GPU architecture is finally here – spanking-new acceleration for AI across the board"
     excerpt: "GTC Nvidia has lifted the lid on a fresh line of products based on its latest Ampere architecture, revealing its latest A100 GPU - which promises to be 20X more powerful than its predecessor and capable of powering AI supercomputers – as well as a smaller chip for running machine learning workloads on IoT devices."
     publishedDateTime: 2020-05-14T13:08:00Z
@@ -83,6 +68,6 @@ related:
         width: 620
         height: 465
 
-secured: "mUZDvd/J3bqx7Cx9QGGKlprUP6o+bnVIBTES4TS3hSdFGNMAO9cywWwiFEDKBLR541oftJnwO4UwqSGRqOkjZLz/46M/W/fY8fyQYQUNxZgy43R18xKhIHqwfe18A8LjBI7ChqWshu+4wlBae+IsObddC7HeGcaDWOR0ON1PIrduT/zsPSR7hsEUbZ2PUDx953IL74xHeqcDXvTI+1+APGbs2mOqpYsQs4NO9JTwfhgw7ti4Kx8oSBoNkaHBiL6yPXHPh/IXbadhodqadensAE81KgG/POi1OVgAsWAfY9PtvoKLcNAAIUoAbyuwWAbI;eKhh6MOTV4lWayHhr8oMiw=="
+secured: "EqK5M8U+Nf0yS9PHrS1+gzRP229nmx42HyUxWpmGK2/CkSNyESLKnxUBtZwNoejWOgW0fvzTnoOYCsDKwjLmZswQbbK5xy38nVz0LsslkyFeKe4+h7I0QQth4GKVV0fuzWuTs5Q7wtUV+DC/t/BFQ9fAXV6YeUHxa/ISt2ke4hubhU2nw3+4+kfVYzTaXZR5EbOrI9zjpWVfPCvpyBDhjgWmEv56+yRcuTp6HN3Ef+h9o+CMw+NfQIgRZXEjvglZ6ZHAAK88GVU/1zlykN1rrHj51kn+8IcSV6m5TCK1lMuoZLJMgjE9j//6LU6pCMXSsBy7ZmQ2TQ6dQEC7tJwrAf6A66uQ9z9nZXUtI2mW0BSrvmi6+/WkeootKwXGXjrP6STztiRhr2hIduSk+nGUPAT3nsYAFN61qj6sNHGbgrh6WtesX4B5gu0sV2M1XZ81VbEwXqIOMk5yYCIF+DmenpgXBeGHf1tFDmj4hIgRO7Q=;v50QWm0Zzf6IA/u5Vrz6XQ=="
 ---
 

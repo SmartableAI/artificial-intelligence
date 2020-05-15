@@ -2,6 +2,222 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-14-how-amazons-alexa-voice-assistant-is-changing-its-tone-during-the-pandemic.md",
+      "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
+      "excerpt": "The ins and outs of the coronavirus outbreak are changing Alexa’s work habits, said Manoj Sindhwani, Amazon’s vice president of Alexa speech.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/amp/",
+      "publishedDateTime": "2020-05-14T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/200514-manoj-630x428.jpg",
+          "width": 630,
+          "height": 428,
+          "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidias-first-ampere-gpu-is-a-silicon-monster-for-ai-and-servers.md",
+      "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
+      "excerpt": "Ampere hype had been at the highest levels as of late, with many getting excited about Nvidia's next-gen GPU architecture and the improvements it may bring. But when CEO Jensen Huang was shown in a video pulling a very",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
+      "publishedDateTime": "2020-05-14T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-27.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020.md",
+      "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
+      "excerpt": "I watched NVIDIA’s GTC 2020 virtual keynote today, and I found the company scored high on both. Architecture is everything when you are a platform provider and NVIDIA rolled out its new architecture,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/",
+      "publishedDateTime": "2020-05-14T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebda3d7e0de010006d35c1b%2F0x0.jpg%3FcropX1%3D483%26cropX2%3D3296%26cropY1%3D0%26cropY2%3D1581",
+          "width": 1200,
+          "height": 675,
+          "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-tech-clearview-ai.md",
+      "title": "Police searched for suspects in unapproved trial of facial recognition tech, Clearview AI",
+      "excerpt": "An unapproved police trial of controversial facial recognition software conducted dozens of searches for suspects in New Zealand.",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tvnz.co.nz/one-news/new-zealand/police-searched-suspects-in-unapproved-trial-facial-recognition-tech-clearview-ai",
+      "ampWebUrl": "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxNSUyRnBvbGljZS1zZWFyY2hlZC1mb3Itc3VzcGVjdHMtaW4tdW5hcHByb3ZlZC10cmlhbC1vZi1mYWNpYWwtcmVjb2c=",
+      "cdnAmpWebUrl": "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxNSUyRnBvbGljZS1zZWFyY2hlZC1mb3Itc3VzcGVjdHMtaW4tdW5hcHByb3ZlZC10cmlhbC1vZi1mYWNpYWwtcmVjb2c=",
+      "publishedDateTime": "2020-05-14T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TVNZ 1",
+        "domain": "tvnz.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/13/police-apologise-over-secret-trial-of-facial-recognition-technol?w=700&h=393.75&fit=crop&auto=format",
+          "width": 700,
+          "height": 394,
+          "title": "Police searched for suspects in unapproved trial of facial recognition tech, Clearview AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera.md",
+      "title": "Sony integrates image sensor with an AI chip for a smarter camera",
+      "excerpt": "Sony has announced an image sensor with artificial intelligence processing, calling it an intelligent image system for smarter cameras. The processor will make for faster data transmission, better security and less power consumption,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
+      "publishedDateTime": "2020-05-14T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/mjuZYz-ZJ2-slITY4jyajAtyPWg=/756x567/2020/05/14/e47314b5-a6e3-443c-9f20-d1e291b89e81/image001.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Sony integrates image sensor with an AI chip for a smarter camera",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-gm-cruise-self-driving-tech-company-sees-round-of-layoffs-report-says.md",
       "title": "GM Cruise self-driving tech company sees round of layoffs, report says",
       "excerpt": "The company will lay off about 160 employees. General Motors' ambitious Cruise Automation division will lay off 8% of its workforce, according to a Bloomberg report on Thursday. The company, which hired a vast number of new employees last year,",
@@ -1095,224 +1311,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.md",
-      "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
-      "excerpt": "The next major release of the in-memory data processing framework will support GPU-accelerated functions courtesy of Nvidia RAPIDS",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
-      "publishedDateTime": "2020-05-14T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/05/sparking-jumper-cables-94261543-100265638-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing.md",
-      "title": "GPU Chips Are Poised To Rewrite (Again) What’s Possible In Cloud Computing",
-      "excerpt": "Tech companies such as Nvidia and Oracle are making it easier for businesses to apply GPUs to more complicated realms of artificial intelligence.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/",
-      "ampWebUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
-      "publishedDateTime": "2020-05-14T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor.md",
-      "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
-      "excerpt": "The graphics chip will power servers used by Amazon, Google, Microsoft and other cloud service providers. And it will be used to fight COVID-19.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
-      "publishedDateTime": "2020-05-14T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/79Yy0yZjYrwQ_DudmDmuzkaHc-4=/756x567/2020/05/13/4e3681ec-e2c3-4c89-9ab8-b73afaa51f05/2555435ebb25b4781b28-39429237-first-nvidia-dgx-a100-at-argonne-national-laboratory-image-courtesy-argonne.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu.md",
-      "title": "NVIDIA begins shipping the A100, its first Ampere-based data center GPU",
-      "excerpt": "NVIDIA announced today that its NVIDIA A100, the first of its GPUs based on its Ampere architecture, is now in full production and has begun shipping to its customers globally. Ampere is a big generational jump in NVIDIA’s GPU architecture design,",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu/amp/",
-      "publishedDateTime": "2020-05-14T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/2555435ebb0b0b549420.45298401-Argonne-National-Laboratory-Installs-NVIDIA-DGX-A100-Image-courtesy-Argonne-National-Laboratory.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": "NVIDIA begins shipping the A100, its first Ampere-based data center GPU",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-aws-to-offer-nvidia-a100-tensor-core-gpu-based-amazon-ec2-instances.md",
-      "title": "AWS to offer NVIDIA A100 Tensor Core GPU-based Amazon EC2 instances",
-      "excerpt": "Tens of thousands of customers rely on AWS for building machine learning (ML) applications. Customers like Airbnb and Pinterest use AWS to optimize their search recommendations, Lyft and Toyota Research Institute to develop their autonomous vehicle programs, and Capital One and Intuit to build and deploy",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-to-offer-nvidia-a100-tensor-core-gpu-based-amazon-ec2-instances/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T06:00:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/AWS-NVDA.gif",
-          "width": 1000,
-          "height": 414,
-          "title": "AWS to offer NVIDIA A100 Tensor Core GPU-based Amazon EC2 instances",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

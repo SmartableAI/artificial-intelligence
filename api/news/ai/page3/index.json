@@ -2,6 +2,273 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-13-behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner.md",
+      "title": "Behold the relentlessly optimistic silliness of the ‘AI Eurovision’ winner",
+      "excerpt": "Around two-thirds of the way through “Beautiful the World,” a voice declaratively whispers, “The music of the Earth has arrived.” Created by the fittingly named Uncanny Valley, the three-and-a-half minute track bombards the listener with fragments of relentless optimism,",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/amp/",
+      "publishedDateTime": "2020-05-13T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-13-at-11.15.09-AM.jpg?w=1024",
+          "width": 1024,
+          "height": 563,
+          "title": "Behold the relentlessly optimistic silliness of the ‘AI Eurovision’ winner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-facebook-offers-50k-for-ai-that-can-detect-hateful-memes.md",
+      "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
+      "excerpt": "Facebook's created a dataset of 10,000 ‘hateful’ memes and is offering prizes totaling $100,000 for developers who can use it to detect hate speech in memes.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/amp/",
+      "publishedDateTime": "2020-05-13T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e58eaf07a009800073473b9%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-scientists-used-ai-to-make-448-gigapixel-copy-of-historic-rembrandt-painting.md",
+      "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
+      "excerpt": "You can now get intimately familiar with this Rembrandt's historic painting, 'The Night Watch' — without even having to step foot in the Rijksmuseum.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/amp/",
+      "publishedDateTime": "2020-05-13T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/the-night-watch-rembrandt-digital-copy-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data.md",
+      "title": "FortressIQ snags $30M Series B to streamline processes with AI-fueled data",
+      "excerpt": "As we move through life in the pandemic, companies are being forced to review and understand how workflows happen. How do you distribute laptops to your workforce? How do you make sure everyone has the correct tool set?",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/amp/",
+      "publishedDateTime": "2020-05-13T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-907330012.jpg?w=1024",
+          "width": 1024,
+          "height": 716,
+          "title": "FortressIQ snags $30M Series B to streamline processes with AI-fueled data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-amazon-ec2-inf1-instances-now-support-amazon-sagemaker.md",
+      "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
+      "excerpt": "Patrick Moorhead gives an update with Amazon's team that has been busy with customers, optimizing and adding capabilities, some of the Inferentia and EC2 Inf1 instance leads.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
+      "publishedDateTime": "2020-05-13T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebb15cf082ee4000682bb85%2F0x0.jpg",
+          "width": 821,
+          "height": 439,
+          "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure.md",
+      "title": "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure",
+      "excerpt": "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating digital transformation,",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-2020-05-13?mod=mw_quote_news&tesla=y",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-facebook-gives-researchers-hateful-memes-challenge-to-develop-algorithms-against-it.md",
       "title": "Facebook gives researchers ‘hateful memes’ challenge to develop algorithms against it",
       "excerpt": "The social media giant is leaning on AI to filter out objectionable content as the coronavirus has sidelined most of its human moderators",
@@ -391,43 +658,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-12-police-trialled-facial-recognition-tech-without-clearance.md",
-      "title": "Police trialled facial recognition tech without clearance",
-      "excerpt": "The police's high tech crime unit handling the technology appears to have not sought the necessary clearance before trialling it.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rnz.co.nz/news/national/416483/police-trialled-facial-recognition-tech-without-clearance",
-      "ampWebUrl": "https://amp.rnz.co.nz/article/af504dcc-60a1-4740-b633-3cd419c727e4",
-      "cdnAmpWebUrl": "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/af504dcc-60a1-4740-b633-3cd419c727e4",
-      "publishedDateTime": "2020-05-12T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rnz",
-        "domain": "rnz.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rnz.co.nz/assets/news_crops/59711/eight_col_F802.jpg?1529543726",
-          "width": 720,
-          "height": 450,
-          "title": "Police trialled facial recognition tech without clearance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-12-australia-wins-ai-eurovision-song-contest.md",
       "title": "Australia wins AI 'Eurovision Song Contest'",
       "excerpt": "An editor for Dutch broadcaster VPRO had the idea, after the Netherlands won last year's Eurovision Song Contest. And it grew into an international effort after this year's contest was cancelled because of the coronavirus pandemic.",
@@ -521,7 +751,7 @@
       "path": "_news/2020-05-12-waymo-raises-another-800-million-for-self-driving-cars.md",
       "title": "Waymo raises another $800 million for self-driving cars",
       "excerpt": "Waymo said Tuesday that it has raised another roughly $800 million for its self-driving technology, expanding the size of its first external investment round to $3 billion. Why it matters: With the coronavirus pandemic likely to speed consolidation among self-driving tech firms,",
-      "heat": 96,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
@@ -558,7 +788,7 @@
       "path": "_news/2020-05-12-twitter-names-former-google-executive-to-its-board-to-boost-its-ai-chops.md",
       "title": "Twitter Names Former Google Executive to Its Board to Boost Its AI Chops",
       "excerpt": "Fei Li, the former Google executive, and Stanford professor is coming on board to help expand Twitter's use of AI on its platform.",
-      "heat": 99,
+      "heat": 98,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.fool.com/investing/2020/05/12/twitter-names-former-google-executive-to-its-board.aspx",
@@ -1075,216 +1305,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool.md",
-      "title": "JavaScript programming language developers: This is Kite's new free AI code-completion tool",
-      "excerpt": "Kite's code completion has supported Python for six years. Last January the company landed $10m in funding as it launched more complex line-of-code completions for Python, helping",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
-      "publishedDateTime": "2020-05-12T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/843fd8ab-846f-4d03-8060-bcd5d611ec7e/thumbnail/1200x675/6c7e3312371b165b65c90cd7fc188d5d/developer-go-is-the-programming-language-5eb921c27f8c3b07249d42e4-1-may-11-2020-11-50-12-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "JavaScript programming language developers: This is Kite's new free AI code-completion tool",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-transformative-robotics-technology-from-brain-corp.md",
-      "title": "Transformative Robotics Technology From Brain Corp",
-      "excerpt": "With retailers seeking to enhance the customer experience, not to mention overcome current COVID-19 challenges, Brain Corp believes that technology offers a way",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.esmmagazine.com/technology/transformative-robotics-technology-brain-corp-98085",
-      "ampWebUrl": "https://www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
-      "cdnAmpWebUrl": "https://www-esmmagazine-com.cdn.ampproject.org/c/s/www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
-      "publishedDateTime": "2020-05-12T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "esmmagazine.com",
-        "domain": "esmmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA1XFxcLzEyMTMxODQxXFxcL1Rlbm5hbnRSZXRhaWwtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjUwMCxcImhlaWdodFwiOjI4NyxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC93d3cuZXNtbWFnYXppbmUuY29tXFxcL2lcXFwvbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNjk1OGI3MzBhOGQ5MGQyZWEwZjM0ZDNkZWMxMjQ0YmM2YTFmYmM2ZiJ9/tennantretail-1024x683.jpg",
-          "width": 500,
-          "height": 287,
-          "title": "Transformative Robotics Technology From Brain Corp",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-artificial-intelligence-cracks-quantum-chemistry-conundrum.md",
-      "title": "Artificial Intelligence Cracks Quantum Chemistry Conundrum",
-      "excerpt": "Machine learning techniques accurately calculate the energy required to make — or break — simple molecules. A new machine learning tool can calculate the energy required to make — or break — a molecule with higher accuracy than conventional methods.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/",
-      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/",
-      "publishedDateTime": "2020-05-12T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Tetrahedral-Electronic-Distribution-Water-Molecule-777x435.jpg",
-          "width": 777,
-          "height": 435,
-          "title": "Artificial Intelligence Cracks Quantum Chemistry Conundrum",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-simaai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution.md",
-      "title": "SiMa.ai announces $30M Series A to build out lower-power edge chip solution",
-      "excerpt": "Krishna Rangasayeem, founder and CEO, at SiMa.ai, has 30 years of experience in the semiconductor industry. He decided to put that experience to work in a startup and launched SiMa.ai last year with the goal of building an ultra low-power software and chip solution for machine learning at the edge.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/amp/",
-      "publishedDateTime": "2020-05-12T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1136623583.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "SiMa.ai announces $30M Series A to build out lower-power edge chip solution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-database-week-microsoft-oems-redis-enterprise-for-azure.md",
-      "title": "Database Week: Microsoft OEMs Redis Enterprise for Azure",
-      "excerpt": "Microsoft is upgrading the Azure cache service through a new OEM agreement to the full Redis Enterprise service.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/database-week-microsoft-oems-redis-enterprise-for-azure/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/",
-      "publishedDateTime": "2020-05-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/11/f9afed5d-33cd-438f-ba73-31b31abba8e1/redis-logo-2.png",
-          "width": 280,
-          "height": 280,
-          "title": "Database Week: Microsoft OEMs Redis Enterprise for Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

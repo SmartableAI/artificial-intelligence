@@ -2,6 +2,214 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-07-center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer.md",
+      "title": "Center in Singapore Expanding Access to Radiation Therapy Technology in the Fight Against Cancer",
+      "excerpt": "Two Varian VitalBeam ™ medical linear accelerators, together with an Edge ™ radiosurgery system with HyperArc ™ technology, will be installed at NCIS, thereby expanding radiation therapy treatment options for cancer patients in Singapore.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
+      "publishedDateTime": "2020-05-07T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-digital-psychotherapy-is-now-more-accessible-thanks-to-data-driven-healthcare-tools.md",
+      "title": "Digital psychotherapy is now more accessible, thanks to data-driven healthcare tools",
+      "excerpt": "Over the past decade, technology has transformed the way we live.  The emergence and advancement of personal devices, data capture, networks and the cloud, deep learning , and Internet of Things (IoT)—amongst other things—has changed our world.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/syndication/2020/05/07/digital-psychotherapy-is-now-more-accessible-thanks-to-data-driven-healthcare-tools/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-2-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Digital psychotherapy is now more accessible, thanks to data-driven healthcare tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-ibm-retrains-watson-ai-for-it-operations.md",
+      "title": "IBM retrains Watson AI for IT operations",
+      "excerpt": "IBM is relying on technology from its Red Hat acquisition to deploy a new AIOps tool and help it deliver new edge-of-cloud computing services to support 5G networks",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.html",
+      "ampWebUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html",
+      "publishedDateTime": "2020-05-07T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM retrains Watson AI for IT operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-huaweis-hisilicon-becomes-first-mainland-chinese-chip-company-to-enter-top-10-in-global-sales-says-ic-insights.md",
+      "title": "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights",
+      "excerpt": "HiSilicon’s first quarter revenue surged 54 per cent year on year to US$2.67 billion, although 90 per cent of its sales go to parent Huawei Technologies",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3083314/huaweis-hisilicon-first-mainland-chinese-chip-company-enter-top-10",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3083314/huaweis-hisilicon-first-mainland-chinese-chip-company-enter-top-10",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3083314/huaweis-hisilicon-first-mainland-chinese-chip-company-enter-top-10",
+      "publishedDateTime": "2020-05-07T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/07/13b312c8-9028-11ea-a674-527cfdef49ee_image_hires_175821.JPEG?itok=J7WDgbBI&v=1588845509",
+          "width": 1200,
+          "height": 630,
+          "title": "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-dtex-raises-175-million-to-detect-cyberthreats-with-ai-while-preserving-privacy.md",
+      "title": "Dtex raises $17.5 million to detect cyberthreats with AI while preserving privacy",
+      "excerpt": "Dtex, which is developing a privacy-preserving cybersecurity platform for enterprise customers, raised $17.5 million in venture capital.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/amp/",
+      "publishedDateTime": "2020-05-07T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/US-cyber-security-company-Dtex-Systems-The-Hague-011.jpg?fit=2500%2C1667&strip=all",
+          "width": 2500,
+          "height": 1667,
+          "title": "Dtex raises $17.5 million to detect cyberthreats with AI while preserving privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-predicting-failing-tests-with-machine-learning.md",
       "title": "Predicting Failing Tests with Machine Learning",
       "excerpt": "Machine learning can be used to predict how tests behave on changes in the code. These predictions reduce the feedback time to developers by providing information at check-in time. Marco Achtziger & Dr.",
@@ -811,215 +1019,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice.md",
-      "title": "How Microsoft, OpenAI, and OECD are putting AI ethics principles into practice",
-      "excerpt": "A case study on how to convert AI ethics principles into actions looks at Microsoft's AETHER, OpenAI's GPT-2 release, and OECD and G20 ethics principles.",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/amp/",
-      "publishedDateTime": "2020-05-06T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "How Microsoft, OpenAI, and OECD are putting AI ethics principles into practice",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-volvo-cars-will-use-luminars-lidar-to-enable-highway-self-driving-in-2022.md",
-      "title": "Volvo Cars Will Use Luminar's Lidar to Enable Highway Self-Driving in 2022",
-      "excerpt": "Swedish automaker Volvo Cars said that it will add lidar sensors and new perception technology from Silicon Valley start-up Luminar to some of its models starting in 2022. Luminar's lidar technology will allow Volvo to offer highway self-driving as an option,",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx",
-      "publishedDateTime": "2020-05-06T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F572202%2Fvolvo_luminar_roofline_lidar_integration.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 632,
-          "title": "Volvo Cars Will Use Luminar's Lidar to Enable Highway Self-Driving in 2022",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-unfounded-criticism-of-chinese-tech-firms-its-just-business.md",
-      "title": "Unfounded Criticism Of Chinese Tech Firms: It's Just Business",
-      "excerpt": "Dismal factory activity data in China and the U.S., coupled with downbeat earnings from tech giants dragged down equity indices in both countries. Feeling unlov",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://seekingalpha.com/article/4343620-unfounded-criticism-of-chinese-tech-firms-just-business",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers.md",
-      "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
-      "excerpt": "Assembly” may sound like one of the simpler tests in the manufacturing process, but as anyone who’s ever put together a piece of flat-pack furniture knows, it can be surprisingly (and frustratingly) complex.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/amp/",
-      "publishedDateTime": "2020-05-06T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/invisible-ai.jpeg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-runa-capital-raises-157-million-to-back-ai-and-deep-tech-startups.md",
-      "title": "Runa Capital raises $157 million to back AI and deep tech startups",
-      "excerpt": "Runa Capital has closed its third investment fund with $157 million to invest in such deep tech as artificial intelligence and quantum computing.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/runa-capital-raises-157-million-to-back-ai-and-deep-tech-startups/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/runa-capital-raises-157-million-to-back-ai-and-deep-tech-startups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/runa-capital-raises-157-million-to-back-ai-and-deep-tech-startups/amp/",
-      "publishedDateTime": "2020-05-06T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Runa-Capital-Partners-e1588753074977.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Runa Capital raises $157 million to back AI and deep tech startups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

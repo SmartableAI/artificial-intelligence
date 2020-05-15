@@ -8,8 +8,8 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-05-13/coronavirus-si
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-05-13/coronavirus-singapores-robot-dog-enforces-social-distancing?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Los Angeles Times
@@ -39,6 +39,17 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/b/f2/bf211c9a-95ff-11ea-bc60-efc086b1372b/5ebd717768db2.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+  - title: "Robot dog helps enforce social distancing in Singapore"
+    excerpt: "Leaves crunch underfoot as Spot marches through the park, back straight as a tabletop, stride brisk as a soldier’s. A grassy field encircled by trees beckons. But Spot is focused on the asphalt path ahead,"
+    publishedDateTime: 2020-05-14T12:40:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/robot-dog-helps-enforce-social-distancing-in-singapore/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/robot-dog-helps-enforce-social-distancing-in-singapore/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/robot-dog-helps-enforce-social-distancing-in-singapore/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "bt8gXBd5PkjP5yVNxmP55hX7jNLerHor7FCqB3H/1mEN3OKD0IuLowJ9VV8EbIHFXc7ghVdafEoyKvvMMgJZI8P50TIflSvagTR/6tJyn+fnbRBmqAwxygUN0A33aSnpObRS+imX+khCGUOCX8NRCkD/7OE5bw2FBtDSu+Opc1kohCk1ojoKwBLPqXReRlMmT0PLW/t/usEW5h/ZHzpjOJGLjGTacbLfh63LrdNgg+m1G8WM1ibO8Getrq36bvQCpBHRqmpGYqPWaQTRcQOUU8MUockhu1kNmOrFKf9RqYXPq8cHHbH0lGkc2j3uHs0Eezn/6UFjc0u7bhygXA14WFOBciisiqPS8tX7hM0UoRnuyO2fO3x2r+lD19t146A+N6pKGoZnmaAwEoOY9bK2UttcZYRyHxHp6FjgJRob7+EIEO/9gYq6GUamCjvaJJqV5EnJKp3EspRw4dUJADeR0RiTEncln2SLXqmS2K2c+x4=;cv2IcaobOfrejoG0dFg2Vw=="
 ---

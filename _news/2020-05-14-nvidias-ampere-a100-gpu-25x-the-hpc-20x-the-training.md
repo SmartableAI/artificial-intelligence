@@ -5,8 +5,8 @@ excerpt: "Nvidia’s latest generation Ampere GPU packs a whopping 54 billion tr
 publishedDateTime: 2020-05-14T13:12:00Z
 webUrl: "https://www.hpcwire.com/2020/05/14/nvidias-ampere-a100-gpu-2-5x-the-hpc-20x-the-training/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/Nvidia-Ampere-A100-GPU-750x.jpg"

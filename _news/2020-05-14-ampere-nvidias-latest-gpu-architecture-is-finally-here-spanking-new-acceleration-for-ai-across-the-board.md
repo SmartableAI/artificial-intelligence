@@ -41,21 +41,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/2555435ebb0b0b549420.45298401-Argonne-National-Laboratory-Installs-NVIDIA-DGX-A100-Image-courtesy-Argonne-National-Laboratory.jpg?w=1024"
         width: 1024
         height: 768
-  - title: "NVIDIA's 7nm Ampere Beast A100 Machine Learning GPU Launched With DGX A100 AI Supercomputer"
-    excerpt: "According to NVIDIA, its Ampere -based A100 GPU is already in full production and shipping to customers. Although the company isn't getting down to the nitty gritty about architectural details, it says that the A100 represents the single largest uplift in performance ever moving from GPU generation to generation."
-    publishedDateTime: 2020-05-14T13:00:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ampere-dgx-a100-ai-machine-learning"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ampere-dgx-a100-ai-machine-learning"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ampere-dgx-a100-ai-machine-learning"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 81
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/51630/content/small_nvidia_a100_ampere.jpg"
-        width: 708
-        height: 566
   - title: "NVIDIA Introduces 7nm Ampere A100 Tensor Core GPU"
     excerpt: "NVIDIA Introduces 7nm Ampere A100 Tensor Core GPU NVIDIA CEO Jensen Huang has formally announced the first product powered by the company’s new Ampere architect"
     publishedDateTime: 2020-05-14T15:03:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/12/twitter-names-former-g
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/12/twitter-names-former-google-executive-to-its-board.aspx"
 type: article
 quality: 88
-heat: 99
+heat: 98
 published: true
 
 provider:

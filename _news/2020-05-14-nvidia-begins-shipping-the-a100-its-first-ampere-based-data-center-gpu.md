@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "NVIDIA begins shipping the A100, its first Ampere-based data center GPU"
 
 related:
-  - title: "NVIDIA's 7nm Ampere Beast A100 Machine Learning GPU Launched With DGX A100 AI Supercomputer"
-    excerpt: "According to NVIDIA, its Ampere -based A100 GPU is already in full production and shipping to customers. Although the company isn't getting down to the nitty gritty about architectural details, it says that the A100 represents the single largest uplift in performance ever moving from GPU generation to generation."
-    publishedDateTime: 2020-05-14T13:00:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ampere-dgx-a100-ai-machine-learning"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ampere-dgx-a100-ai-machine-learning"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ampere-dgx-a100-ai-machine-learning"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 81
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/51630/content/small_nvidia_a100_ampere.jpg"
-        width: 708
-        height: 566
   - title: "Ampere, Nvidia's latest GPU architecture is finally here – spanking-new acceleration for AI across the board"
     excerpt: "GTC Nvidia has lifted the lid on a fresh line of products based on its latest Ampere architecture, revealing its latest A100 GPU - which promises to be 20X more powerful than its predecessor and capable of powering AI supercomputers – as well as a smaller chip for running machine learning workloads on IoT devices."
     publishedDateTime: 2020-05-14T13:08:00Z

@@ -28,6 +28,6 @@ images:
     height: 1152
     title: "Apple acquires virtual reality startup NextVR, but what's the plan?"
 
-secured: "xt+t1jSRj9mggLzUKHh6jAXFwkdSKXyHv/DZtxKk4W122yGVXSiN7TvFpp7w0YTpvRDonaNnKnqw4DqwxQp9SEJgXXlWTCIgfMOjZUUGbd+nbXT1TqUyCCmx64RS7THtzBtIjGyn4wbt/EU1N9KKIwLfkjcK/W6hEwvk5kst8RNFjiO0eNWmT6hGZn9B9ebAJZSd1Le7rhiVyw2rBtyz30btcwP5Yg6+FiIM6OcpyjEvousfoFggPZSW50xcuiD6uVzXyBKp0ZPBAYt0rwf0yBgaOeadLxmYZeRgjAl2hfu7OB0jtkz3aqrdzFQfJMA0;cBQE34eeqL5Ge4yp81ezaw=="
+secured: "PLyGVbOmsKFb8j+xv+G6seio1uW+Ma2r/elWif4p/W4QFh+HJ+8OI+fF+dTxHJFh2sr9Rjr0+Xs2dWgxAQVS1cPE9rqq43TMOqPJFVwRbqzaK+GH1YXhCuBE56ln8SY/ydBhrfd68gmzjDeqPe+xkOrLNX+lr9B/o/wCuodeHE8sbJyU0vQqiwW/LwyrXfXNb7zhpXCskTFTxRPIYtZK8td8QDTFlQpllegn6W3tCBXTZvYabwgT5Pu8HVN0dhM7e10xZUg4dDIezZEv3weg1ByXD32auThm4yWo+r7FomKMJ3mS/BkmmgsVFwamF/o+jbFyiUxO34JPeEY1tXDCl7os6qK4qUMhUuCVqlpiqK4n0NZP1W6o4x4AwS8jNRPZqVtdnHa5U+wGNYy/jqfDGJ9gp5GZQJgCD26AqiMPil/VQuNSLgeKdc8m5KmPxQrCdwupH15VxKlyaNdpjGt+BLtd7NjtRo7K1pUzjvX0Kyc=;hdw+oKcqQlNOpX+jGww2Nw=="
 ---
 

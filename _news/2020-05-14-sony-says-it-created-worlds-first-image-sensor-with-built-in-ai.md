@@ -3,12 +3,12 @@ category: news
 title: "Sony Says It Created World’s First Image Sensor With Built-in AI"
 excerpt: "Sony Corp. touted on Thursday the world’s first image sensors with built-in artificial intelligence, promising to make data-gathering tasks much faster and more secure. Calling it the first of its kind,"
 publishedDateTime: 2020-05-14T07:00:00Z
-webUrl: "https://www.bloomberg.com/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor?srnd=all"
+webUrl: "https://www.bloomberg.com/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor"
 ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor"
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor"
 type: article
-quality: 69
-heat: 79
+quality: 67
+heat: 77
 published: true
 
 provider:
@@ -20,7 +20,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 related:
@@ -38,6 +37,6 @@ related:
         width: 1600
         height: 840
 
-secured: "iajbGR/xtOuxBMuaFk9ikJyk2sbRj0hhGJ2aOHz5tMUDcmQUOT3K1sqk74wnX9Fvk9kvfeujzSPbTu8tdCBb7ytImikgiY4fIHk4C4wbpgNIsCn48SLGwLyYERZxktm5/Mn4anzZCqK1Tf85C/p5VfJygQ8TE2PX1+4jn3l2vupuo5sZC4y8QTCBDhOP4n+TcE8f0Q7AU1wK/goRUIsrHgnxoJOZduVLbrIlUhaCK9QU5vxvx00LTvpVkRVVowhTVqr7R88fDi8WzubplCRSQylKynT3PRMrKO7IsI2pK6Y8m1FUt8wMXuk00YFBTsWTz3RZgP/hwTXe/MBAOymiHgZG3rPOSfwLzacuvJ7p0IJG7lqYjkM1fBu30JUMyIV8NoI5iDiIwOcHKFVC8nPL7qzqBe2Pe2B2xCQxQkOTVET1vFz+ZsZ7iFN1tkLFZ0xjbWsu4L2vuOd4dRAkiWqj1dtpBSOkFBTfxvWsV4LF6os=;+0YC4JfhmU2WjF3lr+W+gw=="
+secured: "9YNzQguOPpyj7Wqrzy8h7ImLR2+k04hS95svUgcNOhSw9eqNG1jLnK9AEOagxCKn3s54ymn5z+RXYBHqH03PO2L4oo/XvAWfMZYN5z9mzg6Ht1m5AHNpdhCrqHHV9ny1Ea1MK2D1e7HCvmyLVEE5TLD89IDnsTyVT+9uVf+/sHCc61eOG4Y0GluEoBcSfhxgLHm26akselJgHJ5XJr2FB0qrDv/PSolErjzb1feedjB6fn7kri+zRtDqmWnLBd1A97vR2M8QBxr1hsOyF/GzPrZCLukqplpqg80WWsB2zrvFtSw1523zMWUlIxK29OP0FDlSE3MaC1em8QMGOdQe8qKXklW7Cy4xGgMp3TWyVyaKlBy8xtSeGPbAv2CIaZ/qT6I/9JXRUDMAEyXQzjBj1hbcsGXFchFTMrZzhRwxxH+rHdSzH6xbjgpYWaQ40UqOT5xz6YSDwMD1B2DdDjWJC1lEBlPEMCnC0iIX/zz8biI=;UJAB0C+qidyjwL6erfl1RQ=="
 ---
 
