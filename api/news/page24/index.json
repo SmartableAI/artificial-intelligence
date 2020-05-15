@@ -2,6 +2,125 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-04-28-2020-iphone-ses-portrait-mode-solely-relies-on-machine-learning.md",
+      "title": "2020 iPhone SE’s Portrait Mode Solely Relies On Machine Learning",
+      "excerpt": "Developers behind the camera app Halide reveal how the new iPhone SE is able to capture photos in Portrait Mode simply using the single camera and machine learning.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/2020-iphone-ses-portrait-mode-solely-relies-machine-learning-2966313",
+      "ampWebUrl": "https://www.ibtimes.com/2020-iphone-ses-portrait-mode-solely-relies-machine-learning-2966313?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/2020-iphone-ses-portrait-mode-solely-relies-machine-learning-2966313?amp=1",
+      "publishedDateTime": "2020-04-28T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/16/2020-iphone-se.jpg",
+          "width": 1200,
+          "height": 733,
+          "title": "2020 iPhone SE’s Portrait Mode Solely Relies On Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-new-york-yankees-radio-voice-john-sterling-honored-with-2020-governors-award-at-new-york-emmys.md",
+      "title": "New York Yankees Radio Voice John Sterling Honored With 2020 Governor's Award At New York Emmys",
+      "excerpt": "Longtime NEW YORK YANKEES radio play-by-play voice JOHN STERLING was honored with the Governor's Award at the 2020 NEW YORK EMMY AWARDS. STERLING was recognized for his 60-year career at the event, which was held as a \"virtual gala celebration\" due to the COVID-19 CORONAVIRUS pandemic.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.allaccess.com/net-news/archive/story/195992/new-york-yankees-radio-voice-john-sterling-honored",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AllAccess",
+        "domain": "allaccess.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a3.allaccess.com/assets/ads/300x600/E/EllieGoulding/Worry_About_Me.jpg?1588271327",
+          "width": 300,
+          "height": 600,
+          "title": "New York Yankees Radio Voice John Sterling Honored With 2020 Governor's Award At New York Emmys",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-shanghai-shares-fall-before-earnings-blue-chips-start-ups-climb-on-reform.md",
+      "title": "Shanghai shares fall before earnings; blue-chips, start-ups climb on reform",
+      "excerpt": "CSI300 adds 0.7%, Chinext up 0.6% but Shanghai slides 0.2% * Start-up board reform positive for A-shares - Morgan Stanley * Banks to report earnings; regulator warns on wealth p",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/china-stocks-close-idUSAZN00B8AI",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSAZN00B8AI",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSAZN00B8AI",
+      "publishedDateTime": "2020-04-28T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Shanghai shares fall before earnings; blue-chips, start-ups climb on reform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-amazon-appflow-brings-serverless-ipaas-capabilities-to-aws.md",
       "title": "Amazon AppFlow Brings Serverless IPaaS Capabilities To AWS",
       "excerpt": "AWS announced the launch of Amazon AppFlow, a managed integration service for exchanging data between external Software as a Service (SaaS) applications and AWS services. Amazon AppFlow acts as a two-way conduit for the data flowing between SaaS applications such as Salesforce,",
@@ -909,123 +1028,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-it-is-35-years-since-the-acorn-risc-machine-chip-sipped-power-for-the-first-time.md",
-      "title": "It is 35 years since the Acorn RISC Machine chip sipped power for the first time",
-      "excerpt": "The first chips worked as expected ... sprung to life by drawing current from the IO interface – before its own power supply could be properly connected. #OnThisDay in 1985 the first ARM ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2017/12/08/elon_musk_finally_admits_tesla_is_building_its_own_custom_ai_chips/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2017/12/08/elon_musk_finally_admits_tesla_is_building_its_own_custom_ai_chips/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2017/12/08/elon_musk_finally_admits_tesla_is_building_its_own_custom_ai_chips/",
-      "publishedDateTime": "2020-04-27T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2015/06/05/ashlee_vance_elon_musk_1.jpg",
-          "width": 648,
-          "height": 429,
-          "title": "It is 35 years since the Acorn RISC Machine chip sipped power for the first time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-artificial-intelligence-will-be-used-to-power-cyber-attacks-warn-security-experts.md",
-      "title": "Artificial intelligence will be used to power cyber attacks, warn security experts",
-      "excerpt": "Intelligence agencies need to use artificial intelligence to help deal with threats from criminals and hostile states who will try to use AI to strengthen their own attacks.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-will-be-used-to-power-cyber-attacks-warn-security-experts/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-will-be-used-to-power-cyber-attacks-warn-security-experts/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-will-be-used-to-power-cyber-attacks-warn-security-experts/",
-      "publishedDateTime": "2020-04-27T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/28/b50614f1-d3c1-4f0c-afb0-714425941f8d/thumbnail/1200x675/57436b8076626bb631f2bb2e665d16e7/20200227-specfeat-march.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence will be used to power cyber attacks, warn security experts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-countdown-to-kindergarten-tips-activities-from-creative-discovery-museum-to-prepare-little-ones-for-school.md",
-      "title": "Countdown to kindergarten: Tips, activities from Creative Discovery Museum to prepare little ones for school",
-      "excerpt": "Along with shape recognition, color recognition is an important step in cognitive development for children. It plays a part in object recognition, and helps a child develop the descriptive ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.timesfreepress.com/news/tfp-families/story/2020/apr/27/countdown-kindergarten-tips-activities-creative-discovery-museum-prepare-little-ones-school/521623/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Free Press",
-        "domain": "timesfreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.timesfreepress.com/img/photos/2020/04/27/gettyimages11354749461996225658_t1070_hcd394fbf6fdeeaf7133cf06c6bb2d88de71e4110.jpg",
-          "width": 1070,
-          "height": 714,
-          "title": "Countdown to kindergarten: Tips, activities from Creative Discovery Museum to prepare little ones for school",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

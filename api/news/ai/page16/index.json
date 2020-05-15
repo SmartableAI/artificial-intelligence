@@ -2,6 +2,109 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-30-deltec-bank-says-computer-vision-will-help-in-fraud-prevention-data-extraction-and-the-overall-user-experience.md",
+      "title": "Deltec Bank Says – Computer Vision will help in fraud prevention, data extraction, and the overall user experience",
+      "excerpt": "Computer vision enables a more in-depth data set for the financial services industry to use when evaluating specific investment opportunities. The financial services industry is continuously ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15925700/deltec-bank-says-computer-vision-will-help-in-fraud-prevention-data-extraction-and-the-overall-us",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15925700",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15925700",
+      "publishedDateTime": "2020-04-30T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1587326284.jpeg",
+          "width": 3300,
+          "height": 2550,
+          "title": "Deltec Bank Says – Computer Vision will help in fraud prevention, data extraction, and the overall user experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-how-coronavirus-pandemic-will-impact-on-global-artificial-intelligence-in-healthcare-market-industry-trends-and-developments-2020-2027.md",
+      "title": "How Coronavirus Pandemic Will Impact on Global Artificial Intelligence in Healthcare Market : Industry Trends and Developments 2020-2027",
+      "excerpt": "Data Bridge Market Research has recently added a concise research on the Global Artificial Intelligence in Healthcare Market to depict valuable insights related to significant market trends driving the industry The report features analysis based on key opportunities and challenges",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2031234/how-coronavirus-pandemic-will-impact-on-global-artificial",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-google-executive-attended-meeting-of-key-scientific-group-advising-government.md",
+      "title": "Google executive attended meeting of key scientific group advising Government",
+      "excerpt": "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telegraph & Argus",
+        "domain": "thetelegraphandargus.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thetelegraphandargus.co.uk/resources/images/11319113/",
+          "width": 2168,
+          "height": 1445,
+          "title": "Google executive attended meeting of key scientific group advising Government",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-regis-tr-and-sensiple-to-collaborate-on-delegated-reporting-services-for-sftr.md",
       "title": "REGIS-TR and Sensiple to collaborate on delegated reporting services for SFTR",
       "excerpt": "The European trade repository REGIS TR will join forces with Sensiple a market leader in regulatory technology solutions for repurchase agreements repo and secured lending The partnership aims to provide an interoperable web based end to end automated reporting solution",
@@ -1113,132 +1216,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-these-ai-generated-memes-are-bizarre-and-profound.md",
-      "title": "These AI generated memes are bizarre and profound",
-      "excerpt": "For an entire generation reared in the murky dark corners of the internet, memes are the preferred mode of communication. They help us deal with catastrophic events and manage existential dread; they can even help shape the spread of diseases like the coronavirus.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
-      "publishedDateTime": "2020-04-29T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/8H-_8nn57zlQt9SV6hr1lOKPr24=/940x0/2020/04/30/6f286b36-5379-4b5e-92f6-1e5707ad6403/screen-shot-2020-04-30-at-1-52-02-pm.png",
-          "width": 940,
-          "height": 739,
-          "title": "These AI generated memes are bizarre and profound",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-cars-could-go-completely-driverless-very-soon-says-ceo-of-chinese-autonomous-driving-tech-start-up.md",
-      "title": "Cars could go completely driverless 'very soon,' says CEO of Chinese autonomous driving tech start-up",
-      "excerpt": "Despite current regulations and safety concerns over self-driving cars, the time that cars could really go driverless is coming \"very soon,\" according to Jianxiong Xiao, CEO and founder of AutoX ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/30/cars-could-go-completely-driverless-very-soon-ceo-of-chinas-autox.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/30/cars-could-go-completely-driverless-very-soon-ceo-of-chinas-autox.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/30/cars-could-go-completely-driverless-very-soon-ceo-of-chinas-autox.html",
-      "publishedDateTime": "2020-04-29T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105865395-1556002110737gettyimages-1087813864.jpeg?v=1588220919",
-          "width": 4000,
-          "height": 2667,
-          "title": "Cars could go completely driverless 'very soon,' says CEO of Chinese autonomous driving tech start-up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
-      "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
-      "excerpt": "There are too many to list. They begin with basic tools like SageMaker for training models to respond to your data. These tools have attracted plenty of developers and that may be why the sales literature brags that “85 per cent of TensorFlow projects in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reseller.co.nz/article/678881/14-ways-aws-beats-microsoft-azure-google-cloud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/andy_jassy_aws.jpg",
-          "width": 800,
-          "height": 500,
-          "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

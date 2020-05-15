@@ -37,24 +37,6 @@ related:
       - url: "https://www.nippon.com/en/ncommon/images/no-image.png"
         width: 600
         height: 400
-  - title: "Sony, ANA to jointly develop remotely controlled avatar robot"
-    excerpt: "Under the basic agreement, Sony AI will provide its artificial intelligence, robotics and sensing technologies to avatarin Inc. of the ANA group, a developer of stick-shaped avatar robots that can be controlled remotely by computers."
-    publishedDateTime: 2020-05-11T04:32:00Z
-    webUrl: "https://www.thejakartapost.com/life/2020/05/11/sony-ana-to-jointly-develop-remotely-controlled-avatar-robot.html"
-    type: article
-    provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 19
-  - title: "Sony and ANA to jointly develop remotely controlled avatar robots"
-    excerpt: "With the new coronavirus pandemic restricting human contact, the two companies hope to use the robots in a wide range of situations such as teleworking."
-    publishedDateTime: 2020-05-11T04:18:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2020/05/11/business/corporate-business/sony-ana-jointly-develop-remotely-controlled-avatar-robots/"
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 19
 
 secured: "6uZiEa1o9qo2FSVv7d0mBEVihZDwWo7Qhj8cn3S0PZSEwnnEP8UStbWr/MOWn+aP4R2l4ONue27DyWP8WcJSpHQ4I5gjnqKFYeteCxK+B3etHfLns+3RCPKa5m4FzbaSMT/fauTOvgyWTvu4OjbQf/jLLqkaZ2BZSaXf2aPUDRWPplS9xGaJ6eReyQSr5iO3dUuQRzOPcv3bDsH9PgVMq7xWDsxS3AcQrlGiGJnXSonU5ErhpHl8wfiQs4nW6kkGB+MUHUMznZ4ICpL+6cqza+o1TTydVVJPGl1lwRhCJtcSM/zwXFn17BLhU7Kq5vUJ;7hUrgVMzNX76JX+axF/60w=="
 ---

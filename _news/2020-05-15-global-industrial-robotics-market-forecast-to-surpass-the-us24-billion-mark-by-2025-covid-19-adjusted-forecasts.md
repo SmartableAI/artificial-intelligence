@@ -23,6 +23,6 @@ images:
     height: 419
     title: "Global Industrial Robotics Market Forecast to Surpass the US$24 Billion Mark by 2025 (COVID-19 Adjusted Forecasts)"
 
-secured: "Dz4635cmcSJa2baogX/L5R1jfzwmxxJ8WtUWT1YTBNqQxLt5cgEMKLGXOAd5YqpaClt8cux4+uFUpE3KM11Q+PV2ikzKu22U51jlZ3x9XEJNDtxpG+48JHyuzkQB/OAT4gHym8STxTJnngRpinWnAHfrzgjq5CD3EOO4q6mLyfx/3Av9a/LrvEVVTCJAgLJPSL34w6E0xn9C9fy88dPIl82JbUFSuQUBpuU7itScBv1fTl/6g+OV6aevu/1sqZDomT1mZ5/wxGSgHN6O1DOcfk2DQRIDXpCzNj7Ev7Zh096xy5DQGAmp6x0vqGfrmrI1;ays7eYzjTor/4rFcnpxD1w=="
+secured: "moHDUG/a9rH+qSHQUNnfJ4u0h/rlOU/br0pwbxK36xXig9bZrZS3jUyA4F4/k9SOaQBRFPUuivrF6iZhpaZJLhDHva+2mtmMcCR7IXwhr6uZ3r6UIFCKUFUKZ/7TqtkHZufDXQojjHmuJW+LiQvPjdx83ab0RKTmf5hw/IKHnvNVAi2pD0RNcAfuvURz5As6vBC5drCqSlVb5zK+0wsNa69PXMHSAK0c1/zla7g6gVE+gcCf8cNGhYbr1QQx1zc7bckYtQ/nwPJb9CbmLS8DbiLTdxTYBMOYbwpAmQE3sbqYgmyPzPpI7VAgSRkYP2Rl5ZzuyUWeP0NNyh9gmM89YKKmIiKL+7FywLYq8dzoDInNUvhBdr/0RTkwXRm1r/SwKXEG6coYeFsBx1ah0TbhB6+UCQ1bLIVYVSf3F9vN6GxizU0v6Jg/qQo+cvv9xX4B+j1+WdNOo0TfNRi2wV/lPeM2YlpVSeKMspaY3dX3Dg8=;nvh7v276Y/hkAdrrrPRq2Q=="
 ---
 

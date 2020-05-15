@@ -2,6 +2,125 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-04-the-rise-of-the-robot.md",
+      "title": "The rise of the robot",
+      "excerpt": "In 1966, a team of engineers at SRI International in California unveiled ‘ Shakey’, the world’s first mobile robot that had the ability to perceive and reason about its surr",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
+      "publishedDateTime": "2020-05-03T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1588339067/itpro/2020/05/shutterstock_bricklaying_robot.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": "The rise of the robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-silver-lake-reliance-jio-deal-5-key-things-you-need-to-know.md",
+      "title": "Silver Lake-Reliance Jio deal: 5 key things you need to know",
+      "excerpt": "The deal comes shortly after Facebook announced investing Rs 43,574 crore in Reliance’s Jio platforms in exchange of 9.99% stake. The deal also covers WhatsApp-JioMart partnership aimed at the smaller retailers in the country.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO.html",
+      "ampWebUrl": "https://m.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO_amp.html",
+      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO_amp.html",
+      "publishedDateTime": "2020-05-03T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution.md",
+      "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
+      "excerpt": "There are many technology trends that are currently altering the world as we know it. Here I pull out the top 10 future tech trends that will define the next decade and explain what they are and how each is transforming our world.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/amp/",
+      "publishedDateTime": "2020-05-03T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaf9842bf289800084688b1%2F0x0.jpg",
+          "width": 1199,
+          "height": 743,
+          "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news.md",
       "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
       "excerpt": "Conrad lives in Medellin & NYC and profiles startup ecosystems during his travels. He is a Global Mentor at 500",
@@ -951,125 +1070,6 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-live-video-president-trump-participates-in-presidential-recognition-ceremony.md",
-      "title": "LIVE VIDEO: President Trump participates in Presidential Recognition Ceremony",
-      "excerpt": "President Donald Trump participates in the Presidential Recognition Ceremony: Hard Work, Heroism and Hope..embed-container \\{ position: relative; padding-bottom: 56.25%; height: 0;",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.statesman.com/zz/news/20200501/live-video-president-trump-participates-in-presidential-recognition-ceremony",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-linkedins-ai-generates-candidate-screening-questions-from-job-postings.md",
-      "title": "LinkedIn’s AI generates candidate screening questions from job postings",
-      "excerpt": "LinkedIn is using AI to automatically generate candidate screening questions from the text of its over 20 million job postings.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/amp/",
-      "publishedDateTime": "2020-05-01T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "LinkedIn’s AI generates candidate screening questions from job postings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-to-replace-tensorflows-runtime-with-tfrt.md",
-      "title": "Google to replace TensorFlow’s runtime with TFRT",
-      "excerpt": "Google launched TFRT, a new TensorFlow runtime that aims to make it easy to build and deploy ML models across many different devices.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/google-to-replace-tensorflows-runtime-with-tfrt/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/05/tfrtroleingraph.png",
-          "width": 646,
-          "height": 314,
-          "title": "Google to replace TensorFlow’s runtime with TFRT",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]
