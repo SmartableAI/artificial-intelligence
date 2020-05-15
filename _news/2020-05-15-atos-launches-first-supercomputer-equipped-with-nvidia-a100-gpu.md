@@ -23,6 +23,17 @@ images:
     height: 792
     title: "Atos Launches First Supercomputer Equipped with NVIDIA A100 GPU"
 
-secured: "1bd+y+IxGC5bFPrWZt/Cj5KHSLfJyQS6rsjgkIrZcGrWbrIdmBJGJlmBwl+x5fdRrDL5WvPRkDOfZYS9akTYRs901rOWKnpn6pEebTJs8809ReXC35Smw2ikKM0bISHs4YqgN2X1uYrFj2KVrz4Yq9IXIVC/4YwJ2PU+aoCWNB2vqV5O4RBmas83J1/544q/AL8UacO1mk7r8cZ0ErSSF4ZzMQbcI8RzxRoRQWumfFSLDuVfP3/Y7c+VJu5URBQytGEk7a3CtZoFmOxaTrAHEItW9V/g6wElcTowrqlA/wbsDJKdS4Ps8zbP0Rs6KngT;2j8uATtqBLVfmiUqGvK/Rw=="
+related:
+  - title: "Nvidia launches Ampere GPU, plus range of smart, AI, products"
+    excerpt: "Nvidia has announced a number of product launches, including a system for conversational AI services, a smart network interface controller, a GPU based on Nvidia Ampere architecture, the Nvidia DGX A100 third generation AI system,"
+    publishedDateTime: 2020-05-15T11:20:00Z
+    webUrl: "https://www.telecompaper.com/news/nvidia-launches-ampere-gpu-plus-range-of-smart-ai-products--1338745"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
+
+secured: "ofjsL0gUATcLqIxrgMIkdQlBC3+6AFsVPzzgU0CI935AaX7IbH+BxndWOhoTlNtMWJw9ufOZNcrSAvOIiW3eZYI5n1YKEsIP1AVQZlZ6TFCKe7hwwgnpFGQvu96j97A9dCkOP0BnEdidHF7CD2sG+b1OTNvpeyD/9bNnyHOHvHoThchmWId6olrIFxydZLgx0A+BX8eLcfrpjzn29iLt3x3VWuHo3oDZXYP9/I7nKU2WuZl0YBSOigImxS0Q1qRKPdUg3azOJk2WoasF+RJ4TUhc2BbdWpAM9O2q4rzu5mlxgApWfYLJoHN3C/vhORzo0ZsDWOEnEay/V3IKrP/xPg2mEZXXtR1xg9yInLnxllJPx5W7+FScsBLCpDX/wub1K6YoeiLrmuH3LlZgWnGj8yrZ7kWRTtPQJUwRGauIc7Kkfp/mdFBH20D5ye7ziAzFvur5+TfNr1eYCwWCZd+aaxo12buyUQwkik/cR1yihuI=;gnq/myG+jjwvEmO6LWM1xA=="
 ---
 

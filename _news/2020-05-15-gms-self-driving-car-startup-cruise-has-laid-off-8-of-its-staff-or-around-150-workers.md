@@ -1,15 +1,15 @@
 ---
 category: news
 title: "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers"
-excerpt: "Cruise, the self-driving car firm owned by General Motors, is culling around 8% of its workforce. According to Bloomberg, which first reported"
-publishedDateTime: 2020-05-15T09:54:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5-1029205636"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5-1029205636"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5-1029205636"
+excerpt: "The move is aimed at cutting costs amid the ongoing coronavirus pandemic."
+publishedDateTime: 2020-05-15T10:00:00Z
+webUrl: "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5"
+ampWebUrl: "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp"
 type: article
-quality: 60
-heat: -1
-published: false
+quality: 80
+heat: 90
+published: true
 
 provider:
   name: Business Insider
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://i.insider.com/5ebe5ca4aee6a849b975e494?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    title: "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers"
 
 related:
   - title: "Cruise is laying off 8% of staff as the coronavirus pandemic hits self-driving startups"
@@ -40,6 +46,6 @@ related:
         width: 1200
         height: 600
 
-secured: "dCVAkJvw+6iu1eT0xUpkUTnyfe/MgKFAYCQEJQVQSWYXpnMN87RhwP0oTMUyY2IZCP2KEnwuAkTSiAkGFTD0T7Q61T8DIwMTYSlFv97RzDN3pcxqBwwXouoFGDvuGIiZw6RKf9uksMlkthcNaqO/8OG/2yVQVM/R4LxW562atXjEtWkM2O7I6te85LoIAl7LVSOQn9iUrb1uyou+k8kPNeg/PlsqaFFyl3wWh+Rx9kIpQrCVcAgq9OSKR++mfiFY3qPqlm+TyFDSx3gK/vCE+JvHazUcgLUdcFfBPrv8qvon0hx8w+jzy6wbzhqD++zyqzdjndxAxBXsemQuMztYar58JFyV4/BIRKhVFnF2PwUHD4u8ZD4dWRt0U9wnmAq3Fuvl06IPV0SkIb8Ma/UvasR4e6bzPyCRu6AJervF34k3HOIYu4M1mG84kVHP5LivFz6NDnrLJdQ26x4qwswj+gKDx/glTb1QpAch/TYolM8=;nmY/uhbHWZtPPNKmBjqt6g=="
+secured: "gjTltK1UXXo//EE2IHS9dG+gNT2zNOlELUBGlsA09EXAEaytExtc2BvbSvkVv24Y6BXegiubxcc4h0Va1OoIQCF5KDWupyoL82iHyBz7zRAJXBWURl9h9B1R7xbSympvWDlKHt01Ly5X7N4zR/oxPcwIpBkvg4C6T1jr6pNLkgCCj2GwQTp1GsDy7L9JsNITpQHDLCKIOncTxs9S0uVARZkcjo6mkgNry7PTDWo43fRKlBo21w7fXo0CgcJvE0i0kKqstBziRp2215/G9zUASjWZ1fNMY7WD7KlCpAalhDOe7feF39MD2AHOMnxHfUcF;ufPRi3Pps2ZajeefixSRgQ=="
 ---
 
