@@ -24,6 +24,21 @@ images:
     title: "GM’s Self-Driving Unit Cruise to Lay Off Almost 8% of Staff"
 
 related:
+  - title: "Cruise, GM’s self-driving unit, lays off 8 percent of staff"
+    excerpt: "Cruise, the self-driving car startup that is a majority-owned subsidiary of General Motors, is laying off 150 employees, or about 8 percent of its workforce, to cut costs amid the novel coronavirus pandemic."
+    publishedDateTime: 2020-05-14T19:10:00Z
+    webUrl: "https://www.theverge.com/2020/5/14/21259001/cruise-gm-layoff-self-driving-unit-recruiting-product-design"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/14/21259001/cruise-gm-layoff-self-driving-unit-recruiting-product-design"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21259001/cruise-gm-layoff-self-driving-unit-recruiting-product-design"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/7FHj1F4czAfdkj9N6YN4mLOGHiA=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66798730/vpavic_200121_3874_0010.0.jpg"
+        width: 1400
+        height: 933
   - title: "GM self-driving tech unit Cruise laying off about 8% of staff"
     excerpt: "General Motors Co's self-driving car unit Cruise on Thursday announced it was laying off about 8% of its staff, according to an internal e-mail."
     publishedDateTime: 2020-05-14T18:28:00Z
@@ -39,21 +54,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200514&t=2&i=1518677074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4D23U"
         width: 830
         height: 545
-  - title: "GM's self-driving unit Crusie to cut 8% of staff"
-    excerpt: "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations"
-    publishedDateTime: 2020-05-14T19:00:00Z
-    webUrl: "https://www.cnbc.com/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103"
-        width: 1920
-        height: 1471
   - title: "GM-Cruise lays off 8% of staff as self-driving companies face tough times"
     excerpt: "Cruise Automation laid off about 150 people on Thursday. It’s the latest sign that self-driving car companies face a tough time ahead."
     publishedDateTime: 2020-05-14T20:30:00Z
@@ -69,21 +69,6 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 500
-  - title: "Cruise is laying off 8% of staff as the coronavirus pandemic hits self-driving startups"
-    excerpt: "The move makes it the latest autonomous vehicle technology firm to cut as the coronavirus pandemic has shut down the economy and dried up funding."
-    publishedDateTime: 2020-05-14T20:31:00Z
-    webUrl: "https://www.businessinsider.com/cruise-laying-off-8-coronavirus-pandemic-hit-self-driving-startups-2020-5"
-    ampWebUrl: "https://www.businessinsider.com/cruise-laying-off-8-coronavirus-pandemic-hit-self-driving-startups-2020-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-laying-off-8-coronavirus-pandemic-hit-self-driving-startups-2020-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
 
 secured: "BOxnaGUNMmN1bDexOlrZjxbJ0Qs0mVzS68EEBxpkfK5jfuaZ/yBvL/+DpsRhIvq3EdsGmh4P8KoDTTYFzOIW9gc3XqBaFWfxoJ6k6eJCgTm2Ux/vP2LOyIrFeTHyKSdB8+6QcoE4wTh/By0I8DSOgB3NN8z7BsDcAiYIU7YFDnVUrqow0aTE8h/81ixhznWY5Or1ctbdcxy7rCnbAT+U2IMCdKbCKwv/T2SSQjwfHoeWLvTmGioU9SrJOgYivaj64PLKxDfCq6BHe8kpNmD+aJwYwRPg2zpU+us3KgOMEi/TGA4nQyZeqqGiLX2KlhF3;wFx7KOANEYMv3p/8Jwn3Tw=="
 ---

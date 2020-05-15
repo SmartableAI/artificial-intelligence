@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Sony’s first AI image sensor will make cameras everywhere smarter"
 
 related:
+  - title: "Future iPhones could see some of AI smarts in the camera sensor itself"
+    excerpt: "Apple already uses AI smarts to help with iPhone image processing via the neural engine that has been part of A-series chips since the iPhone 8"
+    publishedDateTime: 2020-05-15T00:23:00Z
+    webUrl: "https://9to5mac.com/2020/05/14/ai-smarts/"
+    ampWebUrl: "https://9to5mac.com/2020/05/14/ai-smarts/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/05/14/ai-smarts/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 59
+    images:
+      - url: "https://9to5mac.com/wp-content/uploads/sites/6/2020/05/AI-smarts-could-be-embedded-in-future-iPhone-camera-sensors.jpg?quality=82&strip=all&w=1000"
+        width: 1000
+        height: 500
   - title: "Sony ushers in new era for AI-powered cameras with world's first intelligent vision sensor"
     excerpt: "Artificially intelligent cameras will be able to track people and objects with high precision in real-time recorded footage courtesy of the world's first intelligent vision sensor, Sony has claimed. Vision sensors are sophisticated systems generally used by a smart camera to monitor changes in its field of vision,"
     publishedDateTime: 2020-05-14T07:08:00Z

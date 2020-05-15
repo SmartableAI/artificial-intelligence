@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-ne
 ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AWS AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebda3d7e0de010006d35c1b%2F0x0.jpg%3FcropX1%3D483%26cropX2%3D3296%26cropY1%3D0%26cropY2%3D1581"
@@ -29,6 +30,6 @@ images:
     height: 675
     title: "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020"
 
-secured: "iT5bfZHv9rxxabFRrsSPnbaoKLXrSUiBhyw9q4bBjpb2i6MnkuMUKOvsUovCLeuHYCumaKvwVXLgARmUc/76r4h209vNL9nmsQYRI27XnHHXrwG1TppjFv/0uYq082lTaZ1rmROHvDxvAHycHhUrQlW5pMit716WGKDJv/Px/sJx3PzJKHCLx79LIFdTpO5J7pSP9uubBwWaMy789CDl0NQXuv7PcvJplSPf4LBMv6UiDUIcFAu7f51CJrXY+dcfMkfHrgX8Sgy/69wD9tNYm69e8fqFF/G4qBKptOdHhRWAwQNaKZ3ESRcRy9CGDA8F;2UNcBT97b2/fg+7Xs219pA=="
+secured: "CTheosA//chnRUU/XdkVrsrStzwxfCvJdb9nZJOKnB6rjAsUZuIjdgUe/UO7hT0ug0QM8RvsxmDnv13LHNVItWyWmz5Hb91Ue/wSXGP7TqnW1S3tu8/9U1DSwmp19eydz+A5gpZeVt9c+pIEYa1HRn4Lz9dkzVVSq+L0lc/s/HdDAuYKnHdvxP64e3cs0tSxbBtcJRaWpxYw4Z12i78jOUE1i3c4n9fl+T0KoWZqewY/VUxJHCpdJVTN7BcWQKl1IB8nZqaWwWz2HDfs55yOHdQq5cfDc0ZSlHyLXfXCx+p4LoX0x/w+a9urpz6NUHKS/e2qD6WqqsaHVJAU3faDfZvUNUkfNckLT6qxn5Ua0SaUddjb/19c4vNap/Jc0RZ3ezfY46LLk24WzXRGJ5h41HUOrSrCQrI9Wb7CcF0acMQh7kpoTS8R2PXxpoYEtt+N2SSd+Ra9Y2KQSNRV1QUaAeQWkQfFqVW/vL/EccoFKmM=;P/eTvUBvOQkCvG03Vf5zAg=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 512
     title: "Immunai decloaks with $20M in seed funding to map immune system with machine learning"
 
-secured: "em1ZAnLEtPFJG4lKzBGhHviI/RwiXkGdYcCAnE/9vEGfHrS2mx1x24sgJTeo896d+HcYKsjjsbHWU4806ZcvA3eZh0QBfkm1od186vMDPAET+6O1YXdeIGo75aa4V+SQ2+huFuYe00SfSK7Ly4R8Mn3aJ+Qt1tq7bvDIg+VAKWdmnMv7yQwTDgcNnFuBgygeqBoEhIsjakgzD2wfa8yvJSSypHesiy3relNZxQ6D15sjDwseyO/vvkRD81OqiIKLjr0bHoT2tCFs+BNtgl7girQ/fMZfFwmfztmz/pJYJm8rQQ3iqPF8pxIH/P/+dm62;dF9RpGgzNuXfH+OTomc5LQ=="
+secured: "PRW+m9tM/UokrfsMA/XSB2PO6XiiNqA3a0OYZnC/AdOrDbQKcSkwKeIAUzR4ka14XkJWiI8Xf5E/UzAhjZQOD/zGuqksk1i5Fv2vlRIn17rqsXmRDRjAsg63Eqa9j2unE1VoTjjCukNuPX+8yO0gPZdJ/S49CVDi5FDB84dMOm54CMOXi6kJ3CQZGLY16VgH3jUknCq+gsn4dtOg1P5Sh6nuv2076IQKSEEMfkuCR21ovJNeIpIRDVCLYpl5SVYAf8pzat0PzSi8WvddAp5KWV4MQDozJcXfj9yqiEZ2bL/FRAZyfS7PLff/o0ckJrf6glXhDN4hjTVJOw0ooXNMu7b5GUNZ+xLZ8A/7g9lJVllMjtECNgTUJpOvXzoZ11F6FWxcIGGMwtJEOaI52znmVFXXgq/dZFwaC5tIYkSVNJBEq6wYIBcgoYEGocdyt9ekB1WcBEoARpx+XwMluQ3XdWk4liWqVDFEcc9wMdgrE5s=;ni9mnFi/VJ6fLefQIA8kBg=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/news/sony-integrates-image-sensor-with-an-ai-chip-
 ampWebUrl: "https://www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/"
 type: article
-quality: 87
-heat: 87
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cnet1.cbsistatic.com/img/mjuZYz-ZJ2-slITY4jyajAtyPWg=/756x567/2020/05/14/e47314b5-a6e3-443c-9f20-d1e291b89e81/image001.jpg"
@@ -28,6 +29,6 @@ images:
     height: 567
     title: "Sony integrates image sensor with an AI chip for a smarter camera"
 
-secured: "i36U6pl7pey0qb71Ej2wUuJCclAlpC68tHsv7k9irR7RMZ/Z6HqIn/HV6fQeRyZUWLnRu2NETD7bjPOYxhyd058ee7pnIwanQLmUm61JtK/64aQDhih9L2DZlBJ96hU2S9HQhVQ69wuyxti0EMMa1ONrBgU9qpPEUc/JTIe/MMCKTP0H4FvPsfj5zyq46aVlhqzp9mFGLVQxq+NoxhTY6Y/DJBnf7VgAcS+4MQTCE3RyIYGtu4thrf5NNtmTW80snkZ328UNvstIBQ1VIE+7LiJx15eX32v2rVCnOitAPH+VPVdyNUqXICxXA3Y9BEuP;HgodmmMmm+rWNRQP9Pk1bA=="
+secured: "zsqzEpUEDChEhGk6t+UK5f/9LV+xSwmP/SmxJ+f2Hk9wqtRPe7454z9xkUrqy/2gZX9uQcFDEgz78P7LMA3UZxpIm7+p+V5ewFR+exb5ifEYBhDjvf4kXrFJ02O5l3GcvaNWsL7HKCWvzFRud0xjGNvExUwR8LVIdgePXxbvjgxQGHJ6uXmAHcGBGrfAr99w8zykoKWYB2z4KIi4G+zjTTguymQwkwMvkD5ZIRAy5KneDthXerQnAsj9uqNngsY6fkAJZMeqfZuaUjoH6rE9j0qo845t2I+QPFE0cxLu7QUOjA93VL/qm7RAGp3ob3iwpo+Ri5b2cNxE6pDGgd5xMio3fczfnhArbE5jn5oA855YUbMtaAit4BXP1B9w+PN0jvZ7M1vCOrwSc4ir5b43pwnpGy865+oz4GMRz/jdKj5Knui34XhkSO17qj8yootz9pv1NtvcZKpVD9AsiVluqeHcNp3/J8MnsA68gTEjHAY=;JUigL7UkHcOYYn4UufWOOg=="
 ---
 

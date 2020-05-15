@@ -29,6 +29,6 @@ images:
     height: 428
     title: "How Amazon’s Alexa voice assistant is changing its tone during the pandemic"
 
-secured: "DcHrgP8O3Jfmwj3OX0HxmruqJKJxxS1tGT2diJR/cpG68L5o2zEM/U598gzDElIWwCy6P1T3JCxe3IP/LhdxfKiu+QQSndlBzxaZLL/nyc8JtSW+Vy/cC+bUmDxlbZFj+gGE0mralT9FtVlRpdjk/rmxTg1N6rO13yWugAca27PdcasNCTtWiltjaygZWXaEuyuVyTiU1dy4fONVE30QVDsT3gv4xhZyZ8cxFxxUqqprr6+UWJysouxZmxibiVGtgU935j1YGhFau39vJFNuUDTbGGmJUPt8mCSzhZRa2Homyp7EHxc3sr7OWN4h8D3B;LwhNv+30mfTn6/+j9tIxAw=="
+secured: "5lrB8Bq07VOyEWqfYUxTpVC5eGDGxIpqZyfGOpJf1cgO2YzZIo6NOdOvD2Wx8NwPysnfk7t6OoK8QKr+eKMQ6iwaYlrGa4ujCc/+9DrG6r7Uma2y/522Z1L99PKCiyfLgBU6BdFzSM8jvixALOcRDVdVZXkGwM9g1toi4DaIkG5N+tCOcNWA7054cQohQeJmzSeWik4izVlA05ZhcXFix09qqWi8/W+kndAuIVmIgRrsTs4T4SBKKdevLfI9IiPfk1ea4Zyjg0jZueT+DgL1BjbxIum4ag/kydKysyNTXzYl4QFmt7lfFMKwnwi+rgtOFgfenJBzoQSxtkJjW9tDSiSKoRCXTuHHqD/X84FGyVptLrpbUK+t6oJYaHCbC/lWYoK07bkNumVOFvyx0fXFftR/6UjVhH7146IVm6b6wy0lP+ww8NNCNLe/djGKJXDGNtnObLcaPLhQlwlrAFzNY5+OlTT33qrxOr9df5ks0xE=;KmriqmdJ0WFwD0X4U5o0TQ=="
 ---
 

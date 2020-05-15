@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/cruise-laying-off-8-coronavirus-pand
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-laying-off-8-coronavirus-pandemic-hit-self-driving-startups-2020-5?amp"
 type: article
 quality: 66
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -28,66 +28,6 @@ images:
     width: 1200
     height: 600
     title: "Cruise is laying off 8% of staff as the coronavirus pandemic hits self-driving startups"
-
-related:
-  - title: "GM self-driving tech unit Cruise laying off about 8% of staff"
-    excerpt: "General Motors Co's self-driving car unit Cruise on Thursday announced it was laying off about 8% of its staff, according to an internal e-mail."
-    publishedDateTime: 2020-05-14T18:28:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-autonomous-layoffs/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-idUSKBN22Q34W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22Q34W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22Q34W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200514&t=2&i=1518677074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4D23U"
-        width: 830
-        height: 545
-  - title: "GM's self-driving unit Crusie to cut 8% of staff"
-    excerpt: "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations"
-    publishedDateTime: 2020-05-14T19:00:00Z
-    webUrl: "https://www.cnbc.com/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103"
-        width: 1920
-        height: 1471
-  - title: "GM-Cruise lays off 8% of staff as self-driving companies face tough times"
-    excerpt: "Cruise Automation laid off about 150 people on Thursday. It’s the latest sign that self-driving car companies face a tough time ahead."
-    publishedDateTime: 2020-05-14T20:30:00Z
-    webUrl: "https://electrek.co/2020/05/14/gm-cruise-lays-off-8-of-staff-as-self-driving-companies-face-tough-times/"
-    ampWebUrl: "https://electrek.co/2020/05/14/gm-cruise-lays-off-8-of-staff-as-self-driving-companies-face-tough-times/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/14/gm-cruise-lays-off-8-of-staff-as-self-driving-companies-face-tough-times/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 73
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 500
-  - title: "GM’s Self-Driving Unit Cruise to Lay Off Almost 8% of Staff"
-    excerpt: "Cruise, the self-driving car unit majority owned by General Motors Co., is laying off almost 8% of full-time employees to cut costs in the midst of the coronavirus pandemic."
-    publishedDateTime: 2020-05-14T20:45:00Z
-    webUrl: "https://www.ttnews.com/articles/gms-self-driving-unit-cruise-lay-almost-8-staff"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-gm.jpg?itok=Efd4vezl"
-        width: 470
-        height: 246
 
 secured: "uLf7B8ZE4TPviLG3h+0/snzhM//IGZnwZnwIZ9X0llw6OzcfgRuz/l8NynNPdDgLINx3bJBUGKlnqGzqKSSdsS/nWlWcgtgb/LYWZ8wBj/3H0UYGPZihvledsWMQrzB+Z0QKKvMFf1ivILaCTxci8f8zAptYOed6wJLYG7H4nhc33fPJ36GU0Qfk3p7SjwCCLcxRcWflkXIvBk4SI/EKwi8ygFKJyi1PnEp7q0ob+UFF7EiQuFmtUKjymRt1PLB+MZrlzfYIDZHGRMEqDBXZzs1g1EElY+O+s+qmmLjhJPefYW37BWSVYz//H8hluQXvJvxzl6cIOgMuJ6dcUtC5cCtHWCJG/h2ukpDCfVussv6MtIeihoG66e5R1e7V9ytbOYn/P5CIklyR35bzJkPaI5wO3B5WrhD4iNZBhXgXknYS5jbEz7chGgrht26ic3O512UxyOZEE084KVcZ9tsIbvjXGvuRKg+z0wLSnrTO+Wk=;PExYgISizefzSM2IXUT4Fg=="
 ---

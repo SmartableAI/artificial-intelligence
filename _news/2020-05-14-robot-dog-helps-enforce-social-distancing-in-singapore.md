@@ -35,18 +35,33 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/c302d9e/2147483647/strip/true/crop/4996x3263+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F36%2Fb3f5f1be481fa53bd2f849ebc739%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1209534231.jpg"
         width: 320
         height: 209
-  - title: "Meet the robot dog enforcing social distancing in Singapore"
-    excerpt: "Leaves crunch underfoot as Spot marches through the park, back straight as a tabletop, stride brisk as a soldier’s."
-    publishedDateTime: 2020-05-14T16:25:00Z
-    webUrl: "https://www.havasunews.com/nation/meet-the-robot-dog-enforcing-social-distancing-in-singapore/article_8bf5799c-95ff-11ea-9ebd-ebcba19a00d6.html"
+  - title: "Robot dog enforces social distancing in Singapore"
+    excerpt: "Spot’s two-week pilot in a park is seen as a test of how machines and artificial intelligence could help reduce human contact in public spaces"
+    publishedDateTime: 2020-05-15T00:32:00Z
+    webUrl: "https://www.detroitnews.com/story/news/world/2020/05/14/robot-dog-social-distancing/111715036/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/111715036"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111715036"
     type: article
     provider:
-      name: Havasu News
-      domain: havasunews.com
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/15/PDTN/785adfc9-75b1-4a4d-ab53-663fbf963888-WORLD-NEWS-CORONAVIRUS-SINGAPORE-ROBOT-DOG-GET.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+  - title: "Meet the robot dog enforcing social distancing in Singapore"
+    excerpt: "Leaves crunch underfoot as Spot marches through the park, back straight as a tabletop, stride brisk as a soldier’s."
+    publishedDateTime: 2020-05-14T12:40:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/meet-the-robot-dog-enforcing-social-distancing-in-singapore/article_662f215d-0825-5ee7-97e3-0b06939ff95f.html"
+    type: article
+    provider:
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/b/f2/bf211c9a-95ff-11ea-bc60-efc086b1372b/5ebd717768db2.image.jpg?resize=945%2C630"
-        width: 945
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+        width: 1200
         height: 630
 
 secured: "Fs//b9nGa6JOrAA7dRcH5B6xexJFbYr+1KivvYqfSU/+LPkc7zU3yLOj21u3TXa6a8JfASdj+j49s156gA5SKHRa3mGOzkVZFO43aObXNmsNVduJhIVMacoKwE/JMx1QJKPu1HD/BoK5XvQZxUdQHO/0hCdma4yB6GptgnUkKrG0VTGLBzkQK6hoyUemfAxXQjObXesikT407nJdfLl924Ag4LMOW4fnZs0kgDEnsTD9cCGfSMer4FFkSc2y9SLVbSymYaKVoWTF+kVirl7E9pKokxS3aWbQw/BRtYMduprDSrolePjCUS6+eLJvpyPk;WPSKe1EQllVEXALPxs/7eg=="

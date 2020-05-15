@@ -23,6 +23,6 @@ images:
     height: 399
     title: "Juniper Networks CEO: ‘The Goal Now Is A Self-Driving Network’"
 
-secured: "UUvvYW53/BHH9sgwzjGIy9MRG6oXA2lzTXs5Ry/nvp3cwS5OGEZZ//xOUBpLAH35g3L7w/5LiL9RxqIKS+KjA44C4aQ96SjhsJfzH3iUiRO7rB3fY9D+7FYUbqZDwzgGisum92hOXQoc4aPixnl7TaTSpfsPuDf3zQT58QgfEZw9ptg/l6JhZTCaj3LXAYJT0dEJQrfslVTh/tfKVACfMKqylAZH3muJ72Ur6dFY8YPYVrUdVwDdWMznA+Xn+W2GiMA4iMbPBq9AfBUI2mTUNdlQqnOCyKaAR36qjBAlEz7E9ilN5au5ZoYwR8SDiQkr;v/OmuF4s/LUnApqCMyETrw=="
+secured: "YAbJMUYSa51F0CGXfVLVb85HsSTASqCXmJf0yHyJQ2ipKokr/jUC6pENmFysONQgW8qkNARIsss6PwNhs+885ApiB8kwwP0M+FzV8HsP0NIHQR3c2wcmpgVEs26p/2JrrG9ddzr/YvIhPc8cwxNYQBk5xGa3U85LVIx1Et0Zdpz7PbDlvymXNl+plaTvNGMBIfoj/WA1rtg+hBmevHPvvSk6iL1T07wjcMJzkvtJf5MXIyRmSmhJ3ghNMd9Ua1lbEU7ovSt4XBXCF55B/zkE0mtzlrO/su+4OvYfObcpEvP21iIvV0Jkb6Ufd7SISgRqmYvd/laPQYuu2DNAEDSM04a7S7Y/dPnHixCnV6nqzJb0wofRkTmFsZJpCmDWVMLrXb73lUiEHdClax2b2xmm3kty91nPm3mH5EiJemmXaDa8A8/J5S+266n1aeJ1X4fZs5gGjKB2l/Q6acZa5T+ql4XnbgIPMlKCH/1M0l8Ng4Y=;U5bwJUbc0icmVo84YxumhQ=="
 ---
 
