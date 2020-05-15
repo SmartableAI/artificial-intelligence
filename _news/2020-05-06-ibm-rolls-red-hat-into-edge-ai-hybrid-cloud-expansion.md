@@ -15,7 +15,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-  - IBM AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg"
@@ -23,6 +22,6 @@ images:
     height: 800
     title: "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion"
 
-secured: "Mpgee6RwEhazSbKIlg9iLGe4eXQ0y3TT2LozRVHp4CaYPkk7IxCLBTeeG/ejeAtPiXZQkhRgqabFN2vzxkAQhzs7nCybNoAyfV6AUPPHK342Gg8ETB1a9XOzuQVJxhnTiZirt4A4t6XZR3mMEt7QsDqPbE7YA/R44sp/kr45Iy0wEbFuBaZHmhTIf06ivLuiBJKWaOkM2ZLz05M+X3G69egiWKeXbPZbI8WN6dzHvju6llZ8dI3SooOm4NpgGpCT2zzFTBjzkky8oqY1P8csg7JCAjUgDVU9weqb4W2GgOP/CCg0vGkIpe6CDQKjhyaC;H95dKPdaRnKsgJyfEZXNgg=="
+secured: "5B2hLoiSMHgMY9vh3UXqkHtmzIFoOvgBeiY4VO2eNjndqa4V1Eo5RroWTl48DiuHIOSF03UAKxrtrMw+NYQdeOYKvA4lUZlE2sSd5YxOb9cnBEVHXZdCqXiQDoPG4+ujSHmeU5YYxQwIgsYH25CDQ8Z4eRpM3jgyFt4TqT0aQ8u8cGmmdAfhxbXvtypsX+oBknLR5voICFzV3Lhy28+JqAs7sC3r3QBgxtoGfoJsYvgL0SBpH481CPlzuanjJqn2uAcgJEQdwTbVS+2d2KHGqtwDjty3CduvpV2pZ7JLCdNQ09hNphWenV+5JRMQH/x/;qL+XkLS5bhaPykeUkEx2PQ=="
 ---
 

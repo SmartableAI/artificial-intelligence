@@ -2,6 +2,50 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-04-20-googles-entities-as-experts-ai-answers-text-based-questions-with-less-data.md",
+      "title": "Google’s Entities as Experts AI answers text-based questions with less data",
+      "excerpt": "A preprint study published this week by coauthors at Google Research describes Entities as Experts (EAE), a new type of machine learning model that can access memories of entities (e.g., people, places, organizations, dates, times, and figures) mentioned in a piece of sample text. They claim that it outperforms two state-of-the-art models with ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/20/googles-entities-as-experts-ai-answers-text-based-questions-with-less-data/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/20/googles-entities-as-experts-ai-answers-text-based-questions-with-less-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/googles-entities-as-experts-ai-answers-text-based-questions-with-less-data/amp/",
+      "publishedDateTime": "2020-04-20T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s Entities as Experts AI answers text-based questions with less data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-the-nba-and-microsoft-plan-to-release-a-new-ai-driven-dtc-streaming-platform.md",
       "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
       "excerpt": "The NBA and Microsoft announced a new multiyear partnership aimed at transforming the digital fan experience through a direct-to-consumer platform.",
@@ -1204,43 +1248,6 @@
           "width": 1200,
           "height": 630,
           "title": "Uber says engineer is on his own for US$180 million legal award to Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-baidu-to-release-its-self-driving-operating-system-for-free.md",
-      "title": "Baidu to release its Self-Driving Operating System for free",
-      "excerpt": "So it’s tough. But Baidu is about to make it a bit easier for automakers by releasing its self-driving operating system and technology for free. You don’t see a lot of open-source technology ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bmwblog.com/2017/04/19/baidu-release-self-driving-operating-system-free/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BMW BLOG",
-        "domain": "bmwblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.bmwblog.com/wp-content/uploads/2016/05/BMW-Vision-Next-100-images-135-750x500.jpg",
-          "width": 750,
-          "height": 500,
-          "title": "Baidu to release its Self-Driving Operating System for free",
           "attribution": null
         }
       ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -71,6 +71,19 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/9c64f03b16d1179ee51e7183e913ffd6_L.jpg"
         width: 620
         height: 465
+  - title: "Nvidia intros Ampere GPU"
+    excerpt: "Nvidia has unveiled its Ampere-based GPU series, and has already kicked off volume production of the first chip based on the architecture. Powered by 54 billion transistors, the Ampere GA100 GPU is the world's largest 7nm chip,"
+    publishedDateTime: 2020-05-15T01:26:00Z
+    webUrl: "https://www.digitimes.com/news/a20200515PD200.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://www.digitimes.com/newsshow/20200515PD200_files/2_b.jpg"
+        width: 640
+        height: 427
 
 secured: "3ebt46Ii763D68v+msARBfih5jf5i9TkvCfYyhVhiotl9EkGvAYL47ReQhgL+Isij6k0jA8yL+Pq/7gCWTWiksaI5UBr2+49BV3AcSn2zBb02VdzMsoMd4H/rtZCM7vocnGY6K38U1U4VZ2nC3VWHpP6mZsNKHaxGdFPdDT0Y29xxG52Mt56SHXu/Oj50Cgy4Gaur3ovB/XdReff3qS+YX/7PsuiJhgBYfWy+BLvznDxjaOHu25v4cNIs+Oi7Q+4oWTB7bl3QH3WGZiP3OKPuuo/7ys+pnQU94zthjzfuJEnge8ibFxPwLLR81u+w3LjVzyEU72Ftb5QAV+QxCi2lhwbIvLzSFUNdlXz0PAb22Li36YTnbzwupj3iCfJe2run6AnXbb+zLPBiOOMPhGJCrnojjCyFekR3FlZ82j9kU8+/6XmVgwdWmG/b+DNvAaQ3swNLSJ8RJ5yynFvhM7hQsa+QvsZmgwyzzemH2eZahw=;6tVkJLAggygodUtZqBNE/w=="
 ---

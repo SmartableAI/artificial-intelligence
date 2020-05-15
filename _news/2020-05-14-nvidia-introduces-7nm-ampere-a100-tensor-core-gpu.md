@@ -67,6 +67,19 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/9c64f03b16d1179ee51e7183e913ffd6_L.jpg"
         width: 620
         height: 465
+  - title: "Nvidia intros Ampere GPU"
+    excerpt: "Nvidia has unveiled its Ampere-based GPU series, and has already kicked off volume production of the first chip based on the architecture. Powered by 54 billion transistors, the Ampere GA100 GPU is the world's largest 7nm chip,"
+    publishedDateTime: 2020-05-15T01:26:00Z
+    webUrl: "https://www.digitimes.com/news/a20200515PD200.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://www.digitimes.com/newsshow/20200515PD200_files/2_b.jpg"
+        width: 640
+        height: 427
 
 secured: "EqK5M8U+Nf0yS9PHrS1+gzRP229nmx42HyUxWpmGK2/CkSNyESLKnxUBtZwNoejWOgW0fvzTnoOYCsDKwjLmZswQbbK5xy38nVz0LsslkyFeKe4+h7I0QQth4GKVV0fuzWuTs5Q7wtUV+DC/t/BFQ9fAXV6YeUHxa/ISt2ke4hubhU2nw3+4+kfVYzTaXZR5EbOrI9zjpWVfPCvpyBDhjgWmEv56+yRcuTp6HN3Ef+h9o+CMw+NfQIgRZXEjvglZ6ZHAAK88GVU/1zlykN1rrHj51kn+8IcSV6m5TCK1lMuoZLJMgjE9j//6LU6pCMXSsBy7ZmQ2TQ6dQEC7tJwrAf6A66uQ9z9nZXUtI2mW0BSrvmi6+/WkeootKwXGXjrP6STztiRhr2hIduSk+nGUPAT3nsYAFN61qj6sNHGbgrh6WtesX4B5gu0sV2M1XZ81VbEwXqIOMk5yYCIF+DmenpgXBeGHf1tFDmj4hIgRO7Q=;v50QWm0Zzf6IA/u5Vrz6XQ=="
 ---

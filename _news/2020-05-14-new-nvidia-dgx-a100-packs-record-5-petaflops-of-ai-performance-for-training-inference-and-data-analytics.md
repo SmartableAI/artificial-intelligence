@@ -47,6 +47,19 @@ related:
       - url: "https://mms.businesswire.com/media/20200514005480/en/791666/23/inspur_logo.jpg"
         width: 1200
         height: 627
+  - title: "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server"
+    excerpt: "(Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green computing technology, today announced two new systems designed for artificial intelligence (AI) deep learning applications that fully leverage the third-generation NVIDIA HGX™ technology with the new NVIDIA A100™ Tensor Core GPUs as well as full support for the new NVIDIA A100 GPUs across the company's broad portfolio of 1U,"
+    publishedDateTime: 2020-05-14T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server-2020-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "a/xCfXLk1cbAXZfvSxbZxA+YpzBxOCCEpxYR5IEUyfgt+QX5nI7oOre9Cm+KRQOBYuHWyBQgzLJ6oeA7cRzX5cM8ukWawoDlk0JR53Tt87D+T6W8r2EuTa9b5Oo+Wm0jipcxcGbll3DM1uTk3RQGJ9KiPLssj+bQuMIZWvsqymg3LvItSf6GuqfrNO9CiDg7jt+B/PMdbh74NQ9fnd6aLIApGfxojQe4mUU2A4qLM+CoBoksAzrYgXm/uoWPyfMRX6F6zZQIHYc7mUjUrY1+DZHVwD3Kui25U42lA4F8aMGSe0FL45KiRjqupo7CajEC;lRDWNpU+mY5OOvuEdqcIng=="
 ---

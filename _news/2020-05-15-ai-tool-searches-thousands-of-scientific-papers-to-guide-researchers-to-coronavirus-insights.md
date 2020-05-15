@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thestreet.com/.amp-phildavis/phildavis/news/ai-tool-sear
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-phildavis/phildavis/news/ai-tool-searches-thousands-of-scientific-papers-to-guide-researchers-to-coronavirus-insights"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,33 @@ images:
     title: "AI tool searches thousands of scientific papers to guide researchers to coronavirus insights"
 
 related:
-  - title: "AI tool searches thousands of scientific papers to guide researchers to coronavirus insights"
-    excerpt: "COVIDScholar includes tools that pick up subtle clues like similar drugs or research methodologies to recommend relevant research to scientists, saving them valuable time."
-    publishedDateTime: 2020-05-13T19:56:00Z
-    webUrl: "https://gcn.com/articles/2020/05/13/covidscholar-ai-search-engine.aspx"
+  - title: "Research investigates COVID-19 virus origin using artificial intelligence (AI)"
+    excerpt: "The coronavirus responsible for the COVID-19 pandemic has spread across the globe with unprecedented speed and lethality, killing hundreds of thousands of people and forcing countries’ entire populations to self-quarantine."
+    publishedDateTime: 2020-05-15T05:41:00Z
+    webUrl: "https://www.news-medical.net/news/20200515/Research-investigates-COVID-19-virus-origin-using-artificial-intelligence-(AI).aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200515/Research-investigates-COVID-19-virus-origin-using-artificial-intelligence-(AI).aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200515/Research-investigates-COVID-19-virus-origin-using-artificial-intelligence-(AI).aspx"
     type: article
     provider:
-      name: GCN
-      domain: gcn.com
-    quality: 26
+      name: News Medical
+      domain: news-medical.net
+    quality: 68
     images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Health-IT/healthdata_1.png"
-        width: 760
-        height: 368
+      - url: "https://www.news-medical.net/image.axd?picture=2020%2f5%2fshutterstock_319402004_322a2166c7c14b88a86715eef483ba6d-620x480.jpg"
+        width: 620
+        height: 480
+  - title: "As Facebook Moderates COVID-19 Misinformation With AI, Advertisers Navigate Brand Safety During The Crisis"
+    excerpt: "This week, the social network revealed it had placed misinformation warning labels on 50 million pieces of content related to the coronavirus in April while also removing hundreds of thousands of other posts."
+    publishedDateTime: 2020-05-14T14:52:00Z
+    webUrl: "https://www.forbes.com/sites/martyswant/2020/05/14/as-facebook-moderates-covid-19-misinformation-with-ai-advertisers-navigate-brand-safety-during-the-crisis/"
+    ampWebUrl: "https://www.forbes.com/sites/martyswant/2020/05/14/as-facebook-moderates-covid-19-misinformation-with-ai-advertisers-navigate-brand-safety-during-the-crisis/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martyswant/2020/05/14/as-facebook-moderates-covid-19-misinformation-with-ai-advertisers-navigate-brand-safety-during-the-crisis/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
-secured: "z6w9pwG1VMvSXYD05jIqq4MH3KT7VwDlZZssO2FyAk43TI6as7WHoK3ZhiwJf1GwMCqUukJNlsfR6hveLsZtiJvDma0VrhbhiZ/8/WBB8NV30xCSGSml7kJfce5sDtpJlLSLqhs/kzFeG7j2DhjDqk3TuqLZ8JqtFq3vnrS95jjcslcg4c5yiro9N1K6M0Sz37vP91wIWO30Ti7sxxg/aOO6lSadLEeY/5MwUwre9psHhqxTIBn3pn6WRkD3cuEoJ00TJBn9w+xWJ+5WxHg91HZ/EB7Ba8cbhbdyhVhMOZfHAcKNiEosx75GXmaUEKdZ;ECv9wUzAqp8K2Sq1FpO/1A=="
+secured: "7g+rrp8WiSuEkA0h5HZfa7mQwM8hsa+bVG5RHzNSgTFp342xCvkQvplC8o4P8d0IoIyBCeVE05w4akyJZ7x7m5441DcZqGMpDObHxbsr+W4E9FxzM78Q5DrwmuuB3l4LZn/p+7UC7+Q3/X9EpeRxtvZwneYO0vZvKilDkUqM930tF3JOnHjV5Zaj2PDnI80kvQm5IzYpnbb0ByojVf9dS3Dhzy0KlM3H+PRwdVATuBp/G932YqnxikLIdxMt9JlPRSFRcYZQ9fAwTncULqHApRgKW2h1qyS1zDrhIk6yAJG87Y/3pcsxSSk9yIlV8ZOwoPCmsDFHDSXaaGM0fFmrYiCeLzvCgXn+nT0N3hc18ZsogGZfSCC6rAaMTGjJCsMPW3DmN/mcndqNlXkPYzJijX2qbiltikRG7j49BFDihgAI4rvokIw+kYSRHCDRVil0c2IU2bpfSBiYxxImr7w/g/ESoF6ZDVNs4EAElb8RbtI=;hcWCF7BjasHc1TrAqcA0MA=="
 ---
 

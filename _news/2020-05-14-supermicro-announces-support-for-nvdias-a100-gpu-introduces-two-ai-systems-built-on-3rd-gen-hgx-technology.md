@@ -23,21 +23,6 @@ images:
     height: 228
     title: "Supermicro Announces Support for NVDIA’s A100 GPU, Introduces Two AI Systems Built on 3rd-Gen HGX Technology"
 
-related:
-  - title: "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server"
-    excerpt: "PRNewswire/ -- Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green"
-    publishedDateTime: 2020-05-14T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server-301059071.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/1168093/RedStone_SuperMinute_100.mp4?p=medium"
-        width: 512
-        height: 288
-
 secured: "J+A1DswgJK5x1rr/Dh/EERf/jxR0coj6cr5V3H2ALh7WP9TCZ2jw/Iw4KMPoZBxleC7SqP1/eWHsK1Ld9J84d2Wsec28iuxeD6+g9DzNanl6gbuWXjhfNpp2qCB36hy5Y+OlpAAz9gxSwXiKUxz1U+3XpIyVEpG1LkCUXaiVH5/oyJDDL22C6tHxdTKc344DAebv4/t08zYiLKL5CJqCIJhJZmtyy6MTi71g1BeyRC+MeaSMWvRU64orvzMuVE90raSTxyuA3kezfWbMW3zQlUznaeNR+NJ2QUAUXHaQ0+3+pV3k9vdZ6LFZjqOWBVU2Gd5zI0GmNcSgEeTTCw3eBW5rjZZwkLq7dQvs8vCejYtoSlAxILLRReme16Jt1Rg8xblQSUyYmjBpFEUwLq3ZPxfSC9Paf/DqO+A9/tUItFNvgqwCXEo5qV2TOKMAt2dHkF3SklYHb2F84OWs/jFAfaR1SPOUXte/C2rb9VMWrJc=;9lYLIPQVfsaBnD/PdwUMQg=="
 ---
 
