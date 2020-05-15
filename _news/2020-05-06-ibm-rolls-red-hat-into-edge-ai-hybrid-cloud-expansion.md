@@ -15,6 +15,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg"

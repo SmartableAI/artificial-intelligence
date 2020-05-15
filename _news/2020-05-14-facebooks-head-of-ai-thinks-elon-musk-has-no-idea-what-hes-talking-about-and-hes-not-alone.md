@@ -60,18 +60,14 @@ related:
         width: 808
         height: 424
   - title: "Musk has no idea what is he talking about, says Facebook head of AI"
-    excerpt: "Facebooks Head of Artificial Intelligence (AI) has slammed Tesla CEO Elon Musk over his understating of AI, saying he has no idea about the Artificial general intelligence (AGI) technology."
-    publishedDateTime: 2020-05-14T04:37:00Z
-    webUrl: "https://www.sify.com/finance/musk-has-no-idea-what-is-he-talking-about-says-facebook-head-of-ai-news-topnews-ufoklzfacgaei.html"
+    excerpt: "Reacting to a CNBC report that cited research community and CEOs as saying that Musk's confidence is misplaced as far as AI is concerned, Jerome Pesenti who is Head of AI at Facebook said Musk is distracting people from real issues."
+    publishedDateTime: 2020-05-14T10:28:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200514/3558073.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-    images:
-      - url: "https://www.sify.com/uploads/Tesla_ufoklzfachgcg.jpg"
-        width: 650
-        height: 408
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "8xcShZaLcdXawgiAY6tDOpCSO9OddyH8M47zFBDATTkvucdRPuh7Ghxnj6Y2Kfy07BKRSSNquhYlxs5Oczl0R45IfBUYbCjLDjjx+NJpgAxGCWuxBheQLrOl/g0g6s9E6k9D5IwklQcolGn7mfWykX2N+DjsmKh8RrCT6EWHExxXw35ymkfcFFH/FOz5MG7nS3dw0vwsW6FCEeWKnebA3gdKwc5Gwh1tZYLUW7N88maovuGiJikPtk/ezE7pWyomOHjdTbQgwuRSgfvpgyIw6xUOxAzwvWvj58zZyK1Jp0fUVpi7JYQo5dG4hNNgYZQ8S24wLK+TQ5zbUVmRlIhiVgQ48OGZR6qKuh3ZZwXvNdABdIkxeLZ+8EMfQD5w6rVYhYj3i7PkB56KVGelcs3K8azuJAWDDm8TEYnnMaSMhXtaETA6y8Iz6VeHLyF7APOghYNJYxJHOBi+TopFj57AgZ9+ImvFnKhOo7oqhiu1aII=;ZC5Dp6/RgmchrFNis95Sww=="
 ---

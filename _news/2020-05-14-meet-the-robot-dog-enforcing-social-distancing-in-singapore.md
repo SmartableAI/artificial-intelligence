@@ -2,24 +2,24 @@
 category: news
 title: "Meet the robot dog enforcing social distancing in Singapore"
 excerpt: "Leaves crunch underfoot as Spot marches through the park, back straight as a tabletop, stride brisk as a soldier’s."
-publishedDateTime: 2020-05-14T12:40:00Z
-webUrl: "https://www.northwestgeorgianews.com/associated_press/meet-the-robot-dog-enforcing-social-distancing-in-singapore/article_662f215d-0825-5ee7-97e3-0b06939ff95f.html"
+publishedDateTime: 2020-05-14T16:25:00Z
+webUrl: "https://www.havasunews.com/nation/meet-the-robot-dog-enforcing-social-distancing-in-singapore/article_8bf5799c-95ff-11ea-9ebd-ebcba19a00d6.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Rome News-Tribune
-  domain: northwestgeorgianews.com
+  name: Havasu News
+  domain: havasunews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
-    width: 1200
+  - url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/b/f2/bf211c9a-95ff-11ea-bc60-efc086b1372b/5ebd717768db2.image.jpg?resize=945%2C630"
+    width: 945
     height: 630
     title: "Meet the robot dog enforcing social distancing in Singapore"
 
@@ -66,6 +66,6 @@ related:
       domain: seattletimes.com
     quality: 39
 
-secured: "FV9h8MO2OvJXe0xntmWus7iIyQTV1Ej+pcwxPTiZd10z5mOJH3ESaYoc/TOTyzgCXUPi7/OkUUpmLSeeQ4kFlYKxMVw8VhX8eu2Uxt2MLASco9KMeEwY1Q9fKFcMoq4M8AzWpMfRxsvMacLbgwh2TKtPm4eREM7h1PQRBz7CnMDREN3OA9ly/AIvb2/8dOAl1HJlDP2ySrSclmTMo5bLg2edi0JO1Xxcl7/QUABn29wG89oX1dGurmLfPftbR3FvGjgMYtEP31QMZb+UtIdRtdEXcVl7McCdAxTNKXts71W3AZkM6/AxZv6WmB1SBzSQ;O2FcHvQHkzER6TWVie/+8A=="
+secured: "c/h4qy9mrJeQ2+xolNSzQaaRabswDa7wpivJ8JLe+kbeqFRb+XUHAWDl97q8iEgEaqtLYLbrfWvIDruFXO14Q9tW8/c/EB4mmMwSlW06JedCSpaDOkptsS8DX6A8Rabqwr8UPF+Nu9QAB2OAm/cunv2MaRfCakmHRXzhAcNUKBZjS9VgtmDOR1+G6zdxLc4zVDgGKDWPHSU+8cxYNJdLdNxnE52P3zS7wOw/e86LO3HNLJjGiC8B489t7BXJtR8YPfrDYONnAnGMkk2+8rZiZgMEc7L/0djkdVE0GEPHyDKYp+PLWNAoxC2u1T5tHdsf;DP2YSWEQzmAmyg8N838NIg=="
 ---
 

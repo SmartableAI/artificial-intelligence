@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Musk has no idea what is he talking about, says Facebook head of AI"
-excerpt: "Facebooks Head of Artificial Intelligence (AI) has slammed Tesla CEO Elon Musk over his understating of AI, saying he has no idea about the Artificial general intelligence (AGI) technology."
-publishedDateTime: 2020-05-14T04:37:00Z
-webUrl: "https://www.sify.com/finance/musk-has-no-idea-what-is-he-talking-about-says-facebook-head-of-ai-news-topnews-ufoklzfacgaei.html"
+excerpt: "Reacting to a CNBC report that cited research community and CEOs as saying that Musk's confidence is misplaced as far as AI is concerned, Jerome Pesenti who is Head of AI at Facebook said Musk is distracting people from real issues."
+publishedDateTime: 2020-05-14T10:28:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Science/20200514/3558073.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Facebook AI
   - AI
-
-images:
-  - url: "https://www.sify.com/uploads/Tesla_ufoklzfachgcg.jpg"
-    width: 650
-    height: 408
-    title: "Musk has no idea what is he talking about, says Facebook head of AI"
 
 related:
   - title: "Facebook's head of AI says Elon Musk 'has no idea what he is talking about'"
@@ -70,6 +64,6 @@ related:
         width: 808
         height: 424
 
-secured: "C5ktzIpLdgbbwpBGbjsmPbaKiZlwKlkdOK84YXM8V+AytEl87PMbz8cXSEW5qV1G9S3lBDd92iJ6PbXqf+E1eRzopE2o8CCKD9U14v0yyNov3Ae80zecfWFEhfipDYXQxuQhRjvw3jIdgVE3PD1elqBF1twR7lWFwS/WXZAUJ11UQsL9TNUoNr9CERVE682ePT4L04zojc78qQjbIZbvq0Zzw11NR8ImvRJUKTqc3JuuItdhKpZ79dK8N75P0K9nciCsoNST9U8VPiQTMzH5VDD4v1GI/SmGzI1NoV7W+WfS4xFmSnpe8DrnelQ8d9AyBLfOUaqhDypS1j7doanGWcav+MFG7W6MYA/aZimExYYCVLt+ZdQTGaFHHo8aUT3cKNyUgBjs3PRT17eQg8Qgr5RWmDyZZPFldBRuFcxN+yVCHen+608MRaUF83USxbx/an3fYfEuiiGpg1+DxukO6Mvt4ifK1sLLY/bi7l77kVw=;gGKyPSYdfJOU8xme5ggBMg=="
+secured: "bzpBmVdD+xk1FaMQqWhmc+cLCFCcyLro/osFdXvXCJoEK4P2W0Aea0EF0gLX1OO5RyDw+Ta6KTIZlqejI3bJ1jfU/S1OgNYZjxXfEBHdPis00cpfma47KT7mWg6flfm/KuuVJ067xPiy8lwE4ImRsfVyPCAld/c/0GoALegXhRNKoVRj+elkB5Kav3kiggwQmwz2woJU06giYUsLCGyy16NXS+5jSebLQzm2NA8G9F49wSqeWxHFGiK9Tyg9DxmCxcekQg0dAXl3MeZ7PhL7Y1yW1R8iWNGUYU1f6fUmUwBXVxVVYImSUYDSCNVHX+Fd;yygHKJNT0dBkDhvp5gKh1A=="
 ---
 

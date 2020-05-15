@@ -52,16 +52,16 @@ related:
         height: 675
   - title: "Meet the robot dog enforcing social distancing in Singapore"
     excerpt: "Leaves crunch underfoot as Spot marches through the park, back straight as a tabletop, stride brisk as a soldier’s."
-    publishedDateTime: 2020-05-14T12:40:00Z
-    webUrl: "https://www.northwestgeorgianews.com/associated_press/meet-the-robot-dog-enforcing-social-distancing-in-singapore/article_662f215d-0825-5ee7-97e3-0b06939ff95f.html"
+    publishedDateTime: 2020-05-14T16:25:00Z
+    webUrl: "https://www.havasunews.com/nation/meet-the-robot-dog-enforcing-social-distancing-in-singapore/article_8bf5799c-95ff-11ea-9ebd-ebcba19a00d6.html"
     type: article
     provider:
-      name: Rome News-Tribune
-      domain: northwestgeorgianews.com
+      name: Havasu News
+      domain: havasunews.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
-        width: 1200
+      - url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/b/f2/bf211c9a-95ff-11ea-bc60-efc086b1372b/5ebd717768db2.image.jpg?resize=945%2C630"
+        width: 945
         height: 630
 
 secured: "Fs//b9nGa6JOrAA7dRcH5B6xexJFbYr+1KivvYqfSU/+LPkc7zU3yLOj21u3TXa6a8JfASdj+j49s156gA5SKHRa3mGOzkVZFO43aObXNmsNVduJhIVMacoKwE/JMx1QJKPu1HD/BoK5XvQZxUdQHO/0hCdma4yB6GptgnUkKrG0VTGLBzkQK6hoyUemfAxXQjObXesikT407nJdfLl924Ag4LMOW4fnZs0kgDEnsTD9cCGfSMer4FFkSc2y9SLVbSymYaKVoWTF+kVirl7E9pKokxS3aWbQw/BRtYMduprDSrolePjCUS6+eLJvpyPk;WPSKe1EQllVEXALPxs/7eg=="

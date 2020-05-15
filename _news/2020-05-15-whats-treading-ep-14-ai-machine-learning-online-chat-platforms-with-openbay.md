@@ -23,6 +23,6 @@ images:
     height: 563
     title: "What’s Treading, Ep. 14: AI, Machine Learning & Online Chat Platforms with Openbay"
 
-secured: "xqm9t1nBFPy+/e7rSIrhqCN1vUCxTE01+RlN6hqAKI8Sww6bFYqCSR5lo5Hu5JO0YnfmjKl++jfUPC8fjR9eE6bTZ7Vr+5Lja4jLpRIYxnKIf1U3sFDiu3/YQ1E1d6MEg3fay8bcrk/xrraHEvASH2aPOEC/KBgO1DpZBqqy/Wee+MJwLd5WFL+Dj/tZ85II+jR7Rl7MuR+EQ9bOi1cPy4yDw1cz7rt8PxJN7HjjMKFInBQhapHD1JsXkQuwSJra2JWdvSTnQAbdWuataihXfnVK03RuiU4ellfo1J73YSBInuG73taqw33bsKItKGwb;JOLXJYkT2YdanrFgasigmQ=="
+secured: "h/3FFZkx3taaBGIS+TMXFBjvIJwt1m0+whC1QQxBD7G83JZn2s4WJ5hJ0B1lNtAZPK+r14l2hotWhkvi8TcFrH8fBAROFXnE+8qME01quiBJWC6uRo2ZjjFIt6BSIgAAwfn31z+Txs6FldpY1VmdhAd/nR8V8yuMBd1RzneAFmG4Rm+n7emJIDq2Tw6BD7Ht8MMlBRamLHl36A9LrDsv0ZjGRnJPQPsoUr2Q/CXjIqEk91R+2R1lEW7cFQcnVTiaShC6j/4IgWZZv+Cz2hGMlIvb2+j/L9ZywOGOkOVADCQmmF5k7guckJrgPlIRBuW00362xyVgZXCFUog0mvgsSXssCZwpNETsLMkj89NpSLt0QRwDxAzMSchkIgx8YSCDXCmCIvtL3/2W5SKLbzbdoOXcnIW4YK2Q5kN/WkiKJACewxy57gkRemfcKXH4M+wqFBSeoXOAr4jbw3tsc2oBfhCfn8Ljv467qaYigStIjtQ=;5bbzv7Gt1J4yNxNTHvlixw=="
 ---
 
