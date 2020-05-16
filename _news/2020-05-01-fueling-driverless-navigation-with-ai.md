@@ -26,6 +26,6 @@ images:
     height: 545
     title: "Fueling driverless navigation with AI"
 
-secured: "jDn7pcAZyh/rhwBGJXFBVhKz+Rw/UTV+7rE5Fx7PVXfxeGEMAomKgEofR76mxSy7kEJ+f5/pM46xq7FU2wwAcTs35SlEJGbQxM3bgRBwW4yZpxgIcnT5CVmfZEbBG1MNIlowIXM3gwcsBA8qRPWlbJYV5e1zFrhCuvCl9OzvVwvAQj3pPtxxCQXc9qStwhKzfq6nDdvmIM7J3y19COTWry96zQb07jg5OcWR9+hvofxETS04I25VkCN0QFksooNsvdKY8OzMT6zJudxfG+culTfxay8UJXc5bFivX93uKCuhXYbAZYM2Om95gH/J8rS0;ncRSJuoUvCWdFstb8LitsQ=="
+secured: "BF8DfJ0bL6VlnN2Uaz2/AIPSrifLe5/TuG7ITNI3ABHqe17FEN+QxzQNlLNEto/UdUFnL5skpAPiLe5LNMF4iR0b3Obwynh5JodVeTV/sBTH4Wuh90ucHp7wQOf9vn/wM7N0ATn1SOtGgcbaP3GaBtgXAs3ZOYQR2VCcbl+Z+cwqUf2pHGxeKX3kEBOwwG8KaKh7KSJcXHjJVOi680RpHxj+u0D+d8rd5QQ2YAOu6yBVN1HdB1gNbU9C5HbuKyt2HYmRP/Q5Rv75yX+AKXYMvs16vcusF7tR3AlCCE6dpc16uO7b+iPK+xc/SGb+O7Gf;o9G6lT3mbKPbH5YjrpU/BA=="
 ---
 

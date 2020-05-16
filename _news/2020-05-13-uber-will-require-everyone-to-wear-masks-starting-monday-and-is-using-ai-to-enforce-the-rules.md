@@ -44,21 +44,6 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_20/3347946/200513-coronavirus-burial-st-petersburg-se-119a_2827cbc0f17eb8e10eaf618c8886b51e.fit-560w.jpg"
         width: 560
         height: 359
-  - title: "Does facial recognition tech work on people wearing masks?"
-    excerpt: "That’s why Rank One, a facial recognition company, has developed a new periocular recognition system. This form of identification uses only the eyes and eyebrows to identify a person. The technique is fairly accurate in controlled circumstances (when the person is directly facing the camera),"
-    publishedDateTime: 2020-05-11T21:38:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-05122020.html"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-05122020.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Question-of-the-Day-for-05122020.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1685691625.jpg"
-        width: 940
-        height: 627
   - title: "Uber will verify drivers are wearing masks with facial recognition software"
     excerpt: "Uber is implementing new safety measures against coronavirus for drivers and customers including wearing a mask, regularly washing or sanitizing their hands."
     publishedDateTime: 2020-05-13T09:58:00Z

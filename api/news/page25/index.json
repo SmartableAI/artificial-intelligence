@@ -2,6 +2,43 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-04-27-lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech.md",
+      "title": "lnfibeam Avenues signs deal to acquire US company AI Fintech",
+      "excerpt": "Avenues has signed a binding agreement for acquisition of 100% Shareholding of AI Fintech, Inc, a Company formed and registered in USA Accordingly, AI Fintech, Inc will become a Wholly Owned Subsidiary of the Company.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.indiainfoline.com/article/companies-announcements-bse/lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech-120042500249_1.html",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/companies-announcements-bse/lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech-120042500249_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/companies-announcements-bse/lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech-120042500249_1.html",
+      "publishedDateTime": "2020-04-27T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": "lnfibeam Avenues signs deal to acquire US company AI Fintech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-microsoft-strikes-5-year-cloud-deal-with-coca-cola-for-azure-microsoft-365.md",
       "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
       "excerpt": "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years.",
@@ -1012,35 +1049,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-logical-clocks-launches-hopsworksai-the-worlds-first-artificial-intelligence-cloud-platform-with-a-feature-store.md",
-      "title": "Logical Clocks Launches Hopsworks.ai: The World's First Artificial Intelligence Cloud Platform with a Feature Store",
-      "excerpt": "Logical Clocks, the enterprise behind Hopsworks - the first data platform for designing and operating machine learning",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/g15882661/logical-clocks-launches-hopsworks-ai-the-worlds-first-artificial-intelligence-cloud-platform-with-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15882661",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15882661",
-      "publishedDateTime": "2020-04-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

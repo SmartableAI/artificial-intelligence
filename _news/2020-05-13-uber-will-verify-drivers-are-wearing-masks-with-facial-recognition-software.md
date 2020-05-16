@@ -56,21 +56,6 @@ related:
       - url: "https://i.insider.com/5ebc2ccafc593d14a14c0353?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Does facial recognition tech work on people wearing masks?"
-    excerpt: "That’s why Rank One, a facial recognition company, has developed a new periocular recognition system. This form of identification uses only the eyes and eyebrows to identify a person. The technique is fairly accurate in controlled circumstances (when the person is directly facing the camera),"
-    publishedDateTime: 2020-05-11T21:38:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-05122020.html"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-05122020.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Question-of-the-Day-for-05122020.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1685691625.jpg"
-        width: 940
-        height: 627
   - title: "Uber recognition technology checks if drivers are wearing face masks"
     excerpt: "As countries start lifting precautions taken against the coronavirus pandemic, ride-sharing platform Uber has announced new technology that will confirm all their drivers are wearing masks. “Our new technology will verify if the driver is wearing a mask by asking them to take a selfie."
     publishedDateTime: 2020-05-14T09:20:00Z

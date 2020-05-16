@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-13T17:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution-2020-05-13"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,32 +29,34 @@ images:
     title: "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution"
 
 related:
-  - title: "AWS Announces Major Enhancements to Amazon Macie"
-    excerpt: "AWS announced major enhancements to Amazon Macie, delivering important new features, greater availability worldwide, and substantially reduced pricing"
-    publishedDateTime: 2020-05-13T23:44:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200513005890/en/AWS-Announces-Major-Enhancements-Amazon-Macie"
+  - title: "Amazon Launches Kendra To Solve Enterprise Search With AI"
+    excerpt: "Amazon announced the general availability of Amazon Kendra which is an AI and machine learning-powered, easy to use enterprise search service."
+    publishedDateTime: 2020-05-13T08:20:00Z
+    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mms.businesswire.com/media/20200513005890/en/791605/23/AWS_logo_RGB.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068"
         width: 1200
-        height: 627
-  - title: "AWS Announces Major Enhancements to Amazon Macie"
-    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced a series of major enhancements to Amazon Macie, delivering important new features, greater availability worldwide, and substantially reduced pricing."
-    publishedDateTime: 2020-05-14T02:31:00Z
-    webUrl: "https://apnews.com/5fe76ed114cf432b9f204f3990b6ccce"
+        height: 676
+  - title: "AWS launches Amazon Kendra, an ML powered enterprise search service"
+    excerpt: "AWS announced the general availability of Amazon Kendra, a highly accurate and easy to use enterprise search service powered by machine learning."
+    publishedDateTime: 2020-05-13T02:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/05/13/amazon-kendra/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093159/aws1.jpg"
+        width: 1280
+        height: 763
 
 secured: "yzST+ACRoAC4k+XKVRYfnetb/afl6R2UtmQSyz+WvGIkSF2gA+DUfwtPKjCObxjRiRk9144iQtaWP9fCvubwxvAzKbRzPdszXIYLaT88peieV6dvOIESPFv6ZHRgtSqLF6GWBZvRqHOXz+QeynACcytpdC/92dIfPEWzGb8dEDq15OsaYJOXaiC2Ir9b1lqNCFvHUwCRlhaeIihOFFCT3DXQrhh6NI/K5fMFC7wx9MXlSqSfRwyb180G7Rg61JjFD/LNBMmsojHr3+CqvJN3F4/ghiv/ny7U2eOa6ZqV7OZi6LTA0jAdXXrwBhcDQYGv;vrdoPcO12nPfAe5HlcgOWQ=="
 ---
