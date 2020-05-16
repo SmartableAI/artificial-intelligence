@@ -22,6 +22,6 @@ images:
     height: 800
     title: "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion"
 
-secured: "Kxiy2tgKnsHthsNfEpmx49Kovfqm10iXDJ2Z+aSi3KgGCGA35Rpa0TKPmXRQWMi8XhPIQYbDU7Qi2aiSOYqglA8Dz6ve29/g1URQZFhyM/+OyXHa4oOjoB5JFsMEv0rhsSh+jCmff0mBIntvc1Lthci0AyEAKIRh4XXyCxPZsgomNE7MfWebftfTyiRztbtGYm8Zv0CORrTy93Jvaw/Z26d/iA3rS3gDJBgLphAWp4gxH3SY90JqbRBm1de9DwYXGo+/+cDjoSfcTccBekZfF6Lg1iOyfz2tLCW6QNCm+1CFNZhuw94LzWGtY+IYDO8V;0C1SkvyliN2YyHPScxCj2A=="
+secured: "OIbK+w75sIBb3Nj5BCBOBJvtLWCP50STCqpTgeiOEvI4VLLRO2JVE9jBPOPPO19Ifr9jMCr77UuIjLS+oVP5EJmd48xoX0YRooLsxHkb9jTBLi163/qcNSBL1J4YcdMA3cZboWCTceGxMgbQoJOzurDRL7KhKx4oF21WxD2o8art4IDxgeUnlU38HLNcKUU9ptfBgWvq6eN/d8cRhmX4E0vo6dVVYTijN0PQbetx60BmCj5/glsibwkEPN1mL+yy0Ig6jdTxx00GPYuJ4mFhV2qpvYxQtmvODiB0UTmtHJDSJouoyJ92yrLnA35kIaq4;GmNdktjKuX1PEerzu+eIyQ=="
 ---
 
