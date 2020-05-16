@@ -2,6 +2,51 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-28-natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026.md",
+      "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
+      "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026-2020-04-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-delivery-robots-arent-readywhen-they-could-be-needed-most.md",
       "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
       "excerpt": "Sheltering in place has driven up demand for deliveries, but machines still have trouble confronting the unpredictability of the real world.",
@@ -1207,51 +1252,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services.md",
-      "title": "Coca-Cola partners with Microsoft to use its cloud and AI services",
-      "excerpt": "Cola Company and Microsoft have announced a partnership that will see the beverage company leverage Microsoft's AI and cloud-based services, including Dynamics 365 and Microsoft 365.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services",
-      "ampWebUrl": "https://www.neowin.net/amp/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services/",
-      "publishedDateTime": "2020-04-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1588004153_cocacola_microsoft_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Coca-Cola partners with Microsoft to use its cloud and AI services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

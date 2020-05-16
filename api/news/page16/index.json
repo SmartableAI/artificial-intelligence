@@ -2,6 +2,52 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-04-artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026.md",
+      "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
+      "excerpt": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis by historic, current, and forecast market information. Upcoming Artificial Intelligence in Healthcare Global Market Trends and the impact of COVID-19 on market also discussed in this report.",
+      "heat": 140,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026-2020-05-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-ai-picks-up-signs-of-glaucoma-18-months-ahead-of-current-methods.md",
       "title": "AI picks up signs of glaucoma 18 months ahead of current methods",
       "excerpt": "From kidney stones, to heart trouble, to cancer, artificial intelligence stands to revolutionize the field of medical diagnostics by spotting signs of disease earlier than us humans are capable of. Scientists in the UK have been putting these capabilities to the test for detecting glaucoma,",
@@ -1018,43 +1064,6 @@
         "IBM AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-how-amazon-web-services-stacked-up-against-microsofts-azure.md",
-      "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
-      "excerpt": "Microsoft Corporation (NASDAQ: MSFT) reported strong fiscal third-quarter results and Amazon.com, Inc. (NASDAQ: AMZN) beat on the top-line in its first quarter, but the",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/15934564/how-amazon-web-services-stacked-up-against-microsofts-azure",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15934564",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15934564",
-      "publishedDateTime": "2020-05-02T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/aws_2.png",
-          "width": 4000,
-          "height": 2400,
-          "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

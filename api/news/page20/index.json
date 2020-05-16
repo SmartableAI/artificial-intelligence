@@ -2,6 +2,50 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-30-ai-in-africa-teaching-a-bot-to-read-my-mums-texts.md",
+      "title": "AI in Africa: Teaching a bot to read my mum's texts",
+      "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-africa-52411797",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-africa-52411797",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797",
+      "publishedDateTime": "2020-04-30T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FD69/production/_112037846_img_20180827_082945_171.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "AI in Africa: Teaching a bot to read my mum's texts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-tesla-profits-says-full-self-driving-will-be-subscription-by-year-end.md",
       "title": "Tesla Profits, Says Full Self-Driving Will Be Subscription by Year-End",
       "excerpt": "CEO Elon Musk said the self-driving feature will roll out by the end of 2020, and he also complained that COVID-19 shelter-in-place rules infringe on rights.",
@@ -995,51 +1039,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-six-areas-where-ai-is-improving-customer-experiences.md",
-      "title": "Six Areas Where AI Is Improving Customer Experiences",
-      "excerpt": "This year's hard reset is amplifying how vital customer relationships are and how much potential AI has to find new ways to improve them.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/amp/",
-      "publishedDateTime": "2020-04-29T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea9ff80228117000681d192%2F0x0.jpg",
-          "width": 1200,
-          "height": 687,
-          "title": "Six Areas Where AI Is Improving Customer Experiences",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

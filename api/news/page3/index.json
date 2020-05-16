@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-14-uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks.md",
+      "title": "Uber introduces AI to make sure its drivers wear face masks",
+      "excerpt": "Uber is making face masks mandatory in the US, Canada, India, and most of Europe and Latin America -- and will use AI to ensure drivers follow the rules",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
+      "publishedDateTime": "2020-05-14T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-35-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Uber introduces AI to make sure its drivers wear face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip.md",
       "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
       "excerpt": "Sony’s camera sensors are already inside many of the high-end smartphones, but its new AI image sensor promises to make things even smarter – and high-end features cheaper, too. The",
@@ -1037,44 +1082,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020.md",
-      "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
-      "excerpt": "Waymo, the autonomous driving unit of Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL), announced Tuesday that it has raised a further $750 million in external investment.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/news/20/05/16026539/another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16026539",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16026539",
-      "publishedDateTime": "2020-05-13T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/waymo_minivan_7_1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

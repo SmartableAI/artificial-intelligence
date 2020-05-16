@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-12-artificial-intelligence-cracks-quantum-chemistry-conundrum.md",
+      "title": "Artificial Intelligence Cracks Quantum Chemistry Conundrum",
+      "excerpt": "Machine learning techniques accurately calculate the energy required to make — or break — simple molecules. A new machine learning tool can calculate the energy required to make — or break — a molecule with higher accuracy than conventional methods.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/",
+      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/",
+      "publishedDateTime": "2020-05-12T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Tetrahedral-Electronic-Distribution-Water-Molecule-777x435.jpg",
+          "width": 777,
+          "height": 435,
+          "title": "Artificial Intelligence Cracks Quantum Chemistry Conundrum",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-simaai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution.md",
       "title": "SiMa.ai announces $30M Series A to build out lower-power edge chip solution",
       "excerpt": "Krishna Rangasayeem, founder and CEO, at SiMa.ai, has 30 years of experience in the semiconductor industry. He decided to put that experience to work in a startup and launched SiMa.ai last year with the goal of building an ultra low-power software and chip solution for machine learning at the edge.",
@@ -619,7 +656,7 @@
       "path": "_news/2020-05-11-arlington-asset-investment-corp-ai-q1-2020-earnings-call-transcript.md",
       "title": "Arlington Asset Investment Corp (AI) Q1 2020 Earnings Call Transcript",
       "excerpt": "Arlington Asset Investment Corp Q1 2020 Earnings Call May 11, 2020, 10:00 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator",
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
@@ -1257,51 +1294,6 @@
           "width": 1200,
           "height": 675,
           "title": "New program offers college students access to free data science and machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-deep-learning-system-market-insights-by-size-status-and-forecast-2025-nvidia-intel-xilinx.md",
-      "title": "Deep Learning System Market Insights by Size, Status and Forecast 2025 | NVIDIA, Intel, Xilinx",
-      "excerpt": "Advance Market Analyticsreleased the research report of Global Deep Learning System Market, offers a detailed overview of the factors influencing the global business scope. Global Deep Learning System Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-insights-by-size-status-and-forecast-2025-nvidia-intel-xilinx-2020-05-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning System Market Insights by Size, Status and Forecast 2025 | NVIDIA, Intel, Xilinx",
           "attribution": null
         }
       ],

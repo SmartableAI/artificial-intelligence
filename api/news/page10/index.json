@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-07-computer-vision-better-service-lower-costs.md",
+      "title": "Computer Vision = Better Service + Lower Costs",
+      "excerpt": "So where humans weren’t the answer, they turned to a computer vision-based POS system developed by Flytech and its subsidiary Berry AI.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/resources/202638/computer-vision-better-service-lower-costs",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": "Computer Vision = Better Service + Lower Costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
       "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
       "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
@@ -498,12 +543,12 @@
       "path": "_news/2020-05-07-building-transparency-and-customer-confidence-in-ai.md",
       "title": "Building transparency and customer confidence in AI",
       "excerpt": "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent.",
-      "heat": 99,
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai",
-      "ampWebUrl": "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
+      "webUrl": "https://www.techradar.com/au/news/building-transparency-and-customer-confidence-in-ai",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/building-transparency-and-customer-confidence-in-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/building-transparency-and-customer-confidence-in-ai",
       "publishedDateTime": "2020-05-07T01:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -966,44 +1011,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool.md",
-      "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
-      "excerpt": "A team of materials scientists at Lawrence Berkeley National Laboratory (Berkeley Lab) – scientists who normally spend their time researching things like high-performance materials for thermoelectrics",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/",
-      "ampWebUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
-      "publishedDateTime": "2020-05-06T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

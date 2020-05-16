@@ -2,6 +2,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-13-another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020.md",
+      "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
+      "excerpt": "Waymo, the autonomous driving unit of Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL), announced Tuesday that it has raised a further $750 million in external investment.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/news/20/05/16026539/another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16026539",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16026539",
+      "publishedDateTime": "2020-05-13T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/waymo_minivan_7_1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai.md",
       "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
       "excerpt": "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,",
@@ -1042,52 +1080,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-hailo-partners-with-foxconn-to-build-edge-device-for-ai-inference.md",
-      "title": "Hailo partners with Foxconn to build edge device for AI inference",
-      "excerpt": "AI chip startup Hailo plans to partner with Foxconn to launch an AI edge computing device -- BOXiedge -- designed for applications like smart cities.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/12/hailo-partners-with-foxconn-to-build-edge-device-for-ai-inference/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/0f1109a5-c70d-4a6e-9220-9ad6189e69db.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 610,
-          "title": "Hailo partners with Foxconn to build edge device for AI inference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

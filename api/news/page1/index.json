@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-16-artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook.md",
+      "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
+      "excerpt": "The definitive source for facts, data and analysis of the Global Artificial Intelligence Ai",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook-2020-05-16?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-16T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-16-irobots-roomba-i7-robot-vacuum-has-been-perfect-pandemic-company.md",
       "title": "iRobot’s Roomba i7+ robot vacuum has been perfect pandemic company",
       "excerpt": "You’d think that, after all this time at home waiting out the COVID-19 pandemic, I’d have got around to vacuuming more. Instead I’ve been offloading most of the responsibility to",
@@ -1030,52 +1075,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020.md",
-      "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
-      "excerpt": "I watched NVIDIA’s GTC 2020 virtual keynote today, and I found the company scored high on both. Architecture is everything when you are a platform provider and NVIDIA rolled out its new architecture,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/",
-      "publishedDateTime": "2020-05-14T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebda3d7e0de010006d35c1b%2F0x0.jpg%3FcropX1%3D483%26cropX2%3D3296%26cropY1%3D0%26cropY2%3D1581",
-          "width": 1200,
-          "height": 675,
-          "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

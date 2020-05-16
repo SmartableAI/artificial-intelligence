@@ -2,6 +2,43 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-05-02-how-amazon-web-services-stacked-up-against-microsofts-azure.md",
+      "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
+      "excerpt": "Microsoft Corporation (NASDAQ: MSFT) reported strong fiscal third-quarter results and Amazon.com, Inc. (NASDAQ: AMZN) beat on the top-line in its first quarter, but the",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/15934564/how-amazon-web-services-stacked-up-against-microsofts-azure",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15934564",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15934564",
+      "publishedDateTime": "2020-05-02T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/aws_2.png",
+          "width": 4000,
+          "height": 2400,
+          "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-02-16-things-to-help-battle-your-social-distancing-boredom-all-on-sale.md",
       "title": "16 things to help battle your social distancing boredom, all on sale",
       "excerpt": "These top-selling deals are massively discounted — up to 98% off — for no good reason other than to make your social distancing life a little better. From app subscriptions to online courses to smartphone accessories,",
@@ -1004,50 +1041,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic.md",
-      "title": "Drug discovery might be the best use of AI to tackle the pandemic",
-      "excerpt": "BenevolentAI's discovery of a potential coronavirus treatment show's that drug discovery is one application of AI that's living up to the hype",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/",
-      "publishedDateTime": "2020-05-01T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-21-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Drug discovery might be the best use of AI to tackle the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -3,13 +3,10 @@ category: news
 title: "Building transparency and customer confidence in AI"
 excerpt: "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent."
 publishedDateTime: 2020-05-07T08:51:00Z
-webUrl: "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai"
-ampWebUrl: "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai"
+webUrl: "https://www.techradar.com/au/news/building-transparency-and-customer-confidence-in-ai"
+ampWebUrl: "https://www.techradar.com/au/amp/news/building-transparency-and-customer-confidence-in-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/building-transparency-and-customer-confidence-in-ai"
 type: article
-quality: 89
-heat: 99
-published: true
 
 provider:
   name: TechRadar
@@ -29,17 +26,6 @@ images:
     height: 545
     title: "Building transparency and customer confidence in AI"
 
-related:
-  - title: "Tradier Teams With Q.ai, A Forbes Company, To Bring AI And Big Data Analytics To Customers And Retail Investors"
-    excerpt: "The collaboration aligns with Q.ai’s mission to democratize access to AI and other quantitative investing methodologies by giving traders data-driven insights and seamless execution to help them gain an edge on the market."
-    publishedDateTime: 2020-05-07T14:08:00Z
-    webUrl: "https://www.forbes.com/sites/forbespr/2020/05/07/tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 27
-
-secured: "dch/nccjbeLqQbahAij5hMe2ZlenwVLLdOWvKnYMhV67UkporY1PjdKzeyVQ7UzmAKlosb4O3UFbRM4/lgCYMUwWYBlbdymUxtiHxMv0gbWzI0q83HSXeSnxEfmzi2aSJGOwktYR4+f1bMnBuXCcBQYbohgIfEf2w77IdqhEmKTep9uHYrvFI6Xps3q0xaMMjTnmg1SFjRzgVxi8JKRndX9jUp0QvKJgD1sjVVDUM8sVlBU++It6plbdLvLZM5r5+ppMIRtbXRVlA/kVT5htiomn4klpClT2x0sMxkEfIVArJ6r9LGAF+xYIPrcPImi5xVd2eSGuTAmbcW8fUSSyXBrDWw62D7hZxAVsQg7rpJyAEFZ/WV1wVGXyT5qdR8fYQQzTlftgKtKRTpMQgVPzYJ1OT5DsayrPjsDJHgsmLQNsHsFdBDEjtDYTP8aJNYH1kQKtBn+Xs/3j+UH21tSTIvKMgfJE4comz8BgVVFIJBk=;PnFveRcuvXxr8YuSONU+QA=="
+secured: "S0gG7/HuxURgbgetdJWAq1eb/jtDBHej220ix0Tf9XY0qmCyJ5HSXPGTqHo2sQyDGMDdTBo7aW+89ReYPXJzxIco2ldZXwpcEy6MRKzp1tinITWKDY5ArA5/M8WHai8j7L0icZU/2mjtgx9TvJ+6jPNKF0BiI17fHuFkKKXLIUjLeEHL8MsAbLPi5MngvqXZ85xbYe71mm/QtNs2d33S3bspXbYYNReiQ1aDVM+VZP+gYp2XX0YhftMTCRdM+srSyz+DGgfdzMRsAufwrhTpBZzMFUhFVzH/4EPJOznxbGInmqy2ld9Du2uA50HDXhTJ;eWxVfvw28DusXcD5+HCjDQ=="
 ---
 
