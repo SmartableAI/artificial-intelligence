@@ -25,6 +25,6 @@ images:
     height: 558
     title: "Read Oprah Winfrey's commencement speech to the class of 2020"
 
-secured: "L2/VLVnmhdg7/wiLtu0iSbqzCCyHl/tvSF0x0d3YBSxrzoV3tmcVm0J5/iB2jZlpdPIA7aeF7dESAG5irKBjlCh7KYvS8t0ZXzkFwOtu8trG0CkXsQx/mHZRbgwyHuT+/860aeuiiqHzEsrd7HMqhN1nI8mU1newJ+Qf1qRIltbtDgCj3x0Ke+GDz6S4QFoEvs2nV0YJzziECoY3IeO8/YbRKPpQOgmzCmAxX+zrdr8g/GhswJlb37GEim7LE8fZzyRBG9xdWsRXuskz10SoMzZYGVjIl9tH/mMhBYqkOF7eMes1kUifoBfFTfTW1U2U;YMk/xQrwIn/dPhSm/P39Ag=="
+secured: "+WB2yCMCnP9JJ17hadZ4xH9/3Wg2lEUJmXW0u+20makrkxXAVTfGmsbUlByBOn9rxmPP7omVv2C4Cm9kV4Bq62+mZFgXKr0gCSR0s9s5cKNtmPF6WqYo+R0R151RbwaJeGOd06hicQn7ehbdrhzyHMZzD5tbA1n4yAZLJtzIKuyk8ITs/IQE6SUqqiPI86NnYqmpqin8gNvbRL1WoddYtoHCTJo3SsytfHDkaB/oqZ6o0cwgc2lD25SsV/mrvNsLEykR3khBiBlKetHXxxJJozI/XrLUdXJh7EgTFofdlXR0hTEZmETCpGz/I/yw8BM6pdUwlSMMmBqXiEGiUCrUKb+m44NnuteqBmYob0rPBFI0z7b3/aQ6DFdrro31k/r6IkV8YeX5FtuJV+vx6XkTQ1sNWDTNiftBGuiNVPxtQPCqSGYStgR+YdOI607ccthtxhqeU1Okd0MNyVEUDhEgGrHaekKEcgk5BJj893xZ2QA=;g8IRVBwAXhqJBy2t9FXpAw=="
 ---
 

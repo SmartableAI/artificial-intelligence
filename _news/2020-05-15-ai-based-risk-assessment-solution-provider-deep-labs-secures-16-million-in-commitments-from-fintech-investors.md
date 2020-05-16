@@ -25,6 +25,6 @@ images:
     height: 225
     title: "AI-based Risk Assessment Solution Provider Deep Labs Secures $16 Million in Commitments from Fintech Investors"
 
-secured: "w5g3H5msRxwJj/rDziTzyn2CL0xKdNJbrZQAHO+W8Yy7H1loz4EhmOd7XwRG5o5gG/qxMpUtQ0L5i3Pn9tOlIj3TsfcWFuMOcg0Sq50DVZlrZ5LGxek3PLVtgYQuwVqFD1z5hCgNw1flnCqvL8ttKEB/L6sgG66R1Oh+4DZBY4MsS6/wq9K505Y+nVj9qYY5kqoajiBsyjNYYIIUPSuRQq2SI/9ZOgz32sBcs8ZUlaCB5qSeD9VSm+2WT3/UynTA/DwbRVMgs7XnUHJPtMHGiYdJ0bj2iTEcvOTrg7iMw7ltAiJKpVwspVbTuoNsFdGw;npd4JfzFcPO/G08ykPNWoA=="
+secured: "E+CfXYH9tjdMq8w/bZZdKrjlzikt/XANfWCU12vOCaCFeNErDan6gzmoyvkKzLn2Dm5uSemHZlZw4YgiF7SrZtW/JHooMBjXAcwOHSfWitiLjPKB1bh1pSVDFjNfI8avNrrGLFEg2GqrdQ68Q9zZce7/54boTwWU6HzVe4TKJ+UjtiN604mE+A5r/JBgqwZ/X6WrSwssphtgWNikSqSnMzDQP6FzOApU3eeaHEKmSVel1kR+ZPHkgcQbMrrlhxb8dZWnaV+xl/j8SbFL4bkz1r5MrH585dVfY2J0LTYS7vmPJKMnFxLjpDv1SoJohsG9E1ONFN6hNsmaFHRHPbotaLGGfh1KqwRrgR+MhJm/jctNytWRem0ABsIUiuoznpP57DacdyreeCR1MqvKHZRlyplxTTf7zYcIW6tWo76+yrgZ7+7sNK06hgMU7reo5tXqesSSn/egGV0P+FO+Tfolyk81sp4Ys9MWxsRHkequfK0=;a6j3KNhOF3fGxix2aN2d8A=="
 ---
 

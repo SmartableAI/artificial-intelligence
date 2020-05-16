@@ -29,6 +29,6 @@ images:
     height: 800
     title: "How to implement augmented analytics--data science experience not required for users"
 
-secured: "CVqzD5tXLb/t6TdW8Ic3+Cu3IgWuaOurLYdze4DQ+1PVbL+B/DAzrY+ntQm/dPbs6mORRIfp2hWbRXkTzk9kv/QpJc9NjZHjcXeACr9FH959bja5RtrBorcDgN+AKzzIkyt4BZ2v2mI/9nguSygvIi30YGxDF++y82EJsw+wQueSXkfPaITjDpaCkE8WIhWUzDO0bIlSMaRD1Gl7I92+55s4b+Ok03EIMS0t7IOfEpnVZZUyOr5Qtgwt69fcTfD7fVIyP813zxTb6NgT4Gr9f1bIUriM8gpDrG+MO44yFTOXFGMRuVgnaLO/Blvf9AP2;REOSYGk8bjfDjXE54+7jBg=="
+secured: "sF9d9j847ZJCCGWET2dqWIi7f/Tw93p1k4Yqc8dXkPSEHH/tC0aydB2obWFOXxZcX6frEvyuEsJMBSZsyUGU7LyH1RO6Q3YKb5rM7728VSvdgNUFBMKbok+P9tVEKey3/4QEipKPzZm2O97SNr2Ym/xNs/g9lWY7bjhPgdD3be/HDtgiHzguYSika76YShykafPaSDFxCOYUSWFtizXQHC8FjXxk8XYoOsWNY6NKqRb69+uvg2YxwBHFigIJDtOMWfE1GIFmS3z/DOybmmtlR2lZOcPIB4f35MtiroAQeNxqegygt4PEBEANMjj6PboEH/xs8Ygb20D6RiO+5LLe32skNpp8WUs6idPiysWF25CW+d690GGM0JCFtj/rQc6rntvXpmRZ8zxebaU8DEiIC4plMbWbL+zYLQHADi8T2PtYZhvwZPAj/FyfRqu9DFpvnyiCbWwC5irkrubdt1yF5efbsGGiEIYQUGWz4SqA7v4=;WXT8zioJ7twmssbqVyu80w=="
 ---
 
