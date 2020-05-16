@@ -1,24 +1,21 @@
 ---
 category: news
 title: "Artificial Intelligence Cracks Quantum Chemistry Conundrum"
-excerpt: "Machine learning techniques accurately calculate the energy required to make — or break — simple molecules. A new machine learning tool can calculate the energy required to make — or break — a molecule with higher accuracy than conventional methods."
-publishedDateTime: 2020-05-12T13:29:00Z
-webUrl: "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/"
-ampWebUrl: "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/"
-cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/"
+excerpt: "The tetrahedral electronic distribution of a water molecule. The oxygen atom nucleus is at the center of the tetrahedron, and the hydrogen nuclei are in the center of the pink spheres. Credit: Simons"
+publishedDateTime: 2020-05-12T13:58:00Z
+webUrl: "https://infosurhoy.com/science/artificial-intelligence-cracks-quantum-chemistry-conundrum/"
 type: article
-quality: 61
-heat: 81
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: SciTech Daily
-  domain: scitechdaily.com
+  name: InfoSur Hoy
+  domain: infosurhoy.com
 
 topics:
-  - AI
-  - IBM AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://scitechdaily.com/images/Tetrahedral-Electronic-Distribution-Water-Molecule-777x435.jpg"
@@ -52,6 +49,6 @@ related:
         width: 485
         height: 271
 
-secured: "yZquFYER9aXV0giBq0znz4hn+jWBJBq1vpb32UbV54hkIcckrS7DExemXVKIvSxouiR4eyAfNnCkS+ugx88V2upR3iKSuLrufToAI8DrDFm7rjOCuk/d1+U70H2KGXqax5JGjPUJpJD88oZviMpha3MZO8ydt7bmbuXp7elCAaUzKKgaOtTRrOQrXJkKs2MrwkRF/EnpQ2e82jlnxxve6DZkgbtb6S3H0sb0Qj7I6pJPM4TYx5Q5Ydg/4nWj5B1EZ1ElWeSurdhcaLttG20Se5JSZxfaZAjWMbuHDj6l6KEdnoJ9OXwsnqMVJ1a6Z1mJnvc9GZRsAhu/SAQIOhTn+KGP3Xv5AKf6ZDKYh/hHAhzI7m5atXTRmqXdHvzwzC8h/VOWbTvJqSUQROiPfHJXnv62JFoLC5HlaRyy2RB10G8wz5kb03BUE2+mv/i2Ub6IkhzDIasy5Vrx1A8CMqVdGhUQIrVq+fGuinZ5L2p5i9A=;opMHW7kL9NRE+rA94V/7PA=="
+secured: "+fH8F67HTt0+fMsD5+wQgJNzaM4nm2jRLvtaFVjOOeDdmrgk43HeefnY0dHMf72VIZk3nrcccnDSpEHyIdLczmf0YaTSY+BRX7BqxDirjhaFANZ2eY2sN1p0dYxWHNS56ayE2aYlIwfmvt6580YWRN3j5/o8jAParJ2+Adt+vk6p5JqcvAy7xF+oD+TurqGgmkd71DNZ17XsfeELE+n/6BZ1LGsrndRQE4Qy9aI6CftpFMHgZTSuTVC6Dq0leN+SzTqQ7yv3VRVyamphTMRVUQfkFyuojw9uQqygWRol/0U3gw2PLRUDlaIj447Spo0U;/RbeMxWeRs+cnPd6msRl0g=="
 ---
 

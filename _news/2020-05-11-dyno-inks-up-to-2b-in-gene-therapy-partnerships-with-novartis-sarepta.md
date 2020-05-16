@@ -24,21 +24,6 @@ images:
     title: "Dyno Inks Up to $2B+ in Gene Therapy Partnerships with Novartis, Sarepta"
 
 related:
-  - title: "Novartis, Sarepta partner with new George Church gene therapy startup"
-    excerpt: "Dyno Therapeutics launched Monday with plans to use artificial intelligence to expand the use of gene therapy. The company was co-founded by George Church, the noted Harvard University geneticist, and others."
-    publishedDateTime: 2020-05-11T11:05:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.html"
-    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 59
-    images:
-      - url: "https://media.bizj.us/view/img/11660263/dyno-ceo-eric-kelsic*600xx2201-1467-0-367.jpg"
-        width: 600
-        height: 399
   - title: "Dyno spins out of Harvard's laboratories with an aim to make gene therapy better"
     excerpt: "The startup announced collaborations with Novartis and Sarepta, both leading gene therapy makers, that could be worth $2 billion in total."
     publishedDateTime: 2020-05-11T16:30:00Z
@@ -52,32 +37,6 @@ related:
       - url: "https://www.biopharmadive.com/user_media/cache/60/11/6011147973e6d6690c235b55cfd22dac.jpg"
         width: 770
         height: 364
-  - title: "Dyno Therapeutics Emerges from Stealth to Transform Gene Therapy Using Artificial Intelligence"
-    excerpt: "Dyno Therapeutics, Inc., a biotechnology company applying artificial intelligence (AI) to gene therapy, today announced the company’s launch from stealth mode with its proprietary platform, CapsidMap™."
-    publishedDateTime: 2020-05-11T11:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200511005265/en/Dyno-Therapeutics-Emerges-Stealth-Transform-Gene-Therapy"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 42
-    images:
-      - url: "https://mms.businesswire.com/media/20200511005265/en/790645/23/Dyno-Logo-Final-050820.jpg"
-        width: 1200
-        height: 627
-  - title: "Dyno Therapeutics Announces Ocular Collaboration with Novartis to Develop Improved Gene Therapies with AAV Vectors based on AI Technology"
-    excerpt: "Dyno Therapeutics Announces Ocular Collaboration with Novartis to Develop Improved Gene Therapies with AAV Vectors based on AI Technology"
-    publishedDateTime: 2020-05-11T12:56:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200511005266/en/Dyno-Therapeutics-Announces-Ocular-Collaboration-Novartis-Develop"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
-    images:
-      - url: "https://mms.businesswire.com/media/20200511005266/en/790645/23/Dyno-Logo-Final-050820.jpg"
-        width: 1200
-        height: 627
 
 secured: "nWyEBN0aA8Zri+zC/WlaYEjj3tPO7OrOhCtVHGCR9p8CxNl3mulXIXE2yNXVXA99fBzfPn3T4tNzwJDnI0slgSXheieUUdMxrIOS49hMNRTZZA5mpEFYkkR+LQTT+Jgc4xdhqj5Hjc9q2F778Wu9Y3hYk7RtarR65vohCWwZhru84UF1ndm0tChESWCuvFqmQHk8NKoHKHRRRX8OuvNabM5rGz2POZ6SUPIhY1HFuJFy0M00W/RzLE2AnfzJJvi+MLY9iuVpJuGRfpEFd0t53Z2wXT7PDn3vaf6M2Zu92e3LApyDf+KEbi6M3MQ4RN2k;BHyIA91lqpWwqqL6UaXX+g=="
 ---

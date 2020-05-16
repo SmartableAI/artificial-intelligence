@@ -23,17 +23,6 @@ images:
     height: 635
     title: "Novartis, Sarepta join Dyno’s enterprise to boldly go to new gene therapy frontier"
 
-related:
-  - title: "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases"
-    excerpt: "Agreement leverages Sarepta’s leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno’s CapsidMap artificial"
-    publishedDateTime: 2020-05-11T11:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases-1029186702"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
-
 secured: "lT6b+Tasg2Xz3T9xF4knkQscfgB6hRRfiX0/61MmJmUDEbiYKP+ZIRUDa6/hut6CABezYYyeWfUlt2SdfkTyiev1W88mrCc3Su3WjZHFBaLRBya+DS6Rj3RZz5TU0oi7K/hX1/a70RyE64ayFFKRtdjZmXyVPFTbj6Zg6CujUNaC7HRb4ioGlsOrlNw8f8V27AIAgcequWqfJedXi8OQY+enPxd5lXC5efE5qFrCqFKWrbLne0iH/X+07zfQcvI/kq61rfjysJwQE/mnaiMznEpaWHpxGAB+Uu5RTMEcK9WmZm18TquggTQ2BiO3Nnku7PjB5caABvcf0DsxpmUncUhRbf+D/LAldNzB2FmFVgeLQJBlvIwNLKWxP2E87T2dIwVGRiatCoTg5GzSgcM9bAe+z71DDZxy8xlpR/SdXkOi37Obxf3epdsmN2yve9D/xF9lMxNu4KCOarIQGIPgCGf2G9iCL6Nmmh0s4QLJXho=;lujTPUBpeWGJt/QvQLlhlw=="
 ---
 

@@ -39,21 +39,6 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/digital-brain.jpg"
         width: 1280
         height: 800
-  - title: "Intel, UPenn partner with 29 health organizations to train AI to spot brain tumors"
-    excerpt: "Health and research organizations from around the globe will collaborate on building a robust AI model to identify brain tumors using the privacy-preserving method of federated learning."
-    publishedDateTime: 2020-05-11T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/intel-upenn-partner-with-29-health-organizations-to-train-ai-to-spot-brain-tumors/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-upenn-partner-with-29-health-organizations-to-train-ai-to-spot-brain-tumors/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-upenn-partner-with-29-health-organizations-to-train-ai-to-spot-brain-tumors/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/07/3ca19d2a-04ad-4c32-b096-900cd093171b/thumbnail/1200x675/19cf25c0ce3f9318ef3b6c6f9d5d75bd/steve-mcmillan-280x400.jpg"
-        width: 1200
-        height: 675
   - title: "Intel partners with Penn Medicine to develop brain tumor classifier with federated learning"
     excerpt: "Intel and Penn Medicine will collaborate to develop a brain tumor-detecting AI using a technique called federated learning."
     publishedDateTime: 2020-05-11T13:05:00Z
@@ -80,19 +65,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 67
-  - title: "Two Ground-breaking PhD Offers In Physics (Machine Learning At The LHC)"
-    excerpt: "Machine Learning for HEP In addition to all of that, if you are interested in machine learning applied to physics, there I am. I have been a pioneer in these techniques for data analysis in CDF and CMS, and I am still actively working on a few lines of research which might inspire an outstanding Ph.D. thesis. Let me mention two things I have ..."
-    publishedDateTime: 2020-05-11T12:27:00Z
-    webUrl: "https://www.science20.com/tommaso_dorigo/two_groundbreaking_phd_offers_in_physics_machine_learning_at_the_lhc-247832"
-    type: article
-    provider:
-      name: Science 2.0
-      domain: science20.com
-    quality: 39
-    images:
-      - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"
-        width: 300
-        height: 261
   - title: "Microsoft and Intel are using deep learning to improve malware threat detection"
     excerpt: "Microsoft in collaboration with Intel has announced a new tool that uses deep learning to find and classify malware with high accuracy."
     publishedDateTime: 2020-05-11T17:29:00Z
@@ -106,19 +78,6 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2020/03/microsoft.jpg"
         width: 1024
         height: 563
-  - title: "US startup is testing drones in India to enforce social distancing"
-    excerpt: "Police are using surveillance drones to enforce social distancing rules worldwide during the covid-19 pandemic, raising concerns about privacy violations"
-    publishedDateTime: 2020-05-11T11:26:00Z
-    webUrl: "https://www.newscientist.com/article/2243058-us-startup-is-testing-drones-in-india-to-enforce-social-distancing/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 22
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2020/05/11120221/pa-53544215_web.jpg"
-        width: 1200
-        height: 800
 
 secured: "+3UYJbXunlghQkMnj+C7u/p4hWP9kqTTjgExdFvUFqNQuATD8GIkycLVrHenE3KSYT16DUt8Q2LujGNQjGdgMIhbTPv7M5yGeP0Str1SoyCHVJ5zeP2EfyLQ4LGaT+Bdrd973x7o3fB1o0dCgNACJq14Sxjl2PSdJxxl/hxt56O4tuNXJYKjr8UTFIe+7YB6bD5XIcV4EskMARVFmGor/cUs4U/WzdqHc+92bjKLKjVjE+O4FLJfIBckvB8O6EpYTN1wziHIaXKjsd+YuyTopjEbdT0fDjnwH9t955KN/1aW5jn03m1ABUS3IyD9nTNaG8NzpNcnQ7qNDMya/bvKyXw93LjgUxeVjxJe9NZSbeii3y4Rz0EJZbBLxgxm+PgqHQ7LHyq2gIvBigr+wCsAv8pTRLy2K3yn24bt5Lu8lxCRE+DB7KUvjlremjnO5mBYG1mV5R13u1vieQLiM1iWQkz0WVGSdgn3Tyo5LcqQjXY=;DyKqjQwKgBpPYZI+PWILwg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/intel-penn-medicine-brain-tumor-ai-1511
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-penn-medicine-brain-tumor-ai-151105509.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Intel and Penn Medicine are developing an AI to spot brain tumors"
 
 related:
-  - title: "Intel, Health Institutions to Use Emerging AI Technique to Improve Tumor Detection"
-    excerpt: "Intel and a group of top health-care institutions are working with an emerging artificial-intelligence technique to build a system that will make it easier for radiologists to spot brain tumor boundaries."
-    publishedDateTime: 2020-05-11T11:25:00Z
-    webUrl: "https://www.wsj.com/articles/intel-health-institutions-to-use-emerging-ai-technique-to-improve-tumor-detection-11589191200"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 61
-    images:
-      - url: "https://images.wsj.net/im-185345/social"
-        width: 1280
-        height: 640
   - title: "Using AI to Identify Brain Tumors with Federated Learning"
     excerpt: "Researchers at Intel Labs and the Perelman School of Medicine are using privacy-preserving technique called federated learning to train AI models that identify brain tumors. With federated learning, research institutions can collaborate on deep learning projects without sharing patient data."
     publishedDateTime: 2020-05-11T14:07:00Z

@@ -25,16 +25,14 @@ images:
 
 related:
   - title: "Artificial Intelligence Cracks Quantum Chemistry Conundrum"
-    excerpt: "Machine learning techniques accurately calculate the energy required to make — or break — simple molecules. A new machine learning tool can calculate the energy required to make — or break — a molecule with higher accuracy than conventional methods."
-    publishedDateTime: 2020-05-12T13:29:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/"
+    excerpt: "The tetrahedral electronic distribution of a water molecule. The oxygen atom nucleus is at the center of the tetrahedron, and the hydrogen nuclei are in the center of the pink spheres. Credit: Simons"
+    publishedDateTime: 2020-05-12T13:58:00Z
+    webUrl: "https://infosurhoy.com/science/artificial-intelligence-cracks-quantum-chemistry-conundrum/"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 61
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 39
     images:
       - url: "https://scitechdaily.com/images/Tetrahedral-Electronic-Distribution-Water-Molecule-777x435.jpg"
         width: 777

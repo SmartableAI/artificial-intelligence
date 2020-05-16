@@ -1,41 +1,21 @@
 ---
 category: news
 title: "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases"
-excerpt: "Agreement leverages Sarepta’s leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno’s CapsidMap artificial"
-publishedDateTime: 2020-05-11T11:11:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases-1029186702"
+excerpt: "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design"
+publishedDateTime: 2020-05-11T11:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15998024"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024"
 type: article
-quality: 20
-heat: -1
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Novartis, Sarepta join Dyno’s enterprise to boldly go to new gene therapy frontier"
-    excerpt: "Dyno Therapeutics Inc., an early stage gene therapy firm applying artificial intelligence to advanced capsid engineering, has entered partnerships with Novartis AG and Sarepta Therapeutics Inc., in ophthalmic indications and muscle diseases,"
-    publishedDateTime: 2020-05-11T23:09:00Z
-    webUrl: "https://www.bioworld.com/articles/434990-novartis-sarepta-join-dynos-enterprise-to-boldly-go-to-new-gene-therapy-frontier"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 33
-    images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/Deals-and-MAs/Deal-partnership-chain-link.png?height=635&t=1588276656&width=1200"
-        width: 847
-        height: 635
-
-secured: "f5BF/iqfiWKMk3ApMZDkDYlplHH5FFyHjXuVQ3FCFohJXG9P66fP+MbOFjt84PFLM3RuiDP8v0CFZFWUUCMyQAHdq5mmFh+OH3+T+Diy00PMO0SZTg9VTdnEPFf3m06bRF+1JZ9XsiUVt28Zfup+FAEOAb2chqqnifGst/BlwOB+ON2IIm1M7/STL5gFYDfnwdJpOM9NdlB381wmJI61sE+K4/cKnzavG2P/Jyq7Rs5orA5e5iSDszmvSflBzK+fRrhAsaL4/X7qah+cCABDgFE0zAjWP334CoJaEzv+3wy/SyUyJ6sN4VzmScR/5QN8;sSoNp/gG7TswX4mss29ZrQ=="
+secured: "ORjzJUL+xtqrlYOAHQjba5QSccuj3+w5PWonThUpXXzZaSMHhcZuH7oE/AiOGXkiNXSaHn1YizG0M8Gh7yIvU5j22rrX6L4MKY3h/GzmgQB+eBXqN2KYFZv2b9vKtcVr1EKH18wV1TjvvRMXbfBLLkOkRWSb30gcKqvrY/PD1T9Igjzm9MN7+OfepbvQLVLhSJ3/kP/it+7XrVu6tSGlGYi7LYMNHzxRTG+YvyeZLCgQHWVB1aei7Fdis2zI0eMDuWRCBGdomdCmeOSFkygdjSMDs8FkDFGPAcR7aW3LmAY4qL2v4kCtMrhYqBlOx2JG;7zm7rZS/sTy43XQ3FlaH8w=="
 ---
 

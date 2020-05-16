@@ -3,9 +3,9 @@ category: news
 title: "'His Voice Is Still With Us': Rob Halford, Scott Ian & More Remember Metal Giant Ronnie James Dio"
 excerpt: "Scott Ian is trekking from Queens to New Jersey with a friend named Jimmy to see Black Sabbath at the then-named Brendan Byrne Arena. It’s the Mob Rules Tour, and Ronnie James Dio is just two years in with the band following Ozzy Osbourne’s firing."
 publishedDateTime: 2020-05-15T20:17:00Z
-webUrl: "https://www.billboard.com/articles/columns/rock/9378788/his-voice-is-still-with-us-rob-halford-scott-ian-more-remember-metal-giant-ronnie-james-dio"
-ampWebUrl: "https://www.billboard.com/amp/articles/columns/rock/9378788/his-voice-is-still-with-us-rob-halford-scott-ian-more-remember-metal-giant-ronnie-james-dio"
-cdnAmpWebUrl: "https://www-billboard-com.cdn.ampproject.org/c/s/www.billboard.com/amp/articles/columns/rock/9378788/his-voice-is-still-with-us-rob-halford-scott-ian-more-remember-metal-giant-ronnie-james-dio"
+webUrl: "https://www.billboard.com/articles/columns/rock/9378788/ronnie-james-dio-remembered-anniversary"
+ampWebUrl: "https://www.billboard.com/amp/articles/columns/rock/9378788/ronnie-james-dio-remembered-anniversary"
+cdnAmpWebUrl: "https://www-billboard-com.cdn.ampproject.org/c/s/www.billboard.com/amp/articles/columns/rock/9378788/ronnie-james-dio-remembered-anniversary"
 type: article
 quality: 31
 heat: 31
@@ -25,6 +25,6 @@ images:
     height: 677
     title: "'His Voice Is Still With Us': Rob Halford, Scott Ian & More Remember Metal Giant Ronnie James Dio"
 
-secured: "uZmTx7FV+vXHOn+J6PK2QS+7+MxcAmQl6EtZLk0zvANW7dwW1mAw+A7zraQQrnIOt5CMzF7ced3aZ9LvcZ0f7ZbjmVltYnQMViNx27a8XaHyY1aHBxdHjxuCLAW2PCMHnIeS+5O7AHhVUEvqXGz0poQ9dKyG+kFv0gCHP/H+ondaVEX22SeRMd1LTbgYYKC1jY/oG+4IPISfXIJY2CLfUcfU36Ip+mqHGeVv1ARhANOvwlATIjXRuxKUjgR6DX4zBs8vU4kuen5SaRuoBjNSL90OkJL2Xf8R8Cmu2lGRYEECQtv0e+USUa8QLxlbQDJAxczNe6Lf0107R4X7j6JEewNaUNVz1a5dqO3EhL+wqqVU33u2LxXMWari6BPstxuhGZb0Qv53oOVjX3zgmtCfhvPtiM2//62GaNES5kegd58cwNLg+gr+P5hiaY+LpmHM7/zNn6+naPb5iSxoCgtbBGBbzGYR9PLKekoHT4zFLdY=;OJti5IzTp0XJI6eEUNSHBw=="
+secured: "EaI7lL0Qjcq8NsyHPbm0R8T+AWrHNv2LyikjB+1UpX2Fdn1sEI0x05Lk//7VqPSbepjvIiLvuT5A0nvnKpqdnoN1KSDygYGxDsJetdFdaDKFO0LNUPlAuD/AVAeCe49fT5MNkMGoRl5f1NEQLra3UtDzhkPcq1Ta+/oX9bYgy8copYZg/BYekVdBdMAOscLdaH/iYnnBnWOcu01EpqsiX3iJZKCdrePmpwjg0ZONmcd5yLYi9rrgVbJOkMzrGU6XJm7lUV4cirAr1AfE4GL0a/cyhd9bmaYi2wlqr9pRma4VdYo4Ca+e9/RzqgQOZRWs;Y/RtNTK2TJJgIyy8lh0z0g=="
 ---
 
