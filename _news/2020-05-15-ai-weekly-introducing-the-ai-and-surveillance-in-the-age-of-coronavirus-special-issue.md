@@ -26,6 +26,6 @@ images:
     height: 400
     title: "AI Weekly: Introducing the AI and surveillance in the age of coronavirus special issue"
 
-secured: "CSa9FC2bHuPen4ji+uWPzforE6c1O0JsX/cpaSZE9QOp+3c2RNvNmtg0HNl1bLr9KPV+VU+NioWFbuYx6NiXc2fhH4sz8Yh5Q6lbL9pQX7xSqK1BF1us8Xc4kF5XWdtmeFOdYU0FIcGLagkAwfVL/CbQInKp64L6hrKbPtKKxAczjUdShJwbmpIqtL252ZzJnv5UwtRBjhhwOfg6awykdoIj4AO3gnzO0GcOqtCUQjxC0kfN6AyKk+REMb74VC2ESZKS2ozJ6bdfmEcNUfasW3thwLl/ByGS+JCr+tqQUgtyjuk8xK35KosGKEFaARmD;z8bcZqj4inE74PlaMyQoaw=="
+secured: "Dxqf88F0/SeZt2+hrFdcTOhkGmsAZYXdJl+pT9vDANQXoC8uMWgSd0ZbCt+Kb5OYwBgZ5ejBPFfrvfGto4d+eziGk6vbf1AxAZhwUxT17eyzUIYyVsRG2G5+SPdBjp5FOlZH5yAOojNfSLZMid738wncjog70UFpFXR0/2oXr9S2kbecoxM6NfbnLFqnylCmzrYfF1+MD9aIHFfwllDCsNTaRdPqxrmWlEefMxBdf/KYnTqUnYJ2uiLQzR5wBU3ThYAfRYC1wOH4T757Wtzy/it+C3YLz9DV1ngW0LvGFzOqST1AKgDQGrUVL4HhXE/PfX4RyzevOivZ3Eqvxb/dpczIb+C6+BOaVNs4GAmH/Yk8PdF2ky7VTWMkZym1Gf6mlNnEQKIqm/s9/bFbaaRte94MUeSSTVAH/vTPuBES+eXMWxPJyHOtwJ2g6uriS0DKOYrz2n/eFhAlNVFHuHwZb/bWoQJIOCnAgHXHqRRlhls=;cQMC4ka2pjtCwUKwlbHZEw=="
 ---
 

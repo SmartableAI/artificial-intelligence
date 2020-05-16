@@ -1,23 +1,17 @@
 ---
 category: news
 title: "GM's Self-driving Car Unit Cruise To Lay Off 8% Of Staff: Reports"
-excerpt: "(RTTNews) - Cruise, the self-driving vehicle start-up majority-owned by General Motors, reportedly plans to lay off 150 employees or about 8% of"
-publishedDateTime: 2020-05-15T17:40:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/gm-s-self-driving-car-unit-cruise-to-lay-off-8-of-staff-reports-1029207494"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/GM-s-Self-driving-Car-Unit-Cruise-To-Lay-Off-8-Of-Staff-Reports-1029207494"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GM-s-Self-driving-Car-Unit-Cruise-To-Lay-Off-8-Of-Staff-Reports-1029207494"
+excerpt: "(RTTNews) - Cruise, the self-driving vehicle start-up majority-owned by General Motors, reportedly plans to lay off 150 employees or about 8% of its workforce, in order to curb operating costs amid the ongoing coronavirus pandemic."
+publishedDateTime: 2020-05-15T17:45:00Z
+webUrl: "https://www.nasdaq.com/articles/gms-self-driving-car-unit-cruise-to-lay-off-8-of-staff%3A-reports-2020-05-15"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
@@ -55,6 +49,6 @@ related:
         width: 1200
         height: 600
 
-secured: "xxjI9yoS8uy9xou8Dz6JqeTQiQhx2+EQseDE1VxaFi335Fanol/Ye2IniUUHidYuShuE2r0An1TrwLOBRupimmMoNReweOVCT0KWyd8/qaCNfRqlvnwehBkknRNfFybYvn0roHv9IhJGChcWR3MLM9z/lNDgdPtI0SzrRMz7grgIVjwlkmo1BNNz4a13RCBkeUIEOtmK+GMEAUsOAkwJXoZ+Egpe00lpAdHGknXrtzsR4HA59D3F4J+cHtXt9LzC1iKrQzBzTWnvF+3Cnhwg1Xy97nKxh2KfRa1vRAo05WK7a+r/l6jZw0yu8wHW8hWL;hHa5TIBHZwGv9kNcDzD7vg=="
+secured: "lctB+7jRqZYbICpdRXjM9YIsdnYQ8IG2Y+gdhhHBisRj7fM31k9qneiChKlywuCZKXrcor6C1g7Hb+gXY1qCeGWmHniDa8UoHToQiVcHwZ85sQcrvv8j+QvB4e8H3pD9KGUjukg5VYW/PGtzfZHItgurqCozwQkgFZm8hxWjEQAtF5alQvT8ZxQeO/S+qwn0BzZrcHuRJUVfUDPoe/dKa0/fowqNl7FItfyDCnrlWAASO8kk6J8jjDWE1Fp9jTGknH+1zh0xJr+Yf1s8Vq/rGnvmHNctDx0v0R3bScSJ69Kpwj7LkTnAEEHRHOFb0coeqvQL7P/BD/IkO4V3eKQhW0WQAF/zJeJf7PcvkB5jFwcO+4paMHACnM/Tp83+nxBs4mXM+3Yc8toHHsXlpY4kql8VoJ6wt/R4TLyaEMb6QCh2CSCtNPySlXAbYoS/YeEY+oD9RYkkaJ0hZ4Vd+S773QnFetQh/xSRKQq6FdpU8tE=;1FiUuFBPaJrpHvZJ/OZ8qA=="
 ---
 

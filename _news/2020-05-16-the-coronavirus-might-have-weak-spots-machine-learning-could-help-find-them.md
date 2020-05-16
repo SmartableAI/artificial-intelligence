@@ -1,0 +1,43 @@
+---
+category: news
+title: "The coronavirus might have weak spots. Machine learning could help find them."
+excerpt: "What makes SARS-CoV-2 so infectious? The answer is in its proteins. Mary Jo Ondrechen and Penny Beuning, professors of chemistry and chemical biology, are using machine learning to investigate these proteins and begin to understand how to slow the spread of the virus."
+publishedDateTime: 2020-05-16T01:01:00Z
+webUrl: "https://news.northeastern.edu/2020/05/15/the-coronavirus-might-have-hidden-weak-spots-machine-learning-could-help-find-them/"
+type: article
+quality: 36
+heat: 36
+published: false
+
+provider:
+  name: Northeastern University
+  domain: northeastern.edu
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://news.northeastern.edu/wp-content/uploads/2020/04/enzyme_1400.jpg"
+    width: 1343
+    height: 895
+    title: "The coronavirus might have weak spots. Machine learning could help find them."
+
+related:
+  - title: "The coronavirus might have hidden weak spots. Machine learning could help find them."
+    excerpt: "Researchers around the world are rushing to investigate the proteins within SARS-CoV-2 that enable its infectious abilities. Mary Jo Ondrechen and Penny Beuning, professors of chemistry and chemical biology,"
+    publishedDateTime: 2020-05-15T19:11:00Z
+    webUrl: "https://news.northeastern.edu/2020/05/15/the-coronavirus-might-have-hidden-weak-spots-machine-learning-could-help-find-them/"
+    type: article
+    provider:
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 32
+    images:
+      - url: "https://news.northeastern.edu/wp-content/uploads/2020/04/enzyme_1400.jpg"
+        width: 1343
+        height: 895
+
+secured: "y2oYmvJuG0+TyesGjx8ViANHNCui6GXqrihAok5XG/9cinNKCpbAM+bNmp58h2CrPCoIb2XiRjST6bCzXFJ4O/5TXA2SlDBIRnAGKBnRVCxL4UUsdYBsLXT8e15nhjhmra0DwjypkPB79hWmav/Yuto3U6CeOeK9jZDIAoM5PaLxS2XRpv8caNGJnJXK0nW4PO+sJajYeyN0xJNpthlqIiwm+LAOd5zykL4k5cA1v8pF+rntA9DWWjdUi0w4ttkTUWCU3zH9xS58SvCovLGnbZt+Q8QcOGkp4+JshYGu2gExMqBb9KVHjQBsOQwIeo7P;fbbRVbty5ctJ3JarD4ENyw=="
+---
+

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-15T19:11:00Z
 webUrl: "https://news.northeastern.edu/2020/05/15/the-coronavirus-might-have-hidden-weak-spots-machine-learning-could-help-find-them/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 1343
     height: 895
     title: "The coronavirus might have hidden weak spots. Machine learning could help find them."
+
+related:
+  - title: "The coronavirus might have weak spots. Machine learning could help find them."
+    excerpt: "What makes SARS-CoV-2 so infectious? The answer is in its proteins. Mary Jo Ondrechen and Penny Beuning, professors of chemistry and chemical biology, are using machine learning to investigate these proteins and begin to understand how to slow the spread of the virus."
+    publishedDateTime: 2020-05-16T01:01:00Z
+    webUrl: "https://news.northeastern.edu/2020/05/15/the-coronavirus-might-have-hidden-weak-spots-machine-learning-could-help-find-them/"
+    type: article
+    provider:
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 36
+    images:
+      - url: "https://news.northeastern.edu/wp-content/uploads/2020/04/enzyme_1400.jpg"
+        width: 1343
+        height: 895
 
 secured: "lILwZgBIJbHZxhty3041Ah6CyP98ZvB+VCy3Q7URkX3p1BtWpzOi5PwHq1NkqOsDbD7XdLG/+7cG1okYpmHUM/ktzXtWyrIm/twd4EoOVB61p0reA5MqIguZGGnh5PCJE8YecaJ6Bt11H+4/Tjji7Czz9dXADwSSD1CKW5IHzPsKUbY8NG2PZ6h+hVUR3wnLdqlPf+dgo7T8a4c20WZet3wJCrkD9WuMWIgeFu9kMMa4pnYJKzGPqLvZhJdZqweuFilhzQRP2rtTgphzTRcU90ROHMgF7ZydMFFdGdQbyNuzU8grai7J6UUkG0cM3bQoxPBfIAShHrQSb/fhWrd7RxgLmSXS2QVpYLNt1duiqJTGiwSPtneh6kartTPimXZs14cAveidm9CDM6vwvlQWDGsH48KCUXquHRdcl+8hCWvbXByqGEzAH5yKCmFVNaFgEYpC6b5lBwKIhLXvUWw2Dhr5ffpOWDHEnuLQN25Rk8Q=;Qye0NMvyzufcMXfalxpncA=="
 ---
