@@ -38,15 +38,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/reionization-header-image.fw_-405x228.png"
         width: 405
         height: 228
-  - title: "CogniFrame Announces \"Financial Services Operating Layer\" Built on Top of Quantum Cloud"
-    excerpt: "CogniFrame, based in Toronto has built a \"Financial Services Operating Layer\" that sits on top of Quantum Cloud to solve complex optimization and simulation type problems. Its focus is Quantum Computing Applications and projects include several large Global Financial Institutions."
-    publishedDateTime: 2020-05-11T15:03:00Z
-    webUrl: "https://www.pr.com/press-release/812292"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 0
 
 secured: "Fo6byxwXGtyXwG1Rk/YWsZDvae1P2P2iJ5m7MXgvn6WRZ5RWNJohWv6HJzi8mfRbAQShyezSk/PXEfa3dirR9XrqfgCFhfY31ihrI6RlQAYgMoycsAjLiuofPXUfbpka5DqGpk0x7ERk9g2+2ZXv4AqDbujjyxpGZ/5SKWgJYLsvS4g5LD4qYdnTiuFka4QbTgDH0661comkUCA3YNzffNh1M0TYZSLGLcz+m/38gU0es39eJfnPdy5EzZr5sWRwtqld2B6f+ipSrm3n18C3lZuFZLoe2/6676tnzFWSEHKOy93dDQCwGhjqmHovodA6KNzFraJaBAyFspyCIf0P/VVvDTEEDlqB2POUSm4hERVd1XgcLFKcuw6tzLKbQ+qdLm32M4mx0NXaGXNGFghuoNieLRItruxLlnO+QgGkVVWagb0ey/sx9JgKPKDRJ36hV1PWeoWY+/MmJ6wUe/89/d6x+sLLM9zYJLxuDwpHkoQ=;4od2trZ05NQh2TufBVMssQ=="
 ---

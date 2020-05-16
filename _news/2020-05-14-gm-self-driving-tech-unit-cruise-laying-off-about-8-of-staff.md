@@ -1,33 +1,23 @@
 ---
 category: news
 title: "GM self-driving tech unit Cruise laying off about 8% of staff"
-excerpt: "General Motors Co's self-driving car unit Cruise on Thursday announced it was laying off about 8% of its staff, according to an internal e-mail."
-publishedDateTime: 2020-05-14T18:28:00Z
-webUrl: "https://www.reuters.com/article/us-gm-autonomous-layoffs/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-idUSKBN22Q34W"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22Q34W"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22Q34W"
+excerpt: "May 14 (Reuters) - General Motors Co's GM.N self-driving car unit Cruise on Thursday announced it was laying off about 8% of its staff, according to an internal e-mail. That makes it the latest autonomous vehicle technology firm to cut staff as the coronavirus pandemic has shut down the economy and dried up funding."
+publishedDateTime: 2020-05-14T19:36:00Z
+webUrl: "https://www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0"
+ampWebUrl: "https://www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0?amp"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200514&t=2&i=1518677074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4D23U"
-    width: 830
-    height: 545
-    title: "GM self-driving tech unit Cruise laying off about 8% of staff"
 
 related:
   - title: "Cruise, GM’s self-driving unit, lays off 8 percent of staff"
@@ -98,6 +88,6 @@ related:
         width: 470
         height: 246
 
-secured: "OyEdieS4A7DOY24xjBiVry6M/B2bKc+YOotPChbvx/b8p+8M+2/dyoQPlUUUDbeRjqMAjycc8Y43kNlqL7esCEuEICqgKWiFBody3pbpOjJCain7sXBThkXW2YXYUpFHOcSP041Wm4MsaRs1Ibm81bETrgQ/iQT/6DZZUB8PQ08kMtTUB14qhHXNyPhUilU66FGeq02QlzMJ/4Xs6pwDiyK7CE9A57Mn7WYavqK+9cXgKmbYXJ+yi+S0eTloF2iO2xpDCD234hHXFApX7ZrhTTRZ7kJ9wjE+Yrnny1YcogKfy1CxLNtjFhuqd/bt0VdL;/1hQLIKcDTZT+MCC/B2CTQ=="
+secured: "9q5LOycY6F3zE+CAGn5iQ9hPNVkIqMITt6a/VTssiaam+A7Uk7dYuZlWJthA9Y8ceZw4NZrsOMoAAH3mTiMU/GDC5fy7GdU5+C3sySmhtnhg1N7N73gfT0XAC/dMG72780JFQqQqYRKCyVRcU0yjU9hk2ohTFthY9pm3mu6PYttazuA+2YiRCBjuH3DwY4GS4lo2D93F4xxqw+nop/1VZQia5M3Lr5t2/OJL81oxM1MYQkefZzKJh778uEAQvNqotA0yMuZ1aLpmqlO+p4ytzFoRP0jsWa8ZtFZ4lQZklMRI3oEYIdgzWQE2v91YRwJG346W8wh1D9uPjZQ/D+zD+s+k6g382wFUc/56d/6R34nrEbkVX2Jou/j7mC44tatIfEigXp4eYnaHK5OiJqSZMYiynTY/gBAMN8NcPVwKBMTN6BYpWIAWXs4gaCQcQp63esxPmYAQr/Y5D2wnpk80/XIi3orvrAyGw2uC/sjrd00=;mUiuKOtuc3AxKRC2L5Udzw=="
 ---
 

@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Artificial Intelligence Cracks Quantum Chemistry Conundrum"
-excerpt: "The tetrahedral electronic distribution of a water molecule. The oxygen atom nucleus is at the center of the tetrahedron, and the hydrogen nuclei are in the center of the pink spheres. Credit: Simons"
-publishedDateTime: 2020-05-12T13:58:00Z
-webUrl: "https://infosurhoy.com/science/artificial-intelligence-cracks-quantum-chemistry-conundrum/"
+excerpt: "Machine learning techniques accurately calculate the energy required to make — or break — simple molecules. A new machine learning tool can calculate the energy required to make — or break — a molecule with higher accuracy than conventional methods."
+publishedDateTime: 2020-05-12T13:29:00Z
+webUrl: "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/"
+ampWebUrl: "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/"
+cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: InfoSur Hoy
-  domain: infosurhoy.com
+  name: SciTech Daily
+  domain: scitechdaily.com
 
 topics:
   - Machine Learning
@@ -49,6 +51,6 @@ related:
         width: 485
         height: 271
 
-secured: "6pqEDrYiPp8rhzR234hNSDI1sApv7IaaQEs51lww4hoOacOb9qqSa0Rwl77nIYD4472VFwnml33gXNWHZMFSoWPndy9c127m3Mie7zQby5UHvi90guCWK6ZyY/pd+AfDp5yG8DtUqZWNVQEkyUWADk1xiLdjFKvZHYqBQn3JRZtmBNO/UqkaC5wm6rIP+iJV7mpPCjHoNlf3xoZ2Vh/e/TDFtMr/ZWOJ170rrhncxAhaTOEH8ZHA+54DbEhd92hlXm7kIE/ThR44MRRjIofnEiKbeqiShU/9cpNHd/h5b4n5pKNYTdY1OEHuxADp2tjrp4ym4tERHO0f5XrZ6MzotxIBnyBlAdjFv4qc0aKh9O4JinW1GV693aqsDurJelBVNetzIKy6pjQPZWteF5UeQc6goQJ2ceOwnxjo6GzQHbaeqlVoZ+rx7JUD0D3Thgnj60TeGE+RNmu9EhdcFYUNUH1rQ7JjBw2ksf+BTEmegKc=;NxQUljl+Jus5wom38jSw7g=="
+secured: "VQY+Z1mw25nE2ntGPwSj3GTXp+lbasqh4g0+GcjzsY+NXJgPtD4u8IklywLtaMbgvUfxbRZR9trtAYvEKTCrfCh37o22TvyIZI0H7TaYSZhj0XyYZCZcfKJr5VkFa3Hjtx9cpO7HacsbxpSpiQmZqNufdFbVBgL27KqsUjqlpht5ov+qP1w5Mhron0cMffGra8PaO+f1qeEQt3qM8Tz1apklk2pgfChnsL1aV5SsnxoGwhVZdO5vasBusamz5JRWNXgSn5PKFb0IPCYqNJH7yM9ItlUR1XDiHrjTkHJCxIhPUChA/6HSI5yc5lqQjL4L;TRThTWv1AhbMilPWmQZwLw=="
 ---
 

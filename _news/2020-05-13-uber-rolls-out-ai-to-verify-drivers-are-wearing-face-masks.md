@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T17:49:00Z
 webUrl: "https://venturebeat.com/2020/05/13/uber-rolls-out-ai-to-verify-drivers-are-wearing-face-masks/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 21
-  - title: "Uber may soon use 'Real-Time ID Check' to verify if drivers are wearing masks"
-    excerpt: "Real-Time ID Check is a safety feature that will periodically ask drivers to take a selfie with the Uber app. These selfies are then crosschecked through Microsoft's Cognitive Services to confirm the driver's identity. The feature was implemented for rider's security and now, it might be used for something more amidst the COVID-19 pandemic."
-    publishedDateTime: 2020-05-11T15:56:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20200511/3556408.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 1
 
 secured: "aVyGCDlWfq1a23i1SVZ4DcHqVypXfOt4mePtnV/P/yQd1X57eLOh7ybw43F2lR5mhOSlbqRpOvE8qGh1f1h52+9kjoCvcAbCEoUzydH2/UlRd7wg9V8562dZBkAT84sIo4JSdAUMBPvGrJ4o0+bfZTSXaOx+t6kgDETJEtY+1fc1kCapHW4wzCfqgYCHrTh0nag6NbitftviG5qFgozQsvhwHnnN4LHpN1wHbZ0JGdgFhz0TdmVmLHvbQjc6x17Wh4ibqB6JaEfkqoYj2qQkcth9m/S/3DXitDZ3l8oEh9wzScGiYzVSzh/I6rH1hs4wnACv3UXWpR0cL2Ku5JblhqKG8246sP5TgAWsOrIQGULSEKD3iO5P37j73NTo7D4b/CkrUsP5O7arTgBtgl0HgJ9u7WqNPCIuGJzwcpqfMJeb8yDZAWtZJS5vYFva7UgyFsu9RHIv/ALykAtRfwmKb3Ann1KuUAP5mszTxBR+L18=;FrjPsb+EGG9VS6GugmJnQA=="
 ---
