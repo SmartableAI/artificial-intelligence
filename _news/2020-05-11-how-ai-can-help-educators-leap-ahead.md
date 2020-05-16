@@ -3,13 +3,10 @@ category: news
 title: "How AI can help educators leap ahead?"
 excerpt: "Artificial intelligence (AI) can help with the challenges teachers are facing while trying to teach remotely – as well as when they get back into the classroom. As the world locks down and schools close,"
 publishedDateTime: 2020-05-11T10:44:00Z
-webUrl: "https://www.techradar.com/au/news/how-ai-can-help-educators-leap-ahead"
-ampWebUrl: "https://www.techradar.com/au/amp/news/how-ai-can-help-educators-leap-ahead"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/how-ai-can-help-educators-leap-ahead"
+webUrl: "https://www.techradar.com/news/how-ai-can-help-educators-leap-ahead"
+ampWebUrl: "https://www.techradar.com/amp/news/how-ai-can-help-educators-leap-ahead"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/how-ai-can-help-educators-leap-ahead"
 type: article
-quality: 89
-heat: 99
-published: true
 
 provider:
   name: TechRadar
@@ -29,17 +26,6 @@ images:
     height: 545
     title: "How AI can help educators leap ahead?"
 
-related:
-  - title: "How AI can help educators leap ahead"
-    excerpt: "Artificial intelligence (AI) can help with the challenges teachers are facing while trying to teach remotely – as well as when they get back into the classroom. As the world locks down and schools close,"
-    publishedDateTime: 2020-05-12T00:09:00Z
-    webUrl: "https://www.techradar.com/in/news/how-ai-can-help-educators-leap-ahead"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 49
-
-secured: "gfWAb6UEl4ZRZzGdXytY39dfAedlb7T/pAIrmwfw0xER6wbY8JM06qID4GJZBROp9FIQBNhxZcrNubmFRUgFh1ynhnLcR5kuBuj7d4h+3nSkWERh65PKsFYto0xjJrngks0nk8BqEdogLroxunXHz6mwKArxu5u/+YalOugIF1AoOJ6/uK708Cns9Fl0izuxFwqDfvr10znHQjQ6zmTE9gSpbfdoN2GjkIgdBDn11ynDfPbXfJQMauH7B5DAdLKY+tBPmH4CWldKWVazG2Xxncf4fM9np7FYPsnzEptQS+y1xMR0kFPjcBkXYKaMPOOAn+U3T/zBE47l30LjKWNis1zZzvRqGV12j4ubPb70Nj1Puo6UPbGozrDARZFJLjcHBwjim/gYVbC/7aRnZwPpSCAyIWqks/e28QmDZ8a6zqFzPYgJNVbU4i5D90oBs66iBwvut6icXpUP7fQTqNALG1k116drlQDY1JfML2vQcF8=;oXKVv3u9a0AmqOllUD3qRg=="
+secured: "hcNkyojgwrjYpoPsu2o20Sn0C1F2kgvSyYl+EAbSCBJL5M/i1r8GRyeMSjpFfkpYtHdfNaFZT3WdzifkJi05RLEginusfrpz8ozGmmsUcHbx5hn5TNsVW67+aaPppSU7YBW3uDKv3LHYxZwVpVWtVg3jzPSZsEa6RB14agJci+6k9ypz1uCMjDnyKdHOVwT4183NaBhgcetzhOBZnqST/rh3iP/1n0ViKrMK5coY40DYi1QryGZxeyIli8gzi+8NXTMbqroD1nU+3Z0ysCYV1y+AzR4+8A++DoIpPAePjzeNm9CYzKpewP7XMnUKOT5m;dyLG6UDqTfmOpocq2rI5qQ=="
 ---
 

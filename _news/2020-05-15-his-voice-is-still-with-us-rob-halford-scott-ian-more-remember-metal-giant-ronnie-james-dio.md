@@ -25,6 +25,6 @@ images:
     height: 677
     title: "'His Voice Is Still With Us': Rob Halford, Scott Ian & More Remember Metal Giant Ronnie James Dio"
 
-secured: "EaI7lL0Qjcq8NsyHPbm0R8T+AWrHNv2LyikjB+1UpX2Fdn1sEI0x05Lk//7VqPSbepjvIiLvuT5A0nvnKpqdnoN1KSDygYGxDsJetdFdaDKFO0LNUPlAuD/AVAeCe49fT5MNkMGoRl5f1NEQLra3UtDzhkPcq1Ta+/oX9bYgy8copYZg/BYekVdBdMAOscLdaH/iYnnBnWOcu01EpqsiX3iJZKCdrePmpwjg0ZONmcd5yLYi9rrgVbJOkMzrGU6XJm7lUV4cirAr1AfE4GL0a/cyhd9bmaYi2wlqr9pRma4VdYo4Ca+e9/RzqgQOZRWs;Y/RtNTK2TJJgIyy8lh0z0g=="
+secured: "s8UHWhkHcN7eoT9ArA4krWKWm8gPD4LNqS7HHsUV1Hh3JZlDEK/39i8hqR9zXw9+HqTVqwQyCoSuD4lYF8Jph8seFfuZVAdISbiGt59moeoD/tuotP1+mqKjj/KLHUPw242PIaaYFHX4izpwINx1V9dM4S8yUqPM1cn/jM3s9NoER7TxjNVnBNEVtENrCfiyIDbo0EdtMD6oRx2qD0amYEGkN+Wn6G4UEK/yykXpbmTXJzmKN7h+rdAp7c4kdcJ5mX8vFVGcmC6IudCfzZbDvCwssXGrj2Tx5KgUX5UxkRyh3VCr9cpR3DcYrZLENXTaQoMYRYygFDb7MYlYAt59LHMR1QvkIZloLqdRIETblkPIroospXaD88Vl18f0LobTtODHnOISQ7RZdNQON9YdUuyH4SbUcfXDW6+YdROlVZ1h0BIFEhHrp8oMnQHq9zeWUxgP2Hm+XdopjZ0KRRtpgH7CoUs4zBx2yIEp2RdhxgQ=;okH22xiqXBeD8ICM0BTmmA=="
 ---
 
