@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-14-nvidia-unifies-ai-compute-with-ampere-gpu.md",
+      "title": "Nvidia Unifies AI Compute With “Ampere” GPU",
+      "excerpt": "The GPU Technical Conference may have been canceled in March thanks to the coronavirus pandemic, but behind the scenes Nvidia kept on pace with the",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextplatform.com/2020/05/14/nvidia-unifies-ai-compute-with-ampere-gpu/",
+      "ampWebUrl": "https://www.nextplatform.com/2020/05/14/nvidia-unifies-ai-compute-with-ampere-gpu/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/05/14/nvidia-unifies-ai-compute-with-ampere-gpu/amp/",
+      "publishedDateTime": "2020-05-14T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg",
+          "width": 1199,
+          "height": 877,
+          "title": "Nvidia Unifies AI Compute With “Ampere” GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-sony-wants-to-make-cameras-smarter-with-an-onboard-ai-chip.md",
       "title": "Sony wants to make cameras smarter with an onboard AI chip",
       "excerpt": "Sony has announced two new 12.3-megapixel image sensors that come equipped with dedicated AI chips for applying machine learning to camera data locally.",
@@ -1041,53 +1078,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-artificial-intelligence-cant-yet-learn-common-sense.md",
-      "title": "Artificial intelligence can't yet learn common sense",
-      "excerpt": "The quest to make AI as smart as humans is still ongoing. But there are things your company can do to get better results from the technology.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-cant-yet-learn-common-sense/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-cant-yet-learn-common-sense/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-cant-yet-learn-common-sense/",
-      "publishedDateTime": "2020-05-13T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/13/7c16912b-b0eb-4826-9e76-7bddcaa31dd9/resize/1200x/2dbb27f927dfced01c232730649a514c/istock-1046249370.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial intelligence can't yet learn common sense",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

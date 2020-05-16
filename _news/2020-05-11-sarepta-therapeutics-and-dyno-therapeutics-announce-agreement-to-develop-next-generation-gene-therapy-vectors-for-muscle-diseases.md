@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases"
-excerpt: "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design"
-publishedDateTime: 2020-05-11T11:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15998024"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024"
+excerpt: "Agreement leverages Sarepta’s leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno’s CapsidMap artificial"
+publishedDateTime: 2020-05-11T11:11:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases-1029186702"
 type: article
-quality: 10
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
@@ -34,6 +36,6 @@ related:
         width: 847
         height: 635
 
-secured: "2JDUCG7v/2CuNJB1DYsuwllVlxFI/p4DgLhJ2EP0UVcVj4fKGM53HYwel3kWtf3ycJaR7TtFrjsueZJcQ0+Wte00xko9YAv3iRkASSbNb8RM7GQz243feHg5P/bQx2v4UtgJBMqSckrWvaV3oJZpC6kbMAtMZaISz7ttWo7Kpurw6QAWRzDdampgwpqoSs3Ifbs857Xm0OhIwGURFq+40IZJuc5uNsmSdKUdRMD8degO8LjMY8U8xH+EOuyfOp/JpTJSchD07eUVIV2r8wJfRDqNVA6BGOh+nr++PztTF98VVHkj/RPU2ibCYu7qeDnJ;8s+Kt7JgmAegRp5NEyUmVg=="
+secured: "f5BF/iqfiWKMk3ApMZDkDYlplHH5FFyHjXuVQ3FCFohJXG9P66fP+MbOFjt84PFLM3RuiDP8v0CFZFWUUCMyQAHdq5mmFh+OH3+T+Diy00PMO0SZTg9VTdnEPFf3m06bRF+1JZ9XsiUVt28Zfup+FAEOAb2chqqnifGst/BlwOB+ON2IIm1M7/STL5gFYDfnwdJpOM9NdlB381wmJI61sE+K4/cKnzavG2P/Jyq7Rs5orA5e5iSDszmvSflBzK+fRrhAsaL4/X7qah+cCABDgFE0zAjWP334CoJaEzv+3wy/SyUyJ6sN4VzmScR/5QN8;sSoNp/gG7TswX4mss29ZrQ=="
 ---
 

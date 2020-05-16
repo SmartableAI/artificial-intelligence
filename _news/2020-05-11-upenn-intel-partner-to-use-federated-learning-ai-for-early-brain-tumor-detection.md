@@ -93,19 +93,6 @@ related:
       - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"
         width: 300
         height: 261
-  - title: "Intel sets its AI onto brain tumours"
-    excerpt: "AI uses federated learning Intel Labs and the Perelman School of Medicine at the University of Pennsylvania (Penn Medicine) are setting up a federation with 29 international healthcare and research institutions to train artificial intelligence (AI) models that identify brain tumours using a"
-    publishedDateTime: 2020-05-11T09:11:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/50801-intel-sets-its-ai-onto-brain-tumours"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/f21bed06690d5fc91294f0ab3c600bf2_L.jpg"
-        width: 620
-        height: 465
   - title: "Microsoft and Intel are using deep learning to improve malware threat detection"
     excerpt: "Microsoft in collaboration with Intel has announced a new tool that uses deep learning to find and classify malware with high accuracy."
     publishedDateTime: 2020-05-11T17:29:00Z

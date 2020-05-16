@@ -2,6 +2,50 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-04-23-randori-raises-20-million-to-spot-cyberattacks-with-ai.md",
+      "title": "Randori raises $20 million to spot cyberattacks with AI",
+      "excerpt": "Cybersecurity startup Randori today announced that it secured $20 million in equity financing ... Randori tells VentureBeat that it uses AI classification models to prioritize the targets attackers are most interested in, as well as affiliation mechanisms that make up a confidence engine responsible for analyzing information gleaned from ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/randori-raises-20-million-to-spot-cyberattacks-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/randori-raises-20-million-to-spot-cyberattacks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/randori-raises-20-million-to-spot-cyberattacks-with-ai/amp/",
+      "publishedDateTime": "2020-04-23T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/randori_masthead_updated_photo_x4-1-e1587142028408.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Randori raises $20 million to spot cyberattacks with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-peakai-raises-12-million-to-bolster-enterprise-ai-adoption.md",
       "title": "Peak.AI raises $12 million to bolster enterprise AI adoption",
       "excerpt": "Peak.AI, a startup developing AI solutions for enterprise customers, today announced that it has raised $12 million in extended series A funding. The fresh capital will fuel Peak’s growth, commercial expansion, and R&D, according to CEO Richard Potter, and will come as up to 25% of companies report experiencing a 50% failure rate in deploying ...",
@@ -1214,52 +1258,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-debuts-ai-in-google-translate-that-addresses-gender-bias.md",
-      "title": "Google debuts AI in Google Translate that addresses gender bias",
-      "excerpt": "“We’ve made significant progress since our initial launch by increasing the quality of gender-specific translations and also expanding it to 4 more language-pairs,” wrote Google Research senior software engineer Melvin Johnson. “We are committed to further addressing gender bias in Google Translate and plan to extend this work to ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/",
-      "publishedDateTime": "2020-04-22T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google debuts AI in Google Translate that addresses gender bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

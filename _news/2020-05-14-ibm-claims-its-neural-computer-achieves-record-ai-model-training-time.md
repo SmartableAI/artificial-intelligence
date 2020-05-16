@@ -5,9 +5,9 @@ excerpt: "IBM claims its Neural Computer can train an AI algorithm to beat Atari
 publishedDateTime: 2020-05-14T16:11:00Z
 webUrl: "https://venturebeat.com/2020/05/14/ibm-claims-its-neural-computer-achieves-record-ai-model-training-time/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all"
