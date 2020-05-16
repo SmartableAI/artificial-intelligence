@@ -2,6 +2,88 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-12-javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool.md",
+      "title": "JavaScript programming language developers: This is Kite's new free AI code-completion tool",
+      "excerpt": "Kite's code completion has supported Python for six years. Last January the company landed $10m in funding as it launched more complex line-of-code completions for Python, helping",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
+      "publishedDateTime": "2020-05-12T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/843fd8ab-846f-4d03-8060-bcd5d611ec7e/thumbnail/1200x675/6c7e3312371b165b65c90cd7fc188d5d/developer-go-is-the-programming-language-5eb921c27f8c3b07249d42e4-1-may-11-2020-11-50-12-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "JavaScript programming language developers: This is Kite's new free AI code-completion tool",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-transformative-robotics-technology-from-brain-corp.md",
+      "title": "Transformative Robotics Technology From Brain Corp",
+      "excerpt": "With retailers seeking to enhance the customer experience, not to mention overcome current COVID-19 challenges, Brain Corp believes that technology offers a way",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.esmmagazine.com/technology/transformative-robotics-technology-brain-corp-98085",
+      "ampWebUrl": "https://www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
+      "cdnAmpWebUrl": "https://www-esmmagazine-com.cdn.ampproject.org/c/s/www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
+      "publishedDateTime": "2020-05-12T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "esmmagazine.com",
+        "domain": "esmmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA1XFxcLzEyMTMxODQxXFxcL1Rlbm5hbnRSZXRhaWwtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjUwMCxcImhlaWdodFwiOjI4NyxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC93d3cuZXNtbWFnYXppbmUuY29tXFxcL2lcXFwvbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNjk1OGI3MzBhOGQ5MGQyZWEwZjM0ZDNkZWMxMjQ0YmM2YTFmYmM2ZiJ9/tennantretail-1024x683.jpg",
+          "width": 500,
+          "height": 287,
+          "title": "Transformative Robotics Technology From Brain Corp",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-artificial-intelligence-cracks-quantum-chemistry-conundrum.md",
       "title": "Artificial Intelligence Cracks Quantum Chemistry Conundrum",
       "excerpt": "Machine learning techniques accurately calculate the energy required to make — or break — simple molecules. A new machine learning tool can calculate the energy required to make — or break — a molecule with higher accuracy than conventional methods.",
@@ -1214,95 +1296,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems.md",
-      "title": "Startup uses network automation to help hospitals solve wi-fi problems",
-      "excerpt": "For IT professionals working in hospitals and healthcare clinics, fixing a problem with a wireless network is now more than a temporary headache. Diagnosing connectivity issues in a coronavirus ward in a hospital could put a person's health at risk.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems/",
-      "publishedDateTime": "2020-05-11T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/27/a89a3cec-9eaa-4548-9879-5ab3e8c77c24/thumbnail/1200x675/06421814a31045a6c09743f30fe067a5/fcc-approves-plan-to-open-up-more-spectr-5ea3183e1c719e452658f538-1-apr-27-2020-14-56-11-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Startup uses network automation to help hospitals solve wi-fi problems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-new-program-offers-college-students-access-to-free-data-science-and-machine-learning.md",
-      "title": "New program offers college students access to free data science and machine learning",
-      "excerpt": "Databricks University Alliance pairs with universities to provide online tools and cloud platforms to add competitive skills to matriculation.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
-      "publishedDateTime": "2020-05-11T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/16/e64ac43a-90a4-4b78-824a-7354d236b664/thumbnail/1200x675/8544c97ca2fffa13b9a3e12bb859836b/20200413-nadine-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "New program offers college students access to free data science and machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

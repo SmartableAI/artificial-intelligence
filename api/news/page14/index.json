@@ -2,6 +2,96 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-05-05-privacy-in-a-time-of-pandemic-artificial-intelligence-to-protect-patients.md",
+      "title": "Privacy In A Time Of Pandemic: Artificial Intelligence To Protect Patients",
+      "excerpt": "With the highly charged atmosphere created by the COVID-19 pandemic, the risks of exposing patient health data have grown.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/05/privacy-in-a-time-of-pandemic-artificial-intelligence-to-protect-patients/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/05/privacy-in-a-time-of-pandemic-artificial-intelligence-to-protect-patients/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/05/privacy-in-a-time-of-pandemic-artificial-intelligence-to-protect-patients/amp/",
+      "publishedDateTime": "2020-05-05T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-28.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Privacy In A Time Of Pandemic: Artificial Intelligence To Protect Patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands.md",
+      "title": "EU robotics project gives maintenance workers a ‘second pair of hands’",
+      "excerpt": "EU project to develop a collaborative humanoid that helps workers in industrial environments has come to an end.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/amp/",
+      "publishedDateTime": "2020-05-05T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/SecondHands-31-1.png?fit=1296%2C647&strip=all",
+          "width": 1296,
+          "height": 647,
+          "title": "EU robotics project gives maintenance workers a ‘second pair of hands’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-mdlive-reports-significant-growth-of-behavioral-health-business-as-virtual-therapy-provides-safe-timely-access-to-care-during-pandemic.md",
       "title": "MDLIVE Reports Significant Growth of Behavioral Health Business as Virtual Therapy Provides Safe, Timely Access to Care During Pandemic",
       "excerpt": "Behavioral health visit volume increased by nearly 50% in March over the monthly average for January and February. Additionally, MDLIVE saw a 72% increase in visit volume in April as compared to March.",
@@ -983,89 +1073,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-lets-make-a-deal-with-our-robot-overlords.md",
-      "title": "Let’s Make a Deal With Our Robot Overlords",
-      "excerpt": "The pandemic will accelerate automation. This might be an opportunity for workers.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
-      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
-      "publishedDateTime": "2020-05-04T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
-      "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-      "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/",
-      "ampWebUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
-      "publishedDateTime": "2020-05-04T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg",
-          "width": 1680,
-          "height": 946,
-          "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

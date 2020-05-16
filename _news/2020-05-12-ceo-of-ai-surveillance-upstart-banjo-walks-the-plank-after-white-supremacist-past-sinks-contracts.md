@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-12T01:23:00Z
 webUrl: "https://www.theregister.co.uk/2020/05/12/banjo_ceo_quits/"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -16,23 +16,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "CEO of SoftBank-backed startup Banjo resigns after hidden neo-Nazi past surfaces"
-    excerpt: "The state of Utah suspended a $20 million contract with Banjo after CEO Damien Patton's hidden neo-Nazi past was unearthed last month."
-    publishedDateTime: 2020-05-11T20:36:00Z
-    webUrl: "https://www.businessinsider.com/banjo-ceo-damien-patton-resigns-2020-5"
-    ampWebUrl: "https://www.businessinsider.com/banjo-ceo-damien-patton-resigns-2020-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/banjo-ceo-damien-patton-resigns-2020-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/5eb9a1f9204ad31b3c0f51d3?width=1200&format=jpeg"
-        width: 878
-        height: 439
 
 secured: "z6jAx9Tu3EXU3XjNpAXfX5TjCtUobxC8oQYeMWwXBfnI0lzuvvWK3MrJyAT2yyFOtV8qurDX3fBTpBvItAQPDBfWwPFFMnWhwQWGQ+W1Q9hstxZCQ0WEFHJln6J0aXuIve50SSs5530Sbs8HaOR66/qmG0jHuVchCTjn+3E9qoiD9SjNuvS9PYwl6XtEIdDrl9bxO6PTGEpxnaGtoBdur1nxuvE9Vw3dpqDxwOGBHTobnIzIOpGfb4SupE51LbKL3OphCj57KB9TXXO7LfZ5i8d+9p1hEB02oxZMTc4qlpnzOU6VtlXl7nBtA7Flpu/9;bTrYCvpejqw/bbo+58wj5A=="
 ---

@@ -46,14 +46,16 @@ related:
         width: 1200
         height: 600
   - title: "GM's Self-driving Car Unit Cruise To Lay Off 8% Of Staff: Reports"
-    excerpt: "(RTTNews) - Cruise, the self-driving vehicle start-up majority-owned by General Motors, reportedly plans to lay off 150 employees or about 8% of its workforce, in order to curb operating costs amid the ongoing coronavirus pandemic."
-    publishedDateTime: 2020-05-15T17:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/gms-self-driving-car-unit-cruise-to-lay-off-8-of-staff%3A-reports-2020-05-15"
+    excerpt: "(RTTNews) - Cruise, the self-driving vehicle start-up majority-owned by General Motors, reportedly plans to lay off 150 employees or about 8% of"
+    publishedDateTime: 2020-05-15T17:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gm-s-self-driving-car-unit-cruise-to-lay-off-8-of-staff-reports-1029207494"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/GM-s-Self-driving-Car-Unit-Cruise-To-Lay-Off-8-Of-Staff-Reports-1029207494"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GM-s-Self-driving-Car-Unit-Cruise-To-Lay-Off-8-Of-Staff-Reports-1029207494"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
 
 secured: "vWltpXszcB0WgFFwMmn9JZRU/FSvlmnT+zMhFmppNyv7INwts0sUbEqQaIEXxscSjELGXhEKeMJI1j1uoK5T9XeiD4QI1gKHskv9Uvkj+rhfPDrJHQjBaBwqi9OT/O3rnOybos/kqfm1hnNPsJxl8RgxML1BqByBCIdCk3ENoVCLiJYe8d5d+o1HbGBko4gWkz9qu8N0Jei1Ax2K2M6pxVtbu5igPsOYAeaOujnn47MzC73YRHydDvHXqZaNRNncziJTogxcDbI80s6LbusuTrUl3zCimTKEq3mXQWSCv/LmoRnWNMz+ChZqWql5Y5RXLUssHqcfFZBwn0yPDje0Xu2buYUGP6U+KsbnNNSzsL8x7HNyFtLgk/Ze3UquMZ3vbSOB4JoocBEYZqdQwKdSSJzc5lTbNYinuEphsKFgTom78KKPy92JYA8+NUnnYcqv72YG5aOOTzZVf+11cdM7X4Il5YRk7V+jgKewbKE0mpk=;4J6NTd57A1HEtuNEgmNTog=="
 ---

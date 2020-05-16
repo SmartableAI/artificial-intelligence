@@ -2,6 +2,95 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-11-startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems.md",
+      "title": "Startup uses network automation to help hospitals solve wi-fi problems",
+      "excerpt": "For IT professionals working in hospitals and healthcare clinics, fixing a problem with a wireless network is now more than a temporary headache. Diagnosing connectivity issues in a coronavirus ward in a hospital could put a person's health at risk.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems/",
+      "publishedDateTime": "2020-05-11T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/27/a89a3cec-9eaa-4548-9879-5ab3e8c77c24/thumbnail/1200x675/06421814a31045a6c09743f30fe067a5/fcc-approves-plan-to-open-up-more-spectr-5ea3183e1c719e452658f538-1-apr-27-2020-14-56-11-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Startup uses network automation to help hospitals solve wi-fi problems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-new-program-offers-college-students-access-to-free-data-science-and-machine-learning.md",
+      "title": "New program offers college students access to free data science and machine learning",
+      "excerpt": "Databricks University Alliance pairs with universities to provide online tools and cloud platforms to add competitive skills to matriculation.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
+      "publishedDateTime": "2020-05-11T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/16/e64ac43a-90a4-4b78-824a-7354d236b664/thumbnail/1200x675/8544c97ca2fffa13b9a3e12bb859836b/20200413-nadine-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "New program offers college students access to free data science and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-deep-learning-system-market-insights-by-size-status-and-forecast-2025-nvidia-intel-xilinx.md",
       "title": "Deep Learning System Market Insights by Size, Status and Forecast 2025 | NVIDIA, Intel, Xilinx",
       "excerpt": "Advance Market Analyticsreleased the research report of Global Deep Learning System Market, offers a detailed overview of the factors influencing the global business scope. Global Deep Learning System Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
@@ -1188,72 +1277,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-3-companies-that-highlight-the-power-of-crowdfunding-for-vr.md",
-      "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
-      "excerpt": "Facebook allegedly has plans to use artificial intelligence to monitor its ad program and prevent fake news. Driverless cars are already underway, powered by AI. It will even start taking over the more dangerous jobs, where a shortage of workers is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.smartdatacollective.com/3-companies-that-highlight-the-power-of-crowdfunding-for-vr/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2018/07/virtual-reality.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-can-ai-make-work-safe-again.md",
-      "title": "Can AI Make Work Safe Again?",
-      "excerpt": "Although this is no doubt disappointing, it is also evident that data and AI have been quite helpful to certain countries (with the most salient or widely-discussed cases being Israel, Singapore, and of course China) vis-à-vis their ability to track the patterns of virus spread across and within regions,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
-      "publishedDateTime": "2020-05-08T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

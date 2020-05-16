@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-29-roborock-s6-maxv-robot-vacuum-hands-on-ai-camera-eliminates-pet-poop-disasters.md",
+      "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
+      "excerpt": "All in all, the Roborock S6 MaxV is a superb high-end robot vacuum with obstacle avoidance and an app that is easy to configure. For $749, it could be the only robot vacuum you will ever need to buy.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/product/roborock-s6-maxv-robot-vacuum/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
+      "publishedDateTime": "2020-04-29T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/29/c6bf9a20-fbd2-4936-a1ca-bec926067d2e/resize/1200x900/32bb8dd0f8fd50e98ba8b741c9011d30/roborock-s6-maxv-robot-vacuum-eileen-brown-zdnet.png",
+          "width": 1200,
+          "height": 532,
+          "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-roborock-s6-maxv-review-the-robot-vacuum-for-pet-owners.md",
       "title": "Roborock S6 MaxV review: The robot vacuum for pet owners",
       "excerpt": "The Roborock S6 MaxV adds dual cameras and a Qualcomm chipset to its tried-and-tested mop and vacuum capabilities.",
@@ -1186,51 +1231,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
-      "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
-      "excerpt": "Seven officers have conducted searches on the Clearview AI facial recognition platform. Share. Contact. Read full article: AFP used Clearview AI facial recognition software to cou",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/16/43dce3ec-8083-443a-b027-321bdeafee8c/thumbnail/770x578/a5f5db7891dc99aa2234de7b704b2e30/afp-used-clearview-ai-facial-recognition-5e97a875b3157671f8b01e1d-1-apr-16-2020-6-30-34-poster.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

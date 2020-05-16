@@ -2,6 +2,89 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-14-apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.md",
+      "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
+      "excerpt": "The next major release of the in-memory data processing framework will support GPU-accelerated functions courtesy of Nvidia RAPIDS",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
+      "publishedDateTime": "2020-05-14T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/05/sparking-jumper-cables-94261543-100265638-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing.md",
+      "title": "GPU Chips Are Poised To Rewrite (Again) What’s Possible In Cloud Computing",
+      "excerpt": "Tech companies such as Nvidia and Oracle are making it easier for businesses to apply GPUs to more complicated realms of artificial intelligence.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/",
+      "ampWebUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
+      "publishedDateTime": "2020-05-14T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor.md",
       "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
       "excerpt": "The graphics chip will power servers used by Amazon, Google, Microsoft and other cloud service providers. And it will be used to fight COVID-19.",
@@ -543,7 +626,7 @@
       "path": "_news/2020-05-14-singapore-enforces-social-distancing-with-a-robot-dog.md",
       "title": "Singapore enforces social distancing — with a robot dog",
       "excerpt": "Let’s keep Singapore healthy,” comes a woman’s voice, polite but firm. “For your own safety, and for those around you, please stand at least one meter apart. Thank you.” Spot, clearly, is no ordinary squirrel-chasing canine.",
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.latimes.com/world-nation/story/2020-05-13/coronavirus-singapores-robot-dog-enforces-social-distancing",
@@ -1205,95 +1288,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner.md",
-      "title": "Behold the relentlessly optimistic silliness of the ‘AI Eurovision’ winner",
-      "excerpt": "Around two-thirds of the way through “Beautiful the World,” a voice declaratively whispers, “The music of the Earth has arrived.” Created by the fittingly named Uncanny Valley, the three-and-a-half minute track bombards the listener with fragments of relentless optimism,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/amp/",
-      "publishedDateTime": "2020-05-13T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-13-at-11.15.09-AM.jpg?w=1024",
-          "width": 1024,
-          "height": 563,
-          "title": "Behold the relentlessly optimistic silliness of the ‘AI Eurovision’ winner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-facebook-offers-50k-for-ai-that-can-detect-hateful-memes.md",
-      "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
-      "excerpt": "Facebook's created a dataset of 10,000 ‘hateful’ memes and is offering prizes totaling $100,000 for developers who can use it to detect hate speech in memes.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/amp/",
-      "publishedDateTime": "2020-05-13T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e58eaf07a009800073473b9%2F0x0.jpg",
-          "width": 1199,
-          "height": 798,
-          "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -41,6 +41,21 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/c302d9e/2147483647/strip/true/crop/4996x3263+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F36%2Fb3f5f1be481fa53bd2f849ebc739%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1209534231.jpg"
         width: 320
         height: 209
+  - title: "WATCH: Robot Dog Enforces Social Distancing, What Could Possibly Go Wrong?"
+    excerpt: "Spot is one of the world’s most advanced commercial robots, last seen opening doors, hauling a truck or dancing to Bruno Mars in a slate of mesmerizing promotional videos. Its two-week pilot in a park here is seen as a test of how machines and artificial intelligence could help reduce human contact in public spaces as some governments begin ..."
+    publishedDateTime: 2020-05-16T13:57:00Z
+    webUrl: "https://www.mediaite.com/news/watch-robot-dog-enforces-social-distancing-what-could-possibly-go-wrong/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-robot-dog-enforces-social-distancing-what-could-possibly-go-wrong/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-robot-dog-enforces-social-distancing-what-could-possibly-go-wrong/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 57
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/05/Spot-Coronavirus-robot-dog.jpg"
+        width: 1200
+        height: 630
   - title: "Meet the robot dog enforcing social distancing in Singapore"
     excerpt: "Leaves crunch underfoot as Spot marches through the park, back straight as a tabletop, stride brisk as a soldier’s."
     publishedDateTime: 2020-05-14T16:25:00Z

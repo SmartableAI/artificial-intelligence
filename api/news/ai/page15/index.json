@@ -2,6 +2,87 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-05-01-watch-this-ai-algorithm-change-humans-into-animorphs.md",
+      "title": "Watch This AI Algorithm Change Humans into Animorphs",
+      "excerpt": "AI researcher Xander Steenbrugge used machine learning generative models to turn people into animals and back again.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_ca/article/884wek/ai-algorithm-turns-humans-into-animals",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/884wek/ai-algorithm-turns-humans-into-animals",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/884wek/ai-algorithm-turns-humans-into-animals",
+      "publishedDateTime": "2020-05-01T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5eab0bb5d93a90009b14b3f2/lede/1588269690157-Screen-Shot-2020-04-30-at-20037-PM.png?crop=0.8434xw:0.9986xh;0.081xw,0.0014xh",
+          "width": 2488,
+          "height": 1398,
+          "title": "Watch This AI Algorithm Change Humans into Animorphs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup.md",
+      "title": "Former St. Louis Fed executive takes role at fast-growing fintech startup",
+      "excerpt": "\"Julie brings a wealth of banking and regulatory knowledge to our board of directors, and we are excited to welcome her to the Neocova team\"",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
+      "publishedDateTime": "2020-05-01T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.ksdk.com/assets/KSDK/images/a1d1230c-9cbf-4633-b16d-796ce263ce58/a1d1230c-9cbf-4633-b16d-796ce263ce58_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Former St. Louis Fed executive takes role at fast-growing fintech startup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-lane-mendelsohn-of-vantagepoint-ai-predicted-the-oil-collapse-months-in-advance-whats-next.md",
       "title": "Lane Mendelsohn of Vantagepoint AI Predicted the Oil Collapse Months in Advance - What's Next?",
       "excerpt": "Lane Mendelsohn, a leading expert in the FinTech Industry and President of Vantagepoint AI, started predicting the downward spiral of oil back",
@@ -1178,95 +1259,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-smart-home-startup-joshai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa.md",
-      "title": "Smart home startup Josh.ai raises $11 million to offer a home assistant alternative to Alexa",
-      "excerpt": "Directly taking on Google and Amazon generally seems to be an ill-advised strategy for a young startup. It’s even more complicated when you’re competing on the home assistants front, a technically-complex,",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/30/smart-home-startup-josh-ai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/30/smart-home-startup-josh-ai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/smart-home-startup-josh-ai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa/amp/",
-      "publishedDateTime": "2020-04-30T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Josh-Lifestyle-Dots-Crop.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Smart home startup Josh.ai raises $11 million to offer a home assistant alternative to Alexa",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-ford-self-driving-robotaxi-service-delayed-until-2022.md",
-      "title": "Ford self-driving robotaxi service delayed until 2022",
-      "excerpt": "Ford issued a statement (PDF) on Tuesday outlining the reasons for its decision to push the service back to 2022: Given the challenges of the current business environment, as well as the need to evaluate the long-term impact of COVID-19 on customer behaviors,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/ford-robotaxi-self-driving-fleet-delayed-2022/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/",
-      "publishedDateTime": "2020-04-30T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/zBtgGOgC6okZfcHMjUvu96dUuy4=/2018/10/02/b2b370e2-b088-46b0-b050-6e0e85069241/ford-autonomous-car-signals-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Ford self-driving robotaxi service delayed until 2022",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
