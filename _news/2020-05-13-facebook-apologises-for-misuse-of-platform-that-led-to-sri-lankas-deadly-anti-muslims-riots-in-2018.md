@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/news/asia/south-asia/article/3084148/facebook-a
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3084148/facebook-apologises-misuse-platform-led-sri-lankas-deadly-anti"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 1200
     height: 630
     title: "Facebook apologises for ‘misuse of platform’ that led to Sri Lanka’s deadly anti-Muslims riots in 2018"
-
-related:
-  - title: "Facebook Removed 50 Million Pieces of Covid-19 Misinformation in April"
-    excerpt: "Facebook announced it had removed 50 million pieces of content related to Covid-19 misinformation in April alone, based on 75,000 articles from the independent news organizations that serve as the company’s fact-checking partners."
-    publishedDateTime: 2020-05-12T21:21:00Z
-    webUrl: "https://www.adweek.com/brand-marketing/facebook-removed-50-million-pieces-of-covid-19-misinformation-in-april/"
-    ampWebUrl: "https://www.adweek.com/brand-marketing/facebook-removed-50-million-pieces-of-covid-19-misinformation-in-april/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/facebook-removed-50-million-pieces-of-covid-19-misinformation-in-april/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 44
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/05/burger-king-coronavirus-experience-CONTENT-2020-640x360.jpg"
-        width: 640
-        height: 360
 
 secured: "25FHgeywa+tX5pjHu/RrakoTWt41sTAD6HOE3XptGuYK4odKkRVUdslczFOqek+L65CMYus+5fq7mustX0yXiY4kc8djUs2Odkn6A8RIz50/9L8fRbln6NNrgCwSm954dRLcBiMlJRkArue/qBxlM+xKhZXGiVZ1f0Ff15KvcuIm8azuMzm5wI/dWjySLBQL0o7HxjB13w2mGrm/jxZR002FJvPBPEDe3GPT50DBcQhaI9jQopG9NPHCfIJIeolKepKVfkVlpdg80Y0KB/5whT0O1CzClNB4ziJet9FoDWhVK9aGns2v3M3Oo5hHCx/ZIZ/RefwjfDoznvHmXPtbN2nRKgAlJUS2/+FyDMFH7RPGC6reBH6ih9HM5mwyV0uTgeaE+PRoidL7BmQ+EdgjHKEli6BwLlnulNSPXpo6UNvfCL/avo2eM9Z+AHce8MKhecQBLSNgceyDcCMjBW7mtcBHNpojSmbhcENAxbR+6P4=;C2nfQ9nmcOC65oNXjY+ZSg=="
 ---
