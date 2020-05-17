@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-13T04:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2019-2024-2020-05-13"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: MarketWatch
@@ -28,19 +28,6 @@ images:
     title: "Artificial Intelligence In Healthcare Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2019-2024"
 
 related:
-  - title: "Outlook on the Healthcare Analytics Market in India to 2025 - How the Market Can Be Used to Combat COVID-19 - ResearchAndMarkets.com"
-    excerpt: "The \"Healthcare Analytics Market in India 2020\" report has been added to ResearchAndMarkets.com's offering. Healthcare analytics is a part of the digital healthcare system, which is technologically advanced and provides enhanced health management services using IT and effective communication tools."
-    publishedDateTime: 2020-05-12T09:52:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200512005415/en/Outlook-Healthcare-Analytics-Market-India-2025--"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
-    images:
-      - url: "https://mms.businesswire.com/media/20200512005415/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
   - title: "Insights into the Worldwide Natural Language Processing in Healthcare and Life Sciences Industry to 2026 - Key Market Developments and Financials of the Key Players ..."
     excerpt: "The \"Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing (NLP) in Healthcare and Life Sciences market is expected to reach $4."
     publishedDateTime: 2020-05-12T15:10:00Z

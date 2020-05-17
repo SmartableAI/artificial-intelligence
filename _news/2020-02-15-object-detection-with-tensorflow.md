@@ -16,6 +16,8 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - TensorFlow
+  - Google AI
 
 images:
   - url: "https://hackaday.com/wp-content/uploads/2018/07/main3.png"

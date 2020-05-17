@@ -38,19 +38,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Outlook on the Healthcare Analytics Market in India to 2025 - How the Market Can Be Used to Combat COVID-19 - ResearchAndMarkets.com"
-    excerpt: "The \"Healthcare Analytics Market in India 2020\" report has been added to ResearchAndMarkets.com's offering. Healthcare analytics is a part of the digital healthcare system, which is technologically advanced and provides enhanced health management services using IT and effective communication tools."
-    publishedDateTime: 2020-05-12T09:52:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200512005415/en/Outlook-Healthcare-Analytics-Market-India-2025--"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
-    images:
-      - url: "https://mms.businesswire.com/media/20200512005415/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
 
 secured: "qgn2kN/rJZueDWbHR0vgSfUERtqSKLQPBC494lUwq57dni0zMPOrGp5PXT/0bVU7lF5qsmM1vFs2jxbQZlRdRQjK18q0+Rl6+cBRTzfsBNSBHik+yiPVck8I0VWmxbb+D56FILFS5jQLBdG1J4QuHS/vlorB3dKtwvmXIsF8bSqcq0IG7gOCEDvZNalLpXeYwvhddwKH2SE0S+HLv/u8epASqE+2uNskHG/949Bjp+TIcsTtVwcGGOJCwgEejs5Y6z99wxaFxph5g42nh+Q2elqnEhpyTqPQMgbgkW1H5Pt45VUG1jnu5tk5780XKfW+3rZxDfU8PNwpr/m5YCWY8Pg1tBbeC4vUnzpnw67CGaxEtUvnUiXUC7hwRxvzVxuBSKxwH6WOiMDL1p1YWSwz+Z8q8rWZnqkzVjyAQpprk8NPlORcJXpeUZ0kUbfdLj1JfIfOc2zAzg2rzC+pHHUd8D+iGBQnZEnBQ2Cb4v9qh4c=;h9Iv1egSmFm5AX8VL/QhjA=="
 ---
