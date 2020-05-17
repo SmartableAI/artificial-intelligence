@@ -8,7 +8,7 @@ ampWebUrl: "https://www.law360.com/amp/articles/1272618"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272618"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -20,17 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Start-Up LexCheck Raises $3 Million Series Seed Investment Led by Kli Capital"
-    excerpt: "PRNewswire/ -- LexCheck, an artificial intelligence (AI) and legal technology platform based in New York City, has"
-    publishedDateTime: 2020-05-12T14:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "Lilt Raises $25 Million Series B Led By Intel Capital"
     excerpt: "PRNewswire/ -- Lilt, the AI-powered enterprise translation software and services company, today announces it has raised $25 million in Series B funding. Intel Capital led"
     publishedDateTime: 2020-05-12T15:08:00Z

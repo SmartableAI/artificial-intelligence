@@ -1,43 +1,25 @@
 ---
 category: news
 title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
-excerpt: "CognitiveScale, the Trusted AI Company, today announced the availability of Cortex Certifai (Certifai) in the Microsoft Azure Marketplace,"
-publishedDateTime: 2020-04-27T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cognitivescales-cortex-certifai-now-available-in-the-microsoft-azure-marketplace-301047031.html"
+excerpt: "in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. CognitiveScale customers can now take advantage of the productive and trusted ..."
+publishedDateTime: 2020-04-27T00:00:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cognitivescales-cortex-certifai-now-available-in-the-microsoft-azure-marketplace/article_afd7b89e-911f-5ed8-aa78-afc25e646749.html"
 type: article
-quality: 64
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
 
-related:
-  - title: "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to ELITE to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. SAN FRANCISCO,"
-    publishedDateTime: 2020-04-28T11:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/throughput-incs-elite-now-available-in-the-microsoft-azure-marketplace-2020-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 98
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
-secured: "+w3/dkvr+bs2iezbj8GIa0W+oHCif4eY0mdkcKdzYNh1JOEI6F/nsJDaEUN9suiyYlzCDBTGCa4SCo1QloMWum0ijHHXwBM79f4EZS2pu8Uxpw4d16JPykPkUuwm698T99gXabeIcAKzgaQtJsyxEhGG+bAAGSFGOm8cH/yu0ShO4kv81ec4jfUoMHIo7F5HBgHnpeVxWmKoPzZG1X5aj+yfGCr5x8OLT6AYVMiq3cCvfm7vNorbWpI+Ui2XRGHwJsIs6ACniYjZWUqHSuxHkiqou9bZKDS1jYkXfISzxj13GmbiaaIZIGs3tVzmmnXO;UrwOyVrHsA4sBbaBhpScOw=="
+secured: "ZLE5O82r0X5iI98ucdyC68vMvHMfbY5wBD/huKi+M+q4SdtrFTLtMqyqklpT0TnauCVdnba0Q09nlYb73VMyNibwojzW6VxLiLggDyzNP0e817zENYnhLT2JpFleRAAguYBVzW1p11mYtbaMvX0hSD/JXzQit4mhAO+b3ngadIfC7q8LTlqgouUcfPXBrBu3LQB+CO4jGK3kossfceCPSgD26jf7QXDHSvIBnIZP9chQBzxvooLh34CIgIMvdNifJdkgbXdmp9hvXAAhGVUmZAzzcOhJtcO3W3FFhOP0Vjs0taTJxdYyYNYmv+sp2Sch;YxjuGhkNya00bIcHnJaxng=="
 ---
 

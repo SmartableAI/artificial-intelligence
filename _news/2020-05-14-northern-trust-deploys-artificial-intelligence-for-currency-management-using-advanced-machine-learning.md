@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Northern Trust Deploys Artificial Intelligence for Currency Management Using Advanced Machine Learning"
-excerpt: "Northern Trust (NTRS) announced today it has enhanced its Foreign Exchange (FX) currency management solutions with machine learning models designed to"
-publishedDateTime: 2020-05-14T16:10:00Z
-webUrl: "https://www.businesswire.com/news/home/20200514005331/en/Northern-Trust-Deploys-Artificial-Intelligence-Currency-Management"
+excerpt: "Northern Trust (NTRS) announced today it has enhanced its Foreign Exchange (FX) currency management solutions with machine learning models designed to enable greater oversight of thousands of daily data points and help reduce risk throughout the currency management lifecycle."
+publishedDateTime: 2020-05-14T14:00:00Z
+webUrl: "https://apnews.com/Business Wire/eb0b9068e84b42ea880df6beed99526d"
 type: article
-quality: 38
-heat: 38
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200514005331/en/507749/23/NorthernTrust_Logo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     title: "Northern Trust Deploys Artificial Intelligence for Currency Management Using Advanced Machine Learning"
 
-secured: "ziPNGPpnyb2T44z41s+TRFm1PsKtyyKOiqbGSsIiLzUKu7TGYZrTHvwfbVhh6hyseJ4DjI09arnYDQEY7IhbwhQyr4dQ3V8+Cc1E+TyylaV7iasD3eSzxx3hAmq6eXzram2ryJBux5OIV/EoLOWrNSg0pSHYoB8tp27cIIWDOmVnYPmCanCimHwk3soRYBsHNUfKBtbAhgSuAYmJP+Gjviqg6HCTowUhZMIQc0ehR0RAgMrrSxrhVIGTlX1Fi4RPWutYq3tYhem4fkNlbUTleVsJH8tvSzYtpOeP9nRs0qj0OCcXWZaxnnFGSU6CAmsu;TsB6dM5jf4l/1PXZXN9jew=="
+secured: "ks65QzdUcEV98CiFi4oN722slDMTYsqlzR8W1tN6JoD+yceasjo6Th4OxmlSoMzuXnwR3NuLR5KLrmH1ODoPM8gL/WFIBaafXVn61Ve1S/rpajE9zjnATE1JkiHo8O1Anbz+Vs0A/Au2AZX8OCpIEXrvUtOcboGGiiVRZppahkAAdJ8drJB1/OES8oO/BDkdkc+HsaeiKlLgPQqxfqcdc8SVRgtsdIKs0DdL/wwVZpFObCLqCROrR3eiagLyiAEUAWOluAKSGciuqhvGhEm9fa246o7LEQtTsCXjxV9WCvoq2uCuLeuTKDgvAsMEM0NR;qQlGuqHuhLNouKjwBxoXCQ=="
 ---
 

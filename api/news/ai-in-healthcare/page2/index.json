@@ -8,27 +8,19 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/muos-aic042320.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-26T21:01:00-07:00",
+      "webUrl": "https://medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.amp",
+      "publishedDateTime": "2020-04-27T00:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/230100_web.jpg",
-          "width": 720,
-          "height": 479,
-          "title": "Artificial intelligence could serve as backup to radiologists' eyes",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
