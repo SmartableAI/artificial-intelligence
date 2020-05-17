@@ -3,13 +3,10 @@ category: news
 title: "Transformative Robotics Technology From Brain Corp"
 excerpt: "With retailers seeking to enhance the customer experience, not to mention overcome current COVID-19 challenges, Brain Corp believes that technology offers a way"
 publishedDateTime: 2020-05-12T13:36:00Z
-webUrl: "https://www.esmmagazine.com/technology/transformative-robotics-technology-brain-corp-98085"
+webUrl: "https://www.esmmagazine.com/uncategorized/transformative-robotics-technology-brain-corp-98085"
 ampWebUrl: "https://www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085"
 cdnAmpWebUrl: "https://www-esmmagazine-com.cdn.ampproject.org/c/s/www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085"
 type: article
-quality: 89
-heat: 89
-published: true
 
 provider:
   name: esmmagazine.com
@@ -25,6 +22,6 @@ images:
     height: 287
     title: "Transformative Robotics Technology From Brain Corp"
 
-secured: "YVp86I4sXO/TbF588lbiMq4si2ebw1BDMfmVK/68Ziwh89/MITHlwmqGNLhbXf30L/XIrRlSrM2w6F63wYdGCiSnyuWdtfQ/IGaCD7H5iLZYmuEeg1xhFf1iEhofkV0XXc94cOubCFismFo/PcB/klUSvdjy5bm7Gzid2BRY5QuCQXSq1EYaq4pqzbg41b2dvs0D0rN0o6kEpeJbCIa82szILa/gAxxsGLrxG3oigY9bIPjW4K5kGkhlg++7CeE3ibUQG4cN39ZvFbXof3QjB5BS9G20yhp1h2tr4p3BVzU7rzGUcKkwsEk+Sbllb1DXivSNoQcrm/hbbf7Eplih7ZgSAHBhS+6JW0F+TDTOXpQTIyqwZrEy+tAdgtiDOSuRUqVbcfODTzWejzELJdBo8RuIib29M2+eYj7zE+cG5YdpDcEIXj/Q7wjhVENvFBeRlJ35wOiCkku9ZiQlDtwcKK2GPFRSVcn6kBW4gKzYJ0o=;kB7Qsoe1qSbVm2Sc/St9Mg=="
+secured: "HXl9MCi0YgEWa6a24pXh2sV/A2zo17KekG6S5ygcX0VkDLJgcT6p9OHtEyaWklKXjOuOVIKLYRpva1dtONkzNhX8zZbqH7eaqh/v3x7Za1kH7w33HZN91eoXVyvKYrKvy/nmKfK+lFyuBm38RLktyeMNudmKDXNKo6UggIVNjjWsdqG0pi0othgeeYMY2UznIbYyKSNdtQsOOBng/zhebmutnw5Xf6GZlS9yePcgxEf30QrmJbSxnICpV/P+m8Ist+ulDP/sI7orHb7LN6fu+Gn/tzsCGdliTFKjzjU2UaSLtQmdCLZbALH8+KroPACp;zlTK/FAFaQVkY+NYsc1ApQ=="
 ---
 

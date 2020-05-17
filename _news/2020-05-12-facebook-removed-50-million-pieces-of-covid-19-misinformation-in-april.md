@@ -26,21 +26,36 @@ images:
     title: "Facebook Removed 50 Million Pieces of Covid-19 Misinformation in April"
 
 related:
-  - title: "Facebook apologises for ‘misuse of platform’ that led to Sri Lanka’s deadly anti-Muslims riots in 2018"
-    excerpt: "Sri Lanka may have helped stoke deadly violence in the country in 2018, according to an investigation of the social network’s operations there. The company has released a summary of the findings, along with other independent assessments of the service’s impact on human rights in Indonesia and also highlighted actions it has taken to address the problems,"
-    publishedDateTime: 2020-05-13T03:29:00Z
-    webUrl: "https://www.scmp.com/news/asia/south-asia/article/3084148/facebook-apologises-misuse-platform-led-sri-lankas-deadly-anti"
-    ampWebUrl: "https://amp.scmp.com/news/asia/south-asia/article/3084148/facebook-apologises-misuse-platform-led-sri-lankas-deadly-anti"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3084148/facebook-apologises-misuse-platform-led-sri-lankas-deadly-anti"
+  - title: "AI is still largely baffled by covid misinformation"
+    excerpt: "In its latest Community Standards Enforcement Report, released today, Facebook detailed the updates it has made to its AI systems for detecting hate speech and disinformation. The tech giant says 88.8% of all the hate speech it removed this quarter was detected by AI,"
+    publishedDateTime: 2020-05-12T18:32:00Z
+    webUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/"
+    ampWebUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 58
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/13/4e75de7a-94c6-11ea-ae0d-0e69ba128e68_image_hires_113024.JPG?itok=3MrCB3Pf&v=1589340639"
-        width: 1200
-        height: 630
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/AP_19148851357453-e1589306268959.jpg?w=1024"
+        width: 1024
+        height: 575
+  - title: "Facebook’s AI is still largely baffled by covid misinformation"
+    excerpt: "In its latest Community Standards Enforcement Report, released today, Facebook detailed the updates it has made to its AI systems for detecting hate speech and disinformation. The tech giant says 88.8% of all the hate speech it removed this quarter was detected by AI,"
+    publishedDateTime: 2020-05-13T02:12:00Z
+    webUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/"
+    ampWebUrl: "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/05/AP_19148851357453-e1589306268959.jpg?w=1024"
+        width: 1024
+        height: 575
 
 secured: "XM8qgFYCaxOmF3WMOvI2LRQK+xKumta4oHjXEOfbPEB/EHEte33o7ontkLtrYrTNliNHjhbWEIVfNDSwcWBrIChO/8DfprVvnOc+UXrjZwVw+aM1gT7/14mG73LBer7qEA81mGLR2UDaCpL2GSsliiHfulfaLuljq5qViQ6c2fkxcNesy/Ff864tT7Ti0xcPvsIseDbGlL2cxoSk/CrLKszD3ofA5etLqETEuhGM93XDVl5mS7OaPyI9sWSPSjKVPw5ZaplmAvADF4uyh4jpCsI3LV6rmklX0UZ53VetsbinxWaFTNdmvc0UwSWb8DEu;aENcF6hGV+hAKXck1I+63w=="
 ---

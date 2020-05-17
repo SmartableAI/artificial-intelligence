@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T04:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2019-2024-2020-05-13"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     width: 1200
     height: 630
     title: "Artificial Intelligence In Healthcare Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2019-2024"
-
-related:
-  - title: "Insights into the Worldwide Natural Language Processing in Healthcare and Life Sciences Industry to 2026 - Key Market Developments and Financials of the Key Players ..."
-    excerpt: "The \"Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing (NLP) in Healthcare and Life Sciences market is expected to reach $4."
-    publishedDateTime: 2020-05-12T15:10:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200512005642/en/Insights-Worldwide-Natural-Language-Processing-Healthcare-Life"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
-    images:
-      - url: "https://mms.businesswire.com/media/20200512005642/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
 
 secured: "PtpRN451VWqQpmCwZ+8rCeydcnCS8rZFNFTd/ZV/wToLDopC6jFwunJtxjsX2+HfvdHJeGn9POMo7QYH6Gn7QN8tjRZeX2xXByeDP4NKEX65DOv3+MHdYGUqxQDi3SgLFAI5illM/7ip0P9vvZPi9kFWGqZAbzg0JGs2+BNZU2pWCUFifcsgrU5KCFEPVEhdRi8KcTBjPJk9+UA63u9LxPd+iSqhVtN4LYxKF8TwBeXr4nhLKeyWtOvgqIv435QuSaCDhvvWOaC5QjJq/dohRb+EwD05cZPut8sUQna2ztOgIBZvqQ9tvxthABRTqD08;EsQHoiE6BM3FcenXktJlDQ=="
 ---
