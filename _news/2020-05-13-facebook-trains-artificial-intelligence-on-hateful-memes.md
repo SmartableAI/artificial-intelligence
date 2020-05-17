@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.thesouthafrican.com/technology/online/facebook-artificia
 cdnAmpWebUrl: "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -67,19 +67,6 @@ related:
       - url: "https://www.nation.co.ke/image/view/-/5551454/medRes/2614855/-/sneh6az/-/CYBERBULLYING3.jpg"
         width: 425
         height: 262
-  - title: "Facebook Trains AI On 'Hateful Memes'"
-    excerpt: "Facebook unveiled an initiative Tuesday to take on \"hateful memes\" by using artificial intelligence, backed by crowd sourcing, to identify maliciously motivated posts. The leading social network said it had already created a database of 10,"
-    publishedDateTime: 2020-05-12T20:54:00Z
-    webUrl: "https://www.ibtimes.com/facebook-trains-ai-hateful-memes-2974956"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/12/facebook-said-it-is-refining-its-artificial-intelligence.jpg"
-        width: 1024
-        height: 709
 
 secured: "GdYTeBi9HUZ3ZPWylx/HWtiuvVf7siDF2NnXIedkPYjLiyZfVbzYcCM4x7lpOT2qdiclBVKCgClJdHiGxbCO8YKRuvIKo6W13WnAdZ26Ih1XJYi6QY46Xnl/Ina0d3cztRRuaLKBnGCQuUbxQJMB0y8XmqxVNrbiHsI0iqM3aKvWY6FVHB+rlzHWxCK6E3wof9IQoW83v+mXEJZCZl4oDn2CNy/NhmuHuZU1NBOsbzJ+w6hjel/IgRlMhIqBIFdWaZCHNIvNohVdu5D7y1ADktMoArAfhi6VmHM0I6zMLeIEPDBq0FU5OLW+AEhbMVePwV6JsKKVvUTMNu93G+f2Px9XAAVxFM37yP/3Oi/vY7GHAC8wJBsAxAiX1fwSvz9hst9sE2tj8Ul5QIYAj/OMoU9InbIhQ3PjfjBSzHMj6UUrOkd4C9i9bJkc/6bQs50xSnuwNH1Qxphajp8rr8KUEJaM9/42FaTJDRmrfgrHlc4=;5nwUkwpHmGcmqOQ/aK1HLA=="
 ---

@@ -2,12 +2,9 @@
 category: news
 title: "Zoom, Xoom, Züm: Why does every startup sound fast now?"
 excerpt: "There have been at least 120 startups whose names include something that sounds like “zoom.” Another fact: They have raised a collective $1.8 billion in funding."
-publishedDateTime: 2020-05-11T14:49:00Z
-webUrl: "https://www.bizjournals.com/losangeles/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html"
+publishedDateTime: 2020-05-11T16:52:00Z
+webUrl: "https://www.bizjournals.com/columbus/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: The Business Journals
@@ -23,6 +20,6 @@ images:
     height: 400
     title: "Zoom, Xoom, Züm: Why does every startup sound fast now?"
 
-secured: "2Do6Yf7PTOC9fu/OJu8fepuT/v6Zrkdy4SRNdrP3NqCIjPKezvGs0E/ZSqRUYFwZBGndKGHr+y7wYXvU5rSRnNWOVLKbvjRVFbln4QOdJOVVCx1JYGRG1nJdX4j8BSaG0BNH6S1Gx9zb+n5dlDqJo5fcEcsgaB7u8imSpbp43lD7PUxLQCMxaJrvadCYe6aEzzO7y9VAp3Pk3MaDEZ+FcaaHVZwZK9/WrIWJ11aSqDX9UBNatc9koBQ1PdUYvscucvDJar+mqk6eHuR8EOaUZ27ShAZ38ltAv2LJpHfBfXXo2LmUI6edZj4R4SOPM+KRxinQo7xo3CGGbZUp6mb3LNDLpeUZ2Jz+SRgBs8+5v057PcSelW6ilZzYiHCkqQNA+M49ZzQEbKGHNQ3n5u4B+CRLwbS21yDF5IQS5KvGsZ1IR48aytzxWhMviTyFBi69Uf31pr6QM6djILH0ePCdNIl2Q7+ZwUsp/b036FPVrkg=;x+HSlazQIAfB1nYxeUJ6vQ=="
+secured: "tZGkILBq0dVjROm1S3WKRFTSMZ7uXE0Uo55GXB0drAZ3RxsszMfKtO97BwJ7z3gHs3EL1cZyVo48xbRDL1g7Lm37L26J7rI+widyf4MS2ofreb9oD46jlWcdlibrY3W7USifFw4gJUFzztkZlpAl7niNAA+ESDMVvScmy3Yt1/Se3Nhc2v0d2gjQ+baBQQHIGuJUpsKFxa9Wl+Sdp45qEOQDCSHRYidZyutfJeLPiqTxCMN8PJ2mz+BP3K4T8d9DK12EenuqQn2dMdDMj4KdgcJcn7hQxhfKKfPP9TN8ZHwHjWTQZKID+BXQ8OWALzBq;IVUSpkI9DsQmx0lXlDiUZA=="
 ---
 

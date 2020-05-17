@@ -67,19 +67,6 @@ related:
       - url: "https://www.nation.co.ke/image/view/-/5551454/medRes/2614855/-/sneh6az/-/CYBERBULLYING3.jpg"
         width: 425
         height: 262
-  - title: "Facebook Trains AI On 'Hateful Memes'"
-    excerpt: "Facebook unveiled an initiative Tuesday to take on \"hateful memes\" by using artificial intelligence, backed by crowd sourcing, to identify maliciously motivated posts. The leading social network said it had already created a database of 10,"
-    publishedDateTime: 2020-05-12T20:54:00Z
-    webUrl: "https://www.ibtimes.com/facebook-trains-ai-hateful-memes-2974956"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/12/facebook-said-it-is-refining-its-artificial-intelligence.jpg"
-        width: 1024
-        height: 709
 
 secured: "jtmkVhhNUIrMFkknxLkvWgsCem7P5S0Ca/M9SaoR1TXMSDS5mH65EtTuqlRPcnq+mqE0R327INhyLBueeDDKc5bMeYMOSQhKQ/v5q5IiRIoEi7L5ZamR/xm0sU0wZFakt6Auhz0/f2hGwQEA6P5ZzhNsSEwGLX+jI7UQv6QH309B8OqVqZSByFtFS6ZGdlZdo5O1d+AnChoCpi27Q/Wbg60SdsN3NfwuE0djgu2ZP/BF7cAnNnEFkbd2Q9d2kGYPTrrT43ibe9g/CORq/k062SJS/zDZdxViP9JXRbkkVyGb4CupnCmodo8x/R85ygCXDpbNEnhVKqT6JVpUYsZ4b8LwWnmJtn45TiNJ6bq6sdiQSdkaqsyLZ8/HtqLRvSuZDB9VYwtt/gCjMBZpVVrVWiDOwQfPAEAUZfMjAPA7wxozkP0WabryyJFRpr9Z5VKqFCxDldeXWyo1irrOKY3zXzeJor7MD0cEfzqx0lhXRzU=;ngq4N68Q77UmVQLy3npnRw=="
 ---

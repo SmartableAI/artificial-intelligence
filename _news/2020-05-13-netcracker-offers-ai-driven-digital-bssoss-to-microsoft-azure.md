@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T06:46:00Z
 webUrl: "https://www.telecompaper.com/news/netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure--1338275"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -18,21 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure"
-    excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications"
-    publishedDateTime: 2020-05-12T20:39:00Z
-    webUrl: "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/"
-    ampWebUrl: "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 89
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
   - title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
     excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure. Netcracker is collaborating with Microsoft to integrate Azure Machine Learning (ML) and AI services with Netcracker’s Advanced Analytics to add intelligent contextual decisioning and recommendations to enable more personalized customer"
     publishedDateTime: 2020-05-14T09:16:00Z

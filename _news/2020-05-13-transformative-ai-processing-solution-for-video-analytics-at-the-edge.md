@@ -24,19 +24,6 @@ images:
     title: "Transformative AI Processing Solution for Video Analytics at the Edge"
 
 related:
-  - title: "Foxconn Partners With Socionext and Hailo to Launch Next-generation AI Processing Solution for Video Analytics at the 'Edge'"
-    excerpt: "Foxconn, a global leader in smart manufacturing, is joining Socionext, a major provider of advanced SoC solutions for video and"
-    publishedDateTime: 2020-05-12T20:13:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/foxconn-partners-with-socionext-and-hailo-to-launch-next-generation-ai-processing-solution-for-video-analytics-at-the-edge-301057562.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 12
-    images:
-      - url: "https://mma.prnewswire.com/media/1167022/Socionext_Foxconn_Hailo.jpg?p=facebook"
-        width: 2700
-        height: 1414
   - title: "Foxconn Partners with Socionext and Hailo to Launch Next-Generation AI Processing Solution for Video Analytics at the \"Edge\""
     excerpt: "Taipei, Taiwan, Yokohama, Japan and Tel Aviv, Israel May 12, 2020 ---Foxconn, a global leader in smart manufacturing, is joining Socionext, a major provider of advanced SoC solutions for video and imaging systems, and leading artificial intelligence (AI ..."
     publishedDateTime: 2020-05-13T06:41:00Z
