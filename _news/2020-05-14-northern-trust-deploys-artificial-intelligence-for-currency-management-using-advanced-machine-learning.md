@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Northern Trust Deploys Artificial Intelligence for Currency Management Using Advanced Machine Learning"
-excerpt: "Northern Trust (NTRS) announced today it has enhanced its Foreign Exchange (FX) currency management solutions with machine learning models designed to enable greater oversight of thousands of daily data points and help reduce risk throughout the currency management lifecycle."
-publishedDateTime: 2020-05-14T14:00:00Z
-webUrl: "https://apnews.com/Business Wire/eb0b9068e84b42ea880df6beed99526d"
+excerpt: "Northern Trust (NTRS) announced today it has enhanced its Foreign Exchange (FX) currency management solutions with machine learning models designed to"
+publishedDateTime: 2020-05-14T16:10:00Z
+webUrl: "https://www.businesswire.com/news/home/20200514005331/en/Northern-Trust-Deploys-Artificial-Intelligence-Currency-Management"
 type: article
-quality: 23
-heat: 23
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200514005331/en/507749/23/NorthernTrust_Logo.jpg"
+    width: 1200
+    height: 627
     title: "Northern Trust Deploys Artificial Intelligence for Currency Management Using Advanced Machine Learning"
 
-secured: "ks65QzdUcEV98CiFi4oN722slDMTYsqlzR8W1tN6JoD+yceasjo6Th4OxmlSoMzuXnwR3NuLR5KLrmH1ODoPM8gL/WFIBaafXVn61Ve1S/rpajE9zjnATE1JkiHo8O1Anbz+Vs0A/Au2AZX8OCpIEXrvUtOcboGGiiVRZppahkAAdJ8drJB1/OES8oO/BDkdkc+HsaeiKlLgPQqxfqcdc8SVRgtsdIKs0DdL/wwVZpFObCLqCROrR3eiagLyiAEUAWOluAKSGciuqhvGhEm9fa246o7LEQtTsCXjxV9WCvoq2uCuLeuTKDgvAsMEM0NR;qQlGuqHuhLNouKjwBxoXCQ=="
+secured: "4BPEeRhj29QHzGIzzP8Vx22D3iMrHq+ZcAAmrwjzVmimr5LNavZGYpoGeXXGPomyQHyotljHUaExWGj0ogUHa27Nt/xW1n4/WXGG4ofsyPmg/re3qGeDdMOQQVcoC/RYAnb44kTxSp7NRXcKh1Y4R+svo8GrBgDkl/6slQHjvI7OVhl8vhUgFfYoddcd7r67o0nN8ysD/2FvAoe/1mu1Gr9+i98kFwF44DODnUhfizoZE8M+oP67f7U+saLgUHZC1IJNsUYMcKJVN1qc7jDvlbbIV82Kd++wBSi3gjTEuL9aEL8IHy8mq1CDxKr7YgKk;8VJN/R53M98/kb42x/Y2uQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/14/21259001/cruise-gm-l
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21259001/cruise-gm-layoff-self-driving-unit-recruiting-product-design"
 type: article
 quality: 74
-heat: 124
+heat: 125
 published: true
 
 provider:
@@ -60,17 +60,19 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 500
-  - title: "GM self-driving tech unit Cruise laying off about 8% of staff"
-    excerpt: "May 14 (Reuters) - General Motors Co's GM.N self-driving car unit Cruise on Thursday announced it was laying off about 8% of its staff, according to an internal e-mail. That makes it the latest autonomous vehicle technology firm to cut staff as the coronavirus pandemic has shut down the economy and dried up funding."
-    publishedDateTime: 2020-05-14T19:36:00Z
-    webUrl: "https://www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0"
-    ampWebUrl: "https://www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0?amp"
+  - title: "GM Self-Driving Tech Unit Cruise Laying Off About 8% of Staff"
+    excerpt: "General Motors Co's self-driving car unit Cruise on Thursday announced it was laying off about 8% of its staff, according to an internal e-mail."
+    publishedDateTime: 2020-05-14T18:50:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/05/14/us/14reuters-gm-autonomous-layoffs.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: New York Times
+      domain: nytimes.com
     quality: 54
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "GM Self-Driving Tech Unit Cruise Laying off About 8% of Staff"
     excerpt: "(Reuters) - General Motors Co's self-driving car unit Cruise told staff on Thursday it has decided to lay off workers, the latest start-up in the nascent industry to cut jobs during the coronavirus pandemic."
     publishedDateTime: 2020-05-15T08:30:00Z
@@ -94,6 +96,6 @@ related:
         width: 470
         height: 246
 
-secured: "C0Ow6IfrkxpbRxq9/qUrVEmJw6m+aEMwetEQBEYBBX7x0JoNHg/Qr6RZzawEAz5YSqtJQ3b4S8GPt0Pf5H9Jz8wCIf+wKNhoXJ0oVxFdNi0/0JhO8MHqk+idlMhDqJmiJRnmPP0Ru3LWr9RE/KGrc5LE7g3D3ixsG5dJ2T73pbjoJnrD4mjWtJsl89TraBodqeT44pUwuGmBpJ7FyuCo25sjyfo22LdyL33TC2j84RML5GhqTT3+oBnynhQ969K+zgJTr+/v7iv5KQqf6tf3py7pUPqRsoHkbdiB9abEGWhuDG8DUaoacxpc1nL+okFun0D8+B2685KRToLqd1RXhmfw1vSfXy0PAILhSi9uPKMh8I4aFGyaIwNgIkmPn9+A+CKoImlBvGEjYh//j0HMwX5WGVJEaICsN4FXVA42vanBZTsbrOz9WBhvdwXNSAcIaDeOg+LCv5/RaryV2s9vOwG0/ppXj3Elb8iY8t2Ekg4=;waM4j5b0YRQdOu6YNR8iWA=="
+secured: "h15B4f+vFHYD0OnKqv5fJAnLce59HHH10G3W5O+NCiedIEIGmK8nzTTv2TjVp1g5YTJtL+zfxpFuB3EXWDWsydb/JfJ1Wco1gf8yh33nQ5cGNEHipTT9cZyMFqN5cpyShqp8rUAqQsk/V79cFRZ/GMwlnwdM/IIpF8FTwBH/V+M9R1BL2ompy8yDv/S6Sqbpc56UjCOeqoOeAyGIlSPv+l5/6GSZsnTINoXVO5YLKqRJzxCfJ5QZj1GOucgK4w2mQwxCWbt1k2os4TLYH6rSaN87StRSVVjEExPFjEUj4iSPXzJi5Vcuub8Fpmf9GqMs2eEPH9K5a7Hy8CvTFNPVt/756Ttz84VVR8RiYrSUl/qXWSz4yrq6tD/YsjFGoJLav7G7TSGr1/WDRb1zwCS3ycBOvS5aWqmPfI1K7UCPzbB4jG3ZSgIpi3g6tfC2yUf+qi3f2Bwq1wS9R6Ns3xgQfBoUgUdT3wz+GXQ6OQ773q8=;80BAZJ131rXhqQT6+kVoUA=="
 ---
 

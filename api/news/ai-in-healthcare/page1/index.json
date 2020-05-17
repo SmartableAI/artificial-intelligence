@@ -5,7 +5,7 @@
       "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
       "title": "Edward Saatchi on virtual beings: AI is the next great art form",
       "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
@@ -44,7 +44,8 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI Ethics"
       ]
     },
     {

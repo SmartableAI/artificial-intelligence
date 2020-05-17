@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.thesouthafrican.com/technology/online/facebook-artificia
 cdnAmpWebUrl: "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2019/01/Facebook-770x433.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
-  - title: "Facebook trains AI to take on ‘hateful memes’"
-    excerpt: "Facebook said it was releasing the database to researchers as part of a “hateful memes challenge” to develop improved algorithms to detect hate-driven visual messages, with a prize pool of US$100,000."
-    publishedDateTime: 2020-05-12T23:28:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/05/13/facebook-trains-ai-to-take-on-hateful-memes/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 39
-    images:
-      - url: "https://s3media.freemalaysiatoday.com/wp-content/uploads/2018/10/facebook-logo-bloomberg1310.jpg"
-        width: 800
-        height: 500
   - title: "TECH BREAK: Facebook trains AI on 'hateful memes'"
     excerpt: "Facebook said it was releasing the database to researchers as part of a \"hateful memes challenge\" to develop improved algorithms to detect hate-driven visual messages, with a prize pool of $100,000. \"These efforts will spur the broader AI research community to test new methods,"
     publishedDateTime: 2020-05-13T11:17:00Z

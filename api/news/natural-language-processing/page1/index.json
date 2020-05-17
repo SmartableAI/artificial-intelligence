@@ -5,7 +5,7 @@
       "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
       "title": "Edward Saatchi on virtual beings: AI is the next great art form",
       "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
@@ -44,7 +44,46 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-17-openai-finds-machine-learning-efficiency-is-outpacing-moores-law.md",
+      "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
+      "excerpt": "OpenAI researchers outline a new way to measure AI efficiency, and using their measure, they show AI has been getting more efficient at a wicked pace.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/",
+      "ampWebUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
+      "publishedDateTime": "2020-05-17T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/05/frankie-lopez-sMzlrCmZSwY-unsplash-2.jpg",
+          "width": 1408,
+          "height": 793,
+          "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1250,51 +1289,6 @@
           "width": 1059,
           "height": 619,
           "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online.md",
-      "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
-      "excerpt": "An upcoming Animal Crossing AI workshop and ICLR this week may reshape what research conferences look like, but social experiences are still a challenge.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/amp/",
-      "publishedDateTime": "2020-05-01T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/animal-crossing.png?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
           "attribution": null
         }
       ],

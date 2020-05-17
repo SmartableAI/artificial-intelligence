@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-17-openai-finds-machine-learning-efficiency-is-outpacing-moores-law.md",
+      "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
+      "excerpt": "OpenAI researchers outline a new way to measure AI efficiency, and using their measure, they show AI has been getting more efficient at a wicked pace.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/",
+      "ampWebUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
+      "publishedDateTime": "2020-05-17T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/05/frankie-lopez-sMzlrCmZSwY-unsplash-2.jpg",
+          "width": 1408,
+          "height": 793,
+          "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-16-steve-platt-and-experian-decades-of-delivering-return-on-ai.md",
       "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
       "excerpt": "Steve Platt, an Experian executive, has a long history of delivering economic returns from artificial intelligence.",
@@ -1001,35 +1039,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
-      "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-07-pandemic-spike-in-ai-learning-and-what-it-means-for-schools.md",
       "title": "Pandemic Spike In AI Learning--and What It Means For Schools",
       "excerpt": "The tech learning space is shifting fast with big implications for high schools and colleges. It will be important to rethink delivery with blended competency-based pathways.",
@@ -1073,6 +1082,43 @@
         "Machine Learning",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
+      "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
+      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bakersfield.com/ap/news/inspur-takes-3rd-place-in-neurips-autodl-2019-2020/article_369dc614-0439-5079-9394-c84d3b7ce923.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1228,43 +1274,6 @@
           "width": 1200,
           "height": 878,
           "title": "AI, Machine Learning, Big Data critical in fight against Covid-19, experts emphasize at trends e-discussion",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom.md",
-      "title": "Google to teach journalists power of AI, machine learning in newsroom",
-      "excerpt": "In a global survey conducted by Google last year about the use of AI by news organisations, most respondents highlighted the need to train their newsroom on the potential offered by machine learning a",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/internet/google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom/article31524236.ece",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/internet/google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom/article31524236.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/internet/google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom/article31524236.ece/amp/",
-      "publishedDateTime": "2020-05-07T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/internet/a1ffcf/article31524235.ece/ALTERNATES/LANDSCAPE_615/07NETGOOGLEJOURNO",
-          "width": 615,
-          "height": 384,
-          "title": "Google to teach journalists power of AI, machine learning in newsroom",
           "attribution": null
         }
       ],

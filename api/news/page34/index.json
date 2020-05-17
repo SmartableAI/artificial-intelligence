@@ -2,6 +2,50 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-04-20-this-covid-19-app-would-listen-to-your-cough-and-use-ai-to-predict-whether-you-have-coronavirus.md",
+      "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
+      "excerpt": "A slew of AI labs are currently aiming to fight coronavirus with apps that analyze audio from people speaking, breathing, or coughing.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4?amp",
+      "publishedDateTime": "2020-04-20T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e9dc9c192e8ba71ef0c6fc8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-robo-nurse-of-the-future.md",
       "title": "Robo nurse of the future",
       "excerpt": "Failure to insert an IV line is one of the leading causes of injury and infection. Researchers at Rutgers University in the US have developed a robot that finds blood vessels, even if they’re very small, and successfully inserts a needle or catheter.",
@@ -1008,51 +1052,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025.md",
-      "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
-      "excerpt": "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. These major players have adopted ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025-2020-04-19?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-19T19:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

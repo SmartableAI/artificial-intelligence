@@ -54,19 +54,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2019/01/Facebook-770x433.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
-  - title: "Facebook trains AI to take on ‘hateful memes’"
-    excerpt: "Facebook said it was releasing the database to researchers as part of a “hateful memes challenge” to develop improved algorithms to detect hate-driven visual messages, with a prize pool of US$100,000."
-    publishedDateTime: 2020-05-12T23:28:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/05/13/facebook-trains-ai-to-take-on-hateful-memes/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 39
-    images:
-      - url: "https://s3media.freemalaysiatoday.com/wp-content/uploads/2018/10/facebook-logo-bloomberg1310.jpg"
-        width: 800
-        height: 500
 
 secured: "i03txo4njQJI8Mn953OBlLE3EBPF0gmPj0QvzV1f1nhMJA508q0hx6Midfm09bHV4TBgKXbKOnqv3ntsfwdMuwfzYC/a0lVuH+qiRb2n9kOAgDTX2lzSuTBUezAO8RigJ6s4JEkeJXPIRwn6vz/xT1lRpndkTSa3iA9vmXYXJEyQwxEJIlRsPmh6I7WF4BbmsE/tus1iYES4ARQ/ylboSjF8eCNpWJjjWNYnbbH94JPAdJRWDJnopHmfUEthX7xgV3KtlSBJ6oNcPVadvQS7VpPUFA2Ofyi/t05yySPL8R9tXS9v1neE8sSXfMOXcw7W36cRDuIB1CXrb0h6vc7qOkwS7TAF0AA+9TD0pT2QZ3ag5F8UsMOlQ7a5wYteWhFqdCMLkxC7Xhp8XcbtWauuLED4D1hMbnxmVbDwW0b3m9nZR83OhQcmU4LUsKW/R82yEUBh4S3xx9fIe/BJQQT7tTqys2wD0dbGVbBuW93ru6c=;9U1zo/gJ+9Ot5poa15UaZw=="
 ---

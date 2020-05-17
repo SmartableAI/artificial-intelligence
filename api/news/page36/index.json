@@ -2,6 +2,51 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-04-17-ai-and-machine-learning-are-making-insurance-more-predictable.md",
+      "title": "AI and machine learning are making insurance more predictable",
+      "excerpt": "\"So much data is locked up in paper and pdf files, and it has to be manually extracted by someone. In the process, there are errors and omissions.\" If AI and machine learning can transform these troves of documents into more usable, accessible information, employees, agents, and customers will get more value from the data. To facilitate the ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-and-machine-learning-are-making-insurance-more-predictable/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-machine-learning-are-making-insurance-more-predictable/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-machine-learning-are-making-insurance-more-predictable/",
+      "publishedDateTime": "2020-04-17T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/17/4ac21ed5-fd7c-4d55-845d-4e4ecd51c71d/resize/1200x/542b08ee6b37947ec03bf458af15bd53/istock-1178261521-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and machine learning are making insurance more predictable",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-clearview-ai-exposes-source-code-to-controversial-facial-recognition-app-and-company-credentials.md",
       "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
       "excerpt": "A researcher found that a misconfiguration allowed anyone to register as a new user and access the database containing Clearview's code regardless of whether they had entered password.",
@@ -1020,51 +1065,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-server-screw-up-exposes-clearviews-facial-recognition-ai-software.md",
-      "title": "Server screw-up exposes Clearview’s facial recognition AI software",
-      "excerpt": "Clearview AI is widely seen as a privacy nightmare by the public and even privacy-challenged tech giants like Google. Now, the company has shown that it can’t even take care of its own data, according to a report from TechCrunch. It managed to expose its source code to anyone with an internet connection due to a server misconfiguration ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/clearview-ai-source-code-security-lapse-092558647.html",
-      "ampWebUrl": "https://www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html",
-      "publishedDateTime": "2020-04-17T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F28ce59d0-8081-11ea-bdfc-a85012ce4b5d&client=amp-blogside-v2&signature=f9db85aae85bfe0ff86ffd4d1d3a741e271a4252",
-          "width": 600,
-          "height": 350,
-          "title": "Server screw-up exposes Clearview’s facial recognition AI software",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

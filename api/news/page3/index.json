@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-14-this-ai-will-judge-you-for-eating-microwave-meals.md",
+      "title": "This AI will judge you for eating microwave meals",
+      "excerpt": "MIT CSAIL has created an AI system called Sapple that uses motion sensors and smart energy meters to work out how you're using microwaves and hair dryers",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/amp/",
+      "publishedDateTime": "2020-05-14T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-36-796x377.png",
+          "width": 796,
+          "height": 377,
+          "title": "This AI will judge you for eating microwave meals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models.md",
       "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
       "excerpt": "Nvidia unveiled its latest data center chip architecture, “Ampere,” and a motherboard to power multi-chip servers for AI. The company sees ever-more-gigantic neural networks in coming years.",
@@ -1047,52 +1091,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-and-databricks-announce-gpu-acceleration-for-spark-30.md",
-      "title": "Nvidia and Databricks announce GPU acceleration for Spark 3.0",
-      "excerpt": "At its GPU Technology Conference event today, Nvidia is announcing GPU acceleration for Apache Spark 3.0, made possible by open source software developed in collaboration with Spark's creators at Databricks.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/nvidia-and-databricks-announce-gpu-acceleration-for-spark-3-0/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-and-databricks-announce-gpu-acceleration-for-spark-3-0/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-databricks-announce-gpu-acceleration-for-spark-3-0/",
-      "publishedDateTime": "2020-05-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2017/09/29/997be8da-a338-49ec-aaaf-274dc1375575/thumbnail/1200x675/48c52c31f037cfda198e14cd18f0a288/jump-into-data-lake.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Nvidia and Databricks announce GPU acceleration for Spark 3.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

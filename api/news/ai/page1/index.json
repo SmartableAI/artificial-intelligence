@@ -49,7 +49,7 @@
       "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
       "title": "Edward Saatchi on virtual beings: AI is the next great art form",
       "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
@@ -88,7 +88,46 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-17-openai-finds-machine-learning-efficiency-is-outpacing-moores-law.md",
+      "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
+      "excerpt": "OpenAI researchers outline a new way to measure AI efficiency, and using their measure, they show AI has been getting more efficient at a wicked pace.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/",
+      "ampWebUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
+      "publishedDateTime": "2020-05-17T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/05/frankie-lopez-sMzlrCmZSwY-unsplash-2.jpg",
+          "width": 1408,
+          "height": 793,
+          "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1270,43 +1309,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-ltn-global-enters-aws-advanced-technology-partner.md",
-      "title": "LTN Global enters AWS advanced technology partner",
-      "excerpt": "LTN Global has become the latest video industry firm to seek out the IT platform giants to provide offerings and will use AWS across its modular suite.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.html",
-      "ampWebUrl": "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html",
-      "publishedDateTime": "2020-05-15T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2020/May_2020/Elemental_12_Jan.jpg",
-          "width": 400,
-          "height": 234,
-          "title": "LTN Global enters AWS advanced technology partner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

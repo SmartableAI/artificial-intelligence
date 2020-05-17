@@ -2,6 +2,51 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-04-09-amazons-ai-uses-meta-learning-to-accomplish-related-tasks.md",
+      "title": "Amazon’s AI uses meta learning to accomplish related tasks",
+      "excerpt": "or learning with five examples per new task. But the researchers say those baselines were complementary to their approach, and that they believe combining approaches could yield lower error rates. “In the past decade, deep-learning systems have proven remarkably successful at many artificial-intelligence tasks, but their applications tend to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/amp/",
+      "publishedDateTime": "2020-04-09T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon’s AI uses meta learning to accomplish related tasks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-qc-ware-wins-bpifrance-concours-dinnovation-i-nov-award-to-accelerate-quantum-machine-learning-in-france.md",
       "title": "QC Ware Wins BPIFrance Concours d'Innovation i-Nov Award to Accelerate Quantum Machine Learning in France",
       "excerpt": "PARIS and PALO ALTO, Calif., April 9, 2020 /PRNewswire/ -- QC Ware France, a wholly owned subsidiary of the quantum computing-as-a-service company QC Ware, today announced that it has been",
@@ -1230,50 +1275,6 @@
           "width": 1200,
           "height": 600,
           "title": "Google releases API to train smaller, faster AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-coronavirus-crisis-gives-an-opportunity-for-ai-to-shine.md",
-      "title": "Coronavirus crisis gives an opportunity for AI to shine",
-      "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) It seems that artificial intelligence (AI) and machine learning (ML) have important roles to play as physicians, hospitals, pharmaceutical companies, and others directly engaged in the coronavirus fight try to find rapid therapeutic and containment answers.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
-      "publishedDateTime": "2020-04-08T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/08/0f2c7dfc-c9c7-468a-a36d-eafc5cc75256/resize/1200x/48d39f57b6e8ab042b8f7759922c32a7/istock-1204743045.jpg",
-          "width": 1200,
-          "height": 654,
-          "title": "Coronavirus crisis gives an opportunity for AI to shine",
           "attribution": null
         }
       ],

@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-08-how-ai-is-helping-scientists-in-the-fight-against-covid-19-from-robots-to-predicting-the-future.md",
+      "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
+      "excerpt": "“AI is playing numerous roles, all of which are important based on where we are in the pandemic cycle,” the two told GeekWire in an email. “But what if the virus could have been contained?” Canadian health surveillance startup BlueDot was among the first in the world to identify the COVID-19 risk and accurately predict its ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/",
+      "publishedDateTime": "2020-04-08T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/02/190210-ai-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-with-the-great-power-of-ai-comes-great-ethical-responsibility.md",
       "title": "With the great power of AI comes great ethical responsibility",
       "excerpt": "Representative, fair, transparent and accountable AI systems are more accurate, easier to debug and more likely to comply for existing and future governance. There are three stages that businesses can follow to build ethics into their AI systems. A business must compose its strategy for an ethical working culture that pervades the work ...",
@@ -1168,51 +1214,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too.md",
-      "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
-      "excerpt": "AI ethics is a hot trending topic these days. And, so it should be. With the rise of AI systems popping up here and there, and virtually everywhere, there is a rightfully emerging concern that these computer-based systems are being thrown into the world without much thought given to the societal impacts that they can produce.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
-      "publishedDateTime": "2020-03-12T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e680526e1e61700080e7020%2F0x0.jpg%3FcropX1%3D339%26cropX2%3D5849%26cropY1%3D0%26cropY2%3D4133",
-          "width": 1200,
-          "height": 900,
-          "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

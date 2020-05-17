@@ -41,19 +41,6 @@ related:
       - url: "https://gcs.thesouthafrican.com/2020/05/7764b0a6-facebook-ai-scaled.jpeg"
         width: 2560
         height: 1707
-  - title: "Facebook trains AI to take on ‘hateful memes’"
-    excerpt: "Facebook said it was releasing the database to researchers as part of a “hateful memes challenge” to develop improved algorithms to detect hate-driven visual messages, with a prize pool of US$100,000."
-    publishedDateTime: 2020-05-12T23:28:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/05/13/facebook-trains-ai-to-take-on-hateful-memes/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 39
-    images:
-      - url: "https://s3media.freemalaysiatoday.com/wp-content/uploads/2018/10/facebook-logo-bloomberg1310.jpg"
-        width: 800
-        height: 500
   - title: "TECH BREAK: Facebook trains AI on 'hateful memes'"
     excerpt: "Facebook said it was releasing the database to researchers as part of a \"hateful memes challenge\" to develop improved algorithms to detect hate-driven visual messages, with a prize pool of $100,000. \"These efforts will spur the broader AI research community to test new methods,"
     publishedDateTime: 2020-05-13T11:17:00Z

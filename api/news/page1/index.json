@@ -49,7 +49,7 @@
       "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
       "title": "Edward Saatchi on virtual beings: AI is the next great art form",
       "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
@@ -88,7 +88,46 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-17-openai-finds-machine-learning-efficiency-is-outpacing-moores-law.md",
+      "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
+      "excerpt": "OpenAI researchers outline a new way to measure AI efficiency, and using their measure, they show AI has been getting more efficient at a wicked pace.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/",
+      "ampWebUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
+      "publishedDateTime": "2020-05-17T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/05/frankie-lopez-sMzlrCmZSwY-unsplash-2.jpg",
+          "width": 1408,
+          "height": 793,
+          "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1055,43 +1094,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-nvidia-releases-most-advanced-ai-chip-ever.md",
-      "title": "Nvidia releases most advanced AI chip ever",
-      "excerpt": "Nvidia has just released its next-generation artificial intelligence chip - and it's quite the beast. During a keynote at Nvidia GTC, CEO Jensen Huang referred to the new Nvidia A",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itproportal.com/news/nvidia-releases-most-advanced-ai-chip-ever/",
-      "ampWebUrl": "https://www.itproportal.com/amp/news/nvidia-releases-most-advanced-ai-chip-ever/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nvidia-releases-most-advanced-ai-chip-ever/",
-      "publishedDateTime": "2020-05-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZCpccNHtpUekUzUU49oVbe-1200-80.jpg",
-          "width": 700,
-          "height": 394,
-          "title": "Nvidia releases most advanced AI chip ever",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

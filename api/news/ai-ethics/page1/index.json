@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
+      "title": "Edward Saatchi on virtual beings: AI is the next great art form",
+      "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-17T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/lucy.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": "Edward Saatchi on virtual beings: AI is the next great art form",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate.md",
       "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
       "excerpt": "The Pontifical Academy for Life \"strives to interweave faith with science and technology, to identify paths for multiple voices to walk alongside one another.\"",
@@ -1260,52 +1307,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-how-ai-is-helping-scientists-in-the-fight-against-covid-19-from-robots-to-predicting-the-future.md",
-      "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
-      "excerpt": "“AI is playing numerous roles, all of which are important based on where we are in the pandemic cycle,” the two told GeekWire in an email. “But what if the virus could have been contained?” Canadian health surveillance startup BlueDot was among the first in the world to identify the COVID-19 risk and accurately predict its ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/",
-      "publishedDateTime": "2020-04-08T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/02/190210-ai-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
       ]
     }
   ],

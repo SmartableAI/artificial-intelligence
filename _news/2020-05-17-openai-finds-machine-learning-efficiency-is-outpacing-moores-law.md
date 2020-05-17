@@ -7,9 +7,9 @@ webUrl: "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-eff
 ampWebUrl: "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/"
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: Singularity Hub
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://singularityhub.com/wp-content/uploads/2020/05/frankie-lopez-sMzlrCmZSwY-unsplash-2.jpg"
@@ -25,6 +26,6 @@ images:
     height: 793
     title: "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law"
 
-secured: "HDCDRMveJqqsNya3MS8evhX1oZwfGa08Q/ZUnGH71xpZJ2gNHe38k+lNgRw6GY5igpP+ANHBid9ZvGkAdIEfiE5sKvkN2c+c+Jtbq3XQiElettkcy/dLEvskCggocASDms7p8JfUXPWYCKoTKdiDirH5p4aSKiOYefO374E9bMSDdT3+JAVEAToEKrtab5aoijODcKHNfLjJRMLyqbiTGv0ATAP+ipJ2YDqAQPsWqU/oQpG4C8HLaefIEOFfH1ieuREmGv7RsTQT/ETDHsWLpQqwss7pQ+Y8seRAtQVglQodcXkLa0cWHKn6rccyNl6U;uIT+qcnmg5SvDbKZuBMk1w=="
+secured: "BgaVQvnwZ8WUywt3tdR0cjWdWFRZIpV2/gp0lnzyfN1n87yv3W0qDw1aCbhMASKtWsrt1gKw7gdLiz//X/wGXfOvLJ+BihHb0hsq20S5SodwTQoCpbNTxH1IKIScIJulZZK9e4/mbQriTU5Zk+2jkXDeb1cIliyLyf4V0rr8F8DpqM7ax50WDRxGxvW0KZH7hEa1/yRCz8N2N4/yV2yzyuYUmG+6rKof9JBv5oZy8GUFhrPfv+vUhfcgVgbcSuiBFmfUKZQVMCa04VD0clbUu1NBQzUezg59ySafGR2+GQrnAkTydtPg6RSWp9mzaXX/NGCUMHujHfUGRBYRpvGmyE6qRiauO00nlkSUojHpadR6nDDsZoc48BBzScSQdJb0CArM1DxQRVUWTL7QZEcO+y5p7aRlVuj/BSNlyYh2+Ua4pjSj3Srw9N2qD+KqwMXgLfqNnDZqwqcbo3lEKjgr/wDNrjOyhG4GESwUYrJ1cdI=;XfmZOiR2W8DjH/gXs8hJYg=="
 ---
 
