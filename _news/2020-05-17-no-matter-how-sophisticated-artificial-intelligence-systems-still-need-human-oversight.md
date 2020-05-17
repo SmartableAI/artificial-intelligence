@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/no-matter-how-sophisticated-artificial-in
 ampWebUrl: "https://www.zdnet.com/google-amp/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/"
 type: article
-quality: 79
-heat: 79
+quality: 81
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2020/05/17/8e854e40-61b9-473f-ad50-ea490c404772/asimo-honda-cropped.jpg"

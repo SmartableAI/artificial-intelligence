@@ -27,15 +27,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 49
-  - title: "Netcracker Partners with Microsoft to Offer Digital BSS/OSS and Orchestration on Microsoft Azure"
-    excerpt: "Netcracker Technology on Tuesday announced it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure"
-    publishedDateTime: 2020-05-13T02:23:00Z
-    webUrl: "https://www.thefastmode.com/mobile-network-operators-m-a/17086-netcracker-partners-with-microsoft-to-offer-digital-bss-oss-and-orchestration-on-microsoft-azure"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 21
 
 secured: "DL8aK6nk1XfA3lD+Go95fqw5BCRw22TAj17UtK3Lbs8rzcnCObHtYOrywuz+CsGFWGPprcJaSBnl4R2uUB5jz65p1pmoVoHEYoQJ8v93/dAZz/Bm8vR0CtXIcYLAEJASY5ABiT/2KBPxHHCMKvV76EKftvU8kZANNC6kYbxTG0hktUFfqxK6zISAiFNcfmprUL0pWFAAEnbg9J54VyxFIsrZZCZZAEl81jMkGSL/yS4+P7pbFA1wGG4+UWSPaFrGs9JSwNYhty3VhUSi6sSjwNcdD2K1x/aZmeMJYa2PhrIM41H81l8sJiYi/Y0xQp35;zCMyvGBElG4xgkUEnzBAkQ=="
 ---

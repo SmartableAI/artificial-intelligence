@@ -1,30 +1,21 @@
 ---
 category: news
 title: "10 Tech Stocks to Buy for the Next 10 Years"
-excerpt: "To find tech stocks with upside for the next decade, look for companies that are strong now and have a business built for future growth."
-publishedDateTime: 2020-05-06T17:27:00Z
-webUrl: "https://investorplace.com/2020/05/10-tech-stocks-to-buy-for-the-next-10-years/"
-ampWebUrl: "https://investorplace.com/2020/05/10-tech-stocks-to-buy-for-the-next-10-years/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/10-tech-stocks-to-buy-for-the-next-10-years/amp/"
+excerpt: "The past decade has seen some breakout stocks, especially in the tech industry. The smartphone era kicked off earlier, but it was over the past 10 years that many tech stocks became the ticket to growth that resulted in several consumer electronics behemoths."
+publishedDateTime: 2020-05-06T18:27:00Z
+webUrl: "https://www.nasdaq.com/articles/10-tech-stocks-to-buy-for-the-next-10-years-2020-05-06?time=1588915562"
+ampWebUrl: "https://www.nasdaq.com/articles/10-tech-stocks-to-buy-for-the-next-10-years-2020-05-06?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/10-tech-stocks-to-buy-for-the-next-10-years-2020-05-06?amp"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/tech1600.jpg"
-    width: 1600
-    height: 900
-    title: "10 Tech Stocks to Buy for the Next 10 Years"
-
-secured: "DedidmWVmdqkEBgVk29rSRM2pa7+AO2N3y1cNvO0Y4ZiRbLZ+MgHJ75pE26hpOnpfIBy+b887k5CgrEcEIHcr2v2WxjIzJ/Fme/ifkbpg0K9yFtvt9egVxoLWPCli3Y22eLKR+LsoU6lB+P6bCLJAGTel5LO/4oOymSk/HuW+gFNpurhC+NtW54X7qmVMGB6uhwv09hels2G+AMjDCBhehgyroz+NcUVQ+wDzoCnLZlFqXtcLksiYdDs8DVkUoOqvJ+zTm90IAgFGfyg8CwZgPxkApCMicw7/zcCjazlZkb2tTwCH2zx+EqjHiaWMvsqAh961IsNGIFe5mshiVZwwCCi2zgLAM++dSr3PD4eYdRvBe7fALEoqTX+3Hps7tubYqthgj+hpaVFn1FG7TPCZbqpzpDQd+QlN+IFRXq5JbfxfLZAiXed+S9urZsM4YFr4qXZQmKSizRoQ3d89EQIW9KRwfY5uOG3ECFM2huXcSA=;8DmcJTty5iEKzat6/C2O6w=="
+secured: "OvkzXsZwo5NHMkOAQIb9Fpa9BGwifSWj/lZ/13d9j24DRlIPuo2GjL4lKlWwxbRqog4qO92/rRjfHoJT+Qn70xmbMb/2sdGgF3f5cn11fGbXmjsZSc86wCqWPRrf+Fio+UtKxhfpm7vSb54RDWRnVnrTTzUOVOj8frTYQCCEh6zr/qRCG2juHq3RsMFrN6wJQDj1ZkmEKXdKqU3rINblw0ttHGddsNOwKIkF+RLaZsyt5//36y1Sl0uBJ863jzbbp+cFoAGr5GOgax9KJg0geQ/poE4jfwuHJk99NGNPror7IiQr/faZ/xrtaUMe/tsmrujmVAuW9qqgrsz+HBKeUaWzkgcp/OUYk6tOMqK+GRfW0JTc4zDvnBIvvKPNtKdK+1tVMb577JqOsq6+OkcyvrupTF60I1CfkGNd4kTo4L+rnNaZeVbSaPbxxcajKG+ydc0gjCW1B9C8NIZeRov5swyt/I6wslRqd+PVy+s//PQ=;Fdb8noXnUsrZ6mII3b3yYA=="
 ---
 

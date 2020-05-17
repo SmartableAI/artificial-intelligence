@@ -5,7 +5,7 @@
       "path": "_news/2020-05-17-no-matter-how-sophisticated-artificial-intelligence-systems-still-need-human-oversight.md",
       "title": "No matter how sophisticated, artificial intelligence systems still need human oversight",
       "excerpt": "AI and machine learning systems are only as good as the data we feed them. Witness the fallout from the COVID-19 crisis, which threw many AI algorithms out of whack: 'If machines are to be trusted, we need to watch over them.",
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
@@ -42,7 +42,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {

@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-05-05-omilia-raises-20m-to-use-conversational-ai-for-customer-support.md",
+      "title": "Omilia raises $20M to use conversational AI for customer support",
+      "excerpt": "Omilia, a company headquartered in Greece that has built a conversational AI for customer support, has raised $20 million in its first ever funding round, having been bootstrapped since 2002. Backing comes from Grafton Capital and will be used to invest in further growth,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/04/omilia/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/04/omilia/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/04/omilia/amp/",
+      "publishedDateTime": "2020-05-04T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Omilia-photos.jpg?w=1024",
+          "width": 1024,
+          "height": 551,
+          "title": "Omilia raises $20M to use conversational AI for customer support",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026.md",
       "title": "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026",
       "excerpt": "The Artificial Intelligence In Healthcare Market report provides a detailed analysis of global market size, regional",
@@ -1018,50 +1062,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-theres-more-to-usability-in-ai-and-iot-than-you-think.md",
-      "title": "There's more to usability in AI and IoT than you think",
-      "excerpt": "You think your app is usable, but there are more things you should think about before launch. Here are five key questions to ask yourself about your AI or IoT project.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
-      "publishedDateTime": "2020-05-04T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/03/ec657806-e8cc-4b44-9b4e-2b9f1eb7583c/thumbnail/1200x675/c0eadaba26f5c428f78e4dc438118cea/20200131-menezes-bill.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "There's more to usability in AI and IoT than you think",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

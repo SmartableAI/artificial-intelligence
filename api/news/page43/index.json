@@ -2,6 +2,43 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-04-13-couple-claim-sex-robot-with-soft-scottish-accent-saved-their-marriage.md",
+      "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
+      "excerpt": "A couple claim that a £6,600 Scottish sex robot - who shares their bed every night - has saved their marriage. Shelly, 45, and Darris Maxie, 48, from Texas, USA, splashed out on a computerised, Artificial Intelligence sex doll, called Camila, to save their marriage after the third person in their previous poly relationship left them.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349",
+      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
+      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
+      "publishedDateTime": "2020-04-13T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dailyrecord",
+        "domain": "dailyrecord.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article21857352.ece/ALTERNATES/s615/1_Screen-Shot-2020-04-13-at-093812.png",
+          "width": 615,
+          "height": 409,
+          "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-tesla-is-adding-remarkable-detail-in-its-full-self-driving-visualizations.md",
       "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
       "excerpt": "Tesla’s mass-market cars, the Model 3 and Model Y, have already been released. The Solar Roof is finally seeing a ramp. And the release of a feature-complete version of the company’s Full Self-Driving suite seems to be drawing closer. For Tesla’s Full Self-Driving suite to be feature-complete, the electric car maker would need to master ...",
@@ -982,51 +1019,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-startup-tenstorrent-shows-ai-is-changing-computing-and-vice-versa.md",
-      "title": "Startup Tenstorrent shows AI is changing computing and vice versa",
-      "excerpt": "The new chips coming out suggest, as ZDNet has reported in past, that AI is totally changing the nature of computing. It also suggests that changes in computing are going to have an effect on how artificial intelligence programs, such as deep learning neural networks, are designed. Case in point, startup Tenstorrent, founded in 2016 and ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/startup-tenstorrent-and-competitors-show-how-computing-is-changing-ai-and-vice-versa/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/startup-tenstorrent-and-competitors-show-how-computing-is-changing-ai-and-vice-versa/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/startup-tenstorrent-and-competitors-show-how-computing-is-changing-ai-and-vice-versa/",
-      "publishedDateTime": "2020-04-10T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/04/10/a686787a-3ce9-4cfe-9343-4aa9033454f1/tenstorrent-grayskull-schematic-april-2020.png",
-          "width": 1013,
-          "height": 870,
-          "title": "Startup Tenstorrent shows AI is changing computing and vice versa",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

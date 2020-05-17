@@ -37,15 +37,6 @@ related:
       - url: "http://share.opsy.st/5ebc581e611ce-Picture1.png"
         width: 254
         height: 300
-  - title: "Foxconn, Socionext and Hailo Launch AI Processing Solution for Video Analytics at the Edge"
-    excerpt: "Foxconn has partnered with Socionext, a major provider of advanced SoC solutions for video and imaging systems and leading artificial"
-    publishedDateTime: 2020-05-13T02:03:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/17090-foxconn-socionext-and-hailo-launch-ai-processing-solution-for-video-analytics-at-the-edge"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 9
 
 secured: "+rdlHqqftFqiAF/6wEUB/Sp8vIgtypQNKPUXfrtE0QPVCCC+TyoGdTxneR6ZltSH2FMofvNn2/Rd7xdad4Bt+EvwJsZXcUV5YoFiZVT4fvwdrO3XcOA/8uoXHAXq97gLBcECpybvHKlwu9nTpWEGhPLysZTr/7HO5auBGgzJPocY1w590EDTdTkxcwFlPNhlKJkgG3nKvNrVkHgYRk5Bw3SwpymJxhY3C8EqveMGxsT5YWAC23pUsh9qka68H9puacio9AwdmRKODcXR/v0GtEAaUdDdgRI7S/4TPO9madsCPyR7bTrMuiJBoyWfJI3b;uu404nmwtiGcLel2ss7e+A=="
 ---

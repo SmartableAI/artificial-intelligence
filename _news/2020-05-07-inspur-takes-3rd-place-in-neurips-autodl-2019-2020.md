@@ -20,6 +20,6 @@ images:
     height: 630
     title: "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020"
 
-secured: "N5W67Iy7Ixwdo2j5VOvmDcZMoimgBI7vq4hha7ALOk44WzZH/I2Za3ReInvHpOx/QMuc9Ofa3EjxsFPfqin0Vs26CQZLLvQxE2iSALrsBtKq6zI/PVhux8+WNtMTI9NnbyY/ocRaHkObW6/h4/Jvirprm2Wy4XOwzxU81xjlkrrKjad6WQoseWwAkr1RrM0Iza6ejbVRg554Ym9MDOzlrdSK1GMdS5Uy/MVIAc+e4ccfOfn3FMT7p0y7RW2dpY8mzwEq4VVtkuFQL577Xnj+eeUV2xkpwhEO5dlofDKp3w5hkImgMP6bfleBJt9ugrIg;Q04IogataCt8xTjMm7Ksow=="
+secured: "H66MYGCZb27qjp/dDiYWNPirYEj5WdIJDyN5We/irsB12pbaTnsdQTaVcnfYFzDk0Fhnurmv1c5XkYEIjxr4CJ1gxtnZD60OlcQCOoq7qRrdeXA8SUUIr+szCf+mjVvQZhsffALR3zD28Biax7RZuk6+Owri2EzRdtSc81GSH3eiqrxX/TPqfp2SBE4kgsVPymo7E5GYCAjWLRz9N7Ltn9hH+7EcP25NN27pWMeiyjP+hhXMAb3aDDvzLhH17QC4IwBQGj0Xo83ctg+oRb2HPA5JLXykctDx9CR98DmIK3hscaT4VdaX3mV50TtBceV5;IPZ4emQSQFitPJ/z8e5Mwg=="
 ---
 

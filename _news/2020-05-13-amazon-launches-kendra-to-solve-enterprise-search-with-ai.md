@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -42,19 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "AWS launches Amazon Kendra, an ML powered enterprise search service"
-    excerpt: "AWS announced the general availability of Amazon Kendra, a highly accurate and easy to use enterprise search service powered by machine learning."
-    publishedDateTime: 2020-05-13T02:33:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/05/13/amazon-kendra/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 24
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093159/aws1.jpg"
-        width: 1280
-        height: 763
 
 secured: "sjTP66l5OPKPPKHXpHsHiB9+pJzRGrE3KWBrxLkPBZ139wdI95HewY9HrasJmFTNT/K34kcvX2pFuLaCk5+oloWFFWj/bi5Om/7rGmp9TsaXBdKBKkrNRwiAYjeTAOmk/PX943cs/3aNhNJgE0f6jaMI4O+XbgxSEiWSwcOXJ/684KrfzYU4lBKGdhopcCl8EQmRfqUf5wW6ZVizb4qRkNtA+8f4IPeNVrNIVxvZ83kSPzfG76COWsK2Og8/sGk9jBJH4tJ4qJj9iuHoT1Y04sjVntIc7YllOSFtZVQXgmOexDz1IKYqciFqa+4pbleeYazAfwR/r0pv99QV9nIahPdHQLC1yHJvp95qWcs0nwETIY8GapH73YTmN1CYji2S5pl/H/ak3E5MH1Ze1XRzU8TGShAD3Dp/v8yAHLKc2rrNgGdcxEwBJKKQEkCeaKeSYq8/oTVd8vHLdt/uKV5BNCce69lpJ4lkLbfs6We0x8I=;n8ZXxwRNI78uTJMVGL/i6w=="
 ---

@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Northern Trust Deploys Artificial Intelligence for Currency Management Using Advanced Machine Learning"
-excerpt: "Northern Trust (NTRS) announced today it has enhanced its Foreign Exchange (FX) currency management solutions with machine learning models designed to"
-publishedDateTime: 2020-05-14T16:10:00Z
-webUrl: "https://www.businesswire.com/news/home/20200514005331/en/Northern-Trust-Deploys-Artificial-Intelligence-Currency-Management"
+excerpt: "Northern Trust (NTRS) announced today it has enhanced its Foreign Exchange (FX) currency management solutions with machine learning models designed to enable greater oversight of thousands of daily data points and help reduce risk throughout the currency management lifecycle."
+publishedDateTime: 2020-05-14T14:00:00Z
+webUrl: "https://apnews.com/Business Wire/eb0b9068e84b42ea880df6beed99526d"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200514005331/en/507749/23/NorthernTrust_Logo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     title: "Northern Trust Deploys Artificial Intelligence for Currency Management Using Advanced Machine Learning"
 
-secured: "4BPEeRhj29QHzGIzzP8Vx22D3iMrHq+ZcAAmrwjzVmimr5LNavZGYpoGeXXGPomyQHyotljHUaExWGj0ogUHa27Nt/xW1n4/WXGG4ofsyPmg/re3qGeDdMOQQVcoC/RYAnb44kTxSp7NRXcKh1Y4R+svo8GrBgDkl/6slQHjvI7OVhl8vhUgFfYoddcd7r67o0nN8ysD/2FvAoe/1mu1Gr9+i98kFwF44DODnUhfizoZE8M+oP67f7U+saLgUHZC1IJNsUYMcKJVN1qc7jDvlbbIV82Kd++wBSi3gjTEuL9aEL8IHy8mq1CDxKr7YgKk;8VJN/R53M98/kb42x/Y2uQ=="
+secured: "c6vR57gXGNETb33oB27H7DVjefygRry9Wo1p2JbgmIpVnX28uk5h47H6Uwhn0l33gf/AaBreChJhlcknPGfQMRZJBIlx/w+bVeQkX9NOw1ZiTwd+vmG7EXCGSXWrUbKTr/PrHQITJqZOxQw9wBGQjhb+84m0JjMD49Pi8SaZcg73aRNrZ7WyjscR2snQBqOmaQiTzSJZTj9rLrzzJM76aNEjq8fHfor01iGgRi3lWPihmyx+UfelyC5n2N4zklcnVf+TZt4fbYSuNFtMpwgGCydf7FlbpMqSaUvr0Zv5csf3d50q2CVjlen868jfZFjr;LT6eXXo/3m0nVqyAS9UrrA=="
 ---
 

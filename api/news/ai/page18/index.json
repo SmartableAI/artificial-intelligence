@@ -2,6 +2,43 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-04-29-microsoft-ceo-nadella-remote-work-driving-orders-of-magnitude-increase-in-teams-wvd.md",
+      "title": "Microsoft CEO Nadella: Remote Work Driving ‘Orders Of Magnitude’ Increase In Teams, WVD",
+      "excerpt": "Microsoft appears to be seeing more tailwinds than headwinds from the COVID-19 crisis, with all of its major segments seeing growth amid the widespread shift to remote work. Microsoft said that surging demand for the Teams collaboration app,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crn.com/news/cloud/microsoft-ceo-nadella-remote-work-driving-orders-of-magnitude-increase-in-teams-wvd",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/025c-0f4a9cff790a-f8477d6f8479-1000/nadella_satya_microsoft-azure.jpg",
+          "width": 609,
+          "height": 457,
+          "title": "Microsoft CEO Nadella: Remote Work Driving ‘Orders Of Magnitude’ Increase In Teams, WVD",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-six-areas-where-ai-is-improving-customer-experiences.md",
       "title": "Six Areas Where AI Is Improving Customer Experiences",
       "excerpt": "This year's hard reset is amplifying how vital customer relationships are and how much potential AI has to find new ways to improve them.",
@@ -1226,50 +1263,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-ai-cannot-be-recognised-as-an-inventor-us-rules.md",
-      "title": "AI cannot be recognised as an inventor, US rules",
-      "excerpt": "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\".",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/technology-52474250",
-      "ampWebUrl": "https://www.bbc.co.uk/news/amp/technology-52474250",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52474250",
-      "publishedDateTime": "2020-04-29T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/26C2/production/_112022990_whatsubject.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "AI cannot be recognised as an inventor, US rules",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

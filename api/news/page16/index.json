@@ -2,6 +2,50 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-04-theres-more-to-usability-in-ai-and-iot-than-you-think.md",
+      "title": "There's more to usability in AI and IoT than you think",
+      "excerpt": "You think your app is usable, but there are more things you should think about before launch. Here are five key questions to ask yourself about your AI or IoT project.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
+      "publishedDateTime": "2020-05-04T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/03/ec657806-e8cc-4b44-9b4e-2b9f1eb7583c/thumbnail/1200x675/c0eadaba26f5c428f78e4dc438118cea/20200131-menezes-bill.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "There's more to usability in AI and IoT than you think",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims.md",
       "title": "Allen Institute’s VeriSci uses AI to fact-check scientific claims",
       "excerpt": "Researchers at the Allen Institute and University of Washington describe VeriSci, an AI system that automatically fact-checks scientific claims.",
@@ -247,14 +291,14 @@
     {
       "path": "_news/2020-05-04-your-organization-needs-a-proprietary-data-strategy.md",
       "title": "Your Organization Needs a Proprietary Data Strategy",
-      "excerpt": "Companies need to be more focused on proprietary data — data that is unique to a company and can be used to create a sustainable competitive advantage. The ne",
+      "excerpt": "The need for proprietary data strategies is increasing with new data types and the growth of artificial intelligence (AI ... Alphabet’s Waymo and GM’s Cruise Automation, for example, are ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy?referral=00563",
+      "webUrl": "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T06:13:00-07:00",
+      "publishedDateTime": "2020-05-04T06:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Harvard Business Review",
@@ -984,50 +1028,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news.md",
-      "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
-      "excerpt": "Conrad lives in Medellin & NYC and profiles startup ecosystems during his travels. He is a Global Mentor at 500",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/",
-      "ampWebUrl": "https://thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/amp/",
-      "publishedDateTime": "2020-05-03T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/93375883_3166416773370956_1945378279644987392_o-796x530.jpg",
-          "width": 796,
-          "height": 530,
-          "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

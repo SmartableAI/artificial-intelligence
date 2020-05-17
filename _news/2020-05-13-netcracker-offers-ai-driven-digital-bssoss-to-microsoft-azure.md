@@ -27,15 +27,6 @@ related:
       name: Total Telecom
       domain: totaltele.com
     quality: 49
-  - title: "Netcracker Partners with Microsoft to Offer Digital BSS/OSS and Orchestration on Microsoft Azure"
-    excerpt: "Netcracker Technology on Tuesday announced it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure"
-    publishedDateTime: 2020-05-13T02:23:00Z
-    webUrl: "https://www.thefastmode.com/mobile-network-operators-m-a/17086-netcracker-partners-with-microsoft-to-offer-digital-bss-oss-and-orchestration-on-microsoft-azure"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 21
 
 secured: "rSjoIUBwz5F8CggA9vDWwSr1r2EaW4Q0NvNJj5xL84bG8JZFCH21qjwMW2ZrFy63epIAMZQjycD+QBE8WKrSHhxQOxUFHHiYLc+7pabZZ4ZkXFlouZhc/Yt1gy0oPSYFgTDvz4qs5tdPBFBJ0e/UUioLY0bti+WbWahwp3sPKj/ymKkye3CqsfgsaXZUtEVHFtPTLqtFpsd/og5LvqBf0XDuxLkDbVUEWIsY/Sa5IHpwZDqN4mXnQGpzNYNk1g1zDGJAuP0J8nWw+HvMiYa6Mo9f6gYrpwba5hj/1DGz5gsqlGgdhiXI53JHekypbkA0;ecIpw+ZpXaHA5xwJxuvOYQ=="
 ---

@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-05-05-mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements.md",
+      "title": "MediaTek announces the Helio G85 with a 1GHz GPU and HyperEngine improvements",
+      "excerpt": "MediaTek announced its latest chipset from its Helio G gaming series, the G85. It combines a 1GHz GPU with MediaTek's own HyperEngine for what the company is promising is gaming greatness.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements",
+      "ampWebUrl": "https://www.neowin.net/amp/mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements/",
+      "publishedDateTime": "2020-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1588628153_mediatek_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "MediaTek announces the Helio G85 with a 1GHz GPU and HyperEngine improvements",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-omilia-raises-20-million-for-ai-customer-service-chatbots.md",
       "title": "Omilia raises $20 million for AI customer service chatbots",
       "excerpt": "Omilia, a startup developing natural language technologies for the enterprise, has raised $20 million in equity financing.",
@@ -1231,51 +1276,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
-      "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-      "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/",
-      "ampWebUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
-      "publishedDateTime": "2020-05-04T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg",
-          "width": 1680,
-          "height": 946,
-          "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
