@@ -3,9 +3,9 @@ category: news
 title: "Building transparency and customer confidence in AI"
 excerpt: "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent."
 publishedDateTime: 2020-05-07T08:51:00Z
-webUrl: "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai"
-ampWebUrl: "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai"
+webUrl: "https://www.techradar.com/au/news/building-transparency-and-customer-confidence-in-ai"
+ampWebUrl: "https://www.techradar.com/au/amp/news/building-transparency-and-customer-confidence-in-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/building-transparency-and-customer-confidence-in-ai"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 545
     title: "Building transparency and customer confidence in AI"
 
-secured: "xt1nxfn1i2/MPKSqOaXABmG4D/NwZog0shWX36mrx7lbev7JEeMRyS9p68vS968mm2WskQG5u5gCWAg+RRgt12ywftktdpiAki7gxk9u354RFaImKNwl8S4CfByKEbhUt0gh1TZVoLwl5E9cW+tMaYFir1Sxxr3QhU7AD2T6duFOtSJ+TE9QEaMjYHXcYkhrhY5UGvaCzFmGfH5GuUOiM/Wfi5vVt1sRO6b1EHBSUZhzKe7QmYgYJNStLAXWl6chpDdr1F6Yo4XWcgd1t0lyfAEhFVzJfBNCWVKB1wHjYjkGyH80GMa+SFZa/GmywEJbV5jElAx/dWuVT+zVmTfWhCEzkrRBlLlDH+lIz0dy8WcsHTz6Q0iVFrYJKdMm28h6/CjpGc1Wxm6yP0AHJoF1gCYgNy7CDsZEvDgA/lf4DsyfV+jBN1pymr4/oWwsFUBGb6ek9iq/Nn/2cZWRQX+8umOJyZ78EYM1/8FxykGa85w=;1qIaBRN+8sos7j7DHntUyQ=="
+secured: "8KeTleownarjPbAWi/NDpy1NK7Xx9j7JdaS93IENuqb21cee3hRr77M2H5oSvjUmGnhNNB7d+grFezyR5ynt/i5zSto9eqaO3kcwaKFxcUHz0bMrc+j8kOPdqYZwuhI2zQUaGejLQqrtpzLblyVIAvLd/cnvrzFOG0Bir5QSKNkkbm1tJCt9k9fWzljp8g0f83PofbRysJJr65nWva+zjl2gr2o/1NdwmZCSDdbZnKY+EaijUae7FVGoglb1FK3ylOSuiohDoBnbTUTXf7oujo23iu1mxh/GipQquLQ+Sh7ObzTft02OdnhXfeGJ4hn/;s/2m9YGP1JROgW9yDny50Q=="
 ---
 
