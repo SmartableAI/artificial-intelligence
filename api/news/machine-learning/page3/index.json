@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-28-2020-iphone-ses-portrait-mode-solely-relies-on-machine-learning.md",
+      "title": "2020 iPhone SE’s Portrait Mode Solely Relies On Machine Learning",
+      "excerpt": "Developers behind the camera app Halide reveal how the new iPhone SE is able to capture photos in Portrait Mode simply using the single camera and machine learning.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/2020-iphone-ses-portrait-mode-solely-relies-machine-learning-2966313",
+      "ampWebUrl": "https://www.ibtimes.com/2020-iphone-ses-portrait-mode-solely-relies-machine-learning-2966313?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/2020-iphone-ses-portrait-mode-solely-relies-machine-learning-2966313?amp=1",
+      "publishedDateTime": "2020-04-28T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/16/2020-iphone-se.jpg",
+          "width": 1200,
+          "height": 733,
+          "title": "2020 iPhone SE’s Portrait Mode Solely Relies On Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean.md",
       "title": "How Satellites And Machine Learning Are Being Used To Detect Plastic In The Ocean",
       "excerpt": "New research shows that satellite data analyzed with a machine learning algorithm can detect ocean plastic with up to 100% accuracy.",
@@ -1227,51 +1264,6 @@
           "width": 1200,
           "height": 675,
           "title": "This Doctor From Kashmir Uses Machine Learning To Crunch Coronavirus Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
-      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
-      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "publishedDateTime": "2020-04-18T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
-          "width": 1440,
-          "height": 810,
-          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
           "attribution": null
         }
       ],

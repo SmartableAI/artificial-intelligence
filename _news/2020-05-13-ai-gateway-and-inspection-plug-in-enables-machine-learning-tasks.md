@@ -31,19 +31,6 @@ related:
       - url: "https://www.hstoday.us/wp-content/uploads/2018/12/artificial-intelligence-3382507_1920.jpg"
         width: 1920
         height: 1280
-  - title: "Bitglass Integrates CrowdStrike’s Machine-Learning Technology to Provide Zero-Day Advanced Threat Protection in the Cloud"
-    excerpt: "Gen Cloud Security Company, announced today that it has partnered with CrowdStrike®, a leader in cloud-delivered endpoint protectio"
-    publishedDateTime: 2020-05-12T12:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200512005140/en/Bitglass-Integrates-CrowdStrike’s-Machine-Learning-Technology-Provide-Zero-Day"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200512005140/en/790809/23/bitglass-CASB-logo.jpg"
-        width: 1200
-        height: 627
 
 secured: "m7WeeJ5wct2WRkZ6nlw5E1KzjyU14AHrEI+mgW8BfDvjmGVYhkZ6zTvO9RYHi6cvI9QV9VdXUnXqlBfiYUMBmuJQYfGkVIrg9nvSG5xXszaB8Yf1ALUGEO4xu8eWFT1i18xHtnC//JA9npk641/Rbgx3QhNJD1UiPdRoA3ipGWr3oRGC9sBpCXM3t6BG+dsK380NrcVuICU6dW6KodmlOBExPu611P/6HGT1R5DR21mLMH8KsFuJDtqRRigTAt5g7rFWxKUT/Kl+AkcnVwCA0ZC6pZPdYSBKvq3+r6Un7xtMJaOfZ8ilXnJvg3mWhEj5XiyZofoUuYQqEzTHHF2rWS610JL9H8X79YI98Bpm39oMU/HpU/AhDvjCxJrtUao/6c9w54jppMWjDRujWvrKV6Nk2YlC/Ena53pZA9ARbWXsbpGZQULBcMkgAwTL/qq4fUpmZDM7PMPpoX9tMUxTTQBFKBcXLSbp2n8yc8wvkes=;YxhkuMNKCMBIVyyJeUEadg=="
 ---

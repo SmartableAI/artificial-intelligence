@@ -33,19 +33,6 @@ related:
       name: Vision Systems Design
       domain: vision-systems.com
     quality: 19
-  - title: "Bitglass Integrates CrowdStrike’s Machine-Learning Technology to Provide Zero-Day Advanced Threat Protection in the Cloud"
-    excerpt: "Gen Cloud Security Company, announced today that it has partnered with CrowdStrike®, a leader in cloud-delivered endpoint protectio"
-    publishedDateTime: 2020-05-12T12:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200512005140/en/Bitglass-Integrates-CrowdStrike’s-Machine-Learning-Technology-Provide-Zero-Day"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200512005140/en/790809/23/bitglass-CASB-logo.jpg"
-        width: 1200
-        height: 627
 
 secured: "FptH80UNEbs22T9dam7uIczaZEcQhmpcpHuSe9Lucr1C7e0HRA8X2Bl8Y4bJIuxa0b+VL4Y7twqdGiC4fI0JJfPscc9PMXPe8br6Aw2YCAXkBEImuN5Fcauh9sxazPqgWsiyBuBuDEsQGT2ebPRPIqbaWWF2anj8MozTpzGGd5sfjDbP9yEdq3E2L0ef8uPR8g+CroSdqFaQimMeMbVtSBZ7KbBFIDJgtqfNiQ1GpLhfXqd7LTKcAbfgrBEnRQcfGDl4PLsv/4S1V11ueTwFIRSDVn35vMEUvXC9QQrcx/QMjEo6+bnJYjiCT1KvqbM2BKTa+eyQlv7QJErn4B/cBfftss20Q05sqi+dWYeB7OGoeR2/lc/hr1Y8MZVUWUcZ0s8Zqf6pcETqDt/1iFSzVP7g0bq+ycOBZb54u5LSdO6wZYDL8fR4nGl89B872QGSmy+gks9vkrXKP1FfOP05awy0vqTb1ns87MC5+7FExiY=;akp9oQ757YTa2pMDrV6jcA=="
 ---

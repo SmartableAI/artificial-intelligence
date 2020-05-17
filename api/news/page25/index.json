@@ -2,6 +2,43 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-04-27-portrait-mode-on-iphone-se-relies-only-on-machine-learning.md",
+      "title": "Portrait Mode on iPhone SE relies only on machine learning",
+      "excerpt": "Apple's new iPhone SE is the company's first -- and thus far, only -- iPhone to solely rely on machine learning for Portrait Mode depth estimation.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning",
+      "ampWebUrl": "https://appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning/amp/",
+      "publishedDateTime": "2020-04-27T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/35547-65350-1C5L0C7fCMt3TJciKdyaNHg-l.jpg",
+          "width": 660,
+          "height": 330,
+          "title": "Portrait Mode on iPhone SE relies only on machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech.md",
       "title": "lnfibeam Avenues signs deal to acquire US company AI Fintech",
       "excerpt": "Avenues has signed a binding agreement for acquisition of 100% Shareholding of AI Fintech, Inc, a Company formed and registered in USA Accordingly, AI Fintech, Inc will become a Wholly Owned Subsidiary of the Company.",
@@ -997,50 +1034,6 @@
           "width": 1024,
           "height": 682,
           "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code.md",
-      "title": "Codota raises $12 million for AI that suggests and autocompletes code",
-      "excerpt": "Codota, a startup developing a platform that suggests and autocompletes code, has raised $12 million in equity financing.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/",
-      "publishedDateTime": "2020-04-27T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/1_0wIenZUkUNVutcizFB9sPA-e1587686866252.jpeg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Codota raises $12 million for AI that suggests and autocompletes code",
           "attribution": null
         }
       ],

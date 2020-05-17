@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-05-13-behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner.md",
-      "title": "Behold the relentlessly optimistic silliness of the ‘AI Eurovision’ winner",
-      "excerpt": "Around two-thirds of the way through “Beautiful the World,” a voice declaratively whispers, “The music of the Earth has arrived.” Created by the fittingly named Uncanny Valley, the three-and-a-half minute track bombards the listener with fragments of relentless optimism,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/amp/",
-      "publishedDateTime": "2020-05-13T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-13-at-11.15.09-AM.jpg?w=1024",
-          "width": 1024,
-          "height": 563,
-          "title": "Behold the relentlessly optimistic silliness of the ‘AI Eurovision’ winner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-13-facebook-offers-50k-for-ai-that-can-detect-hateful-memes.md",
       "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
       "excerpt": "Facebook's created a dataset of 10,000 ‘hateful’ memes and is offering prizes totaling $100,000 for developers who can use it to detect hate speech in memes.",
@@ -485,6 +441,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-12-netcracker-offers-ai-driven-digital-bssoss-on-microsoft-azure.md",
+      "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
+      "excerpt": "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/",
+      "ampWebUrl": "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/",
+      "publishedDateTime": "2020-05-12T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-hailo-partners-with-foxconn-to-build-edge-device-for-ai-inference.md",
       "title": "Hailo partners with Foxconn to build edge device for AI inference",
       "excerpt": "AI chip startup Hailo plans to partner with Foxconn to launch an AI edge computing device -- BOXiedge -- designed for applications like smart cities.",
@@ -572,42 +565,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-ai-might-soon-be-able-to-diagnose-coronavirus-based-on-symptoms.md",
-      "title": "AI might soon be able to diagnose coronavirus based on symptoms",
-      "excerpt": "Researchers from the UK and US developed artificial intelligence that can diagnose COVID-19 by associating a set of parameters and self-reported symptoms with the help of a mobile app. The",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bgr.com/2020/05/12/coronavirus-symptoms-ai-diagnoses-covid-19-without-a-test/",
-      "ampWebUrl": "https://bgr.com/2020/05/12/coronavirus-symptoms-ai-diagnoses-covid-19-without-a-test/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/05/12/coronavirus-symptoms-ai-diagnoses-covid-19-without-a-test/amp/",
-      "publishedDateTime": "2020-05-12T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://boygeniusreport.files.wordpress.com/2020/03/coronavirus-travel.jpg?quality=70&#038;strip=all",
-          "width": 1600,
-          "height": 1066,
-          "title": "AI might soon be able to diagnose coronavirus based on symptoms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1305,6 +1262,43 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-transformative-robotics-technology-from-brain-corp.md",
+      "title": "Transformative Robotics Technology From Brain Corp",
+      "excerpt": "With retailers seeking to enhance the customer experience, not to mention overcome current COVID-19 challenges, Brain Corp believes that technology offers a way",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.esmmagazine.com/technology/transformative-robotics-technology-brain-corp-98085",
+      "ampWebUrl": "https://www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
+      "cdnAmpWebUrl": "https://www-esmmagazine-com.cdn.ampproject.org/c/s/www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
+      "publishedDateTime": "2020-05-12T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "esmmagazine.com",
+        "domain": "esmmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA1XFxcLzEyMTMxODQxXFxcL1Rlbm5hbnRSZXRhaWwtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjUwMCxcImhlaWdodFwiOjI4NyxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC93d3cuZXNtbWFnYXppbmUuY29tXFxcL2lcXFwvbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNjk1OGI3MzBhOGQ5MGQyZWEwZjM0ZDNkZWMxMjQ0YmM2YTFmYmM2ZiJ9/tennantretail-1024x683.jpg",
+          "width": 500,
+          "height": 287,
+          "title": "Transformative Robotics Technology From Brain Corp",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

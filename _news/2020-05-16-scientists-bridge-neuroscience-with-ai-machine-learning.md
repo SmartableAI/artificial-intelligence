@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Scientists Bridge Neuroscience with AI Machine Learning"
+title: "Scientists Bridge Neuroscience With AI Machine Learning"
 excerpt: "The researchers’ goal was to test their hypotheses that contrary to commonly held views, the biological brain’s learning speed is not extremely slow, and that there may be learning accelerators in the brain."
 publishedDateTime: 2020-05-16T00:15:00Z
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202005/scientists-bridge-neuroscience-ai-machine-learning"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202005/scientists-bridge-neuroscience-ai-machine-learning?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202005/scientists-bridge-neuroscience-ai-machine-learning?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202005/scientists-bridge-neuroscience-ai-machine-learning"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202005/scientists-bridge-neuroscience-ai-machine-learning?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202005/scientists-bridge-neuroscience-ai-machine-learning?amp"
 type: article
 quality: 54
 heat: 54
@@ -19,6 +19,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "KWkRwgBVTYrOYKICwUSXqBFPQV3WhFFmYDZna5Cy+pC2OXgq4cQHFq9IN/TbLfvpGQBDcBQFoWplzyrAsNolpcKt2WwSde6Esblhj96VQfzE8ycHyj0UNYStVyPXYFSplwhEF3Hb1VKbhImjEfuQQEwmAYuTtfD8Voy+kZ1BL8d3bREP51CoT/FibZm1Sm7spd9gHuYStwz4VYId/P4GHywBiC3zdpV9QzUBpOVJO2h+Etb+gGbDf89PqApx4vggSZu/AuaLlMX0E6bC8NEAV91sBo4KIYklR/UAOUaV7NmQUAm1Z5nBp/lG5zkYNHUBOashjh7gfqW1WIaBfLIcU21ObqYg3yLoPjed+QP3Nm2hLGt5QIK4wDA6Y+OtfY+Gobv75nwqI+Nf9zRxiight5O/yzQkokQCBBaWwD11NuZuCi5YmeJLCG90PdY9/NMLTQ+H+JbW0LpQTJtzz02sp3zqB7ndiPDydWn7DvQ3KHA=;lG9v2V05BbbihAAfpgPKrw=="
+secured: "NA3C727jxp75kHYJWk9ETBNVaTOQtW24zTi+3/GRbzekgBVjCca/zyk0mPrSuH+bWkNT0cLRmEskYSKaW/3udaF7cg7C9eQ8+Lgqhe6cJ3zBcV/diuPuRAZ9DjQ2Tqi75R1vKDXkWUltvgDiIsW0gPph53WNsQTrWbiDA++5BFtpGsmwuMuDaAKip0cIdFlr3KeVy2zRb/ILHHug5zoU8/VS2zoEn2eydWo9rVIBm6h4HYITDbuD/fkglHAcxuUn7uSukKbL1dz8XCTTLQgaRxHoQwlZQqk+LMHUecbHLxS8OsBmPUPgLvb0WCCfRJCg9VII1yw4yvHYRnsYEUIJbdcytva0SHxmXSrVLd97hNTvVhgkuxT08wKX1tYDrLlFDp9xry+5moIho6GXf/GFXNPy6Qe+Ph5dxe/ifNWW9tZ22SXH/uwSErCt/Zofn0C70yAdmxBxIxfs7k0lq82NN/moC2g1hSw6Kq41KEFRS3E=;6A4NEhNwOBBT37fSJHV5zQ=="
 ---
 

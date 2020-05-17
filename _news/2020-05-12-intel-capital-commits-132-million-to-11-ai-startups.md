@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-12T13:05:00Z
 webUrl: "https://venturebeat.com/2020/05/12/intel-capital-commits-132-million-to-11-ai-startups/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: VentureBeat
@@ -28,30 +28,19 @@ images:
     title: "Intel Capital commits $132 million to 11 AI startups"
 
 related:
-  - title: "Intel Capital invests $132 million in 11 startups mostly focused on AI, autonomous computing"
-    excerpt: "A few AI driven investments include: Anodot, a startup focused on autonomous business monitoring via machine learning. Anodot is designed to catch incidents that impact costs such as app performance, customer incidents and success rate drops. Hypersonix, which is developing an AI driven autonomous analytics platform for retail, restaurants ..."
-    publishedDateTime: 2020-05-12T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/"
+  - title: "Lilt raises $25 million for AI enterprise translation tools"
+    excerpt: "Machine translation startup Lilt raised $25 million in a financing round led by Intel Capital. It brigns the company's total raised to $37.5 million."
+    publishedDateTime: 2020-05-12T13:08:00Z
+    webUrl: "https://venturebeat.com/2020/05/12/lilt-raises-25-million-for-ai-enterprise-translation-tools/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 78
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/3b281536-3984-4d37-8041-c236f425cb2d/thumbnail/1200x675/30edb9414ab65af518d50bdaef074337/cfo-pwc-survey-business-return-may-11-2020.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/05/Lilt_600x400_photos_v2_x4-e1588975057201.png?w=1200&#038;strip=all"
         width: 1200
-        height: 675
-  - title: "Intel Capital invests $132M in AI, chip startups"
-    excerpt: "Capital has committed the funds to 11 startups that focus on AI, autonomous computing, and chip design.The new investments include Anodot (real-time data monitoring), KFBIO (builds"
-    publishedDateTime: 2020-05-12T16:21:00Z
-    webUrl: "https://seekingalpha.com/news/3573471-intel-capital-invests-132m-in-ai-chip-startups"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 36
+        height: 600
 
 secured: "B7JLGlmOd3SNUPDLm/WpbQ78f+Y3yqRNoNxd1cdeVotExbCPuIAe/y3WvfO+/raQ5ZmPaXQdRo2IvChoseSzrUfbhyCfmltmPf/xx6FCXnG7bF4ZyinHnOofopJN636yB8cjOwsz93K3eaPoA3DwndrmtGRSMcDLRm5lYZXrggaJWhMbmxBuvLJ8ShilGb0rHZL5s1o1GdNJY4I8DluSvB2/E/JlO+LdR1l4erM33GFZi1dYgCnyLmncKVU79tIlBvS4rrLwPFYs86oYmZC7L8mxhQH3LfYdkXeRhOL1lF6lbbhhoBLh2bNNiGqVtvZ7UjTtFOOQBqijNtBt0NRrf0QVnqgL1+LcQqYhjKeKgjSeKWFlgGnSV+8BWCa1ZJlItqMOMl7c32uNsh4ZyUjarIATUM2IIIDGrhhlYkvlpC46gvefq1SofvcrxdXAouRh415aDKFBcYMGHi5VI5y0i2ngUwpjaL/0Vhvo6Ggfdus=;6gYwohjMUnME5c61WzXu8Q=="
 ---

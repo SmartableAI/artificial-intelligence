@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-12T16:21:00Z
 webUrl: "https://seekingalpha.com/news/3573471-intel-capital-invests-132m-in-ai-chip-startups"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -19,34 +19,19 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Intel Capital invests $132 million in 11 startups mostly focused on AI, autonomous computing"
-    excerpt: "A few AI driven investments include: Anodot, a startup focused on autonomous business monitoring via machine learning. Anodot is designed to catch incidents that impact costs such as app performance, customer incidents and success rate drops. Hypersonix, which is developing an AI driven autonomous analytics platform for retail, restaurants ..."
-    publishedDateTime: 2020-05-12T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-capital-invests-132-million-in-11-startups-mostly-focused-on-ai-autonomous-computing/"
+  - title: "Intel Capital invests $132m in 11 disruptive tech firms"
+    excerpt: "Intel has backed 11 start-ups focusing on technologies such as artificial intelligence, autonomous computing and chip design."
+    publishedDateTime: 2020-05-13T11:53:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/intel-capital-startup-investments-2020"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 78
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/3b281536-3984-4d37-8041-c236f425cb2d/thumbnail/1200x675/30edb9414ab65af518d50bdaef074337/cfo-pwc-survey-business-return-may-11-2020.png"
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/05/intel-1.png"
         width: 1200
-        height: 675
-  - title: "Intel Capital commits $132 million to 11 AI startups"
-    excerpt: "Intel Capital announced that it's invested $132 million in 11 startups focused on AI, machine learning, automation, and chipset design."
-    publishedDateTime: 2020-05-12T13:05:00Z
-    webUrl: "https://venturebeat.com/2020/05/12/intel-capital-commits-132-million-to-11-ai-startups/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+        height: 900
 
 secured: "sYvF6SQ/aJRkyXCCmvg9D6FqtshwbFJUxaW6pqRj+3TDBcsFwu7FZiGY6Hlsi+/gX71cNU0koBKy82Ft+yKgykFcqy1x2BTDUK/fHxYcwomY4lRMhjhMpIIJfO7PUU3KVMBL8mLfSJA/SECg/qV4DdB6MyARjKp3eclzbYU+/tGHRW+OWUt27B9grJ8UrY9zAb6Sz4ZhrlJJNgpIRWS1g9uyeQcEsbZXCkGD8h1P7sedoHU+xwQOHmMT0P1Hpk+9u25b//cfCTsHphYFm7jpCXqXJPg3kZoUnZrGFHnyiW6msoj+ngNfQbIHTe0kMwiV;nOyR1ArdiPVAbJ0/Q35jzQ=="
 ---
