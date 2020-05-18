@@ -23,21 +23,6 @@ images:
     height: 300
     title: "Transformative AI Processing Solution for Video Analytics at the Edge"
 
-related:
-  - title: "Foxconn Partners with Socionext and Hailo to Launch Next-Generation AI Processing Solution for Video Analytics at the \"Edge\""
-    excerpt: "Taipei, Taiwan, Yokohama, Japan and Tel Aviv, Israel May 12, 2020 ---Foxconn, a global leader in smart manufacturing, is joining Socionext, a major provider of advanced SoC solutions for video and imaging systems, and leading artificial intelligence (AI ..."
-    publishedDateTime: 2020-05-13T06:41:00Z
-    webUrl: "https://www.design-reuse.com/news/47965/foxconn-socionext-hailo-ai-processing-video-analytics.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 12
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage47965/20200513_1.jpg"
-        width: 480
-        height: 411
-
 secured: "VkJz8+qBbFxOqg2b1OlcXJmtqzRGedtJrQH+krvnll2U7GBPrQyBe8JI/g3jmacoiRzbohtu9vmG0WbR4YD1A6lkF7Ngx0SQUANwGTm4KP8Z7XoMQN/2dz4mCo2YuTvgm0crRRvxp+jaDDkUpN+BQd+YRLy7JFubmT5jOoK909bON3k6whjwpuucbljvYGua427VetpasD8v7PFRfrDxC6o2eRFB7yq/WydmlhJQvXY3E94Y3ulS3JUAj10DlgrvJN78rFdTE91yU3722zZ5uPtLvqc/1sgwvYmjHm2INgOIUMdF44hKGXoBuVZUXfC1;QQOBzOe+9r73tsInI1ZLZg=="
 ---
 
