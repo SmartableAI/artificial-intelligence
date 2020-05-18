@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-14-amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users.md",
+      "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
+      "excerpt": "Want AWS with easy-to-use Red Hat OpenShift Kubernetes container orchestration? You'll soon be able to get that.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
+      "publishedDateTime": "2020-05-14T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/07/15acec1a-c9b8-4440-80e9-2d7266e44721/thumbnail/1200x675/68d586e111b2a5939b36cf74ebe8a84e/in-the-modern-data-center.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-this-ai-will-judge-you-for-eating-microwave-meals.md",
       "title": "This AI will judge you for eating microwave meals",
       "excerpt": "MIT CSAIL has created an AI system called Sapple that uses motion sensors and smart energy meters to work out how you're using microwaves and hair dryers",
@@ -624,7 +669,7 @@
       "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
       "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
       "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report",
@@ -1046,51 +1091,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-aws-to-offer-nvidia-a100-tensor-core-gpu-based-amazon-ec2-instances.md",
-      "title": "AWS to offer NVIDIA A100 Tensor Core GPU-based Amazon EC2 instances",
-      "excerpt": "Tens of thousands of customers rely on AWS for building machine learning (ML) applications. Customers like Airbnb and Pinterest use AWS to optimize their search recommendations, Lyft and Toyota Research Institute to develop their autonomous vehicle programs, and Capital One and Intuit to build and deploy",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-to-offer-nvidia-a100-tensor-core-gpu-based-amazon-ec2-instances/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T06:00:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/AWS-NVDA.gif",
-          "width": 1000,
-          "height": 414,
-          "title": "AWS to offer NVIDIA A100 Tensor Core GPU-based Amazon EC2 instances",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

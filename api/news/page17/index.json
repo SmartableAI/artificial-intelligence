@@ -2,6 +2,35 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-05-04-silver-lake-reliance-jio-deal-5-key-things-you-need-to-know.md",
+      "title": "Silver Lake-Reliance Jio deal: 5 key things you need to know",
+      "excerpt": "The deal comes shortly after Facebook announced investing Rs 43,574 crore in Reliance’s Jio platforms in exchange of 9.99% stake. The deal also covers WhatsApp-JioMart partnership aimed at the smaller retailers in the country.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO.html",
+      "ampWebUrl": "https://m.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO_amp.html",
+      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO_amp.html",
+      "publishedDateTime": "2020-05-03T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution.md",
       "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
       "excerpt": "There are many technology trends that are currently altering the world as we know it. Here I pull out the top 10 future tech trends that will define the next decade and explain what they are and how each is transforming our world.",
@@ -1042,35 +1071,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-live-video-president-trump-participates-in-presidential-recognition-ceremony.md",
-      "title": "LIVE VIDEO: President Trump participates in Presidential Recognition Ceremony",
-      "excerpt": "President Donald Trump participates in the Presidential Recognition Ceremony: Hard Work, Heroism and Hope..embed-container \\{ position: relative; padding-bottom: 56.25%; height: 0;",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.statesman.com/zz/news/20200501/live-video-president-trump-participates-in-presidential-recognition-ceremony",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

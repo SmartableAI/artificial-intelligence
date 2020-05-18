@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T23:00:00Z
 webUrl: "https://www.thetimes.co.uk/edition/news/social-distancing-robots-to-patrol-european-resorts-0707zx5bh"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 685
     height: 385
     title: "Social distancing: Robots to patrol European resorts"
-
-related:
-  - title: "Robots to patrol tourist hotspots checking people stay apart under EU plans for holidays"
-    excerpt: "ROBOTS are set to patrol tourist hotspots checking people are obeying social distancing rules under Brussels’ blueprint for the holidays of the future. The EU Commission released a plan to"
-    publishedDateTime: 2020-05-13T11:48:00Z
-    webUrl: "https://www.thesun.co.uk/news/11613196/robots-patrol-tourist-hotspots-eu-holidays/"
-    ampWebUrl: "https://www.thesun.co.uk/news/11613196/robots-patrol-tourist-hotspots-eu-holidays/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/11613196/robots-patrol-tourist-hotspots-eu-holidays/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 50
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/04/NINTCHDBPICT000576661856.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
 
 secured: "EjomL9f6IynKi4482kIJsFrB1NGql28L4euhcJcWFguZxy10k2HjGylZARKaBwqiAG27QY0L/RVsa8E1KHgv2qIOKzhCDY6Hh92MzfmKTzC4xrQ1NMU+PbHAZ04AAUs3A2xiSTyJA6dMA6DeH7AuV82mbUmKIX0M23SNIFbG2TojtJbJ8L7SUKF+a4mn/goikXoHgquzNgt3uBZdTNTEA85FdrmMngiU6+Ok7WrtJlNeQCTeTkU9VPkkwbSZu2gotclN6260dUk0dtQ+Bi38ierM7w1kM6JtFJp7w953jeax2cYnKCOkRRM6vppntVnx;hgCZqDmZMHCps2kSfh2vWw=="
 ---

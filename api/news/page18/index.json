@@ -2,6 +2,35 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-05-01-live-video-president-trump-participates-in-presidential-recognition-ceremony.md",
+      "title": "LIVE VIDEO: President Trump participates in Presidential Recognition Ceremony",
+      "excerpt": "President Donald Trump participates in the Presidential Recognition Ceremony: Hard Work, Heroism and Hope..embed-container \\{ position: relative; padding-bottom: 56.25%; height: 0;",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.statesman.com/zz/news/20200501/live-video-president-trump-participates-in-presidential-recognition-ceremony",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-linkedins-ai-generates-candidate-screening-questions-from-job-postings.md",
       "title": "LinkedIn’s AI generates candidate screening questions from job postings",
       "excerpt": "LinkedIn is using AI to automatically generate candidate screening questions from the text of its over 20 million job postings.",
@@ -1017,51 +1046,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
-      "title": "Fueling driverless navigation with AI",
-      "excerpt": "Generally, Artificial Intelligence (AI) helps to make products and procedures more efficient, but it also handles intricate tasks that can’t be easily managed by humans. When navigation comes ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/nz/news/fueling-driverless-navigation-with-ai",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/fueling-driverless-navigation-with-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/fueling-driverless-navigation-with-ai",
-      "publishedDateTime": "2020-05-01T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Fueling driverless navigation with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

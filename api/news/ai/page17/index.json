@@ -2,6 +2,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-04-30-fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments.md",
+      "title": "FDA-cleared AI-based medical triage tool goes free to help busy radiology diagnostics departments",
+      "excerpt": "Medical startup Nines, which has developed an AI-based triage tool that has received clearance from the U.S. Food and Drug Administration (FDA) for use, is making that tool available for free to all until June 30 to help address the growing burden on radiology diagnostics departments as COVID-19",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/30/fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/30/fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments/amp/",
+      "publishedDateTime": "2020-04-30T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/5eaa4c5a7ba1264e6486b846__Nines_FINAL_042720-0-01-30-21s.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "FDA-cleared AI-based medical triage tool goes free to help busy radiology diagnostics departments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-facebooks-role-playing-game-teaches-ai-to-complete-tasks-by-reading-descriptions.md",
       "title": "Facebook’s role-playing game teaches AI to complete tasks by reading descriptions",
       "excerpt": "Facebook researchers built a role-playing game to train AI agents to complete tasks by reading text descriptions of those tasks.",
@@ -1225,51 +1269,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-google-co-founder-sergey-brin-lays-out-the-many-ways-the-company-uses-ai-today.md",
-      "title": "Google co-founder Sergey Brin lays out the many ways the company uses A.I. today",
-      "excerpt": "Sergey Brin's Founders' Letter outlines the ways Alphabet uses artificial ... intelligence every day. He highlights that the company employs it to: understand images in Google Photos; enable Waymo ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2018/04/27/alphabet-founders-letter-2017-sergey-brin-on-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/04/27/alphabet-founders-letter-2017-sergey-brin-on-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/04/27/alphabet-founders-letter-2017-sergey-brin-on-ai.html",
-      "publishedDateTime": "2020-04-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104642952-GettyImages-152766137.jpg?v=1529475925",
-          "width": 2000,
-          "height": 1322,
-          "title": "Google co-founder Sergey Brin lays out the many ways the company uses A.I. today",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

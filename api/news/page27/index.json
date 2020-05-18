@@ -2,6 +2,50 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-04-27-qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19.md",
+      "title": "Qure.ai Deploys AI Radiology Software In The Fight Against COVID-19",
+      "excerpt": "Qure.ai, a healthtech company specializing in artificial intelligence (AI), announced the deployment of its COVID-19 progression monitoring software at Bolton NHS Foundation Trust, part of the National Health Service (NHS) in the UK.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jamessomauroo/2020/04/27/qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/jamessomauroo/2020/04/27/qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamessomauroo/2020/04/27/qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19/amp/",
+      "publishedDateTime": "2020-04-27T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1132912601%2F0x0.jpg",
+          "width": 1200,
+          "height": 672,
+          "title": "Qure.ai Deploys AI Radiology Software In The Fight Against COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly.md",
       "title": "This AI tool uses machine learning to detect whether people are social distancing properly",
       "excerpt": "But when we go about our daily routines, especially when out on a grocery run or heading to the hospital, social distancing can be a challenging task to uphold. And some of us just have God awful spatial awareness in general.",
@@ -971,43 +1015,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-how-to-run-ml-applications-on-particle-hardware.md",
-      "title": "How To Run ML Applications On Particle Hardware",
-      "excerpt": "With the release of TensorFlow Lite at Google I/O 2019, the accessible machine learning library is no longer limited to applications with access to GPUs. You can now run machine learning ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hackaday.com/2019/11/26/how-to-run-ml-applications-on-particle-hardware/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/11/TFLite-running-on-particle-featured.jpg",
-          "width": 1137,
-          "height": 576,
-          "title": "How To Run ML Applications On Particle Hardware",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

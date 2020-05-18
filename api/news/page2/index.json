@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-15-new-ai-helps-people-exercise-at-home-during-pandemic-infographic.md",
+      "title": "New AI Helps People Exercise At Home During Pandemic [Infographic]",
+      "excerpt": "Many people have been exercising at home since the outbreak of Covid-19. Gyms have shut their doors and the CDC has suggested we stay in our homes. So much traffic has shifted to online services that we could be seeing a permanent change in the industry.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kevinanderton/2020/05/15/new-ai-helps-people-exercise-at-home-during-pandemic-infographic/",
+      "ampWebUrl": "https://www.forbes.com/sites/kevinanderton/2020/05/15/new-ai-helps-people-exercise-at-home-during-pandemic-infographic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kevinanderton/2020/05/15/new-ai-helps-people-exercise-at-home-during-pandemic-infographic/amp/",
+      "publishedDateTime": "2020-05-15T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd8f5f228fb10006a3cd15%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1440%26cropY1%3D429%26cropY2%3D1239",
+          "width": 1200,
+          "height": 676,
+          "title": "New AI Helps People Exercise At Home During Pandemic [Infographic]",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-15-nvidia-releases-most-advanced-ai-chip-ever.md",
       "title": "Nvidia releases most advanced AI chip ever",
       "excerpt": "Nvidia has just released its next-generation artificial intelligence chip - and it's quite the beast. During a keynote at Nvidia GTC, CEO Jensen Huang referred to the new Nvidia A",
@@ -1041,51 +1085,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users.md",
-      "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
-      "excerpt": "Want AWS with easy-to-use Red Hat OpenShift Kubernetes container orchestration? You'll soon be able to get that.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "publishedDateTime": "2020-05-14T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/07/15acec1a-c9b8-4440-80e9-2d7266e44721/thumbnail/1200x675/68d586e111b2a5939b36cf74ebe8a84e/in-the-modern-data-center.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

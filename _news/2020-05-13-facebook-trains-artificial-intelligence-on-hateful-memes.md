@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.thesouthafrican.com/technology/online/facebook-artificia
 cdnAmpWebUrl: "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2019/01/Facebook-770x433.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
-  - title: "TECH BREAK: Facebook trains AI on 'hateful memes'"
-    excerpt: "Facebook said it was releasing the database to researchers as part of a \"hateful memes challenge\" to develop improved algorithms to detect hate-driven visual messages, with a prize pool of $100,000. \"These efforts will spur the broader AI research community to test new methods,"
-    publishedDateTime: 2020-05-13T11:17:00Z
-    webUrl: "https://www.nation.co.ke/lifestyle/-Facebook-trains-AI-on-hateful-memes/1190-5551346-hkqocq/index.html"
-    type: article
-    provider:
-      name: Daily Nation
-      domain: nation.co.ke
-    quality: 39
-    images:
-      - url: "https://www.nation.co.ke/image/view/-/5551454/medRes/2614855/-/sneh6az/-/CYBERBULLYING3.jpg"
-        width: 425
-        height: 262
 
 secured: "GdYTeBi9HUZ3ZPWylx/HWtiuvVf7siDF2NnXIedkPYjLiyZfVbzYcCM4x7lpOT2qdiclBVKCgClJdHiGxbCO8YKRuvIKo6W13WnAdZ26Ih1XJYi6QY46Xnl/Ina0d3cztRRuaLKBnGCQuUbxQJMB0y8XmqxVNrbiHsI0iqM3aKvWY6FVHB+rlzHWxCK6E3wof9IQoW83v+mXEJZCZl4oDn2CNy/NhmuHuZU1NBOsbzJ+w6hjel/IgRlMhIqBIFdWaZCHNIvNohVdu5D7y1ADktMoArAfhi6VmHM0I6zMLeIEPDBq0FU5OLW+AEhbMVePwV6JsKKVvUTMNu93G+f2Px9XAAVxFM37yP/3Oi/vY7GHAC8wJBsAxAiX1fwSvz9hst9sE2tj8Ul5QIYAj/OMoU9InbIhQ3PjfjBSzHMj6UUrOkd4C9i9bJkc/6bQs50xSnuwNH1Qxphajp8rr8KUEJaM9/42FaTJDRmrfgrHlc4=;5nwUkwpHmGcmqOQ/aK1HLA=="
 ---
