@@ -2,6 +2,55 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-13-microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai.md",
+      "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
+      "excerpt": "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai-2020-05-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea.md",
       "title": "Using ‘personalized AI’ to end coronavirus lockdown is a stupid, cruel idea",
       "excerpt": "A trio of AI and business experts from INSEAD, a prestigious business school, recently penned a lengthy article in the Harvard Business Review extolling the virtues of “personalized AI” prediction models to end the coronavirus lockdown.",
@@ -1221,51 +1270,6 @@
           "width": 1200,
           "height": 640,
           "title": "Twitter Names Former Google Executive to Its Board to Boost Its AI Chops",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-how-facebook-is-using-ai-to-combat-covid-19-misinformation-and-detect-hateful-memes.md",
-      "title": "How Facebook is using AI to combat COVID-19 misinformation and detect ‘hateful memes’",
-      "excerpt": "That’s because Facebook is relying more on the technology to help moderate its platform during the COVID-19 pandemic, which is preventing the company from using its usual third-party moderator firms because those firms’ employees are not allowed to access sensitive Facebook data from home computers.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech",
-      "publishedDateTime": "2020-05-12T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/29Ohkhnj8vaOLcOrf4YADVErTsU=/0x0:2040x1360/1400x933/filters:focal(831x690:1157x1016):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66785966/jbareham_180405_1777_facebook_0003.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "How Facebook is using AI to combat COVID-19 misinformation and detect ‘hateful memes’",
           "attribution": null
         }
       ],

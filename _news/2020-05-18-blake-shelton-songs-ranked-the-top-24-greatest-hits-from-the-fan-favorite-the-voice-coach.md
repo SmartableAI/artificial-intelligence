@@ -23,6 +23,6 @@ images:
     height: 360
     title: "Blake Shelton songs ranked: The top 24 greatest hits from the fan-favorite ‘The Voice’ coach"
 
-secured: "TD/39dU51gbXVIbUdoFFx7xzB2u/1rFWqSCsWyOQuELRV0SCp3UhVTwOExQqNjzcpv53Dg43ip8Q8r7GdSM8EqDqWUPDnaSUJxCzHYTEmD5j/s9fO7TXIg6IhkMKtSPgwvlnG4qdMonqwxQyME5nrPMSIA40IHusPVVtUhkKJrGrDKzXpauxLQ/rIa1u5lVHxDpj9XdutlxVOaA0cBKankvuCD0gbO/u/7rA+voHY/n8b6thJ/3JmLDH7PkuUzS0gCJSQPTg8UiFhkk1vDldTc7KZXULCn8CKrr6P9yECF8nhVJA65gsYayPIGbzicmz;fokVWAapi0vG1+K0xtH7bQ=="
+secured: "tyIWyXq/nZwEvVWY04q/GyuGEoK/7Peimd+ccK4AUMN5l0ZyjbShLvi3ZhxOdZGddfp5I31vYVFcN8X50I+s6pPPIBhRe9k9pTEaXd1v3uzjarYD4z4kQ7TImRowpprtpCmi/+NBS9kUEEoC7sm5ApheTSXvzoGqAzK2+Qxrqeiz8fbE/bPB+mdC5Qdydj3/gczSFf9PHJbX1hoElDxrRGF+WxyF/FvYSNxkq0LXqagf4Y00PDjgjKQNXevKLtAl07a5Asi8gehviRwCxRhjQjEBw4Czy2MshKyfJ0EraXhmk5clgEoLP9rrr0WgL64WM6TUKiPGKEvF1ePnpEP++dU77HzxXglvF26SQnW5OZPfIBvCWF1N40WCPdVHa84T+0dP9UhIwoBq7JCvJF0tEY1CSgPlxyXwSAbAX/bClVLBKJRVVneY4Whcay7C9bAsFRQjOdpy4gWqFVqKQDdPRcrwN1LmpNKl3aZJeaeRErY=;ikShCPXs3KpED7ZkuFBdAg=="
 ---
 

@@ -8,8 +8,8 @@ ampWebUrl: "https://thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: The Next Web
@@ -29,21 +29,6 @@ images:
     title: "Facebook’s head of AI thinks Elon musk has ‘no idea what he’s talking about’ — and he’s not alone"
 
 related:
-  - title: "Facebook's head of AI says Elon Musk 'has no idea what he is talking about'"
-    excerpt: "Elon Musk has repeatedly warned that AI is on the brink of outsmarting humans and that it could prove more dangerous to mankind than nuclear weapons."
-    publishedDateTime: 2020-05-13T16:56:00Z
-    webUrl: "https://www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5"
-    ampWebUrl: "https://www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/5ebc148f48d92c67f652cf9c?width=1200&format=jpeg"
-        width: 1024
-        height: 512
   - title: "Elon Musk Has No Idea What He’s Talking About, Says Facebook’s Head Of AI Jerome Pesenti"
     excerpt: "Facebook’s Head of AI, Jerome Pesenti, has strongly condemned assertions made by tech billionaire Elon Musk about the future of AI. On Wednesday, May 13, Pesenti took to Twitter to criticise Musk, describing him as having ‘no idea what he is talking about when he talks about AI’."
     publishedDateTime: 2020-05-14T13:02:00Z

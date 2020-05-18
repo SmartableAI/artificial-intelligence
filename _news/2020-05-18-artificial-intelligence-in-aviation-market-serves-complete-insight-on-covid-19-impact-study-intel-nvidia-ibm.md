@@ -5,8 +5,8 @@ excerpt: "MarketResearch.Biz published a new industry research report “Artific
 publishedDateTime: 2020-05-18T07:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-serves-complete-insight-on-covid-19-impact-study-intel-nvidia-ibm-2020-05-18"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

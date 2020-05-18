@@ -23,21 +23,6 @@ images:
     height: 1080
     title: "Cloud is indispensable in COVID-19 era, as analysts kick off AWS Summit coverage"
 
-related:
-  - title: "Watch live: AWS Summit Online goes global as cloud proves vital for COVID-19 business survival"
-    excerpt: "The AWS Summit in San Francisco has gone virtual as a result of the COVID-19 pandemic. To adjust to current stay-at-home and social-distancing recommendations, Amazon Web Services Inc. has evolved its annual event,"
-    publishedDateTime: 2020-05-13T16:11:00Z
-    webUrl: "https://siliconangle.com/2020/05/13/watch-live-aws-summit-online-goes-global-cloud-proves-vital-covid-19-business-survival-awssummit/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 27
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/AWS-Summit-Online-May-2020-Werner-Vogels.jpeg"
-        width: 1200
-        height: 612
-
 secured: "vOvCwmHDq1OQGuV2wusZZcbVJk4hu3kY1QXhF1RGWOanV19x46xPc0PPFFs+q4CwtMMkeYYbgP0DjZj8cCdReOa25doXNJtnKMWxB7oxKp1v8sSlc//Ixhv+c8actScM0Vch8hO0VUxGuqB2UzFIZPL4/UR0ZnqroCwtieKTLrryTLPX0NhTSMLVCSz++YCEWzoWGj6ot4sXAaywcxBFceAm1cucVuxG5xGG8E5oLWTPB5ugx5m/uxPUUBD08RpjsrmLlq70rqoQURRXgcPOeLqxcJqbgbgUu0lZvC7XonEgwIKzbOU9XhW/ikN/vXQM+6/4aQTpWq38qep7I4uL+7c6Nq9t7NbuqCsxbbWyR6vo2VyYJHKEwmmrx6v9Gpx4g8m9U6mNUimfZClZF3vQP0xHPvTvlP8W6JUFlzW6wqi5fbQebBkRUU6IuEuOS0Xl0wmr1kYyGjWyBN6iVG1yyJZaK9SkeiqObDVx3jXdh3k=;rQKh1tEC/fXkpmU371OaYA=="
 ---
 
