@@ -5,8 +5,8 @@ excerpt: "Welcome to Neural Basics, a collection of guides and explainers to hel
 publishedDateTime: 2020-05-18T14:57:00Z
 webUrl: "https://thenextweb.com/artificial-intelligence/2020/05/18/what-is-artificial-general-intelligence-general-ai-agi-syndication/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-20-796x417.jpg"
@@ -27,6 +28,6 @@ images:
     height: 417
     title: "Everything you need to know about artificial general intelligence"
 
-secured: "YNncFGBMGKa2mSlHRkedM4IPLARvv1tCnTwFQwP8GvnPgkqepYx/L4r8rGg3C433CVCSDwGYihhhTBww2FDgHxyyzCQGAFChor1WqRk2PBHKaIUs6jgc4PeTN2I+2y3JHbiVzjEgNCoqrIMr1wvNucZulNeLLYF6HFKkqWmBQmTAaDblaqDTWjvpNl2y5V1L7FfojMa5fS0qKUsEWKBGLxUgyhry2gH32adN5ZXDD/nXmbGF2dWyaANJYBogA6XQPPvtvCC6YSmbl8+igUJBi/1akGrHdZlz0ilkEe51O5Q1UfIZcVRVlYgfK0kZh0bo;zgwYn5D2jRdowrcivDbCbg=="
+secured: "QzN77FU9iZHDUxe3GHY4NWRCnELOhU+DTfOLHWlMYoFsG3Vzx7K263DQ0aXF6oiZ0T/DGifixbWELL3ls3xmDApfgKcQfPs9ehbaRITt7hLg5hCHkwFBJ4yD0SmPzZ3W1kLin7kLKgWFlxSGX5v0WGCTwEJpYN6emaG9gCRLUzyD+PiFep1TBRrBtgo/4xGfhl6x66cyIP3CWtUpVo3NOTo7Tykt8lw3wHpnv68qdBMDRLfkOIlRB1mBSGOxz+VzEQzMijYNqqwTc5/m13LkgytorxhvmfB8YbQL7cYTB3M1BoH4Y4k6hZvGnNfSFYQ9eZQU0ZARSSrBYYj2bArWme8meP1wZoICxudZ0nmpJEFhVluUqhV1n9qOxJ8Kpr2ANzcipnknxke7v1Q1QH197sy36EXMV2KAy8gJ+94MoSXbNPHU/pYsP0C6bCt5qDE/iyaxHoYgC7i47yqvXRUgPuFWyypVNB8Uw//QDSrGLT0=;RJE0+Sq4+zM/v3foFMJDqw=="
 ---
 

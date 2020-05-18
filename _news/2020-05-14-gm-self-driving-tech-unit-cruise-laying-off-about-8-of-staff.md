@@ -1,31 +1,23 @@
 ---
 category: news
-title: "GM Self-Driving Tech Unit Cruise Laying Off About 8% of Staff"
-excerpt: "General Motors Co's self-driving car unit Cruise on Thursday announced it was laying off about 8% of its staff, according to an internal e-mail."
-publishedDateTime: 2020-05-14T18:50:00Z
-webUrl: "https://www.nytimes.com/reuters/2020/05/14/us/14reuters-gm-autonomous-layoffs.html"
+title: "GM self-driving tech unit Cruise laying off about 8% of staff"
+excerpt: "May 14 (Reuters) - General Motors Co's GM.N self-driving car unit Cruise on Thursday announced it was laying off about 8% of its staff, according to an internal e-mail. That makes it the latest autonomous vehicle technology firm to cut staff as the coronavirus pandemic has shut down the economy and dried up funding."
+publishedDateTime: 2020-05-14T19:36:00Z
+webUrl: "https://www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0"
+ampWebUrl: "https://www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0?amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
-    title: "GM Self-Driving Tech Unit Cruise Laying Off About 8% of Staff"
 
 related:
   - title: "Cruise, GM’s self-driving unit, lays off 8 percent of staff"
@@ -96,6 +88,6 @@ related:
         width: 470
         height: 246
 
-secured: "kKF9bLQqnzZw2WUwmIHuSaPH8euhdyJIInl5LpC6JYUFUYORF9myid6NuxOKAdFrh1/jXmxfIb2+P68N0M520z6Bvea5TyjvZqT/znIK3CoV3YL0OUI7wWXSqOCFFH9YmfejpGoGREJS90izm5I5LY/LXh62L1Yz6huYrNfAFEgy8UEiAvCHr5ulfGQkqFiAp9JgqTcqenXPsOJBkPilUsh8WTgjq+X0rNhSdAxfvLoc2ONzw5W691HHy7kmhY76kc9u36T0n8lgjNDPPfhgIbRh7ffB3xNF/CkYs51jh4AAFvNtuCQ/KIq4wsuRQWTO;T0b5SqRYrlzKTsA2uJjYCA=="
+secured: "X8mhjBVAleEdUgXVdCbMXuX6UDGEOb3bLO3eQIkBKnO7Iij1A9HQzL6isErw1qUX3IAG0WAUJ2D4YUOxqvSxZAEfgajmm0a39THLpzhe3Ou/cSx2vuoVZw8kGgXgO2S05AKkZfeOmouC7amsQNt4PyQZceaBEtGZ63DY0iwLjab0TvNDNsN4O1j1Avs7eX2zL3hTjwaw+wECE2HoQO/G4N87YLcZgOuHIElX2kW3p/K4h0QLNQykcX65MSR5K32MMiO7mNLsBJezLD4AWKNlhr+5lDPaJ/bJLlJdx/A+IMMN48UAABFib28lrBP6mZz620C3y0QzQy/xIBD1V39NEx3d8koqhOFlXOc4pAIidkuuIWTW2KKF7Rjb81K51kV+ezP3Y6F3NbcpaepOo0dG5XEQEnbrBIU0TCenMRY7rpjMfup5f6J53kkilN6M+9UgOXf6AKEPC5znE0MxCkzEX3g0y8qKh7X4jyUV7Kfgid4=;CSohrWTefmsHEO9SWHMsVA=="
 ---
 

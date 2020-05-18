@@ -37,6 +37,19 @@ related:
       - url: "https://media4.manhattan-institute.org/sites/cj/files/recognition-technology.jpg"
         width: 1280
         height: 640
+  - title: "Facial-Recognition Technology Needs More Regulation"
+    excerpt: "Algorithms that can recognize people are too often biased or inaccurate—and they can easily invade our privacy"
+    publishedDateTime: 2020-05-18T15:59:00Z
+    webUrl: "https://www.scientificamerican.com/article/facial-recognition-technology-needs-more-regulation/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 24
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/B94F1DB1-163B-493E-8890360145CAE2E0.jpg"
+        width: 790
+        height: 497
 
 secured: "09fsTsJJHI/iPzh6BczR6k/JDG3rRwIiA5NtvK9/aWIhGgx2Lwww23KxQee8OTG85BIdDwDB033TMEwEsiNk6uzyDj2yAGCQjpIRakNgAsY1etmEb2F4pKKavDZOS1WmKazHYVl/CP85mXZ1Rtgrfr14Fw9CCjsLWN+LSML1s0dV14rJp37wLCVYsJeJb/IHpJvqlGv5b8Kw5eYn1/HKbo756bBfaroMqYEptA1ctjo7dRPV2QhfYPd1u/31X+YeizaGo5jQwRNHKGp3ComsVkdgywlJPQ7xQ6tQZtXXDE1FbHXSbdkkfGS0ONds1yvH;Z8gFeeyyU7YoBq849ZFKJg=="
 ---

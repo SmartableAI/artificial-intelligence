@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AI unlocks rhythms of 'deep sleep'"
-excerpt: "Algorithms and deep learning has enabled Flinders University sleep researchers to dive deep into one of the mysteries of sleep health. They have used machine learning and artificial intelligence to develop a free online tool being used by sleep experts and researchers around the world to work out the role of the so-called K-complex,"
-publishedDateTime: 2020-05-18T15:19:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-05/fu-aur051820.php"
+excerpt: "Algorithms and deep learning has enabled Flinders University sleep researchers to dive deep into one of the mysteries of sleep health."
+publishedDateTime: 2020-05-18T16:19:00Z
+webUrl: "https://medicalxpress.com/news/2020-05-ai-rhythms-deep.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-    width: 900
-    height: 300
-    title: "AI unlocks rhythms of 'deep sleep'"
-
-secured: "YzW7WqL6iiCbH2ZFdypIKwkSHfJAvVofhLk5HyXS0OZTsZqTWLMW9aHZK7oqH0J0mr/iWBng5kzYUvGeXCg0ctyq4aVvtdXKqYsiZtrlb4csLqC6OwAr2q3EfkCG0n7Eibp7tQuIB8+YxeFddSRiBzlgS3t+UvVFFCSn4eRe8VtfbRHxpCkdhg7cL4jvh5JD8Ondz3jDCUlj7EjBPH4ZerF9UYgru+hCqLV+CKK+CxZWJPJtAbSZQEoBBpvZpxwuTxMeYvjBbecgGYWCw71zPNM6Pn0xwpAZ6RrYy2kvf10VAp/frzqFAh+8cPV8rIlm;aeeceh5WuUTmk3dEpGzlFA=="
+secured: "z8iR+mO+rSiwForUX37xnkaYuS1EmlrLehaMJlGOzzIEtWkhqG+wAaaR00I8pmDx7I4axc4ocbMZc867G9K+hDXCQRS3By0gURt0rnJQJ6iu8W2FTJek7yJV3p6MxCGgrWlSgZQ2alkzYmNmvLosvLml2Q/QPS4YMNSpsQ2N/By4QNL4BULzItY2NduabDaMTWPf7iSihTVo68cBs9H2NXPs9HTC15F0AVkw5Nw+8TD0dec/t4UE64/Wi7M5DhNbHgSwsblIT4NGhO1vI4mMAC95TTb63SIyIylQgNtfumlwYKLYoGsxrIHDo2J/ISNfGRtHM3hgq4TxMYrJm1yuzjlq+k6FSpDW2XSxcndertGlQvdDco7QrZb9qRUHsrk5QFzDgHn2D/TjJ9b5qL+MQ1SQ7/y3inPyp6r35kNlGDz+PUxCi1fDF0IiP8YJKbYmX74T/FlNsRdWoyH76lGrWlIZNRRPpugy4I6sBnSc9mQ=;r9BvD6uLkDJNpYQOk5lh+w=="
 ---
 

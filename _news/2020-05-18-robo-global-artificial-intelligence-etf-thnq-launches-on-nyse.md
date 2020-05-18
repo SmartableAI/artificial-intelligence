@@ -5,8 +5,8 @@ excerpt: "ROBO Global, an industry pioneer in innovative investing strategies, a
 publishedDateTime: 2020-05-18T13:42:00Z
 webUrl: "https://www.businesswire.com/news/home/20200518005020/en/ROBO-Global-Artificial-Intelligence-ETF-THNQ-Launches"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mms.businesswire.com/media/20200518005020/en/791807/23/ROBO_LOGO_WITHTAG_STACKED_COLOR.jpg"
@@ -23,6 +24,6 @@ images:
     height: 627
     title: "ROBO Global Artificial Intelligence ETF (THNQ) Launches on NYSE"
 
-secured: "UsuyuYoYRxqgiAD/6C29qzj2rPGWRKI8EYmjWIVTpnFqbrRXc6SabUCefPSpvuZ5gA61rJTGepR6jpkCB1cr4I1oFBak932iIbtAnvtVKmZ6WOrssiwAeoUzLDs1y/XOoaV48lI7yCVDFEPNb5BGC1q0eluj3LOWW3OtfwTj/v/z+Jb/+YfyfU14DzpZfZHPasV4PsyGiUqPhfR415TO1bS1radGdjoZluRsT9kBW6rKRB4ImPZxvZTgHCVdwmcVpur+JPX8m4urHb51wtHo611Mb+3lvWPS0c9zbU9z5PXB2DfXyKUYP5Wf0sia/Lzv;voE4SnCvySzESsf62CpyTg=="
+secured: "SEsUNMq2Hrf9g5N01xefjwQWKuLJRDxGxpWlxYu1Tws1lES17iiUtgcv37mljzc0IamrO3wuEamUwmwqkGFwfG0bQjqkHE5JKeDKQQjiW5SfkkDii7TOfoDzW1vbofhaWydmRGBNylzac/F48+B2EjTE6r6DXFYtQNrm6vQuDN2b/Ww78xgk70okyy+UGr/NIRaO7bq5wA2fxlPlJTxH9f555UrQN6lRaER6vkvNOegX4PeekQYt68PTGx0D/RpHEUDIrf+8kp5BM8kNW3SW1Q1VnYlyOYlc6W+6bNhokStbHnSjvKzhMTPD9ooeztBm1RyOOux9VxAMUS5k/nNS9PKP/DqGjtDIYEacg3DFFKxeeC7MSnpKTEl6LHXnQT/9XnC64ctd2Z/JBHnf1U0DKRG/zYq3j4l4iyc1sobh3f+75dfn2OmMrO7K5fSK+cvR3Xumphnt7Od6HfZBmk5wBDF+AgDht/OLBfvYX+zJ25I=;OAT7Jp0qD+K8BLD9nIMrSw=="
 ---
 

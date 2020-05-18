@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Early Bird uses 10 times less energy to train deep neural networks"
-excerpt: "Rice University's Early Bird could care less about the worm; it's looking for megatons of greenhouse gas emissions. Early Bird is an"
-publishedDateTime: 2020-05-18T14:58:00Z
-webUrl: "https://www.miragenews.com/early-bird-uses-10-times-less-energy-to-train-deep-neural-networks/"
+excerpt: "Rice engineers have found a way to train deep neural networks for a fraction of the energy required today. Their Early Bird method finds key network connectivity patterns early in training, reducing the computations and carbon footprint for training deep learning."
+publishedDateTime: 2020-05-18T16:21:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-05/ru-ebu051820.php"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "+CffEyViGwfUot0OrSr3tMmF1AlxXoxCoKadNhV2Vj5ppVTap+29ZuuJqKKbvYrTO/EBDTHdMSCLIGjhKHiNjWdr1rEZwy6vSqCRzxf6YpV2A01a4Q37DL/j6al8/yJZJdZhSVhm7NoC8J9k0ZhNJKt1dZ/pzDO1IWS8257gWyLw+nHE0ETreNScTNBfdu9ThvlyQQoiesJg/z9UaYZ7ZZjIE/NZzqIcxTa/xiomPyhbXtlP5e3mnq2wK76YcybZB3PImysqa/lRQANynjuve2+rNrhdTqC7ih4pTLgF0dYvDbhoRrOHaXyhuN22Kga8B7bXYwiPS94CrEZT5i6sofc7cHzL327VX/eJXmk9JlO2oHpI03ZGo0YZ219SzTYRFPzOM6SwpCNw0uMmWaKs84D/77pOkdYEup4dB9kZDKEPZNJAGCbtsEYVnHmAjwjAZ2ZWrrjqBsbcltBTrF0oESYp+riXnhB4WQYaCxOlRjI=;a4gJkpFEPk11GW3On630tQ=="
+images:
+  - url: "https://eurekalert.org/multimedia/pub/web/232215_web.jpg"
+    width: 720
+    height: 917
+    title: "Early Bird uses 10 times less energy to train deep neural networks"
+
+secured: "nNy2ND+KA8VEdgQpS/lUF09Q2FbZznQu6AfHCi8mA2AMKNqa+Rt7khswnEx3P7Rbw0Xh8ptu06CYjiWrJlH80cup/TSoHH9VvdxlI9YWYxajtWZr1DlpS14WMfjwWEU60X1/LCSUoz/pwdphDO85GU0x/lefi5u6VM8/YUKew1rZf+aBN5l51+Ww8UtzjP1in5B80WwHlwun4Iy/IDJ4C7DVrZDepgL9EUuVlxHe8/f1/RZKX3WS+nJ1wS5OxzeZQRqMkwHwoKSBvuEInNGRikod4nco/KEQspDnauQT+W8ahRlQgg9RFS+0oEeHJh2O;p+aQ7G4LOPdIikufUEF5+w=="
 ---
 
