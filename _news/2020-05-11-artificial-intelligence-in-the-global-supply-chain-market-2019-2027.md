@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Artificial Intelligence in the Global Supply Chain Market, 2019-2027"
-excerpt: "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision,"
-publishedDateTime: 2020-05-11T11:15:00Z
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-global-supply-chain-market-2019-2027-301056537.html"
+excerpt: "Adoption of artificial intelligence in the supply chain allows industries to track their operations, enhance supply chain management productivity, augment business strategies, and engage with customers in the digital world."
+publishedDateTime: 2020-05-11T11:32:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-the-global-supply-chain-market-2019-2027-1029186828"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-the-global-supply-chain-market-2019-2027-1029186828"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-the-global-supply-chain-market-2019-2027-1029186828"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    title: "Artificial Intelligence in the Global Supply Chain Market, 2019-2027"
-
-secured: "3k46DzVkZzWgjDX53RdVEWQnV3Ka5NeaI3490NSrugasL3nXhYZlI7lhMzOmD8MKZicxcLNFMvwhGLESJ9BP2IfW3YNmAN7jaRCJ4m8GxpcK5rECDa4MrQUt8ZqrceXaIglBmPFx+fGGQKVvFLjDBCDIV7r3Lz88ajRBllxPVNkH5dmH6gAiedzS0Cnm/E4WXNSTCucjAHmry0AkSTlEFWLADv0AM4lfbpRd2qvoLv7utLUP/Of7E38EkzMgPvKAldNFU7oScOZ/BI1IPDEukZ9NjrcEmYCI96oRk6YhQoSJ6J+HhdD+pUcOGENu8jvbZ3BjiefjFBBrsyvZ4iHqiTRnYRc+vv5qnOMKN0PV1m6TJIDa6i+2wtnYvjyDqZS4orzNoBcIxchsZsZBMrJnzDzMFfgC6HqowG5VoDgqs3h5oSqKxWAPWY+SHI5MD0vPCDSuBDrPIl/702psN66J0SqSdY/J9LqKKkLigAk5IAc=;RS6Vc+95RqK96pT4Sp+NbQ=="
+secured: "5pMjPfYIJchnJmJ1u6/XPJrZJ6RE+6Cs6wPS97LvM0pHOnrzuQpHw8soRIcHuv26kiCyV6IlB8kmwlPcM2YMHUm/HOcyKlRkB9tWprBRhBEc9FC8yEC3t/+2ooLdr2L9YQqq9bI3NUKrP5gzHIujT85nxtOdDSI2Gr5Q1PV9Of8u+Ru7gLHRfE98bcAEOmyWORmafJGni3vCqtzPqjyxv8SRgVWrqcMz/mbhMWlC85mWP3xP73SyBElL0xvNc3tSFr139vkdFqP3boX9XAX9l5da/prOSKDUVDkmMyYIzPBnHYdYAbt5ghqhjtqKSWkM;cId7zyRphq1ZPWTqPyfcOA=="
 ---
 

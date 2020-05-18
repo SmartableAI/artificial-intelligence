@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surve
 ampWebUrl: "https://www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.wired.com/photos/5ebd97001c8fdaf50e1b0062/master/pass/5ebd96bfd58e99fafced8061_iflytek_2400x1350_autoxauto_00001.jpg"
@@ -29,6 +30,6 @@ images:
     height: 1080
     title: "How a Chinese AI Giant Made Chatting—and Surveillance—Easy"
 
-secured: "+z6SdPk7U1RLr441XflefhVnAu9sLxGM6JIO/UDdXGTysleZpDWuQD9wcqYo5A1AmAjoOqYIG1fnsjPZ6uJIZte2fnzWdnC+iSNiIpvhlxobt47AeWMoMI2gji1PHnyL+xQ04lP23hYNIUfxG/K421wXu7zV/y/3c4exTGzN9MdfQGgwwEq2Oy7q3FZPdJ2fWYQ13vLbvoQ314O8sRLqv45XbhLBZ7WBCm/IqjzHrIIfEwzC4biZ/NYz03WaXscNChCkCa9lna6i8cV9v0RVwFSoY5oUGDWLB1w1wDdQxNu0CMNtESWmhLzKAWYFqNSI;622SCVtaUJbXANVkPqZ+iA=="
+secured: "7Wnb8Buy9fPZ1E7cEYWidD8mg0Le1dV1w7Ycspgz1FIt1RH56UKHS9dhRzKT7UqQXoJKyrxJ46P0L6Xw7LU4Wu4fWhgzqJTIYE/iPrAH7MPw0lRb0JVIhpPAJQpe+VGqMTZs9TdSaUS7GxlV5RpbzqVRMk4e0ro9Y9B44NhAgH+lZAxk43IFEPWDyweezzlNOGQXM9rL1Fi1/sGZiBybWWdyk1QGceTogyjl3R8/FisXXSEX0FlWeO4qhKI+wWxhSXU3+tcUn2lPYYmdo6ltut4ByLILJdKpuI3XR42x2xs1Un1Zv2WmXN47YVLAInLavQe31mlqmUVao6u1VbvVi+lanOl22jmcksjXwbRwms21KHybialpGJzn2YUDDkv22tGZe5I1IBRKiwKpPj7tEV3GOHJx2lFI+bU5ZG03y9fmPa4OVggxjq7J57sGOwWDLNmiqHXygCpTt7NtiitRCRZgzKLqnWzzY3jk9+fboBU=;hCwehuD/gPekkGDvJfqgqQ=="
 ---
 

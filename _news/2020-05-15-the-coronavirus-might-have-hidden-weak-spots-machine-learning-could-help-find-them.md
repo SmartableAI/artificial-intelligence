@@ -37,6 +37,17 @@ related:
       - url: "https://news.northeastern.edu/wp-content/uploads/2020/04/enzyme_1400.jpg"
         width: 1343
         height: 895
+  - title: "The coronavirus might have weak spots—and machine learning could help find them"
+    excerpt: "Chemically speaking, proteins might be the most sophisticated molecules out there. Millions of different kinds of them live within our cells and work together as a fine-tuned orchestra catalyzing the biochemical reactions that keep us alive."
+    publishedDateTime: 2020-05-18T13:32:00Z
+    webUrl: "https://phys.org/news/2020-05-coronavirus-weak-spotsand-machine.html"
+    ampWebUrl: "https://phys.org/news/2020-05-coronavirus-weak-spotsand-machine.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-05-coronavirus-weak-spotsand-machine.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 35
 
 secured: "lILwZgBIJbHZxhty3041Ah6CyP98ZvB+VCy3Q7URkX3p1BtWpzOi5PwHq1NkqOsDbD7XdLG/+7cG1okYpmHUM/ktzXtWyrIm/twd4EoOVB61p0reA5MqIguZGGnh5PCJE8YecaJ6Bt11H+4/Tjji7Czz9dXADwSSD1CKW5IHzPsKUbY8NG2PZ6h+hVUR3wnLdqlPf+dgo7T8a4c20WZet3wJCrkD9WuMWIgeFu9kMMa4pnYJKzGPqLvZhJdZqweuFilhzQRP2rtTgphzTRcU90ROHMgF7ZydMFFdGdQbyNuzU8grai7J6UUkG0cM3bQoxPBfIAShHrQSb/fhWrd7RxgLmSXS2QVpYLNt1duiqJTGiwSPtneh6kartTPimXZs14cAveidm9CDM6vwvlQWDGsH48KCUXquHRdcl+8hCWvbXByqGEzAH5yKCmFVNaFgEYpC6b5lBwKIhLXvUWw2Dhr5ffpOWDHEnuLQN25Rk8Q=;Qye0NMvyzufcMXfalxpncA=="
 ---

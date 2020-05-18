@@ -2,20 +2,24 @@
 category: news
 title: "Artificial intelligence could serve as backup to radiologists' eyes"
 excerpt: "The lung tissue was gone, and there was very little you could do in terms of therapy to help patients ... That's where artificial intelligence and imaging could come into play."
-publishedDateTime: 2020-04-27T07:11:00Z
-webUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.amp"
+publishedDateTime: 2020-04-27T04:01:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-04/muos-aic042320.php"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "CCMzDGJEA6AyEvmZHEsXAivLFsLkp7+0kg3TeutQp+grdzPHOZjB5xESPt97YWSPw0OvzwqTQJNtfzxZ84NN1b/IifSxjE/NuqdSWivNFTXeptqKKiGOoDWd5mMpHip4Jg7yWsh75YFEeM+ZndNlTt7S5X1L3uDPMel4tfh/qYJwuu99KxKVSNA/kUA2oPj8KZ6mIUSxycCh03QIbcjGeVSXEPavVBgWAwJCjw14csU9bWi/8nZe3H+jNXk6xjvTRnELVeD7s4LVq+7NV6qopmUZyIypJDmUFfDZoMcB8bvjI/yfZjrgCCIJu375gbUE;0PhQK9m7vecosQm5OrVHkg=="
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/230100_web.jpg"
+    width: 720
+    height: 479
+    title: "Artificial intelligence could serve as backup to radiologists' eyes"
+
+secured: "DtZLrwIXqFEWm7oq05DtLaoEMFZLEvfmEdxMTPBZ3cxyYqButJwZSY11nvkxv1Mt5K0dJlM+zQrKNFCNctWOaIjURpT30uRBJp88awLcig4PYhdEsPldMpmcYzHffBYOYHWudX+p2JrWqpmYc5QewwTUzxAAWwcbsoSNvmLiy5K4THfUHV7FeNZ/I+lPMTMejwkDOzbi8eIbgIvrUPcJGax5QcaC13Oqt+WVMBHYzf6Y4F3empp04JpemdKV3EVPpcXVMfGsUtthmr//OCR4TNvsK9aSGUREwbtO9/nbFy3sD9hGIGFZ/fh4wM8CWUUw;ZzfiR2unNs3V/AVS/0ndng=="
 ---
 

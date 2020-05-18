@@ -24,6 +24,17 @@ images:
     title: "The coronavirus might have weak spots. Machine learning could help find them."
 
 related:
+  - title: "The coronavirus might have weak spots—and machine learning could help find them"
+    excerpt: "Chemically speaking, proteins might be the most sophisticated molecules out there. Millions of different kinds of them live within our cells and work together as a fine-tuned orchestra catalyzing the biochemical reactions that keep us alive."
+    publishedDateTime: 2020-05-18T13:32:00Z
+    webUrl: "https://phys.org/news/2020-05-coronavirus-weak-spotsand-machine.html"
+    ampWebUrl: "https://phys.org/news/2020-05-coronavirus-weak-spotsand-machine.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-05-coronavirus-weak-spotsand-machine.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 35
   - title: "The coronavirus might have hidden weak spots. Machine learning could help find them."
     excerpt: "Researchers around the world are rushing to investigate the proteins within SARS-CoV-2 that enable its infectious abilities. Mary Jo Ondrechen and Penny Beuning, professors of chemistry and chemical biology,"
     publishedDateTime: 2020-05-15T19:11:00Z
