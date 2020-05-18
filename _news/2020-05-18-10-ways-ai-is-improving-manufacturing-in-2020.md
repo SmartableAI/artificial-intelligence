@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-imp
 ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201992144%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3267%26cropY1%3D156%26cropY2%3D1994"
@@ -28,6 +29,6 @@ images:
     height: 675
     title: "10 Ways AI Is Improving Manufacturing In 2020"
 
-secured: "ZCqCPzkSQtOOIhI61WPPhPe74KJGfT+JbhRHTun0uJMbf2hJM9/mt/Vwrcd8nVF+96+KAm32pTRFoUdkrmtpvE/Zph9FQaP4LO+21SlFSXTEgn+SPkd9gQ35dQc6WjzG+1K56LbRhuldt5QVAjYM7+otuSU9pAGOrnTEO+01ktGOCsnv+N3mZCoKRwOUVGdbfzFpzL81Nm/UP7QzeJH5lgLvGaIeRO3VBaqfsN8VmUyjMeNplHFTkqlmnINLQrHYYnJfhYUmLpEnfFN/8e0lCFTAGn2p1bHZQ0R2ULknYF70x9ixxhlPk0yZkkfEeT/X;JL6KKy99V54xPsfmECPy1w=="
+secured: "nZ1UYPqhGBg8FkJI0mL7ELst+Y+Myb98ikCx3/nyONVLVDhwYZ2a5Y5gnIViec+ArojjAFfpeqfqOE/nKhNxHt9e1f/NKsu4s7td8oElF1UKmVjEK7KWeoICGD4/B1dY3Qfa/Peqvfbs4s1ZBtv13VI75O75DbeMP1lzKzZT6/wzKb1LMbsSqk3TKPV9yi9pOvcOqz6SPWIKZCkASqyl9e/5HuMkf0cDX38qonK+GonIn/FECYdItSeAEwT5ZpAkkylrJK4wDER6BFoM3GLdDhhtvSLtR2QBfJaMOx3ZA272EiAZDnEIVVbuDdtQBuMwoEIO5dsFhTeHIV6ynKuT5+bQTqRLoNQps0jZHGEvAfXDVfVBlHxyVTRevksj+FtKjZwbgwvdHdwtAPJT+0YZOMg4aqlPRGwk4QjDsKorlEGdTa7ch/2R9USOD2DaQK8BH1IqbGEjwD6xb+ojaSBUxGEKOQymVh4jvxjdU1htl4c=;119J6Td+Nj3LUKyibBQNZA=="
 ---
 

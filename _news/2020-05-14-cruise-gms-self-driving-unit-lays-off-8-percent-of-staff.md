@@ -60,17 +60,19 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 500
-  - title: "GM self-driving tech unit Cruise laying off about 8% of staff"
-    excerpt: "May 14 (Reuters) - General Motors Co's GM.N self-driving car unit Cruise on Thursday announced it was laying off about 8% of its staff, according to an internal e-mail. That makes it the latest autonomous vehicle technology firm to cut staff as the coronavirus pandemic has shut down the economy and dried up funding."
-    publishedDateTime: 2020-05-14T19:36:00Z
-    webUrl: "https://www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0"
-    ampWebUrl: "https://www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0?amp"
+  - title: "GM Self-Driving Tech Unit Cruise Laying Off About 8% of Staff"
+    excerpt: "General Motors Co's self-driving car unit Cruise on Thursday announced it was laying off about 8% of its staff, according to an internal e-mail."
+    publishedDateTime: 2020-05-14T18:50:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/05/14/us/14reuters-gm-autonomous-layoffs.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: New York Times
+      domain: nytimes.com
     quality: 54
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "GM Self-Driving Tech Unit Cruise Laying off About 8% of Staff"
     excerpt: "(Reuters) - General Motors Co's self-driving car unit Cruise told staff on Thursday it has decided to lay off workers, the latest start-up in the nascent industry to cut jobs during the coronavirus pandemic."
     publishedDateTime: 2020-05-15T08:30:00Z
@@ -94,6 +96,6 @@ related:
         width: 470
         height: 246
 
-secured: "dYRHHFh4cxFxfIghReYhU01E0JNf79hSHEO/bNg5qszVF2NrvipvSBRFOE0IYuGDPIP4jPeHxEk5anp3VvsZ1urJr4zQaNbx/OnRond6DXpzY+Q8RdvvWQjKWSIGEXvxLNrJYaLTrHaNeoL4sWJVG9YB6LrsjFoKpthxrHVThm20QiPKf9VFX3a62nhQZ4iOj4Y/Shr5kh8LN37A7JZVfFBLXFsUKDjj7ApGQ5bAwYX9PfYgq9mUhcNJS4qr/POerA3oLO0871ReIH3+uB11ivBVHRvOwnWa+NusZRXfO+RvgPXqePbwusqaPXb9hHoE+tWOmiFIJLkLCmoiQwRUXxLREMR77dZbKo5x5vq6PW807f8eOhInJQ23pk7eX2ypUXXCdL6VRo4pWtFsga2lpPV6wNcV46n8mT26q8VknwngmX/YI+hqzPPLSyOPSq8e6+sXKOLxF19cGUoZnHMH27Krip6oKQWzNvx6lxZi3UQ=;W27pjyEBEG+Uy6aqGa4VZA=="
+secured: "RiaAFTn1lNGC9DJIhc7uHYZrH7s61ZaVuNdhhrQbQmVH2JB9ZaR7JWZg5bd+hLew9F+CpXEhWLvW48YolMZ5fORya4/6rMrovLfGwmzyqVHe92l6tpooXuEQx4Cg+wUB1qzqotHla89thgChXWtLCE0/88sGvlbkGQ34osWn1yYokuNzmRh9wNnhXNt8rVOvBQCeLS9r/hNQKhYE+2B6DjjJSt/ZKkrITFDrREfERt+4u5mCLZpspAUZk7mwHmU/EwVfhCSfFgIwjToFU3/nDw2bM4yn0boJ6aptrUQrBPUPO7F60n3Ho0+TgxJXaM0In3NJYEuO7kTccgRSv75x1CWvBDzvacH1Bw+8Uc4DcYyz+IManxDkUm5ZeQHH3TYUHjCCd/IQiVi3YSIJDxI+iDueln3G5LItA9oP9Kd3JNZT/feUY1IamaJliN2HDylPo77xR5IxbWWytwu1am77eBBq43tamQoEzu9il3trTTk=;JpHVjabGNC3cSlFuHyI60A=="
 ---
 
