@@ -3,7 +3,7 @@ category: news
 title: "ROBO Global Artificial Intelligence ETF (THNQ) Launches on NYSE"
 excerpt: "ROBO Global, an industry pioneer in innovative investing strategies, announces the launch of the ROBO Global® Artificial Intelligence ETF (NYSE Arca:THNQ) in partnership with Exchange Traded Concepts (ETC)."
 publishedDateTime: 2020-05-18T13:42:00Z
-webUrl: "https://www.businesswire.com/news/home/20200518005020/en/"
+webUrl: "https://www.businesswire.com/news/home/20200518005020/en/ROBO-Global-Artificial-Intelligence-ETF-THNQ-Launches"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 627
     title: "ROBO Global Artificial Intelligence ETF (THNQ) Launches on NYSE"
 
-secured: "ox6w5lvEQ23p9iU3cGhXT4U12i8FcnMOFqdml/WA/DpwxXw7/0y7476xEQ5FRDOomVP/yE4UsbmfUHhVT3pBKYG+8/5N6/vAvDehClQ6YL+9wN/3/Q/fTkTru4+8W9z/HFcMp7nc3XkoLnw6ZaqaAq1HU/epCjSWUNVwbOSLXNEAuJa+ullVOPFHrbLrvC9Op+5bEg/m8LwmtGK+A7+9VeYkkDyLiDOFVIVI9qLwc7GmhV8NFJVMC3Y4ltMv5yol8dWyhgpwh+6lefeFZhKfAsN8jVnsSlAGwckLz+Ep2HMwUf42Jm/14Q+eKY2gLehz;kS101bWt73PFul6o0cksLw=="
+secured: "UsuyuYoYRxqgiAD/6C29qzj2rPGWRKI8EYmjWIVTpnFqbrRXc6SabUCefPSpvuZ5gA61rJTGepR6jpkCB1cr4I1oFBak932iIbtAnvtVKmZ6WOrssiwAeoUzLDs1y/XOoaV48lI7yCVDFEPNb5BGC1q0eluj3LOWW3OtfwTj/v/z+Jb/+YfyfU14DzpZfZHPasV4PsyGiUqPhfR415TO1bS1radGdjoZluRsT9kBW6rKRB4ImPZxvZTgHCVdwmcVpur+JPX8m4urHb51wtHo611Mb+3lvWPS0c9zbU9z5PXB2DfXyKUYP5Wf0sia/Lzv;voE4SnCvySzESsf62CpyTg=="
 ---
 

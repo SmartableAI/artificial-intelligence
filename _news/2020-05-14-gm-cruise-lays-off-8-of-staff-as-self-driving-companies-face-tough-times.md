@@ -60,17 +60,19 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103"
         width: 1920
         height: 1471
-  - title: "GM self-driving tech unit Cruise laying off about 8% of staff"
-    excerpt: "May 14 (Reuters) - General Motors Co's GM.N self-driving car unit Cruise on Thursday announced it was laying off about 8% of its staff, according to an internal e-mail. That makes it the latest autonomous vehicle technology firm to cut staff as the coronavirus pandemic has shut down the economy and dried up funding."
-    publishedDateTime: 2020-05-14T19:36:00Z
-    webUrl: "https://www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0"
-    ampWebUrl: "https://www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-2020-05-14-0?amp"
+  - title: "GM Self-Driving Tech Unit Cruise Laying Off About 8% of Staff"
+    excerpt: "General Motors Co's self-driving car unit Cruise on Thursday announced it was laying off about 8% of its staff, according to an internal e-mail."
+    publishedDateTime: 2020-05-14T18:50:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/05/14/us/14reuters-gm-autonomous-layoffs.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: New York Times
+      domain: nytimes.com
     quality: 54
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "GM Self-Driving Tech Unit Cruise Laying off About 8% of Staff"
     excerpt: "(Reuters) - General Motors Co's self-driving car unit Cruise told staff on Thursday it has decided to lay off workers, the latest start-up in the nascent industry to cut jobs during the coronavirus pandemic."
     publishedDateTime: 2020-05-15T08:30:00Z

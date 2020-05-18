@@ -1,0 +1,34 @@
+---
+category: news
+title: "How AI could predict sight-threatening eye conditions"
+excerpt: "Age-related macular degeneration (AMD) is the biggest cause of sight loss in the UK and USA and is the third largest cause of blindness across the globe. The latest research collaboration between Google Health, DeepMind and Moorfields Eye Hospital is published in Nature Medicine today. It shows that"
+publishedDateTime: 2020-05-18T15:00:00Z
+webUrl: "https://www.blog.google/technology/health/predicting-sight-threatening-eye-condition/"
+ampWebUrl: "https://blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/"
+cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/"
+type: article
+quality: 109
+heat: 109
+published: true
+
+provider:
+  name: Google
+  domain: blog.google
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - Google AI
+
+images:
+  - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
+    width: 1000
+    height: 1000
+    title: "How AI could predict sight-threatening eye conditions"
+
+secured: "9qvVIqdVAbz1/oYOhkdZnp3Jte6t3hz6JyNZu3vJ3RVA28kIJSm/wVqnFJcC2225HFTl9LOKlKc0bVE+WStjVnMT9myGf/KwCFULu5TmwpksLmGwBLkgg6pxdoeOWV02yKBFxQqut01YxpmM62Dfg6eQ/1t1mQSPLq5aMwjUgL2khU8p2dX6V0Z/O4XdCBm85PVcyMIZgKhNzh8FUfPEOyw3p1KCNV9JAsOk1ZJkSn1UMObKea1kF/YLFWSwGOeHTIWGbb79u8+3OO0htQ4glcMAUXTPMeUORi57Yj322gvHw7e2jmhv2cu1Qt97yUS9c0ZqwK6ZWImjXe9mzxSx4g==;B0rbCGdCc1qake1sCQfPgw=="
+---
+

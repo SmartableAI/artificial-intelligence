@@ -23,21 +23,6 @@ images:
     height: 430
     title: "Dathena raises $12M to expand globally and drive adoption of AI-powered solutions"
 
-related:
-  - title: "Dathena Raises $12M Series A Round to Drive Global Adoption of AI-Powered Data Privacy and Security Solution"
-    excerpt: "PRNewswire/ -- Singapore-based deep-tech company Dathena, the leader in AI-powered data protection and privacy management for global enterprises,"
-    publishedDateTime: 2020-05-13T23:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dathena-raises-12m-series-a-round-to-drive-global-adoption-of-ai-powered-data-privacy-and-security-solution-301058709.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-
 secured: "AkAsm8yo5TjkwJTxuvLtHRFlHqppOkEjS18W79egs3wxWyDqdoT2xslrcJFoBokAOGsedmawibwIW39Of79sZa6FQ6s1Xi6/5+rZR7q69ggir22iETAk0NliPWBunbnn9qw8epjOnT9PqR9DXEx0lWB2XL+m/nfFIxHScbEQa83xKgSHivpKJ7997RfQP80vusV1L/kFSBjlDlQIHuky+KWAVj0deSwYl93gj+L5odO5yezTaBbsbl0XN6RPoD0FVa2PIGUEWZP4aIBUrUW15jYV1QA143isOCmX+YoR98Mkvz1h0EK43fgQLaEofEqz5bu7HoQvHao/d/LpXDUnIqOdYDeWIfs0+j1fzF/q9EpnKx8zBuXoV/PUv+gm/RdPsJyBIrgaw/Y+ZHHcSn16erpObuAh0QfK/LCu9TL++SqgxO/eg+X9L1UF6v1vlY8MCmGLjKiteXjKZchlBRoMH35L40lo1YOmbYBNGh3pCnU=;AOYCQh/4VVBFDeXCrs/VpQ=="
 ---
 

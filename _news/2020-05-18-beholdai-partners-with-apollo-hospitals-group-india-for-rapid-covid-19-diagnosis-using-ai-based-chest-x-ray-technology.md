@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Behold.ai partners with Apollo Hospitals Group, India for rapid COVID-19 diagnosis using AI-based chest X-ray technology"
-excerpt: "Behold.ai partners with Apollo Hospitals Group, India for rapid COVID-19 diagnosis using AI-based chest X-ray technologyWorld’s largest"
-publishedDateTime: 2020-05-18T11:21:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/behold-ai-partners-with-apollo-hospitals-group-india-for-rapid-covid-19-diagnosis-using-ai-based-chest-x-ray-technology-1029210391"
+excerpt: "World’s largest deployment of a radiology-based AI diagnostic solution for COVID-19 LONDON, UK, May 18, 2020 – Behold.ai, the UK Artificial Intelligence radiology company, today announced its partnership with Apollo Radiology International,"
+publishedDateTime: 2020-05-18T11:00:00Z
+webUrl: "https://apnews.com/a6bc3c4f36361e8915709865aa9ebf49"
 type: article
-quality: 24
-heat: 24
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "JpvdG/3lDDwHjjLPu3OjpeIqSyWTdHy3wMyLo+w64HIbyHPkn/XcaxP9s7hjZdXybx/1bYs6SUq6/qmCK2DlsDWhm7x7QzMq0OVtc/Ux/wJpAlyRH1N7CTvlyIgqi45CfIL/YCVi18M+/g7JrsX13xVy7dGzGZpI/vJ4huyUbgeseEzuBuZIm+rtDItsP6cULmIvfmx8Dini0PlDcXzoejXgE6X1FbIIUj7qtuthJb0UNNPCxL3XE/YQ6j1fk9d9clgQS6v88aENLjRcXBosH43YRVSUuETgwv0dEkJ8WSD6HN6QeSbYrn0a6fyXAXLJ;JeSZsTPDYFhY7aNVzz6Xaw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    title: "Behold.ai partners with Apollo Hospitals Group, India for rapid COVID-19 diagnosis using AI-based chest X-ray technology"
+
+secured: "9hd/giGgwaJXHAPrTrMhbNfqtNxhmfTd294nZi9WO3KZDeD01gtkRB9wK8BznFeJjPxpHUFWt+DsugxUfqMQC5vzxgsxoM7pZd5X6V4+ldsAyo0Hza9nwK5lfaJlitksnwt29KWJ66D3H4i9ICX0CG+VR2ye3DZhzyZnSrhL/owgZNX0BoWNa8N1b4zSMAzWhWp0iUs8PHVHjoaMjO+3Pxi0OYMxsn7gWm4XbvxAGWtliIPKE4vGI8t+EmRoayopPdmsquLJ2KlnNHJkNNrtsvps1Ej7dN6MaubDxJFbqDIOO8OMLTRkPyXDg5Tvt07z;Ao4jtTD16Sta32dOqKCsDw=="
 ---
 

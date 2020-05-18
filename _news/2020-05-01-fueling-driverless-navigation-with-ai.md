@@ -26,6 +26,6 @@ images:
     height: 545
     title: "Fueling driverless navigation with AI"
 
-secured: "5bQlxhxZlCCrqgMXI/kbh+6XYZt2bFkHbeIxXgOxCvsMzN3DS1+sIHAcD4N/Sift17YYfyZ01PhqyLvR/5g4raZVwW7sW5C7Y4bGS7P4PysQtGGBKN8zvPjAh8RKJM4zqicx/5zi8N0ekrUXplKT/aOOIJ/WkYKdfdV9ERifU/v3T5Ff2913/w/RiXCN6WZOGqf68cRH2k1uHfa8y75Vq2dXa4weFkMviTJQ/UgXSmrHwtji8XEwr6VlsV+XfNgzbaCxlY4nzg+ljTFgICEkmrf+UDoHfrY7SsGf1Vwtjs+Kb/XzpiCl0G+Oycqbv24j;Z3LqI32wzVy5w/yaO0uL9w=="
+secured: "38daWQ8HOaOqLIwIkzOx3AVxEIq1eClp2WGK/3PioTQIhWfpdtfKFxTMzhgEICfFzPPIrET+5FgVUAZXlsA0Bi5EK8Tj6EvfOx+1UWXuoO6wiNq5S+R73V4LavcGY6b4YcvlcT5kFYDR6/wyUTeGZ1nRe2rP9RyLrtUVWIrccoLDOP05BugoNy6nFNROkW6DAv5BaMNjG9OyQrt7Hc39FwkdpPzzdcf4/UeGDB08jmYtEik7KedV0LOqxNe4Czzlo/nQjYd3nxEXHvzxCAdaBWnh39V10HxODAZ0PSfGsI60mOQFRtWsgJNZwy0XlLQH;zDlmG2qFw1DlZa6twM1LrQ=="
 ---
 
