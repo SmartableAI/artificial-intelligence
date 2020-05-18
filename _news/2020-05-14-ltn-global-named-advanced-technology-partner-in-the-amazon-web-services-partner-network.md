@@ -2,25 +2,25 @@
 category: news
 title: "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network"
 excerpt: "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help ..."
-publishedDateTime: 2020-05-14T12:38:00Z
-webUrl: "https://www.broadcastingcable.com/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
-ampWebUrl: "https://www.broadcastingcable.com/.amp/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
-cdnAmpWebUrl: "https://www-broadcastingcable-com.cdn.ampproject.org/c/s/www.broadcastingcable.com/.amp/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
+publishedDateTime: 2020-05-14T12:21:00Z
+webUrl: "https://www.multichannel.com/pr-feed/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
+ampWebUrl: "https://www.multichannel.com/.amp/pr-feed/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
+cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/pr-feed/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Broadcasting & Cable
-  domain: broadcastingcable.com
+  name: Multichannel News
+  domain: multichannel.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.broadcastingcable.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY2NzI3ODUyMTIzNzU5ODkx/fluent_whitepaper_streamingservices_2019.jpg"
+  - url: "https://www.multichannel.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcyMTc2MTY2NTgzNTQyOTk2/ltn-columbia_4286.jpg"
     width: 620
     height: 349
     title: "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network"
@@ -55,6 +55,6 @@ related:
         width: 581
         height: 201
 
-secured: "xgXXlt4o2m5VTIJlh2Od0xU00Dy+OmTm0m0IcVvRzJgKej0NkDlkK/X8cgTOlcdsImAnqLYHUSNtDWzC1j1cJCPymwDEkCQAVH/7EmrB25YCIqaUKb45Ag/LDwuJ1c37cxyoAspr2OdyK8S7LqaFXfm8sb+9e6RiKQl5Ls//Oj+fjBn+n1x6GJMrCk3SPvp8PKUjF6wb6MhRSEpUw5qSDsfs61N2TXgtsEJjn4VrwjeaMPY8FXV+FPsAryBc9JEOElCDTjeUEo78s7+LPOLb9408QeBXpcbsGDrq32Ax6bQCR/5RAbk63Ju6IOjEBdnw;ZvJn6d8gpheQ/k661vzXYg=="
+secured: "WtvDazoLbSpfDaOOkukTsuUB0Tml+BI/lgssLVFe2JfdjSTsDRy3Sf8eZfSWsYkFT4E6FYg1DqlQusxh3A1PoLK/sUq2PaNePjS8XFWuT2kzKSbFoffZrjRNXzuFJ3xEk5mVkkbDswnBfiWn+/w2zb1VRhZjG0qYIG+0KFdKLhB6iud42dvDwgP0YD3WRaOzNij7jUns/nHc416NKlRI1KRbAo2sMyaLNUncSaTtABbGnDUKMOLDdVCafGxMbUxw5g2ak53/to4C0r5M4rR7bEEq7LFTZgDmbId73Zg0XA1wQB2jFnPzd42ZGYaEsIq3;YCljydGO631nrwzH2Slxhg=="
 ---
 

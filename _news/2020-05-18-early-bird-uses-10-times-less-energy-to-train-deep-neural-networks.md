@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Early Bird uses 10 times less energy to train deep neural networks"
-excerpt: "Rice engineers have found a way to train deep neural networks for a fraction of the energy required today. Their Early Bird method finds key network connectivity patterns early in training, reducing the computations and carbon footprint for training deep learning."
-publishedDateTime: 2020-05-18T16:21:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-05/ru-ebu051820.php"
+excerpt: "Engineers have found a way to train deep neural networks for a fraction of the energy required today. Their Early Bird method finds key network connectivity patterns early in training, reducing the computations and carbon footprint for training deep learning."
+publishedDateTime: 2020-05-18T20:25:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/05/200518144908.htm"
 type: article
-quality: 54
-heat: 54
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://eurekalert.org/multimedia/pub/web/232215_web.jpg"
-    width: 720
-    height: 917
-    title: "Early Bird uses 10 times less energy to train deep neural networks"
-
-secured: "6GJpj0izk3jjIjJHWA0CKA+M23hGzej1u/UUG5WrmgcYN8OXPMM++Y23KHo235R3bdFXgjBxMViOEGHCQhWa0kfxyfOAmjVCCCzReU/QxvMizVNL4YsEybJcPnhLbOuCQnwy2vV5wXaQoKUSIEoH4hII+E/dvCH7rk2oS0og4lKrjRE8wQd1DNfyK1AOKmbVxxAzWTIQ5LdIn5CmHyjHhuNHppmgQ2ptCIJc3MeRHv9Di3K78ozJqkXSG8Wd6WiV3HNSQ+VEMInKdFR6z/PpqRW8ZzO2mDrOEPQstxjOjAAILamoJp8xmySJ8rZ9gE/Bgs1u2j4pcMyhWFf3y/8cWAoJuNE+iiO6der7E14Lgwm8qzNSwFF6lp13WRIN/YctXBevNc8FTKungUucqT03+9M4W2JyzlcFFsQYSRfwqicOeerrehK+xacTEfiTIskwOdtdnYo1EZFYLVESmzeLvU1oOBWbWugPt1wimdAJAj8=;QUmQmzkzyo4Z1o79/BpT5g=="
+secured: "sHs5mtRv1xQkj30rqkpY2MlgUnIW16BDOI2vNckHhGHKXG6yOn0NIwVHt1wUM76vVcH+O7M4MGRAXbU2QjMN5LHwGKwGGgs8sC7C3I7DNv0xrf+z2woIggiA1qR5n8HYa6ZxdwMMcPS+SXvfhW5VQpR9dY+j4ELRF7fwhRs7Ua5Sja7iBfLKx5dyM+yP9mX8NjAuesA92+Ie+i66f50M3E8m2Gh5U0t9ov+UHBRomfM6rl8EVezordu/BkWXD7keBtCbdJwKtnwHQEd9k5/5W1R4/ELrup1uOo8XdstGalR3etCfyMRy2NSHIkB7TDAT;Q5DQgz01k69g0aiupB2DrQ=="
 ---
 

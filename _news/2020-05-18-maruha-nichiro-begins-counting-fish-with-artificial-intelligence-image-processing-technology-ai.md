@@ -22,6 +22,6 @@ images:
     height: 328
     title: "Maruha Nichiro begins counting fish with artificial intelligence image processing technology (AI)"
 
-secured: "Opbf4lwRqncr2wBC3V4iv+6OwR6sp+gHjuNA06+cYrtehs440E4fs+LiKMylrSfSDfko98K2acT0y9+8+iWZ7FMLeF30Hc/wT+qycduo9t99oxK4Kfe7YdqHIlf8KngZmwC7qg9S4xwHONIPSzDrQ1JS6N8N18w5/IEPjOs3Sy0Wz/UDaYEdr9yHjPt1aLNG8SsR3n3AyELPuycC/+9Lb+ZG8Hve5uSZQfOuFkgB6W/4O0cT/COx88J9mUBVJOzHKtDgdus3wYwlijtkoDFJGm3SWD+wmGwNZNA4q610x/FY/3aA49d2PNKbicv5aZrb;sNdZgpx0RJnUEk1tx7ZbXA=="
+secured: "C9rD0T4R6OQtAFhf1JCOQ+CG9uqqhIkl9m9LcJKy3ULotOmV5cYReg24yEnWndQWwzMRnJmHR4an4yDw9MpKszbV3g41+WZlj9Yngz2uuI6TsNpYulhzaaNoc5nuXwqtBTSBvYPjW/Y8qxHJmDHpiLjp9fZU2DYapcV+f/rSzgpjnghwwhb8WAs2FxwylA5sLUigrT8q4epyzn10dVlNo6pecmC1zNS5q7D6UXi8vFpkb2AbfjRoamT4PGLM3lt6d6Co8aFc/xDfRoYZ/ZJMl+ZSG1aHrAoIk04crq465bXIp6ypUbiBOwatgTF0Jn17b6L/YcFKehNJlHklvwSSErwRHyZ4wA/+Qt4E+yqHRhUPmtiHQOn07frJeCqcJsd8pNRtmqLfwin7kQjaAY8ndeXtZsT7F0A8+9mrTEjChIp4OVBEs8hAhBBuAup68bAGk/cVFHWkrg+UX8m8LLA3ayGPFy6xKaoGL1gyWnlZ0XI=;3f70yZQwyZdyWWpbrQLgRg=="
 ---
 

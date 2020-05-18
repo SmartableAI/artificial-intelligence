@@ -5,9 +5,9 @@ excerpt: "Amazon researchers describe a machine learning system that plans the m
 publishedDateTime: 2020-05-18T18:45:00Z
 webUrl: "https://venturebeat.com/2020/05/18/amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots/"
 type: article
-quality: 66
-heat: 66
-published: false
+quality: 83
+heat: 83
+published: true
 
 provider:
   name: VentureBeat
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&#038;strip=all"
@@ -26,6 +27,6 @@ images:
     height: 600
     title: "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots"
 
-secured: "755Oyu22wll9b8FnWISdBq2rEV1VFTq0mcHq2Hkp+ro+ixNAx+jqylR8zfvTLwTeIZMXbwSjklwMx1stXBdMJkbKYXTJ1CZlE9uaGp4fKvj4DN1voLtRHMIrMzpmTNjyQqhe7GwgDEv1d/+elsTzE7U3OYEkMnu6xIkEAxZ+aXJxSqVTUbO/qoqfhC/+pZ22q7+ySrVVL3gX3f1HzAD7keUwftofEJCNz4vF6LQsaRDeozfBseHZqUBzegmYVrQ1DOL5sxykYHjiHcxsCSm0zgU6lC7VQDzRkvr/icbuMoNg1+rrTb1HnTlKtgwBg1N0;PCiiocTT4IV7kQ5qubvSYw=="
+secured: "FqS91lQb4nTAoO6j8Kr6hS/wy01MOuPVa2i71OG6fl5LAYUCWUyewn1MVML/eyjLptDF+yLsWVYzFNBM4/iQmwKdFOklh7AwxtYUX63JjTYh7ZSPE1cQqq7j6y6yibP4VKH2WftRjglmA7x5kfdvyZ/2BfoWxL+LmcWjDOcMEj9eZrGtJT431N0qGsq8am6K1CFkeuY4t1OB1226Jl+HqD6E88w3MkunGsM925hT2sTt3w+QwMlbBEelUxd+ZC1mQjmtGoc0c69zMtNZ6KRQUPnKFV3GMdLNublYPNxlmics9+DII+kyWX9UAfQhMUnhE3hQnD4Dp0USjwgqI/O3nrWqFF3GXlSHkdZLnf/JMndmLd1L9jtiDxU1XQHKhQ4Qw2JFjRfAwZvkgWCDR663o44lEgAJt9Et05F6Yj7RIxeWhgfEXhm71J+Mnf74ZRrU01CuDHpCcLLPucdYzEcejKZmc65bcN5AXn7gSKUV3Q8=;2ro0aKNeJNvrMkmuKueCVw=="
 ---
 

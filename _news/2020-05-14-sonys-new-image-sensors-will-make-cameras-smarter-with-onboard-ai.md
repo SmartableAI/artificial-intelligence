@@ -45,6 +45,21 @@ related:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/nvidia-dgx-a100-03-500x500.jpg"
         width: 500
         height: 313
+  - title: "Microsoft and Sony partner to make smart cameras smarter with Azure AI"
+    excerpt: "Microsoft and Sony announced a partnership today that will bring Azure AI smarts to Sony's intelligent vision sensor IMX500. The combination is intended to result in faster analysis for enterprise scenarios."
+    publishedDateTime: 2020-05-18T20:16:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 89
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D"
+        width: 800
+        height: 600
 
 secured: "GNCodBA8Y1M3FQQ4muF37AmvunzimeZwlaQhYRjqtBT705x/JSbk6srmojDKOVYi0rlfiGq3kGChCld/B6gUBDJkuUD3X84MfLGwDx6oVeehV+qXfj+/Pdjrltnp32FNdVGyf0/l7q4p6KIQcpdhAdeQP0lf5rySHh5HFhWZPdcHikb1RSq0CQOnr3Frn+cLtdX71xMx6waOiqQZTkUUP+SSkE0HKq63iNpzns3wkP9yBUPT4hRO+1fj60KhJCS+W7h3rwRUfmiKxc88kVaq3A4FzfgnMoxtFWgfHSse+3X3H+IKffBWGNZTZnWCsw4zrTbK+GIi1YTkNXit0yVCf8MISUwfCACcdJsb3kTJwA3bEH4E2uOho3Rwq2bIFiO8Mz9WZ9ROs3qdIu4sLqkZf0U0pioteQwMG/POdEKq14+x2VgP5tlhEZIEiq+9UmYT7WpuxFK4xQH7Vrf3OP3RLJrw+0XK6SxmvYFkpoGR5NI=;8dkLvxnogUIVQhBbz3VhXw=="
 ---

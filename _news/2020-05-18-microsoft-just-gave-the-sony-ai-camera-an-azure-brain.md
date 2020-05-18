@@ -7,8 +7,8 @@ webUrl: "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azu
 ampWebUrl: "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/"
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/"
 type: article
-quality: 119
-heat: 119
+quality: 121
+heat: 121
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg"
@@ -29,6 +30,6 @@ images:
     height: 1334
     title: "Microsoft just gave the Sony AI camera an Azure brain"
 
-secured: "zFCsNttcryRgm6/TDdyWRete6qLGt0UTiQlMxjEZv57gmF+lpHZ+Nb7cf+LAmIYt76U8PIoNxa4PqvZJv4jtoQlwSy4nIt8igKQ95T1kZA9euvKgPV7JtbSgvmf5ChaXLhYpE1RSoBIAyX6Zucra35Ng6grHPLUiqyeiYcuoa7l/ExAg9L2y8JUbIPSrqZ4ZFcnc8qnOdepYj1YcFk+FazESWXV/hwKn6VeSR/WlBTCzHdC13Edom8aD8/umEfabKX0Xl3dxRsI06e9ePsP4rT2le/Ej9b/g+xiGT+VPFQMw2fjHSYTLybMmX2jwG1fm;Yy0w69EvCx2J0iLtqrDC7w=="
+secured: "ZeOBhMuVtncOQMxDhKlYCQgAiP+njuUNyW6PmnXoEJfg4J7ssxDUd2qJ5Zbftj6FHgtpIVuo62bFhdkmrYSTtwiWO+FwThc/1aX0+z4jQXDU7gSaKJLdeRIRUIlx+HqJ88JjWd5Vb3H9SYW7klJRfFQA8VvNmr8wsJS6Vh7fLZcahEfryL9EO3oSH7khiqCHQ7uXhyWOi6eEP8frb7AicDe3taj8gu9rNy0CYuaRqXhBCzYd444+3DEezlgq5AZNooBAhilQ6gPHqmxD2ccJP9E6ggQCUQ4KYPvpKq3UaSaP64sWpGkoz/kSFIgTNaE5hzSQtE/G7phCmEhOUQtEJA0jYs4HTGEAFH2iqYdZlYhxJnEAf9IYn8Od2nkQUVjs/JDoRuq6ujVLFemV2dtey3fJ72VIg6Km4ZyRMlwUr2aQQrGAtvbsUvob7LFynsa6V76ZtkpBYw7Y1ziNe/IYCpFZgAc3AQAGb0Vr1uNy2A0=;9wPV9A7yjFWdaWrtrh5bUQ=="
 ---
 
