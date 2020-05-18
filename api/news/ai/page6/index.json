@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-11-this-ai-tool-predicts-whos-got-covid-19-without-testing.md",
+      "title": "This AI tool predicts who’s got COVID-19 without testing",
+      "excerpt": "A new AI diagnostic tool trained on crowdsourced data from the COVID Symptom Study app predicts who's got COVID-19 without testing",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/amp/",
+      "publishedDateTime": "2020-05-11T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-32-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI tool predicts who’s got COVID-19 without testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump.md",
       "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
       "excerpt": "An AI speech recognition bot designed to analyze speech and compile it into a database broke when it tried to analyze Trump's speech patterns, its creator",
@@ -1230,50 +1274,6 @@
           "width": 1200,
           "height": 800,
           "title": "How AI Is Finding Patterns And Anomalies In Your Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-10-banjo-ceo-resigns-to-preserve-the-companys-ai-surveillance-deals.md",
-      "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
-      "excerpt": "Banjo's CEO has resigned to prevent his racist past from affecting the AI surveillance company's deals with Utah and others.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/banjo-ceo-resigns-020523666.html",
-      "ampWebUrl": "https://www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
-      "publishedDateTime": "2020-05-09T19:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F3729fa60-9248-11ea-bd0d-d3fefe9341ba&client=amp-blogside-v2&signature=9faec48e566990e0328ac6a78f600c99de1a3e20",
-          "width": 600,
-          "height": 350,
-          "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
           "attribution": null
         }
       ],

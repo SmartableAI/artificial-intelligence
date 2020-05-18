@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-11-this-ai-tool-predicts-whos-got-covid-19-without-testing.md",
+      "title": "This AI tool predicts who’s got COVID-19 without testing",
+      "excerpt": "A new AI diagnostic tool trained on crowdsourced data from the COVID Symptom Study app predicts who's got COVID-19 without testing",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/amp/",
+      "publishedDateTime": "2020-05-11T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-32-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI tool predicts who’s got COVID-19 without testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump.md",
       "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
       "excerpt": "An AI speech recognition bot designed to analyze speech and compile it into a database broke when it tried to analyze Trump's speech patterns, its creator",
@@ -1008,50 +1052,6 @@
           "width": 796,
           "height": 417,
           "title": "AI is great news for digital marketers who are bored of being data drones",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-finding-success-and-competitive-differentiation-through-carefully-planned-ai-implementation.md",
-      "title": "Finding success and competitive differentiation through carefully planned AI implementation",
-      "excerpt": "Across the wide spectrum of technology, artificial intelligence (AI) is the one experiencing the real boom in spending.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/paid-content/article/finding-success-and-competitive-differentiation-through-carefully-planned-ai-implementation/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/finding-success-and-competitive-differentiation-through-carefully-planned-ai-implementation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-success-and-competitive-differentiation-through-carefully-planned-ai-implementation/",
-      "publishedDateTime": "2020-05-10T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/11/b53de64e-673a-471b-aa02-0c95d22817c4/adobestock-180578830.jpg",
-          "width": 5309,
-          "height": 3539,
-          "title": "Finding success and competitive differentiation through carefully planned AI implementation",
           "attribution": null
         }
       ],

@@ -2,6 +2,50 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-05-01-linkedins-ai-generates-candidate-screening-questions-from-job-postings.md",
+      "title": "LinkedIn’s AI generates candidate screening questions from job postings",
+      "excerpt": "LinkedIn is using AI to automatically generate candidate screening questions from the text of its over 20 million job postings.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/amp/",
+      "publishedDateTime": "2020-05-01T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "LinkedIn’s AI generates candidate screening questions from job postings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-google-to-replace-tensorflows-runtime-with-tfrt.md",
       "title": "Google to replace TensorFlow’s runtime with TFRT",
       "excerpt": "Google launched TFRT, a new TensorFlow runtime that aims to make it easy to build and deploy ML models across many different devices.",
@@ -1018,51 +1062,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-mind-controlled-prosthetic-arms-feel-like-the-real-thing.md",
-      "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
-      "excerpt": "An international team of scientists is reporting success with one of the most advanced bionic arms ever made. The system is integrated into the patient’s nerves, allowing them to control the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/medical/mind-controlled-prosthetic-arm/",
-      "ampWebUrl": "https://newatlas.com/medical/mind-controlled-prosthetic-arm/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/mind-controlled-prosthetic-arm/?amp=true",
-      "publishedDateTime": "2020-05-01T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0c827a2/2147483647/strip/true/crop/510x340+94+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff4%2Fae%2Ffdcae926498284ed63b4a5b89366%2Fprosthetic-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

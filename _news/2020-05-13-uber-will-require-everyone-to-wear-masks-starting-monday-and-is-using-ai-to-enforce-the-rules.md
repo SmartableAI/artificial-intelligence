@@ -44,21 +44,6 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_20/3347946/200513-coronavirus-burial-st-petersburg-se-119a_2827cbc0f17eb8e10eaf618c8886b51e.fit-560w.jpg"
         width: 560
         height: 359
-  - title: "Uber will verify drivers are wearing masks with facial recognition software"
-    excerpt: "Uber is implementing new safety measures against coronavirus for drivers and customers including wearing a mask, regularly washing or sanitizing their hands."
-    publishedDateTime: 2020-05-13T09:58:00Z
-    webUrl: "https://www.nydailynews.com/coronavirus/ny-coronavirus-uber-drivers-masks-facial-recognition-software-20200513-rvxnknoppjdepfplfpg4ueyvve-story.html"
-    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-coronavirus-uber-drivers-masks-facial-recognition-software-20200513-rvxnknoppjdepfplfpg4ueyvve-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-coronavirus-uber-drivers-masks-facial-recognition-software-20200513-rvxnknoppjdepfplfpg4ueyvve-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 57
-    images:
-      - url: "https://www.nydailynews.com/resizer/HOOohnVayfl2byjed_nnY8TiwzQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U3V2CT35TRG4VGCPGP33D6VYUU.jpg"
-        width: 1200
-        height: 808
   - title: "Uber recognition technology checks if drivers are wearing face masks"
     excerpt: "As countries start lifting precautions taken against the coronavirus pandemic, ride-sharing platform Uber has announced new technology that will confirm all their drivers are wearing masks. “Our new technology will verify if the driver is wearing a mask by asking them to take a selfie."
     publishedDateTime: 2020-05-14T09:20:00Z
