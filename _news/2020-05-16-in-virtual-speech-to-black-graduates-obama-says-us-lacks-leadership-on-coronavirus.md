@@ -23,6 +23,21 @@ images:
     height: 787
     title: "In Virtual Speech To Black Graduates, Obama Says U.S. Lacks Leadership on Coronavirus"
 
+related:
+  - title: "In Virtual Speech To Black Graduates, Obama Says U.S. Lacks Leadership on Coronavirus"
+    excerpt: "\"This pandemic has fully, finally torn back the curtain on the idea that so many of the folks in charge know what they're doing,\" Obama told students from historically black colleges and universities."
+    publishedDateTime: 2020-05-17T00:40:00Z
+    webUrl: "https://www.scpr.org/news/2020/05/16/92600/in-virtual-speech-to-black-graduates-obama-says-u/"
+    type: article
+    provider:
+      name: KPCC
+      domain: scpr.org
+    quality: 17
+    images:
+      - url: "https://a.scpr.org/i/101b6a3555f9784101197fa4c7ec28cc/225878-full.jpg"
+        width: 1024
+        height: 768
+
 secured: "gdo+g7/NWRCLv+69qvL93qSA3me2OELNYaRXuReqgca4VoNvp1zeFn+jw4yf7D8vecTPtmJrFj4gTzuNrrBo+nMG/SZvwXxFHqnA3OOLj6y9suJG3pxKlZfPcretscJTgxqDr2/qQ0Swl8gG45KvWl58CaLi8xEUkAldrVK4FN2vf06gL4hyeUToJ0BI+mQQAfNSM1EK4dMN+7BK/J0N9TljtNyyGWBYsOdi5HcjnyYY2YLi49W3A6hAAaMQDeOa435960/kePjvNASCA6ZUVR6qe6ZrtcG4Jb9qkD6sq/BUs4S4MVoKXUFFWLQ1hEB9OI6oLRPzgsp7xsppG+TWT5PKUc0eEqJB5NLxOI9uFxl7KmpdJUCWxeyo3bYbbrFociBk6X95k/wWhHKx+HsXl82TOpLuolC97pfdSKX2ngstcpjvdtazg5iIUJxcIUruPx1Qg1QYY2p6XK0PVv9KIJPf+HXhyC2ZI2YTtb8LUP8=;EcJTGU86MdVQEm8Gn5om5Q=="
 ---
 

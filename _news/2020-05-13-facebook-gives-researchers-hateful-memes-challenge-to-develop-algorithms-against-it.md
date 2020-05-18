@@ -8,8 +8,8 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/130520/
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/130520/facebook-gives-researchers-hateful-memes-challenge-to-develop-al.html"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Deccan Chronicle
@@ -26,19 +26,6 @@ images:
     title: "Facebook gives researchers ‘hateful memes’ challenge to develop algorithms against it"
 
 related:
-  - title: "Facebook wants to build a 'hateful meme' AI to clean up its platform"
-    excerpt: "Computers find it difficult to read text and images simultaneously as humans do, so the social media giant is hoping to develop an algorithm that can manage the feat"
-    publishedDateTime: 2020-05-13T08:52:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-ai-meme-competition-hate-speech-mark-zuckerberg-a9511606.html"
-    type: article
-    provider:
-      name: Independent
-      domain: independent.co.uk
-    quality: 39
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/28/11/fb-1.jpg"
-        width: 2048
-        height: 1536
   - title: "Facebook throws open ‘hateful memes’ challenge for researchers to develop algorithms to tackle it"
     excerpt: "The social media giant is leaning on AI to filter out objectionable content as the coronavirus has sidelined most of its human moderators"
     publishedDateTime: 2020-05-13T11:26:00Z

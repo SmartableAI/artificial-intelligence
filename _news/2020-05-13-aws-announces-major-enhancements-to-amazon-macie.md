@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T23:44:00Z
 webUrl: "https://www.businesswire.com/news/home/20200513005890/en/AWS-Announces-Major-Enhancements-Amazon-Macie"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "AWS Announces Major Enhancements to Amazon Macie"
 
 related:
+  - title: "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution"
+    excerpt: "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has announced the general availability of Amazon Kendra, described as an enterprise search solution which leverages \"machine learning to enable organizations to index all of their internal data sources,"
+    publishedDateTime: 2020-05-13T17:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution-2020-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "AWS Announces Major Enhancements to Amazon Macie"
     excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced a series of major enhancements to Amazon Macie, delivering important new features, greater availability worldwide, and substantially reduced pricing."
     publishedDateTime: 2020-05-14T02:31:00Z

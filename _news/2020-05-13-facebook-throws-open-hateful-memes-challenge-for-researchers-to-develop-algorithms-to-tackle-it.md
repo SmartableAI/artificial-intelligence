@@ -41,19 +41,6 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200513163445.Medi.jpeg"
         width: 800
         height: 448
-  - title: "Facebook wants to build a 'hateful meme' AI to clean up its platform"
-    excerpt: "Computers find it difficult to read text and images simultaneously as humans do, so the social media giant is hoping to develop an algorithm that can manage the feat"
-    publishedDateTime: 2020-05-13T08:52:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-ai-meme-competition-hate-speech-mark-zuckerberg-a9511606.html"
-    type: article
-    provider:
-      name: Independent
-      domain: independent.co.uk
-    quality: 39
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/28/11/fb-1.jpg"
-        width: 2048
-        height: 1536
 
 secured: "nV0uSshcI4ZMqEK7I8/7hh5DdPwWn7Cbh9UAawAuUUO0ax4yMzu+PrHv+V9reU3w4iOoiHgiggHG93Z7g0A7hwCVamai2kZegrtsJaU7cXFwCMtwK/mvM6UmhNpgC2NDVuai1ovlVUJC7FsEyFR6mzLCNVT2KTR/Fkcpu0UfZO47QFdNvXowJm2tCTDP0H8foVizIlkYM6JS68No1oCvcyJZtri/me6qonQP3A2KkaPlolLzdi3m95r3LxGuxjB+VtP6hfvKQbm9sVVUAuE8a4Licvuy94JS30lJXOGP9Mq6NBQu5OAFnIpO4y3+JV4o;0/owYGHcP5DLC5k2nGjeNQ=="
 ---
