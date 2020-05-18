@@ -2,6 +2,140 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-18-microsoft-and-fedex-team-up-against-amazon-with-new-technology-and-logistics-partnership.md",
+      "title": "Microsoft and FedEx team up against Amazon with new technology and logistics partnership",
+      "excerpt": "Microsoft and FedEx will work together to develop new products and services under a multiyear technology and logistics partnership announced Monday morning. The deal aligns the two corporate",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/",
+      "publishedDateTime": "2020-05-18T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/06/DSC05118-630x432.jpg",
+          "width": 630,
+          "height": 432,
+          "title": "Microsoft and FedEx team up against Amazon with new technology and logistics partnership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors.md",
+      "title": "What SoftBank’s Vision Fund results tell us about troubled startup sectors",
+      "excerpt": "A famous investor published notes today concerning its startup investments, detailing where they excelled and where they struggled. To understand why we care about this particular investor’s results,",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/amp/",
+      "publishedDateTime": "2020-05-18T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1172366774.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "What SoftBank’s Vision Fund results tell us about troubled startup sectors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-microsoft-just-gave-the-sony-ai-camera-an-azure-brain.md",
+      "title": "Microsoft just gave the Sony AI camera an Azure brain",
+      "excerpt": "It was only last week that Sony showed off its new embedded AI smart camera sensor, and already Microsoft is promising an artificial intelligence for the innovative chip. The Sony IMX500 stacks a",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/",
+      "ampWebUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/",
+      "publishedDateTime": "2020-05-18T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg",
+          "width": 2307,
+          "height": 1334,
+          "title": "Microsoft just gave the Sony AI camera an Azure brain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-five-robots-that-are-saving-the-us-food-supply-chain.md",
       "title": "Five robots that are saving the US food supply chain",
       "excerpt": "As Covid-19 threatens to buckle the US food supply chain, businesses are wrestling with the task of how to feed millions under lockdown via understaffed supply chains. As a result, demand for robotics companies whose machines can harvest,",
@@ -303,7 +437,7 @@
       "path": "_news/2020-05-18-machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code.md",
       "title": "Machine learning tool trains on old code to spot bugs in new code",
       "excerpt": "Microsoft and Altran release Code Defect AI to identify potential problems in software development and suggest fixes.",
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
@@ -341,7 +475,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1189,126 +1324,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-16-facebooks-giphy-purchase-will-help-keep-track-of-competitors.md",
-      "title": "Facebook’s Giphy purchase will help keep track of competitors",
-      "excerpt": "Giphy provides the same search service to many of Facebook’s competitors – including Apple’s iMessage, Twitter, Signal and TikTok – which shows how often people use these platforms, the kind of insight Facebook values most.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
-      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
-      "publishedDateTime": "2020-05-15T21:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/16/9ec5b494-972e-11ea-ae0d-0e69ba128e68_image_hires_125830.jpg?itok=gcwE52xs&v=1589605117",
-          "width": 1200,
-          "height": 630,
-          "title": "Facebook’s Giphy purchase will help keep track of competitors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis.md",
-      "title": "Healthcare Tech & Robotics ETFs in Focus amid COVID-19 Crisis",
-      "excerpt": "Moderna’s Vaccine Fast Tracked By FDA (14:00) - Repurposing Drugs For Covid-19 Treatment (21:15) - Will Telemedicine Cont",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis-2020-05-15",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-15T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-update-1-gm-ceo-calls-self-driving-unit-layoffs-prudent-still-sees-huge-opportunity.md",
-      "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
-      "excerpt": "General Motors Co’s top executive on Friday said layoffs announced a day earlier at the company’s self-driving Cruise unit were “prudent” but insisted that she sees a “huge opportunity” for its vehicles to move both people and packages.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/autos-gm-idUSL1N2CX2GA",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22R30M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22R30M",
-      "publishedDateTime": "2020-05-15T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200515&t=2&i=1518809247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4E23K",
-          "width": 811,
-          "height": 545,
-          "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

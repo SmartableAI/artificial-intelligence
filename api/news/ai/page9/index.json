@@ -2,6 +2,115 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-08-clearview-ai-pinky-swears-it-will-stop-working-with-private-companies.md",
+      "title": "Clearview AI pinky swears it will stop working with private companies",
+      "excerpt": "This time Clearview AI really means it. Honest. The problematic facial-recognition company that scraped billions of photos off social media is now claiming that it will not sell its technology to private companies.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/clearview-ai-promises-stop-working-private-companies/",
+      "ampWebUrl": "https://mashable.com/article/clearview-ai-promises-stop-working-private-companies.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-promises-stop-working-private-companies.amp",
+      "publishedDateTime": "2020-05-07T17:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F05%252F08%252Fd5%252Fd5c7456e52a1497aa17cb217309948c1.81ee6.png%252F1200x630.png?signature=T8EDRfnUco0h6X57gBQn74EPOhg=",
+          "width": 1200,
+          "height": 630,
+          "title": "Clearview AI pinky swears it will stop working with private companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-how-are-companies-using-ai-to-enhance-the-customer-experience.md",
+      "title": "How Are Companies Using AI To Enhance The Customer Experience?",
+      "excerpt": "Companies are starting to integrate AI into many areas of the purchase process to help maximize both sales and customer satisfaction. How is AI helping improve the overall customer experience?",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/07/how-are-companies-using-ai-to-enhance-the-customer-experience/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/07/how-are-companies-using-ai-to-enhance-the-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/07/how-are-companies-using-ai-to-enhance-the-customer-experience/amp/",
+      "publishedDateTime": "2020-05-07T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1214961329%2F0x0.jpg",
+          "width": 1200,
+          "height": 681,
+          "title": "How Are Companies Using AI To Enhance The Customer Experience?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing.md",
+      "title": "Tesla's Semi makes first deliveries; Waymo, Uber expand driverless truck testing",
+      "excerpt": "Tesla's electric Semi made its first delivery while Waymo and Uber each said they ... The company said the trucks’ artificial intelligence and array of sensors provide Level 4 autonomy on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-indiegogo-campaign-introduces-the-next-gen-social-family-robot.md",
       "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
       "excerpt": "Misa is a revolutionary social family robot that is backed by high-tech sensors, AI, and emotional intelligence travel, learn, teach, and interact with people around like a",
@@ -749,23 +858,31 @@
     {
       "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
       "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
+      "excerpt": "Recently, the results of the AutoDL (Auto Deep Learning) 2019-2020 finals held by NeurIPS, a top AI academic conference, was announced and Inspur's te",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html",
+      "webUrl": "https://www.businesswire.com/news/home/20200507005360/en/Inspur-Takes-3rd-Place-NeurIPS-AutoDL-2019-2020",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T07:42:00-07:00",
+      "publishedDateTime": "2020-05-07T08:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200507005360/en/790124/23/inspur_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1153,134 +1270,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-predicting-failing-tests-with-machine-learning.md",
-      "title": "Predicting Failing Tests with Machine Learning",
-      "excerpt": "Machine learning can be used to predict how tests behave on changes in the code. These predictions reduce the feedback time to developers by providing information at check-in time. Marco Achtziger & Dr.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/05/predicting-failing-tests/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/05/predicting-failing-tests/en/headerimage/Predicting+Failing+Tests-1588741558619.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Predicting Failing Tests with Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024.md",
-      "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
-      "excerpt": "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024-2020-05-07",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-building-transparency-and-customer-confidence-in-ai.md",
-      "title": "Building transparency and customer confidence in AI",
-      "excerpt": "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai",
-      "ampWebUrl": "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
-      "publishedDateTime": "2020-05-07T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Building transparency and customer confidence in AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

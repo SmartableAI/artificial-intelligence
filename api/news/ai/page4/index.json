@@ -2,6 +2,141 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-14-nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor.md",
+      "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
+      "excerpt": "The graphics chip will power servers used by Amazon, Google, Microsoft and other cloud service providers. And it will be used to fight COVID-19.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
+      "publishedDateTime": "2020-05-14T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/79Yy0yZjYrwQ_DudmDmuzkaHc-4=/756x567/2020/05/13/4e3681ec-e2c3-4c89-9ab8-b73afaa51f05/2555435ebb25b4781b28-39429237-first-nvidia-dgx-a100-at-argonne-national-laboratory-image-courtesy-argonne.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu.md",
+      "title": "NVIDIA begins shipping the A100, its first Ampere-based data center GPU",
+      "excerpt": "NVIDIA announced today that its NVIDIA A100, the first of its GPUs based on its Ampere architecture, is now in full production and has begun shipping to its customers globally. Ampere is a big generational jump in NVIDIA’s GPU architecture design,",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu/amp/",
+      "publishedDateTime": "2020-05-14T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/2555435ebb0b0b549420.45298401-Argonne-National-Laboratory-Installs-NVIDIA-DGX-A100-Image-courtesy-Argonne-National-Laboratory.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": "NVIDIA begins shipping the A100, its first Ampere-based data center GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-aws-to-offer-nvidia-a100-tensor-core-gpu-based-amazon-ec2-instances.md",
+      "title": "AWS to offer NVIDIA A100 Tensor Core GPU-based Amazon EC2 instances",
+      "excerpt": "Tens of thousands of customers rely on AWS for building machine learning (ML) applications. Customers like Airbnb and Pinterest use AWS to optimize their search recommendations, Lyft and Toyota Research Institute to develop their autonomous vehicle programs, and Capital One and Intuit to build and deploy",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-to-offer-nvidia-a100-tensor-core-gpu-based-amazon-ec2-instances/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T06:00:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/AWS-NVDA.gif",
+          "width": 1000,
+          "height": 414,
+          "title": "AWS to offer NVIDIA A100 Tensor Core GPU-based Amazon EC2 instances",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-and-databricks-announce-gpu-acceleration-for-spark-30.md",
       "title": "Nvidia and Databricks announce GPU acceleration for Spark 3.0",
       "excerpt": "At its GPU Technology Conference event today, Nvidia is announcing GPU acceleration for Apache Spark 3.0, made possible by open source software developed in collaboration with Spark's creators at Databricks.",
@@ -1158,139 +1293,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-scientists-used-ai-to-make-448-gigapixel-copy-of-historic-rembrandt-painting.md",
-      "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
-      "excerpt": "You can now get intimately familiar with this Rembrandt's historic painting, 'The Night Watch' — without even having to step foot in the Rijksmuseum.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/amp/",
-      "publishedDateTime": "2020-05-13T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/the-night-watch-rembrandt-digital-copy-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data.md",
-      "title": "FortressIQ snags $30M Series B to streamline processes with AI-fueled data",
-      "excerpt": "As we move through life in the pandemic, companies are being forced to review and understand how workflows happen. How do you distribute laptops to your workforce? How do you make sure everyone has the correct tool set?",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/amp/",
-      "publishedDateTime": "2020-05-13T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-907330012.jpg?w=1024",
-          "width": 1024,
-          "height": 716,
-          "title": "FortressIQ snags $30M Series B to streamline processes with AI-fueled data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-amazon-ec2-inf1-instances-now-support-amazon-sagemaker.md",
-      "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
-      "excerpt": "Patrick Moorhead gives an update with Amazon's team that has been busy with customers, optimizing and adding capabilities, some of the Inferentia and EC2 Inf1 instance leads.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
-      "publishedDateTime": "2020-05-13T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebb15cf082ee4000682bb85%2F0x0.jpg",
-          "width": 821,
-          "height": 439,
-          "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

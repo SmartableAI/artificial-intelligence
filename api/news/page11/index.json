@@ -2,6 +2,140 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-07-3-tips-to-find-a-good-ai-partner-for-your-recovery.md",
+      "title": "3 Tips to Find a Good AI Partner for Your Recovery",
+      "excerpt": "The world will never look the way it did before, but productivity and consumption can resume with a little help.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/350214",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350214",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350214",
+      "publishedDateTime": "2020-05-07T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200505205845-GettyImages-1019205322.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "3 Tips to Find a Good AI Partner for Your Recovery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory.md",
+      "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
+      "excerpt": "AI Explorables is Google's initiative to elucidate the key concepts of machine learning via a series of interactive explanations to make the field more accessible and participatory.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1587624429_google_5_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress.md",
+      "title": "Millions of historic newspaper images get the machine learning treatment at the Library of Congress",
+      "excerpt": "Historians interested in the way events and people were chronicled in the old days once had to sort through card catalogs for old papers, then microfiche scans, then digital listings — but modern advances can index them down to each individual word and photo.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/amp/",
+      "publishedDateTime": "2020-05-07T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/newspaper-navigator-scan.jpg?w=1024",
+          "width": 1024,
+          "height": 741,
+          "title": "Millions of historic newspaper images get the machine learning treatment at the Library of Congress",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-elon-musk-says-theres-a-chance-his-ai-brain-chip-company-will-be-putting-implants-in-humans-within-a-year.md",
       "title": "Elon Musk says there's a chance his AI-brain-chip company will be putting implants in humans within a year",
       "excerpt": "Elon Musk says his Neuralink brain chip could be ready for a human patient within a year. The chip could help with brain injuries, he says.",
@@ -362,23 +496,31 @@
     {
       "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
       "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
+      "excerpt": "Recently, the results of the AutoDL (Auto Deep Learning) 2019-2020 finals held by NeurIPS, a top AI academic conference, was announced and Inspur's te",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html",
+      "webUrl": "https://www.businesswire.com/news/home/20200507005360/en/Inspur-Takes-3rd-Place-NeurIPS-AutoDL-2019-2020",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T07:42:00-07:00",
+      "publishedDateTime": "2020-05-07T08:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200507005360/en/790124/23/inspur_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -930,117 +1072,6 @@
           "width": 680,
           "height": 453,
           "title": "Deep Render raises £1.6M for image compression tech that mimics ‘neural processes of the human eye’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-uae-combats-coronavirus-ministry-launches-self-driving-vehicle-to-distribute-ppe.md",
-      "title": "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE",
-      "excerpt": "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_173952755/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/",
-      "publishedDateTime": "2020-05-07T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-ai-machine-learning-big-data-critical-in-fight-against-covid-19-experts-emphasize-at-trends-e-discussion.md",
-      "title": "AI, Machine Learning, Big Data critical in fight against Covid-19, experts emphasize at trends e-discussion",
-      "excerpt": "Discussion was part of a series of events organized by TRENDS Research & Advisory to analyze the impact of Covid-19 on various spheres of the global economy",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/AI_Machine_Learning_Big_Data_critical_in_fight_against_Covid19_experts_emphasize_at_trends_ediscussion-ZAWYA20200507073731/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200507073731/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200507073731/",
-      "publishedDateTime": "2020-05-07T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "AI, Machine Learning, Big Data critical in fight against Covid-19, experts emphasize at trends e-discussion",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom.md",
-      "title": "Google to teach journalists power of AI, machine learning in newsroom",
-      "excerpt": "In a global survey conducted by Google last year about the use of AI by news organisations, most respondents highlighted the need to train their newsroom on the potential offered by machine learning a",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/internet/google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom/article31524236.ece",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/internet/google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom/article31524236.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/internet/google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom/article31524236.ece/amp/",
-      "publishedDateTime": "2020-05-07T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/internet/a1ffcf/article31524235.ece/ALTERNATES/LANDSCAPE_615/07NETGOOGLEJOURNO",
-          "width": 615,
-          "height": 384,
-          "title": "Google to teach journalists power of AI, machine learning in newsroom",
           "attribution": null
         }
       ],

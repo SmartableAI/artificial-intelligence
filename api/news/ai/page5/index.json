@@ -2,6 +2,139 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-13-scientists-used-ai-to-make-448-gigapixel-copy-of-historic-rembrandt-painting.md",
+      "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
+      "excerpt": "You can now get intimately familiar with this Rembrandt's historic painting, 'The Night Watch' — without even having to step foot in the Rijksmuseum.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/amp/",
+      "publishedDateTime": "2020-05-13T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/the-night-watch-rembrandt-digital-copy-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data.md",
+      "title": "FortressIQ snags $30M Series B to streamline processes with AI-fueled data",
+      "excerpt": "As we move through life in the pandemic, companies are being forced to review and understand how workflows happen. How do you distribute laptops to your workforce? How do you make sure everyone has the correct tool set?",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/amp/",
+      "publishedDateTime": "2020-05-13T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-907330012.jpg?w=1024",
+          "width": 1024,
+          "height": 716,
+          "title": "FortressIQ snags $30M Series B to streamline processes with AI-fueled data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-amazon-ec2-inf1-instances-now-support-amazon-sagemaker.md",
+      "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
+      "excerpt": "Patrick Moorhead gives an update with Amazon's team that has been busy with customers, optimizing and adding capabilities, some of the Inferentia and EC2 Inf1 instance leads.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
+      "publishedDateTime": "2020-05-13T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebb15cf082ee4000682bb85%2F0x0.jpg",
+          "width": 821,
+          "height": 439,
+          "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure.md",
       "title": "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure",
       "excerpt": "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating digital transformation,",
@@ -1150,133 +1283,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-artificial-intelligence-cracks-quantum-chemistry-conundrum.md",
-      "title": "Artificial Intelligence Cracks Quantum Chemistry Conundrum",
-      "excerpt": "Machine learning techniques accurately calculate the energy required to make — or break — simple molecules. A new machine learning tool can calculate the energy required to make — or break — a molecule with higher accuracy than conventional methods.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/",
-      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/",
-      "publishedDateTime": "2020-05-12T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Tetrahedral-Electronic-Distribution-Water-Molecule-777x435.jpg",
-          "width": 777,
-          "height": 435,
-          "title": "Artificial Intelligence Cracks Quantum Chemistry Conundrum",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-simaai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution.md",
-      "title": "SiMa.ai announces $30M Series A to build out lower-power edge chip solution",
-      "excerpt": "Krishna Rangasayeem, founder and CEO, at SiMa.ai, has 30 years of experience in the semiconductor industry. He decided to put that experience to work in a startup and launched SiMa.ai last year with the goal of building an ultra low-power software and chip solution for machine learning at the edge.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/amp/",
-      "publishedDateTime": "2020-05-12T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1136623583.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "SiMa.ai announces $30M Series A to build out lower-power edge chip solution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-intel-capital-commits-132-million-to-11-ai-startups.md",
-      "title": "Intel Capital commits $132 million to 11 AI startups",
-      "excerpt": "Intel Capital announced that it's invested $132 million in 11 startups focused on AI, machine learning, automation, and chipset design.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/12/intel-capital-commits-132-million-to-11-ai-startups/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel Capital commits $132 million to 11 AI startups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

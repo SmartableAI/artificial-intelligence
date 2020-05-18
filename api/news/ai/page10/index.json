@@ -2,6 +2,134 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-07-predicting-failing-tests-with-machine-learning.md",
+      "title": "Predicting Failing Tests with Machine Learning",
+      "excerpt": "Machine learning can be used to predict how tests behave on changes in the code. These predictions reduce the feedback time to developers by providing information at check-in time. Marco Achtziger & Dr.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/05/predicting-failing-tests/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/05/predicting-failing-tests/en/headerimage/Predicting+Failing+Tests-1588741558619.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Predicting Failing Tests with Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024.md",
+      "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
+      "excerpt": "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024-2020-05-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-building-transparency-and-customer-confidence-in-ai.md",
+      "title": "Building transparency and customer confidence in AI",
+      "excerpt": "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai",
+      "ampWebUrl": "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
+      "publishedDateTime": "2020-05-07T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Building transparency and customer confidence in AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-deep-render-raises-16m-for-image-compression-tech-that-mimics-neural-processes-of-the-human-eye.md",
       "title": "Deep Render raises £1.6M for image compression tech that mimics ‘neural processes of the human eye’",
       "excerpt": "Deep Render, a London startup and spin-out of Imperial College that is applying machine learning to image compression, has raised £1.6 million in seed funding. Leading the round is Pentech, with participation from Speedinvest.",
@@ -1085,132 +1213,6 @@
           "width": 796,
           "height": 417,
           "title": "Corpse-detecting robots will use AI to recover bodies from the Korean War",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey.md",
-      "title": "Diversity in AI improves, but has further to go, according to IBM survey",
-      "excerpt": "Confidence in AI varies by gender and country, but generally speaking AI pros have more faith in systems than the general population.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
-      "publishedDateTime": "2020-05-06T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/06/a4f48112-8f60-462b-ada5-b2b7f3aa5c9e/ibm-ai-system-design-priorities.png",
-          "width": 1013,
-          "height": 773,
-          "title": "Diversity in AI improves, but has further to go, according to IBM survey",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.md",
-      "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
-      "excerpt": "Deeply assimilating its Red Hat technology, IBM this week rolled out a set of new platforms and services designed to help customers manage edge-based application workloads and exploit artificial intelligence for infrastructure resiliency.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
-      "ampWebUrl": "https://www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "cdnAmpWebUrl": "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "publishedDateTime": "2020-05-06T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITworld",
-        "domain": "itworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing.md",
-      "title": "PinkLion’s Jennifer Bonine: AI is dramatically changing game testing",
-      "excerpt": "Sponsored Presented by PinkLion.AI “Now that we’re all in this unique situation with COVID-19, do we have an opportunity to do something dramatically different together?” asked Jennifer Bonine, co-founder and CEO of PinkLion.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing/amp/",
-      "publishedDateTime": "2020-05-06T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-06-at-8.50.06-AM.png?fit=2806%2C1566&strip=all",
-          "width": 2806,
-          "height": 1566,
-          "title": "PinkLion’s Jennifer Bonine: AI is dramatically changing game testing",
           "attribution": null
         }
       ],

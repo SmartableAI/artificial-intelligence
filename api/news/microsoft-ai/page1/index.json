@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-18-microsoft-and-fedex-team-up-against-amazon-with-new-technology-and-logistics-partnership.md",
+      "title": "Microsoft and FedEx team up against Amazon with new technology and logistics partnership",
+      "excerpt": "Microsoft and FedEx will work together to develop new products and services under a multiyear technology and logistics partnership announced Monday morning. The deal aligns the two corporate",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/",
+      "publishedDateTime": "2020-05-18T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/06/DSC05118-630x432.jpg",
+          "width": 630,
+          "height": 432,
+          "title": "Microsoft and FedEx team up against Amazon with new technology and logistics partnership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-microsoft-just-gave-the-sony-ai-camera-an-azure-brain.md",
+      "title": "Microsoft just gave the Sony AI camera an Azure brain",
+      "excerpt": "It was only last week that Sony showed off its new embedded AI smart camera sensor, and already Microsoft is promising an artificial intelligence for the innovative chip. The Sony IMX500 stacks a",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/",
+      "ampWebUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/",
+      "publishedDateTime": "2020-05-18T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg",
+          "width": 2307,
+          "height": 1334,
+          "title": "Microsoft just gave the Sony AI camera an Azure brain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages.md",
       "title": "Hackers spoof new Azure AD and Microsoft 365 sign-in pages",
       "excerpt": "The Azure AD sign-in experience underwent a redesign about three months ago, but the new sign-in pages didn’t roll out until the first week of April. Microsoft intended the rede",
@@ -44,6 +134,52 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code.md",
+      "title": "Machine learning tool trains on old code to spot bugs in new code",
+      "excerpt": "Microsoft and Altran release Code Defect AI to identify potential problems in software development and suggest fixes.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
+      "publishedDateTime": "2020-05-18T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/resize/1200x/43e40b69690725c1581fd684e8676489/istock-1047259374.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Machine learning tool trains on old code to spot bugs in new code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1165,109 +1301,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autoblog.com/press-releases/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace_23004/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-microsoft-cisco-collaboration-leveraging-iot-data-to-drive-better-business-value.md",
-      "title": "Microsoft-Cisco Collaboration: Leveraging IoT Data to Drive Better Business Value",
-      "excerpt": "Microsoft Azure IoT and Cisco IoT, industrial IoT market leaders, they have decided to team up to share the availability of an integrated Azure IoT solution, that provides the necessary software, hardware,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.analyticsinsight.net/microsoft-cisco-collaboration-leveraging-iot-data-to-drive-better-business-value/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/05/microsoft.png",
-          "width": 929,
-          "height": 523,
-          "title": "Microsoft-Cisco Collaboration: Leveraging IoT Data to Drive Better Business Value",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers.md",
-      "title": "Microsoft: Our new free Python programming language courses are for novice AI developers",
-      "excerpt": "The new series are once again presented by Christopher Harrison, a senior program manager at Microsoft, and Susan Ibach, a business development manager from Microsoft's AI Gaming unit. The second of the two new ... on how to use Python and associated tools within the Azure cloud. For example, the tutors suggest that students could predict ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
-      "publishedDateTime": "2020-05-04T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

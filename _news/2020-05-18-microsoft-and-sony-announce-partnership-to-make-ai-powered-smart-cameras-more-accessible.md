@@ -25,6 +25,6 @@ images:
     height: 1235
     title: "Microsoft and Sony announce partnership to make AI-powered smart cameras more accessible"
 
-secured: "Ejexxt+fs5f7LV6+IETW1UbBlBcCQWF14otUbi/45LATxwwTkBIABtfl5OwR/q29bQg04mGbcLIBL+Ay+kV84r77Exq1kCETEoM12QTlVBUqeIRKNVgWPeXRBnW8F3MF3QbQ30cZjj7yRAuAHnl3Abnw8Kcb+jYPwisUI3nUwlgb74WkbzCb5pIKtTA3M4D1dwuuvzkQioSERh7Wux/2BV/IthqD7FvL10Z6Up2HS5AZGMVqbYTy4u7ds3jCNy/PxfYhl8efPSlUYMFZDzjZtcXxtmKw8JF+m4pZewK77BXEWT0JYZ4XLDS7S5ndZXU2;hQOYyws8YExHTznrGQimiQ=="
+secured: "1a+yaCLOyhqfTmZosFptTQ/dRghniB6nglDQdeo3KjLFMWj3PtMt+qAKYVTeEGWXR/zLCzeDv2Eldd287kwebOO1uD+2Mzs6dk9dnn5w1OiLgL6Eci8qX+uYvWIiI5aFkghkBAtbyn0xaDU9krChzjgjebI+PgNjjj9h4EXcK/kFKSgwFDeMBNydYhkYf6zfy0seegZoQtxeJqkaX5g471jGFLYAJ6IT5KHPE+T6lVCr8tOdk0+UN18+YK9HRnu3nAUYomqFqHB6zI/G66RjoVWex7eHtZgWwdg09+tqiNEV+D1xz2OJMgrKnX0Zj3SBiMUjYBF+GYrY157XtuQ1j++GfVfn++dXOcEGFWJV4D0kzm58iC1AwVCgZfqbGtejx/JznUwYPxhjdjrSDdzUvHofuo0mMRVIS2BjSV/3Xsiq5olbW915O0p2KS6+C891Qn10aC2Ef4/ZKhPz5QVkYEGw40RObUiYJ/V+nRGorao=;+8UdH4vw6zgAwowPy1Y43A=="
 ---
 

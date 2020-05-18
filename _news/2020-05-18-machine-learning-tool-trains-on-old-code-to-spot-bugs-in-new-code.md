@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/machine-learning-tool-trains-on-ol
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/resize/1200x/43e40b69690725c1581fd684e8676489/istock-1047259374.jpg"

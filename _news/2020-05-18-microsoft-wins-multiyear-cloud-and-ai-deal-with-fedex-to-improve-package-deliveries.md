@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-18T17:12:00Z
 webUrl: "https://siliconangle.com/2020/05/18/microsoft-wins-multiyear-cloud-ai-deal-fedex-improve-package-deliveries/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,23 @@ images:
     height: 400
     title: "Microsoft wins multiyear cloud and AI deal with FedEx to improve package deliveries"
 
-secured: "2Y2nB3zXGIy47GF8mFD+dJ6WATTHwgkQPIs6tcQdUT+0YWJej9z3VOMviYQcSCkCiHbhzYbcQmeibTV9hmNT9D3lJ7KsnsOzTAQCkSFIit6DJkowsYjnPc50anZITIpuXGeJBrLO6inVPwZjw4Pi1Eh9Fr4VSL3+Gsn4RoH/mjUReTU7kpxY54m6VILNZtngD1Oy+l6U61iDhzZZECkDxlBqIXSx779+cXYtWKDpitS8O5Vqsi7wOYzwnQoPKRhTxRWkWDDt59ldTiGJVm6k7FhakIktcRaDHhUP0elM00GzfG7p8PO5GI91dXrMsrcA;RY3nTFak2so7QJ46fV93vg=="
+related:
+  - title: "Microsoft and FedEx team up against Amazon with new technology and logistics partnership"
+    excerpt: "Microsoft and FedEx will work together to develop new products and services under a multiyear technology and logistics partnership announced Monday morning. The deal aligns the two corporate"
+    publishedDateTime: 2020-05-18T18:46:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 95
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/06/DSC05118-630x432.jpg"
+        width: 630
+        height: 432
+
+secured: "17HbczuWT+9WdVyOhydwIbKTIU+tiBoNk90TUwbb/c5lSC0CUzh1mg+1pAqdwUMY7xXlZZap5K2w9gTr/vCcf0gydiFK3A1zUb6t+u7s2h8RtvLRSaFVJxWCtegAvmlCfK8zHIpTJZse8/btPBfI3Nc1ciW9uP5aezb4M9A3FZG+Ao1zScqWP7eRU6XPpnud3t6y9DmomH4eFgaaM2Mij6hYCO1gnvoMD6So1UTuNz5lTUewcBZHYx1HmlrURWbrQ3Z7+RJAnBQX3jLGyejlYi325TAsqnigsumUa0cJdcUEhTpuBv9cAlxJoJ/FOR6Hhk45CSgjI5/v0XeD9zWG5MUtwD3cYAD3Shy0fX+hQ/C40peZr8aUVNSMulk/nnOkgftf4HzW0NSbc79HtV2hqYB//Df/naMQi22fm3DPJi3uR72BDHevl6SPHwzYcqENvFusApuG0sOjk3wEWd3ccvhnUQ7f9eEsA3gUK7dcLwA=;7iQ+W7RO0YAxjr5n5vP+eQ=="
 ---
 
