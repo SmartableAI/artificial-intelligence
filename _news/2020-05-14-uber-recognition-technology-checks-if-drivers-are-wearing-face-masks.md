@@ -39,21 +39,6 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_20/3347946/200513-coronavirus-burial-st-petersburg-se-119a_2827cbc0f17eb8e10eaf618c8886b51e.fit-560w.jpg"
         width: 560
         height: 359
-  - title: "Uber will require everyone to wear masks starting Monday — and is using AI to enforce the rules"
-    excerpt: "The company will require drivers to upload selfies with their face coverings in order to enforce the rules."
-    publishedDateTime: 2020-05-13T17:28:00Z
-    webUrl: "https://www.businessinsider.com/uber-require-face-masks-may-18-ai-enforcement-coronavirus-2020-5"
-    ampWebUrl: "https://www.businessinsider.com/uber-require-face-masks-may-18-ai-enforcement-coronavirus-2020-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-require-face-masks-may-18-ai-enforcement-coronavirus-2020-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/5ebc2ccafc593d14a14c0353?width=1200&format=jpeg"
-        width: 1200
-        height: 600
 
 secured: "XanSrUw01kMsTgUvFSZSKWxDSrCIjRNkPS7asEvJp3HCtB3mc1fNvHPTxNFlk886Rvo71Dot+Ys0An+dJzD3O4H/xua8u+LBUBfc5/2w2m71lztUNrkU2ITcYt7DfB8p9hxbkd4aiQHhPuz/DVR2hKmIjznV7MC3jptsCq3vDAwJli69GusaUgmITR87aaBPDaiYXYvV9NYZlnVKkX+DG5wROHZDzuJNojSuuVC0vUl18Nqk8CKph4X5UDgLDXjPsUH9MOa1ECzkoSgjgDQUtRKdCn8phKPVc9zB9TIWdvgDPpTBqxOlHZ8LVfEhXtGnXHwaoui9rfqGyp7BetnRIaiS1obYpXqkk70ur2kaReARLFjpxT5IUfHeQVOEmYZEvhzV09ElCH0zh/gImtNP7TZZQH+6CzrCX9ImKWEmrVniOaTHWiWj2PX5e4wja527mMeb2jkB084dD8ZXNQrGYdDPCSI/+duiJEoczbZlzaM=;UgMCq8Uatykak/XTx5FT2w=="
 ---

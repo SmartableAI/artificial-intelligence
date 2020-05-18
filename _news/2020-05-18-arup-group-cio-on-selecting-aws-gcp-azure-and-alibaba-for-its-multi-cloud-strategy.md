@@ -25,6 +25,6 @@ images:
     height: 1125
     title: "Arup Group CIO on selecting AWS, GCP, Azure and Alibaba for its multi-cloud strategy"
 
-secured: "M2o0SUzNOeRS+uHwBeP92eYYW8pXYNRj6rkbC9y0rXvWHVU0DClaW1sEBz/x76qJMu+Mqde8GJZr2T4k2F+OBW1aNMqDHHEZNyY24+P+RyccuUxGsQoXbADbgWAhcY+n9/Ew6eKhIsv3/CGlGWY4j/Wg+5LISj0kMrplQoY0oh1T0GC5K/+lRTJsEnjxLjs11H93ScMSyniCNnJFqsOuS9dMgnq4kqXaiuLOF3UWAbIB3zPLrdDOFWH0v31Im51qaCCWZTbolsfZMTjHW17T6n2WgeVUolujnGZ8dzKlvnAXt/1A+w/hgmnrwUnDXRX4;yq/YoyahA02zeTO+q8fYhQ=="
+secured: "7UOOAvDGBQNzSokS9A4S6Yc7wuLaOYB2Uuw+jjvsdCuocpyBF29/2bbBqh2F6GGKd9UioEKJ1k23vcL04uRc1jC4GSZSg23JU9+fJSy+WjF5e+Q/GxY5BRbsweFBL/Q78+AhFsAFG023UaKnENBc4bZYO4D2Bp2QmLpjkVWP5pfZkpCpbMp3aBL5WdWhL4ryqui/ZLKnuk6HWXBT6tigiDxBXGKwBDecTcDXWAERJpbyA4UBMNfXSOLUZ6suSBvJPFRWK9ygzRB+wHhLllQ0fF2WdciPA2fSjcyVbNg/V+ufH3ipxTAk5y8X+awu/FjUAW5YM3vhAUv6kqkK8tOk/KLKHa0z0R0Xpk+cp5hzWi74mpJbRxfm04ABWW4mt/RVZyZNCL+NxqHNEAUWN/va8cKWaxPezEn2JLJTakqCyDbx2imV/WhQodjifFdnquzlTfERhFoUGwHPCR5Gg2r55TZIGviMs4yT2GM4G+kENaA=;c6Eq3FdsQKZjH9tlk64Tjg=="
 ---
 

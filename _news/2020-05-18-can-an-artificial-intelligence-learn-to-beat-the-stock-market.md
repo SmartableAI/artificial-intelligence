@@ -22,6 +22,6 @@ images:
     height: 720
     title: "Can an artificial intelligence learn to beat the stock market?"
 
-secured: "H9s6EbknnIhTPs1rN4akxe70QeQEaq3fbsoV5nQoMFOXaeUfkgVupjMmmUkq4fRdWiaBENpltyAbzdBkljgipLN2Ip+Pjy0yuZDDVf0Kwd8/uiqw+CnGu0Eiek+cHTnPfIkWhwG8l6eJBStlByEY5A+rHva/odNG3JgrhFi4gLQffjWTmYKHB8Qcmuq/IAAVj/bw+bbGBAlrdQc4b0X2JDy6kvHIeG3gMTNrN8VlMTby/ozWtb4VwYm2YX0JVR6Bu5uBn4h3rniDUPeAU0KwTgF9eRFJmCCpFfA34CnOjxgeN/hpZogj9DTaOgdmM8sd;CWA03yXRyEuEoyKM8BLF5Q=="
+secured: "VGuudQMcW31CIKhvi2neLpekZFg/Nm2wwB7lu+KFKZQUkVATLmk5Ur+xJIhD7a+jbPZcSgUSPdF16IMVu1ELE5YERVrbDF/YHdQbDBNxGtNXMM/sle4sP++GHdsRIbJ3J7c/1OFWZygE7j6V4KRhHf+cwP7h9om80SixMgOn7CnUVAYhWxXPHYANNNP0ekOPBerAYTUMPK6TzXIKGb3takykBsRvrXNcllJxzXa1mi6L0SgrV+qbFMjj1276idyjliOAln/s2Zf3NF4FQ2i2so4lMVg8gdlyl6Gg+bin3V+rJsZC3v5lsujJpcTqmD9heyMVZuaXDe1pzh4vrGnU8+JJZ+E1qBWWJNd+rdhLlsyzgep4LaR/w29vn1FwjyCSZSEScZ4s82bTiRQze3uhAntQ+NEcHml/Q/ETCvVAcHfg1C3iI6+ob48NNBSpsRHOUz4B+yYbT+yjLVhIXwqrMvd4RmNimbn7euev0calG8g=;arBnOM9CJUZPfHUHlKiP9A=="
 ---
 

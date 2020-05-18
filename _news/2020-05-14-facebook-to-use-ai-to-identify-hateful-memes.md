@@ -8,7 +8,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/facebook-to-use-artificial-i
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/facebook-to-use-artificial-intelligence-ai-to-identify-hateful-memes-5264621.html/amp"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 770
     height: 431
     title: "Facebook to use AI to identify 'hateful memes'"
-
-related:
-  - title: "Facebook trains artificial intelligence on ‘hateful memes’"
-    excerpt: "Facebook said it made a commitment to \"disrupt\" organised hateful conduct using artificial intelligence. Here's how."
-    publishedDateTime: 2020-05-13T17:30:00Z
-    webUrl: "https://www.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
-    ampWebUrl: "https://amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
-    cdnAmpWebUrl: "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/"
-    type: article
-    provider:
-      name: richest
-      domain: thesouthafrican.com
-    quality: 74
-    images:
-      - url: "https://gcs.thesouthafrican.com/2020/05/7764b0a6-facebook-ai-scaled.jpeg"
-        width: 2560
-        height: 1707
 
 secured: "GweajJ1Hl9PbLpkTrNslJl1WTCBey+VLmw3Hqof7H9kct3UmXm9Z9Mt037NolPTzqBqkf4hGfSVDqinbuitUqI7ki2/Hp7aabRe3fZ5fJKFJDxcq/NK87GAwSJeufR6sYCcM+IN2/OvLgbXVOW6dCjJdnQdvV23q8wmjCV8QWOZ4gJodRplo65MEXi/thmb1OriL48c3/oX1AmU2ACNSL+Q7JtwE8WpMJ+bTO8GvadiE7B5aAZaznXso6hAgpSCGT1PmSKsFkzDEVoXnwhTD0dKk9gYInPLRLQBdGIJobU6k1Hms1dbCILknlnHgW4XXQsDoxWz57cUQaPAcDlVT/Bk+wcc2aL7iOPC2EQQPmMp5SORSky6gkfxYrXPY+pFb9uufks//g0klUX+wip99v3LjsmOrxCTNsACb64M4Kp0G96BT8CQwLhvN9VtTBtY+ePPRwU9n53a57gEY9f54NSuJBp6Pxz5KotxWQY84m9Y=;+weGdYb4RzrmPa3RC3Z8Uw=="
 ---

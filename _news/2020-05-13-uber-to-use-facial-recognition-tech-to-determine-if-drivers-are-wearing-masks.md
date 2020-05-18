@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1205916"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1205916"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     title: "Uber to use facial recognition tech to determine if drivers are wearing masks"
 
 related:
-  - title: "Uber will require everyone to wear masks starting Monday — and is using AI to enforce the rules"
-    excerpt: "The company will require drivers to upload selfies with their face coverings in order to enforce the rules."
-    publishedDateTime: 2020-05-13T17:28:00Z
-    webUrl: "https://www.businessinsider.com/uber-require-face-masks-may-18-ai-enforcement-coronavirus-2020-5"
-    ampWebUrl: "https://www.businessinsider.com/uber-require-face-masks-may-18-ai-enforcement-coronavirus-2020-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-require-face-masks-may-18-ai-enforcement-coronavirus-2020-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/5ebc2ccafc593d14a14c0353?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Uber recognition technology checks if drivers are wearing face masks"
     excerpt: "As countries start lifting precautions taken against the coronavirus pandemic, ride-sharing platform Uber has announced new technology that will confirm all their drivers are wearing masks. “Our new technology will verify if the driver is wearing a mask by asking them to take a selfie."
     publishedDateTime: 2020-05-14T09:20:00Z
