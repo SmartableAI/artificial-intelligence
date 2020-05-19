@@ -57,7 +57,7 @@ related:
   - title: "Tesla to raise price of 'full self-driving' option by $1,000 starting July 1"
     excerpt: "Tesla Inc. undefined will raise the price of the \"full self-driving\" option on its electric vehicles worldwide by $1,000 starting July 1, Chief"
     publishedDateTime: 2020-05-18T23:29:00Z
-    webUrl: "https://www.marketwatch.com/story/tesla-to-raise-price-of-full-self-driving-option-by-1000-starting-july-1-2020-05-18"
+    webUrl: "https://www.marketwatch.com/story/tesla-to-raise-price-of-full-self-driving-option-by-1000-starting-july-1-2020-05-18?mod=indications"
     ampWebUrl: "https://www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
     cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
     type: article
@@ -65,6 +65,21 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 81
+  - title: "Tesla 'Full Self-Driving' To Cost Extra $1,000 Starting July, Musk Says"
+    excerpt: "Tesla Inc. (NASDAQ: TSLA) is increasing the price of the \"Full Self-Driving\" feature in its electric vehicles by $1,000 starting July 1, Chief Executive Officer"
+    publishedDateTime: 2020-05-19T04:15:00Z
+    webUrl: "https://www.benzinga.com/news/20/05/16061482/tesla-full-self-driving-to-cost-extra-1-000-starting-july-musk-says"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16061482"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16061482"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/tesla-autopilot.jpg"
+        width: 1918
+        height: 1079
 
 secured: "LgxS2QWLULtL2ubtW8bGUOXNw6ng5k8FBo0H6FSOTLH3fHx94Q44I0QWAdYzgsbZfyhap82kGkeXI19qRApYtbiz/5SzF/1BsAz5jgMNeyPNetcQYr3+9Hl9+BSGsb5DdiMR4bYxiFvLvPXWIV3p2A+FP/HsF4Ticrq7CnAurfzdzNyFU09TsaXfA/2+O6sgw+gGThuMX3eadJMdJ4T45DTSgFe41vgCRCeNvXr9b4oPjOTeDztTx5L1jzy6BezIjJMvIuvHsLJM+HTQE2+d+KN1Sp5MsBMBiHvrHEhgf6QXm8ORGSAzAbUZUN0jaH0zh9FQT8Fvdzjn7kBmtQSGqfFJD4St9rkUZbYrGHpBa5GOCdza9AfpKFDQkrJRQHAfpVYr9K1luqw5DsytZshpJyOdreYhAtP3AidLnXyoHEaGYfmdzUznhSu/XFWBEka7uq9jCv9U9Ya5E0pnTRnFZ2Y7l1g6i1kzcsgJsluvWuk=;9hkaa5qT6PI9LtAdGx1uaA=="
 ---

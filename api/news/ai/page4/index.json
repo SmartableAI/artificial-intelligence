@@ -310,6 +310,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-14-nvidia-releases-gpu-accelerated-app-framework-for-conversational-ai-services.md",
+      "title": "NVIDIA releases GPU-accelerated app framework for conversational AI services",
+      "excerpt": "NVIDIA announced a new solution to help organizations create artificially intelligent conversational services at its online GPU Technology Conference (GTC) this week. NVIDIA Jarvis is a GPU-accelerated app framework that leverages video and speech data to build customized,",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/nvidia-releases-gpu-accelerated-app-framework-for-conversational-ai-services/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/images/sd-premium.png",
+          "width": 628,
+          "height": 246,
+          "title": "NVIDIA releases GPU-accelerated app framework for conversational AI services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
       "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
       "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
@@ -440,7 +485,7 @@
       "path": "_news/2020-05-14-nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai.md",
       "title": "NVIDIA Launches Ampere A100 GPU For Data Center Computing And AI",
       "excerpt": "NVIDIA launched its Volta architecture and the V100 GPU with Tensor Cores, which dramatically accelerated performance for FP32 and FP16 tensor operations used in training AI deep neural networks (DNNs).",
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai/",
@@ -522,7 +567,7 @@
       "path": "_news/2020-05-14-nvidias-first-ampere-gpu-is-designed-for-data-centers-and-ai-not-your-pc.md",
       "title": "Nvidia’s first Ampere GPU is designed for data centers and AI, not your PC",
       "excerpt": "Nvidia is unveiling its next-generation Ampere GPU architecture today. The first GPU to use Ampere will be Nvidia’s new A100, built for scientific computing, cloud graphics, and data analytics. While there have been plenty of rumors around Nvidia’s Ampere plans for GeForce “RTX 3080” cards,",
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer",
@@ -874,6 +919,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-14-ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network.md",
+      "title": "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network",
+      "excerpt": "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.broadcastingcable.com/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
+      "ampWebUrl": "https://www.broadcastingcable.com/.amp/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
+      "cdnAmpWebUrl": "https://www-broadcastingcable-com.cdn.ampproject.org/c/s/www.broadcastingcable.com/.amp/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
+      "publishedDateTime": "2020-05-14T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Broadcasting & Cable",
+        "domain": "broadcastingcable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.broadcastingcable.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY2NzI3ODUyMTIzNzU5ODkx/fluent_whitepaper_streamingservices_2019.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-kustomer-acquires-replyai-to-enhance-chatbots-on-its-crm-platform.md",
       "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
       "excerpt": "Today, Kustomer is announcing some M&A that will help in that strategy: it is acquiring Reply.ai, a startup originally founded in Madrid that has built a code-free platform for companies to create ...",
@@ -1218,96 +1300,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-unveils-ampere-gpu-architecture-for-ai-boost-and-the-first-target-is-coronavirus.md",
-      "title": "Nvidia unveils Ampere GPU architecture for AI boost, and the first target is coronavirus",
-      "excerpt": "Nvidia Corp. launched its newest line of chips Thursday, detailing artificial-intelligence capabilities up to twenty times greater than previous",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/story/nvidia-unveils-ampere-gpu-architecture-for-ai-boost-and-the-first-target-is-coronavirus-2020-05-14",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/467AADA6-9564-11EA-B90C-10B5F5B65E83",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/467AADA6-9564-11EA-B90C-10B5F5B65E83",
-      "publishedDateTime": "2020-05-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s.marketwatch.com/public/resources/images/MW-IG441_Nvidia_ZH_20200513150145.jpg",
-          "width": 890,
-          "height": 501,
-          "title": "Nvidia unveils Ampere GPU architecture for AI boost, and the first target is coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-simcam-1s-security-camera-hands-on-ai-facial-recognition-and-super-loud-siren.md",
-      "title": "SimCam 1S security camera hands-on: AI facial recognition and super loud siren",
-      "excerpt": "The Simcam 1S security camera is solid with a nice look and feel to the camera body. It is slightly smaller than the Netvue Orb 1080p I looked at earlier this week, a similar size",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/product/simcam-1s-indoor-security-camera/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/simcam-1s-indoor-security-camera/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/simcam-1s-indoor-security-camera/",
-      "publishedDateTime": "2020-05-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/13/603e9526-85f7-4709-bde3-eb6cf52ca7c4/resize/1200x900/35115003e97135c8e3aca57eb8e51b94/simcam-1s-security-camera-eileen-brown-zdnet.png",
-          "width": 1162,
-          "height": 900,
-          "title": "SimCam 1S security camera hands-on: AI facial recognition and super loud siren",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

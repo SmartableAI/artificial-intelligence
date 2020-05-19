@@ -2,6 +2,95 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-12-facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech.md",
+      "title": "Facebook upgrades its AI to better tackle COVID-19 misinformation and hate speech",
+      "excerpt": "Facebook’s AI tools are the only thing standing between its users and the growing onslaught of hate and misinformation the platform is experiencing. The company’s researchers have cooked up a few new capabilities for the systems that keep the adversary at bay,",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/amp/",
+      "publishedDateTime": "2020-05-12T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/Reuters-Facebook-Fact-Checking.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": "Facebook upgrades its AI to better tackle COVID-19 misinformation and hate speech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-australia-wins-ai-eurovision-song-contest.md",
+      "title": "Australia wins AI 'Eurovision Song Contest'",
+      "excerpt": "An editor for Dutch broadcaster VPRO had the idea, after the Netherlands won last year's Eurovision Song Contest. And it grew into an international effort after this year's contest was cancelled because of the coronavirus pandemic.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-52632916",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/technology-52632916",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52632916",
+      "publishedDateTime": "2020-05-12T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/17603/production/_111874759_aimusic.png",
+          "width": 1024,
+          "height": 576,
+          "title": "Australia wins AI 'Eurovision Song Contest'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-ai-is-still-largely-baffled-by-covid-misinformation.md",
       "title": "AI is still largely baffled by covid misinformation",
       "excerpt": "In its latest Community Standards Enforcement Report, released today, Facebook detailed the updates it has made to its AI systems for detecting hate speech and disinformation. The tech giant says 88.8% of all the hate speech it removed this quarter was detected by AI,",
@@ -1194,97 +1283,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-the-robot-assistant-that-can-guess-what-you-want.md",
-      "title": "The robot assistant that can guess what you want",
-      "excerpt": "In a five-year project a group of robotics experts have developed a robot that can assist in maintenance tasks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/business-52547331",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-52547331",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52547331",
-      "publishedDateTime": "2020-05-11T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C387/production/_112155005_secondhandsrobotatwork.png",
-          "width": 1024,
-          "height": 576,
-          "title": "The robot assistant that can guess what you want",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-brazilian-founder-features-in-global-ranking-of-female-ai-leaders.md",
-      "title": "Brazilian founder features in global ranking of female AI leaders",
-      "excerpt": "Karla Capela is the only Latin American appearing on the list of artificial intelligence shapers released by IBM",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
-      "publishedDateTime": "2020-05-11T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/05/12/58e755f4-da25-4d63-93c1-d2b9a7f1a0cc/thumbnail/1200x675/54f9de3d1e16af385d53687195a630d0/storage.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Brazilian founder features in global ranking of female AI leaders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

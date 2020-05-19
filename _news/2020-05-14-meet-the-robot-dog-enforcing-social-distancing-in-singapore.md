@@ -54,17 +54,6 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/05/Spot-Coronavirus-robot-dog.jpg"
         width: 1200
         height: 630
-  - title: "Robot dog helps enforce social distancing in Singapore"
-    excerpt: "Leaves crunch underfoot as Spot marches through the park, back straight as a tabletop, stride brisk as a soldier’s. A grassy field encircled by trees beckons. But Spot is focused on the asphalt path ahead,"
-    publishedDateTime: 2020-05-14T12:40:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/robot-dog-helps-enforce-social-distancing-in-singapore/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/robot-dog-helps-enforce-social-distancing-in-singapore/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/robot-dog-helps-enforce-social-distancing-in-singapore/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
 
 secured: "rod1YtSNfq24cFk0IeHkTzWSTus7JYPsRPNhewzVjo6YNW+vSCCxmu/D8fYjfppvoeAsTonkANaUmMezZpYCEHApC0V8rEwysJ7jG/T2b+PDGogghkleumlSiGoDhdkC+PaCABY8b3rqZ7sSS5kZvMvHgJRKT4Po/4yW3928jgsyaBNrsghkzdGvVKKd61EPpXmmuL07jctAPoe7NOQNImKmJnf5hzGjt2TSwTmgY1g9BK3iGlHGgduKtnIroBx2QWPR/GfGH1PkYm2Eu5HKN3iNSEFp/Q2sih+rOpDPrMK6CZON3rJrvdiwrpbkV55Q3/fkp6gxnD1k2m4VQ3PTI7szHuMr3C5p98QfXvuh24fkxhropYZqym2vriXe34kutpbb7MPoFdpv5In0+UUjOvkE47iwTq7Jr5Cz9jIID51p0tnwjbKWG34F94y8PW7HZFBFSBNuoT9bEklHhGsxZYmDBO4FDtC/a8Hb6taBVUM=;oCoKdgrAFvBu2cLyvBLcLQ=="
 ---

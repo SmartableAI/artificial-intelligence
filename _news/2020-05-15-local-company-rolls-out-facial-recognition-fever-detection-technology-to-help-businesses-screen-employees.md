@@ -19,21 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "SparkCognition and Milize to Offer Automated Machine Learning Solutions for Financial Institutions to the APAC Region"
-    excerpt: "Based on SparkCognition's international success in fielding machine learning systems in financial services, MILIZE will offer a fraud detection and anti-money laundering solution, built with SparkCognition AI technology, along with consulting services, development and operational assistance to local credit card companies, banks and other ..."
-    publishedDateTime: 2020-05-14T12:16:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sparkcognition-and-milize-to-offer-automated-machine-learning-solutions-for-financial-institutions-to-the-apac-region-301059119.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/516048/SparkCognition_Logo.jpg?p=facebook"
-        width: 2699
-        height: 1414
-
 secured: "7EuyZhJKbvbf3UnXt4BHW8DVi4dxKM+Az+fRd966cIutHuStMI+udo7eQQ7Eh7cNfU43Q0b26Sod0NGfZ89OBaC6xAGxqF1KeXTjMi9kNWh0awh/XVL3T/TjfZ+sw7uCkphJDMEyOxvdvRMRqpOEMK2j7OADiN4hch7pkUgL7qGeTqeNtapB3YvI99wXeqwlzC55u9J8vWhSQz3sQSQZB6xZn0yHztPIhP2NeaxWaN4aEtuGspIHHI+37buDxGDCm7kQ/fNf6EtNCmFMY//tE+XCPNhbDFVCVF4WVBZB+usTi/3lflSo4kg5LIbUPhxxR7YD7pNpFEm3+dO+BEYrdh+7a4DxDwUuSXZCn4/bnf1FGVdI5T+PMuHXkj8lTr2Y6AQka4wEATV11RKNHoEsBVpoPahE04nfhMORYWLqE6AM7IBVCxeeNPg9ZPXEg8WvIb59tmHKAGRe2m78RpY0guZlGkY+OpBHHwk2ccAoAcc=;RY+FYAcZ4zG62XevH4Dmow=="
 ---
 

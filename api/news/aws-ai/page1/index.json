@@ -140,7 +140,7 @@
       "path": "_news/2020-05-15-ltn-global-enters-aws-advanced-technology-partner.md",
       "title": "LTN Global enters AWS advanced technology partner",
       "excerpt": "LTN Global has become the latest video industry firm to seek out the IT platform giants to provide offerings and will use AWS across its modular suite.",
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.html",
@@ -353,6 +353,43 @@
         "AWS AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network.md",
+      "title": "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network",
+      "excerpt": "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.broadcastingcable.com/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
+      "ampWebUrl": "https://www.broadcastingcable.com/.amp/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
+      "cdnAmpWebUrl": "https://www-broadcastingcable-com.cdn.ampproject.org/c/s/www.broadcastingcable.com/.amp/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
+      "publishedDateTime": "2020-05-14T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Broadcasting & Cable",
+        "domain": "broadcastingcable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.broadcastingcable.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY2NzI3ODUyMTIzNzU5ODkx/fluent_whitepaper_streamingservices_2019.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1204,51 +1241,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-amazon-appflow-brings-serverless-ipaas-capabilities-to-aws.md",
-      "title": "Amazon AppFlow Brings Serverless IPaaS Capabilities To AWS",
-      "excerpt": "AWS announced the launch of Amazon AppFlow, a managed integration service for exchanging data between external Software as a Service (SaaS) applications and AWS services. Amazon AppFlow acts as a two-way conduit for the data flowing between SaaS applications such as Salesforce,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/28/amazon-appflow-brings-serverless-ipaas-capabilities-to-aws/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/28/amazon-appflow-brings-serverless-ipaas-capabilities-to-aws/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/04/28/amazon-appflow-brings-serverless-ipaas-capabilities-to-aws/amp/",
-      "publishedDateTime": "2020-04-27T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea7cd5811fa6f000658c4bd%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Amazon AppFlow Brings Serverless IPaaS Capabilities To AWS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

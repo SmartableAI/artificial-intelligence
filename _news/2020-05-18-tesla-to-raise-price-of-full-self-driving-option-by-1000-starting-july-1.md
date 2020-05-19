@@ -3,7 +3,7 @@ category: news
 title: "Tesla to raise price of 'full self-driving' option by $1,000 starting July 1"
 excerpt: "Tesla Inc. undefined will raise the price of the \"full self-driving\" option on its electric vehicles worldwide by $1,000 starting July 1, Chief"
 publishedDateTime: 2020-05-18T23:29:00Z
-webUrl: "https://www.marketwatch.com/story/tesla-to-raise-price-of-full-self-driving-option-by-1000-starting-july-1-2020-05-18"
+webUrl: "https://www.marketwatch.com/story/tesla-to-raise-price-of-full-self-driving-option-by-1000-starting-july-1-2020-05-18?mod=indications"
 ampWebUrl: "https://www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
 type: article
@@ -65,7 +65,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Tesla 'Full Self-Driving' To Cost Extra $1,000 Starting July, Musk Says"
+    excerpt: "Tesla Inc. (NASDAQ: TSLA) is increasing the price of the \"Full Self-Driving\" feature in its electric vehicles by $1,000 starting July 1, Chief Executive Officer"
+    publishedDateTime: 2020-05-19T04:15:00Z
+    webUrl: "https://www.benzinga.com/news/20/05/16061482/tesla-full-self-driving-to-cost-extra-1-000-starting-july-musk-says"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16061482"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16061482"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/tesla-autopilot.jpg"
+        width: 1918
+        height: 1079
 
-secured: "NMPyhhPdnxJCQYbhx+pxnDboeI7E/IW20KvyEl47wWbJg8PY9y2ssuBS/44hnfu1l3nRehdBiaAMg1zlRo5kmjhXkyAt0N67tul/vYjoVgb5wluP0GbRBclBE7IwRzZyLkCZVJ6VJtXAsKFPUKM0XqhYP8F/wddp2TK6yZabvV0BbexWHCGUxXJKuiPeMWPNGW8EU9+kRWx1wYwvypW8LFhBzwMrlW/Ks4N/rJ8Y+JtaOCA8ci9ZGgApI2t3V+TRhTLKJO+tdLgBDqjICp/PyY87Hi2c3eqyQidC0TZsTYDKE3x0NWrgAIhdsjMEYBno;+6BP/HC25CjkGbnuysldhQ=="
+secured: "afTRGs8E04/E27HCzmyfrQKAxVY44VXeoXHsaVKSpf9/cHKE7nRkWbWkN9zwbs7/sFAfMDbjUJ0XSfQXP+ru5bbQYTKwDZ0oefxw7KkhELzNXH6zbtM6Y9b3omeytAZSMP+DnCOmtq1DXWybWpzM2Ea7KCMv7ixkl9A9bOOydmdS7Pit5riWDUaeHpz/icnDhkHLXa1Rp5RK9As81a7Y1AiR6SJqqyECU7Fh3qn2mIW6pj7BLdzQj1eBJE9plNqIi6TCAAkn6NZbu+WJnRuzbFnVMis1OeqC6csZy0fMH0bP/X99mNfaBTMn9lLOiowr;BFPUpZSoBYecbYzBfdP3ig=="
 ---
 

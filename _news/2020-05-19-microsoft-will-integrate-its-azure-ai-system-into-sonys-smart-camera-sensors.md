@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-sys
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/"
 type: article
 quality: 116
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     height: 428
     title: "Microsoft will integrate its Azure AI system into Sony's smart camera sensors"
 
-secured: "qbuapDpPJuwpe3NOFkf7+x0ziXryA3100rYeIHzKWtSnz62+L05PKrnlc7SsyQSlcxKGWBt7mNI/mh/n/ipaLeqzCeD4OAcvhnA0o7ct0GvH5hyqi9veseOzAXuGSIma9OHzOxTK+DE+UbqoPhW8tYAOVe8UcGnPueRXvMuN0fhV2+iulaCP+dI5DGY3ti1bbw54blOti0DOQX2QaH0z1Ni86HegrELOehn5NjA7vMKHHOPcpJkNRCTLMj0DXZh7nboDkhPfe/THUXelm+92Lxdv/XHLeNgplCNYrWZ3JF9F8GKIIUi/R8yJSYsiBarB;oZ3HvLzzp68syT5BljtE1Q=="
+related:
+  - title: "Sony and Microsoft partner on tiny AI chip"
+    excerpt: "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers."
+    publishedDateTime: 2020-05-19T05:02:00Z
+    webUrl: "https://mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html"
+    ampWebUrl: "https://mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 54
+
+secured: "fyrY5gwCA/DcFG9QogxFwiQnM9btoGzpwD/4O1qhA4zYty+BJVRwHn4UFzgA2jJm4qNoY3p/xptoBrqVD4ATEBKMxXCcdBMUc23yh4nDBsW7mN5SObPIOC/daBr+vQvYC9sjPDfOG7/+0EEHRphueuDDSl1SIzFeUjgE3ZcYZ9T3PDsBGiYCf09uT0OySwBYmNnmqMx2BAwy07DesivKDjIlVb/6ihG97MspJbL0qQBXa7Z4uOmjRFJY4mpF6IjhqFPK2Zgk3VZkeYJdYoZORu7uiagiIeUBY7FQoI8NRgiBmBteXze9dFzU1wPN0z3Ao23k425ydWAfux/MjXAcC88U4DGSuFHE0Y9oqmvy4dLSo8GFMXu/EpbkDExl1+M32IEbou3XiorF6Cf8ty4chtcIhmwnfPUPXdEsTxKJ/wfaM9HRdUBS+9ZNS4Z/v0J7R15rNZAFRYuCSfvQl91ybx22NdDA0O+EANNnyEP6kSc=;NrKSrOyLbcpW6HZFj1F6HA=="
 ---
 

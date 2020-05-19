@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-sili
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 1600
     height: 900
     title: "Nvidia's first Ampere GPU is a silicon monster for AI and servers"
-
-related:
-  - title: "NVIDIA's 7nm Ampere Beast A100 Machine Learning GPU Launched With DGX A100 AI Supercomputer"
-    excerpt: "According to NVIDIA, its Ampere -based A100 GPU is already in full production and shipping to customers. Although the company isn't getting down to the nitty gritty about architectural details, it says that the A100 represents the single largest uplift in performance ever moving from GPU generation to generation."
-    publishedDateTime: 2020-05-14T13:00:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ampere-dgx-a100-ai-machine-learning"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ampere-dgx-a100-ai-machine-learning"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ampere-dgx-a100-ai-machine-learning"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 81
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/51630/content/small_nvidia_a100_ampere.jpg"
-        width: 708
-        height: 566
 
 secured: "x8ySCMdysJ9PkuRlaPjkEqRH/0HMssnCXnaz1k0KL2iR98vhzo8oH6rffZY8uLCNb3j60NeB3ybGVbHACQacPJiHpNdHyKZdZcJAsaC11YllIMyRY0xYWWybaHKoz8kI47FaOKxDVEg00XRBwyfs52Uyd5+rUoAsnvmd44jRJwvdbUjdchXAbKRiW5yk+0kl36M/pDwkm1fEayGpxO413yS8z7TV/4VFEzoU2MktgfirvGs6S5jo4s4G8RYDiMeRtow7tJQ2wWHNNcdFosSv3kjCi8eQoKRlT0ZT0hZWjPwhyoSnpZNXgiOBCRdEoPg5;ha0ta4zRQU6//4TU40J28Q=="
 ---

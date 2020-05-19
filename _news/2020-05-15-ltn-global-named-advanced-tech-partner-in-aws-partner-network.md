@@ -54,21 +54,6 @@ related:
       - url: "https://www.tvbeurope.com/wp-content/uploads/2019/01/cloud.jpg"
         width: 600
         height: 400
-  - title: "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network"
-    excerpt: "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help ..."
-    publishedDateTime: 2020-05-14T12:38:00Z
-    webUrl: "https://www.broadcastingcable.com/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
-    ampWebUrl: "https://www.broadcastingcable.com/.amp/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
-    cdnAmpWebUrl: "https://www-broadcastingcable-com.cdn.ampproject.org/c/s/www.broadcastingcable.com/.amp/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
-    type: article
-    provider:
-      name: Broadcasting & Cable
-      domain: broadcastingcable.com
-    quality: 51
-    images:
-      - url: "https://www.broadcastingcable.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY2NzI3ODUyMTIzNzU5ODkx/fluent_whitepaper_streamingservices_2019.jpg"
-        width: 620
-        height: 349
 
 secured: "h+QkdBGVwJOHCcKRVNiFz7iuIDD4x8ei3ochnRP3bv+MyhHPmyM+Us8+iom0cLE7OqTAPNwTLqifnCryuXyY73LwgSAs6tlHX3YjpyErz61VbC8+9Kiy1riqimnbJ2bCKsA4PUE8jcBKWkImwTwIk6biU6utTQgiochtPwtbkHbaUop44Xq4lcg+yL9VqsoK7xx0BgR0woxUiy11/Mql+UWJJNX2cyg6SMK+imVK5/1DMrUe/7xtFuSUVHXRCvrGty5pmcAx4NCP8pIjrBpJvrYSCQE+NfwtP3aONE0424NIzacdXUNtNgCH0QAKTVX/;xE6W2ObL7yowtSZzvLmv8A=="
 ---

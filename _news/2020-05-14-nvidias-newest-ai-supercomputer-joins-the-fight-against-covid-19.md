@@ -72,19 +72,6 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/NVIDIA-Drive-Ampere.jpg"
         width: 1517
         height: 800
-  - title: "NVIDIA's New Ampere Data Center GPU in Full Production"
-    excerpt: "New NVIDIA A100 GPU Boosts AI Training and Inference up to 20x; NVIDIA's First Elastic, Multi-Instance GPU Unifies Data Analytics, Training and Inference; Adopted by World's Top Cloud Providers and Server Makers NVIDIA today announced that the first GPU based on the NVIDIA Ampere architecture,"
-    publishedDateTime: 2020-05-14T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nvidias-new-ampere-data-center-gpu-in-full-production-2020-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Nvidia Unveils Its First Ampere-Based GPU, Raises Bar for Data Center AI"
     excerpt: "Nvidia took the wraps off its first Ampere-based GPU today, the A100, along with a raft of products that rely on the new GPU and new architecture for massive improvements in both performance and power efficiency of AI and other GPGPU computing tasks."
     publishedDateTime: 2020-05-14T14:45:00Z

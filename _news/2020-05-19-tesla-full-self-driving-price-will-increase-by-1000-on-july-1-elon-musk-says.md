@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-price-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-price-increase-elon-musk/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -48,7 +48,7 @@ related:
   - title: "Tesla to raise price of 'full self-driving' option by $1,000 starting July 1"
     excerpt: "Tesla Inc. undefined will raise the price of the \"full self-driving\" option on its electric vehicles worldwide by $1,000 starting July 1, Chief"
     publishedDateTime: 2020-05-18T23:29:00Z
-    webUrl: "https://www.marketwatch.com/story/tesla-to-raise-price-of-full-self-driving-option-by-1000-starting-july-1-2020-05-18"
+    webUrl: "https://www.marketwatch.com/story/tesla-to-raise-price-of-full-self-driving-option-by-1000-starting-july-1-2020-05-18?mod=indications"
     ampWebUrl: "https://www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
     cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
     type: article
@@ -67,6 +67,21 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Tesla 'Full Self-Driving' To Cost Extra $1,000 Starting July, Musk Says"
+    excerpt: "Tesla Inc. (NASDAQ: TSLA) is increasing the price of the \"Full Self-Driving\" feature in its electric vehicles by $1,000 starting July 1, Chief Executive Officer"
+    publishedDateTime: 2020-05-19T04:15:00Z
+    webUrl: "https://www.benzinga.com/news/20/05/16061482/tesla-full-self-driving-to-cost-extra-1-000-starting-july-musk-says"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16061482"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16061482"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/tesla-autopilot.jpg"
+        width: 1918
+        height: 1079
 
 secured: "g1MN/KaJp1K9M8Zq9paWNMRgEEBs9Y92UmqFCvauMEp0oxgnmYVC2VFrKRlgcWiOXrBREB7xvPKpKau8X5db1QxzFROaj7ADGSrdj4BdcPfZDrK3zakt3YEugchrHmdhhG0J7MGHmd1e4cE5nXMxkQYT8Qrz4t5kRssA91uTsiwWIeoyjbqwcH2wQ6ktVxFYj0S/JCAdu4UFiTI3cTOaGk6ToHhQMjPpAaaqwkGbf44QtJfiKZZHbwIuT1pTwBfebN09NpjlgBuWRZvROZhx4ex4k5NoTBAySXkn28ApyMOpE7A49lIwnhwFYs9Q2qcflewrlTSwplH39IyiW/Kqfpg2YZxH69O6m6ZW2dbowdbbm/JU/H8sNBo768z5+/RN9L+5esZMhsTt3gaKJxc7ddaBmwaVcwOihoaN4Vzwcc943EeBGT64UlV5bb5yI9FWPqV/003rhS1zWGikkFdrdCkyjitsnFnIsFhTannRZik=;LvvB6kcu/wKqw6q9UIfZhw=="
 ---

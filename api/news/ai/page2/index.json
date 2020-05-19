@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-18-face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras.md",
+      "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
+      "excerpt": "The rollout of facial recognition cameras in London is facing disruption as citizens are now using face coverings that could potentially incapacitate the technology. The United Kingdom has been a keen adopter of surveillance technology including facial recognition cameras in recent years,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "publishedDateTime": "2020-05-18T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/11/20/77a790fa-b55e-4662-9b19-7a8f42060060/resize/1200x900/6bfbc3a62184f36d3a9733bdc6f59fe5/screenshot-2019-11-20-at-13-18-41.png",
+          "width": 1200,
+          "height": 766,
+          "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-how-a-chinese-ai-giant-made-chattingand-surveillanceeasy.md",
       "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
       "excerpt": "Alexa can tell you the weather. Siri knows a few jokes. In China, voice-computing company iFlytek built similar smart assistants beloved by users. But its tech is also helping the government listen in.",
@@ -1276,43 +1321,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-nvidia-releases-most-advanced-ai-chip-ever.md",
-      "title": "Nvidia releases most advanced AI chip ever",
-      "excerpt": "Nvidia has just released its next-generation artificial intelligence chip - and it's quite the beast. During a keynote at Nvidia GTC, CEO Jensen Huang referred to the new Nvidia A",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itproportal.com/news/nvidia-releases-most-advanced-ai-chip-ever/",
-      "ampWebUrl": "https://www.itproportal.com/amp/news/nvidia-releases-most-advanced-ai-chip-ever/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nvidia-releases-most-advanced-ai-chip-ever/",
-      "publishedDateTime": "2020-05-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZCpccNHtpUekUzUU49oVbe-1200-80.jpg",
-          "width": 700,
-          "height": 394,
-          "title": "Nvidia releases most advanced AI chip ever",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

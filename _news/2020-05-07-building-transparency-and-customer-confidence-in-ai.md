@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Building transparency and customer confidence in AI"
-excerpt: "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold"
+excerpt: "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent."
 publishedDateTime: 2020-05-07T08:51:00Z
-webUrl: "https://www.techradar.com/in/news/building-transparency-and-customer-confidence-in-ai"
-ampWebUrl: "https://www.techradar.com/in/amp/news/building-transparency-and-customer-confidence-in-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/building-transparency-and-customer-confidence-in-ai"
+webUrl: "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai"
+ampWebUrl: "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 545
     title: "Building transparency and customer confidence in AI"
 
-secured: "uxkZi+1zgoIBhTS1iXKUcKdpRonX9wOWw03HGmXyFX2n0Y5H+grUzkytLVyaGrX/bZXf2z6zv7CQHvg41Hti7go0tpHqoam1zBQMmiRi3GuCNLrtwqCqwKJtdQGCjEjWL8yXQjdWZ1hrr+O1DultREY4IRKMXUCqjWjwSWiLLCpAumHohAvoIczdLa4z2pwe73Ys7z4vBc2pvacNQlgxH27Pd2y31P//u0r0WernxlUDYzaHzG++KZL57Oyf/u/pAlVpLfIqs/x3dZ14ED3ToGM0gAerY3uCQrEkbcHO1Pp39WYOhIHWkDEKsZK5dpSysmtEyVDhYtGKTfPoReKycvjtuM6CgEUmOTmZjqr+BnGKzowad5o/8O5W6j1Vc1Q+GW6T7Ic1EuJ10ZpdPujY81L5t4gfyU6jlIm5AD2LJWF67rKZFdWOzhuOsHenIjoKWSjbJ8MQIQUO324C9m7afPs7N7gW008CBQ/O7Z/Wsxg=;WZlLvEzh1kCjuZ0tdQRe/A=="
+secured: "PIRFMlc9XWjyX28Nurne2nbF+OsGRv32rsXR25vmvplc9n9Odisc8zWDt3tj7bSJxTc/rQ16s/T+9tDSSy+/Wm3Xwhccca7DD2Sy4e7UZWbuBRQ9XCUPoYyW6jy638lIWUmWzmetsmW81cO2PSAVH5Qv8R9woGeZumkrO9BLg7toMFaEj6Mt6Wu5IK4JTbwC9jhVfZbSml3ZdBVxxYRTWsPhhhdBQIsimGTxXP+PBcCwm6tR0U5zq1T2Sf1DD8VfqCq9aQBQx4o1NQbixUG0QQLBYQJMEE1Eg7hSFU3r8vuHboowMZWoPOHg+Havx581;VWfDzUKbPRIRl1v6NuG3Xg=="
 ---
 

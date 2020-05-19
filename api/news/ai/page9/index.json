@@ -2,6 +2,96 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-08-increasing-customer-engagement-and-loyalty-with-personalized-coupon-recommendations-using-amazon-personalize.md",
+      "title": "Increasing customer engagement and loyalty with personalized coupon recommendations using Amazon Personalize",
+      "excerpt": "This is a guest blog post by Sungoh Park, a big data analyst at Lotte Mart. In their own words, “Lotte Mart, a division of Lotte Co., Ltd., is a leading South Korean retailer that sells a variety of groceries, clothing, toys, electronics, and other goods.” \nConsumers today have many options for purchasing",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increasing-customer-engagement-and-loyalty-with-personalized-coupon-recommendations-using-amazon-personalize/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T10:15:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/07/lotte-mart-2.jpg",
+          "width": 800,
+          "height": 284,
+          "title": "Increasing customer engagement and loyalty with personalized coupon recommendations using Amazon Personalize",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services.md",
+      "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
+      "excerpt": "For new home buyers, a common challenge is to understand how to manage their lawn needs effectively. Now imagine if you’re a farmer and have to do this for many acres of land. As a farmer, some of the challenges you’d typically face include the when (when is the right time to water), the where (where",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T09:22:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/28/weed-detector-1.gif",
+          "width": 1000,
+          "height": 600,
+          "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity.md",
       "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
       "excerpt": "How can you snag the dough? There is a contest underway that promises a prize of $1,000,000 to someone or some entity that has managed to innovatively perform an outstandingly good deed with AI that demonstrably benefits humanity.",
@@ -1151,95 +1241,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-3-tips-to-find-a-good-ai-partner-for-your-recovery.md",
-      "title": "3 Tips to Find a Good AI Partner for Your Recovery",
-      "excerpt": "The world will never look the way it did before, but productivity and consumption can resume with a little help.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/350214",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350214",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350214",
-      "publishedDateTime": "2020-05-07T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200505205845-GettyImages-1019205322.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "3 Tips to Find a Good AI Partner for Your Recovery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory.md",
-      "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
-      "excerpt": "AI Explorables is Google's initiative to elucidate the key concepts of machine learning via a series of interactive explanations to make the field more accessible and participatory.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1587624429_google_5_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
