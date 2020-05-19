@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16061482"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16061482"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,28 +24,6 @@ images:
     width: 1918
     height: 1079
     title: "Tesla 'Full Self-Driving' To Cost Extra $1,000 Starting July, Musk Says"
-
-related:
-  - title: "Tesla to raise price of 'full self-driving' option by $1,000 starting July 1"
-    excerpt: "Tesla Inc. [s; tsla] will raise the price of the \"full self-driving\" option on its electric vehicles worldwide by $1,000 starting July 1, Chief"
-    publishedDateTime: 2020-05-18T23:28:00Z
-    webUrl: "https://www.marketwatch.com/story/tesla-to-raise-price-of-full-self-driving-option-by-1000-starting-july-1-2020-05-18?mod=mw_latestnews"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
-  - title: "Tesla To Raise Self-Driving Option Price By $1,000"
-    excerpt: "(RTTNews) - Tesla will increase the price of the full self-driving option on its electric vehicles worldwide by $1,000 starting July 1, Chief Executive Officer Elon Musk tweeted on Monday. At the moment,"
-    publishedDateTime: 2020-05-19T03:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-to-raise-self-driving-option-price-by-%241000-2020-05-18"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
 
 secured: "P1QVUuY2Fk0nMxhTD/5oy9wsY577COtlzYAg3U6S5mO8o2iIJ4kM45g/7X+OFDNnn3FFQsjmykUrIMEM2y2Np6qk2hxPeeGFxxbK9weaqOtsblTFbY0BOk7yDcsMiZ1epaMYoQx6+e34P4HD4lsj6z/hT+j677Bj/YGsMSAK3RxSQBNpERp7X8RYrGAKkRiGnMCx/Umiwazt5isUXxi4t3O/MTofHRKlNYuudI2KHN92K+BXmBnp1qMuJgP9MoOfDEIXY9yOmSDteBy3LcsnJcrNEm4KQZRnzrSE6gZwmnZUH5iNaWKH/i+lKkKI5B6D;lLoHqsHdXRL9wpAQzxekSA=="
 ---

@@ -32,7 +32,7 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
-    quality: 39
+    quality: 56
     images:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Sony-AI-Sensor.jpg"
         width: 1344

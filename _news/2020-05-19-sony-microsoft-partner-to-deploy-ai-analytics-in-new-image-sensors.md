@@ -5,8 +5,8 @@ excerpt: "Sony and Microsoft have announced a partnership to bring Azure AI capa
 publishedDateTime: 2020-05-19T18:11:00Z
 webUrl: "https://www.extremetech.com/computing/310736-sony-microsoft-partner-to-deploy-ai-analytics-in-new-image-sensors"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Sony-AI-Sensor.jpg"
@@ -38,6 +39,6 @@ related:
         width: 1024
         height: 768
 
-secured: "b0ZNqT54EwSkrgEfpNjZbtIX6Qz36LFhm20eXlnqgZQXEFJItGIfR68jul6kr06fnranTRMubKqJiTciOdDv8kiYTG84X5OP36VlnqX6gC12Gsc3PUP25TX5IFvJuFVT4SUw43nTiKmVuoWjKXz8hMSSAvumw42r/gJbD8fABFiriMr3HIYP4WKyhDUXHhy1N6HPVvAWHtsmuR3f5py0582J8b7s7G3LALKIUOXTHWS6VbyZfMtZ6ySl77ivoLLdBTkoAsW/1I/1XJj0EuQrjbu8TA+QBzkVvD5Dx+Gh2XRzHbZpm+4q212An1oKLSP6;5RRUsmtCm7QNq3YqYOKGTg=="
+secured: "9cv2i6Q7HCKqyU21S97Bt87H/dFMD/BczQFZhCBsLCKMSsFVo5ScWzS7IjwTwEqzxMWT3HaP5S1Ku0b6FtZh25n1CUpv+jv4rV+mg2j4RL3h5IhKwbTB8zU3TYiVOTE26qg0YTZSgvKfDRsPNxRjpDYnE/aAfZWKa2GVAbRare6/xxeu3M45Gg2+/aYrtYA0JpU7R0AciuvJcyjNqyT1zMfLtduxUyd6sQf90KuG+K4EMowUfImXILwgtjmaX/64cps+1dvK+WnsDGXZsg81jPB89ho7M75psC4AcmmGRWmgRMYZQM/qUYD7/T62gmxzloZTBS44egGrPhIGBLcw18xj04/I7yUHwwbyuWlta7DOAlh7BcQRkFPOhQXI5cAsMmTAWivkvN58QwQRGTJTIm906gXhvoGeCDS5PEU8mei2m81fGGXo4Pt+7Bz+/02SjN9heDRClA6SJQ92jyF/H1+8+12575rAK56NXLSOQi4=;1/wa/LUDDpyFD92RE9DanA=="
 ---
 

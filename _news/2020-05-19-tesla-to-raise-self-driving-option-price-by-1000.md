@@ -1,17 +1,23 @@
 ---
 category: news
 title: "Tesla To Raise Self-Driving Option Price By $1,000"
-excerpt: "(RTTNews) - Tesla will increase the price of the full self-driving option on its electric vehicles worldwide by $1,000 starting July 1, Chief Executive Officer Elon Musk tweeted on Monday. At the moment,"
-publishedDateTime: 2020-05-19T03:07:00Z
-webUrl: "https://www.nasdaq.com/articles/tesla-to-raise-self-driving-option-price-by-%241000-2020-05-18"
+excerpt: "(RTTNews) - Tesla will increase the price of the full self-driving option on its electric vehicles worldwide by $1,000 starting July 1, Chief"
+publishedDateTime: 2020-05-19T03:00:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/tesla-to-raise-self-driving-option-price-by-1-000-1029212854"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -29,22 +35,7 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 81
-  - title: "Tesla 'Full Self-Driving' To Cost Extra $1,000 Starting July, Musk Says"
-    excerpt: "Tesla Inc. (NASDAQ: TSLA) is increasing the price of the \"Full Self-Driving\" feature in its electric vehicles by $1,000 starting July 1, Chief Executive Officer"
-    publishedDateTime: 2020-05-19T04:15:00Z
-    webUrl: "https://www.benzinga.com/news/20/05/16061482/tesla-full-self-driving-to-cost-extra-1-000-starting-july-musk-says"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16061482"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16061482"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/tesla-autopilot.jpg"
-        width: 1918
-        height: 1079
 
-secured: "hhBm4dgh33Y3hobDrXQBlWYL+oAzAqpwIyvjrtsXzyj3Q6mBbNl9LBEpt0I+XxajbtyjNmRLbzQNimHa3GE0f2cPY3Cc4mW6OV3ttFXeVkKw7ZiuGfbR5895T86v0RQbRj4i+EaZ2CnALGbdvPmKiZ5DWOMCc1F1ScdVce5e4hDHjexDPxBVdR1B2oYchGSqslFnLC4aUaSI1Y2WVnBN2WjnJw4hieuIl+Zs9llmY6gZBxduo3fDf2DxSu30bSbGJAG3siERFhf1TIWVgxiQC+kQ6KPbNN38PBlnIGZSyTNaP2950HQD2jI7TY208E7zIz+j2maNsjIHU11NqnTUO0xhpLPP+UMW7cWYWpP4VNuyhueKTV6bZfqW6EHOwntVIJoueXjT6rseIubOFsqpX98EI1c3eNsw+k8uBKBFAPXHJiHkmQvCEI3zmxS9GCefwToWuOrp0UVV5VHbywWr3SJAo7HSpzwH5LUsVSAUJb0=;m6pwQ0ZKrosZT136jNMhGA=="
+secured: "XcTwCYR2voeJ5bOtqeUcYt8VB7R/3HEi0Jj/uRW0W6eQdr7+GjY5l49l4dLYKd5HK5iQcLIO6QG3eJz6qrvK3jy219gsTsl8aQm6y0TOELo9nLeOSmwX9wxYS2fJM9l8iNtlqOfbMtVqoE2Ii8Tzhw1yFwKaXKpZ7QXuYz/o12GBMgtbTr47+XwmeBm+HaHXfM1EN7nkrOBVzgg9GG4ZgSlmp6Ywc+sPCVBH14E3CL9prdJXCscBEB8IjWjmmPdF69CjgxgRlzmjOUXuvh0qx5l0Y2Vto9bdJ8aGZYSqXKtvqAXDz1K1u1wcHFtsmXlJ;Bjed/RF9TRrhTo6JDqvu1A=="
 ---
 

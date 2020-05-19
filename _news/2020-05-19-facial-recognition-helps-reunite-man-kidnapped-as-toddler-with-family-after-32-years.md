@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Facial recognition helps reunite man, kidnapped as toddler, with family after 32 years"
-excerpt: "A man, who was abducted as a toddler 32 years ago, has finally been reunited with his biological family, with the help of facial recognition technology. According to Chinese state-broadcaster CCTV, Mao Yin was taken away from his parents in 1988 when he was two years old from a hotel in the Shaanxi province."
-publishedDateTime: 2020-05-19T09:50:00Z
-webUrl: "https://www.wionews.com/world/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years-299658"
-ampWebUrl: "https://www.wionews.com/world/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years-299658/amp"
-cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years-299658/amp"
+title: "Facial recognition helps reunite man kidnapped as toddler with family after 32 years"
+excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help"
+publishedDateTime: 2020-05-19T20:03:00Z
+webUrl: "https://wsvn.com/news/us-world/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years/"
+ampWebUrl: "https://wsvn.com/news/us-world/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years/amp/"
+cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years/amp/"
 type: article
-quality: 51
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: WION
-  domain: wionews.com
+  name: 7News Miami
+  domain: wsvn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/05/19/141060-xian-city.jpg?itok=Bn3bhgA6"
-    width: 918
-    height: 506
-    title: "Facial recognition helps reunite man, kidnapped as toddler, with family after 32 years"
+  - url: "https://sunbeamwsvn.files.wordpress.com/2020/05/bhdn_in-41tu_facial-recognition-reunites-missing-child-after-_cnna-st1-1000000005ca99fc_174_0_moment.jpg?quality=60&strip=color&w=1200"
+    width: 1200
+    height: 675
+    title: "Facial recognition helps reunite man kidnapped as toddler with family after 32 years"
 
 related:
   - title: "Facial recognition used to reunite missing child with family after 32 years"
@@ -104,16 +104,16 @@ related:
   - title: "Facial recognition helps reunite kidnapped Chinese toddler with family after 32 years"
     excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology."
     publishedDateTime: 2020-05-19T15:30:00Z
-    webUrl: "https://www.stltoday.com/news/world/facial-recognition-helps-reunite-kidnapped-chinese-toddler-with-family-after-32-years/article_1096ec36-1612-543a-8a73-6f3ed3a81ea1.html"
-    ampWebUrl: "https://www.stltoday.com/news/world/facial-recognition-helps-reunite-kidnapped-chinese-toddler-with-family-after-32-years/article_1096ec36-1612-543a-8a73-6f3ed3a81ea1.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/world/facial-recognition-helps-reunite-kidnapped-chinese-toddler-with-family-after-32-years/article_1096ec36-1612-543a-8a73-6f3ed3a81ea1.amp.html"
+    webUrl: "https://madison.com/news/world/facial-recognition-helps-reunite-kidnapped-chinese-toddler-with-family-after-32-years/article_feedc99e-7b1b-5e36-b315-2247dde6d8f2.html"
+    ampWebUrl: "https://madison.com/news/world/facial-recognition-helps-reunite-kidnapped-chinese-toddler-with-family-after-32-years/article_feedc99e-7b1b-5e36-b315-2247dde6d8f2.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/world/facial-recognition-helps-reunite-kidnapped-chinese-toddler-with-family-after-32-years/article_feedc99e-7b1b-5e36-b315-2247dde6d8f2.amp.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Madison.com
+      domain: madison.com
     quality: 52
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/ff/4ff3db0a-d4c6-5d78-b3e9-e89b9be84d15/5ec3f108f1019.image.jpg?resize=1024%2C682"
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/b/4c/b4c8d8dc-7c61-512d-801f-db163fb6fdf1/5ec3f118b2330.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
   - title: "Facial recognition technology helps reunite kidnapped toddler with family after 32 years"
@@ -174,7 +174,20 @@ related:
       - url: "https://www.hawaiinewsnow.com/resizer/2z0b4WEpY851KAVhPDvHacpnV_s=/1200x0/d1acid63ghtydj.cloudfront.net/05-19-2020/t_17c25ce9645142ee9ac4860de6f606a4_name_file_1280x720_2000_v3_1_.jpg"
         width: 1200
         height: 675
+  - title: "Facial recognition tech reunites missing child, parents after 32 years in China"
+    excerpt: "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday."
+    publishedDateTime: 2020-05-19T20:48:00Z
+    webUrl: "https://www.hawaiinewsnow.com/2020/05/19/facial-recognition-tech-reunites-missing-child-parents-after-years-china/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 35
+    images:
+      - url: "https://www.hawaiinewsnow.com/resizer/w51OS9yT97gOHOvkYSKGYJVQZDM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/3IAREMZCLBEJHC3URT557DLPRU.jpg"
+        width: 1200
+        height: 675
 
-secured: "Pb9YQLAyZ9hcHmihOWvhAbMFcv+jtAYbiDQw7qR7bPsLvZSFxo2W6vZ1t99PtcO8orIn5wKgm4YbIoHPhUeddLgZW+u/KaqzOeMHeBuSARaRcoWr3J+C7sNNzA5ppiG8Z53214WsDkG6Jsbl+7I4LQgKvrgFCjLMdcsPBMdwih1oaFfA7+zlJc4JwlU1/ujFMiGFsh6Hqwlw0bQS67khhzdS2vOnx6cE5tHiGQA1cNURpXrNHfMcLggCAKSgfCZxJuLN76jfXM+Xf2YD/rfXvklM5xyWRCVix6Xn31iOGGFtzV3KAcXdYiZzj+QN+VN56Kjg7cZdTwJwsmSSiplNEm8AVOgA2pxA8AMRYtBTDVaXXXFTJwe0DHojpCOzHwjDWsgjS/SDSPfY9pgTEjOF9QbNhpwhrdehXOWVxKJa5y6jAIOsZoyg+y6WIWm0jgmuipX4U3KgqaOhWtCsqNDWuFhw/MG//aGGvOrEPqMxd+0=;088X3TwlZg5FWEw8HZMN+Q=="
+secured: "0vNou3oIJeQk+9WqlveRyfXeOD4JVxVI+Qd/ysb0VMVlrNMFclT8pgOJN6eQOZdCw36Q9mRdlik8X2dTHBFccA74vEYNuaS0j7yY9Q0EL1wAc8XCU1xoE7Sel7ci70MZTjmDTx1Qo4H7+CgaDhLEnQ7/Kf4Hc3XJUWsVYZKjOZQCY0jiV1OHvtEU47CODmLwBnu2zegB1pU3mw5RtaxKWX/c8RqwDgEfvILZNoy8D9hSr0taj/CR9EOfQtEh4rnO4WEVhNQXYx9oeFr4wVCfIyjYCs2a1u8EiS0iRIYm6BGOsM4ojW0jxT0+sVAdAouv;KMg57tlxGMOFjVGrjsLzrA=="
 ---
 

@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Microsoft Unveils Cloud Tools Tailored for Health-Care Systems"
-excerpt: "Microsoft Corp. unveiled a package of cloud software designed for health-care systems, starting with a free trial to help the industry weather a viral pandemic that is both increasing the need for technology solutions and putting hospitals in financial peril."
-publishedDateTime: 2020-05-19T15:00:00Z
-webUrl: "https://www.bloomberg.com/news/articles/2020-05-19/microsoft-unveils-cloud-tools-tailored-for-health-care-systems"
-ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-05-19/microsoft-unveils-cloud-tools-tailored-for-health-care-systems"
-cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/microsoft-unveils-cloud-tools-tailored-for-health-care-systems"
+title: "Microsoft unveils cloud tools tailored for health-care systems"
+excerpt: "A logo sits on display outside the Microsoft Corp. pavilion at the Mobile World Congress in Barcelona. Bloomberg/Simon Dawson Microsoft Corp. unveiled a package of cloud software designed for health-care systems,"
+publishedDateTime: 2020-05-19T17:32:00Z
+webUrl: "https://www.bnnbloomberg.ca/microsoft-unveils-cloud-tools-tailored-for-health-care-systems-1.1438336"
 type: article
-quality: 69
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: bnnbloomberg
+  domain: bnnbloomberg.ca
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "worvOlr32BPa4cyj/RW++75Rpy+J9QBr4qceLZruFn2uKyYyN23qOW0H8DD7eOzVuwxMJSwx0sSEujDHvVmcG0AP538UcsNtv4/lw9jbsm6xelSVHKoihkX49eXhgTpBKsN6dNaNuYG6UsxRd0btywGhzsdufi13j7kK6wkUbuKRodCKLwLp9TKLiiB04GHC0ev58wNthVE1hPfeiScZEK2NxOjqIoLsTcg5WcfB62XUItMH+CB41MMmnZ+I/7DVIIMpqbmpcx7JHhD/Efa/r7Ib3vJFbWSAdMneECIR2FzyNsUBRmZFqGqhdHKrp85FLCJZaD23EQZWQrBRh0Ai2J3pBVYtGaBQEDYt5flapwirIq2+Qb2chTx822e4nntdK+VhiAWLDVapg9sIVfiVfOmNpUqLNK+TOpN4D66koeyQYt9AX19bujGZhhxFTmbnzsIHTWKU2WzdChhdUmnOuOArit++X47zu+g/ZkBHnfo=;s83STDaTDNaBOjKq7Xc0hA=="
+images:
+  - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1430204!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-logo-sits-on-display-outside-the-microsoft-corp-pavilion-at-the-mobile-world-congress-in-barcelona-photographer-simon-dawson-bloomberg.jpg"
+    width: 620
+    height: 349
+    title: "Microsoft unveils cloud tools tailored for health-care systems"
+
+secured: "W0oIIe8Dz+4cLh1zyVkPBkL+Ddxt8fQnvJxHHasMMQNygFK0bUK2LT8v+WarcKqw/i2FQEwmO0Z8uyNd4/yDhiECRxzCUKQ48SAdyaXLr+UhUc0kdKNSxOSikUO3E550kf0o4Sd541waLlfGZ9nQ8A9OzwtTpv4oMBN9lIAyzR7SH4FTSH9fBF4ko2Oz6s8Fa6K12m+2pHU0QabypudNTqVH9jj3e376Nqfrgj4PEuTR8YSZIEV7MMCOt7nffcQ5KIJsBftkaxyAWH9QmetgF661Cl9mbkrjo2DyO3m8aClzYMbT6E2MV/ArH976ptv4;BI+ipYlDp/05vpcSdRC0iA=="
 ---
 
