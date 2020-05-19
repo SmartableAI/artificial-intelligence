@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.detroitnews.com/amp/111715036"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111715036"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Detroit News
@@ -26,21 +26,6 @@ images:
     title: "Robot dog enforces social distancing in Singapore"
 
 related:
-  - title: "Singapore enforces social distancing — with a robot dog"
-    excerpt: "Let’s keep Singapore healthy,” comes a woman’s voice, polite but firm. “For your own safety, and for those around you, please stand at least one meter apart. Thank you.” Spot, clearly, is no ordinary squirrel-chasing canine."
-    publishedDateTime: 2020-05-14T07:06:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-05-13/coronavirus-singapores-robot-dog-enforces-social-distancing"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-05-13/coronavirus-singapores-robot-dog-enforces-social-distancing?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-05-13/coronavirus-singapores-robot-dog-enforces-social-distancing?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 59
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/c302d9e/2147483647/strip/true/crop/4996x3263+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F36%2Fb3f5f1be481fa53bd2f849ebc739%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1209534231.jpg"
-        width: 320
-        height: 209
   - title: "WATCH: Robot Dog Enforces Social Distancing, What Could Possibly Go Wrong?"
     excerpt: "Spot is one of the world’s most advanced commercial robots, last seen opening doors, hauling a truck or dancing to Bruno Mars in a slate of mesmerizing promotional videos. Its two-week pilot in a park here is seen as a test of how machines and artificial intelligence could help reduce human contact in public spaces as some governments begin ..."
     publishedDateTime: 2020-05-16T13:57:00Z

@@ -41,19 +41,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/r7QODjaWVv90Czz6GGFPaV-QapE=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66795902/akrales_180816_2793_0073.0.jpg"
         width: 1400
         height: 933
-  - title: "Sony ushers in new era for AI-powered cameras with world's first intelligent vision sensor"
-    excerpt: "Artificially intelligent cameras will be able to track people and objects with high precision in real-time recorded footage courtesy of the world's first intelligent vision sensor, Sony has claimed. Vision sensors are sophisticated systems generally used by a smart camera to monitor changes in its field of vision,"
-    publishedDateTime: 2020-05-14T07:08:00Z
-    webUrl: "https://inews.co.uk/news/sony-latest-ai-powered-cameras-intelligent-vision-sensor-2852683"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 29
-    images:
-      - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/05/IMX500_501.jpg"
-        width: 2677
-        height: 2008
 
 secured: "Uz+Z6/kmZ3AAqhypOIM8GcNqDiES5GZjW/LTcln0q9PM9mdw7jevZoCRPwvbtOybqnE+LWlX2WVyfz2pIK0Fki/h+iSHgBoob1BMqzp1SUQX8OW5D+XsEKpKi8ZIraOQWoZseYi3pnZrfcR7uQ/+ywmL8fZtQTiVPq/m85GF0Sh9a9Ih9mBlxN02uyawwsnTlTpKXdG/yEP7t81bHXlf0//0G77ZGmYamLCxmiQOhMVmB92EVdBfe/aSv7n7Bg2dIhxSxokXE8yo7fHZ0EKw0pQDdxEH4uGPSedt9dn49GC/zCkZi1O65R1T8vSy8qLy;e6fTNPtsfI9zMESp4adxsQ=="
 ---

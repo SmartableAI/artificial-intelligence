@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Computer Vision = Better Service + Lower Costs"
-excerpt: "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership."
-publishedDateTime: 2020-05-07T14:51:00Z
-webUrl: "https://www.csoonline.com/resources/202638/computer-vision-better-service-lower-costs"
+excerpt: "So where humans weren’t the answer, they turned to a computer vision-based POS system developed by Flytech and its subsidiary Berry AI."
+publishedDateTime: 2020-05-07T15:13:00Z
+webUrl: "https://www.infoworld.com/resources/202638/computer-vision-better-service-lower-costs"
 type: article
 
 provider:
-  name: CSOonline
-  domain: csoonline.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     title: "Computer Vision = Better Service + Lower Costs"
 
-secured: "k+rZKpgtas/Ur9KKNAPnlst8H8lleKA/Umq3lMCtzyFeu2+s4Cxj1wKVqwvR425ecqgk0RrSb/VlNymyl6rM9n8fVziykMNqyHc8jQLGblgpKVIQkg62V8mooLcU9XdWRYnHyLrFwuya/J2coINNW1YJDm/b3j37/2PnP9pK7Jh65LTuJj33ntMchS/RORjKOVj29RqnGcDGvmNKg27+VFSTLsCp/tZBpHYF6HoHyLdvhSNKzzsiNaUEJWRZF4lCvqX7YK09Ql/CQnN938XO8g0WfyQOp5OImpe6YNR1mKRHiTIHfzvzKB+wGvpEtTHp;9Sp0eUihCPBNn3zyGKwmFA=="
+secured: "6XMr49lp8rQQu2GuaSKzdBxrkKo0TEUxh3WI0YtKzcipMGzV2+oRXyNxCiw+lnFe9Q1nzDHmrK4+jt752OcS4XB3DWnHor+gqCmo0mAog86b8nQzDsa7d0PdE4h5Bhws6CpSq3ZBVQZNUC6g6uS0kkXdeSRu88VBNYLatHUy8kQZRm0vmCRXL43mfsL2jYpuMD5KK98iLYTN4kGsLa29yrnS6Skm/yqn2kBbQOgUCFjkzRHZe2IXfXi6/XeWYT3mT2BPZHXDhT+Hk3Z1BrCj/1RzGK8kkoQf6ZRfcorcUB4W1dNzaMCABPJximtbl3OA;p/K+5ws7dPXay/+s6NL4nQ=="
 ---
 

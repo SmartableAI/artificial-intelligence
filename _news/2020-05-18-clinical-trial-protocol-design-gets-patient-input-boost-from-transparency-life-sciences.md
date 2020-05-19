@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Clinical Trial Protocol Design Gets Patient Input Boost from Transparency Life Sciences"
 
-secured: "2vGbDuSy7btPC25xZcgPp4PCSJJ/Xl74uRfQ6uoLekZUwfIUQsgqTflLHMOonAxYk/cdzDKfPAMLwZW7ODSU4Yn/URP28n62vuRtpTRR+VlshQ/wT8Ye49FmW/5NJp0gyRnbffD+bPMpZ9yFVaF+zt4Ape+9y2FTfeB1/eOxqv8he8cQ3aNmzrL14n8c8xG+PwDX8qRpS4ZjlkDjA/QSkOBCAtxF8QL5VMAjPDivj5MJ7ufB6ut1y6pVYXQj8/z4vyDMCzSm6bN7b7BvfT13dRDeegb4g8lO+z2hkklpahJ4HWMcsSh+SrUkgJp/Ts6p;G12mTf4C6mHRfiCKXmNqdQ=="
+secured: "O6NBd8q02nS7zi+z1+J9KARWeYYwIhqNy1+1BmuwsK3uHFrL7CMn4GU/7O61UtmgIGh13wuYFvZJqYSlPVEC2fvhvl8pfVmVTlvuC5zBZaVjd2qzB50Qe3qmordFh+2uhbZ9+QJ9GTksul+XIFQ8f7fvkfRpc4W8z5LSJfokxJoTs6fjbMVOd1QEdPv2HXjXXbii0R7dRylCMLW8bj9Tlm7fvdV9o5XBUk+WMkHEEZ005nqjcFoNC+suY2FJbGCKS0DBdaqHcuDz+BeHjXGcny6gDoZrKnRDvm4eIN1xTwHOAXpMlBxZwti6VqZZ9PXN+SQP8FCpI1afJnhCrijcjX+ev0LAzwpuQ0qXYb22Vnjml+vBo6+R/TyRHTuJJP7vATVJ2plfocuZNaA17/loUxQTj5HsS/J3b93+ep6+6wgswLxK/NzFfTVO/+IN4tX7zftOFUyYfxXKM5Q5+NGFB1JfXcDDvV9BWALbtMPEjx0=;TAbc+jUvXMh7YzRBNclLUQ=="
 ---
 

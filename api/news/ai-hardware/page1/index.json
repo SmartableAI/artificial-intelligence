@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-and-sony-to-create-smart-camera-solutions-for-ai-enabled-image-sensor.md",
+      "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
+      "excerpt": "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced.",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
+      "publishedDateTime": "2020-05-18T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg",
+          "width": 360,
+          "height": 300,
+          "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-sony-to-use-microsofts-azure-ai-technology-in-new-smart-camera-sensors.md",
       "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
       "excerpt": "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also",
@@ -840,7 +885,7 @@
       "path": "_news/2020-05-14-sony-wants-to-make-cameras-smarter-with-an-onboard-ai-chip.md",
       "title": "Sony wants to make cameras smarter with an onboard AI chip",
       "excerpt": "Sony has announced two new 12.3-megapixel image sensors that come equipped with dedicated AI chips for applying machine learning to camera data locally.",
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.digitaltrends.com/photography/sony-smart-sensor-ai/",
@@ -1187,7 +1232,7 @@
       "path": "_news/2020-05-14-sonys-first-ai-image-sensor-will-make-cameras-everywhere-smarter.md",
       "title": "Sony’s first AI image sensor will make cameras everywhere smarter",
       "excerpt": "Sony’s new image sensor could one day appear in cameras like this one. Photo by Amelia Holowaty Krales / The Verge Sony has announced the world’s first image sensor with integrated AI smarts. The new IMX500 sensor incorporates both processing power and memory,",
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price",
@@ -1271,55 +1316,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai.md",
-      "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
-      "excerpt": "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai-2020-05-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI in Robotics"
       ]
     }
   ],

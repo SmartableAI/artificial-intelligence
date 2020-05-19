@@ -41,21 +41,6 @@ related:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/nvidia-dgx-a100-03-500x500.jpg"
         width: 500
         height: 313
-  - title: "Sony's new image sensors will make cameras smarter with onboard AI"
-    excerpt: "Sony's latest image sensors have AI processing onboard, so they'll be able to recognize objects and handle some light machine learning tasks."
-    publishedDateTime: 2020-05-14T07:06:00Z
-    webUrl: "https://www.engadget.com/sony-image-sensor-ai-smart-cameras-070036055.html"
-    ampWebUrl: "https://www.engadget.com/amp/sony-image-sensor-ai-smart-cameras-070036055.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-image-sensor-ai-smart-cameras-070036055.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F134621e0-955a-11ea-a7d6-e6aa8c715868&client=amp-blogside-v2&signature=5da282c637662c7311e1cb0cf2400e729e9130c4"
-        width: 600
-        height: 350
 
 secured: "LlKjWic4a4Yz69cPuSiFzhFny7tJAR8JejvArfrcNrAdtXSa/ztvNJupZ8EOqvEFbktMC0WOI2kd0D7UvB1ohRZP0vf3oMnhYbsqHKUyT2ls4/aIll4XrrglE0s5052+FQwhPFUgInaC93eggrRitCffEBhEP42ffEaRX8b3d5bdEcGKzGnUbFEZ8gT7ittNYyW3r2nnXNuhHiFRxgBLPtI2NQjGRKuMQnmxlh1M/9hTulhNsHo6qppoThwOX6Yt4TUqfrNUqiuYuOzRqjm0Y0CCHTM+Blpq6/ySCe05LbvRsW/ig/1M/Wu+nsnZBu89DdLcojgsTNTD9k1ilrWlFcGZue2c7t+57keyNCsEJkkSTLSqOP7MkF0T20fHy2u6FFso88LBXweI3Wq9Oi1eAXmKbKh3IHVj9F9OF7gBmc8YKwVftNcVWlIDZhpnUrdAtW87azXj5/jM4a+nef4767g6l/yr19+QGgN/IidbCMU=;EVSuNUCtkNXx5Uedx1rCyw=="
 ---

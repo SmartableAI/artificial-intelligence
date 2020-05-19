@@ -353,52 +353,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-14-deep-learning-market-2019-challenges-drivers-outlook-growth-opportunities-analysis-to-2025.md",
-      "title": "Deep Learning Market 2019 - Challenges, Drivers, Outlook, Growth Opportunities - Analysis to 2025",
-      "excerpt": "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The scope of the report includes a detailed study of Deep Learning Marketwith the reasons given for variations in the growth of the industry in certain regions.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2019---challenges-drivers-outlook-growth-opportunities---analysis-to-2025-2020-05-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market 2019 - Challenges, Drivers, Outlook, Growth Opportunities - Analysis to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2020-05-14-apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.md",
       "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
       "excerpt": "The next major release of the in-memory data processing framework will support GPU-accelerated functions courtesy of Nvidia RAPIDS",
@@ -1169,31 +1123,23 @@
     {
       "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
       "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-      "excerpt": "Recently, the results of the AutoDL (Auto Deep Learning) 2019-2020 finals held by NeurIPS, a top AI academic conference, was announced and Inspur's te",
+      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200507005360/en/Inspur-Takes-3rd-Place-NeurIPS-AutoDL-2019-2020",
+      "webUrl": "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T08:13:00-07:00",
+      "publishedDateTime": "2020-05-07T07:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Odessa American",
+        "domain": "oaoa.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200507005360/en/790124/23/inspur_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1293,6 +1239,43 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-predicting-failing-tests-with-machine-learning.md",
+      "title": "Predicting Failing Tests with Machine Learning",
+      "excerpt": "Machine learning can be used to predict how tests behave on changes in the code. These predictions reduce the feedback time to developers by providing information at check-in time. Marco Achtziger & Dr.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/05/predicting-failing-tests/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/05/predicting-failing-tests/en/headerimage/Predicting+Failing+Tests-1588741558619.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Predicting Failing Tests with Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

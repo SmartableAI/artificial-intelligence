@@ -2,6 +2,170 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-11-sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases.md",
+      "title": "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases",
+      "excerpt": "Agreement leverages Sarepta’s leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno’s CapsidMap artificial",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases-1029186702",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-novartis-sarepta-partner-with-new-george-church-gene-therapy-startup.md",
+      "title": "Novartis, Sarepta partner with new George Church gene therapy startup",
+      "excerpt": "Dyno Therapeutics launched Monday with plans to use artificial intelligence to expand the use of gene therapy. The company was co-founded by George Church, the noted Harvard University geneticist, and others.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.html",
+      "ampWebUrl": "https://www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.amp.html",
+      "publishedDateTime": "2020-05-11T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11660263/dyno-ceo-eric-kelsic*600xx2201-1467-0-367.jpg",
+          "width": 600,
+          "height": 399,
+          "title": "Novartis, Sarepta partner with new George Church gene therapy startup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired.md",
+      "title": "The Station: Uber has a taste for Lime, Tesla drama, Moovit gets acquired",
+      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hi and welcome back to The Station, I’m your host Kirsten Korosec,",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/11/the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/11/the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired/amp/",
+      "publishedDateTime": "2020-05-11T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1159465876.jpg?w=1024",
+          "width": 1024,
+          "height": 686,
+          "title": "The Station: Uber has a taste for Lime, Tesla drama, Moovit gets acquired",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-how-ai-can-help-educators-leap-ahead.md",
+      "title": "How AI can help educators leap ahead?",
+      "excerpt": "Artificial intelligence (AI) can help with the challenges teachers are facing while trying to teach remotely – as well as when they get back into the classroom. As the world locks down and schools close,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/how-ai-can-help-educators-leap-ahead",
+      "ampWebUrl": "https://www.techradar.com/amp/news/how-ai-can-help-educators-leap-ahead",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/how-ai-can-help-educators-leap-ahead",
+      "publishedDateTime": "2020-05-11T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "How AI can help educators leap ahead?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-ai-and-machine-learning-help-google-read-along-teach-kids-reading-skills.md",
       "title": "AI and machine learning help Google Read Along teach kids reading skills",
       "excerpt": "The tech giant recent launched the new app to help support kids as they improve their reading. The Google Read Along application was recently added to app stor",
@@ -882,14 +1046,14 @@
     {
       "path": "_news/2020-05-09-weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal.md",
       "title": "WeRide Trade Secrets Feud With Rival, Ex-Execs Ends In Deal",
-      "excerpt": "Both companies are developing autonomous, or self-driving, cars for the Chinese market ... the Chinese internet company Baidu, sued him, alleging that he failed to return a laptop belonging ...",
+      "excerpt": "Both companies are developing autonomous, or self-driving, cars for the Chinese market ... According to WeRide, Wang was pushed out as CEO in January 2018 after his former employer, the Chinese internet company Baidu, sued him, alleging that he failed to return a laptop belonging to Baidu, stole Baidu's trade secrets and poached Baidu's ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.law360.com/articles/1272042/weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal",
+      "webUrl": "https://www.law360.com/ip/articles/1272042",
       "ampWebUrl": "https://www.law360.com/amp/articles/1272042",
       "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272042",
-      "publishedDateTime": "2020-05-08T19:31:00-07:00",
+      "publishedDateTime": "2020-05-08T19:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Law360",
@@ -905,138 +1069,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-benefits-of-ai-and-machine-learning-in-customer-service.md",
-      "title": "Benefits of AI and Machine Learning in Customer Service?",
-      "excerpt": "The solutions that AI ML provides can be beneficial in our everyday’s life.  We can observe a constant growth in the usage of AI ML development services. From Google to Facebook to Netflix are using AI & ML in some or the other way to meet users’ expectations.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service",
-      "ampWebUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
-      "publishedDateTime": "2020-05-08T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/1/1222fa20749611ea95fc4127234534d6/Benefits-of-AI-ML-in-Customer-Service-1588928096946.png?fm=png&auto=format",
-          "width": 800,
-          "height": 600,
-          "title": "Benefits of AI and Machine Learning in Customer Service?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-paris-tests-face-mask-recognition-software-on-metro-riders.md",
-      "title": "Paris Tests Face-Mask Recognition Software on Metro Riders",
-      "excerpt": "The Paris metro authority is testing CCTV software to detect whether travelers are wearing face masks. It’s part of the city’s efforts to end lockdown and help prevent the spread of Covid-19, but it’s raised concerns from the government’s privacy watchdog.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bnnbloomberg.ca/paris-tests-face-mask-recognition-software-on-metro-riders-1.1432720",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T17:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-3-companies-that-highlight-the-power-of-crowdfunding-for-vr.md",
-      "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
-      "excerpt": "Facebook allegedly has plans to use artificial intelligence to monitor its ad program and prevent fake news. Driverless cars are already underway, powered by AI. It will even start taking over the more dangerous jobs, where a shortage of workers is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.smartdatacollective.com/3-companies-that-highlight-the-power-of-crowdfunding-for-vr/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2018/07/virtual-reality.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-can-ai-make-work-safe-again.md",
-      "title": "Can AI Make Work Safe Again?",
-      "excerpt": "Although this is no doubt disappointing, it is also evident that data and AI have been quite helpful to certain countries (with the most salient or widely-discussed cases being Israel, Singapore, and of course China) vis-à-vis their ability to track the patterns of virus spread across and within regions,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
-      "publishedDateTime": "2020-05-08T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

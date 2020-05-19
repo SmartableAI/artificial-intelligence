@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Fueling driverless navigation with AI"
-excerpt: "Generally, Artificial Intelligence (AI) helps to make products and procedures more efficient, but it also handles intricate tasks that can’t be easily managed by humans. When navigation comes ..."
-publishedDateTime: 2020-05-01T10:23:00Z
-webUrl: "https://www.techradar.com/nz/news/fueling-driverless-navigation-with-ai"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/fueling-driverless-navigation-with-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/fueling-driverless-navigation-with-ai"
+excerpt: "When navigation comes into play, AI can help to give drivers the very best directions, despite the complexity of the route. Powerful, accurate maps can be created by deep learning models, able to process masses of images no human cartographer could ever manage."
+publishedDateTime: 2020-05-01T10:21:00Z
+webUrl: "https://www.techradar.com/news/fueling-driverless-navigation-with-ai"
+ampWebUrl: "https://www.techradar.com/amp/news/fueling-driverless-navigation-with-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/fueling-driverless-navigation-with-ai"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 545
     title: "Fueling driverless navigation with AI"
 
-secured: "zxvgTAjrr8lSxj+uPNb5HviyqpfHkeOt17vANChcRKCyawPAIjlCaWcEpcSE1XLn7i8rpkqp6RORC0xAYkaMLG/RmE2VGHemyWIcUU3rcVsrypzZs/pNQejQJHX42uE8TjCtHlPGGI34tyzqRgeCg6yzLLhsjkCOBpzH7woVQkpyF+6ApQcDBKWRW4Z3t8vXapRn/dANgwraHZBXUmJGnRLZTTVUDxkLMloAKREdjEZulxLX2Ggr7j2eidtxeIRq7UJ+6NAgeVnpIna33yVScYPReEvctVmDk4XcJ54OXitbW809b1GtyT4Bq3DT9KcX;mXRRi8tuyVG1W6B6GcZVcw=="
+secured: "CdgvIzvnvUx5jEGyHOxdZvXNpjFP6EPh4uVK/oQWt0nqCc8X15dLSh4kKBXv65l498QtTdf/o1Nb8ZPDZHwbP4YdCAk1gfcXLksaVGBc4+LQT5QbJZem5hKfGKm7QFo0tGZMFmlbWIWtgSpedv8gVTQlsus1BTruSYpU1xjoKIBOWdidIxdUieFkOqQuqNHCzV5Dujd0jbylWoP/0aXN9DHCHs3tdLVNNAsGxooRSa/eh4ZMjRpyUz29ePcdB/IWN5wcWm7iq8HDCQmM/Dkwdj8KfBg7Mv5eKD9RyFKxrKmueTlw0aoXiFK4IfBJMSIR;WGiNA2IyJJOqUy3CFFIB/w=="
 ---
 

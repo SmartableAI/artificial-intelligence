@@ -2,8 +2,8 @@
 category: news
 title: "Your Organization Needs a Proprietary Data Strategy"
 excerpt: "The need for proprietary data strategies is increasing with new data types and the growth of artificial intelligence (AI ... Alphabet’s Waymo and GM’s Cruise Automation, for example, are ..."
-publishedDateTime: 2020-05-04T21:18:00Z
-webUrl: "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy?date=050420&sm=twitter"
+publishedDateTime: 2020-05-04T13:10:00Z
+webUrl: "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 675
     title: "Your Organization Needs a Proprietary Data Strategy"
 
-secured: "YajYLdfHLhU5eSKIMNZI6bDSQs5wA4/v1B+EFGi+6Eyu1XKGRWtxkn1yhb1rKk9pWwAokF80jpi4Ip8AH/0sKd2pTgM4nxo9wUKL6dG9nrOnbYMyoVbFmEIC8fofXpTSwCT9Cz0L1hhdI0N1yrk9t3vzkXrU65E7GZiBvyaycRUXTEDTNm7S7rEr6vD+IjQFQPQs+IrFMs5BckvF0Pm0QR6aQiGTQloLiEkJnHFkHj5e2wpfZk8MGqhAfpJpAn9jD2zzbf9cmggtSKeT6zHxMZLQP9nplVgEmIHCcgY5YAeO+c9IV1Iiy5z4Cvup08+o;e/DY0BUGUCI4B1vytJ7vow=="
+secured: "yslBNhrdkP8nHnTakp75e+mApplaznRmtJtFE+x2x7kQdw12EU9DZZt/s5TZjXnQD7VC1k3sVoy0YZxtCIAKRqaDcJ4WRPE5l+BcdrfjUq0oomVgQlvjQ5pyzVfAMzvKJbR3OapmyaQUj78GTK/ZzQrsv0xYJlCNXff+cEPLWtGGk388xe6B9lcP2niX7yp0DR3qqv+w7PPy5Wvm1kSR9jrpl+UaQflf94+fhkVUdTyr5NMlFSqceOVO3nhE4cOQmuRj3w5naPJtR/Mlh5xuu1rOXpcjEjbogtnd5LyET9TeTh5rP/T/q5NbzGuGs1zq;ALQtIkUskDlm7m3h+NxUYg=="
 ---
 

@@ -2,6 +2,251 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-15-ltn-global-enters-aws-advanced-technology-partner.md",
+      "title": "LTN Global enters AWS advanced technology partner",
+      "excerpt": "LTN Global has become the latest video industry firm to seek out the IT platform giants to provide offerings and will use AWS across its modular suite.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.html",
+      "ampWebUrl": "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html",
+      "publishedDateTime": "2020-05-15T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rapidtvnews.com/images/2020/May_2020/Elemental_12_Jan.jpg",
+          "width": 400,
+          "height": 234,
+          "title": "LTN Global enters AWS advanced technology partner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-global-neuromorphic-chip-market-size-share-and-forecast-by-2025-industry-research-report.md",
+      "title": "Global Neuromorphic Chip Market Size, Share and Forecast by 2025- Industry Research Report",
+      "excerpt": "The Neuromorphic Chip Market was valued at USD 111.04 million in 2019 and is expected to reach USD 366.14 million by 2025, at a CAGR of 22% over the forecast period 2020 - 2025. Keeping the pace of advancement of disruptive technologies such as Artificial Intelligence (AI) and Machine Learning (ML),",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-neuromorphic-chip-market-size-share-and-forecast-by-2025--industry-research-report-2020-05-15",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Neuromorphic Chip Market Size, Share and Forecast by 2025- Industry Research Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-research-investigates-covid-19-virus-origin-using-artificial-intelligence-ai.md",
+      "title": "Research investigates COVID-19 virus origin using artificial intelligence (AI)",
+      "excerpt": "The coronavirus responsible for the COVID-19 pandemic has spread across the globe with unprecedented speed and lethality, killing hundreds of thousands of people and forcing countries’ entire populations to self-quarantine.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200515/Research-investigates-COVID-19-virus-origin-using-artificial-intelligence-(AI).aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200515/Research-investigates-COVID-19-virus-origin-using-artificial-intelligence-(AI).aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200515/Research-investigates-COVID-19-virus-origin-using-artificial-intelligence-(AI).aspx",
+      "publishedDateTime": "2020-05-14T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f5%2fshutterstock_319402004_322a2166c7c14b88a86715eef483ba6d-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Research investigates COVID-19 virus origin using artificial intelligence (AI)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-gm-self-driving-unit-cruise-cuts-jobs-as-pandemic-hits-sector.md",
+      "title": "GM self-driving unit Cruise cuts jobs as pandemic hits sector",
+      "excerpt": "General Motors Co's self-driving car unit Cruise told staff on Thursday it has decided to lay off workers, the latest start-up in the nascent industry to cut jobs during the coronavirus pandemic.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-gm-autonomous-layoffs/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-idUSKBN22Q34W",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22Q34W",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22Q34W",
+      "publishedDateTime": "2020-05-14T18:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200514&t=2&i=1518677074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4D23U",
+          "width": 830,
+          "height": 545,
+          "title": "GM self-driving unit Cruise cuts jobs as pandemic hits sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-robot-dog-enforces-social-distancing-in-singapore.md",
+      "title": "Robot dog enforces social distancing in Singapore",
+      "excerpt": "Spot’s two-week pilot in a park is seen as a test of how machines and artificial intelligence could help reduce human contact in public spaces",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.detroitnews.com/story/news/world/2020/05/14/robot-dog-social-distancing/111715036/",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/111715036",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111715036",
+      "publishedDateTime": "2020-05-14T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/15/PDTN/785adfc9-75b1-4a4d-ab53-663fbf963888-WORLD-NEWS-CORONAVIRUS-SINGAPORE-ROBOT-DOG-GET.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Robot dog enforces social distancing in Singapore",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-how-amazons-alexa-voice-assistant-is-changing-its-tone-during-the-pandemic.md",
+      "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
+      "excerpt": "The ins and outs of the coronavirus outbreak are changing Alexa’s work habits, said Manoj Sindhwani, Amazon’s vice president of Alexa speech.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/amp/",
+      "publishedDateTime": "2020-05-14T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/200514-manoj-630x428.jpg",
+          "width": 630,
+          "height": 428,
+          "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidias-first-ampere-gpu-is-a-silicon-monster-for-ai-and-servers.md",
       "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
       "excerpt": "Ampere hype had been at the highest levels as of late, with many getting excited about Nvidia's next-gen GPU architecture and the improvements it may bring. But when CEO Jensen Huang was shown in a video pulling a very",
@@ -804,51 +1049,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-14-the-ai-eye-episode-349-intel-capital-invests-in-ai-startups-and-nvidia-unveils-dgx-a100-ai-system.md",
-      "title": "The AI Eye Episode 349: Intel Capital Invests in AI Startups and NVIDIA Unveils DGX A100 AI System",
-      "excerpt": "Intel Capital, the investment arm of Intel Corporation (NasdaqGS:INTC), announced new investments totaling $132 million in 11 technology startups, including companies involved in artificial intelligence and autonomous computing.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-349-intel-capital-invests-in-ai-startups-and-nvidia-unveils-dgx-a100-ai-system-2020-05-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye Episode 349: Intel Capital Invests in AI Startups and NVIDIA Unveils DGX A100 AI System",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-14-australia-wins-first-ai-eurovision-song-contest-by-sampling-koalas-and-kookaburras.md",
       "title": "Australia wins first AI Eurovision Song Contest by sampling koalas and kookaburras",
       "excerpt": "A team of programmers and songwriters from Australia have won the inaugural (and unofficial) AI Eurovision Song Contest, using a neural network trained on noises made by koalas, kookaburras, and Tasmanian devils to help score their winning entry.",
@@ -1103,231 +1303,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-adobe-announces-ai-toolbox-for-experience-platform.md",
-      "title": "Adobe announces AI toolbox for Experience Platform",
-      "excerpt": "Most companies don’t have the personnel to do AI well, so they turn to platform vendors like Adobe for help. Like other platforms, it has been building AI into its product set for several years now, but wanted to give marketers a set of tools that take advantage of some advanced AI",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/amp/",
-      "publishedDateTime": "2020-05-14T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Adobe-Customer-AI.jpg?w=680",
-          "width": 680,
-          "height": 586,
-          "title": "Adobe announces AI toolbox for Experience Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-deep-learning-market-2019-challenges-drivers-outlook-growth-opportunities-analysis-to-2025.md",
-      "title": "Deep Learning Market 2019 - Challenges, Drivers, Outlook, Growth Opportunities - Analysis to 2025",
-      "excerpt": "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The scope of the report includes a detailed study of Deep Learning Marketwith the reasons given for variations in the growth of the industry in certain regions.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2019---challenges-drivers-outlook-growth-opportunities---analysis-to-2025-2020-05-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market 2019 - Challenges, Drivers, Outlook, Growth Opportunities - Analysis to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks.md",
-      "title": "Uber introduces AI to make sure its drivers wear face masks",
-      "excerpt": "Uber is making face masks mandatory in the US, Canada, India, and most of Europe and Latin America -- and will use AI to ensure drivers follow the rules",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
-      "publishedDateTime": "2020-05-14T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-35-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Uber introduces AI to make sure its drivers wear face masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip.md",
-      "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
-      "excerpt": "Sony’s camera sensors are already inside many of the high-end smartphones, but its new AI image sensor promises to make things even smarter – and high-end features cheaper, too. The",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/",
-      "ampWebUrl": "https://www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/amp/",
-      "publishedDateTime": "2020-05-14T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor.jpg",
-          "width": 2307,
-          "height": 1334,
-          "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
-      "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
-      "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report",
-      "ampWebUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
-      "publishedDateTime": "2020-05-14T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/iStock-914562482.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -410,51 +410,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-14-the-ai-eye-episode-349-intel-capital-invests-in-ai-startups-and-nvidia-unveils-dgx-a100-ai-system.md",
-      "title": "The AI Eye Episode 349: Intel Capital Invests in AI Startups and NVIDIA Unveils DGX A100 AI System",
-      "excerpt": "Intel Capital, the investment arm of Intel Corporation (NasdaqGS:INTC), announced new investments totaling $132 million in 11 technology startups, including companies involved in artificial intelligence and autonomous computing.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-349-intel-capital-invests-in-ai-startups-and-nvidia-unveils-dgx-a100-ai-system-2020-05-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye Episode 349: Intel Capital Invests in AI Startups and NVIDIA Unveils DGX A100 AI System",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-14-gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing.md",
       "title": "GPU Chips Are Poised To Rewrite (Again) What’s Possible In Cloud Computing",
       "excerpt": "Tech companies such as Nvidia and Oracle are making it easier for businesses to apply GPUs to more complicated realms of artificial intelligence.",
@@ -1300,6 +1255,51 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-the-easy-questions-that-stump-computers.md",
+      "title": "The Easy Questions That Stump Computers",
+      "excerpt": "Computers do. It’s no wonder that commonsense reasoning emerged as a primary concern of AI research in 1958 (in a paper titled “Programs With Common Sense”), not long after the field of AI was born. “In general,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theatlantic.com/technology/archive/2020/05/computers-common-sense/611050/",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/611050/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/611050/",
+      "publishedDateTime": "2020-05-03T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/94WQntFZUhVHjgmvql-xgr_Ub98=/570x321/media/img/mt/2020/05/Common_Sense_2880x1620_Lede/original.gif",
+          "width": 570,
+          "height": 321,
+          "title": "The Easy Questions That Stump Computers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

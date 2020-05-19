@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Building transparency and customer confidence in AI"
-excerpt: "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent."
+excerpt: "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold"
 publishedDateTime: 2020-05-07T08:51:00Z
-webUrl: "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai"
-ampWebUrl: "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai"
+webUrl: "https://www.techradar.com/in/news/building-transparency-and-customer-confidence-in-ai"
+ampWebUrl: "https://www.techradar.com/in/amp/news/building-transparency-and-customer-confidence-in-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/building-transparency-and-customer-confidence-in-ai"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 545
     title: "Building transparency and customer confidence in AI"
 
-secured: "sDxx3f5keAb4Yzde3ScvlViytoVKnhOOZB2sZ7SUehNWubCp0Uo01L8w/xh1ZpN2f1744hCoK4nE6aK69v++eZsUPju8ggDMFzdUpnVmp2qwDwJGSZDo7XadG9OyO5dhNnNU4v8vL77k4ljsZPzHDGjCn7tlEvOH+yQL1wGrmLXHNQ1WHHWK/R4bfVUxUA1ScuH8EBNOL+5+/rmy3J0vlLN9pwM8CLMx2dAnJIVu9QkRFmFP+yLV6dO0DZtfP/+g1IhELeOyT9wEHzeCnOuXuz+Wxyzl9sDTHUUe6xpoXSlmrHUu14lbyPZUQqsVflB5ztlAZof/IFFTIoDSmdThFVTxuYeO3H8NHRBEAWgfGUMoHIMV24KVe41its0cIp+Ea4UdG8SoJAz9aB3g3DideatdpyFjYqV+seCv2FnprxnNEX4ihdFCSi7ArAwxy9pUc35QANlFoiIpZuIV34ojMrI9UlDLb6fBnfcYOmzbpCM=;x5EA1o6XSR0Lg/c32dkz6w=="
+secured: "/lQNrEiYxl6e8giIdxNPFwN3ViWTWxc40uR04NxrzbEb+9L6IlwfwPK5CjNz2fhkjhLJOKI22Rk0Qf2jDXLR6MDAZGEV3NCHj2pucOgQekqE0cpdUJVyk/ISWqNGpFBtk4w/C96vXzRGtSDP68dH9HyPf7vDsUs4PPh4SzpkEpyAKTSZcOyAg7MaNYHJCXsQi9J6sobbe5gNOK8RRboS306/c40Yw/4a9EnNzr4ePROcOJ10v8zQbq+7eGo1V+5nZK4RVHQBOiTgKFbZP62zJvOBO4Jm8FjrlVn/yHPOFToYcR2cEK+HFTm5HwKuHR2R;5Tr5eoM6tElSyl4N3OvpBQ=="
 ---
 

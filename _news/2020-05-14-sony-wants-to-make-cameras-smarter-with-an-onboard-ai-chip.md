@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/photography/sony-smart-sensor-ai/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/photography/sony-smart-sensor-ai/?amp"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Sony wants to make cameras smarter with an onboard AI chip"
 
 related:
-  - title: "Sony's new image sensors will make cameras smarter with onboard AI"
-    excerpt: "Sony's latest image sensors have AI processing onboard, so they'll be able to recognize objects and handle some light machine learning tasks."
-    publishedDateTime: 2020-05-14T07:06:00Z
-    webUrl: "https://www.engadget.com/sony-image-sensor-ai-smart-cameras-070036055.html"
-    ampWebUrl: "https://www.engadget.com/amp/sony-image-sensor-ai-smart-cameras-070036055.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-image-sensor-ai-smart-cameras-070036055.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F134621e0-955a-11ea-a7d6-e6aa8c715868&client=amp-blogside-v2&signature=5da282c637662c7311e1cb0cf2400e729e9130c4"
-        width: 600
-        height: 350
   - title: "Microsoft and Sony partner to make smart cameras smarter with Azure AI"
     excerpt: "Microsoft and Sony announced a partnership today that will bring Azure AI smarts to Sony's intelligent vision sensor IMX500. The combination is intended to result in faster analysis for enterprise scenarios."
     publishedDateTime: 2020-05-18T20:16:00Z

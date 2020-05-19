@@ -31,19 +31,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Cognitive Services Market Estimates (Pre and Post) COVID-19 Impact and Recovery Analysis by 2020-2029"
-    excerpt: "Learn details of the Cognitive Services Market: Statistics, Facts And Figures, Growth Overview, Size, Major Players, Industry Outlook And Regional Analysis, Swot Analysis And Forecast To 2029. Extensive Study on Impact of the novel coronavirus (COVID-19) pandemic on the Cognitive Services market based on Current Analysis of Potential Growth Challenges and Future Developments till 2029."
-    publishedDateTime: 2020-05-14T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-services-market-estimates-pre-and-post-covid-19-impact-and-recovery-analysis-by-2020-2029-2020-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "N5jr7WmDv0/GSnRl8ZKXdh5SDFfMApJaxW1odre7AI9tEO3F+kNunDjKZ7GPV3j8VrzQdEZuZgKnehgrmPQn0Gb+jvMJbFSokjIsXREJnyFVtGtCUp1/CKSaC+/kNMK5ad85YXFHq+u+ut85x7m4BsQm0LPnBEVLuC7pfbNn3Tt71sXvVXwOqE/vIvZTEQ7Z7qEr2akcDC7LMReBi7Ag9QWvwppxD5E7ntYt/ferxqIgdSO0pfLBOHPXZlvEKlaAHXHoC7+i9a28FzvXq1YzUHogEme9oOn5ZQY/YZvzCP8v8YwKfiz9ZXBWilDvBnGiQ00snA7GnNjaMDMyCHLk5ZllRF8GPXbeJE1OR5SSOzK58RWNpv6psW4Qy6KQvEdYR9FyAyzXQxhrLmCCsrYy9KO91IFUm1O8jFLoT12tTNcry6FY/BH/jY0ATZduEyTd3RcVBLkI0X7GXf0vulSXFEgYiD2rivPbQuBWnusYXY0=;NaGQ70sQkQhErS+1thgLZw=="
 ---

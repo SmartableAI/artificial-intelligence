@@ -2,6 +2,80 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-07-artificial-intelligence-is-energy-hungry-new-hardware-could-curb-its-appetite.md",
+      "title": "Artificial intelligence is energy-hungry. New hardware could curb its appetite.",
+      "excerpt": "To just solve a puzzle or play a game, artificial intelligence can require software running on thousands of computers. That could be the energy that three nuclear plants produce in one hour. A team of engineers has created hardware that can learn skills using a type of AI that currently runs on software platforms.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.purdue.edu/newsroom/releases/2020/Q2/artificial-intelligence-is-energy-hungry.-new-hardware-could-curb-its-appetite..html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Purdue University",
+        "domain": "purdue.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.purdue.edu/uns/images/2020/hand-aiOG.jpg",
+          "width": 800,
+          "height": 400,
+          "title": "Artificial intelligence is energy-hungry. New hardware could curb its appetite.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-uae-combats-coronavirus-ministry-launches-self-driving-vehicle-to-distribute-ppe.md",
+      "title": "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE",
+      "excerpt": "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_173952755/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/",
+      "publishedDateTime": "2020-05-07T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-10-tech-stocks-to-buy-for-the-next-10-years.md",
       "title": "10 Tech Stocks to Buy for the Next 10 Years",
       "excerpt": "The past decade has seen some breakout stocks, especially in the tech industry. The smartphone era kicked off earlier, but it was over the past 10 years that many tech stocks became the ticket to growth that resulted in several consumer electronics behemoths.",
@@ -709,43 +783,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-04-your-organization-needs-a-proprietary-data-strategy.md",
-      "title": "Your Organization Needs a Proprietary Data Strategy",
-      "excerpt": "The need for proprietary data strategies is increasing with new data types and the growth of artificial intelligence (AI ... Alphabet’s Waymo and GM’s Cruise Automation, for example, are ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy?date=050420&sm=twitter",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/05/May20_04_1197992656.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Your Organization Needs a Proprietary Data Strategy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-04-lets-make-a-deal-with-our-robot-overlords.md",
       "title": "Let’s Make a Deal With Our Robot Overlords",
       "excerpt": "The pandemic will accelerate automation. This might be an opportunity for workers.",
@@ -985,6 +1022,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-04-your-organization-needs-a-proprietary-data-strategy.md",
+      "title": "Your Organization Needs a Proprietary Data Strategy",
+      "excerpt": "The need for proprietary data strategies is increasing with new data types and the growth of artificial intelligence (AI ... Alphabet’s Waymo and GM’s Cruise Automation, for example, are ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/05/May20_04_1197992656.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Your Organization Needs a Proprietary Data Strategy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms.md",
       "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
       "excerpt": "After Facebook invested over Rs 43,000 crore in Jio platforms last month, Reliance Industries Limited (RIL) on Monday announced that US private equity firm Silver Lake will invest Rs 5,655 crore (nearly $750 million) into Jio platforms.",
@@ -1128,96 +1202,6 @@
           "width": 1200,
           "height": 675,
           "title": "AI Might Trick Us By Pretending To Be Dimwitted, Including For Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-samsung-steps-up-its-driverless-car-challenge-to-google-uber-apple.md",
-      "title": "Samsung steps up its driverless car challenge to Google, Uber, Apple",
-      "excerpt": "Samsung will be providing the sensors and artificial intelligence technologies for Hyundai cars. Samsung has been granted permission to test its driverless cars on the road in South Korea ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/05/02/samsung-driverless-car-test-approval.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/05/02/samsung-driverless-car-test-approval.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/05/02/samsung-driverless-car-test-approval.html",
-      "publishedDateTime": "2020-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102311689-samsung_logo.jpg?v=1554422486",
-          "width": 3000,
-          "height": 1888,
-          "title": "Samsung steps up its driverless car challenge to Google, Uber, Apple",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
-      "title": "Fueling driverless navigation with AI",
-      "excerpt": "Generally, Artificial Intelligence (AI) helps to make products and procedures more efficient, but it also handles intricate tasks that can’t be easily managed by humans. When navigation comes ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/nz/news/fueling-driverless-navigation-with-ai",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/fueling-driverless-navigation-with-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/fueling-driverless-navigation-with-ai",
-      "publishedDateTime": "2020-05-01T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Fueling driverless navigation with AI",
           "attribution": null
         }
       ],

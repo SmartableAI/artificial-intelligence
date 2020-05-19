@@ -2,27 +2,169 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-05-07-computer-vision-better-service-lower-costs.md",
-      "title": "Computer Vision = Better Service + Lower Costs",
-      "excerpt": "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership.",
-      "heat": null,
+      "path": "_news/2020-05-07-zoom-xoom-zum-why-does-every-start-up-sound-fast-now.md",
+      "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
+      "excerpt": "One day this quarantine, who can say which, I encountered the following pieces of information: Zoom, the videoconferencing company, saw its stock hit a new high; Züm, a ride-sharing venture, cut its work force by a third;",
+      "heat": 94,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.csoonline.com/resources/202638/computer-vision-better-service-lower-costs",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T07:51:00-07:00",
+      "webUrl": "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html",
+      "publishedDateTime": "2020-05-07T08:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
+          "url": "https://static01.nyt.com/images/2020/05/07/business/07Zoom-illo/07Zoom-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-leading-businesses-reveal-the-power-of-combining-human-ingenuity-with-ai.md",
+      "title": "Leading businesses reveal the power of combining human ingenuity with AI",
+      "excerpt": "The post Leading businesses reveal the power of combining human ingenuity with AI appeared first on The AI Blog.\n",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/transform/leading-businesses-reveal-the-power-of-combining-human-ingenuity-with-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T08:45:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/05/AI-Skills_Hero2-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Leading businesses reveal the power of combining human ingenuity with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-googles-read-along-taps-ai-to-improve-kids-reading-skills.md",
+      "title": "Google’s Read Along taps AI to improve kids’ reading skills",
+      "excerpt": "Google today launched Read Along, an app that uses speech recognition and natural language processing to provide kids feedback on their reading skills.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/amp/",
+      "publishedDateTime": "2020-05-07T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s Read Along taps AI to improve kids’ reading skills",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-computer-vision-better-service-lower-costs.md",
+      "title": "Computer Vision = Better Service + Lower Costs",
+      "excerpt": "So where humans weren’t the answer, they turned to a computer vision-based POS system developed by Flytech and its subsidiary Berry AI.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/resources/202638/computer-vision-better-service-lower-costs",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
           "width": 300,
           "height": 300,
           "title": "Computer Vision = Better Service + Lower Costs",
@@ -35,6 +177,35 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
+      "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
+      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -505,13 +676,13 @@
     {
       "path": "_news/2020-05-07-building-transparency-and-customer-confidence-in-ai.md",
       "title": "Building transparency and customer confidence in AI",
-      "excerpt": "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent.",
+      "excerpt": "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai",
-      "ampWebUrl": "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
+      "webUrl": "https://www.techradar.com/in/news/building-transparency-and-customer-confidence-in-ai",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/building-transparency-and-customer-confidence-in-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/building-transparency-and-customer-confidence-in-ai",
       "publishedDateTime": "2020-05-07T01:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1057,171 +1228,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization.md",
-      "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
-      "excerpt": "There is so much hype about AI and its ubiquity, fueled by stories about auto-piloted vehicles, creepy facial recognition, and human-free company operations that it's important to sometimes be reminded of AI's core capabilities.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
-      "publishedDateTime": "2020-05-06T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/05/9ba1b354-e835-450f-b505-7ce9a9ac3914/resize/1200x/48a87a86718ea97bb615d302505f9881/istock-1178132567.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-runai-creates-first-fractional-gpu-sharing-for-kubernetes-deep-learning-workloads.md",
-      "title": "Run:AI Creates First Fractional GPU Sharing for Kubernetes Deep Learning Workloads",
-      "excerpt": "AI, a company virtualizing AI infrastructure, today released the first fractional GPU sharing system for deep learning workloads",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/il/news-releases/runai-creates-first-fractional-gpu-sharing-for-kubernetes-deep-learning-workloads-301053864.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Run:AI Creates First Fractional GPU Sharing for Kubernetes Deep Learning Workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr.md",
-      "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
-      "excerpt": "The Global Artificial Intelligence (AI) in Healthcare market is estimated to grow at a CAGR of 48.0% during the forecast period 2017-2023. As per the detailed market study, the global market was valued $1,",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr-2020-05-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them.md",
-      "title": "Navy Wants Robot Boats But Will Still Need Sailors To Fix Them",
-      "excerpt": "\"We need to find a balance of vehicle designs that enables the cost to be cheap enough that we can afford them, but it's not so highly optimized towards the purely unmanned spectrum that it's cost prohibitive to maintain them.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/",
-      "ampWebUrl": "https://breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/amp/",
-      "publishedDateTime": "2020-05-06T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/05/Sea-Hunter-1024x768.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": "Navy Wants Robot Boats But Will Still Need Sailors To Fix Them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

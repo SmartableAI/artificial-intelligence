@@ -2,6 +2,160 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-08-exer-launches-ai-based-fitness-coach-on-your-mobile-phone.md",
+      "title": "Exer launches AI-based fitness coach on your mobile phone",
+      "excerpt": "Just in time for the home exercise craze, Exer has launched its AI-based fitness coach that shows you how to do exercises properly at home.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/08/exer-launches-ai-based-fitness-coach-on-your-mobile-phone/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/08/exer-launches-ai-based-fitness-coach-on-your-mobile-phone/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/exer-launches-ai-based-fitness-coach-on-your-mobile-phone/amp/",
+      "publishedDateTime": "2020-05-08T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/exer-ai-3.jpg?fit=1200%2C647&strip=all",
+          "width": 1200,
+          "height": 647,
+          "title": "Exer launches AI-based fitness coach on your mobile phone",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-how-facial-recognition-will-change-retail.md",
+      "title": "How Facial Recognition Will Change Retail",
+      "excerpt": "Through the use of facial recognition technology, retail stores may be able to proactively help limit unsatisfactory customer service experiences.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/08/how-facial-recognition-will-change-retail/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/08/how-facial-recognition-will-change-retail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/05/08/how-facial-recognition-will-change-retail/amp/",
+      "publishedDateTime": "2020-05-08T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-how-ai-can-help-manage-mental-health-in-times-of-crisis.md",
+      "title": "How AI Can Help Manage Mental Health In Times Of Crisis",
+      "excerpt": "These tools will not replace the couch, tissue box and innate professionalism of the therapist's office, but they may very well keep us healthier in times when we can't make it to that office.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/08/how-ai-can-help-manage-mental-health-in-times-of-crisis/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/08/how-ai-can-help-manage-mental-health-in-times-of-crisis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/08/how-ai-can-help-manage-mental-health-in-times-of-crisis/amp/",
+      "publishedDateTime": "2020-05-08T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-68.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Can Help Manage Mental Health In Times Of Crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-shield-ai-recognized-as-one-of-worlds-most-innovative-companies.md",
+      "title": "Shield AI Recognized As One of World's Most Innovative Companies",
+      "excerpt": "Fast Company praises tech startup for developing pioneering AI technology for use in conflict zones SAN DIEGO (PRWEB) Shield AI, the technology company focused",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/p15986951/shield-ai-recognized-as-one-of-worlds-most-innovative-companies",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15986951",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15986951",
+      "publishedDateTime": "2020-05-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-zillow-bets-new-normal-for-real-estate-is-virtual-tours-digital-processes-machine-learning.md",
       "title": "Zillow bets new normal for real estate is virtual tours, digital processes, machine learning",
       "excerpt": "Zillow said its real estate 2.0 vision has been accelerated dramatically by the COVID-19 pandemic and remote work.",
@@ -1093,177 +1247,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-zoom-xoom-zum-why-does-every-start-up-sound-fast-now.md",
-      "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
-      "excerpt": "One day this quarantine, who can say which, I encountered the following pieces of information: Zoom, the videoconferencing company, saw its stock hit a new high; Züm, a ride-sharing venture, cut its work force by a third;",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html",
-      "publishedDateTime": "2020-05-07T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/07/business/07Zoom-illo/07Zoom-illo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-leading-businesses-reveal-the-power-of-combining-human-ingenuity-with-ai.md",
-      "title": "Leading businesses reveal the power of combining human ingenuity with AI",
-      "excerpt": "The post Leading businesses reveal the power of combining human ingenuity with AI appeared first on The AI Blog.\n",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/transform/leading-businesses-reveal-the-power-of-combining-human-ingenuity-with-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T08:45:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/05/AI-Skills_Hero2-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "Leading businesses reveal the power of combining human ingenuity with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-googles-read-along-taps-ai-to-improve-kids-reading-skills.md",
-      "title": "Google’s Read Along taps AI to improve kids’ reading skills",
-      "excerpt": "Google today launched Read Along, an app that uses speech recognition and natural language processing to provide kids feedback on their reading skills.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/amp/",
-      "publishedDateTime": "2020-05-07T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s Read Along taps AI to improve kids’ reading skills",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
-      "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-      "excerpt": "Recently, the results of the AutoDL (Auto Deep Learning) 2019-2020 finals held by NeurIPS, a top AI academic conference, was announced and Inspur's te",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200507005360/en/Inspur-Takes-3rd-Place-NeurIPS-AutoDL-2019-2020",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200507005360/en/790124/23/inspur_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

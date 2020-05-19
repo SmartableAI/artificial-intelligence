@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-14T16:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-episode-349-intel-capital-invests-in-ai-startups-and-nvidia-unveils-dgx-a100-ai-system-2020-05-14"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: MarketWatch
@@ -28,19 +28,6 @@ images:
     title: "The AI Eye Episode 349: Intel Capital Invests in AI Startups and NVIDIA Unveils DGX A100 AI System"
 
 related:
-  - title: "Intel Goes Heavy On Disruption, Invests $132 M In 11 AI Startups"
-    excerpt: "Intel Capital invested $466 million to bring resources and expertise to accelerate and realise potentially world-changing technologies."
-    publishedDateTime: 2020-05-14T08:35:00Z
-    webUrl: "https://analyticsindiamag.com/intel-capital-investment-startups-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/05/intel-ceo-1.png"
-        width: 690
-        height: 449
   - title: "The AI Eye Episode 349: Intel Capital (NasdaqGS: $INTC) Invests in AI Startups and NVIDIA (NasdaqGS: $NVDA) Unveils DGX A100 AI System"
     excerpt: "The AI Eye - Watching stock news, deal tracker and advancements in artificial intelligence. Stocks discussed: (NasdaqGS"
     publishedDateTime: 2020-05-14T16:54:00Z

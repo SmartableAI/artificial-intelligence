@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: "https://9to5mac.com/wp-content/uploads/sites/6/2020/05/AI-smarts-could-be-embedded-in-future-iPhone-camera-sensors.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 500
-  - title: "Sony ushers in new era for AI-powered cameras with world's first intelligent vision sensor"
-    excerpt: "Artificially intelligent cameras will be able to track people and objects with high precision in real-time recorded footage courtesy of the world's first intelligent vision sensor, Sony has claimed. Vision sensors are sophisticated systems generally used by a smart camera to monitor changes in its field of vision,"
-    publishedDateTime: 2020-05-14T07:08:00Z
-    webUrl: "https://inews.co.uk/news/sony-latest-ai-powered-cameras-intelligent-vision-sensor-2852683"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 29
-    images:
-      - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/05/IMX500_501.jpg"
-        width: 2677
-        height: 2008
 
 secured: "2cfhD1lR5zVJKWPW/KUJZT6fQPBtE5WzXhm1O7OQI7AZ3Uzq/2CHFA/4eG99WGWZnD/O01hzrAp0bNsw7zKFnL92RrFokCFcxNa2ql+8IqS0wU74K3srd8jqSR3c8lzfyFs9VATJVeD36O+KyTl5xhikJPNQ2VoEDqjPcDM5SUb6PP7Ctr9Yv8Hh98pTq9wvXK092E1Nc8lnnsENNIVr0W3oztqZpn8Cv9JDOcypRXJKBOIBG6Sg9umXlL5skMeRq5W+Hy82hZ8Z4vMb5h57qrDB+b3OV4+cHiAuXyCjbbxAcon+uVwXlmnWXY4tgEjQuwlkbvAFJrkRez2ySkyoORA3rVjXyIFtJ43t7a9gBz5PCSmQFlGdIgkKQbW1h8L36ZJSq5zIuVn9knYMFmdnGjsSjoGfd21R9dSY2p0Y5uLZmHX7jlYTdCqXVNhfd+TK3JgW+clHiKhzQbrIHQsquxJwPToHk1auv0tXtvMp5Qg=;7A0+WrCWiSBcZXYjihgvfQ=="
 ---
