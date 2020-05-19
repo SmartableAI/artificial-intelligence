@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-19-new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness.md",
+      "title": "New AI from DeepMind and Google can detect a common cause of blindness",
+      "excerpt": "DeepMind and Google Health have developed an AI that can predict who'll get one of the world's most common causes of blindness.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
+      "publishedDateTime": "2020-05-19T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-40-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "New AI from DeepMind and Google can detect a common cause of blindness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts.md",
       "title": "DeepMind claims its AI predicts macular degeneration more accurately than experts",
       "excerpt": "DeepMind claims that its machine learning system can predict macular degeneration more accurately than a team of human experts.",
@@ -1270,44 +1315,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-google-unveils-tensorflow-tool-for-making-mobile-ready-models.md",
-      "title": "Google unveils TensorFlow tool for making mobile-ready models",
-      "excerpt": "Google has announced TensorFlow Lite Model Maker, a tool for converting an existing TensorFlow model to the TensorFlow Lite format used to serve predictions on lightweight hardware such as mobile devices. TensorFlow models can be quite large, and serving predictions remotely from beefy hardware capable of handling them isn’t always possible.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.amp.html",
-      "publishedDateTime": "2020-04-17T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

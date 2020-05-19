@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-15-voice-control-speaking-is-better-than-swiping-during-the-coronavirus.md",
+      "title": "Voice control: Speaking is better than swiping during the coronavirus",
+      "excerpt": "A survey shows that people are worried about privacy and security when using voice control but they like not having to touch anything.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
+      "publishedDateTime": "2020-05-15T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/11/22/88326323-0d79-46bf-96dd-249d6e66ec6f/thumbnail/1200x675/84317c9b308cf0e20a8ecfddd3825515/20191121-dreamforce-patterson-bill.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Voice control: Speaking is better than swiping during the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-apple-buys-virtual-reality-startup-nextvr.md",
+      "title": "Apple Buys Virtual-Reality Startup NextVR",
+      "excerpt": "Apple (NASDAQ:AAPL) confirmed on Thursday that it has acquired virtual-reality (VR) specialist NextVR. The technology start-up created a platform that broadcasts live and recorded",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
+      "publishedDateTime": "2020-05-15T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574677%2Fvirtual-reality.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Apple Buys Virtual-Reality Startup NextVR",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-facebooks-voice-synthesis-ai-generates-speech-in-500-milliseconds.md",
+      "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
+      "excerpt": "Facebook's new AI text-to-speech system generates one second of human-like audio in just 500 milliseconds, running on off-the-shelf processors.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/15/facebooks-voice-synthesis-ai-generates-speech-in-500-milliseconds/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-portal-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-15-boeing-loyal-wingman-a-combat-drone-that-leans-hard-on-ai.md",
       "title": "Boeing Loyal Wingman: A combat drone that leans hard on AI",
       "excerpt": "But luckily, at least one wingman is still rolling.  Earlier this month, Boeing Australia delivered the first of three prototype drones to the Royal Australian Air Force. The aircraft, nicknamed Loyal Wingman,",
@@ -945,140 +1082,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-sony-shows-off-first-combination-image-sensor-and-ai-chip.md",
-      "title": "Sony shows off first combination image sensor and AI chip",
-      "excerpt": "An image sensor with AI processing system built into the hardware, making it a single integrated system. The benefits and applications for this are potentially enormous as imagery and code continue to merge.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/14/sony-shows-off-first-combination-image-sensor-and-ai-chip/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/14/sony-shows-off-first-combination-image-sensor-and-ai-chip/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/sony-shows-off-first-combination-image-sensor-and-ai-chip/amp/",
-      "publishedDateTime": "2020-05-14T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/sony-ivs-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Sony shows off first combination image sensor and AI chip",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-apple-acquires-virtual-reality-startup-nextvr-but-whats-the-plan.md",
-      "title": "Apple acquires virtual reality startup NextVR, but what's the plan?",
-      "excerpt": "Apple today confirmed that they will be acquiring NextVR, a virtual reality startup that specializes in producing VR content for sporting events. Neither company has disclosed the terms of the deal, but 9to5Mac reports that it could be worth",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85235-apple-acquires-virtual-reality-startup-nextvr-but-what.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85235-apple-acquires-virtual-reality-startup-nextvr-but-what.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85235-apple-acquires-virtual-reality-startup-nextvr-but-what.html",
-      "publishedDateTime": "2020-05-14T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-4.png",
-          "width": 2048,
-          "height": 1152,
-          "title": "Apple acquires virtual reality startup NextVR, but what's the plan?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-omnichannel-personalization-with-amazon-personalize.md",
-      "title": "Omnichannel personalization with Amazon Personalize",
-      "excerpt": "As the touchpoints customers use to engage with brands move to an increasingly complex mixture of digital and real-life interactions, you’re faced with the daunting task of delighting your customers with personalized experiences that hit the mark across these channels. Customer expectations are evolving",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/omnichannel-personalization-with-amazon-personalize/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T13:33:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/image002.jpg",
-          "width": 800,
-          "height": 608,
-          "title": "Omnichannel personalization with Amazon Personalize",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,32 +2,225 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-05-19-microsoft-msft-sony-ai-camera-deal-to-boost-business-yield.md",
-      "title": "Microsoft (MSFT)-Sony AI-Camera Deal to Boost Business Yield",
-      "excerpt": "Microsoft MSFT recently inked a deal with Sony Semiconductor Solutions (Sony) aimed at delivering solutions to aid enterprises avail the benefits of AI-driven smart cameras with robust video analytics capabilities.",
-      "heat": 74,
+      "path": "_news/2020-05-19-new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness.md",
+      "title": "New AI from DeepMind and Google can detect a common cause of blindness",
+      "excerpt": "DeepMind and Google Health have developed an AI that can predict who'll get one of the world's most common causes of blindness.",
+      "heat": 114,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-sony-ai-camera-deal-to-boost-business-yield-2020-05-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T08:58:00-07:00",
+      "webUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
+      "publishedDateTime": "2020-05-19T10:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-40-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "New AI from DeepMind and Google can detect a common cause of blindness",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-facebooks-new-ai-tool-will-automatically-identify-items-you-put-up-for-sale.md",
+      "title": "Facebook’s new AI tool will automatically identify items you put up for sale",
+      "excerpt": "Facebook is launching what it’s calling a “universal product recognition model” that uses artificial intelligence to identify consumer goods, from furniture to fast fashion to fast cars. It’s the first step toward a future where the products in every image on its site can be identified and potentially shopped for.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet",
+      "publishedDateTime": "2020-05-19T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/5av4IoZlR7WwWz6z_6O7O5QryTo=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66817004/acastro_180522_facebook_0002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Facebook’s new AI tool will automatically identify items you put up for sale",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable.md",
+      "title": "Facebook develops new AI techniques to one day make \"anything shoppable\"",
+      "excerpt": "By improving product segmentation, detection and classification, Facebook is working towards building a holistic AI system for frictionless shopping on Marketplace or Facebook Pages.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable/",
+      "publishedDateTime": "2020-05-19T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/19/9c1802a8-a999-47f7-b53e-d3abd334f523/instance-mask-projection-model-graphic.png",
+          "width": 1071,
+          "height": 849,
+          "title": "Facebook develops new AI techniques to one day make \"anything shoppable\"",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-adds-microsoft-powered-artificial-intelligence-to-imx500-video-camera-sensors.md",
+      "title": "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors",
+      "excerpt": "Sony is making video cameras smarter. The IMX500 line of intelligent video sensors will come with embedded access to artificial intelligence (AI) tools from Microsoft (NASDAQ:MSFT",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "publishedDateTime": "2020-05-19T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575066%2Findustrial-monitor-camera.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 925,
+          "title": "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment.md",
+      "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
+      "excerpt": "Developers, to help you advance your AI and machine learning (ML) skills with hands-on and engaging learning, the AWS Machine Learning Scholarship Program from Udacity is now open for enrollment. \nAWS and Udacity are collaborating to educate developers of all skill levels to expand their AWS ML expertise.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T09:49:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/19/ml-scholarship-2.jpg",
+          "width": 1000,
+          "height": 537,
+          "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -124,7 +317,7 @@
       "path": "_news/2020-05-19-azure-cognitive-services-learns-more-languages.md",
       "title": "Azure Cognitive Services learns more languages",
       "excerpt": "It wouldn’t be a Microsoft Build without a bunch of new capabilities for Azure Cognitive Services, Microsoft’s cloud-based AI tools for developers. The first new feature is what Microsoft calls the “personalized apprentice mode,",
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/",
@@ -162,14 +355,61 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models.md",
+      "title": "Microsoft launches new tools for building fairer machine learning models",
+      "excerpt": "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s",
+      "heat": 160,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
+      "publishedDateTime": "2020-05-19T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Microsoft launches new tools for building fairer machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
       "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
       "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
       "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",
@@ -393,51 +633,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build.md",
-      "title": "Microsoft Tips AI Supercomputer, New Biz-Focused Tools at Azure-Focused Build",
-      "excerpt": "At its mostly Azure-focused virtual Build conference, Microsoft also adds tools to ease third-party integration with Teams and new features to Microsoft 365, the Edge browser, Bing for Commerce, and Windows.",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build",
-      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build?amp=1",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azu_4rz3.620.jpg",
-          "width": 619,
-          "height": 348,
-          "title": "Microsoft Tips AI Supercomputer, New Biz-Focused Tools at Azure-Focused Build",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates.md",
       "title": "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates",
       "excerpt": "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020.",
@@ -508,51 +703,6 @@
           "width": 1024,
           "height": 538,
           "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-responsible-machine-learning-capabilities-build-trust-in-ai-systems-developers-say.md",
-      "title": "Microsoft responsible machine learning capabilities build trust in AI systems, developers say",
-      "excerpt": "The post Microsoft responsible machine learning capabilities build trust in AI systems, developers say appeared first on The AI Blog.\n",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/azure-responsible-machine-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:59:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/microsoft-build-responsible-machine-learning-sas-terminal_1200x630-5ec3c46a3bb28-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": "Microsoft responsible machine learning capabilities build trust in AI systems, developers say",
           "attribution": null
         }
       ],
@@ -658,7 +808,7 @@
       "path": "_news/2020-05-19-xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit.md",
       "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
       "excerpt": "Space-specific silicon company Xilinx has developed a new processor for in-space and satellite applications that records a number of firsts: It’s the first 20nm process that’s rated for use in space,",
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/",
@@ -1167,142 +1317,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-are-ai-powered-killer-robots-inevitable.md",
-      "title": "Are AI-Powered Killer Robots Inevitable?",
-      "excerpt": "Military scholars warn of a “battlefield singularity,” a point at which humans can no longer keep up with the pace of conflict.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-military-robots/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebefa5288ead7be95a5c6c2/master/pass/Biz-robotskull-476996566.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Are AI-Powered Killer Robots Inevitable?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-is-the-brain-a-useful-model-for-artificial-intelligence.md",
-      "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-      "excerpt": "In the summer of 2009, the Israeli neuroscientist Henry Markram strode onto the TED stage in Oxford, England, and made an immodest proposal: Within a decade, he said, he and his colleagues would build a complete simulation of the human brain inside a supercomputer.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/",
-      "ampWebUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/brain-model-artificial-intelligence/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-its-called-artificial-intelligencebut-what-is-intelligence.md",
-      "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
-      "excerpt": "Gurgling infants might seem like no match for artificial intelligence. They are terrible at labeling images, hopeless at mining text, and awful at videogames. Then again, babies can do things beyond the reach of any AI.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/",
-      "ampWebUrl": "https://www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec32f02480746372679073b/master/pass/ai-intelligence-business-01-update-01.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

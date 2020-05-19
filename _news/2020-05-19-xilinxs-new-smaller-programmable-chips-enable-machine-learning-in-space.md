@@ -39,6 +39,17 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/xilinx-space-tablet.jpg?w=1024"
         width: 1024
         height: 512
+  - title: "Xilinx Shoots For The Stars With Powerful Space-Grade Adaptable AI Processors"
+    excerpt: "The ability to enable on-orbit reconfiguration both pre- and post-launch is a key differentiator of FGPA solutions in general, since cutting-edge space applications have a way of throwing proverbial curve balls on a regular basis."
+    publishedDateTime: 2020-05-19T17:22:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2020/05/19/xilinx-shoots-for-the-stars-with-powerful-space-grade-adaptable-ai-processors/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2020/05/19/xilinx-shoots-for-the-stars-with-powerful-space-grade-adaptable-ai-processors/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/05/19/xilinx-shoots-for-the-stars-with-powerful-space-grade-adaptable-ai-processors/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
 
 secured: "Bou2kukm0FtL92v2CFnLBKdxFoiwDGAYFYevoEsd0NDxYPvyeAoDe0LeyrqpNE39F3UxGH8hD009I5EuO1kjxMsi+UIWDY4y4V57XnoZ9p4Z57xzQ0UoclKf4s7KWfNQXMlYil636XynNU3ChA4p3HFIpyY7A/L95d9ovSaRYvNBWQaqTU2Phsu6YR15od0QoZMfNPpaBtFA95KZlh3M0nsdPN9hIeEHGyuEVEtXoYoeu7IHQP64rnXgCr5HQvWf2uFdeliQuMvCT2r9srk8Uwzj1843Ze+nMhoh5NE14MX4DPSjsKGXu1T9zTw8WKqAp1Ca36NV97BriAjOr/fg0RGNr14zwF7bbL9Yuv8KZU00fLbRTag+8xr1ZWgbTjOV27d3ukVTp8gA+th/zXSgTDXa1yNDuC0rAwu6nBBPbtWtfrHB6pGFeigxRW9Kq1oCRG0Kldd7NEMfF3/4/VcLsdu46x49CENg4mlSdHtUxfQ=;qGu6hpeDWlOReS9plgJsUQ=="
 ---

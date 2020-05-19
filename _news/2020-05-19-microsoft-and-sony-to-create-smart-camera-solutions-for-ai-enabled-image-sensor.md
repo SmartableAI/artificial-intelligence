@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partners
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
       - url: "https://cdn.mainichi.jp/vol1/2020/05/19/20200519p2g00m0bu071000p/0c8.jpg?1"
         width: 600
         height: 316
+  - title: "Sony joins Microsoft to create AI-driven smart camera solutions"
+    excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers."
+    publishedDateTime: 2020-05-19T17:39:00Z
+    webUrl: "https://www.sify.com/finance/sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions-news-topnews-uftr48fgdaiah.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 34
   - title: "Sony Semiconductor Solutions and Microsoft partner to create smart camera solutions for enterprise customers"
     excerpt: "PRNewswire/ -- Sony Semiconductor Solutions (Sony) and Microsoft Corp. (Microsoft) today announced they are partnering to create solutions that"
     publishedDateTime: 2020-05-18T17:00:00Z

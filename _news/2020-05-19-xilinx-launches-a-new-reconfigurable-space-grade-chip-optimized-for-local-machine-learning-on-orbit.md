@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurab
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/amp/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     title: "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit"
 
 related:
+  - title: "Xilinx Shoots For The Stars With Powerful Space-Grade Adaptable AI Processors"
+    excerpt: "The ability to enable on-orbit reconfiguration both pre- and post-launch is a key differentiator of FGPA solutions in general, since cutting-edge space applications have a way of throwing proverbial curve balls on a regular basis."
+    publishedDateTime: 2020-05-19T17:22:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2020/05/19/xilinx-shoots-for-the-stars-with-powerful-space-grade-adaptable-ai-processors/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2020/05/19/xilinx-shoots-for-the-stars-with-powerful-space-grade-adaptable-ai-processors/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/05/19/xilinx-shoots-for-the-stars-with-powerful-space-grade-adaptable-ai-processors/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
   - title: "Xilinx’s new smaller programmable chips enable machine learning in space"
     excerpt: "The new 20nm Radiation Tolerant Kintex UltraScale XQRKU060 FPGA is designed for use in orbital satellites, and delivers a significant reduction in size, weight and power compared with the company’s previous,"
     publishedDateTime: 2020-05-19T13:13:00Z

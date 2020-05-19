@@ -2,6 +2,96 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-29-building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition.md",
+      "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
+      "excerpt": "Many industries, including retail, manufacturing, and healthcare, are adopting IoT-enabled devices and using AI or machine learning (ML) technologies to enable such devices to make human-like decisions without human intervention. You can also apply some of the use cases involving powering IoT-enabled",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T10:09:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/building-smart-garage-16.gif",
+          "width": 979,
+          "height": 571,
+          "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-ml-explainability-with-amazon-sagemaker-debugger.md",
+      "title": "ML Explainability with Amazon SageMaker Debugger",
+      "excerpt": "Machine Learning (ML) impacts industries around the globe, from financial services industry (FSI) and manufacturing  to autonomous vehicles and space exploration. ML is no longer just an aspirational technology exclusive to academic and research institutions; it has evolved into a mainstream technology",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ml-explainability-with-amazon-sagemaker-debugger/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T11:24:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/sagemaker-debugger-explainability-8.gif",
+          "width": 800,
+          "height": 426,
+          "title": "ML Explainability with Amazon SageMaker Debugger",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-amazon-appflow-brings-serverless-ipaas-capabilities-to-aws.md",
       "title": "Amazon AppFlow Brings Serverless IPaaS Capabilities To AWS",
       "excerpt": "AWS announced the launch of Amazon AppFlow, a managed integration service for exchanging data between external Software as a Service (SaaS) applications and AWS services. Amazon AppFlow acts as a two-way conduit for the data flowing between SaaS applications such as Salesforce,",
@@ -1199,88 +1289,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
-      "title": "Amazon Announces General Availability of AWS Deepcomposer",
-      "excerpt": "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-11T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/03/27/julsimon-deepcomposerga-1-1024x835.png",
-          "width": 1024,
-          "height": 835,
-          "title": "Amazon Announces General Availability of AWS Deepcomposer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-amazon-workers-demand-jeff-bezos-cancel-face-recognition-contracts-with-law-enforcement.md",
-      "title": "Amazon Workers Demand Jeff Bezos Cancel Face Recognition Contracts With Law Enforcement",
-      "excerpt": "Earlier this week, several Amazon shareholders called on the company to stop selling Rekognition to the police. That backlash has now spread among employees as well. “Our company should not be ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/amazon-workers-demand-jeff-bezos-cancel-face-recognitio-1827037509",
-      "ampWebUrl": "https://gizmodo.com/amazon-workers-demand-jeff-bezos-cancel-face-recognitio-1827037509/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/amazon-workers-demand-jeff-bezos-cancel-face-recognitio-1827037509/amp",
-      "publishedDateTime": "2020-04-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/jisipsq6ktedkeynkmhh.jpg",
-          "width": 800,
-          "height": 449,
-          "title": "Amazon Workers Demand Jeff Bezos Cancel Face Recognition Contracts With Law Enforcement",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

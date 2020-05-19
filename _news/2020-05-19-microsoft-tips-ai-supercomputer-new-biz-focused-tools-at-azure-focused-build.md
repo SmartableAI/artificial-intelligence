@@ -2,14 +2,14 @@
 category: news
 title: "Microsoft Tips AI Supercomputer, New Biz-Focused Tools at Azure-Focused Build"
 excerpt: "At its mostly Azure-focused virtual Build conference, Microsoft also adds tools to ease third-party integration with Teams and new features to Microsoft 365, the Edge browser, Bing for Commerce, and Windows."
-publishedDateTime: 2020-05-19T15:00:00Z
-webUrl: "https://uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build"
-ampWebUrl: "https://uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build?amp=1"
-cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build?amp=1"
+publishedDateTime: 2020-05-19T15:10:00Z
+webUrl: "https://www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused"
+ampWebUrl: "https://www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused?amp=true"
+cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused?amp=true"
 type: article
 quality: 116
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -24,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azu_4rz3.620.jpg"
-    width: 619
-    height: 348
+  - url: "https://i.pcmag.com/imagery/articles/015JLImS9DModQt24LO6Lie-8.fit_lim.size_1200x630.v_1589904030.png"
+    width: 1120
+    height: 630
     title: "Microsoft Tips AI Supercomputer, New Biz-Focused Tools at Azure-Focused Build"
 
 related:
@@ -40,25 +40,53 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 103
+    quality: 120
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
         width: 1024
         height: 683
-  - title: "At digital Build conference, Microsoft unifies Windows app development, boosts Teams and AI"
-    excerpt: "Microsoft Corp. kicked off its annual developer conference Build 2020 today with new services to unify Windows application development, additional Teams services and even a supercomputer for artificial intelligence available through its Azure cloud service."
-    publishedDateTime: 2020-05-19T15:08:00Z
-    webUrl: "https://siliconangle.com/2020/05/19/digital-build-conference-microsoft-unifies-windows-app-development-boosts-teams-ai/"
+  - title: "Microsoft responsible machine learning capabilities build trust in AI systems, developers say"
+    excerpt: "The post Microsoft responsible machine learning capabilities build trust in AI systems, developers say appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-05-19T14:59:23Z
+    webUrl: "https://blogs.microsoft.com/ai/azure-responsible-machine-learning/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/nadellabuild2020-2.png"
-        width: 2560
-        height: 1600
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/microsoft-build-responsible-machine-learning-sas-terminal_1200x630-5ec3c46a3bb28-1024x538.jpg"
+        width: 1024
+        height: 538
+  - title: "Microsoft builds supercomputer for OpenAI to help train massive AI models"
+    excerpt: "Microsoft today announced that it has built the fifth most powerful public supercomputers in the world. The computer will be part of the company’s Azure cloud platform and is meant to train large artificial intelligence (AI) models."
+    publishedDateTime: 2020-05-19T15:53:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/microsoft-builds-supercomputer-for-openai-to-help-train-massive-ai-models-11589902587352.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-builds-supercomputer-for-openai-to-help-train-massive-ai-models/amp-11589902587352.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-builds-supercomputer-for-openai-to-help-train-massive-ai-models/amp-11589902587352.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 73
+    images:
+      - url: "https://images.livemint.com/img/2020/05/19/600x338/18f773e811c64588bb749e45635cb30c-18f773e811c64588bb749e45635cb30c-1_1589775788668_1589903233519.jpg"
+        width: 600
+        height: 337
+  - title: "6 Top Azure Announcements From Microsoft Build"
+    excerpt: "Major Azure announcements at Microsoft Build include the general availability of Microsoft’s Azure IoT Developer Specialty Certification and training resources. Microsoft has built a new artificial intelligence supercomputer on its Azure cloud in collaboration with Open AI,"
+    publishedDateTime: 2020-05-19T15:24:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/6-top-azure-announcements-from-microsoft-build"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/025d-0f723237befd-c26ed7ec1ca9-1000/microsoft-build-2020.jpg"
+        width: 610
+        height: 458
 
-secured: "N5aIxpcmxmgWRWrKwE1gW/e6AMtPlosbAfkG1+CWeqm3KbH3zENf77sgbBMDdsvtfe2wQJNFKe9h4yAADFYld5wrbpnBNLpXSdcSsm4exZXnrej2NzOmULwBba1bhcmTxBTbbuu+/Q9JebP9N5rNdItsbZm23vW63RonMFvaf3iQ2n+Rxks5HNMTRxjZ2N2rf7OhwySTzFIili1zEWx5SU2IwaoNzahNn+pbQHOjHHTP25zQTLlfaz2ZDxMi9gv0Fx0oxzRUVaM1tjv/f2h1iUuOxNvymJcJbJ+M/2a00W/Msif56U+CI5IwP8KDpJVJ;eHzXrK88mzeb/T2j2x656w=="
+secured: "0M5lHCnhSjURi1zfcOeLCLOjaVcLr/o1n9azqlrQrUz+AZ5fvRpRRceEgQz49U0ignl2i7ghI6oYJUDRGUZaihg6nDxmdYGBUbbWVMGq5mA64Gdv92qdPu8DHgWzP1CXDkwy+QpG2RWLey8xvm0oqCohJJaYtfJ9IEqCGmrWoF1rRiGb0OkNxeEHJAlioQz89ctWTSFhz9ReSRgx5cfLvherixNeTsc8ZCazf5AroZtf+ppERju2adna0fkUEU5OCMgxEjvK0H5LPACF2mwlH1QYEM2jN4u+ngS83+SelUHqbZrCcxk3+deqH0CAzZJA;ahtkOUW6CCbxfGNlVgUqAw=="
 ---
 

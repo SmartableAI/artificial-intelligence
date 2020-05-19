@@ -18,15 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft (MSFT)-Sony AI-Camera Deal to Boost Business Yield"
-    excerpt: "Microsoft MSFT recently inked a deal with Sony Semiconductor Solutions (Sony) aimed at delivering solutions to aid enterprises avail the benefits of AI-driven smart cameras with robust video analytics capabilities."
-    publishedDateTime: 2020-05-19T15:58:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-sony-ai-camera-deal-to-boost-business-yield-2020-05-19"
+  - title: "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors"
+    excerpt: "Sony is making video cameras smarter. The IMX500 line of intelligent video sensors will come with embedded access to artificial intelligence (AI) tools from Microsoft (NASDAQ:MSFT"
+    publishedDateTime: 2020-05-19T16:57:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: The Motley Fool
+      domain: fool.com
+    quality: 81
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575066%2Findustrial-monitor-camera.jpg&w=1200&op=resize"
+        width: 1200
+        height: 925
 
 secured: "XuJFViWbprWKdvnK8sOqX0L1FWKrnVsSi5oZDpCqDFhniHZ6YYQJeXWEng96+VZpHE0a2REJba5cKeGSc25Pf/pgjgLQU4GUt6GBmL/NFFzW9r//gGTkdCpyi7IIu1MuUe3l3V4NwUNU8H0YZwSLUlZc4Bhq5V1xcSKfLggXoVdu6FHvvysoCEgxGqSNvthIVYFeISbzM2GkxaKB7FtoxZbsaBwgBouFLJxcl2GnA+XSU9BLe+exjoE9JcjNqb9Fm520IM86jUHSh7IazAqo+bNEls1eV6RC6dD3/kT38fDg1wOXt96c90Y18vOhrALi;/hLRFG0L0+qCvm9X60O0fg=="
 ---

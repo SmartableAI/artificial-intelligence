@@ -39,6 +39,15 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg"
         width: 360
         height: 300
+  - title: "Sony joins Microsoft to create AI-driven smart camera solutions"
+    excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers."
+    publishedDateTime: 2020-05-19T17:39:00Z
+    webUrl: "https://www.sify.com/finance/sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions-news-topnews-uftr48fgdaiah.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 34
   - title: "Sony Semiconductor Solutions and Microsoft partner to create smart camera solutions for enterprise customers"
     excerpt: "PRNewswire/ -- Sony Semiconductor Solutions (Sony) and Microsoft Corp. (Microsoft) today announced they are partnering to create solutions that"
     publishedDateTime: 2020-05-18T17:00:00Z

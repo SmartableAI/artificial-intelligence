@@ -2,39 +2,10 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-05-19-microsoft-msft-sony-ai-camera-deal-to-boost-business-yield.md",
-      "title": "Microsoft (MSFT)-Sony AI-Camera Deal to Boost Business Yield",
-      "excerpt": "Microsoft MSFT recently inked a deal with Sony Semiconductor Solutions (Sony) aimed at delivering solutions to aid enterprises avail the benefits of AI-driven smart cameras with robust video analytics capabilities.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-sony-ai-camera-deal-to-boost-business-yield-2020-05-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-19-azure-cognitive-services-learns-more-languages.md",
       "title": "Azure Cognitive Services learns more languages",
       "excerpt": "It wouldn’t be a Microsoft Build without a bunch of new capabilities for Azure Cognitive Services, Microsoft’s cloud-based AI tools for developers. The first new feature is what Microsoft calls the “personalized apprentice mode,",
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/",
@@ -72,14 +43,61 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models.md",
+      "title": "Microsoft launches new tools for building fairer machine learning models",
+      "excerpt": "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s",
+      "heat": 160,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
+      "publishedDateTime": "2020-05-19T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Microsoft launches new tools for building fairer machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
       "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
       "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
       "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",
@@ -303,51 +321,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build.md",
-      "title": "Microsoft Tips AI Supercomputer, New Biz-Focused Tools at Azure-Focused Build",
-      "excerpt": "At its mostly Azure-focused virtual Build conference, Microsoft also adds tools to ease third-party integration with Teams and new features to Microsoft 365, the Edge browser, Bing for Commerce, and Windows.",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build",
-      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build?amp=1",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azu_4rz3.620.jpg",
-          "width": 619,
-          "height": 348,
-          "title": "Microsoft Tips AI Supercomputer, New Biz-Focused Tools at Azure-Focused Build",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates.md",
       "title": "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates",
       "excerpt": "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020.",
@@ -418,51 +391,6 @@
           "width": 1024,
           "height": 538,
           "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-responsible-machine-learning-capabilities-build-trust-in-ai-systems-developers-say.md",
-      "title": "Microsoft responsible machine learning capabilities build trust in AI systems, developers say",
-      "excerpt": "The post Microsoft responsible machine learning capabilities build trust in AI systems, developers say appeared first on The AI Blog.\n",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/azure-responsible-machine-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:59:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/microsoft-build-responsible-machine-learning-sas-terminal_1200x630-5ec3c46a3bb28-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": "Microsoft responsible machine learning capabilities build trust in AI systems, developers say",
           "attribution": null
         }
       ],
@@ -636,7 +564,7 @@
       "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential.md",
       "title": "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential",
       "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.bloomberg.com/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
@@ -674,7 +602,7 @@
       "path": "_news/2020-05-19-microsoft-and-sony-to-create-smart-camera-solutions-for-ai-enabled-image-sensor.md",
       "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
       "excerpt": "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced.",
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
@@ -1294,6 +1222,100 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic.md",
+      "title": "From Hand Sanitizers To Tacos: Microsoft Shows Us How Companies Are Using Technology To Thrive During A Pandemic",
+      "excerpt": "Companies are embracing CRM and analytics technologies to help them shift business models during the COVID-19 pandemic. The Microsoft Business Applications summit showcased how Chipolte, IKEA, and others are using Microsoft technology to create new customer engagement models.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/",
+      "publishedDateTime": "2020-05-14T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd63e1a69715000675b9de%2F0x0.jpg",
+          "width": 1200,
+          "height": 616,
+          "title": "From Hand Sanitizers To Tacos: Microsoft Shows Us How Companies Are Using Technology To Thrive During A Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai.md",
+      "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
+      "excerpt": "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai-2020-05-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI in Robotics"
       ]
     }
   ],

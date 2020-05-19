@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-19-aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment.md",
+      "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
+      "excerpt": "Developers, to help you advance your AI and machine learning (ML) skills with hands-on and engaging learning, the AWS Machine Learning Scholarship Program from Udacity is now open for enrollment. \nAWS and Udacity are collaborating to educate developers of all skill levels to expand their AWS ML expertise.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T09:49:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/19/ml-scholarship-2.jpg",
+          "width": 1000,
+          "height": 537,
+          "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-visualizing-amazon-sagemaker-machine-learning-predictions-with-amazon-quicksight.md",
       "title": "Visualizing Amazon SageMaker machine learning predictions with Amazon QuickSight",
       "excerpt": "AWS is excited to announce the general availability of Amazon SageMaker integration in QuickSight. You can now integrate your own Amazon SageMaker ML models with QuickSight to analyze the augmented data and use it directly in your business intelligence dashboards. As a business analyst, data engineer,",
@@ -693,6 +738,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-07-the-ai-eye-episode-345-ibm-collaborating-with-samsung-m1-imda-on-singapores-5g-industry-40-trial-and-virtusa-achieves-aws-saas-competency.md",
+      "title": "The AI Eye Episode 345: IBM Collaborating with Samsung, M1, IMDA on Singapore's 5G Industry 4.0 Trial and Virtusa Achieves AWS SaaS Competency",
+      "excerpt": "Point Roberts, WA and Vancouver, BC - May 7, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-345-ibm-collaborating-with-samsung-m1-imda-on-singapores-5g-industry-40-trial-and-virtusa-achieves-aws-saas-competency-2020-05-07?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye Episode 345: IBM Collaborating with Samsung, M1, IMDA on Singapore's 5G Industry 4.0 Trial and Virtusa Achieves AWS SaaS Competency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-aws-unveils-open-source-model-server-for-pytorch.md",
       "title": "AWS unveils open source model server for PyTorch",
       "excerpt": "including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS.",
@@ -1151,96 +1241,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition.md",
-      "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
-      "excerpt": "Many industries, including retail, manufacturing, and healthcare, are adopting IoT-enabled devices and using AI or machine learning (ML) technologies to enable such devices to make human-like decisions without human intervention. You can also apply some of the use cases involving powering IoT-enabled",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T10:09:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/building-smart-garage-16.gif",
-          "width": 979,
-          "height": 571,
-          "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-ml-explainability-with-amazon-sagemaker-debugger.md",
-      "title": "ML Explainability with Amazon SageMaker Debugger",
-      "excerpt": "Machine Learning (ML) impacts industries around the globe, from financial services industry (FSI) and manufacturing  to autonomous vehicles and space exploration. ML is no longer just an aspirational technology exclusive to academic and research institutions; it has evolved into a mainstream technology",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ml-explainability-with-amazon-sagemaker-debugger/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T11:24:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/sagemaker-debugger-explainability-8.gif",
-          "width": 800,
-          "height": 426,
-          "title": "ML Explainability with Amazon SageMaker Debugger",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

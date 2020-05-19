@@ -56,6 +56,36 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200519145036-chinese-city-of-xian--super-tease.jpg"
         width: 1100
         height: 619
+  - title: "Facial recognition reunites missing child after 32 years"
+    excerpt: "Facial recognition technology led to a joyful reunion and a happy ending to what was a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday."
+    publishedDateTime: 2020-05-19T17:42:00Z
+    webUrl: "https://www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/"
+    ampWebUrl: "https://www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/?outputType=amp"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 59
+    images:
+      - url: "https://www.clickorlando.com/resizer/a7OufWIR6j0NLRAfMiTxGCqd7o8=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/05-19-2020/t_ce5dc077995b4a778e835315ee014a7f_name_file_1920x1080_5400_v4_.jpg"
+        width: 1280
+        height: 720
+  - title: "Facial recognition tech reunites family 32 years after son’s abduction"
+    excerpt: "Mao Yin was just 2 years old in 1988 when he was abducted in Xian and sold to another couple for the equivalent of $845."
+    publishedDateTime: 2020-05-19T16:13:00Z
+    webUrl: "https://nypost.com/2020/05/19/facial-recognition-reunites-man-with-parents-32-years-later/"
+    ampWebUrl: "https://nypost.com/2020/05/19/facial-recognition-reunites-man-with-parents-32-years-later/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/05/19/facial-recognition-reunites-man-with-parents-32-years-later/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://thenypost.files.wordpress.com/2020/05/mao-yin-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
   - title: "Facial recognition technology reunites kidnapped toddler with family after 32 years"
     excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology. Mao Yin was"
     publishedDateTime: 2020-05-19T07:46:00Z
@@ -104,19 +134,19 @@ related:
   - title: "Facial recognition technology helps reunite kidnapped toddler with family after 32 years"
     excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology."
     publishedDateTime: 2020-05-19T09:42:00Z
-    webUrl: "https://www.wcvb.com/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-    ampWebUrl: "https://www.wcvb.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
+    webUrl: "https://www.kcra.com/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
+    ampWebUrl: "https://www.kcra.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
     type: article
     provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
+      name: KCRA
+      domain: kcra.com
     quality: 50
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1200828790.jpg?crop=1.00xw:0.846xh;0,0.0587xh&resize=1200:*"
         width: 1200
         height: 677
 
-secured: "52VvdugLq6vfh3wHOc4icUXoe0xCeXsSdjpPoFUl3ZmvRcoXcgOYdgF9CwttnD1Lb3rrRH6R5lwYBqCgoUgtRqTleyKJQVSt/bAIxqFCOBZ+Vn+EAU9oSZesl002iyZ8BiTf7FtQi8QPJMujmUcrkHuQRDNBeI96TSu8sPDvavMbjlEA1qX/R1QOFSzHfxAPCEjzu4cE9Dy7b8pT2pSxTbCoBtE72H7pGV/x11RdCDZoqhKVED2x4kXkmyLlXdJId4D5mTtcDTD4tKjcYjHb2vBNKfBfV0QrdNgqT/ihJETpIyV35EFcGaEQCu3SPImN;9i40JQjVw4Mv8ZKTa2aW2w=="
+secured: "8SrK0Qy1KswwGiw2reStyO3k7nQOzicMVpyIYTux4aEUf+XqtfLpNJ3cqNTSwlLV0ofgE6K2/uEJZuMSzVNnMdYHUs317pBwtqroEYLKEKFTLjT9shkMZLG/PcmnOVfCqpgIqzHDL9fCPxXJ3zKuRB4EFizCipgqml3pF6gAN4eTPm+K0ENgXPa6ufnYv3Us8BP6k66Qn+Fb5wGSn5wjZ2kICLJ6raz6kWn3sp5Sp65alx48TYqY7TZ+JlN/wRWpyXaOzpan4gnnesnps6saZ+z3yf8Z5dy1whZ+XUMK/62QiqAbSM7amutXLkn0N53b+U92NCuSS3XFTCABKSvrXeAXmFY5w7AIwMxhhYmv2Y1qbSufx891ojaN6X/bNn8MItBrFApYSYTVIso54wT4eBabns1FyasL1S3Q5p3SnNSYElHxmgi821UuWg4eFLW5FwQRggEyDfWmw9GQDeIJy8xxzETFbNAniMPHOGFtio4=;yw8NOpbqdx0mDaZApEp1cQ=="
 ---
 

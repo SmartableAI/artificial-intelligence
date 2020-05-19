@@ -496,6 +496,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-14-a-new-way-to-think-about-artificial-intelligence-with-this-etf.md",
+      "title": "A New Way To Think About Artificial Intelligence With This ETF",
+      "excerpt": "Among the myriad thematic exchange traded funds investors have to consider, artificial intelligence products are numerous and some are catching on with investors. What To",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/trading-ideas/long-ideas/20/05/16028413/a-new-way-to-think-about-artificial-intelligence-with-this-etf",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16028413",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16028413",
+      "publishedDateTime": "2020-05-14T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/artificial-intelligence-3382507_1920_3_0.jpg",
+          "width": 685,
+          "height": 375,
+          "title": "A New Way To Think About Artificial Intelligence With This ETF",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
       "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
       "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
@@ -1220,44 +1257,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement.md",
-      "title": "Artificial Intelligence Technology Solutions Announces Health Screening Product Enhancement",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK: AITX) is pleased to announce that Robotic Assistance Devices (RAD), its wholly owned",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
-      "publishedDateTime": "2020-05-08T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
         "AI in Robotics"
       ]
     }

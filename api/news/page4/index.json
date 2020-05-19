@@ -2,6 +2,142 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-18-face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras.md",
+      "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
+      "excerpt": "The rollout of facial recognition cameras in London is facing disruption as citizens are now using face coverings that could potentially incapacitate the technology. The United Kingdom has been a keen adopter of surveillance technology including facial recognition cameras in recent years,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "publishedDateTime": "2020-05-18T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/11/20/77a790fa-b55e-4662-9b19-7a8f42060060/resize/1200x900/6bfbc3a62184f36d3a9733bdc6f59fe5/screenshot-2019-11-20-at-13-18-41.png",
+          "width": 1200,
+          "height": 766,
+          "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-how-a-chinese-ai-giant-made-chattingand-surveillanceeasy.md",
+      "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
+      "excerpt": "Alexa can tell you the weather. Siri knows a few jokes. In China, voice-computing company iFlytek built similar smart assistants beloved by users. But its tech is also helping the government listen in.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/",
+      "ampWebUrl": "https://www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/amp",
+      "publishedDateTime": "2020-05-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ebd97001c8fdaf50e1b0062/master/pass/5ebd96bfd58e99fafced8061_iflytek_2400x1350_autoxauto_00001.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-10-ways-ai-is-improving-manufacturing-in-2020.md",
+      "title": "10 Ways AI Is Improving Manufacturing In 2020",
+      "excerpt": "The BMW Group uses AI to evaluate component images in ongoing production lines to spot deviations from the standard in real-time. Perceiving the pandemics' hard reset as a chance to grow stronger, more resilient,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/amp/",
+      "publishedDateTime": "2020-05-17T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201992144%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3267%26cropY1%3D156%26cropY2%3D1994",
+          "width": 1199,
+          "height": 675,
+          "title": "10 Ways AI Is Improving Manufacturing In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-police-stocktake-surveillance-tech-after-clearview-ai-facial-recognition-trial.md",
       "title": "Police 'stocktake' surveillance tech after Clearview AI facial recognition trial",
       "excerpt": "The Police Commissioner has ordered a stocktake of surveillance technologies after police trialed controversial facial recognition software without consulting his office.",
@@ -952,143 +1088,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-voice-control-speaking-is-better-than-swiping-during-the-coronavirus.md",
-      "title": "Voice control: Speaking is better than swiping during the coronavirus",
-      "excerpt": "A survey shows that people are worried about privacy and security when using voice control but they like not having to touch anything.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "publishedDateTime": "2020-05-15T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/11/22/88326323-0d79-46bf-96dd-249d6e66ec6f/thumbnail/1200x675/84317c9b308cf0e20a8ecfddd3825515/20191121-dreamforce-patterson-bill.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Voice control: Speaking is better than swiping during the coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-apple-buys-virtual-reality-startup-nextvr.md",
-      "title": "Apple Buys Virtual-Reality Startup NextVR",
-      "excerpt": "Apple (NASDAQ:AAPL) confirmed on Thursday that it has acquired virtual-reality (VR) specialist NextVR. The technology start-up created a platform that broadcasts live and recorded",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
-      "publishedDateTime": "2020-05-15T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574677%2Fvirtual-reality.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Apple Buys Virtual-Reality Startup NextVR",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-facebooks-voice-synthesis-ai-generates-speech-in-500-milliseconds.md",
-      "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
-      "excerpt": "Facebook's new AI text-to-speech system generates one second of human-like audio in just 500 milliseconds, running on off-the-shelf processors.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/15/facebooks-voice-synthesis-ai-generates-speech-in-500-milliseconds/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-15T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-portal-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],

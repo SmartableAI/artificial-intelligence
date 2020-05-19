@@ -26,47 +26,49 @@ images:
     title: "Microsoft builds supercomputer for OpenAI to help train massive AI models"
 
 related:
-  - title: "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure"
-    excerpt: "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,"
-    publishedDateTime: 2020-05-19T15:13:00Z
-    webUrl: "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/"
-    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/"
+  - title: "Microsoft launches new tools for building fairer machine learning models"
+    excerpt: "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s"
+    publishedDateTime: 2020-05-19T15:14:00Z
+    webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/"
+    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 112
+    quality: 120
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024"
+      - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
         width: 1024
-        height: 652
-  - title: "Sony and Microsoft team up on AI-powered cameras"
-    excerpt: "Sony and Microsoft are working on AI-powered cameras together. The two tech giants have announced that they’re embedding Microsoft Azure’s AI capabilities into Sony’s new image sensor, the IMX500, which comes with an onboard AI chip that processes information in real time."
-    publishedDateTime: 2020-05-19T09:17:00Z
-    webUrl: "https://www.engadget.com/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
-    ampWebUrl: "https://www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
+        height: 683
+  - title: "Microsoft Tips AI Supercomputer, New Biz-Focused Tools at Azure-Focused Build"
+    excerpt: "At its mostly Azure-focused virtual Build conference, Microsoft also adds tools to ease third-party integration with Teams and new features to Microsoft 365, the Edge browser, Bing for Commerce, and Windows."
+    publishedDateTime: 2020-05-19T15:10:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused"
+    ampWebUrl: "https://www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused?amp=true"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 106
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 116
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
-        width: 600
-        height: 350
-  - title: "Microsoft builds a supercomputer for OpenAI for training massive AI models"
-    excerpt: "Microsoft is building a supercomputer for and with OpenAI and is using it to train massive distributed AI models, which it is counting on to improve the AI capabilities in its own software and services."
-    publishedDateTime: 2020-05-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
+      - url: "https://i.pcmag.com/imagery/articles/015JLImS9DModQt24LO6Lie-8.fit_lim.size_1200x630.v_1589904030.png"
+        width: 1120
+        height: 630
+  - title: "Microsoft responsible machine learning capabilities build trust in AI systems, developers say"
+    excerpt: "The post Microsoft responsible machine learning capabilities build trust in AI systems, developers say appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-05-19T14:59:23Z
+    webUrl: "https://blogs.microsoft.com/ai/azure-responsible-machine-learning/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/microsoft-build-responsible-machine-learning-sas-terminal_1200x630-5ec3c46a3bb28-1024x538.jpg"
+        width: 1024
+        height: 538
   - title: "6 Top Azure Announcements From Microsoft Build"
     excerpt: "Major Azure announcements at Microsoft Build include the general availability of Microsoft’s Azure IoT Developer Specialty Certification and training resources. Microsoft has built a new artificial intelligence supercomputer on its Azure cloud in collaboration with Open AI,"
     publishedDateTime: 2020-05-19T15:24:00Z

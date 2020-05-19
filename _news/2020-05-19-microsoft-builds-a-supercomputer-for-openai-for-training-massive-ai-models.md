@@ -54,34 +54,19 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
         width: 600
         height: 350
-  - title: "Microsoft builds supercomputer for OpenAI to help train massive AI models"
-    excerpt: "Microsoft today announced that it has built the fifth most powerful public supercomputers in the world. The computer will be part of the company’s Azure cloud platform and is meant to train large artificial intelligence (AI) models."
-    publishedDateTime: 2020-05-19T15:53:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/microsoft-builds-supercomputer-for-openai-to-help-train-massive-ai-models-11589902587352.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-builds-supercomputer-for-openai-to-help-train-massive-ai-models/amp-11589902587352.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-builds-supercomputer-for-openai-to-help-train-massive-ai-models/amp-11589902587352.html"
+  - title: "At digital Build conference, Microsoft unifies Windows app development, boosts Teams and AI"
+    excerpt: "Microsoft Corp. kicked off its annual developer conference Build 2020 today with new services to unify Windows application development, additional Teams services and even a supercomputer for artificial intelligence available through its Azure cloud service."
+    publishedDateTime: 2020-05-19T15:08:00Z
+    webUrl: "https://siliconangle.com/2020/05/19/digital-build-conference-microsoft-unifies-windows-app-development-boosts-teams-ai/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 73
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
     images:
-      - url: "https://images.livemint.com/img/2020/05/19/600x338/18f773e811c64588bb749e45635cb30c-18f773e811c64588bb749e45635cb30c-1_1589775788668_1589903233519.jpg"
-        width: 600
-        height: 337
-  - title: "6 Top Azure Announcements From Microsoft Build"
-    excerpt: "Major Azure announcements at Microsoft Build include the general availability of Microsoft’s Azure IoT Developer Specialty Certification and training resources. Microsoft has built a new artificial intelligence supercomputer on its Azure cloud in collaboration with Open AI,"
-    publishedDateTime: 2020-05-19T15:24:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/6-top-azure-announcements-from-microsoft-build"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/025d-0f723237befd-c26ed7ec1ca9-1000/microsoft-build-2020.jpg"
-        width: 610
-        height: 458
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/nadellabuild2020-2.png"
+        width: 2560
+        height: 1600
 
 secured: "muTmuFe5LHumOJxfLWjpW5tj5ul7mnTpgJ/KQt5+d05yq7+AWc7qCiknVqZH7+YpOVcWCGXy3W9iYnOsu1wmL5FNzeG6qmppWBmWIDr9d56c3EwCJXDhdnQbry762tyVn4FC1aCbnJGt/X5YQUy8HVvUDsn98Q4jli55xnk+DgkXYWIQsbDEh8ynDmAZ6+TrtF4D4an8cerT++PkX0yFoaIZNTPcTYwuuAtw0n27O6f4lCYM9rs1sUFlbTJA7CtdFsINRKBvnwoPubOYYnnoCsnHIjMILVu+xnMcGPlLpxSkrD8pn1WmwFoipv5Zx6Dy8ik+2iMcmfkYeLN1vaWVai30cTJ1naWvmZYlqP6yDmBbhWR0Kjh+7VyScnvhlfNYTIyB3rcL9XYcoPgohzjn6jskz6oGUlHkf3h8R6QVAMKBxj0lRbio2I4TvuHP7DFH25SgrFxtXerC8CgjoE7ZrOcvel9U5sMP7mFhXDv4OWI=;SJHY1XvWGNOZY+LIh9PsSQ=="
 ---

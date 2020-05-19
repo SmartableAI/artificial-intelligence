@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-o
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/"
 type: article
 quality: 112
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -56,35 +56,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 82
-  - title: "Microsoft builds supercomputer for OpenAI to help train massive AI models"
-    excerpt: "Microsoft today announced that it has built the fifth most powerful public supercomputers in the world. The computer will be part of the company’s Azure cloud platform and is meant to train large artificial intelligence (AI) models."
-    publishedDateTime: 2020-05-19T15:53:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/microsoft-builds-supercomputer-for-openai-to-help-train-massive-ai-models-11589902587352.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-builds-supercomputer-for-openai-to-help-train-massive-ai-models/amp-11589902587352.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-builds-supercomputer-for-openai-to-help-train-massive-ai-models/amp-11589902587352.html"
+  - title: "At digital Build conference, Microsoft unifies Windows app development, boosts Teams and AI"
+    excerpt: "Microsoft Corp. kicked off its annual developer conference Build 2020 today with new services to unify Windows application development, additional Teams services and even a supercomputer for artificial intelligence available through its Azure cloud service."
+    publishedDateTime: 2020-05-19T15:08:00Z
+    webUrl: "https://siliconangle.com/2020/05/19/digital-build-conference-microsoft-unifies-windows-app-development-boosts-teams-ai/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 73
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
     images:
-      - url: "https://images.livemint.com/img/2020/05/19/600x338/18f773e811c64588bb749e45635cb30c-18f773e811c64588bb749e45635cb30c-1_1589775788668_1589903233519.jpg"
-        width: 600
-        height: 337
-  - title: "6 Top Azure Announcements From Microsoft Build"
-    excerpt: "Major Azure announcements at Microsoft Build include the general availability of Microsoft’s Azure IoT Developer Specialty Certification and training resources. Microsoft has built a new artificial intelligence supercomputer on its Azure cloud in collaboration with Open AI,"
-    publishedDateTime: 2020-05-19T15:24:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/6-top-azure-announcements-from-microsoft-build"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/025d-0f723237befd-c26ed7ec1ca9-1000/microsoft-build-2020.jpg"
-        width: 610
-        height: 458
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/nadellabuild2020-2.png"
+        width: 2560
+        height: 1600
 
-secured: "+LfW/SxqauPoSf45sw6j/nirZo+mHsI5qlY2G/Vjnx+y+STLbv9f8R0s4rg4wRyZgS1WH4BtpqAtzWz+iD61AdZN89eYcDcUCOYb3NC3p2hR+XvghIhQygAWL77cP89RSSj7rOz34PZcq+Y16Ki7z/OBIFf0bDCGTh80OPtdGBhJ5pqyO4ji99vRwCq2XaJqj3pHZdlKq2hTH0MR4wemEEkGxW4HwXmtqJpiDNvy8VrJpC6XXdhKKi6/5s56vS61XbYgWXn/dq6CYYjwYWbn7aC7KV5LVXneijgym6d8OC8tSWkZbR/K69ypANWtQsb9;OKp+YJ6tx7hpGyXEYCXtzA=="
+secured: "qF9kN9IvlMzFWdKoiZQxu7oumGjesGH5pq9FdhWHwsHwQNzLHIGyh9cFrYqyEXqTmni4XIAwBdX6nnROjtXQtw2jA1HcMuKPjdG/Ts8iZqEJyME+27O2JrBJqYYbfUSkyrH1SwIs3k5ajrxKE736vsbiqCBMPOQzZ1El+e/lKaK44Qs+zDyVyjYWw6YI2lCFVV+DdA3HZ51WBgkXQeWAw8ieq/a/6yyWWgt6QbJJSZQn5HeXPHOvvUnZN+d/iBAivyUGbtVBBFbW+gwRPFZg5M1HCUE+rLxOI8+8BpaSPyXkRfCKElITJ4GbBA+jHLN+63wLdXrRw39idna1gCHAb+E3BKWOhY6q9l6QsXw5Wwnr/a33ou1AUEKlBni5EgGWu99aqXvlZFGsd8RzlaSEsznSUQaZXqSbnGGHr11aazKdkdPaK+w0BPZ1VCP+baGAFjvCffFhwQTYVDF9jF4h2tubzCT2kfKk+M+e2cbXPNE=;eneS7gjktlpGkLu50u4jRA=="
 ---
 
