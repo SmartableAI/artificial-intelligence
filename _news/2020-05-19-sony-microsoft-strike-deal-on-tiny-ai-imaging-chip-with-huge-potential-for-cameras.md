@@ -46,6 +46,19 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg"
         width: 1260
         height: 709
+  - title: "Microsoft is integrating Azure AI into Sony’s smart camera sensors"
+    excerpt: "The two companies plan to embed Microsoft Azure AI capabilities onto Sony's new intelligent vision sensors, which were recently unveiled."
+    publishedDateTime: 2020-05-19T10:34:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/microsoft-azure-sony-smart-camera-sensors-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png"
+        width: 1200
+        height: 900
 
 secured: "PucihHjUfb4wiKMa7CvBjk8+dQIY8crhbheRC8i4pp99qTp3mKFIm2McPZsNa5RlBcOcOhREPBsdMjsXCbxRlV6pbr0YUIajK2X11lFeQaD96ew8z+wB+e5LQ0S+2sly9NtB/mdZjwc7W3HR9rSiEETcvQHWVHE1MW3jiPQ3fd5TlFjH16pn5yJ3nahfPFExfI6tArzBKiHxQk//gxmz0NvpaxrHczG/Fi8nHWxCsOtSeo++yTOFWe/IA8sRm8355N0E53CkeTWP9tybS2UIuwLsS6CSROClJnxKS1gPRHPgxHHjh0FaHZ89z/s7sUhrpOFzG/3MnP7cCBEatp+Y6t07kOgWpMvGnAn5gBiQpZlr3B3WPeb2dNYH7/JJWHaemJRAWbVgi+aB6xAMgc+bVDIlF7bmmnX3oyeIoMDiErKWYCgJukagpKQg3ZWdK2sDUzJPQip4mugqOpzH0zhAvBMS650GFylrKnDhUuCDWys=;iy+4nZXwUdkbLxPhJ8SJng=="
 ---

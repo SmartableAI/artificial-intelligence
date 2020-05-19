@@ -29,7 +29,7 @@ related:
   - title: "Facial recognition used to reunite missing child with family after 32 years"
     excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology."
     publishedDateTime: 2020-05-19T06:54:00Z
-    webUrl: "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html"
+    webUrl: "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html?ref=hvper.com"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html"
     type: article
@@ -41,22 +41,37 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200519145036-chinese-city-of-xian--super-tease.jpg"
         width: 1100
         height: 619
+  - title: "Facial recognition helps reunite man, kidnapped as toddler, with family after 32 years"
+    excerpt: "A man, who was abducted as a toddler 32 years ago, has finally been reunited with his biological family, with the help of facial recognition technology. According to Chinese state-broadcaster CCTV, Mao Yin was taken away from his parents in 1988 when he was two years old from a hotel in the Shaanxi province."
+    publishedDateTime: 2020-05-19T09:50:00Z
+    webUrl: "https://www.wionews.com/world/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years-299658"
+    ampWebUrl: "https://www.wionews.com/world/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years-299658/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years-299658/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 51
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/05/19/141060-xian-city.jpg?itok=Bn3bhgA6"
+        width: 918
+        height: 506
   - title: "Facial recognition technology helps reunite kidnapped toddler with family after 32 years"
     excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology."
     publishedDateTime: 2020-05-19T09:42:00Z
-    webUrl: "https://www.wmur.com/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-    ampWebUrl: "https://www.wmur.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
+    webUrl: "https://www.wesh.com/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
+    ampWebUrl: "https://www.wesh.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
+    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
+      name: WESH
+      domain: wesh.com
     quality: 50
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1200828790.jpg?crop=1.00xw:0.846xh;0,0.0587xh&resize=1200:*"
         width: 1200
         height: 677
 
-secured: "VjEeXduXbRVQbw3PG2PSMq5zK1lLJMxudNgv++5UOkhrtB8il8MsdFKr4WpMIW8P8/04ACjrRe1WOPW7NKZYvFa+YwjY5etO39iq2DJ4CZ1b97dqiadbNu0NeeYhsmlMOGUOjlrCq9rc5nEEHTyF2nAk/9RxqrNkpxI3Nbanu4z8AZ5NEk0BHsKasUzXpzrT9WxbUJY+PpqlqMmL/wmCSg4JmHzi1yPekQiEEsmwuCCxiDs1V8dr7qdASBot4Y56PwP/WU+PT7+m9iDTQsz9Esoq+5PFmGfo3UCkNZF9QAuC4wnOF7DQn2+9Hveo6K5t;iCSohAy7XMKGo+nRstlr1w=="
+secured: "gnAKi0QBhiFf0tX1xgce+enme5IhHtoMcTzhvQu8m/rzNNvKhLKibXxG0ZYlixw7+o20l3PFIRX7JiGGZEwrCTiqlL/h+rgZSthGweQhCD0Hl5mXEd50BqH/arMG+4MTWk1P+its7b69D63EBfgtsb51D2FRrC6Q+TTB77PsLFY1rUcJ89bXkB7MB0wvDuDrMReZNHZmpkPVutnoYsOq4B8hKWUZo5AFjgKMR5WBuw6HGzshwVmn9eona1l8QwVBk2Y2GV34aTVtvAvCQm4lvd4GhgMZxzyzJZ9727Qw1Cfodc6/Zl+JsdZZlUQ7JTM24UBYhKDL9dS5Pb4upg2DRtg0ITaZRT0DA4W7LyDvpHC1RoZr5TNtb6GjI85Cq4bppgt4X4s9cAhY1nl8QLCCNPEIsX+4d6mKpyKPYPk+/a72TSFz1oDHMEPh3sFcUSv3Xz7ByoJhNu6SzR3IGPL+mZZGrTFmFHJLWMdRzzM7vl0=;GiSa+Rrxq3JIuJ/oFfz6/g=="
 ---
 

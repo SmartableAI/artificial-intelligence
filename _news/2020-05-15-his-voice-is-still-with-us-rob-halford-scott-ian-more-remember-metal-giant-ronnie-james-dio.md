@@ -3,7 +3,7 @@ category: news
 title: "'His Voice Is Still With Us': Rob Halford, Scott Ian & More Remember Metal Giant Ronnie James Dio"
 excerpt: "Scott Ian is trekking from Queens to New Jersey with a friend named Jimmy to see Black Sabbath at the then-named Brendan Byrne Arena. It’s the Mob Rules Tour, and Ronnie James Dio is just two years in with the band following Ozzy Osbourne’s firing."
 publishedDateTime: 2020-05-15T20:17:00Z
-webUrl: "https://www.billboard.com/articles/columns/rock/9378788/ronnie-james-dio-remembered-anniversary"
+webUrl: "https://www.billboard.com/articles/columns/rock/9378788/ronnie-james-dio-remembered-anniversary/"
 ampWebUrl: "https://www.billboard.com/amp/articles/columns/rock/9378788/ronnie-james-dio-remembered-anniversary"
 cdnAmpWebUrl: "https://www-billboard-com.cdn.ampproject.org/c/s/www.billboard.com/amp/articles/columns/rock/9378788/ronnie-james-dio-remembered-anniversary"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 677
     title: "'His Voice Is Still With Us': Rob Halford, Scott Ian & More Remember Metal Giant Ronnie James Dio"
 
-secured: "s8UHWhkHcN7eoT9ArA4krWKWm8gPD4LNqS7HHsUV1Hh3JZlDEK/39i8hqR9zXw9+HqTVqwQyCoSuD4lYF8Jph8seFfuZVAdISbiGt59moeoD/tuotP1+mqKjj/KLHUPw242PIaaYFHX4izpwINx1V9dM4S8yUqPM1cn/jM3s9NoER7TxjNVnBNEVtENrCfiyIDbo0EdtMD6oRx2qD0amYEGkN+Wn6G4UEK/yykXpbmTXJzmKN7h+rdAp7c4kdcJ5mX8vFVGcmC6IudCfzZbDvCwssXGrj2Tx5KgUX5UxkRyh3VCr9cpR3DcYrZLENXTaQoMYRYygFDb7MYlYAt59LHMR1QvkIZloLqdRIETblkPIroospXaD88Vl18f0LobTtODHnOISQ7RZdNQON9YdUuyH4SbUcfXDW6+YdROlVZ1h0BIFEhHrp8oMnQHq9zeWUxgP2Hm+XdopjZ0KRRtpgH7CoUs4zBx2yIEp2RdhxgQ=;okH22xiqXBeD8ICM0BTmmA=="
+secured: "idKOJUIXTePI5oSHJNYgb3YRaNjoUPb7TKGJ1ZUz7e83X/i2biyda2PvHrcBM7tT/gn4PnSUJcUu6b+3V0jymImZFKJQswVumGsVB8XkhxQHl+x6mQK0SWdQaAyoTFZP2qweWjm9yQnJLi0Q+6dK3XbJ3I/6UG4Nb0FNSmaFRv6/jUQqn4GIiu98LLE8dsNQCJwb2RoChTnlHZ/mU8IK6iW2NWY9ISmpu/rNBDuUUxPDAUfXrzd9ThFUjv/jdcq7aVP4VULlLWjdWD7QJp+LU7cILzz602PEkwJ7SjD3Q973n6rlZziATeeGxSuUhMtd;1xc/KZaIZfMrcroeyTqlMg=="
 ---
 

@@ -20,6 +20,6 @@ images:
     height: 400
     title: "Zoom, Xoom, Züm: Why does every startup sound fast now?"
 
-secured: "fdG9l7hA9CLT3LzbBR9FXdBesb0p1tO6XTfSLoSzzNKYgcUtgpIv6BAmv2MvfZcSUxC0ap0VO0x/6ot6Lpset1P80m+sGlREXafqkXcU5++ijzdpSXrdLdXxHxs7SYwLO7o+JN/pqBXoRlw6TLyemQxx6cf6K1xREjyfzdRPfkax7n/sTRmEdYTlYX/vI6/dNgNozj+AXVy5SK6BnVnFaaiSgjG5CZTFUZHjRVbeq85naE9wY8NGXX+7iKydpPCAU29ekCdVZkNCLtskWm69g8ujFdcMu9GCAGfcV+1ZN8Sk9+relMC9XhK4DCxG2nem;KvB6arfct3pQ4ZuaH2HlxA=="
+secured: "xjlbDorzjy/PkfppIEwEiTjERVZlHIdFYFwEJP+V6SvKIwJ9klD/3LX9DxxW2kOGJ29SGWItO3Eq82OD3Hd5vV/zriX8EgYKpWdy1Qobn2jHWI4AdFviEmWRwd90hv0zYR10QHOm9/86yI+qZZlNDRJkI8wF0FigZy4reuPKANsslx8qzbt66nvqu0iue0GXo9hrQhXkF3Y2b/KRgt6z2XdMYNocyzb733/67FLCgz4LTcXNuqrwz21QGH7cdNXzupfaFBIW3tCrXze/lpD5y+UnQGwR1ZihHVkpPB+ode1X/WOS/k2JKRLCsWXLBtsd1Q9e0LLoUeExGIifR7hm0D/84Si1gkc7ZB34uu8v1UCStJQhKkzjbI4N8dSQU7FUDcV48FvvK7nPdZvIuL45V+LnX7sCvj+msag/0k3Vf61Svk45MM4ve0iJycRNaO/CeEOBgmHcVxwUbOerU9M4mKFBmXjnNDJ3bDpL2GI8yNc=;XuP6x7vsx5ALEEgIPFUoDQ=="
 ---
 
