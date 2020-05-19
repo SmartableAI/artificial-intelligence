@@ -25,6 +25,6 @@ images:
     height: 448
     title: "It's Azure thing: Software AG hoists application integration platform into Microsoft's cloud"
 
-secured: "YYjwyk4xWxaZnmxxbMWc3yF02QVwnnf2vdpuP/JlHE5XAafnh/uIHvuEWK+IHvEXmbVZnJCeDIO+X+mf5eiGYrFfJYDzMbLSQ59HCAFFn3yAT823EzwFltzyl24E0eNidRTL6bF39ROHbaAZ9IYzkrIBuVFouqATSJBTI70Fmk6vLsB1lKFDyQuuWVnIoMXgb/9522rsPLZTbAn7SAwCvPPy0+tXsKauOB8bolDt1K+a+JVMmPLBj/3cXtDxCAYAwMw0PEE7y3ky4/pXSOvGgIJKV7CCqtKRNR4+a40JJcjvAeri/VBBdyBZslF1A+Zh;4WwOpxNzhEvDgw4Irc/Xew=="
+secured: "AzS6K9p4jzC+oN+R/IWIDvYgfqI4wigIjOCADERg1lD4BQ3C7DiJosi8hdWdKr6l8o3lPMH/ArE5gl5GVOAwla8LnraiHJ2PNmx5nfhHlo7RT6DdtsU4i+tkyU2EB8PARcY3G/dmvqSlGw7PWl6IQ/ch2QratgI+eHsBFkG9z4F/3s4ZS/xD/ie6M8xeHUkiDi7DqPdggikdSloN1UCMx4P5cvnWMJha9EsxhvdZx6VbVOxybJ+S7RsXhDKzGFjhdb/d0yN3vKaSTfuKxyHOwsIHeJnm2j56p1N557JFAZGfOuhIBu2sHmxvQgxwupo2qjP1nXLVjWhcUqUbjJI6u9FlhxZiucfMnfu1eaxw0ZEI+1hxCsAtBLRfWlkPp/TxOqdC1KS8D2nXvRkZJ+1zR4v9OEFZ5fQBgKm3CjQSQ2Q75m44Xja/R+aZQvYB0UK4NXhK21djUNMjsR5xyMHQ41FOi/msaQ1eFMAReLi3GhQ=;lldYdjlmcJd4E/w9bkeDIw=="
 ---
 

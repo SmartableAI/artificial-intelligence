@@ -1,26 +1,25 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com"
-excerpt: "The \"Global Artificial Intelligence (AI) Partnering Terms and Agreements (2014-2020)\" report has been added to ResearchAndMarkets.com's offering. This report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
+excerpt: "Global Artificial Intelligence Partnering Terms and Agreements includes: Trends in artificial intelligence dealmaking in the biopharma industry since 2014; Analysis of artificial"
 publishedDateTime: 2020-05-15T14:28:00Z
-webUrl: "https://www.businesswire.com/news/home/20200515005346/en/Artificial-Intelligence-AI-Partnering-Deals-Collection-2014-2020"
+webUrl: "https://apnews.com/Business Wire/3020edf9d31b402d8141fbbd38e30456"
 type: article
-quality: 26
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200515005346/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     title: "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com"
 
 related:
@@ -36,6 +35,6 @@ related:
       domain: benzinga.com
     quality: 50
 
-secured: "C+r6V6j1U1s0NzCFxNI98wqOeFOVyl+sCFEi+EH4pl6kDA7Dmsvge2lAnddzGEJxqpDX9/3kmz2NCV440qHtjzWv/yAMTzHZooazbiXWlv2mNNaaOB38KKatb+VVCqSX+3ag2G6unYZb9nyZaL8Eb1Kjb1nRLUCuTpOWafY81hMTgl5BNKV+DtflE0Wg+fTNVS4jfSSbzVfnUe0vdbIogHkCcJJ9OTHEj5p3gxqExr/f8ZMkEoNHpti5F3JWGcmXf4vTScMzQ89Idhhd01M6iUakf0B2PFE9ZuxzWigQGQUf+4As0hYymFVzzX9nWWN5;0nwCr5UFPU1jXbGYGxmAvg=="
+secured: "2AY8VmMQcGkwhNp16wfI2IUkqwvy1ccvkPULsWR7mcGkNUj9uarrHA7VDngXat/Mtkan4S7OvqmibuA/9kFz6pv8Y9miL5bezl3ILMF7s1LdQpIB3IFVy9f4rlylgZ44mN2JuesU3RCrSSLphjKOxSI/LIpVx6DhgtsgA8zOGfWmZMltEZt58KQ93wi/0GO/dlIr1g581JVcsGCWvq4QMxYIo+p81rwGW3keMDssd3M9BQ2q5zo5FPpHqm1HYl0hhttVBnYVooTpKW5kbgaKhZOzfdXE2cmPNZ7+dY2usZUVvrYgznz5wwxGgftwG718;q8AkI5XeMMj1vycfekoWWg=="
 ---
 

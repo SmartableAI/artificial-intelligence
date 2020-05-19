@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-19-vanora-robots-launches-ai-powered-product-for-hospital-disinfection.md",
+      "title": "Vanora Robots launches AI-powered product for hospital disinfection",
+      "excerpt": "Using UV light, the robot can disinfect a 140-sq.ft room in less than five minutes, says CEO Krishnan Nambiar Vanora Robots Pvt Ltd, a Mangaluru-based robotics and artificial intelligence (AI) start-up,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/news/national/vanora-robots-launches-ai-powered-product-for-hospital-disinfection/article31621129.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/national/vanora-robots-launches-ai-powered-product-for-hospital-disinfection/article31621129.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/vanora-robots-launches-ai-powered-product-for-hospital-disinfection/article31621129.ece/amp/",
+      "publishedDateTime": "2020-05-18T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/news/national/n4gasb/article31621127.ece/ALTERNATES/LANDSCAPE_615/Vanora1a",
+          "width": 615,
+          "height": 384,
+          "title": "Vanora Robots launches AI-powered product for hospital disinfection",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots.md",
       "title": "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots",
       "excerpt": "Amazon researchers describe a machine learning system that plans the movements and paths of up to 1,000 mobile warehouse robots.",
@@ -1207,43 +1244,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-indiegogo-campaign-introduces-the-next-gen-social-family-robot.md",
-      "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-      "excerpt": "Misa is a revolutionary social family robot that is backed by high-tech sensors, AI, and emotional intelligence travel, learn, teach, and interact with people around like a",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15985882/indiegogo-campaign-introduces-the-next-gen-social-family-robot",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15985882",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15985882",
-      "publishedDateTime": "2020-05-07T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.getnews.info/uploads/98e0ea3f3e3e583379fdb6396838275d.jpg",
-          "width": 579,
-          "height": 480,
-          "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

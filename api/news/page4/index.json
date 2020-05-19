@@ -2,10 +2,183 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-14-nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020.md",
+      "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
+      "excerpt": "I watched NVIDIA’s GTC 2020 virtual keynote today, and I found the company scored high on both. Architecture is everything when you are a platform provider and NVIDIA rolled out its new architecture,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/",
+      "publishedDateTime": "2020-05-14T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebda3d7e0de010006d35c1b%2F0x0.jpg%3FcropX1%3D483%26cropX2%3D3296%26cropY1%3D0%26cropY2%3D1581",
+          "width": 1200,
+          "height": 675,
+          "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-tech-clearview-ai.md",
+      "title": "Police searched for suspects in unapproved trial of facial recognition tech, Clearview AI",
+      "excerpt": "An unapproved police trial of controversial facial recognition software conducted dozens of searches for suspects in New Zealand.",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tvnz.co.nz/one-news/new-zealand/police-searched-suspects-in-unapproved-trial-facial-recognition-tech-clearview-ai",
+      "ampWebUrl": "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxNSUyRnBvbGljZS1zZWFyY2hlZC1mb3Itc3VzcGVjdHMtaW4tdW5hcHByb3ZlZC10cmlhbC1vZi1mYWNpYWwtcmVjb2c=",
+      "cdnAmpWebUrl": "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxNSUyRnBvbGljZS1zZWFyY2hlZC1mb3Itc3VzcGVjdHMtaW4tdW5hcHByb3ZlZC10cmlhbC1vZi1mYWNpYWwtcmVjb2c=",
+      "publishedDateTime": "2020-05-14T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TVNZ 1",
+        "domain": "tvnz.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/13/police-apologise-over-secret-trial-of-facial-recognition-technol?w=700&h=393.75&fit=crop&auto=format",
+          "width": 700,
+          "height": 394,
+          "title": "Police searched for suspects in unapproved trial of facial recognition tech, Clearview AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera.md",
+      "title": "Sony integrates image sensor with an AI chip for a smarter camera",
+      "excerpt": "Sony has announced an image sensor with artificial intelligence processing, calling it an intelligent image system for smarter cameras. The processor will make for faster data transmission, better security and less power consumption,",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-integrates-image-sensor-with-an-ai-chip-for-a-smarter-camera/",
+      "publishedDateTime": "2020-05-14T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/mjuZYz-ZJ2-slITY4jyajAtyPWg=/756x567/2020/05/14/e47314b5-a6e3-443c-9f20-d1e291b89e81/image001.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Sony integrates image sensor with an AI chip for a smarter camera",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-gm-cruise-self-driving-tech-company-sees-round-of-layoffs-report-says.md",
+      "title": "GM Cruise self-driving tech company sees round of layoffs, report says",
+      "excerpt": "The company will lay off about 160 employees. General Motors' ambitious Cruise Automation division will lay off 8% of its workforce, according to a Bloomberg report on Thursday. The company, which hired a vast number of new employees last year,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/gm-cruise-self-driving-tech-company-layoffs/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/gm-cruise-self-driving-tech-company-layoffs/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/gm-cruise-self-driving-tech-company-layoffs/",
+      "publishedDateTime": "2020-05-14T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/-HBTqIvR2Ygwa3wLzsz5LwiJOJE=/2017/10/09/4570d0cc-50a5-4d63-873e-6612deda4970/gm-strobe-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "GM Cruise self-driving tech company sees round of layoffs, report says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-a100-the-first-ampere-gpu-is-an-absolute-monster.md",
       "title": "NVIDIA A100, the first Ampere GPU, is an absolute monster",
       "excerpt": "NVIDIA made a lot of announcements during its GTC 2020 keynote today, but at the center of many of them is the company’s new Ampere GPU architecture. Ampere is something that’s been",
-      "heat": 139,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.slashgear.com/nvidia-a100-the-first-ampere-gpu-is-an-absolute-monster-14620645/",
@@ -50,7 +223,7 @@
       "path": "_news/2020-05-14-sony-shows-off-first-combination-image-sensor-and-ai-chip.md",
       "title": "Sony shows off first combination image sensor and AI chip",
       "excerpt": "An image sensor with AI processing system built into the hardware, making it a single integrated system. The benefits and applications for this are potentially enormous as imagery and code continue to merge.",
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/14/sony-shows-off-first-combination-image-sensor-and-ai-chip/",
@@ -929,178 +1102,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip.md",
-      "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
-      "excerpt": "Sony’s camera sensors are already inside many of the high-end smartphones, but its new AI image sensor promises to make things even smarter – and high-end features cheaper, too. The",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/",
-      "ampWebUrl": "https://www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/amp/",
-      "publishedDateTime": "2020-05-14T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor.jpg",
-          "width": 2307,
-          "height": 1334,
-          "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-releases-gpu-accelerated-app-framework-for-conversational-ai-services.md",
-      "title": "NVIDIA releases GPU-accelerated app framework for conversational AI services",
-      "excerpt": "NVIDIA announced a new solution to help organizations create artificially intelligent conversational services at its online GPU Technology Conference (GTC) this week. NVIDIA Jarvis is a GPU-accelerated app framework that leverages video and speech data to build customized,",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/nvidia-releases-gpu-accelerated-app-framework-for-conversational-ai-services/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/images/sd-premium.png",
-          "width": 628,
-          "height": 246,
-          "title": "NVIDIA releases GPU-accelerated app framework for conversational AI services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
-      "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
-      "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report",
-      "ampWebUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
-      "publishedDateTime": "2020-05-14T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/iStock-914562482.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-unifies-ai-compute-with-ampere-gpu.md",
-      "title": "Nvidia Unifies AI Compute With “Ampere” GPU",
-      "excerpt": "The GPU Technical Conference may have been canceled in March thanks to the coronavirus pandemic, but behind the scenes Nvidia kept on pace with the",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nextplatform.com/2020/05/14/nvidia-unifies-ai-compute-with-ampere-gpu/",
-      "ampWebUrl": "https://www.nextplatform.com/2020/05/14/nvidia-unifies-ai-compute-with-ampere-gpu/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/05/14/nvidia-unifies-ai-compute-with-ampere-gpu/amp/",
-      "publishedDateTime": "2020-05-14T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg",
-          "width": 1199,
-          "height": 877,
-          "title": "Nvidia Unifies AI Compute With “Ampere” GPU",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

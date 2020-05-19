@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-07-microsoft-adds-openshift-and-rhel-support-to-azure-arc-its-hybrid-and-multi-cloud-platform.md",
+      "title": "Microsoft Adds OpenShift and RHEL Support to Azure Arc, Its Hybrid and Multi-Cloud Platform",
+      "excerpt": "At the recent virtual Red Hat Summit, Microsoft's cloud and AI group's executive VP, Scott Guthrie, joined Red Hat CEO Paul Cormier to explain that Red Hat and Azure engineers have been working side-by-side to integrate Red Hat Enterprise Linux and the OpenShift container platform into Arc. At the same time, Arc has been expanded to manage ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datacenterknowledge.com/microsoft/microsoft-adds-openshift-and-rhel-support-azure-arc-its-hybrid-and-multi-cloud-platform",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Data Center Knowledge",
+        "domain": "datacenterknowledge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/Red-Hat-hq.jpg",
+          "width": 470,
+          "height": 353,
+          "title": "Microsoft Adds OpenShift and RHEL Support to Azure Arc, Its Hybrid and Multi-Cloud Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-microsoft-quickly-updates-portfolio-in-response-to-covid-19.md",
       "title": "Microsoft Quickly Updates Portfolio In Response To COVID-19",
       "excerpt": "Patrick Moorhead takes a look at Microsoft unveiling last week a slew of updates to its portfolio designed to improve collaboration and virtual meetings, the provisioning and management of remote devices,",
@@ -1198,43 +1235,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-former-fox-cto-joins-microsoft-azures-media-and-entertainment-business.md",
-      "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
-      "excerpt": "Hanno Basse, the former chief technology officer at 20th Century Fox, has been named CTO for Microsoft Azure Media and Entertainment. In his new role, he’s working with entertainment industry customers, partners, industry groups and vendors to create applications for Microsoft’s cloud, edge and AI technologies. His initial focus is ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hollywoodreporter.com/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
-      "ampWebUrl": "https://www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
-      "publishedDateTime": "2020-04-23T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn1.thr.com/sites/default/files/imagecache/768x433/2019/06/hanno_basse-getty-h_2019_.jpg",
-          "width": 768,
-          "height": 433,
-          "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

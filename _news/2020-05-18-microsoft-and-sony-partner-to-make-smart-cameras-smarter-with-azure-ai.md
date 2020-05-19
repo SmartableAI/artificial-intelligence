@@ -8,8 +8,8 @@ ampWebUrl: "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Windows Central
@@ -26,21 +26,21 @@ images:
     title: "Microsoft and Sony partner to make smart cameras smarter with Azure AI"
 
 related:
-  - title: "Sony wants to make cameras smarter with an onboard AI chip"
-    excerpt: "Sony has announced two new 12.3-megapixel image sensors that come equipped with dedicated AI chips for applying machine learning to camera data locally."
-    publishedDateTime: 2020-05-14T13:16:00Z
-    webUrl: "https://www.digitaltrends.com/photography/sony-smart-sensor-ai/"
-    ampWebUrl: "https://www.digitaltrends.com/photography/sony-smart-sensor-ai/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/photography/sony-smart-sensor-ai/?amp"
+  - title: "Microsoft and Sony announce partnership to make AI-powered smart cameras more accessible"
+    excerpt: "Sony yesterday announced two new models of intelligent vision sensors (IMX500 and IMX501), the first image sensors in the world with AI processing functionality. Today, Microsoft and Sony announced a new partnership to make these AI-powered smart cameras more accessible to businesses around the world."
+    publishedDateTime: 2020-05-18T17:25:00Z
+    webUrl: "https://mspoweruser.com/microsoft-and-sony-ai-powered-smart-cameras/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-and-sony-ai-powered-smart-cameras/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-and-sony-ai-powered-smart-cameras/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 104
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 65
     images:
-      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/nvidia-dgx-a100-03-500x500.jpg"
-        width: 500
-        height: 313
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Sony-intelligent-vision-sensor-IMX500.jpg"
+        width: 1774
+        height: 1235
 
 secured: "LlKjWic4a4Yz69cPuSiFzhFny7tJAR8JejvArfrcNrAdtXSa/ztvNJupZ8EOqvEFbktMC0WOI2kd0D7UvB1ohRZP0vf3oMnhYbsqHKUyT2ls4/aIll4XrrglE0s5052+FQwhPFUgInaC93eggrRitCffEBhEP42ffEaRX8b3d5bdEcGKzGnUbFEZ8gT7ittNYyW3r2nnXNuhHiFRxgBLPtI2NQjGRKuMQnmxlh1M/9hTulhNsHo6qppoThwOX6Yt4TUqfrNUqiuYuOzRqjm0Y0CCHTM+Blpq6/ySCe05LbvRsW/ig/1M/Wu+nsnZBu89DdLcojgsTNTD9k1ilrWlFcGZue2c7t+57keyNCsEJkkSTLSqOP7MkF0T20fHy2u6FFso88LBXweI3Wq9Oi1eAXmKbKh3IHVj9F9OF7gBmc8YKwVftNcVWlIDZhpnUrdAtW87azXj5/jM4a+nef4767g6l/yr19+QGgN/IidbCMU=;EVSuNUCtkNXx5Uedx1rCyw=="
 ---

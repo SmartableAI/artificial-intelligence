@@ -46,9 +46,9 @@ related:
         width: 1200
         height: 630
   - title: "Tesla to raise price of 'full self-driving' option by $1,000 starting July 1"
-    excerpt: "Tesla Inc. undefined will raise the price of the \"full self-driving\" option on its electric vehicles worldwide by $1,000 starting July 1, Chief"
-    publishedDateTime: 2020-05-18T23:29:00Z
-    webUrl: "https://www.marketwatch.com/story/tesla-to-raise-price-of-full-self-driving-option-by-1000-starting-july-1-2020-05-18?mod=indications"
+    excerpt: "Tesla Inc. [s; tsla] will raise the price of the \"full self-driving\" option on its electric vehicles worldwide by $1,000 starting July 1, Chief"
+    publishedDateTime: 2020-05-18T23:28:00Z
+    webUrl: "https://www.marketwatch.com/story/tesla-to-raise-price-of-full-self-driving-option-by-1000-starting-july-1-2020-05-18?mod=mw_latestnews"
     ampWebUrl: "https://www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
     cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
     type: article

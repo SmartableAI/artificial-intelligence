@@ -2,6 +2,35 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-04-silver-lake-reliance-jio-deal-5-key-things-you-need-to-know.md",
+      "title": "Silver Lake-Reliance Jio deal: 5 key things you need to know",
+      "excerpt": "The deal comes shortly after Facebook announced investing Rs 43,574 crore in Reliance’s Jio platforms in exchange of 9.99% stake. The deal also covers WhatsApp-JioMart partnership aimed at the smaller retailers in the country.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO.html",
+      "ampWebUrl": "https://m.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO_amp.html",
+      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO_amp.html",
+      "publishedDateTime": "2020-05-03T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution.md",
       "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
       "excerpt": "There are many technology trends that are currently altering the world as we know it. Here I pull out the top 10 future tech trends that will define the next decade and explain what they are and how each is transforming our world.",
@@ -1202,43 +1231,6 @@
           "width": 1200,
           "height": 628,
           "title": "Waymo keeps autonomous driving simulations running as cars stay parked",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too.md",
-      "title": "Tesla's latest Autopilot feature is slowing down for green lights, too",
-      "excerpt": "Tesla has said its latest version of Autopilot, its autonomous driving software, is able to stop at traffic lights. But some Tesla drivers are learning it doesn't just stop at",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.html",
-      "ampWebUrl": "https://www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.amp.html",
-      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.amp.html",
-      "publishedDateTime": "2020-04-27T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/c/ab/cab72abb-9b6a-5a39-bcd0-fadc3469ea7a/5ea76b6c2c680.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": "Tesla's latest Autopilot feature is slowing down for green lights, too",
           "attribution": null
         }
       ],

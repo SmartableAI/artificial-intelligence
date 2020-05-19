@@ -2,6 +2,236 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-07-deep-render-raises-16m-for-image-compression-tech-that-mimics-neural-processes-of-the-human-eye.md",
+      "title": "Deep Render raises £1.6M for image compression tech that mimics ‘neural processes of the human eye’",
+      "excerpt": "Deep Render, a London startup and spin-out of Imperial College that is applying machine learning to image compression, has raised £1.6 million in seed funding. Leading the round is Pentech, with participation from Speedinvest.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/07/deep-render/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/07/deep-render/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/07/deep-render/amp/",
+      "publishedDateTime": "2020-05-07T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Deep-Render-team.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": "Deep Render raises £1.6M for image compression tech that mimics ‘neural processes of the human eye’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-uae-combats-coronavirus-ministry-launches-self-driving-vehicle-to-distribute-ppe.md",
+      "title": "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE",
+      "excerpt": "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_173952755/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/",
+      "publishedDateTime": "2020-05-07T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-ai-machine-learning-big-data-critical-in-fight-against-covid-19-experts-emphasize-at-trends-e-discussion.md",
+      "title": "AI, Machine Learning, Big Data critical in fight against Covid-19, experts emphasize at trends e-discussion",
+      "excerpt": "Discussion was part of a series of events organized by TRENDS Research & Advisory to analyze the impact of Covid-19 on various spheres of the global economy",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/AI_Machine_Learning_Big_Data_critical_in_fight_against_Covid19_experts_emphasize_at_trends_ediscussion-ZAWYA20200507073731/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200507073731/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200507073731/",
+      "publishedDateTime": "2020-05-07T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "AI, Machine Learning, Big Data critical in fight against Covid-19, experts emphasize at trends e-discussion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom.md",
+      "title": "Google to teach journalists power of AI, machine learning in newsroom",
+      "excerpt": "In a global survey conducted by Google last year about the use of AI by news organisations, most respondents highlighted the need to train their newsroom on the potential offered by machine learning a",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/internet/google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom/article31524236.ece",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/internet/google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom/article31524236.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/internet/google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom/article31524236.ece/amp/",
+      "publishedDateTime": "2020-05-07T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/internet/a1ffcf/article31524235.ece/ALTERNATES/LANDSCAPE_615/07NETGOOGLEJOURNO",
+          "width": 615,
+          "height": 384,
+          "title": "Google to teach journalists power of AI, machine learning in newsroom",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-talend-sas-tlnd-ceo-christal-bemont-on-q1-2020-results-earnings-call-transcript.md",
+      "title": "Talend SA's (TLND) CEO Christal Bemont on Q1 2020 Results - Earnings Call Transcript",
+      "excerpt": "Q1 2020 Earnings Conference Call May 06, 2020 4:30 PM ET Company Participants Lauren Sloane – Investor Relations Christal Bemont – C",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/article/4343962-talend-sas-tlnd-ceo-christal-bemont-on-q1-2020-results-earnings-call-transcript",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-artificial-intelligence-ai-in-supply-chain-market-sharerevenue-demand-and-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) in Supply Chain Market Share,Revenue, Demand and Forecast to 2023",
+      "excerpt": "Artificial Intelligence in Supply Chain Market, By Component (Software, Network, Hardware, FPGA, GPU, ASIC), by",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-sharerevenue-demand-and-forecast-to-2023-2020-05-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Supply Chain Market Share,Revenue, Demand and Forecast to 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-aws-unveils-open-source-model-server-for-pytorch.md",
       "title": "AWS unveils open source model server for PyTorch",
       "excerpt": "including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS.",
@@ -989,260 +1219,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-chinese-chip-maker-smics-us3-billion-shanghai-listing-is-a-hedge-to-reduce-companys-reliance-on-us-technology.md",
-      "title": "Chinese chip maker SMIC’s US$3 billion Shanghai listing is a hedge to reduce company’s reliance on US technology",
-      "excerpt": "SMIC, which announced its plan to delist from New York last year, is one of several chip companies that embody Beijing’s hope of creating a self-reliant and world-class semiconductor industry.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/business/companies/article/3083208/chinese-chipmaker-smics-us3-billion-shanghai-listing-hedge",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3083208/chinese-chipmaker-smics-us3-billion-shanghai-listing-hedge",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3083208/chinese-chipmaker-smics-us3-billion-shanghai-listing-hedge",
-      "publishedDateTime": "2020-05-06T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/06/e1cf8a26-8f9a-11ea-a674-527cfdef49ee_image_hires_211839.JPG?itok=ETHgRewO&v=1588771125",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese chip maker SMIC’s US$3 billion Shanghai listing is a hedge to reduce company’s reliance on US technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-harrisburg-university-develops-facial-recognition-software-to-predict-criminality.md",
-      "title": "Harrisburg University develops facial recognition software to predict criminality",
-      "excerpt": "A group of Harrisburg University professors and a Ph.D. student have developed automated computer facial recognition software capable of predicting whether someone",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.abc27.com/news/local/harrisburg/harrisburg-university-develops-facial-recognition-software-to-predict-criminality/",
-      "ampWebUrl": "https://www.abc27.com/news/local/harrisburg/harrisburg-university-develops-facial-recognition-software-to-predict-criminality/amp/",
-      "cdnAmpWebUrl": "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/local/harrisburg/harrisburg-university-develops-facial-recognition-software-to-predict-criminality/amp/",
-      "publishedDateTime": "2020-05-06T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc27.com",
-        "domain": "abc27.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abc27.com/wp-content/uploads/sites/55/2020/05/facerecognition.png?w=408&h=340&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Harrisburg University develops facial recognition software to predict criminality",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes.md",
-      "title": "Health care at ICLR: AI tackles poor data, low resources, and black boxes",
-      "excerpt": "In the field of medicine, AI can make a positive impact, but healthcare presents unique problems in data and with resources and explainability.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes/amp/",
-      "publishedDateTime": "2020-05-06T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/pexels-photo-236380-e1511747322253.jpeg?fit=1200%2C795&strip=all",
-          "width": 1200,
-          "height": 795,
-          "title": "Health care at ICLR: AI tackles poor data, low resources, and black boxes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-call-of-ai-ethics-the-origin-story.md",
-      "title": "Call of AI Ethics: The origin story",
-      "excerpt": "Dr. Francesca Rossi, IBM fellow, AI ethics global leader, and distinguished research staff member, IBM Research, tells Tonya Hall about the Call of AI Ethics that was initiated by the Vatican and presented to Pope Francis.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/call-of-ai-ethics-the-origin-story/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/06/9607c290-d166-4c72-8aa5-8d924164ec86/thumbnail/770x578/4386903680cf78bb5d3ee9cc9c177802/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Call of AI Ethics: The origin story",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-virtusa-achieves-aws-saas-competency-status.md",
-      "title": "Virtusa Achieves AWS SaaS Competency Status",
-      "excerpt": "Achieving the AWS SaaS Competency differentiates Virtusa as an AWS Partner Network (APN) member that possesses deep domain expertise in the Builders categories of the new AWS SaaS Competency. APN Consulting Partners in the Builders category have deep expertise in building cloud-native SaaS applications via software development.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/virtusa-achieves-aws-saas-competency-status-1029170762",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools.md",
-      "title": "Programming languages: Python developers reveal what they use it for and their top tools",
-      "excerpt": "New global survey shows that Python developers love machine learning, but just don't call them data scientists.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "publishedDateTime": "2020-05-06T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/22/a17d7717-dbc3-4b7f-b230-403db29add1b/thumbnail/1200x675/7791e5900ab4aa0f77cb2a33e9ca29d9/developer-demand-for-python-skills-has-e-5dd7bd800aef250001f131fb-1-nov-22-2019-11-48-21-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Programming languages: Python developers reveal what they use it for and their top tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

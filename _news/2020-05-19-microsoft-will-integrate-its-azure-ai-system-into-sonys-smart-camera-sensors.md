@@ -40,7 +40,7 @@ related:
     provider:
       name: MyBroadband
       domain: mybroadband.co.za
-    quality: 54
+    quality: 71
 
 secured: "fyrY5gwCA/DcFG9QogxFwiQnM9btoGzpwD/4O1qhA4zYty+BJVRwHn4UFzgA2jJm4qNoY3p/xptoBrqVD4ATEBKMxXCcdBMUc23yh4nDBsW7mN5SObPIOC/daBr+vQvYC9sjPDfOG7/+0EEHRphueuDDSl1SIzFeUjgE3ZcYZ9T3PDsBGiYCf09uT0OySwBYmNnmqMx2BAwy07DesivKDjIlVb/6ihG97MspJbL0qQBXa7Z4uOmjRFJY4mpF6IjhqFPK2Zgk3VZkeYJdYoZORu7uiagiIeUBY7FQoI8NRgiBmBteXze9dFzU1wPN0z3Ao23k425ydWAfux/MjXAcC88U4DGSuFHE0Y9oqmvy4dLSo8GFMXu/EpbkDExl1+M32IEbou3XiorF6Cf8ty4chtcIhmwnfPUPXdEsTxKJ/wfaM9HRdUBS+9ZNS4Z/v0J7R15rNZAFRYuCSfvQl91ybx22NdDA0O+EANNnyEP6kSc=;NrKSrOyLbcpW6HZFj1F6HA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21262576/self-drivin
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21262576/self-driving-cars-poll-av-perception-trust-skepticism-pave"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     title: "Americans still don’t trust self-driving cars"
 
 related:
-  - title: "Americans Still Don’t Trust Self-Driving Cars, Poll Shows"
-    excerpt: "Nearly half of Americans say they would not get in a self-driving taxi, according to a poll commissioned by the advocacy group Partners for Automated Vehicle Education. The poll, conducted online in February and March by SurveyUSA,"
-    publishedDateTime: 2020-05-19T04:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-05-19/americans-still-don-t-trust-self-driving-cars-poll-shows"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-05-19/americans-still-don-t-trust-self-driving-cars-poll-shows"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/americans-still-don-t-trust-self-driving-cars-poll-shows"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
   - title: "This was the earliest attempt at a self-driving car"
     excerpt: "It turns out that people have been trying to make self-driving cars a reality for quite a long time ... in fact, possibly even longer than you can imagine."
     publishedDateTime: 2020-05-18T15:35:00Z
@@ -55,6 +44,6 @@ related:
         width: 1000
         height: 563
 
-secured: "xnqk9TwSg/SQyKBlWp9fRksoMPY9QSmVqD8ccH5OLhQcRecSy886x5LTUopOjj3KGjTtAAjpnM7qRIaF0i3WALSs7owCv9OM3GFCEdFz12L1ma6ux8vOx7uZ4ONT4vVlOAO9oH0ohu8nQBYfNVljqcf2z3h40nCSo602tSEb01VIh0OQsV0nITQkviLwFFADtz3wNdxBp6Wmw3LiQzKJVOzvum7FOonwqZ8jAxyQDCl0aaHYiljqj3hZ3udPjfgJsE5VpP3tqQb3BKrQkCOxfkLf5GbY2H0HInrMb80X8zx3wPBPBrd1jr02RpI5kQjf;ZNOtiETxtZfG7rOZznALHw=="
+secured: "YYhGVuOS3/L9RChOvd/d4hr6DNCNq9A1gaCqwPimdmfBaOQws64Hdcm5r0pjbvDzsOT5qDG7WwPfOjZBSo6zPEx+7GHess6KB5ecE92KIJnfyvubtiGbR7GX/iap0py4BKJAs6QQpi18gi5av1yLBAsMKW8hAxoXSGG2ATMsdMfv+4GV8fhlQvWZCZo4MlH6oc8PNCkp4m0R++mn914q2uuuv1gVh7Pr/Vwf1+vRJVZ3D02T1kUx3FfwrAc6WBhBL32cGSWtUh0Wt3mGRPT6egc+SA9AF43wQaTCO/e1lL6UMFJwmXwLELRfYRns23vYamG1khbcHMlSbrtxSJt1TYehgKR9ONTZGnFr63bBGEhIuCDjx5iRtqvqZS7XejXevBaE2QkTFH2efH0grDf1S7RzqqpyQSyyJbhXzYoXM+I6ugxSSJNQlMnVBMN/DcGHxrGfyeVXU2oP+7bsX3v85DiR6EXsmlwPkO65xfR5ZiE=;BRCGsqRefJA6RGYwaSrGZg=="
 ---
 

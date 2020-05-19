@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Artificial Intelligence in the Global Supply Chain Market, 2019-2027"
-excerpt: "Adoption of artificial intelligence in the supply chain allows industries to track their operations, enhance supply chain management productivity, augment business strategies, and engage with customers in the digital world."
-publishedDateTime: 2020-05-11T11:32:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-the-global-supply-chain-market-2019-2027-1029186828"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-the-global-supply-chain-market-2019-2027-1029186828"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-the-global-supply-chain-market-2019-2027-1029186828"
+excerpt: "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision,"
+publishedDateTime: 2020-05-11T11:15:00Z
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-global-supply-chain-market-2019-2027-301056537.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "5pMjPfYIJchnJmJ1u6/XPJrZJ6RE+6Cs6wPS97LvM0pHOnrzuQpHw8soRIcHuv26kiCyV6IlB8kmwlPcM2YMHUm/HOcyKlRkB9tWprBRhBEc9FC8yEC3t/+2ooLdr2L9YQqq9bI3NUKrP5gzHIujT85nxtOdDSI2Gr5Q1PV9Of8u+Ru7gLHRfE98bcAEOmyWORmafJGni3vCqtzPqjyxv8SRgVWrqcMz/mbhMWlC85mWP3xP73SyBElL0xvNc3tSFr139vkdFqP3boX9XAX9l5da/prOSKDUVDkmMyYIzPBnHYdYAbt5ghqhjtqKSWkM;cId7zyRphq1ZPWTqPyfcOA=="
+images:
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    title: "Artificial Intelligence in the Global Supply Chain Market, 2019-2027"
+
+secured: "8M+Pz2LE2EZj+X5z3sr3NtJnH5miEAvpMlIdyxRGEMsNi3HAvAOFxny/AcmGIgxkXBMT0z7sUbaFtDAHF3Ox2IG32Wpli3riw0t4zWJi89x1/G0XOE+8Hj39PnQ51oe55TLRfcj2yB7dVAtvX6cAayBI0XPTh9OslbxOAJjSG4hb7340TnphkCN4YdAy0lCMDGXIEK9QH4wUdcXU69DoRns2xOI/sbGNUoJ866Ml9sGmi4dlaoXkzf+bt9lsx96jeIGhc3QozmP0RvlkcRYpy20TZaIxuOgXOwgHDfB0JbayxhFxNkf2H5eCe4X7dqRK;IbbmgRNd4o6ETsq0B9dLdw=="
 ---
 

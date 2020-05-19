@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-07-indiegogo-campaign-introduces-the-next-gen-social-family-robot.md",
+      "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
+      "excerpt": "Misa is a revolutionary social family robot that is backed by high-tech sensors, AI, and emotional intelligence travel, learn, teach, and interact with people around like a",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15985882/indiegogo-campaign-introduces-the-next-gen-social-family-robot",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15985882",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15985882",
+      "publishedDateTime": "2020-05-07T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://www.getnews.info/uploads/98e0ea3f3e3e583379fdb6396838275d.jpg",
+          "width": 579,
+          "height": 480,
+          "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-pittsburghs-airport-is-the-first-in-the-us-to-use-uv-cleaning-robots.md",
       "title": "Pittsburgh’s airport is the first in the US to use UV-cleaning robots",
       "excerpt": "Allegheny County Airport CEO Christina Cassotis said the partnership with Pittsburgh-based Carnegie Robotics highlights how the burgeoning robotics sector in Pittsburgh works alongside the community to solve big-picture problems.",
@@ -1244,52 +1281,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026.md",
-      "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
-      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026-2020-04-29",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

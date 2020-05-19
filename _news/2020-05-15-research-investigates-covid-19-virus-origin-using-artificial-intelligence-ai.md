@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200515/Research-investigates
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200515/Research-investigates-COVID-19-virus-origin-using-artificial-intelligence-(AI).aspx"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     title: "Research investigates COVID-19 virus origin using artificial intelligence (AI)"
 
 related:
-  - title: "As Facebook Moderates COVID-19 Misinformation With AI, Advertisers Navigate Brand Safety During The Crisis"
-    excerpt: "This week, the social network revealed it had placed misinformation warning labels on 50 million pieces of content related to the coronavirus in April while also removing hundreds of thousands of other posts."
-    publishedDateTime: 2020-05-14T14:52:00Z
-    webUrl: "https://www.forbes.com/sites/martyswant/2020/05/14/as-facebook-moderates-covid-19-misinformation-with-ai-advertisers-navigate-brand-safety-during-the-crisis/"
-    ampWebUrl: "https://www.forbes.com/sites/martyswant/2020/05/14/as-facebook-moderates-covid-19-misinformation-with-ai-advertisers-navigate-brand-safety-during-the-crisis/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martyswant/2020/05/14/as-facebook-moderates-covid-19-misinformation-with-ai-advertisers-navigate-brand-safety-during-the-crisis/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "AI tool searches thousands of scientific papers to guide researchers to coronavirus insights"
     excerpt: "The scientific community worldwide has mobilized with unprecedented speed to tackle the COVID-19 pandemic, and the emerging research output is staggering. Every day, hundreds of scientific papers about COVID-19 come out,"
     publishedDateTime: 2020-05-15T03:00:00Z

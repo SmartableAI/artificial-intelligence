@@ -1,28 +1,25 @@
 ---
 category: news
 title: "NNTC's Fully Autonomous AI-Powered Face Recognition Integrated on Vuzix Smart Glasses Now Supports 4G and 5G"
-excerpt: "PRNewswire/ -- Vuzix® Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a leading supplier of Smart Glasses and Augmented Reality (AR) technology"
-publishedDateTime: 2020-05-12T14:01:00Z
-webUrl: "https://www.prnewswire.com/news-releases/nntcs-fully-autonomous-ai-powered-face-recognition-integrated-on-vuzix-smart-glasses-now-supports-4g-and-5g-301057695.html"
+excerpt: "PRNewswire/ -- Vuzix® Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a leading supplier of Smart Glasses and Augmented Reality (AR) technology and products, together with"
+publishedDateTime: 2020-05-12T15:02:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nntcs-fully-autonomous-ai-powered-face-recognition-integrated-on-vuzix-smart-glasses-now-supports-4g/article_e6018e63-90da-50c3-9b17-556d9b1517ff.html"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/678111/Vuzix_Corporation_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "NNTC's Fully Autonomous AI-Powered Face Recognition Integrated on Vuzix Smart Glasses Now Supports 4G and 5G"
 
-secured: "p1xge+7ItM39e9xGf7veDopbaS7rklfFycMn5lZTgOswLlg0KnzIEvd091/oxSP8s/3TsdITd6AAfFw2r3tFUJYfhYyknEmRixu8tI4oBIdIGPiTtuX9+GCGh0f9AqhZvgkKvDe1SZSMOX2J4jSv/gNMseLnEdzXrlsXshaJt27kmZuTg3uTowKq3LBiS+JtDV9RziO6B891leiUSCvmZlpmCtBKIGUXbu8crJ4agpzECqVWF1kx7jZN5LiOJYjOmuBX4512dDFLGpLiFNMBZUkDmjqRzvMzt0WgqIndXJBvqz187eSnLxxdazgG4opQuqmPGRBRKoeTnJaI0c7yVofRvlZSJgvirbIye1bonold+GTTsN2oNTdLXAWqtNjumESnoanE+R44/yFiZuGkpOR+w2QHkXncM7b9ch4N/StMzewabTj74/KvOIka4qvJKcnK5T0qh++yrv1N4FmzcqiIqSC0ro0k6E6g14J9gXQ=;2RcpSIVOiqg44jn5KXjw2w=="
+secured: "VukZ+xFT5s4v6ZQeKFCa46FWa3XERG3e/dkqHuKJsog4ztVM/QkDAhfWAGndGA85ZEIinlx/geBzh0ZXzgy6g6/6I+Rk+9bAJmqnQ70sM5tfzYqR8AYOJxvz1V9tSU2drTxs9CmX4XOr/AEThu+cusjXRG7htFydqbxH16oDgwbef5p9+XuS8bhUkj6+BVl20KiPz+2tfwFuJgeig7I45OlHX/ZUoG9OunioUxQmobQwpQY/51pRXbjjDrZu/3LBJ2INE3YQkgA/WclNlic1cYOjgwkyLC+3Ow1p4VaNVPPlc6Y2lHjnYOOVFt+wpd3J;Z152eRChl+lYRxGcdj+6rg=="
 ---
 

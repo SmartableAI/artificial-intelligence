@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Tesla to raise price of 'full self-driving' option by $1,000 starting July 1"
-excerpt: "Tesla Inc. undefined will raise the price of the \"full self-driving\" option on its electric vehicles worldwide by $1,000 starting July 1, Chief"
-publishedDateTime: 2020-05-18T23:29:00Z
-webUrl: "https://www.marketwatch.com/story/tesla-to-raise-price-of-full-self-driving-option-by-1000-starting-july-1-2020-05-18?mod=indications"
+excerpt: "Tesla Inc. [s; tsla] will raise the price of the \"full self-driving\" option on its electric vehicles worldwide by $1,000 starting July 1, Chief"
+publishedDateTime: 2020-05-18T23:28:00Z
+webUrl: "https://www.marketwatch.com/story/tesla-to-raise-price-of-full-self-driving-option-by-1000-starting-july-1-2020-05-18?mod=mw_latestnews"
 ampWebUrl: "https://www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
 type: article
@@ -81,6 +81,6 @@ related:
         width: 1918
         height: 1079
 
-secured: "afTRGs8E04/E27HCzmyfrQKAxVY44VXeoXHsaVKSpf9/cHKE7nRkWbWkN9zwbs7/sFAfMDbjUJ0XSfQXP+ru5bbQYTKwDZ0oefxw7KkhELzNXH6zbtM6Y9b3omeytAZSMP+DnCOmtq1DXWybWpzM2Ea7KCMv7ixkl9A9bOOydmdS7Pit5riWDUaeHpz/icnDhkHLXa1Rp5RK9As81a7Y1AiR6SJqqyECU7Fh3qn2mIW6pj7BLdzQj1eBJE9plNqIi6TCAAkn6NZbu+WJnRuzbFnVMis1OeqC6csZy0fMH0bP/X99mNfaBTMn9lLOiowr;BFPUpZSoBYecbYzBfdP3ig=="
+secured: "WPcqEVQiZESRq8yRFbEFddEfioVV/1tHTw7ufY7q0e+6+NKvssHoBwp8n320yM8x6bRkrFwgDz2sMv+x5XHh9ncGnL68wZWY2b7z9EXCadqT+zWxYr5XKqCRa3GW+lLOpK+MaGYq4McJon5CPfAS00q9NUn74D+xz/ZpI1zQSknZpQibCU86O6wUEMxEUr7afkpQoMqDnHZRo45C171V6MiIEOX3Kp5TL86hqUJqOSs1m0HcYvtybJlFZaVIekdWNnqrdNXwo1X/xsM+lwJ4XjRmC99UEbNww5CvZK0K/W5HHmkzhA3YizN4XskcWVXB;fxJ2Ntmc8mfYT1p0nUNZ9w=="
 ---
 

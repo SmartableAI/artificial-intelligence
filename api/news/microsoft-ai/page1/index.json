@@ -50,7 +50,7 @@
       "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential.md",
       "title": "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential",
       "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
-      "heat": 84,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.bloomberg.com/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
@@ -80,14 +80,15 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
       "path": "_news/2020-05-19-microsoft-and-sony-to-create-smart-camera-solutions-for-ai-enabled-image-sensor.md",
       "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
       "excerpt": "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced.",
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
@@ -173,6 +174,43 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-microsoft-and-sony-partner-to-make-smart-cameras-smarter-with-azure-ai.md",
+      "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
+      "excerpt": "Microsoft and Sony announced a partnership today that will bring Azure AI smarts to Sony's intelligent vision sensor IMX500. The combination is intended to result in faster analysis for enterprise scenarios.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp",
+      "publishedDateTime": "2020-05-18T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D",
+          "width": 800,
+          "height": 600,
+          "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1258,43 +1296,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-microsoft-adds-openshift-and-rhel-support-to-azure-arc-its-hybrid-and-multi-cloud-platform.md",
-      "title": "Microsoft Adds OpenShift and RHEL Support to Azure Arc, Its Hybrid and Multi-Cloud Platform",
-      "excerpt": "At the recent virtual Red Hat Summit, Microsoft's cloud and AI group's executive VP, Scott Guthrie, joined Red Hat CEO Paul Cormier to explain that Red Hat and Azure engineers have been working side-by-side to integrate Red Hat Enterprise Linux and the OpenShift container platform into Arc. At the same time, Arc has been expanded to manage ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datacenterknowledge.com/microsoft/microsoft-adds-openshift-and-rhel-support-azure-arc-its-hybrid-and-multi-cloud-platform",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Data Center Knowledge",
-        "domain": "datacenterknowledge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/Red-Hat-hq.jpg",
-          "width": 470,
-          "height": 353,
-          "title": "Microsoft Adds OpenShift and RHEL Support to Azure Arc, Its Hybrid and Multi-Cloud Platform",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

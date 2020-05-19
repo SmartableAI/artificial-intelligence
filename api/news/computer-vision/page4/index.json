@@ -2,6 +2,64 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-03-sentiveillance-60-facial-identification-and-object-recognition-technology.md",
+      "title": "SentiVeillance 6.0 Facial Identification and Object Recognition Technology",
+      "excerpt": "Neurotechnology released the SentiVeillance 6.0 software development kit (SDK), which provides improved facial recognition using ... provides real-time moving object detection; tracking ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.officer.com/investigations/forensics/facial-recognition/product/12322276/neurotechnology-sentiveillance-60-facial-identification-and-object-recognition-technology",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Officer",
+        "domain": "officer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-bosch-video-management-system-joins-ranks-of-platesmart-alpr-integrations.md",
+      "title": "Bosch Video Management System Joins Ranks of PlateSmart ALPR Integrations",
+      "excerpt": "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newswiretoday.com/news/172658/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-washington-state-passes-microsoft-approved-facial-recognition-laws.md",
       "title": "Washington state passes Microsoft-approved facial recognition laws",
       "excerpt": "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ...",
@@ -1146,90 +1204,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-speech-recognition-systems-have-higher-error-rates-for-black-people-study-finds.md",
-      "title": "Speech recognition systems have higher error rates for black people, study finds",
-      "excerpt": "This is far from the first time we've seen evidence of bias embedded in the supposed technology of tomorrow. In December of last year, a federal study once again confirmed that facial-recognition tech is a biased mess. In October of 2017, we saw that Google's text/sentiment-analysis tool exhibited signs of homophobia, racism, and antisemitism.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias/",
-      "ampWebUrl": "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp",
-      "publishedDateTime": "2020-03-23T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F03%252F24%252Fb9%252Fd5042a28ebb74ac7a3ee380eb82cab61.561a2.jpg%252F1200x630.jpg?signature=3wjt45lwzDvmOSNZtNZHHuOOVXc=",
-          "width": 1200,
-          "height": 630,
-          "title": "Speech recognition systems have higher error rates for black people, study finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-there-is-a-racial-divide-in-speech-recognition-systems-researchers-say.md",
-      "title": "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",
-      "excerpt": "Technology from Amazon, Apple, Google, IBM and Microsoft misidentified 35 percent of words from people who were black. Whites fared much better. SAN FRANCISCO — With an iPhone, you can dictate a text message.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html",
-      "publishedDateTime": "2020-03-23T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/03/19/business/00speechbias1/merlin_161494506_df529ece-4549-4890-866d-bc00b148d3eb-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

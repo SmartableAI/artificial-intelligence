@@ -7,7 +7,7 @@ webUrl: "https://mybroadband.co.za/news/technology/352591-sony-and-microsoft-par
 ampWebUrl: "https://mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html/amp"
 cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html/amp"
 type: article
-quality: 54
+quality: 71
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 related:
   - title: "Microsoft will integrate its Azure AI system into Sony's smart camera sensors"

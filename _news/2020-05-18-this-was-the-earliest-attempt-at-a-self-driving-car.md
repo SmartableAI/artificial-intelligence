@@ -39,17 +39,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/m72EzrWuPzWBOfvn1i31svwAU10=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814379/vpavic_191202_3827_0009.0.jpg"
         width: 1400
         height: 933
-  - title: "Americans Still Don’t Trust Self-Driving Cars, Poll Shows"
-    excerpt: "Nearly half of Americans say they would not get in a self-driving taxi, according to a poll commissioned by the advocacy group Partners for Automated Vehicle Education. The poll, conducted online in February and March by SurveyUSA,"
-    publishedDateTime: 2020-05-19T04:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-05-19/americans-still-don-t-trust-self-driving-cars-poll-shows"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-05-19/americans-still-don-t-trust-self-driving-cars-poll-shows"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/americans-still-don-t-trust-self-driving-cars-poll-shows"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
 
 secured: "xmKqvypXp9GnPMQSjx8GtZ094EiHaBIaxQ+EmWHgisF68Ji6OtE6tM+ZUnoAHNnenjMG8Lu565jvwEPS0eIitPCLoxpRJSBNsVcMxXQMbgsmWSFDa2V0vb5OIYtEJOfYKCUKvPxHb1xAziThML7bIOhPthUlMCz8eg9i5y1XkkFw0CUaTrZ3VOa2YP477+/RRMcJFoCp0LyfMPlQjyTv7MLrhkNtWlIeHrJTVnGPdh/0fqMN7PSLfh/gayOPISam8wISn2kVNEbO6Qiu3exhhoYEHrtQTy9VWR/5I0TlA++sazG3V/IJv//GFWazo0a+XTSiSbwr+mwBavrZlhCRQJ6ZZDDEDhHGxM3LCP7vmRNCVZoyRuIw8Pi8OiDkuTHYA1mXj+otp+4E9Js0udEtJ4UqkC1iyLDBLwBc09SPsCSb4CAtFfw9DIbsSJWS1v9nqUU6FpkumimIee6ajQwEJZkQzzlaWuskrre/X7354cI=;S/dy1T7qn9tVYu6u/5UCyQ=="
 ---

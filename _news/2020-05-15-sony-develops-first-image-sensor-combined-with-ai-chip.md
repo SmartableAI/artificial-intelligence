@@ -45,21 +45,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/sony-ivs-1.jpg?w=1024"
         width: 1024
         height: 576
-  - title: "Sony's new image sensors are the first ever with integrated AI processing"
-    excerpt: "Sony on Thursday announced two new image sensors which it claims are the first in the world to come with built-in artificial intelligence processing. Including AI processing functionality directly on the image sensor affords multiple benefits,"
-    publishedDateTime: 2020-05-14T15:01:00Z
-    webUrl: "https://www.techspot.com/news/85228-sony-new-image-sensors-first-ever-integrated-ai.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/85228-sony-new-image-sensors-first-ever-integrated-ai.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85228-sony-new-image-sensors-first-ever-integrated-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 88
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-9.jpg"
-        width: 1665
-        height: 1087
 
 secured: "/VEQ8u0mAiNW8/QNm5N5rM4wn8Q22VQNjr3/nyQAQeYRZHx0BWvNXvb4gTXlllzsGct5dadxMH0HSZH1lmh3ifWE/0wtVVu8jlhBEAAP/7zHKcBnUkj46vAVzUa6bcDMKvaBEXBjEC7LsteokS/t1WS15VJXsqr+aAF6c/EqDX+/kbzE4sOvwxbtt1tbU0tn0plHk7TATNc7PER2nr+JNGdgud2W+BBBZVtn2W88ARRV9AIDKLjN1WK3cv0VDykyPYTWmzGW5dcPYB/pT8U00vcGU9Trku/xXKDZhbfLBiiWxRJ2PUT9137cvlYZW641ienaq7V61srPZ9hRZHUKk9ynjdRbm3TAjxYE0zrKJbDUCTmB+9x7tgHiM5jW2aIauvhKBM/0rCYXRt7QP8vPqsLGyjzDZTRxc8s1dvvOg2hEZfIUN8aIjg8OwdpkD2vDp2zYuoZAHEsUtdwZcjfpAT3VCMpmPZbn27jLGXUdWa8=;AyuxKirVDswggImmxlzLPw=="
 ---

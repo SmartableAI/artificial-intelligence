@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/14/sony-shows-off-first-combination-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/sony-shows-off-first-combination-image-sensor-and-ai-chip/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg"
         width: 360
         height: 300
-  - title: "Sony's new image sensors are the first ever with integrated AI processing"
-    excerpt: "Sony on Thursday announced two new image sensors which it claims are the first in the world to come with built-in artificial intelligence processing. Including AI processing functionality directly on the image sensor affords multiple benefits,"
-    publishedDateTime: 2020-05-14T15:01:00Z
-    webUrl: "https://www.techspot.com/news/85228-sony-new-image-sensors-first-ever-integrated-ai.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/85228-sony-new-image-sensors-first-ever-integrated-ai.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85228-sony-new-image-sensors-first-ever-integrated-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 88
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-9.jpg"
-        width: 1665
-        height: 1087
 
 secured: "g3fKPyMRsvX7rbItNCM08g4R8wy42mp9T4GrZTc5rUzZZAQQsgs2/3A++X7nR2Uy6KW+mZ+cY15M1cCh9TTaxvBL+yUJfeIeBMrrazl1TDlEBh9svO6ltLBky9GnABtZScfzjkmR6kyti4ZwpkF/ronhBAaCZmn0DPEURAH+GBe6HiO0Y+dicw1BeXWn7QLFP8X51xd/aowDiqaXaq/1Up/iqDGqFqiHQpCkdRYTSsCNDytG0eP9SF30xWNJ5vI4JCFZ5M9KgRya24hwhR2dfpIBLCVIWSB+4R4TfH9Saq+sh/yWn73lX/JghJLz3CvlZlD6Izv5anJV6ba0Kn7bsbS/LU0Y1MGytTARaHt72a7mUM/1xCDwiOc2b3HvxXpjEJqX5yy7ne+XVmccMGBmdQs73LTg02WOZLdkf4UHyuhNMsesbcotd+LpWOV8en3Yz/yDfjvyEe8tKmOF8rMnDd/6Gi6aAaHCA7hnOP0BTOU=;3eAJ7rJKz7PbYVucRj6Q4g=="
 ---

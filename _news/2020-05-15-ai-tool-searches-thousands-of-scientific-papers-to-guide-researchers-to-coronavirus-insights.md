@@ -40,17 +40,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2020%2f5%2fshutterstock_319402004_322a2166c7c14b88a86715eef483ba6d-620x480.jpg"
         width: 620
         height: 480
-  - title: "As Facebook Moderates COVID-19 Misinformation With AI, Advertisers Navigate Brand Safety During The Crisis"
-    excerpt: "This week, the social network revealed it had placed misinformation warning labels on 50 million pieces of content related to the coronavirus in April while also removing hundreds of thousands of other posts."
-    publishedDateTime: 2020-05-14T14:52:00Z
-    webUrl: "https://www.forbes.com/sites/martyswant/2020/05/14/as-facebook-moderates-covid-19-misinformation-with-ai-advertisers-navigate-brand-safety-during-the-crisis/"
-    ampWebUrl: "https://www.forbes.com/sites/martyswant/2020/05/14/as-facebook-moderates-covid-19-misinformation-with-ai-advertisers-navigate-brand-safety-during-the-crisis/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martyswant/2020/05/14/as-facebook-moderates-covid-19-misinformation-with-ai-advertisers-navigate-brand-safety-during-the-crisis/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "7g+rrp8WiSuEkA0h5HZfa7mQwM8hsa+bVG5RHzNSgTFp342xCvkQvplC8o4P8d0IoIyBCeVE05w4akyJZ7x7m5441DcZqGMpDObHxbsr+W4E9FxzM78Q5DrwmuuB3l4LZn/p+7UC7+Q3/X9EpeRxtvZwneYO0vZvKilDkUqM930tF3JOnHjV5Zaj2PDnI80kvQm5IzYpnbb0ByojVf9dS3Dhzy0KlM3H+PRwdVATuBp/G932YqnxikLIdxMt9JlPRSFRcYZQ9fAwTncULqHApRgKW2h1qyS1zDrhIk6yAJG87Y/3pcsxSSk9yIlV8ZOwoPCmsDFHDSXaaGM0fFmrYiCeLzvCgXn+nT0N3hc18ZsogGZfSCC6rAaMTGjJCsMPW3DmN/mcndqNlXkPYzJijX2qbiltikRG7j49BFDihgAI4rvokIw+kYSRHCDRVil0c2IU2bpfSBiYxxImr7w/g/ESoF6ZDVNs4EAElb8RbtI=;hcWCF7BjasHc1TrAqcA0MA=="
 ---
