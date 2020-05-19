@@ -2,6 +2,224 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-05-05-the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops.md",
+      "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
+      "excerpt": "Point Roberts, WA and Vancouver, BC - May 5, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops-2020-05-05",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ford-releases-self-driving-car-data-to-encourage-further-research.md",
+      "title": "Ford releases self-driving car data to encourage further research",
+      "excerpt": "Ford hopes data from some of its test cars will spur further development of autonomous driving tech. Ford is releasing a data package collected over one year.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/ford-releases-self-driving-car-data-to-researchers/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/ford-releases-self-driving-car-data-to-researchers/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/ford-releases-self-driving-car-data-to-researchers/?amp",
+      "publishedDateTime": "2020-05-05T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/av-data-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Ford releases self-driving car data to encourage further research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-ceo-krishna-every-company-will-be-an-ai-company.md",
+      "title": "IBM CEO Krishna: Every company will be an AI company",
+      "excerpt": "IBM CEO Arvind Krishna laid out how he wants a more entrepreneurial culture to help customers meet their cloud, digital transformation and AI objectives.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ibm-ceo-krishna-every-company-will-be-an-ai-company/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-ceo-krishna-every-company-will-be-an-ai-company/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-ceo-krishna-every-company-will-be-an-ai-company/",
+      "publishedDateTime": "2020-05-05T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/05/61a2f05e-fe78-4f50-9c91-368e63cfd3fc/ibm-krishna.png",
+          "width": 708,
+          "height": 534,
+          "title": "IBM CEO Krishna: Every company will be an AI company",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-how-ai-can-help-diagnose-neurological-disease.md",
+      "title": "How AI can help diagnose neurological disease",
+      "excerpt": "A retinal scan and AI can detect tiny eye movements that can help diagnose and treat difficult neural disorders much earlier than before.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-diagnose-neurological-disease/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-can-help-diagnose-neurological-disease/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-can-help-diagnose-neurological-disease/",
+      "publishedDateTime": "2020-05-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/05/e2665ec6-d485-4edc-96bb-675dd46a2e4b/resize/1200x/120ab7f293d757f79e299d3b18809f4e/istock-1140748326.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How AI can help diagnose neurological disease",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-trucking-high-capacity-solutions-beyond-adding-a-second-trailer.md",
+      "title": "Trucking: High-capacity solutions beyond adding a second trailer",
+      "excerpt": "We’ve seen many changes reshaping the rail, ocean and air modes that are being driven by innovations in technology and the rapid growth of the interconnected “digital” supply chain.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.logisticsmgmt.com/article/trucking_high_capacity_solutions_beyond_adding_a_second_trailer",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.logisticsmgmt.com/images/2020_article/LM2004_SUP_Top50Trucking-main800.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "Trucking: High-capacity solutions beyond adding a second trailer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers.md",
       "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
       "excerpt": "The Consumer Technology Association penned an open letter alongside a number of other industry representatives asking the U.S. Trade Representative’s Office to loosen tariffs on a number of tech categories manufactured in China.",
@@ -1042,225 +1260,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026.md",
-      "title": "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026",
-      "excerpt": "The Artificial Intelligence In Healthcare Market report provides a detailed analysis of global market size, regional",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026-2020-05-05",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems.md",
-      "title": "Gap in AI chips between China and US may be larger than it seems",
-      "excerpt": "But competition could fracture a global research community as US and Chinese governments bid for local control of AI chips.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
-      "ampWebUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
-      "publishedDateTime": "2020-05-04T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2020/03/bigstock-micro-chip-quantum-processor-259779781.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": "Gap in AI chips between China and US may be larger than it seems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-smart-serendipity-in-ibm-ai-for-operations.md",
-      "title": "Smart Serendipity In IBM AI For Operations",
-      "excerpt": "Now that CIOs are being forced to automate an more of their IT infrastructures as a necessity (rather than a nice to have), it is perhaps a realization that IBM’s branding elves were being quite subtle when they thought to think of Think as means of championing IBM’s Watson line of AI products.",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/amp/",
-      "publishedDateTime": "2020-05-04T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaffad6ed706b0007e65517%2F0x0.jpg",
-          "width": 640,
-          "height": 332,
-          "title": "Smart Serendipity In IBM AI For Operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings.md",
-      "title": "IBM and Red Hat expand their telco, edge and AI enterprise offerings",
-      "excerpt": "At its Think Digital conference, IBM and Red Hat today announced a number of new services that all center around 5G edge and AI. The fact that the company is focusing on these two areas doesn’t come as a surprise,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/amp/",
-      "publishedDateTime": "2020-05-04T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1124597376.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "IBM and Red Hat expand their telco, edge and AI enterprise offerings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-ceo-lays-out-new-initiatives-in-cloud-ai.md",
-      "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
-      "excerpt": "As he addresses the need for growth, Arvind Krishna must drive into the headwinds of a global economic crisis triggered by the coronavirus pandemic.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
-      "publishedDateTime": "2020-05-04T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-183494/social",
-          "width": 1280,
-          "height": 640,
-          "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

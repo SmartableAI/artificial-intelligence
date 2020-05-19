@@ -56,7 +56,18 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 81
+  - title: "Tesla ‘full self-driving’ option to get a price bump, Elon Musk says"
+    excerpt: "Tesla CEO Elon Musk tweeted on Monday that the full self-driving package will receive a $1,000 price bump on July 1. It's the first hike in about a year."
+    publishedDateTime: 2020-05-19T02:30:00Z
+    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/"
+    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
 
-secured: "IZqYcrX1nT4dvPIbwGKg1iWR35jc1YPOZi2AAy3LI1eTM5mNTkPZpg9M7l7sKOIwYjxymPd9N4xRnRpJVql0GrclmFDqhg0XZqAF9MBqtdR+h/kpztnoHzVK4Uk3u+FHo3TSIrmRTi6cDyX4qvGF00X/2pbK68UWsRW0BxmFj3T5Zn4KLIsRCSQsVPIvlpuH1ktiL0dChEPtRDE+q7WJ+Dhsoa2OW9kWzj0lsjon11Flhby7OisfnIKwb4XLeVXtRz6VtPxpeT/CZ+WrGp/bSry80T2XNa/yH3j1Iu6sNhVcaYp0DLd4AIdwhSkkSoaa;HzC2h4I46rBbit9blcJP/w=="
+secured: "ss+1q8Qxiv4u2ZS/oe7zA5uBiU4qwA5Y/y7DUU5uewqQ9D1paeGc3whjenX9u6BofZYhj3hi8iqZaCkRZ5zuwLMhTsDcB7mRvBXRxaBKAleQ8cjJthSS2GQykQEW4MeT8QkMfHDIOHK6qYJCdkrIJZXpLwKIE5qmMSVfMb3t1zgYr8q1d0FFc3hB+LKVfVe1ca9w1+pTd2k8goerPeqAJs3Z5kOa3ofW6FiqglnZLkm0BDR5E9RRs/I3pZYo7EqRUOt+Vu9+bL98lNfcmQbmAt0J4yUv0asf2jr5RjhSIoWxhZgSxvp4L0aLWNHBPjPPw7wfDexqjSJvW75dfDBvB7slE10pkqwzonQA0K4F9zcMzFFKNAsPwkn7Va8qVqYoIHpi67DOr7PbJeVatBpWA62yua9e2JYIKkGFIwfH7h7H96MRDpUmgFi5jFRPbqrXFZSKUNvvEWuCqI18kRI/lS3kRhZXylTD/R06oipFVXw=;P/X/io8/TcHrk+QoIRh0vg=="
 ---
 

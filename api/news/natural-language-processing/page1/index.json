@@ -93,6 +93,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-17-10-ways-ai-can-improve-voice-of-the-customer-programs.md",
+      "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
+      "excerpt": "Gaining insight and intelligence to energize existing customer relationships calls for greater use of AI in VoC programs.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/amp/",
+      "publishedDateTime": "2020-05-17T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec1682ea4ff430007767803%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
       "title": "Edward Saatchi on virtual beings: AI is the next great art form",
       "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
@@ -480,6 +525,43 @@
           "width": 1200,
           "height": 600,
           "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-generation-and-evaluation-of-artificial-mental-health-records-for-natural-language-processing.md",
+      "title": "Generation and evaluation of artificial mental health records for Natural Language Processing",
+      "excerpt": "A serious obstacle to the development of Natural Language Processing (NLP) methods in the clinical domain is the accessibility of textual data. The mental health domain is particularly challenging, partly because clinical documentation relies heavily on free text that is difficult to de-identify completely.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41746-020-0267-x",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-020-0267-x/MediaObjects/41746_2020_267_Fig1_HTML.png",
+          "width": 685,
+          "height": 571,
+          "title": "Generation and evaluation of artificial mental health records for Natural Language Processing",
           "attribution": null
         }
       ],
@@ -1200,96 +1282,6 @@
           "width": 1296,
           "height": 647,
           "title": "EU robotics project gives maintenance workers a ‘second pair of hands’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-how-can-ai-improve-sales-and-support.md",
-      "title": "How Can AI Improve Sales And Support?",
-      "excerpt": "No matter which route you choose, you should aim to create or purchase a scalable platform that enables your business to implement data-driven decision-making wherever possible.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/04/how-can-ai-improve-sales-and-support/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/04/how-can-ai-improve-sales-and-support/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/04/how-can-ai-improve-sales-and-support/amp/",
-      "publishedDateTime": "2020-05-04T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-77.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How Can AI Improve Sales And Support?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-the-easy-questions-that-stump-computers.md",
-      "title": "The Easy Questions That Stump Computers",
-      "excerpt": "Computers do. It’s no wonder that commonsense reasoning emerged as a primary concern of AI research in 1958 (in a paper titled “Programs With Common Sense”), not long after the field of AI was born. “In general,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theatlantic.com/technology/archive/2020/05/computers-common-sense/611050/",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/611050/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/611050/",
-      "publishedDateTime": "2020-05-03T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/94WQntFZUhVHjgmvql-xgr_Ub98=/570x321/media/img/mt/2020/05/Common_Sense_2880x1620_Lede/original.gif",
-          "width": 570,
-          "height": 321,
-          "title": "The Easy Questions That Stump Computers",
           "attribution": null
         }
       ],

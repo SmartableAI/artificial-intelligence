@@ -2,6 +2,134 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors.md",
+      "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
+      "excerpt": "Microsoft and Sony have formed a new partnership to apply the former's Azure AI capabilities to the latter's smart camera sensor system. The goal is to boost computer vision for enterprise settings.",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
+      "publishedDateTime": "2020-05-18T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589842585_untitled_design_(2)_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential.md",
+      "title": "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential",
+      "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
+      "publishedDateTime": "2020-05-18T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-and-sony-to-create-smart-camera-solutions-for-ai-enabled-image-sensor.md",
+      "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
+      "excerpt": "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced.",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
+      "publishedDateTime": "2020-05-18T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg",
+          "width": 360,
+          "height": 300,
+          "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-sony-to-use-microsofts-azure-ai-technology-in-new-smart-camera-sensors.md",
       "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
       "excerpt": "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also",
@@ -727,7 +855,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200512005274/en/Dr.-Ranveer-Chandra-Chief-Scientist-Microsoft-Azure",
+      "webUrl": "https://www.businesswire.com/news/home/20200512005274/en/Dr.-Ranveer-Chandra-Chief-Scientist-Microsoft-Azure/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A==",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-12T07:23:00-07:00",
@@ -1174,134 +1302,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-microsoft-quickly-updates-portfolio-in-response-to-covid-19.md",
-      "title": "Microsoft Quickly Updates Portfolio In Response To COVID-19",
-      "excerpt": "Patrick Moorhead takes a look at Microsoft unveiling last week a slew of updates to its portfolio designed to improve collaboration and virtual meetings, the provisioning and management of remote devices,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/06/microsoft-quickly-updates-portfolio-in-response-to-covid-19/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/06/microsoft-quickly-updates-portfolio-in-response-to-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/06/microsoft-quickly-updates-portfolio-in-response-to-covid-19/amp/",
-      "publishedDateTime": "2020-05-06T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools.md",
-      "title": "Programming languages: Python developers reveal what they use it for and their top tools",
-      "excerpt": "New global survey shows that Python developers love machine learning, but just don't call them data scientists.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "publishedDateTime": "2020-05-06T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/22/a17d7717-dbc3-4b7f-b230-403db29add1b/thumbnail/1200x675/7791e5900ab4aa0f77cb2a33e9ca29d9/developer-demand-for-python-skills-has-e-5dd7bd800aef250001f131fb-1-nov-22-2019-11-48-21-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Programming languages: Python developers reveal what they use it for and their top tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics.md",
-      "title": "Cloudera Machine Learning MLOps suite generally available as it aims to manage models, analytics",
-      "excerpt": "Cloudera Data Platform has seen solid traction in recent quarters from Cloudera and the hope is that CML MLOps will ride shotgun.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics/",
-      "publishedDateTime": "2020-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/04/505681e3-f238-45b7-bd5b-104ba4903fbc/end-to-end-production-workflows-in-cml.png",
-          "width": 799,
-          "height": 451,
-          "title": "Cloudera Machine Learning MLOps suite generally available as it aims to manage models, analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

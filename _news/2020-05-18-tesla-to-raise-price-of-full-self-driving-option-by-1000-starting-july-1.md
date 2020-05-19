@@ -54,6 +54,17 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 497
+  - title: "Tesla ‘full self-driving’ option to get a price bump, Elon Musk says"
+    excerpt: "Tesla CEO Elon Musk tweeted on Monday that the full self-driving package will receive a $1,000 price bump on July 1. It's the first hike in about a year."
+    publishedDateTime: 2020-05-19T02:30:00Z
+    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/"
+    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
 
 secured: "NMPyhhPdnxJCQYbhx+pxnDboeI7E/IW20KvyEl47wWbJg8PY9y2ssuBS/44hnfu1l3nRehdBiaAMg1zlRo5kmjhXkyAt0N67tul/vYjoVgb5wluP0GbRBclBE7IwRzZyLkCZVJ6VJtXAsKFPUKM0XqhYP8F/wddp2TK6yZabvV0BbexWHCGUxXJKuiPeMWPNGW8EU9+kRWx1wYwvypW8LFhBzwMrlW/Ks4N/rJ8Y+JtaOCA8ci9ZGgApI2t3V+TRhTLKJO+tdLgBDqjICp/PyY87Hi2c3eqyQidC0TZsTYDKE3x0NWrgAIhdsjMEYBno;+6BP/HC25CjkGbnuysldhQ=="
 ---

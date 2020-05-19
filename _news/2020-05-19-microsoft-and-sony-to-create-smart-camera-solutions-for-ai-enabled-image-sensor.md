@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/"
 type: article
-quality: 85
-heat: 95
+quality: 102
+heat: 112
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Microsoft AI
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg"
@@ -44,6 +45,6 @@ related:
         width: 2695
         height: 1414
 
-secured: "hrWtRLKzPEVLQMtF1xM/b5higgS7eAWlCgTK3e5eIXkfwKm+jtYCO4TA8eXStlTm6RkTd79KpnsCA/w+3/FTkpuXqmVxFfTO+lKooIiC5CzlTq1Ua7CSrLVMGrChK8rHxuRcs8xizSVY5ZJE/a5yV2EJGbua/n4KMc9s+C8BbyArWAqt/5xWKAkDrQh6EIHcE0vo1EnDB5L6416Bzmy8h+kikhWqOeohrSxyNYNKdsMWliUaxPeFzGmB9MMM/IY3RNrOscRN/e1QWZHQvJ6pqhwX343Hejn4X6Hf/UoLdI0q681gQaXcy5Z4CvU0o0dW;QzpvoADZfXYXlj80fBHPbA=="
+secured: "M6CxVtRHzbOxKPojcMQayvWBNZUjov7r6wHa9jTdYBvteinWD+btaqvwaw+unEfXxWQKYuwHVY6d/QDBVPCh9ZUK/kiWnHacHmoPN1a1XkYlDPggbA9FzZAauWDYCU0GPPxlIUszZ+1fD3TueDbSoEY8R97zfrvFTfsAra1Jsb8/EqkA4llr+orRqjzt8gR5oA7JAhhwRxKOsWeWWGO8rhGArMmxQaYP/5zoIXhVH95TXBc4n34iJ2jlyfoESLWF7mUYTHqRRgIvytG4sV8NPKgcQj7eUp699ykInnjXWbCBmj0Lvoo9y992W6gum9TmbVsPQZUxNgqpqZS3Z2bB82zcJyh2vTA22TkcrSLSBJ0ZGdB/IvvVu4SifwcIqd1xlhTqYXrOSwU5yCZVt8Np7x8AMu23rbdzcmwbaQlux0VT5h+BKlEC5MiJ1vyDkLqKw7W+Nz1JmwQG2AsaRmMZMijasWGhRorGRMinlP/uLvY=;8s4yaS1UflR0AMcpyocnRQ=="
 ---
 

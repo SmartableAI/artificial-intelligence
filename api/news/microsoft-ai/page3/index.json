@@ -2,6 +2,117 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-23-arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications.md",
+      "title": "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications",
+      "excerpt": "Arista Networks (NYSE:ANET), today announced a new release of its Cognitive WiFi software that seamlessly delivers intelligent application identification, performance optimization, automated troubleshooting and location services. This provides customers ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/04/22/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-omnipresence-launches-cxmnowio-for-life-sciences-in-the-microsoft-azure-marketplace.md",
+      "title": "Omnipresence Launches CXMnow.io for Life Sciences in the Microsoft Azure Marketplace",
+      "excerpt": "CXMnow.io in the Azure Marketplace today, an online store providing applications and services for use on Microsoft Azure. The customer experience management (CXM) technology allows life sciences organizations with certain well-defined business needs to sign up online for a built-for-purpose customer engagement capability to use in their commercial or medical operations.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "publishedDateTime": "2020-04-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-clouds-fully-managed-anthos-is-now-generally-available-for-aws.md",
+      "title": "Google Cloud’s fully managed Anthos is now generally available for AWS",
+      "excerpt": "But support for Azure will come later this year and the company already has a number of preview customers for it. In addition, Anthos will also come to bare metal servers in the future. Looking even further ahead, Manor also noted that better support for machine learning workloads is on the way. Many businesses, after all, want to be able to ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
+      "publishedDateTime": "2020-04-22T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GOOGLENEXT_2019_0409_091100-0355_ALIVECOVE.max-2200x2200-1.png?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Google Cloud’s fully managed Anthos is now generally available for AWS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-how-microsoft-is-using-ai-to-make-the-planet-greener-and-what-other-companies-can-learn-from-its-environmental-game-plan.md",
       "title": "How Microsoft is using AI to make the planet greener — and what other companies can learn from its environmental game plan",
       "excerpt": "The company said it gave out 230 grants since launching the initiative. Microsoft also put large government data sets related to the environment on its cloud, Azure, to further help AI developers. And this isn't the first time Microsoft used AI to address climate change. The company gave farmers in India, a country heavily affected by rising ...",
@@ -1109,132 +1220,6 @@
         "Microsoft AI",
         "AI Hardware",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-accelerating-digital-transformation-in-manufacturing.md",
-      "title": "Accelerating digital transformation in manufacturing",
-      "excerpt": "Digital transformation in manufacturing has the potential to increase annual global economic value by $4.5 trillion according to the IDC MarketScape.i With so much upside, manufacturers are looking at how technologies like IoT, machine learning, and artificial intelligence (AI) can be used to optimize",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/accelerating-digital-transformation-in-manufacturing/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T02:00:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d3ef2473-cd90-46d6-a056-b82f9ab7f3c2.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "Accelerating digital transformation in manufacturing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation.md",
-      "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
-      "excerpt": "BlackRock and Microsoft Corp. have formed a strategic partnership to host BlackRock’s Aladdin infrastructure on the Microsoft Azure cloud platform,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation-2020-04-07",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-ibm-is-getting-ready-to-fight-for-a-place-in-the-cloud-universe.md",
-      "title": "IBM Is Getting Ready To Fight For A Place In The Cloud Universe",
-      "excerpt": "It all started when International Business Machines Corporation (NYSE: IBM) joined forces with the open-source software giant Red Hat. The deal was closed in July 2019,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/markets/20/04/15757392/ibm-is-getting-ready-to-fight-for-a-place-in-the-cloud-universe",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/carson-masterson-0mxw-dvulok-unsplash_1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "IBM Is Getting Ready To Fight For A Place In The Cloud Universe",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,184 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-15-pandemic-effect-how-do-consumers-feel-about-ai-right-now.md",
+      "title": "Pandemic effect: How do consumers feel about AI right now?",
+      "excerpt": "Consumer-facing AI and robotics applications have had an uphill battle, and they've had to wage it on two fronts. Regulation has, perhaps for the better, throttled adoption of technologies like self-driving cars and delivery robots,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/pandemic-effect-how-do-consumers-feel-about-ai-right-now/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pandemic-effect-how-do-consumers-feel-about-ai-right-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pandemic-effect-how-do-consumers-feel-about-ai-right-now/",
+      "publishedDateTime": "2020-05-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2017/05/04/7f9fab71-4c68-4c3f-ac60-a57c26eb4ad6/ai.jpg",
+          "width": 770,
+          "height": 577,
+          "title": "Pandemic effect: How do consumers feel about AI right now?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-gms-self-driving-car-startup-cruise-has-laid-off-8-of-its-staff-or-around-150-workers.md",
+      "title": "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers",
+      "excerpt": "The move is aimed at cutting costs amid the ongoing coronavirus pandemic.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp",
+      "publishedDateTime": "2020-05-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ebe5ca4aee6a849b975e494?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-how-ai-can-help-in-fighting-covid-19.md",
+      "title": "How AI Can Help In Fighting COVID-19",
+      "excerpt": "To manage the pandemic, hospitals are looking forward to automated tools to the hilt. Healthcare experts are using AI to triage COVID-19 patients",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/350672",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350672",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350672",
+      "publishedDateTime": "2020-05-15T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1589535361-web-3963945.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How AI Can Help In Fighting COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-sony-announces-camera-sensor-chips-with-built-in-ai-processing.md",
+      "title": "Sony announces camera sensor chips with built-in AI processing",
+      "excerpt": "Sony has shown off what it's calling \"the world's first image sensors to be equipped with AI processing functionality.\" These new sensors handle AI image analysis on board, so only the necessary data can be sent for further cloud processing.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/",
+      "ampWebUrl": "https://newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/?amp=true",
+      "publishedDateTime": "2020-05-15T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/7d5d11d/2147483647/strip/true/crop/5250x3500+0+50/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0e%2Fd6%2Fbe43993548dd8926342b0bd6864e%2Fdepositphotos-25748679-xl-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Sony announces camera sensor chips with built-in AI processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-15-ltn-global-enters-aws-advanced-technology-partner.md",
       "title": "LTN Global enters AWS advanced technology partner",
       "excerpt": "LTN Global has become the latest video industry firm to seek out the IT platform giants to provide offerings and will use AWS across its modular suite.",
@@ -1129,180 +1307,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic.md",
-      "title": "From Hand Sanitizers To Tacos: Microsoft Shows Us How Companies Are Using Technology To Thrive During A Pandemic",
-      "excerpt": "Companies are embracing CRM and analytics technologies to help them shift business models during the COVID-19 pandemic. The Microsoft Business Applications summit showcased how Chipolte, IKEA, and others are using Microsoft technology to create new customer engagement models.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/",
-      "publishedDateTime": "2020-05-14T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd63e1a69715000675b9de%2F0x0.jpg",
-          "width": 1200,
-          "height": 616,
-          "title": "From Hand Sanitizers To Tacos: Microsoft Shows Us How Companies Are Using Technology To Thrive During A Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-ibm-claims-its-neural-computer-achieves-record-ai-model-training-time.md",
-      "title": "IBM claims its Neural Computer achieves record AI model training time",
-      "excerpt": "IBM claims its Neural Computer can train an AI algorithm to beat Atari 2600 games in record time -- and perform on par with state-of-the-art approaches.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/14/ibm-claims-its-neural-computer-achieves-record-ai-model-training-time/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM claims its Neural Computer achieves record AI model training time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars.md",
-      "title": "Patent Office Declares AI Cannot Be An Inventor, Stuns AI Devotees, Has Impacts For Self-Driving Cars",
-      "excerpt": "Can AI be an inventor? According to a recent decision by the U.S. Patent and Trademark Office (USPTO), the answer seems to be no. There is more to this story, though, and we’ll need to push past the surface to understand the full nuances involved.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-05-14T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6ff40aaa542800075a1352%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D371%26cropY2%3D3524",
-          "width": 1200,
-          "height": 676,
-          "title": "Patent Office Declares AI Cannot Be An Inventor, Stuns AI Devotees, Has Impacts For Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-ai-and-machine-learning-are-at-the-heart-of-future-healthcare.md",
-      "title": "AI and Machine Learning are at the heart of future healthcare.",
-      "excerpt": "Because of the influx of the different types of information we can hold for an individual, the future is relying on data management solutions to influence the way we store, use, and protect information.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://frontlinegenomics.com/ai-and-machine-learning-are-at-the-heart-of-future-healthcare/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Front Line Genomics",
-        "domain": "frontlinegenomics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://frontlinegenomics.com/wp-content/uploads/2020/05/alexander-sinn-KgLtFCgfC28-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1710,
-          "title": "AI and Machine Learning are at the heart of future healthcare.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

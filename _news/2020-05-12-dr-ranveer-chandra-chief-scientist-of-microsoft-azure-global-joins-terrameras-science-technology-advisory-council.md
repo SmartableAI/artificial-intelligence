@@ -3,7 +3,7 @@ category: news
 title: "Dr. Ranveer Chandra, Chief Scientist of Microsoft Azure Global, Joins Terramera’s Science & Technology Advisory Council"
 excerpt: "Terramera®, the global agtech leader transforming how food is grown and the economics of agriculture over the next decade, today announced that Dr. Ra"
 publishedDateTime: 2020-05-12T14:23:00Z
-webUrl: "https://www.businesswire.com/news/home/20200512005274/en/Dr.-Ranveer-Chandra-Chief-Scientist-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20200512005274/en/Dr.-Ranveer-Chandra-Chief-Scientist-Microsoft-Azure/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 627
     title: "Dr. Ranveer Chandra, Chief Scientist of Microsoft Azure Global, Joins Terramera’s Science & Technology Advisory Council"
 
-secured: "6qhiCFVUHKxDyZZYGBUldMvqqykU7tMkYVKShCWIWtZ7eoxBCG9twG+p4qkpZAweaye9EoFeXLo+khedtfy/1bdsoX03X/Y2YksEs1zkiyp0zZjiRvG5E4ZFOPcW/l9yFl2lprSg8q7BXJYFfoCncxT3TAm0gWceQM2Wa1RkG6T4jyhldeJ8drNr5gQT6QwNIYOw6HgE+GOiXnbDkLwmpE1R5uutMchak0H9sy3/Lm0oMZosq1CKsl4kdqJmT1Uwgz5zRaGmHLiIsSDfbMm0BVZw4tXJKnP6+WqS5/g4hrtPvbSQfkh8yGCRdRhMIwmg;1Y9DFjEuyl4nlKJwDRjDoA=="
+secured: "Hv8YXb17ELO5stOoMsnep2yudVN4kFuxXqhJEgfOjKMDZg6uX0jiAaZNqrJ1vual6+iauYPa0bMpjBoNwYVX11j+zWEx0yp3OMplZ4dFh8Njdx8c3l8lw3oyqcOroWDIyS78JveJ2sYrflyUwUETqBBiAz5nEGzdlPF+5OyMQr4muvka/dmXF2RfAp8SQwRnq42sGlV+lRlyU+qsvugLymM/nXqT4P/9RHjxtr427DmOmtHMPRN5g3R2g1Qr8Dgo7SGtg2XNwYOhZrt7w19qzWeWsq12CvzRwIunUSbrQG9rB/EJ+YTVspLi94zh/LQE;kBxxvw5AipHaK5OuBgW7rQ=="
 ---
 

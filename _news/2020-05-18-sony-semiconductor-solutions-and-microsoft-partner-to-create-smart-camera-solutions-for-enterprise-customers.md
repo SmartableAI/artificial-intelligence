@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 85
+    quality: 102
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg"
         width: 360

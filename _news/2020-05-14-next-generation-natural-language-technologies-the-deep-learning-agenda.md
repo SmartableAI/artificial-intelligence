@@ -5,8 +5,8 @@ excerpt: "The capacity for machines to understand human language, courtesy of na
 publishedDateTime: 2020-05-14T13:06:00Z
 webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=140647"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/130605-520jh.jpg-ORG.jpg"

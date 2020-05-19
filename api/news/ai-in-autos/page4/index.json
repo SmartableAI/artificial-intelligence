@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-27-5g-wireless-networks-leading-fourth-industrial-revolution.md",
+      "title": "5G wireless networks leading fourth industrial revolution",
+      "excerpt": "Network providers around the globe are launching 5G networks that can connect the handful of available 5G-capable devices. Currently, very few devices are connected to these new networks, allowing providers to tout headline grabbing download speeds of 1 Gbps plus.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "ampWebUrl": "https://www.techradar.com/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "publishedDateTime": "2020-04-27T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/R8QMpKF7qkxvCGZXbeJusD-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "5G wireless networks leading fourth industrial revolution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-vw-admits-teslas-lead-in-software-and-self-driving-in-internal-leak.md",
       "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
       "excerpt": "Volkswagen CEO Hebert Diess has admitted that Tesla has a significant lead when it comes to software and its use in its self-driving program, according to leaked internal communications. Tesla pioneered over-the-air software updates in the auto industry.",
@@ -1216,51 +1261,6 @@
           "width": 1200,
           "height": 630,
           "title": "China’s Pony.ai rolls out US self-driving delivery service for groceries amid coronavirus lockdown",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-ponyai-partners-with-yamibuy-on-autonomous-deliveries.md",
-      "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
-      "excerpt": "Self-driving startup Pony.ai today announced that it’s collaborating with Yamibuy ... as well as reduce the risk of infection in the course of deliveries. Former Baidu chief architect James Peng cofounded Pony.ai in 2016 with Tiancheng Lou, who worked at Google X’s autonomous car project before it was spun off into Waymo.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
-      "publishedDateTime": "2020-04-16T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Photo2-e1587077842271.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
           "attribution": null
         }
       ],

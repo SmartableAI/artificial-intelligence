@@ -2,10 +2,137 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-19-elon-musk-tesla-raises-cost-of-self-driving-cars.md",
+      "title": "Elon Musk: Tesla raises cost of 'self-driving' cars",
+      "excerpt": "Tesla is raising the price of its \"self-driving\" option on its electric vehicles worldwide starting with a $1,000 (£820) hike. Founder Elon Musk tweeted that the price \"will continue to rise\" as its technology improves.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/business-52703767",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/business-52703767",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52703767",
+      "publishedDateTime": "2020-05-18T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5927/production/_112332822_teslaautopilot.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Elon Musk: Tesla raises cost of 'self-driving' cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors.md",
+      "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
+      "excerpt": "Microsoft and Sony have formed a new partnership to apply the former's Azure AI capabilities to the latter's smart camera sensor system. The goal is to boost computer vision for enterprise settings.",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
+      "publishedDateTime": "2020-05-18T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589842585_untitled_design_(2)_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential.md",
+      "title": "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential",
+      "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
+      "publishedDateTime": "2020-05-18T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-and-sony-to-create-smart-camera-solutions-for-ai-enabled-image-sensor.md",
       "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
       "excerpt": "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced.",
-      "heat": 95,
+      "heat": 112,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
@@ -43,7 +170,8 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Microsoft AI"
       ]
     },
     {
@@ -95,7 +223,7 @@
       "path": "_news/2020-05-19-tesla-full-self-driving-price-will-increase-by-1000-on-july-1-elon-musk-says.md",
       "title": "Tesla 'full self-driving' price will increase by $1,000 on July 1, Elon Musk says",
       "excerpt": "Tesla's infamous \"full self-driving\" option will apparently get a small price hike this summer. Prospective buyers will have to pay around $1,000 more for this option beginning July 1, Elon Musk tweeted on Monday.",
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-price-increase-elon-musk/",
@@ -1188,142 +1316,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-how-a-chinese-ai-giant-made-chattingand-surveillanceeasy.md",
-      "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
-      "excerpt": "Alexa can tell you the weather. Siri knows a few jokes. In China, voice-computing company iFlytek built similar smart assistants beloved by users. But its tech is also helping the government listen in.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/",
-      "ampWebUrl": "https://www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/amp",
-      "publishedDateTime": "2020-05-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebd97001c8fdaf50e1b0062/master/pass/5ebd96bfd58e99fafced8061_iflytek_2400x1350_autoxauto_00001.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-10-ways-ai-is-improving-manufacturing-in-2020.md",
-      "title": "10 Ways AI Is Improving Manufacturing In 2020",
-      "excerpt": "The BMW Group uses AI to evaluate component images in ongoing production lines to spot deviations from the standard in real-time. Perceiving the pandemics' hard reset as a chance to grow stronger, more resilient,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/amp/",
-      "publishedDateTime": "2020-05-17T21:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201992144%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3267%26cropY1%3D156%26cropY2%3D1994",
-          "width": 1199,
-          "height": 675,
-          "title": "10 Ways AI Is Improving Manufacturing In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-using-ai-to-predict-retinal-disease-progression.md",
-      "title": "Using AI to predict retinal disease progression",
-      "excerpt": "Vision loss among the elderly is a major healthcare issue: about one in three people have some vision-reducing disease by the age of 65. Age-related macular degeneration (AMD) is the most common cause of blindness in the developed world. In Europe, approximately 25% of those 60 and older have AMD. The",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/UakhSqcWKFG3IeXxAeWRn9glKAVZivbPWLkZdtKeYhWrLtVVx--7YRIGW5j4DdUeSFZ0eLMGFrEhw5t_4CukZWwOx8hF2KUv0etSy94",
-          "width": 512,
-          "height": 288,
-          "title": "Using AI to predict retinal disease progression",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

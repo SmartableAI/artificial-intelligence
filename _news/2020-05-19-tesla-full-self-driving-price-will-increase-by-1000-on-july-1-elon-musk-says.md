@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-price-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-price-increase-elon-musk/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -56,7 +56,18 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 81
+  - title: "Tesla ‘full self-driving’ option to get a price bump, Elon Musk says"
+    excerpt: "Tesla CEO Elon Musk tweeted on Monday that the full self-driving package will receive a $1,000 price bump on July 1. It's the first hike in about a year."
+    publishedDateTime: 2020-05-19T02:30:00Z
+    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/"
+    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
 
-secured: "E4wSZn2yhSxiK5YKJCzaA8oyn4cKKVB7TBmJaS/UlcKQ66NuQMAJKhAFHBmw0Cl3dhtioN08Ehy911u+ycoJeVkUkld94A31Z6zMpn+eppw8PsJGTUAcSylyfNof0rgw7OOW5fHAk5cxuRJmveswI5AXaJiPSvYYVEC3SvOgt0RR6AggXuK7St/0KEoM2CRIsc0R+9BQbg6GY6+IdrTDBWx2WLXjcp40a8ZN4EbDgjnWeB6vK0a91AjQu1alefqOeruVgrtEDp+1F1ep056bHfIfKD0oBKPcweSGNwOfHxAn9cEzjNg2DYgKy9plAPzF;POSt8v+xfljKKlWSGyw4wA=="
+secured: "g1MN/KaJp1K9M8Zq9paWNMRgEEBs9Y92UmqFCvauMEp0oxgnmYVC2VFrKRlgcWiOXrBREB7xvPKpKau8X5db1QxzFROaj7ADGSrdj4BdcPfZDrK3zakt3YEugchrHmdhhG0J7MGHmd1e4cE5nXMxkQYT8Qrz4t5kRssA91uTsiwWIeoyjbqwcH2wQ6ktVxFYj0S/JCAdu4UFiTI3cTOaGk6ToHhQMjPpAaaqwkGbf44QtJfiKZZHbwIuT1pTwBfebN09NpjlgBuWRZvROZhx4ex4k5NoTBAySXkn28ApyMOpE7A49lIwnhwFYs9Q2qcflewrlTSwplH39IyiW/Kqfpg2YZxH69O6m6ZW2dbowdbbm/JU/H8sNBo768z5+/RN9L+5esZMhsTt3gaKJxc7ddaBmwaVcwOihoaN4Vzwcc943EeBGT64UlV5bb5yI9FWPqV/003rhS1zWGikkFdrdCkyjitsnFnIsFhTannRZik=;LvvB6kcu/wKqw6q9UIfZhw=="
 ---
 
