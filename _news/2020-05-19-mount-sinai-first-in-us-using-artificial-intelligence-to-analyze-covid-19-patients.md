@@ -38,6 +38,17 @@ related:
       - url: "https://media.wired.com/photos/5ebef9a16c0df3393bc20f6e/master/pass/Biz-hazmatdoc-1219925345.jpg"
         width: 2400
         height: 1600
+  - title: "Hospital is first in US to use artificial intelligence to analyze COVID-19 patients"
+    excerpt: "Mount Sinai researchers are the first in the country to use artificial intelligence (AI) combined with imaging, and clinical data to analyze patients with coronavirus disease (COVID-19). They have developed a unique algorithm that can rapidly detect COVID-19 based on how lung disease looks in computed tomography (CT scans) of the chest,"
+    publishedDateTime: 2020-05-19T14:56:00Z
+    webUrl: "https://medicalxpress.com/news/2020-05-hospital-artificial-intelligence-covid-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-05-hospital-artificial-intelligence-covid-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-05-hospital-artificial-intelligence-covid-patients.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 31
 
 secured: "wOfJh0g6Xuv/zsQlaXm0bV+PwCxBV2gXn4/Rcvzht7t7MgR8+PP89Ubbwu4ndRTBiKEQ+CxnaxK6XlfI/qKMbAhlj9dNGQzs8EAz6e6ZxSTSJ9Zv/XARCW9njXoC2HfGl4VYGaCVxNhAcnwUe0n80QaXFMHNQmvCpKiiYfRy8GslwNDryX4fYKKDqHEe9CjyNl06jpNVFklV/Gays3TRZQiWMitBuBBOCLBD3yncLVWwE+G1+/BFCF7awLzoLQK6j0UC10U6z5BuWA2aADnVKTl+gssyJzmrAJzveCbDw2VAcOI0MpZsGFqMPE8p1UCu;M5V5QwVXP1J9WecPx46VRw=="
 ---

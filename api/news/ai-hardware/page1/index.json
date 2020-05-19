@@ -85,52 +85,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-sony-and-microsoft-team-up-on-ai-powered-cameras.md",
-      "title": "Sony and Microsoft team up on AI-powered cameras",
-      "excerpt": "Sony and Microsoft are working on AI-powered cameras together. The two tech giants have announced that they’re embedding Microsoft Azure’s AI capabilities into Sony’s new image sensor, the IMX500, which comes with an onboard AI chip that processes information in real time.",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/sony-microsoft-team-up-ai-powered-cameras-091449976.html",
-      "ampWebUrl": "https://www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html",
-      "publishedDateTime": "2020-05-19T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7",
-          "width": 600,
-          "height": 350,
-          "title": "Sony and Microsoft team up on AI-powered cameras",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential.md",
       "title": "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential",
       "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
@@ -1303,6 +1257,51 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor.md",
+      "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
+      "excerpt": "The graphics chip will power servers used by Amazon, Google, Microsoft and other cloud service providers. And it will be used to fight COVID-19.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
+      "publishedDateTime": "2020-05-14T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/79Yy0yZjYrwQ_DudmDmuzkaHc-4=/756x567/2020/05/13/4e3681ec-e2c3-4c89-9ab8-b73afaa51f05/2555435ebb25b4781b28-39429237-first-nvidia-dgx-a100-at-argonne-national-laboratory-image-courtesy-argonne.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

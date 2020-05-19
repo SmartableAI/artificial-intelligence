@@ -25,6 +25,6 @@ images:
     height: 563
     title: "This Wild New VTOL Concept Uses a Glass Pod to Transfer You Directly Into a Self-Driving Car"
 
-secured: "IbplkSJtfkPoLl+JwZhUpCzUMFOkh87RpGpZNvKan6TZXJ79wn/ebANwawjggvYWpcul+wBtlmJ2jFQqeEYxCly94nJEMIRoHrl+UavkyOu9YkSNSZbIp06yLch7sJnQuHvRC7bfwVYKCrF8QYtA0TwSHMC57z5Fq2prlV6EGMDGeMX5+H4NVRIDG4meEoFm0NyUFXnPeeeFJ40XT2TQ7XuqDUMu4taJSduImBNan9SD+KNH+UYHYKURqzWnAAUnFvz+cKyooMJxrREVHY3SS5Np4JyX8RYG7WuEmyELrsCFKvnYfWQyyw2CAzBYQkkh;hTF2FppZMbKifAeeCHb/7g=="
+secured: "/+bYm+ulOMtaHsd8wdllXn5Lpc5+WpzZvgZK8z1WTXZfosQHZYxi+ZLjYj+YFtY+9EecEkEwN803wAmz/PlRsQUbajANk+J25gmDgnLKSBATP1czXMD1hJsHBJHGHtN1xvCrS1BZzVwKU6S/pg+tQe3Z9bLNiWPaYvpi6rMqsBzne328tFIQX6jhMb0Xf3rR2JhX91+QN67kzjYgiqZh5ZYTa3Ep3rCMtI+m3oPg2wgl40Ya4DUEcJFpFt2DndVNQa5mXXtJAtY+48EsQzrs8YYcXlgLVr1/kbVM9EtKo9TUapRFP40v75kTnVdnAOM2eUrMR9vzaHGwugG4rwcuevBbD03ERjn4zlIZ1+tFxsn224F5Y6HCSsP6drUaKv1CKLuJcbkkXpVy2HFrcumFwTqpSuFNm48xofFYk563LP/FY/XLhngZZ2UP+UJc7Sxzm6KWHiv2ik/fOybVx5X4iEw1kFkYsTjyixO8uKCs+Iw=;b9rrwg5qM2S7AuxM6dgH3A=="
 ---
 

@@ -45,6 +45,19 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5927/production/_112332822_teslaautopilot.jpg"
         width: 1024
         height: 576
+  - title: "Tesla raises cost of ‘self-driving’ cars"
+    excerpt: "Tesla is raising the price of its \"self-driving\" option on its electric vehicles worldwide starting with a $1,000 (£820) hike."
+    publishedDateTime: 2020-05-19T15:52:00Z
+    webUrl: "https://www.myjoyonline.com/lifestyle/cars/tesla-raises-cost-of-self-driving-cars/"
+    type: article
+    provider:
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 54
+    images:
+      - url: "https://www.myjoyonline.com/wp-content/uploads/2020/05/tesla.jpg"
+        width: 660
+        height: 371
 
 secured: "tJhRxsVq1/2NmnO3qaABpVHK/KigIDrmC1I4WBxRhPpsUBd8ENpiwRPbbw9lnnvgLzSyrvz43PB+tnmjvJqhtCYyu0WRVz5Tr+F6Gnc2bJmcQ/qKbSI4Zb/orj/qE+vtjw1Kjr+6ezas7inECwth51b+0smQYJhCjJ1lMImjOppxd1Ui9wJD9Q/cVKYGD8Ieb1tRlqnTahANMi/JcGH551kfzu144A33NKuX/sf0mlLUJk8W8clJyRpTsxWR+V4naI7n5BQ3azNegueSM718J2fcdJm0O5rgloFzWRhWambiQ5qPY2Eu0+LlFFUwqx3MVkDDhbIMve7iGarMdODEE1RvO6woRztRhNyrvSz1bILAq4C9SjJL1R+DEMhjz8YhjJQxuxhDcuY31udG2TyYiEiy+TpsqK2CljZZv/eSMN6/wpRnys+M5K3EfazUvI5fjG8tNM6PlfuD1JgVqZ/yz4opXeLHEJ2f2xUhbsAcLW0=;5BKkt82s1NxBKYp/W8fLiQ=="
 ---

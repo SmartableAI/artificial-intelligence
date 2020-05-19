@@ -5,8 +5,8 @@ excerpt: "Classical computer vision techniques being replaced by artificial inte
 publishedDateTime: 2020-05-19T11:20:00Z
 webUrl: "https://www.businesswire.com/news/home/20200519005208/en/Deep-learning-drives-computer-vision-market-global"
 type: article
-quality: 14
-heat: 14
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mms.businesswire.com/media/20200519005208/en/792046/23/OMDIA_LOGO_Endorsement_Black.jpg"
@@ -23,6 +24,6 @@ images:
     height: 627
     title: "Deep learning drives computer vision market with global revenues set to grow to $33.5 billion by 2025, according to Omdia"
 
-secured: "FQabnKPsLH5sTXEmJQUhjIx71PV7RSUD9auwZDsPFGDAtzcqe606My5X5k4tkRiwYpUyaMvLlw1q1WJIt5u3iXAokJKutF8eJnH4mOkeOmwt3osaroi9+0tpY5h6LFUi+7IkjFn+sANfNv0Zonz0H9G/5oSNwM3jXL7o64pMFOtnNGUkPQMvfOKoY1nQsMhOv3VabxbHcu+f/4e2GW4sgz4gyrQOu1BvWt/O+Au1VJ2iFRUBXrq+iABHrW7xre6ys0t66A5Jld4EAvtCXMXJ0qKQH8y5pQ9J6bUD4LcWSLYfxj/MHfpcA7fOUyKEhOH/;qD5qBl0lhBdYHjPtP5fOcw=="
+secured: "jACyPQzZSL8yrpc0TpEE5nkMcWCWNHpzr+n4KYDnICAVMb9BRQsBD3FAiocaF3Sbk9pVcWrA9wlAfTFJWJjpXcscv4LYDpvTheZAS7G5NC15kHVjMV0aaWh3SuhkyNt7E65lDafdowf0WFXShkrR6ZNEYVv8hTovbrpjCG8cbKNnMnvlwgxi+UJqedPv5zhKZmuSgmN5IdRpG1AcY6vtuUXWTS7c8KFSj7+Sv/tiKoq6dmRS4L5YOaR9GV9oVOYT/IfuuyP3UL6OnIyo43ZYBGd0wprnoi5JxcD+ouI7rJBZdBYpZKnSjXU1QW3hFC+OrfCklmXzsUW7lbTtoYUiCNJdKJPJ7Vtbhvh5WTak45oc5lSP8b9yWAuUdU+jn4Eakc4+BqeY1dCTDAkBWf6+AAhL5FVijHm5LjGh7BUAqVkBtqQ/cWmQqlhK7Dw2hdoHJatwTb8fXeIDvz+zamtpd66Td3v1f+DKwkD2DUu+mbo=;mJTeZvAvMtGB2kHkKxaRJA=="
 ---
 

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/sony-microsoft-team-up-ai-powered-camer
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
 type: article
 quality: 106
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -31,19 +31,60 @@ images:
     title: "Sony and Microsoft team up on AI-powered cameras"
 
 related:
-  - title: "It’s not all Xbox vs PlayStation – Sony partners with Microsoft on smart camera technologies"
-    excerpt: "Sony and Microsoft announced earlier today that they would be working together to produce significant advancements in the field of smart cameras and related video analytics. The partnership will"
-    publishedDateTime: 2020-05-19T10:11:00Z
-    webUrl: "https://www.onmsft.com/news/its-not-all-xbox-vs-playstation-sony-partners-with-microsoft-on-smart-camera-technologies"
+  - title: "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure"
+    excerpt: "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,"
+    publishedDateTime: 2020-05-19T15:13:00Z
+    webUrl: "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/"
+    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 28
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 112
     images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2019/08/windows10-camera-icon.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024"
         width: 1024
-        height: 768
+        height: 652
+  - title: "Microsoft builds a supercomputer for OpenAI for training massive AI models"
+    excerpt: "Microsoft is building a supercomputer for and with OpenAI and is using it to train massive distributed AI models, which it is counting on to improve the AI capabilities in its own software and services."
+    publishedDateTime: 2020-05-19T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+  - title: "Microsoft builds supercomputer for OpenAI to help train massive AI models"
+    excerpt: "Microsoft today announced that it has built the fifth most powerful public supercomputers in the world. The computer will be part of the company’s Azure cloud platform and is meant to train large artificial intelligence (AI) models."
+    publishedDateTime: 2020-05-19T15:53:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/microsoft-builds-supercomputer-for-openai-to-help-train-massive-ai-models-11589902587352.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-builds-supercomputer-for-openai-to-help-train-massive-ai-models/amp-11589902587352.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-builds-supercomputer-for-openai-to-help-train-massive-ai-models/amp-11589902587352.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 73
+    images:
+      - url: "https://images.livemint.com/img/2020/05/19/600x338/18f773e811c64588bb749e45635cb30c-18f773e811c64588bb749e45635cb30c-1_1589775788668_1589903233519.jpg"
+        width: 600
+        height: 337
+  - title: "6 Top Azure Announcements From Microsoft Build"
+    excerpt: "Major Azure announcements at Microsoft Build include the general availability of Microsoft’s Azure IoT Developer Specialty Certification and training resources. Microsoft has built a new artificial intelligence supercomputer on its Azure cloud in collaboration with Open AI,"
+    publishedDateTime: 2020-05-19T15:24:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/6-top-azure-announcements-from-microsoft-build"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/025d-0f723237befd-c26ed7ec1ca9-1000/microsoft-build-2020.jpg"
+        width: 610
+        height: 458
 
 secured: "Fi9/D/KN9Bt/o4icITK+SXmQupxP7PC6nPO5I9INOb2ywfKTKvVAPzDQQDQ8eQwC6r8GXIL/bjwXDfAP6mf9OUTL4btY8R3V/jvRNBvtq6mGVwosvhX615Xzv2qYtr0zG4PGyHcNbz46bW0dycqDTHHvKQjfjRvsQH+hCkPi4KaMyRx4lMgEl/8RIyI4seHjcHoceXaKCyhwiNmDeiRFsps/exwLLa8ehACrJ202y94B5IE8rDrCcVWDsPN/MNIGGOulfWn7NnyQsMMJYy0weu9dKExmEN7Kj6p6YDcAx9JG6449VM/vKBjPXjU07dmJl/l9DvW7bmtjrIZUztfD2vqmGVAUi9S8MgM63/2h4LbbAB+pQwYPt8wtfX8DgHu3aVNeLhj3PjZlZ8McEIm1B1Suw/9YpL328X2FL1jBcsR8zNCgRZDVdD/i1HqSBfOwsLePdn7S5UXaNCciQ+r6C9FPnzdAl3VD/tobO5dPWTc=;Vu+/RmRmkekIhrDPC8SmAA=="
 ---

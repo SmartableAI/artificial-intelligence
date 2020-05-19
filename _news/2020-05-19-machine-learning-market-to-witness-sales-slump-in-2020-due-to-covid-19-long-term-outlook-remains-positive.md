@@ -5,8 +5,8 @@ excerpt: "Reports and Data sheds light on the market scope, potential, and perfo
 publishedDateTime: 2020-05-19T12:45:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-to-witness-sales-slump-in-2020-due-to-covid-19-long-term-outlook-remains-positive-2020-05-19"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

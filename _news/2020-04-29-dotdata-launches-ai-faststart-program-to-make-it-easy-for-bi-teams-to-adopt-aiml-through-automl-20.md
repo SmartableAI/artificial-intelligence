@@ -20,6 +20,6 @@ images:
     height: 315
     title: "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0"
 
-secured: "TlbugdHhVM+CRa3neXJc4fHO9uQ2ubRpvLF1NSaH8EI9RJkt5ywar9CAlqfXCM4YK9paAYWWdgJJO2rNey7zabf5siTI7myw8Zcbt+lxcmTaRqm2PMuBG7kGPLHeVsLbGbs/0ihcJJxfm8CU9PRGkaRggnYjKeLwjY/E4a7lxBuIlqjlafzD/XtJ7+OXVTrd8ACjCo24g+UaNVliSxvbQaKJ5bsz7BjOXhG6bwIKou54Xjdcckir/Exj6Alnn+cA6eWUs2RNqcOBGozRlC+EIAxjXCJ8tJGPoiSEZUI/zP9nNakczwC9tCAeTfQRWrKI;tiCYyYxdrlfsc7yS7RU3+A=="
+secured: "L1BiXYkhnDmyEjyogH6AB68cPO4PJKNUvv01nRrljXuFixIyjrdmc1P+0jLeR6234t6kd1/fIxXJvJyC2baMowvRbqrVAX3//dE8EmqzwqP0GlFoknm2nE3d3/lEQ/1eFtBtqvQJd85gF1YzlclhJg0vpbJ+2yMMsHlpb6cQyh3bqzGVTrE9JT5n/trXCOVPp7LpwmkP4ne94nT0z7NBMRgWB4499o97ZrRkFitjBvb25RtmR8y6sKXtG+74jPkqloYTjRZsY+WWDylquCAGgNNVYJswqzFpDdGpVRq9UIow02Qk+V5osG+Hh2j72D3j;QJBTz5NqiqKRnLh2ztwEBw=="
 ---
 

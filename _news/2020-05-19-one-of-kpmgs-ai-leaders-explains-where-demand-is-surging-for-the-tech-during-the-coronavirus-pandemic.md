@@ -26,6 +26,6 @@ images:
     height: 600
     title: "One of KPMG's AI leaders explains where demand is surging for the tech during the coronavirus pandemic"
 
-secured: "MlOVn/sy0oFu+fM6tj/9912Ro6Te1e0EBAgOrv4g9GXHqRFrAubH6tRmUQS8ph6EdFFlNgDE3z0NxNZPmf6XimlKkQgFTUpmBwV/tAwzLahRy28on/lwPWhZ53d+qemJ5+e3EhC08PL3UX7PphBeFAlYGMiL/8gi7WEW5OZ926KjStHmZqOWWfD/DO8WYV7E3DKmDeFfZ8dcN9GZlQk1/KYRTf+hmv6wdeHmY1tnUo56rImPwikqZORy2SeE61xSC15zUm8fW+tnQ9B+XWTJW6rJ+OVYLzln8RTA2QDlW1G1k3qb53O2a9Hb6T2WnqEX;dVtklPKJ5AOc+ogf/gdJQg=="
+secured: "AzYJlDROAVCjZvsqRTypub1ajJJCmqcKhu+PVlXwK9Pzb4QPuXhdnLUn/J7Pi/OEyv98lzkBzYE0JJhK0LfO+bqiUsl5LYVbgFQIUVRTC+rzLpOKh+kjOzhRGlrUQjuGiYGGaBEXWGXllpNOL1N+q1hzdfYFF35fVlZRtSMH3A28XQrYEtuNMHAEVhzWJ3ftV+ElbnVeNQD1/NPtX4p21pl3Nkn5Spv8iEukbUoQTP93pEUNTWdfSp6MohM1uslgBnutKxAIuAtmjaEQLGwISZWrjcZGZ3zVo2ClUjX93j9xflIyPUK01D3I94CTNrcvDZ106IR07DDqQ+v036w+kChpsmvWYaANNYngjDJeufucNZWJKNwdhj71yEmRmo7u35XhENqoqBrMigcAmqRoAbyre7bgOXkvG7q4wh6xbXt+AKNKBxh8cA1j3+cSdpefyEayo5FqbXNBiahvcKzqKy8rkZyQxS0IiCB6Oke0tNs=;5JRZMPprNJdnC4BW7GZeow=="
 ---
 

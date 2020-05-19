@@ -5,8 +5,8 @@ excerpt: "AI-doscopist was pre-trained by 1.2 million non-medical images and fin
 publishedDateTime: 2020-05-18T09:25:00Z
 webUrl: "https://www.nature.com/articles/s41746-020-0281-z"
 type: article
-quality: 11
-heat: 11
+quality: 13
+heat: 13
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-020-0281-z/MediaObjects/41746_2020_281_Fig1_HTML.png"

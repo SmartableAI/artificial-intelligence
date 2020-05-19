@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-pr
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp"
 type: article
 quality: 93
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -45,7 +45,20 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
         width: 1200
         height: 630
+  - title: "Musk Says 'Full Self-Driving' May Be 'Worth' $100,000; In Unrelated News, I Have A Bridge to Sell You"
+    excerpt: "Tesla CEO Elon Musk has claimed full-self driving will be a subscription option by the end of this year . For this reason, Musk has claimed that unlike just about every other car on earth that isn't a Ferrari 250 GTO,"
+    publishedDateTime: 2020-05-19T15:16:00Z
+    webUrl: "https://www.thedrive.com/news/33563/musk-says-full-self-driving-may-be-worth-100000-in-unrelated-news-i-have-a-bridge-to-sell-you"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 9
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2020/05/Tesla-Cybertruck-2022-1600-01.jpg?quality=85"
+        width: 1600
+        height: 900
 
-secured: "MqzbTvnQn3CqmeljK3nDMkbQd38tQUPGCFyp9Ydq7Jq5eBlMTdhmHHW1YnZnNrBnHFlDU02HzqRUxx6Om46RiXVhz0tUoa84PymQqEMZEjShuDyCYCaK+rL0dI4K5XVohQdjh8oQy8ITZx0SO1Pnf1j9IEKeE0CevdX/nrakgj45UvW8UrVlFVP62Uqrs+7fCCCYclXEoamJjAOTPV1awRA19ZdApKuIBJEyneeB70LINK+A3Z4ZJQD4RNFo+0B40Boj/W5Y6DKeKjSnwXNbFdzKRLzwLzv+bVXxr/my8QJ+wuQ4jXOpckCF7LhfXLoF;Wedg3PhPjqzqnzwJbxcUxA=="
+secured: "GgajfZXaIzlw9Hy+r71WJCQHUZt1seBLJoNfMDwGZRdqS7rY7vJ6/udA6weanya9hV646hIGx+kBvckM77v8zPa0WXah9+2Q97jgU0BB5b2RH0N7q+veApbnX5tO9Cs4WS0s0qAmaA8xs3JCGjMKazRuYJyI2iTEz3VMv3vsdXiZ8pUs5xYDxdPu9gN5tDxAD9iEGkJ5sZ1yLJFHugmz/5yENvQLBJqNmw6nyMT4HDBYC1HjoJKdcMx9XtKMjVJ3p1eagdpu+PkckMIFC6YS2s81e+Qi+98Y+u5ZN7chTDiToxIOubePa+Rd/miokNSj7rcQnSML3TBcqf2r2KUoU2ulJOzhMz2KvzECXN/vheJoxYuVJTNqztit/y7qiC9uOkT1mUkfW33vxCMevAVh7c3r+KQQ2S1ZA12DtMnDGdvKC0/IQBH2A8iwI7ip2o7YsqfaMjMHo1qhxo2bUS7u7iJjLf67dtWzoGQfq8pbCLM=;PWs6Yg64KWnf33+MIBIceg=="
 ---
 

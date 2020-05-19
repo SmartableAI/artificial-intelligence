@@ -1,25 +1,19 @@
 ---
 category: news
 title: "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020"
-excerpt: "Recently, the results of the AutoDL (Auto Deep Learning) 2019-2020 finals held by NeurIPS, a top AI academic conference, was announced and Inspur's te"
-publishedDateTime: 2020-05-07T15:13:00Z
-webUrl: "https://www.businesswire.com/news/home/20200507005360/en/Inspur-Takes-3rd-Place-NeurIPS-AutoDL-2019-2020"
+excerpt: "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ..."
+publishedDateTime: 2020-05-07T14:42:00Z
+webUrl: "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200507005360/en/790124/23/inspur_logo.jpg"
-    width: 1200
-    height: 627
-    title: "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020"
-
-secured: "SYLot6oN5XAA0oPj7eA2XLTJAt/p5aQeqaLkk40N0jWprGvO6oRAaA2tOjrYdacMLfJpUG029fHUQ83NdaOu6HMPTrG7hwLpM9v9FmS5Rd6CYmH4yJH3mlsYr+jtpqIfsL7SA+Ejp7RJf2cSDAAAf1eu8PDy2o5AYyQysiPVklarpnKBFoM5JOVqLE4OzzXfo/5OVcVwl7A/FKqdNdtuiiavlvtr9U9ZdF7pwJhiz4NS6FZ1No6OCFIqkc9v2fuLtsTblSkJvhuq5OHIyJSmqzK63cgt24cjAzwOMBw3oN4/fHoH9z6g72KjIv6WA4CYr3OH48NWqBcl0Zyvm1o8ZOflZ3n9fCkWSDx+gE7HBmE9guCShV0QbFrv5o4PceypzZjraIP/p8PRfKV9iRuBc4ccvvLHemjZXpfkonLwo+46qpU12yQR5CpR93N/jXVI8J9C+iiJy8LJ6EXv6woJc0FoQKFLBli5x20oJzZB/ww=;PyB7n4dlfoMzkJgQ7J+rMg=="
+secured: "Of51hY/06A1jC1AQcYB6z9+d+bM+yWFh4FzDO7E/yGM1MqYJ0xIKb3ovE3OpLieL+Qk9M73zYm2qHH+4kPNxFTu19sEBZwLEO8vW+WJGirlgJNdQ9XNS5fwObaLk/V9v9Dq+yEUNHyLBNUappmveIPXa2IUgUc8lj65piyNVqEZUt8YxDur8lzk+LrVizNAsdQy9MYW/SZUJ/ZCHZnQOn5jlEPAGdo77U8nNxEDJ25GHjBqkXqrVv+Bfi2MV3imknphZEGKqL4283i73AjNHxwckmYrD8fnmcXODiNSCf8owiosV1oS1tzApdbqSq/o/;yCROv0fu3m1oQb6Dd2O8mQ=="
 ---
 
