@@ -27,6 +27,6 @@ images:
     height: 600
     title: "The Weather Channel app now offers a tool to predict local seasonal allergy risk using AI"
 
-secured: "fWXTBJoJzTBKctrGixOHiH29vOrRQ+oY9q0e4OC5GNo6sojt/H07RJZeH7DViEaHui0CxlMFdc8qgi2CqGzS1zPUyXTH6wThDHyLNFraWmre/UB7CFQ12y/9v08JMs9lKncHsuv92/oS7283TiqN9iWoJdANhL/I69E0mpbbWHucQkvixEuc76RBx4mNit4/izum7EGU/u+wmWnrGSo/RHCib56dmrZPl4QejLaZ+Cht0l+2C37DAcS3ol9LWAbzJ7xtk/gV/fQZXXMfJOSb8A3GynYvcaEg0C9sWothZUtFA95/m/CEMPLuiDzgwsUE;+Wx0ow+SJnmrBYqOUelwIg=="
+secured: "FY7//aSlTG3oRYC2Z6V6N6HxGb6zfGY4dz9Nzp8h2HwNePTLIBNuNx3Nj+ERfD1XtxJ2z0LjRMnQb4qZR1Z52yMO9JmBTeiHBtV/wZ8yoHQuq+A34RiWQE5zzXWI/S7RV3aN/ilgCmSyBYlUKfn2gCf5gxoI0AgBOQ8heNXzRs9hVe/E4P1OTruWJEga4Ghj1RU56EqPqrWTJuqx5EFNinao3wTa1MyX8EucPy0wcH+2XgdXdhR4+DEmtFQegIDv+NiJWO17J1YOzHOTViM4PKOuTTLla6terJkD22B+1ZFAtLP++KVGjwhcrqOjd+Koq83F+abzvZr0oP8dr7UjUoPxSS2CQvjT+2b2AmwY5E08JXuaFoqjLACrKY1L2K3VwqcnTa8Rq5WOwRIvp+wzmD7fYtKEXaWm0MDP0U30sy7hcBPbUEq4rJenQYlVl81RLogncvbJueD2CYq7+R1AENIORpD83+GLwgksTl0RsLg=;fBWjcVIqPiqDqLSSiQaeYw=="
 ---
 

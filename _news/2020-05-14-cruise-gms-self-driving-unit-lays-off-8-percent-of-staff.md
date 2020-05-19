@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/14/21259001/cruise-gm-l
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21259001/cruise-gm-layoff-self-driving-unit-recruiting-product-design"
 type: article
 quality: 74
-heat: 125
+heat: 124
 published: true
 
 provider:

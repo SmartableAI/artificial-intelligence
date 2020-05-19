@@ -41,6 +41,21 @@ related:
       - url: "https://www.rapidtvnews.com/images/2020/May_2020/Elemental_12_Jan.jpg"
         width: 400
         height: 234
+  - title: "LTN Global joins AWS Advanced Technology Partner programme"
+    excerpt: "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable AI-assisted curation, production and programming for news and sports content. “Media companies are increasingly looking at moving playout, transcoding ..."
+    publishedDateTime: 2020-05-15T10:09:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/ltn-global-joins-aws-advanced-technology-partner-programme"
+    ampWebUrl: "https://www.tvbeurope.com/media-management/ltn-global-joins-aws-advanced-technology-partner-programme?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/ltn-global-joins-aws-advanced-technology-partner-programme?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 59
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2019/01/cloud.jpg"
+        width: 600
+        height: 400
   - title: "LTN Global Named Advanced Tech Partner In AWS Partner Network"
     excerpt: "LTN Global, a provider of transformative media technology and video transport network solutions says it will leverage Amazon Web Services (AWS) across its suite of modular offerings to improve video production,"
     publishedDateTime: 2020-05-15T16:22:00Z
@@ -55,6 +70,6 @@ related:
         width: 581
         height: 201
 
-secured: "WtvDazoLbSpfDaOOkukTsuUB0Tml+BI/lgssLVFe2JfdjSTsDRy3Sf8eZfSWsYkFT4E6FYg1DqlQusxh3A1PoLK/sUq2PaNePjS8XFWuT2kzKSbFoffZrjRNXzuFJ3xEk5mVkkbDswnBfiWn+/w2zb1VRhZjG0qYIG+0KFdKLhB6iud42dvDwgP0YD3WRaOzNij7jUns/nHc416NKlRI1KRbAo2sMyaLNUncSaTtABbGnDUKMOLDdVCafGxMbUxw5g2ak53/to4C0r5M4rR7bEEq7LFTZgDmbId73Zg0XA1wQB2jFnPzd42ZGYaEsIq3;YCljydGO631nrwzH2Slxhg=="
+secured: "Fnbqw7jTMRqZCRaKIgxM2Bfi+XY950gzSSpXuyOue6ymrqnK14h095MvpoDyksOHUtlHzMynzSXuWH7W+PqJa9r+600tjwocnMpnWJRSiR4xwE1WlOXk7u8PUgfncEpRkPADrL6kEOQAXnN9SfBIWEPaqNgiL+MII15XGvKwUzwPKdJzkAxqlaGT7Hc6fPAayfnZKRN0qAtkeX2433CR+g/z53QASOKS01k8l8mGZ/an4vvJmfaG6XV4ESPmGU59M4ZgOpthYzZ3LvgJVqDb+v2xPyvTy9wCQWlHEMSxoa8pDE+1+XWAQjiXoW4KoHk1;H1lAnLlW0ttw4d5sXgpUzw=="
 ---
 

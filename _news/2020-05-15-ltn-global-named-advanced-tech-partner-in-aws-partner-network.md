@@ -39,6 +39,21 @@ related:
       - url: "https://www.rapidtvnews.com/images/2020/May_2020/Elemental_12_Jan.jpg"
         width: 400
         height: 234
+  - title: "LTN Global joins AWS Advanced Technology Partner programme"
+    excerpt: "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable AI-assisted curation, production and programming for news and sports content. “Media companies are increasingly looking at moving playout, transcoding ..."
+    publishedDateTime: 2020-05-15T10:09:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/ltn-global-joins-aws-advanced-technology-partner-programme"
+    ampWebUrl: "https://www.tvbeurope.com/media-management/ltn-global-joins-aws-advanced-technology-partner-programme?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/ltn-global-joins-aws-advanced-technology-partner-programme?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 59
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2019/01/cloud.jpg"
+        width: 600
+        height: 400
   - title: "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network"
     excerpt: "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help ..."
     publishedDateTime: 2020-05-14T12:21:00Z

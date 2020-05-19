@@ -3,7 +3,7 @@ category: news
 title: "NYU researchers built an AI tool to predict severe cases of COVID-19"
 excerpt: "Some people have only mild coronavirus symptoms, while others end up on ventilators. This algorithm could help doctors understand which patients are most likely to become severely ill."
 publishedDateTime: 2020-05-18T13:00:00Z
-webUrl: "https://www.fastcompany.com/90505134/nyu-researchers-built-an-ai-tool-to-predict-severe-cases-of-covid-19?partner=feedburner"
+webUrl: "https://www.fastcompany.com/90505134/nyu-researchers-built-an-ai-tool-to-predict-severe-cases-of-covid-19"
 type: article
 quality: 37
 heat: 37
@@ -22,6 +22,6 @@ images:
     height: 720
     title: "NYU researchers built an AI tool to predict severe cases of COVID-19"
 
-secured: "0nP/l5U2FdQYkahOgwBnXWdkHjyWje+VZ4g34ioaIrxtp1hv6PxG5jAm+ERw9QOayc7ofkyNe7FdgJtQ5Tulsndm/6bXVVpvXeBCA80mBxTSFMnm3hBURk3ivQ9Yy96eEHCN5cK0q1ooH+3a+pysqNna98UfjA+LAUvi1BjN680Ztd/naapJO+qgTQzW7oa4lKakwLKng9Yza95gecL1ghx2J5S/4msJN5fXD3Prr1GddW1EWW9fs47JDUJV0u1gitBTcZssYskb2jZIPEP+fSUaqokTCC6hqVgCwaIOwFA71ewkK0OX5jsuFjjFh3QIy2Kl19S+K66lhBHyBeeNmtagSeyQ0d4iyW8+TRk89d/S2gHvT1FAPtUqpDf6FIP42ot3yHl4RSK681Rl0iYOfaUJClLmqgIqVRbjfQSsLSYB1RXG2B38o8oAwFvzzlIgCMYuv1Y/HWhVe49Jp1AuUeMnbrksWWKegb5bN0pfxOQ=;C9HAZ0PxOprR74FKjmzGvw=="
+secured: "KchByl+NA1A7t6/Iz9T8AUcT6ULnR+VFlz+t/IwkCENH1P3NRYHXJ7b0HnM1uRPhOq+xebGoD8nx4Whadbx6gVFFXkNSqeCTP38u4UlPqFgrDcTK/Hpj/Pe80ub6r0uEICWTUlT5kd8fs5RKb1fB5HNnqa5nqyb/XH3T3qVBf4VBcQIP1v9rwhPVtJTkCM0wYCGeJUQJbXAOum5BS7Vk8NTlwhmaiJvZlaWb6MUVXywJy4LVzGvIg84WAVPW8M9ImWcTJQ0qP4QAyVkJQxvwOVZSgYAhnYlpKlMdfUHsNbjOIcm6rTBSC867TWI5Q5at;VXFErvXJWTBD9tsEVr8ETw=="
 ---
 

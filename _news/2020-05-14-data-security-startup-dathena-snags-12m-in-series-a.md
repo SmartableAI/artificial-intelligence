@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-security-startup-dathe
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-security-startup-dathena-snags-12m-in-series-a/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 675
     title: "Data security startup Dathena snags $12M in Series A"
-
-related:
-  - title: "Data security startup Dathena nets $12m in round led by Jungle Ventures"
-    excerpt: "The Singapore-headquartered company also received investments from Caphorn, Seeds Capital, Cerracap Ventures, and MS&AD Ventures."
-    publishedDateTime: 2020-05-14T06:01:00Z
-    webUrl: "https://www.techinasia.com/dathena-nets-12m"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
 
 secured: "QBo/8p6xhheZNuSG8+Q3djvijMwUQhTdmpqojI2k7WsTasFLQ9BvM1Ml45mr9/0lA6DlY3V/d91VtcdPtk/pQQbhCor7UchHlGUalfouUAZh5TXs+aEGGQavtmV0a4cZoSO2q+jaM3P5wu8ud5H6U3PjX24vUZaCGJ4YOizL4Rs81KdUJdA60lqPmpsuEI9spqbO98NjnDVhYJB73IwmT2YN3cBZxls85vV4iNzvVWKPiGSAXEXiipvxU1u65rFlTFQWSlfdjxMPCOroBjUJwCREM/SRSqSYqLC2vxwF3jRXkiAYF6Xq3SsnhddX6+AoUvsuQm5WX2mHW7M2j5olhTE1pbgvAvl++EELaAXU+jGixy3ZheAbf1jW5vxZmlOVRrv9TksbA7/VCB0QZlfekggYtVo6URlvLkK75VUoCom3olZMSDJ7Wy/SlqmGZFnygyWprI9RgRO167XCC98i196zvCNRADC2eE9S6x5Id7Y=;2XJ8h1O16korQ8Dh5aTKBw=="
 ---
