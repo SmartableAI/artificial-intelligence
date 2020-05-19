@@ -7,7 +7,7 @@ webUrl: "https://www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focu
 ampWebUrl: "https://www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused?amp=true"
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused?amp=true"
 type: article
-quality: 116
+quality: 84
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
@@ -87,6 +86,6 @@ related:
         width: 610
         height: 458
 
-secured: "0M5lHCnhSjURi1zfcOeLCLOjaVcLr/o1n9azqlrQrUz+AZ5fvRpRRceEgQz49U0ignl2i7ghI6oYJUDRGUZaihg6nDxmdYGBUbbWVMGq5mA64Gdv92qdPu8DHgWzP1CXDkwy+QpG2RWLey8xvm0oqCohJJaYtfJ9IEqCGmrWoF1rRiGb0OkNxeEHJAlioQz89ctWTSFhz9ReSRgx5cfLvherixNeTsc8ZCazf5AroZtf+ppERju2adna0fkUEU5OCMgxEjvK0H5LPACF2mwlH1QYEM2jN4u+ngS83+SelUHqbZrCcxk3+deqH0CAzZJA;ahtkOUW6CCbxfGNlVgUqAw=="
+secured: "Aw2egd12n7omnCImxI/azqAErHOE8QW3WyH9gvRk3s4hgfhZQRrDTnoJSvml3Xc35Pklh8pv6QwzHqGbJGAnuTViuGQXm6t3uOLfvbm2Qrj6lXINyCIeVEON+/RecLq4jC7ZggfOGYlT4hq30bqLR4aJjEww3/K3NMXvNsxZ3T5EfTnIzkhfGKfLd/UCRbmxU8NjLkHcdeEcor0AvtZCMWG0R3o9wsVYz1OqmekYVJpnHlQU5BRbNx25dNUl4I+vIIlmYzWHbrytQiaFi3nedn6j0YyPR8v8OhFst8elWcArGau6S14unU22giBxXzNk;uSnHUvO7zsce5qNU40b4gw=="
 ---
 

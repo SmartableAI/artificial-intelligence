@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-19-tesla-will-boost-its-full-self-driving-software-price-to-8000-in-july.md",
+      "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+      "excerpt": "As the electric-car maker's driver-assist software package moves closer to being truly full self-driving, the company is raising its price.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "publishedDateTime": "2020-05-19T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-americans-dont-know-why-they-dont-trust-self-driving-cars.md",
       "title": "Americans don't know why they don't trust self-driving cars",
       "excerpt": "A new survey from PAVE suggests self-driving car companies have a long way to go before they people trust their vehicles.",
@@ -79,51 +124,6 @@
           "width": 1200,
           "height": 600,
           "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tesla-hikes-full-self-driving-add-on-by-1000-but-elon-musk-says-its-worth-way-more.md",
-      "title": "Tesla hikes Full Self-Driving add-on by $1,000 – but Elon Musk says it's worth way more",
-      "excerpt": "Tesla CEO Elon Musk put on his sales cap on Tuesday to explain why the company is jacking up the price of Full Self-Driving (FSD), the electric automaker's contentious autonomous driving feature.  Come July 1,",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/tesla-hikes-full-self-driving-add-on-by-1000-but-elon-musk-says-its-worth-way-more/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tesla-hikes-full-self-driving-add-on-by-1000-but-elon-musk-says-its-worth-way-more/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-hikes-full-self-driving-add-on-by-1000-but-elon-musk-says-its-worth-way-more/",
-      "publishedDateTime": "2020-05-19T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/15/3053554c-c824-4836-8a36-0799d582197c/thumbnail/1200x675/e43c36f0d6c95273d85fcae3b0f11c02/applestoreistock-1157988186a.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Tesla hikes Full Self-Driving add-on by $1,000 – but Elon Musk says it's worth way more",
           "attribution": null
         }
       ],
@@ -1282,14 +1282,14 @@
     {
       "path": "_news/2020-05-09-weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal.md",
       "title": "WeRide Trade Secrets Feud With Rival, Ex-Execs Ends In Deal",
-      "excerpt": "Both companies are developing autonomous, or self-driving, cars for the Chinese market ... According to WeRide, Wang was pushed out as CEO in January 2018 after his former employer, the Chinese internet company Baidu, sued him, alleging that he failed to return a laptop belonging to Baidu, stole Baidu's trade secrets and poached Baidu's ...",
+      "excerpt": "Both companies are developing autonomous, or self-driving, cars for the Chinese market ... the Chinese internet company Baidu, sued him, alleging that he failed to return a laptop belonging ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.law360.com/ip/articles/1272042",
+      "webUrl": "https://www.law360.com/articles/1272042/weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal",
       "ampWebUrl": "https://www.law360.com/amp/articles/1272042",
       "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272042",
-      "publishedDateTime": "2020-05-08T19:30:00-07:00",
+      "publishedDateTime": "2020-05-08T19:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Law360",

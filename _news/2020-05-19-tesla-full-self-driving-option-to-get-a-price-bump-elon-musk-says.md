@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Tesla ‘full self-driving’ option to get a price bump, Elon Musk says"
-excerpt: "Elon Musk hit Twitter on Monday to announce an upcoming $1,000 price hike for Tesla’s full self-driving option (FSD). “Tesla Full Self-Driving option cost rises by ~$1000 worldwide on July 1st,” the automaker’s CEO wrote in the tweet. Tesla Full Self-Driving option cost rises by ~$1000 worldwide on July 1st. Order a Tesla online in less ..."
-publishedDateTime: 2020-05-19T02:43:00Z
-webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?itm_source=1&itm_content=4x6&itm_term=2498356"
-ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?itm_source=1&itm_content=4x6&itm_term=2498356&amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?itm_source=1&itm_content=4x6&itm_term=2498356&amp"
+excerpt: "Tesla CEO Elon Musk tweeted on Monday that the full self-driving package will receive a $1,000 price bump on July 1. It's the first hike in about a year."
+publishedDateTime: 2020-05-19T02:30:00Z
+webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/"
+ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
 type: article
 quality: 69
 heat: -1
@@ -40,6 +40,6 @@ related:
         width: 1000
         height: 497
 
-secured: "E0IrsjxU7Jwrh/rVeU+PxPMHtwN7uYRf5V4RLHSSOiXzZF77Md1aZwm4c3CBjk3VlpeRJUcdzYAgqKBhsViHF3+4ipwznMlmk70+3TVKRvZHa2cDDd9qZplT3D9ZzXeyaF+0VOotdTB1fTmQwPOL7++BAdR2ViXdXiDWBZU7ARQhHQ7gKqtfL2t/o/tRBdJgdr/k4cazrFnVnIfQPfmZC/dVcYFlvqzsqqgfyyNnrYtKTlcIvsT2JCoTHrxcXLW3STCEBuLfNunKQpUoH8MrZFiw6iBTSDX+rwzY/knH984qM8+xYDe8EnoR1cFukEY1S0SyCH8Rrw/kWYXqEOGwPFcZMz2gi3BaN/kR0/ySfEQdosiQI5ZNqSe/xQJb5vNv38xdgBfBT13Ug7jg6bDJT2qJfNc1/c9A1jsGKLdC66VWDC+l5gTr0KLtF434Ab2+eY21HW3eaeVG7ewHLM5xgxbf3cwiLp3VB5/PsqIDo5s=;QzrkD8H939UVFFEN18QgFQ=="
+secured: "IgPmGXWF5QWYpkTp4hGA4+DDP4dZ5nW8J1z3gChKHaDqtboeTirjfL0kf/fWDv2j17eyC/LouUKrYyh14fO4Cxx9ffUFwUHZoem+O/GoaCuJOLDtPRs5/9l0RqczEiluPMsbY3OQrE50cA3zspdZfItWEqKI/JyKute7hsh+0G7b//aOvvc16XzZY4I3s4orwL744rRh2L5V2mS9NmpdouBMtBKoAb+urPW+NJDsmzCGXp4bWskqrjXdYYxuZDkUexHEVQefBguRz9ExPClQ9dahHZ4qeU/Lrik5+/Bv1rx/U+kUoNL8nLnPN1rVGr7wBwNJ9cyMmusNfP0ML4Z7Js+neLtQ4aUkCAcQA+yzdZLj8v98SSyM5E/OayyXOySDsARrAFXb4yFC4MzCC4EhPNC6V+K36d845iC8zBbQivBFbeNY+GJmf7JuMIn7iHY6qfOlcROAEqhYDJPVqtHgY7bfhfSEOhpVhSHKKYlhdAg=;O+/lpSp+iJfWKGK5ozHM0w=="
 ---
 

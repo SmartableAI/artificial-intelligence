@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-14-nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor.md",
+      "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
+      "excerpt": "The graphics chip will power servers used by Amazon, Google, Microsoft and other cloud service providers. And it will be used to fight COVID-19.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
+      "publishedDateTime": "2020-05-14T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/79Yy0yZjYrwQ_DudmDmuzkaHc-4=/756x567/2020/05/13/4e3681ec-e2c3-4c89-9ab8-b73afaa51f05/2555435ebb25b4781b28-39429237-first-nvidia-dgx-a100-at-argonne-national-laboratory-image-courtesy-argonne.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu.md",
       "title": "NVIDIA begins shipping the A100, its first Ampere-based data center GPU",
       "excerpt": "NVIDIA announced today that its NVIDIA A100, the first of its GPUs based on its Ampere architecture, is now in full production and has begun shipping to its customers globally. Ampere is a big generational jump in NVIDIA’s GPU architecture design,",
@@ -1281,51 +1326,6 @@
           "width": 2262,
           "height": 1208,
           "title": "Data storage and AI are driving the evolution of autonomous cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-intels-raja-koduri-confirms-that-massive-father-of-all-gpu-is-aimed-at-the-data-center.md",
-      "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
-      "excerpt": "Intel tweeted a photo teasing a massive and mysterious GPU on Friday, and in doing so, lit the internet aflame with speculation. Early on, pretty much everyone settled on it being a form of Intel's upcoming Xe HP or",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
-      "publishedDateTime": "2020-05-03T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/1898/images/2019-08-22-image.jpg",
-          "width": 2200,
-          "height": 1140,
-          "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
           "attribution": null
         }
       ],

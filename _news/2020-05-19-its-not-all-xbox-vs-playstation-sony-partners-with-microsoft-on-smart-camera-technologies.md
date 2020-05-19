@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-19T10:11:00Z
 webUrl: "https://www.onmsft.com/news/its-not-all-xbox-vs-playstation-sony-partners-with-microsoft-on-smart-camera-technologies"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 1024
     height: 768
     title: "It’s not all Xbox vs PlayStation – Sony partners with Microsoft on smart camera technologies"
+
+related:
+  - title: "Sony, Microsoft Partner to Deploy AI Analytics in New Image Sensors"
+    excerpt: "Sony and Microsoft have announced a partnership to bring Azure AI capabilities to Sony's new image sensor, the IMX500."
+    publishedDateTime: 2020-05-19T18:11:00Z
+    webUrl: "https://www.extremetech.com/computing/310736-sony-microsoft-partner-to-deploy-ai-analytics-in-new-image-sensors"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Sony-AI-Sensor.jpg"
+        width: 1344
+        height: 742
 
 secured: "XAAXPmV8yN8S2R/lUdvy07GbguamHImYo9DctNDR7NIVvtmj38KoJIq/yZVoakbwTGH9H2uQB8wjSVQOsgpE5UFm6HXJQ+uN3186cijL+42HN/EmfCFg3nW9L0p5HT3V0f3CK/mJ6EmR+3tLr6c+uUSgSA6hin/OC+8lLuImlniMeA+QY0NUvjJx9TRE2tz2fU2c3e4k3lJS9OBvLvqvOlpFhwFySoaDvkjwHYEB3l5nEIRKzRsc2QsiC9CRaIvrSFyec4CeC0qUwwt07ThK7A5FCba3R4lZR23X4A9IB68a8dySDjOAa50dmp+3GG+EfkgtqNVrHL3CHmfta8QhC0vM6pZIyyZ1Xeyhhn3qgUmy8c8tQpI0afs+fk7Gq/e9xJrVJf4dwjAES/gAiQm7VaKWhpPemwzrI8NuBAklwdXu8kNMio2memZWN98O4HXrVgJCwsI28B5dbK6Hyh+s+tSl1dxh96wJl+E0IwNy4lc=;9TaAdm2XA1iNdi/wv2EGHg=="
 ---

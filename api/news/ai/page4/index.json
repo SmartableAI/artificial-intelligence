@@ -2,6 +2,96 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-17-china-injects-us22-billion-into-local-chip-maker-smic.md",
+      "title": "China injects US$2.2 billion into local chip maker SMIC",
+      "excerpt": "The investment comes as Washington moves to further restrict the ability of Chinese telecommunications equipment maker Huawei Technologies to develop chips using American technologies.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
+      "publishedDateTime": "2020-05-17T00:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/17/a5b50f20-980a-11ea-ae0d-0e69ba128e68_image_hires_153449.jpg?itok=Qs4iyILB&v=1589700900",
+          "width": 1200,
+          "height": 630,
+          "title": "China injects US$2.2 billion into local chip maker SMIC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-16-steve-platt-and-experian-decades-of-delivering-return-on-ai.md",
+      "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
+      "excerpt": "Steve Platt, an Experian executive, has a long history of delivering economic returns from artificial intelligence.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/amp/",
+      "publishedDateTime": "2020-05-16T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebfdc7cdf2b8f00069d4a2f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-16-this-n95-like-mask-would-allow-you-to-unlock-your-phone-with-face-id.md",
       "title": "This N95-like mask would allow you to unlock your phone with Face ID",
       "excerpt": "If you're struggling to unlock your phone with facial recognition while wearing a face mask due to the coronavirus outbreak, a better alternative may be on the way. The Chinese tech company Huami, best known for its Amazfit wearable devices,",
@@ -996,42 +1086,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-15-research-investigates-covid-19-virus-origin-using-artificial-intelligence-ai.md",
-      "title": "Research investigates COVID-19 virus origin using artificial intelligence (AI)",
-      "excerpt": "The coronavirus responsible for the COVID-19 pandemic has spread across the globe with unprecedented speed and lethality, killing hundreds of thousands of people and forcing countries’ entire populations to self-quarantine.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200515/Research-investigates-COVID-19-virus-origin-using-artificial-intelligence-(AI).aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200515/Research-investigates-COVID-19-virus-origin-using-artificial-intelligence-(AI).aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200515/Research-investigates-COVID-19-virus-origin-using-artificial-intelligence-(AI).aspx",
-      "publishedDateTime": "2020-05-14T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2020%2f5%2fshutterstock_319402004_322a2166c7c14b88a86715eef483ba6d-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Research investigates COVID-19 virus origin using artificial intelligence (AI)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-15-sony-develops-first-image-sensor-combined-with-ai-chip.md",
       "title": "Sony develops first image sensor combined with AI chip",
       "excerpt": "Sony has announced it has developed the world's first image sensor equipped with artificial intelligence (AI) processing. The new image sensor has a configuration consisting of a pixel chip and logic chip.",
@@ -1245,51 +1299,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidias-first-ampere-gpu-is-a-silicon-monster-for-ai-and-servers.md",
-      "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
-      "excerpt": "Ampere hype had been at the highest levels as of late, with many getting excited about Nvidia's next-gen GPU architecture and the improvements it may bring. But when CEO Jensen Huang was shown in a video pulling a very",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
-      "publishedDateTime": "2020-05-14T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-27.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

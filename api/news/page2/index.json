@@ -2,6 +2,134 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-19-your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool.md",
+      "title": "Your face mask selfies could be training the next facial recognition tool",
+      "excerpt": "Researchers are crawling the internet for photos of people wearing face masks to improve facial recognition algorithms.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
+      "publishedDateTime": "2020-05-19T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Your face mask selfies could be training the next facial recognition tool",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-shot-in-the-arm-6-use-cases-of-ai-that-will-disrupt-healthcare-space.md",
+      "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
+      "excerpt": "Machines that think and talk like us may once have been possible only in the realm of science fiction. In 1950, all that changed when British mathematician Alan Turing created the Turing test, still in use today,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space",
+      "ampWebUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space/amp",
+      "publishedDateTime": "2020-05-19T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Healthcare-AI-1589887107545.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal.md",
+      "title": "Five Insights For Leveraging RPA And Process Intelligence In The 'New Normal'",
+      "excerpt": "If we acknowledge that digital transformation can help organizations successfully navigate business operations, especially in today’s “new normal,” the next step is to ask the right questions.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/amp/",
+      "publishedDateTime": "2020-05-19T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-27-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Five Insights For Leveraging RPA And Process Intelligence In The 'New Normal'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence.md",
       "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
       "excerpt": "Enhancements in how machines can collect audio and visual data and use it to understand and predictively respond to our actions is a game-changer for the future of IoT.",
@@ -87,51 +215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tesla-hikes-full-self-driving-add-on-by-1000-but-elon-musk-says-its-worth-way-more.md",
-      "title": "Tesla hikes Full Self-Driving add-on by $1,000 – but Elon Musk says it's worth way more",
-      "excerpt": "Tesla CEO Elon Musk put on his sales cap on Tuesday to explain why the company is jacking up the price of Full Self-Driving (FSD), the electric automaker's contentious autonomous driving feature.  Come July 1,",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/tesla-hikes-full-self-driving-add-on-by-1000-but-elon-musk-says-its-worth-way-more/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tesla-hikes-full-self-driving-add-on-by-1000-but-elon-musk-says-its-worth-way-more/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-hikes-full-self-driving-add-on-by-1000-but-elon-musk-says-its-worth-way-more/",
-      "publishedDateTime": "2020-05-19T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/15/3053554c-c824-4836-8a36-0799d582197c/thumbnail/1200x675/e43c36f0d6c95273d85fcae3b0f11c02/applestoreistock-1157988186a.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Tesla hikes Full Self-Driving add-on by $1,000 – but Elon Musk says it's worth way more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -602,7 +685,7 @@
       "path": "_news/2020-05-19-facial-recognition-used-to-reunite-missing-child-with-family-after-32-years.md",
       "title": "Facial recognition used to reunite missing child with family after 32 years",
       "excerpt": "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology.",
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html?ref=hvper.com",
@@ -970,96 +1053,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-go-x-is-unleashing-100-self-driving-scooters-on-a-large-georgia-business-park.md",
-      "title": "Go X is unleashing 100 self-driving scooters on a large Georgia business park",
-      "excerpt": "These scooters will be summonable by riders and return to a centralized charging and sanitization area when done.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/go-x-peachtree-corners-self-driving-scooter-test-fleet/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/go-x-peachtree-corners-self-driving-scooter-test-fleet/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/go-x-peachtree-corners-self-driving-scooter-test-fleet/",
-      "publishedDateTime": "2020-05-18T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/iOux_pi7WaUB5XY3xN_orqTrf7s=/2020/05/19/51879df2-7acd-4fb0-8f2f-03e439a564cf/screenshot-www-youtube-com-2020-05.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Go X is unleashing 100 self-driving scooters on a large Georgia business park",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-visualizing-amazon-sagemaker-machine-learning-predictions-with-amazon-quicksight.md",
-      "title": "Visualizing Amazon SageMaker machine learning predictions with Amazon QuickSight",
-      "excerpt": "AWS is excited to announce the general availability of Amazon SageMaker integration in QuickSight. You can now integrate your own Amazon SageMaker ML models with QuickSight to analyze the augmented data and use it directly in your business intelligence dashboards. As a business analyst, data engineer,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-machine-learning-predictions-in-amazon-quicksight-and-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T17:18:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/06/quicksight-sagemaker-38.jpg",
-          "width": 800,
-          "height": 443,
-          "title": "Visualizing Amazon SageMaker machine learning predictions with Amazon QuickSight",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

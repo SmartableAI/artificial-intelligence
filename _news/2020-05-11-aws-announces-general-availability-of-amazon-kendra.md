@@ -1,37 +1,25 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Kendra"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Kendra, a highly accurate and easy to use enterprise search service powered by  machine learning."
-publishedDateTime: 2020-05-11T19:42:00Z
-webUrl: "https://www.wallstreet-online.de/nachricht/12511420-aws-announces-general-availability-of-amazon-kendra/all"
+excerpt: "AWS announces the general availability of Amazon Kendra, a highly accurate and easy to use enterprise search service powered by machine learning."
+publishedDateTime: 2020-05-11T20:03:00Z
+webUrl: "https://www.businesswire.com/news/home/20200511005867/en/AWS-Announces-General-Availability-Amazon-Kendra"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "AWS launches Amazon Kendra, an ML powered enterprise search service"
-    excerpt: "AWS announced the general availability of Amazon Kendra, a highly accurate and easy to use enterprise search service powered by machine learning."
-    publishedDateTime: 2020-05-13T02:33:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/05/13/amazon-kendra/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 24
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093159/aws1.jpg"
-        width: 1280
-        height: 763
+images:
+  - url: "https://mms.businesswire.com/media/20200511005867/en/790881/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
+    title: "AWS Announces General Availability of Amazon Kendra"
 
-secured: "yz35mBdF/ns7JJ5HSKwO7a9P6oGHcPMxAqHUDJ65DlOIBg6CyG4QfZ0Y+AdP0TMBkghTYHaTjyVO9I7yeSvypbqjmEr//UP/a394j3dms6Uu874qkQ2MZ7JrF9l0+4IDDBVX9R29hrfGQQRsaaS4sEM1lH/FSNxxS1Ky4eb5gWOuNtyTMvJ7YsywCmSzNWhtWArX/YZwPNJx0og3dLtWXop2byHGP0CS2xsNhWYB16M4AtkZNnBYoXKjIhas1O+Z/ii/xMaTLYvNiu8uvugp7iRLDRzXsDzvj5aPNhbZBNwyXhzR4RwjtFRJf+ERvkNw;BshJvc41ijRRi8wC3d28qA=="
+secured: "ZErvW33MqgdaCVAhi1s+C8v73iE1N5pmnl55RgFttf2HQ72zL1OppnSpfJObw2Q98V8eH1DjY+6O8So2UnzxpaTHeONATsqbxLblptF2SS+j4gNLb2z/iOW6JrZx9RHwF4S5s3OFPpg58ZNsLBX7ZrO2IFqvteNUo654SzZ08aEY1hSdyNXEnQDAKaBek8LF4UduT5iNxYrcSPHp+0Q1lp1gaF4eaQGz3xr3nutjRwa386yqkW8qnsviKfz2pmTQweyE6YQW2ongVbvgKMlBRewG6X9lyCUe585d3Ta4rkZhY8CzgaQ+i/xEsCig3LyL;pbCi/+VU0bSzORThXcXcqA=="
 ---
 

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/tesla-hikes-full-self-drivi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tesla-hikes-full-self-driving-add-on-by-1000-but-elon-musk-says-its-worth-way-more/"
 type: article
 quality: 81
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -28,6 +28,23 @@ images:
     width: 1200
     height: 675
     title: "Tesla hikes Full Self-Driving add-on by $1,000 – but Elon Musk says it's worth way more"
+
+related:
+  - title: "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July"
+    excerpt: "As the electric-car maker's driver-assist software package moves closer to being truly full self-driving, the company is raising its price."
+    publishedDateTime: 2020-05-19T18:57:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
+        width: 580
+        height: 378
 
 secured: "0wBUjIGDTKvPLyEAjKm0u2PGSFTKQ0bHH3i5w3bcJqQdL5ya7FtuER0ilA4uqlkJo39muGUtCAjKx39VYvd+XPzoyEDJbqD8PEq6uNM4PTEL1RHyzEWEYdN8HKv2zjrmj4sA+81NTwleE862Zf/O9M5Ao/hKpYwM7klpRBvbvjILAtKRygypEz6VTxm0nohQsCVgjQU7tGlqgAToWSLNZ14uvmjWxQ58eXIHvlIElWhJ1QVOXy2zr5fD12QNjMtUlOjgatJKj8wGjaGnUMk4Lq38vaL4nvQWua7P3eZEq8532XGbRv9GZcXBZtSJCaQuzMGdJej49dVW6vGBo8AkYzn31npiqIUTkLD/nhR6L8k1CRwqEN0cTi2mXUEm6Uyp5ejz+wg3Hd0HBOZfdmTSQd3OxB42vASZBPUdn9Uir0h1lmpGA6YEtGppWwAaxU3wfuZNm12u1oI9o+TKaPLbJAzzgFMuWcq1oY1sgCKbMeU=;ijbvaqDdzIIzrVwogA3fpA=="
 ---

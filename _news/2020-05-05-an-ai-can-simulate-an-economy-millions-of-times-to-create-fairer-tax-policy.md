@@ -1,9 +1,9 @@
 ---
 category: news
 title: "An AI can simulate an economy millions of times to create fairer tax policy"
-excerpt: "Deep reinforcement learning has trained AIs to beat humans at complex games like Go and StarCraft. Could it also do a better job at running the economy?"
-publishedDateTime: 2020-05-05T17:21:00Z
-webUrl: "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic"
+excerpt: "Led by Richard Socher, the team has developed a system called the AI Economist that uses reinforcement learning—the same sort of technique behind DeepMind’s AlphaGo and AlpahZero—to identify ..."
+publishedDateTime: 2020-05-05T21:09:00Z
+webUrl: "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/"
 ampWebUrl: "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 576
     title: "An AI can simulate an economy millions of times to create fairer tax policy"
 
-secured: "036zRyNKa/ArGFKPulEiVkDm/eBwyBE9QDEdK5p7ecXnHjZk7lqS6FbzRL/OknvtpZOKc1qTlq+tYVMAJmMZmb/Wq63O3/mmYWjdGH5ajoeVJcf3wFR73kkHd4PcNHqmca1kPyd7XGUXksVZSd2CsSS6qNX68KzdOQV/YLwHa19kIdYe7QXN/Uzt7GZj874kNyWZidMt5qHYoDid0C0LVaV7FwoUXyUqUzS8tgtTUAhAZaGAR/DmyB/vxw4LXMKTekFzMk9DJ8OZ/ENzVKvA0j9urC3OftnRKoJgNEJnuZw8fIeL9OQ7GVSOL9hSKVm2;nYez2S4fETlH/kdxLtiaqA=="
+secured: "ep2fQKLoBECbPWlv1STVZFUIH2aTssKZu97MMfYs+I+5iUCxdbXKyYesjdItRoeM00z0uihH8M+GefEsEXn+blCOUYhIfw2O12pkuorIau/ZrOGqDYzfz4R4QpvDPRrTHu6C2srCuDJa0QKI0u3YYmJIB1Rj/f10+P3wlMvD4Dwh4Q+bkUokgRNmfBZZJOUNOcLtPSYsDvhISECk07j6Zbh60VLp826AmiJiv7G19P5y8Or5jrOSAu6VH2E1OkQyPizj9H81VIqL57DgyEETwlqG0worfmL/3isp0eoXVQytmgRtDsWIOrD0iVY8WDIg;18F4lTn/h73H6hPsMX1DPA=="
 ---
 

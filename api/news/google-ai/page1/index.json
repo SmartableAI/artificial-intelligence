@@ -502,14 +502,14 @@
     {
       "path": "_news/2020-05-05-an-ai-can-simulate-an-economy-millions-of-times-to-create-fairer-tax-policy.md",
       "title": "An AI can simulate an economy millions of times to create fairer tax policy",
-      "excerpt": "Deep reinforcement learning has trained AIs to beat humans at complex games like Go and StarCraft. Could it also do a better job at running the economy?",
+      "excerpt": "Led by Richard Socher, the team has developed a system called the AI Economist that uses reinforcement learning—the same sort of technique behind DeepMind’s AlphaGo and AlpahZero—to identify ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic",
+      "webUrl": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/",
       "ampWebUrl": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/",
       "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/",
-      "publishedDateTime": "2020-05-05T10:21:00-07:00",
+      "publishedDateTime": "2020-05-05T14:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MIT Technology Review",

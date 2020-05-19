@@ -53,7 +53,7 @@ related:
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 116
+    quality: 84
     images:
       - url: "https://i.pcmag.com/imagery/articles/015JLImS9DModQt24LO6Lie-8.fit_lim.size_1200x630.v_1589904030.png"
         width: 1120
