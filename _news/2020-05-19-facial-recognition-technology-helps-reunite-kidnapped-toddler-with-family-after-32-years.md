@@ -3,17 +3,17 @@ category: news
 title: "Facial recognition technology helps reunite kidnapped toddler with family after 32 years"
 excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology."
 publishedDateTime: 2020-05-19T09:42:00Z
-webUrl: "https://www.wesh.com/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-ampWebUrl: "https://www.wesh.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
+webUrl: "https://www.wcvb.com/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
+ampWebUrl: "https://www.wcvb.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - Computer Vision
@@ -72,6 +72,6 @@ related:
         width: 918
         height: 506
 
-secured: "Wa6yJ4GLdTCd9rSNlK3Hsc0yS72XBc2j/0nIWge4kwqX/o1HrvR0kudODjmqKL3kITAB+FinrZk8+zC3Q2rsbAV39Z5zkKPSY0nZEdtUCTpPiXmdgqYd3+S69QwSvBiiQVdtguC01t0OFJKrtJ2wB+bHwSM0U5yaSmYGQ42/AQxVqkHMsjWJSuznhjy+qdzJ3nQvBI9dlqXlYt0Gg4h/wAfkPg0dm6muHoidFAicEzHf1DoZAgBC/X0um84Hl5QMfETnlE5rTFqstl26Z4fuE6TVvFK7bqyrdL2x3vstETCpUwoFBArSi6TXle7sp++t;Kw08cfaru9Vmv2OnWlYLzw=="
+secured: "WLde3TPbHtJIoeqRJqyWNliXZePdgce1TUWmDy97rPF+CVIH3XQucaTLQOiruKu8s5600aFqHhA091ZAQ3bRDToP1hu0O6xpm0LLTRPhzJJLliB7eR5NrXABspMoJ5Q8CSSIS7XADJqOfoET+PTPIBaeNBoxmehSqAGnaKLidpvSuUyvX1xk8uh2nLHWrw6HzmYDscAO/ocpxAhY8AHFWdfKLfRraGKxTErlaHZnrn6SxbyJx/UZztlgqMan4WacVjX3ec5JdrTeTJglQ16pi+gCjlEEw18bCynA03rIX/1is1xm9OnFDphSVxN6Hkez;57IjvSnBK8l6aIzKn7pK4w=="
 ---
 

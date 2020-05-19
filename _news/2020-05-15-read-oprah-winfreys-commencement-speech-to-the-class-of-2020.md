@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Read Oprah Winfrey's commencement speech to the class of 2020"
-excerpt: "\"It’s a journey to find your direction or your passions, so don’t get frustrated by the mistakes and setbacks as they happen to all of us.\" But the highlight of the ceremony for many was Winfrey's call to action."
-publishedDateTime: 2020-05-15T20:50:00Z
-webUrl: "https://www.goodmorningamerica.com/culture/story/read-oprah-winfreys-commencement-speech-class-2020-70708237"
-ampWebUrl: "https://www.goodmorningamerica.com/amp/culture/story/read-oprah-winfreys-commencement-speech-class-2020-70708237"
-cdnAmpWebUrl: "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/culture/story/read-oprah-winfreys-commencement-speech-class-2020-70708237"
+excerpt: "So on Friday, stars including Kristen Bell, Simone Biles and Oprah Winfrey took part in Facebook's #Graduation2020: Celebrate the class of 2020 ceremony to help raise spirits. Editor's Picks Oprah Winfrey talks the 'devastating' impact of COVID-19 on black communities George and Amal Clooney donate more than $1 million for COVID-19 relief and other stars who are giving back Oprah Winfrey: 'It is time for women in the world to set the agenda' \"Let's cut to the chase: This blows."
+publishedDateTime: 2020-05-15T20:52:00Z
+webUrl: "https://abcnews.go.com/GMA/Culture/read-oprah-winfreys-commencement-speech-class-2020/story?id=70708237"
+ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/read-oprah-winfreys-commencement-speech-class-2020-70708237"
+cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/read-oprah-winfreys-commencement-speech-class-2020-70708237"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: GMA
-  domain: goodmorningamerica.com
+  name: ABC
+  domain: go.com
 
 topics:
   - Natural Language Processing
@@ -25,6 +25,6 @@ images:
     height: 558
     title: "Read Oprah Winfrey's commencement speech to the class of 2020"
 
-secured: "+WB2yCMCnP9JJ17hadZ4xH9/3Wg2lEUJmXW0u+20makrkxXAVTfGmsbUlByBOn9rxmPP7omVv2C4Cm9kV4Bq62+mZFgXKr0gCSR0s9s5cKNtmPF6WqYo+R0R151RbwaJeGOd06hicQn7ehbdrhzyHMZzD5tbA1n4yAZLJtzIKuyk8ITs/IQE6SUqqiPI86NnYqmpqin8gNvbRL1WoddYtoHCTJo3SsytfHDkaB/oqZ6o0cwgc2lD25SsV/mrvNsLEykR3khBiBlKetHXxxJJozI/XrLUdXJh7EgTFofdlXR0hTEZmETCpGz/I/yw8BM6pdUwlSMMmBqXiEGiUCrUKb+m44NnuteqBmYob0rPBFI0z7b3/aQ6DFdrro31k/r6IkV8YeX5FtuJV+vx6XkTQ1sNWDTNiftBGuiNVPxtQPCqSGYStgR+YdOI607ccthtxhqeU1Okd0MNyVEUDhEgGrHaekKEcgk5BJj893xZ2QA=;g8IRVBwAXhqJBy2t9FXpAw=="
+secured: "ilnI8gVq3JDba3eyukKl7ydk4QUcgORot2fx9Y7UMjupNllo835uVJGrIS0CpoAGzSu7wDkC759lWZ5QxMF0ZVAvQKwphgP1kX7dJZvaNR7nD5gNCsrHdqHIynOtzOyZrjm0tgd+aXqR9MDezA6N5osAUfYwfEki/5miNlJ7OY+OVd6WazhjocIWk/1relzE6CzNOpI1lZQf69Ksb+Bg9hKf+VZDZT+P3T+zVd4WGSlXT62UPj4qn4lZubmRCam/KUVwqxE9Ke9wRMrgkaNw5VJkojNH5wUPiBkrBWwAl1Sahny8SmXnSofc6aBG8v+A;tiWkcXh7sbbLKQ8qcaH2yg=="
 ---
 

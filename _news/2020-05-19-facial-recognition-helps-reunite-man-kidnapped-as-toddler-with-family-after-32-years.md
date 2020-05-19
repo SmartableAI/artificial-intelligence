@@ -59,19 +59,19 @@ related:
   - title: "Facial recognition technology helps reunite kidnapped toddler with family after 32 years"
     excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology."
     publishedDateTime: 2020-05-19T09:42:00Z
-    webUrl: "https://www.wesh.com/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-    ampWebUrl: "https://www.wesh.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
+    webUrl: "https://www.wcvb.com/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
+    ampWebUrl: "https://www.wcvb.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
     type: article
     provider:
-      name: WESH
-      domain: wesh.com
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
     quality: 50
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1200828790.jpg?crop=1.00xw:0.846xh;0,0.0587xh&resize=1200:*"
         width: 1200
         height: 677
 
-secured: "dNC+lHpq81O1Ie/KnlQjY+M0KAvTmnr4YBylGT7psQvzm7mNsrV14t728XfHZCyyWziTD13D4H4VEtpdA/lJACu3YNbY+j2PttDL/ZBR3QdzzCHp6m5V9K+AuV9QKGwbWByKLT0LiGMOmnqfXZ8C+FJWaR+1vlM/jJJjswIGKQejczxr73tXW/Z/Nn1J6PkR9fnbR0KKmYRom3pJbxGyZhRLCWoRCNZR07h81OQOVesGmvdKpz3Q9SMeGPdJcsvAW2qGmqTczd5BrR8KQpYuc4SRyH1ioWJ2PEZ45q1vfw2ATGkQbhbXexBIoDX1Rhw3;AJDMUnsF55UGwON8Uc21aA=="
+secured: "Pb9YQLAyZ9hcHmihOWvhAbMFcv+jtAYbiDQw7qR7bPsLvZSFxo2W6vZ1t99PtcO8orIn5wKgm4YbIoHPhUeddLgZW+u/KaqzOeMHeBuSARaRcoWr3J+C7sNNzA5ppiG8Z53214WsDkG6Jsbl+7I4LQgKvrgFCjLMdcsPBMdwih1oaFfA7+zlJc4JwlU1/ujFMiGFsh6Hqwlw0bQS67khhzdS2vOnx6cE5tHiGQA1cNURpXrNHfMcLggCAKSgfCZxJuLN76jfXM+Xf2YD/rfXvklM5xyWRCVix6Xn31iOGGFtzV3KAcXdYiZzj+QN+VN56Kjg7cZdTwJwsmSSiplNEm8AVOgA2pxA8AMRYtBTDVaXXXFTJwe0DHojpCOzHwjDWsgjS/SDSPfY9pgTEjOF9QbNhpwhrdehXOWVxKJa5y6jAIOsZoyg+y6WIWm0jgmuipX4U3KgqaOhWtCsqNDWuFhw/MG//aGGvOrEPqMxd+0=;088X3TwlZg5FWEw8HZMN+Q=="
 ---
 

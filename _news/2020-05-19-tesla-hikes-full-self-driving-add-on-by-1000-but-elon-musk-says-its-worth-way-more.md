@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Tesla hikes Full Self-Driving add-on by $1,000 – but Elon Musk says it's worth way more"
 
-secured: "8xW5ZdwThEwvPYn1j0JXRXYOIf5mMZEvmhl2ArAHPvkowT+K3H5bC3HlTtB52/NFvM1lG5l10t5cbyBsFMmQOZ0gzXVbFFn7uOGfd3o1imNlE2A3Vbf7SoPnIC/gX3lB5/SVmb4sykIsDYmjKGGAuWsUjHpMLHFjkwRxXhAn714+ldSX1eqNnTUXJly0FPE1+2PVBNVF/x9qsJv9SJjE0zRAus/mAOYs9fsXwizDSM0mZmNw0pg/SNGUg9vD5qMZ2oF+pfYiT1fia5/z+bZPAIWtlrLTQOxwQ9XkUFxo0lRUKOm9vy/NfyZtZe/++lv5;Fd9/Gih7rQ6UhWY3Vu8nxg=="
+secured: "0wBUjIGDTKvPLyEAjKm0u2PGSFTKQ0bHH3i5w3bcJqQdL5ya7FtuER0ilA4uqlkJo39muGUtCAjKx39VYvd+XPzoyEDJbqD8PEq6uNM4PTEL1RHyzEWEYdN8HKv2zjrmj4sA+81NTwleE862Zf/O9M5Ao/hKpYwM7klpRBvbvjILAtKRygypEz6VTxm0nohQsCVgjQU7tGlqgAToWSLNZ14uvmjWxQ58eXIHvlIElWhJ1QVOXy2zr5fD12QNjMtUlOjgatJKj8wGjaGnUMk4Lq38vaL4nvQWua7P3eZEq8532XGbRv9GZcXBZtSJCaQuzMGdJej49dVW6vGBo8AkYzn31npiqIUTkLD/nhR6L8k1CRwqEN0cTi2mXUEm6Uyp5ejz+wg3Hd0HBOZfdmTSQd3OxB42vASZBPUdn9Uir0h1lmpGA6YEtGppWwAaxU3wfuZNm12u1oI9o+TKaPLbJAzzgFMuWcq1oY1sgCKbMeU=;ijbvaqDdzIIzrVwogA3fpA=="
 ---
 

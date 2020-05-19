@@ -26,6 +26,6 @@ images:
     height: 408
     title: "Azure-hosted AI for finding code defects emitted – but does it work?"
 
-secured: "BK/6H0n+6pNU2+o/Z5Ec6Zqw/pDnEISh93ZV/gO71cbUB6NwziIaWBiUtN0vnNR1FZCgkorz3PC+uFqmMzNzJp+7DMVvrR+pbe5kx2zst2packtWlUrRBnicPdTvBVQbUULxZHHZKiQfPA4ITVO2DO67nGnEFReKdsig/nJiDUmOChUh8Gc75CK6rqOqOU2F4sV1P6gsdKsVjWD3p7ewIoCpE8CWtQ81fUC6P6IPF/BDV8RdHANYx+L93tvq/T9iGBB9YDN5CPJP2Ge06/BkIrOa0gOfCX7T8uypb1EO8xkHuTND2jcby+SdN8DQRkaa;82mZHhi9PeQVlx9KLcUAeQ=="
+secured: "tmDtUnuU+qoNEUm9bOGhk4mJO3/yjBk00ES3n8/MlfXug7EM7V9X4IA2G040V5IvOkhzAYl1ol4jeE0QYysWAq2dou8KYYvBQhuF3vS+b2TEOB/EtwoUMIS9aQvO+Mh/LI48zLOoWnC4KmqkcDHjXP5P4tdoZiSzAUNxl8w8WemUNecBvh0DKZ8beL4J8ZtmFRJ+KJkWUhLO3kxrwPFjEwQ93lWCy0Ln22FaNUtU1X2p8VVjGhEdDyiXVYWbDhPXLPEwdVzvpQTJgWjVuP7dUPHmBQEzm5GAIy+CAzsXZ3bdigZAot6YndcpSnd0EnmBg7NXKoYCMPVHWufIN1W9ufOjd4K4qIFx/bUJS+5IWyh3abr/0CpaEj2Ecz9pAo8dgNs6ORL37iMDxGodOkssk7e4lgD1ftrbZi/ZsZX1iA1Dm3bBu9zEIga3RRxyA9Tmnkxy8gam5BeJG6caClatkkeE59hWZwjvi646ldoxw9s=;OtI1twNyprXk/FMgdo7WZQ=="
 ---
 

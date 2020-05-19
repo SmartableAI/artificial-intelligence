@@ -26,36 +26,6 @@ images:
     title: "Tesla 'Full Self-Driving' To Cost Extra $1,000 Starting July, Musk Says"
 
 related:
-  - title: "Tesla 'full self-driving' price will increase by $1,000 on July 1, Elon Musk says"
-    excerpt: "Tesla's infamous \"full self-driving\" option will apparently get a small price hike this summer. Prospective buyers will have to pay around $1,000 more for this option beginning July 1, Elon Musk tweeted on Monday."
-    publishedDateTime: 2020-05-19T00:24:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-price-increase-elon-musk/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-price-increase-elon-musk/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-price-increase-elon-musk/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
-  - title: "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k"
-    excerpt: "Driving’ package again as Elon Musk now evaluates the value of the completed version of the package at over $100,000. Over the years, much has been said about how Tesla is approaching self-driving technology differently from the rest of the auto industry."
-    publishedDateTime: 2020-05-19T01:09:00Z
-    webUrl: "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/"
-    ampWebUrl: "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 497
   - title: "Tesla to raise price of 'full self-driving' option by $1,000 starting July 1"
     excerpt: "Tesla Inc. [s; tsla] will raise the price of the \"full self-driving\" option on its electric vehicles worldwide by $1,000 starting July 1, Chief"
     publishedDateTime: 2020-05-18T23:28:00Z
@@ -67,17 +37,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 81
-  - title: "Tesla ‘full self-driving’ option to get a price bump, Elon Musk says"
-    excerpt: "Elon Musk hit Twitter on Monday to announce an upcoming $1,000 price hike for Tesla’s full self-driving option (FSD). “Tesla Full Self-Driving option cost rises by ~$1000 worldwide on July 1st,” the automaker’s CEO wrote in the tweet. Tesla Full Self-Driving option cost rises by ~$1000 worldwide on July 1st. Order a Tesla online in less ..."
-    publishedDateTime: 2020-05-19T02:43:00Z
-    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?itm_source=1&itm_content=4x6&itm_term=2498356"
-    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?itm_source=1&itm_content=4x6&itm_term=2498356&amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?itm_source=1&itm_content=4x6&itm_term=2498356&amp"
+  - title: "Tesla To Raise Self-Driving Option Price By $1,000"
+    excerpt: "(RTTNews) - Tesla will increase the price of the full self-driving option on its electric vehicles worldwide by $1,000 starting July 1, Chief Executive Officer Elon Musk tweeted on Monday. At the moment,"
+    publishedDateTime: 2020-05-19T03:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-to-raise-self-driving-option-price-by-%241000-2020-05-18"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
 
 secured: "P1QVUuY2Fk0nMxhTD/5oy9wsY577COtlzYAg3U6S5mO8o2iIJ4kM45g/7X+OFDNnn3FFQsjmykUrIMEM2y2Np6qk2hxPeeGFxxbK9weaqOtsblTFbY0BOk7yDcsMiZ1epaMYoQx6+e34P4HD4lsj6z/hT+j677Bj/YGsMSAK3RxSQBNpERp7X8RYrGAKkRiGnMCx/Umiwazt5isUXxi4t3O/MTofHRKlNYuudI2KHN92K+BXmBnp1qMuJgP9MoOfDEIXY9yOmSDteBy3LcsnJcrNEm4KQZRnzrSE6gZwmnZUH5iNaWKH/i+lKkKI5B6D;lLoHqsHdXRL9wpAQzxekSA=="
 ---

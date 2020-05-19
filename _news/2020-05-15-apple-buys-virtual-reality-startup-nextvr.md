@@ -8,8 +8,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-rea
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: The Motley Fool
@@ -27,23 +27,6 @@ images:
     width: 1200
     height: 800
     title: "Apple Buys Virtual-Reality Startup NextVR"
-
-related:
-  - title: "Apple acquires virtual reality startup NextVR, but what's the plan?"
-    excerpt: "Apple today confirmed that they will be acquiring NextVR, a virtual reality startup that specializes in producing VR content for sporting events. Neither company has disclosed the terms of the deal, but 9to5Mac reports that it could be worth"
-    publishedDateTime: 2020-05-14T20:47:00Z
-    webUrl: "https://www.techspot.com/news/85235-apple-acquires-virtual-reality-startup-nextvr-but-what.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/85235-apple-acquires-virtual-reality-startup-nextvr-but-what.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85235-apple-acquires-virtual-reality-startup-nextvr-but-what.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 72
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-4.png"
-        width: 2048
-        height: 1152
 
 secured: "L/SraJy0LhzGN+aJK1R8Nw3ojOQYh+OZdRyNMI8iTUkDtYdU3FWu8rL3B03MP4RM8eMQjPPuVafvMka3uIRkU96Z5a4JOlO99FCJRTW7wwRjfor+gD/pfeQtcLAwUTt7xpyMVUwaDusrnbWKExpc2D8SupFN7Iji5xxRUccPyaWrJ/Pl7r4CZ1M1H7ogd5DKl3DynpXSX/UPKtxNA2YRXMdX223h1LDu9qWGsnEp8hmZQdfs+7QcGLa/nhbK/ybOFL9gSBQXbHVaJEgvhMr8QZQgYXMeVE+GnLrxsyEzeHSWymKLhFfgCRE7QaMsvEeXOtYBhhcqML+/cpOJFyPNaw+mmEtlr9RGHwfTsnB+3Q9lDgufln/E/FP2JVqV+IEHXuUGlNk2+aeibPqJmgBAsr+W5Bwr1n2/GSm32M8FRD1yueMTEbha1NRPz6GqtxXurReIImBQq88Oyeql1Kh8jWGeQGACrzR73sAKDuz2Uyw=;zUTwXNZ/UxRFwxUf4Zv4ag=="
 ---

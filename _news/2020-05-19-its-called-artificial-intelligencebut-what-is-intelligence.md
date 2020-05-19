@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/its-called-artificial-intelligence-but-what
 ampWebUrl: "https://www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.wired.com/photos/5ec32f02480746372679073b/master/pass/ai-intelligence-business-01-update-01.jpg"
@@ -29,6 +30,6 @@ images:
     height: 1350
     title: "It's Called Artificial Intelligence—but What Is Intelligence?"
 
-secured: "x/q1cjukKeUwQ8DSZ8fqvyr0ggnSjMc0L5kom0OUYmSr/Y7pptApWa5eVgXyVsiKPMAj8QqXXbpP+eqPlODEh9Bjmkc9GK0CzrkkI0QExiTNH/TVPBtLWwB8KYeIeii1r6B0paLe01Ny0mVmh4UcxN60K9OYtFm0QRaOaJcA4NjNva6zbearCxxIMP5AZOF6Gs/winDfA3yc6SsJxg3xJGj7V1962zGjiU3N4C+h8h4XQYaxzb/jn9w04VH3So9jPNoacpvYTCsCvIIGGZSTJcJTKkdsAYJIJSqaZIFGLX0vNL7zQD3BHvx+hhRAwUyQ;y7l55Lg6TixCy1H/kjoabA=="
+secured: "DhkfZW60sk9cJfKH7DFF2U2kLeMKbxLJtJxCR+dGdqgk3ZkIAmveqxuQNfhH7R6KuwunKe/qocurWCP2xiI8A357wh8R/H0nxmGl95f39MBmTrsLaD24TVLt6WOsqm2mvW0KXMSrkAKxoy6oN8B2O35ycAeHJ4PVixWVRKDvz3BOfOqptYaSe+G3Ly/yfjMV1TxG9viAc5UguSBo4bEBrJSWM+USqKUMbU1gvQDP8Ry/304AjYN97jgJXqr82lBPTxemsorKIMsXIxveYXEtoEXE1QXGNchiT4bVJZ2mqYBxfDWWe6GJJadFRoRzJR8bORiRlNGGSuSZq8Q/vveaAOgcU1MrLOT2aVZTFtZPib5Zr3m16oQ+7i2uSWQAGRwVux/jXzzZcVUN/sp47aF8NS0X/M1T+ooGPtANIFl7CdtT1+H4q5FFj4B2Wy5DbSZIOrLh16Zfu3zaEr3YAlGmU6gym0ggCohcyGJqkoT/pBI=;MzH110hfHvUfvwQrOYLwPA=="
 ---
 

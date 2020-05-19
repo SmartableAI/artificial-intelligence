@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-14T21:27:00Z
 webUrl: "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12332097"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 1200
     height: 750
     title: "Police searched for suspects in unapproved trial of facial recognition tech"
-
-related:
-  - title: "Police searched for suspects in unapproved trial of facial recognition software"
-    excerpt: "An unapproved police trial of controversial facial recognition software conducted dozens of searches for suspects in New Zealand. This week, RNZ revealed police did not have any of the necessary clearance from their bosses,"
-    publishedDateTime: 2020-05-14T20:57:00Z
-    webUrl: "https://www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 55
-    images:
-      - url: "https://www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software/_jcr_content/par/image.dynimg.768.q75.jpg/v1589488860627/GettyImages-1083059548-nz-police-car-generic-crime-1120.jpg"
-        width: 768
-        height: 438
-  - title: "Police used unapproved facial recognition software to search for suspects"
-    excerpt: "An unapproved police trial of controversial facial recognition software conducted dozens of searches for suspects in NZ."
-    publishedDateTime: 2020-05-14T21:03:00Z
-    webUrl: "https://www.stuff.co.nz/national/crime/300013053/police-used-unapproved-facial-recognition-software-to-search-for-suspects"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 38
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/m/b/j/q/image.related.StuffLandscapeSixteenByNine.1420x800.4ymbjx.png/1589489680582.jpg"
-        width: 1420
-        height: 798
 
 secured: "314n9tt34UrYtIruReL+WJNtILG0uPkMBx3GjahmV2VejuV6I3zlhQY1SEVwR4AVDyWL/gfU1XNKmsWkR0iXti+OolmiTGEEKZo1oak4TkwLUmWnKwFVrjuzmBUzH7cVSKeRsgkOl/LUnY8J+SZvEycgbttJj31ERGkj9FduZBrD4KHXffoZ2/BlHyNTZ2je9VqGXdIXtRJ9pIn61EYQzkTXbiXOP7QZWi0gJayqKK2JVbG1s6qdDw/yn9htbg0+q+g8r3Z8Jg3pKAupXO4XpcaFHnIdhgYzJHRLQ74vhZnPWL7xbnVPAjXykIxdwlEW;ezwBx5dTqBhPNBmrOIBdiQ=="
 ---

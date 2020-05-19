@@ -1,25 +1,21 @@
 ---
 category: news
 title: "2020 Insights - Deep Learning Suppliers Strategic Positioning and Leadership Quadrant - ResearchAndMarkets.com"
-excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Deep Learning Suppliers Strategic Positioning and Leadership Quadrant\" report has been added to ResearchAndMarkets.com's offering. The deep learning manufacture ..."
-publishedDateTime: 2020-05-05T10:36:00Z
-webUrl: "https://www.businesswire.com/news/home/20200505005496/en/2020-Insights---Deep-Learning-Suppliers-Strategic"
+excerpt: "The \"Deep Learning Suppliers Strategic Positioning and Leadership Quadrant\" report has been added to ResearchAndMarkets.com's offering. The deep learning manufacture landscape is diverse and ..."
+publishedDateTime: 2020-05-05T10:43:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/05/b15952636/2020-insights-deep-learning-suppliers-strategic-positioning-and-leadership-quadrant-researchandmar"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15952636"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15952636"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200505005496/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
-    title: "2020 Insights - Deep Learning Suppliers Strategic Positioning and Leadership Quadrant - ResearchAndMarkets.com"
-
-secured: "B9tTR9AZS1TCxNmbup+2wGcKgQ6s9Y1+IxYLticm6Tweb3lpf1c+Y3KJ1Cdihu7TLO4eWbteAHuE1cTT51etWhlwD65GXS20rRpHGthNbakHk2MkjvLxwz8cZKYT3VRHcDRmKzNNOVgZ9N/ctO4rkR7ua2vwWy60Gmc/sczHC6jCK4nctQdCrAzmh6Fos3GWo7WdBVHt/0zUttJj+cLfFkkxXOavp1vbhF3Q9CuhcrLJNmhlsPfR0v9XSMC9tOfyvv10d8jv3buO1VVSvAiu/5FuBbiGdhhi3MB+bTlTMb6eoNB5Tqzd5Q+yQ1626JQv;l9SMRoSk7fZaUZ20025hHw=="
+secured: "WurRHuzbp4/4caLzTf1FAONncohNjRLefMmrFZ+YnWIAA5DGOhjtCYKN8vBh/VsL3aLWPT6O6X6Q/NEBycG5nPE/1IUzJ84il/IuYfVCmM+FSKWulw37QRJ3KdhzGqTWaKVlxPsVJHFaPKgf+EsUdeSUwgSPo9GGTMLESD6Ycbsv1Nr6uW0zzccdHH5ono8LUsj6hfebTkvnynQiHVwJGV66va6iKsHHlocycAzgq3McHy6byQmACq36HFpj+3h2SZuQjr6OIxlvBxpG9Vk5Zn220cjg7wslyUj12Qz5+Rjz05r6E7S12ebY9q3PvcFG;u5bw2ISjfBpPzFgE2BHNVg=="
 ---
 
