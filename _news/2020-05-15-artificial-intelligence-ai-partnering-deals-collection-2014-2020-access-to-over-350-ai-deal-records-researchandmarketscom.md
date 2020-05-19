@@ -5,7 +5,7 @@ excerpt: "Global Artificial Intelligence Partnering Terms and Agreements include
 publishedDateTime: 2020-05-15T14:28:00Z
 webUrl: "https://apnews.com/Business Wire/3020edf9d31b402d8141fbbd38e30456"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

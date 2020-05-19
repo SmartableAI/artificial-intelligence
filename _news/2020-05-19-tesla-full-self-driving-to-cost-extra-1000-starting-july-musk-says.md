@@ -68,11 +68,11 @@ related:
       domain: marketwatch.com
     quality: 81
   - title: "Tesla ‘full self-driving’ option to get a price bump, Elon Musk says"
-    excerpt: "Tesla CEO Elon Musk tweeted on Monday that the full self-driving package will receive a $1,000 price bump on July 1. It's the first hike in about a year."
-    publishedDateTime: 2020-05-19T02:30:00Z
-    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/"
-    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
+    excerpt: "Elon Musk hit Twitter on Monday to announce an upcoming $1,000 price hike for Tesla’s full self-driving option (FSD). “Tesla Full Self-Driving option cost rises by ~$1000 worldwide on July 1st,” the automaker’s CEO wrote in the tweet. Tesla Full Self-Driving option cost rises by ~$1000 worldwide on July 1st. Order a Tesla online in less ..."
+    publishedDateTime: 2020-05-19T02:43:00Z
+    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?itm_source=1&itm_content=4x6&itm_term=2498356"
+    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?itm_source=1&itm_content=4x6&itm_term=2498356&amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?itm_source=1&itm_content=4x6&itm_term=2498356&amp"
     type: article
     provider:
       name: Digital Trends

@@ -7,8 +7,8 @@ webUrl: "https://www.cspdailynews.com/technologyservices/reflexis-enables-clock-
 ampWebUrl: "https://www.cspdailynews.com/amp/technologyservices/reflexis-enables-clock-ins-facial-recognition"
 cdnAmpWebUrl: "https://www-cspdailynews-com.cdn.ampproject.org/c/s/www.cspdailynews.com/amp/technologyservices/reflexis-enables-clock-ins-facial-recognition"
 type: article
-quality: 44
-heat: 44
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cdn.winsightmedia.com/platform/files/public/2020-05/background/800x420/shutterstock_1679266402_1589477299.jpg?HprbHUGOLpi8nTRh4lGi9Uip0L4bKvMW"

@@ -8,7 +8,7 @@ ampWebUrl: "https://blog.google/technology/health/predicting-sight-threatening-e
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "How AI could predict sight-threatening eye conditions"
 
 related:
+  - title: "DeepMind: Google AI can predict the progression of sight-threatening eye conditions"
+    excerpt: "DeepMind's AI system can spot both the presence of age-related macular degeneration in eyes and predict its progression"
+    publishedDateTime: 2020-05-19T09:04:00Z
+    webUrl: "https://inews.co.uk/news/deepmind-google-ai-predict-eye-conditions-threatening-sight-2857593"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 48
+    images:
+      - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/05/GettyImages-175133840.jpg"
+        width: 1024
+        height: 658
   - title: "Predicting conversion to wet age-related macular degeneration using deep learning"
     excerpt: "In individuals diagnosed with age-related macular degeneration in one eye, a deep learning model can predict progression to the ‘wet’, sight-threatening form of the disease in the second eye within a 6-month time frame."
     publishedDateTime: 2020-05-18T15:19:00Z

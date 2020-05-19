@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Zoom, Xoom, Züm: Why does every startup sound fast now?"
-excerpt: "There have been at least 120 startups whose names include something that sounds like “zoom.” Another fact: They have raised a collective $1.8 billion in funding."
-publishedDateTime: 2020-05-11T16:52:00Z
-webUrl: "https://www.bizjournals.com/columbus/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html"
+excerpt: "the robot pizza startup, failed to raise more funding. In other words: Zoom boomed while Züm pruned, and maybe Zume was doomed? Fast-sounding startups, it seems, have bloomed. There’s Zoomd, Zoomi, Zumi, Zoomy, Zoomies, Zoomin, Zoomvy, Zoomly and Zoomph. Zoom.ai offers virtual assistants, Xoom is a payments service, and Zumobi does mobile ..."
+publishedDateTime: 2020-05-11T16:53:00Z
+webUrl: "https://www.bizjournals.com/baltimore/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 400
     title: "Zoom, Xoom, Züm: Why does every startup sound fast now?"
 
-secured: "enT3SnGgIaSjOo+vh5UqqN8mTFIJR83XUCrPYfOAuMxSWqfjBvDpElaHSKoK1hIxAJ1v31oE6Fdb1JhxTNRaZMHSpHRDc5pAIjEPq5RPqxYUtmdPVoKV72Deql2IvtomHxUTMOo1rfKJFEDG3rd4yNh8v96IO+4fjUIu/HLM5Nj1PYrUrvy2fFk9UQV3oCJvv68vn4EEHG5LUmJp4rsBASIedqIOsJjYur9csXPu0EXEs0tSm19iVo1EEd3p3BrRMtNxEY1PvOxyncn36mg3nW99SHWXIKQI6MGoM937YNr6lOoa02LhUCQGE/u1VY3uQcoNGNdf3bUSlSEnFEfMwHW6WzIpb19wqWx5PpTarvQ1klCZPDqRUPhPCUtQTcX7U5HGJvOQFaU7fsoFiKW7aum8KgJACKcmvvvR7mmmMfUWCKSOoy8O+f7GPppcIz7uGgYeg+Q/A+36IRf6ZZ6EkJq/4+wj5b5r8Xpc0SJ5XBE=;W0pqaXE4ymQKnUpdmwuBCg=="
+secured: "fdG9l7hA9CLT3LzbBR9FXdBesb0p1tO6XTfSLoSzzNKYgcUtgpIv6BAmv2MvfZcSUxC0ap0VO0x/6ot6Lpset1P80m+sGlREXafqkXcU5++ijzdpSXrdLdXxHxs7SYwLO7o+JN/pqBXoRlw6TLyemQxx6cf6K1xREjyfzdRPfkax7n/sTRmEdYTlYX/vI6/dNgNozj+AXVy5SK6BnVnFaaiSgjG5CZTFUZHjRVbeq85naE9wY8NGXX+7iKydpPCAU29ekCdVZkNCLtskWm69g8ujFdcMu9GCAGfcV+1ZN8Sk9+relMC9XhK4DCxG2nem;KvB6arfct3pQ4ZuaH2HlxA=="
 ---
 

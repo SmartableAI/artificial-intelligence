@@ -2,10 +2,217 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-19-aaeon-ai-monitoring-for-fever-and-mask-detection.md",
+      "title": "AAEON AI monitoring for fever and mask detection",
+      "excerpt": "Monitor areas with high-volume foot traffic, such as metro station entrances, for mask compliance and people running a fever.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
+      "publishedDateTime": "2020-05-19T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/19/ad69f266-7f5c-4de1-9202-2390c8122407/resize/1200x900/78b07e11530208db03d849cf9b79ba66/unnamed.jpg",
+          "width": 1074,
+          "height": 900,
+          "title": "AAEON AI monitoring for fever and mask detection",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-and-microsoft-team-up-on-ai-powered-cameras.md",
+      "title": "Sony and Microsoft team up on AI-powered cameras",
+      "excerpt": "Sony and Microsoft are working on AI-powered cameras together. The two tech giants have announced that they’re embedding Microsoft Azure’s AI capabilities into Sony’s new image sensor, the IMX500, which comes with an onboard AI chip that processes information in real time.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/sony-microsoft-team-up-ai-powered-cameras-091449976.html",
+      "ampWebUrl": "https://www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html",
+      "publishedDateTime": "2020-05-19T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7",
+          "width": 600,
+          "height": 350,
+          "title": "Sony and Microsoft team up on AI-powered cameras",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-tiktok-parent-bytedance-leads-6m-round-in-financial-ai-startup-lingxi.md",
+      "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
+      "excerpt": "TikTok’s parent company ByteDance has added Lingxi, a Beijing-based startup that applies machine intelligence to financial services such as debt collection and insurance sales, to its ever-expanding portfolio of investments.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/amp/",
+      "publishedDateTime": "2020-05-19T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/441589457034_.pic_hd-e1589588089905.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-whats-the-role-of-microsoft-azure-in-the-iot-sphere.md",
+      "title": "What’s the role of Microsoft Azure in the IoT sphere?",
+      "excerpt": "An article by Kevin E. Kline, Principal Program Manager at SentryOne. Microsoft Azure is a cloud-based IaaS (infrastructure as a service) that has technically been around since 2008, and provides nearly two dozen categories of specific services.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/",
+      "ampWebUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
+      "cdnAmpWebUrl": "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
+      "publishedDateTime": "2020-05-19T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOT Business News",
+        "domain": "iotbusinessnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://iotbusinessnews.com/WordPress/wp-content/uploads/technology-code-software.jpg",
+          "width": 800,
+          "height": 360,
+          "title": "What’s the role of Microsoft Azure in the IoT sphere?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
+      "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
+      "excerpt": "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
+      "publishedDateTime": "2020-05-19T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-facial-recognition-used-to-reunite-missing-child-with-family-after-32-years.md",
       "title": "Facial recognition used to reunite missing child with family after 32 years",
       "excerpt": "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology.",
-      "heat": 87,
+      "heat": 107,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html",
@@ -875,216 +1082,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-microsoft-just-gave-the-sony-ai-camera-an-azure-brain.md",
-      "title": "Microsoft just gave the Sony AI camera an Azure brain",
-      "excerpt": "It was only last week that Sony showed off its new embedded AI smart camera sensor, and already Microsoft is promising an artificial intelligence for the innovative chip. The Sony IMX500 stacks a",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/",
-      "ampWebUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/",
-      "publishedDateTime": "2020-05-18T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg",
-          "width": 2307,
-          "height": 1334,
-          "title": "Microsoft just gave the Sony AI camera an Azure brain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-five-robots-that-are-saving-the-us-food-supply-chain.md",
-      "title": "Five robots that are saving the US food supply chain",
-      "excerpt": "As Covid-19 threatens to buckle the US food supply chain, businesses are wrestling with the task of how to feed millions under lockdown via understaffed supply chains. As a result, demand for robotics companies whose machines can harvest,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
-      "ampWebUrl": "https://amp.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
-      "publishedDateTime": "2020-05-18T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2d98e856-a3fe-498c-8c42-ab85a0556c61.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "Five robots that are saving the US food supply chain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics.md",
-      "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
-      "excerpt": "The companies said their first offering, called FedEx Surround, will provide real-time analytics into commerce supply chains and shipment tracking.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
-      "publishedDateTime": "2020-05-18T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/2151fc49-7ad9-4a65-9002-0414a1081af1/thumbnail/1200x675/8639db4c7592580202910c59cd9b807c/screen-shot-2020-05-18-at-3-59-56-pm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-facial-recognition-and-your-right-to-privacy.md",
-      "title": "Facial recognition and your right to privacy",
-      "excerpt": "Would your social media habits change if you knew your posts could be used by law enforcement? Jacob Ward brings to light the privacy issues surrounding AI and facial recognition on the Weekend Report.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnews.com/video/facial-recognition-and-your-right-to-privacy-83601477518",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo83601477518",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo83601477518",
-      "publishedDateTime": "2020-05-18T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202005/sg_3.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Facial recognition and your right to privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages.md",
-      "title": "Hackers spoof new Azure AD and Microsoft 365 sign-in pages",
-      "excerpt": "The Azure AD sign-in experience underwent a redesign about three months ago, but the new sign-in pages didn’t roll out until the first week of April. Microsoft intended the rede",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp",
-      "publishedDateTime": "2020-05-18T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1589818624/itpro/shutterstock_357803588.jpg",
-          "width": 2957,
-          "height": 1958,
-          "title": "Hackers spoof new Azure AD and Microsoft 365 sign-in pages",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

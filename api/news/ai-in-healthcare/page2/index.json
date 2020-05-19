@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-anesthesia-business-consultants-leverages-artificial-intelligence-to-predict-practice-performance-amidst-covid-19-pandemic.md",
+      "title": "Anesthesia Business Consultants Leverages Artificial Intelligence to Predict Practice Performance Amidst COVID-19 Pandemic",
+      "excerpt": "Anesthesia Business Consultants, LLC (ABC), a leading provider in billing and practice management for the anesthesia and pain management specialty, has leveraged its artificial intelligence platform,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Business Wire/1a9030a2344e4a739804831472fc9396",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Anesthesia Business Consultants Leverages Artificial Intelligence to Predict Practice Performance Amidst COVID-19 Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-study-indicates-artificial-intelligence-could-help-stem-tide-of-school-violence.md",
       "title": "Study indicates artificial intelligence could help stem tide of school violence",
       "excerpt": "By leveraging the basics of artificial intelligence technology now used to predict risk for suicide or other mental health issues, researchers developed an AI system that analyzes linguistic patterns to predict a youth's risk for committing acts of school violence.",
@@ -1192,53 +1229,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-04-artificial-or-human-intelligence-companies-faking-ai.md",
-      "title": "Artificial Or Human Intelligence? Companies Faking AI",
-      "excerpt": "Some companies are choosing to approach these AI challenges not by scaling back their AI ambitions, but rather by using humans to do the task that they are otherwise trying to get their AI systems to",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/",
-      "publishedDateTime": "2020-04-04T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1126179832%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6480%26cropY1%3D292%26cropY2%3D3936",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial Or Human Intelligence? Companies Faking AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
       ]
     }
   ],

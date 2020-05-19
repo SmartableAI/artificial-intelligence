@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-23-minecraft-machine-learning-and-bots-enter-an-ai-wonderland-with-these-stayathome-workshops.md",
+      "title": "Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops",
+      "excerpt": "The post Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops appeared first on The AI Blog.\n",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/europe/features/minecraft-machine-learning-and-bots-enter-an-ai-wonderland-with-these-stayathome-workshops/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T14:59:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/93/2020/04/Win18b_Consumer_Creativity_Asus_Vivobook_Flip_T203_0194-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-former-fox-cto-joins-microsoft-azures-media-and-entertainment-business.md",
       "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
       "excerpt": "Hanno Basse, the former chief technology officer at 20th Century Fox, has been named CTO for Microsoft Azure Media and Entertainment. In his new role, he’s working with entertainment industry customers, partners, industry groups and vendors to create applications for Microsoft’s cloud, edge and AI technologies. His initial focus is ...",
@@ -1154,51 +1199,6 @@
           "width": 630,
           "height": 355,
           "title": "Microsoft dedicates $20M from AI for Health program to COVID-19 data analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-microsoft-google-strategic-layout-ai-field-wimi-hologram-cloud-nasdaqwimi-ai-algorithm-leading.md",
-      "title": "Microsoft, Google Strategic Layout AI Field, Wimi Hologram Cloud (NASDAQ:WIMI) AI Algorithm Leading",
-      "excerpt": "Although the U.S. is still the leader in absolute numbers, the number of AI related patent applications submitted by Chinese researchers has increased by nearly 200% in recent years. As a global Internet giant Microsoft company,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/microsoft-google-strategic-layout-ai-field-wimi-hologram-cloud-nasdaqwimi-ai-algorithm-leading-2020-04-09",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Microsoft, Google Strategic Layout AI Field, Wimi Hologram Cloud (NASDAQ:WIMI) AI Algorithm Leading",
           "attribution": null
         }
       ],

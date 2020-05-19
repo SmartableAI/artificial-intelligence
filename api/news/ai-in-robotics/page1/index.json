@@ -278,43 +278,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-15-robot-dog-enforces-social-distancing-in-singapore.md",
-      "title": "Robot dog enforces social distancing in Singapore",
-      "excerpt": "Spot’s two-week pilot in a park is seen as a test of how machines and artificial intelligence could help reduce human contact in public spaces",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.detroitnews.com/story/news/world/2020/05/14/robot-dog-social-distancing/111715036/",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/111715036",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111715036",
-      "publishedDateTime": "2020-05-14T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/15/PDTN/785adfc9-75b1-4a4d-ab53-663fbf963888-WORLD-NEWS-CORONAVIRUS-SINGAPORE-ROBOT-DOG-GET.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Robot dog enforces social distancing in Singapore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-14-nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020.md",
       "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
       "excerpt": "I watched NVIDIA’s GTC 2020 virtual keynote today, and I found the company scored high on both. Architecture is everything when you are a platform provider and NVIDIA rolled out its new architecture,",
@@ -918,14 +881,14 @@
     {
       "path": "_news/2020-05-11-zoom-xoom-zum-why-does-every-startup-sound-fast-now.md",
       "title": "Zoom, Xoom, Züm: Why does every startup sound fast now?",
-      "excerpt": "There have been at least 120 startups whose names include something that sounds like “zoom.” Another fact: They have raised a collective $1.8 billion in funding.",
+      "excerpt": "the robot pizza startup, failed to raise more funding. In other words: Zoom boomed while Züm pruned, and maybe Zume was doomed? Fast-sounding startups, it seems, have bloomed. There’s Zoomd, Zoomi, Zumi, Zoomy, Zoomies, Zoomin, Zoomvy, Zoomly and Zoomph. Zoom.ai offers virtual assistants, Xoom is a payments service, and Zumobi does mobile ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.bizjournals.com/columbus/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html",
+      "webUrl": "https://www.bizjournals.com/baltimore/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T09:52:00-07:00",
+      "publishedDateTime": "2020-05-11T09:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Business Journals",
@@ -1244,6 +1207,43 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-indiegogo-campaign-introduces-the-next-gen-social-family-robot.md",
+      "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
+      "excerpt": "Misa is a revolutionary social family robot that is backed by high-tech sensors, AI, and emotional intelligence travel, learn, teach, and interact with people around like a",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15985882/indiegogo-campaign-introduces-the-next-gen-social-family-robot",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15985882",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15985882",
+      "publishedDateTime": "2020-05-07T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://www.getnews.info/uploads/98e0ea3f3e3e583379fdb6396838275d.jpg",
+          "width": 579,
+          "height": 480,
+          "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

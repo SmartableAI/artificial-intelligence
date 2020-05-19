@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-19-whats-the-role-of-microsoft-azure-in-the-iot-sphere.md",
+      "title": "What’s the role of Microsoft Azure in the IoT sphere?",
+      "excerpt": "An article by Kevin E. Kline, Principal Program Manager at SentryOne. Microsoft Azure is a cloud-based IaaS (infrastructure as a service) that has technically been around since 2008, and provides nearly two dozen categories of specific services.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/",
+      "ampWebUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
+      "cdnAmpWebUrl": "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
+      "publishedDateTime": "2020-05-19T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOT Business News",
+        "domain": "iotbusinessnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://iotbusinessnews.com/WordPress/wp-content/uploads/technology-code-software.jpg",
+          "width": 800,
+          "height": 360,
+          "title": "What’s the role of Microsoft Azure in the IoT sphere?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors.md",
       "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
       "excerpt": "Microsoft and Sony have formed a new partnership to apply the former's Azure AI capabilities to the latter's smart camera sensor system. The goal is to boost computer vision for enterprise settings.",
@@ -1274,35 +1311,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-talend-sas-tlnd-ceo-christal-bemont-on-q1-2020-results-earnings-call-transcript.md",
-      "title": "Talend SA's (TLND) CEO Christal Bemont on Q1 2020 Results - Earnings Call Transcript",
-      "excerpt": "Q1 2020 Earnings Conference Call May 06, 2020 4:30 PM ET Company Participants Lauren Sloane – Investor Relations Christal Bemont – C",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://seekingalpha.com/article/4343962-talend-sas-tlnd-ceo-christal-bemont-on-q1-2020-results-earnings-call-transcript",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

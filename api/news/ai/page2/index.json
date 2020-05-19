@@ -2,6 +2,266 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-18-vb-special-issue-ai-and-surveillance-in-the-age-of-coronavirus.md",
+      "title": "VB Special Issue: AI and surveillance in the age of coronavirus",
+      "excerpt": "This VentureBeat special issue explores AI and Surveillance in the age of coronavirus. We focus on finding the balance between safety and freedom.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/vb-special-issue-ai-surveillance-during-coronavirus/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/vb-special-issue-ai-surveillance-coronavirus-cover.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 400,
+          "title": "VB Special Issue: AI and surveillance in the age of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-samsung-backs-startup-that-has-made-an-artificial-window-which-mimics-sunlight.md",
+      "title": "Samsung Backs Startup That Has Made An Artificial Window Which Mimics Sunlight",
+      "excerpt": "The SunnySide artificial window not only changes the angle of light according to the time of the day but is also claimed to help users synthesize vitamin D.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://in.mashable.com/tech/14101/samsung-backs-startup-that-has-made-an-artificial-window-which-mimics-sunlight",
+      "ampWebUrl": "https://in.mashable.com/tech/14101/samsung-backs-startup-that-has-made-an-artificial-window-which-mimics-sunlight?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/14101/samsung-backs-startup-that-has-made-an-artificial-window-which-mimics-sunlight?amp=1",
+      "publishedDateTime": "2020-05-18T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/samsung-backs-startup-that-has-made-an-artificial-window-whi_ruku.620.png",
+          "width": 620,
+          "height": 331,
+          "title": "Samsung Backs Startup That Has Made An Artificial Window Which Mimics Sunlight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts.md",
+      "title": "DeepMind claims its AI predicts macular degeneration more accurately than experts",
+      "excerpt": "DeepMind claims that its machine learning system can predict macular degeneration more accurately than a team of human experts.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/18/deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": "DeepMind claims its AI predicts macular degeneration more accurately than experts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-how-ai-could-predict-sight-threatening-eye-conditions.md",
+      "title": "How AI could predict sight-threatening eye conditions",
+      "excerpt": "Age-related macular degeneration (AMD) is the biggest cause of sight loss in the UK and USA and is the third largest cause of blindness across the globe. The latest research collaboration between Google Health, DeepMind and Moorfields Eye Hospital is published in Nature Medicine today. It shows that",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.blog.google/technology/health/predicting-sight-threatening-eye-condition/",
+      "ampWebUrl": "https://blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/",
+      "publishedDateTime": "2020-05-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": "How AI could predict sight-threatening eye conditions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-this-ai-tool-automatically-identifies-different-types-of-brain-injury.md",
+      "title": "This AI tool automatically identifies different types of brain injury",
+      "excerpt": "Scientists from Imperial College London and Cambridge have developed an AI tool that can identify different brain injuries by analyzing images of CT scans",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/amp/",
+      "publishedDateTime": "2020-05-18T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-38-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI tool automatically identifies different types of brain injury",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-nvidia-releases-new-artificial-intelligence-hardware.md",
+      "title": "NVIDIA Releases New Artificial Intelligence Hardware",
+      "excerpt": "When it comes to hardware technology, NVIDIA (NASDAQ:NVDA) is at the leading edge of developments that are poised to reshape the world for at least the next decade. Using its graphics processing unit (GPU) roots for high-end video games -- an early data-dense computing task that has paved the way for breakthroughs in other areas -- NVIDIA is a busy chip designer and software developer these days.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "publishedDateTime": "2020-05-18T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "NVIDIA Releases New Artificial Intelligence Hardware",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code.md",
       "title": "Machine learning tool trains on old code to spot bugs in new code",
       "excerpt": "Microsoft and Altran release Code Defect AI to identify potential problems in software development and suggest fixes.",
@@ -314,6 +574,43 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-police-stocktake-surveillance-tech-after-clearview-ai-facial-recognition-trial.md",
+      "title": "Police 'stocktake' surveillance tech after Clearview AI facial recognition trial",
+      "excerpt": "The Police Commissioner has ordered a stocktake of surveillance technologies after police trialed controversial facial recognition software without consulting his office.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rnz.co.nz/news/national/416913/police-stocktake-surveillance-tech-after-clearview-ai-facial-recognition-trial",
+      "ampWebUrl": "https://amp.rnz.co.nz/article/92771117-dcaf-49bd-bf28-8480d27440df",
+      "cdnAmpWebUrl": "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/92771117-dcaf-49bd-bf28-8480d27440df",
+      "publishedDateTime": "2020-05-17T19:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rnz",
+        "domain": "rnz.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rnz.co.nz/assets/news_crops/99690/eight_col_080420NZHMMCOSTER4.jpg?1586319762",
+          "width": 720,
+          "height": 450,
+          "title": "Police 'stocktake' surveillance tech after Clearview AI facial recognition trial",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1013,316 +1310,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-update-1-gm-ceo-calls-self-driving-unit-layoffs-prudent-still-sees-huge-opportunity.md",
-      "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
-      "excerpt": "General Motors Co’s top executive on Friday said layoffs announced a day earlier at the company’s self-driving Cruise unit were “prudent” but insisted that she sees a “huge opportunity” for its vehicles to move both people and packages.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/autos-gm-idUSL1N2CX2GA",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22R30M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22R30M",
-      "publishedDateTime": "2020-05-15T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200515&t=2&i=1518809247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4E23K",
-          "width": 811,
-          "height": 545,
-          "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-easymile-self-driving-shuttles-add-seatbelts-to-get-back-in-operation.md",
-      "title": "EasyMile Self-Driving Shuttles Add Seatbelts To Get Back In Operation",
-      "excerpt": "EasyMile shut operations due to a sudden-stop incident. It's coming back, adding seatbelts. But is the very idea of the \"transit stop\" where you drop off and pick up passengers the flaw? Can 21st century transit have minimal stops and thus be safer?",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/05/15/easymile-self-driving-shuttles-add-seatbelts-to-get-back-in-operation/",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/05/15/easymile-self-driving-shuttles-add-seatbelts-to-get-back-in-operation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/05/15/easymile-self-driving-shuttles-add-seatbelts-to-get-back-in-operation/amp/",
-      "publishedDateTime": "2020-05-15T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebef67012242700064a9918%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "EasyMile Self-Driving Shuttles Add Seatbelts To Get Back In Operation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-enhancing-speech-to-text-accuracy-of-covid-19-related-terms-with-amazon-transcribe-medical.md",
-      "title": "Enhancing speech-to-text accuracy of COVID-19-related terms with Amazon Transcribe Medical",
-      "excerpt": "As the world responds to the ongoing pandemic, it’s more important than ever to accurately access, consume, and analyze information related to COVID-19. Topics about the healthcare crisis permeate many dimensions of our personal and professional lives, through channels as diverse as news reporting, social",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-speech-to-text-accuracy-of-covid-19-related-terms-with-amazon-transcribe-medical/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-15T12:21:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/15/transcribing-covid-social.jpg",
-          "width": 1056,
-          "height": 484,
-          "title": "Enhancing speech-to-text accuracy of COVID-19-related terms with Amazon Transcribe Medical",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-analyzing-and-tagging-assets-stored-in-veeva-vault-promomats-using-amazon-ai-services.md",
-      "title": "Analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services",
-      "excerpt": "Veeva Systems is a provider of cloud-based software for the global life sciences industry, which offers products that serve multiple domains ranging from clinical, regulatory, quality, and more. Veeva’s Vault Platform manages both content and data in a single platform that allows you to deploy powerful",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-and-tagging-assets-stored-in-veeva-vault-promomats-using-amazon-ai-services/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-15T11:02:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/veevo-1-2.gif",
-          "width": 1200,
-          "height": 583,
-          "title": "Analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable.md",
-      "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
-      "excerpt": "NVIDIA Corporation (NASDAQ: NVDA) shares, which have been bouncing along nicely for much of this week amid positive sell-side expectations for the chipmaker's earnings",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/16043371/nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16043371",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16043371",
-      "publishedDateTime": "2020-05-15T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/nvidia_a100_gpu.jpg",
-          "width": 2000,
-          "height": 1700,
-          "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-voice-control-speaking-is-better-than-swiping-during-the-coronavirus.md",
-      "title": "Voice control: Speaking is better than swiping during the coronavirus",
-      "excerpt": "A survey shows that people are worried about privacy and security when using voice control but they like not having to touch anything.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "publishedDateTime": "2020-05-15T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/11/22/88326323-0d79-46bf-96dd-249d6e66ec6f/thumbnail/1200x675/84317c9b308cf0e20a8ecfddd3825515/20191121-dreamforce-patterson-bill.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Voice control: Speaking is better than swiping during the coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-facebooks-voice-synthesis-ai-generates-speech-in-500-milliseconds.md",
-      "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
-      "excerpt": "Facebook's new AI text-to-speech system generates one second of human-like audio in just 500 milliseconds, running on off-the-shelf processors.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/15/facebooks-voice-synthesis-ai-generates-speech-in-500-milliseconds/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-15T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-portal-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],

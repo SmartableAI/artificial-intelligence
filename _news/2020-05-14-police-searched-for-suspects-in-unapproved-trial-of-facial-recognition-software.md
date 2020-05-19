@@ -8,8 +8,8 @@ ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/05/police-searched-f
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/05/police-searched-for-suspects-in-unapproved-trial-of-facial-recognition-software.amp.html"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: Newshub
@@ -26,21 +26,6 @@ images:
     title: "Police searched for suspects in unapproved trial of facial recognition software"
 
 related:
-  - title: "Police searched for suspects in unapproved trial of facial recognition tech, Clearview AI"
-    excerpt: "An unapproved police trial of controversial facial recognition software conducted dozens of searches for suspects in New Zealand."
-    publishedDateTime: 2020-05-14T23:11:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/police-searched-suspects-in-unapproved-trial-facial-recognition-tech-clearview-ai"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxNSUyRnBvbGljZS1zZWFyY2hlZC1mb3Itc3VzcGVjdHMtaW4tdW5hcHByb3ZlZC10cmlhbC1vZi1mYWNpYWwtcmVjb2c="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYxNSUyRnBvbGljZS1zZWFyY2hlZC1mb3Itc3VzcGVjdHMtaW4tdW5hcHByb3ZlZC10cmlhbC1vZi1mYWNpYWwtcmVjb2c="
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 65
-    images:
-      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/13/police-apologise-over-secret-trial-of-facial-recognition-technol?w=700&h=393.75&fit=crop&auto=format"
-        width: 700
-        height: 394
   - title: "Police used unapproved facial recognition software to search for suspects"
     excerpt: "An unapproved police trial of controversial facial recognition software conducted dozens of searches for suspects in NZ."
     publishedDateTime: 2020-05-14T21:03:00Z
