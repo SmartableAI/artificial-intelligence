@@ -2,6 +2,134 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-20-microsoft-unveils-enormous-supercomputer-to-train-ai-models.md",
+      "title": "Microsoft unveils enormous supercomputer to train AI models",
+      "excerpt": "Microsoft has built a new powerful supercomputer in collaboration with Artificial Intelligence (AI) startup OpenAI, making new infrastructure available in Azure to train extremely large AI models, the company is announcing at its Build developers conference.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://menafn.com/1100190896/Microsoft-unveils-enormous-supercomputer-to-train-AI-models",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?123083",
+          "width": 395,
+          "height": 250,
+          "title": "Microsoft unveils enormous supercomputer to train AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-us-semiconductor-giant-shuts-china-factory-hailed-as-a-miracle-in-blow-to-beijings-chip-plans.md",
+      "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
+      "excerpt": "The winding down of GlobalFoundries’ only Chinese facility was due to poor planning, analysts said, but comes at a time of rising US-China tech tensions.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
+      "ampWebUrl": "https://amp.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
+      "publishedDateTime": "2020-05-20T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/20/607f15f4-9a53-11ea-96ff-7aff439fc3be_image_hires_142028.jpg?itok=h3FEcWGp&v=1589955637",
+          "width": 1200,
+          "height": 630,
+          "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker.md",
+      "title": "Alibaba to invest $1B on AI integration with smart speaker",
+      "excerpt": "Chinese e-commerce giant will use the funds to bolster its artificial intelligence and Internet of Things ecosystem that supports Tmall Genie, including linking more content and services from Alibaba's wider ecosystem that spans entertainment,",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "publishedDateTime": "2020-05-20T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/20/a4c65357-021e-45d8-bf8e-cd3831167937/thumbnail/1200x675/871569821e3baf939ac18c93fecddce5/tmall-logo.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Alibaba to invest $1B on AI integration with smart speaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-edge-ai-market-analysis-as-per-the-latest-covid-19-impact.md",
       "title": "Edge AI Market Analysis as per the Latest COVID-19 Impact",
       "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The global Edge AI market report provides geographic analysis covering regions,",
@@ -87,7 +215,7 @@
       "path": "_news/2020-05-19-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
       "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
       "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.vice.com/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
@@ -176,7 +304,7 @@
       "path": "_news/2020-05-19-microsoft-builds-massive-supercomputer-for-smarter-ai.md",
       "title": "Microsoft builds massive supercomputer for smarter AI",
       "excerpt": "The Azure machine has 285,000 processor cores and 10,000 GPUs to tackle a new class of artificial intelligence tasks.",
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
@@ -259,6 +387,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-smart-office-market-technological-innovation-by-leading-key-players-2022.md",
+      "title": "Smart Office Market Technological Innovation by Leading Key Players 2022",
+      "excerpt": "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/smart-office-market-technological-innovation-by-leading-key-players-2022-2020-05-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Smart Office Market Technological Innovation by Leading Key Players 2022",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -571,7 +744,7 @@
       "path": "_news/2020-05-19-chinese-man-abducted-32-years-ago-as-toddler-reunited-with-birth-parents-thanks-to-facial-recognition-tech.md",
       "title": "Chinese man abducted 32 years ago as toddler reunited with birth parents thanks to facial recognition tech",
       "excerpt": "A Chinese man who was kidnapped as a toddler 32 years ago was reunited with his biological parents during an emotional news conference Monday after police used facial recognition technology to track him down and confirm his identity,",
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.foxnews.com/world/china-kidnapped-toddler-32-years-reunites-birth-parents-facial-recognition",
@@ -797,7 +970,7 @@
       "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
       "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
       "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
-      "heat": 142,
+      "heat": 152,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",
@@ -925,180 +1098,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-machine-learning-gets-responsible-ml-innovations-and-more.md",
-      "title": "Azure Machine Learning gets Responsible ML innovations and more",
-      "excerpt": "Microsoft has announced new capabilities to its cloud-based machine learning platform. A new project to advance machine teaching methods has also been released in the form of a public preview.",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/azure-machine-learning-gets-responsible-ml-innovations-and-more",
-      "ampWebUrl": "https://www.neowin.net/amp/azure-machine-learning-gets-responsible-ml-innovations-and-more/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-machine-learning-gets-responsible-ml-innovations-and-more/",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589650666_airport_story.jpg",
-          "width": 760,
-          "height": 506,
-          "title": "Azure Machine Learning gets Responsible ML innovations and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-announces-azure-cognitive-services-and-bot-service-enhancements.md",
-      "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
-      "excerpt": "Not only have Microsoft's Bot Framework and Service been updated, but new AI functionality and language capabilities have been introduced for apps that leverage Azure Cognitive Services as well.",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements/",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/02/1486489003_cognitive_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates.md",
-      "title": "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates",
-      "excerpt": "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020.",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work.md",
-      "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
-      "excerpt": "The post Microsoft announces new supercomputer, lays out vision for future AI work appeared first on The AI Blog.\n",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/openai-azure-supercomputer/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:59:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/openai-azure-supercomputer-kevin-scott_3_1200x630-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]

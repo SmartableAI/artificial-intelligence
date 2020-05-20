@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft to Adapt Its Cloud Software for Healthcare Industry"
+    excerpt: "Microsoft Corp said on Tuesday it plans to roll out a version of its cloud-based software that will be modified to suit the needs of healthcare organizations. While Microsoft is known for general productivity software such as Outlook and the chat app Teams,"
+    publishedDateTime: 2020-05-19T15:19:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-05-19/microsoft-to-adapt-its-cloud-software-for-healthcare-industry"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Microsoft targets healthcare industry in cloud software pivot"
     excerpt: "Microsoft plans to roll out a version of its cloud-based software that will be modified to suit the needs of healthcare organisations."
     publishedDateTime: 2020-05-19T23:59:00Z

@@ -16,12 +16,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.broadcastingcable.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY2NzI3ODUyMTIzNzU5ODkx/fluent_whitepaper_streamingservices_2019.jpg"
-    width: 620
-    height: 349
-    title: "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network"
-
-secured: "mt4rZnEicRcL8wxPGBOzVasixyCAnToXasi1o7G2hjdbAWun6xQXcQVhkWZw8m9sTogqoUGUQl9/6XJbwrHqv9zveIqoU1QqCFcjqgEGgeLczNXaqlZaXdd2By5T1f3GYy6+NxBOUgPIe+liL0UWmMgLYOs404kuKS27ODkmhu2TXirqpTzRXqEEpwK5yYaIC+GDrIJpvjEn6wsdmQcYxPZ/nc73y31DX5kYF8A+7qmNSH2d9jN/0ihn0LD7ogAEqbNGIW/A6vTxvS1QAv/aMI6tH0IzVAamg8IEihrPPwtVN+J6LX4Sf7GEksq2mpeV;5tT4lC9K6+L68SeToXLWkw=="
+secured: "ZjfBJtmcnGCVFAKY3sCl8jKhnR5DUgqT+cNHMvIo3VbFhCqx6ff6OitWWj7RJH6lN7ZRH13tcpTWyzr/PlvTWgxWB5AkQwryIeFh8VuVuLJSu5kXO/ABAyuHbUn5me6bmszFPMBCFaMm1/oqL4TqxuCUl5rY3u9YYyfj3Q49bIjkp3tzkgbKppU5BPuyvU7aaNU4oJQ8zNkBgip9AwoHxjbWMnl5HMKWhyyXD4lrLRZQmV0l+ZZ54LceXm2fxZv8EWepeBQS8Qj6NblbaB2RmK68NB9qHyxp5231S+6Wj3yxK7SNJ7c7Q3YCcoz/zHXg;LUIsITzjEGFyDPFSBJHt1w=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/voice-control-speaki
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     title: "Voice control: Speaking is better than swiping during the coronavirus"
-
-related:
-  - title: "AI and Machine Learning Critical to Tackling Cyber Threats Say NTT"
-    excerpt: "Advanced artificial intelligence (AI) and machine learning tools are becoming increasingly critical in detecting and combatting cyber threats. This is according to Stefaan Hinderyckx, Senior Vice President,"
-    publishedDateTime: 2020-05-15T15:15:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/ai-machine-tackling-cyber/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 34
 
 secured: "/S+2Ccumo8h5oEhzoE+8ijLuG/KAWuESX/YyJZhchPbN3pVO2JOCYYk8ohFwXNw6hZibXaAkBZtBccMAfA0F+0Thn09UGJWgQgwv/Z8bvYwj257MaBbKlEWH8MPDMtZcnsDgp6QN7IK3uL1/OT3gd28FjWaVhNqVJ7Eut7Ow4CGYPAfLgMPHXqKrGtNS9SpU0hcp/HSuT07tWPWsD9p2cGJVprTZNRoQ3UaOgfw3COSE07JwnkA3XmGqWQzXUbuulr9MSoT2+9unUgXRp49RN+w78yHK5sL9ilhF1OsQ4AI5LMkDv7WAQOWPEXOUM0kaU7Bf5bnVOFVDIEDCDZTFbDqnj244DjbJetLCMltMHPesksVRtQ93uM4aJrBnH3GSG+nd5+NOIfLOsg+M5cSbkka6vNB1L5aDbZZEqylWYzY5/pDxWA+i+iWzE6r9xLwiIWjfdFeocOjimmmqSF2ydQL6LFdW0Loi3X0RsXiHw+Q=;fK937GpEDHWQvdgGj/OVvg=="
 ---

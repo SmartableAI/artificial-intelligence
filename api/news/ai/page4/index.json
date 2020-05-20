@@ -2,6 +2,133 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-18-10-ways-ai-is-improving-manufacturing-in-2020.md",
+      "title": "10 Ways AI Is Improving Manufacturing In 2020",
+      "excerpt": "The BMW Group uses AI to evaluate component images in ongoing production lines to spot deviations from the standard in real-time. Perceiving the pandemics' hard reset as a chance to grow stronger, more resilient,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/amp/",
+      "publishedDateTime": "2020-05-17T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201992144%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3267%26cropY1%3D156%26cropY2%3D1994",
+          "width": 1199,
+          "height": 675,
+          "title": "10 Ways AI Is Improving Manufacturing In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-police-stocktake-surveillance-tech-after-clearview-ai-facial-recognition-trial.md",
+      "title": "Police 'stocktake' surveillance tech after Clearview AI facial recognition trial",
+      "excerpt": "The Police Commissioner has ordered a stocktake of surveillance technologies after police trialed controversial facial recognition software without consulting his office.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rnz.co.nz/news/national/416913/police-stocktake-surveillance-tech-after-clearview-ai-facial-recognition-trial",
+      "ampWebUrl": "https://amp.rnz.co.nz/article/92771117-dcaf-49bd-bf28-8480d27440df",
+      "cdnAmpWebUrl": "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/92771117-dcaf-49bd-bf28-8480d27440df",
+      "publishedDateTime": "2020-05-17T19:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rnz",
+        "domain": "rnz.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rnz.co.nz/assets/news_crops/99690/eight_col_080420NZHMMCOSTER4.jpg?1586319762",
+          "width": 720,
+          "height": 450,
+          "title": "Police 'stocktake' surveillance tech after Clearview AI facial recognition trial",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-using-ai-to-predict-retinal-disease-progression.md",
+      "title": "Using AI to predict retinal disease progression",
+      "excerpt": "Vision loss among the elderly is a major healthcare issue: about one in three people have some vision-reducing disease by the age of 65. Age-related macular degeneration (AMD) is the most common cause of blindness in the developed world. In Europe, approximately 25% of those 60 and older have AMD. The",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/UakhSqcWKFG3IeXxAeWRn9glKAVZivbPWLkZdtKeYhWrLtVVx--7YRIGW5j4DdUeSFZ0eLMGFrEhw5t_4CukZWwOx8hF2KUv0etSy94",
+          "width": 512,
+          "height": 288,
+          "title": "Using AI to predict retinal disease progression",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-17-10-ways-ai-can-improve-voice-of-the-customer-programs.md",
       "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
       "excerpt": "Gaining insight and intelligence to energize existing customer relationships calls for greater use of AI in VoC programs.",
@@ -876,7 +1003,7 @@
       "path": "_news/2020-05-15-voice-control-speaking-is-better-than-swiping-during-the-coronavirus.md",
       "title": "Voice control: Speaking is better than swiping during the coronavirus",
       "excerpt": "A survey shows that people are worried about privacy and security when using voice control but they like not having to touch anything.",
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
@@ -1184,132 +1311,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-nvidia-releases-most-advanced-ai-chip-ever.md",
-      "title": "Nvidia releases most advanced AI chip ever",
-      "excerpt": "Nvidia has just released its next-generation artificial intelligence chip - and it's quite the beast. During a keynote at Nvidia GTC, CEO Jensen Huang referred to the new Nvidia A",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itproportal.com/news/nvidia-releases-most-advanced-ai-chip-ever/",
-      "ampWebUrl": "https://www.itproportal.com/amp/news/nvidia-releases-most-advanced-ai-chip-ever/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nvidia-releases-most-advanced-ai-chip-ever/",
-      "publishedDateTime": "2020-05-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZCpccNHtpUekUzUU49oVbe-1200-80.jpg",
-          "width": 700,
-          "height": 394,
-          "title": "Nvidia releases most advanced AI chip ever",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-pandemic-effect-how-do-consumers-feel-about-ai-right-now.md",
-      "title": "Pandemic effect: How do consumers feel about AI right now?",
-      "excerpt": "Consumer-facing AI and robotics applications have had an uphill battle, and they've had to wage it on two fronts. Regulation has, perhaps for the better, throttled adoption of technologies like self-driving cars and delivery robots,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/pandemic-effect-how-do-consumers-feel-about-ai-right-now/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pandemic-effect-how-do-consumers-feel-about-ai-right-now/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pandemic-effect-how-do-consumers-feel-about-ai-right-now/",
-      "publishedDateTime": "2020-05-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2017/05/04/7f9fab71-4c68-4c3f-ac60-a57c26eb4ad6/ai.jpg",
-          "width": 770,
-          "height": 577,
-          "title": "Pandemic effect: How do consumers feel about AI right now?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-gms-self-driving-car-startup-cruise-has-laid-off-8-of-its-staff-or-around-150-workers.md",
-      "title": "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers",
-      "excerpt": "The move is aimed at cutting costs amid the ongoing coronavirus pandemic.",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp",
-      "publishedDateTime": "2020-05-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ebe5ca4aee6a849b975e494?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

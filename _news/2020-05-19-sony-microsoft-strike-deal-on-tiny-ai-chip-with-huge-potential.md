@@ -1,28 +1,23 @@
 ---
 category: news
-title: "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential"
-excerpt: "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers."
+title: "Sony, Microsoft strike deal on tiny AI chip with huge potential"
+excerpt: "Instead of generating actual images, Sony's AI chip can analyze the video it sees and provide just metadata about what's in front of it — saying instead of showing what's in its frame of vision. No data is sent"
 publishedDateTime: 2020-05-19T02:22:00Z
-webUrl: "https://www.bloomberg.com/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential"
-ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential"
-cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential"
+webUrl: "https://www.seattletimes.com/business/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential/"
+ampWebUrl: "https://www.seattletimes.com/business/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential/?amp=1"
 type: article
-quality: 101
-heat: 111
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AI Hardware
+  - AI
 
 related:
   - title: "Sony and Microsoft strike deal on tiny AI chip with huge potential"
@@ -39,6 +34,6 @@ related:
         width: 870
         height: 580
 
-secured: "gqZ6FDnUotZe+xHZZPrJ/ipU93emhX1r2T+kx/vuj93YDQiPzuK3NuVsMhX1DR3ozyJGJ4StknU/mIxeFBWmoH/yMCuneBLKs6+eeysCYcn8/nb7/KDSoi2rPBpMTEkcmxfCMR1xKI2KUu3Visfq2Y9kguJP9iJsk5gdh2boemmUhUL3ZHjVI4EwQUfZ+8oCd/bcTFd/f4BXCbIRF3d4AYZ+XGJearSXaSjn4Il5Jag3Isstl7Z6xaLW0w+sESZSDwdOmtt2AfL43P0zeQfWz3fPxYgt1hm3Rw7tBPm68Nv0vLB4EvRTqomNWYumI0sB5CpNSIJK4beDdA/WyBg8pH61CtQ4WW+jSNyg/hWJTcpZW17hP3JncIK8wpukAVaAToyiuVdxuLqwOM8UHYiW+LWAOpHXjXeFozTavesqqAh7tbjRFmjsjDwdVw0eqIHMOtsRNrKVAy4IX2zO6yX+Y8WQ+W3970/CWNTQhZfsLNI=;KAbKGRVJvdO4Dpe8tlT3OQ=="
+secured: "WTrx91EDLnNOPtli1xbWsFfpKI2dMS0VLoaut2TI1t53fR16hEYkZfbGo4rFfwevjxbzpdZFtfhYAXB2GAXzp0UT5xWAl3bF3PCKKKaqrbHi4vOOZc+BtNc70IUTM8dxGRP0d67KNPeQ5mAy5aEnNTCapAPrDyH+2XJXtCxWsvZNCTgu4Zaw69REiaiO1k2V08hk4t9/TqTKFtwQyqASh0d0RVqIr4Cq/HwZffuiZ1PGpklgd4vqMZ/bIQI8cTbtzK2ZL3/ipfiG9p+FXF6AEOnB93cZWQHuKSk/o25oavLlzMiIK6cHzkUAVm1F2RJvCkZS70cOQTahVc1xAgqDrjS3Hg/3nxNOyX9tk4EaRMr6biJ8fafkeHhFTxJ+WjKOcyL9tG0V6LrlSkV1zASpA6wl7Hpk3LRYWRsgvauyFpaWClds8eljHfGSKc9se8LLMMlQ7ofJoZzK/LY0xkEoYFzGwK0I05H0n/iN4BfGHvc=;mpPRclKVro2V1I5TEsTo2A=="
 ---
 

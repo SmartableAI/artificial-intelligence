@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partners
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/"
 type: article
 quality: 102
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
       - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
         width: 2695
         height: 1414
+  - title: "Microsoft, Sony come together to make smart camera solutions"
+    excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. The companies will embed Microsoft Azure AI capabilities on Sony's intelligent vision sensor IMX500,"
+    publishedDateTime: 2020-05-20T07:45:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-sony-microsoft-join-hands-for-smart-camera-solutions-know-what-is-it-618881"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 19
 
 secured: "M6CxVtRHzbOxKPojcMQayvWBNZUjov7r6wHa9jTdYBvteinWD+btaqvwaw+unEfXxWQKYuwHVY6d/QDBVPCh9ZUK/kiWnHacHmoPN1a1XkYlDPggbA9FzZAauWDYCU0GPPxlIUszZ+1fD3TueDbSoEY8R97zfrvFTfsAra1Jsb8/EqkA4llr+orRqjzt8gR5oA7JAhhwRxKOsWeWWGO8rhGArMmxQaYP/5zoIXhVH95TXBc4n34iJ2jlyfoESLWF7mUYTHqRRgIvytG4sV8NPKgcQj7eUp699ykInnjXWbCBmj0Lvoo9y992W6gum9TmbVsPQZUxNgqpqZS3Z2bB82zcJyh2vTA22TkcrSLSBJ0ZGdB/IvvVu4SifwcIqd1xlhTqYXrOSwU5yCZVt8Np7x8AMu23rbdzcmwbaQlux0VT5h+BKlEC5MiJ1vyDkLqKw7W+Nz1JmwQG2AsaRmMZMijasWGhRorGRMinlP/uLvY=;8s4yaS1UflR0AMcpyocnRQ=="
 ---

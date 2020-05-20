@@ -65,6 +65,21 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 82
+  - title: "Google says it won't build AI tools for oil and gas drillers"
+    excerpt: "Google says it will no longer build custom artificial intelligence tools for speeding up oil and gas extraction, separating itself from cloud computing rivals Microsoft and Amazon. A statement from the company Tuesday followed a Greenpeace report that documents how the three tech giants are using AI and computing power to help oil companies find and access oil and gas deposits in the U."
+    publishedDateTime: 2020-05-19T19:32:00Z
+    webUrl: "https://www.chron.com/news/article/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 57
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
 
 secured: "yev4xDL4tqT7TDO63Hk2uqCNHDnStiMPiWP4SkSxO15aVtJV0k6rS8BwSyk49pJ5Jqfl7mNpclyGbZaee3KlXbz2SFvA3WGwt7bazF+rtqjVce8LIHEMknhNhJ2McW/q0nmeWR4YmjEWFWhUs1vy3fs/L4jR48Nmab/gH4ZKJ2wQgk548EB5CrgMkWkaXcqBRBhy7kUyMBiYUNp/lzkNBaP0d8xMO6Gs+u6DaL1sZ1oC4n8xjF6e6NsbOy5Lcq3kiMXTB6CIwP836F7lJWQOncAJ+ltFD67lqCxc9rrPLY0mGo0hzKX2oQI1nwZvnuGwIRYgENfz4XgiGq5u5odhZJWOUh3v0gy7dsYubqix6mghNOFaDMzLCOHZfV7rr6t1brCx+oWGrZaHbzxR/hgdB/fG0YVisxsUViWBBFKRkx9GI//TwuwmuxUZoyg3LXGHxru9Jk/icGes8G/r7F43gOqjAf7GCgD6/GIz6Y4C3YM=;Nb2rIYncG8Xo8cv+DgEbIA=="
 ---

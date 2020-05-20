@@ -2,6 +2,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-05-gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems.md",
+      "title": "Gap in AI chips between China and US may be larger than it seems",
+      "excerpt": "But competition could fracture a global research community as US and Chinese governments bid for local control of AI chips.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
+      "ampWebUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
+      "publishedDateTime": "2020-05-04T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2020/03/bigstock-micro-chip-quantum-processor-259779781.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": "Gap in AI chips between China and US may be larger than it seems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-facebook-ai-open-sources-a-chatbot-with-empathy-and-personality.md",
       "title": "Facebook AI open sources a chatbot with empathy and personality",
       "excerpt": "The most recent addition to Facebook AI’s open source projects is Blender, a state-of-the-art chatbot. What sets it apart is its novel blending of skills.",
@@ -1224,51 +1262,6 @@
           "width": 1200,
           "height": 630,
           "title": "Samsung to tap US semiconductor firm Xilinx’s chips for 5G network equipment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-samsung-and-xilinx-partner-on-chips-for-5g-networks.md",
-      "title": "Samsung and Xilinx partner on chips for 5G networks",
-      "excerpt": "In an email, Manuel Uhm, director of silicon marketing at Xilinx, said these chips work well for 5G. That’s because the AI engines within the AI Core series have been optimized for advanced signal processing, as well as AI inference. In particular, for signal processing, the AI engines were developed with 5G wireless algorithms in mind ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/amp/",
-      "publishedDateTime": "2020-04-15T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/xilinx-Versal_Angled-Left.jpg?fit=1200%2C770&strip=all",
-          "width": 1200,
-          "height": 770,
-          "title": "Samsung and Xilinx partner on chips for 5G networks",
           "attribution": null
         }
       ],

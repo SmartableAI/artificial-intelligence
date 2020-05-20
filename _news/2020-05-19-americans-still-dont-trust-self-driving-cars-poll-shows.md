@@ -2,22 +2,16 @@
 category: news
 title: "Americans Still Don’t Trust Self-Driving Cars, Poll Shows"
 excerpt: "Nearly half of Americans say they would not get in a self-driving taxi, according to a poll commissioned by the advocacy group Partners for Automated Vehicle Education. The poll, conducted online in February and March by SurveyUSA,"
-publishedDateTime: 2020-05-19T04:01:00Z
-webUrl: "https://www.bloomberg.com/news/articles/2020-05-19/americans-still-don-t-trust-self-driving-cars-poll-shows"
-ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-05-19/americans-still-don-t-trust-self-driving-cars-poll-shows"
-cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/americans-still-don-t-trust-self-driving-cars-poll-shows"
+publishedDateTime: 2020-05-19T04:49:00Z
+webUrl: "https://www.bnnbloomberg.ca/americans-still-don-t-trust-self-driving-cars-poll-shows-1.1438073"
 type: article
-quality: 54
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: bnnbloomberg
+  domain: bnnbloomberg.ca
 
 topics:
   - AI in Autos
@@ -40,6 +34,6 @@ related:
         width: 1200
         height: 630
 
-secured: "wcSLjvOu5NapYNxC5uBA76rM1YR/3IFBY3KnSu0nkmbTSA5v61zC921D2qerpms6QwsiE44dUGUHPMdyV5NKIyo1VmoR0A7HRRZMfhfpj+z3G1odBRCqbF3zvhjX6qtXpcmAQAaj/u2OBj3+O/X5IUA71VFYZzc85Ql6X9R1vMEsp4lOXlTu43I3ceg8fqF8aBuGL9FOD1F4p9VPImQJowF2sjBVEYKTIfkxHTVkph/9Tuk3O+WrROJhM5FVI7RXCe34LZY3RS3OAK/cuDGNrwqdvWZasYUNPp8rmZJ8i7PZkOtURoP38+QaVuEPqY38KcvlyygGOAOWwQZncH0xZzdYQ4fpiMEvuj7WUjVpylTElwqvk1N625fMGFvn6X81kyl/RXxGnv3LyVpz3kLgmX8klQDZ6pg7L2UuWRCDlQX9rPwS9A9vOqja4DQkNWh7m41LPLF1ScPx5e7m1bhRMyX1AGvFXqNtqklRARkiLjI=;7Pe+AINeGyfC4gn2aussdA=="
+secured: "FJvAK9CaV6Ckb0LhgIvfTMg+qoQJ1Kjs/PR18C+SvnA9ZIRSlMt9M3qY4noyb7BNsPi8EX3Dnu4o3dIRsmdd+1m+krvYftVVo4+UKAmAn8VUzo571fiK2B4qkonzIhipHobyivmCk+gnO4diCj3+7ykKvONpGlyWeAx1r/Xhv1hmmCpbxACVWdS0iB08fvCf9x9oJALD7T40ZiJ53srkGbb226CsPWc/Ef8H9duJLTzRzMD9k5hP3W1FCUzTugLTbh5qGJtwGfChnbCtYgfeItU90TplIbhXdhaoBSkfp60M2W6t6rLZ0SVGVnaZoYzC;xFvo/aq7mzFkslnWfhzkWQ=="
 ---
 

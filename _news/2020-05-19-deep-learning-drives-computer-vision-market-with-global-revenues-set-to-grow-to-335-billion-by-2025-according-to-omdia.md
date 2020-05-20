@@ -38,6 +38,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Key Dynamics of Machine Learning and Intelligent Automation in Contemporary Market"
+    excerpt: "AI subset Machine Learning and Intelligent Automation have become most vibrant technology across businesses. With continuous growing they are driving the current digital transformation with most innovative capabilities."
+    publishedDateTime: 2020-05-20T05:14:00Z
+    webUrl: "https://www.analyticsinsight.net/key-dynamics-machine-learning-intelligent-automation-contemporary-market/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 18
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/05/Intelligent-Automation.jpg"
+        width: 1200
+        height: 627
 
 secured: "jACyPQzZSL8yrpc0TpEE5nkMcWCWNHpzr+n4KYDnICAVMb9BRQsBD3FAiocaF3Sbk9pVcWrA9wlAfTFJWJjpXcscv4LYDpvTheZAS7G5NC15kHVjMV0aaWh3SuhkyNt7E65lDafdowf0WFXShkrR6ZNEYVv8hTovbrpjCG8cbKNnMnvlwgxi+UJqedPv5zhKZmuSgmN5IdRpG1AcY6vtuUXWTS7c8KFSj7+Sv/tiKoq6dmRS4L5YOaR9GV9oVOYT/IfuuyP3UL6OnIyo43ZYBGd0wprnoi5JxcD+ouI7rJBZdBYpZKnSjXU1QW3hFC+OrfCklmXzsUW7lbTtoYUiCNJdKJPJ7Vtbhvh5WTak45oc5lSP8b9yWAuUdU+jn4Eakc4+BqeY1dCTDAkBWf6+AAhL5FVijHm5LjGh7BUAqVkBtqQ/cWmQqlhK7Dw2hdoHJatwTb8fXeIDvz+zamtpd66Td3v1f+DKwkD2DUu+mbo=;mJTeZvAvMtGB2kHkKxaRJA=="
 ---

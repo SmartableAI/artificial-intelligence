@@ -45,10 +45,10 @@ related:
       - url: "https://i.insider.com/5ec3d9b9988ee3401360e504?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Musk Says 'Full Self-Driving' May Be 'Worth' $100,000; In Unrelated News, I Have A Bridge to Sell You"
+  - title: "Musk Says 'Full Self-Driving' May Be 'Worth' $100,000; In Unrelated News, I Have a Bridge to Sell You"
     excerpt: "Tesla CEO Elon Musk has claimed full-self driving will be a subscription option by the end of this year . For this reason, Musk has claimed that unlike just about every other car on earth that isn't a Ferrari 250 GTO,"
     publishedDateTime: 2020-05-19T15:16:00Z
-    webUrl: "https://www.thedrive.com/news/33563/musk-says-full-self-driving-may-be-worth-100000-in-unrelated-news-i-have-a-bridge-to-sell-you"
+    webUrl: "https://www.thedrive.com/tech/33563/musk-says-full-self-driving-may-be-worth-100000-in-unrelated-news-i-have-a-bridge-to-sell-you"
     type: article
     provider:
       name: The Drive

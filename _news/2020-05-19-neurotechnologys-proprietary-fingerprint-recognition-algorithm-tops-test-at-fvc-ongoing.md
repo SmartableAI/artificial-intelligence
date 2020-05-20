@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Neurotechnology's Proprietary Fingerprint Recognition Algorithm Tops Test at FVC-onGoing"
-excerpt: "PRNewswire/ -- Neurotechnology, a provider of deep learning-based solutions, robotics, ultrasound and high-precision biometric identification"
+title: "Neurotechnology’s Proprietary Fingerprint Recognition Algorithm Tops Test at FVC-onGoing"
+excerpt: "With this top-ranked result in the FVC-onGoing and our top ranking in both the NIST MINEX III and PFT III evaluations, we are pleased to be able to call our fingerprint algorit"
 publishedDateTime: 2020-05-19T10:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/neurotechnologys-proprietary-fingerprint-recognition-algorithm-tops-test-at-fvc-ongoing-301061437.html"
+webUrl: "https://apnews.com/PR Newswire/167496afbba2c8f6ebd006f4b545fdc2"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/804547/Neurotechnology_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    title: "Neurotechnology's Proprietary Fingerprint Recognition Algorithm Tops Test at FVC-onGoing"
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    title: "Neurotechnology’s Proprietary Fingerprint Recognition Algorithm Tops Test at FVC-onGoing"
 
 related:
   - title: "Neurotechnology tops FVC-onGoing biometric test results with fingerprint recognition tech"
@@ -38,6 +38,6 @@ related:
         width: 750
         height: 327
 
-secured: "7TfyYPEKavNf5XNIYDmvYA4TQkvYEAwRhQfkR/bGiEMY4D44hN3Dx55ugiJehgWY5CJ64L5yX0ICtBaT1OZVK8/5Jn1rQq276vMw5AGuy5YA/VE1hpPxPj2kg97c9JjcxeK4YygQk0jlw5cy3ycngCfcu5nOleASa7wcLPyPbQRZ1ELWUBusShj05t4MJCP/nFcvsn3dj5hr1gLrbyGt+2HIMyN5xjMK1hVMvxwtJtI6RmoeG42fLI4TZmZRZDEW6fnd0wQ9rXJGwW8hNDd/kbnW3wkKU7qDLCDyUhDT3EWffrpRTBnNVNV/ZGKLV/S7;HfWos3wJ0pDgDq8NB0Jezw=="
+secured: "+vOecqCFZmSxiB8NasGj7va/PZ0ZXnc7TN+MhL+mP2YtZs3ey7dxgZXiOZjimXLyw2e7GH7l+rCnVKRqtltyroyDQpN5W+FjMmRlrpVRP3QyWPOD61kPEwKCIGfEk6x4qi0qDIfgg4esbp7mME8T89axrXWT8BTdcSMqiIBOkDKwjqIftnDe+czZx8uYDPogPhxs9OYHGGdnAk7RRSLzZSoj/AuvcHimjWzu7/NY1MaEsmmk45uE9tdMAdyiQxgqUnxvkDSbULuQpPhBY0gd09O6eQe8bIO0L8pQLYhv6A8i9M3fq9u49Q+kN+lZTvRP;YWd4/wYldpamLqdJ93Fusw=="
 ---
 

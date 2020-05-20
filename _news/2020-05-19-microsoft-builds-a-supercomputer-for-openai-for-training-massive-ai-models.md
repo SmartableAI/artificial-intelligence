@@ -54,6 +54,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
         width: 600
         height: 350
+  - title: "Google says it won't build AI tools for oil and gas drillers"
+    excerpt: "Google says it will no longer build custom artificial intelligence tools for speeding up oil and gas extraction, separating itself from cloud computing rivals Microsoft and Amazon. A statement from the company Tuesday followed a Greenpeace report that documents how the three tech giants are using AI and computing power to help oil companies find and access oil and gas deposits in the U."
+    publishedDateTime: 2020-05-19T19:32:00Z
+    webUrl: "https://www.chron.com/news/article/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 57
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
   - title: "At digital Build conference, Microsoft unifies Windows app development, boosts Teams and AI"
     excerpt: "Microsoft Corp. kicked off its annual developer conference Build 2020 today with new services to unify Windows application development, additional Teams services and even a supercomputer for artificial intelligence available through its Azure cloud service."
     publishedDateTime: 2020-05-19T15:08:00Z

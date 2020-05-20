@@ -65,6 +65,15 @@ related:
       - url: "https://cdn.mainichi.jp/vol1/2020/05/19/20200519p2g00m0bu071000p/0c8.jpg?1"
         width: 600
         height: 316
+  - title: "Microsoft, Sony come together to make smart camera solutions"
+    excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. The companies will embed Microsoft Azure AI capabilities on Sony's intelligent vision sensor IMX500,"
+    publishedDateTime: 2020-05-20T07:45:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-sony-microsoft-join-hands-for-smart-camera-solutions-know-what-is-it-618881"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 19
 
 secured: "68l8dTDgSIqvGlAaj7qKX7uYxflg6FDZaZHTDP/Y4BJ71usO9OjCkqSqLQqxRiAUoLQdJ/mufx8DiQCyzlAM1uAqaP/tgHEyVRSWWyuLqe4SCaKP9KyO7wXRrfGfX8U1UtAtXpz/OdGcMFSJEKrA7JIYQ8E6+dJ6lNoNGCBt59dbliEnoS0ZWfGYg6WVka65nJ5QTPADpP3V0vrev/Hwu8Bt90UyzdKgNwkWjjX0+yMMSpJaySyhwj09gbKkH5MT1wHeyG2Duy075HypmUnDfW44EqeUpYowCrnhXzqVKqKLJkJKN6RnZKgq2K/TLRWhOCfVHYb8ObHwSuPWx5Pti5WpiArb4LMsKpLWf2Ts9eXC03heI/YASs1i2ZVkQEuQzWa4jm2wlzdWrv1yOHQ7vNGTGZQa8xyMWSv41g/QqXOb39GD2a9e1z5krEir+UVeNZGYP1p5LspVNYnVsy0z9krasHNBprqNEwNYfws+v5w=;nKRMlhIQRP7rJYPC2+xfdg=="
 ---

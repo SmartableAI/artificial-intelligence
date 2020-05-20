@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-10-uber-launches-new-toronto-based-autonomous-vehicle-research-hub.md",
+      "title": "Uber launches new Toronto-based autonomous vehicle research hub",
+      "excerpt": "The company announced this week that it will be launching a new research hub in Toronto focused on developing artificial intelligence (AI ... announcement comes amid Uber’s legal battle with Waymo, the company that runs Google’s self-driving car ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244",
+      "ampWebUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244?amp=1",
+      "publishedDateTime": "2020-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itbusiness.ca/wp-content/ewww/lazy/placeholder-620x250.png",
+          "width": 620,
+          "height": 250,
+          "title": "Uber launches new Toronto-based autonomous vehicle research hub",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal.md",
       "title": "WeRide Trade Secrets Feud With Rival, Ex-Execs Ends In Deal",
       "excerpt": "Both companies are developing autonomous, or self-driving, cars for the Chinese market ... According to WeRide, Wang was pushed out as CEO in January 2018 after his former employer, the Chinese internet company Baidu, sued him, alleging that he failed to return a laptop belonging to Baidu, stole Baidu's trade secrets and poached Baidu's ...",
@@ -1175,51 +1212,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
-      "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-      "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/",
-      "ampWebUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
-      "publishedDateTime": "2020-05-04T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg",
-          "width": 1680,
-          "height": 946,
-          "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

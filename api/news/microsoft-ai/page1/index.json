@@ -2,10 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-20-microsoft-unveils-enormous-supercomputer-to-train-ai-models.md",
+      "title": "Microsoft unveils enormous supercomputer to train AI models",
+      "excerpt": "Microsoft has built a new powerful supercomputer in collaboration with Artificial Intelligence (AI) startup OpenAI, making new infrastructure available in Azure to train extremely large AI models, the company is announcing at its Build developers conference.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://menafn.com/1100190896/Microsoft-unveils-enormous-supercomputer-to-train-AI-models",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?123083",
+          "width": 395,
+          "height": 250,
+          "title": "Microsoft unveils enormous supercomputer to train AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-builds-massive-supercomputer-for-smarter-ai.md",
       "title": "Microsoft builds massive supercomputer for smarter AI",
       "excerpt": "The Azure machine has 285,000 processor cores and 10,000 GPUs to tackle a new class of artificial intelligence tasks.",
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
@@ -181,7 +218,7 @@
       "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
       "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
       "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
-      "heat": 142,
+      "heat": 152,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",
@@ -645,48 +682,10 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential.md",
-      "title": "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential",
-      "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "publishedDateTime": "2020-05-18T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-05-19-microsoft-and-sony-to-create-smart-camera-solutions-for-ai-enabled-image-sensor.md",
       "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
       "excerpt": "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced.",
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",

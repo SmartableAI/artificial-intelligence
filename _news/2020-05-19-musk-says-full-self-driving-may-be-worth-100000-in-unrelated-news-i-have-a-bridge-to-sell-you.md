@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Musk Says 'Full Self-Driving' May Be 'Worth' $100,000; In Unrelated News, I Have A Bridge to Sell You"
+title: "Musk Says 'Full Self-Driving' May Be 'Worth' $100,000; In Unrelated News, I Have a Bridge to Sell You"
 excerpt: "Tesla CEO Elon Musk has claimed full-self driving will be a subscription option by the end of this year . For this reason, Musk has claimed that unlike just about every other car on earth that isn't a Ferrari 250 GTO,"
 publishedDateTime: 2020-05-19T15:16:00Z
-webUrl: "https://www.thedrive.com/news/33563/musk-says-full-self-driving-may-be-worth-100000-in-unrelated-news-i-have-a-bridge-to-sell-you"
+webUrl: "https://www.thedrive.com/tech/33563/musk-says-full-self-driving-may-be-worth-100000-in-unrelated-news-i-have-a-bridge-to-sell-you"
 type: article
 quality: 9
 heat: -1
@@ -21,7 +21,7 @@ images:
   - url: "https://api.thedrive.com/wp-content/uploads/2020/05/Tesla-Cybertruck-2022-1600-01.jpg?quality=85"
     width: 1600
     height: 900
-    title: "Musk Says 'Full Self-Driving' May Be 'Worth' $100,000; In Unrelated News, I Have A Bridge to Sell You"
+    title: "Musk Says 'Full Self-Driving' May Be 'Worth' $100,000; In Unrelated News, I Have a Bridge to Sell You"
 
 related:
   - title: "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1"
@@ -55,6 +55,6 @@ related:
         width: 1200
         height: 630
 
-secured: "qfkzGB7gpCrmWhmeiE2zgU28hnTsF8tqmoQsEFHfD81x53ui+98MBNnZPmuSijiEd5rbHjLe9ZT4kapg25t6sPAXWVDPQDB+NO1GGmqTvmzgou80JsVKaU+ICywUwDxnSsaxACw9hYIBx6ggB9dgcePPW+m0Wd1+w+L35CTabelfiB2ZBkF8Q7GQBM05KtibfTUVTMnLdrxDGNr3NPzSv4KzualJdEKMjk2db2xMtjbjyZanaeB4hlEIgYx/yg3SEGhj1gZz9QOHwcbncJspJ5TgnV7rZ0h2fPwU2O9r9kKjfzo2dF5dox7raU8smR/+feP3vBZxdtN7mIuozL8a9tKB51qCrImaEYlc+Z9cp2yhBgk8IgB6b8BOG/hC4Pyh+xbTOyPS7Ns9sbDR2eTp0gh/0TwolUmIN87TeRYxwWbFFOcz5KHWaXW/wpkrb8ir9l9c6toOUeGijj8ZTn2QPXFJzDhhapC9s0wyv9jrIFY=;SM2jNzllQn+Fqmrwzg3IyQ=="
+secured: "/dp1iHc9bBmOv/qx2a1CuxGJcadK2JhDyquloWPVLxOExN99u40OdHFHVh/nuOmy2vgLIc8qybAlEpyCvvtpcKfL+Kf0yiJ+QFVBkKA3ANsmHFfXLhz4vSoT4HJTcc/XbEVN//8RoKdRxhjPrYJzOuTS719Nu0djvvxka8Iwc0EToIyvNDksGmuv690AYRJIwhSgdKT44Z8ng02W46otsy4HJf3YWHIU4lTludp9kmX0nTn8iQX2wdw22EPCtxmH54+mvGnG5vBqjCty/c9AJzvoQfUJ9m6IzG20NuzVkmqll3kx1wdzkbF2tuB2KRtC;0CmPipr8KJMLjgLoIsS+Og=="
 ---
 

@@ -23,6 +23,17 @@ images:
     height: 349
     title: "Microsoft unveils cloud tools tailored for health-care systems"
 
+related:
+  - title: "Microsoft unveils cloud tools tailored for health care systems"
+    excerpt: "Microsoft Cloud for Healthcare includes tools that allow for digital triage, telemedicine and coordination of care using internet-based services, chat and conferencing apps. The product was unveiled in a virtual version of the annual Build conference for developers,"
+    publishedDateTime: 2020-05-20T06:01:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
+
 secured: "W0oIIe8Dz+4cLh1zyVkPBkL+Ddxt8fQnvJxHHasMMQNygFK0bUK2LT8v+WarcKqw/i2FQEwmO0Z8uyNd4/yDhiECRxzCUKQ48SAdyaXLr+UhUc0kdKNSxOSikUO3E550kf0o4Sd541waLlfGZ9nQ8A9OzwtTpv4oMBN9lIAyzR7SH4FTSH9fBF4ko2Oz6s8Fa6K12m+2pHU0QabypudNTqVH9jj3e376Nqfrgj4PEuTR8YSZIEV7MMCOt7nffcQ5KIJsBftkaxyAWH9QmetgF661Cl9mbkrjo2DyO3m8aClzYMbT6E2MV/ArH976ptv4;BI+ipYlDp/05vpcSdRC0iA=="
 ---
 

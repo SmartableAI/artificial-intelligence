@@ -2,6 +2,170 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-19-the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19.md",
+      "title": "The Role Artificial Intelligence is Playing in the Fight Against COVID-19",
+      "excerpt": "As the economy begins the slow process of re-opening, advanced technologies such as artificial intelligence, machine learning, and natural language processing are playing a key role not only in monitoring COVID-19 outbreaks,",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19-2020-05-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-elon-musk-says-teslas-full-self-driving-option-will-get-more-expensive-again-on-july-1.md",
+      "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
+      "excerpt": "Tesla has said that the technology will eventually move to a subscription model when it becomes advanced enough to actually self-drive.",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp",
+      "publishedDateTime": "2020-05-19T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ec3d9b9988ee3401360e504?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit.md",
+      "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
+      "excerpt": "Space-specific silicon company Xilinx has developed a new processor for in-space and satellite applications that records a number of firsts: It’s the first 20nm process that’s rated for use in space,",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/amp/",
+      "publishedDateTime": "2020-05-19T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/xilinx-space-tablet.jpg?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-the-ai-show-how-intel-built-a-chip-with-a-sense-of-smell.md",
+      "title": "The AI Show: How Intel built a chip with a sense of smell",
+      "excerpt": "Intel designed a neuromorphic AI chip to learn faster on less training data than traditional artificial intelligence techniques.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/19/the-ai-show-how-intel-built-a-chip-with-a-sense-of-smell/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Nahuku-neuromorphic-board.jpg?fit=578%2C385&strip=all",
+          "width": 577,
+          "height": 385,
+          "title": "The AI Show: How Intel built a chip with a sense of smell",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time.md",
       "title": "AI-Powered Biotech Can Help Deploy a Vaccine In Record Time",
       "excerpt": "Simulators that can rapidly test trillions of options would accelerate the slow and costly process of human clinical trials.",
@@ -1093,180 +1257,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential.md",
-      "title": "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential",
-      "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "publishedDateTime": "2020-05-18T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-price-as-elon-musk-sees-value-rise-to-100k.md",
-      "title": "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k",
-      "excerpt": "Driving’ package again as Elon Musk now evaluates the value of the completed version of the package at over $100,000. Over the years, much has been said about how Tesla is approaching self-driving technology differently from the rest of the auto industry.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/",
-      "ampWebUrl": "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/",
-      "publishedDateTime": "2020-05-18T18:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 497,
-          "title": "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-and-sony-to-create-smart-camera-solutions-for-ai-enabled-image-sensor.md",
-      "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
-      "excerpt": "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced.",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
-      "publishedDateTime": "2020-05-18T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg",
-          "width": 360,
-          "height": 300,
-          "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-go-x-is-unleashing-100-self-driving-scooters-on-a-large-georgia-business-park.md",
-      "title": "Go X is unleashing 100 self-driving scooters on a large Georgia business park",
-      "excerpt": "These scooters will be summonable by riders and return to a centralized charging and sanitization area when done.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/go-x-peachtree-corners-self-driving-scooter-test-fleet/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/go-x-peachtree-corners-self-driving-scooter-test-fleet/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/go-x-peachtree-corners-self-driving-scooter-test-fleet/",
-      "publishedDateTime": "2020-05-18T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/iOux_pi7WaUB5XY3xN_orqTrf7s=/2020/05/19/51879df2-7acd-4fb0-8f2f-03e439a564cf/screenshot-www-youtube-com-2020-05.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Go X is unleashing 100 self-driving scooters on a large Georgia business park",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

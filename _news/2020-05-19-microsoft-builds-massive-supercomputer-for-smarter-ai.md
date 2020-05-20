@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-builds-massive-superc
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     width: 756
     height: 567
     title: "Microsoft builds massive supercomputer for smarter AI"
+
+related:
+  - title: "Microsoft builds huge cloud-based AI supercomputer for OpenAI"
+    excerpt: "Microsoft announced on Tuesday that it has built a massive supercomputer for OpenAI, a company with a mission to build an artificial general intelligence that will benefit humanity as a whole. The announcement came at Microsoft's Build 2020 developer conference,"
+    publishedDateTime: 2020-05-20T08:07:00Z
+    webUrl: "https://www.computing.co.uk/news/4015437/microsoft-builds-huge-cloud-ai-supercomputer-openai"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/c096680/a58c1446-ff27-40f1-ac9c-39d2f5f9d330/3/openai-azure-370x229.jpg"
+        width: 370
+        height: 229
 
 secured: "solf7RSFd/v6ofspwKKd7lMhRefCpivaWYMA+h0sGYk1FnAphn6FN8WdCfFchlcfYlIwIQgItVeI3t8cscRhc3AJopaUu8sVvne1vOeDQA+LnqfqEpl8VjTo68ZDpRRmJzGU4yOhspCMjT9keuCpOrbdlgWkPZwAfQugdczvXiQVrjdGZ8KxnIHTx0LRV1csf955Opa1zj4abpkC8X5OhpPC80pRm/BkbhywQKMET7qhIiwPyhvbWMhXcD1trX54UuGtsxjOZ9JDWu1/j6CqNlGgQPH8k4/T3dOV3uo0nvKVDjPd5yTlJ7vqKaG2p6lciRlHN7WBltRWxTkSVP4mYiB1kLnt+5FFfkdUBCC1kllxTfE0ylZ4OOmjq7RiZnNzPgTd38nugh4N+LT8/8w7SVUqmHOhYhB3VXfQRaN9hOzq90i8cmHcZXJ0jyX7H8jbk1iMsZrEaoUozRivi+VKpeLKi3cm5q+iS99onCGzByM=;ZEz56Va2W/Rl+Jmx5waq/g=="
 ---

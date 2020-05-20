@@ -1,42 +1,85 @@
 ---
 category: news
 title: "Google says it won't build AI tools for oil and gas drillers"
-excerpt: "Google says it will no longer build custom artificial intelligence tools for speeding up oil and gas extraction, separating itself from cloud computing rivals Microsoft and Amazon"
-publishedDateTime: 2020-05-19T19:18:00Z
-webUrl: "https://abcnews.go.com/Business/wireStory/google-backs-off-ai-oil-gas-extraction-70765554"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/google-backs-off-ai-oil-gas-extraction-70765554"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-backs-off-ai-oil-gas-extraction-70765554"
+excerpt: "Google says it will no longer build custom artificial intelligence tools for speeding up oil and gas extraction, separating itself from cloud computing rivals Microsoft and Amazon. A statement from the company Tuesday followed a Greenpeace report that documents how the three tech giants are using AI and computing power to help oil companies find and access oil and gas deposits in the U."
+publishedDateTime: 2020-05-19T19:32:00Z
+webUrl: "https://www.chron.com/news/article/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+ampWebUrl: "https://www.chron.com/news/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_4153f125c63447f9997d9d1955cecda9_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     title: "Google says it won't build AI tools for oil and gas drillers"
 
 related:
-  - title: "Google backs off on AI for oil and gas extraction | Charlotte Observer"
-    excerpt: "Google says it will no longer build custom artificial intelligence tools for speeding up oil and gas extraction, separating itself from cloud computing rivals Microsoft and Amazon."
-    publishedDateTime: 2020-05-19T15:27:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article242838186.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article242838186.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article242838186.html"
+  - title: "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure"
+    excerpt: "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,"
+    publishedDateTime: 2020-05-19T15:13:00Z
+    webUrl: "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/"
+    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 112
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024"
+        width: 1024
+        height: 652
+  - title: "Sony and Microsoft team up on AI-powered cameras"
+    excerpt: "Sony and Microsoft are working on AI-powered cameras together. The two tech giants have announced that they’re embedding Microsoft Azure’s AI capabilities into Sony’s new image sensor, the IMX500, which comes with an onboard AI chip that processes information in real time."
+    publishedDateTime: 2020-05-19T09:17:00Z
+    webUrl: "https://www.engadget.com/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
+    ampWebUrl: "https://www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 106
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
+        width: 600
+        height: 350
+  - title: "Microsoft builds a supercomputer for OpenAI for training massive AI models"
+    excerpt: "Microsoft is building a supercomputer for and with OpenAI and is using it to train massive distributed AI models, which it is counting on to improve the AI capabilities in its own software and services."
+    publishedDateTime: 2020-05-19T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+  - title: "At digital Build conference, Microsoft unifies Windows app development, boosts Teams and AI"
+    excerpt: "Microsoft Corp. kicked off its annual developer conference Build 2020 today with new services to unify Windows application development, additional Teams services and even a supercomputer for artificial intelligence available through its Azure cloud service."
+    publishedDateTime: 2020-05-19T15:08:00Z
+    webUrl: "https://siliconangle.com/2020/05/19/digital-build-conference-microsoft-unifies-windows-app-development-boosts-teams-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/nadellabuild2020-2.png"
+        width: 2560
+        height: 1600
 
-secured: "2/TfbaMSjFFtepmjEijVj1DUGfSloh2f6njoZKfsMjrONMx5QrA0wnVZmtCbKzLkRuNy/ffmWesrHvwm4FuDTszyYfIiUTopQtx4vVAos3MG8D31TLD8pwyD2R1QqPpSkQ/HryIZ45+4PLfI8Y+U7uDpQMJhwEoMeHx7XHzB5lxCVQS0GHPtvLRYCqPK4h7UMakuANam50EYTFCiI2nxxEU33ZKrog8gawEdYcUp9RMXtvHI0M/PdG68KiBO1NMKUuy5oWW5B04XO4rJi1VpgCa16sSNpEasLwihsdYSLFY3UwHqItHlboy2AlPCLhBL;QdWXqFgG3SHZdzX80CchtA=="
+secured: "HimYaDd251A7gjy6kKT4Ug1PX4zeL4pnt5Y5OPJuV5xqP9/G3Gg0BrP1ZxHeKpI0vc0CT/yrMQQD399p1asyT1wjMM7ybSrcQfEfy+Q2hK+uJuhDk7SFN9OntgQXt6nB1QKudaykhqJR5Zog+UKniP1190TEmckrIWgGyZae+P8phJOdcSfbcB2QHKC4eL3Bb41oNgA2O/7xYvy5TJxu8EPBFYhbmFBdzTwV4Q3XNLOPsXpi1FLySLk4wNE9h0otFcaTxPj6DDmtXDIfdV+Zssl+AMrdeV3PHXa3GaVI1aFF+BiDh+UrZdLFp10HsBFa;NrDQhu5+eAu2bvhixnriew=="
 ---
 

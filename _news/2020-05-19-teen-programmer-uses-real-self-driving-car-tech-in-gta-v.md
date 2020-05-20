@@ -8,7 +8,7 @@ ampWebUrl: "https://www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-r
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1920
     height: 1080
     title: "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'"
+
+related:
+  - title: "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'"
+    excerpt: "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier."
+    publishedDateTime: 2020-05-20T07:12:00Z
+    webUrl: "https://www.vice.com/en_in/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 34
 
 secured: "zfo4cACreEPOZmhzRtuAxmZNMXCFj105zzkzS6gAg5eS455r3eKE7bJEfeXy3+tlPBpMn1B96lqXy7ad+XwUsOjJmPeVgVmScaG68KDWz5z2xyyXBsUFcTvYFVdZeFjKt2YlOzBXCDHAmqi3MZCyKvIFTOuUxikL9eyW4uiCTv/4vC9dgTw1nFZbI4UQoO3rjFXRaz1/KyRPv4K3JheaHd1Xz+v4okXGTs7Am1uea2hgzgXuO7rnViocKK9kpICONIzyxKh1QGNZRKmYuChpxW24FoS59D+GKdVoUgryUmp+deSCLfvTCOqJ4wMUIj4p;naCOJZayIcQAIOwbm2QYDQ=="
 ---

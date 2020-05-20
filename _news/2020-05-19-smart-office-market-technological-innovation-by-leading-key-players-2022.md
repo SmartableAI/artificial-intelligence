@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-19T19:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/smart-office-market-technological-innovation-by-leading-key-players-2022-2020-05-19"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -39,6 +39,19 @@ related:
     quality: 31
     images:
       - url: "https://mms.businesswire.com/media/20200519005208/en/792046/23/OMDIA_LOGO_Endorsement_Black.jpg"
+        width: 1200
+        height: 627
+  - title: "Key Dynamics of Machine Learning and Intelligent Automation in Contemporary Market"
+    excerpt: "AI subset Machine Learning and Intelligent Automation have become most vibrant technology across businesses. With continuous growing they are driving the current digital transformation with most innovative capabilities."
+    publishedDateTime: 2020-05-20T05:14:00Z
+    webUrl: "https://www.analyticsinsight.net/key-dynamics-machine-learning-intelligent-automation-contemporary-market/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 18
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/05/Intelligent-Automation.jpg"
         width: 1200
         height: 627
 

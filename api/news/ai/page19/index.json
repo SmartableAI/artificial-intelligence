@@ -2,6 +2,133 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-05-01-ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online.md",
+      "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
+      "excerpt": "An upcoming Animal Crossing AI workshop and ICLR this week may reshape what research conferences look like, but social experiences are still a challenge.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/amp/",
+      "publishedDateTime": "2020-05-01T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/animal-crossing.png?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-coronavirus-helps-robot-delivery-startup-refraction-ai-gain-traction.md",
+      "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
+      "excerpt": "Refraction AI, a robot delivery startup in Ann Arbor, Mich., was having trouble gaining traction before the pandemic — and now, it's racing to capitalize on our stay-at-home mentality. Why it matters: In the midst of the pain and suffering from a crisis,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
+      "ampWebUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
+      "publishedDateTime": "2020-05-01T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.axios.com/6e7fxp84f9oN52Lh4Z7nrPlsfyI=/2020/05/01/1588353067194.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-the-ai-eye-coca-cola-makes-5-year-agreement-with-microsoft.md",
+      "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
+      "excerpt": "Watching stock news, deal tracker and advancements in artificial intelligence Coca-Cola ( NYSE:KO) has announced a five-year agreement with Microsoft ( NasdaqGS:MSFT ), wherein it will leverage the latter's Azure,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-coca-cola-makes-5-year-agreement-with-microsoft-2020-05-01",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss.md",
       "title": "Streaming service Deezer built an AI to catch the explicit lyrics human censors miss",
       "excerpt": "Streaming service Deezer has developed an AI technique that automatically detects explicit lyrics -- just by analyzing the audio",
@@ -1138,123 +1265,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future.md",
-      "title": "How Goodyear Is Using Data, Artificial Intelligence And Digital Twins To Create The Tyres Of The Future",
-      "excerpt": "Goodyear, one of the world's leading tire manufactures, has been at the forefront of innovation for a long time. Here we look at how the company uses data, artificial intelligence, and digital twins to create the tires of the future.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/01/how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/01/how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/01/how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future/amp/",
-      "publishedDateTime": "2020-04-30T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eab59b53a7297000740d873%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How Goodyear Is Using Data, Artificial Intelligence And Digital Twins To Create The Tyres Of The Future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-linkedin-now-has-an-ai-to-help-with-your-interview-game.md",
-      "title": "LinkedIn Now Has an AI to Help With Your Interview Game",
-      "excerpt": "As a record number of Americans grapple with unemployment in the wake of the novel coronavirus pandemic, LinkedIn’s rolled out some AI-powered tools to help job seekers prepare for the nightmare fuel that is the interviewing process.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264",
-      "ampWebUrl": "https://gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264/amp",
-      "publishedDateTime": "2020-04-30T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ssszinfmocsryua6ltfk.jpg",
-          "width": 800,
-          "height": 533,
-          "title": "LinkedIn Now Has an AI to Help With Your Interview Game",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-service.md",
-      "title": "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service",
-      "excerpt": "Taobao Festival is finally coming! In Hangzhou Boiler factory full of hard core industry wind, there are not only super hi playing methods such as artificial",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15929960/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T19:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
