@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/build-2020-azure-stack-hub-updated
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/"
 type: article
-quality: 79
-heat: 79
+quality: 81
+heat: 81
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/03/12/eab3af76-ea24-4a96-a295-3f7c8c9ecc01/thumbnail/1200x675/be8b004c9ec9810ed8d5affdb497ccc9/istock-990892848.jpg"

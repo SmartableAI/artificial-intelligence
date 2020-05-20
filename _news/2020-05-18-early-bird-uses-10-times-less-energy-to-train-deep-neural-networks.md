@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Early Bird uses 10 times less energy to train deep neural networks"
-excerpt: "Rice engineers have found a way to train deep neural networks for a fraction of the energy required today. Their Early Bird method finds key network connectivity patterns early in training, reducing the computations and carbon footprint for training deep learning."
-publishedDateTime: 2020-05-18T16:21:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-05/ru-ebu051820.php"
+excerpt: "Engineers have found a way to train deep neural networks for a fraction of the energy required today. Their Early Bird method finds key network connectivity patterns early in training, reducing the computations and carbon footprint for training deep learning."
+publishedDateTime: 2020-05-18T20:25:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/05/200518144908.htm"
 type: article
-quality: 54
-heat: 54
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://eurekalert.org/multimedia/pub/web/232215_web.jpg"
-    width: 720
-    height: 917
-    title: "Early Bird uses 10 times less energy to train deep neural networks"
-
-secured: "pVOUOt4D33wJyUatXaGdNrSuvZi7+JehRDlXJh40lbhOi9RHfvsZN3lMtI+xe3EtTbrQOG7eLC0PVrsqOiRJVMchf5ccCovkfgm8vO9zw3mH7ji0giBg51uIexWeE2vd5KTTkh2w9q4mzvSgsY2AMR1YFGK0Doxeo3ILyPVjfVsFZpdtKeEMoHcW2z02TKq9AFcw9USMmJCIpqxPapF8OtwgQbB6ez8L7gxQ+WutE+S7TPdMxjXyCoRJy5/iIKMxHFAgXG4nq33gtN8syopaVe/yG7yxcRqf8CL+KkAtkP8DV22Byvow2r05NUKqcHA5;s9qNcVpyajdWN694stwRew=="
+secured: "J/6TWRQBmdb9h7DafItoMXEY6rGW6L2iOemvFWAO6JnXJc0+cl8rr4Ww6gBpwaYt0SYqA986eJyCL28SBJ3zW2w/nbfZzwbdCZdIohn4wzjP+1DGZZkJxD8TdvM5RUkp05kJ6JB1DRY+2VZTGiJQMdcGZ+OA46QuilXcBgWWSiD224dsm+yE6wbW4jlcveGIFEpZbvujRHl3blYHdJ77STbwXBNCRNALTTQ/bTDFLU71to4jutGnrnp7sOF9+i1sic2ugoWTJijDUELYGpaUWXfHhdsHVQKjbK11A9PwrdOOmPQgYRKXsRtr4jYz6Dx/;3ZvsUsBdhaJf/YMirkFjsQ=="
 ---
 

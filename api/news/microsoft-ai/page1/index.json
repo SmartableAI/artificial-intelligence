@@ -96,7 +96,7 @@
       "path": "_news/2020-05-20-build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools.md",
       "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
       "excerpt": "Microsoft has announced a slew of up updates to its hybrid cloud platform at its Build 2020 developer conference, which is taking place virtually this year due to the COVID-19 pandemic.",
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
@@ -134,7 +134,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -317,7 +318,7 @@
       "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
       "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
       "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
-      "heat": 162,
+      "heat": 172,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",

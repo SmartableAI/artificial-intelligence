@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-20-watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars.md",
+      "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
+      "excerpt": "Via the advent of Machine Learning (ML) and Deep Learning (DL), many of these AI applications are intended to adjust on-the-fly and tailor themselves in real-time to the efforts they were designed to meet.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-05-20T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1128869156%2F0x0.jpg",
+          "width": 1200,
+          "height": 781,
+          "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-self-driving-shared-electric-scooters-are-here-are-they-awesome-or-terrifying.md",
       "title": "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?",
       "excerpt": "Shared electric scooter provider Go X is combining its scooters with self-driving tech from the company Tortoise to solve the first and last step problem of shared e-scooters: finding and returning the scooters.",
@@ -169,6 +214,43 @@
           "width": 580,
           "height": 378,
           "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-pirce-musk-says-it-will-be-worth-100k.md",
+      "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
+      "excerpt": "CEO Elon Musk announced via Twitter that Tesla will soon raise the cost of the full self driving option for their vehicles",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/",
+      "ampWebUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
+      "publishedDateTime": "2020-05-19T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inside EVs",
+        "domain": "insideevs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.motor1.com/images/mgl/6BLve/s1/top-five-reasons-why-consumers-buy-tesla-cars-video.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
           "attribution": null
         }
       ],
@@ -1229,96 +1311,6 @@
           "width": 8702,
           "height": 4895,
           "title": "Waymo raises another $800 million for self-driving cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-this-was-supposed-to-be-the-year-driverless-cars-went-mainstream.md",
-      "title": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
-      "excerpt": "Perfecting the technology has taken longer than expected. The coronavirus pandemic has made it even more difficult. By Cade Metz and Erin Griffith SAN FRANCISCO — Tech companies once promised that fully functional, self-driving cars would be on the road by 2020 and on the path to remaking transportation and transforming the economy.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.amp.html",
-      "publishedDateTime": "2020-05-12T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/08/business/00robotcars5/00robotcars5-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-fiat-chrysler-provides-bespoke-minivan-for-self-driving-startup-voyage.md",
-      "title": "Fiat Chrysler provides bespoke minivan for self-driving startup Voyage",
-      "excerpt": "For a few years now, Fiat Chrysler Automobiles (FCA) has been pursuing a self-driving future through its Pacifica Hybrid minivans, making deals with Google and then its spin-off autonomous car venture Waymo.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/automotive/fiat-chrysler-bespoke-minivan-self-driving-voyage/",
-      "ampWebUrl": "https://newatlas.com/automotive/fiat-chrysler-bespoke-minivan-self-driving-voyage/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/fiat-chrysler-bespoke-minivan-self-driving-voyage/?amp=true",
-      "publishedDateTime": "2020-05-12T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/2a79a37/2147483647/strip/true/crop/3499x2333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F70%2F5b%2F56764e5944a6b276a76f33e5bef0%2F1-izrzct19dhmbk5ijnyimia.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Fiat Chrysler provides bespoke minivan for self-driving startup Voyage",
           "attribution": null
         }
       ],

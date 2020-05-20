@@ -5,8 +5,8 @@ excerpt: "Many investors are speculating that enterprise startups will be the bi
 publishedDateTime: 2020-05-20T12:34:00Z
 webUrl: "https://www.businessinsider.com/meet-23-enterprise-vc-rising-star-investors-silicon-valley-2020-5"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/5ec450f0988ee305556f652d?width=1200&format=jpeg"
@@ -26,6 +27,6 @@ images:
     height: 600
     title: "Meet 23 'rising star' investors scouting the next breakout enterprise software startups in industries like 'boring AI' and 'SMBtech'"
 
-secured: "CppndLIqcM3RZoWdv9Y764OYjbISnXrxwWJWG1/Gab93/T5+MhyqzeXz42s3uGt5ybCPGZ3YrHkuZDoS6rcSMqW1M8xjLsSXrRwMGKV4nwvrVLJeuseM1SQOfB+QpR+EAPChTqX01rE2EzC6urQAfAkBemP7j1eZdiN8G5v7wZ9TLP6E4Slt8QvUlWJSlqrNWde7JKPLOVR7kks12TJqF9Ly6ffjRJYRHiQ3un/e8DhdZbDx81GQf3slz75y15lTRQ8TfmAQ9J5pYISu42p60PTmWYzPWyX5Pqjdvjo9fXld/Cm2ZerXZSHUZydg1IP7;S/8joQun0BMs5QK3XOaK/w=="
+secured: "ZG5VzNaJwBurcsrPUpHPjtlbdIy5jxfoYWIgcc4vtmORZHNmeqlPpnHbS6xmMyDKzsjrqhMnUEkQJF3NSKV2q1M/mzOZa67qtFGPF9ndz4qM3WObxVxxhozBtoTdI6GMVQ4H9u9oy2a5k6QoH3Cl49BmZglrlKyMZqsmsR8Vb2mQ0Keg6Gmh4Bg6s1vALLg389NOT/wfBNRd6iZHwooBeKXDuCWVF2uOJHjFKDv3xOObiuTbVsBSeclsVEExkfJjugDKxWl1mM1A9ik1V5oM4Xpf/tFaTnjzA0RUDrYlw02yi+KXees0vr4+qQEZaxiB1nMYUzKI5gQemNwmUmdLpdpZj82LMKn0FRhPaNrDguRP1Pz7VipsgUiPcZRfAonLgyAVXvlc/Wi3a9+Jdm441OkAkwWPDPdmj59JahRuxfFZN8uB2EwOYvuwfDYeO5q04hvrbaY6fCkTt9gX1lQ2PdO9bOvhxbc1aoVeISscUPA=;BLjMgN2kZPazvAu09vS3LQ=="
 ---
 

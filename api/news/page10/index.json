@@ -2,6 +2,80 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-13-envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution.md",
+      "title": "Envoi and Data Expedition Partner to Launch Cloud-Based Data Restoration and Migration Solution",
+      "excerpt": "Envoi – CloudDat Edition leverages Envoi's APIs to support other solutions including Amazon Rekognition for video indexing and AWS Elemental MediaConvert, a file-based video transcoding service ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g16019011/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16019011",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16019011",
+      "publishedDateTime": "2020-05-13T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-elon-musk-has-a-complex-relationship-with-the-ai-community.md",
+      "title": "Elon Musk has a complex relationship with the A.I. community",
+      "excerpt": "Elon Musk is one of the first investors in DeepMind, he helped set up the $1 billion OpenAI research lab, and he's often making comments about AI. WWIII, more dangerous than nukes, scariest problem: several people in the AI community told CNBC that they struggle to take Musk's AI comments seriously.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "publishedDateTime": "2020-05-13T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105773439-1551717349171rtx6p9uc.jpg?v=1551717410",
+          "width": 3986,
+          "height": 2657,
+          "title": "Elon Musk has a complex relationship with the A.I. community",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook.md",
       "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
       "excerpt": "MarketResearch.Biz published a new industry research report “Automatic Speech Recognition Software Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market.",
@@ -985,88 +1059,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool.md",
-      "title": "JavaScript programming language developers: This is Kite's new free AI code-completion tool",
-      "excerpt": "Kite's code completion has supported Python for six years. Last January the company landed $10m in funding as it launched more complex line-of-code completions for Python, helping",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
-      "publishedDateTime": "2020-05-12T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/843fd8ab-846f-4d03-8060-bcd5d611ec7e/thumbnail/1200x675/6c7e3312371b165b65c90cd7fc188d5d/developer-go-is-the-programming-language-5eb921c27f8c3b07249d42e4-1-may-11-2020-11-50-12-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "JavaScript programming language developers: This is Kite's new free AI code-completion tool",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-transformative-robotics-technology-from-brain-corp.md",
-      "title": "Transformative Robotics Technology From Brain Corp",
-      "excerpt": "With retailers seeking to enhance the customer experience, not to mention overcome current COVID-19 challenges, Brain Corp believes that technology offers a way",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.esmmagazine.com/uncategorized/transformative-robotics-technology-brain-corp-98085",
-      "ampWebUrl": "https://www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
-      "cdnAmpWebUrl": "https://www-esmmagazine-com.cdn.ampproject.org/c/s/www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
-      "publishedDateTime": "2020-05-12T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "esmmagazine.com",
-        "domain": "esmmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA1XFxcLzEyMTMxODQxXFxcL1Rlbm5hbnRSZXRhaWwtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjUwMCxcImhlaWdodFwiOjI4NyxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC93d3cuZXNtbWFnYXppbmUuY29tXFxcL2lcXFwvbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNjk1OGI3MzBhOGQ5MGQyZWEwZjM0ZDNkZWMxMjQ0YmM2YTFmYmM2ZiJ9/tennantretail-1024x683.jpg",
-          "width": 500,
-          "height": 287,
-          "title": "Transformative Robotics Technology From Brain Corp",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

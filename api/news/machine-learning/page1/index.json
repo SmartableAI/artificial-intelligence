@@ -47,6 +47,52 @@
       ]
     },
     {
+      "path": "_news/2020-05-20-build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools.md",
+      "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
+      "excerpt": "Microsoft has announced a slew of up updates to its hybrid cloud platform at its Build 2020 developer conference, which is taking place virtually this year due to the COVID-19 pandemic.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
+      "publishedDateTime": "2020-05-20T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/12/eab3af76-ea24-4a96-a295-3f7c8c9ecc01/thumbnail/1200x675/be8b004c9ec9810ed8d5affdb497ccc9/istock-990892848.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models.md",
       "title": "Microsoft launches new tools for building fairer machine learning models",
       "excerpt": "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s",
@@ -1257,43 +1303,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-gaining-experience-using-deep-learning-for-social-good-in-global-competition.md",
-      "title": "Gaining Experience Using Deep Learning for Social Good in Global Competition",
-      "excerpt": "AI has demonstrated its versatility in recent years, extending far beyond enterprise use into the realm of social good.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded-computing.com/guest-blogs/gaining-experience-using-deep-learning-for-social-good-in-global-competition",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://share.opsy.st/5eb31bbd05044-earth-2254769_1920.jpg",
-          "width": 1920,
-          "height": 1180,
-          "title": "Gaining Experience Using Deep Learning for Social Good in Global Competition",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

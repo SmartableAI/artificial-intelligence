@@ -2,6 +2,132 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-19-facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable.md",
+      "title": "Facebook develops new AI techniques to one day make \"anything shoppable\"",
+      "excerpt": "By improving product segmentation, detection and classification, Facebook is working towards building a holistic AI system for frictionless shopping on Marketplace or Facebook Pages.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable/",
+      "publishedDateTime": "2020-05-19T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/19/9c1802a8-a999-47f7-b53e-d3abd334f523/instance-mask-projection-model-graphic.png",
+          "width": 1071,
+          "height": 849,
+          "title": "Facebook develops new AI techniques to one day make \"anything shoppable\"",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-helps-sony-power-the-worlds-first-ai-image-sensor-with-azure.md",
+      "title": "Microsoft helps Sony power the world’s first AI image sensor with Azure",
+      "excerpt": "Sony is the top image sensor supplier to the smartphone industry and has a presence in other segments as well. The IMX500 is designed to power enterprise systems such as industrial cameras for monitoring product lines.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/05/19/microsoft-helps-sony-power-worlds-first-ai-image-sensor-azure/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-3.png",
+          "width": 718,
+          "height": 400,
+          "title": "Microsoft helps Sony power the world’s first AI image sensor with Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-adds-microsoft-powered-artificial-intelligence-to-imx500-video-camera-sensors.md",
+      "title": "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors",
+      "excerpt": "Sony is making video cameras smarter. The IMX500 line of intelligent video sensors will come with embedded access to artificial intelligence (AI) tools from Microsoft (NASDAQ:MSFT",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "publishedDateTime": "2020-05-19T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575066%2Findustrial-monitor-camera.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 925,
+          "title": "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment.md",
       "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
       "excerpt": "Developers, to help you advance your AI and machine learning (ML) skills with hands-on and engaging learning, the AWS Machine Learning Scholarship Program from Udacity is now open for enrollment. \nAWS and Udacity are collaborating to educate developers of all skill levels to expand their AWS ML expertise.",
@@ -276,7 +402,7 @@
       "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
       "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
       "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
-      "heat": 162,
+      "heat": 172,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",
@@ -1175,134 +1301,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-hosted-ai-for-finding-code-defects-emitted-but-does-it-work.md",
-      "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-      "excerpt": "Altran – in association with Microsoft – has pushed out an open source project to find code defects via AI whenever you commit code. It is easy to see why Microsoft is keen. T",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "publishedDateTime": "2020-05-19T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/05/18/codedefect.jpg",
-          "width": 800,
-          "height": 408,
-          "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-are-ai-powered-killer-robots-inevitable.md",
-      "title": "Are AI-Powered Killer Robots Inevitable?",
-      "excerpt": "Military scholars warn of a “battlefield singularity,” a point at which humans can no longer keep up with the pace of conflict.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-military-robots/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebefa5288ead7be95a5c6c2/master/pass/Biz-robotskull-476996566.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Are AI-Powered Killer Robots Inevitable?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-is-the-brain-a-useful-model-for-artificial-intelligence.md",
-      "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-      "excerpt": "In the summer of 2009, the Israeli neuroscientist Henry Markram strode onto the TED stage in Oxford, England, and made an immodest proposal: Within a decade, he said, he and his colleagues would build a complete simulation of the human brain inside a supercomputer.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/",
-      "ampWebUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/brain-model-artificial-intelligence/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

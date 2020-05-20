@@ -46,6 +46,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024"
         width: 1024
         height: 652
+  - title: "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer"
+    excerpt: "Microsoft recently announced that it teamed up with OpenAI to create one of the world's fastest supercomputers running on the Azure infrastructure."
+    publishedDateTime: 2020-05-20T14:25:00Z
+    webUrl: "https://hothardware.com/news/openai-supercomputer-by-microsoft"
+    ampWebUrl: "https://amp.hothardware.com/news/openai-supercomputer-by-microsoft"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/openai-supercomputer-by-microsoft"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 89
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/51689/content/microsoft-g-building.jpg"
+        width: 708
+        height: 462
   - title: "Microsoft built a new AI supercomputer in Azure"
     excerpt: "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!"
     publishedDateTime: 2020-05-20T12:59:00Z

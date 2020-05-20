@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Using machine learning to estimate COVID-19's seasonal cycle"
-excerpt: "One of the many unanswered scientific questions about COVID-19 is whether it is seasonal like the flu -- waning in warm summer months then resurging in the fall and winter. Now scientists at Lawrence Berkeley National Laboratory (Berkeley Lab) are launching a project to apply machine-learning methods to a plethora of health and environmental datasets,"
-publishedDateTime: 2020-05-20T13:39:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-05/dbnl-uml051920.php"
+title: "Using Machine Learning to Estimate COVID-19’s Seasonal Cycle"
+excerpt: "One of the many unanswered scientific questions about COVID-19 is whether it is seasonal like the flu – waning in warm summer months then resurging in the fall and winter. Now scientists at Lawrence Berkeley National Laboratory are launching a project to apply machine-learning methods to a plethora of health and environmental datasets,"
+publishedDateTime: 2020-05-20T14:05:00Z
+webUrl: "https://newscenter.lbl.gov/2020/05/20/using-machine-learning-to-estimate-covid-19s-seasonal-cycle/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Lawrence Berkeley National Laboratory
+  domain: lbl.gov
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/232410_web.jpg"
-    width: 720
-    height: 428
-    title: "Using machine learning to estimate COVID-19's seasonal cycle"
+  - url: "https://newscenter.lbl.gov/wp-content/uploads/sites/2/2020/05/COVID-incidence-rate-JHU_051520.png"
+    width: 1021
+    height: 607
+    title: "Using Machine Learning to Estimate COVID-19’s Seasonal Cycle"
 
-secured: "Bw6aq7Eyl2tg1nQsbipkBWgwgez0BsT3i+/HKsSFRsqOPueEp5ir9+17F2hXPlONy5yLtc3MMePw87UJy2wxur1U9obxNWofgzi1180If443ALee1YdiODLiZmqx2Kn6Sf2ICgxx4Q1LYiXLfgz5FjOgkXNBsDZ+35PSMnQnMz8/AYu7HH8ToAG2JdhBEksAG6cG/w8alOm/0QS09cf7Q+pQyniNh1t57qzETbkyj8tj8KrSQ3qmrw+UyZQj+JraFQIMe4rNYs4BLcZ7xubQsNRhorfCZiORA/lPMcAXp/5FsCD1/uwz/XBSiG5HXRtz;JxXKMKgNCmMoz5wbTC0/KQ=="
+secured: "fFYTu3Ng3GmVEE7Gm5nCf61FmjO/tmxVpIEJtQmpmB+DpfGtjRXd/CjgWXG0ViBjDn1C2riZz1kai/n3g1QXjfcfEDFjj5oGRM0A8CF/so4AxCU55JtlRkh71LGK7QZT6bs8u38xaxSNRJ6+IMjGnCbefGb4tIT0Vwr6ueW+SHpEaNEpytKSg4UZrOFlOxOgsy1kRdZy16qrac9qmv2MlUZ5KbzxT6tmsLM0XStArCseSKqtFkrwSuNSASubHyOPxcUzsLXPxESOAfFzAFYKpbo8t6yVAW8FMpzuGTuIeTCOlz5Vtn+aGmmYBcTN5l6T;diMQKbdNTOVYwTIz4qqjEQ=="
 ---
 

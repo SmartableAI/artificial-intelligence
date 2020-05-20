@@ -3,7 +3,7 @@ category: news
 title: "German panel, industry, assess ethics of FCAS technology"
 excerpt: "Germany has initiated an independent process to consider the ethical and legal implications of using autonomy and artificial intelligence as part of a multinational Future Combat Air System, to enter use by around 2040."
 publishedDateTime: 2020-05-19T14:36:00Z
-webUrl: "https://www.flightglobal.com/defence/german-panel-industry-assess-ethics-of-fcas-technology/138442.article"
+webUrl: "https://www.flightglobal.com/fixed-wing/german-panel-industry-assess-ethics-of-fcas-technology/138442.article"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 1335
     title: "German panel, industry, assess ethics of FCAS technology"
 
-secured: "FAYWVWg8mdjV/4LTx3/v6MZoiRNq+NILpTQL/kuAzLNapE4IKwiknp6mTrlKnA/kfZAOrgIbQF7PwQDy3mpO5BfP3lpgTyxJRF3fnUqrVXLd4/LuHFwcSEqF0p5MJtIr8w2AdFyMtysrhTJioUDTAXM5gTL29BoW2CXBRN6lbl+Z20PKLndxzIEEE4/W0I+6WRqwz8FPFDm58pkdAmUCFZjli5xGzFaX7wY84yH5NaGoygT3wsRz57xAclhQSMJI6xoTEykgTJjIQ1kcDYLZWwkDrjiT8/Nf+LfTcgykCwhmwms5mGbKPfQLLwbsGuwQtVyn3eOBqZoBO8GpFGIUULDzgqqZhhquU1iqoKXp2H7fRNsuSgqgWgtelpen4yCjHV/PZXBu3H0AfDZ1L17PalIjiGv95DZ7qe6/tYfERMS1wD6wDISUWsXOKZ2cLErK4AO3kGup3YJatswB35n9+9pBV+CvycyRdIheHJJoeGg=;i043ev/JWRQ2/M/uZQaqOA=="
+secured: "sLAJbrTAef2mSx77akcTiDpCpBDM1hIJ+XDYtHuH8Z3zQnppVTwXsJU4mCBL9oJhuUCKCrlqu1A/3fzgE6S0DWr5dwKekABPclE1LuNa4y8D71GOCtIDK9mFJKkLKwUV06WQhTnYYScYljJe9WOa423/5gu4ViSqpI0NArRAHq7jPoeq62kbQjpflV7kSjpdFV/YtLKmbYlMv0/DY1pKecHAiXwWay7lc5mU6CmTdZnI+1eMuZ+qPbYq7DdjqH/TMJGEB4E5n3k+o3JZL5cz2s1lOKJ/g3WvzBODmx3lq9EdQpeOgaxMTVi0rKH2FRBx;iWXi3hent2qUAiPJpw/l5g=="
 ---
 

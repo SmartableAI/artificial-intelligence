@@ -56,6 +56,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
         width: 600
         height: 350
+  - title: "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer"
+    excerpt: "Microsoft recently announced that it teamed up with OpenAI to create one of the world's fastest supercomputers running on the Azure infrastructure."
+    publishedDateTime: 2020-05-20T14:25:00Z
+    webUrl: "https://hothardware.com/news/openai-supercomputer-by-microsoft"
+    ampWebUrl: "https://amp.hothardware.com/news/openai-supercomputer-by-microsoft"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/openai-supercomputer-by-microsoft"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 89
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/51689/content/microsoft-g-building.jpg"
+        width: 708
+        height: 462
   - title: "Microsoft builds a supercomputer for OpenAI for training massive AI models"
     excerpt: "Microsoft is building a supercomputer for and with OpenAI and is using it to train massive distributed AI models, which it is counting on to improve the AI capabilities in its own software and services."
     publishedDateTime: 2020-05-19T15:00:00Z
@@ -96,6 +111,6 @@ related:
         width: 2560
         height: 1600
 
-secured: "FYqanfZxdMNraLlhJFC2OLBvXB4+3KrdX9vKYxxVfQ1hncQbTCOS2F5c6bEHhmdfSB7X5DvD7ktD8yaOAjcWN9UaVoL9yeso9FauVqFSsGyBH+uT3VTnn9P/zLU6wv2+9HILQ+MpdPY+97mwVC5AEG1+4io2H3j6C5M42d0OlMIPRjKN0pfSCQ3BYgeBGTfq4zkXBLr66mlody8NhbIQLXHokVklEhUvLkLc9QEubH5lSkaRMqABV21hUDke4ioDyp3vASwqcI1G3DHCcQCudtRcSpFNcMKvleEpzCOP7hum/mZSKrFvNY0BsquC8L7q;VRZ9wHP0FqjzWuyUznx4Gw=="
+secured: "ypnVWke1LYGXzHWWr355dc+/djaMD+OD1Mr6yWRR/yRY+FDQq2LU1COiOe4YLq1UsabKNLy0j8JpStgJo7ZBbLbjG6oeuRbcPUyN634zyHi9YdvV6q3jhCmVSJktNluKTUPnscSY9kVj/hgeoHItjVyoosAJjjDu53r4/7JaT3I8hEnudVLo5OeCUIojUvaPoBnnVn8X/oxfQV8HVwmTFaCyTsDthocBGPhK68iahCi+AduRZhUlgclt0sTwmNHKsoOrnAxkCS0cHcQJC33H/KSIQG2xSfT1n8okNogWAfiIXvKkUOVRDLCbV9lG4hy3LSMiQMA95GjDcpAhx38D2u33n2x9dB0kfTTGnBWSNl2q5TNB8uMT+cwer031mJW/vAgl6fW3BfcjGWU9KoccieGFAlhTK85gwYIEInOlIA9yB3jJJo0GQCtVIcwpNqnvHymBs71DWnxSOVQU3ryTA8UtpfANZ+c+0K9MoxKuGL0=;cRECWr+bbgZXUx/XSSH/jA=="
 ---
 

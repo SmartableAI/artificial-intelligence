@@ -23,6 +23,6 @@ images:
     height: 315
     title: "Vuzix M400 Smart Glasses Now Support Hands-Free Voice Control for Skype for Business, Zoom and Zoom for Healthcare Applications"
 
-secured: "NBeq+OeKzvnPKovCnaT1qtGx1Gj+oN99Y2VNesuQTu5js211NlyIMg2IFXYAwz6mLLR1ElDBgnFM+44m4XKJxnIm7L930vnzoiDMAX8HDQ62nfVxUfD2kXGBICGN7vY3PuwawYNJmX56dgEPZAUS4JYgmGajR6546k58FNrwUNV28blZX93BKp2O0gpqS8+7P1uP/Lya5MU11kQorrflLV1CD57zUFJxVcRk6+1ngJld/CHLT1qxqz7D47PWIAWF5FJBfgQnQT4mXFpcnmI6P308PI9czpDbctMylHmlNkoBS3CaUUcXDHGjILQ3NT1k;U0u7XAkvZBzLuOlthjFIWQ=="
+secured: "yU7uW6jCqmm5jxLv90ZhveqZE+lf4cYlPQ4SHDfKHtcjxV3iv186J3vlXTjTq+XlkJFPG/KyqOHoQV9DlyG2+ycz4Fo9+RL42An5P1+VN3wW/HF/uzRuKjiTBCBRP+IkV38Xk0u12sF8Ih5Eu6ltKha98KCWrI1kGtZWs5ENqrPGVjewhZkDi/ILXoIdmhy7EVUFuqvqd/jIQ+W0Dyct9XWACw7LRVOs5TQkk79F9/6S5O/lUTqKH78ogqLy6Qf30/vFrF6JIupF0rqWHp4YyuROXu+1VYiQKh9Rp7h+OTbtViEHAMSKal/W/g0/quFA9/EM/m92SX2oTv2h/j5YoPeLsUHIe2ZGsKUcfPZL/DMRaSsJjBIk1kHjRAGJ5tisn6KAuwzxsuXyfS/fZ3EqokbZAXQHIRkZjw40bCMdZKz3TVgKaADM8O22wFGUzfFG0rqY5yjbBSzohdinnERc1j/tCAMjpucXDkFvFooAA0c=;Fvc8rsVEi24CUswuPcw19g=="
 ---
 

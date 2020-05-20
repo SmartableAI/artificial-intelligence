@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-07-gaining-experience-using-deep-learning-for-social-good-in-global-competition.md",
+      "title": "Gaining Experience Using Deep Learning for Social Good in Global Competition",
+      "excerpt": "AI has demonstrated its versatility in recent years, extending far beyond enterprise use into the realm of social good.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/guest-blogs/gaining-experience-using-deep-learning-for-social-good-in-global-competition",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5eb31bbd05044-earth-2254769_1920.jpg",
+          "width": 1920,
+          "height": 1180,
+          "title": "Gaining Experience Using Deep Learning for Social Good in Global Competition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-inference-moves-to-the-network.md",
       "title": "Inference Moves To The Network",
       "excerpt": "Machine-learning inference started out as a data-center activity, but tremendous effort is being put into inference at the edge. At this point, the “edge” is not a well-defined concept, and future inference capabilities will reside not only at the extremes of the data center and a data-gathering device,",
@@ -131,31 +168,23 @@
     {
       "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
       "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-      "excerpt": "Recently, the results of the AutoDL (Auto Deep Learning) 2019-2020 finals held by NeurIPS, a top AI academic conference, was announced and Inspur's te",
+      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200507005360/en/Inspur-Takes-3rd-Place-NeurIPS-AutoDL-2019-2020",
+      "webUrl": "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T08:13:00-07:00",
+      "publishedDateTime": "2020-05-07T07:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Odessa American",
+        "domain": "oaoa.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200507005360/en/790124/23/inspur_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1200,51 +1229,6 @@
           "width": 1440,
           "height": 810,
           "title": "Training instance segmentation neural network with synthetic datasets for seed phenotyping",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-why-white-box-models-in-enterprise-data-science-work-more-efficiently.md",
-      "title": "Why White-Box Models in Enterprise Data Science Work More Efficiently",
-      "excerpt": "WEEK DATA POINTS: Once the industry standard, black-box-type machine-learning projects tended to offer high degrees of accuracy, but they also generated minimal actionable insights and resulted in a lack of accountability in the data-driven decision-making process.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/why-white-box-models-in-enterprise-data-science-work-more-efficiently",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/04/White.box.black.box.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "Why White-Box Models in Enterprise Data Science Work More Efficiently",
           "attribution": null
         }
       ],

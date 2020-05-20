@@ -29,6 +29,6 @@ images:
     height: 344
     title: "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite"
 
-secured: "Z7/ZZBrGovoFhbeoJY7CLMEoC571FSSXaA/v0qspOa+zxZyCXJBgJ65e3kHPF18jnME72AFONz1HbPEFewUfUccZVBlJ2wdpU9lsP+m7zToT750OGF9k+Yp0L9xJU/apMIu0afo/075RpPzj7rFlNONKQFVPUt9mHBY4wSymK/pRwvfxgj9b142vv40tYEWmU05JbGs6U2F9B+FuVAJc0gS8+9fbaACOOjgEiE01drGxwri5c/x29CC6DB7yzaEhn3LjOEhv1j4yF+9T4q0yZWhMxK8vzk2tQuMRCh02bVEt2AAfOKLdfrbaI+T9jP99;4hOAKslGZqkKI8Hv2nuTRw=="
+secured: "Ddl5u23i6DtWunrFdZfltzjPGX0A4D8San/3Ddzx+9aw1qP0y7GwqR0JPZ8zaNfHvG9IBVJBw8Dw62Gqm+Ldvk0vcrSwLhIMeVDSj+QNLDtQf7H00/JS8j7hPftPM4kmKWThztliagwP6ZShCCGtcMI+IYk2ht1stC44w1B9WRW230aWv7DQPfLGH43YvWnbk2x13UJVSbHmKhNtxUkBTV5WpyB2/tK8FBzxA9DTKfmUSnI/yyhuxWsPUC+JXp2TqMc1q3M89J+U3X/KzP18z1TvwQi3q2Nu3J9iRtHYBt3BXU3ihPz9EvdOMK8jVus9uxF4blOuwm+sB9g6O2ZA/ZipVbfDfHSOSRmStmoO/3fjQBprQBTXw9bwFwVSki/WpkR61bKNqbEfJHDWcpIAJ1I7Pu27/caP/LFu0DnESHGN0zhpxxzvIaxPV+7w36VhMDz0b46sJWSUpapDRy6QCRNDL9KG2GaXab4YV/qK3ZM=;KRHd+1OP5qETXbWQf1mMUw=="
 ---
 

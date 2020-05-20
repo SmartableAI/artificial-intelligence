@@ -2,6 +2,87 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-04-30-efforts-to-use-ai-in-covid-19-research-hit-roadblocks.md",
+      "title": "Efforts to Use AI in COVID-19 Research Hit Roadblocks",
+      "excerpt": "Scientific papers published and distributed using the PDF format are “not amenable to text processing,” a group of researchers wrote in a paper published last week. This means the technology is less effective.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/health/Efforts-to-Use-AI-in-COVID-19-Research-Hit-Roadblocks.html",
+      "ampWebUrl": "https://www.govtech.com/health/Efforts-to-Use-AI-in-COVID-19-Research-Hit-Roadblocks.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/Efforts-to-Use-AI-in-COVID-19-Research-Hit-Roadblocks.html?AMP",
+      "publishedDateTime": "2020-04-30T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1012126252.jpg",
+          "width": 1119,
+          "height": 630,
+          "title": "Efforts to Use AI in COVID-19 Research Hit Roadblocks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-this-ai-creates-entire-songs-complete-with-music-lyrics-and-vocals.md",
+      "title": "This AI creates entire songs complete with music, lyrics, and vocals",
+      "excerpt": "OpenAI today introduced ‘Jukebox,’ an open-source AI system for generating novel music complete with lyrics and vocals. Simply put, it’s the most impressive music-writing AI we’ve seen yet. Jukebox was trained on massive datasets of music across nearly every genre so that it can create completely fresh songs that, in many cases ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/30/this-ai-creates-entire-songs-complete-with-music-lyrics-and-vocals/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/30/this-ai-creates-entire-songs-complete-with-music-lyrics-and-vocals/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/30/this-ai-creates-entire-songs-complete-with-music-lyrics-and-vocals/amp/",
+      "publishedDateTime": "2020-04-30T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/jukebox-796x402.jpg",
+          "width": 796,
+          "height": 402,
+          "title": "This AI creates entire songs complete with music, lyrics, and vocals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-the-next-generation-of-fighting-financial-crime-with-ai.md",
       "title": "The next generation of fighting financial crime with AI",
       "excerpt": "When discussing the need for smarter crime detection techniques, Julie Conroy, research director at the Aite Group, does not mince words.\n“Between two and five percent of global GDP is currently being laundered, and with legacy approaches we’re catching less than one percent of it,” she says.\nIBM recently",
@@ -926,95 +1007,6 @@
           "width": 1024,
           "height": 664,
           "title": "VC appetite for AI startups holds up in Q1 despite lackluster exit volume",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-tesla-confirms-self-driving-as-a-subscription-service-but-brace-yourself-for-the-price.md",
-      "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
-      "excerpt": "Driving package (FSD) as a subscription service, but you should brace yourself for the price. We reported earlier this week that Tesla is working on a pay-as-you-go subscription for its self-driving package based on some code that leaked in Tesla’s in-app purchase system.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/",
-      "ampWebUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
-      "publishedDateTime": "2020-04-30T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 458,
-          "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers.md",
-      "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
-      "excerpt": "LinkedIn today launched a new AI feature that provides helpful feedback to members on their answers to job interview questions.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
-      "publishedDateTime": "2020-04-30T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
           "attribution": null
         }
       ],

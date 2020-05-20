@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-20-sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders.md",
+      "title": "Sphero spins out Company Six to bring robotics tech to first responders",
+      "excerpt": "Colorado-based Sphero launched Company Six, a new robotics company focused on first responder and disaster response technologies.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/20/sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/RVRKickHR-0079-e1589985394869.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Sphero spins out Company Six to bring robotics tech to first responders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-this-lab-cooks-with-ai-to-make-new-materials.md",
       "title": "This Lab ‘Cooks’ With AI to Make New Materials",
       "excerpt": "A Toronto lab recycles carbon dioxide into more useful chemicals, using materials it discovered with artificial intelligence and supercomputers.",
@@ -1204,43 +1249,6 @@
         "AI in Robotics",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-zoom-xoom-zum-why-does-every-startup-sound-fast-now.md",
-      "title": "Zoom, Xoom, Züm: Why does every startup sound fast now?",
-      "excerpt": "There have been at least 120 startups whose names include something that sounds like “zoom.” Another fact: They have raised a collective $1.8 billion in funding.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/boston/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11660440/zoom-soundalikes-0*400xx2400-2400-0-0.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Zoom, Xoom, Züm: Why does every startup sound fast now?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
