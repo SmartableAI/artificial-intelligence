@@ -25,6 +25,6 @@ images:
     height: 630
     title: "Tribal Credit Joins Visa’s Fintech Fast Track to Bridge Equity Gap for MENA Startups"
 
-secured: "WlbeeIw+xe9BUW1ff8THdL55qGWO2YlNirIe5KRPmb8CEJWwzB03LT4H/rTLPC4CTUyXcCYpcrnoSzorIV36MHRGyXEwsYOVf+eup+g0Osr25DhnED1HbAM6l5sa0oP33pbprS5wPtPOVUrKwhmICg1lWlFw++p93rGzs5qw/iuhv/xa1iyYiYK6H9P4QITiulayPL+QuXN6rnOq0QhKaMZ6fB2C3qQOn8Q4vhk44zj43GZE8fH9teKyVSNRIxJwdhIAJI3dtEf4DD3wSK5PjKSNRDfbRFBQOjSCNXGutoNCHUe+l/TernfLgervUi/+;8AcEWCis/WQRZGih+TvVGw=="
+secured: "FwCv77z0xoLFCsBw69dOAqxkA+VGg/MN8yr5yr9O3+rqBLzub+eb8i61HB3OX6tRziTH7qO/BaHp4oR/nrbEbFpm+C+Gqg4rS2HTmGUy2idb0wRbnA6F2gW7sFi4S4eEodEZPgBBF8m32grhqYAjhwUqPa/aDyARFBihcYqFomisCu6+lL7d4PVhNoAcYwFqzFYrsNNwY7TpaoCqJBHl8URVXgYErBaTwN0cfO7oCpsL28aGocCn2L+B1Lnl88xai7KH5kSdlLAkAX0J0djZqVWgPpreA84m/k42+q/VFyAn31Uu5vNnmhQlcWKh4/uaViMcyVfvAer/hV5lxqcax1QiqICzVyG2yJepQQPD8uoaDrpOHGPZ7y5uk6M4XzT3PLAHRQJ7K11sej+zJcKi0FpO5XRUuVJn87jxBhJZIKt+yPOJXvNEmfwBZ1RV8Mjh23c0CAcgHqA/LFTpb4y5J/TY+kBoFzko8o7Fl0ONajQ=;poaKNpa3vI++qX2C0fiqoQ=="
 ---
 

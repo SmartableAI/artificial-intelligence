@@ -2,18 +2,18 @@
 category: news
 title: "Juniper's big push: AI in all areas of enterprise networking"
 excerpt: "Juniper Networks CEO Rami Rahim plans expansion of its Mist artificial intelligence technology into cloud, data center, Wi-Fi and SD-WAN environments."
-publishedDateTime: 2020-05-19T17:51:00Z
-webUrl: "https://www.itworld.com/article/3544025/junipers-big-push-ai-in-all-areas-of-enterprise-networking.html"
-ampWebUrl: "https://www.itworld.com/article/3544025/junipers-big-push-ai-in-all-areas-of-enterprise-networking.amp.html"
-cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3544025/junipers-big-push-ai-in-all-areas-of-enterprise-networking.amp.html"
+publishedDateTime: 2020-05-19T17:54:00Z
+webUrl: "https://www.networkworld.com/article/3544025/junipers-big-push-ai-in-all-areas-of-enterprise-networking.html"
+ampWebUrl: "https://www.networkworld.com/article/3544025/junipers-big-push-ai-in-all-areas-of-enterprise-networking.amp.html"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3544025/junipers-big-push-ai-in-all-areas-of-enterprise-networking.amp.html"
 type: article
 quality: 57
 heat: 57
 published: false
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - AI
@@ -24,6 +24,6 @@ images:
     height: 800
     title: "Juniper's big push: AI in all areas of enterprise networking"
 
-secured: "fkGlGe2IHSSrJ2IcCXN1lMUoWJMvMsc1RmPKZrzz4rIArklP8PuLsa2QG79eUF91rc/sT0zTfEy/c5PAhxjJF3uQWv/7We64FeQB9QV026sk/FvZc60dxJ8xezrh74YbUqSlbLP1uQYghKChyUuGzi8n57LLhYAvdo27C0C0crrd53M4EbxD9kW70AqS7o+V/WFW3/9au2KsWn04BCsiiShKo+zxnET7x8/JhQFpumZ2s1akV6XRbjk1nfKRSCbxqLH0J7CWar5I3TyqKgJuMylVNdQhSYN6VGpevnXW5G7QsPaVHuGfJQ/894xgLBLtQeUScDbbL7E+No62kSoZE2rjz1HU7er1KKhkU1dW+1DSK4X8wfrpXWuVhUbNfccsqHpq+JYbJqn3VDLyhvbTfJy1xIoWpxs9K3aLTBD7iBGEmuhtlh0173oir0O/3v6Whsty6CQBOkUJWrD60lwtuq59aCnwDyVH40vjcKcZM/0=;V5wn4SBZKh4yIp3JkxvhSQ=="
+secured: "fcpi3YbjVe+lRqxGuGbTTQFcY3pY2cpQjYLVP5lw763kQadXu7YTEdCM2aucMvtaagtFG8h1NQU8jyx8amV2bwBCiamsRi0X4bEWM/LO6J9wxDO40MT5YNvjeFv4v2l/9nFGHguEIqkteM+6X0CBgOgPlx7xW6BtdLrmnqEb31XC1SC62Zbr9nvEQSUV0/NGOC3sZhXPTNAPlQhqWLd72yZuXxkIXTHhJrzxUC14WD9qRAf4gFAW+mj9NoWxN107x+nQVD5KHb5RjqGIIaeU2yQ6Iyyd9Z7fjFuf3YR6Ws0sPd4LcW3pqyfwQc4Caeie;1OvSlixSauoN7GPn1tTn7g=="
 ---
 
