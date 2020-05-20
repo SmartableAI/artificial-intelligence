@@ -24,21 +24,34 @@ topics:
   - AI
 
 related:
-  - title: "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k"
-    excerpt: "Driving’ package again as Elon Musk now evaluates the value of the completed version of the package at over $100,000. Over the years, much has been said about how Tesla is approaching self-driving technology differently from the rest of the auto industry."
-    publishedDateTime: 2020-05-19T01:09:00Z
-    webUrl: "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/"
-    ampWebUrl: "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/"
+  - title: "Here’s why Elon Musk keeps raising the price of Tesla’s ‘Full Self-Driving’ option"
+    excerpt: "Driving” version of its Autopilot driver assistance package by around $1,000 on July 1st, CEO Elon Musk announced on Twitter this week. The company has done this before — a few times. It will probably do it again."
+    publishedDateTime: 2020-05-20T19:53:00Z
+    webUrl: "https://www.theverge.com/2020/5/20/21264345/elon-musk-tesla-full-self-driving-autopilot-price-increase"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/20/21264345/elon-musk-tesla-full-self-driving-autopilot-price-increase"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/20/21264345/elon-musk-tesla-full-self-driving-autopilot-price-increase"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
+      name: The Verge
+      domain: theverge.com
+    quality: 98
     images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 497
+      - url: "https://cdn.vox-cdn.com/thumbor/ByIdT_pruGTrwcLv8OvROYBw-GQ=/0x0:2040x1361/1400x933/filters:focal(857x518:1183x844):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66823171/dbush_170530_1759_0040.0.jpg"
+        width: 1400
+        height: 933
+  - title: "Elon Musk says price of Tesla’s self-driving tech is going up"
+    excerpt: "Tesla Chief Executive Officer Elon Musk says that if you are looking at buying one of his company’s cars, you should get your order in quick"
+    publishedDateTime: 2020-05-19T21:00:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/elon-musk-says-price-of-tesla-s-self-driving-tech-is-going-up/article_284d09f2-4d6b-52da-ba2d-9b9f44cad48b.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+        width: 1200
+        height: 630
 
 secured: "IgPmGXWF5QWYpkTp4hGA4+DDP4dZ5nW8J1z3gChKHaDqtboeTirjfL0kf/fWDv2j17eyC/LouUKrYyh14fO4Cxx9ffUFwUHZoem+O/GoaCuJOLDtPRs5/9l0RqczEiluPMsbY3OQrE50cA3zspdZfItWEqKI/JyKute7hsh+0G7b//aOvvc16XzZY4I3s4orwL744rRh2L5V2mS9NmpdouBMtBKoAb+urPW+NJDsmzCGXp4bWskqrjXdYYxuZDkUexHEVQefBguRz9ExPClQ9dahHZ4qeU/Lrik5+/Bv1rx/U+kUoNL8nLnPN1rVGr7wBwNJ9cyMmusNfP0ML4Z7Js+neLtQ4aUkCAcQA+yzdZLj8v98SSyM5E/OayyXOySDsARrAFXb4yFC4MzCC4EhPNC6V+K36d845iC8zBbQivBFbeNY+GJmf7JuMIn7iHY6qfOlcROAEqhYDJPVqtHgY7bfhfSEOhpVhSHKKYlhdAg=;O+/lpSp+iJfWKGK5ozHM0w=="
 ---

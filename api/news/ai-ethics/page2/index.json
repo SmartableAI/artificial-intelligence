@@ -2,6 +2,97 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-10-probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai.md",
+      "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
+      "excerpt": "Governments and companies alike have been abusing AI in a variety of ways. But even AI features clearly designed to help humans do something as basic as communicate clearly come with ethical questions for the companies and developers that build them. The discussion Aichner and I had gave me a brief glimpse into what businesses and developers ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
+      "publishedDateTime": "2020-04-10T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/microsoft_teams.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge.md",
+      "title": "Time to re-evaluate AI algorithms right from the design stage, experts urge",
+      "excerpt": "Michael Kearns and Aaron Roth, professors at the University of Pennsylvania, suggest that the solution is to \"embed precise definitions of fairness, accuracy, transparency, and ethics at the algorithm's design stage ... as well as designating trained people to examine and audit AI output. \"Have scientists and engineers who know this area ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge/",
+      "publishedDateTime": "2020-04-09T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/08/23/48dae248-bd26-4d6e-be1c-cba4b7a77c0c/thumbnail/1200x675/32335cdb6010e3c68e6e4ca3fbcd103e/over-half-of-google-searches-dont-produc-5d5558af9900780001fb5308-1-aug-23-2019-14-26-20-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Time to re-evaluate AI algorithms right from the design stage, experts urge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-how-microsoft-teams-will-use-ai-to-filter-out-typing-barking-and-other-noise-from-video-calls.md",
       "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
       "excerpt": "Last month, Microsoft announced that Teams, its competitor to Slack, Facebook’s Workplace, and Google’s Hangouts Chat ... But one feature, real-time noise suppression, stood out — Microsoft demoed how the AI minimized distracting background noise during a call. We’ve all been there. How many times have you asked someone to mute ...",
@@ -1148,80 +1239,6 @@
           "width": 1200,
           "height": 800,
           "title": "How the NZ government will regulate AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-axon-announces-three-new-members-to-ai-ethics-board.md",
-      "title": "Axon Announces Three New Members to AI Ethics Board",
-      "excerpt": "/PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, announced today the appointment of three new members to its",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/axon-announces-three-new-members-to-ai-ethics-board-301025168.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1134612/Danielle_Citron.jpg?p=facebook",
-          "width": 2735,
-          "height": 1431,
-          "title": "Axon Announces Three New Members to AI Ethics Board",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-ai-predictions-2020-artificial-intelligence-grows-up.md",
-      "title": "AI predictions 2020: Artificial Intelligence grows up",
-      "excerpt": "As AI grows to be a pervasive technology, there is currently little trust of the morals and ethics of many companies that use it. As a data scientist, that is disheartening – but I believe there are ways that AI innovators can respond to the pressure they’ll begin to come under from governments and their customers.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itproportal.com/features/ai-predictions-2020-artificial-intelligence-grows-up/",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-predictions-2020-artificial-intelligence-grows-up/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-predictions-2020-artificial-intelligence-grows-up/",
-      "publishedDateTime": "2020-03-17T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/7wpkwZ96dcE55zQ5nmxUST-1200-80.jpg",
-          "width": 800,
-          "height": 500,
-          "title": "AI predictions 2020: Artificial Intelligence grows up",
           "attribution": null
         }
       ],

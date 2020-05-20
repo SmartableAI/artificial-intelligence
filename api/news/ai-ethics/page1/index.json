@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-20-scientists-claim-they-can-teach-ai-to-judge-right-from-wrong.md",
+      "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
+      "excerpt": "Scientists claim they can \"teach\" an AI moral reasoning by training it to extract ideas of right and wrong from texts",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/amp/",
+      "publishedDateTime": "2020-05-20T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-42-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-microsoft-touts-supercomputer-for-large-scale-ai-modeling.md",
+      "title": "Microsoft Touts Supercomputer for Large-Scale AI Modeling",
+      "excerpt": "Microsoft disclosed at Build that it has built one of the world's most powerful supercomputers in collaboration with a company building artificial intelligence (AI) solutions.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://redmondmag.com/articles/2020/05/20/microsoft-supercomputer-ai-modeling.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg",
+          "width": 1665,
+          "height": 1158,
+          "title": "Microsoft Touts Supercomputer for Large-Scale AI Modeling",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy.md",
       "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
       "excerpt": "Microsoft debuted a number of privacy- and fairness-focused enhancements to Azure Machine Learning, including the WhiteNoise toolkit.",
@@ -1205,97 +1289,6 @@
           "width": 1163,
           "height": 1200,
           "title": "The United Kingdom’s Role In The Future Of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai.md",
-      "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
-      "excerpt": "Governments and companies alike have been abusing AI in a variety of ways. But even AI features clearly designed to help humans do something as basic as communicate clearly come with ethical questions for the companies and developers that build them. The discussion Aichner and I had gave me a brief glimpse into what businesses and developers ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
-      "publishedDateTime": "2020-04-10T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/10/microsoft_teams.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge.md",
-      "title": "Time to re-evaluate AI algorithms right from the design stage, experts urge",
-      "excerpt": "Michael Kearns and Aaron Roth, professors at the University of Pennsylvania, suggest that the solution is to \"embed precise definitions of fairness, accuracy, transparency, and ethics at the algorithm's design stage ... as well as designating trained people to examine and audit AI output. \"Have scientists and engineers who know this area ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge/",
-      "publishedDateTime": "2020-04-09T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/08/23/48dae248-bd26-4d6e-be1c-cba4b7a77c0c/thumbnail/1200x675/32335cdb6010e3c68e6e4ca3fbcd103e/over-half-of-google-searches-dont-produc-5d5558af9900780001fb5308-1-aug-23-2019-14-26-20-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Time to re-evaluate AI algorithms right from the design stage, experts urge",
           "attribution": null
         }
       ],

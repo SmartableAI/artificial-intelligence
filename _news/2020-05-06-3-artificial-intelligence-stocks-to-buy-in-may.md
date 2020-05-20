@@ -1,7 +1,7 @@
 ---
 category: news
 title: "3 Artificial Intelligence Stocks to Buy in May"
-excerpt: "Amazon not only uses artificial intelligence in its own operations, such as its product recommendation engines and Alexa home speaker assistants, but AWS also enables the use of artificial ..."
+excerpt: "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ..."
 publishedDateTime: 2020-05-06T11:01:00Z
 webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
@@ -17,7 +17,7 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
+  - AI in Autos
   - AI
 
 images:
@@ -26,6 +26,6 @@ images:
     height: 378
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
-secured: "MxQrXTVrzXvT8RhTjeNHWxCiOhr3Ca58e448rGKArcYiPYg1xRr8J2aECiGGHdgzQBujEQhLUFUmSxSRnLfon6pMDM3X1Ec4JjA1dLD9vEyag6TxUslIu2qn6P2U1E1kMikNeO1148XkjYEkGe0F3X1QxfVMPb1afO8yMQ77Yr2fFAJ84kSkwkt3BC0kfU3HTgZj9D8dtrL8zr6uO+29j9F+IZjgaM8jRpPXlSElwuWqK7ZVkQgcPtfA7FvKjNRVvq8dQGIkQUKrDJK/RlhGt4hgmGWUhuTOa2zsTpEyk0znS75+PKBWAzSgb0WvFpLZ;w0Oa44EvzzR/9igAL9f30A=="
+secured: "O70b1hOJgQ3QjoDlRfvH9vwFWgcIPqFg/LG3GZRPgTocH4j7a/IbkUBmalGVgRQRYois/lTydbZP8UUw5AzFd2N6ZjAO17v7lGe67w8l3NljmdLrX9ld+2QTacUh6OxPPk00DXNPaY6SjOMgwOt3a1LhwVub+AlGPlCYCMeHliwSNzGdjVwa0Y9kjTNssQoyTVu23vGZYJyADwmsk+Yo8ZSCH9bsD/vbF6RuwoOiqwmfAHBZxTNPUcMVifszBZeHqqapqUDMLOziNqqbzs73vYt8gF8XXC/8jQQMAXR+h9jb/Z/EBj1eA93GE2cZSDPD;nTw5e7cAxbGjuJFbRL5EYQ=="
 ---
 

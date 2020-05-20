@@ -2,6 +2,80 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-17-axon-announces-three-new-members-to-ai-ethics-board.md",
+      "title": "Axon Announces Three New Members to AI Ethics Board",
+      "excerpt": "/PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, announced today the appointment of three new members to its",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/axon-announces-three-new-members-to-ai-ethics-board-301025168.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1134612/Danielle_Citron.jpg?p=facebook",
+          "width": 2735,
+          "height": 1431,
+          "title": "Axon Announces Three New Members to AI Ethics Board",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-ai-predictions-2020-artificial-intelligence-grows-up.md",
+      "title": "AI predictions 2020: Artificial Intelligence grows up",
+      "excerpt": "As AI grows to be a pervasive technology, there is currently little trust of the morals and ethics of many companies that use it. As a data scientist, that is disheartening – but I believe there are ways that AI innovators can respond to the pressure they’ll begin to come under from governments and their customers.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itproportal.com/features/ai-predictions-2020-artificial-intelligence-grows-up/",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-predictions-2020-artificial-intelligence-grows-up/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-predictions-2020-artificial-intelligence-grows-up/",
+      "publishedDateTime": "2020-03-17T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7wpkwZ96dcE55zQ5nmxUST-1200-80.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "AI predictions 2020: Artificial Intelligence grows up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-15-tra-attains-cips-corporate-ethics-mark-reinforcing-the-organizations-commitment-to-ethical-sourcing-and-supplier-management.md",
       "title": "TRA attains CIPS Corporate Ethics mark, reinforcing the organization's commitment to ethical sourcing and supplier management",
       "excerpt": "This mark is highly regarded as an indicator of key global practice in the procurement and supply profession, especially in dealing with suppliers and partners while ensuring transparency and professional ethics. Commenting on this ... of the Fourth Industrial Revolution (4IR) and Artificial Intelligence (AI). Our success depends mainly on ...",
@@ -1144,97 +1218,6 @@
           "width": 1000,
           "height": 667,
           "title": "\"Crucial\" oversight needed for police AI use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-defeated-chess-champ-garry-kasparov-has-made-peace-with-ai.md",
-      "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
-      "excerpt": "Most remarkably, AlphaZero uncovered new approaches to the game that dazzled chess experts. Last week, Kasparov returned to the scene of his famous Deep Blue defeat—the ballroom of a New York hotel—for a debate with AI experts organized by the Association for the Advancement of Artificial Intelligence. He met with WIRED senior writer Will ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/",
-      "ampWebUrl": "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/amp",
-      "publishedDateTime": "2020-02-21T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e4c10d419656c0009fbe489/master/pass/Biz-kasparov-511682700.jpg",
-          "width": 2400,
-          "height": 1663,
-          "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-ai-laws-are-coming.md",
-      "title": "AI Laws Are Coming",
-      "excerpt": "Adoption for AI and cognitive technologies shows no signs of slowing and governments across the world are paying attention. AI laws are coming.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/ai-laws-are-coming/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/ai-laws-are-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/20/ai-laws-are-coming/amp/",
-      "publishedDateTime": "2020-02-20T20:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4de06b7a0098000733c5d8%2F0x0.jpg",
-          "width": 710,
-          "height": 512,
-          "title": "AI Laws Are Coming",
           "attribution": null
         }
       ],

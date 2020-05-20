@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-pric
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1000
     height: 497
     title: "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k"
-
-related:
-  - title: "Tesla ‘full self-driving’ option to get a price bump, Elon Musk says"
-    excerpt: "Tesla CEO Elon Musk tweeted on Monday that the full self-driving package will receive a $1,000 price bump on July 1. It's the first hike in about a year."
-    publishedDateTime: 2020-05-19T02:30:00Z
-    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/"
-    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
 
 secured: "ss+1q8Qxiv4u2ZS/oe7zA5uBiU4qwA5Y/y7DUU5uewqQ9D1paeGc3whjenX9u6BofZYhj3hi8iqZaCkRZ5zuwLMhTsDcB7mRvBXRxaBKAleQ8cjJthSS2GQykQEW4MeT8QkMfHDIOHK6qYJCdkrIJZXpLwKIE5qmMSVfMb3t1zgYr8q1d0FFc3hB+LKVfVe1ca9w1+pTd2k8goerPeqAJs3Z5kOa3ofW6FiqglnZLkm0BDR5E9RRs/I3pZYo7EqRUOt+Vu9+bL98lNfcmQbmAt0J4yUv0asf2jr5RjhSIoWxhZgSxvp4L0aLWNHBPjPPw7wfDexqjSJvW75dfDBvB7slE10pkqwzonQA0K4F9zcMzFFKNAsPwkn7Va8qVqYoIHpi67DOr7PbJeVatBpWA62yua9e2JYIKkGFIwfH7h7H96MRDpUmgFi5jFRPbqrXFZSKUNvvEWuCqI18kRI/lS3kRhZXylTD/R06oipFVXw=;P/X/io8/TcHrk+QoIRh0vg=="
 ---

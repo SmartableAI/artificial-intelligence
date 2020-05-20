@@ -5,8 +5,8 @@ excerpt: "Contrary to what you might expect, bringing facial recognition capabil
 publishedDateTime: 2020-05-20T16:08:00Z
 webUrl: "https://www.embedded-computing.com/guest-blogs/mcus-are-changing-the-face-recognition-game"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "http://share.opsy.st/5ec552e0b950f-NXPB008-Figure1.jpg"
@@ -23,6 +24,6 @@ images:
     height: 4004
     title: "MCUs are Changing the Face Recognition Game"
 
-secured: "dI9hlKkUNvErYTtSKOlFOSVg6Y5rML+5BeMvZ7TdhWWmh2JMDmuE2kJBmjTKhtvjc6U1nEvy/MpZrA8Fqd+qkhj042G3181YXwCRypNGgyM6F1iN4P1YQ/AI3mQaEqdqbwROMNRMckSTPFGEbkB0fOPSbDFeN7aPj8kCxbxhSKOSXys3nCIipZIwjqbXJttEvIpYV0LCJPMePP9qIZhVwnxICW1LiHmEn9tjStCHb22rJi+Lj6hpffnqRo9biKEiR8OzzcLYlcyqi+7YOisR2gRnl8U1YIwHfU2hw+fF/UQ8TchlSW/SJEyUkQafmrc6;gsoCz3R1WCpZ4RdIn6ywQw=="
+secured: "LJDAzVOtepPmzX+iE+aBQlPjE25M34kZtcRKyslNIqRKB4lDRfUiKgnxBrDRWUl1JXUHMnYt65p9xcmYe4WLsPqu153+n9FynXqKX0BVlm/icG6vDxCpgIuWirfzf/+E4zRezx0m4abWc0Fvza6xIOgeD+Nu1qBt9UPf6lSARNRbks8ryylwyAIDHdCTGlY3/sGa/kaIuEYtwB5nN1xcPTV6sfEvSHAJbqF2Jzq0grBN1NOQ73fHikTiZuNPgNBgYSesY/Q5u7UM8sV7L+x1zQ09MYcBuDYiOIAd2LrvvefpbuXZYlURgh1Ok3jlzIWr3X9oU5ji7EM61WJTTPrvXpr4dV5q9lJb7tObInlyJZTSRDhV1MS1CBPXcoBSQq9/mWw5hMQW7F+5961KBjlOYBmy7+SO5xcFPHpxHW0HnXjxI85M7mh+hXQOy+NX76ZwazODat897EdxhKWkCusscqyXOu0rDYKFbe2CqQ7hAKI=;nA7CxU6HCN1IIS1OW0aHBQ=="
 ---
 

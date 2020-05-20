@@ -2,6 +2,354 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-14-kustomer-acquires-replyai-to-enhance-chatbots-on-its-crm-platform.md",
+      "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
+      "excerpt": "Today, Kustomer is announcing some M&A that will help in that strategy: it is acquiring Reply.ai, a startup originally founded in Madrid that has built a code-free platform for companies to create ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/amp/",
+      "publishedDateTime": "2020-05-14T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/08/chat-bots.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-ai-models-are-struggling-to-cope-with-our-rapidly-changing-world.md",
+      "title": "AI models are struggling to cope with our rapidly changing world",
+      "excerpt": "Based on data that described the world before the crisis, these won't be making correct predictions anymore, pointing to a fundamental problem in they way AI is being designed. David Cox, IBM director of the MIT-IBM Watson AI Lab, explains that faulty AI is particularly problematic in the case of so-called black box predictive models ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
+      "publishedDateTime": "2020-05-14T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/05/889b37c6-5a4a-4b33-8393-75fe2b2d6727/thumbnail/1200x675/2543f3afd4c8d758aca9e08eb2aef9d4/5gs-first-antenna-winterfeldtstrasse.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI models are struggling to cope with our rapidly changing world",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-are-ai-investments-dead-thanks-to-covid-19.md",
+      "title": "Are AI investments dead thanks to COVID-19?",
+      "excerpt": "And how do you go from managing data points to injecting AI in the enterprise? Read More I reached out to Ryohei Fujimaki, Ph.D., an expert on AI/ML and the founder and CEO of dotData, which delivers data science automation to the enterprise,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/are-ai-investments-dead-thanks-to-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/are-ai-investments-dead-thanks-to-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-ai-investments-dead-thanks-to-covid-19/",
+      "publishedDateTime": "2020-05-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/12/e745a8e4-9e72-4d9b-b3c5-1aed8acff879/art-intel.jpg",
+          "width": 1024,
+          "height": 819,
+          "title": "Are AI investments dead thanks to COVID-19?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-facebook-sucks-elon-musk-hits-back-at-facebook-ai-head-who-claimed-tesla-boss-has-no-idea-about-artificial-intelligence.md",
+      "title": "'Facebook Sucks': Elon Musk Hits Back at Facebook AI Head Who Claimed Tesla Boss Has 'No Idea' about Artificial Intelligence",
+      "excerpt": "Elon Musk had a blunt response for the vice president of artificial intelligence at Facebook after he questioned the SpaceX and Tesla CEO's knowledge on the subject: \"Facebook sucks.\" Musk hit back after Jerome Pesenti,",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973",
+      "ampWebUrl": "https://www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973?amp=1",
+      "publishedDateTime": "2020-05-14T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1575729/elon-musk.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "'Facebook Sucks': Elon Musk Hits Back at Facebook AI Head Who Claimed Tesla Boss Has 'No Idea' about Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-sonys-first-ai-image-sensor-will-make-cameras-everywhere-smarter.md",
+      "title": "Sony’s first AI image sensor will make cameras everywhere smarter",
+      "excerpt": "Sony’s new image sensor could one day appear in cameras like this one. Photo by Amelia Holowaty Krales / The Verge Sony has announced the world’s first image sensor with integrated AI smarts. The new IMX500 sensor incorporates both processing power and memory,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price",
+      "publishedDateTime": "2020-05-14T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/r7QODjaWVv90Czz6GGFPaV-QapE=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66795902/akrales_180816_2793_0073.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Sony’s first AI image sensor will make cameras everywhere smarter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone.md",
+      "title": "Facebook’s head of AI thinks Elon musk has ‘no idea what he’s talking about’ — and he’s not alone",
+      "excerpt": "Elon Musk is a prominent figure in the AI community, but a lot of experts don’t see eye to eye with him. Today, Facebook‘s AI head, Jerome Persati, said that Elon Musk has “has no idea what he is talking about when he talks about AI.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/facebooks-head-of-ai-thinks-elon-musk-has-no-idea-what-hes-talking-about-and-hes-not-alone/amp/",
+      "publishedDateTime": "2020-05-14T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/07/Elon-Musk-hed-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": "Facebook’s head of AI thinks Elon musk has ‘no idea what he’s talking about’ — and he’s not alone",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-data-security-startup-dathena-snags-12m-in-series-a.md",
+      "title": "Data security startup Dathena snags $12M in Series A",
+      "excerpt": "Singapore-based data security startup Dathena rakes in $12 million in its Series A round, which will be tapped to boost its R&D work and expansion plans in the US market, where it has a sales partnership with Microsoft.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/data-security-startup-dathena-snags-12m-in-series-a/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-security-startup-dathena-snags-12m-in-series-a/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-security-startup-dathena-snags-12m-in-series-a/",
+      "publishedDateTime": "2020-05-14T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2013/09/25/1655ed1c-1d16-11e4-8c7f-00505685119a/thumbnail/1200x675/136f10bf51e85181748a0ab9f24ffc3e/singapore-dollar620x465.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Data security startup Dathena snags $12M in Series A",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-generation-and-evaluation-of-artificial-mental-health-records-for-natural-language-processing.md",
+      "title": "Generation and evaluation of artificial mental health records for Natural Language Processing",
+      "excerpt": "A serious obstacle to the development of Natural Language Processing (NLP) methods in the clinical domain is the accessibility of textual data. The mental health domain is particularly challenging, partly because clinical documentation relies heavily on free text that is difficult to de-identify completely.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41746-020-0267-x",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-020-0267-x/MediaObjects/41746_2020_267_Fig1_HTML.png",
+          "width": 685,
+          "height": 571,
+          "title": "Generation and evaluation of artificial mental health records for Natural Language Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-unveils-ampere-gpu-architecture-for-ai-boost-and-the-first-target-is-coronavirus.md",
       "title": "Nvidia unveils Ampere GPU architecture for AI boost, and the first target is coronavirus",
       "excerpt": "Nvidia Corp. launched its newest line of chips Thursday, detailing artificial-intelligence capabilities up to twenty times greater than previous",
@@ -935,350 +1283,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure.md",
-      "title": "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure",
-      "excerpt": "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating digital transformation,",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-2020-05-13?mod=mw_quote_news&tesla=y",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution.md",
-      "title": "Envoi and Data Expedition Partner to Launch Cloud-Based Data Restoration and Migration Solution",
-      "excerpt": "Envoi and Data Expedition, Inc.® (DEI®) have launched Envoi – CloudDat Edition, which integrates DEI’s CloudDat™ solution to provide a self-service solution for processing multi-media content migrated to Amazon Web Services (AWS).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution-1029196193",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-elon-musk-has-a-complex-relationship-with-the-ai-community.md",
-      "title": "Elon Musk has a complex relationship with the A.I. community",
-      "excerpt": "Elon Musk is one of the first investors in DeepMind, he helped set up the $1 billion OpenAI research lab, and he's often making comments about AI. WWIII, more dangerous than nukes, scariest problem: several people in the AI community told CNBC that they struggle to take Musk's AI comments seriously.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
-      "publishedDateTime": "2020-05-13T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105773439-1551717349171rtx6p9uc.jpg?v=1551717410",
-          "width": 3986,
-          "height": 2657,
-          "title": "Elon Musk has a complex relationship with the A.I. community",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook.md",
-      "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
-      "excerpt": "MarketResearch.Biz published a new industry research report “Automatic Speech Recognition Software Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook-2020-05-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-amazon-launches-kendra-to-solve-enterprise-search-with-ai.md",
-      "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
-      "excerpt": "Amazon announced the general availability of Amazon Kendra which is an AI and machine learning-powered, easy to use enterprise search service.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
-      "publishedDateTime": "2020-05-13T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068",
-          "width": 1200,
-          "height": 676,
-          "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-facebooks-ai-for-hate-speech-improves-how-much-is-unclear.md",
-      "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
-      "excerpt": "The company says algorithms flagged almost 90 percent of the hate speech it removed in the first quarter. But it doesn't report how much slipped through.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/",
-      "ampWebUrl": "https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-ai-hate-speech-improves-unclear/amp",
-      "publishedDateTime": "2020-05-12T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebac50348074637267906e8/master/pass/Biz-emptyoffice-157752805.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-netcracker-offers-ai-driven-digital-bssoss-on-microsoft-azure.md",
-      "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
-      "excerpt": "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/",
-      "ampWebUrl": "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/",
-      "publishedDateTime": "2020-05-12T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-hailo-partners-with-foxconn-to-build-edge-device-for-ai-inference.md",
-      "title": "Hailo partners with Foxconn to build edge device for AI inference",
-      "excerpt": "AI chip startup Hailo plans to partner with Foxconn to launch an AI edge computing device -- BOXiedge -- designed for applications like smart cities.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/12/hailo-partners-with-foxconn-to-build-edge-device-for-ai-inference/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/0f1109a5-c70d-4a6e-9220-9ad6189e69db.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 610,
-          "title": "Hailo partners with Foxconn to build edge device for AI inference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

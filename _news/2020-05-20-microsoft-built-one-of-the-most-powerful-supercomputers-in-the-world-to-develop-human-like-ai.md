@@ -1,0 +1,61 @@
+---
+category: news
+title: "Microsoft Built One of the Most Powerful Supercomputers in the World to Develop Human-Like AI"
+excerpt: "The system is one of the top five most powerful computers in the world, and it's exclusively for training AI models. The companies hope this supercomputer will be able to create more human-like intelligences."
+publishedDateTime: 2020-05-20T18:37:00Z
+webUrl: "https://www.extremetech.com/extreme/310806-microsoft-powerful-supercomputer-human-like-ai"
+type: article
+quality: 43
+heat: -1
+published: false
+
+provider:
+  name: ExtremeTech
+  domain: extremetech.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://www.extremetech.com/wp-content/uploads/2020/05/openai-azure-supercomputer-kevin-scott_2_1920x1080-5ec3bbdb4945d.jpg"
+    width: 1344
+    height: 742
+    title: "Microsoft Built One of the Most Powerful Supercomputers in the World to Develop Human-Like AI"
+
+related:
+  - title: "Microsoft Touts Supercomputer for Large-Scale AI Modeling"
+    excerpt: "Microsoft disclosed at Build that it has built one of the world's most powerful supercomputers in collaboration with a company building artificial intelligence (AI) solutions."
+    publishedDateTime: 2020-05-20T17:12:00Z
+    webUrl: "https://redmondmag.com/articles/2020/05/20/microsoft-supercomputer-ai-modeling.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 58
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg"
+        width: 1665
+        height: 1158
+  - title: "Microsoft unveils enormous supercomputer to train large AI models (Lead)"
+    excerpt: "Microsoft has built a new powerful supercomputer in collaboration with Artificial Intelligence (AI) startup OpenAI, making new infrastructure available in Azure to train extremely large AI models."
+    publishedDateTime: 2020-05-20T13:31:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200520/3561714.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 35
+  - title: "Microsoft unveils enormous supercomputer to train large AI models"
+    excerpt: "Microsoft has built a new powerful supercomputer in collaboration with Artificial Intelligence (AI) startup OpenAI, making new infrastructure available in Azure to train extremely large AI models."
+    publishedDateTime: 2020-05-20T07:35:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-unveils-enormous-supercomputer-to-train-large-ai-models-news-topnews-ufuh48fgaicca.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
+
+secured: "K/OemzYrNdDj4aWSEMbvjnE7tWgd0JNijPX7DY3UZL2cpmI4T7OeeotAhFNrX00U6CG58yzRjrtAiG1i+vCQC1BQ9ArgphNT7lu3T8lUU4fmrI/NhdDo42i1fF59xTEe8CxGefvw221DWli2ZTq0NvrKHc3XxMR3HvPnq74LKjjIKDWbQToHAnxXrSbJ++g9IheqFKW4dHUpsWlsE9KKEqTCFuscbVWK2n13NjeJrZG1AZzdW17JdPBou/fgMS+V5zLbb2IpMPedhaNkqBam6M3SoNVxhOosoamyjwsFMH05cmqy9awzt4mV0KAtl7Qj;Noh5vxwVwM8lxy93nMj9nA=="
+---
+
