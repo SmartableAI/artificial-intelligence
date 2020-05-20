@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-20-this-lab-cooks-with-ai-to-make-new-materials.md",
+      "title": "This Lab ‘Cooks’ With AI to Make New Materials",
+      "excerpt": "A Toronto lab recycles carbon dioxide into more useful chemicals, using materials it discovered with artificial intelligence and supercomputers.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/",
+      "ampWebUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
+      "publishedDateTime": "2020-05-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec43c61fb13964ea4a83df5/master/pass/Science_co2_1130455777.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "This Lab ‘Cooks’ With AI to Make New Materials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-now-hiring-ai-futurists-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite.md",
+      "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
+      "excerpt": "In a time of COVID-19 disruption, futurists can accelerate organizational recovery and capacity. When partnered with purpose-built AI, augmented intelligence can also spur radical innovation.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "publishedDateTime": "2020-05-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/18/17e256c4-9dfe-411d-b600-d26fc0ad8edf/24-brian-solis-on-twitter-new-poll-who-s-leading-the-digitaltransformation-of-your-company-twitter.jpg",
+          "width": 596,
+          "height": 344,
+          "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-warehouse-robots-provide-crucial-link-in-supply-chain.md",
       "title": "Warehouse Robots Provide Crucial Link In Supply Chain",
       "excerpt": "Throughout the coronavirus crisis, the e-commerce supply chain – retailers, shippers, third-party logistics operations, fulfillment centers and sortation facilities – delivered. UPS and FedEx drivers came to symbolize a sense of national resiliency.",
@@ -570,35 +660,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-14-a-new-way-to-think-about-artificial-intelligence-with-this-etf.md",
-      "title": "A New Way To Think About Artificial Intelligence With This ETF",
-      "excerpt": "Among the myriad thematic exchange traded funds investors have to consider, artificial intelligence products are numerous and some are catching on with investors. What To",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/trading-ideas/long-ideas/20/05/16028413/a-new-way-to-think-about-artificial-intelligence-with-this-etf",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
       "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
       "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
@@ -634,6 +695,43 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-a-new-way-to-think-about-artificial-intelligence-with-this-etf.md",
+      "title": "A New Way To Think About Artificial Intelligence With This ETF",
+      "excerpt": "Among the myriad thematic exchange traded funds investors have to consider, artificial intelligence products are numerous and some are catching on",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/a-new-way-to-think-about-artificial-intelligence-with-this-etf-2020-05-14?mod=investing",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/aeaef93f-ef94-4237-ac80-91b22a766b8d",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/aeaef93f-ef94-4237-ac80-91b22a766b8d",
+      "publishedDateTime": "2020-05-14T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1133,96 +1231,6 @@
           "width": 400,
           "height": 400,
           "title": "Zoom, Xoom, Züm: Why does every startup sound fast now?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-how-ai-and-ml-are-helping-first-responders.md",
-      "title": "How AI and ML are helping first responders",
-      "excerpt": "Artificial intelligence and machine learning are helping firefighters, police officers, and EMS medics respond to emergencies and save lives.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/how-ai-and-ml-are-helping-first-responders/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/",
-      "publishedDateTime": "2020-05-11T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/05/415913a1-e850-425a-b3f1-69626671b33f/neuroflow.jpg",
-          "width": 800,
-          "height": 468,
-          "title": "How AI and ML are helping first responders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-to-enforce-social-distancing.md",
-      "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
-      "excerpt": "Amazon is developing a robot that would roll through grocery stores and distribution centers, using banks of ultraviolet light to kill viruses on surfaces. The company provided “60 Minutes”",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/",
-      "ampWebUrl": "https://www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/amp/",
-      "publishedDateTime": "2020-05-10T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/uvrobot-630x379.png",
-          "width": 630,
-          "height": 379,
-          "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
           "attribution": null
         }
       ],

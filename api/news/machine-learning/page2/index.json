@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-07-inference-moves-to-the-network.md",
+      "title": "Inference Moves To The Network",
+      "excerpt": "Machine-learning inference started out as a data-center activity, but tremendous effort is being put into inference at the edge. At this point, the “edge” is not a well-defined concept, and future inference capabilities will reside not only at the extremes of the data center and a data-gathering device,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://semiengineering.com/inference-moves-to-the-network/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/2020/05/BM_Fig02.png",
+          "width": 936,
+          "height": 624,
+          "title": "Inference Moves To The Network",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory.md",
       "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
       "excerpt": "AI Explorables is Google's initiative to elucidate the key concepts of machine learning via a series of interactive explanations to make the field more accessible and participatory.",
@@ -94,23 +131,31 @@
     {
       "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
       "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
+      "excerpt": "Recently, the results of the AutoDL (Auto Deep Learning) 2019-2020 finals held by NeurIPS, a top AI academic conference, was announced and Inspur's te",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html",
+      "webUrl": "https://www.businesswire.com/news/home/20200507005360/en/Inspur-Takes-3rd-Place-NeurIPS-AutoDL-2019-2020",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T07:42:00-07:00",
+      "publishedDateTime": "2020-05-07T08:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200507005360/en/790124/23/inspur_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1210,46 +1255,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-patent-office-artificial-intelligence-cant-invent-things.md",
-      "title": "Patent office: Artificial intelligence can’t invent things",
-      "excerpt": "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/",
-      "ampWebUrl": "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/",
-      "cdnAmpWebUrl": "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/",
-      "publishedDateTime": "2020-04-30T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTTV",
-        "domain": "cbs4indy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cbs4indy.com/wp-content/uploads/sites/22/2020/04/GettyImages-476176424.jpg?w=1024&h=683&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Patent office: Artificial intelligence can’t invent things",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

@@ -2,6 +2,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-04-lets-make-a-deal-with-our-robot-overlords.md",
+      "title": "Let’s Make a Deal With Our Robot Overlords",
+      "excerpt": "The pandemic will accelerate automation. This might be an opportunity for workers.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "publishedDateTime": "2020-05-04T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
       "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
       "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
@@ -1162,51 +1200,6 @@
           "width": 620,
           "height": 349,
           "title": "Self-driving car testing goes all virtual, just like everything else",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-ford-delays-self-driving-taxis-to-2022.md",
-      "title": "Ford delays self-driving taxis to 2022",
-      "excerpt": "Ford is putting the future of autonomous driving on hold until 2022 as it grapples with the COVID-19 pandemic.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/ford-delays-self-driving-taxis-to-2022-231030762.html",
-      "ampWebUrl": "https://www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html",
-      "publishedDateTime": "2020-04-28T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffaaa14f0-899e-11ea-afdf-5a87c7809954&client=amp-blogside-v2&signature=0b6f392a8bccfb903035225147ea3a24dd7fe351",
-          "width": 600,
-          "height": 350,
-          "title": "Ford delays self-driving taxis to 2022",
           "attribution": null
         }
       ],

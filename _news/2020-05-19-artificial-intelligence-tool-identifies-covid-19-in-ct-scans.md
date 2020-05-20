@@ -33,6 +33,17 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F1b148db0-99df-11ea-bffc-6f21960ebf57&client=amp-blogside-v2&signature=289127313e83e511d92b33c506a4697f8eb8a732"
         width: 600
         height: 350
+  - title: "Using artificial intelligence to diagnose COVID-19"
+    excerpt: "For patients with COVID-19, terrifying shortness of breath can set in virtually overnight. In many cases, it's caused by an aggressive pneumonia infection in the lungs, which fills them with thick fluid and robs the body of life-giving oxygen."
+    publishedDateTime: 2020-05-20T13:23:00Z
+    webUrl: "https://medicalxpress.com/news/2020-05-artificial-intelligence-covid-.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-05-artificial-intelligence-covid-.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-05-artificial-intelligence-covid-.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 37
 
 secured: "zrg5N4vMxHL9LiKsPUOPoabwOgZkEsFn1inCyy8QrkJV5/JgDN9RKvBbsjB1Zzh9mnIbIBw5xpvJ6Nu/kz6Q0z9dMrpEcKonKnxJJif91gaVC19Kj+TURq9QJmr4HAJ8EVl9xI41+ELGzRwJRWZXaYjGzYRLQdN5tJvl49tSLe3Zu97vcs9kQj+rnFsT4ed81qvppeezaawfQbyjOJm4x4s/Ji79+/7J+Mez9wrspZtFP4gLU20j3okGGYgSPAwbZ37TO7BUuAhADQuW4F+5Xzg7kL3bqMKrnXgzWw2b3ZzG+m6AVb5zyizMLW4pN82VmxFPHBrCwUIoEydHLHu4AHInj1NadsRVMf7h9kPnAYB84r91exuTTElTfKoDSQ0gMWb3pJSBrly/0nVcosiPT/0r9B7WGTL2U0RHyV2QBYMFjzVvd+n014hfwj4BN4wBMZofW3EtKdmwakbGi2a1c7Pd5gOCvc3/Nm0HSaWVOKY=;ap2dM6utedjRTTx9hZ73nA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-15243
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-152430735.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     title: "Mount Sinai’s AI can diagnose COVID-19"
 
 related:
+  - title: "Using artificial intelligence to diagnose COVID-19"
+    excerpt: "For patients with COVID-19, terrifying shortness of breath can set in virtually overnight. In many cases, it's caused by an aggressive pneumonia infection in the lungs, which fills them with thick fluid and robs the body of life-giving oxygen."
+    publishedDateTime: 2020-05-20T13:23:00Z
+    webUrl: "https://medicalxpress.com/news/2020-05-artificial-intelligence-covid-.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-05-artificial-intelligence-covid-.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-05-artificial-intelligence-covid-.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 37
   - title: "Artificial Intelligence Tool Identifies COVID-19 in CT Scans"
     excerpt: "Mount Sinai researchers are the first in the US to use artificial intelligence to analyze CT scans and patients' clinical information to detect COVID-19."
     publishedDateTime: 2020-05-19T14:59:00Z

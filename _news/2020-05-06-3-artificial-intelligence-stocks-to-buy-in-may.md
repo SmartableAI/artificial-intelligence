@@ -1,9 +1,9 @@
 ---
 category: news
 title: "3 Artificial Intelligence Stocks to Buy in May"
-excerpt: "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ..."
-publishedDateTime: 2020-05-06T11:01:00Z
-webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
+excerpt: "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46."
+publishedDateTime: 2020-05-06T14:45:00Z
+webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 type: article
@@ -17,7 +17,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
+  - AWS AI
   - AI
 
 images:
@@ -26,6 +26,6 @@ images:
     height: 378
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
-secured: "GQ1ttvwhJltHcwTm427YLK3wCB06EjP8xjXiNG7eLeW9DTd3lZ3bnrCNCECNycuscYB+yVnDyFAWGcPj/a6q3p82mvnocBhzNiSPOJtpkyv9rjrX5ccFnASAz+7xuQs135zyrleNW0BYrXhe8mEwjxfwua0bbchm9CKYDFD/rY/Y60xJQdUKC/unnrc8SsyT5AxkFWHzFxC7szQpPq8XWg4jfDmSyS6qaO0qzIKvw8Wx5LuBSl1Z/EVbvzN+XvDVlQGsOy/68MXz9TkWD8oPRqDq87s7dz2XL7TeSkFaAvlgdclGRiwLVWzllqKsqXvk;unCNZZR+Wj0BZq8UpbucIg=="
+secured: "92RpWcJrSwvcxuF/bEUCbcTcfbzFLlhFV5ZD63XfDPihnv7ZAzDXjRDuJNh+FgCmQfya6PMHWYk6MT5Xvtki2NY4JAEk8rJQWjmx6XPNNqbL9pjZOyG6uDJVzDS+rxc8MgAQ5u+59rel62keAD1f7zkUrRh7KRpercSQUMQ9vo0BKB4u52WZ5FgKRGKZTXd55lNqXNf8E+NBGfwc/NwG7bGFuJouRX2uA0pAS/pMhkhCYDJHbD0t5ZtPYKy2rbAes6YBXWITJdPpXBkYJpfmRz0x2Zh7TeIdDDelqmiHMbW4NomiheDQprfGL1kHxHBQ;kjHcP1Qp6WaBwzz+y761RQ=="
 ---
 

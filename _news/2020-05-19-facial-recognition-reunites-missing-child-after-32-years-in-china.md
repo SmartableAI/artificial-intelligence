@@ -84,6 +84,21 @@ related:
       - url: "https://thenypost.files.wordpress.com/2020/05/mao-yin-03.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+  - title: "Facial recognition reunites missing child after 32 years"
+    excerpt: "Facial recognition technology leading to a joyful reunion and a happy ending to what was a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his"
+    publishedDateTime: 2020-05-20T13:20:00Z
+    webUrl: "https://www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/"
+    ampWebUrl: "https://www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/amp/"
+    cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/amp/"
+    type: article
+    provider:
+      name: myhighplains.com
+      domain: myhighplains.com
+    quality: 59
+    images:
+      - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/05/DB7E220B2CBD4F819FAA7CDA6577BD9D_5.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "Facial recognition technology reunites kidnapped toddler with family after 32 years"
     excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology. Mao Yin was"
     publishedDateTime: 2020-05-19T07:46:00Z

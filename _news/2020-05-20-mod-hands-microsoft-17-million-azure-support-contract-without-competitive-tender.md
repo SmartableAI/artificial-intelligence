@@ -25,6 +25,6 @@ images:
     height: 310
     title: "MOD Hands Microsoft £17 Million Azure Support Contract – Without Competitive Tender"
 
-secured: "UJZ/o0necAE8A5JjGGlQl88MORaL5mNj+ajVFSdCs6BlCwXApWifW89M6ba72u3XdIdNc+M2H8uTJvZGXfi0aFlNM0EZ9SwTyDGtWSeOGcxCiqweSfW/sDCQObWISTdZnbInw2UaNiGyC7Y0w4Pxg+UHZUDrOtpQtR3y7FIg+QNFK7aItjffeuDBDymHZREgLPit5DPM96ONpJVTFdLT/oNOyMQsxMvUBaCNLu6RPneHPGK6fP9mS9CT6ygNU8i4Vz8aF5ARjAc3si83MaqT+lKVvPa96wHbdhkYXBEnrZMMHFmUxdJSPLcF2wRZyqc9;25VNw4MYam/0uYxMbGqqCQ=="
+secured: "y6azRFz1WXZnFQZthiYft89AcviUL/NCyIUQNXe7Um/gskNGVnA6U/gH/YI7YNNNXdy2NZu1wWoDBHZZa+ht1478GGQ/z0g7BrT7Lu5x1Shrt+AAVnwihnMJ2G32g+ygo9NjynHGmrVA5GNc/7A3q+sH75hf4z06oxyNKhZtmz84TBhCba1PIjsCjSVHZn7in/E7qimRzJJeg/AJkVs/OtwqoYt87VdhaTGejUqgcdBLyeTXNSQ+24/2G9wYpmDj/d+oXSCXx9lvjaCz7kbjKzYbZhNfseqJ8KW2JqesuGr2Ec9MYcsCmUoIQvDQ/zESj4QiNDYEArUR3kYly5vIc82JYRd4N0zamDEVSsOC/hkyUPe75pyrooawdtHhA+v/sdamzwKfQfVmPQIUCnm8Vg3xc3XfugvAkNzvGFtGN87utkCcHE01i3dD9CN+isM/ogi97NK6uuyrklUmuFBbQ8lT65992/ILpclZn5+v1cU=;vScRY+TJ2lHvtKHWhllgGg=="
 ---
 

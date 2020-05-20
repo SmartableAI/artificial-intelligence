@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-20-nvidia-reveals-why-it-chose-rival-amd-over-intel-for-its-deep-learning-system.md",
+      "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
+      "excerpt": "In Nvidia’s first two DGX systems, Intel’s Xeon CPUs were the preferred processor, but the company dropped them in the DGX A100 for two of AMD's 64-core, Zen 2-based Epyc 7742 CPUs. The system, which uses the new,",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
+      "publishedDateTime": "2020-05-20T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-3.jpg",
+          "width": 1037,
+          "height": 598,
+          "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models.md",
       "title": "Microsoft launches new tools for building fairer machine learning models",
       "excerpt": "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s",
@@ -1246,43 +1291,6 @@
           "width": 1920,
           "height": 1180,
           "title": "Gaining Experience Using Deep Learning for Social Good in Global Competition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-inference-moves-to-the-network.md",
-      "title": "Inference Moves To The Network",
-      "excerpt": "Machine-learning inference started out as a data-center activity, but tremendous effort is being put into inference at the edge. At this point, the “edge” is not a well-defined concept, and future inference capabilities will reside not only at the extremes of the data center and a data-gathering device,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://semiengineering.com/inference-moves-to-the-network/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/2020/05/BM_Fig02.png",
-          "width": 936,
-          "height": 624,
-          "title": "Inference Moves To The Network",
           "attribution": null
         }
       ],

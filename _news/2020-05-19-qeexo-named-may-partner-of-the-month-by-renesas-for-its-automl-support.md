@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Qeexo Named May \"Partner of the Month\" by Renesas for its AutoML Support"
-excerpt: "Qeexo, a company that has developed an automated machine learning platform that accelerates the deployment of smart"
-publishedDateTime: 2020-05-19T16:45:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/05/n16067170/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16067170"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16067170"
+excerpt: "Qeexo, a company that has developed an automated machine learning platform that accelerates the deployment of smart IoT devices by enabling machine learning and data science at the edge/endpoint device,"
+publishedDateTime: 2020-05-19T16:50:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606"
 type: article
-quality: 38
-heat: 38
+quality: 68
+heat: 68
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "RIqEy67BwMAHmCTpZvhrVqzRiuOxfvEwt59wiw3KoBMQ8VrC9CydbH/jlxeeKrIyLLYVf8MK2SHKUs+ln/ESDSJ8flEgnKz+w6BDfJ3xNzESk2TAZh3KadzYMRdAUrtXKAZ8UQNap12v9dq4+WCzY55VLu/Yj7HfTT19JEp/zb30gafkdtRha1HjbWtiCyqS0r6e+vnopALMgthTlRSMInYA4xkLpqu4jP36XV5xDh78p+oI9i9wzquF2DWc2badm/3JjLUQLwtMb2+sJdEVTyh4QwAJ3jA6xRrxCDep40HqvUzwv7qze2mkvESEiS05;gxDG3LRgrPscKPVYyjMnlg=="
+secured: "M4gtc7Q6sYSa0aSeqhT94qWV0MzynKR8VYTiw3dFV5ZTPHI+JsdZBZh6U2Elmy9q+hg2vutzQaKAhZxUMYAd8/Wk+i/qYh6t5Do/t4XzSaS7cIQpXJoB6QE6l7WcsP3NXY/1Wm6E7Mp67I6BTVUGaZWV3j0nXhiYaCg1ok4/VeQ4E+f9MYvqITTs3GFu0bBR5K/g3lp5JZfDTpAJhq8QDEfDOkBIdwHnkkdK2VVQGtbQ3nqzb7RdrJDmLbAoWMEIlIGUJfx9kx1ZdGRYlWsA14f58/JlcT4c0uWQxGOfNWvN3yxoHdM4ll1bIHLNTQDy;eBw8gA9j4CeqRDuVxCQYFg=="
 ---
 

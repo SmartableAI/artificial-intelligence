@@ -25,6 +25,6 @@ images:
     height: 1080
     title: "Voyage To Integrate Self-Driving Tech In Chrysler Pacifica Hybrid"
 
-secured: "BM9Kp7KxqOB5RrC1PBBxlSsyrCASBBGBEcZUQfp1jA7Qv+mlYHaVGZIxotM/kU1dDti/+zmA+rUnx2vmkzNhHEyZMmZ1o+Vs4v61W0BsPf6WdpXeKApAnvVDdy/lcDx423GVuvh2n2Jj5otEaJDn2hSVKFS8bWVrUNYsbX2aGnO7F4XUe/AxZMJm5uPl/Pe8BgR9D8kcFTPKzWR39PjM8l8gbwtwNhaZbH3coaHe/dexxvBID9w3VyQefdUdo+uoCmTKx/PONOunAGlSa9n11fz1fa4rQAgkz3q8lrBgCMYdycdfhqoFc+LzC23MUBun;FXzFdkvQIO/G9ZLEyo3vfw=="
+secured: "RFrZnKZu/3gcTduMdWoNquR5Ai8Q7Q/XD/iRzUQdlICjWvIZMA/SgNQDBA/6xLf0S3HUexPjNJNIXoo9RtVfevxLev2okumGczCl+Hm6wmSmLbu0lI4VY+oQpwbDoFjXBl8QlAP3LC31qPQz7dVMSxWwcownkmOz5miFBSVCWfxGJIUjMTMdz7JYOBfO1msSEx9D+55WsLiLZiLTor5cCOT3Md6YlCRRlkbCjh29iHuIhC/ig3i6d+hCKQ8PQ/ZO+RgbYZFqYu6nPYwJw2d4/oc32XVRO/OinST9QyuOvtEQEq9ztDlVKJ0B4aZ71Qsb5aVuP/cSaLaJm75N/wIJpvNzPQBf5ZPNGgGAziunPKAS4qxnCpBDRmYDsW2B0PrnDTLzak+xFkSWf4+RJ8MaPo2N3HGAk8S7+idrSTTqnQLI1EbGrE2lRtxWz5SukjkRikTV+IhvopSTfun4hd1AgzKx0q1ZcUUx7zRbZo4HzBE=;z7SwMKYcAcjE51h0NFSvVQ=="
 ---
 

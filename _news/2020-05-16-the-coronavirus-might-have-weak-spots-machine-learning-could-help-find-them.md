@@ -35,19 +35,6 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 35
-  - title: "The coronavirus might have hidden weak spots. Machine learning could help find them."
-    excerpt: "Researchers around the world are rushing to investigate the proteins within SARS-CoV-2 that enable its infectious abilities. Mary Jo Ondrechen and Penny Beuning, professors of chemistry and chemical biology,"
-    publishedDateTime: 2020-05-15T19:11:00Z
-    webUrl: "https://news.northeastern.edu/2020/05/15/the-coronavirus-might-have-hidden-weak-spots-machine-learning-could-help-find-them/"
-    type: article
-    provider:
-      name: Northeastern University
-      domain: northeastern.edu
-    quality: 32
-    images:
-      - url: "https://news.northeastern.edu/wp-content/uploads/2020/04/enzyme_1400.jpg"
-        width: 1343
-        height: 895
 
 secured: "fo+ZH8VXji5Rht0uQuiAhf4I6zVIuKVgnLHD1Lg6LdA1cPi2nPsb19hW/LQqJ/HgD6qfuy1KXzoGUD059K4P/AYZhhi5j0yWnI4EEZYAcrmW1iuA+4Q2rTU4CTuFsTOpNNgflCidNJrLjn+9Kh9p5LKQ82tUF8+lf7O9sw9UZCKKBBoj31vEjphXMnqiUcHwRekD0jbDkNTRhX61cXc4tGKdjTIFvIwO5dZ9xQLV1dlQRUTviPOVl4MpDeY+vtHG929MD7qbsmnw6Bi4cPAGRfkwzwg1FqiU+HqYcL6LJmCdB+alj5tH61xZO5sMee6dPrW1/w11C4ksGFAn7FQrfUwwdmEQFWo8JYjE7BGevBS0QOrBGdhhuYSIoSBJI8EkdzMnDeOzmoq93sgVZOgcjVh51LpYja265mhiB2BYHQ2O4lrjgAOvK1F9AYD2svy99EGX2MbP/rtZku/WfuPMl3aKeR0CNLMizAalASAv9z0=;M61DpBLlg+v9/wmyxUysXA=="
 ---

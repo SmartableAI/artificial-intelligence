@@ -46,6 +46,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024"
         width: 1024
         height: 652
+  - title: "Microsoft built a new AI supercomputer in Azure"
+    excerpt: "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!"
+    publishedDateTime: 2020-05-20T12:59:00Z
+    webUrl: "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/"
+    ampWebUrl: "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 89
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg"
+        width: 1200
+        height: 800
   - title: "Microsoft builds a supercomputer for OpenAI for training massive AI models"
     excerpt: "Microsoft is building a supercomputer for and with OpenAI and is using it to train massive distributed AI models, which it is counting on to improve the AI capabilities in its own software and services."
     publishedDateTime: 2020-05-19T15:00:00Z

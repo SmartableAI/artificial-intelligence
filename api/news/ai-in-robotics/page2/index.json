@@ -2,6 +2,96 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-11-how-ai-and-ml-are-helping-first-responders.md",
+      "title": "How AI and ML are helping first responders",
+      "excerpt": "Artificial intelligence and machine learning are helping firefighters, police officers, and EMS medics respond to emergencies and save lives.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/how-ai-and-ml-are-helping-first-responders/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/",
+      "publishedDateTime": "2020-05-11T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/05/415913a1-e850-425a-b3f1-69626671b33f/neuroflow.jpg",
+          "width": 800,
+          "height": 468,
+          "title": "How AI and ML are helping first responders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-to-enforce-social-distancing.md",
+      "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
+      "excerpt": "Amazon is developing a robot that would roll through grocery stores and distribution centers, using banks of ultraviolet light to kill viruses on surfaces. The company provided “60 Minutes”",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/",
+      "ampWebUrl": "https://www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/amp/",
+      "publishedDateTime": "2020-05-10T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/uvrobot-630x379.png",
+          "width": 630,
+          "height": 379,
+          "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023.md",
       "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
       "excerpt": "May 09, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning,",
@@ -1180,88 +1270,6 @@
           "width": 4000,
           "height": 2667,
           "title": "Scientists make artificial skin for robots, taking us one step closer to a world of androids",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-coronavirus-helps-robot-delivery-startup-refraction-ai-gain-traction.md",
-      "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
-      "excerpt": "Refraction AI, a robot delivery startup in Ann Arbor, Mich., was having trouble gaining traction before the pandemic — and now, it's racing to capitalize on our stay-at-home mentality. Why it matters: In the midst of the pain and suffering from a crisis,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
-      "ampWebUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
-      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
-      "publishedDateTime": "2020-05-01T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.axios.com/6e7fxp84f9oN52Lh4Z7nrPlsfyI=/2020/05/01/1588353067194.png",
-          "width": 1920,
-          "height": 1080,
-          "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-mind-controlled-prosthetic-arms-feel-like-the-real-thing.md",
-      "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
-      "excerpt": "An international team of scientists is reporting success with one of the most advanced bionic arms ever made. The system is integrated into the patient’s nerves, allowing them to control the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/medical/mind-controlled-prosthetic-arm/",
-      "ampWebUrl": "https://newatlas.com/medical/mind-controlled-prosthetic-arm/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/mind-controlled-prosthetic-arm/?amp=true",
-      "publishedDateTime": "2020-05-01T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0c827a2/2147483647/strip/true/crop/510x340+94+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff4%2Fae%2Ffdcae926498284ed63b4a5b89366%2Fprosthetic-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
           "attribution": null
         }
       ],
