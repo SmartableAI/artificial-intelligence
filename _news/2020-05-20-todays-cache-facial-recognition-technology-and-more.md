@@ -8,8 +8,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-facial-rec
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hindu
@@ -26,6 +26,19 @@ images:
     title: "Today’s cache | Facial recognition technology, and more"
 
 related:
+  - title: "Researchers use Instagram mask selfies to improve biometric facial recognition algorithms"
+    excerpt: "Some facial biometrics developers fear the COVID-19 pandemic will affect their business, as the number of people wearing masks has increased. Because they cover essential facial features, masks"
+    publishedDateTime: 2020-05-20T16:05:00Z
+    webUrl: "https://www.biometricupdate.com/202005/researchers-use-instagram-mask-selfies-to-improve-biometric-facial-recognition-algorithms"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/20115527/mask-selfies-to-train-biometric-recognition-algorithms.png"
+        width: 1240
+        height: 698
   - title: "Facial-Recognition Technology Needs More Regulation"
     excerpt: "Algorithms that can recognize people are too often biased or inaccurate—and they can easily invade our privacy"
     publishedDateTime: 2020-05-18T15:59:00Z

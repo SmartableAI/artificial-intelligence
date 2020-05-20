@@ -5,8 +5,8 @@ excerpt: "Many investors are speculating that enterprise startups will be the bi
 publishedDateTime: 2020-05-20T12:34:00Z
 webUrl: "https://www.businessinsider.com/meet-23-enterprise-vc-rising-star-investors-silicon-valley-2020-5"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/5ec450f0988ee305556f652d?width=1200&format=jpeg"

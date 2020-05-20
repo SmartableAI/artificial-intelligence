@@ -23,6 +23,6 @@ images:
     height: 559
     title: "AI and Machine Learning for Game Design: The Positive Influencers"
 
-secured: "qZZXJv0hUqwADbhyow6epLa0VVJnSUjMUHiVAHJJdVr787QE7TxXdLJnR/uQcNBms8rWfFusGDmCjBRcZcb9qWByLUvuXoSQzCBWoIYypM0IXQPxbmfIDAgjMJSIdcuaWpTtmcuBycxNuTpB89B2Tvj8X/SbaXglBxw4CKHajv4REzc2hqd0+oEnSaRCcBxczkJaweEwNeZ/qOzIDqc/ZsEhGHL6FqX9zNVf7EVi+dChIsET9fvKDdNq1qzYTaVd3N3/fYtRwdNjFWCRgzlbsh8KIHJQ4UlRsbdsVcrdJGT/UNq5CGVrTmKjdfHA3toH;lKsSrT85seXnfBYVUboo8g=="
+secured: "4cKFXbozVK1naf+UHhWgi7dTu4Nm1kLaQcciWr53+6rt/nneH7Ax5qeIEMEd2WFdsuCw2HpXY0ZUnhywbZcR0bplNkGvloBd9j53do9y8ljC+ZTzTDlNr2oDJs2eIpJ/FkJ292e2TdT2tD1W0/vRev+M1Ldb2FDWMQS6rA/TIk3mndpb5+nE6+//9nPKV/bz22xrb040bLR+AeslJTIgJddKJIi6rzXbMbeIBhvhiIa8oj6qAMAU42T++UBmbIp0ehLbQ+RVbbEMjD195UTfaSMuIJ6vLmSX6qNWgnJjl95vOMsZgfsC/gH/5QTJ7Ns3WSD8fypMJ2LI+q+0idV1AnX4Aj9EyzPrZDCNi6jGXhK1LVow/pbUYDWq6IfBuvo+xMABq8hKvHz4qFUMenfbrWD1RnzMN7ADfd1nHp35I9ZaupC0eJb1GxgbX4q2DL2k+UUxFzingqxprYLhK8wnW/+26d6+gw+d/UQem1+rnzU=;3pJcSJPwUFH4jkUtYHe0rQ=="
 ---
 

@@ -39,6 +39,19 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
         width: 615
         height: 384
+  - title: "Researchers use Instagram mask selfies to improve biometric facial recognition algorithms"
+    excerpt: "Some facial biometrics developers fear the COVID-19 pandemic will affect their business, as the number of people wearing masks has increased. Because they cover essential facial features, masks"
+    publishedDateTime: 2020-05-20T16:05:00Z
+    webUrl: "https://www.biometricupdate.com/202005/researchers-use-instagram-mask-selfies-to-improve-biometric-facial-recognition-algorithms"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/20115527/mask-selfies-to-train-biometric-recognition-algorithms.png"
+        width: 1240
+        height: 698
 
 secured: "Audh5bELS94n/UjNZY2GchHQR4K3LdEkD1N66lAv0pW+DQK2Yr2gZV6tFYr2bhtIyJCvn7sqnq2Wp2sybZTnZc10gTZGL5n1slFXNf5QGnMil5o3htc1r/fqhZvSoqUL4Qn624gOwfSug9F49rmFxXmpG/a8I6AH6HtEs5ebC8Xd85FEy0eGaz8Y9NnJJH0fYHoqlTv8K2FD472XqEgXPVf7VXMWwQqkfOxXgczJsE7A0ixXafNAIGOtcHyiTIBTyYIC1GtnT/oTVOefQB70V+OrgRX8GbroH4Da6O3zg1pOthmT03E6e6SeQSirk5kCI5FQN9GgHvoDcX5Vx2pBbvlv3xiqQRWWGsiljYd6TS7Pdk6u7h19cWW9pTRCtU3Glm+MMs+e7dcwoo+TIFditoCWz7GRcqHhWms/0/yHJ6/HTQUgZhGLOpFRh1kmGZSV+v11fikckhJW08TIIHRzuOJ1XZH2TJr6RwYTAmypUiQ=;uh3X2ou2ts6C5LX6Ro285g=="
 ---

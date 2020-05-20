@@ -3,7 +3,7 @@ category: news
 title: "Researchers hope artificial intelligence could help diagnose COVID-19"
 excerpt: "Researchers out of Lawson Health Research Institute in London, Ont. are investigating whether artificial intelligence could be used to help diagnose COVID-19."
 publishedDateTime: 2020-05-20T12:35:00Z
-webUrl: "https://london.ctvnews.ca/researchers-hope-artificial-intelligence-could-help-diagnose-covid-19-1.4946305"
+webUrl: "https://london.ctvnews.ca/researchers-hope-artificial-intelligence-could-help-diagnose-covid-19-1.4946305?cache=%3FclipId%3D104069"
 ampWebUrl: "https://beta.ctvnews.ca/local/london/2020/5/20/1_4946305.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/london/2020/5/20/1_4946305.html"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 574
     title: "Researchers hope artificial intelligence could help diagnose COVID-19"
 
-secured: "a5ZkqvsxZJmyceq0S5VOCHscgXLwtbgSX2ctEkTEPFCol5NkuS8EnMYWsOIPDY/6v1K0g2xBjkG121UrAEIsU4bvVv3W/BhpmRMJT7ih6U4mgnslC9eJ+nohIlqWNRyeY76QE9lgIa/7zSGwnICS18AKVGxbUrPKLuq7Ynzypf4HnzZnyy1Us8yuxvipTK862tUWMMgIj+bdLkVbxnEZkIy1w3n0LIh2CRBjKA9PZGHVzFzFGfo8mSINiW8L5xLdDKzXNwFc4AZaNW54MDhEAPs3z/cmdb9UvgmRR6RwzHt2pQRDSO2AIx+LP0iNQ3Uy;IDjORn8h015rUFqzGRbQ6w=="
+secured: "hejWi3BDq4/p5nB/7JofSs/B6B+BwOj9L5HS/mk/3Gj9qTuqOc+/N+j9s+G8TsR+a2REY6iu8J8JAtae+BPVEyOzjIwgFq1z4UURh3UAVr2jW56KI1SaYFfMRwVJUcprxkpEwNPsd1BkD6CMaRDFouPJtg7UZiY/sQdfDNA06qGo0A1fVbCrL1cY+Wd7dXPFDiTcbCw6xfIEOkN8q/rZpavREnb0SD9568po2LUDviYosgRhePzLcHyFGvI82OyWiXKkvrOyoqRI2lNNiX/4ycMmEWlLzp5b20RrLcTcYRMmAKO69vNDYjr4WqbsBh8J;XRLy0dax+i4FnLk6WyOx5w=="
 ---
 
