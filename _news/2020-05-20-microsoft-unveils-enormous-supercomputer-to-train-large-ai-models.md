@@ -26,7 +26,7 @@ related:
     provider:
       name: Redmond Magazine
       domain: redmondmag.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg"
         width: 1665

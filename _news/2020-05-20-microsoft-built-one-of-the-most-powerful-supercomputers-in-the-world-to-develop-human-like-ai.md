@@ -32,7 +32,7 @@ related:
     provider:
       name: Redmond Magazine
       domain: redmondmag.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg"
         width: 1665
@@ -56,6 +56,6 @@ related:
       domain: sify.com
     quality: 19
 
-secured: "K/OemzYrNdDj4aWSEMbvjnE7tWgd0JNijPX7DY3UZL2cpmI4T7OeeotAhFNrX00U6CG58yzRjrtAiG1i+vCQC1BQ9ArgphNT7lu3T8lUU4fmrI/NhdDo42i1fF59xTEe8CxGefvw221DWli2ZTq0NvrKHc3XxMR3HvPnq74LKjjIKDWbQToHAnxXrSbJ++g9IheqFKW4dHUpsWlsE9KKEqTCFuscbVWK2n13NjeJrZG1AZzdW17JdPBou/fgMS+V5zLbb2IpMPedhaNkqBam6M3SoNVxhOosoamyjwsFMH05cmqy9awzt4mV0KAtl7Qj;Noh5vxwVwM8lxy93nMj9nA=="
+secured: "H8QcNUnljLXKjjxRWsM6yF/Ry/XkMYslb1a5GAg4+2zqwMyk+yVWWeM93V7wfqzRGwhz1Sc9/5iczC71uwbFsnMl+3LMM+kvhANaWg/PuLOECR4IKt3p4od4vFLdIf5OO83RiXsxIzeANVrd0bgoVnuTW7iFV0JIHWXOBNjcZmsrmbPUYOa80MXdtWN6wFFPeXVLQ7Ou7vPJmo83vjpNj0SyYbHURCsTa5G3NNNeqzTrvjj+7hKPKKncFrkft9//nwLj5+Ouyy2VQTNmyoE8KqI4tMIy+KcZLRf+e0wKSAjL8uiRTBigXXjFMAq+zk/3DmoL6N5UbAcjU7nepe0LO3l04UuEphQAf06CMiZ5V+fwJvtoXp3O9Q5l5/OiFojOPhb3QUL8ZbX5FL2kNzGza/42Fnh8bt5ux/9n34zmlq9eqlMAx5wGx4CbbfO56T18w5TyaR2vZ9psDdy8UPyxFYbJZ9VPuKKO3ay3+5PV8vg=;YBlibyJ+NtYteT94pb9Klg=="
 ---
 

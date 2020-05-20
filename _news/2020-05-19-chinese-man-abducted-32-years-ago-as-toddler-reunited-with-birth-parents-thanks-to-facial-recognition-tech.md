@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/world/china-kidnapped-toddler-32-years-reuni
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-kidnapped-toddler-32-years-reunites-birth-parents-facial-recognition.amp"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/05/reunited_-_pear_video_thumb.jpg&quality=70&width=808"
         width: 808
         height: 424
+  - title: "Facial Recognition Software Helps Man Kidnapped as Toddler Reunite With Mom After 32 Years Apart"
+    excerpt: "It’s all thanks to facial recognition technology that a man was reunited with his biological parents, 32 years after he was kidnapped as a toddler. “I won’t let him leave me anymore,” mother Li Jingzhi said through tears as she and her son Mao Yin looked through photo albums at their Monday reunion."
+    publishedDateTime: 2020-05-20T21:39:00Z
+    webUrl: "https://www.insideedition.com/facial-recognition-software-helps-man-kidnapped-as-toddler-reunite-with-mom-after-32-years-apart"
+    ampWebUrl: "https://www.insideedition.com/mom-reunited-with-kidnapped-son-32-years-after-he-was-abducted-as-a-toddler-59687?amp"
+    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/mom-reunited-with-kidnapped-son-32-years-after-he-was-abducted-as-a-toddler-59687?amp"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 46
+    images:
+      - url: "https://www.insideedition.com/sites/default/files/images/2020-05/052020-mao-yin-1280x720.jpg"
+        width: 1280
+        height: 720
 
 secured: "GlJtsCti68T47WG00/GMZBHsOeyQTQECRTqBIK4oAAPj8ITPdpJ5qdFK3ifNUFzQMu7qMfiXPDx0pIPfmzB8vK0f9zGTvzbRm/IAvSvYAH8mcJqXgB9i5Rv4FtNTRWg4Uqar5nRRgsG+gwcMIqepDicqlVoVVjjpY7bJfZiO6yVi+tMhYJZqDJ1cw0gxVVT4KCn+iYnubIeRrLFqmalsnYQt/Sg2Ob9wcipteGOoqgO19IytiVw7uAV9d/VMirMIQyr7kr1aDohaLYcZ4eXRTGyb0bKNWsuixmaXfOa4PKypj8+naimDGvvLnHHhSAleDRaNS+MRPtHMxLkmeWxLe48sHhp2y2pYXrZLuIEdeMOtWpNtBaY5CGl8ncQ5vZzul6/rvjuGtf8MoKyQON7ulAGPAgm6yEsp+kqTAZ78t4ijgOSQXZTZF+WbTOHVuU2/Qxt7jma629WomSNxzZQlTMmbmaBy6L/hjgejja4R/w8=;eiisTviPEVHnCU4QQn7jkA=="
 ---

@@ -41,6 +41,21 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Mao-Yin-2-Getty-Images.jpg?ve=1&tl=1"
         width: 640
         height: 320
+  - title: "Facial Recognition Software Helps Man Kidnapped as Toddler Reunite With Mom After 32 Years Apart"
+    excerpt: "It’s all thanks to facial recognition technology that a man was reunited with his biological parents, 32 years after he was kidnapped as a toddler. “I won’t let him leave me anymore,” mother Li Jingzhi said through tears as she and her son Mao Yin looked through photo albums at their Monday reunion."
+    publishedDateTime: 2020-05-20T21:39:00Z
+    webUrl: "https://www.insideedition.com/facial-recognition-software-helps-man-kidnapped-as-toddler-reunite-with-mom-after-32-years-apart"
+    ampWebUrl: "https://www.insideedition.com/mom-reunited-with-kidnapped-son-32-years-after-he-was-abducted-as-a-toddler-59687?amp"
+    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/mom-reunited-with-kidnapped-son-32-years-after-he-was-abducted-as-a-toddler-59687?amp"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 46
+    images:
+      - url: "https://www.insideedition.com/sites/default/files/images/2020-05/052020-mao-yin-1280x720.jpg"
+        width: 1280
+        height: 720
 
 secured: "JLD0pLtyRcvGekgQcaScpH+A7jm+A7VejFKJvVLC9mG/dfRY6kqPNkgwSD7pwS/YtoCHqOLYFp590joDZs8uluomhKPUyiQ1BQwmdTKYXYymMBppD1ZJQbs9AP2KuRKQWNxL1QmD9xGpUjU9WjxAc5EUmDN3fzKmZkeNlbUixJS9qcozYJGAKAQBu2ar5XLN5+KNHrwWS52cPLEvhNE2nPm/u8ZiqhRPMBYtjuBwfaUdYwh+7TKn80ims+8na5cO8bEQN/vgIp9NZx6im8y6UzM2+o36jJdFCQ5BzusFZ1760GAZcdaWzJtdtYN8hfHO;xOeUBaYizMJBxIroM7huSg=="
 ---

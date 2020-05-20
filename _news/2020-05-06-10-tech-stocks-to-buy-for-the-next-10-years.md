@@ -1,9 +1,9 @@
 ---
 category: news
 title: "10 Tech Stocks to Buy for the Next 10 Years"
-excerpt: "The past decade has seen some breakout stocks, especially in the tech industry. The smartphone era kicked off earlier, but it was over the past 10 years that many tech stocks became the ticket to growth that resulted in several consumer electronics behemoths."
+excerpt: "Any one of these could become the driver of tech stock growth over the next 10 years, the way smartphones dominated the past decade. This list of tech stocks to buy for the next 10 years includes many familiar names: While many companies have been a big part of the past decade in tech,"
 publishedDateTime: 2020-05-06T18:27:00Z
-webUrl: "https://www.nasdaq.com/articles/10-tech-stocks-to-buy-for-the-next-10-years-2020-05-06?time=1588915562"
+webUrl: "https://www.nasdaq.com/articles/10-tech-stocks-to-buy-for-the-next-10-years-2020-05-06"
 type: article
 
 provider:
@@ -14,6 +14,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "hm5hZSIalqo/Q3NXFn/Bvi8Kye9ZevIauDLgZThJUkgCCGdKP7/nyzVkQHUhvPhcnPo5JjFIzJTcQwwl3BjFQrV8vS0227goLktWtO4NzjQBnY5GOGGRLeuJh+6JjiolejBeU9BoYfyLqvz/KP+pGcl48qgyaRU2t15K68X7RoGWSpNBs02NJIN5zSwSE3vpiV1Qcdm2iTQnm9D5spb9mNNEpnlo7aF3U4x7W1Vwjv3cNqHIBa5f4jFWR6AkwFJ/TGKExRR4Cbo2Yf3QHicVHjVJbxFkBBktq7C9hI2uwSPlIeDcwIFeIBA1EhmDdv2fdS5KK7ox6TLhjixo/5WzUKV5X/BFK3pglcDJwUdQ9h/JJ0wlSu39JzXUBRWg5xGdPBVYCnewpDgtXcHQkNwxcEnAX9T6Yc3/JTQlYOzkXNIu+7k6VCJ7dA/HpXknlacQXLQCaQtolAt9MPptnzr6JJ8YLORNS8GfuTp9ijggnfU=;M8lXOgDYrCBecwfDIXnn3A=="
+secured: "nDja+m5HdVkQJOKVp3qO3GrZyIVKUsBe7ysGmPBn1uF7x3cpwHC0USCrJUOp+7eqnucdk7iVzVs+XUrVeAmAYqVMB5ntLshtgB7MvGV5XsZKY5sx+uonEIucKWpsMUzz2FiPkY8mphypn+K19i3wPbFcwUyIPssuev0/rjDs3SLRFJqep3s68Ld3DveWao6HOGFQ6ZQPf8FQUOjdSNGxBPL+m6nAKIC41X0Fkv09RA7l/1Rh/sPyazcc+2kozPvRDirH9mODEFaYls55LSAFSPwq8dhWaq5V099TMS4Grz7q88FvWRb8mco/AFGBEygV0uEySTIlCfC+l4u2PLIFjHXoKB4Z3A33ZB3mfOqfDoiaak3pu0mhd4dCyVXv3jKwB//O5YGPLM92AKOzKI6wjrc+3l8BESZyC5BcoEAnd/Bq3fpWsg2sSVg1ZFXWDOstas/PXA0zvjjwpf8Bnaen53YuDEOgMQ15osXgHaezRi0=;9HPFnU58yq1QJOmqtpc/Uw=="
 ---
 

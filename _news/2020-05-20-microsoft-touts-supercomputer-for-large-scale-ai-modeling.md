@@ -5,8 +5,8 @@ excerpt: "Microsoft disclosed at Build that it has built one of the world's most
 publishedDateTime: 2020-05-20T17:12:00Z
 webUrl: "https://redmondmag.com/articles/2020/05/20/microsoft-supercomputer-ai-modeling.aspx"
 type: article
-quality: 58
-heat: 88
+quality: 60
+heat: 90
 published: true
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI
   - Microsoft AI
   - AI Ethics
+  - Natural Language Processing
 
 images:
   - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg"

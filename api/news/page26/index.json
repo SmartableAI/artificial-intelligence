@@ -2,50 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2020-04-30-how-this-startup-built-and-exited-to-twitter-in-1219-days.md",
-      "title": "How this startup built and exited to Twitter in 1,219 days",
-      "excerpt": "Marie Outtier had spent eight years as a consultant advising media agencies and martech companies on marketing growth strategy. Pierre-Jean “PJ” Camillieri started as a music software engineer before joining one of Apple’s consumer electronics divisions.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/30/how-this-startup-built-and-exited-to-twitter-in-1219-days/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/30/how-this-startup-built-and-exited-to-twitter-in-1219-days/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/how-this-startup-built-and-exited-to-twitter-in-1219-days/amp/",
-      "publishedDateTime": "2020-04-30T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Aiden-team-at-Twitter-offices.jpg?w=706",
-          "width": 706,
-          "height": 529,
-          "title": "How this startup built and exited to Twitter in 1,219 days",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-30-smart-home-startup-joshai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa.md",
       "title": "Smart home startup Josh.ai raises $11 million to offer a home assistant alternative to Alexa",
       "excerpt": "Directly taking on Google and Amazon generally seems to be an ill-advised strategy for a young startup. It’s even more complicated when you’re competing on the home assistants front, a technically-complex,",
@@ -1023,6 +979,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-why-white-box-models-in-enterprise-data-science-work-more-efficiently.md",
+      "title": "Why White-Box Models in Enterprise Data Science Work More Efficiently",
+      "excerpt": "WEEK DATA POINTS: Once the industry standard, black-box-type machine-learning projects tended to offer high degrees of accuracy, but they also generated minimal actionable insights and resulted in a lack of accountability in the data-driven decision-making process.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/why-white-box-models-in-enterprise-data-science-work-more-efficiently",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/04/White.box.black.box.JPG?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": "Why White-Box Models in Enterprise Data Science Work More Efficiently",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

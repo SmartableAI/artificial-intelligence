@@ -2,10 +2,10 @@
 category: news
 title: "Microsoft's Powerful Supercomputer Will Supercharge AI for Azure Developers"
 excerpt: "At its online-only Build 2020, Microsoft unveils the fifth-most-powerful supercomputer on Earth, which is designed to run massive machine-learning AI projects, plus some new tools to ensure responsible use of AI."
-publishedDateTime: 2020-05-20T17:54:00Z
-webUrl: "https://www.pcmag.com/news/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers"
-ampWebUrl: "https://www.pcmag.com/news/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=true"
-cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=true"
+publishedDateTime: 2020-05-20T17:45:00Z
+webUrl: "https://uk.pcmag.com/news-analysis/127055/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers"
+ampWebUrl: "https://uk.pcmag.com/news-analysis/127055/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=1"
+cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127055/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=1"
 type: article
 quality: 117
 heat: 117
@@ -24,11 +24,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/04HQr2P4eRWa7B1cgx0BS0Y-2.fit_lim.size_1200x630.v_1589989995.jpg"
-    width: 1120
-    height: 630
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/microsofts/microsofts-powerful-supercomputer-will-supercharge-ai-for-az_gjfb.620.jpg"
+    width: 620
+    height: 349
     title: "Microsoft's Powerful Supercomputer Will Supercharge AI for Azure Developers"
 
-secured: "sop1gxkhsOo5jc50+o7FtzNAwTaUt02S5JBxr2go+LqmjIEBGD9O3B6ayCl1EBRMcOmTYY28dG5qs//d/JSvuemaNCmck8b2ppscjIbhXmq5p5bXejUEpLTkcSChINCU7Cw4ZeW0X5WtgCk3+Xr1nOI1T2IxduUuQkRuy/YqlTQk9mPgaZGox7CJWG6pqzpdk0p9Cwk/l5hOVcPi+mCN5fbNRObMZMwhhv13fXSWFPeimzdbyzeOyaEGtXbGLaLE27s/UV2Rh4T0fUvnP/5crRBceL3qcMznxoSryFG2LEH5tYiJYgTzDO8/QK3etlpK1NOrahk0ECT6oAM8TWBYFmo9BPRWhQXS+cQ5KPLvDLuy/654Szcaoy9Zx7nlIBVXDK/XHSKBn1FHaee9Sd0J5iQIh/dK6uoJze9fhvd/oGAd8BPa5q/HJWoqhy7AtoinSLTqb4+bYuVXDH+Cy+jz5od+IRXlJ4rNY7GCy2huDXE=;FtbUGbxFZSqqWcCaD02TCg=="
+secured: "Xvf2SnPEJ79Z2XTRxTqTYg43Dk9hXrRDgpFEoxKNC1n+sQYPfBL1GiUNlEl3M45Drb7hRrx2kPAkwLjBXgP61aN2PyHVvReQsf/BJhcx4H4ZpaLRwzcOyRHx/+nJjl+4lny8NTyAesVqaE5nuSb2dOQbpnAbR0Z6cwZcatIOCtj+yygpX6URlA6BvbSEfM+hpg/Gll19x6ZPQz4NMFbu0LKUxo+kOX9C11LghSyM0VbKCZ4pcUAUComiBf+GNVvCnWTY5548tVZBn1OvLUTyLhueNbr6XKREARXXLbavOFAqT8g84BHcKlHdOXWWT45p;0RbHpL8+Yb23POVVvmjM3w=="
 ---
 
