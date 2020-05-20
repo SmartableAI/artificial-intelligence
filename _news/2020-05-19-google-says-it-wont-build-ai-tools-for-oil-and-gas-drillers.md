@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Google says it won’t build AI tools for oil and gas drillers"
-excerpt: "Google says it will no longer build custom artificial intelligence tools for speeding up oil and gas extraction, separating itself from cloud computing rivals Microsoft and Amazon."
-publishedDateTime: 2020-05-19T15:27:00Z
-webUrl: "https://apnews.com/c84ba59a7d7629cc6e1a7b7f3e626574"
+title: "Google says it won't build AI tools for oil and gas drillers"
+excerpt: "Google says it will no longer build custom artificial intelligence tools for speeding up oil and gas extraction, separating itself from cloud computing rivals Microsoft and Amazon"
+publishedDateTime: 2020-05-19T19:18:00Z
+webUrl: "https://abcnews.go.com/Business/wireStory/google-backs-off-ai-oil-gas-extraction-70765554"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/google-backs-off-ai-oil-gas-extraction-70765554"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-backs-off-ai-oil-gas-extraction-70765554"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/4153f125c63447f9997d9d1955cecda9/3000.jpeg"
-    width: 3000
-    height: 1999
-    title: "Google says it won’t build AI tools for oil and gas drillers"
+  - url: "https://s.abcnews.com/images/Technology/WireAP_4153f125c63447f9997d9d1955cecda9_16x9_992.jpg"
+    width: 992
+    height: 558
+    title: "Google says it won't build AI tools for oil and gas drillers"
 
 related:
   - title: "Google backs off on AI for oil and gas extraction | Charlotte Observer"
@@ -35,6 +37,6 @@ related:
       domain: charlotteobserver.com
     quality: 37
 
-secured: "jKHjiw3qnWANiMqH1vx9lprwL4CKGu3Zz9m0aljZRqhZPV6C7qje58wZjYFOubz4ULG8SQ+JV2V88cBa1I0GiQ5sdL4YmsaTZ6ylazaUQYj8RtrILdUMvGYEj/2kZXB52LunWrV9j46/MhNf+DETc6zd/uflEXiZXjzzOxkxekvDCD5yXRg6ckztHPSpW18785TtVIIPAZkC0JJtOQ/+5/vPmBPvolKoFtcBNt+fTmDS1fiFTgs2LAnmevEvtJuzMTDBygKOHbPyhnI9umilKqvGllZSHcemtxwmUWmm6e5MtgKcaIHv3LfGBuaGg+eb;dMzp3evntV1PIfGbOHt6/w=="
+secured: "2/TfbaMSjFFtepmjEijVj1DUGfSloh2f6njoZKfsMjrONMx5QrA0wnVZmtCbKzLkRuNy/ffmWesrHvwm4FuDTszyYfIiUTopQtx4vVAos3MG8D31TLD8pwyD2R1QqPpSkQ/HryIZ45+4PLfI8Y+U7uDpQMJhwEoMeHx7XHzB5lxCVQS0GHPtvLRYCqPK4h7UMakuANam50EYTFCiI2nxxEU33ZKrog8gawEdYcUp9RMXtvHI0M/PdG68KiBO1NMKUuy5oWW5B04XO4rJi1VpgCa16sSNpEasLwihsdYSLFY3UwHqItHlboy2AlPCLhBL;QdWXqFgG3SHZdzX80CchtA=="
 ---
 

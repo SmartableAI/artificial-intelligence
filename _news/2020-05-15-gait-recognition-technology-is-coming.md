@@ -24,19 +24,6 @@ images:
     title: "Gait-recognition technology is coming."
 
 related:
-  - title: "Tencent tests facial recognition in games as part of anti-addiction measures for minors"
-    excerpt: "China's technology giant Tencent reaches out to individuals and organizations worldwide with its telecommunication services. Photo: cnsphoto Chinese tech company Tencent is testing the application of facial recognition in games as part of further anti-addiction measures for minors under the age of 18,"
-    publishedDateTime: 2020-05-15T12:35:00Z
-    webUrl: "https://www.globaltimes.cn/content/1188495.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 31
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-03-31/c0622b51-a47d-4f81-bc5f-ed53627fe191.jpeg"
-        width: 500
-        height: 300
   - title: "Facial-Recognition Technology Needs More Regulation"
     excerpt: "Algorithms that can recognize people are too often biased or inaccurate—and they can easily invade our privacy"
     publishedDateTime: 2020-05-18T15:59:00Z

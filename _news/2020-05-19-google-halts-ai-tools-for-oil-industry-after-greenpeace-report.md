@@ -32,9 +32,9 @@ related:
   - title: "Google backs off on AI for oil and gas extraction"
     excerpt: "Google says it will no longer build custom artificial intelligence tools for speeding up oil and gas extraction, separating itself from cloud computing rivals Microsoft and Amazon. The announcement followed a Greenpeace report Tuesday that documents how the three tech giants are using AI and computing power to help oil companies find and access oil and gas deposits in the U."
     publishedDateTime: 2020-05-19T15:38:00Z
-    webUrl: "https://www.chron.com/news/article/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+    webUrl: "https://www.chron.com/business/article/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+    ampWebUrl: "https://www.chron.com/business/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
     type: article
     provider:
       name: Houston Chronicle

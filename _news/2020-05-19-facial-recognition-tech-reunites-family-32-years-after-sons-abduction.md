@@ -187,6 +187,19 @@ related:
       - url: "https://www.hawaiinewsnow.com/resizer/w51OS9yT97gOHOvkYSKGYJVQZDM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/3IAREMZCLBEJHC3URT557DLPRU.jpg"
         width: 1200
         height: 675
+  - title: "Facial recognition tech reunites missing child, parents after 32 years in China"
+    excerpt: "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday."
+    publishedDateTime: 2020-05-20T00:45:00Z
+    webUrl: "https://www.wistv.com/2020/05/19/facial-recognition-tech-reunites-missing-child-parents-after-years-china/"
+    type: article
+    provider:
+      name: WIS TV
+      domain: wistv.com
+    quality: 35
+    images:
+      - url: "https://www.wistv.com/resizer/w51OS9yT97gOHOvkYSKGYJVQZDM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/3IAREMZCLBEJHC3URT557DLPRU.jpg"
+        width: 1200
+        height: 675
 
 secured: "x2EZAeTwWsJeTjJJcvwRMYbQ/rwRqFtpNGoFZ52F8Bz63f5C1X8WkSBHrM2q60ccavkkaa2rPVrVBGqk06KItvPjQz24Jl3FLbyd/aU8wgSxZkol0mcO2mnOVev2Tu9z2s0h6oTHsi1JxGbhcZP5G0wfIuejPnLx2raHVBDGVmv0YaNoOpU/4XPYR73vw/At1+YZUyOed703ymhzfgIrifPRQqL/ss4DvqPB09tt3nZO8EH72ilAcflExHdMYv8C7f/hD3kNqDuHtTrgWkfEeXj52lQJiJijOgbj14y7XxOXbHMXdjT4li7sSNacp9sDIsFV+4q276igJWXiTwg7GcqG3VrMdzqJVIg/1/9OCktkC9Ap37QOqfWgm7VTSsuiVXmRjHis7KhW0DUPo1qizlCVAkETenNq0XtVXxBqyGzknAWcYaDK+TkzN9/giPBCBMXX7rdmhYTF+2eX4DSlTTeK7otEnkwTWAY9/0lSnTY=;k4f9xUz9vODJPW5mY0VHTw=="
 ---

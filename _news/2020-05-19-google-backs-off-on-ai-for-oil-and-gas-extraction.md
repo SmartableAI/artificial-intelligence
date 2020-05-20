@@ -3,9 +3,9 @@ category: news
 title: "Google backs off on AI for oil and gas extraction"
 excerpt: "Google says it will no longer build custom artificial intelligence tools for speeding up oil and gas extraction, separating itself from cloud computing rivals Microsoft and Amazon. The announcement followed a Greenpeace report Tuesday that documents how the three tech giants are using AI and computing power to help oil companies find and access oil and gas deposits in the U."
 publishedDateTime: 2020-05-19T15:38:00Z
-webUrl: "https://www.chron.com/news/article/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
-ampWebUrl: "https://www.chron.com/news/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+webUrl: "https://www.chron.com/business/article/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+ampWebUrl: "https://www.chron.com/business/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
 type: article
 quality: 57
 heat: -1
@@ -41,6 +41,6 @@ related:
         width: 1200
         height: 800
 
-secured: "8BBbhMfoXEaLUq4LYsteLcIdgkrLf7HwI1vZ4PVjQk5xh4Bg8uZmOH0RVBStaCgeUsQFiL3lNPa6HBrTHuDgHGdNmShd9pifStgm7IJjAH6yNOtsQDKGrSB0PdA+zRotDTKvLY1RHY/4ByswFX15O7ZwyeumtEDpytuCvTtJBv/S0PYCj8csPCJ42ef1qabEMMHjLQqxCwx/idfpoZNkcKdmc3HGgeEpgv8Kbz/PwKXYN32LK1qPPgFD30SmaqJOqUfzvxXnenRMY4T/5u62X9E5ndzzz5N9I/hZaP7di+2IP15cMM5Ik1ICnWVHEBKqinZ+bRNSZI2i1DF4LA+JCkXyiq7CDFJ/bJCRgkGL/EBDAT+7VTZYH6sAAwkV7+4n5ApqkH3hnwQKsBRD09WquPn9pEdduOwcpBD2HpzBM9G0CFF4t6GYsRDQQBvwy+kLhHmON1Uus1ajoAhL1lNgY1gdjjRyud+KopEFE0t/dS8=;5qN1ZJbMegu+JID4XP+bSQ=="
+secured: "zVobrVuZ1ZJsSSZRePfay4Wod3m4gHV+1N5c9jN/a5R5ZY4Qwuss4SSARHjjReIfWtcckhZAfUCck10GB0QAEGdibH8lHAcR+I1BMt449rCYzjP9Xp3e9dlicKYVRQSKh1fwFMH9kf+stlqrgTfB9hCaCoTwzXipQzOcpSTKFQW4QD8zf+mnoEA89Qsh5pqmNBDLlg1881X2w66l/214Qn7ZbID6vdetSSYG32YYWpGDegfBmU26IHM58gSQ/5rJnlwUu/2FNMkJ/kfbfhRZSKV+f69/sBvdymLoZqcLsI/V336fgTBjfVOD/BEPw8s/;oP3mDnrsJ2Nd3Cm9DgBeDw=="
 ---
 

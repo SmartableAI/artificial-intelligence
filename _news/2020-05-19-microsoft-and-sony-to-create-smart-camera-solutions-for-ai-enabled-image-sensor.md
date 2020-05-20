@@ -31,6 +31,19 @@ images:
     title: "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor"
 
 related:
+  - title: "Sony joins Microsoft to create AI-driven smart camera solutions"
+    excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers."
+    publishedDateTime: 2020-05-19T17:39:00Z
+    webUrl: "https://www.sify.com/finance/sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions-news-topnews-ufuk09gagjdei.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
+    images:
+      - url: "https://www.sify.com/uploads/microsoft_logo_ap_ufuk09gahbaeh.jpg"
+        width: 950
+        height: 633
   - title: "Sony, Microsoft to cooperate over AI-powered video analysis"
     excerpt: "Sony Corp. and Microsoft Corp. said Tuesday they will cooperate in video analytics using artificial intelligence technology for use i"
     publishedDateTime: 2020-05-19T06:55:00Z
@@ -44,15 +57,6 @@ related:
       - url: "https://cdn.mainichi.jp/vol1/2020/05/19/20200519p2g00m0bu071000p/0c8.jpg?1"
         width: 600
         height: 316
-  - title: "Sony joins Microsoft to create AI-driven smart camera solutions"
-    excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers."
-    publishedDateTime: 2020-05-19T17:39:00Z
-    webUrl: "https://www.sify.com/finance/sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions-news-topnews-uftr48fgdaiah.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 34
   - title: "Sony Semiconductor Solutions and Microsoft partner to create smart camera solutions for enterprise customers"
     excerpt: "PRNewswire/ -- Sony Semiconductor Solutions (Sony) and Microsoft Corp. (Microsoft) today announced they are partnering to create solutions that"
     publishedDateTime: 2020-05-18T17:00:00Z

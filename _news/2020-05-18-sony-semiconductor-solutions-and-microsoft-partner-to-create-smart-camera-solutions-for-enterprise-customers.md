@@ -39,6 +39,19 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg"
         width: 360
         height: 300
+  - title: "Sony joins Microsoft to create AI-driven smart camera solutions"
+    excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers."
+    publishedDateTime: 2020-05-19T17:39:00Z
+    webUrl: "https://www.sify.com/finance/sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions-news-topnews-ufuk09gagjdei.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
+    images:
+      - url: "https://www.sify.com/uploads/microsoft_logo_ap_ufuk09gahbaeh.jpg"
+        width: 950
+        height: 633
   - title: "Sony, Microsoft to cooperate over AI-powered video analysis"
     excerpt: "Sony Corp. and Microsoft Corp. said Tuesday they will cooperate in video analytics using artificial intelligence technology for use i"
     publishedDateTime: 2020-05-19T06:55:00Z
@@ -52,15 +65,6 @@ related:
       - url: "https://cdn.mainichi.jp/vol1/2020/05/19/20200519p2g00m0bu071000p/0c8.jpg?1"
         width: 600
         height: 316
-  - title: "Sony joins Microsoft to create AI-driven smart camera solutions"
-    excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers."
-    publishedDateTime: 2020-05-19T17:39:00Z
-    webUrl: "https://www.sify.com/finance/sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions-news-topnews-uftr48fgdaiah.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 34
 
 secured: "68l8dTDgSIqvGlAaj7qKX7uYxflg6FDZaZHTDP/Y4BJ71usO9OjCkqSqLQqxRiAUoLQdJ/mufx8DiQCyzlAM1uAqaP/tgHEyVRSWWyuLqe4SCaKP9KyO7wXRrfGfX8U1UtAtXpz/OdGcMFSJEKrA7JIYQ8E6+dJ6lNoNGCBt59dbliEnoS0ZWfGYg6WVka65nJ5QTPADpP3V0vrev/Hwu8Bt90UyzdKgNwkWjjX0+yMMSpJaySyhwj09gbKkH5MT1wHeyG2Duy075HypmUnDfW44EqeUpYowCrnhXzqVKqKLJkJKN6RnZKgq2K/TLRWhOCfVHYb8ObHwSuPWx5Pti5WpiArb4LMsKpLWf2Ts9eXC03heI/YASs1i2ZVkQEuQzWa4jm2wlzdWrv1yOHQ7vNGTGZQa8xyMWSv41g/QqXOb39GD2a9e1z5krEir+UVeNZGYP1p5LspVNYnVsy0z9krasHNBprqNEwNYfws+v5w=;nKRMlhIQRP7rJYPC2+xfdg=="
 ---

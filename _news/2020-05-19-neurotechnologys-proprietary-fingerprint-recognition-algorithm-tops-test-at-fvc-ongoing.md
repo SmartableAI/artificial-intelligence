@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Neurotechnology’s Proprietary Fingerprint Recognition Algorithm Tops Test at FVC-onGoing"
-excerpt: "With this top-ranked result in the FVC-onGoing and our top ranking in both the NIST MINEX III and PFT III evaluations, we are pleased to be able to call our fingerprint algorit"
+title: "Neurotechnology's Proprietary Fingerprint Recognition Algorithm Tops Test at FVC-onGoing"
+excerpt: "PRNewswire/ -- Neurotechnology, a provider of deep learning-based solutions, robotics, ultrasound and high-precision biometric identification"
 publishedDateTime: 2020-05-19T10:00:00Z
-webUrl: "https://apnews.com/PR Newswire/167496afbba2c8f6ebd006f4b545fdc2"
+webUrl: "https://www.prnewswire.com/news-releases/neurotechnologys-proprietary-fingerprint-recognition-algorithm-tops-test-at-fvc-ongoing-301061437.html"
 type: article
-quality: 17
-heat: 17
+quality: 15
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
-  - Computer Vision
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    title: "Neurotechnology’s Proprietary Fingerprint Recognition Algorithm Tops Test at FVC-onGoing"
+  - url: "https://mma.prnewswire.com/media/804547/Neurotechnology_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    title: "Neurotechnology's Proprietary Fingerprint Recognition Algorithm Tops Test at FVC-onGoing"
 
 related:
   - title: "Neurotechnology tops FVC-onGoing biometric test results with fingerprint recognition tech"
@@ -39,6 +38,6 @@ related:
         width: 750
         height: 327
 
-secured: "CU7wOFqt6B4P6A01cpitqL7ZDJkw2vUN8DNau0cBrFAml4K1ZctjA7E0NnRX44xolCuV5CIbfuD7VnoUhVbccFHn70r+dMum8eMtm8q+ehk/zniWj/EsMsk/tAOpT4ZZD8Xq7A30VoGoJKXOTpEavlE92tFmnkuZXzf07Br6qLxE8kejN5Egna2yai3YZU2F1oKJxp3DqPUkM09QyMM0lyJ8VF1mxjYxekZgD+ifjOGhIeBelujAtV0OMqhYpntFV3WjnwgPk5jWCdpkNyqPRZwtNbZkHtXYOmOWBnJ7fB5TUN7OBZ6SGwA2gsKbMK+h;rTpmkXnSbTlVbK+DWuTplg=="
+secured: "7TfyYPEKavNf5XNIYDmvYA4TQkvYEAwRhQfkR/bGiEMY4D44hN3Dx55ugiJehgWY5CJ64L5yX0ICtBaT1OZVK8/5Jn1rQq276vMw5AGuy5YA/VE1hpPxPj2kg97c9JjcxeK4YygQk0jlw5cy3ycngCfcu5nOleASa7wcLPyPbQRZ1ELWUBusShj05t4MJCP/nFcvsn3dj5hr1gLrbyGt+2HIMyN5xjMK1hVMvxwtJtI6RmoeG42fLI4TZmZRZDEW6fnd0wQ9rXJGwW8hNDd/kbnW3wkKU7qDLCDyUhDT3EWffrpRTBnNVNV/ZGKLV/S7;HfWos3wJ0pDgDq8NB0Jezw=="
 ---
 
