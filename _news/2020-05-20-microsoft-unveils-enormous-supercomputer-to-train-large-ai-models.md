@@ -18,19 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft unveils enormous supercomputer to train AI models"
-    excerpt: "Microsoft has built a new powerful supercomputer in collaboration with Artificial Intelligence (AI) startup OpenAI, making new infrastructure available in Azure to train extremely large AI models, the company is announcing at its Build developers conference."
-    publishedDateTime: 2020-05-20T09:53:00Z
-    webUrl: "https://menafn.com/1100190896/Microsoft-unveils-enormous-supercomputer-to-train-AI-models"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?123083"
-        width: 395
-        height: 250
   - title: "Microsoft unveils enormous supercomputer to train large AI models (Lead)"
     excerpt: "Microsoft has built a new powerful supercomputer in collaboration with Artificial Intelligence (AI) startup OpenAI, making new infrastructure available in Azure to train extremely large AI models. Microsoft announced a multi-year supercomputer partnership with OpenAI in 2019,"
     publishedDateTime: 2020-05-20T09:07:00Z
@@ -44,6 +31,15 @@ related:
       - url: "https://menafn.com/updates/pr/2020-05/20/I_45b0ab45-2_Image_In_Body.jpg"
         width: 400
         height: 267
+  - title: "Microsoft unveils enormous supercomputer to train AI models"
+    excerpt: "Microsoft has built a new powerful supercomputer in collaboration with Artificial Intelligence (AI) startup OpenAI, making new infrastructure available in Azure to train extremely large AI models, the company is announcing at its Build developers conference."
+    publishedDateTime: 2020-05-20T11:58:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200520/3561676.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "U5HkX73n2QKIIkByysPFiMQmfT52N18LpelcAwirj1t6couMj8ji5BeiSfGbrB7DaSlxM9TQtY3Ysn7QfRgSv1e7zImXRe2ts2ERfxy6L8e24XpvJzBwEecyJiT5iWN+Zrjatq1QGj79wWhkX2l0hSQ8qLIrH7uKVN8pzX+39MXFTh5Hx5r5jHssVlf1Unb3uWEdFFKjXwaR7SgDwd1JMDbEH3E1vQi7FQ7Q1Recty2SE/4bQk+BtDw9nnJzbzlc6AxPf1MssuHawlsmnoZWjQ53rccLs6SCiOfAMtBAxYs9FreBGrimKvRkkLmYr/jo;7WncRxrzLkT3i27Ovb4VFg=="
 ---

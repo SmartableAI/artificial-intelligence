@@ -2,6 +2,222 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-11-computer-vision-helps-scientists-study-lithium-ion-batteries.md",
+      "title": "Computer Vision Helps Scientists Study Lithium Ion Batteries",
+      "excerpt": "Lithium-ion batteries lose their juice over time, causing scientists and engineer to work hard to understand that process in detail. Now, scientists at the Department of Energy's SLAC National Accelerator Laboratory have combined sophisticated machine learning algorithms with X-ray tomography data to produce a detailed picture of how one battery component,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.labmanager.com/news/computer-vision-helps-scientists-study-lithium-ion-batteries-22660",
+      "ampWebUrl": "https://www.labmanager.com/news/computer-vision-helps-scientists-study-lithium-ion-batteries-22660/amp",
+      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/computer-vision-helps-scientists-study-lithium-ion-batteries-22660/amp",
+      "publishedDateTime": "2020-05-11T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lab Manager",
+        "domain": "labmanager.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/22660/aImg/42036/may11-2020-slac-lithium-ion-batteries.jpg",
+          "width": 720,
+          "height": 403,
+          "title": "Computer Vision Helps Scientists Study Lithium Ion Batteries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-how-ai-and-ml-are-helping-first-responders.md",
+      "title": "How AI and ML are helping first responders",
+      "excerpt": "Artificial intelligence and machine learning are helping firefighters, police officers, and EMS medics respond to emergencies and save lives.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/how-ai-and-ml-are-helping-first-responders/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/",
+      "publishedDateTime": "2020-05-11T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/05/415913a1-e850-425a-b3f1-69626671b33f/neuroflow.jpg",
+          "width": 800,
+          "height": 468,
+          "title": "How AI and ML are helping first responders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems.md",
+      "title": "Startup uses network automation to help hospitals solve wi-fi problems",
+      "excerpt": "For IT professionals working in hospitals and healthcare clinics, fixing a problem with a wireless network is now more than a temporary headache. Diagnosing connectivity issues in a coronavirus ward in a hospital could put a person's health at risk.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems/",
+      "publishedDateTime": "2020-05-11T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/27/a89a3cec-9eaa-4548-9879-5ab3e8c77c24/thumbnail/1200x675/06421814a31045a6c09743f30fe067a5/fcc-approves-plan-to-open-up-more-spectr-5ea3183e1c719e452658f538-1-apr-27-2020-14-56-11-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Startup uses network automation to help hospitals solve wi-fi problems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-new-program-offers-college-students-access-to-free-data-science-and-machine-learning.md",
+      "title": "New program offers college students access to free data science and machine learning",
+      "excerpt": "Databricks University Alliance pairs with universities to provide online tools and cloud platforms to add competitive skills to matriculation.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
+      "publishedDateTime": "2020-05-11T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/16/e64ac43a-90a4-4b78-824a-7354d236b664/thumbnail/1200x675/8544c97ca2fffa13b9a3e12bb859836b/20200413-nadine-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "New program offers college students access to free data science and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-deep-learning-system-market-insights-by-size-status-and-forecast-2025-nvidia-intel-xilinx.md",
+      "title": "Deep Learning System Market Insights by Size, Status and Forecast 2025 | NVIDIA, Intel, Xilinx",
+      "excerpt": "Advance Market Analyticsreleased the research report of Global Deep Learning System Market, offers a detailed overview of the factors influencing the global business scope. Global Deep Learning System Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-insights-by-size-status-and-forecast-2025-nvidia-intel-xilinx-2020-05-11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning System Market Insights by Size, Status and Forecast 2025 | NVIDIA, Intel, Xilinx",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-google-the-next-big-fintech-vendor.md",
       "title": "Google: The Next Big Fintech Vendor",
       "excerpt": "Three recent stories regarding Google signal that it--like Amazon--is on its way to becoming a technology vendor for banks.",
@@ -641,6 +857,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-10-artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. May 10, 2020 (AmericaNewsHour) -- Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 40.4 % over the forecast period 2020-2026. Artificial ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026-2020-05-10?tesla=y",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-10T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-10-how-ai-is-finding-patterns-and-anomalies-in-your-data.md",
       "title": "How AI Is Finding Patterns And Anomalies In Your Data",
       "excerpt": "When companies are looking to apply AI, we always recommend that they look at the seven patterns of AI to determine which pattern, or patterns, they are applying. As one of the more widely used patterns,",
@@ -1032,228 +1293,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-deep-learning-marketoutlook-by-drivers-restraints-demands-and-forecast-2017-2023.md",
-      "title": "Deep Learning Market,Outlook by Drivers, Restraints, demands And forecast 2017-2023",
-      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-marketoutlook-by-drivers-restraints-demands-and-forecast-2017-2023-2020-05-09",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market,Outlook by Drivers, Restraints, demands And forecast 2017-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-ai-chip-for-data-centers-market-analysis-trends-and-cagr-projections-2020-2026.md",
-      "title": "AI Chip for Data Centers Market Analysis, Trends and CAGR Projections 2020-2026",
-      "excerpt": "The report provides rational insights along with historical and forecast data to aid in better understanding of",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-analysis-trends-and-cagr-projections-2020-2026-2020-05-08",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI Chip for Data Centers Market Analysis, Trends and CAGR Projections 2020-2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal.md",
-      "title": "WeRide Trade Secrets Feud With Rival, Ex-Execs Ends In Deal",
-      "excerpt": "Both companies are developing autonomous, or self-driving, cars for the Chinese market ... According to WeRide, Wang was pushed out as CEO in January 2018 after his former employer, the Chinese internet company Baidu, sued him, alleging that he failed to return a laptop belonging to Baidu, stole Baidu's trade secrets and poached Baidu's ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.law360.com/ip/articles/1272042",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1272042",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272042",
-      "publishedDateTime": "2020-05-08T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-benefits-of-ai-and-machine-learning-in-customer-service.md",
-      "title": "Benefits of AI and Machine Learning in Customer Service?",
-      "excerpt": "The solutions that AI ML provides can be beneficial in our everyday’s life.  We can observe a constant growth in the usage of AI ML development services. From Google to Facebook to Netflix are using AI & ML in some or the other way to meet users’ expectations.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service",
-      "ampWebUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
-      "publishedDateTime": "2020-05-08T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/1/1222fa20749611ea95fc4127234534d6/Benefits-of-AI-ML-in-Customer-Service-1588928096946.png?fm=png&auto=format",
-          "width": 800,
-          "height": 600,
-          "title": "Benefits of AI and Machine Learning in Customer Service?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-paris-tests-face-mask-recognition-software-on-metro-riders.md",
-      "title": "Paris Tests Face-Mask Recognition Software on Metro Riders",
-      "excerpt": "The Paris metro authority is testing CCTV software to detect whether travelers are wearing face masks. It’s part of the city’s efforts to end lockdown and help prevent the spread of Covid-19, but it’s raised concerns from the government’s privacy watchdog.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bnnbloomberg.ca/paris-tests-face-mask-recognition-software-on-metro-riders-1.1432720",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T17:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-3-companies-that-highlight-the-power-of-crowdfunding-for-vr.md",
-      "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
-      "excerpt": "Facebook allegedly has plans to use artificial intelligence to monitor its ad program and prevent fake news. Driverless cars are already underway, powered by AI. It will even start taking over the more dangerous jobs, where a shortage of workers is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.smartdatacollective.com/3-companies-that-highlight-the-power-of-crowdfunding-for-vr/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2018/07/virtual-reality.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

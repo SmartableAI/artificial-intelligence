@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/pave-self-driving-car-survey-154045444.
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/pave-self-driving-car-survey-154045444.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/m72EzrWuPzWBOfvn1i31svwAU10=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814379/vpavic_191202_3827_0009.0.jpg"
         width: 1400
         height: 933
+  - title: "Americans still don’t trust self-driving cars, poll shows"
+    excerpt: "Nearly half of Americans say they would not get in a self-driving taxi, according to a poll commissioned by the advocacy group Partners for Automated Vehicle Education. The poll, conducted online in February and March by SurveyUSA,"
+    publishedDateTime: 2020-05-19T22:24:00Z
+    webUrl: "https://www.dig-in.com/articles/americans-still-dont-trust-self-driving-cars-poll-shows"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 24
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/e182cea/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F8d%2F2c%2F383f1a5a4818862ef8b32362204b%2Fdigital-insurance-social-share-image.png"
+        width: 1200
+        height: 630
 
 secured: "ygt/aMUHYrgc0jnq09hrvDCFQgGX0i0eOwuyzKt7TdDNpXoDOLKAQGw12CwC6h3MZcoNyKb5o1nQ0fVrCIKqsyiPTdx0c85Dv/8Y/kDmlKuqdvgQrqoxxfDuQE10E1NdlgLof0ip3U449acYHPGB+g3B97Hj8AyjYFB+edPhYz1eAjEHrqztweuZ1oKFmUfI/biP9RgSL+gv9RrX5Sn886qvWgnY4BC/L521S+eGXqMHlXlWrNRJ+x2NMLdk9r/t+JpnDfgftF5ZRj9I/raTtAJSg+2uJL6FGoobf4Gd5FrI59xs32nCRysc5ZsNVY7MSR/itOr3lUcB9jTOFXVJ5zU/Qxc4F0Avc+Pb5BpiMRZiDXRGoou5GTy9ZRmAcNnK7FmLfEGotGbu0z5HiAwsX7OkurYkkp/GWK3/SdZPzKnzJWu7dA+DHUGGtQ6vDPR808Mo/p4e+1ZU5pGjsegDArfF7Lxdiy2HNNUmL4Hvkok=;hCKkpX5xWXAOuDuJIb6dLA=="
 ---

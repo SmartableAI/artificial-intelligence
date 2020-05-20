@@ -2,6 +2,206 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-and-altran-release-ai-based-tool-for-bug-detection.md",
+      "title": "Microsoft and Altran release AI-based tool for bug detection",
+      "excerpt": "Microsoft and Altran, the design and engineering firm recently acquired by Capgemini, have collaborated to develop an AI-based tool, now available on GitHub, to predict the likelihood of bugs in source codes.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.microsoft.com/en-us/ai/ai-lab-code-defect",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "diarioti.com",
+        "domain": "diarioti.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-survey-3-out-of-4-americans-say-driverless-cars-not-ready-for-primetime.md",
+      "title": "Survey: 3 out of 4 Americans say driverless cars 'not ready for primetime'",
+      "excerpt": "A poll conducted by PAVE shows Americans are pessimistic about self-driving cars, and it's probably because they just don't understand them.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/pave-autonomous-vehicle-survey/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/pave-autonomous-vehicle-survey/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pave-autonomous-vehicle-survey/",
+      "publishedDateTime": "2020-05-18T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Survey: 3 out of 4 Americans say driverless cars 'not ready for primetime'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-elon-musk-tesla-raises-cost-of-self-driving-cars.md",
+      "title": "Elon Musk: Tesla raises cost of 'self-driving' cars",
+      "excerpt": "Tesla is raising the price of its \"self-driving\" option on its electric vehicles worldwide starting with a $1,000 (£820) hike. Founder Elon Musk tweeted that the price \"will continue to rise\" as its technology improves.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/business-52703767",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/business-52703767",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52703767",
+      "publishedDateTime": "2020-05-18T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5927/production/_112332822_teslaautopilot.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Elon Musk: Tesla raises cost of 'self-driving' cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-tesla-to-raise-self-driving-option-price-by-1000.md",
+      "title": "Tesla To Raise Self-Driving Option Price By $1,000",
+      "excerpt": "(RTTNews) - Tesla will increase the price of the full self-driving option on its electric vehicles worldwide by $1,000 starting July 1, Chief",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-raise-self-driving-option-price-by-1-000-1029212854",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854",
+      "publishedDateTime": "2020-05-18T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors.md",
+      "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
+      "excerpt": "Microsoft and Sony have formed a new partnership to apply the former's Azure AI capabilities to the latter's smart camera sensor system. The goal is to boost computer vision for enterprise settings.",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
+      "publishedDateTime": "2020-05-18T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589842585_untitled_design_(2)_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-price-as-elon-musk-sees-value-rise-to-100k.md",
       "title": "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k",
       "excerpt": "Driving’ package again as Elon Musk now evaluates the value of the completed version of the package at over $100,000. Over the years, much has been said about how Tesla is approaching self-driving technology differently from the rest of the auto industry.",
@@ -1092,230 +1292,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-how-artificial-intelligence-is-reshaping-the-insurance-industry.md",
-      "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
-      "excerpt": "AI in the insurance sector has transcended several use cases from intelligent automation in the back office to providing virtual assistance on the frontlines.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/350752",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350752",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350752",
-      "publishedDateTime": "2020-05-18T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1589803306-Webpnet-compress-image42.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-how-ai-is-disrupting-the-b2b-space.md",
-      "title": "How AI Is Disrupting The B2B Space",
-      "excerpt": "Artificial intelligence (AI) as a service is becoming a reality for more and more consumers, and with the major players launching their 5G services last year, many enterprises across different industries have added AI exploration to their agendas.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/amp/",
-      "publishedDateTime": "2020-05-18T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F05%2F61.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How AI Is Disrupting The B2B Space",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-should-ai-assist-in-surgical-decision-making.md",
-      "title": "Should AI assist in surgical decision-making?",
-      "excerpt": "Surgical errors in particular account for 26% of these deaths and cost somewhere north of $36 billion in the U.S. I did a double take when I read those stats while reporting this story. Some of the most common laparoscopic procedures,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/should-ai-assist-in-surgical-decision-making/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/should-ai-assist-in-surgical-decision-making/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-assist-in-surgical-decision-making/",
-      "publishedDateTime": "2020-05-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/264428c6-6cba-4fdf-8331-bf5f033fe09b/surgery.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": "Should AI assist in surgical decision-making?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras.md",
-      "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
-      "excerpt": "The rollout of facial recognition cameras in London is facing disruption as citizens are now using face coverings that could potentially incapacitate the technology. The United Kingdom has been a keen adopter of surveillance technology including facial recognition cameras in recent years,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
-      "publishedDateTime": "2020-05-18T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/11/20/77a790fa-b55e-4662-9b19-7a8f42060060/resize/1200x900/6bfbc3a62184f36d3a9733bdc6f59fe5/screenshot-2019-11-20-at-13-18-41.png",
-          "width": 1200,
-          "height": 766,
-          "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-how-a-chinese-ai-giant-made-chattingand-surveillanceeasy.md",
-      "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
-      "excerpt": "Alexa can tell you the weather. Siri knows a few jokes. In China, voice-computing company iFlytek built similar smart assistants beloved by users. But its tech is also helping the government listen in.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/",
-      "ampWebUrl": "https://www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/amp",
-      "publishedDateTime": "2020-05-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebd97001c8fdaf50e1b0062/master/pass/5ebd96bfd58e99fafced8061_iflytek_2400x1350_autoxauto_00001.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,233 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-12-how-facebook-is-using-ai-to-combat-covid-19-misinformation-and-detect-hateful-memes.md",
+      "title": "How Facebook is using AI to combat COVID-19 misinformation and detect ‘hateful memes’",
+      "excerpt": "That’s because Facebook is relying more on the technology to help moderate its platform during the COVID-19 pandemic, which is preventing the company from using its usual third-party moderator firms because those firms’ employees are not allowed to access sensitive Facebook data from home computers.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech",
+      "publishedDateTime": "2020-05-12T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/29Ohkhnj8vaOLcOrf4YADVErTsU=/0x0:2040x1360/1400x933/filters:focal(831x690:1157x1016):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66785966/jbareham_180405_1777_facebook_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "How Facebook is using AI to combat COVID-19 misinformation and detect ‘hateful memes’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-facebook-deploys-ai-in-its-fight-against-hate-speech-and-misinformation.md",
+      "title": "Facebook deploys AI in its fight against hate speech and misinformation",
+      "excerpt": "The company has long sought to rein in the prevalence of hate speech spread on its site. Detecting hate speech is no easy feat. The company is even tackling hate memes.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/facebook-ai-hate-speech-covid-19-160037191.html",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-ai-hate-speech-covid-19-160037191.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-hate-speech-covid-19-160037191.html",
+      "publishedDateTime": "2020-05-12T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F54d59260-ea8a-11e9-bf7f-758b7f2dc3d2&client=amp-blogside-v2&signature=45436068159308fc2a7d743785a6f90e67a9e5f9",
+          "width": 600,
+          "height": 350,
+          "title": "Facebook deploys AI in its fight against hate speech and misinformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-facebook-is-using-more-ai-to-detect-hate-speech.md",
+      "title": "Facebook is using more AI to detect hate speech",
+      "excerpt": "Facebook reported large gains in AI used for hate speech detection and announced the launch of the $100,000 Hateful Memes challenge for AI researchers.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/12/facebook-is-using-more-ai-to-detect-hate-speech/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/hateful-memes-challlenge.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook is using more AI to detect hate speech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-this-was-supposed-to-be-the-year-driverless-cars-went-mainstream.md",
+      "title": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
+      "excerpt": "Perfecting the technology has taken longer than expected. The coronavirus pandemic has made it even more difficult. By Cade Metz and Erin Griffith SAN FRANCISCO — Tech companies once promised that fully functional, self-driving cars would be on the road by 2020 and on the path to remaking transportation and transforming the economy.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.amp.html",
+      "publishedDateTime": "2020-05-12T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/08/business/00robotcars5/00robotcars5-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-meet-the-googlers-working-to-ensure-tech-is-for-everyone.md",
+      "title": "Meet the Googlers working to ensure tech is for everyone",
+      "excerpt": "During their early studies and careers, Tiffany Deng, Tulsee Doshi and Timnit Gebru found themselves asking the same questions: Why is it that some products and services work better for some than others, and why isn’t everyone represented around the table when a decision is being made? Their collective",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.blog.google/technology/ai/googlers-leading-machine-learning-fairness/",
+      "ampWebUrl": "https://blog.google/technology/ai/googlers-leading-machine-learning-fairness/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/googlers-leading-machine-learning-fairness/amp/",
+      "publishedDateTime": "2020-05-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Hero_ML_V1.gif",
+          "width": 2880,
+          "height": 1200,
+          "title": "Meet the Googlers working to ensure tech is for everyone",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-sony-just-teamed-up-with-a-robot-avatar-company-with-big-ambitions.md",
       "title": "Sony just teamed up with a robot avatar company with big ambitions",
       "excerpt": "Sony and remotely-controlled robot startup Avatarin are teaming up to make telepresence avatars smarter, borrowing tech from Aibo and more. It’s the latest move by the freshly-founded Sony",
@@ -838,232 +1065,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-the-robot-assistant-that-can-guess-what-you-want.md",
-      "title": "The robot assistant that can guess what you want",
-      "excerpt": "In a five-year project a group of robotics experts have developed a robot that can assist in maintenance tasks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/business-52547331",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-52547331",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52547331",
-      "publishedDateTime": "2020-05-11T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C387/production/_112155005_secondhandsrobotatwork.png",
-          "width": 1024,
-          "height": 576,
-          "title": "The robot assistant that can guess what you want",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-brazilian-founder-features-in-global-ranking-of-female-ai-leaders.md",
-      "title": "Brazilian founder features in global ranking of female AI leaders",
-      "excerpt": "Karla Capela is the only Latin American appearing on the list of artificial intelligence shapers released by IBM",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
-      "publishedDateTime": "2020-05-11T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/05/12/58e755f4-da25-4d63-93c1-d2b9a7f1a0cc/thumbnail/1200x675/54f9de3d1e16af385d53687195a630d0/storage.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Brazilian founder features in global ranking of female AI leaders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning.md",
-      "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
-      "excerpt": "Enterprise search has always been a tough nut to crack. The holy grail has always been to operate like Google, but in-house. You enter a few keywords and you get back that nearly perfect response at the top of the list of the results.",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2020-05-11T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/AWS-Logo.jpg?w=1024",
-          "width": 1024,
-          "height": 649,
-          "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans.md",
-      "title": "Fiat Chrysler and AV startup Voyage partner on self-driving minivans",
-      "excerpt": "Self-driving vehicle startup Voyage said Monday that it has inked a deal with Fiat Chrysler to supply purpose-built vehicles, a partnership that will help accelerate its plan to launch a fully driverless ride-hailing service.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/11/fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/11/fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans/amp/",
-      "publishedDateTime": "2020-05-11T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/voyage.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Fiat Chrysler and AV startup Voyage partner on self-driving minivans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ceo-of-softbank-backed-startup-banjo-resigns-after-hidden-neo-nazi-past-surfaces.md",
-      "title": "CEO of SoftBank-backed startup Banjo resigns after hidden neo-Nazi past surfaces",
-      "excerpt": "The state of Utah suspended a $20 million contract with Banjo after CEO Damien Patton's hidden neo-Nazi past was unearthed last month.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/banjo-ceo-damien-patton-resigns-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/banjo-ceo-damien-patton-resigns-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/banjo-ceo-damien-patton-resigns-2020-5?amp",
-      "publishedDateTime": "2020-05-11T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5eb9a1f9204ad31b3c0f51d3?width=1200&format=jpeg",
-          "width": 878,
-          "height": 439,
-          "title": "CEO of SoftBank-backed startup Banjo resigns after hidden neo-Nazi past surfaces",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

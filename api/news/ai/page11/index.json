@@ -2,6 +2,228 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-09-deep-learning-marketoutlook-by-drivers-restraints-demands-and-forecast-2017-2023.md",
+      "title": "Deep Learning Market,Outlook by Drivers, Restraints, demands And forecast 2017-2023",
+      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-marketoutlook-by-drivers-restraints-demands-and-forecast-2017-2023-2020-05-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market,Outlook by Drivers, Restraints, demands And forecast 2017-2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-ai-chip-for-data-centers-market-analysis-trends-and-cagr-projections-2020-2026.md",
+      "title": "AI Chip for Data Centers Market Analysis, Trends and CAGR Projections 2020-2026",
+      "excerpt": "The report provides rational insights along with historical and forecast data to aid in better understanding of",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-analysis-trends-and-cagr-projections-2020-2026-2020-05-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI Chip for Data Centers Market Analysis, Trends and CAGR Projections 2020-2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal.md",
+      "title": "WeRide Trade Secrets Feud With Rival, Ex-Execs Ends In Deal",
+      "excerpt": "Both companies are developing autonomous, or self-driving, cars for the Chinese market ... According to WeRide, Wang was pushed out as CEO in January 2018 after his former employer, the Chinese internet company Baidu, sued him, alleging that he failed to return a laptop belonging to Baidu, stole Baidu's trade secrets and poached Baidu's ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.law360.com/ip/articles/1272042",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1272042",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272042",
+      "publishedDateTime": "2020-05-08T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-benefits-of-ai-and-machine-learning-in-customer-service.md",
+      "title": "Benefits of AI and Machine Learning in Customer Service?",
+      "excerpt": "The solutions that AI ML provides can be beneficial in our everyday’s life.  We can observe a constant growth in the usage of AI ML development services. From Google to Facebook to Netflix are using AI & ML in some or the other way to meet users’ expectations.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service",
+      "ampWebUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
+      "publishedDateTime": "2020-05-08T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/1/1222fa20749611ea95fc4127234534d6/Benefits-of-AI-ML-in-Customer-Service-1588928096946.png?fm=png&auto=format",
+          "width": 800,
+          "height": 600,
+          "title": "Benefits of AI and Machine Learning in Customer Service?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-paris-tests-face-mask-recognition-software-on-metro-riders.md",
+      "title": "Paris Tests Face-Mask Recognition Software on Metro Riders",
+      "excerpt": "The Paris metro authority is testing CCTV software to detect whether travelers are wearing face masks. It’s part of the city’s efforts to end lockdown and help prevent the spread of Covid-19, but it’s raised concerns from the government’s privacy watchdog.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bnnbloomberg.ca/paris-tests-face-mask-recognition-software-on-metro-riders-1.1432720",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T17:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-3-companies-that-highlight-the-power-of-crowdfunding-for-vr.md",
+      "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
+      "excerpt": "Facebook allegedly has plans to use artificial intelligence to monitor its ad program and prevent fake news. Driverless cars are already underway, powered by AI. It will even start taking over the more dangerous jobs, where a shortage of workers is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.smartdatacollective.com/3-companies-that-highlight-the-power-of-crowdfunding-for-vr/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2018/07/virtual-reality.jpg",
+          "width": 1000,
+          "height": 665,
+          "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-can-ai-make-work-safe-again.md",
       "title": "Can AI Make Work Safe Again?",
       "excerpt": "Although this is no doubt disappointing, it is also evident that data and AI have been quite helpful to certain countries (with the most salient or widely-discussed cases being Israel, Singapore, and of course China) vis-à-vis their ability to track the patterns of virus spread across and within regions,",
@@ -1010,235 +1232,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-alpha-roc-launches-open-beta-machine-learning-api-and-self-serve-platform-for-avid-traders.md",
-      "title": "Alpha Roc Launches Open Beta: Machine Learning API and Self-Serve Platform for avid traders",
-      "excerpt": "Alpha Roc announces that its proprietary trading algorithm -ALPHA, is officially going into open beta. Institutional and retail traders will now be able to utilize Alpha Roc's institutional-grade application program interface (API) to directly access and execute Alpha Roc's strategies in real time.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/alpha-roc-launches-open-beta-machine-learning-api-and-self-serve-platform-for-avid-traders-1029180557",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/alpha-roc-launches-open-beta-machine-learning-api-and-self-serve-platform-for-avid-traders-1029180557",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alpha-roc-launches-open-beta-machine-learning-api-and-self-serve-platform-for-avid-traders-1029180557",
-      "publishedDateTime": "2020-05-07T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-clearview-ai-to-stop-providing-facial-recognition-to-private-companies.md",
-      "title": "Clearview AI to stop providing facial recognition to private companies",
-      "excerpt": "Maker of controversial says it's cutting off anyone not associated with government or law enforcement entities.",
-      "heat": 146,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
-      "publishedDateTime": "2020-05-07T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/tcvCfks6e4V39F8bVmD3sLv2B3o=/756x567/2020/05/08/8c6c9808-f26e-4358-9f9d-8cf65d0c04d3/gettyimages-1189384731.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview AI to stop providing facial recognition to private companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-clearview-ai-pinky-swears-it-will-stop-working-with-private-companies.md",
-      "title": "Clearview AI pinky swears it will stop working with private companies",
-      "excerpt": "This time Clearview AI really means it. Honest. The problematic facial-recognition company that scraped billions of photos off social media is now claiming that it will not sell its technology to private companies.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/clearview-ai-promises-stop-working-private-companies/",
-      "ampWebUrl": "https://mashable.com/article/clearview-ai-promises-stop-working-private-companies.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-promises-stop-working-private-companies.amp",
-      "publishedDateTime": "2020-05-07T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F05%252F08%252Fd5%252Fd5c7456e52a1497aa17cb217309948c1.81ee6.png%252F1200x630.png?signature=T8EDRfnUco0h6X57gBQn74EPOhg=",
-          "width": 1200,
-          "height": 630,
-          "title": "Clearview AI pinky swears it will stop working with private companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-how-are-companies-using-ai-to-enhance-the-customer-experience.md",
-      "title": "How Are Companies Using AI To Enhance The Customer Experience?",
-      "excerpt": "Companies are starting to integrate AI into many areas of the purchase process to help maximize both sales and customer satisfaction. How is AI helping improve the overall customer experience?",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/07/how-are-companies-using-ai-to-enhance-the-customer-experience/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/07/how-are-companies-using-ai-to-enhance-the-customer-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/07/how-are-companies-using-ai-to-enhance-the-customer-experience/amp/",
-      "publishedDateTime": "2020-05-07T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1214961329%2F0x0.jpg",
-          "width": 1200,
-          "height": 681,
-          "title": "How Are Companies Using AI To Enhance The Customer Experience?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing.md",
-      "title": "Tesla's Semi makes first deliveries; Waymo, Uber expand driverless truck testing",
-      "excerpt": "Tesla's electric Semi made its first delivery while Waymo and Uber each said they ... The company said the trucks’ artificial intelligence and array of sensors provide Level 4 autonomy on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-indiegogo-campaign-introduces-the-next-gen-social-family-robot.md",
-      "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-      "excerpt": "Misa is a revolutionary social family robot that is backed by high-tech sensors, AI, and emotional intelligence travel, learn, teach, and interact with people around like a",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15985882/indiegogo-campaign-introduces-the-next-gen-social-family-robot",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15985882",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15985882",
-      "publishedDateTime": "2020-05-07T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.getnews.info/uploads/98e0ea3f3e3e583379fdb6396838275d.jpg",
-          "width": 579,
-          "height": 480,
-          "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

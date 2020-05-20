@@ -2,6 +2,224 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-19-azure-machine-learning-gets-responsible-ml-innovations-and-more.md",
+      "title": "Azure Machine Learning gets Responsible ML innovations and more",
+      "excerpt": "Microsoft has announced new capabilities to its cloud-based machine learning platform. A new project to advance machine teaching methods has also been released in the form of a public preview.",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/azure-machine-learning-gets-responsible-ml-innovations-and-more",
+      "ampWebUrl": "https://www.neowin.net/amp/azure-machine-learning-gets-responsible-ml-innovations-and-more/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-machine-learning-gets-responsible-ml-innovations-and-more/",
+      "publishedDateTime": "2020-05-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589650666_airport_story.jpg",
+          "width": 760,
+          "height": 506,
+          "title": "Azure Machine Learning gets Responsible ML innovations and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-announces-azure-cognitive-services-and-bot-service-enhancements.md",
+      "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
+      "excerpt": "Not only have Microsoft's Bot Framework and Service been updated, but new AI functionality and language capabilities have been introduced for apps that leverage Azure Cognitive Services as well.",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements/",
+      "publishedDateTime": "2020-05-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2017/02/1486489003_cognitive_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates.md",
+      "title": "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates",
+      "excerpt": "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020.",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "publishedDateTime": "2020-05-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work.md",
+      "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
+      "excerpt": "The post Microsoft announces new supercomputer, lays out vision for future AI work appeared first on The AI Blog.\n",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/openai-azure-supercomputer/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T07:59:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/openai-azure-supercomputer-kevin-scott_3_1200x630-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients.md",
+      "title": "AI is helping get medical research into the hands of doctors and patients",
+      "excerpt": "A patient-centric approach helps advance medical knowledge, which is desperately needed in the middle of a fast-moving pandemic.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "publishedDateTime": "2020-05-19T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/19/96ab2ebc-4b2e-4359-af1c-edd50149a4f4/resize/1200x/f33ff0c5fa127e5b5f86d5a3a01afd04/istock-1200774681.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI is helping get medical research into the hands of doctors and patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19.md",
       "title": "The Role Artificial Intelligence is Playing in the Fight Against COVID-19",
       "excerpt": "As the economy begins the slow process of re-opening, advanced technologies such as artificial intelligence, machine learning, and natural language processing are playing a key role not only in monitoring COVID-19 outbreaks,",
@@ -1057,206 +1275,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-and-altran-release-ai-based-tool-for-bug-detection.md",
-      "title": "Microsoft and Altran release AI-based tool for bug detection",
-      "excerpt": "Microsoft and Altran, the design and engineering firm recently acquired by Capgemini, have collaborated to develop an AI-based tool, now available on GitHub, to predict the likelihood of bugs in source codes.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.microsoft.com/en-us/ai/ai-lab-code-defect",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "diarioti.com",
-        "domain": "diarioti.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-survey-3-out-of-4-americans-say-driverless-cars-not-ready-for-primetime.md",
-      "title": "Survey: 3 out of 4 Americans say driverless cars 'not ready for primetime'",
-      "excerpt": "A poll conducted by PAVE shows Americans are pessimistic about self-driving cars, and it's probably because they just don't understand them.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/pave-autonomous-vehicle-survey/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/pave-autonomous-vehicle-survey/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pave-autonomous-vehicle-survey/",
-      "publishedDateTime": "2020-05-18T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Survey: 3 out of 4 Americans say driverless cars 'not ready for primetime'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-elon-musk-tesla-raises-cost-of-self-driving-cars.md",
-      "title": "Elon Musk: Tesla raises cost of 'self-driving' cars",
-      "excerpt": "Tesla is raising the price of its \"self-driving\" option on its electric vehicles worldwide starting with a $1,000 (£820) hike. Founder Elon Musk tweeted that the price \"will continue to rise\" as its technology improves.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/business-52703767",
-      "ampWebUrl": "https://www.bbc.co.uk/news/amp/business-52703767",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52703767",
-      "publishedDateTime": "2020-05-18T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5927/production/_112332822_teslaautopilot.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Elon Musk: Tesla raises cost of 'self-driving' cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tesla-to-raise-self-driving-option-price-by-1000.md",
-      "title": "Tesla To Raise Self-Driving Option Price By $1,000",
-      "excerpt": "(RTTNews) - Tesla will increase the price of the full self-driving option on its electric vehicles worldwide by $1,000 starting July 1, Chief",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-raise-self-driving-option-price-by-1-000-1029212854",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854",
-      "publishedDateTime": "2020-05-18T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors.md",
-      "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
-      "excerpt": "Microsoft and Sony have formed a new partnership to apply the former's Azure AI capabilities to the latter's smart camera sensor system. The goal is to boost computer vision for enterprise settings.",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
-      "publishedDateTime": "2020-05-18T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589842585_untitled_design_(2)_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

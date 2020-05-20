@@ -2,6 +2,221 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-15-nvidia-releases-most-advanced-ai-chip-ever.md",
+      "title": "Nvidia releases most advanced AI chip ever",
+      "excerpt": "Nvidia has just released its next-generation artificial intelligence chip - and it's quite the beast. During a keynote at Nvidia GTC, CEO Jensen Huang referred to the new Nvidia A",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itproportal.com/news/nvidia-releases-most-advanced-ai-chip-ever/",
+      "ampWebUrl": "https://www.itproportal.com/amp/news/nvidia-releases-most-advanced-ai-chip-ever/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nvidia-releases-most-advanced-ai-chip-ever/",
+      "publishedDateTime": "2020-05-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZCpccNHtpUekUzUU49oVbe-1200-80.jpg",
+          "width": 700,
+          "height": 394,
+          "title": "Nvidia releases most advanced AI chip ever",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-pandemic-effect-how-do-consumers-feel-about-ai-right-now.md",
+      "title": "Pandemic effect: How do consumers feel about AI right now?",
+      "excerpt": "Consumer-facing AI and robotics applications have had an uphill battle, and they've had to wage it on two fronts. Regulation has, perhaps for the better, throttled adoption of technologies like self-driving cars and delivery robots,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/pandemic-effect-how-do-consumers-feel-about-ai-right-now/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pandemic-effect-how-do-consumers-feel-about-ai-right-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pandemic-effect-how-do-consumers-feel-about-ai-right-now/",
+      "publishedDateTime": "2020-05-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2017/05/04/7f9fab71-4c68-4c3f-ac60-a57c26eb4ad6/ai.jpg",
+          "width": 770,
+          "height": 577,
+          "title": "Pandemic effect: How do consumers feel about AI right now?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-gms-self-driving-car-startup-cruise-has-laid-off-8-of-its-staff-or-around-150-workers.md",
+      "title": "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers",
+      "excerpt": "The move is aimed at cutting costs amid the ongoing coronavirus pandemic.",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp",
+      "publishedDateTime": "2020-05-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ebe5ca4aee6a849b975e494?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-how-ai-can-help-in-fighting-covid-19.md",
+      "title": "How AI Can Help In Fighting COVID-19",
+      "excerpt": "To manage the pandemic, hospitals are looking forward to automated tools to the hilt. Healthcare experts are using AI to triage COVID-19 patients",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/350672",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350672",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350672",
+      "publishedDateTime": "2020-05-15T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1589535361-web-3963945.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How AI Can Help In Fighting COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-sony-announces-camera-sensor-chips-with-built-in-ai-processing.md",
+      "title": "Sony announces camera sensor chips with built-in AI processing",
+      "excerpt": "Sony has shown off what it's calling \"the world's first image sensors to be equipped with AI processing functionality.\" These new sensors handle AI image analysis on board, so only the necessary data can be sent for further cloud processing.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/",
+      "ampWebUrl": "https://newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/?amp=true",
+      "publishedDateTime": "2020-05-15T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/7d5d11d/2147483647/strip/true/crop/5250x3500+0+50/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0e%2Fd6%2Fbe43993548dd8926342b0bd6864e%2Fdepositphotos-25748679-xl-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Sony announces camera sensor chips with built-in AI processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-15-ltn-global-enters-aws-advanced-technology-partner.md",
       "title": "LTN Global enters AWS advanced technology partner",
       "excerpt": "LTN Global has become the latest video industry firm to seek out the IT platform giants to provide offerings and will use AWS across its modular suite.",
@@ -873,233 +1088,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx.md",
-      "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
-      "excerpt": "We built a virtual customer service robot with the Xavier NX, a powerful GPU that can decode 32 video streams at once but is little bigger than a credit card and costs just $399.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx",
-      "ampWebUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
-      "publishedDateTime": "2020-05-14T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-to-bui/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx_rwas.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users.md",
-      "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
-      "excerpt": "Want AWS with easy-to-use Red Hat OpenShift Kubernetes container orchestration? You'll soon be able to get that.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "publishedDateTime": "2020-05-14T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/07/15acec1a-c9b8-4440-80e9-2d7266e44721/thumbnail/1200x675/68d586e111b2a5939b36cf74ebe8a84e/in-the-modern-data-center.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-this-ai-will-judge-you-for-eating-microwave-meals.md",
-      "title": "This AI will judge you for eating microwave meals",
-      "excerpt": "MIT CSAIL has created an AI system called Sapple that uses motion sensors and smart energy meters to work out how you're using microwaves and hair dryers",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/amp/",
-      "publishedDateTime": "2020-05-14T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-36-796x377.png",
-          "width": 796,
-          "height": 377,
-          "title": "This AI will judge you for eating microwave meals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models.md",
-      "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
-      "excerpt": "Nvidia unveiled its latest data center chip architecture, “Ampere,” and a motherboard to power multi-chip servers for AI. The company sees ever-more-gigantic neural networks in coming years.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
-      "publishedDateTime": "2020-05-14T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/14/1da79d85-66af-4eca-b991-3d2cf1492395/nvidia-2020-hgx-platform.jpg",
-          "width": 2000,
-          "height": 1600,
-          "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-adlingo-ads-builder-turns-an-ad-into-a-conversation.md",
-      "title": "AdLingo Ads Builder turns an ad into a conversation",
-      "excerpt": "My parents were small business owners in the U.S. Virgin Islands where I grew up. They taught me that, though advertising is important, personal relationships are the best way to get new customers and grow your business. When I started working at Google 14 years ago, online advertising was a one-way",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.blog.google/technology/area-120/adlingo-ads-builder/",
-      "ampWebUrl": "https://blog.google/technology/area-120/adlingo-ads-builder/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/area-120/adlingo-ads-builder/amp/",
-      "publishedDateTime": "2020-05-14T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": "AdLingo Ads Builder turns an ad into a conversation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

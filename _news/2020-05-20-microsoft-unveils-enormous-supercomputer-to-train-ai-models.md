@@ -2,26 +2,19 @@
 category: news
 title: "Microsoft unveils enormous supercomputer to train AI models"
 excerpt: "Microsoft has built a new powerful supercomputer in collaboration with Artificial Intelligence (AI) startup OpenAI, making new infrastructure available in Azure to train extremely large AI models, the company is announcing at its Build developers conference."
-publishedDateTime: 2020-05-20T09:53:00Z
-webUrl: "https://menafn.com/1100190896/Microsoft-unveils-enormous-supercomputer-to-train-AI-models"
+publishedDateTime: 2020-05-20T11:58:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Science/20200520/3561676.html"
 type: article
-quality: 54
-heat: 74
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
-  - Microsoft AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?123083"
-    width: 395
-    height: 250
-    title: "Microsoft unveils enormous supercomputer to train AI models"
 
 related:
   - title: "Microsoft unveils enormous supercomputer to train large AI models (Lead)"
@@ -47,6 +40,6 @@ related:
       domain: sify.com
     quality: 19
 
-secured: "7bgB5qo3/4jVjxyEjF72MQr4OCzsfZbsNH86+9m0b2TvEwCWkgsHZoNTD/fDQ0L+LgYvWx/Q5b+pv8Bvwt3DcurTVhcLVBbfr0q0emDGgSygC5JLsf6VfS0RUqRhgCnSVqMBx++3HUx9mv0ty8bOiMDyszUp82vgicMErS7RdguhvvfHM9wl/Icm3y1cFLS0AKz1DuFFRyiOAIz21iQdqZEZ+LN3o8JV9KhMq/1ZQV5codw3LHQd5J98ULFzJ4nP0/Cs8VG12MfU3zSilC14i5Fehq3Z8kZOtWgEkSL5MBjmkrBxDewIqMm0xP+0XFuw;g7VoKTwzrd62L8ZuKakiTw=="
+secured: "MBDVqXFxDDVqRmGCgV3Rx+LGcJ0OpxaMkZaGZ4FVK6AjCrhfxGZBjsF+rKCunsBOBrIJUKmX9/S3aGZK+6Tx8h1ZtDGAW+HB9KqfkoTnBPjJERB7R3fQtRsGyOboGKnYH1eq2MEqyhHa+ZhInJDjUZdU3Vxwwicm1bNbeGRxcTIv08CWApIazVnqrPFpN72md5q/QBFIgpM7M6qEiB0IaKp6u6rhIeDV3TYB+e374xMWB8KLzajG03Fx9RMy93Uu8JA3/CFuWOdf3JX4YN0qboGPvwQDOWedS7UJrxBwQFKQYWKk1C/o7Rfd3kbIKyBu;sl4MtmFz2JDUsvAfUfrgqw=="
 ---
 

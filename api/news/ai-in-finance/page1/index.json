@@ -139,6 +139,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-10-artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. May 10, 2020 (AmericaNewsHour) -- Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 40.4 % over the forecast period 2020-2026. Artificial ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026-2020-05-10?tesla=y",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-10T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors.md",
       "title": "Tradier Teams With Q.ai, a Forbes Company, to Bring AI and Big Data Analytics to Customers and Retail Investors",
       "excerpt": "Tradier is teaming up with Q.ai, a Forbes company, to bring advanced AI-driven intelligent investing to retail investors. The collaboration aligns with Q.ai's mission to democratize access to AI and other quantitative investing methodologies by giving traders data-driven insights and seamless execution to help them gain an edge on the market.",
@@ -1198,43 +1243,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-splice-machine-launches-industrials-division-and-middle-east-operations.md",
-      "title": "Splice Machine Launches Industrials Division and Middle East Operations",
-      "excerpt": "Splice Machine, the leading scale-out SQL database with native machine learning, has today announced that it has launched a new",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/ae/news-releases/splice-machine-launches-industrials-division-and-middle-east-operations-301040683.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-15T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/86257/splice_machine_logo.jpg?p=facebook",
-          "width": 1200,
-          "height": 628,
-          "title": "Splice Machine Launches Industrials Division and Middle East Operations",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

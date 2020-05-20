@@ -2,6 +2,233 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-14-how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx.md",
+      "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
+      "excerpt": "We built a virtual customer service robot with the Xavier NX, a powerful GPU that can decode 32 video streams at once but is little bigger than a credit card and costs just $399.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx",
+      "ampWebUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
+      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
+      "publishedDateTime": "2020-05-14T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-to-bui/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx_rwas.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users.md",
+      "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
+      "excerpt": "Want AWS with easy-to-use Red Hat OpenShift Kubernetes container orchestration? You'll soon be able to get that.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
+      "publishedDateTime": "2020-05-14T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/07/15acec1a-c9b8-4440-80e9-2d7266e44721/thumbnail/1200x675/68d586e111b2a5939b36cf74ebe8a84e/in-the-modern-data-center.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-this-ai-will-judge-you-for-eating-microwave-meals.md",
+      "title": "This AI will judge you for eating microwave meals",
+      "excerpt": "MIT CSAIL has created an AI system called Sapple that uses motion sensors and smart energy meters to work out how you're using microwaves and hair dryers",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/amp/",
+      "publishedDateTime": "2020-05-14T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-36-796x377.png",
+          "width": 796,
+          "height": 377,
+          "title": "This AI will judge you for eating microwave meals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models.md",
+      "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
+      "excerpt": "Nvidia unveiled its latest data center chip architecture, “Ampere,” and a motherboard to power multi-chip servers for AI. The company sees ever-more-gigantic neural networks in coming years.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
+      "publishedDateTime": "2020-05-14T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/14/1da79d85-66af-4eca-b991-3d2cf1492395/nvidia-2020-hgx-platform.jpg",
+          "width": 2000,
+          "height": 1600,
+          "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-adlingo-ads-builder-turns-an-ad-into-a-conversation.md",
+      "title": "AdLingo Ads Builder turns an ad into a conversation",
+      "excerpt": "My parents were small business owners in the U.S. Virgin Islands where I grew up. They taught me that, though advertising is important, personal relationships are the best way to get new customers and grow your business. When I started working at Google 14 years ago, online advertising was a one-way",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.blog.google/technology/area-120/adlingo-ads-builder/",
+      "ampWebUrl": "https://blog.google/technology/area-120/adlingo-ads-builder/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/area-120/adlingo-ads-builder/amp/",
+      "publishedDateTime": "2020-05-14T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": "AdLingo Ads Builder turns an ad into a conversation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-australia-wins-first-ai-eurovision-song-contest-by-sampling-koalas-and-kookaburras.md",
       "title": "Australia wins first AI Eurovision Song Contest by sampling koalas and kookaburras",
       "excerpt": "A team of programmers and songwriters from Australia have won the inaugural (and unofficial) AI Eurovision Song Contest, using a neural network trained on noises made by koalas, kookaburras, and Tasmanian devils to help score their winning entry.",
@@ -1072,213 +1299,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network.md",
-      "title": "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network",
-      "excerpt": "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.broadcastingcable.com/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
-      "ampWebUrl": "https://www.broadcastingcable.com/.amp/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
-      "cdnAmpWebUrl": "https://www-broadcastingcable-com.cdn.ampproject.org/c/s/www.broadcastingcable.com/.amp/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
-      "publishedDateTime": "2020-05-14T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Broadcasting & Cable",
-        "domain": "broadcastingcable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-kustomer-acquires-replyai-to-enhance-chatbots-on-its-crm-platform.md",
-      "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
-      "excerpt": "Today, Kustomer is announcing some M&A that will help in that strategy: it is acquiring Reply.ai, a startup originally founded in Madrid that has built a code-free platform for companies to create ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/amp/",
-      "publishedDateTime": "2020-05-14T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/08/chat-bots.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-ai-models-are-struggling-to-cope-with-our-rapidly-changing-world.md",
-      "title": "AI models are struggling to cope with our rapidly changing world",
-      "excerpt": "Based on data that described the world before the crisis, these won't be making correct predictions anymore, pointing to a fundamental problem in they way AI is being designed. David Cox, IBM director of the MIT-IBM Watson AI Lab, explains that faulty AI is particularly problematic in the case of so-called black box predictive models ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
-      "publishedDateTime": "2020-05-14T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/05/889b37c6-5a4a-4b33-8393-75fe2b2d6727/thumbnail/1200x675/2543f3afd4c8d758aca9e08eb2aef9d4/5gs-first-antenna-winterfeldtstrasse.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI models are struggling to cope with our rapidly changing world",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-are-ai-investments-dead-thanks-to-covid-19.md",
-      "title": "Are AI investments dead thanks to COVID-19?",
-      "excerpt": "And how do you go from managing data points to injecting AI in the enterprise? Read More I reached out to Ryohei Fujimaki, Ph.D., an expert on AI/ML and the founder and CEO of dotData, which delivers data science automation to the enterprise,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/are-ai-investments-dead-thanks-to-covid-19/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/are-ai-investments-dead-thanks-to-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-ai-investments-dead-thanks-to-covid-19/",
-      "publishedDateTime": "2020-05-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/12/e745a8e4-9e72-4d9b-b3c5-1aed8acff879/art-intel.jpg",
-          "width": 1024,
-          "height": 819,
-          "title": "Are AI investments dead thanks to COVID-19?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-facebook-sucks-elon-musk-hits-back-at-facebook-ai-head-who-claimed-tesla-boss-has-no-idea-about-artificial-intelligence.md",
-      "title": "'Facebook Sucks': Elon Musk Hits Back at Facebook AI Head Who Claimed Tesla Boss Has 'No Idea' about Artificial Intelligence",
-      "excerpt": "Elon Musk had a blunt response for the vice president of artificial intelligence at Facebook after he questioned the SpaceX and Tesla CEO's knowledge on the subject: \"Facebook sucks.\" Musk hit back after Jerome Pesenti,",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973",
-      "ampWebUrl": "https://www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973?amp=1",
-      "publishedDateTime": "2020-05-14T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1575729/elon-musk.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": "'Facebook Sucks': Elon Musk Hits Back at Facebook AI Head Who Claimed Tesla Boss Has 'No Idea' about Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
