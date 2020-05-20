@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Aware Combines Face and Voice in Latest Knomi® Version 2.6 Release"
-excerpt: "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced the release"
-publishedDateTime: 2020-05-19T14:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/aware-combines-face-and-voice-in-latest-knomi-version-2-6-release-301061758.html"
+excerpt: "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced the release of Knomi version 2.6,"
+publishedDateTime: 2020-05-19T16:17:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aware-combines-face-and-voice-in-latest-knomi-version-2-6-release/article_b8a7ae2a-0b6f-5917-aaca-ed69c9ab8af5.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "Aware Combines Face and Voice in Latest Knomi® Version 2.6 Release"
 
-secured: "NmkoAUkEPYIaUcQyfEAh8xyoliENlnlbLNng5WQy9kTX5X0lrTjiQkrv6teh035LcFIzpsVbjrO+KdDhpVlGiTs/2CCUSG/mh9r3sofP1rdacTp8u+pSPzsJN4YVku7jzzpm2A2YhKz1wWK1tNxkyOulCOtDv9BXe8eahn0GaLKwYzLqLzDrI1X84COpAZamuT1zAv7FVB4501w2QjxEM7AGZ92BMvu8Lzcvkn9o+pqb2OtY5pd/bCxVaJbZSCyU/eMlXQOB+hODxUvAKT+IGFOKDea4qT6aoSCCMyyUHZhAl4yfKFTaJ3lbeRmr1RQl;3LshhdgZrqYRAtmqBiGgGA=="
+secured: "u1d0RLwYRHXUtxOmZjNHA0PW5uLuygJGZvbiy1v/VM0xByfVdK8c+Pox/b+rtjen0QG5rY/LLNmDJxbjx5l2v/hfeV5rvkCMfjLAe87h0plr/CzCZvCS3FjF6uLtgrbpM0OzTlYnl4wxn7TSPDcQggc7pkyKlg6Q6yNmM+s7vyW1TMBI/zCLoGU1ucoKGLBhiaZxWQxQNgAs6cxa42VaG0xUFpm0EgOBpi3WgsQaSp4kvBRxyo5+0cUMWTHvpxk9NlNVJbjuT7UWT8nAuh3uORIomKNSSG4Y4cnU5umJLQ7HHVhGgAo6WfAao+6san+K;WAnEwSDoUkKf9+tAZIxL9A=="
 ---
 

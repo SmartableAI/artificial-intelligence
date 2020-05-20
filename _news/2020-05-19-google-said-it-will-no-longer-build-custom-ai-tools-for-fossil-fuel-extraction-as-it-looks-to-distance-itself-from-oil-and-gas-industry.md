@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Google said it will no longer build custom AI tools for fossil fuel extraction as it looks to distance itself from oil and gas industry"
 
-secured: "6xB6gDa24aErkoOzbTcnB5VQoS34ZoKHV4F/FTeUwxblqxegrIQSenTQel77rx9VoMu/O5Bhh0E1UwfmEAmlMAL+FQ5IjEYt2UxavE4Ja1SxE3TbGw1qiV3pXA1vCYMW6fcWWLw3mxpIO8px5PYQ2+4ouUrSQuviL7ZaV6wSywr4T9jTnRFGWL2wD8M1fn9jKa7nT8hFVulViEHqp4A2eKH0WOx/EF0SLM0daldbyKUcOnTb/XrISDFEwPIArBp0xbk9wQ1+C5jVfrqkr/rQTi7Ldbf5lceWK4vwYJyXFHI+SzqF6lRfaN3k2OpwCpX2;Uj3uOCl1IHQRyl+cIHk57w=="
+secured: "1H35iIQ+4Lymk4OZs4szLLGvwHA+rVATMTOLHUjmmevYbNJONLcgvgX/3n/K9E3u7jA0gcRU5qhT1mFqiChtpX0iA4YEsPfqVgYGwpalYZGvpipawDyjXmc2rNMVq49W6p7M/HGx6ZxQiny4R7rx8dJUXcIRX/jv2GujCliqKWiNPAPRPBpsRQXLIcCTup3CGBq+NXLDF1LviO6EUGxvPaidEftuXKuHChKVG2A4NHWO40Ukcp2t5r/V9t//asoIrydFX8vVxaPiZLr9l4Hr6ilbJ+liGLNzuRqah3RIjRg5Qwls4Xz6GLJDualMzmkfQ1QRSy2z3Mdz35oOlt07L/bNL+hTvE9Nub/cNPoIXdzaAdWTAgOF7iSW2/ZGeyi6eVWmztNgqNRE1FotV57SO49TfT0msKTvnMpXrg50HMjYNMzudVLFiT6VPIUQWIrCeI7Rrygr/xAOrKhxaXqJkP+4jp3PSv2KVOLNQTUGRD4=;C7J1JX9obzaQBonsPmJFsg=="
 ---
 

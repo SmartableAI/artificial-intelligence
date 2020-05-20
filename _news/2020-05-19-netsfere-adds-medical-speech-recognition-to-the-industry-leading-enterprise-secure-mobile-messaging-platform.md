@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-19T13:16:00Z
 webUrl: "https://apnews.com/2e1119f06428e096d1d1fe0e33a8ed3e"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 700
     height: 450
     title: "NetSfere Adds Medical Speech Recognition to the Industry-Leading Enterprise Secure Mobile Messaging Platform"
+
+related:
+  - title: "Applications of Machine Learning in Healthcare and the Rise of mHealth"
+    excerpt: "Owing to multiple factors like technological advancements, expensive infrastructure, growing health-related awareness, and a rise in chronic health conditions, the healthcare market is evolving faster than ever."
+    publishedDateTime: 2020-05-19T23:09:00Z
+    webUrl: "https://customerthink.com/applications-of-machine-learning-in-healthcare-and-the-rise-of-mhealth/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 41
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/accountant-1794122_1280-pixabay-analytics-1.png"
+        width: 1280
+        height: 977
 
 secured: "z/h9+hNO3aKwbQD6EAt9VTShha2AAEKCDyvbmWnQvtN06jAt1zBU4uZ2vsN5d0F3W78HnuWZLE9gFi9pqhbjTAHFA+rwvLZ6KBD/jOFF2PuRLl0IzG39xeUIIyS7dXRK8BQPajCVVWDRjpyhO2AzRFd+zf7exufBiQt6yzu1L7vk9jmsFVFuwUxRCC8KdKE4dxBM3uq19e0RPe4wklWHk77K+JtXIYWH+P7iUSGfLo5s09PwNVcwNHBCfXcjT4vjzEj3K74hW07OtwkZCECEjn6TBB+kTH27PPg4wf5YtfQLxAoUuYUPGxKjuVxWwzC4;oRHJHhwdfiWiFScVGSgwxQ=="
 ---

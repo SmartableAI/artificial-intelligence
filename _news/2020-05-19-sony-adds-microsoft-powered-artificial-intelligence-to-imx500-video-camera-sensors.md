@@ -32,7 +32,7 @@ related:
   - title: "Sony Semiconductor, Microsoft partner to create smart camera products for enterprise customers"
     excerpt: "Sony Semiconductor Solutions (Sony) and Microsoft are partnering to create products that make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. As a result of the partnership,"
     publishedDateTime: 2020-05-19T09:34:00Z
-    webUrl: "https://www.telecompaper.com/news/sony-semiconductor-solutions-microsoft-partner-to-create-smart-camera-products-for-enterprise-customers--1339097"
+    webUrl: "https://www.telecompaper.com/news/sony-semiconductor-microsoft-partner-to-create-smart-camera-products-for-enterprise-customers--1339097"
     type: article
     provider:
       name: Telecompaper
