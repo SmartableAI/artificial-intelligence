@@ -2,6 +2,72 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-21-vsblty-and-photon-x-developing-advanced-thermal-camera-technology.md",
+      "title": "VSBLTY AND PHOTON-X DEVELOPING ADVANCED THERMAL CAMERA TECHNOLOGY",
+      "excerpt": "Photon-X object recognition and analytics combined with VSBLTY facial recognition will provide an advanced screening tool for facilities to identify and validate that someone with a high ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/04/21/2019206/0/en/VSBLTY-AND-PHOTON-X-DEVELOPING-ADVANCED-THERMAL-CAMERA-TECHNOLOGY.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-vietnamese-ai-group-touts-mask-ready-facial-recognition-for-smartphones.md",
+      "title": "Vietnamese AI Group Touts Mask-ready Facial Recognition for Smartphones",
+      "excerpt": "VinAI Research says it has developed facial recognition technology that can identify users wearing masks, and that it will bring the tech to mobile devices. The firm is a subsidiary of the Vietnamese conglomerate Vingroup, which also owns VinSmart, an electronics maker that also produces smartphones. VinAI Research says it is working with ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mobileidworld.com/vietnamese-ai-group-touts-mask-ready-facial-recognition-for-smartphones-104201/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile ID News",
+        "domain": "mobileidworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mobileidworld.com/wp-content/uploads/ani-kolleshi-vu-DaZVeny0-unsplash-1-1024x612.jpg",
+          "width": 1024,
+          "height": 612,
+          "title": "Vietnamese AI Group Touts Mask-ready Facial Recognition for Smartphones",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung-surgery.md",
       "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
       "excerpt": "SILICON VALLEY, Calif., April 20, 2020 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI) and computer vision technology, announced today a new innovative AI-based suite of m",
@@ -1166,80 +1232,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-04-the-global-face-recognition-market-is-expected-to.md",
-      "title": "The Global Face Recognition Market is expected to...",
-      "excerpt": "Reportlinker.com announces the release of the report \"Face Recognition Market Research Report by Type , by Computing ,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/g15793277/the-global-face-recognition-market-is-expected-to-grow-from-usd-3-546-56-million-in-2019-to-usd-9-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15793277",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15793277",
-      "publishedDateTime": "2020-04-03T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-computer-vision-and-coronavirus-pandemic.md",
-      "title": "Computer Vision and CoronaVirus Pandemic",
-      "excerpt": "This technology is called “computer vision” and it is applied in many spheres of life, for example, in medicine. Computer vision is used for: Segmentation of MRI images. The layout of MRI ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/taqadam/computer-vision-and-coronavirus-pandemic-e5fb6e83f9f7",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1197/0*uLVocH9TkD-9xChT.png",
-          "width": 1197,
-          "height": 1199,
-          "title": "Computer Vision and CoronaVirus Pandemic",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

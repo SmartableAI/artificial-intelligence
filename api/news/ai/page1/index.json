@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-20-the-brains-facial-recognition-area-doesnt-differentiate-outgroup-members.md",
+      "title": "The brain's facial recognition area doesn't differentiate outgroup members",
+      "excerpt": "A quirk in how the brain processes faces makes it harder to tell members of a racial outgroup apart, according to new research.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200518145020.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity.md",
       "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
       "excerpt": "For Daivergent, matching tech workers with autism to jobs isn't an act of charity. It was 2018, and Leon Campbell was worried about getting a job. The Hunter College grad, now 25, had a degree in computer science,",
@@ -95,7 +132,7 @@
       "path": "_news/2020-05-19-google-halts-ai-tools-for-oil-industry-after-greenpeace-report.md",
       "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
       "excerpt": "The move comes after the report detailed links between Google, Amazon and Microsoft and oil and gas companies.",
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/",
@@ -309,7 +346,7 @@
       "path": "_news/2020-05-19-facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable.md",
       "title": "Facebook develops new AI techniques to one day make \"anything shoppable\"",
       "excerpt": "By improving product segmentation, detection and classification, Facebook is working towards building a holistic AI system for frictionless shopping on Marketplace or Facebook Pages.",
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable/",
@@ -1253,50 +1290,6 @@
           "width": 2400,
           "height": 1643,
           "title": "AI-Powered Biotech Can Help Deploy a Vaccine In Record Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-this-startup-wants-to-get-people-with-autism-into-tech-jobs.md",
-      "title": "This startup wants to get people with autism into tech jobs",
-      "excerpt": "Thanks to Hunter's accessibilities job program, though, he heard about a startup called Daivergent, whose aim is to connect companies with a remote tech workforce of folks on the autism spectrum.  For the last two years,",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/this-startup-wants-to-get-people-with-autism-into-tech-jobs/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-startup-wants-to-get-people-with-autism-into-tech-jobs/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-startup-wants-to-get-people-with-autism-into-tech-jobs/",
-      "publishedDateTime": "2020-05-19T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/WnHHrp55u-AazHFNi1YkNLOOH1U=/756x567/2020/05/19/2501608e-54cd-4831-992a-af2e0acc7ea5/gettyimages-1219925426.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "This startup wants to get people with autism into tech jobs",
           "attribution": null
         }
       ],

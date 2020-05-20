@@ -1,27 +1,27 @@
 ---
 category: news
-title: "In Virtual Speech To Black Graduates, Obama Says U.S. Lacks Leadership on Coronavirus"
-excerpt: "\"This pandemic has fully, finally torn back the curtain on the idea that so many of the folks in charge know what they're doing,\" Obama told students from historically black colleges and universities."
-publishedDateTime: 2020-05-17T00:40:00Z
-webUrl: "https://www.scpr.org/news/2020/05/16/92600/in-virtual-speech-to-black-graduates-obama-says-u/"
+title: "In Virtual Speech To Black Graduates, Obama Says U.S. Lacks Leadership On Coronavirus"
+excerpt: "Former President Barack Obama delivered a virtual commencement address on Saturday, urging the tens of thousands of graduates from historically black"
+publishedDateTime: 2020-05-17T16:27:00Z
+webUrl: "https://www.nhpr.org/post/virtual-speech-black-graduates-obama-says-us-lacks-leadership-coronavirus"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: KPCC
-  domain: scpr.org
+  name: New Hampshire Public Radio
+  domain: nhpr.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://a.scpr.org/i/101b6a3555f9784101197fa4c7ec28cc/225878-full.jpg"
-    width: 1024
-    height: 768
-    title: "In Virtual Speech To Black Graduates, Obama Says U.S. Lacks Leadership on Coronavirus"
+  - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202005/857573240.jpg"
+    width: 800
+    height: 450
+    title: "In Virtual Speech To Black Graduates, Obama Says U.S. Lacks Leadership On Coronavirus"
 
 related:
   - title: "In Virtual Speech To Black Graduates, Obama Says U.S. Lacks Leadership on Coronavirus"
@@ -38,6 +38,6 @@ related:
         width: 1400
         height: 787
 
-secured: "VM9cw1iRqzFYa010EpOeDHMbNZfhhfQfIALC1/2JmUF5sBXfwAuENNtizxqiJ5xcrI3UzLjX9lxIyxe9iuhfRPT2l4e8jOFUSQzohS8S+j4qIsDdSiQzrFhAc/ryg0GYeXe6saWJ1gIDkqmYswNK2zySTqtBeC+xySMY1ahsS0FyqCaEr+sck4f98SSRIfL23cYy4VWdEsmXPhZWvndt1OjXIw4kia/zGyntclr3oqyM5iJ6CJRYuw+ww1jlv7zpKxK0kUmkXRlrsGaj40gajxKkcE3IQZUo0nWK5EBszjgPyostTLX6airTqga7W/7Bd+ZefB1lMrvoHlurudho1WgAxC90emCPGb7RqiPiuON2UUwM9pRiGhMFyq6cCpzQoz6xsadbLobP/ErjT/1Ui7P59IzT8htGvs0e+EfxUG5yDMqwdF0pDF6jVt+CnQcyJQjKtWm3BMfN2ewQ3Zvlh5iAqlhmYEVNSMosb9FjWpo=;RNkYfz+1vEEaejR2I4igdg=="
+secured: "Oqv/vFdX7S6jWYgX2sNPKEp5urMkUlMC2bDFBizWXdvG+K6PVR4B99Fhw2PUrKWAJfuSYFtYGI2kpeQ0xKeJ6x8dXIpBxOy9M/1ArUzke3fRcGWbB8uR03rICn/WABC+W+qUxs4aE06AxjsOQHmufnjQQscvTLIIAPWNlXeFW61N0fgdcf9tBv4HEYghU9VvrAGL5WLZtzIddAytSJHMcte7q/SC9xnj8FldLFSJjo/N644xzJs0Kgz5HufVDl3zVEQUTH+AxUhFSmC4hxYY0yGIvOa7alY2CV9UnrthyVrsQEiebhzi0kEuI56mw73N;y5azbBWO50fAuO63RtHRYQ=="
 ---
 

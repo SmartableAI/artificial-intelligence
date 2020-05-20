@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-20-the-brains-facial-recognition-area-doesnt-differentiate-outgroup-members.md",
+      "title": "The brain's facial recognition area doesn't differentiate outgroup members",
+      "excerpt": "A quirk in how the brain processes faces makes it harder to tell members of a racial outgroup apart, according to new research.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200518145020.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-chinese-man-abducted-32-years-ago-as-toddler-reunited-with-birth-parents-thanks-to-facial-recognition-tech.md",
       "title": "Chinese man abducted 32 years ago as toddler reunited with birth parents thanks to facial recognition tech",
       "excerpt": "A Chinese man who was kidnapped as a toddler 32 years ago was reunited with his biological parents during an emotional news conference Monday after police used facial recognition technology to track him down and confirm his identity,",
@@ -1127,6 +1164,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-05-new-directions-in-theoretical-machine-learning.md",
+      "title": "New Directions in Theoretical Machine Learning",
+      "excerpt": "The Simons Symposium on New Directions in Theoretical Machine Learning brought together a select group of ... there have been impressive advances in computer generated text); image recognition is working far more accurately in new domains (relevant to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.simonsfoundation.org/event/new-directions-in-theoretical-machine-learning-2019/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Simons Foundation",
+        "domain": "simonsfoundation.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://simonsfoundation.imgix.net/sf-share.jpg?q=40&#038;auto=compress",
+          "width": 1200,
+          "height": 630,
+          "title": "New Directions in Theoretical Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-pure-storage-expands-flashblade-the-industrys-first-native-unified-fast-file-and-object-platform.md",
       "title": "Pure Storage Expands FlashBlade, the Industry's First Native Unified, Fast File and Object Platform",
       "excerpt": "PRNewswire/ -- Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as a service, today announced the availability of Purity//FB 3.0",
@@ -1151,96 +1225,6 @@
           "width": 800,
           "height": 419,
           "title": "Pure Storage Expands FlashBlade, the Industry's First Native Unified, Fast File and Object Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-computer-vision-market-share-scope-revenue-trade-analysis-trends-drivers-2018-2023.md",
-      "title": "Computer Vision Market Share, Scope, Revenue, Trade Analysis, Trends, Drivers 2018-2023",
-      "excerpt": "The computer vision technology landscape continues to undergo relentless transformation, concurrently creating new application opportunities. In 2017, the global market for comput",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-share-scope-revenue-trade-analysis-trends-drivers-2018-2023-2020-05-03",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-03T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Computer Vision Market Share, Scope, Revenue, Trade Analysis, Trends, Drivers 2018-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-masked-or-not-mike-pence-keeps-the-peace-with-a-poker-face.md",
-      "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
-      "excerpt": "Task forces and vice presidents don’t get to decide things,” said Tim Pawlenty, the former Minnesota governor.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
-      "publishedDateTime": "2020-05-02T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/03/us/03dc-virus-pence-image1/03dc-virus-pence-image1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
           "attribution": null
         }
       ],

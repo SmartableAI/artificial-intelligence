@@ -33,19 +33,19 @@ images:
 related:
   - title: "Microsoft Tips AI Supercomputer, New Biz-Focused Tools at Azure-Focused Build"
     excerpt: "At its mostly Azure-focused virtual Build conference, Microsoft also adds tools to ease third-party integration with Teams and new features to Microsoft 365, the Edge browser, Bing for Commerce, and Windows."
-    publishedDateTime: 2020-05-19T15:10:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused"
-    ampWebUrl: "https://www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused?amp=true"
+    publishedDateTime: 2020-05-19T15:00:00Z
+    webUrl: "https://uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build"
+    ampWebUrl: "https://uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build?amp=1"
+    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build?amp=1"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 116
     images:
-      - url: "https://i.pcmag.com/imagery/articles/015JLImS9DModQt24LO6Lie-8.fit_lim.size_1200x630.v_1589904030.png"
-        width: 1120
-        height: 630
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azu_4rz3.620.jpg"
+        width: 619
+        height: 348
   - title: "Microsoft responsible machine learning capabilities build trust in AI systems, developers say"
     excerpt: "The post Microsoft responsible machine learning capabilities build trust in AI systems, developers say appeared first on The AI Blog.\n"
     publishedDateTime: 2020-05-19T14:59:23Z

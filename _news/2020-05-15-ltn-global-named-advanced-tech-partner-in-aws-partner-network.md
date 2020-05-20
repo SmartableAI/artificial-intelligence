@@ -24,21 +24,6 @@ images:
     title: "LTN Global Named Advanced Tech Partner In AWS Partner Network"
 
 related:
-  - title: "LTN Global enters AWS advanced technology partner"
-    excerpt: "LTN Global has become the latest video industry firm to seek out the IT platform giants to provide offerings and will use AWS across its modular suite."
-    publishedDateTime: 2020-05-15T07:03:00Z
-    webUrl: "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.html"
-    ampWebUrl: "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html"
-    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html"
-    type: article
-    provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 59
-    images:
-      - url: "https://www.rapidtvnews.com/images/2020/May_2020/Elemental_12_Jan.jpg"
-        width: 400
-        height: 234
   - title: "LTN Global joins AWS Advanced Technology Partner programme"
     excerpt: "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable AI-assisted curation, production and programming for news and sports content. “Media companies are increasingly looking at moving playout, transcoding ..."
     publishedDateTime: 2020-05-15T10:09:00Z

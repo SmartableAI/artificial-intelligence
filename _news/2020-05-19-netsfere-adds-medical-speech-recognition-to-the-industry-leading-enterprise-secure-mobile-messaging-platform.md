@@ -37,6 +37,15 @@ related:
       - url: "https://customerthink.com/wp-content/uploads/accountant-1794122_1280-pixabay-analytics-1.png"
         width: 1280
         height: 977
+  - title: "Infinite Convergence Solutions: NetSfere Adds Medical Speech Recognition to the Industry-Leading Enterprise Secure Mobile Messaging Platform"
+    excerpt: "Advances healthcare communications and speech recognition technology use among medical professionalsCHICAGO and MUNICH, Germany, May 19, 2020, the leading secure enterprise messaging service, today an"
+    publishedDateTime: 2020-05-19T13:29:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-05/49700039-infinite-convergence-solutions-netsfere-adds-medical-speech-recognition-to-the-industry-leading-enterprise-secure-mobile-messaging-platform-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "z/h9+hNO3aKwbQD6EAt9VTShha2AAEKCDyvbmWnQvtN06jAt1zBU4uZ2vsN5d0F3W78HnuWZLE9gFi9pqhbjTAHFA+rwvLZ6KBD/jOFF2PuRLl0IzG39xeUIIyS7dXRK8BQPajCVVWDRjpyhO2AzRFd+zf7exufBiQt6yzu1L7vk9jmsFVFuwUxRCC8KdKE4dxBM3uq19e0RPe4wklWHk77K+JtXIYWH+P7iUSGfLo5s09PwNVcwNHBCfXcjT4vjzEj3K74hW07OtwkZCECEjn6TBB+kTH27PPg4wf5YtfQLxAoUuYUPGxKjuVxWwzC4;oRHJHhwdfiWiFScVGSgwxQ=="
 ---

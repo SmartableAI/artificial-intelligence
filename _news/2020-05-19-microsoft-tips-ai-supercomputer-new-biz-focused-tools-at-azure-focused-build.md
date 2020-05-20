@@ -2,10 +2,10 @@
 category: news
 title: "Microsoft Tips AI Supercomputer, New Biz-Focused Tools at Azure-Focused Build"
 excerpt: "At its mostly Azure-focused virtual Build conference, Microsoft also adds tools to ease third-party integration with Teams and new features to Microsoft 365, the Edge browser, Bing for Commerce, and Windows."
-publishedDateTime: 2020-05-19T15:10:00Z
-webUrl: "https://www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused"
-ampWebUrl: "https://www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused?amp=true"
-cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused?amp=true"
+publishedDateTime: 2020-05-19T15:00:00Z
+webUrl: "https://uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build"
+ampWebUrl: "https://uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build?amp=1"
+cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127031/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azure-focused-build?amp=1"
 type: article
 quality: 116
 heat: -1
@@ -24,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/015JLImS9DModQt24LO6Lie-8.fit_lim.size_1200x630.v_1589904030.png"
-    width: 1120
-    height: 630
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-tips-ai-supercomputer-new-biz-focused-tools-at-azu_4rz3.620.jpg"
+    width: 619
+    height: 348
     title: "Microsoft Tips AI Supercomputer, New Biz-Focused Tools at Azure-Focused Build"
 
 related:
@@ -87,6 +87,6 @@ related:
         width: 610
         height: 458
 
-secured: "OSSB37/PeRRU48BHyilHeSkvBauY+xD2eCTdR4U/EVPbcSRfG6nQg460jvCfjoA1OpOEcxP9KnwC0sWE3jwMRNuJs7A6b4xcl2IOcGZ6wTqw3VifWGcm2wjSBNKspvpJUNSp/E5uFNBWwq/qaz1ifQuLmvOlHM7pNTrzfRNIfoDcqrKTWkj8NLhFn24naVou9DMrT+i0HsEkhiSus3WJ8HEQ1OiiioDS2b4d49Jp6lVJZA5wLTYe+DzbSnYV42Tsn7L9SAG1ZIy7Vir8VhsI3nyvf5GZxlsXVrUIsISspCh3EoDzwe8s94TreNQo8bUu;l8HrooSHyJy/XYSPOC18xQ=="
+secured: "Cphlx0eE+3/bBLz8OV0KVYA4W68SwK2o8Z8I05u+Rnu+zP3x3R951PCH7Es4lyQeYwnmYIV21krCo+X58XRTKisSgfwOcmfy0jS1KTIQ0z441/xQJMP0aY28iuvJSZCZmenXxjT1WQfIykTSyCIeCH+uWJEgdoMWiq2hmA6zIWQL8S+lvjuTwxGqdzNOLnw+Ng/HdPeFpLJW08fynELXwJlhpoJXSQNZyhulgwbwvUh78PdmwBUFiGSpA9XPqBrtdhlqLfxY2w0UkycR20XZeCJ9kHmmfDKYbuxqU/iSNC/KfJdZ8WLHDJb+YC6KOsbI;9UitxgjnU65fa7ED8dfHlg=="
 ---
 
