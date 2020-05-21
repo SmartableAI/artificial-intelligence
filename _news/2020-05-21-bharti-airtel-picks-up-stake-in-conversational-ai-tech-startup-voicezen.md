@@ -44,18 +44,14 @@ related:
       domain: financialexpress.com
     quality: 37
   - title: "Airtel acquires strategic stake in conversational AI-focused startup Voicezen"
-    excerpt: "Bharti Airtel has acquired a strategic stake in Voicezen, an early-stage startup focused on conversational artificial intelligence (AI) technologies."
-    publishedDateTime: 2020-05-21T12:34:00Z
-    webUrl: "https://www.sify.com/finance/-airtel-acquires-strategic-stake-in-conversational-ai-focused-startup-voicezen-news-topnews-ufvm4Rhefiahb.html"
+    excerpt: "The acquisition has been made under its Airtel Startup Accelerator Programme, the company said on Thursday. Gurugram-based Voicezen has been working on developing advanced solutions that leverage machine learning,"
+    publishedDateTime: 2020-05-21T13:02:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20200521/3562321.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 34
-    images:
-      - url: "https://www.sify.com/uploads/Airtel-Voicezen_ufvm4Rhegdgjg.jpg"
-        width: 600
-        height: 450
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 14
 
 secured: "FlLJ0EPjp8ZyVNraSRdXNWDcFhrgCqKuKxi7/j700A+ohfRdoHMsNM8MzRxQ11ioCUOSX5ZKoZ9wYY+EQzMKxVE49/jztg0XA0GCSyTBu6PUkYLvmjSiPFdDJs7UYPPEj1YUM+BRg6bplkNJjP+AVbJhfIVCKJzrOFMUsNxl8oryjL7qhJGGNB2IrvQ9GaPhn0jGlfaQaJra+vXGLtI/HKFZgwCBMpBMb48hL3OquyJx4MwmKmD7T3k1yjy+KPUHSTF7IDDiUOFAgblRYEzs0kimZIMet0sCUYizqdmupA2DnigA3Xatr7pyv7zRlU9+33KCTX2T5Xg7CuId4xRW4TvlD6o7qjHSmhuhWErYnwjVQj6GrVF+iyUAf8bb+0UmmJ4yD1foq38DWt0Ev10yv44BpBbMKxV09fudxCBPuxZ1uwwKGTJlqrjj7Hmm7nGj7aQM8ysHdPiJwQjWU/L36fA/Cl5cWxuZcAaLz+hZoyo=;RmQPLkKv+oSEsYMkz7Pivw=="
 ---

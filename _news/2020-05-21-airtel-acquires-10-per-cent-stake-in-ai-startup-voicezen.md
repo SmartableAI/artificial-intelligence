@@ -34,19 +34,6 @@ related:
       - url: "https://www.businessinsider.in/thumb/75868862.cms?height=275&width=412"
         width: 412
         height: 275
-  - title: "Airtel acquires strategic stake in conversational AI-focused startup Voicezen"
-    excerpt: "Bharti Airtel has acquired a strategic stake in Voicezen, an early-stage startup focused on conversational artificial intelligence (AI) technologies."
-    publishedDateTime: 2020-05-21T12:34:00Z
-    webUrl: "https://www.sify.com/finance/-airtel-acquires-strategic-stake-in-conversational-ai-focused-startup-voicezen-news-topnews-ufvm4Rhefiahb.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 34
-    images:
-      - url: "https://www.sify.com/uploads/Airtel-Voicezen_ufvm4Rhegdgjg.jpg"
-        width: 600
-        height: 450
   - title: "Bharti Airtel picks up stake in conversational AI tech startup Voicezen"
     excerpt: "Bharti Airtel Ltd has acquired a 10% stake in Voicezen India Pvt. Ltd, an early-stage startup focused on conversational artificial"
     publishedDateTime: 2020-05-21T10:31:00Z
@@ -56,6 +43,15 @@ related:
       name: VCCircle
       domain: vccircle.com
     quality: 17
+  - title: "Airtel acquires strategic stake in conversational AI-focused startup Voicezen"
+    excerpt: "The acquisition has been made under its Airtel Startup Accelerator Programme, the company said on Thursday. Gurugram-based Voicezen has been working on developing advanced solutions that leverage machine learning,"
+    publishedDateTime: 2020-05-21T13:02:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20200521/3562321.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 14
 
 secured: "E/N2GSf4J970Wb7KzJA2psJvBO7oiXhTwMKG2TLTG7WWXs4EBik2pw+joOKsCYzwN/j13rdTCOGja9CtdGUw+9QdefqtAFeCldpkJsfLT7aNvK2NBcA6EYdw4fOYShy/PD8yrLZmtbpCRaWxshLH+ZA3xpWruACoGDz4B9KOQ1YEcuu6Yu2Rf8wnldN5cVyfLBpbeKCnCudemCm/6Jqsi7g+KiednnP5R2QAubiV1Aa22PGU+dVZKMdwibAaVBiPEBbT6c7FaY0MHR6p5cTRBudQZC71XkqNb1TT7+iLxEbOC91IScBwe2mRYF+gmXSxJwkEQbqsw9my2v1RGRSOr2oiVguIu576FB5XecyIdHfzPkhf+VyYbem5ptIpjLMMChsZaPk4OHUU2g9Ekam6OJRWm7t/QAlHV2+Yjja53bLATndAdjFK4iNwkx0eLCzvEXkBM2EPsQ+/mzPr0c4mDn2q/v5gU99Hitk58Tjih1c=;mHme645gwbJp24GZfXm5Fg=="
 ---

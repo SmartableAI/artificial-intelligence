@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-12-sony-just-teamed-up-with-a-robot-avatar-company-with-big-ambitions.md",
+      "title": "Sony just teamed up with a robot avatar company with big ambitions",
+      "excerpt": "Sony and remotely-controlled robot startup Avatarin are teaming up to make telepresence avatars smarter, borrowing tech from Aibo and more. It’s the latest move by the freshly-founded Sony",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/",
+      "ampWebUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
+      "publishedDateTime": "2020-05-12T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/avatarin-robot-avatar.jpg",
+          "width": 1502,
+          "height": 1063,
+          "title": "Sony just teamed up with a robot avatar company with big ambitions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-nntcs-fully-autonomous-ai-powered-face-recognition-integrated-on-vuzix-smart-glasses-now-supports-4g-and-5g.md",
       "title": "NNTC's Fully Autonomous AI-Powered Face Recognition Integrated on Vuzix Smart Glasses Now Supports 4G and 5G",
       "excerpt": "PRNewswire/ -- Vuzix® Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a leading supplier of Smart Glasses and Augmented Reality (AR) technology and products, together with",
@@ -1236,43 +1281,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump.md",
-      "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
-      "excerpt": "An AI speech recognition bot designed to analyze speech and compile it into a database broke when it tried to analyze Trump's speech patterns, its creator",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "ampWebUrl": "https://amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "publishedDateTime": "2020-05-11T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/bf3770e6-d718-5402-b212-cb364f2fa018/default-1589197781-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-18-machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code.md",
+      "title": "Machine learning tool trains on old code to spot bugs in new code",
+      "excerpt": "Microsoft and Altran release Code Defect AI to identify potential problems in software development and suggest fixes.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
+      "publishedDateTime": "2020-05-18T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/resize/1200x/43e40b69690725c1581fd684e8676489/istock-1047259374.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Machine learning tool trains on old code to spot bugs in new code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-10-ways-ai-is-improving-manufacturing-in-2020.md",
       "title": "10 Ways AI Is Improving Manufacturing In 2020",
       "excerpt": "The BMW Group uses AI to evaluate component images in ongoing production lines to spot deviations from the standard in real-time. Perceiving the pandemics' hard reset as a chance to grow stronger, more resilient,",
@@ -1223,51 +1269,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-how-one-microsoft-mom-inspired-health-care-companies-to-embrace-the-life-saving-potential-of-ai.md",
-      "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
-      "excerpt": "The post How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI appeared first on The AI Blog.\n",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/transform/how-one-microsoft-mom-inspired-health-care-companies-to-embrace-the-life-saving-potential-of-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T09:00:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/05/Melissa-Mulholland_Featured_Cropped-1024x598.jpg",
-          "width": 1024,
-          "height": 598,
-          "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,81 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-05-07-tensorflow-220-arrives-with-breaking-changes-and-drops-python-2-support.md",
+      "title": "TensorFlow 2.2.0 arrives with breaking changes and drops Python 2 support",
+      "excerpt": "TensorFlow 2.2.0 has been released, nearly four months after v2.1.0. The TensorFlow team has been keeping busy: In the latest version of the machine learning platform, they have added lots of new features and breaking changes, and have also fixed several bugs.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/tensorflow-2-2-0-171759.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/05/tensorflow-2-2-0.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "TensorFlow 2.2.0 arrives with breaking changes and drops Python 2 support",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.md",
+      "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
+      "excerpt": "I am predicting today that every company will become an AI company, not because they can, but because they must,” he said. With that idea in mind the company rolled out IBM Watson AIOps ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
+      "ampWebUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
+      "publishedDateTime": "2020-05-06T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-ibm-think-digital-2020-build-and-scale-ai-with-trust-and-transparency.md",
       "title": "IBM Think Digital 2020: Build and scale AI with trust and transparency",
       "excerpt": "There was a session titled ‘Build and Scale AI with Trust and Transparency with an Automated AI Lifecycle’ at the IBM Think Digital 2020. Shadi Copty, VP, Offering Management, for Cloud Pak for Data, DataOps & Watson Tools/Runtime, IBM, said that an ...",
@@ -901,7 +976,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1155,96 +1231,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools.md",
-      "title": "Programming languages: Python developers reveal what they use it for and their top tools",
-      "excerpt": "New global survey shows that Python developers love machine learning, but just don't call them data scientists.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "publishedDateTime": "2020-05-06T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/22/a17d7717-dbc3-4b7f-b230-403db29add1b/thumbnail/1200x675/7791e5900ab4aa0f77cb2a33e9ca29d9/developer-demand-for-python-skills-has-e-5dd7bd800aef250001f131fb-1-nov-22-2019-11-48-21-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Programming languages: Python developers reveal what they use it for and their top tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-logistics-ai-startup-covariant-reaps-40-million-in-funding-round.md",
-      "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
-      "excerpt": "Artificial-intelligence robotics startup Covariant raised $40 million to expand its logistics automation technology to new industries and ramp up hiring, the company said Wednesday.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
-      "publishedDateTime": "2020-05-06T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-183896/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

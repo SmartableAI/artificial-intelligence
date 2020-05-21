@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Airtel acquires strategic stake in conversational AI-focused startup Voicezen"
-excerpt: "Bharti Airtel has acquired a strategic stake in Voicezen, an early-stage startup focused on conversational artificial intelligence (AI) technologies."
-publishedDateTime: 2020-05-21T12:34:00Z
-webUrl: "https://www.sify.com/finance/-airtel-acquires-strategic-stake-in-conversational-ai-focused-startup-voicezen-news-topnews-ufvm4Rhefiahb.html"
+excerpt: "The acquisition has been made under its Airtel Startup Accelerator Programme, the company said on Thursday. Gurugram-based Voicezen has been working on developing advanced solutions that leverage machine learning,"
+publishedDateTime: 2020-05-21T13:02:00Z
+webUrl: "https://news.webindia123.com/news/articles/Business/20200521/3562321.html"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.sify.com/uploads/Airtel-Voicezen_ufvm4Rhegdgjg.jpg"
-    width: 600
-    height: 450
-    title: "Airtel acquires strategic stake in conversational AI-focused startup Voicezen"
 
 related:
   - title: "Airtel acquires 10% stake in AI startup Voicezen"
@@ -59,6 +53,6 @@ related:
       domain: vccircle.com
     quality: 17
 
-secured: "S92jLTueMVKE/aI8EaYzf62fHGVK064OIS86AfTYngZmZUImw3vqT8BkXlNT6R6fkVKtq1ZT2kVhwzaDgT6oRllS3CxQyaQ1/albfvF+inVJdlif1vgDW4bTTg6PeMqjBdSleLzcLhvuU3en+TeYJoUfcxvCoKNIkOZgz6AyuOWUpho4gRsdkfMWNUlaQQNnjtPNUDi8fWhT/K05MH14iPZFZzPBF9UKA8mlfkcrnvMG5f1ICwlXNogDsvpX9AEr4eOcrjdrkGsQ+M9Se1RKbNok5bob8uCvHTWGAoKyxUEZ1qbv9+tB1yvQThEvNGcU;dR4aOCKXYc6ADTr4sWxHyA=="
+secured: "HsKMLikGbUJ8dyXVoJiI70Yqyn1JdBajfDxEMM7NnVCqzxrOBPWWP0ONV/1t0InzoyfCncnTo61MTs4IGaPatE8nMcydhGf6UwsATnQbEQiZRLQ+QC76oSXlgKGBf3SX4eSyGSXkkR77M91+gzsHaa1okm55nCxyOJ08vboo53pCGS0wTdX0sefyefPvhVBxr3XtP7VU2uFuskks8FYkBo6/IPJPxK7RyLsz0SlpYN2L3hRAhV1p2v0pEGimgYcOoG6zPTc7q69pyNIQIriSVjqgTK27B8xgJJMvLFa1pBFUldviugHtj7w9MxLo5/f3;xT8OECyy6jfYTQlW4pGY0Q=="
 ---
 

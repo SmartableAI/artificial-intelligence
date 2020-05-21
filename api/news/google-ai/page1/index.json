@@ -5,7 +5,7 @@
       "path": "_news/2020-05-21-microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus.md",
       "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
       "excerpt": "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network.",
-      "heat": 90,
+      "heat": 122,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
@@ -44,7 +44,8 @@
       "topics": [
         "Google AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {

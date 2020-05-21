@@ -2,6 +2,97 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-19-its-called-artificial-intelligencebut-what-is-intelligence.md",
+      "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
+      "excerpt": "Gurgling infants might seem like no match for artificial intelligence. They are terrible at labeling images, hopeless at mining text, and awful at videogames. Then again, babies can do things beyond the reach of any AI.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/",
+      "ampWebUrl": "https://www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/amp",
+      "publishedDateTime": "2020-05-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec32f02480746372679073b/master/pass/ai-intelligence-business-01-update-01.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-why-didnt-artificial-intelligence-save-us-from-covid-19.md",
+      "title": "Why Didn't Artificial Intelligence Save Us From Covid-19?",
+      "excerpt": "In late January, more than a week before Covid-19 had been given that name, hospitals in Wuhan, China, began testing a new method to screen for the disease, using artificial intelligence. The plan involved chest CTs—three-dimensional scans of lungs displayed in finely detailed slices.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-couldnt-save-us-from-covid-19/",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-couldnt-save-us-from-covid-19/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-couldnt-save-us-from-covid-19/amp",
+      "publishedDateTime": "2020-05-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ebef9a16c0df3393bc20f6e/master/pass/Biz-hazmatdoc-1219925345.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Why Didn't Artificial Intelligence Save Us From Covid-19?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-aaeon-ai-monitoring-for-fever-and-mask-detection.md",
       "title": "AAEON AI monitoring for fever and mask detection",
       "excerpt": "Monitor areas with high-volume foot traffic, such as metro station entrances, for mask compliance and people running a fever.",
@@ -123,43 +214,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
-      "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
-      "excerpt": "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "publishedDateTime": "2020-05-19T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1229,51 +1283,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics.md",
-      "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
-      "excerpt": "The companies said their first offering, called FedEx Surround, will provide real-time analytics into commerce supply chains and shipment tracking.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
-      "publishedDateTime": "2020-05-18T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/2151fc49-7ad9-4a65-9002-0414a1081af1/thumbnail/1200x675/8639db4c7592580202910c59cd9b807c/screen-shot-2020-05-18-at-3-59-56-pm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

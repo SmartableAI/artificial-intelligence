@@ -32,17 +32,17 @@ images:
 related:
   - title: "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military"
     excerpt: "Robot toy maker Sphero this week launched a spin-off company focused on creating intelligent AI for first responders, law enforcement, and the military. Company Six (CO6), an independent startup, will adapt technology from Sphero's Public Safety Division to craft robust and feature-rich yet affordable products."
-    publishedDateTime: 2020-05-21T11:30:00Z
-    webUrl: "https://in.pcmag.com/robotics-automation/136413/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military"
-    ampWebUrl: "https://in.pcmag.com/robotics-automation/136413/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1"
-    cdnAmpWebUrl: "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/robotics-automation/136413/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1"
+    publishedDateTime: 2020-05-21T14:40:00Z
+    webUrl: "https://au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military"
+    ampWebUrl: "https://au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1"
+    cdnAmpWebUrl: "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 82
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/s/sphero-spi/sphero-spin-off-makes-robots-for-first-responders-law-enforc_kyye.620.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/s/sphero-spi/sphero-spin-off-makes-robots-for-first-responders-law-enforc_68ys.620.jpg"
         width: 620
         height: 349
 

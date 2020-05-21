@@ -40,6 +40,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Deep Learning Market Analysis as per the Latest COVID-19 Impact"
+    excerpt: "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Deep Learning Market is expected to be around US$ 25."
+    publishedDateTime: 2020-05-21T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-as-per-the-latest-covid-19-impact-2020-05-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Market Analysis as per the Latest COVID-19 Impact"
     excerpt: "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
     publishedDateTime: 2020-05-21T06:22:00Z

@@ -53,18 +53,18 @@ related:
         width: 950
         height: 633
   - title: "Sony Semiconductor Solutions and Microsoft partner to create smart camera solutions for enterprise customers"
-    excerpt: "PRNewswire/ -- Sony Semiconductor Solutions (Sony) and Microsoft Corp. (Microsoft) today announced they are partnering to create solutions that"
+    excerpt: "(Microsoft) today announced they are partnering to create solutions that make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. As a result of the partnership,"
     publishedDateTime: 2020-05-18T17:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sony-semiconductor-solutions-and-microsoft-partner-to-create-smart-camera-solutions-for-enterprise-customers-301060404.html"
+    webUrl: "https://www.marketwatch.com/press-release/sony-semiconductor-solutions-and-microsoft-partner-to-create-smart-camera-solutions-for-enterprise-customers-2020-05-18"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Microsoft, Sony come together to make smart camera solutions"
     excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. The companies will embed Microsoft Azure AI capabilities on Sony's intelligent vision sensor IMX500,"
     publishedDateTime: 2020-05-20T07:45:00Z

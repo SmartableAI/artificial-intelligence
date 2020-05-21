@@ -23,6 +23,6 @@ images:
     height: 628
     title: "CyberLink Partners With Advantech to Enable FaceMe® Facial Recognition for Retail, Hospitality and Security AIoT Applications"
 
-secured: "79Ylx2ou+8AwGsCrr+KmwXR8963+tu64wMfsq83/QTeDDYykJgQQU/SkfG56lwqiKeYrz8Hi4Ku++IUS2lBJllr6XZKKfViLlnH8x7yQn/scX6rvqrZumLslpCAGClN6yowmbZLnVkO1/CQtUYxsnkAzdMjn1E7GzJedksVMpxVu+p2syQ0PRIRj+qq/XntUl3HyZwFjgQid+yzYS3AbzM7/j6clCLLPkU9yCC0GcbGKgl//TmvTA8kR56t4xGvdV93qoyWQiIt1TToJltdT+KOQVg1X0Qc1mr+vLR1QwQJZ+1HJp4xnFbFM4b3khdov;pi4Uqz14LNX4yp7x2wNdgg=="
+secured: "YJS7khSnOccN1+tLaot+4Grn7OXSJMe5hERmddtdIzXkbFBxcjupL22lj/xpjXAxZmv3XV14qDZ3QiMSbX7wb6lOojyIqvUmSsgi2OVNJqnbzW70m3FnqDLQKbFcANYmgXkly/xfb7YdnGS+wTEG6Eqe1alTcClDjjyDJkjAd8ZQESdSDa2Z5P92Y9QGiHwInDD0etujoD47T+BnWA42D586NEq6oYMWymoAd+BefVmPAjKaucnZ5CZLPaONOPAntX8FAMEFc2dD2HNm+nyW2eHCsrjL6i0NYCLbVHSDgoWclgmcwdp41xnpHq2L6ySFIxF7N37YsVf24iPo1mygZM4kVYIG7niNooART1QWTeqD+pga1o+UVrYEz74ZSr0qVvv8EbzvF3l7KeurE2du+vgHECfJdWTiAiOJZ+ENUrDvzGdMG81t2waBkl+jKAdNe9oHAuO3mSVkbZrdb68Q0jts5oJL2FOVZRg21nrK+Lg=;FNdBh+WYGV37pso2xyMb+Q=="
 ---
 

@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Sony Semiconductor Solutions and Microsoft partner to create smart camera solutions for enterprise customers"
-excerpt: "PRNewswire/ -- Sony Semiconductor Solutions (Sony) and Microsoft Corp. (Microsoft) today announced they are partnering to create solutions that"
+excerpt: "(Microsoft) today announced they are partnering to create solutions that make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. As a result of the partnership,"
 publishedDateTime: 2020-05-18T17:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/sony-semiconductor-solutions-and-microsoft-partner-to-create-smart-camera-solutions-for-enterprise-customers-301060404.html"
+webUrl: "https://www.marketwatch.com/press-release/sony-semiconductor-solutions-and-microsoft-partner-to-create-smart-camera-solutions-for-enterprise-customers-2020-05-18"
 type: article
-quality: 20
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-    width: 2695
-    height: 1414
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "Sony Semiconductor Solutions and Microsoft partner to create smart camera solutions for enterprise customers"
 
 related:
@@ -75,6 +79,6 @@ related:
       domain: indiatvnews.com
     quality: 19
 
-secured: "68l8dTDgSIqvGlAaj7qKX7uYxflg6FDZaZHTDP/Y4BJ71usO9OjCkqSqLQqxRiAUoLQdJ/mufx8DiQCyzlAM1uAqaP/tgHEyVRSWWyuLqe4SCaKP9KyO7wXRrfGfX8U1UtAtXpz/OdGcMFSJEKrA7JIYQ8E6+dJ6lNoNGCBt59dbliEnoS0ZWfGYg6WVka65nJ5QTPADpP3V0vrev/Hwu8Bt90UyzdKgNwkWjjX0+yMMSpJaySyhwj09gbKkH5MT1wHeyG2Duy075HypmUnDfW44EqeUpYowCrnhXzqVKqKLJkJKN6RnZKgq2K/TLRWhOCfVHYb8ObHwSuPWx5Pti5WpiArb4LMsKpLWf2Ts9eXC03heI/YASs1i2ZVkQEuQzWa4jm2wlzdWrv1yOHQ7vNGTGZQa8xyMWSv41g/QqXOb39GD2a9e1z5krEir+UVeNZGYP1p5LspVNYnVsy0z9krasHNBprqNEwNYfws+v5w=;nKRMlhIQRP7rJYPC2+xfdg=="
+secured: "5gK4ZINkdlixwZMI/t8qGHzL3I/YFJndj1yJUIwy/QQ4BV2wiuEvh+ZYuUWTtABYSfXpCqncidUVmWwQ2PqWa13mkL1tWzmP3TOix7GI0q5x//BFcunBl94O/oKFBV2WnztKnORJpc0lnWgR8OJ0ON0mKf7Dg6MPFJ/+008ArB/lskjr8WjzYsaM6c7NaAP4CzcwOqHmAoJtrzfaOIbdx3MUDds6CXfS4bhB06lkiS7Re0bnfSGeVRcBazPZtW8UXD7O5zl5oqc0ctPh+epuFgKVCevcwD5jS5xpQ01uZxYIPsagSL37VFT820WrzpnN;ONWD9hNGd5S9fOul5Pxlew=="
 ---
 

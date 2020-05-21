@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-06-invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers.md",
+      "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
+      "excerpt": "Assembly” may sound like one of the simpler tests in the manufacturing process, but as anyone who’s ever put together a piece of flat-pack furniture knows, it can be surprisingly (and frustratingly) complex.",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/amp/",
+      "publishedDateTime": "2020-05-06T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/invisible-ai.jpeg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-harrisburg-university-develops-facial-recognition-software-to-predict-criminality.md",
       "title": "Harrisburg University develops facial recognition software to predict criminality",
       "excerpt": "A group of Harrisburg University professors and a Ph.D. student have developed automated computer facial recognition software capable of predicting whether someone",
@@ -1129,52 +1175,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-ai-in-computer-vision-market-research-report-share-growth-opportunity-and-forecast-2023.md",
-      "title": "AI In Computer Vision Market Research Report Share, Growth, Opportunity And Forecast-2023",
-      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-share-growth-opportunity-and-forecast-2023-2020-05-05",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI In Computer Vision Market Research Report Share, Growth, Opportunity And Forecast-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

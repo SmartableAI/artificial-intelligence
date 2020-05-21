@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-21-clerk-of-the-superior-court-in-maricopa-county-delivering-fast-accurate-answers-to-the-public.md",
+      "title": "Clerk of the Superior Court in Maricopa County: Delivering fast, accurate answers to the public",
+      "excerpt": "The Clerk of the Superior Court in Maricopa County, based out of Phoenix, Arizona, receives thousands of service requests each day from its 4 million residents. Citizens often reach out with time-sensitive requests, like applying for marriage licenses, renewing passports and accessing court records.",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/clerk-of-the-superior-court-in-maricopa-county-delivering-fast-accurate-answers-to-the-public/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T08:45:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_05_12_Watson-Assisant_Blog-Leadspace.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Clerk of the Superior Court in Maricopa County: Delivering fast, accurate answers to the public",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-how-artificial-intelligence-is-reshaping-the-insurance-industry.md",
       "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
       "excerpt": "AI in the insurance sector has transcended several use cases from intelligent automation in the back office to providing virtual assistance on the frontlines.",
@@ -1235,52 +1279,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-02T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity.md",
-      "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
-      "excerpt": "Trusting AI to keep the banks safe can be a good or bad thing. It all depends on who wins -- villains or heroes. We'll discover",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity-2020-05-01",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T00:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

@@ -2,10 +2,10 @@
 category: news
 title: "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military"
 excerpt: "Robot toy maker Sphero this week launched a spin-off company focused on creating intelligent AI for first responders, law enforcement, and the military. Company Six (CO6), an independent startup, will adapt technology from Sphero's Public Safety Division to craft robust and feature-rich yet affordable products."
-publishedDateTime: 2020-05-21T11:30:00Z
-webUrl: "https://in.pcmag.com/robotics-automation/136413/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military"
-ampWebUrl: "https://in.pcmag.com/robotics-automation/136413/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1"
-cdnAmpWebUrl: "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/robotics-automation/136413/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1"
+publishedDateTime: 2020-05-21T14:40:00Z
+webUrl: "https://au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military"
+ampWebUrl: "https://au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1"
+cdnAmpWebUrl: "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1"
 type: article
 quality: 82
 heat: -1
@@ -24,7 +24,7 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_in/news/s/sphero-spi/sphero-spin-off-makes-robots-for-first-responders-law-enforc_kyye.620.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_au/news/s/sphero-spi/sphero-spin-off-makes-robots-for-first-responders-law-enforc_68ys.620.jpg"
     width: 620
     height: 349
     title: "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military"
@@ -46,6 +46,6 @@ related:
         width: 1440
         height: 800
 
-secured: "FuaaxKH4djxUXfoKnAe+FwARUJHU3RTlbWJP7eSe+fclSeXK3+Z+kNvGNmwg0LKQpQsjvenwrO/Ttq7wwg8JOCNAbdIGY/C5PiubqVcnGYiwxey/PcNv+ECAeca1pREjo6tk29T1MTqnuygTx9svk4rD783WpEq9UXhj9x/mT5Ry5um3PyCq9PVthhs3JLrwBhpGaohijZwlmF0TSfHY5cHgRWf16AHZuC7bg9Rlybs/562Y+godaz4P1q0XBB7Bix+tLHO7DG61IhYmKYJ5KwI2m9uJuyJs+ILwMUEXWhgIepHqfSnz9YMRiwoLhLVB;u9tNYzsmXWcSe4hJqC4eOg=="
+secured: "fryB31hbdANXLwfII0i2hnIHj0XLYKQ6Iq1lnliBwYUVVeKyYf7K18d0fp8QCYJgNvIcMsR2ozFsFXXde2l7GfYwk5kF7f7C3VTGi77fuVIIm+/VIuSnbFfYWJpu1uvq1TAs1s8MW1ZmT6K1jeQkqekJnYNUk5yOIjvse9+FvbJXI//OUIMm0/a8oVODVFXHtABTBHWN/hL0jvXkxGPfP2tKst84riOGo9/xGi491LoHmpZqMM2M+ivGGgxmuP7NNJYr1rncEwYWaOYPCqrHNvAjwlnTs36S2nnpsOyT5pxt9ai+Wmf6UeNXdP3EkDw2;QbxvFelz9jmDVUDrdnIVkA=="
 ---
 

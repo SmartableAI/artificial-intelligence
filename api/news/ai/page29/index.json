@@ -2,6 +2,96 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-04-25-an-explanation-of-machine-learning-models-even-you-could-understand.md",
+      "title": "An explanation of machine learning models even you could understand",
+      "excerpt": "I will start out by explaining what machine learning is, along with the different types of machine learning, and then I will jump into explaining common models. I won’t go into any of the math, but I am considering doing that in another article in the future. Enjoy! Machine learning is when you load lots of data into a computer program and ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/25/machine-learning-models-explained-to-a-five-year-old-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/25/machine-learning-models-explained-to-a-five-year-old-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/25/machine-learning-models-explained-to-a-five-year-old-syndication/amp/",
+      "publishedDateTime": "2020-04-25T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-32-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "An explanation of machine learning models even you could understand",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-25-our-love-of-the-cloud-is-making-a-green-energy-future-impossible.md",
+      "title": "Our love of the cloud is making a green energy future impossible",
+      "excerpt": "Add to this, millions of students ‘driving’ to class on the internet instead of walking. Meanwhile in other corners of the digital universe, scientists furiously deploy algorithms to accelerate research. Yet, the pattern-learning phase for a single artificial intelligence application ... apps quickly emerge to help self-evaluate symptoms ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/25/our-love-of-the-cloud-is-making-a-green-energy-future-impossible/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/25/our-love-of-the-cloud-is-making-a-green-energy-future-impossible/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/25/our-love-of-the-cloud-is-making-a-green-energy-future-impossible/amp/",
+      "publishedDateTime": "2020-04-25T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-885294108.jpg?w=1024",
+          "width": 1024,
+          "height": 767,
+          "title": "Our love of the cloud is making a green energy future impossible",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-25-this-ai-is-learning-how-to-replicate-your-childish-penis-drawings.md",
       "title": "This AI is learning how to replicate your childish penis drawings",
       "excerpt": "Bored? You can draw crude dicks like you did in your middle school notebooks, only this time you'll help feed an AI. Why was this created? For one, drawing dicks is fun, but the researcher broke down the reasoning behind DickRNN on its Github page. \"I also believe that 'Doodling a penis is a light-hearted symbol for a rebellious act' and ...",
@@ -1182,89 +1272,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-you-dont-need-an-geforce-rtx-gpu-to-access-rtx-voice-after-all.md",
-      "title": "You don't need an GeForce RTX GPU to access RTX Voice, after all",
-      "excerpt": "This app claims to use AI to reduce or outright cancel microphone background noise, and it was only intended to function for RTX card owners. However, as per the usual, the internet has circumvented those limitations. A user over on the Guru3D forums discovered that RTX Voice works \"just fine\" without a pricey RTX GPU in your system.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "publishedDateTime": "2020-04-23T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-23-image-31.jpg",
-          "width": 1680,
-          "height": 1120,
-          "title": "You don't need an GeForce RTX GPU to access RTX Voice, after all",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-googles-new-tensorflow-ai-processor-increases-speeds-by-eight-times.md",
-      "title": "Google's new TensorFlow AI processor increases speeds by eight times",
-      "excerpt": "New neural network AI developments from Google look set to completely revolutionise hardware. The world of computer hardware has been in something of a funk for some time. That's a deeply unwelcome, and somewhat depressing, situation for those of us who worked (or played Doom) through the white heat of the 1990s, a period when Moore's law was ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.redsharknews.com/technology-computing/item/5488-google-s-new-tensorflow-ai-processor-increases-speeds-by-eight-times",
-      "ampWebUrl": "https://www.redsharknews.com/technology-computing/item/5488-google-s-new-tensorflow-ai-processor-increases-speeds-by-eight-times?hs_amp=true",
-      "cdnAmpWebUrl": "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/technology-computing/item/5488-google-s-new-tensorflow-ai-processor-increases-speeds-by-eight-times?hs_amp=true",
-      "publishedDateTime": "2020-04-23T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "redsharknews.com",
-        "domain": "redsharknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.redsharknews.com/hs-fs/hubfs/Imported_Blog_Media/58ae20e9f6cee7ffa44f98dc80bfb545-1.jpg?width=1280&height=720&name=58ae20e9f6cee7ffa44f98dc80bfb545-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Google's new TensorFlow AI processor increases speeds by eight times",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

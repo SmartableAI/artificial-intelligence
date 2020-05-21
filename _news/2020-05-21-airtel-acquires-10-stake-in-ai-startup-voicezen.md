@@ -36,19 +36,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 37
-  - title: "Airtel acquires strategic stake in conversational AI-focused startup Voicezen"
-    excerpt: "Bharti Airtel has acquired a strategic stake in Voicezen, an early-stage startup focused on conversational artificial intelligence (AI) technologies."
-    publishedDateTime: 2020-05-21T12:34:00Z
-    webUrl: "https://www.sify.com/finance/-airtel-acquires-strategic-stake-in-conversational-ai-focused-startup-voicezen-news-topnews-ufvm4Rhefiahb.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 34
-    images:
-      - url: "https://www.sify.com/uploads/Airtel-Voicezen_ufvm4Rhegdgjg.jpg"
-        width: 600
-        height: 450
   - title: "Bharti Airtel picks up stake in conversational AI tech startup Voicezen"
     excerpt: "Bharti Airtel Ltd has acquired a 10% stake in Voicezen India Pvt. Ltd, an early-stage startup focused on conversational artificial"
     publishedDateTime: 2020-05-21T10:31:00Z
@@ -58,6 +45,15 @@ related:
       name: VCCircle
       domain: vccircle.com
     quality: 17
+  - title: "Airtel acquires strategic stake in conversational AI-focused startup Voicezen"
+    excerpt: "The acquisition has been made under its Airtel Startup Accelerator Programme, the company said on Thursday. Gurugram-based Voicezen has been working on developing advanced solutions that leverage machine learning,"
+    publishedDateTime: 2020-05-21T13:02:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20200521/3562321.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 14
 
 secured: "WhogWFWp3RWFXIkPb3Mv4KrAp9HYRp6SUK/Fw+TxeaDg3pHHMUtXVblJBq9sYPIP/AC7CI4be0LPYAYHMcS3omodybNwW84POjKVtdaXl2SywgVaKJNsUBjiCLanBwMVmDpr8MjjSqsAakGku6D+2ECH1vqJljlti/fNDPUZ0NxtcseMIkA6vGluCyeiXc1fERPeOISlhR44DXhyuO7K3heySxo3HHFi5nRWv4Ff2o7YQ/MB7dNV5AestKzijQgibfFycEslTXnENIbwmfF+NFRBXqgSTHHxdzlnhqHA6w711V+rbDkS6ydulrDCNM8s;z7Nv0ODC9b7RVOhZg7IDnA=="
 ---

@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-21-chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d.md",
+      "title": "China’s latest AI news anchor mimics human voices and gestures in 3D",
+      "excerpt": "Chinese state news agency Xinhua has added a 3D AI news anchor called Xin Xiaowei to its growing lineup of virtual presenters",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/amp/",
+      "publishedDateTime": "2020-05-21T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-45-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "China’s latest AI news anchor mimics human voices and gestures in 3D",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims.md",
+      "title": "Clara Analytics nabs $25 million for AI that expedites workers’ compensation claims",
+      "excerpt": "Clara Analytics, a startup leveraging AI to expedite workers' compensation claims, has raised $25 million during the pandemic.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/21/clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/21/clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims/amp/",
+      "publishedDateTime": "2020-05-21T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Da6I4d0VAAESNhK.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 711,
+          "title": "Clara Analytics nabs $25 million for AI that expedites workers’ compensation claims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-facebook-leverages-ai-to-improve-kids-safety-in-messenger.md",
       "title": "Facebook leverages AI to improve kids’ safety in Messenger",
       "excerpt": "Facebook is rolling out an AI feature that gives users under the age of 18 tips on interacting with unfamiliar adults and avoiding scams.",
@@ -130,7 +218,7 @@
       "path": "_news/2020-05-21-microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus.md",
       "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
       "excerpt": "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network.",
-      "heat": 90,
+      "heat": 122,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
@@ -169,7 +257,8 @@
       "topics": [
         "Google AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -1195,87 +1284,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie.md",
-      "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
-      "excerpt": "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "publishedDateTime": "2020-05-20T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/20/9e85075f-4425-4576-995a-976a4acc1b40/guthriewhereareyou.jpg",
-          "width": 1071,
-          "height": 728,
-          "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-google-says-it-wont-build-ai-tools-for-oil-and-gas-drillers.md",
-      "title": "Google says it won't build AI tools for oil and gas drillers",
-      "excerpt": "Google's announcement followed a report that documents how three tech giants are using AI to help oil companies find and access oil and gas deposits.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/google-says-it-won-t-build-ai-tools-oil-gas-n1211076",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1211076",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1211076",
-      "publishedDateTime": "2020-05-20T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_21/3357371/200520-oil-ai-google-al-0752_6a6bf87340ba869d23f0d6a33a87699d.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": "Google says it won't build AI tools for oil and gas drillers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

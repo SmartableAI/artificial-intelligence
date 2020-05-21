@@ -2,6 +2,96 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-14-how-amazons-alexa-voice-assistant-is-changing-its-tone-during-the-pandemic.md",
+      "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
+      "excerpt": "The ins and outs of the coronavirus outbreak are changing Alexa’s work habits, said Manoj Sindhwani, Amazon’s vice president of Alexa speech.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazons-alexa-voice-assistant-changing-tone-pandemic/amp/",
+      "publishedDateTime": "2020-05-14T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/200514-manoj-630x428.jpg",
+          "width": 630,
+          "height": 428,
+          "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidias-first-ampere-gpu-is-a-silicon-monster-for-ai-and-servers.md",
+      "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
+      "excerpt": "Ampere hype had been at the highest levels as of late, with many getting excited about Nvidia's next-gen GPU architecture and the improvements it may bring. But when CEO Jensen Huang was shown in a video pulling a very",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85232-nvidia-first-ampere-gpu-silicon-monster-ai-servers.html",
+      "publishedDateTime": "2020-05-14T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-14-image-27.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "Nvidia's first Ampere GPU is a silicon monster for AI and servers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020.md",
       "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
       "excerpt": "I watched NVIDIA’s GTC 2020 virtual keynote today, and I found the company scored high on both. Architecture is everything when you are a platform provider and NVIDIA rolled out its new architecture,",
@@ -1019,88 +1109,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-ai-and-machine-learning-are-at-the-heart-of-future-healthcare.md",
-      "title": "AI and Machine Learning are at the heart of future healthcare.",
-      "excerpt": "Because of the influx of the different types of information we can hold for an individual, the future is relying on data management solutions to influence the way we store, use, and protect information.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://frontlinegenomics.com/ai-and-machine-learning-are-at-the-heart-of-future-healthcare/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Front Line Genomics",
-        "domain": "frontlinegenomics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://frontlinegenomics.com/wp-content/uploads/2020/05/alexander-sinn-KgLtFCgfC28-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1710,
-          "title": "AI and Machine Learning are at the heart of future healthcare.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-adobe-announces-ai-toolbox-for-experience-platform.md",
-      "title": "Adobe announces AI toolbox for Experience Platform",
-      "excerpt": "Most companies don’t have the personnel to do AI well, so they turn to platform vendors like Adobe for help. Like other platforms, it has been building AI into its product set for several years now, but wanted to give marketers a set of tools that take advantage of some advanced AI",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/amp/",
-      "publishedDateTime": "2020-05-14T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Adobe-Customer-AI.jpg?w=680",
-          "width": 680,
-          "height": 586,
-          "title": "Adobe announces AI toolbox for Experience Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
