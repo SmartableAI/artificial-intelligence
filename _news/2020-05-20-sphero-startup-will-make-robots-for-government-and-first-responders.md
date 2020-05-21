@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Sphero startup will make robots for government and first responders"
 
-secured: "Ui7q3TCvRQIw343d2YkADvcrTmV1Eu0XVU7Cc1lzaSY02l9Bv9ldXF2CJt+VJUI/9RK7ZHubScJHG3alMMSCBAUY8URhmW7FLQgGgOnTrCdwR5jJvQLB2XrIO/sZEs7weHGNAcqAjHSZr2msVHx0G9IaNXi/eFk6nvo+LZc8cXxUKFUl1L8va8MvqOgfzk1Q5hVz6PNs80e2CaumO1lpEA/wWC/+HM82fgTr3zF0z1pZNsUzdKmpblHx2aExprHHBAccTi0vFN6nPovFUwH4ouYJyFmvnQbvI/dSDCjgLT3SOlGpr79rel45yDGqjIwE;pAvnFgqAk2kI60fu/Jb56A=="
+secured: "4/QmVTGXoR2C5w6EOcEW056uIY+6K6FG/Nxfdnt3vtr1byqYRQXAcpP/fWdTriMguTnFNXdiTZezGzn74MhMA1pCFq7SkNBksiGTqYKDWpflaJxQkykendat/VJGzH/SCTfd7iDy42yIMIim3FUKXxIoMepnHlxJHSrncZVHMEFvDEr54OQPci/HIXCMTWoXP/PxYE9YIqNjg+ZUREdT4dtFDneBTNoII+wVhZShzvipAgKaqnmUr6CUxzF+8sKMs0oIzgf0Gz4O7AZFWAwaSa1SjgG3Rpm/RAKPDH7XHXiTRoJ3FTh1THK0+0k+57m/jz5QjKNoCCfKFx7v3//vcZkPB+MtRRmBjoZ9KkkjMrjrXMb6f2FB34tEpdC922wFJCcRqTh+GvKbu6fDdsNLRfieft/7VwCuHD0/h6XPUWtDwWJTqQPgIRxrmwhS4RYaxFgXOg/IPqv+9T4Xdzh2yLH0joMkKW9ImcrpdaJSKKk=;/aALyKwRwcKxxr3QQluz1Q=="
 ---
 

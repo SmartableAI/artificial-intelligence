@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-20T17:12:00Z
 webUrl: "https://redmondmag.com/articles/2020/05/20/microsoft-supercomputer-ai-modeling.aspx"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     title: "Microsoft Touts Supercomputer for Large-Scale AI Modeling"
 
 related:
-  - title: "Microsoft Built One of the Most Powerful Supercomputers in the World to Develop Human-Like AI"
-    excerpt: "The system is one of the top five most powerful computers in the world, and it's exclusively for training AI models. The companies hope this supercomputer will be able to create more human-like intelligences."
-    publishedDateTime: 2020-05-20T18:37:00Z
-    webUrl: "https://www.extremetech.com/extreme/310806-microsoft-powerful-supercomputer-human-like-ai"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 43
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/05/openai-azure-supercomputer-kevin-scott_2_1920x1080-5ec3bbdb4945d.jpg"
-        width: 1344
-        height: 742
   - title: "Microsoft unveils enormous supercomputer to train large AI models (Lead)"
     excerpt: "Microsoft has built a new powerful supercomputer in collaboration with Artificial Intelligence (AI) startup OpenAI, making new infrastructure available in Azure to train extremely large AI models."
     publishedDateTime: 2020-05-20T13:31:00Z

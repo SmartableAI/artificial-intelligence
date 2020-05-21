@@ -28,6 +28,6 @@ images:
     height: 720
     title: "Chapter 3 : Self-Driving Car [Traffic Sign Classifier project - TensorFlow] Tutoriel"
 
-secured: "IpZ94tinP9BJbeFdJwIY9QNlRyVmUPqm78QzFzoFrg5BGdAjIKKypDgmACXfdwJZhF8j5UBzeDoKKw8cTPKBE70tkfzgtfG/Lj+IvXcGVR6O2x37vwktt/PXR8vrtiTg3v9Tvvd8mdzvKgs/L8sOnbsrOBhXFV0I67Moc4oO+up1EKFSDmXc035yTCkNnrdQB5//iqm00ff77qwJ6JVapBgH8jXx5XjBIdFSEzbkJZyyiLkM35B5grg6Hw8Oflsb1qnFfuhgJ8TPsyP9LzWpRuKTHKZNlQ0xSmhHapcTj6VFRcrBtO43tkssCTEfnJaS;FUJOIJa56kVQvs9Vcbk7jQ=="
+secured: "xlF8bfW+gZR3cP7GKKEFxt8vEQeseG1OTXx6bVyok+yk/iWrINbNc8wyJleRT8m5k8D8wEsJxjBVHADpYXqEeTuU3kCcHRgtiHb3i9YFOOieIYZLer8gKN6y0FbAtu+4CVY+UHjFsbxxA/mVjSiY8zN5Tv/nibO82xEHDbFuhCJ5/a2Tbjk02wLtiFfVseg+/4TTGG9NRrOXCBAOCq92QiHl79zfMO0+zx8l7b0a8tyz5SWfuWxakhlmRNmKxRsUKEJn1LLli5jjQfct/wmWa8QiAquFBlKCh/U8VadsI/xXAczDbF7jRMAir84wKyelgEU74hGMu9VX7O7+gKgTOTWfbfoZOgXA+sp8pAdDA0hNIIcwM/gnjdKY8T+Eal+sxN/HYbDucOUqCtZnWt2gbRPaYxoLKvfANAu2xq7fenQauaGArnwpw7lnK8SP+/6x/CojIgPc9xVN9tzW9KG3v44r9/jpA6daxFvK8SFMCqo=;PyLbgvsc4KC3y+leu30uew=="
 ---
 

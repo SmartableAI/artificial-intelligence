@@ -1,19 +1,23 @@
 ---
 category: news
-title: "Sony, Microsoft strike deal on tiny AI chip with huge potential"
-excerpt: "Instead of generating actual images, Sony's AI chip can analyze the video it sees and provide just metadata about what's in front of it — saying instead of showing what's in its frame of vision. No data is sent"
+title: "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential"
+excerpt: "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers."
 publishedDateTime: 2020-05-19T02:22:00Z
-webUrl: "https://www.seattletimes.com/business/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential/"
-ampWebUrl: "https://www.seattletimes.com/business/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential/?amp=1"
+webUrl: "https://www.bloomberg.com/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential"
+ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential"
+cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -34,6 +38,6 @@ related:
         width: 870
         height: 580
 
-secured: "WTrx91EDLnNOPtli1xbWsFfpKI2dMS0VLoaut2TI1t53fR16hEYkZfbGo4rFfwevjxbzpdZFtfhYAXB2GAXzp0UT5xWAl3bF3PCKKKaqrbHi4vOOZc+BtNc70IUTM8dxGRP0d67KNPeQ5mAy5aEnNTCapAPrDyH+2XJXtCxWsvZNCTgu4Zaw69REiaiO1k2V08hk4t9/TqTKFtwQyqASh0d0RVqIr4Cq/HwZffuiZ1PGpklgd4vqMZ/bIQI8cTbtzK2ZL3/ipfiG9p+FXF6AEOnB93cZWQHuKSk/o25oavLlzMiIK6cHzkUAVm1F2RJvCkZS70cOQTahVc1xAgqDrjS3Hg/3nxNOyX9tk4EaRMr6biJ8fafkeHhFTxJ+WjKOcyL9tG0V6LrlSkV1zASpA6wl7Hpk3LRYWRsgvauyFpaWClds8eljHfGSKc9se8LLMMlQ7ofJoZzK/LY0xkEoYFzGwK0I05H0n/iN4BfGHvc=;mpPRclKVro2V1I5TEsTo2A=="
+secured: "IQs5uNh7+mHqctjOXAyemEY9txmghX7gWqc1X+rIFGo7rHUqkSnXNdXZffiQ6ovJOQOgdhkJfw5PjdKnVOmu+gqdmjshNPfQIXClPSVQ3MKKEYzl0Uhix3yvxr6Ix8meTagvlO21j5wgzCmxbjmgrm/lrTjGeoRKN7vCpU60bL5nntev8KwRMNOvpabKDzwtFGLNqCRMar5n2YoE2qwx3G85rj+aD03oUsUM1+aJYev04GKeGKpuVKKv9vMa1kRJjUsiTYerGxbwxvYg8MTMe0rhmmfjVMo+jTP2tQ7+UYeQ+1BrkN57mbPmrZu9R1bkFHGK+G0EcKolQnlqbIqsKbVG8NnEFs4WIMZxwkJafUMwyl2mby26IJIcggraOGmc3fkiyJT8gFOhTIBljXkC7sQcLj2+FoLPP7c5JGKwWztxwbgqhspsPz5ZlSi8LIraazobzd0M4MWwGjfwvZREtNb4qBGiu15LBsYcyPZSHXM=;01XTJdXZxQxERQsvX4cp6A=="
 ---
 

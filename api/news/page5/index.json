@@ -2,6 +2,96 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-18-as-mental-health-needs-surge-this-seattle-startup-offers-ai-powered-analysis-of-therapy-sessions.md",
+      "title": "As mental health needs surge, this Seattle startup offers AI-powered analysis of therapy sessions",
+      "excerpt": "The novel coronavirus has brought with it fears of infection, massive job losses, the challenges of teaching kids at home, social isolation, and the list goes on. The toll on our collective",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/",
+      "ampWebUrl": "https://www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/amp/",
+      "publishedDateTime": "2020-05-18T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Lyssn_telehealth-630x383.png",
+          "width": 630,
+          "height": 383,
+          "title": "As mental health needs surge, this Seattle startup offers AI-powered analysis of therapy sessions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-sony-to-use-microsofts-azure-ai-technology-in-new-smart-camera-sensors.md",
+      "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
+      "excerpt": "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also",
+      "heat": 141,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/",
+      "ampWebUrl": "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/",
+      "publishedDateTime": "2020-05-18T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg",
+          "width": 1260,
+          "height": 709,
+          "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-self-driving-shuttle-company-adds-seatbelts-in-order-to-resume-us-operations.md",
       "title": "Self-driving shuttle company adds seatbelts in order to resume US operations",
       "excerpt": "French self-driving vehicle company EasyMile will add seatbelts to its shuttles in order to be able to once again carry passengers in the US. EasyMile’s shuttles were suspended by the National Highway Traffic Safety Administration (NHTSA) in late February after an incident where a passenger fell out of her seat during a sudden stop in Columbus,",
@@ -1001,88 +1091,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-10-ways-ai-is-improving-manufacturing-in-2020.md",
-      "title": "10 Ways AI Is Improving Manufacturing In 2020",
-      "excerpt": "The BMW Group uses AI to evaluate component images in ongoing production lines to spot deviations from the standard in real-time. Perceiving the pandemics' hard reset as a chance to grow stronger, more resilient,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/18/10-ways-ai-is-improving-manufacturing-in-2020/amp/",
-      "publishedDateTime": "2020-05-17T21:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201992144%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3267%26cropY1%3D156%26cropY2%3D1994",
-          "width": 1199,
-          "height": 675,
-          "title": "10 Ways AI Is Improving Manufacturing In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-police-stocktake-surveillance-tech-after-clearview-ai-facial-recognition-trial.md",
-      "title": "Police 'stocktake' surveillance tech after Clearview AI facial recognition trial",
-      "excerpt": "The Police Commissioner has ordered a stocktake of surveillance technologies after police trialed controversial facial recognition software without consulting his office.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rnz.co.nz/news/national/416913/police-stocktake-surveillance-tech-after-clearview-ai-facial-recognition-trial",
-      "ampWebUrl": "https://amp.rnz.co.nz/article/92771117-dcaf-49bd-bf28-8480d27440df",
-      "cdnAmpWebUrl": "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/92771117-dcaf-49bd-bf28-8480d27440df",
-      "publishedDateTime": "2020-05-17T19:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rnz",
-        "domain": "rnz.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rnz.co.nz/assets/news_crops/99690/eight_col_080420NZHMMCOSTER4.jpg?1586319762",
-          "width": 720,
-          "height": 450,
-          "title": "Police 'stocktake' surveillance tech after Clearview AI facial recognition trial",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
