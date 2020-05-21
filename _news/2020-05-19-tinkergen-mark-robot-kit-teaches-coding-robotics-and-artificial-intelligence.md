@@ -5,8 +5,8 @@ excerpt: "TinkerGen has designed and built a new robot kit to help teach childre
 publishedDateTime: 2020-05-19T11:44:00Z
 webUrl: "https://www.geeky-gadgets.com/tinkergern-robot-kit-19-05-2020/"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/05/TinkerGern-robot-kit.jpg"

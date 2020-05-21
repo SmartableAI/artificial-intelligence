@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-30-google-co-founder-sergey-brin-lays-out-the-many-ways-the-company-uses-ai-today.md",
+      "title": "Google co-founder Sergey Brin lays out the many ways the company uses A.I. today",
+      "excerpt": "Sergey Brin's Founders' Letter outlines the ways Alphabet uses artificial ... intelligence every day. He highlights that the company employs it to: understand images in Google Photos; enable Waymo ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/04/27/alphabet-founders-letter-2017-sergey-brin-on-ai.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/04/27/alphabet-founders-letter-2017-sergey-brin-on-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/04/27/alphabet-founders-letter-2017-sergey-brin-on-ai.html",
+      "publishedDateTime": "2020-04-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104642952-GettyImages-152766137.jpg?v=1529475925",
+          "width": 2000,
+          "height": 1322,
+          "title": "Google co-founder Sergey Brin lays out the many ways the company uses A.I. today",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-items-tagged-with-uber.md",
       "title": "Items tagged with uber",
       "excerpt": "Researchers around the world are working on new types of artificial intelligence (AI) that can dominate in games created by humans. Typically, these AI complete video games with much higher scores ...",
@@ -1215,51 +1260,6 @@
           "width": 1600,
           "height": 900,
           "title": "Alphabet Stock Remains a Winning Pick Despite Ad Slowdown",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy.md",
-      "title": "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy",
-      "excerpt": "Now power these self-driving EVs with locally produced renewable energy, and you’ve created a blameless transportation system. That’s essentially what self-driving start-up Cruise has done. But achieving carbon neutrality is just the first step—the next is becoming carbon negative.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/",
-      "ampWebUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/",
-      "publishedDateTime": "2020-04-22T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea09585dea8300007de92b9%2F0x0.jpg",
-          "width": 1200,
-          "height": 959,
-          "title": "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy",
           "attribution": null
         }
       ],

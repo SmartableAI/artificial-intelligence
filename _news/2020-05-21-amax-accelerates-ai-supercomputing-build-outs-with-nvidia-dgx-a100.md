@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "AMAX Accelerates AI Supercomputing Build Outs With NVIDIA DGX™ A100"
-    excerpt: "Enterprise data centers, research centers, academia and OEM solution providers can deploy DGX clusters into their environment or build a ready-to-deploy rack elevation through AMAX Rack Integration Hubs in as fast as 1-2 weeks."
+    excerpt: "AMAX, a leader in integrated supply chain manufacturing and orchestration, announced today that its HPC and AI Solutions Group unit is"
     publishedDateTime: 2020-05-20T14:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/amax-accelerates-ai-supercomputing-build-outs-with-nvidia-dgxtm-a100-2020-05-20?mod=mw_quote_news&tesla=y"
+    webUrl: "https://www.prnewswire.com/news-releases/amax-accelerates-ai-supercomputing-build-outs-with-nvidia-dgx-a100-301062676.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1170790/AMAX_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
   - title: "AMAX Accelerates AI Supercomputing Build Outs With NVIDIA DGX(TM) A100"
     excerpt: "AMAX, a leader in integrated supply chain manufacturing and orchestration, announced today that its HPC and AI Solutions Group unit is offering and"
     publishedDateTime: 2020-05-20T16:04:00Z

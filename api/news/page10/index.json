@@ -2,6 +2,134 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-14-apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.md",
+      "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
+      "excerpt": "The next major release of the in-memory data processing framework will support GPU-accelerated functions courtesy of Nvidia RAPIDS",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
+      "publishedDateTime": "2020-05-14T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/05/sparking-jumper-cables-94261543-100265638-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing.md",
+      "title": "GPU Chips Are Poised To Rewrite (Again) What’s Possible In Cloud Computing",
+      "excerpt": "Tech companies such as Nvidia and Oracle are making it easier for businesses to apply GPUs to more complicated realms of artificial intelligence.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/",
+      "ampWebUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
+      "publishedDateTime": "2020-05-14T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor.md",
+      "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
+      "excerpt": "The graphics chip will power servers used by Amazon, Google, Microsoft and other cloud service providers. And it will be used to fight COVID-19.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor/",
+      "publishedDateTime": "2020-05-14T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/79Yy0yZjYrwQ_DudmDmuzkaHc-4=/756x567/2020/05/13/4e3681ec-e2c3-4c89-9ab8-b73afaa51f05/2555435ebb25b4781b28-39429237-first-nvidia-dgx-a100-at-argonne-national-laboratory-image-courtesy-argonne.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-begins-shipping-the-a100-its-first-ampere-based-data-center-gpu.md",
       "title": "NVIDIA begins shipping the A100, its first Ampere-based data center GPU",
       "excerpt": "NVIDIA announced today that its NVIDIA A100, the first of its GPUs based on its Ampere architecture, is now in full production and has begun shipping to its customers globally. Ampere is a big generational jump in NVIDIA’s GPU architecture design,",
@@ -140,27 +268,35 @@
     {
       "path": "_news/2020-05-14-supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server.md",
       "title": "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server",
-      "excerpt": "PRNewswire/ -- Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green",
+      "excerpt": "(Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green computing technology, today announced two new systems designed for artificial intelligence (AI) deep learning applications that fully leverage the third-generation NVIDIA HGX™ technology with the new NVIDIA A100™ Tensor Core GPUs as well as full support for the new NVIDIA A100 GPUs across the company's broad portfolio of 1U,",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server-301059071.html",
+      "webUrl": "https://www.marketwatch.com/press-release/supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server-2020-05-14",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-14T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1168093/RedStone_SuperMinute_100.mp4?p=medium",
-          "width": 512,
-          "height": 288,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server",
           "attribution": null
         }
@@ -932,135 +1068,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-artificial-intelligence-cant-yet-learn-common-sense.md",
-      "title": "Artificial intelligence can't yet learn common sense",
-      "excerpt": "The quest to make AI as smart as humans is still ongoing. But there are things your company can do to get better results from the technology.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-cant-yet-learn-common-sense/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-cant-yet-learn-common-sense/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-cant-yet-learn-common-sense/",
-      "publishedDateTime": "2020-05-13T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/13/7c16912b-b0eb-4826-9e76-7bddcaa31dd9/resize/1200x/2dbb27f927dfced01c232730649a514c/istock-1046249370.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial intelligence can't yet learn common sense",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-kite-brings-its-ai-powered-code-completion-to-javascript.md",
-      "title": "Kite brings its AI-powered code completion to JavaScript",
-      "excerpt": "Originally for Python only, Kite has added a JavaScript-trained machine learning model to its add-on for popular code editors and IDEs",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3543276/kite-brings-its-ai-powered-code-completion-to-javascript.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3543276/kite-brings-its-ai-powered-code-completion-to-javascript.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3543276/kite-brings-its-ai-powered-code-completion-to-javascript.amp.html",
-      "publishedDateTime": "2020-05-13T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/robot_workforce_workers_artificial_intelligence_ai_thinkstock_905028734-100749936-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Kite brings its AI-powered code completion to JavaScript",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-uber-to-use-facial-recognition-tech-to-determine-if-drivers-are-wearing-masks.md",
-      "title": "Uber to use facial recognition tech to determine if drivers are wearing masks",
-      "excerpt": "Chiara Sottile Riders and drivers on the Uber platform will have to verify they are abiding by new COVID-19 safety guidelines, including wearing a mask or face cover and regularly washing or sanitizing their hands,",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-13-coronavirus-news-n1205916/ncrd1206346",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1205916",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1205916",
-      "publishedDateTime": "2020-05-13T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2020_20/3347946/200513-coronavirus-burial-st-petersburg-se-119a_2827cbc0f17eb8e10eaf618c8886b51e.fit-560w.jpg",
-          "width": 560,
-          "height": 359,
-          "title": "Uber to use facial recognition tech to determine if drivers are wearing masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

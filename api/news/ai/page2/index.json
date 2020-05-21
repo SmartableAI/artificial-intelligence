@@ -2,6 +2,226 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-20-microsoft-touts-supercomputer-for-large-scale-ai-modeling.md",
+      "title": "Microsoft Touts Supercomputer for Large-Scale AI Modeling",
+      "excerpt": "Microsoft disclosed at Build that it has built one of the world's most powerful supercomputers in collaboration with a company building artificial intelligence (AI) solutions.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://redmondmag.com/articles/2020/05/20/microsoft-supercomputer-ai-modeling.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg",
+          "width": 1665,
+          "height": 1158,
+          "title": "Microsoft Touts Supercomputer for Large-Scale AI Modeling",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network.md",
+      "title": "Shopify intros Balance debit card for SMBs, expands access to AI fulfillment network",
+      "excerpt": "E-commerce platform provider Shopify on Wednesday unveiled a new financial service for its small business merchants that aims to consolidate business transactions and cash flows into a single business account.",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
+      "publishedDateTime": "2020-05-20T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/18/9c02bf5f-14b2-4c9a-81fb-c41203e8a625/thumbnail/1200x675/497b2a0ce40b8724b624d72a84bd65e2/patrick-tomasso-nwvwbv0sv04-unsplash.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Shopify intros Balance debit card for SMBs, expands access to AI fulfillment network",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-influence-of-covid-19-north-america-self-driving-car-market-on-global-trends.md",
+      "title": "Influence of COVID-19 North America Self-driving Car Market, on Global Trends",
+      "excerpt": "May 20, 2020 (AmericaNewsHour) -- North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/influence-of-covid-19-north-america-self-driving-car-market-on-global-trends-2020-05-20",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Influence of COVID-19 North America Self-driving Car Market, on Global Trends",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-search-engines-are-leveraging-ai-to-improve-their-language-understanding.md",
+      "title": "Search engines are leveraging AI to improve their language understanding",
+      "excerpt": "Increasingly, search engines like Bing and Google are leveraging AI and machine learning to improve the quality of results.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/20/search-engines-google-bing-are-leveraging-ai-to-improve-their-language-understanding/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Search engines are leveraging AI to improve their language understanding",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars.md",
+      "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
+      "excerpt": "Via the advent of Machine Learning (ML) and Deep Learning (DL), many of these AI applications are intended to adjust on-the-fly and tailor themselves in real-time to the efforts they were designed to meet.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-05-20T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1128869156%2F0x0.jpg",
+          "width": 1200,
+          "height": 781,
+          "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders.md",
       "title": "Sphero spins out Company Six to bring robotics tech to first responders",
       "excerpt": "Colorado-based Sphero launched Company Six, a new robotics company focused on first responder and disaster response technologies.",
@@ -43,51 +263,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-amax-accelerates-ai-supercomputing-build-outs-with-nvidia-dgx-a100.md",
-      "title": "AMAX Accelerates AI Supercomputing Build Outs With NVIDIA DGX™ A100",
-      "excerpt": "Enterprise data centers, research centers, academia and OEM solution providers can deploy DGX clusters into their environment or build a ready-to-deploy rack elevation through AMAX Rack Integration Hubs in as fast as 1-2 weeks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/amax-accelerates-ai-supercomputing-build-outs-with-nvidia-dgxtm-a100-2020-05-20?mod=mw_quote_news&tesla=y",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AMAX Accelerates AI Supercomputing Build Outs With NVIDIA DGX™ A100",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1128,185 +1303,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-google-halts-ai-tools-for-oil-industry-after-greenpeace-report.md",
-      "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
-      "excerpt": "The move comes after the report detailed links between Google, Amazon and Microsoft and oil and gas companies.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/amp/",
-      "publishedDateTime": "2020-05-19T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211427609%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-smart-office-market-technological-innovation-by-leading-key-players-2022.md",
-      "title": "Smart Office Market Technological Innovation by Leading Key Players 2022",
-      "excerpt": "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/smart-office-market-technological-innovation-by-leading-key-players-2022-2020-05-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Smart Office Market Technological Innovation by Leading Key Players 2022",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tesla-will-boost-its-full-self-driving-software-price-to-8000-in-july.md",
-      "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-      "excerpt": "As the electric-car maker's driver-assist software package moves closer to being truly full self-driving, the company is raising its price.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
-      "publishedDateTime": "2020-05-19T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness.md",
-      "title": "New AI from DeepMind and Google can detect a common cause of blindness",
-      "excerpt": "DeepMind and Google Health have developed an AI that can predict who'll get one of the world's most common causes of blindness.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
-      "publishedDateTime": "2020-05-19T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-40-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "New AI from DeepMind and Google can detect a common cause of blindness",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

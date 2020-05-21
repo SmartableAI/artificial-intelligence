@@ -2,6 +2,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-13-another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020.md",
+      "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
+      "excerpt": "Waymo, the autonomous driving unit of Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL), announced Tuesday that it has raised a further $750 million in external investment.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/news/20/05/16026539/another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16026539",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16026539",
+      "publishedDateTime": "2020-05-13T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/waymo_minivan_7_1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-artificial-intelligence-cant-yet-learn-common-sense.md",
       "title": "Artificial intelligence can't yet learn common sense",
       "excerpt": "The quest to make AI as smart as humans is still ongoing. But there are things your company can do to get better results from the technology.",
@@ -351,11 +389,11 @@
     {
       "path": "_news/2020-05-09-weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal.md",
       "title": "WeRide Trade Secrets Feud With Rival, Ex-Execs Ends In Deal",
-      "excerpt": "Self-driving car startup WeRide has reached an agreement to end its heated trade secrets spat with a rival company founded by two of its former executives, according to a joint stipulation of dismissal lodged Friday in California federal court.",
+      "excerpt": "Both companies are developing autonomous, or self-driving, cars for the Chinese market ... According to WeRide, Wang was pushed out as CEO in January 2018 after his former employer, the Chinese internet company Baidu, sued him, alleging that he failed to return a laptop belonging to Baidu, stole Baidu's trade secrets and poached Baidu's ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.law360.com/articles/1272042/weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal",
+      "webUrl": "https://www.law360.com/ip/articles/1272042",
       "ampWebUrl": "https://www.law360.com/amp/articles/1272042",
       "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272042",
       "publishedDateTime": "2020-05-08T19:30:00-07:00",
@@ -966,51 +1004,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
-      "title": "3 Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "publishedDateTime": "2020-05-06T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "3 Artificial Intelligence Stocks to Buy in May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-sleeker-lidar-moves-volvo-closer-to-selling-a-self-driving-car.md",
       "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
       "excerpt": "Using technology from Silicon Valley's Luminar, the Swedish automaker plans to offer completely autonomous highway driving by 2022.",
@@ -1043,6 +1036,51 @@
           "width": 2400,
           "height": 1600,
           "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
           "attribution": null
         }
       ],
@@ -1189,51 +1227,6 @@
         "IBM AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ford-releases-self-driving-car-data-to-encourage-further-research.md",
-      "title": "Ford releases self-driving car data to encourage further research",
-      "excerpt": "Ford hopes data from some of its test cars will spur further development of autonomous driving tech. Ford is releasing a data package collected over one year.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cars/ford-releases-self-driving-car-data-to-researchers/",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/ford-releases-self-driving-car-data-to-researchers/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/ford-releases-self-driving-car-data-to-researchers/?amp",
-      "publishedDateTime": "2020-05-05T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/av-data-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Ford releases self-driving car data to encourage further research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

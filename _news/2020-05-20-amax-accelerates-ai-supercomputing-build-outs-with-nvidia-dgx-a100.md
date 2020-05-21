@@ -1,30 +1,26 @@
 ---
 category: news
 title: "AMAX Accelerates AI Supercomputing Build Outs With NVIDIA DGX™ A100"
-excerpt: "Enterprise data centers, research centers, academia and OEM solution providers can deploy DGX clusters into their environment or build a ready-to-deploy rack elevation through AMAX Rack Integration Hubs in as fast as 1-2 weeks."
+excerpt: "AMAX, a leader in integrated supply chain manufacturing and orchestration, announced today that its HPC and AI Solutions Group unit is"
 publishedDateTime: 2020-05-20T14:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/amax-accelerates-ai-supercomputing-build-outs-with-nvidia-dgxtm-a100-2020-05-20?mod=mw_quote_news&tesla=y"
+webUrl: "https://www.prnewswire.com/news-releases/amax-accelerates-ai-supercomputing-build-outs-with-nvidia-dgx-a100-301062676.html"
 type: article
-quality: 69
-heat: 89
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1170790/AMAX_Logo.jpg?p=facebook"
+    width: 600
+    height: 315
     title: "AMAX Accelerates AI Supercomputing Build Outs With NVIDIA DGX™ A100"
 
 related:
@@ -51,6 +47,6 @@ related:
       domain: wfmz.com
     quality: 19
 
-secured: "9nze8Q5ME5TJAASnhb+8k7cRMhkWDJXi+U9hD0cR+wigMZuYAFvTV8jojytlC8SDJRqdOYvFNjRUuku+uKTL0fwq/7BGzGobFRdoNDZGf1fw0D4KgW5yN4jGQWIcRLGWoLBMfT+VU/CiMNx4kEq+pTKRp8MUNNfPtp4DitlwUINte6eJzY7+aaWlwg1QKez+czkVKtGLV5bbtN0lzXBRHuZnNvXXff+8N2eE7bJOpX0KzA2BfHGvseRIATxRyRwdG04zaRcWKkm8WY0xIinB5a8qhXMsaXtqbYOy0a8oGSxocrBNlqwsoNPq+IjBLJnS;osCQpWEiOO2pKkPsz0uv+A=="
+secured: "15AqyweDJzkN+rhnTfCww6twwB26v/HqqczBF2O4R4fong3PUMYcVPydRP1BSil5nqygJbl/OBBrOgXJZRpbQB4aqbefUsEgxcrmwh4xYt7NFJVq2sSXioWPJhUDVpASCxdrTkisP7IYWFJCQ95vfVMTbLbgWZv0BcOKuRDg2r2aEKdFL0SBmsro1y/cMJP3IgOUb6zgiVCriFhmP5x0ruRVwyQW06lTdpHdBZ4ak9klkbXEUgdKZDDx9Cio50wyCZqfL913/Z3P7g78Rdgs8Gzlcp9j/Et0526bHknfo90+VeoP6z+CJyfDZcQNye+z;/xw87OSAc7k9SbVgnCN6vQ=="
 ---
 

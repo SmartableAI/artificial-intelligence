@@ -45,6 +45,21 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519427977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K0SD"
         width: 817
         height: 545
+  - title: "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus"
+    excerpt: "Gap Inc. is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic."
+    publishedDateTime: 2020-05-21T21:42:00Z
+    webUrl: "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5"
+    ampWebUrl: "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5ec6ecbf3ad861791b7c0226?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Gap rolls out more robots to warehouses to solve coronavirus disruption"
     excerpt: "US apparel chain Gap Inc is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic, the company told Reuters."
     publishedDateTime: 2020-05-21T10:53:00Z
@@ -61,6 +76,6 @@ related:
         width: 651
         height: 366
 
-secured: "Xt3sOqd1khjyaB7nPqM083RVAWE9ILgPnmTHsNT4Uaze66+8MqbhZCAmstpG+etyOpj80oyBPpoKmyXKuKtASEnQgWcbm30zmY/1XkC/p/1MZtr1i+R16CHrcOsSgSypND6YHul+G3pHgh/VzN9B0qehl2vtXcyhwsQD8VfNK+0BEYYp1q9aaM+Orp9+mbZteoX4yS8aOnh0szHeek3fYWTXSNDVZtqfr3rlM2jiBwtkBYGTj8LUWJ7+bGAoSURF+VpGyCInLX9c6rsL98Rb6wUVgDmoXw64GVXPQy5yIYOQY9mu5ae3vR0qhGEYStF0;BaukviY6UmAg3JbKywr5TQ=="
+secured: "tByIl+ZsjQRfuJPEzPGoTDL8mBmSjRX5kyAgRAhU9sCDGsN4Kgs9YnTCE0RdDKz6fhj3hqxqDsk9+D2cBUbvg20hPUaJv8ebqOtuxJusofTxHu7AjUGm9jhHRNsPnLKszq+p/ujTLmOhW35cAUpu7p8Cg7mbIFMyvAqe1b9j/KbNmKJeEsAm+jXpRD0AUptxSw+AbTQmqWwA4eW9MGMuDKojj61O8/skJ3U2Ht0gfsI9GryQWy3+RFHnpJo+ssJAfUbu03CAOrV3jh4S6cd355QmiSIMwkSRIQN3wQv+Cm89wVa73ciXOMIFr+jtiK4xeMtl8dJQv2laE0MdwCmyq2aLirnswjysl7RdjHuGIowoamG9M9kM8gnq2mzFPWlKSA6IpDW/ER29IHXARilqIkyQZDfMQkHYoeWUJT6+Ga7Wlf4u1WdeX2hdDun4LEcXq9FFtLzsCpM0H++UiDYDCX09l7II8GXVJNclvftacxA=;k/jyqOjzyGNOBdrnLlW+ag=="
 ---
 

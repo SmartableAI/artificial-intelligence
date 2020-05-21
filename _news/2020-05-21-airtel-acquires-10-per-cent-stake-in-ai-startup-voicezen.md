@@ -52,7 +52,7 @@ related:
   - title: "Airtel buys 10% stake in conversational AI startup Voicezen"
     excerpt: "Bharti Airtel on Thursday said that it has acquired a 10 per cent stake in Voicezen, an early stage startup focused on conversational AI technologies."
     publishedDateTime: 2020-05-21T18:21:00Z
-    webUrl: "https://www.sify.com/finance/airtel-buys-10-stake-in-conversational-ai-startup-voicezen-news-topnews-ufvsk9fgggjeb.html"
+    webUrl: "https://www.sify.com/news/airtel-buys-10-stake-in-conversational-ai-startup-voicezen-news-education-ufvxF9fjicgfa.html"
     type: article
     provider:
       name: Sify.com

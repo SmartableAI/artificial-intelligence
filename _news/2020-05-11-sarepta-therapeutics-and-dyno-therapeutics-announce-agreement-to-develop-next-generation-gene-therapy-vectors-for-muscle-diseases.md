@@ -1,23 +1,21 @@
 ---
 category: news
 title: "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases"
-excerpt: "Agreement leverages Sarepta’s leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno’s CapsidMap artificial"
-publishedDateTime: 2020-05-11T11:11:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases-1029186702"
+excerpt: "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design"
+publishedDateTime: 2020-05-11T11:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15998024"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "D/SBNH44PILfloI03EYaTFL5AwAn5PMciX7hZKL4dVZONDgYwQxZvPgnk4cpO990uIZzxZmLapxXVNQqG5pHFsCiw/hR8nJmxPOe7vCldz2AGy06NP21C4whBjUyTMAvFBfcFScodf36xDyMBIEDYiEjSD1A8BFR+WKsRD2MsbgPkE9++bCIjos7ZbZvTc3Sg8zz//Zwi+qnajA0EAkVKIblhFaNN06DB0DyIQELr7WNtR9ZADzqNSIVxgI09yTkWDevuDYzETd/0n8+RHn/6cBJsENFNyRU5uyg4p9x3O4qoq71yiyXV1ktiJYEPk1g;75nNW3E9D7JMgklPe/zpRA=="
+secured: "IxvAWCud7JvtUrTVZd5q2dAbP2qqXNCgqjSKXNF9Ptalt4jtukyMNB2xPeKHKqYJEWEewQ+wdi5CPrTOiy+uDx/rZakUnUMjK+SuRnKE5LQdL9z1ycLaUhV6LLD4fE5wEBmC2yVQCqoggkEHtA0egp4EUSic8KtviPdrsSwo9lJ2/ht3V7MTcyIZbogrI5jeOv9qPp8OrJMytp+fG/kaLa4MEBy9poIrUvYaUqRVNYWGEd4JD/QBgPoq85WxM1/w2zbn2sW8LI105D8JglG1g6y2KH1HP1q2Dsi6sUuWMt5sgTTW8GtntZU0yMbCTLb/;07Sdd23BG5JuvzYpEG+wQA=="
 ---
 

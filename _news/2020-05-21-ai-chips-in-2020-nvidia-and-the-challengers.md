@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challenge
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/"
 type: article
-quality: 87
-heat: 87
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2019/04/03/156d6478-5ded-4ada-835a-784899fa6564/abstraction-layer-runai.png"
@@ -28,6 +29,6 @@ images:
     height: 672
     title: "AI chips in 2020: Nvidia and the challengers"
 
-secured: "KHkzFrimx5q1b1m4a0EIs4rMtfCNjx1aQN13bQ5XSF9EZArLuVokqEGcIdY1/5HNmYxk+uRBSwoanfk2QdO0Qnt/qZJEvB9vOVjl2wJZbLQY7mhwudEswDxoQlEfGrSmz3gJHiz8PN/1fKd4xDLa1GOZk5B2AxyQmiBnt7zlVbbRVBpv+/y5yEPPCxjVNjv9NXKCTUN91LO/5vQ4uKry5BdgHdBAsRotIcNYN2MtUoccwxWj1sCU+n9wETHCRovcZfVHPbRPgCVvlckSh7Hp5f1lpHoUWSra6FLrwWEgRKArQ+iv4g7vzESuL47X33R/;cV0wR3jM59R1aZeq8Tzjnw=="
+secured: "0enC/2G/DcE6NjPTNsjKBm95M6tGa6dno+270UKP6B2H/VoKeWhWboeJ2LSQG1x6cLquISI9zh8uYSmwrQN8hRQuFcTKr1cXMkQuDo5HmljW5wndoqqrVt+jK6tgTaiyzlPRKsJqbJtY6uV4MnxZ0R9Nsr0QaZGgOVhH9gklW+ONXlzMrcRVHtLeDS36YhL4yZnRduoIAvHdWEp4XzngeDA542u+q4rySvzWt4t68RftW69ZyNup0IXr1l5idP/Hb/l8GkV/dX7K8uTPUuCFqtyB2Ce4HLRWMXxeY2K188e2yfukex+mviR2Zpx8/bpY8HIOexXkggKrLGCiHXbRhALtVmWOmq+bzEJQrKLAPmtBUe5CFPiTQ1hVnpBVTWaHoWLZpwEYAzUQwRoawqdxzsXf1MfVQ/5sYxguMZTJZn54wuEaBV4NkrjZNYN5l59Ur6KHcsY1G0UX7+G9mT27Ii/vEnFlL2usWl5E5thk/OQ=;Vb8r88+puiPCysICuxd7rg=="
 ---
 

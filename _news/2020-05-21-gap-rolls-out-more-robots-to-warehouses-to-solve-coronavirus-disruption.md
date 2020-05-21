@@ -56,6 +56,21 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106547755-1590087185389gap.jpg?v=1590087262"
         width: 1326
         height: 745
+  - title: "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus"
+    excerpt: "Gap Inc. is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic."
+    publishedDateTime: 2020-05-21T21:42:00Z
+    webUrl: "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5"
+    ampWebUrl: "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5ec6ecbf3ad861791b7c0226?width=1200&format=jpeg"
+        width: 1200
+        height: 600
 
 secured: "0c8fBrNhMiB2yW9l5E/RsPIynoN0yOMzmgKg1kDkQHGnWR5KHKhzLHu9u0ooY1jRHBczd+vOhyJHyV9QHtr5gZxAYbwnd45kWL35zpRXyKP53ux0htgUTSzfocQP4GNtLYIx+vPFYGRiEyG/O/yx9cTcLSnXE2ehyoy1g5Q13jYrUrIMnKd5rpgKmNW3eW1v0yrTO1n9dbBMNSs7iGhavnR0wF8+OiPjQ9MBX4qArfSb05qRaFW+EOqMZApUq5u7adDFbJwxfm42ssFohLRPaaaoj90J3PG6hpYHJktCs20bq69/F5qGTMehP31kfCuM;u8rds40EUcjS3lFBhvUveg=="
 ---

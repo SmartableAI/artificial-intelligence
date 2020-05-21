@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server"
-excerpt: "PRNewswire/ -- Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green"
+excerpt: "(Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green computing technology, today announced two new systems designed for artificial intelligence (AI) deep learning applications that fully leverage the third-generation NVIDIA HGX™ technology with the new NVIDIA A100™ Tensor Core GPUs as well as full support for the new NVIDIA A100 GPUs across the company's broad portfolio of 1U,"
 publishedDateTime: 2020-05-14T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server-301059071.html"
+webUrl: "https://www.marketwatch.com/press-release/supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server-2020-05-14"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1168093/RedStone_SuperMinute_100.mp4?p=medium"
-    width: 512
-    height: 288
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server"
 
-secured: "ZnEtiqovJqmMJ/dlqIkOjOvs6m74eeZqjue1f/a7yeQnNxf7/a/DgQBYG9aA+Bw+EGcbnQ6IfYRzWssNyRimfTxzENKAy9Y6+TqyYmg2313+rILpwBm8HpgryzwjBmXkJ6B/rQiw7DgqjT2Bwicx63wvF9tK+RqF3wIBWrAhZAEJFyCJkAKQyNf9ul9e1NgK8DY8/NX+OpQVaZluGnrf6xqEqDH1YP9jMPwGTMMfGtx/jiezhgPMnRMt8v6wvD/8AjaZQGzdujBscrqHxabRTbKhTw50sKELx5wkW9ty8PlOCsbG2cjuHZc6R/5HDK6I;qsJDwwak3iLfWBm9sn/TuQ=="
+secured: "9JdWKWguPmtj36/1h6qPA9N3aYXNvgJ4XIXQmXQqO3wfLzZnz0d7TCZ/WthsFPlBepnb3oaTB28OW7yVnGoXuuoAcJUYdy1GiFYIC1utiCc8viMubbk0RaU4jAJATN5/5LiCLAAQ0ofoFoR4ZH/NlkqYQZULmB/NdKNmyv0M7D0Kl5YmsG1qLmBsJwRlbhbxFxWwqmUE+QqX5VQ5w6H+sffCNNP4WZbDfx47lNY/UtuWVgcdktDgM5OnwUTsgOaZcGyJTaeSzVdprUpwlLE8h3K3mPspOV795Ppx/vspXvaHyaKQerJ+V/XLYsllwMHK;7wgW3T3AfDg1JDvEAj9Bjw=="
 ---
 

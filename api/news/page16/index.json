@@ -2,6 +2,116 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-08-how-facial-recognition-will-change-retail.md",
+      "title": "How Facial Recognition Will Change Retail",
+      "excerpt": "Through the use of facial recognition technology, retail stores may be able to proactively help limit unsatisfactory customer service experiences.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/08/how-facial-recognition-will-change-retail/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/08/how-facial-recognition-will-change-retail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/05/08/how-facial-recognition-will-change-retail/amp/",
+      "publishedDateTime": "2020-05-08T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-how-ai-can-help-manage-mental-health-in-times-of-crisis.md",
+      "title": "How AI Can Help Manage Mental Health In Times Of Crisis",
+      "excerpt": "These tools will not replace the couch, tissue box and innate professionalism of the therapist's office, but they may very well keep us healthier in times when we can't make it to that office.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/08/how-ai-can-help-manage-mental-health-in-times-of-crisis/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/08/how-ai-can-help-manage-mental-health-in-times-of-crisis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/08/how-ai-can-help-manage-mental-health-in-times-of-crisis/amp/",
+      "publishedDateTime": "2020-05-08T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-68.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Can Help Manage Mental Health In Times Of Crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-shield-ai-recognized-as-one-of-worlds-most-innovative-companies.md",
+      "title": "Shield AI Recognized As One of World's Most Innovative Companies",
+      "excerpt": "Fast Company praises tech startup for developing pioneering AI technology for use in conflict zones SAN DIEGO (PRWEB) Shield AI, the technology company focused",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/p15986951/shield-ai-recognized-as-one-of-worlds-most-innovative-companies",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15986951",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15986951",
+      "publishedDateTime": "2020-05-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-zillow-bets-new-normal-for-real-estate-is-virtual-tours-digital-processes-machine-learning.md",
       "title": "Zillow bets new normal for real estate is virtual tours, digital processes, machine learning",
       "excerpt": "Zillow said its real estate 2.0 vision has been accelerated dramatically by the COVID-19 pandemic and remote work.",
@@ -914,140 +1024,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress.md",
-      "title": "Millions of historic newspaper images get the machine learning treatment at the Library of Congress",
-      "excerpt": "Historians interested in the way events and people were chronicled in the old days once had to sort through card catalogs for old papers, then microfiche scans, then digital listings — but modern advances can index them down to each individual word and photo.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/amp/",
-      "publishedDateTime": "2020-05-07T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/newspaper-navigator-scan.jpg?w=1024",
-          "width": 1024,
-          "height": 741,
-          "title": "Millions of historic newspaper images get the machine learning treatment at the Library of Congress",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-elon-musk-says-theres-a-chance-his-ai-brain-chip-company-will-be-putting-implants-in-humans-within-a-year.md",
-      "title": "Elon Musk says there's a chance his AI-brain-chip company will be putting implants in humans within a year",
-      "excerpt": "Elon Musk says his Neuralink brain chip could be ready for a human patient within a year. The chip could help with brain injuries, he says.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5?amp",
-      "publishedDateTime": "2020-05-07T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5eb443f157853276ce3f755d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk says there's a chance his AI-brain-chip company will be putting implants in humans within a year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-facebooks-autoscale-decides-if-ai-inference-runs-on-your-phone-or-in-the-cloud.md",
-      "title": "Facebook’s AutoScale decides if AI inference runs on your phone or in the cloud",
-      "excerpt": "In a preprint paper, Facebook researchers describe AutoScale, a system that optimizes AI inference for energy efficiency on mobile and edge devices.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/07/facebooks-autoscale-ai-inference-energy-efficiency-on-smartphones/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/07/facebooks-autoscale-ai-inference-energy-efficiency-on-smartphones/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/facebooks-autoscale-ai-inference-energy-efficiency-on-smartphones/amp/",
-      "publishedDateTime": "2020-05-07T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AutoScale decides if AI inference runs on your phone or in the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,10 +2,182 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-21-police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand.md",
+      "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
+      "excerpt": "Clearview AI facial recognition technology once again made the news for crimefighting reasons, this time in New Zealand. But controversy persists.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techwireasia.com/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
+      "publishedDateTime": "2020-05-21T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/063_1198303844-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-nvidia-reports-308-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar.md",
+      "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
+      "excerpt": "Nvidia posted revenues of $3.08 billion for the first quarter ended April 26, up 39% from a year earlier as data center revenues soared.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
+      "publishedDateTime": "2020-05-21T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Jensen-cooking.jpg?w=1200&#038;strip=all",
+          "width": 1116,
+          "height": 669,
+          "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-top-safety-official-at-waymo-self-driving-unit-stepping-down.md",
+      "title": "Top safety official at Waymo self-driving unit stepping down",
+      "excerpt": "Alphabet Inc’s Waymo self-driving unit said on Thursday that its chief safety officer, Debbie Hersman, was stepping down but would remain as a consultant to the company.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-waymo-safety-idUSKBN22X2Q9",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22X2Q9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22X2Q9",
+      "publishedDateTime": "2020-05-21T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519490622&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K20U",
+          "width": 817,
+          "height": 545,
+          "title": "Top safety official at Waymo self-driving unit stepping down",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-gain-customer-insights-using-amazon-aurora-machine-learning.md",
+      "title": "Gain customer insights using Amazon Aurora machine learning",
+      "excerpt": "In recent years, AWS customers have been running machine learning (ML) on an increasing variety of datasets and data sources. Because a large percentage of organizational data is stored in relational databases such as Amazon Aurora, there’s a common need to make this relational data available for training",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gain-customer-insights-using-amazon-aurora-machine-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T13:56:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/05/gain-customer-insights-1.gif",
+          "width": 726,
+          "height": 413,
+          "title": "Gain customer insights using Amazon Aurora machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
       "title": "AI chips in 2020: Nvidia and the challengers",
       "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
-      "heat": 87,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challengers/",
@@ -42,7 +214,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -259,6 +432,42 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-super-hi-fi-is-reshaping-the-sound-of-streaming-with-ai.md",
+      "title": "Super Hi-Fi Is Reshaping The Sound Of Streaming With AI",
+      "excerpt": "The Los Angeles-based company is working with digital music services to improve listening experiences and build their sonic brands.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/",
+      "ampWebUrl": "https://www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/amp/",
+      "publishedDateTime": "2020-05-21T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -487,7 +696,7 @@
       "path": "_news/2020-05-21-robots-help-out-in-bahrains-covid-19-quarantines.md",
       "title": "Robots help out in Bahrain’s COVID-19 quarantines",
       "excerpt": "Bahrain has introduced robots into places where patients of the new coronavirus are isolated and treated in an effort to protect health workers from contracting the potentially fatal virus, officials have said “This experiment is the first of its kind in Bahrain and has been done to utilise artificial intelligence technology and determine the scope of its benefits in providing medical care in isolation and treatment centres,",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://gulfnews.com/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
@@ -524,7 +733,7 @@
       "path": "_news/2020-05-21-gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption.md",
       "title": "Gap rushes in more robots to warehouses to solve virus disruption",
       "excerpt": "U.S. apparel chain Gap Inc is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic, the company told Reuters.",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-health-coronavirus-gap-automation-foc-idUSKBN22X14Y",
@@ -846,221 +1055,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-crypto-startup-school-how-to-scale-companies-using-crypto.md",
-      "title": "Crypto Startup School: How to scale companies using crypto",
-      "excerpt": "In week two of a16z’s Crypto Startup School, three company-builders provide real-world advice on using the qualities of crypto to create new business models and networks.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale-companies-using-crypto/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale-companies-using-crypto/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale-companies-using-crypto/amp/",
-      "publishedDateTime": "2020-05-20T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1170889477.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Crypto Startup School: How to scale companies using crypto",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data.md",
-      "title": "Waymo is using AI to simulate autonomous vehicle camera data",
-      "excerpt": "Waymo's new machine learning model -- SurfelGAN -- simulates autonomous vehicle camera data highly realistically.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/20/waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/20/waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/20/waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data/amp/",
-      "publishedDateTime": "2020-05-20T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Waymo is using AI to simulate autonomous vehicle camera data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-scientists-claim-they-can-teach-ai-to-judge-right-from-wrong.md",
-      "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
-      "excerpt": "Scientists claim they can \"teach\" an AI moral reasoning by training it to extract ideas of right and wrong from texts",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/amp/",
-      "publishedDateTime": "2020-05-20T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-42-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-gms-ultra-cruise-aims-to-take-on-teslas-full-self-driving-option.md",
-      "title": "GM's \"Ultra Cruise\" Aims to Take on Tesla's Full Self-Driving Option",
-      "excerpt": "General Motors announced it's working on a better-than Super Cruise semi-autonomous driving system internally known as \"Ultra Cruise.\"",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.motortrend.com/news/ultra-cruise-gm-details-photos/",
-      "ampWebUrl": "https://www.motortrend.com/news/ultra-cruise-gm-details-photos/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/ultra-cruise-gm-details-photos/amp/",
-      "publishedDateTime": "2020-05-20T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.motortrend.com/uploads/sites/5/2020/05/2021-Cadillac-Escalade.jpg?fit=around%7C480:270",
-          "width": 480,
-          "height": 270,
-          "title": "GM's \"Ultra Cruise\" Aims to Take on Tesla's Full Self-Driving Option",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers.md",
-      "title": "Microsoft's Powerful Supercomputer Will Supercharge AI for Azure Developers",
-      "excerpt": "At its online-only Build 2020, Microsoft unveils the fifth-most-powerful supercomputer on Earth, which is designed to run massive machine-learning AI projects, plus some new tools to ensure responsible use of AI.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers",
-      "ampWebUrl": "https://www.pcmag.com/news/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=true",
-      "publishedDateTime": "2020-05-20T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04HQr2P4eRWa7B1cgx0BS0Y-2.fit_lim.size_1200x630.v_1589989995.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": "Microsoft's Powerful Supercomputer Will Supercharge AI for Azure Developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

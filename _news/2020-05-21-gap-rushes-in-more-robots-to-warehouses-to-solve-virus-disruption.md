@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22X14Y"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22X14Y"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106547755-1590087185389gap.jpg?v=1590087262"
         width: 1326
         height: 745
+  - title: "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus"
+    excerpt: "Gap Inc. is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic."
+    publishedDateTime: 2020-05-21T21:42:00Z
+    webUrl: "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5"
+    ampWebUrl: "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5ec6ecbf3ad861791b7c0226?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Gap rolls out more robots to warehouses to solve coronavirus disruption"
     excerpt: "US apparel chain Gap Inc is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic, the company told Reuters."
     publishedDateTime: 2020-05-21T10:53:00Z

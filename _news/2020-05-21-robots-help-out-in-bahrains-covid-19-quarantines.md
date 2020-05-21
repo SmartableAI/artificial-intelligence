@@ -8,7 +8,7 @@ ampWebUrl: "https://gulfnews.com/amp/world/gulf/bahrain/robots-help-out-in-bahra
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -24,6 +24,21 @@ images:
     width: 750
     height: 563
     title: "Robots help out in Bahrain’s COVID-19 quarantines"
+
+related:
+  - title: "Physicists curate list of COVID-19 projects to join"
+    excerpt: "Physicists are finding ways to contribute to projects related to epidemiology, diagnosis, treatment, supporting healthcare systems, and studying public sentiment."
+    publishedDateTime: 2020-05-21T15:16:00Z
+    webUrl: "https://www.symmetrymagazine.org/article/physicists-curate-list-of-covid-19-projects-to-join"
+    type: article
+    provider:
+      name: Symmetry Magazine
+      domain: symmetrymagazine.org
+    quality: 24
+    images:
+      - url: "https://www.symmetrymagazine.org/sites/default/files/styles/2015_hero/public/images/standard/Header_COVID-19_projects.jpg?itok=t8oVMmSL"
+        width: 1600
+        height: 900
 
 secured: "5EtuhWg2qHSDmfPel2oFP5XL0VTfM077stGIVPNSrKsEWoHsBJhr2lZM4kgiE3i0n7WCG7g8tgRzwW9Of4Ux0ANtuBZF2tyfg2TtMmNzeTR+Ilk1oqnj0xcqohJevfYMRGo7xIENUZ/90Qjt5rH7xSS8/k3H59av/2z4dTuJXmjwHz+WoCm1mnahjh/7kGpkE7Jsjv4TyzZLZkPe5DtOuY/iWN2I3TyPylDa35QRza7wZrchJPzWMRsWDhyR65Xm1TdRFt3CqUydFlF02Pe8qd4bn7BrSyFhyXVHi3xAYlMl0ri4cOf8hgJhy8zgqG/8;qZFNOEHg4PlGYYlFblKNzQ=="
 ---

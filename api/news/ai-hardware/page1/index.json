@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-21-nvidia-reports-308-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar.md",
+      "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
+      "excerpt": "Nvidia posted revenues of $3.08 billion for the first quarter ended April 26, up 39% from a year earlier as data center revenues soared.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
+      "publishedDateTime": "2020-05-21T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Jensen-cooking.jpg?w=1200&#038;strip=all",
+          "width": 1116,
+          "height": 669,
+          "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
+      "title": "AI chips in 2020: Nvidia and the challengers",
+      "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "publishedDateTime": "2020-05-21T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/04/03/156d6478-5ded-4ada-835a-784899fa6564/abstraction-layer-runai.png",
+          "width": 954,
+          "height": 672,
+          "title": "AI chips in 2020: Nvidia and the challengers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer.md",
       "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
       "excerpt": "During its Build 2020 developer conference on Tuesday, Microsoft unveiled the new supercomputer built in collaboration with OpenAI, an artificial intelligence startup found by Elon Musk. Microsoft announced that the supercomputer hosted in Azure was developed exclusively to train OpenAI’s large-scale artificial intelligence models.",
@@ -130,51 +220,6 @@
         "Microsoft AI",
         "AI Ethics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-amax-accelerates-ai-supercomputing-build-outs-with-nvidia-dgx-a100.md",
-      "title": "AMAX Accelerates AI Supercomputing Build Outs With NVIDIA DGX™ A100",
-      "excerpt": "Enterprise data centers, research centers, academia and OEM solution providers can deploy DGX clusters into their environment or build a ready-to-deploy rack elevation through AMAX Rack Integration Hubs in as fast as 1-2 weeks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/amax-accelerates-ai-supercomputing-build-outs-with-nvidia-dgxtm-a100-2020-05-20?mod=mw_quote_news&tesla=y",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AMAX Accelerates AI Supercomputing Build Outs With NVIDIA DGX™ A100",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1276,44 +1321,6 @@
         "AI Hardware",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-ceo-talks-new-ampere-based-gpu-advanced-ai-system-in-gtc-2020-keynote.md",
-      "title": "Nvidia CEO Talks New Ampere-Based GPU, Advanced AI System In GTC 2020 Keynote",
-      "excerpt": "NVIDIA Corporation's (NASDAQ: NVDA) annual GPU Technology Conference is virtual this year and takes place May 19. Ahead of the conference, CEO Jensen Huang's",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/news/20/05/16033361/nvidia-ceo-talks-new-ampere-based-gpu-advanced-ai-system-in-gtc-2020-keynote",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16033361",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16033361",
-      "publishedDateTime": "2020-05-14T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/nvidia-superpod-press-image-1280x515.jpg",
-          "width": 1280,
-          "height": 515,
-          "title": "Nvidia CEO Talks New Ampere-Based GPU, Advanced AI System In GTC 2020 Keynote",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

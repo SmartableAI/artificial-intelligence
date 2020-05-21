@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.rnz.co.nz/article/92771117-dcaf-49bd-bf28-8480d27440df"
 cdnAmpWebUrl: "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/92771117-dcaf-49bd-bf28-8480d27440df"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: rnz
@@ -26,6 +26,21 @@ images:
     title: "Police 'stocktake' surveillance tech after Clearview AI facial recognition trial"
 
 related:
+  - title: "Police trial controversial Clearview AI facial recognition tech in New Zealand"
+    excerpt: "Clearview AI facial recognition technology once again made the news for crimefighting reasons, this time in New Zealand. But controversy persists."
+    publishedDateTime: 2020-05-21T21:18:00Z
+    webUrl: "https://techwireasia.com/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/"
+    ampWebUrl: "https://techwireasia.com/amp/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 70
+    images:
+      - url: "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/063_1198303844-450x300.jpg"
+        width: 450
+        height: 300
   - title: "Police Commissioner stocktaking surveillance technology after controversial Clearview AI facial recognition trial"
     excerpt: "The Police Commissioner has ordered a stocktake of surveillance technologies after police trialled controversial facial recognition software without consulting his office. Last week, RNZ revealed police conducted hundreds of searches,"
     publishedDateTime: 2020-05-18T04:53:00Z

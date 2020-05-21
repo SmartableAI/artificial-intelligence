@@ -2,6 +2,185 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-19-google-halts-ai-tools-for-oil-industry-after-greenpeace-report.md",
+      "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
+      "excerpt": "The move comes after the report detailed links between Google, Amazon and Microsoft and oil and gas companies.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/amp/",
+      "publishedDateTime": "2020-05-19T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211427609%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-smart-office-market-technological-innovation-by-leading-key-players-2022.md",
+      "title": "Smart Office Market Technological Innovation by Leading Key Players 2022",
+      "excerpt": "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/smart-office-market-technological-innovation-by-leading-key-players-2022-2020-05-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Smart Office Market Technological Innovation by Leading Key Players 2022",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-tesla-will-boost-its-full-self-driving-software-price-to-8000-in-july.md",
+      "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+      "excerpt": "As the electric-car maker's driver-assist software package moves closer to being truly full self-driving, the company is raising its price.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "publishedDateTime": "2020-05-19T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness.md",
+      "title": "New AI from DeepMind and Google can detect a common cause of blindness",
+      "excerpt": "DeepMind and Google Health have developed an AI that can predict who'll get one of the world's most common causes of blindness.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
+      "publishedDateTime": "2020-05-19T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-40-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "New AI from DeepMind and Google can detect a common cause of blindness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-pirce-musk-says-it-will-be-worth-100k.md",
       "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
       "excerpt": "CEO Elon Musk announced via Twitter that Tesla will soon raise the cost of the full self driving option for their vehicles",
@@ -1127,179 +1306,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool.md",
-      "title": "Your face mask selfies could be training the next facial recognition tool",
-      "excerpt": "Researchers are crawling the internet for photos of people wearing face masks to improve facial recognition algorithms.",
-      "heat": 115,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
-      "publishedDateTime": "2020-05-19T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Your face mask selfies could be training the next facial recognition tool",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-europe-to-facebook-pay-taxes-and-respect-our-values-or-well-regulate.md",
-      "title": "Europe to Facebook: Pay taxes and respect our values — or we’ll regulate",
-      "excerpt": "A livestreamed “debate” yesterday between Facebook CEO Mark Zuckerberg and a European commissioner shaping digital policy for the internal market, Thierry Breton, sounded cordial enough on the surface,",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/europe-to-facebook-pay-taxes-and-respect-our-values-or-well-regulate/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/europe-to-facebook-pay-taxes-and-respect-our-values-or-well-regulate/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/europe-to-facebook-pay-taxes-and-respect-our-values-or-well-regulate/amp/",
-      "publishedDateTime": "2020-05-19T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Screenshot-2020-05-18-at-18.51.27.png?w=680",
-          "width": 680,
-          "height": 382,
-          "title": "Europe to Facebook: Pay taxes and respect our values — or we’ll regulate",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-shot-in-the-arm-6-use-cases-of-ai-that-will-disrupt-healthcare-space.md",
-      "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
-      "excerpt": "Machines that think and talk like us may once have been possible only in the realm of science fiction. In 1950, all that changed when British mathematician Alan Turing created the Turing test, still in use today,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space",
-      "ampWebUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space/amp",
-      "publishedDateTime": "2020-05-19T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Healthcare-AI-1589887107545.jpg?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal.md",
-      "title": "Five Insights For Leveraging RPA And Process Intelligence In The 'New Normal'",
-      "excerpt": "If we acknowledge that digital transformation can help organizations successfully navigate business operations, especially in today’s “new normal,” the next step is to ask the right questions.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/amp/",
-      "publishedDateTime": "2020-05-19T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-27-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Five Insights For Leveraging RPA And Process Intelligence In The 'New Normal'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
