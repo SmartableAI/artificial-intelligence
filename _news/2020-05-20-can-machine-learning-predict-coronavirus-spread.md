@@ -3,7 +3,7 @@ category: news
 title: "Can machine learning predict coronavirus spread?"
 excerpt: "Using datasets on climate, health and social movement, researchers at Lawrence Berkeley National Lab want to identify what influences COVID-19 transmission."
 publishedDateTime: 2020-05-20T22:31:00Z
-webUrl: "https://gcn.com/articles/2020/05/20/machine-learning-climate-covid-spread.aspx?admgarea=TC_EmergingTech"
+webUrl: "https://gcn.com/articles/2020/05/20/machine-learning-climate-covid-spread.aspx"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 368
     title: "Can machine learning predict coronavirus spread?"
 
-secured: "zgHSG0dvaDt+jwTJiJXDeVu6X4KBzZPdBpqgt6TYfajnVqL52kGFgC5FKlE7mVtSOWRePWspRYByLUYfaKYrMXz+ZDDx70g1AwxkZByRXVYr2Jw4MhAeWSHeDGFkuLEIKzcD9JbtoTfd6SM2RJLMGJyQQVW1cri4Urc45lFxH2AlAvZDveJeK66QXAo722AItE8wP4Wy+OLxzY6xzuzACgB66mgSGaooI3bETITYlR8n+XRjsIp7aND2MlclmWoi4xhZrrK8EjRBtCnoH8/EgStbYqFV1NpUQa/boI6GJ58/Vs8QO6fMqH6amrE280APSN20nrbPQNb/IQx5cClSN6opaNwbc0yzKlvAWDcHspbqDnCgOLXfSKtASn/D2YjrdCXXmEdBZUEenF1/L7nGx4VnNZ9VxB4k/upRkMBn5v9oa5UsLUew+aS7UvDMpR/k9iMNQqa23Lqnfhwg5FIq0OFK1DWLsZEj/TI/YxmuLs4=;kgjsixylumdgwdcVdVqwWQ=="
+secured: "6Soi2eeTyGUCrXPJYvPg970ENo3pilTiRGaNBsRqSdQ5xiXVJ/j+Vs1NwZtXAr9czaIxOqIhmXxF1njPdjz7KQgD7LmUs5Y7z1KvyoXYRxyiRyr3MmZ+Nl16x/EuvzjHcvNqXV0NX5sAFK0fjvO7AhwmIgILOEnGMHHj0XIKvH0uPUeCLC7mKYFJGfFmbcPAVtl+DjGomsvKC7rmUX+NohPu4QLip+hZaQ5eRdchBstN5FU722SYPzhdhKNaZrVX+4cL1Fb40Oznn+t8AtzqndkrtMsoP3UyaCKR9cose0XibdblsMWE9ja76f1sQraz;Xu7xrBAlFbKItH3z2W0XZw=="
 ---
 

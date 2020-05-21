@@ -47,6 +47,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-20-the-robots-are-taking-our-jobs-threat-gets-real.md",
+      "title": "The Robots-Are-Taking-Our-Jobs Threat Gets Real",
+      "excerpt": "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
+      "publishedDateTime": "2020-05-20T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-toy-robot-maker-sphero-spins-off-startup-focused-on-military-first-responders.md",
       "title": "Toy robot maker Sphero spins off startup focused on military, first responders",
       "excerpt": "Sphero, the consumer robotics company known for its Disney BB-8 toys and STEM-based educational tools, is launching a startup focused on making robots and AI-based software for first responders, law enforcement and the military.",
@@ -1201,43 +1238,6 @@
           "width": 1502,
           "height": 1063,
           "title": "Sony just teamed up with a robot avatar company with big ambitions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-transformative-robotics-technology-from-brain-corp.md",
-      "title": "Transformative Robotics Technology From Brain Corp",
-      "excerpt": "With retailers seeking to enhance the customer experience, not to mention overcome current COVID-19 challenges, Brain Corp believes that technology offers a way",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.esmmagazine.com/uncategorized/transformative-robotics-technology-brain-corp-98085",
-      "ampWebUrl": "https://www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
-      "cdnAmpWebUrl": "https://www-esmmagazine-com.cdn.ampproject.org/c/s/www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
-      "publishedDateTime": "2020-05-12T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "esmmagazine.com",
-        "domain": "esmmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA1XFxcLzEyMTMxODQxXFxcL1Rlbm5hbnRSZXRhaWwtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjUwMCxcImhlaWdodFwiOjI4NyxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC93d3cuZXNtbWFnYXppbmUuY29tXFxcL2lcXFwvbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNjk1OGI3MzBhOGQ5MGQyZWEwZjM0ZDNkZWMxMjQ0YmM2YTFmYmM2ZiJ9/tennantretail-1024x683.jpg",
-          "width": 500,
-          "height": 287,
-          "title": "Transformative Robotics Technology From Brain Corp",
           "attribution": null
         }
       ],

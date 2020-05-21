@@ -1013,7 +1013,7 @@
     {
       "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
       "title": "3 Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ...",
+      "excerpt": "Amazon not only uses artificial intelligence in its own operations, such as its product recommendation engines and Alexa home speaker assistants, but AWS also enables the use of artificial ...",
       "heat": null,
       "tags": null,
       "type": "article",
@@ -1051,8 +1051,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AWS AI",
+        "AI",
+        "AI in Autos"
       ]
     },
     {

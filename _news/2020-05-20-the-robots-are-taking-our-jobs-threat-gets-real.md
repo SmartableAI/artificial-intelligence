@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-make
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Bloomberg
@@ -22,6 +22,21 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Opinion: The robots-are-taking-our-jobs threat gets real"
+    excerpt: "If there was ever a good time for the robots-taking-over-jobs argument, this may be it. Not just because factory owners don’t want to pay for rising labour costs, but because workers don’t want to gather every day in petri dishes."
+    publishedDateTime: 2020-05-21T09:42:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/05/21/opinion-the-robots-are-taking-our-jobs-threat-gets-real"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/05/21/691271.jpg"
+        width: 1240
+        height: 826
 
 secured: "wAPwIcfJV+5ey51RBB0QqGaqxBN/RxK31qjgMtcU6VKhhoh0W7epM/lVOX/VJ6zgXP1gnJH/EaRF5hko8YEvrmskHU9pW7OOK6D0o45gx6bBov+xN7If+i7sMLqjU6YPZhr/U/rOZglzLIWD1dw4xxBVXuyi7ETPcFEoXWEAGBU3oBfVxQp+Jkc4HHGZGdy4J71NE+90HuUxXLCrd5Dwzqi7B2Cf8da3URbbURmQt+EHXk8NTjjA0ntjKO3ochv2krcJ3MeEdheG9dEI4Ss+iX76Fd/2x4eiD/3CSoSPgsS7FQHxMogxZuDpG2Q0GNJTreUT0+bhq2UkIffdwSvYXykF61EIbLfFAqnzF4/jf+uK3jQi4B1+j0TvWU8I6RADiXxXwHZRJVHkNSFUsb1L4YFq9iEQBlVEjsJit3cElktN3GMPwEqDRt3XP8XkjEvnX5DPnxZ+oa2JFWAjlBKP6jw5UbcOX85qAVMlmGlKDi8=;xKNojlE4rS1syCURu7RW4w=="
 ---
