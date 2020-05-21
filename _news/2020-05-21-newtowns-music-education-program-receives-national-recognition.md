@@ -18,6 +18,19 @@ topics:
   - AI
 
 related:
+  - title: "Robotic process automation adoption looks strong in a post-COVID world"
+    excerpt: "Automation initiatives that reduce human labor with no added value has been gaining traction for the past 18 months. In particular, the pandemic has accelerated the focus on such efforts, and the already hot market for robotic process automation,"
+    publishedDateTime: 2020-05-21T17:34:00Z
+    webUrl: "https://siliconangle.com/2020/05/21/robotic-process-automation-adoption-looks-strong-post-covid-world/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/robot-2301646_1280-Computerizer-Pixabay.jpg"
+        width: 1280
+        height: 720
   - title: "Robotic process automation adoption looks strong despite IT spending slowdown"
     excerpt: "Automation initiatives that reduce human labor with no added value has been gaining traction for the past 18 months. In particular, the pandemic has accelerated the focus on such efforts, and the already hot market for robotic process automation,"
     publishedDateTime: 2020-05-21T13:37:00Z

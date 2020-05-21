@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-20T17:12:00Z
 webUrl: "https://redmondmag.com/articles/2020/05/20/microsoft-supercomputer-ai-modeling.aspx"
 type: article
 quality: 60
-heat: 80
+heat: 81
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
       domain: sify.com
     quality: 19
 
-secured: "BoFVBM6DuZZo5Ea/S84culsysmBIuHxlda6jUtSYm28WmaUIuRdXsWsrOumLFQ48xGwgzMZoM7CdDvnSWOKSYg+v+1mOBxkdXLYz/b+lCPyYUWHSPdXz8x6y3EJG/UB8TvdGq5R2t87o4p8GKFRWGJNWhtUzczCJo7tS4vgKf7JT4CJzUDKQtCfPB1IYWnSiOQNHhDf3eqgZsLF6CijW49fx//SjZwDQD3l3ivspUJ0B63hT5PB0clmiR0QMpxyp3Kg1YrBGUL2wLJ9gx8gv4BwqRe7XL3k3qP38MoUqyVS/Os84W2KUmvMh0Rcvaic71iFjl2ZqKKwy/Y+eZP1c6iBwgEPL/+rOr6CCamN8kHWBjupCJWNmKWqJ1bfDAwMRfHITCX0F3rXt0vOr84vgMf6YrAD/Co8hb4/zPGOI5VRqP2YElVTqVYoMM04RQ9iVP3m4Vlou5Mzxpel+IBi358snKUtyhmjJSiEafn0b+5Y=;2BFb4g2J+aGskDcFQDGmCA=="
+secured: "Tam0Gv0w/b4w3vgJUf6Qzuoz9KEkicipUm7nIswtx7hQHZEAE2o7vgmzYye6vqVe5WQaSYtdDeLZedMjJYFUF0S02makBpRpY06dv57F4IyG0SaR3Cpt03EVnGAPhp4H8AcXSX2HfWwCLLg5pQ2unIxT5aVoD2yzkUpR3XWTs0fkCVZW6ZqNl148Li9zMfKY4ENMdcuyWUxBBKzpn+kbPzKzOp+MpD+QQd5rbfVkFBKLOUserhu3djK9BklSlMJzLzuAGVzvhwKgVCirRIhMlkzX2GUm4fNdrUyNqPNctUndClb3HjWDIJHIafWpXQ3cF1j7PsTLbffRI68aVZwH+pTE+NBvzYzUeZuuQjFBPk7VY3nW9YFqUEaRKcQq8zoH0OZkc3nOhbfRConxHOb5RRJ+Kd2pAKGtdJ6UmzI1rV1LD+YAKnvUbfPvPGWzxoDIhm5ihbMMoJpbaxGN7TQNxLrhQRCVNKfzo0ZyyxEyff0=;fJQ0vDGCfeIUTUFK6hBwPw=="
 ---
 

@@ -60,18 +60,18 @@ related:
         width: 600
         height: 316
   - title: "Sony Semiconductor Solutions and Microsoft partner to create smart camera solutions for enterprise customers"
-    excerpt: "(Microsoft) today announced they are partnering to create solutions that make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. As a result of the partnership,"
+    excerpt: "PRNewswire/ -- Sony Semiconductor Solutions (Sony) and Microsoft Corp. (Microsoft) today announced they are partnering to create solutions that"
     publishedDateTime: 2020-05-18T17:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/sony-semiconductor-solutions-and-microsoft-partner-to-create-smart-camera-solutions-for-enterprise-customers-2020-05-18"
+    webUrl: "https://www.prnewswire.com/news-releases/sony-semiconductor-solutions-and-microsoft-partner-to-create-smart-camera-solutions-for-enterprise-customers-301060404.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+        width: 2695
+        height: 1414
 
 secured: "bQinfdwJL7ualR3RU4a372q7MjuqorEZM6bwb7OmcMbel0U1mJtfe4hAjJR4QHnoF954myVxXU21gaV1Ax1Bm3vOhqwq798WJyoHM9guD9hSl4D3eJrj7LJMTNtU/2lX7IL8VGm45pxk7SSy24saj22SpZfM1eE8lx8v34JJHQ3IjZtF0X+0cAIoxXJODKOwfn8rEaVwHvEjOEM3mKWhk1eexoqDqtIYld56KZleLYL4Ibz1Kf7T85EYTOCvqscOuHORWs4qnu1HuavL3HZQt9bSgMva5D8wn7IftheIcxRyiWQo2+Sx/WYVllOPMRBM37zdxEwsz7FD0oY4uH49KADoUa+P7TysouKkofPzNVVhXxyY7cP+rL3QWEWzpQyBrSgDowB92IIBvxcRYQSCPX1UhVGlLInh2BjcwlrGX3RGixKjcM0t7UUD7iCuwGwdjg4hCevYCTpHCmTVV1D/E4HCwdIDCeMI6gjasnem1rI=;m7w940BWBOFC/BZLhL3PZQ=="
 ---

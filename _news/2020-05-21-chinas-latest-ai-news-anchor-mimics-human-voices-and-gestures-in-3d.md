@@ -28,6 +28,6 @@ images:
     height: 417
     title: "China’s latest AI news anchor mimics human voices and gestures in 3D"
 
-secured: "p5GZ9XTmGCFl+YA+evM25wWSR6kcoRciss6mjxRYHz9aBrO67rY9iwLVErQL9oHQLQHdIuDtCgTdSCDyGSx/6W/IRGxqlhn4V85CZ8fonuu2DQqqePqYvUJNmsmaumoPNmjJVZBY07jvF1bWlI1Wpr5vV+ViIHl1t+wXPJxGSd8vqlpx79gNK4ZlRhnJSDdY6jfF/+XOAt2A/wMDsLat7TwN6PHl2GFuqQLst+euoShTeo0r9bJBLCMJeTBcMOqE8ECKHurhXr5BdgE8Gq3Xtjt/1ZfTiIkLBK5LYOxfBoNPKZwQASjD+PDo5nHnH565;VBjGKwyuWeugo71xpP4V8Q=="
+secured: "Ry69fkRo7llDiYyNuVpUD4NVopwzZL9QSWrkuIFFSV+SXCobRojHvdempRGIKGYW7oP7uvNRwBKK+PveCUAG9ZaKO6ucaIv1nsF+csr1FX7lHOWP2wHJFFFiXOmvMGng9FnIIfQZB9yRH+43PQka7u7KkaJQ2gmeJEChvJtWPFv2QwPP4kGep8voZwAujpq+Emw8ijsALvvFr5Seda6H5/WBjPrKhyem6kx/zwEJ3JIpceX0MDvp71tsXZa4McYnBaCONEwpjbxAi+EY/Z7+DIeOJD1yEZ0wrNXLj1ax7RFsyqowD2NuTQuTt36NHTZ3A1LBNMyx4/p/Pu1YpRDxkTeb/FE1omXkjm6/R0piJL1SJC+1A31RhVQ56a6mEpfsfXEgYBz0n7oTKezEpqol+OfuWFTBIjASsTQjLaPNKzt3iorxEgB2iek3Seu8+1DW2kIym/dNa19Vibwhsk37AvteAVs3716D2aOOOjCN0fA=;XZYCHETl73ajWOtjFaZu9g=="
 ---
 

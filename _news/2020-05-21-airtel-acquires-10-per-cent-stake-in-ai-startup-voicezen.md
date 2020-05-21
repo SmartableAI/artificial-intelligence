@@ -34,6 +34,21 @@ related:
       - url: "https://www.businessinsider.in/thumb/75868862.cms?height=275&width=412"
         width: 412
         height: 275
+  - title: "Bharti Airtel acquires 10% in AI start-up"
+    excerpt: "Bharti Airtel on Thursday said it would acquired a strategic stake in Voicezen, an early stage start-up focused on conversational AI technologies.Gurgaon-based Voicezen has been working on developing"
+    publishedDateTime: 2020-05-21T17:08:00Z
+    webUrl: "https://www.thehindu.com/business/bharti-airtel-acquires-10-in-ai-start-up/article31644357.ece"
+    ampWebUrl: "https://www.thehindu.com/business/bharti-airtel-acquires-10-in-ai-start-up/article31644357.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/bharti-airtel-acquires-10-in-ai-start-up/article31644357.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
   - title: "Bharti Airtel picks up stake in conversational AI tech startup Voicezen"
     excerpt: "Bharti Airtel Ltd has acquired a 10% stake in Voicezen India Pvt. Ltd, an early-stage startup focused on conversational artificial"
     publishedDateTime: 2020-05-21T10:31:00Z

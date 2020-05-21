@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-builds-massive-superc
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -31,6 +31,19 @@ images:
     title: "Microsoft builds massive supercomputer for smarter AI"
 
 related:
+  - title: "Microsoft Says It’s Built a Top-Five Supercomputer in the Cloud for AI"
+    excerpt: "Future machine learning models will be enormous. The OpenAI system shows that hyperscale cloud platforms can take them on."
+    publishedDateTime: 2020-05-21T16:50:00Z
+    webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-says-it-s-built-top-five-supercomputer-cloud-ai"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 58
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/sam%20altman%20openai%20techcrunch%20disrupt%202019%20getty.jpg"
+        width: 1024
+        height: 683
   - title: "Microsoft builds huge cloud-based AI supercomputer for OpenAI"
     excerpt: "Microsoft announced on Tuesday that it has built a massive supercomputer for OpenAI, a company with a mission to build an artificial general intelligence that will benefit humanity as a whole. The announcement came at Microsoft's Build 2020 developer conference,"
     publishedDateTime: 2020-05-20T08:07:00Z

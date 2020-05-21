@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale-companies-using-crypto/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 576
     title: "Crypto Startup School: How to scale companies using crypto"
 
-secured: "p3Zho7YfQTjjY1ahmsgBbddkU6e1E8lP8zFolyH7VnSHIraV84cYNUSXsz+2lpjEq8x+5JsLhiFWxFcFMcj18UR/nTSmw5hLEJCPDXf3JRK2ZCZp9jqqo+ashw85SzeVfrAqBVcOINw7idWK3LDvauvY0Frj0UkWlkSiQeWvCpMtvIsW+cMEFgDINLlLoOvckEggw+TLmcC1QM/tAWHcBgU+PEItscrvnyY46c65XeXl2M2495rcGNiGLhuAn9Dnl1OmfZ1cAFKqdmCP+kru2zU73GkxxLXCCXROhiXXAjowjHm6oW8KPhBVEj8HhRYgLLhIhSx2AXQodrONZkFHDX0rkvwsRejvy0C33At8GtQ8dPOkTrsF/9tIUY/eI6KPSAuExW1ZqvN/glRs6/1Odz9Bu4CINcwofup6UlxNG5u1gjMIyTT/D126fzb5Zq3OHvAy2JTMTgutvb/mLdOYRPOffStLB1RselKkXOpO4DM=;oHfXLcHc3cQlBJwq0eqTvg=="
+secured: "OgLAnc3jid+P6Gm/iVMkuJfMi21mQLYy5eEsHBf/RhD/cqKUMY0ugLdhVA9HH66RukzB3c6PwCYgGChw7ScmbcseybjAELPq5J9xYh4KIG8oA/oxnB+kAbP6UIYQnCm9nIPoE9suqy5Yg6ZdUbLv0VuvmhYxMWPa447I1wblNI5Kri2uKw8RfrkJK2+166s+jD31InLNlW77j1kea0P2/BCSEFy8ByWrpRScmN/8HYOjjROrQe2gZjQgFFFivhjMdS3NFxscVXfAz2UeGNICnsEXumvUIO5H/9nZjTFqaeitsb1H/3a6OM2VigLUMP6Oa6TzuTJldXZ2qrmRaWLnpfNqF71xCTkVIojawYWSxPqPi1hr3mFLNej3IhZvybi+mX3uAf+8dAGcnwPbsI+Q+L/XKgnbV3lZlqzyJnLjWBEdI1KtXuHLZyNc8xxGluasgSEqB2grjgiAZ+Lz5Eqrlrx7f9OLYq1JrrBwkYcvKjs=;5MY1kjWhyl9F62IGMoquTw=="
 ---
 
