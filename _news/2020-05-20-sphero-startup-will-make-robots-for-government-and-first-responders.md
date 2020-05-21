@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/sphero-startup-will-make-robots-for-govern
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 1440
     height: 800
     title: "Sphero startup will make robots for government and first responders"
+
+related:
+  - title: "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military"
+    excerpt: "Robot toy maker Sphero this week launched a spin-off company focused on creating intelligent AI for first responders, law enforcement, and the military. Company Six (CO6), an independent startup, will adapt technology from Sphero's Public Safety Division to craft robust and feature-rich yet affordable products."
+    publishedDateTime: 2020-05-21T11:30:00Z
+    webUrl: "https://in.pcmag.com/robotics-automation/136413/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military"
+    ampWebUrl: "https://in.pcmag.com/robotics-automation/136413/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1"
+    cdnAmpWebUrl: "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/robotics-automation/136413/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 82
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/s/sphero-spi/sphero-spin-off-makes-robots-for-first-responders-law-enforc_kyye.620.jpg"
+        width: 620
+        height: 349
 
 secured: "4/QmVTGXoR2C5w6EOcEW056uIY+6K6FG/Nxfdnt3vtr1byqYRQXAcpP/fWdTriMguTnFNXdiTZezGzn74MhMA1pCFq7SkNBksiGTqYKDWpflaJxQkykendat/VJGzH/SCTfd7iDy42yIMIim3FUKXxIoMepnHlxJHSrncZVHMEFvDEr54OQPci/HIXCMTWoXP/PxYE9YIqNjg+ZUREdT4dtFDneBTNoII+wVhZShzvipAgKaqnmUr6CUxzF+8sKMs0oIzgf0Gz4O7AZFWAwaSa1SjgG3Rpm/RAKPDH7XHXiTRoJ3FTh1THK0+0k+57m/jz5QjKNoCCfKFx7v3//vcZkPB+MtRRmBjoZ9KkkjMrjrXMb6f2FB34tEpdC922wFJCcRqTh+GvKbu6fDdsNLRfieft/7VwCuHD0/h6XPUWtDwWJTqQPgIRxrmwhS4RYaxFgXOg/IPqv+9T4Xdzh2yLH0joMkKW9ImcrpdaJSKKk=;/aALyKwRwcKxxr3QQluz1Q=="
 ---
