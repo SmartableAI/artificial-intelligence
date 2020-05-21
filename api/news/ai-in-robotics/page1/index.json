@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-20-sphero-startup-will-make-robots-for-government-and-first-responders.md",
+      "title": "Sphero startup will make robots for government and first responders",
+      "excerpt": "Sphero, the company best known for its BB-8 toy robot, has announced the successful spin-off of its Company Six into a startup that will make robots for the government, military use, and more.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/",
+      "ampWebUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
+      "publishedDateTime": "2020-05-20T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/company_six_logo_main.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": "Sphero startup will make robots for government and first responders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-toy-robot-maker-sphero-spins-off-startup-focused-on-military-first-responders.md",
       "title": "Toy robot maker Sphero spins off startup focused on military, first responders",
       "excerpt": "Sphero, the consumer robotics company known for its Disney BB-8 toys and STEM-based educational tools, is launching a startup focused on making robots and AI-based software for first responders, law enforcement and the military.",
@@ -1193,51 +1238,6 @@
           "width": 500,
           "height": 287,
           "title": "Transformative Robotics Technology From Brain Corp",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-the-robot-assistant-that-can-guess-what-you-want.md",
-      "title": "The robot assistant that can guess what you want",
-      "excerpt": "In a five-year project a group of robotics experts have developed a robot that can assist in maintenance tasks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/business-52547331",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-52547331",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52547331",
-      "publishedDateTime": "2020-05-11T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C387/production/_112155005_secondhandsrobotatwork.png",
-          "width": 1024,
-          "height": 576,
-          "title": "The robot assistant that can guess what you want",
           "attribution": null
         }
       ],

@@ -2,6 +2,50 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-04-24-terminal-taps-ai-to-help-companies-build-remote-engineering-teams.md",
+      "title": "Terminal taps AI to help companies build remote engineering teams",
+      "excerpt": "This week, Terminal announced its first acquisition, snapping up Austin, Texas-based AI-powered recruitment startup Roikoi for an undisclosed figure. This comes shortly after Terminal raised $17 million from big-name investors such as Kleiner Perkins, adding to a previous roster of investors that includes Yahoo founder Jerry Yang and Peter ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/24/terminal-taps-ai-to-help-companies-build-remote-engineering-teams/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/24/terminal-taps-ai-to-help-companies-build-remote-engineering-teams/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/24/terminal-taps-ai-to-help-companies-build-remote-engineering-teams/amp/",
+      "publishedDateTime": "2020-04-24T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/GDL-header.jpg?fit=1629%2C882&strip=all",
+          "width": 1629,
+          "height": 882,
+          "title": "Terminal taps AI to help companies build remote engineering teams",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-machine-learning-as-a-service-mlaas-market-analysis-global-industry-size-share-trends-and-forecast-2020-2026.md",
       "title": "Machine Learning as a Service (MLaaS) Market Analysis – Global Industry Size, Share, Trends and Forecast 2020 – 2026",
       "excerpt": "According to the report published by Acumen Research and Consulting, the global Machine Learning as a Service (MLaaS) market was expected to reach at US$ Mn in 2018 and is anticipated to exceed US$ Mn by 2026.",
@@ -997,50 +1041,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-otterais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings.md",
-      "title": "Otter.ai’s newest feature offers live, interactive transcripts of your Zoom meetings",
-      "excerpt": "Real-time voice transcription service Otter.ai is adding new functionality that will aid home school students and work-from-home employees alike. The company today is introducing an integration with Zoom in order to provide “Live Video Meeting Notes” — meaning, the ability to record and and view a live, interactive transcript directly ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/amp/",
-      "publishedDateTime": "2020-04-23T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/otter-hero-screens-2.png?w=1024",
-          "width": 1024,
-          "height": 650,
-          "title": "Otter.ai’s newest feature offers live, interactive transcripts of your Zoom meetings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

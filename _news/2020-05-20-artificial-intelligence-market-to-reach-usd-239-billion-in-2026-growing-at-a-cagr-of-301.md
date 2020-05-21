@@ -5,8 +5,8 @@ excerpt: "According to GMI Research Latest Analysis, Artificial Intelligence (AI
 publishedDateTime: 2020-05-20T21:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-reach-usd-239-billion-in-2026-growing-at-a-cagr-of-301-2020-05-20"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

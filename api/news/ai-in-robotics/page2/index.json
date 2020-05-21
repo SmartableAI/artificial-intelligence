@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-11-the-robot-assistant-that-can-guess-what-you-want.md",
+      "title": "The robot assistant that can guess what you want",
+      "excerpt": "In a five-year project a group of robotics experts have developed a robot that can assist in maintenance tasks.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/business-52547331",
+      "ampWebUrl": "https://www.bbc.com/news/amp/business-52547331",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52547331",
+      "publishedDateTime": "2020-05-11T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C387/production/_112155005_secondhandsrobotatwork.png",
+          "width": 1024,
+          "height": 576,
+          "title": "The robot assistant that can guess what you want",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-brazilian-founder-features-in-global-ranking-of-female-ai-leaders.md",
       "title": "Brazilian founder features in global ranking of female AI leaders",
       "excerpt": "Karla Capela is the only Latin American appearing on the list of artificial intelligence shapers released by IBM",
@@ -1236,51 +1281,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-the-rise-of-the-robot.md",
-      "title": "The rise of the robot",
-      "excerpt": "In 1966, a team of engineers at SRI International in California unveiled ‘ Shakey’, the world’s first mobile robot that had the ability to perceive and reason about its surr",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
-      "publishedDateTime": "2020-05-03T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1588339067/itpro/2020/05/shutterstock_bricklaying_robot.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": "The rise of the robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
