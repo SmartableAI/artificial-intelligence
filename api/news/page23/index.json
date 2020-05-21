@@ -2,6 +2,132 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-05-04-ai-software-gets-mixed-reviews-for-tackling-coronavirus.md",
+      "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
+      "excerpt": "Faced with a burgeoning number of Covid-19 patients, hospitals are turning to artificial intelligence to help with diagnoses and assessments. So far, the results are mixed.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
+      "publishedDateTime": "2020-05-04T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-182965/social",
+          "width": 1211,
+          "height": 640,
+          "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-pure-storage-expands-flashblade-the-industrys-first-native-unified-fast-file-and-object-platform.md",
+      "title": "Pure Storage Expands FlashBlade, the Industry's First Native Unified, Fast File and Object Platform",
+      "excerpt": "PRNewswire/ -- Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as a service, today announced the availability of Purity//FB 3.0",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/pure-storage-expands-flashblade-the-industrys-first-native-unified-fast-file-and-object-platform-301051706.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/465493/Pure_Storage_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": "Pure Storage Expands FlashBlade, the Industry's First Native Unified, Fast File and Object Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars.md",
+      "title": "Data storage and AI are driving the evolution of autonomous cars",
+      "excerpt": "The future of connected and fully autonomous vehicles depends on the ability of tech companies to deliver state-of-the-art, high-endurance storage.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/04/data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/04/data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars/amp/",
+      "publishedDateTime": "2020-05-04T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/autonomous-vehicles.GettyImages-1148108337.jpg?fit=2262%2C1208&strip=all",
+          "width": 2262,
+          "height": 1208,
+          "title": "Data storage and AI are driving the evolution of autonomous cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-11-strategic-ways-to-leverage-ai-for-better-sales-results.md",
       "title": "11 Strategic Ways To Leverage AI For Better Sales Results",
       "excerpt": "With the incorporation of AI in sales, teams are now becoming increasingly able to predict and quickly meet sales goals.",
@@ -927,132 +1053,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-cisco-and-microsoft-partner-on-iot-device-connectivity.md",
-      "title": "Cisco and Microsoft Partner on IoT Device Connectivity",
-      "excerpt": "With this arrangement, services such as Microsoft Azure Stream Analytics, Microsoft Azure Machine Learning, and Microsoft Azure Notification Hub services can be used to quickly build IoT apps for the enterprise, Shakib said. Additional telemetry processing ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://adtmag.com/articles/2020/03/05/cisco-microsoft-iot-device-connectivity.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "adtmag.com",
-        "domain": "adtmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F1UEM.jpg",
-          "width": 647,
-          "height": 450,
-          "title": "Cisco and Microsoft Partner on IoT Device Connectivity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-tectonai-snags-20-million-to-solve-ais-data-problem.md",
-      "title": "Tecton.ai Snags $20 Million To Solve AI’s Data Problem",
-      "excerpt": "While the COVID-19 pandemic has halted many venture fundings, Tecton.ai has been able to buck the trend. This week the company announced a $20 million investment from Andreessen Horowitz and Sequoia (last year there was a $5 million angel round).",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/02/tectonai-snags-20-million-to-solve-ais-data-problem/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/02/tectonai-snags-20-million-to-solve-ais-data-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/05/02/tectonai-snags-20-million-to-solve-ais-data-problem/amp/",
-      "publishedDateTime": "2020-05-02T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eadc484240a4f00063e7dd1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D410%26cropY2%3D3785",
-          "width": 1200,
-          "height": 675,
-          "title": "Tecton.ai Snags $20 Million To Solve AI’s Data Problem",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet.md",
-      "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
-      "excerpt": "If a marketer can get an accurate read on someone’s emotional response, they can tweak their campaigns and achieve better results.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/amp/",
-      "publishedDateTime": "2020-05-02T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/02/emotions.png?fit=1059%2C619&strip=all",
-          "width": 1059,
-          "height": 619,
-          "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

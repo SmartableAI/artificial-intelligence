@@ -2,6 +2,139 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-19-the-ai-show-how-intel-built-a-chip-with-a-sense-of-smell.md",
+      "title": "The AI Show: How Intel built a chip with a sense of smell",
+      "excerpt": "Intel designed a neuromorphic AI chip to learn faster on less training data than traditional artificial intelligence techniques.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/19/the-ai-show-how-intel-built-a-chip-with-a-sense-of-smell/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Nahuku-neuromorphic-board.jpg?fit=578%2C385&strip=all",
+          "width": 577,
+          "height": 385,
+          "title": "The AI Show: How Intel built a chip with a sense of smell",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time.md",
+      "title": "AI-Powered Biotech Can Help Deploy a Vaccine In Record Time",
+      "excerpt": "Simulators that can rapidly test trillions of options would accelerate the slow and costly process of human clinical trials.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/",
+      "ampWebUrl": "https://www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/amp",
+      "publishedDateTime": "2020-05-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec305c12de599a4da36ef60/master/pass/OpEd-Vaccines-91344406.jpg",
+          "width": 2400,
+          "height": 1643,
+          "title": "AI-Powered Biotech Can Help Deploy a Vaccine In Record Time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-this-startup-wants-to-get-people-with-autism-into-tech-jobs.md",
+      "title": "This startup wants to get people with autism into tech jobs",
+      "excerpt": "Thanks to Hunter's accessibilities job program, though, he heard about a startup called Daivergent, whose aim is to connect companies with a remote tech workforce of folks on the autism spectrum.  For the last two years,",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/this-startup-wants-to-get-people-with-autism-into-tech-jobs/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-startup-wants-to-get-people-with-autism-into-tech-jobs/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-startup-wants-to-get-people-with-autism-into-tech-jobs/",
+      "publishedDateTime": "2020-05-19T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/WnHHrp55u-AazHFNi1YkNLOOH1U=/756x567/2020/05/19/2501608e-54cd-4831-992a-af2e0acc7ea5/gettyimages-1219925426.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "This startup wants to get people with autism into tech jobs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool.md",
       "title": "Your face mask selfies could be training the next facial recognition tool",
       "excerpt": "Researchers are crawling the internet for photos of people wearing face masks to improve facial recognition algorithms.",
@@ -730,7 +863,7 @@
       "path": "_news/2020-05-19-facial-recognition-used-to-reunite-missing-child-with-family-after-32-years.md",
       "title": "Facial recognition used to reunite missing child with family after 32 years",
       "excerpt": "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology.",
-      "heat": 217,
+      "heat": 227,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html?ref=hvper.com",
@@ -923,125 +1056,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tesla-to-raise-self-driving-option-price-by-1000.md",
-      "title": "Tesla To Raise Self-Driving Option Price By $1,000",
-      "excerpt": "(RTTNews) - Tesla will increase the price of the full self-driving option on its electric vehicles worldwide by $1,000 starting July 1, Chief",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-raise-self-driving-option-price-by-1-000-1029212854",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854",
-      "publishedDateTime": "2020-05-18T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors.md",
-      "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
-      "excerpt": "Microsoft and Sony have formed a new partnership to apply the former's Azure AI capabilities to the latter's smart camera sensor system. The goal is to boost computer vision for enterprise settings.",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
-      "publishedDateTime": "2020-05-18T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589842585_untitled_design_(2)_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential.md",
-      "title": "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential",
-      "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "publishedDateTime": "2020-05-18T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

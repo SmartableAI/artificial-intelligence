@@ -215,6 +215,19 @@ related:
       - url: "https://www.hawaiinewsnow.com/resizer/w51OS9yT97gOHOvkYSKGYJVQZDM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/3IAREMZCLBEJHC3URT557DLPRU.jpg"
         width: 1200
         height: 675
+  - title: "Facial recognition helps reunite man kidnapped as toddler with family after 32 years"
+    excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological parents Monday, with the help of facial recognition technology. Mao Yin was taken from his family in 1988 when he was two years old while outside of a hotel in the Chinese city of Xi’an,"
+    publishedDateTime: 2020-05-21T13:02:00Z
+    webUrl: "https://www.eastidahonews.com/2020/05/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years/"
+    type: article
+    provider:
+      name: East Idaho News
+      domain: eastidahonews.com
+    quality: 32
+    images:
+      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2017/09/25103716/EINLogo_1024x1024.jpg"
+        width: 1024
+        height: 1024
 
 secured: "EqvYAi6kenbxNCqrKwNUUds6DF0U8guIlnPqRAJqgUIuMtHZyIfXIcmiIb3hOBt780uf8HAN0HmpYEGaoz/B0hKLRbmgqlKNHEsGnYW3TqDKzTDFhSDim4XXLI9gVdFqqVE//xhuwk8sqSNk4QVssno6Abduo1wpefdnshDg0brL/8+XIojrQLw1YqlYie5n8EcjMRRRw1mQqxZSPJRPC8CafKNEs7peeeIbCw0q1BD5Suu3//B4nayTj64PGk6YrUtyTaZVVprFLw5yKOA58NwaCe6GvhzURuOwkTVQqSG1JM1XJ856x2eZ8DRboa6g;hqcXsqibgk4QKxNQ8GAXBQ=="
 ---

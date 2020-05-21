@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html"
 type: article
 quality: 87
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -219,6 +219,19 @@ related:
       - url: "https://www.wistv.com/resizer/w51OS9yT97gOHOvkYSKGYJVQZDM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/3IAREMZCLBEJHC3URT557DLPRU.jpg"
         width: 1200
         height: 675
+  - title: "Facial recognition helps reunite man kidnapped as toddler with family after 32 years"
+    excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological parents Monday, with the help of facial recognition technology. Mao Yin was taken from his family in 1988 when he was two years old while outside of a hotel in the Chinese city of Xi’an,"
+    publishedDateTime: 2020-05-21T13:02:00Z
+    webUrl: "https://www.eastidahonews.com/2020/05/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years/"
+    type: article
+    provider:
+      name: East Idaho News
+      domain: eastidahonews.com
+    quality: 32
+    images:
+      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2017/09/25103716/EINLogo_1024x1024.jpg"
+        width: 1024
+        height: 1024
 
 secured: "3UXI84lJRr1MAjbBgVkpFFVG1+QQjvweB6eS6DnTlz273IsbG0QS0t8Zf5+UjidV5shnZLytPlISeLe6QJ+Z5H7/Eis1aqiYvgFSH8LpCjZC8q3Tc449VNj1hXpVzcjEU+ehOqSZoIhTUPPI0uwTn7j9XQFExakp2Opm5lIZLPGCwe9VpFCF2pEHqF4Nuo4zXFP7VjBuJ1KSuKOQYlJlMmqr0u1DmNl8rNr+DHEcAzWZqzEsXjtBGnrPT6z2dcxraX3sF1DSX/YVLUvpN99UjOr6a2p9iNcaJBPxF17Nqm99oiGcmvGbhg/oBlpgwzRT9iZ7z4XcrbltGr8bgDTgU9UL62g9oBZW4MlllztjMbwAIEU8sAyLGLAcSrAcxm7xuhIbW7/WfIiyO1pAaZtfYco2w93ePcSc41cDqpUVegW2EXM6s3fZL0nXqAkxEc7VtoDVzROcUDSVXemehJrNieMlSdicHdyVG4CQ1ybeMQw=;Nmhb+4FsmFlcImtfgrU5rw=="
 ---

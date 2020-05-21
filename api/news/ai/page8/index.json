@@ -2,6 +2,135 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-14-nvidias-first-ampere-gpu-is-designed-for-data-centers-and-ai-not-your-pc.md",
+      "title": "Nvidia’s first Ampere GPU is designed for data centers and AI, not your PC",
+      "excerpt": "Nvidia is unveiling its next-generation Ampere GPU architecture today. The first GPU to use Ampere will be Nvidia’s new A100, built for scientific computing, cloud graphics, and data analytics. While there have been plenty of rumors around Nvidia’s Ampere plans for GeForce “RTX 3080” cards,",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer",
+      "publishedDateTime": "2020-05-14T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/HF2WomES921lXx07YJ_w3OkXx-w=/0x0:1980x1320/1400x933/filters:focal(832x502:1148x818):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66796434/2555435ebae590030837.15346566_NVIDIA_A100_GPU.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Nvidia’s first Ampere GPU is designed for data centers and AI, not your PC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.md",
+      "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
+      "excerpt": "The next major release of the in-memory data processing framework will support GPU-accelerated functions courtesy of Nvidia RAPIDS",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
+      "publishedDateTime": "2020-05-14T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/05/sparking-jumper-cables-94261543-100265638-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing.md",
+      "title": "GPU Chips Are Poised To Rewrite (Again) What’s Possible In Cloud Computing",
+      "excerpt": "Tech companies such as Nvidia and Oracle are making it easier for businesses to apply GPUs to more complicated realms of artificial intelligence.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/",
+      "ampWebUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
+      "publishedDateTime": "2020-05-14T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidias-new-data-center-gpu-packs-20-times-the-performance-of-its-predecessor.md",
       "title": "Nvidia's new data center GPU packs 20 times the performance of its predecessor",
       "excerpt": "The graphics chip will power servers used by Amazon, Google, Microsoft and other cloud service providers. And it will be used to fight COVID-19.",
@@ -1159,119 +1288,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-facebook-trains-artificial-intelligence-on-hateful-memes.md",
-      "title": "Facebook trains artificial intelligence on ‘hateful memes’",
-      "excerpt": "Facebook said it made a commitment to \"disrupt\" organised hateful conduct using artificial intelligence. Here's how.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
-      "ampWebUrl": "https://amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
-      "cdnAmpWebUrl": "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/online/facebook-artificial-intelligence-hateful-memes-challenges/",
-      "publishedDateTime": "2020-05-13T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "richest",
-        "domain": "thesouthafrican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://gcs.thesouthafrican.com/2020/05/7764b0a6-facebook-ai-scaled.jpeg",
-          "width": 2560,
-          "height": 1707,
-          "title": "Facebook trains artificial intelligence on ‘hateful memes’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution.md",
-      "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
-      "excerpt": "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has announced the general availability of Amazon Kendra, described as an enterprise search solution which leverages \"machine learning to enable organizations to index all of their internal data sources,",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution-2020-05-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow.md",
-      "title": "7 Artificial Intelligence ETFs to Buy for Today and Tomorrow",
-      "excerpt": "Artificial intelligence (AI) is taking a variety of industries by storm and with that shift comes a plethora of investment implications. Fortunately, in what feels like a universe of thematic funds teeming with obscure products,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13?amp",
-      "publishedDateTime": "2020-05-13T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

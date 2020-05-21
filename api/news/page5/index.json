@@ -2,6 +2,125 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-19-tesla-to-raise-self-driving-option-price-by-1000.md",
+      "title": "Tesla To Raise Self-Driving Option Price By $1,000",
+      "excerpt": "(RTTNews) - Tesla will increase the price of the full self-driving option on its electric vehicles worldwide by $1,000 starting July 1, Chief",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-raise-self-driving-option-price-by-1-000-1029212854",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854",
+      "publishedDateTime": "2020-05-18T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors.md",
+      "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
+      "excerpt": "Microsoft and Sony have formed a new partnership to apply the former's Azure AI capabilities to the latter's smart camera sensor system. The goal is to boost computer vision for enterprise settings.",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/",
+      "publishedDateTime": "2020-05-18T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589842585_untitled_design_(2)_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential.md",
+      "title": "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential",
+      "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
+      "publishedDateTime": "2020-05-18T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-price-as-elon-musk-sees-value-rise-to-100k.md",
       "title": "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k",
       "excerpt": "Driving’ package again as Elon Musk now evaluates the value of the completed version of the package at over $100,000. Over the years, much has been said about how Tesla is approaching self-driving technology differently from the rest of the auto industry.",
@@ -958,141 +1077,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-this-ai-tool-automatically-identifies-different-types-of-brain-injury.md",
-      "title": "This AI tool automatically identifies different types of brain injury",
-      "excerpt": "Scientists from Imperial College London and Cambridge have developed an AI tool that can identify different brain injuries by analyzing images of CT scans",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/amp/",
-      "publishedDateTime": "2020-05-18T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-38-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This AI tool automatically identifies different types of brain injury",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-nvidia-releases-new-artificial-intelligence-hardware.md",
-      "title": "NVIDIA Releases New Artificial Intelligence Hardware",
-      "excerpt": "When it comes to hardware technology, NVIDIA (NASDAQ:NVDA) is at the leading edge of developments that are poised to reshape the world for at least the next decade. Using its graphics processing unit (GPU) roots for high-end video games -- an early data-dense computing task that has paved the way for breakthroughs in other areas -- NVIDIA is a busy chip designer and software developer these days.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
-      "publishedDateTime": "2020-05-18T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "NVIDIA Releases New Artificial Intelligence Hardware",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code.md",
-      "title": "Machine learning tool trains on old code to spot bugs in new code",
-      "excerpt": "Microsoft and Altran release Code Defect AI to identify potential problems in software development and suggest fixes.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
-      "publishedDateTime": "2020-05-18T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/resize/1200x/43e40b69690725c1581fd684e8676489/istock-1047259374.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Machine learning tool trains on old code to spot bugs in new code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

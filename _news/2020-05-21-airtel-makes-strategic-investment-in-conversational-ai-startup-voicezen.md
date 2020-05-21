@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/airtel-makes-strategic-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/airtel-makes-strategic-investment-in-conversational-ai-startup-voicezen/amp-11590059127432.html"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     height: 338
     title: "Airtel makes strategic investment in conversational AI startup Voicezen"
 
-related:
-  - title: "Bharti Airtel picks up stake in conversational AI tech startup Voicezen"
-    excerpt: "Bharti Airtel Ltd has acquired a 10% stake in Voicezen India Pvt. Ltd, an early-stage startup focused on conversational artificial"
-    publishedDateTime: 2020-05-21T10:31:00Z
-    webUrl: "https://www.vccircle.com/bharti-airtel-picks-up-stake-in-conversational-ai-tech-startup-voicezen"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 17
-
-secured: "L7zp+B6zN/SDxLf1LVH4gegC/TTllUl06tjTY0QgK+0m/SuZm8w7P0J5RQApLszNkd9wGVX1hAKvPG7qZsLxGrkfi3SPBBSlHEFJx5NrgkRTb2x/123kNPMlzlQMRvYEnUw3nm8mqxS3ZcjWgL5qVTiMHWu+M82DUn6hgafafPLr8nLOFfuHSEE1LVPCK5nGjBKvJVNXJQE++/xKrr2IT4O2kgMUlWte8ncN2ESCHG170+zEasyOUnkDwHOcxHmP7RKvJWTIg3CJScgjOB3U76C4exqySz6kWrfIzmb3PVaWLkE7Gz1ffzv7pISsjLtK;IKfvwXGL4v3W4176cz/qKg=="
+secured: "8ENkFyTILZLyXFKlPqsRy6heeAwd+HEGVVCY+dBeoxICrO0e15TZwk2jP9fzlYa5YvcPZDbt0TjhT252TFGSnhQfTIh/9yRveVIL+Cd9YaNdYM3kAnX7KeebGVO0UUExy/BiPcOq7NBos6Nmrv75cDpn6mzb+rBjuUgKUYSOr8iubsHt+6tBLCqZkxVPYPNCZ0xKzbq3S7Evhw2gktS2OXC3QU4J1HNvuIh/ebauOUn+lp5PeQ1O/IfuQny13Z0b4KAF66saaqgd+uEwW4r90iXkpC7Yh2b0pXZle0NF7/Zg2yT954+s25YnOSSetZ4K19gTnl84QCxrG336i6j/7YzD+eNW0e6XOF7I9NRAJYxLwowbCyr/y9IXzdocDnjC8ZdnxyJkHMnuSD+rv3Y5i/rgxHS7S2TErF/KZ9zXplQ5LsvD64EyfQ8MngvSzc3yuCPoqz6Blp38q7yaHnh2U8neMwV3MPu365vT07gQs5I=;yR5P9KPVJSpykiITA7bAoQ=="
 ---
 

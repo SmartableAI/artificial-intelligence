@@ -23,6 +23,6 @@ images:
     height: 900
     title: "Coronavirus Tests The Value Of Artificial Intelligence In Medicine"
 
-secured: "mBVJDaP4jCIDVzthMqpda1FnVu6qNCyD36OuVfBS3Z+5J0+niG0cdpBD5uj6FalGptWjPt2iLC+KsY4nsnUJJsDLLOK8smQ0zWotvSOSO0ZqFCIOdldNZUgRaO6zG/YWpenok9foGY9Mc4AtIilm4HEZVPPVHvSftTLkuPiH0jeSYWtEQ0K/73U5VDgF51fM2bhD+0lGHNNvE/gSgAhocealcefYY7/pIeP34l8+rK5k2PfOsA/R425+4pOTNDcZGl0n5S/TxPRjWXzijDf9NwsWKhCP5ULcTUjucFAj45IoeAUyHBzoq4VIeVDU6Q+b;3V4BlNT9EZEN58eRWal+zA=="
+secured: "eaCuP3bBDlRkEVdDlxezJr/7G0j7EmG/lKluODMwL0gPmH/zkH3qjsCGWrAh7rNWdHLUfNB0dXBXPu1fPZ+9AjKR0T4nxxrC/4oVpf9wq4SXf994nBJNnIyEWEkvm90KC2eLZ+pTnClQ9I8CjmF43T4+wnacSi7/t9zmDJEZbCDn0oppWcPthtyguopm/L10/Is4yc9tJuipyhmK/hDQivV7VWtML/eOSpcPMa8mBk6Q2M8m49uk7tQPkhG2hG3EieFH+4mssgMFJ+WwBBGvxI+XVWAFKgMiT/gjzVp5SgV0WP7AGz+qaqDatpQlKvDbzsamlpnlwikGokOxxzNTsO1A5wxBxhkkd+RjI+6QefbhTJQBYjR6ZRypw3LrWQydNo3vaZmhCzVHNNWgxZZhtJ0eYTBOEIi/QdYaXioinIzf1StNoZYtF+jcNvZGg0KU76c/CAalUboDG29d4ZWGax+Fv2P2bdvkaxdPeNcWmIs=;IImSMrEds4yYHvfBbaRTRg=="
 ---
 

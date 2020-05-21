@@ -2,10 +2,135 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-21-facebook-leverages-ai-to-improve-kids-safety-in-messenger.md",
+      "title": "Facebook leverages AI to improve kids’ safety in Messenger",
+      "excerpt": "Facebook is rolling out an AI feature that gives users under the age of 18 tips on interacting with unfamiliar adults and avoiding scams.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/amp/",
+      "publishedDateTime": "2020-05-21T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/facebook-messenger-f8-e1584730735130.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook leverages AI to improve kids’ safety in Messenger",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-airtel-acquires-10-stake-in-ai-startup-voicezen.md",
+      "title": "Airtel acquires 10% stake in AI startup Voicezen",
+      "excerpt": "New Delhi, May 21 () Bharti Airtel has acquired 10 per cent stake in Gurgaon-based start-up Voicezen, which focusses on conversational artificial intelligence technologies, in an all-cash deal, the private operator said on Thursday.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/articleshow/75868862.cms",
+      "ampWebUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms",
+      "publishedDateTime": "2020-05-21T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/75868862.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": "Airtel acquires 10% stake in AI startup Voicezen",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-bb-8-toy-robot-maker-spins-off-robotics-startup-for-first-responders.md",
+      "title": "BB-8 toy robot maker spins off robotics startup for first responders",
+      "excerpt": "Sphero is perhaps best known for its mini Star Wars droids, but the company also makes edutainment bots for kids. And now the firm has turned its Public Safety Division into a brand new company focused on developing robots and AI software for emergency personnel,",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/robotics/sphero-company-six/",
+      "ampWebUrl": "https://newatlas.com/robotics/sphero-company-six/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sphero-company-six/?amp=true",
+      "publishedDateTime": "2020-05-21T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/06aad15/2147483647/strip/true/crop/845x563+78+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe7%2Fe6%2Fa6b004194a4dad0bc7c3ff904cbd%2Fhero.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "BB-8 toy robot maker spins off robotics startup for first responders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus.md",
       "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
       "excerpt": "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network.",
-      "heat": 73,
+      "heat": 90,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
@@ -43,7 +168,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -676,51 +802,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-20-toy-robot-maker-sphero-spins-off-startup-focused-on-military-first-responders.md",
-      "title": "Toy robot maker Sphero spins off startup focused on military, first responders",
-      "excerpt": "Sphero, the consumer robotics company known for its Disney BB-8 toys and STEM-based educational tools, is launching a startup focused on making robots and AI-based software for first responders, law enforcement and the military.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/toy-robot-maker-sphero-spins-off-startup-focused-on-military-first-responders/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/toy-robot-maker-sphero-spins-off-startup-focused-on-military-first-responders/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/toy-robot-maker-sphero-spins-off-startup-focused-on-military-first-responders/",
-      "publishedDateTime": "2020-05-20T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/BiSR3X5qwXZnYLE7lvZkbVKsPgg=/756x567/2019/12/05/b888d83d-d0e5-489f-bd8e-8060676e3f7e/walmart-100-sphero-bb8-droid-cnet.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Toy robot maker Sphero spins off startup focused on military, first responders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-20-shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network.md",
       "title": "Shopify intros Balance debit card for SMBs, expands access to AI fulfillment network",
       "excerpt": "E-commerce platform provider Shopify on Wednesday unveiled a new financial service for its small business merchants that aims to consolidate business transactions and cash flows into a single business account.",
@@ -1196,96 +1277,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-nvidia-reveals-why-it-chose-rival-amd-over-intel-for-its-deep-learning-system.md",
-      "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
-      "excerpt": "In Nvidia’s first two DGX systems, Intel’s Xeon CPUs were the preferred processor, but the company dropped them in the DGX A100 for two of AMD's 64-core, Zen 2-based Epyc 7742 CPUs. The system, which uses the new,",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
-      "publishedDateTime": "2020-05-20T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-3.jpg",
-          "width": 1037,
-          "height": 598,
-          "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-now-hiring-ai-futurists-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite.md",
-      "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
-      "excerpt": "In a time of COVID-19 disruption, futurists can accelerate organizational recovery and capacity. When partnered with purpose-built AI, augmented intelligence can also spur radical innovation.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
-      "publishedDateTime": "2020-05-20T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/18/17e256c4-9dfe-411d-b600-d26fc0ad8edf/24-brian-solis-on-twitter-new-poll-who-s-leading-the-digitaltransformation-of-your-company-twitter.jpg",
-          "width": 596,
-          "height": 344,
-          "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

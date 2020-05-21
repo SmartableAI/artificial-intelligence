@@ -2,6 +2,133 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-05-01-astronauts-adopt-mozilla-speech-tech-to-control-moon-robots.md",
+      "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
+      "excerpt": "The text-to-speech engine will give astronauts their hands back during complex tasks. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
+      "publishedDateTime": "2020-05-01T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/09/23/bb592151-a7e8-47d8-84ec-11dcda294513/resize/1200x900/7f35b9e8aa729f1d5fbf1543913e030e/roborock-s4-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-these-pop-songs-were-written-by-openais-deep-learning-algorithm.md",
+      "title": "These pop songs were written by OpenAI’s deep-learning algorithm",
+      "excerpt": "In a fresh spin on manufactured pop, OpenAI has released a neural network called Jukebox that can generate catchy songs in a variety of different styles, from teenybop and country to hip-hop and heavy metal.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm/",
+      "ampWebUrl": "https://www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm/amp/",
+      "publishedDateTime": "2020-05-01T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/05/GettyImages-1211766399.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "These pop songs were written by OpenAI’s deep-learning algorithm",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-google-releases-ai-tool-for-processing-paycheck-protection-program-loans.md",
+      "title": "Google releases AI tool for processing Paycheck Protection Program loans",
+      "excerpt": "Google released a tool -- PPP Lending AI -- that enables lenders to leverage AI to process applications for the U.S. Paycheck Protection Program.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
+      "publishedDateTime": "2020-05-01T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases AI tool for processing Paycheck Protection Program loans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-senator-questions-clearview-ai-over-coronavirus-tracking-plans.md",
       "title": "Senator questions Clearview AI over coronavirus tracking plans",
       "excerpt": "Sen. Edward Markey says COVID-19 contact tracing can't be \"used as cover by companies like Clearview to build shadowy surveillance networks.\"",
@@ -930,123 +1057,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future.md",
-      "title": "How Goodyear Is Using Data, Artificial Intelligence And Digital Twins To Create The Tyres Of The Future",
-      "excerpt": "Goodyear, one of the world's leading tire manufactures, has been at the forefront of innovation for a long time. Here we look at how the company uses data, artificial intelligence, and digital twins to create the tires of the future.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/01/how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/01/how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/01/how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future/amp/",
-      "publishedDateTime": "2020-04-30T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eab59b53a7297000740d873%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How Goodyear Is Using Data, Artificial Intelligence And Digital Twins To Create The Tyres Of The Future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-linkedin-now-has-an-ai-to-help-with-your-interview-game.md",
-      "title": "LinkedIn Now Has an AI to Help With Your Interview Game",
-      "excerpt": "As a record number of Americans grapple with unemployment in the wake of the novel coronavirus pandemic, LinkedIn’s rolled out some AI-powered tools to help job seekers prepare for the nightmare fuel that is the interviewing process.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264",
-      "ampWebUrl": "https://gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264/amp",
-      "publishedDateTime": "2020-04-30T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ssszinfmocsryua6ltfk.jpg",
-          "width": 800,
-          "height": 533,
-          "title": "LinkedIn Now Has an AI to Help With Your Interview Game",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-service.md",
-      "title": "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service",
-      "excerpt": "Taobao Festival is finally coming! In Hangzhou Boiler factory full of hard core industry wind, there are not only super hi playing methods such as artificial",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15929960/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T19:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

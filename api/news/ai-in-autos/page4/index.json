@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-30-items-tagged-with-uber.md",
+      "title": "Items tagged with uber",
+      "excerpt": "Researchers around the world are working on new types of artificial intelligence (AI) that can dominate in games created by humans. Typically, these AI complete video games with much higher scores ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hothardware.com/tags/uber",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/51493/content/atari-2600.jpg",
+          "width": 708,
+          "height": 472,
+          "title": "Items tagged with uber",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-six-areas-where-ai-is-improving-customer-experiences.md",
       "title": "Six Areas Where AI Is Improving Customer Experiences",
       "excerpt": "This year's hard reset is amplifying how vital customer relationships are and how much potential AI has to find new ways to improve them.",
@@ -1223,51 +1260,6 @@
           "width": 1200,
           "height": 959,
           "title": "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-americans-remain-super-skeptical-of-evs-self-driving-cars.md",
-      "title": "Americans remain super skeptical of EVs, self-driving cars",
-      "excerpt": "JD Power's latest survey shows confidence in both electric cars and self-driving technology started to fall even before the coronavirus pandemic.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/ev-self-driving-survey-skeptical-americans/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ev-self-driving-survey-skeptical-americans/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ev-self-driving-survey-skeptical-americans/",
-      "publishedDateTime": "2020-04-22T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/2Gr2Oyn5xtHNf_PXRKKOiPtjivU=/2018/06/07/ba35851f-811f-48c2-9c8b-65cbba20aaae/2018-chevrolet-bolt-ev-charging-port-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Americans remain super skeptical of EVs, self-driving cars",
           "attribution": null
         }
       ],
