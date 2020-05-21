@@ -1,11 +1,11 @@
 ---
 category: news
 title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
-excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G)."
+excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective ... being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G)."
 publishedDateTime: 2020-05-07T08:00:00Z
-webUrl: "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_173952755/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/"
+webUrl: "https://www.zawya.com/uae/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_173952755/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_173952755/"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 878
     title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
 
-secured: "6PyGq3PT8u+NDYsYs10AKAsTj8aQiHP8mial0ZDxuVFmlobn+kirEq0JnuDBubUe/McX9IqRdrqLu4FD0kB4273AkNR9umzYL19mylqJONws4vygRCYiFMX18xGR1Z4uyd+wJrK+0bhL2SYrT3hRl/mKndrINQcITdS+knEj19ia3MIAFR0ndYF27nDFYC/otaMq19CV/jo/bWXQTik1ust8RyZIaAHTlb6QfwL9ahr2mRAekx0skNOiMe1zflGGth4EIvRd8Ob5VyrjTYwythArVl+KScikuytrF8r5JkWBJGCVsY30d3F1ZtR8hkJY8fKr9oiJfQklGXMqsTQfS5o/zdxKHquH5UH6l7OTBxxEFkAOjK/81oZTAlGuGcrcJ79D0/ZFb6M5aHMpeIiOukJrVva+iE7YU0ZlJg5MDkTntTQUwJLZCJjwH+V4/pIfLf53HbL0XLz/Xkcu7gKyH7dRmQh5FVpaKdupKn4gCd8=;hImk9nM7LmFPeYFgvWIkGQ=="
+secured: "/elzRwR9NQWwM3quo57VvvJptYYpbU20lcfDs+B605Gmy8ci8KnddxaSAvRc0R1xFRaL+hB2VHKxMQYUbTqy5IECUgqQTGBB7ktIeE02LxhAwWe9m0X1+krmvG4UpWbMJQYuPulfruasTJ+svzDBWslIbPMt+H0M+xN921yG2BuS9d0sxgOFQ2szg2FVnUW4Hc84+uhanEMCbOujKERl22DLtrZfeX+1dgEDI3Wxl6H0MkOx2MUP78k34Cvooo3iixVpWgfBo8TTB+i0QftEBPMK6zRcZWudFru2lTXe2BndmZdIovTqVyzh+HpE4H8y;Zmc+dLjSiQStiYhfkEEMJg=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 1407
     title: "US agency lets self-driving shuttle resume carrying people"
 
-secured: "wXhmh73ZRHPqwSlc3Nbju5MvCiM+zShxObdrEGXjiGU1lRY/FOmVwd/ob9MpQWvqGansYaS6dkCZEbyRfjsUcSoSk+VV0Jfoofjdk3vQueC/sZ4AQZ9cPvrINPGGCa1l+mt8eTGDe+d0JPvjdbC6wqsofaDueYbu6ZxGYW9+sjbtI6wjFSEchnT5uJf2QKW3z9C6WibcUO3B9zrfXcVKWhYCkz6DpZORxxjM6OqjuxihbEsELHpX2A+Izwn84m0P4Bf07UDRwDXKxH9eua0ZP4STZrfmSD4JOhSk7QBZgqMdq+4HxwowA5XOoNNjbDLT;nh+MwCinqbO3qXptKpYx1Q=="
+secured: "kijoNLLgct5u2+e/FVNLT3U1Sqj7wmk+S/UZNkq/sMlFys3a0xRvAKDapvR82JoOgv0UMK6/LffyDMX77Cc7Xq1w2B63wGrIniFhfDL66C4ZxdtELctUyj+NPbVuR97/0fHSdS0oDI3ayE2heSCoJgTcgCs9VD+Cf4U3wthEPIV6tNxvyZ58v5Pm2/rA+QyNogms0/N9rdyWkVHAQYUZ/jSdPUI8QgzrkHxHNV5dM8lxHakN/8/YBpD8wJBy1qzO1Sq52atvHjmOcRLqv1HWpMTy2CX2LSQm0f6VfHq7Yi255Z1j8jqLdkpuopjEIm3J1VF4rGZyYEYlWW+M9tOq2e/rQcIgLzmBwvEOJJAIzNBaue17TFx4QQSm+mFsDhEFPAtWVZgxVITcfIS071cc/3Zve7Mk6uKBOwDSy2Ihpxr1Pb+XBzEvsB50ImDxxHh5xBqiSLP1uYUVLoDn4CHTGhZg1cuCgZ1xs2SAZGvzGE8=;XotTAiDO7/KWHXU/H+plXQ=="
 ---
 
