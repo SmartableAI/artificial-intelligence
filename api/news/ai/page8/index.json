@@ -53,27 +53,19 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.multichannel.com/pr-feed/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
-      "ampWebUrl": "https://www.multichannel.com/.amp/pr-feed/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
-      "cdnAmpWebUrl": "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/pr-feed/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
-      "publishedDateTime": "2020-05-14T05:21:00-07:00",
+      "webUrl": "https://www.broadcastingcable.com/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
+      "ampWebUrl": "https://www.broadcastingcable.com/.amp/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
+      "cdnAmpWebUrl": "https://www-broadcastingcable-com.cdn.ampproject.org/c/s/www.broadcastingcable.com/.amp/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network",
+      "publishedDateTime": "2020-05-14T05:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Multichannel News",
-        "domain": "multichannel.com",
+        "name": "Broadcasting & Cable",
+        "domain": "broadcastingcable.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.multichannel.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcyMTc2MTY2NTgzNTQyOTk2/ltn-columbia_4286.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

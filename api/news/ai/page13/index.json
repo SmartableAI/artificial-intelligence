@@ -2,6 +2,51 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-05-08-clearview-ai-claims-its-facial-recognition-tech-isnt-for-private-companies.md",
+      "title": "Clearview AI claims its facial recognition tech isn't for private companies",
+      "excerpt": "Clearview AI responded to a lawsuit over its facial recognition tech by claiming that it's cancelling the accounts of anyone not in law enforcement or affiliated with a government agency. The company built its database with images scraped from social media.",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/clearview-ai-claims-its-facial-recognition-tech-isnt-for-private-companies-031304548.html",
+      "ampWebUrl": "https://www.engadget.com/amp/clearview-ai-claims-its-facial-recognition-tech-isnt-for-private-companies-031304548.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-claims-its-facial-recognition-tech-isnt-for-private-companies-031304548.html",
+      "publishedDateTime": "2020-05-07T20:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F41d284c0-90d9-11ea-bb7d-17e552ea48f7&client=amp-blogside-v2&signature=fe89ad135723f6833c30c2b2a4d58452f7fe7476",
+          "width": 600,
+          "height": 350,
+          "title": "Clearview AI claims its facial recognition tech isn't for private companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-can-robotaxis-ease-public-transport-fears-in-china.md",
       "title": "Can robotaxis ease public transport fears in China?",
       "excerpt": "The rise of self-driving taxis in China comes at a time when ... Internet search engine Baidu, China's answer to Google, is rolling out a fleet of its Apollo robotaxis across three cities in ...",
@@ -1052,23 +1097,31 @@
     {
       "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
       "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
+      "excerpt": "Recently, the results of the AutoDL (Auto Deep Learning) 2019-2020 finals held by NeurIPS, a top AI academic conference, was announced and Inspur's te",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html",
+      "webUrl": "https://www.businesswire.com/news/home/20200507005360/en/Inspur-Takes-3rd-Place-NeurIPS-AutoDL-2019-2020",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T07:42:00-07:00",
+      "publishedDateTime": "2020-05-07T08:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200507005360/en/790124/23/inspur_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1203,52 +1256,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-symend-raises-52-million-to-remediate-consumer-debt-with-data-science.md",
-      "title": "Symend raises $52 million to remediate consumer debt with data science",
-      "excerpt": "Symend, which is using AI and machine learning to help customers remediate debt, has secured $52 million in equity financing.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/amp/",
-      "publishedDateTime": "2020-05-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/9cc469b8-554a-45ab-911b-57fb23b7e4c5-e1588710720507.png?fit=1200%2C743&strip=all",
-          "width": 1200,
-          "height": 743,
-          "title": "Symend raises $52 million to remediate consumer debt with data science",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

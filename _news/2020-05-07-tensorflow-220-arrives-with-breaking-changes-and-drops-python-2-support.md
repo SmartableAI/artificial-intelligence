@@ -13,6 +13,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://jaxenter.com/wp-content/uploads/2020/05/tensorflow-2-2-0.jpg"

@@ -577,27 +577,27 @@
     {
       "path": "_news/2020-05-14-ecs-achieves-aws-migration-competency.md",
       "title": "ECS Achieves AWS Migration Competency",
-      "excerpt": "As an Amazon Migration Partner, ECS guides customers through every stage of cloud migration, from initial discovery and planning through the migration itself and cloud operations",
+      "excerpt": "ECS, a leader in advanced technology, science, and engineering solutions, has been awarded the Amazon Web Services (AWS) Migration Competency. This aw",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://apnews.com/41e3c961f32a492688c1a9d11d5014b3",
+      "webUrl": "https://www.businesswire.com/news/home/20200514005590/en/ECS-Achieves-AWS-Migration-Competency",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-14T07:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mms.businesswire.com/media/20200514005590/en/786373/23/RedTab%403x.jpg",
+          "width": 1200,
+          "height": 627,
           "title": "ECS Achieves AWS Migration Competency",
           "attribution": null
         }
