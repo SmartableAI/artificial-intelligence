@@ -14,6 +14,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "QyyFMlIYEsxDt/hsObpZJ/KUplzcdFsV4MQSCBCtKmPz2gKR4P/iwSFkdQX6tRA+c9fmUHPYnrpWClWhNIM9YHof72SWa5rT8zpw4QbzXKhOn44hXHjT2d5QPGqTL2p+Q35x9lagm8kmzjwWcmFENny1yz55dEfdx9szZqEEY2lAW9OkJ6bFbZW1uL5uR8LNxzRD26M63xbv9Ivpv+F25J2HUkOUmC0TntS/ZDjo/1N630ac2Xssgqt8cBsH/t/9u1NVkXEJ7XTCr92btrrjoGi7yJdos79KTYY6kpLVen2N3WI+vrVfFmii1SQv6302;3/6/VYVA26IZ2yamf8VJ9A=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+    width: 1200
+    height: 630
+    title: "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020"
+
+secured: "Z3JeXYYG13QwWmsylIjHIhsOoaF27nJ6kXUxS9kgHz8zREnetpViDaKxLz4zQ64idLDug9Kzl0BMfqkIPp4GIpJ71TXoECM2cUXAMHwB+zMmdoAbhvg9n9zppSE23UBJbbmb/N+wor7Z+BqFbM2wIy8LVHAwRYsMQ5laOEf8lJVjFqJW+2RpKlVZKO7ifGv8czrbJkn7SJEqE9U6u/GUO7sXv2TZcSZTsLexmzoNTh7vhO0IRrp2q44KsB8OBjCIoJmcwdNkzqUI2d+jW9MsH80MFl9qWOH0nQNiSkx3Vg97ZEv0AVes7qbM465c7Grw;ZUG3hIFA7FpCvjpmzRgvWw=="
 ---
 

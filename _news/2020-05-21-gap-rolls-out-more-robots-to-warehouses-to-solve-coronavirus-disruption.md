@@ -41,6 +41,21 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519427977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K0SD"
         width: 817
         height: 545
+  - title: "Gap is rushing more robots into its warehouses to handle coronavirus disruption"
+    excerpt: "The news illustrates how the pandemic may speed up automation in the retail industry. Companies including Gap and Amazon have long used such systems for a range of tasks, like moving items across warehouse floors."
+    publishedDateTime: 2020-05-21T18:56:00Z
+    webUrl: "https://www.cnbc.com/2020/05/21/gap-rushing-more-robots-into-warehouses.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 85
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106547755-1590087185389gap.jpg?v=1590087262"
+        width: 1326
+        height: 745
 
 secured: "0c8fBrNhMiB2yW9l5E/RsPIynoN0yOMzmgKg1kDkQHGnWR5KHKhzLHu9u0ooY1jRHBczd+vOhyJHyV9QHtr5gZxAYbwnd45kWL35zpRXyKP53ux0htgUTSzfocQP4GNtLYIx+vPFYGRiEyG/O/yx9cTcLSnXE2ehyoy1g5Q13jYrUrIMnKd5rpgKmNW3eW1v0yrTO1n9dbBMNSs7iGhavnR0wF8+OiPjQ9MBX4qArfSb05qRaFW+EOqMZApUq5u7adDFbJwxfm42ssFohLRPaaaoj90J3PG6hpYHJktCs20bq69/F5qGTMehP31kfCuM;u8rds40EUcjS3lFBhvUveg=="
 ---

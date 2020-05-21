@@ -31,7 +31,7 @@ related:
   - title: "Self-driving car market wroth USD 173.15 Bn by 2023"
     excerpt: "May 21, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
     publishedDateTime: 2020-05-21T15:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-wroth-usd-17315-bn-by-2023-2020-05-21?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-wroth-usd-17315-bn-by-2023-2020-05-21"
     type: article
     provider:
       name: MarketWatch

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
+      "title": "AI chips in 2020: Nvidia and the challengers",
+      "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "publishedDateTime": "2020-05-21T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/04/03/156d6478-5ded-4ada-835a-784899fa6564/abstraction-layer-runai.png",
+          "width": 954,
+          "height": 672,
+          "title": "AI chips in 2020: Nvidia and the challengers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer.md",
       "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
       "excerpt": "During its Build 2020 developer conference on Tuesday, Microsoft unveiled the new supercomputer built in collaboration with OpenAI, an artificial intelligence startup found by Elon Musk. Microsoft announced that the supercomputer hosted in Azure was developed exclusively to train OpenAI’s large-scale artificial intelligence models.",
@@ -315,7 +359,7 @@
       "path": "_news/2020-05-21-airtel-acquires-10-stake-in-ai-startup-voicezen.md",
       "title": "Airtel acquires 10% stake in AI startup Voicezen",
       "excerpt": "New Delhi, May 21 () Bharti Airtel has acquired 10 per cent stake in Gurgaon-based start-up Voicezen, which focusses on conversational artificial intelligence technologies, in an all-cash deal, the private operator said on Thursday.",
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/articleshow/75868862.cms",
@@ -480,7 +524,7 @@
       "path": "_news/2020-05-21-gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption.md",
       "title": "Gap rushes in more robots to warehouses to solve virus disruption",
       "excerpt": "U.S. apparel chain Gap Inc is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic, the company told Reuters.",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-health-coronavirus-gap-automation-foc-idUSKBN22X14Y",
@@ -1017,51 +1061,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-ios-135-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing.md",
-      "title": "iOS 13.5 released: Faster unlock with face masks plus COVID-19 contact tracing",
-      "excerpt": "Apple has released iOS 13.5, bringing exposure notification for COVID-19 contact tracing as well as a quicker way to unlock your iPhone when you’re wearing a face mask. Released as a gold",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/ios-13-5-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing-20621385/",
-      "ampWebUrl": "https://www.slashgear.com/ios-13-5-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing-20621385/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-13-5-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing-20621385/amp/",
-      "publishedDateTime": "2020-05-20T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/iphone-11-hands-on-0.jpg",
-          "width": 1680,
-          "height": 946,
-          "title": "iOS 13.5 released: Faster unlock with face masks plus COVID-19 contact tracing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

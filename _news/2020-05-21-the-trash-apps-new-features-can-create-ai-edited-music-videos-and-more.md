@@ -28,6 +28,6 @@ images:
     height: 592
     title: "The Trash app’s new features can create AI-edited music videos and more"
 
-secured: "tmSTEKOQyocKrzH/q+fVr8wh2cqbQgrtnNRNx2VMoHpv4oH37/gXg1awIYc8VYGjH/0IW1U9q5taTqqcI3VyPzam5cJI3xSXb9T0WbIiFXJZfmdERWbkC4fXBzkca/lqFJAjkHZfxWCn2d+suVjG1/bRy73UhC/6gjNS+j+vN4NeJeTiSJktMJr1lJ9eWNk5yH8PkvQWRJWhLMlr8cxO1p0FzaBmANd0+UjcLKoHZ2XIAkcE+uB1XlN6KLezMTwAEp2E/ItfQIBtTfFq/vUzF1E9GUGlH9P6iXdrmVXtuPtywTD+8PTngy+gntlHndXw;UlNowqxrX39A+2rPBOwYjQ=="
+secured: "4SnL9eLR8O+ej7D4pjbdn533W2H6WxrxHUfNdiWwLSysuTvDacOlJAWnF+QOMlZVW2I3qurNzx4p8hOLPcGXDCn7h2mVGbAlOrFcXjlrUXjy7MJHL8Jfb1StYIEAsVMbWayo6TJDjYdrYIBWsCSkN1r7nd0dfznPyozhxWCXTqD8PSznpQ5bcArh8In1IjUbYf0KH4XAeMpgeBLF1VCI9MIzDzxAuXWWlKbdCTYKWT5RUdS9bmVoIMzWZZ+yM6Zls61b7RemH1kRu17J9jnVRgz8tTvaasupVdlI5JBy3ltOselOLK2VanXFq82kH6eDcEF++Noe+Q6CziRzTLZFeG4nR7zPbe4hCtUs9Gr1b6MUdNOZuPD0+qdkaeXVIHFvz7eLjaI+iUsntNFTA4DsIZrUavNp7NfaMwLLtNPS7rPk4tuUc9N7r+vgFSXNchYSv0YmcqYoCJH8Q1Gb/KzQi4Kh7FDXVCLQ/B1Q9lCUyks=;qXXhdO3HhLcNE+yVjV0t6g=="
 ---
 

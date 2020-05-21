@@ -40,16 +40,18 @@ related:
         width: 1280
         height: 720
   - title: "US agency lets self-driving shuttle resume carrying people"
-    excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions"
-    publishedDateTime: 2020-05-20T22:11:00Z
-    webUrl: "https://www.washingtonpost.com/business/us-agency-lets-self-driving-shuttle-resume-carrying-people/2020/05/20/6e5c7c76-9ade-11ea-ad79-eef7cd734641_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/us-agency-lets-self-driving-shuttle-resume-carrying-people/2020/05/20/6e5c7c76-9ade-11ea-ad79-eef7cd734641_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/us-agency-lets-self-driving-shuttle-resume-carrying-people/2020/05/20/6e5c7c76-9ade-11ea-ad79-eef7cd734641_story.html?outputType=amp"
+    excerpt: "WASHINGTON (AP) — A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
+    publishedDateTime: 2020-05-20T22:02:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/US-agency-lets-self-driving-shuttle-resume-15284289.php"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/11/34/19437373/3/rawImage.jpg"
+        width: 2048
+        height: 1407
 
 secured: "ZLUn21QXTL55bJ5EsqeNkNFx8196UKYuZuoNx0zQRRNKM2xsbc5YOb1y1bQ6MguZM7zPESccCpeagTFjq+i1vubkFmXnD1BNyl+uQ+DkIV3B1KNJWvNxrgv5zaDrDBP+fTJp/V32sAwWBSTlV4hXCkGZDhVrRTmKX7GlWgouDKLOlGVYrORUA2CXoyr328U1Styq+cUJ7/C1M4Z1Smw+e08J7KjTGjNyFfdgL4qxKuVt2stp2byTp5u0ipyEyIzPWrM64cVt7Zfz5hyHagxIUZP1oSHCR1TYKh1Qah+HpcSgUBqZZ3W/IZSEqghY7h12;65i6SZUTtXkPhmzcGgNj1A=="
 ---

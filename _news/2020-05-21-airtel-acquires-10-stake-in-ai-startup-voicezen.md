@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.in/business/news/airtel-acquires-10-stak
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms"
 type: article
 quality: 57
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -51,6 +51,19 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 37
+  - title: "Airtel buys 10% stake in conversational AI startup Voicezen"
+    excerpt: "Bharti Airtel on Thursday said that it has acquired a 10 per cent stake in Voicezen, an early stage startup focused on conversational AI technologies."
+    publishedDateTime: 2020-05-21T18:21:00Z
+    webUrl: "https://www.sify.com/finance/airtel-buys-10-stake-in-conversational-ai-startup-voicezen-news-topnews-ufvsk9fgggjeb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+    images:
+      - url: "http://iansphoto.in/web/photoimages_new/400/2017/11/22/b60e90261d0a521e6d91819a388a4d58.jpg"
+        width: 369
+        height: 400
   - title: "Bharti Airtel picks up stake in conversational AI tech startup Voicezen"
     excerpt: "Bharti Airtel Ltd has acquired a 10% stake in Voicezen India Pvt. Ltd, an early-stage startup focused on conversational artificial"
     publishedDateTime: 2020-05-21T10:31:00Z
@@ -70,6 +83,6 @@ related:
       domain: webindia123.com
     quality: 14
 
-secured: "eaC6qGAxJA2pDpx7qUT0cpOQOPWNf85YZtgHdcGvBW9cfa7MNtL3/5iWKmvwy32Yfp95ViDWIKpl43mvIjZ3Z0ODPcHJEPwJCWd/F4u2WlmKK81ZXr+zNoZPuPCMonXZAKDp5R6firN1w9sUERam9n4Oqk5P+Cxj6OnrDfiac7tm3DVOHvVKGS2t0wTjp9Vebx9XaSdeNpCEdZIbWfJXibx3qrsL0oRyFaZJ/NPxhhDJOhTugnEZQXhSxaVtkGVWb1yfPyPWvL1upsFbVlmpAPMhCiuTcN32BRKEwGe6oVVsPT/+W2vOOFLdLt8X1ixj;9vRZ7WezhzbpYMhOPnhvgw=="
+secured: "GCDMhcm3Y3tYYyqDm5rRwIoFSjqScyalibDkcbpx9Ff8HjvuZ4Dncjz5G6DT/362sAGfKT2CUbGQiRY+I+zePP8wrryBriZ2U2vZ1DVoB2j5xRMU58Ex2rKXA/qNREexUNuHWRScXcnHnF5p4y+AbrDre/eTh1DCvX3Cn0gqWMJFaEdSa7zXuk3AbL6brQEXA6KxOcO5BgC4sEGzd+jfAlu5VopNW72uneeyThxD162rmHTfm3andmHLxoWjpZTR1VOQ+DR6J3ihSSRyOLfg81PjfIk9KDLYQ3LYH+qs9MFijnPTqszPJlIUPj1th81d;IEM+EwftYZgBXfTGFPNa4g=="
 ---
 

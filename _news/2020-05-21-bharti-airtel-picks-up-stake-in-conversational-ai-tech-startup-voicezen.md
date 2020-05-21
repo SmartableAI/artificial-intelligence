@@ -58,6 +58,19 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 37
+  - title: "Airtel buys 10% stake in conversational AI startup Voicezen"
+    excerpt: "Bharti Airtel on Thursday said that it has acquired a 10 per cent stake in Voicezen, an early stage startup focused on conversational AI technologies."
+    publishedDateTime: 2020-05-21T18:21:00Z
+    webUrl: "https://www.sify.com/finance/airtel-buys-10-stake-in-conversational-ai-startup-voicezen-news-topnews-ufvsk9fgggjeb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+    images:
+      - url: "http://iansphoto.in/web/photoimages_new/400/2017/11/22/b60e90261d0a521e6d91819a388a4d58.jpg"
+        width: 369
+        height: 400
   - title: "Airtel acquires strategic stake in conversational AI-focused startup Voicezen"
     excerpt: "The acquisition has been made under its Airtel Startup Accelerator Programme, the company said on Thursday. Gurugram-based Voicezen has been working on developing advanced solutions that leverage machine learning,"
     publishedDateTime: 2020-05-21T13:02:00Z

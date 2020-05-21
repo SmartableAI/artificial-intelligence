@@ -25,6 +25,6 @@ images:
     height: 802
     title: "Gap buying more robots for warehouses — but still needs to hire extra humans"
 
-secured: "F05L8FvrCd4Xr9einqWsLKx2E9iXx/ywEvAG/WkXC2iUMyCqeOqpzRFX+/2AWyQcPNsAj4WG6VJ8+WgRGZouEzabzel/kyZKyT3ZAd6KMffohXXYelRbOEKZLPVa/naTsb0kbCYZRRgAROwm1I2fUeTrJTa8lfH3LiAGBrzQK3yinvee/Tb7vAHhOxyIfYk4EeC1dqs9/m6/25uY1ZH+FqAmepZ/ma8lnwQ42S9C2hrVXoZ1/k87vEbVBcwp50YS1YjA/Bd2FqFD3HR7SqEuLkZvM7JBTxTQPNIqKqR3eGvRHgWaN7bwZkJ29MZnPpjT;fiqtT6q9LAR4pN/jwuUO2Q=="
+secured: "EIbYSpBj9CCAAxbKDrjZzab5GgE8c3r/XNsE5BN5BOCDLHVcRE1G1q6hccRfywBBvK4ywq1E/mqFziPv+a4I2LG5vN8wYnBmO2o8Nz75lUKNDvL7l/hKJHuyuaz0LG3WJxHuD3aqOHp9BhhhErB4lfH6N7OejNviL9ve2ssACNaEerHxEXSiaASFDA7g+HVTKCkTS0mIs8X54XWXtxHmYgfrHmRfjeqRof4E/3SWLrAWway4P85Lt0lrn+33FBXox/SDo7PEEQlHMJS192cyxMRkXnUCLaG3ltH6LSBJX7Idcd4qIbNbZXKEHcIZygcRemN/l7dySdq1ZZLS0BeSsR7O2oljIPMMZ12ub0rJ/Zf1UMzUzDr/ZCRVIJpV15cVLpu8mdMqliGCs58rLezEct0mrVUvZ0t/hVjpeDpo47bFDSrU1SC68TloiNWNPnrinuZSoZYGos68vxlwV66fK4/6uhdml0YMIswfTOYuY/M=;Iu25LSlCKg5bVHFSpDcxtg=="
 ---
 

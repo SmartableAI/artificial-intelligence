@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22X14Y"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22X14Y"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Gap rushes in more robots to warehouses to solve virus disruption"
 
 related:
+  - title: "Gap is rushing more robots into its warehouses to handle coronavirus disruption"
+    excerpt: "The news illustrates how the pandemic may speed up automation in the retail industry. Companies including Gap and Amazon have long used such systems for a range of tasks, like moving items across warehouse floors."
+    publishedDateTime: 2020-05-21T18:56:00Z
+    webUrl: "https://www.cnbc.com/2020/05/21/gap-rushing-more-robots-into-warehouses.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 85
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106547755-1590087185389gap.jpg?v=1590087262"
+        width: 1326
+        height: 745
   - title: "Gap rolls out more robots to warehouses to solve coronavirus disruption"
     excerpt: "US apparel chain Gap Inc is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic, the company told Reuters."
     publishedDateTime: 2020-05-21T10:53:00Z

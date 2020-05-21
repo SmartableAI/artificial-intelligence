@@ -49,6 +49,19 @@ related:
       - url: "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg"
         width: 300
         height: 300
+  - title: "Airtel buys 10% stake in conversational AI startup Voicezen"
+    excerpt: "Bharti Airtel on Thursday said that it has acquired a 10 per cent stake in Voicezen, an early stage startup focused on conversational AI technologies."
+    publishedDateTime: 2020-05-21T18:21:00Z
+    webUrl: "https://www.sify.com/finance/airtel-buys-10-stake-in-conversational-ai-startup-voicezen-news-topnews-ufvsk9fgggjeb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+    images:
+      - url: "http://iansphoto.in/web/photoimages_new/400/2017/11/22/b60e90261d0a521e6d91819a388a4d58.jpg"
+        width: 369
+        height: 400
   - title: "Bharti Airtel picks up stake in conversational AI tech startup Voicezen"
     excerpt: "Bharti Airtel Ltd has acquired a 10% stake in Voicezen India Pvt. Ltd, an early-stage startup focused on conversational artificial"
     publishedDateTime: 2020-05-21T10:31:00Z
