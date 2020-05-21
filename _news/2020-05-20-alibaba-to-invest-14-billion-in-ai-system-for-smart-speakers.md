@@ -1,20 +1,25 @@
 ---
 category: news
-title: "Alibaba to invest $1.4 billion in AI system for smart speakers"
+title: "Alibaba to Invest $1.4 Billion in AI System for Smart Speakers"
 excerpt: "Alibaba Group Holding Ltd will invest 10 billion yuan ($1.41 billion) into an AI (artificial intelligence) and IoT (Internet of Things) system centered around its Tmall Genie smart speaker, the company announced on Wednesday."
-publishedDateTime: 2020-05-20T07:10:00Z
-webUrl: "https://wsau.com/news/articles/2020/may/20/alibaba-group-holding-to-invest-10-billion-yuan-in-artificial-intelligent-system/1020193/?refer-section=technology"
+publishedDateTime: 2020-05-20T07:25:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-05-20/alibaba-group-holding-to-invest-10-billion-yuan-in-artificial-intelligent-system"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-05-20/alibaba-group-holding-to-invest-10-billion-yuan-in-artificial-intelligent-system?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-05-20/alibaba-group-holding-to-invest-10-billion-yuan-in-artificial-intelligent-system?context=amp"
 type: article
-quality: 19
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: WSAY
-  domain: wsau.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 related:
@@ -34,6 +39,6 @@ related:
         width: 1200
         height: 675
 
-secured: "e+RcrKWEczNirr94wruqlkaLmYfo95H+hZSnjOjZLGK7cOJw28AyaW4s4WSXugI2s8cVkygMbJrJPA0Mt5KTEw/wrW114Spldzw+UbFJMytx0alRLpy6mq8OJAwcg/gJrGZVND6hEgUnIxW6giqlm9Z6F9SUF3ALZi7FFMuATu/SPcdc8JTcnPnNxkg+gvZ8fdmgsJgE0VvqktCf+YmmRflvYPVil8ear09+4sUS9aGJPhXPczKVR4vCuD7CmaIsnBzzFDvv54TxAJaiNnkCHUjCyHz0/e86HZjdPoXQ421OZV0BGo8cnULalTzoA+gsHjrAMXom1iH15C0l7Qq59ssO/WAYUw+kGFSvpBCr35jkmmzyggUou/Q/XhuWJkbCcT7U9lXkFyF9bNHSQFgoO16bKrzr5nqMzCvt3zZvyDkOvLOF6XfW9a9p6Q/ulHio26Bw9GmBVXMtULQBQRVksjVH8hNoHhMj9THs+4ftNJ0=;0tn9LXfkVrSzY0ugRYRtQw=="
+secured: "v3dWwFhKsY3gfNMhX6odmsBvnG+EodqGySKpoy7a5r0CxdyO6++SkyBk6imdQFQ6QRBIigIG7aYyYszI6bsYdqXi/lJ1kAG4PcpdE5J8qxu2kiLy6rEdpT4kzUR6j8NmAkEecC8KqIxFNLat/+HGN9YY2cRRnV4rhZ23a1MQ7KxqcGdVdWbgi5hZEr0awTltQl4BdSeVz46itsQTh+gc/Vzr5ilcq955jXkIiaVOVvWEWq/2vxa09MYStghcqRwiSA7MMfUcayNHiD4QtVZRnb9UAj8LywbY+8vArOPlcbjTETRTUpxrKxu1wJKTV75p7EjznmtOEfzcxuiwgDhqjd3wmdsiYpPkzj+aFhg6oD4A93wguhLWMMeOZxGo80t7l5i5N8l5VP/JNPdMhUJkvD3GWV3f4SzpGKPgpKh02glp210jtAvp0CU0xR8NGpjqnBHAL6Jw3Ms52g4Xz5zunW1hjxMWSI3FfePOcC0PU74=;XM4xpjjzhswe15PpfShEyQ=="
 ---
 

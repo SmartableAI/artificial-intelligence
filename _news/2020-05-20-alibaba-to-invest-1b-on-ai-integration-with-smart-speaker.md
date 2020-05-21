@@ -31,15 +31,17 @@ images:
     title: "Alibaba to invest $1B on AI integration with smart speaker"
 
 related:
-  - title: "Alibaba to invest $1.4 billion in AI system for smart speakers"
+  - title: "Alibaba to Invest $1.4 Billion in AI System for Smart Speakers"
     excerpt: "Alibaba Group Holding Ltd will invest 10 billion yuan ($1.41 billion) into an AI (artificial intelligence) and IoT (Internet of Things) system centered around its Tmall Genie smart speaker, the company announced on Wednesday."
-    publishedDateTime: 2020-05-20T07:10:00Z
-    webUrl: "https://wsau.com/news/articles/2020/may/20/alibaba-group-holding-to-invest-10-billion-yuan-in-artificial-intelligent-system/1020193/?refer-section=technology"
+    publishedDateTime: 2020-05-20T07:25:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-05-20/alibaba-group-holding-to-invest-10-billion-yuan-in-artificial-intelligent-system"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-05-20/alibaba-group-holding-to-invest-10-billion-yuan-in-artificial-intelligent-system?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-05-20/alibaba-group-holding-to-invest-10-billion-yuan-in-artificial-intelligent-system?context=amp"
     type: article
     provider:
-      name: WSAY
-      domain: wsau.com
-    quality: 19
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
 
 secured: "xBn5ya9pf+joj+BMTNzFM9DxQvw6W9u8L7GWQAEPmigxtRj2Gx+2eLJq01MichSucyuPtuxFrnT9kisUQBvz5taN8naRDRiTzZeYKhJcyJmKCytGtHpN/AzulknO1WMBWaadiXa0jUSy5jRzbP8xhbH0tuNCEHFEorU+7riUudmf4TPJRD7U0ukXGTQbq2lO1D6oXoBty+kmwCjIN00oMkf8A0m5v5GWVV7W/LJ6d4SL5FxFrOMM5p1WNDq0v+5IJZTHsS6FOMQ/IMUEZolQGH3FxZ5DbtJ64EcfhGQzejoZ/8+FURn/LCiJ9jktPFeNVuudUqjkzD5YHDArAGoy/qkXV2pkuBXGtRwi50ItdkVrWogIFEDU8jC81XEwB9CEVNuDIm329ZjwAwIu7HKZRspl/uRvPZ0uG1FLzVb/FQhd8/RA30gSvE013gEAt8x/PR+0+T2onh8g+6dgruAuN2wh3u51Gs3kOwaPqGOSOzo=;pqeCNrDxc90PyNyVIgUV3g=="
 ---
