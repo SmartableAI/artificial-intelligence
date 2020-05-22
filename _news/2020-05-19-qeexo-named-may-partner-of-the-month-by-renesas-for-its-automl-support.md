@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Qeexo Named May \"Partner of the Month\" by Renesas for its AutoML Support"
-excerpt: "Qeexo, a company that has developed an automated machine learning platform that accelerates the deployment of smart IoT devices by enabling machine learning and data science at the edge/endpoint device,"
-publishedDateTime: 2020-05-19T16:50:00Z
+excerpt: "This honor reinforces Qeexo's methodology that pairing the Qeexo AutoML platform with a flexible MCU hardware platform is a strong value proposition for edge/endpoint processing. Qeexo's end-to ..."
+publishedDateTime: 2020-05-19T16:49:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606"
 ampWebUrl: "https://markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606"
@@ -23,6 +23,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "K5asAYzShDk+wgWbjZXuUfk6mRIRGRIAZWAZuSnI3QzmR4f16CEB1T8vD0N4L8Bb6gfX1S3PQgapHDHXKtLpLODl7cer1NxtvWTCwJlq6KE0UDR4ON492XiVSVm9Coo0h7IqMm9lKnJ+5TCqB3cJueakyIwY9bp1eoRFEq0DWi8ZM6RoCawRDT9ScaTNNPt/x0dLYglwxkGWIjUTd1qH8HXl2qZLt/HYwV9eCyf/QDb32szX1R6OayPvJIl96D3QRrLa5z4lsH7d1Rup3D2qTYWpQyALDjgGHcf0uueFSYXtC7oBa+149yx87AzOJQ6L;1g68i4ktMMlqy5bg28HPyg=="
+secured: "nKtfRI2oV2jC2a5Y1loOEo4YXQqIDd5ndc5pYW4DFML/o8+8Esx2EfSMND7ShZO3D1Oy6BnVOkws2SXGXTt0LFq+LDFZlrsXZZvgCkLP3lfQxitiDeUkmUe97F9uW/TQQU5XgvogSvSePVi7yRzkqTQVtE6mRdHUFccmTCXFuGU4MsbBUKPm4s0SG8jVhH6mz3a0brCkPQV9FtNJJud2Z1mOhpETEwNj8dNvfchL+moIvdKZhtUk8gMK+M9LehTVZqf/dQMJReq/JOQwXKKvQ9QyI7w/KKeTFit8bLjJR9mK/jWZePKqJSfBtjtqv74K;XpT/u/6FSGwilq7kwp6ppA=="
 ---
 

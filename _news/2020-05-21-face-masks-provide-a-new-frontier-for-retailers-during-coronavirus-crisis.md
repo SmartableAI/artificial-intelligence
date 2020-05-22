@@ -23,6 +23,21 @@ images:
     height: 1343
     title: "Face Masks Provide a New Frontier For Retailers During Coronavirus Crisis"
 
+related:
+  - title: "Face Masks Provide a New Frontier For Retailers During Coronavirus Crisis"
+    excerpt: "Retailers across the apparel world are turning to the newest essential garment to further their brand recognition and boost sales: the nonmedical face mask."
+    publishedDateTime: 2020-05-22T00:41:00Z
+    webUrl: "https://kuow.org/stories/face-masks-provide-a-new-frontier-for-retailers-during-coronavirus-crisis"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 38
+    images:
+      - url: "https://kuow-prod.imgix.net/store/62ff800a0a373c7ff977b1763b644375.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 837
+        height: 628
+
 secured: "N2QM+He0bxLj70qxeNuAYaxES1T43EImTOyF9DpPauNEW6YOFag62KkPVOlX+ZWWB7WwqJoiTJuNv3Zfon+clGdXGc+jimz7cK0yHjbFG+CEgZoBklqfGVeH1slMCP+xh4nt6r2HZdcoFjXj0nYV5UZiz4YyRzwu2Xfe7ZxjHr0RqwIVj2qDYdXeI5Sac8S8MXZPZexv7YV7hmCKYm0Bu60+euN6gzh5cUTsczS8hpt8EOU6c5SWHqazWx/5IN9s4IwI5aNq4wM73a8+9wSWoS+udOWnISNKubQl+gQ1HBn7sV0yzdRDG09kVxyeep0n;Cu3wjU/0jWOd3YGiBqWuFA=="
 ---
 

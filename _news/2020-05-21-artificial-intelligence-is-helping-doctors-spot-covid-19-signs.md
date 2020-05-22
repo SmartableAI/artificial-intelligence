@@ -7,8 +7,8 @@ webUrl: "https://www.govtech.com/health/Artificial-Intelligence-Is-Helping-Docto
 ampWebUrl: "https://www.govtech.com/health/Artificial-Intelligence-Is-Helping-Doctors-Spot-COVID-19-Signs.html?AMP"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/Artificial-Intelligence-Is-Helping-Doctors-Spot-COVID-19-Signs.html?AMP"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media2.govtech.com/images/shutterstock_1012126252.jpg"
@@ -24,6 +25,6 @@ images:
     height: 630
     title: "Artificial Intelligence Is Helping Doctors Spot COVID-19 Signs"
 
-secured: "G5A8ucpHrPiXpMihb02JSj6rIOQEX6xhj2QioVZR+u1lM/hCFcsdc0dcySfn5DQUzv3z/0SQBxF3Nceqi0Ozdd+G17QId27WZ+heR2HU+ANbhdr3XQBWCpGEsSHyJBGRxIaIj3ids1Rwc8i38zhPW4PwMiyuR86jD5SRG4B5oR7KbO/dp6gS1Pr0xbr44Eb+n/UE4ku0OHsQMlQ2mj8zoFLOAoMbDMofsFntKiSxZb7dF7fBWcz5AB2c8CVcRmk9J2R5stliQLsLR2n1uc+PM5womt31EuC41xSQvcLhciKQy9QdWCDU/E7+AP2fWTXC;LozDuYSauMGQPS2NxFWqGQ=="
+secured: "6m3deoMwoTNUUxGQPUxTPOXXnuXnX70W0yjiEJoJHlMFjLN4kkRnIoAUpu8yOtytZvogoEM6ko3By4q4zqk9gBXg0A62nx2pXRq6TTEXFnqP7lkD74rSegK6Mw2sfqCak++PrgrU72mmuMOk6Gn2y4zYMzBsle9CfmQZ4+HzpsZlTBZxnl0SHqrY4C8kyL8e0ha/Nn+f9shh/EIg4t3vggJ8jWyNiY2KalZxeKkIgfHSN03F8Z96ejZX4jt8IR19XmtSkhuO918pPRLNEhA6GETCXz19oZEse6seBpXkb6LUvXr5aulaYNf2gPHm8K5naNwMdyUpJNmulS5p4Gq4rDJz9ebhu4fc3Oo0RYVbCl9m6tYjOZIpHFom7Qa4qNUJVaasP4JtcnXw3onjO7HTrQOAPzKpZVCv1SwICemvI1do1LLYo3H/zIkwI+AD+eND54HNSg2UnbtnFLCxU/OUkuwwxLLfHK1ctidTB2xvqwc=;yJQgC8gSR/GX/wkt0a+dog=="
 ---
 

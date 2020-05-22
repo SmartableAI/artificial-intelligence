@@ -35,6 +35,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
+  - title: "Tesla Raises Price Of “Full Self-Driving” Option Again, This Time By $1,000 To $8,000"
+    excerpt: "Driving” option of its Autopilot system on its cars by $1,000 as of July 1, with CEO Elon Musk hinting that this price increase won’t be the last. That means that Tesla customers placing their orders on said date and after will be charged $8,"
+    publishedDateTime: 2020-05-21T23:52:00Z
+    webUrl: "https://www.carscoops.com/2020/05/tesla-raises-price-of-full-self-driving-option-again-this-time-by-1000-to-8000/"
+    ampWebUrl: "https://www.carscoops.com/2020/05/tesla-raises-price-of-full-self-driving-option-again-this-time-by-1000-to-8000/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/05/tesla-raises-price-of-full-self-driving-option-again-this-time-by-1000-to-8000/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 47
 
 secured: "WPcqEVQiZESRq8yRFbEFddEfioVV/1tHTw7ufY7q0e+6+NKvssHoBwp8n320yM8x6bRkrFwgDz2sMv+x5XHh9ncGnL68wZWY2b7z9EXCadqT+zWxYr5XKqCRa3GW+lLOpK+MaGYq4McJon5CPfAS00q9NUn74D+xz/ZpI1zQSknZpQibCU86O6wUEMxEUr7afkpQoMqDnHZRo45C171V6MiIEOX3Kp5TL86hqUJqOSs1m0HcYvtybJlFZaVIekdWNnqrdNXwo1X/xsM+lwJ4XjRmC99UEbNww5CvZK0K/W5HHmkzhA3YizN4XskcWVXB;fxJ2Ntmc8mfYT1p0nUNZ9w=="
 ---
