@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -90,6 +90,21 @@ related:
       - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/05/DB7E220B2CBD4F819FAA7CDA6577BD9D_5.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
+  - title: "Facial recognition helps reunite kidnapped toddler with family after 32 years"
+    excerpt: "Unbelievable! 😲 With the help of facial recognition, this man who was abducted as a child 32 years ago, was finally reunited with his birth parents."
+    publishedDateTime: 2020-05-21T01:43:00Z
+    webUrl: "https://abc7.com/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/"
+    ampWebUrl: "https://abc7.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 56
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6200174_052020-ktrk-cnn-facial-recognition-reunites-family-carolina-final.png"
+        width: 1920
+        height: 1080
   - title: "Facial recognition technology reunites kidnapped toddler with family after 32 years"
     excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology. Mao Yin was"
     publishedDateTime: 2020-05-19T07:46:00Z

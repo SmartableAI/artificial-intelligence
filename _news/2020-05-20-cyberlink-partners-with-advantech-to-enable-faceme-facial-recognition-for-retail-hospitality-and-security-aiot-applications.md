@@ -1,28 +1,28 @@
 ---
 category: news
 title: "CyberLink Partners With Advantech to Enable FaceMe® Facial Recognition for Retail, Hospitality and Security AIoT Applications"
-excerpt: "CyberLink Partners with Advantech to Enable FaceMe® Facial Recognition for Retail, Hospitality and Security AIoT Applications (Photo: Business Wire) Advantech is recognized as a world leading IoT supplier,"
+excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced a partnership integrating its high-accuracy facial recognition software development kit (SDK), FaceMe®,"
 publishedDateTime: 2020-05-20T13:00:00Z
-webUrl: "https://www.oaoa.com/news/business/article_e9f12da3-003c-528b-8b62-c0dd4bdc3762.html"
+webUrl: "https://www.bakersfield.com/ap/news/cyberlink-partners-with-advantech-to-enable-faceme-facial-recognition-for-retail-hospitality-and-security-aiot/article_4cc0de53-688d-5b3b-a010-6a8fb14ebc97.html"
 type: article
 quality: 27
 heat: 27
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/3/99/3990d6be-fa8b-567f-8625-b3ac35e9a8b8/5ec52d8ae16e4.image.jpg?resize=1200%2C628"
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/4/f6/4f62fe0d-8213-5675-88b9-dc29bc6fa189/5ec52dc775dc0.image.jpg?resize=1200%2C628"
     width: 1200
     height: 628
     title: "CyberLink Partners With Advantech to Enable FaceMe® Facial Recognition for Retail, Hospitality and Security AIoT Applications"
 
-secured: "UFmRh1wMq9+6IpEiTrQWHDv+jD/OSgjk1FBlTlQXeXcWgCqoh3K/uGxgbFRkDmHUMokpkf22PY/OMjPFEuCuAGsnec6wgRNypKjk1xYG8UQjy+Xvz64i4hHs3UUAUPSbuL3dQo7SptB9Klh/4vfrPw81dRzJ2aq4X6i5MW1Rh9y5POC2/0wRxpXvCWj2C3OyKD6nlbOh6szPsCqtCe76gw1N2NN6ziBYqxlS9KMHnd6BTaKsUu0OQ3PEZgiCRmpw/U3R8BDlCo72urIsKfbh+B3bAZforeGQp9JUmuFO98sxLVmn7Skv0URx8yAyHUnXSxA2q6LwjQCjbyAc8voQe45sI5MkhSmXxsj5FtDIOSCGS/nX9+0w8agKtvQU1MIYdNYPm/R5//L9XiEbSR1jPGjKZB2oX56A1RWBKgfe76cNR//VWni0Ci8c7z6WlfOEdysvC0eczfTT+/JVKlzq+3KofKnVO/SuUM6B/VUctV8=;58SG3xV40xu6NHHYU8d+cQ=="
+secured: "IWdNH82QhD1rai4FEAQ3Fvow6fcThA+9nt9h3Bh0wprF+nrIR3JE1lQHl0FUgArvYVPUtuCI2zLd5MUDZ5aaB5QskevKj+V+xaEnw0V5cFJfppNUZeXZFr3IrhoLTbA7/jVmBJOrQsLN/q1LlTcQRlwgwTH42+/oc+TxVJDfd5kBYiQnv9CDHtU3gdDp4fOjVi4jmprii3ONEH2qNGlGZEYT2NBcbCbGBXwCzcykOO6hC9TGKQTIgcwsT6lLw3UDH1IDbb3Bo3YIn1pLrxSBRLknoxIGjJ6/E1uw03vz1/S75xphOql54/DxNLpHNbYC;DQEtU++MwaXaWEjMXL1f0w=="
 ---
 

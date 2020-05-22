@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-05-15-the-internet-furry-drama-raising-big-questions-about-artificial-intelligence.md",
-      "title": "The Internet Furry Drama Raising Big Questions About Artificial Intelligence",
-      "excerpt": "Much of the fun of internet drama comes from its frivolousness, but sometimes an online shitfest points to something bigger. Last week, the AI-powered furry art site thisfursonadoesnotexist did just that,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922",
-      "ampWebUrl": "https://gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922/amp",
-      "publishedDateTime": "2020-05-15T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kvtktiiq3knuxu0tgjzp.png",
-          "width": 800,
-          "height": 450,
-          "title": "The Internet Furry Drama Raising Big Questions About Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-15-facial-recognition-firms-are-scrambling-to-see-around-face-masks.md",
       "title": "Facial recognition firms are scrambling to see around face masks",
       "excerpt": "Because of face coverings prompted by the coronavirus pandemic, companies are trying to ID people based on just their eyes and cheek bones.",
@@ -1311,6 +1267,50 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-this-ai-will-judge-you-for-eating-microwave-meals.md",
+      "title": "This AI will judge you for eating microwave meals",
+      "excerpt": "MIT CSAIL has created an AI system called Sapple that uses motion sensors and smart energy meters to work out how you're using microwaves and hair dryers",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/amp/",
+      "publishedDateTime": "2020-05-14T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-36-796x377.png",
+          "width": 796,
+          "height": 377,
+          "title": "This AI will judge you for eating microwave meals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

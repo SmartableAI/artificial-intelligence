@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-09-deep-learning-marketoutlook-by-drivers-restraints-demands-and-forecast-2017-2023.md",
+      "title": "Deep Learning Market,Outlook by Drivers, Restraints, demands And forecast 2017-2023",
+      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-marketoutlook-by-drivers-restraints-demands-and-forecast-2017-2023-2020-05-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market,Outlook by Drivers, Restraints, demands And forecast 2017-2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-benefits-of-ai-and-machine-learning-in-customer-service.md",
       "title": "Benefits of AI and Machine Learning in Customer Service?",
       "excerpt": "The solutions that AI ML provides can be beneficial in our everyday’s life.  We can observe a constant growth in the usage of AI ML development services. From Google to Facebook to Netflix are using AI & ML in some or the other way to meet users’ expectations.",
@@ -1201,43 +1246,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-microsoft-introduces-digigirlz-ai-class-brings-artificial-intelligence-to-high-school-girls.md",
-      "title": "Microsoft introduces DigiGirlz AI Class, brings Artificial Intelligence to high-school girls",
-      "excerpt": "Microsoft introduces Alice envisions the future, DigiGirlz AI Class targeting high school girls around the world to develop their understanding of AI.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://microsoftcaregh.com/2020/05/01/microsoft-digigirlz-ai-class-high-school-girls/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "microsoftcaregh.com",
-        "domain": "microsoftcaregh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2.wp.com/microsoftcaregh.com/wp-content/uploads/2020/05/DigiGirlz.jpg?fit=960%2C640&#038;ssl=1",
-          "width": 960,
-          "height": 640,
-          "title": "Microsoft introduces DigiGirlz AI Class, brings Artificial Intelligence to high-school girls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

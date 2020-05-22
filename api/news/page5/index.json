@@ -554,43 +554,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
-      "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
-      "excerpt": "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "publishedDateTime": "2020-05-19T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-19-how-machines-see-everything-you-need-to-know-about-computer-vision.md",
       "title": "How machines see: everything you need to know about computer vision",
       "excerpt": "The human vision is a very intricate piece of organic technology that involves our eyes and visual cortex, but also takes into account our mental models of objects, our abstract understanding of concepts and our personal experiences through billions and trillions of interactions we’ve made with the world in our lives.",
@@ -639,7 +602,7 @@
       "path": "_news/2020-05-19-facial-recognition-used-to-reunite-missing-child-with-family-after-32-years.md",
       "title": "Facial recognition used to reunite missing child with family after 32 years",
       "excerpt": "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology.",
-      "heat": 227,
+      "heat": 237,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html?ref=hvper.com",
@@ -1041,6 +1004,52 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-and-sony-to-create-smart-camera-solutions-for-ai-enabled-image-sensor.md",
+      "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
+      "excerpt": "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced.",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
+      "publishedDateTime": "2020-05-18T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg",
+          "width": 360,
+          "height": 300,
+          "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
       ]
     }
   ],

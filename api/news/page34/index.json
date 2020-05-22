@@ -2,43 +2,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_news/2020-04-27-computer-vision-technology-provide-safety-improves-operation-efficiency-says-deltec-bank-bahamas.md",
-      "title": "Computer Vision Technology Provide Safety, Improves Operation Efficiency says Deltec Bank – Bahamas",
-      "excerpt": "Security is a major issue when dealing with financial information. That's why fintech companies are turning to computer vision to combat this problem and provide greater security for their customers.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15888714/computer-vision-technology-provide-safety-improves-operation-efficiency-says-deltec-bank-bahamas",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15888714",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15888714",
-      "publishedDateTime": "2020-04-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1587328009.jpeg",
-          "width": 3300,
-          "height": 2550,
-          "title": "Computer Vision Technology Provide Safety, Improves Operation Efficiency says Deltec Bank – Bahamas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-27-12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy.md",
       "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
       "excerpt": "MYCIN was an AI program developed at Stanford University in the early 1970s, designed to assist physicians by recommending treatments for certain infectious diseases.",
@@ -1036,6 +999,35 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-asia-pacific-speech-recognition-software-market-overview-and-scope-2020-to-2025.md",
+      "title": "Asia-Pacific Speech Recognition Software Market Overview and Scope 2020 to 2025",
+      "excerpt": "\"The Global Speech Recognition Software Market 2020 Research Report investigates the industry thoroughly and offers a complete study on Speech Recognition Software volume, market Share, market Trends,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.arnnet.com.au/mediareleases/90946/asia-pacific-speech-recognition-software-market/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-26T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

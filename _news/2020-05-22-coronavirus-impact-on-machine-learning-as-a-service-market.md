@@ -5,9 +5,9 @@ excerpt: "You will get latest updated report as per the COVID-19 Impact on this 
 publishedDateTime: 2020-05-22T04:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/coronavirus-impact-on-machine-learning-as-a-service-market-2020-05-22"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: MarketWatch
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

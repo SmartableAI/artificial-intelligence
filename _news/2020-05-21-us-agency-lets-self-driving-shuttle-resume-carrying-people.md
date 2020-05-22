@@ -1,29 +1,27 @@
 ---
 category: news
-title: "US agency lets self-driving shuttle resume carrying people"
-excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
-publishedDateTime: 2020-05-21T08:39:00Z
-webUrl: "https://www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people"
-ampWebUrl: "https://www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people.amp"
-cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people.amp"
+title: "U.S. Agency Lets Self-Driving Shuttle Resume Carrying People"
+excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions."
+publishedDateTime: 2020-05-21T19:37:00Z
+webUrl: "https://hamodia.com/2020/05/21/u-s-agency-lets-self-driving-shuttle-resume-carrying-people/"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: Hamodia
+  domain: hamodia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f48b4a69-fbc7-4fc8-909a-e55512e7429c/818113a3-a18f-42c6-b59d-f4c6d7c38d45/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
-    title: "US agency lets self-driving shuttle resume carrying people"
+  - url: "https://images.hamodia.com/hamod-uploads/2020/05/AP20141782919761-300x206.jpg"
+    width: 300
+    height: 206
+    title: "U.S. Agency Lets Self-Driving Shuttle Resume Carrying People"
 
 related:
   - title: "US agency lets self-driving shuttle resume carrying people"
@@ -53,6 +51,6 @@ related:
         width: 1200
         height: 675
 
-secured: "WXHrB1hTcTGbhT6Kl+Y2EDDEf3e3ZErcoHZgECpn9w2B5xKi5TKZ7I2CYbyNhXLxwF6RsSsNhnn+b+36ULekM0vIoaWW375385fdvDpthl6J5CkGJav8n6/IpC5kEH/9gB08OGKmOFquzQEPCjOiyj4B8dPISzruRSrpX+Dda90dyfpVhD41/cbOGQKg258eHuesovyFKIB0xhlYT9wS0w6/vqeA9daeaf/tuwjNhQv4IoUgVJPNPzDYu7tQB7CLQXQDQWxShRRYWZNwtuz9fJAM6dEbRxVxFhTIUk5hEuJHgS3kUPk0l2nNjoasNNdev10t8Tyy6yD88YntnqWHgoqpzwLIAxt14OL/sh2Xr38qXzulWvSrbjI7C4EcWpfHdfSu3ogXC8kT3KsUQuyQGanaaIf6GMOPLAcmV0whuNWtddAMiOXcBbExekwyKldpJuwFPPY/klzK3moXxBfKCZCCVzOKByy6185pzBTB6CQ=;IV+gdnkshv/TJy8lUxehyA=="
+secured: "6D1IZCSWiyfgHl1nx0hH3rEK87tJ4B6Wt5SMdrsb8IKYvFiQdCxzX+HUjdPKZgFQVCICUiwMysZg2z4tEwzpsFoJ0/Mv1qKJQKqiRbiGzJJq/F05ZmZ8ejv+0vPAF0k7//OFoB6UnxpXfNM2CoL4hk1Hyhco26yklOU638bAwbjWe8U0v5RfOQG1jTNhB1jKJBdSgUzZTYJJyRVqzztYn2N1pf9p25v39/ufL7/6RPkSqcyzKZjNlcYpvXlan0GLhXTzf15dxSxCXhaYCzhubTcglbiTMzE5mNfLYTISyh+rsX3sYBPhYGmOycwAHFBI;eE7xXWqY4waTxq7LDqAonQ=="
 ---
 

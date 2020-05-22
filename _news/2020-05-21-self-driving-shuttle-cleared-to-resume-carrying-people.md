@@ -25,21 +25,6 @@ images:
 
 related:
   - title: "US agency lets self-driving shuttle resume carrying people"
-    excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
-    publishedDateTime: 2020-05-21T08:39:00Z
-    webUrl: "https://www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people"
-    ampWebUrl: "https://www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 44
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f48b4a69-fbc7-4fc8-909a-e55512e7429c/818113a3-a18f-42c6-b59d-f4c6d7c38d45/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-  - title: "US agency lets self-driving shuttle resume carrying people"
     excerpt: "WASHINGTON (AP) — A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
     publishedDateTime: 2020-05-20T22:02:00Z
     webUrl: "https://www.houstonchronicle.com/business/article/US-agency-lets-self-driving-shuttle-resume-15284289.php"
@@ -52,6 +37,19 @@ related:
       - url: "https://s.hdnux.com/photos/01/12/11/34/19437373/3/rawImage.jpg"
         width: 2048
         height: 1407
+  - title: "U.S. Agency Lets Self-Driving Shuttle Resume Carrying People"
+    excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions."
+    publishedDateTime: 2020-05-21T19:37:00Z
+    webUrl: "https://hamodia.com/2020/05/21/u-s-agency-lets-self-driving-shuttle-resume-carrying-people/"
+    type: article
+    provider:
+      name: Hamodia
+      domain: hamodia.com
+    quality: 24
+    images:
+      - url: "https://images.hamodia.com/hamod-uploads/2020/05/AP20141782919761-300x206.jpg"
+        width: 300
+        height: 206
 
 secured: "ZLUn21QXTL55bJ5EsqeNkNFx8196UKYuZuoNx0zQRRNKM2xsbc5YOb1y1bQ6MguZM7zPESccCpeagTFjq+i1vubkFmXnD1BNyl+uQ+DkIV3B1KNJWvNxrgv5zaDrDBP+fTJp/V32sAwWBSTlV4hXCkGZDhVrRTmKX7GlWgouDKLOlGVYrORUA2CXoyr328U1Styq+cUJ7/C1M4Z1Smw+e08J7KjTGjNyFfdgL4qxKuVt2stp2byTp5u0ipyEyIzPWrM64cVt7Zfz5hyHagxIUZP1oSHCR1TYKh1Qah+HpcSgUBqZZ3W/IZSEqghY7h12;65i6SZUTtXkPhmzcGgNj1A=="
 ---

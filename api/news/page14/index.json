@@ -2,50 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-05-11-ai-can-help-to-inform-pandemic-policy.md",
-      "title": "AI Can Help To Inform Pandemic Policy",
-      "excerpt": "An Interview with Dr. Deborah Duong, Director for AI Development at Rejuve and Director of Network Analytics at SingularityNET and Dr. Ben Goertzel, founder of SingularityNET.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/amp/",
-      "publishedDateTime": "2020-05-11T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x621/https://specials-images.forbesimg.com/imageserve/5eb2eeb5858c030007722ea6/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 621,
-          "title": "AI Can Help To Inform Pandemic Policy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-11-papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate.md",
       "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
       "excerpt": "The Pontifical Academy for Life \"strives to interweave faith with science and technology, to identify paths for multiple voices to walk alongside one another.\"",
@@ -560,43 +516,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-11-sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases.md",
-      "title": "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases",
-      "excerpt": "Agreement leverages Sarepta’s leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno’s CapsidMap artificial",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases-1029186702",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-11-novartis-sarepta-partner-with-new-george-church-gene-therapy-startup.md",
       "title": "Novartis, Sarepta partner with new George Church gene therapy startup",
       "excerpt": "Dyno Therapeutics launched Monday with plans to use artificial intelligence to expand the use of gene therapy. The company was co-founded by George Church, the noted Harvard University geneticist, and others.",
@@ -675,6 +594,35 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases.md",
+      "title": "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases",
+      "excerpt": "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15998024",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024",
+      "publishedDateTime": "2020-05-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1070,6 +1018,50 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-why-the-way-you-talk-about-artificial-intelligence-needs-to-change.md",
+      "title": "Why The Way You Talk About Artificial Intelligence Needs To Change",
+      "excerpt": "What happens if we don't fix the hype around AI? Is it possible to quantify issues caused by technological terminology misuse? All this and more is asked and answered in Gemma Milne's 'Smoke + Mirrors\" - out now.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/paularmstrongtech/2020/05/10/the-way-you-talk-about-ai-needs-to-change-or-were-all-doomed/",
+      "ampWebUrl": "https://www.forbes.com/sites/paularmstrongtech/2020/05/10/the-way-you-talk-about-ai-needs-to-change-or-were-all-doomed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paularmstrongtech/2020/05/10/the-way-you-talk-about-ai-needs-to-change-or-were-all-doomed/amp/",
+      "publishedDateTime": "2020-05-10T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea9e569228117000681cfa6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1691%26cropY1%3D561%26cropY2%3D1513",
+          "width": 1200,
+          "height": 676,
+          "title": "Why The Way You Talk About Artificial Intelligence Needs To Change",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

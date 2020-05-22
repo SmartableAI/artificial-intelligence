@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-21T06:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/coronavirus-impact-on-artificial-intelligence-chipset-market-2020-05-21"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
