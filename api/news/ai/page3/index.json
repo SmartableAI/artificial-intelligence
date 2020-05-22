@@ -2,6 +2,88 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-20-the-brains-facial-recognition-area-doesnt-differentiate-outgroup-members.md",
+      "title": "The brain's facial recognition area doesn't differentiate outgroup members",
+      "excerpt": "A quirk in how the brain processes faces makes it harder to tell members of a racial outgroup apart, according to new research.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200518145020.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
+      "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
+      "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "publishedDateTime": "2020-05-19T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5ec426f35504fd0099a9f91f/lede/1589913548738-Copy-of-Copy-of-Splitscreen-5.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity.md",
       "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
       "excerpt": "For Daivergent, matching tech workers with autism to jobs isn't an act of charity. It was 2018, and Leon Campbell was worried about getting a job. The Hunter College grad, now 25, had a degree in computer science,",
@@ -1218,96 +1300,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-elon-musk-says-teslas-full-self-driving-option-will-get-more-expensive-again-on-july-1.md",
-      "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
-      "excerpt": "Tesla has said that the technology will eventually move to a subscription model when it becomes advanced enough to actually self-drive.",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp",
-      "publishedDateTime": "2020-05-19T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ec3d9b9988ee3401360e504?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit.md",
-      "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
-      "excerpt": "Space-specific silicon company Xilinx has developed a new processor for in-space and satellite applications that records a number of firsts: It’s the first 20nm process that’s rated for use in space,",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/amp/",
-      "publishedDateTime": "2020-05-19T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/xilinx-space-tablet.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/the-morning-after-microsoft-ai-supercomputer-1
 ampWebUrl: "https://www.engadget.com/amp/the-morning-after-microsoft-ai-supercomputer-113456625.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-microsoft-ai-supercomputer-113456625.html"
 type: article
-quality: 87
-heat: 87
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2020-05%2F945f3710-9a84-11ea-bbf6-6a688df9689a&thumbnail=640%2C&client=49kdj93ncb8s938hkdo&signature=70c9400fcb008c035b69db8d6add6f3bec0bf672"

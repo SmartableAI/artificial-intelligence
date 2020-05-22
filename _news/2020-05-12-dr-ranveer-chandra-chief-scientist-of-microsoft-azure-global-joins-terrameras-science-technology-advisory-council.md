@@ -20,6 +20,6 @@ images:
     height: 627
     title: "Dr. Ranveer Chandra, Chief Scientist of Microsoft Azure Global, Joins Terramera’s Science & Technology Advisory Council"
 
-secured: "QTnWoks/8539LkdhwYuElSyMoyG4EFTBPJxRSch8ozU+BoxX0FT9yuNSXcpNUix8veoDn9mxEZQQzv2oa+k5z/vxinomcsB85HXrps3HE14BaKCSnNlPcMg8sxFlOL5zX3/zSJdwyNrnsvgMgBC/O08ocH5lb4fU07CU9frmWW8gZwpegr25tvNLWGGz4dtLFskd6hEDxxDBfIBcEtcU3LrXBC8uXg9fLYc9iAJlbzAAxAYWlUu5xvXFWfaFALT/qIpTm+RgfRk+s+7gBdnlE43PVatgnRTBOHjpZSKxM/cJnBvRZ8faiK23/05qaMHP;QzEvV23ZS0CzrOe6WJRqTw=="
+secured: "FN7kUG28/2If4c8t49LnSN4rsxjtkBwzAQKblDP+LHtvSrwlPMHrJPyNNTG1rTPsyaGgCIujxhNj7gy9lxS1g3zPHGYy6ze/oWiVW+o52Auhz1v5shwvtXvUqINUiTz2VjozQL4Ul7YRsLUhpx3pHylEPDyrfLolNSYD4V+keHbQpWuUoKkmF8YzNZgIUKrZC/RG59iM5E17/Z+R82sUQTidge5NBCXMC19//6PfrMK+U7r0i9VbdDHA0pCDPiT26PqyR0ajpmvGLeuFS83DGsbF8G1HYSLgxfBZ0yeCnHCBwsAbX0wz1izMLtwMVID8wyUXF/QSTaOuAaIMAm/t54WG1hmjVRITtB0omirgdbz0KR1JpawEzIsQdplYx6UUMQL8xXWW8g4IzRG+dOf+wY5I6iLBCzu6kG3slzKEk+mZLaI9qD0h6Axd9vehxfF8CySHk1TP1wA3/deGYtTMNZNqDMGrc5JAjDr+YWMeSVE=;47rUBRmvE9ieyP/BW3s2dw=="
 ---
 

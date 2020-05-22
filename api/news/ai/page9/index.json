@@ -2,6 +2,95 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-14-are-ai-investments-dead-thanks-to-covid-19.md",
+      "title": "Are AI investments dead thanks to COVID-19?",
+      "excerpt": "And how do you go from managing data points to injecting AI in the enterprise? Read More I reached out to Ryohei Fujimaki, Ph.D., an expert on AI/ML and the founder and CEO of dotData, which delivers data science automation to the enterprise,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/are-ai-investments-dead-thanks-to-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/are-ai-investments-dead-thanks-to-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-ai-investments-dead-thanks-to-covid-19/",
+      "publishedDateTime": "2020-05-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/12/e745a8e4-9e72-4d9b-b3c5-1aed8acff879/art-intel.jpg",
+          "width": 1024,
+          "height": 819,
+          "title": "Are AI investments dead thanks to COVID-19?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-facebook-sucks-elon-musk-hits-back-at-facebook-ai-head-who-claimed-tesla-boss-has-no-idea-about-artificial-intelligence.md",
+      "title": "'Facebook Sucks': Elon Musk Hits Back at Facebook AI Head Who Claimed Tesla Boss Has 'No Idea' about Artificial Intelligence",
+      "excerpt": "Elon Musk had a blunt response for the vice president of artificial intelligence at Facebook after he questioned the SpaceX and Tesla CEO's knowledge on the subject: \"Facebook sucks.\" Musk hit back after Jerome Pesenti,",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973",
+      "ampWebUrl": "https://www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/elon-musk-tweets-facebook-sucks-artificial-intelligence-jerome-pesenti-tesla-1503973?amp=1",
+      "publishedDateTime": "2020-05-14T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1575729/elon-musk.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "'Facebook Sucks': Elon Musk Hits Back at Facebook AI Head Who Claimed Tesla Boss Has 'No Idea' about Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-sonys-first-ai-image-sensor-will-make-cameras-everywhere-smarter.md",
       "title": "Sony’s first AI image sensor will make cameras everywhere smarter",
       "excerpt": "Sony’s new image sensor could one day appear in cameras like this one. Photo by Amelia Holowaty Krales / The Verge Sony has announced the world’s first image sensor with integrated AI smarts. The new IMX500 sensor incorporates both processing power and memory,",
@@ -1178,96 +1267,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-elon-musk-has-a-complex-relationship-with-the-ai-community.md",
-      "title": "Elon Musk has a complex relationship with the A.I. community",
-      "excerpt": "Elon Musk is one of the first investors in DeepMind, he helped set up the $1 billion OpenAI research lab, and he's often making comments about AI. WWIII, more dangerous than nukes, scariest problem: several people in the AI community told CNBC that they struggle to take Musk's AI comments seriously.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
-      "publishedDateTime": "2020-05-13T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105773439-1551717349171rtx6p9uc.jpg?v=1551717410",
-          "width": 3986,
-          "height": 2657,
-          "title": "Elon Musk has a complex relationship with the A.I. community",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook.md",
-      "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
-      "excerpt": "MarketResearch.Biz published a new industry research report “Automatic Speech Recognition Software Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook-2020-05-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

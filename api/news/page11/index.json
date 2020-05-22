@@ -2,6 +2,86 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-14-sony-says-it-created-worlds-first-image-sensor-with-built-in-ai.md",
+      "title": "Sony Says It Created World’s First Image Sensor With Built-in AI",
+      "excerpt": "Sony Corp. touted on Thursday the world’s first image sensors with built-in artificial intelligence, promising to make data-gathering tasks much faster and more secure. Calling it the first of its kind,",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
+      "publishedDateTime": "2020-05-14T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-singapore-based-data-protection-startup-dathena-raises-12-million-series-a.md",
+      "title": "Singapore-based data protection startup Dathena raises $12 million Series A",
+      "excerpt": "Dathena, a Singapore-based company that provides AI-based data protection and privacy solutions, announced it has raised a $12 million Series A. Part of the funding will be used to expand Dathena’s co-sell partnership with Microsoft in the United States,",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/amp/",
+      "publishedDateTime": "2020-05-13T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1185880486.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Singapore-based data protection startup Dathena raises $12 million Series A",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020.md",
       "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
       "excerpt": "Waymo, the autonomous driving unit of Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL), announced Tuesday that it has raised a further $750 million in external investment.",
@@ -981,89 +1061,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-netcracker-offers-ai-driven-digital-bssoss-on-microsoft-azure.md",
-      "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
-      "excerpt": "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/",
-      "ampWebUrl": "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/",
-      "publishedDateTime": "2020-05-12T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-hailo-partners-with-foxconn-to-build-edge-device-for-ai-inference.md",
-      "title": "Hailo partners with Foxconn to build edge device for AI inference",
-      "excerpt": "AI chip startup Hailo plans to partner with Foxconn to launch an AI edge computing device -- BOXiedge -- designed for applications like smart cities.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/12/hailo-partners-with-foxconn-to-build-edge-device-for-ai-inference/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/0f1109a5-c70d-4a6e-9220-9ad6189e69db.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 610,
-          "title": "Hailo partners with Foxconn to build edge device for AI inference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

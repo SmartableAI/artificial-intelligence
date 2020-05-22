@@ -2,6 +2,72 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-05-09-benefits-of-ai-and-machine-learning-in-customer-service.md",
+      "title": "Benefits of AI and Machine Learning in Customer Service?",
+      "excerpt": "The solutions that AI ML provides can be beneficial in our everyday’s life.  We can observe a constant growth in the usage of AI ML development services. From Google to Facebook to Netflix are using AI & ML in some or the other way to meet users’ expectations.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service",
+      "ampWebUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
+      "publishedDateTime": "2020-05-08T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/1/1222fa20749611ea95fc4127234534d6/Benefits-of-AI-ML-in-Customer-Service-1588928096946.png?fm=png&auto=format",
+          "width": 800,
+          "height": 600,
+          "title": "Benefits of AI and Machine Learning in Customer Service?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-paris-tests-face-mask-recognition-software-on-metro-riders.md",
+      "title": "Paris Tests Face-Mask Recognition Software on Metro Riders",
+      "excerpt": "The Paris metro authority is testing CCTV software to detect whether travelers are wearing face masks. It’s part of the city’s efforts to end lockdown and help prevent the spread of Covid-19, but it’s raised concerns from the government’s privacy watchdog.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bnnbloomberg.ca/paris-tests-face-mask-recognition-software-on-metro-riders-1.1432720",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T17:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-3-companies-that-highlight-the-power-of-crowdfunding-for-vr.md",
       "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
       "excerpt": "Facebook allegedly has plans to use artificial intelligence to monitor its ad program and prevent fake news. Driverless cars are already underway, powered by AI. It will even start taking over the more dangerous jobs, where a shortage of workers is ...",
@@ -1168,86 +1234,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-clearview-ai-pinky-swears-it-will-stop-working-with-private-companies.md",
-      "title": "Clearview AI pinky swears it will stop working with private companies",
-      "excerpt": "This time Clearview AI really means it. Honest. The problematic facial-recognition company that scraped billions of photos off social media is now claiming that it will not sell its technology to private companies.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/clearview-ai-promises-stop-working-private-companies/",
-      "ampWebUrl": "https://mashable.com/article/clearview-ai-promises-stop-working-private-companies.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-promises-stop-working-private-companies.amp",
-      "publishedDateTime": "2020-05-07T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F05%252F08%252Fd5%252Fd5c7456e52a1497aa17cb217309948c1.81ee6.png%252F1200x630.png?signature=T8EDRfnUco0h6X57gBQn74EPOhg=",
-          "width": 1200,
-          "height": 630,
-          "title": "Clearview AI pinky swears it will stop working with private companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-how-are-companies-using-ai-to-enhance-the-customer-experience.md",
-      "title": "How Are Companies Using AI To Enhance The Customer Experience?",
-      "excerpt": "Companies are starting to integrate AI into many areas of the purchase process to help maximize both sales and customer satisfaction. How is AI helping improve the overall customer experience?",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/07/how-are-companies-using-ai-to-enhance-the-customer-experience/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/07/how-are-companies-using-ai-to-enhance-the-customer-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/07/how-are-companies-using-ai-to-enhance-the-customer-experience/amp/",
-      "publishedDateTime": "2020-05-07T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1214961329%2F0x0.jpg",
-          "width": 1200,
-          "height": 681,
-          "title": "How Are Companies Using AI To Enhance The Customer Experience?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

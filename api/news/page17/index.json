@@ -2,6 +2,80 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-05-07-gaining-experience-using-deep-learning-for-social-good-in-global-competition.md",
+      "title": "Gaining Experience Using Deep Learning for Social Good in Global Competition",
+      "excerpt": "AI has demonstrated its versatility in recent years, extending far beyond enterprise use into the realm of social good.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/guest-blogs/gaining-experience-using-deep-learning-for-social-good-in-global-competition",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5eb31bbd05044-earth-2254769_1920.jpg",
+          "width": 1920,
+          "height": 1180,
+          "title": "Gaining Experience Using Deep Learning for Social Good in Global Competition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-inference-moves-to-the-network.md",
+      "title": "Inference Moves To The Network",
+      "excerpt": "Machine-learning inference started out as a data-center activity, but tremendous effort is being put into inference at the edge. At this point, the “edge” is not a well-defined concept, and future inference capabilities will reside not only at the extremes of the data center and a data-gathering device,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://semiengineering.com/inference-moves-to-the-network/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/2020/05/BM_Fig02.png",
+          "width": 936,
+          "height": 624,
+          "title": "Inference Moves To The Network",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-vector-institutes-ai-makes-predictions-about-random-events-like-market-trades.md",
       "title": "Vector Institute’s AI makes predictions about random events like market trades",
       "excerpt": "Researchers at the Vector Institute propose an AI approach to modeling random events like stock market fluctuations and hospital visits.",
@@ -628,35 +702,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
-      "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-07-france-is-using-ai-to-check-whether-people-are-wearing-masks-on-public-transport.md",
       "title": "France is using AI to check whether people are wearing masks on public transport",
       "excerpt": "France is integrating new AI tools into security cameras in the Paris metro system to check whether passengers are wearing face masks. The software, which has already been deployed elsewhere in the country,",
@@ -744,6 +789,43 @@
         "Machine Learning",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
+      "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
+      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bakersfield.com/ap/news/inspur-takes-3rd-place-in-neurips-autodl-2019-2020/article_369dc614-0439-5079-9394-c84d3b7ce923.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -990,87 +1072,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-dtex-raises-175-million-to-detect-cyberthreats-with-ai-while-preserving-privacy.md",
-      "title": "Dtex raises $17.5 million to detect cyberthreats with AI while preserving privacy",
-      "excerpt": "Dtex, which is developing a privacy-preserving cybersecurity platform for enterprise customers, raised $17.5 million in venture capital.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/amp/",
-      "publishedDateTime": "2020-05-07T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/US-cyber-security-company-Dtex-Systems-The-Hague-011.jpg?fit=2500%2C1667&strip=all",
-          "width": 2500,
-          "height": 1667,
-          "title": "Dtex raises $17.5 million to detect cyberthreats with AI while preserving privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-predicting-failing-tests-with-machine-learning.md",
-      "title": "Predicting Failing Tests with Machine Learning",
-      "excerpt": "Machine learning can be used to predict how tests behave on changes in the code. These predictions reduce the feedback time to developers by providing information at check-in time. Marco Achtziger & Dr.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/05/predicting-failing-tests/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/05/predicting-failing-tests/en/headerimage/Predicting+Failing+Tests-1588741558619.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Predicting Failing Tests with Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
