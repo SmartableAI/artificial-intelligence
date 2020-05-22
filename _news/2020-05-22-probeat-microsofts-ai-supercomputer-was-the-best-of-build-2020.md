@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-s
 ampWebUrl: "https://venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-scale-build-2020/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-scale-build-2020/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&#038;strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     title: "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020"
 
-secured: "OkQ1gOv1xKidiu0Gfwd9VoMEVwHk/U8MRnop1dn1SI02Gw7YYGqfrZb+ufYq3IsGVKqLmb9u2TNGfmbycIUEsxGVsSi7MEG/xgfvpZi4KbhUUxXL4GCep3oj9wrkYXVFM7vafc1U/QzhZOegUidUkX/ZO2mAIkVPTdfJED9PSAUnXw7IvYhWcVFWmspSpKFrGnaiuQ756FZ+EppyBZkicXAJa9MwBqrgcvzhmx3do52Q1TxgR3jzpX2rp6KgO5F6wTUKh+jEsRR0oY/V1XbqRfRDPfm2UflI8HMv8Zvge7KQvn6yI+nBbHZMr1imteus;alzp9hInnFaegvGhtNvZtQ=="
+secured: "qIOKue6sb+9chYYJp++dO2eDb1p23zd/JqiP09UOF2B1ABXShxFvB0FpbAoE99qheVP5l30e1klvUoTEd73oYlCzB1j5nVUSwFWY4y0rB2H1DBCF7Ckg0hQTrvTTZ1JTtuMenCKX28ZejThNHZxJ6vuErm4LqtTSZMykge282LjhtzU6gti2Ci9M8yUnUucv5kAgQDqtuR/Q8GuwCvMeOxhcaLWICIwvyHHGvE7UZX/K8hVDR8CnP99hC69A4qGD41D+RS7acmSwYyOtSJYX+OIExMvgE0ctKavq0V8lv0pcvXZi6caAjo/RErJUynNbiD6pUibNH0flFPXGzBCuM/UhHnqNbyskCrL9N8I3LKaU4aYe8/ouX+ULKW9JJiLsZDVHnUaxq1mcngqkr28gBk5ykd9DbUSHstcR+LfxasyCtXk90y7bMtwCDAPrK0i8HA93dgz9ZLMTFPKcy1tlf2OFQJjPzdBP4y3EYiG+dgI=;WcYczncRCLkxAxU2HAWN8Q=="
 ---
 

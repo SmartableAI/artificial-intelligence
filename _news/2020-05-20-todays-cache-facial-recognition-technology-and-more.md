@@ -8,8 +8,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-facial-rec
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -26,32 +26,17 @@ images:
     title: "Today’s cache | Facial recognition technology, and more"
 
 related:
-  - title: "Researchers use Instagram mask selfies to improve biometric facial recognition algorithms"
-    excerpt: "Some facial biometrics developers fear the COVID-19 pandemic will affect their business, as the number of people wearing masks has increased. Because they cover essential facial features, masks"
-    publishedDateTime: 2020-05-20T16:05:00Z
-    webUrl: "https://www.biometricupdate.com/202005/researchers-use-instagram-mask-selfies-to-improve-biometric-facial-recognition-algorithms"
+  - title: "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19"
+    excerpt: "Food processors, farms, medical offices, and plant nurseries are among small businesses turning to face recognition employee time clocks for contactless clocking in and out during COVID-19. Lathem's FaceIN face recognition time clocks for employee time and attendance are experiencing an uptick in sales – 5:1 over Lathem's fingerprint clocks - as employers seek contactless solutions for essential employees on the job and others returning to work."
+    publishedDateTime: 2020-05-20T09:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lathem-s-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19-1029218541"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/lathem-s-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19-1029218541"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lathem-s-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19-1029218541"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/20115527/mask-selfies-to-train-biometric-recognition-algorithms.png"
-        width: 1240
-        height: 698
-  - title: "Facial-Recognition Technology Needs More Regulation"
-    excerpt: "Algorithms that can recognize people are too often biased or inaccurate—and they can easily invade our privacy"
-    publishedDateTime: 2020-05-18T15:59:00Z
-    webUrl: "https://www.scientificamerican.com/article/facial-recognition-technology-needs-more-regulation/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 24
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/B94F1DB1-163B-493E-8890360145CAE2E0.jpg"
-        width: 790
-        height: 497
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
 
 secured: "tES+Pmf3HyH9aMAy53aM4rIfZo/ghBr24I3TpwsIgEzrzF3tESVeAh6Hb+AQVJmddcOmiZN/qja7rk1kRwk8J4z67AkfwF8fXG0ipBiq9VPitCL5tYzC+sTlgqCBd9szffVye0w1uGDOeADTeIUs/4GPl8hB1MDdpgs1SYfp5jTsz2klHhPuXQEc0Y0HosdGOOQGr5VQApxfvGCag3s9epIF3+FN+EgNnjq8/SlIJc3IQhuBXlfXAaUJXU/5GC/XYB4qVIDmGA8Qfwv3tBu/RAlzyj+Zp7/9BGjzECacurzilhZ/lY1LA4pGFA8iDbRj;0WUpwOALGkVNNpJspkHyVQ=="
 ---

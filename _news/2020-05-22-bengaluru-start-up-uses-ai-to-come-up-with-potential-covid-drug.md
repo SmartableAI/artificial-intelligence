@@ -24,6 +24,6 @@ images:
     height: 448
     title: "Bengaluru start-up uses AI to come up with potential Covid drug"
 
-secured: "9/r/2PjJ5qksXd9qkMXQUliHBYHqBPSJIKDBLfjrJxO71M+HfbbLRTVGWKZzD+V6IEDGMv3SyIWf5jVolcyTYs21TRuaVWtDBM1ruF65zoClB0k+G51HLf/opT7hHsw+vCas4TnTwo3IPK5Q/qXngX90HPk1yYv59OUA8Zhu0JBdW5VDjzMCEj5XyQd96nh01e11UvOV8kyp/YO0eD3Ve11m6cjVPco54D+buCd9An20VUO+ocTUM+9c3BZCRexRLzDw4NGxsHXYfUS1yTgtbkS1cCiMHscZnH4UIiDLtheIyUB+3B7d+y/HTGQOOago;soeKBH4Jf+OMb7YBKnEgQQ=="
+secured: "HXfSTjoRRbjIMZHzNrThjutjh2xK9VnO92CbAnn6w/IIM1uRzCFZXrfLVsA1swE0bgNXR+VuhrL+gG4vcKhQbc9P9N+xTio7TcbtG8pkjzNmHM2+hpRXplN0xDJGN0qfmeUEuxYHXQQ9K9+20d7DRbo7xLZGScbk1JGIy73FLGdJ/U6rqgjMlDPZvSGKtMVbPzwUFkikUvjUVUeQ8hV6cGdpmuMxgkg1NFNvh8wDsXY6Asq/YR4K0XgKDDGbqcX4tc7wC1n+1v3mwFsSYT0zgNYOHfojgokQ/H9QOyo9sfc2XdHbufWv74+zyw53uFX9/VN9cYVCdDqQ8Wf+ODHSz01y0umMBHdBc8JajB7fMfogWoNjNjhL+TBK+RUQjmI7kEvwxyAX221xvArMoqILVxPjTwMjC/AiekSdDcbIOnQQ4T+iny13RkrGdXxoZ+zwXfMHjeF2gZvhjk26Y5ZgSkuEMWGkljMivmYFEIbOffU=;PQZeOi/BfXW4S8wQraCs7A=="
 ---
 

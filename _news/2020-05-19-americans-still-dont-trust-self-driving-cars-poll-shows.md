@@ -54,6 +54,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/m72EzrWuPzWBOfvn1i31svwAU10=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814379/vpavic_191202_3827_0009.0.jpg"
         width: 1400
         height: 933
+  - title: "Americans still don’t trust self-driving cars, poll shows"
+    excerpt: "Nearly half of Americans say they would not get in a self-driving taxi, according to a poll commissioned by the advocacy group Partners for Automated Vehicle Education."
+    publishedDateTime: 2020-05-22T19:31:00Z
+    webUrl: "https://www.spokesman.com/stories/2020/may/22/americans-still-dont-trust-self-driving-cars-poll-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2020/may/22/americans-still-dont-trust-self-driving-cars-poll-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2020/may/22/americans-still-dont-trust-self-driving-cars-poll-/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 44
+    images:
+      - url: "https://media.spokesman.com/photos/2020/05/22/BIZ-AUTO-SELFDRIVING-SURVEY-DMT_t480.jpg?40e0de30783bb1935d483cf08f48c33db09c842d"
+        width: 480
+        height: 270
 
 secured: "zCzBi53PVjaqH7qNl8dbJz6bbSbk9QLiyYrc5suh6+TGiqha6Pt2OEoyhpOZ4PH4Rpet6Ldt+9SPqEMlVhxp2ZEgtfumtUnm48eCGBOynnQNHKgqR+2OucYvN+fLTyFTp1O6A6wTfJyda2pX6cHx9PCMG5hkQEKmRqAwy0QT2DDcgrZ00jzFt0R0PCQp84kMyVlLpnZ/5GcfcTfVfv3Jdm0nFEGVRI3fTzfsArc+ZZlMjY0hr64yqMr1TuysycE5y0jopGkq9rd5luYFueTJo6gnQ7oqtxWbp3MBZnpWvQC9jxp0GOp9WA9mdLhnGlUe/ZPyhkjK9PpcLfTO+GLkxY5etrMRezd5gsjofaqTDj4YSmIqNUfoftcmYJhN4Q8n6FIPoLT82wRBKLvhr7RkqcA1GHmAsNM/W6YjivgahQEU958GUFLLAgK++kvOJsw/555Y3AbHwDNoerbX0SY0ylWuIFm1K4UFWWN8ovVZQSY=;Ve4T4URNnIVK8oCVj5eIzg=="
 ---

@@ -5,7 +5,7 @@
       "path": "_news/2020-05-22-probeat-microsofts-ai-supercomputer-was-the-best-of-build-2020.md",
       "title": "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020",
       "excerpt": "OpenAI showed Microsoft's supercomputer not just completing code and offering suggestions, but writing code from English instructions.",
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-scale-build-2020/",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -53,9 +54,9 @@
       "heat": 104,
       "tags": null,
       "type": "article",
-      "webUrl": "https://in.pcmag.com/news/136437/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
-      "ampWebUrl": "https://in.pcmag.com/news/136437/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "cdnAmpWebUrl": "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/news/136437/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
+      "webUrl": "https://uk.pcmag.com/news-analysis/127085/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
+      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127085/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127085/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
       "publishedDateTime": "2020-05-22T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -75,7 +76,7 @@
       },
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_r1t6.620.jpg",
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_21s4.620.jpg",
           "width": 620,
           "height": 349,
           "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
