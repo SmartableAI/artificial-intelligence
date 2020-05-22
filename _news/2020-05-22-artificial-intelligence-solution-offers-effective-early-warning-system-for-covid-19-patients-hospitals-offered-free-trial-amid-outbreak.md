@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 secured: "B6ivnHtZTrZRKShRXBvVTx5wNj1yx9sUU7sAZKCIxZC3N/m52Fw19e95L8MH7WcRhck8FgdbY2fjohQg62UlfU+fHXWlAg7YRcOr4bqoCB4C0w1kVEWqhVPV3dzc1DMUL7kbA9meQnc3tE8fS235FnGfpfrCilAEj7tL1xh3da+FmeWj57jwH+aEYGi0LGyfC8tvf53R0sV4CLPLs562UUT2AqVAWKBy0hrqJxeDL109eYM5fCt2MyOcO0gkexkjgron7PigakWF11y19ZeEsWaE+gN8zcUvXihF/HZV/Z3rFTf1hGlUgg6NdLWGLkpA;igmFMBPUFkvTZ1/ZBLq5Sg=="
 ---

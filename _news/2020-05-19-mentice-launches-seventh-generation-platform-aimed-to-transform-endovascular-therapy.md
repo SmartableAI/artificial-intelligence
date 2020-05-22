@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy"
-excerpt: "PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become"
-publishedDateTime: 2020-05-19T08:12:00Z
-webUrl: "https://www.prnewswire.com/news-releases/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-301061518.html"
+excerpt: "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,"
+publishedDateTime: 2020-05-19T08:24:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 77
+heat: 77
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    title: "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy"
-
-secured: "PSdnjPUm4uXXcj59a44CoQyFSkEni5d7yMw/QvHzfJX3vvHGOIZCFqCHvMkf9vDlSuLSyoJYwHDXqvqbO4YE36ATsUam5i84OCM7U0wSVuSkmYGLA9jBvh/QeWh0fNnG+UPuBObQIvfn8Jez6yuMzBvQ8/0YG09V+xJaVeu2lv1fgeFQT2/BZdFj1MqvBv9cLFQHPPfSwAzmBWwWFYy3ZYZ02tHaqkcRghXSp0AjfPvQaBpkFPJsKnJKLt62g5sqUo+JZG1dUdV4jIYoDWMzxlp0O+DVvZ3cLkbcMIpUuMj/+QvqIwcOlG8lanbkeasH;gQq5NlfmTO/dSrtwDYFS8g=="
+secured: "2IkFRux9nbxPJaTpxit8HCCDgyiQ/KnNE4Rrfa0pX12n9MJRUkRY7KZW/BIDtK+RqdTxBAoz7ZLcdUVwDKrsgFXZVnOixHKaQD1H90KzHCyoUCcXIc+vyWxw/WKaaMPHEfGHFpeQVr7GZQ6lTlCpgyUgCPwVRlBu+93uLwNg0vc2EVM2/MuWI4NALh6Snnc/F/ta32eqhELcPwTvhjrIgvOOsK5i+7IZqFevXQUuvwesaq1lcjTMlimj1eD7lYYlVfxd2Ta82bd+PxU88QFMOB5QRHhO8ZotZki/TFkhnQJEzk46B2WVjZAs9kQ5goDg;YqCIvxDsHV01mZkcyStFsg=="
 ---
 

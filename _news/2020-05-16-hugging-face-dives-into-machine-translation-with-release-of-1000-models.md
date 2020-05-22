@@ -24,6 +24,6 @@ images:
     height: 600
     title: "Hugging Face dives into machine translation with release of 1,000 models"
 
-secured: "d38S6xUsvrP/eIckusM0pD4LqdvzQ3D++tidkP/Ql4A8Uf+hiBAVxGTD+9eq1lBtLcW0nLDAzKTxaG7eVP8QZr+SIbOG3SrmM+NYuiRy4YojEDrZRNqUEuYxveiOqIXVd/VUZJ5pMqkA6jHIQjeJFTk+5NvffLhM2rqOoqYdH62R6gIrJjgA+rQRQhj2MpTZ77CXLTvJ6Cw7CpAgFvEgfN1fyflnWcBuZ7/aFeRYWTzokUb/Vf2BSqiP+TTp3rkp1qU2KeJIVY8NqML/3NQGLyKEiUdyLMIvuoUyr73noQL5YUmXvDLVi5apCgbtgltK;mhBJKRtDd30LGS3E6OP2hQ=="
+secured: "6Jj9N4HwR5p6oP0NoowS/aFeHN5MgNU950+71ntDtt0GH3CAGne1FfSoRR7WhnY0c4iGOtodkeaUEv5G9jJp9Mq+iaGnmoG4LXksEKgqF/Ecm5bYSRwzn8l0oKAfr/lY7Mu9pGgySFABod9l5O59OzF9rqXiYADWITpiFwqCyZrMbROfiDFxzOc1czrI0almd8gXeMisCIXlr0gybNo/6CsSKaxbE//S131fwnkelMtYaStycyNH7CpjwySVecEqNwkvd5ilafqEouEzNZwrPobveEyn8quZp+7DUB+k+ymgFb4HDwkDZHHmFexfgwL60v+8B+zaalrq2nd2LU4lM9kPXw4T/BBG7YvYa+wtBLKUOcU8gFKbjXrI/HHLuB7oUsj/iZtlDajCBZ3vZ4YhT27Hj7uP/13j56MtAxHN+BbteZZvOvjJAmmuE3bVBLk2IcHGiEsLi7lk0Dh7AMi6YpKQjEnSzS6kVXn9DaLnCck=;mR1vNGJVUJQssRgFVJNHdg=="
 ---
 

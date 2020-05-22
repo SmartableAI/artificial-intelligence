@@ -1,23 +1,21 @@
 ---
 category: news
 title: "Computer vision helps scientists study lithium ion batteries"
-excerpt: "Of course, it's a tall order for humans to figure out what's going on just by looking at pictures of an NMC cathode, so the team turned to computer vision, a subfield of machine learning ..."
-publishedDateTime: 2020-05-08T00:00:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/05/200508083542.htm"
+excerpt: "Lithium-ion batteries lose their juice over time, causing scientists and engineer to work hard to understand that process in detail. Now, scientists at the Department of Energy's SLAC National Accelerator Laboratory have combined sophisticated machine learning algorithms with X-ray tomography data to produce a detailed picture of how one battery component,"
+publishedDateTime: 2020-05-08T10:15:00Z
+webUrl: "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.html"
+ampWebUrl: "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Computer Vision
   - AI
 
-secured: "WY6GVC0TLZZyWP4SQ5z04XLr4f+BMSi0wqVXs/vD3wOxk4Kqeh4g3x8UtuFOJis5jFNuYCMi9pH+cSXyAYlG6tdQo0ecIXk4hmQB5TG6EogwgsG1oLLqn0lJFz1u4nLjcaLEOKjNhwLifL/UnyARkzvVSVflM+TIr+3nDQZg1QXqt9464G7ihNwuaiRrxPnzlbvwfRLB/TsKBTrr2DvSDmahFi5pMRvq+fRBoLlhDaUVMg/rgW1acmoGZmbPpNruhd4cs2Qg9eyFoK8TRXugKmdiJu29wOU8om5BySTPPuU20OtTPwIG/9Err1vzjqxT;o0mblvqHHBDrVXZRGwaRBA=="
+secured: "utfOflShbv0BxX8JQhMIY6WZHKhRpKhwzxX2M+JO/RBtnXw+cAxUCBqk9ctsHx8o069AsdXRcvxhdAdg3JauNxxXSFJ+1Jim8W4SWm+5hTNXkzJDK1qRjwEcKXSjtDaUtpGojarRvesKgZNZlpraUwTYC0SVKdyUVDsQHL3TCZUbrQXsINlMf+K0OaGJUO7Bs4M4W1dA+87K4NRMZi3+qkG03Sfdb2wHPGuXigQXeS68Y9G62kteOWkHCL+e5crJcyQf8CqHyF8gckg1M0gMyuGPPs6UM2MbERgNGnpaws9l+VfEN49/LDRihmL1QW8VH2F6ZhWKmr9gN4la89MSA9+XzbIeSFtbCsvnC9Tv6zldMXUKECGm/cqs0JgCURoFmb5DecjePMRKvolacVTexzwu02Lb7XI7xEzbdpPwV7UOxD4c+g0xQ7w6duNFdNsBPQYk2l7QrgjcVJLYWDE5mkLUN51f1Z3j/RJ215EQ0qg=;QUj77EJMcND/3jt9EARFGg=="
 ---
 
