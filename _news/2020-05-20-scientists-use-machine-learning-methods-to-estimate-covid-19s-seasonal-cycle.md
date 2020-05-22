@@ -8,8 +8,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200520/Scientists-use-machin
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200520/Scientists-use-machine-learning-methods-to-estimate-COVID-19s-seasonal-cycle.aspx"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: News Medical
@@ -39,6 +39,19 @@ related:
       - url: "https://newscenter.lbl.gov/wp-content/uploads/sites/2/2020/05/COVID-incidence-rate-JHU_051520.png"
         width: 1021
         height: 607
+  - title: "Using machine learning to estimate COVID-19’s seasonal cycle"
+    excerpt: "One of the many unanswered scientific questions about COVID-19 is whether it is seasonal like the flu — waning in warm summer months then resurging in the fall and winter. Now scientists at Lawrence Berkeley National Laboratory (Berkeley Lab) are launching a project to apply machine-learning methods to a plethora of health and environmental datasets,"
+    publishedDateTime: 2020-05-21T22:01:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/using-machine-learning-estimate-covid-19-seasonal-cycle"
+    type: article
+    provider:
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 39
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/street-mask-walk.jpg"
+        width: 686
+        height: 425
 
 secured: "7x9sK2vjHAf1g1tJtIzkwY09Z8we/m3NPrYssarnaVZXiP3asss823eL09GfvEFNKx1eALfZR/ud542tftxJsA7pFkaUvyNH2nyOg2HOkRptYRkDMG7nYVdOMK037iuBJsyWObZ7sShHu0Lng2F4JLnXShZSlbCeanXTwQfXcz+b0IXMWb5TodWWqTbyYQLdKYrqaysPQNLfEEtGcA95WNncbkEIsiWFHI9EjCvY9gfI2kHKskzp9GiOTAxLcF79V4dQZ5aK7RYFDAFE1QDgA88EjLHPHRfSW9JYMicBA0EljRp/vJT2xG/gWZPrM3Hv;c44cPlk0iZ65HshFUatbfg=="
 ---

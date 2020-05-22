@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Facial recognition tech reunites missing child, parents after 32 years in China"
-excerpt: "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday."
-publishedDateTime: 2020-05-20T00:45:00Z
-webUrl: "https://www.wistv.com/2020/05/19/facial-recognition-tech-reunites-missing-child-parents-after-years-china/"
+excerpt: "Investigators used facial recognition technology to analyze an old photo of Mao as a boy and came up with a simulated image of him as an adult."
+publishedDateTime: 2020-05-20T19:13:00Z
+webUrl: "https://www.kbtx.com/content/news/Facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-China-570602011.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: WIS TV
-  domain: wistv.com
+  name: KBTX
+  domain: kbtx.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.wistv.com/resizer/w51OS9yT97gOHOvkYSKGYJVQZDM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/3IAREMZCLBEJHC3URT557DLPRU.jpg"
-    width: 1200
-    height: 675
+  - url: "https://media.graytvinc.com/images/aa413.jpg"
+    width: 700
+    height: 400
     title: "Facial recognition tech reunites missing child, parents after 32 years in China"
 
 related:
@@ -229,6 +229,6 @@ related:
         width: 1024
         height: 1024
 
-secured: "EqvYAi6kenbxNCqrKwNUUds6DF0U8guIlnPqRAJqgUIuMtHZyIfXIcmiIb3hOBt780uf8HAN0HmpYEGaoz/B0hKLRbmgqlKNHEsGnYW3TqDKzTDFhSDim4XXLI9gVdFqqVE//xhuwk8sqSNk4QVssno6Abduo1wpefdnshDg0brL/8+XIojrQLw1YqlYie5n8EcjMRRRw1mQqxZSPJRPC8CafKNEs7peeeIbCw0q1BD5Suu3//B4nayTj64PGk6YrUtyTaZVVprFLw5yKOA58NwaCe6GvhzURuOwkTVQqSG1JM1XJ856x2eZ8DRboa6g;hqcXsqibgk4QKxNQ8GAXBQ=="
+secured: "zUwohBdWIs3Xz5Q6GWJsr7Fsvx7oKF+PZBcOnOtFHOG+rQhj+T8qGjyG2GnVjJL9P3gbzOtioGc+foJtD+CqRRoeJ2939C3E8Y82dPoDri/yznj/kme9womP34dIW02qVhLZdkJ5TN0ELq1aOV8PLhuQ6Abzuop0b1Eq9Q1Na17lhNPnp8pVBZtm4HfCxzoPi2voG0CET/zU0PatidsYCFNZpDunyzI3we9YTqhMHbiKpDocPBYrOyEViJlqWSziHa6l+l2aXSMGWXhaGde0MuD8RUdTIsY+7wNfWTvwV3iw1HNiJjZcw/No1KLi5J5H;0h/UOB/U1FKmesYAgbUrow=="
 ---
 

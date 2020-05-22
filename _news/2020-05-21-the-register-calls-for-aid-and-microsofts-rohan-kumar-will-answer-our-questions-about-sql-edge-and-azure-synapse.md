@@ -25,6 +25,6 @@ images:
     height: 429
     title: "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse"
 
-secured: "wHPIeveQaE402KkT2ZD7t++x9qkw+4AviQ3Nm8HvrvS2gdSPK7XjB6pkZFX0HTicaaCEnglCzRBQVbb0K+YPmQ6vOcJnFNewr88c3M3BXcZ8tYIGc8GoSnhbWib5qZQjQZJwXchdHxE0DpUTEsqji61g09EsXTB2X8h1LQw6Vr2E17fU4wmsTd1bl/VjMXSE5DQP5It/E+9ftFiGD37h+9txXROdQwbRF715cSZDMHJ6jZ/zXDkAOOfPbCYO+vcWyirDGpRADY7sk3B5D96uCCuFf+AH77duf3E3unXtxTYhhh4yAsDiozcD2MgH+H1R;1SfStnMVbqGqS/CWD5p74w=="
+secured: "X0uKNhnTfZRz47IaskxBCV00wYSHepKaF62UZZCszurqUgnjioniC3HrPq5Oc/ZyDk7MbA29seLgY5MhA27mOcmVL1l+PR6InEOfIqXxLEgxY15BLpW4ID444Om3Mw8NxvxzAwgIBAJXjjq27g2sJBDs3teLvmPMW6vNj1I4NzpK5VkcJh/CNIwRWVMbPUCV4KxiQlstsEicavxZATbZlWfxmeP6EvSZMFkGeY23oPtE2QgzDdccYRd4FBx8oNXITRZ19XY61rDPpqBYms/kgthQH7F09F/rQx/J9P0Nu2BSU+yGOaIm6MPQyKiGQbISNUuzthenQQkfLcNLigwYPdbbQ2yxfFONQR0pQarv8/wo4C2hifeovP2VFJk8HTMKTd8PJ5Ms3c0AZihN3ZwU0e6j1ROJz0+FdAw+ElVmdKsmKiTN5VK1uv1lcqYBfFnB1HDjrt/8DfcW8ZPA3k2Tz+1fFp1lP8UzvB3j9XK+0fQ=;wolTWjKwJR6Mgk6VsFyQ5A=="
 ---
 

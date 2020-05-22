@@ -49,6 +49,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-20-scientists-use-machine-learning-methods-to-estimate-covid-19s-seasonal-cycle.md",
+      "title": "Scientists use machine learning methods to estimate COVID-19's seasonal cycle",
+      "excerpt": "One of the many unanswered scientific questions about COVID-19 is whether it is seasonal like the flu - waning in warm summer months then resurging in the fall and winter.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200520/Scientists-use-machine-learning-methods-to-estimate-COVID-19s-seasonal-cycle.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200520/Scientists-use-machine-learning-methods-to-estimate-COVID-19s-seasonal-cycle.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200520/Scientists-use-machine-learning-methods-to-estimate-COVID-19s-seasonal-cycle.aspx",
+      "publishedDateTime": "2020-05-20T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f6%2fChem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Scientists use machine learning methods to estimate COVID-19's seasonal cycle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-nvidia-reveals-why-it-chose-rival-amd-over-intel-for-its-deep-learning-system.md",
       "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
       "excerpt": "In Nvidia’s first two DGX systems, Intel’s Xeon CPUs were the preferred processor, but the company dropped them in the DGX A100 for two of AMD's 64-core, Zen 2-based Epyc 7742 CPUs. The system, which uses the new,",
@@ -1273,43 +1310,6 @@
           "width": 1200,
           "height": 630,
           "title": "Deep Learning Market,Outlook by Drivers, Restraints, demands And forecast 2017-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-benefits-of-ai-and-machine-learning-in-customer-service.md",
-      "title": "Benefits of AI and Machine Learning in Customer Service?",
-      "excerpt": "The solutions that AI ML provides can be beneficial in our everyday’s life.  We can observe a constant growth in the usage of AI ML development services. From Google to Facebook to Netflix are using AI & ML in some or the other way to meet users’ expectations.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service",
-      "ampWebUrl": "https://yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/benefits-ai-ml-customer-service/amp",
-      "publishedDateTime": "2020-05-08T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/1/1222fa20749611ea95fc4127234534d6/Benefits-of-AI-ML-in-Customer-Service-1588928096946.png?fm=png&auto=format",
-          "width": 800,
-          "height": 600,
-          "title": "Benefits of AI and Machine Learning in Customer Service?",
           "attribution": null
         }
       ],

@@ -216,18 +216,18 @@ related:
         width: 1200
         height: 675
   - title: "Facial recognition tech reunites missing child, parents after 32 years in China"
-    excerpt: "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday."
-    publishedDateTime: 2020-05-20T00:45:00Z
-    webUrl: "https://www.wistv.com/2020/05/19/facial-recognition-tech-reunites-missing-child-parents-after-years-china/"
+    excerpt: "Investigators used facial recognition technology to analyze an old photo of Mao as a boy and came up with a simulated image of him as an adult."
+    publishedDateTime: 2020-05-20T19:13:00Z
+    webUrl: "https://www.kbtx.com/content/news/Facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-China-570602011.html"
     type: article
     provider:
-      name: WIS TV
-      domain: wistv.com
+      name: KBTX
+      domain: kbtx.com
     quality: 35
     images:
-      - url: "https://www.wistv.com/resizer/w51OS9yT97gOHOvkYSKGYJVQZDM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/3IAREMZCLBEJHC3URT557DLPRU.jpg"
-        width: 1200
-        height: 675
+      - url: "https://media.graytvinc.com/images/aa413.jpg"
+        width: 700
+        height: 400
 
 secured: "fyAIunCwjRUONGuqvC3cqGUgRHKZmmQPz24C3y7Hv/snMsmY2YQ8hCVWvcXmNhoEvgpT49sN17Y6rgiHT3AhQXyIR/jdMtudn+91gkDzADauPrIGw0tsTTzrM8NLgmexqfQ2dUrlNnanajzbFdMcGMvO3sVypqv39LGDgTtXgcgx+xCbGOLv2aU/56Q7gPGNAHjbbfuHJ7iJj6/xqbDyQjn8MYPouR3ffcSnrlWUnWksvt02ZiaG4sFw7ta7nNcVLn23xhoyCFGvCXvUVYCndQN4clsXwm9JTPApkaKPjKTxtI3sxctraAEhYYI9uvYSNVQrtmLjcR8qu7oli9U4eDOY3qAgCJKX0AcYBL1pV9ZmtQvEigsOui9Pq30hRMWsykHB+ReJVxEvSkzVrZMNEFcEWkMQtUEsIQShvAoIgNannMMylFRU9mErQ5ouTqAP1gwOGD5fQPs1f4V1P04rsOViKISCvFk+NeI8MHACMUg=;WsFUAvktOyHgt7LvXnrVOw=="
 ---
