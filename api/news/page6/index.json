@@ -2,6 +2,133 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-19-how-machines-see-everything-you-need-to-know-about-computer-vision.md",
+      "title": "How machines see: everything you need to know about computer vision",
+      "excerpt": "The human vision is a very intricate piece of organic technology that involves our eyes and visual cortex, but also takes into account our mental models of objects, our abstract understanding of concepts and our personal experiences through billions and trillions of interactions we’ve made with the world in our lives.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/amp/",
+      "publishedDateTime": "2020-05-19T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-1-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "How machines see: everything you need to know about computer vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-facial-recognition-used-to-reunite-missing-child-with-family-after-32-years.md",
+      "title": "Facial recognition used to reunite missing child with family after 32 years",
+      "excerpt": "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology.",
+      "heat": 237,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html?ref=hvper.com",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html",
+      "publishedDateTime": "2020-05-18T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200519145036-chinese-city-of-xian--super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Facial recognition used to reunite missing child with family after 32 years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-vanora-robots-launches-ai-powered-product-for-hospital-disinfection.md",
+      "title": "Vanora Robots launches AI-powered product for hospital disinfection",
+      "excerpt": "Using UV light, the robot can disinfect a 140-sq.ft room in less than five minutes, says CEO Krishnan Nambiar Vanora Robots Pvt Ltd, a Mangaluru-based robotics and artificial intelligence (AI) start-up,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/news/national/vanora-robots-launches-ai-powered-product-for-hospital-disinfection/article31621129.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/national/vanora-robots-launches-ai-powered-product-for-hospital-disinfection/article31621129.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/vanora-robots-launches-ai-powered-product-for-hospital-disinfection/article31621129.ece/amp/",
+      "publishedDateTime": "2020-05-18T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/news/national/n4gasb/article31621127.ece/ALTERNATES/LANDSCAPE_615/Vanora1a",
+          "width": 615,
+          "height": 384,
+          "title": "Vanora Robots launches AI-powered product for hospital disinfection",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-artificial-intelligence-in-retail-market-may-see-a-big-move-ibm-microsoft-nvidia-amazon-web-services.md",
       "title": "Artificial Intelligence in Retail Market May See a Big Move |IBM, Microsoft, Nvidia, Amazon Web Services",
       "excerpt": "The definitive source for facts, data and analysis of the Global Artificial Intelligence in",
@@ -948,125 +1075,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-five-robots-that-are-saving-the-us-food-supply-chain.md",
-      "title": "Five robots that are saving the US food supply chain",
-      "excerpt": "As Covid-19 threatens to buckle the US food supply chain, businesses are wrestling with the task of how to feed millions under lockdown via understaffed supply chains. As a result, demand for robotics companies whose machines can harvest,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
-      "ampWebUrl": "https://amp.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
-      "publishedDateTime": "2020-05-18T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2d98e856-a3fe-498c-8c42-ab85a0556c61.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "Five robots that are saving the US food supply chain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics.md",
-      "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
-      "excerpt": "The companies said their first offering, called FedEx Surround, will provide real-time analytics into commerce supply chains and shipment tracking.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
-      "publishedDateTime": "2020-05-18T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/2151fc49-7ad9-4a65-9002-0414a1081af1/thumbnail/1200x675/8639db4c7592580202910c59cd9b807c/screen-shot-2020-05-18-at-3-59-56-pm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-facial-recognition-and-your-right-to-privacy.md",
-      "title": "Facial recognition and your right to privacy",
-      "excerpt": "Would your social media habits change if you knew your posts could be used by law enforcement? Jacob Ward brings to light the privacy issues surrounding AI and facial recognition on the Weekend Report.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnews.com/video/facial-recognition-and-your-right-to-privacy-83601477518",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo83601477518",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo83601477518",
-      "publishedDateTime": "2020-05-18T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202005/sg_3.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Facial recognition and your right to privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

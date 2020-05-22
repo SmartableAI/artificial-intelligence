@@ -7,8 +7,8 @@ webUrl: "https://www.upi.com/Science_News/2020/05/22/Artificial-intelligence-can
 ampWebUrl: "https://www.upi.com/amp/Science_News/2020/05/22/Artificial-intelligence-can-predict-a-persons-personality-using-only-a-selfie/4981590158009/"
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/05/22/Artificial-intelligence-can-predict-a-persons-personality-using-only-a-selfie/4981590158009/"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdnph.upi.com/sv/ph/og/i/4981590158009/2020/1/15901613706323/v1.5/Artificial-intelligence-can-predict-a-persons-personality-using-only-a-selfie.jpg"
@@ -24,6 +25,6 @@ images:
     height: 449
     title: "Artificial intelligence can predict a person's personality using only a selfie"
 
-secured: "bvE3Y/dQZCFnjWGssu/pUtfWg/l2JVq/593EUXOFvmxUxqHD9gRVFRdR23WfyivkCbDPmcIRy3Llzl99nqmY3322tCU/ygwJFRCsxceLCZEb+awT/N5WlwiqlRC10EHhu9xcLtnIMk7zvIX2I7ezVERGZy7v9NwhM4/IJKnEpi0YW2gm82R9+Nd6rjYQoIAOO7ahp3nh622h3RPBeEbDUcfpbjP17q7azRqjkcYQS1CnrrAdz6s+7hBCQuzvla6S735yX6pDX2BOBiyKqci2bjZd1QWOahsVOYV7vGfjnZmuYRLGwZ1W0o43N6z/1kPx;9Yfa9MFgoFhj3prV8ZDtjw=="
+secured: "LrPuk6EeC8yi+v5BW0A41YDSJ8P54OazrzTUOPs9wAeld+TepXZJrliGbZjPuMAbYxjFSt6JQyYTT2Q3yDbaWpFi6y8eFV/DS/IfKijn5TRboUgkD33NvOe9YmOO5QbjoWUHK3B2Qa/S/Uul/zb5mX259E2Z4CDLVmga2lW4/x7Ymw6Lemz0sBBjuY6WkozjwFEHj9FQCsGwyVBAQO6gxletz8JJFSltViGP0GC1ij55I9lN+XT1jZF92MnHvNfoq64H/WMYCSqfcjerzCfxhsCVBuLEaAs5xeiZ3++JOt1ye1J4NxTBUcHmY+kwpCWKhO9rQPbAT8ripSHL4VIG0nAdCTzCLZrNzyL1TNASysXNCGfjCdpm/vt93Q9LHbTL5JGj9LtcPppbqL1NIZP7TR7tt5Jew9mi+YVtT+McHgSIVSVcZ3ulLF4xOOnOALDnsa4K32fP4oiA9QMsGZykKnRuftrezhPCKQhBdjRmZ78=;IAX5YBGeiHT16A/Z2et62A=="
 ---
 

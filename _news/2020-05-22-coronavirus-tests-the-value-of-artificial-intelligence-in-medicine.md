@@ -37,7 +37,20 @@ related:
       - url: "https://californiahealthline.org/wp-content/uploads/sites/3/2020/05/xrays.png"
         width: 1350
         height: 900
+  - title: "COVID-19 tests the value of artificial intelligence in medicine"
+    excerpt: "It has now been applied to more than 6,000 chest X-rays, and it's providing some value in diagnosis, said Hsiao, the director of UCSD's augmented imaging and artificial intelligence data analytics laboratory."
+    publishedDateTime: 2020-05-22T16:03:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/covid-19-tests-value-artificial-intelligence-medicine"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 39
+    images:
+      - url: "https://www.modernhealthcare.com/s3/files/styles/800x600/public/artificial-intelligence-4469138_1280_i.jpg"
+        width: 800
+        height: 600
 
-secured: "hbYOM3PXp2gfQeqXb6TDmlgSF5orNR21F073aRmzZzWM7OOOC/+0RBMn38WTmIaUJ6Q/A4oquhStwREGEyPznW7GXU82wdPqUDuHowJ7hu/Xj0rnxQhrVBSFNy1JGBTtVaRnoeDF8VnxJWPnghIX87/gShtSQu6MKcMLEZECktuNAtoG3PipbyVgwgJrGXunwcpSnSWHf8Ud8t6PrO+opRE3SSkAtOG9HeCMIb2dpGwJ7SdZaNdfjDI4Y3L6tVbtFsWo3lOVcRi1wCoiEOGK7KQBELYCPSwwsvWh/iO4/btYVDnb15INFqmRSS+r9myc;cyQ2SDX8VqMbA25zlUXrsw=="
+secured: "ZXPo7Zw22iGwj1Kw3j34udqj/5LrOqXO3+CrnAtsYKTlZ4Zjq+ARZ85afsUekNi9OUFb9S2VqPi/8CWzePZFSj2Wre8pax8PcfSxghtzmz0iDXIzTf/UY3SZfB8TsqSmPWzctllWvrwQE3djx4D3RvlfopI72gkk25hk3lhDHLEJZP+gOmVL7onKyFuslADQ2Mh3OkhbnDYUcrnibqeOZ9k/9B6vfWuARAVuksGrEmy6R4RW0a77/0Oav07gK7yp0wiLffWNH6CGko733znUfnXVlx4doUmSERAIZ1TtDxaRXJJ+Fm84/HkUHnZyCSSfEZ8IN2VDoLORtPPuUCtxP9r/gvkRKUMLcZ5J4Co8OXuAXk7Q7V7n8+cctRzAcI99Dt3v7KBRqJJWX+bQp4AoDloUcCY8JGh4byIHuOHUZiJ1zd/6IlXys69PN00qHYIlhyGPbhDgSTPP8PP5Xe07JmGMiL50/Cv/ygC1VElxxI4=;lMFi8T8QWZSRWc2lBMteog=="
 ---
 

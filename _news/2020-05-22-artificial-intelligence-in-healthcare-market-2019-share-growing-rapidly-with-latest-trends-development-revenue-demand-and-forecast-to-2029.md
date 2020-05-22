@@ -28,6 +28,19 @@ images:
     title: "Artificial Intelligence in Healthcare Market 2019 Share Growing Rapidly With Latest Trends, Development, Revenue, Demand And Forecast To 2029"
 
 related:
+  - title: "Cognitive Computing Market Advancement Strategy, world Top Players, Analysis and Forecast To 2026"
+    excerpt: "The global Cognitive Computing Market is projected to grow with a striking growth rate of 37 % over the forecast period 2019-2026, divulges the latest research report presented by Big Market Research."
+    publishedDateTime: 2020-05-22T17:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-advancement-strategy-world-top-players-analysis-and-forecast-to-2026-2020-05-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence (AI) in Fintech Market 2020 Overview with Demographic Data and Industry Growth Trends 2026"
     excerpt: "Released by MarketsandResearch.biz, Global Artificial Intelligence (AI) in Fintech Market 2020 by Company, Regions, Type and Application, Forecast to 2026 profoundly explores an overarching research study which talks about the current market scenario."
     publishedDateTime: 2020-05-22T10:00:00Z

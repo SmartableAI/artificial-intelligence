@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Global NLP in Healthcare and Life Sciences Market (2019 to 2027) - Featuring IBM, Linguamatics & 3M Among Others - ResearchAndMarkets.com"
 
-secured: "MGyedweIWrIZ5/Fpee6L/rxpczjxfIMq9+fq6a2pX5EXJW9hwHFXxg8whhhZI7GzlQ5pdMnj4WDcKEAbBypM2Gvjyjpf4oOqweu5mbAw4HZI6UKwN5vnU4JESdi6KEfRiumJ/we/KqHBfYS5XRSUqX82Q0FkY4uU5bn4dMZyvrdzQBXJIg6VsWK2Dc9+9t8m1mF5ck6f3Ux5q/Ftx3IDFWmLxy7gE3cNOm87lvLJOpNfga5DarPldmBPeDhLJjQRJJNaiNvkBbDcY15gf25Oo9I0GKKglDJiE+Hj3nSjmdWHlPGnMxsALx60lrTotd/Z;Vtx5M9grcbu05yRijljo0Q=="
+secured: "8SGX60rDNYhXvW5FMmCYf4PEYbqp+fLm8jCdFniM+Fm5CyB0vnHeKR0vzeG1pTfLM1qRNF+wX7cZyAUetkxD0u++Is0YjWZF/AEuzRX6oZcslg8EqdCknIqnc6heZBqPbzCYKMW9/51XmTh84vpcjlHAr+dByYdeedg5jzqErnAsDfs8hi1P2YAZXETcV/zJ670kKqcIQjZ4JllZYci7OwoSasyKSA6hK+ZJRd7u0b4pORmmFS64LybcQmmyVPFn+gFPaSgZj9lr+0lKOjXzV3JMT5rKh3G6V4CBFb+mlIRSzwCZNqENwHIK1HfRIrpPzSspQ7V5nqFt7vbbxsCdqfQ0zMxbTtgQU2X21kpoEnrp3jFzPRoJy4o+j1as/22YXYcXo5i1z2DvQntJvL2ifW+y7gKaveSvf1SD7V7kLA2tTpUb9vkuiaIgnot9uMAPQUsjUS/KsfbJ7eUd52K1/COMFRvp6HNSPhHw2XIjqj8=;2sZmCu44oFEdz9WcMrSH1Q=="
 ---
 

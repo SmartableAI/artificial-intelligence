@@ -37,6 +37,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Cognitive Computing Market Advancement Strategy, world Top Players, Analysis and Forecast To 2026"
+    excerpt: "The global Cognitive Computing Market is projected to grow with a striking growth rate of 37 % over the forecast period 2019-2026, divulges the latest research report presented by Big Market Research."
+    publishedDateTime: 2020-05-22T17:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-advancement-strategy-world-top-players-analysis-and-forecast-to-2026-2020-05-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "4mBMxMWW8hD5a656PVRU3eM8zPLKygQG9c2VLyzU/+UXXc5XAERnNybIWyzNWABAMIlpbzVUjPDQms2EUUnYp2s1lzA2NWcboVqEqIfzKV8cCMEH5LzeNG/Jf4jwTqZ6z87shDzxG4Rrqslsczqhs2V/I7CFtCOvX6CdmHAOvYk8gdWo/YPa5P8RFvas670hiavTflHgIkCJTLpLQXteyXO1Fe0nFGZOpdclOisqXNpT7MpTagF6ZhUC7YiMZe55DbDY1ZOjeiaaTNXd7hr3a0St+bM53yW1C8A2Y0VHfXuPxgpAVpJNAGhaYJatLy5mnZzuF78PaSRrtsAC8Dol2VBSwHY8eaCrOjAJiYkcPwuHqGizfDJLvl2YH1cpBkbf8zvwKZ08HmNJs2SD/TJA6fFOQJQ5XVuypiD+6T1iUaC5RCoEDN0BIXMEc0lGXJ+qUXiVc+gkGNuVb1esScF1IUZtC4RFoAfAKqvJk17O50Y=;bolx5FvFMtH44noz1moJXg=="
 ---

@@ -2,6 +2,130 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-21-clerk-of-the-superior-court-in-maricopa-county-delivering-fast-accurate-answers-to-the-public.md",
+      "title": "Clerk of the Superior Court in Maricopa County: Delivering fast, accurate answers to the public",
+      "excerpt": "The Clerk of the Superior Court in Maricopa County, based out of Phoenix, Arizona, receives thousands of service requests each day from its 4 million residents. Citizens often reach out with time-sensitive requests, like applying for marriage licenses, renewing passports and accessing court records.",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/clerk-of-the-superior-court-in-maricopa-county-delivering-fast-accurate-answers-to-the-public/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T08:45:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_05_12_Watson-Assisant_Blog-Leadspace.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Clerk of the Superior Court in Maricopa County: Delivering fast, accurate answers to the public",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d.md",
+      "title": "China’s latest AI news anchor mimics human voices and gestures in 3D",
+      "excerpt": "Chinese state news agency Xinhua has added a 3D AI news anchor called Xin Xiaowei to its growing lineup of virtual presenters",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/amp/",
+      "publishedDateTime": "2020-05-21T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-45-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "China’s latest AI news anchor mimics human voices and gestures in 3D",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-super-hi-fi-is-reshaping-the-sound-of-streaming-with-ai.md",
+      "title": "Super Hi-Fi Is Reshaping The Sound Of Streaming With AI",
+      "excerpt": "The Los Angeles-based company is working with digital music services to improve listening experiences and build their sonic brands.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/",
+      "ampWebUrl": "https://www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/amp/",
+      "publishedDateTime": "2020-05-21T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims.md",
       "title": "Clara Analytics nabs $25 million for AI that expedites workers’ compensation claims",
       "excerpt": "Clara Analytics, a startup leveraging AI to expedite workers' compensation claims, has raised $25 million during the pandemic.",
@@ -917,141 +1041,6 @@
         "AI",
         "Microsoft AI",
         "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network.md",
-      "title": "Shopify intros Balance debit card for SMBs, expands access to AI fulfillment network",
-      "excerpt": "E-commerce platform provider Shopify on Wednesday unveiled a new financial service for its small business merchants that aims to consolidate business transactions and cash flows into a single business account.",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
-      "publishedDateTime": "2020-05-20T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/18/9c02bf5f-14b2-4c9a-81fb-c41203e8a625/thumbnail/1200x675/497b2a0ce40b8724b624d72a84bd65e2/patrick-tomasso-nwvwbv0sv04-unsplash.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Shopify intros Balance debit card for SMBs, expands access to AI fulfillment network",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-influence-of-covid-19-north-america-self-driving-car-market-on-global-trends.md",
-      "title": "Influence of COVID-19 North America Self-driving Car Market, on Global Trends",
-      "excerpt": "May 20, 2020 (AmericaNewsHour) -- North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/influence-of-covid-19-north-america-self-driving-car-market-on-global-trends-2020-05-20",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Influence of COVID-19 North America Self-driving Car Market, on Global Trends",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-search-engines-are-leveraging-ai-to-improve-their-language-understanding.md",
-      "title": "Search engines are leveraging AI to improve their language understanding",
-      "excerpt": "Increasingly, search engines like Bing and Google are leveraging AI and machine learning to improve the quality of results.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/20/search-engines-google-bing-are-leveraging-ai-to-improve-their-language-understanding/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Search engines are leveraging AI to improve their language understanding",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
         "Natural Language Processing"
       ]
     }

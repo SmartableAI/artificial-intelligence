@@ -25,6 +25,6 @@ images:
     height: 800
     title: "Google’s self-driving car company Waymo loses head of safety"
 
-secured: "KaCGlBxd10mC9DYeYpHRx04ciqWyjcPOoaInrbV44DphO+eDyi9Erg2sXVASQgUYs+DA4DryCQQR2NRY/ZSoSyWSPc7H0ZbO1W07qAaTdpNnc00+4Iv5/UonkWdCsQsxQxRS+cGfwvbbPzxjeKYUtg/8ZPRIwsmOibFCk+omFGLFXjsiqhMWV9TAGgwHQlFJjWwjm3u25hXE+sI6B+fagDUXvn3yN3loZ1yyGGaH3BWr3fl96iP28F+o88OibIPDSWFecKZaOke9YL/ysaAg9ZW2ufXVb276SS5HIfLX4aGgFKb+graryTjhNcMYZthv;6ttAGRAWHNMZ6so/o7R+fg=="
+secured: "FO36ey8LUAeIKWR3dmhPyEjK7mjl0JhmRt8H2X0AtVfz1gEvalwn3f7Ys+LX8rbeG+LKKoGJmySRn9d7KK6iRHKgK2E9sKvziPAw/gxSPDPL1zMKBLyW5Okyd1ZZTG5nSJZxosAL+EYgz79QUl6HbrDVrHkaApyizWmsVVETN5jT0VRKburF0Gp5qXFFf+UKg+k9iC+585BpejCZAXAUgVIBA7IKdo0WTcMAVENOz6tNBRUstoGGUbQQobjHvxCI+mrTNjVhhQlf3IZwCZuCqDheIagmtFvUtav2imU7vgMtmBFc/M+iSVq/MuWMhYbnTxTdMmbZDyRPVAypr7XyuEimtK+Zk1JCKImdkcYzQhCwahz/0NFT5vptsAumOiEyZD77CxTphif1+cp4c94oFmpcPHYoC72XGsuCJoD6R/Pb2MZ//F0g9fh0w1bu88GPDuWvmbQGH0Ag2DIQSzKEVDMssUnJqrarqncXTYabsLk=;HgPDPfI8hCtPM9uPMK2Zqw=="
 ---
 
