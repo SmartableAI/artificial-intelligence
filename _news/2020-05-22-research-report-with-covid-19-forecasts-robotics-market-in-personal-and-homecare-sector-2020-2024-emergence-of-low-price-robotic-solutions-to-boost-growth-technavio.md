@@ -1,0 +1,39 @@
+---
+category: news
+title: "Research Report with COVID-19 Forecasts - Robotics Market in Personal and Homecare Sector 2020-2024 | Emergence of Low-Price Robotic Solutions to Boost Growth | Technavio"
+excerpt: "The global robotics market in personal and homecare sector has the potential to grow by USD 1.93 billion during 2020-2024"
+publishedDateTime: 2020-05-22T12:00:00Z
+webUrl: "https://www.businesswire.com/news/home/20200522005130/en/Research-Report-COVID-19-Forecasts---Robotics-Market"
+type: article
+quality: 4
+heat: 4
+published: false
+
+provider:
+  name: Business Wire
+  domain: businesswire.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://mms.businesswire.com/media/20200522005130/en/793374/23/IRTNTR40867.jpg"
+    width: 1200
+    height: 627
+    title: "Research Report with COVID-19 Forecasts - Robotics Market in Personal and Homecare Sector 2020-2024 | Emergence of Low-Price Robotic Solutions to Boost Growth | Technavio"
+
+related:
+  - title: "AI Image, Facial, Emotion Recognition Market Worth Size Value Growth Trends Share Forecast Outlook Industry Statistics | Valuates Reports"
+    excerpt: "In 2019 the global AI Image Recognition market size was USD 1 1844 Billion and it is expected to reach USD 2 9828 million by the end of 2026 with a CAGR of 14 0 during 2021 2026 Get Free"
+    publishedDateTime: 2020-05-22T12:19:00Z
+    webUrl: "https://www.openpr.com/news/2055156/ai-image-facial-emotion-recognition-market-worth-size-value"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
+secured: "7/+PAcqSlHbcoq7FldwdNBNMZTNbC74HhI38p3Dc3GPjMydRy7Z6cm5GHe/i9pqy35rWC7tLwHFkZGHKpAf17MdvVy2r9ESLMPaFqVzitHBfdf4VSCbXmX3hgHWLO46gONZ4rbaGj9eBmCCUfXGycuAOef7cSFk5aNJjRJVjvs9sG7D7opG+Xd5rMYC74CnYUp24n7PiX+u4dHYXpEYb4IjlTE0HH6sKqmgO9jQmpFXLHxeXiv02BGPv3Ex2O/bVhzEZHgDYhhv8bgx8Y9H80ujn0JRBU/vkpPZ7cqNgySPmG4XFS+jaiEKkG9+LXRxF;OdY+JeHIrSFwjm6hGf6mBQ=="
+---
+

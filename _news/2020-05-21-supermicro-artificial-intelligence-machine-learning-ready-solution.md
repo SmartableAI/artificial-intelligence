@@ -5,8 +5,8 @@ excerpt: "Computerworld covers a range of technology topics, with a focus on the
 publishedDateTime: 2020-05-21T18:21:00Z
 webUrl: "https://www.computerworld.com/resources/203530/supermicro-artificial-intelligence-machine-learning-ready-solution"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"

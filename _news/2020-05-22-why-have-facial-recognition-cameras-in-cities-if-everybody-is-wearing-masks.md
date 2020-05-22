@@ -27,6 +27,6 @@ images:
     height: 578
     title: "Why have facial-recognition cameras in cities if everybody is wearing masks?"
 
-secured: "NF60wfBYZkDtEirABFyQqezwYI5QYTqY6ipvv/W8xm5mUhEzec89p2AIJOwPQPB6ozqkPtkhqX3aH/sHNRfIAwh81A/7p7bt6akr0YeNL67n0rPpA/KyRwI0u8DUB4JfeKcEvn4G09AcD4/Z8KDMHlYkwP6Q2t1HLDwLXhe8qyivkpT/8wzHUTzdtovoemnYg32uGeeXdN/Nmkv/VHW/GJUzeFTnQ8mmPla4Yx7McQhRCGAyBlXcpNXCDUwLQelsIXx50Hww/YJP+RpDr5T/CWy5SRNn7GuMN7Gev5p2JJ7P5yA5a2khIGuKvJbQwIZd;EwcWEIEttlWiWV1OF+EqJA=="
+secured: "0fi1apo3vUjAKf38eIbUHK+O2GBtwRbnueLFwIRQm07pD4CB1y7Bj/gwFzSZ854lr+pexQgLhazwKcSE+EU++QZTF//c19J50LDdAEZMk0fASKFUnQFaaZrtemQPkZ8gEgVv73IqInew1U6/BOyk+AHsiNxkwLj9tD79YB51z8jKE3RKciPvOAYFv+uIamVUByaAeCLPzlWTmdG/obgwiBEoFBqqH8VK//rnEJUI4IUwTn6Lvw5gXEji4z0Uq/h3OIH0gkPXg3tLiFeKhXFKHQq+cuS16rsK0IVBn9T1OmNKD0siRxYJLO6omBLwxHyZJlw7AMA5FOzSq7j3ATJbXEkVCa5loK57DxYSqlfF/0STqDPc04395kkk6NuArfVBFw0qE/7xSG8S/G7R2eanAuYa3fAzhaKA1xKnVfMnx1RXhErzCmuac87Z3P+oaGC9QiZUQUhTgLtEdA7kawx7uIgN0TiWZkGRZpBogRpyEWA=;/oe09k6YHmF0ycbnMFnZnw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-18T14:26:00Z
 webUrl: "https://www.wpxi.com/news/trending/uber-require-all-drivers-riders-wear-face-masks-starting-may-18/MZ7J62FS2REYTDMGQ7D22HWVME/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "Uber to require all drivers, riders to wear face masks starting May 18"
 
 related:
-  - title: "Uber to require all drivers, riders to wear face masks starting Monday"
-    excerpt: "The company announced Sunday that they are also rolling out a new user experience on the app to help keep drivers and riders safe."
-    publishedDateTime: 2020-05-17T20:41:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/uber-require-all-drivers-riders-wear-face-masks-starting-monday/3SXPRVAPEVHRLLDEQ7U44P26MA/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 24
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/YZWPBRCLF5GAFOXVWLWVLZLZSM.JPG"
-        width: 1036
-        height: 606
   - title: "Uber to require all drivers, riders to wear face masks starting Monday"
     excerpt: "Starting Monday, all Uber riders, drivers and delivery people will be required to wear a face mask. The company announced Sunday that they are also rolling out a new user experience on the app to help keep drivers and riders safe."
     publishedDateTime: 2020-05-18T19:09:00Z

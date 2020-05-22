@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-rev
 ampWebUrl: "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.wired.com/photos/5ec5a14ac96258473f89195d/master/pass/ai-illo-backchannel.jpg"
@@ -29,6 +30,6 @@ images:
     height: 2000
     title: "Covid-19 Will Accelerate the AI Health Care Revolution"
 
-secured: "EAQjWzb81hN6kv8Zaqum9q8iYnQwFNhWIPHr4+Ttjx/MM7dbEIZTLJi6tLeTVHORNaFMaaM9PMiez3I2fuM7HC6OEnjdOu3xXfydaRQpPhnSUpoywiVSORyYPgg13HQP2GsVqzpl/Ckmb3KNXT6Y5K1Ydu9yO0ciW4xltwoD8CQKE11DEs9I5Mb1CTTYYfMwUHG+L6ra6SWqnbGJnB54OgfJFL9k0+BkgyOKZC0rWo+yMF8YFbFDzau8CqoUn9K6cNrOfi81YAjd+7p0g0sowmmh+GVWpCZQ1RfXIQZSUVMz5OquAgSjswGGnZ9XtCSK;Hud9u10aOZmkeJQI0XN6zQ=="
+secured: "eBxxUAN05W8UT6spLSVMNIGof0I0vg4YR27h8Zr5Cfj4yXKzCCT0xMw8qeZujVqb9PPSOHaUvBTA/XBi5K5y7dU6bE57bQSpMIBZzuKVyEvCzmfyOClaL802M00zMc1erjbfza0N2pgQKc6D4fL+6nls0HpuPikd+xn0+RKi/clgRhzfQCWh3CoQYVUl1VnI2X18ajJaSNcF55o9nPS5EBsvvr3WnLQLkUWX+IUjCGK2Pi/6ZooFLNqVl8gI0jbC/NUbXSBCIWpEC8cZqvbcVAbwDoKx2PNhWfG3WToyPMOjvcthd8ZCnNls8ZsIxc4nFslx4EVP7FFWWQAfrh2Z0bJb6yibhr7T5AmzZF3LhdwXKQL4GjoB47iO9xAkir8kQ86N13h1XOk3qUUC1WPgehtZUt+ePF+nqj59Pv+kH2Kn+pbnEhxiAnohlFJMvVK+K/M4mCPuQhasGP8Y93O7U15Tstr0Mt/LIjXtHYNI7mA=;nMQR/VklM2OHWsYm3bFO9A=="
 ---
 

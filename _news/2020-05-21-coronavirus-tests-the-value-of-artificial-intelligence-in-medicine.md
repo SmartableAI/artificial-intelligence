@@ -32,7 +32,7 @@ related:
     provider:
       name: HealthLeaders Media
       domain: healthleadersmedia.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.healthleadersmedia.com/sites/hlmp/files/coronavirus_shutterstock_1625951248_9.jpg"
         width: 2732

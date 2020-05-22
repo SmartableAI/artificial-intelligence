@@ -5,7 +5,7 @@ excerpt: "Many see the COVID-19 crisis as an opportunity to learn about the valu
 publishedDateTime: 2020-05-22T10:44:00Z
 webUrl: "https://www.healthleadersmedia.com/innovation/coronavirus-tests-value-artificial-intelligence-medicine"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.healthleadersmedia.com/sites/hlmp/files/coronavirus_shutterstock_1625951248_9.jpg"
@@ -37,6 +38,6 @@ related:
         width: 1350
         height: 900
 
-secured: "mDCUjyBfcB2URm4GTwiC4WpcYzwaH+gO9DvmNzFC2/7bvvBySHVNWLUy58r9lKTQLjjJvWjCXysjd76ATXP36FjOd66Raftdzh6B9tOdGi50SscR3v3vUoGVFo4zVdjLCwRcpVvpZw0iHMgR43Jjl8iSoxlXH9yGaS/YUWrGCIdQX4hIJXKt+jaA/wE5/ifSmpBw8n7TKdMwdChw1evBcWYUgIseSwJHe+hWzNG04Vr+Gr6mdp9iBLoCTGahxP/P20tXSncp0gjiNTVlBUhYPn/HENCJdWFEH4bD6jMXYoKhMwEm1168takUNmJPipL3;v5otHl7TUxYNBok+c9qKCw=="
+secured: "Dh0MtQV9MNDuaCx5tQNCQE34oZ8v1FIYBT6tQosuXN2ZWozYQGbhZZZOCTHJUPEKQth6QDrYu0jOYBqAEDkUGjxJ47lPNIK0MLG5+LXw6tHY0vYd6RkQ/J/njgkAFatbnNM4S0R0JDmRuQa1u9VJdNig9oR/tg3ubnpgjaLqLarZvFiqPXXiXmA5DDvt5gja0cOiGzNWqznY23bvE7n5yxSF8bEnUNLAl44Vx8KCFp7OCzwVhEU8Mn065R+lzvQ0TOyuLqAgNpcv68bwZZ87TCsk9QWH8Toz65B69plpgCFg2H0GbYVzTs/5TZAvk8aIeAiD4ewak8EO5Fip4HdBtiK23BjZ39Kbsv+fDghh7BOzMQm2VNsFs4Mf4CRbEDjLyAJkL0+DcvbeiXVEbkIJGUYpzev9mhoVGKlwSvREeQ47Vg6/dToEZHYuJed/ngAELs/2aLjPVtVncKb7tLFzjeRR4jlHELc7qmTg9w7onVI=;nttWPAzylzItpEZ+mhFILw=="
 ---
 
