@@ -26,32 +26,21 @@ images:
     title: "40 years after Pac-Man’s debut, Nvidia re-creates the game with AI"
 
 related:
-  - title: "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay"
-    excerpt: "Nvidia researchers have used generative adversarial networks (GANs) to create a new version of Pac-Man that recreated without studying the game's code"
-    publishedDateTime: 2020-05-22T15:51:00Z
-    webUrl: "https://thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/amp/"
+  - title: "Nvidia AI creates a playable version of Pac-Man without any source code"
+    excerpt: "Up until now, that's seemingly been the case, but one Nvidia-created AI is challenging the norm. To celebrate Pac-Man's 40th anniversary, the hardware maker fed a computer farm a whopping 50,000 \"episodes\" of gameplay from the title -- but"
+    publishedDateTime: 2020-05-22T21:02:00Z
+    webUrl: "https://www.techspot.com/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 88
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-50-796x417.png"
-        width: 796
-        height: 417
-  - title: "NVIDIA's Artificial Intelligence Recreates 'Pac-Man' for 40th Anniversary"
-    excerpt: "Graphics card manufacturer NVIDIA has been doing research on artificial intelligence and recently taught its AI system to recreate the game Pac-Man just by watching it being played. No coding or pre-rendered images were used for the software to base the recreation on."
-    publishedDateTime: 2020-05-22T16:12:00Z
-    webUrl: "https://hypebeast.com/?post=5025755"
-    ampWebUrl: "https://hypebeast.com/2020/5/nvidia-ai-recreates-pac-man-for-40th-anniversary?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/5/nvidia-ai-recreates-pac-man-for-40th-anniversary?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 36
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-22-image-26.jpg"
+        width: 1680
+        height: 940
 
 secured: "Gy61k9a6hQEqWFmpIKrY27wEESMmyk5XPZVeQLOnoThLT2QWCmfZlxP0ZjY8CIc43+Dgj7fAYUOt+Bhd4daYf1dejwD8gBRqcM3TAY7izMAAwt+j6GbjZpIcrl5eDM5Bvphl9Jf97wvjZtn1BF5X7rGBk16NRQyka0ZhA+hiW8MC/jBXRjulwQnDBVC3QFH/493mCp0WbbbDdH0a4BEOzGDfDT2BYveVNEcBBHoOjLiwmXKzswefR9EN/JMpJkjE0rzYJ0NPL3broCuHcoMZ5gLpIPkD0Caziw+mK8Dpu4W92mQjO9vrPDLWsZFUxoazptmEqf/pNwirA8YBZYhRL8M0mSk5DjWOqatA8IQs2khd6kDkmhPRLAwf+a90lTIy9ITGGMaCfbLFvA9FfxvweFrznaGcuiM3THQ5so/RsNh1QmIKff4vvlkgPhMNBhGKF6H+piFaSZIdnGO1aKh8E2tUHeitB9J6CcOFxIl4EG4=;nXmpMRE03ecoCxo9XVVDrA=="
 ---

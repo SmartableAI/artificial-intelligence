@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,21 +31,6 @@ images:
     title: "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay"
 
 related:
-  - title: "40 years after Pac-Man’s debut, Nvidia re-creates the game with AI"
-    excerpt: "Nvidia Research announced Friday that it has produced a new iteration of Pac-Man that was generated entirely by AI. The company built an AI model that was able to create a fully functional, playable version of the seminal 8-bit arcade game without access to the underlying game engine."
-    publishedDateTime: 2020-05-22T13:00:00Z
-    webUrl: "https://www.polygon.com/2020/5/22/21266829/pac-man-nvidia-ai-game-gan-40th-anniversary"
-    ampWebUrl: "https://www.polygon.com/platform/amp/2020/5/22/21266829/pac-man-nvidia-ai-game-gan-40th-anniversary"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/2020/5/22/21266829/pac-man-nvidia-ai-game-gan-40th-anniversary"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 59
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/QaJbB_p4BbX6bckLGeXQ5SQrUyk=/0x0:2896x2088/1400x933/filters:focal(2051x1626:2513x2088):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66831239/162915406.jpg.0.jpg"
-        width: 1400
-        height: 933
   - title: "NVIDIA's Artificial Intelligence Recreates 'Pac-Man' for 40th Anniversary"
     excerpt: "Graphics card manufacturer NVIDIA has been doing research on artificial intelligence and recently taught its AI system to recreate the game Pac-Man just by watching it being played. No coding or pre-rendered images were used for the software to base the recreation on."
     publishedDateTime: 2020-05-22T16:12:00Z

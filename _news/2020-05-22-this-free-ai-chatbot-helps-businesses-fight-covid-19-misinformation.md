@@ -3,13 +3,11 @@ category: news
 title: "This free AI chatbot helps businesses fight COVID-19 misinformation"
 excerpt: "Avaamo, a company that specializes in conversational AI, recently built a virtual assistant to translate natural language queries about the COVID-19 pandemic into reliable insights. In other words, it’s an AI-powered chatbot that can answer just about any question you have about the pandemic."
 publishedDateTime: 2020-05-22T17:19:00Z
-webUrl: "https://thenextweb.com/neural/2020/05/22/this-free-ai-chatbot-helps-businesses-fight-covid-19-misinformation/"
-ampWebUrl: "https://thenextweb.com/neural/2020/05/22/this-free-ai-chatbot-helps-businesses-fight-covid-19-misinformation/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/22/this-free-ai-chatbot-helps-businesses-fight-covid-19-misinformation/amp/"
+webUrl: "https://thenextweb.com/artificial-intelligence/2020/05/22/this-free-ai-chatbot-helps-businesses-fight-covid-19-misinformation/"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: The Next Web
@@ -29,6 +27,6 @@ images:
     height: 418
     title: "This free AI chatbot helps businesses fight COVID-19 misinformation"
 
-secured: "sPe1byr1seYvXhl87BBs1dJyaFc6n8h5EAunZBc02d3qKyQFwnzfujBPBl/4QJi7jmBmXkWSRpnIX9N6FibwEIJkcnxMJIrRTlKzUR5ln8enRooyNRl6MO5u0CR2fi2ly6SoelpPVtKwWFT1pbECQgNLU6XbLi/SYoPBC+afObrs5SmvUex4bnG94EGOVysn52/KRSAy1amfGi7/GqxKMWp8knCuDPdB9JHQS+K5Rj98MXB45JxsxempJIwKEv1YU3RVVQQsXSS+LnIA+19svMA7xYJPRIAtRv5Qnk6uugTLaaHHJ2/bMmbtedx4B+Lc;IDc5iIJHxzODLJG5vvv5ng=="
+secured: "rv1toc/G+3fNnfS/LiYqsg9aAM/5En4diY5RqN5um1GJHO1rBEkdht9yIF28h8stmuuNc24BjvFoJUQLNCQVsUby5Zx2T6N7H8B8v71LG+4/3xAqMpsL31UIwOlAhKmPTJ3F2aHBQP/D3jeMeeNhWfNgI7oVUJiYw1DjY0LoVhGspL4w8rQzEnKPfWG1m1D4OTG12v8dsvzTJDvJel2TDIrN91sV/smX/SrGEqP8z9GxPzm/3xh6FFEiw/BeXe5sx9FNFS3tM3tWWEpfX9qacfBokwhrKR/qGZ9QU+QMxKe3MX4WE8s6xB/f0RAxECOR;9tWn7x0gcneZlEoBScvWcg=="
 ---
 

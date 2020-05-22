@@ -34,21 +34,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-50-796x417.png"
         width: 796
         height: 417
-  - title: "40 years after Pac-Man’s debut, Nvidia re-creates the game with AI"
-    excerpt: "Nvidia Research announced Friday that it has produced a new iteration of Pac-Man that was generated entirely by AI. The company built an AI model that was able to create a fully functional, playable version of the seminal 8-bit arcade game without access to the underlying game engine."
-    publishedDateTime: 2020-05-22T13:00:00Z
-    webUrl: "https://www.polygon.com/2020/5/22/21266829/pac-man-nvidia-ai-game-gan-40th-anniversary"
-    ampWebUrl: "https://www.polygon.com/platform/amp/2020/5/22/21266829/pac-man-nvidia-ai-game-gan-40th-anniversary"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/2020/5/22/21266829/pac-man-nvidia-ai-game-gan-40th-anniversary"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 59
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/QaJbB_p4BbX6bckLGeXQ5SQrUyk=/0x0:2896x2088/1400x933/filters:focal(2051x1626:2513x2088):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66831239/162915406.jpg.0.jpg"
-        width: 1400
-        height: 933
 
 secured: "i/dA7b9YzqAwmTX5MGsv71uzbjeIvkrX4GGv8R/1nG3Uug990M8VN0XBXGl6yV1JwYdRa84JEK4nR5YAqXeZtktPvSuJEnsQ07qr5fMXZ4t1jlbGnwhJoyjNDlVa+Vr5afzufOILAZtpHOIEO3Eypq5BLdjuamnTiMbNFEkm4me3aKJR6Il6o04l4i64ccMF/Uci1IDy3DlcGIXoUP+nJD6g3djibCIdJFCRE6kyM7wlUwEXHvDm3iIeVyLHe76UuIENsejRxUQMXOE6mzfMEm6UqiFNl7NoccUWxAODArhx7bYVRwTruEOkeajM0s0LSusVT4l5kArw+LjAoXv2Fywyr4OiZ2W+Y3MUEQOZmGl4t6226Yzwrp6cLxRB6lmjVVXpeA0P1K4mT/zzS7g+FrZUbVCTl2GktzJI0uRTrrkfodfVa2EkVWbg4cEXciqq5UoYcDnfWrVRils0Z+u4KXxOLr2POEpQUfr4fSMqBDM=;JVfZHqictpMFFKIyDyOXzg=="
 ---
