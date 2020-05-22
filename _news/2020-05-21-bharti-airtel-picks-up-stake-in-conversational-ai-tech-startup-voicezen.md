@@ -71,6 +71,28 @@ related:
       - url: "http://iansphoto.in/web/photoimages_new/400/2017/11/22/b60e90261d0a521e6d91819a388a4d58.jpg"
         width: 369
         height: 400
+  - title: "Airtel buys 10% stake in conversational AI startup Voicezen"
+    excerpt: "Bharti Airtel on Thursday said that it has acquired a 10 per cent stake in Voicezen, an early stage startup focused on conversational AI technologies.The acquisition has been made by the company under its fast expanding Airtel Startup Accelerator Programme,"
+    publishedDateTime: 2020-05-22T04:20:00Z
+    webUrl: "https://menafn.com/1100203566/Airtel-buys-10-stake-in-conversational-AI-startup-Voicezen"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2020-05/21/I_67c36ed7-6image_story.jpg"
+        width: 369
+        height: 400
+  - title: "Airtel acquires stake in AI startup Voicezen"
+    excerpt: "Indian mobile operator Airtel has acquired a stake in conversational AI-focused startup Voicezen. No financial details related to the investment have been released. Gurgaon-based Voicezen is developing services that leverage machine learning,"
+    publishedDateTime: 2020-05-22T04:55:00Z
+    webUrl: "https://www.telecompaper.com/news/airtel-acquires-stake-in-ai-startup-voicezen--1339552"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Airtel acquires strategic stake in conversational AI-focused startup Voicezen"
     excerpt: "The acquisition has been made under its Airtel Startup Accelerator Programme, the company said on Thursday. Gurugram-based Voicezen has been working on developing advanced solutions that leverage machine learning,"
     publishedDateTime: 2020-05-21T13:02:00Z
