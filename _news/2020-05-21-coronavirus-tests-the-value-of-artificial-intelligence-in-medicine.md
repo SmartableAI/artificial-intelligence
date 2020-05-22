@@ -24,19 +24,19 @@ images:
     title: "Coronavirus Tests The Value Of Artificial Intelligence In Medicine"
 
 related:
-  - title: "Coronavirus Tests the Value of Artificial Intelligence in Medicine"
-    excerpt: "Many see the COVID-19 crisis as an opportunity to learn about the value of AI tools. This article was first published on Friday, May 22, 2020 in Kaiser Health News. By Ashley Gold Dr."
-    publishedDateTime: 2020-05-22T10:44:00Z
-    webUrl: "https://www.healthleadersmedia.com/innovation/coronavirus-tests-value-artificial-intelligence-medicine"
+  - title: "Coronavirus tests the value of artificial intelligence in medicine"
+    excerpt: "The machine-learning programs scroll through millions of pieces of data to detect patterns that may be hard for clinicians to discern. Yet few of the algorithms have been rigorously tested against standard procedures."
+    publishedDateTime: 2020-05-22T13:55:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/coronavirus-tests-value-artificial-intelligence-medicine"
     type: article
     provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
+      name: FierceBiotech
+      domain: fiercebiotech.com
     quality: 39
     images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/coronavirus_shutterstock_1625951248_9.jpg"
-        width: 2732
-        height: 1200
+      - url: "https://qtxasset.com/fiercebiotech/1590154536/xrays.png?Nd_QGcn8yDOQnMg9dgOFPubBxLmN0BeG"
+        width: 1350
+        height: 900
 
 secured: "eaCuP3bBDlRkEVdDlxezJr/7G0j7EmG/lKluODMwL0gPmH/zkH3qjsCGWrAh7rNWdHLUfNB0dXBXPu1fPZ+9AjKR0T4nxxrC/4oVpf9wq4SXf994nBJNnIyEWEkvm90KC2eLZ+pTnClQ9I8CjmF43T4+wnacSi7/t9zmDJEZbCDn0oppWcPthtyguopm/L10/Is4yc9tJuipyhmK/hDQivV7VWtML/eOSpcPMa8mBk6Q2M8m49uk7tQPkhG2hG3EieFH+4mssgMFJ+WwBBGvxI+XVWAFKgMiT/gjzVp5SgV0WP7AGz+qaqDatpQlKvDbzsamlpnlwikGokOxxzNTsO1A5wxBxhkkd+RjI+6QefbhTJQBYjR6ZRypw3LrWQydNo3vaZmhCzVHNNWgxZZhtJ0eYTBOEIi/QdYaXioinIzf1StNoZYtF+jcNvZGg0KU76c/CAalUboDG29d4ZWGax+Fv2P2bdvkaxdPeNcWmIs=;IImSMrEds4yYHvfBbaRTRg=="
 ---

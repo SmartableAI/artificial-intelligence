@@ -25,6 +25,6 @@ images:
     height: 370
     title: "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance"
 
-secured: "pEC8HrNeMiOwF/OJu4aEAfil2i+eLHhRhl8n36J9WuI2jV+rRUj2uPOdaKm/pIpkGpLZDODIX9OGSb9hgPWPU1/Lv6Rz6W4iUnxvDEyTPMvlrwA1rs3z7XPO7WGIoJxQFqpbG7iXimD/XfnA1VfGPzwK1wtcc2iYGUxtiY5R3OL/iBk6zl9G888i9EFNLg8ZyCglnkTXdavZ/O+dT80uOnsQ9hTcI6V0In7xSPk/J/SuQtIeW5WP8B+L22/DkcnuJla/jCULLU8VZVRmRx+HZyCPNJYqCUlTouJOsiFrpC+19pnzzFAcsPN4hw03ZZj4;dG4T1js++3M66sITqfuVdA=="
+secured: "yr5K+rOcJeRmAGliw4Xr5FUfhSKvfIVzjsX1yKe5oIbuSeeb/pbDImBCvZ3wRgKq9Zi5p7cdGLpiCkWACQUHN5csdFMuLRgmCHA+nD+PR6WXDj6a9o7bVoyUvntZRoIQ28XxFmYp4pJ5Zqu3xq7UmTzcMfFBSngMvnr6vdObqd/2m51SLzliansG+I67so5tY9KeKIVRsC6EMKiTnaNb40fLWYJ4wktjdv1Yi7zB/JKkR1oTI5M/xX8DSEwt1z4Z9CbtwUygOK1uIkh3MIAxIs9+UTTd8mxuqvNnS18WpbFflPtM/MP3nAzcdtLU5UkvbyJUneJ8/ZBtqNv5fK345GrKsFFrn0GLxA+3fD+Dsg28wkmIqpTVkL9DqLuULcZ3sjDcyAchaZx6x+3gTvu6XpygqZguaElMY8iHJUV5y4odJ8AaecYOrrOfTLdUQyDkxwxDToT2Cv9BagsOGKoaOnah1+Hbk6dJ2afJEEnZ2GM=;Ds8t0uCT70KM1kHcSd3+ag=="
 ---
 
