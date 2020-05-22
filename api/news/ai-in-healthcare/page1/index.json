@@ -5,13 +5,13 @@
       "path": "_news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution.md",
       "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
       "excerpt": "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning.",
-      "heat": 71,
+      "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wired.com/preview/story/5ec2f3f82de599a4da36ef5e?cb=747774&status=draft",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T19:22:00-07:00",
+      "webUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/",
+      "ampWebUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
+      "publishedDateTime": "2020-05-22T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -30,9 +30,9 @@
       },
       "images": [
         {
-          "url": "https://media.wired.com/photos/5ec5a14ac96258473f89195d/191:100/w_1280,c_limit/ai-illo-backchannel.jpg",
-          "width": 1280,
-          "height": 670,
+          "url": "https://media.wired.com/photos/5ec5a14ac96258473f89195d/master/pass/ai-illo-backchannel.jpg",
+          "width": 3078,
+          "height": 2000,
           "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
           "attribution": null
         }
@@ -42,9 +42,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {

@@ -27,6 +27,21 @@ images:
     height: 630
     title: "Artificial Intelligence in Healthcare Market 2019 Share Growing Rapidly With Latest Trends, Development, Revenue, Demand And Forecast To 2029"
 
+related:
+  - title: "Global Artificial Intelligence (AI) in Fintech Market 2020 Overview with Demographic Data and Industry Growth Trends 2026"
+    excerpt: "Released by MarketsandResearch.biz, Global Artificial Intelligence (AI) in Fintech Market 2020 by Company, Regions, Type and Application, Forecast to 2026 profoundly explores an overarching research study which talks about the current market scenario."
+    publishedDateTime: 2020-05-22T10:00:00Z
+    webUrl: "https://galusaustralis.com/2020/05/654823/global-artificial-intelligence-ai-in-fintech-market-2020-overview-with-demographic-data-and-industry-growth-trends-2026/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 29
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2020/02/Global-Fruits-and-Vegetables-Coatings-Market-390x220.jpg"
+        width: 390
+        height: 220
+
 secured: "FZV9URo81gYCpBmwsSDARsQf/7EIz5D24B9m8fyuH10BfuJuUw+52HvcZ9O2sdQS7voX5WB5llhqcBxuhMgDf+Y1XIJkngl4VIf7a4Lf/s/WQROaapchI3nN5fSBs347K7iFnOmIJCjts8QHATukmwtUC5LJjHLVB349s3FI9kR29erQaYOmHWoRd0cg05l7Ibt0eX6d7CBMrGp/1R6ZLqSIUnpMJi+SVUMMIMliteBYi6d/DClDkxMR6DbWimZWCGKqIXywMsYUAWEXdZKoIrRRdSOsvuomcUctAYB0eyizZ4y4aCLGbxdSpo66sq90;iBn3NIF0PhW/NQacfighog=="
 ---
 

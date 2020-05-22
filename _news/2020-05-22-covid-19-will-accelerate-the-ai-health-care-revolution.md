@@ -2,11 +2,13 @@
 category: news
 title: "Covid-19 Will Accelerate the AI Health Care Revolution"
 excerpt: "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning."
-publishedDateTime: 2020-05-22T02:22:00Z
-webUrl: "https://www.wired.com/preview/story/5ec2f3f82de599a4da36ef5e?cb=747774&status=draft"
+publishedDateTime: 2020-05-22T11:00:00Z
+webUrl: "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/"
+ampWebUrl: "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp"
 type: article
-quality: 71
-heat: 71
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -18,16 +20,15 @@ provider:
       height: 50
 
 topics:
-  - AI
-  - Natural Language Processing
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://media.wired.com/photos/5ec5a14ac96258473f89195d/191:100/w_1280,c_limit/ai-illo-backchannel.jpg"
-    width: 1280
-    height: 670
+  - url: "https://media.wired.com/photos/5ec5a14ac96258473f89195d/master/pass/ai-illo-backchannel.jpg"
+    width: 3078
+    height: 2000
     title: "Covid-19 Will Accelerate the AI Health Care Revolution"
 
-secured: "Sw7OLmNGqq/cmt7a5lZie+F/0svCDYRQvmhBZ5gJd84HjkVy9vpMN989OEOt11TMlaYn0cPtZTFDuKDafIMDQGHkAZA1wOIvLyDQblLXxAamiwwpmYCU3bJtP0dFzmXyvlf3XkZFFxsw4YemUwYhTOGlVNLDm2u/FFWcBtytjrWHEfUKRGLY2AU+G3tiOirny1+VdRaam7Eah7B0/bUf6pY22soTxgQdEpgc46ufqFtRUld06riPO/MXsKecOLcicP1PA9HOHl4cq25pBFFkxtKZtRe9KUDfOWnSuzsM7SMYKgzLnCZddKEANU3nKNfUqZUb05isj84SU0cFvOQZrHe/51MQK3y/sBZRMjIBGv8Ppz1QGbwpaCKKzbTTT3ilvG0jLm50dZej4/eJZOdoCnfSz+XKukPzDRwi/7uosGZH19m/HwRp+M2jBHBH1Oe6sAJ+pgvGcovorQMWbo5VJy092apqpgpV9OCGqpCW8Dw=;GI6x1OMJSukNCgsnU3M3hg=="
+secured: "EAQjWzb81hN6kv8Zaqum9q8iYnQwFNhWIPHr4+Ttjx/MM7dbEIZTLJi6tLeTVHORNaFMaaM9PMiez3I2fuM7HC6OEnjdOu3xXfydaRQpPhnSUpoywiVSORyYPgg13HQP2GsVqzpl/Ckmb3KNXT6Y5K1Ydu9yO0ciW4xltwoD8CQKE11DEs9I5Mb1CTTYYfMwUHG+L6ra6SWqnbGJnB54OgfJFL9k0+BkgyOKZC0rWo+yMF8YFbFDzau8CqoUn9K6cNrOfi81YAjd+7p0g0sowmmh+GVWpCZQ1RfXIQZSUVMz5OquAgSjswGGnZ9XtCSK;Hud9u10aOZmkeJQI0XN6zQ=="
 ---
 
