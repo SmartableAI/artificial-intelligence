@@ -23,6 +23,6 @@ images:
     height: 368
     title: "Pentagon's AI chief: lack of enterprise cloud 'has slowed us down'"
 
-secured: "GrP+PrqD+f1wmtzc4ybe/y7peKUDBTzT/zYPK5lMxRI0mZX+hn9omO7jlHI20EmX2b+RPHaPmYYLVzCIDbyCrDcqZhAjlWS7uHQL0lomiWRjMOMQolrMOJLPgx9lz50pBF2TRF4Y1ao/5lKaA8TnaulaGfw7LvaciG+Xa2WMRRMC1+nb8DvSGQC5TFq1ltdelx0h2gakT7tdsQtSVCFyqCbOE0ljKngjta2KZd2FKVeY+PH3LWN+0HNpgl4KApjUrw8uHi5EsBXf5EAlBHSaDvnYeOXU4B/d4P38UObwGaj87NUMx8TQ+Rf2wYXOP+/e;MhTMMy7QJ/kZ3GECuF4FEQ=="
+secured: "GmfXPxkvgTjb3iUu5p/0vgeg+WOjz2fanPENny2eqBL0CupPc6Z/U3JnKRxfnfeFVD1yp4tmCMvJvTYsvyL2jH1gAKaL5Y/u2OZmlbw7hoN3jPx9vVt9MX5buJ18pOX/ZoJqUG5ewxmTtn9jojdpyWF/HDA9DugrSHN8KPIx1onVc1jzd0fFBNEApfW1vHKq2ddzXluhHrwY/Alpd2fnHLPF5mUIqTopLufN9WmxaqiRgLE3j5zpw2alzom8AHHda1DLZs73tenAeNF3Y1spplPrqjbf2aYAHlldsRQkBcUJW5FQKXSY+u5mQqEs4a5BPXs6umJJSyrDmELhxZsCWrU2GDAYzMbBi/3r/djdDsJznv8EIY0rWi1i1+l8QH8Jlf+n9YmixBLlwyxhfOcbN0pgi2QFhe+WUgZjzAkjGCf0276dvc7vRqc9Uo3LIg26/Ujcs58aA4fnBXej0Roc7YB01d3fzXjsEcpMIViC/QA=;Iq7gFx/ny4HZkSC3qtUnQA=="
 ---
 
