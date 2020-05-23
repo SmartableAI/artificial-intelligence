@@ -39,19 +39,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
         width: 615
         height: 384
-  - title: "Facial-Recognition Technology Needs More Regulation"
-    excerpt: "Algorithms that can recognize people are too often biased or inaccurate—and they can easily invade our privacy"
-    publishedDateTime: 2020-05-18T15:59:00Z
-    webUrl: "https://www.scientificamerican.com/article/facial-recognition-technology-needs-more-regulation/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 24
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/B94F1DB1-163B-493E-8890360145CAE2E0.jpg"
-        width: 790
-        height: 497
 
 secured: "Pqt9+2WeBmVXeyhjmwOg0uWyY6gwEADpCl1nPmEuL4O35CiMr1OWlrxMYJRqjoo9KBPMY4xQjnogI2Aj1AY5cgdURVYKZVg/voTIyI9ndD+tQm3yn7IHx/y0tQenfLyRfrGByR0KA6dAtAuqcTEJXG3WyS2nPkYnng946o8v/B9Y7IzcIBzRDE5OJsX0SM0HHRTOfOv0usyB8uA8VXewVsACFYkmeSiBUaWfSE/C6CM6u0kQibPsXqSVly4A8KRZKR5+QZRxVrX+83szB2lTBY3PA6K057Yg2qOhPJ7yHoEfltmO9JF5yjTed3t2cs9k3lkkrCHmfoVl76SF68nNPGZ0IBbV0Q1G4pUKS8SlIAfGSJIQeQsl5X7oGVh0+EQCnE0zzEIfDx8dDlyjq2FhyqLi37IR9elGkpHY/i36Ip3f320pdeTxTZ0tJpjEy1Ljcmeamr1APELRtIYR9ePCvHGkou8F66dHAIW44V3Ks9s=;Hn+Aybcb7Fi7Aci7pnGnVA=="
 ---

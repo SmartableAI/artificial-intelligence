@@ -52,19 +52,6 @@ related:
       - url: "https://www.logisticsmgmt.com/images/MMH_QnA_Handshake_Relationship_800px.jpg"
         width: 800
         height: 533
-  - title: "FedEx and Microsoft join forces to transform commerce"
-    excerpt: "MEMPHIS, Tenn., and REDMOND, Wash., May 18, 2020 /PRNewswire/ -- FedEx Corp. (NYSE: FDX) and Microsoft Corp. (Nasdaq: MSFT) on Monday announced a new multiyear collaboration to help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft’s intelligent cloud."
-    publishedDateTime: 2020-05-18T16:04:00Z
-    webUrl: "https://apnews.com/PR Newswire/6651f50c5ebc9cc48560cd0ce2ae173a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
 
 secured: "17HbczuWT+9WdVyOhydwIbKTIU+tiBoNk90TUwbb/c5lSC0CUzh1mg+1pAqdwUMY7xXlZZap5K2w9gTr/vCcf0gydiFK3A1zUb6t+u7s2h8RtvLRSaFVJxWCtegAvmlCfK8zHIpTJZse8/btPBfI3Nc1ciW9uP5aezb4M9A3FZG+Ao1zScqWP7eRU6XPpnud3t6y9DmomH4eFgaaM2Mij6hYCO1gnvoMD6So1UTuNz5lTUewcBZHYx1HmlrURWbrQ3Z7+RJAnBQX3jLGyejlYi325TAsqnigsumUa0cJdcUEhTpuBv9cAlxJoJ/FOR6Hhk45CSgjI5/v0XeD9zWG5MUtwD3cYAD3Shy0fX+hQ/C40peZr8aUVNSMulk/nnOkgftf4HzW0NSbc79HtV2hqYB//Df/naMQi22fm3DPJi3uR72BDHevl6SPHwzYcqENvFusApuG0sOjk3wEWd3ccvhnUQ7f9eEsA3gUK7dcLwA=;7iQ+W7RO0YAxjr5n5vP+eQ=="
 ---

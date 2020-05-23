@@ -1,23 +1,21 @@
 ---
 category: news
 title: "Envoi and Data Expedition Partner to Launch Cloud-Based Data Restoration and Migration Solution"
-excerpt: "Envoi and Data Expedition, Inc.® (DEI®) have launched Envoi – CloudDat Edition, which integrates DEI’s CloudDat™ solution to provide a self-service solution for processing multi-media content migrated to Amazon Web Services (AWS)."
-publishedDateTime: 2020-05-13T10:09:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution-1029196193"
+excerpt: "Envoi – CloudDat Edition leverages Envoi's APIs to support other solutions including Amazon Rekognition for video indexing and AWS Elemental MediaConvert, a file-based video transcoding service ..."
+publishedDateTime: 2020-05-13T10:37:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/05/g16019011/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16019011"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16019011"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "WWjipzWC2dAUQEPLdNVYjU2Q627htP694Uc9SepS0572wB8ygPlQysvsx7CebRzSEXmgdf9X6AMNPdHjmDES7Sr7F6J1U96jTs99ByyERsk819aqn7pRW6UXoqZqiBzNW7ho5Wd8qTeiTLDecG+80u4z+Yvp+EPanxoJXibSfpHycE5M3/TkhhkuJ8eRArUrRuORuCZafJrYFZ+S3I15F4g7qgAoo81QGdzif4WGGInjfyrJWAs/c6efUCkzhnoe6Yydk1gCz7T8EVAAecLM1/PD9Nc2Qyzx+PIfdRhjAWs+Ud6aN9QDyhxAX/vK/bkB;IiIVLMR5izxPYR7pr3Zyiw=="
+secured: "AYu4Lr+IEmC4IIs6D9DpM3xFwqvXmJf/zaAJC/EUy6hFNuQyAs2mpGyDr2Xvt0ijQxGQFM16utW+dAMR11Sw89Vf7aXvK7T1az0jHEOLwpq0hWERh4lTiyxZ9AewY9mYsrbpLy5fBRNilUrUpnpQFn4+NZzD9Is62QP5PDh6dlA2GrCwS+u6FzLolN+ZO/r7OEvCrqGonrj6WEe+YFyBWdEuSyN/liBAN+CUmyP4aP7MCqZlDTzgdAVOsTEvpyeBCPLY2mx5vMQdxhLvYJK8D1ebv88Zc2npexBeBKLMApJ6OHBAJslgAgKIPQiyK80I;EYVfptunpWAyNB/3WCuweg=="
 ---
 

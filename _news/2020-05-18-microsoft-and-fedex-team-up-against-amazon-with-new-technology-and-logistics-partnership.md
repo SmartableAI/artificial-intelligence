@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-techno
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/"
 type: article
 quality: 95
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -56,19 +56,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-2.png"
         width: 718
         height: 400
-  - title: "FedEx and Microsoft join forces to transform commerce"
-    excerpt: "MEMPHIS, Tenn., and REDMOND, Wash., May 18, 2020 /PRNewswire/ -- FedEx Corp. (NYSE: FDX) and Microsoft Corp. (Nasdaq: MSFT) on Monday announced a new multiyear collaboration to help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft’s intelligent cloud."
-    publishedDateTime: 2020-05-18T16:04:00Z
-    webUrl: "https://apnews.com/PR Newswire/6651f50c5ebc9cc48560cd0ce2ae173a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
 
 secured: "M+sCgHe8YLsSTty1W3ZKyYBkbYyRUYXfy6+vyw4Wy0BOVyae7eHVjzVvzOV1Hh+JjdGiK2644/g2hgaHfDPpFa/hBaRQoY6xjGBYtm5Iuqru0qHhrVre1H/RUaXOIDXhq3i5BlYwgRxYQGIulrlZTxHzXIJUj8yGsz0Xfuh1tXdZ1SbjuW4Q4QGhIGC9Xdr7DhcsZ3VYKrjqnKAB188ZZDp/WwRzgykmI5OHQyx76E2eqNI9B6PDhJ5NUKDYLLH2lujQSQ7r1Z0I77+4oZaG5+K9jOMr355g3QIziPvG40Qs6pPaWzcDH3MEtPhGMbRS;92Enz5pZ5yC9LpJKbB39fw=="
 ---
