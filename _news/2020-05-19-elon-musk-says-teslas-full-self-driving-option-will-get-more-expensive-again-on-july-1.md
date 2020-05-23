@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-pr
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1"
 
 related:
-  - title: "Tesla 'full self-driving' price will increase by $1,000 on July 1, Elon Musk says"
-    excerpt: "Tesla's infamous \"full self-driving\" option will apparently get a small price hike this summer. Prospective buyers will have to pay around $1,000 more for this option beginning July 1, Elon Musk tweeted on Monday."
-    publishedDateTime: 2020-05-19T00:24:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-price-increase-elon-musk/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-price-increase-elon-musk/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-price-increase-elon-musk/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
   - title: "Musk Says 'Full Self-Driving' May Be 'Worth' $100,000; In Unrelated News, I Have a Bridge to Sell You"
     excerpt: "Tesla CEO Elon Musk has claimed full-self driving will be a subscription option by the end of this year . For this reason, Musk has claimed that unlike just about every other car on earth that isn't a Ferrari 250 GTO,"
     publishedDateTime: 2020-05-19T15:16:00Z

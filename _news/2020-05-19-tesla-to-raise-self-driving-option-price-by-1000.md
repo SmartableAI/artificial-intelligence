@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Dri
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Tesla-To-Raise-Self-Driving-Option-Price-By-1-000-1029212854"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -24,17 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla to raise price of 'full self-driving' option by $1,000 starting July 1"
-    excerpt: "Tesla Inc. [s; tsla] will raise the price of the \"full self-driving\" option on its electric vehicles worldwide by $1,000 starting July 1, Chief"
-    publishedDateTime: 2020-05-18T23:28:00Z
-    webUrl: "https://www.marketwatch.com/story/tesla-to-raise-price-of-full-self-driving-option-by-1000-starting-july-1-2020-05-18?mod=mw_latestnews"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/0F8C1FD8-7357-4E4D-AD31-92BF53D0A23F"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
   - title: "Tesla Raises Price Of “Full Self-Driving” Option Again, This Time By $1,000 To $8,000"
     excerpt: "Driving” option of its Autopilot system on its cars by $1,000 as of July 1, with CEO Elon Musk hinting that this price increase won’t be the last. That means that Tesla customers placing their orders on said date and after will be charged $8,"
     publishedDateTime: 2020-05-21T23:52:00Z

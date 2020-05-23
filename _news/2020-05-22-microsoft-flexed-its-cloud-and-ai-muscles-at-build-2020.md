@@ -5,9 +5,9 @@ excerpt: "The company’s investments in cloud and machine learning are starting
 publishedDateTime: 2020-05-22T17:07:00Z
 webUrl: "https://www.engadget.com/microsoft-build-2020-flex-ai-cloud-muscle-fluid-framework-healthcare-170004851.html"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: Engadget
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F8e3ebec0-9ba4-11ea-87d4-3fabe0b95513&client=amp-blogside-v2&signature=be5fc0b80f6e8bad481efcad56d7969a2f70517e"

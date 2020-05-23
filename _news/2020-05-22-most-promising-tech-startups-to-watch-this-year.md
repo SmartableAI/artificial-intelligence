@@ -25,6 +25,6 @@ images:
     height: 598
     title: "Most Promising Tech Startups To Watch This Year"
 
-secured: "LHr3DRNzFm2VvbDR4a25LAOaiEZnY8k/wkA+kty+qmutM4c6c76CVzLYOLKfqATKugZ6XsLTzdJ09ZPuZLqJ/fbTiadGseurYa4EnX1C29IKy6Nj5kQWKWr4fEGhndZd5X0nfJd8h7RZH5gVIHO9rHkkNLJltSTaywu6PwNfiXXbU3q/rdu6UPqjTDH1TEVukVqeERTA1McVnUWrm/Xk025mhEPSuVJsPy5ekFa4imPaFhn9aV62mtatLtcAHP1SLyjYZnuSFSMqjKxEkAzFZsoqgztyDkkvTiAt4aFiP4VIHJhjh0n8nltV3sD6ke9A;x+cDAhevEmVLVjGIcl+S4w=="
+secured: "/y/CygLGmUoXNfkdy01J2E/zCaU6sVt7rhdQ5WS+t1+kjzcMs3i2PRl4HyrTgGyEDzh7/sGUf5jtVXt/4XLXt9bf4U1i/tAfagXZC0LhRuZSGY1jZexL8e/gNdWq32NBKtO+1nM3C/cXUqKChTFK/fVo+3EQe17JvlJyn75O90IPfkglSyVMYDraNL2GtiK91AW8GfjFL+9G1i5zRcaunMsDW/x5T9m49c+lZqUjC6yBNM6V/PVS/N+koYPrPGmrjED7ntKxRRA3lEtMnTdh42h753V/enONVPt/950FM+/szJe5QK3INpbOf1iao91nxK5G+JaQTJexfiCFq6dIRvVls+4Wobse6SvSImchc2CP6deK3zUdl0m3GwwfzYomf2ERYIec5xbck1t78hboXG1iAwtCTxdCXgFCsOwhL+P42X168p0GqZhOOsEMIFtz4xR0KAJraDt9dHVYScpEX7uUUoKEHamPg7MxiIaFGWo=;6Hynx9YpHRFFr1fy89n70Q=="
 ---
 
