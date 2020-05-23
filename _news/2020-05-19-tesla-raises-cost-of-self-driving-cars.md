@@ -39,21 +39,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5927/production/_112332822_teslaautopilot.jpg"
         width: 1024
         height: 576
-  - title: "Tesla's 'full self-driving' package will cost $1,000 more in July"
-    excerpt: "Driving” package will get a price hike and cost $1,000 more worldwide come July 1st, Elon Musk has revealed on Twitter. The company chief didn’t mention an exact adjusted price for it, but the option currently costs customers $7,"
-    publishedDateTime: 2020-05-19T02:42:00Z
-    webUrl: "https://www.engadget.com/tesla-full-selfdriving-package-price-hike-023827932.html"
-    ampWebUrl: "https://www.engadget.com/amp/tesla-full-selfdriving-package-price-hike-023827932.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-selfdriving-package-price-hike-023827932.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F1a37d3a0-996e-11ea-be1d-2fb343574213&client=amp-blogside-v2&signature=0c0e15f91f5f792fe742dda0de39831e36906e31"
-        width: 600
-        height: 350
 
 secured: "PF0ypN+a2fuTrIk9Z8eghtNe3t1sh5dK3UlPRltPv5+NOW2ok2eYVAMl1ygonryra87plDyIKmxyaR15KTlgqkq3TdapkGNMBV5GyfZTKXTOfV/BHYFqrOBYPoE/dO7uHA1bmj3epT9sp2UOc7A+AvfSv1HLr+fSkvTZM+7vJMgbw6NPhbTLsa7Oa4gy2Cbz756jhGtdJZekkp/aJT5dNvzbn5L5D/p8JLQE2MyeXyEtwYyT9k2fO2+ws02r1RvyXapgrOdInf0gbGBu3yOkOPqsAGOt7AA1OXF16TEv9XyYNFrfaVqjNICx0zfURbID;jb3gTNNwHJi7jBqx40t9Hg=="
 ---

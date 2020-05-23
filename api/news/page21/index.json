@@ -2,6 +2,185 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-05-06-facebooks-ai-detects-gender-bias-in-text.md",
+      "title": "Facebook’s AI detects gender bias in text",
+      "excerpt": "Facebook researchers plan to release an open source tool that can detect signs of gender bias in text like Wikipedia biographies.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-detects-gender-bias-in-text/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-detects-gender-bias-in-text/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebooks-ai-detects-gender-bias-in-text/amp/",
+      "publishedDateTime": "2020-05-06T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s AI detects gender bias in text",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-corpse-detecting-robots-will-use-ai-to-recover-bodies-from-the-korean-war.md",
+      "title": "Corpse-detecting robots will use AI to recover bodies from the Korean War",
+      "excerpt": "South Korea is developing autonomous robots that scan underground the DMZ to recover the remains of soldiers killed in the Korean War.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/06/corpse-detecting-robots-will-use-ai-to-recover-bodies-from-the-korean-war/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/06/corpse-detecting-robots-will-use-ai-to-recover-bodies-from-the-korean-war/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/06/corpse-detecting-robots-will-use-ai-to-recover-bodies-from-the-korean-war/amp/",
+      "publishedDateTime": "2020-05-06T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-27-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Corpse-detecting robots will use AI to recover bodies from the Korean War",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey.md",
+      "title": "Diversity in AI improves, but has further to go, according to IBM survey",
+      "excerpt": "Confidence in AI varies by gender and country, but generally speaking AI pros have more faith in systems than the general population.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
+      "publishedDateTime": "2020-05-06T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/06/a4f48112-8f60-462b-ada5-b2b7f3aa5c9e/ibm-ai-system-design-priorities.png",
+          "width": 1013,
+          "height": 773,
+          "title": "Diversity in AI improves, but has further to go, according to IBM survey",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing.md",
       "title": "PinkLion’s Jennifer Bonine: AI is dramatically changing game testing",
       "excerpt": "Sponsored Presented by PinkLion.AI “Now that we’re all in this unique situation with COVID-19, do we have an opportunity to do something dramatically different together?” asked Jennifer Bonine, co-founder and CEO of PinkLion.",
@@ -904,178 +1083,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-hands-on-with-the-ecovacs-deebot-ozmo-t8-aivi-multi-purpose-cleaning-and-mopping-robot-with-video-surveillance-feature.md",
-      "title": "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature",
-      "excerpt": "The Ecovacs Deebot Ozmo T8 AIVI is an AI-driven floor cleaning robot that has every feature you could need in a multi-purpose robot – and a video and microphone that can scan your home whilst you are away.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/product/ecovacs-deebot-ozmo-t8-aivi/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/ecovacs-deebot-ozmo-t8-aivi/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/ecovacs-deebot-ozmo-t8-aivi/",
-      "publishedDateTime": "2020-05-06T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/05/41ed2ce0-5f02-4f4a-b2dc-3f942aeb32fc/ecovacs-deebot-ozmo-t8-aivi-video-eileen-brown-zdnet.png",
-          "width": 1440,
-          "height": 720,
-          "title": "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-ai-in-telecommunication-market-is-expected-to-reach-usd-1-billion-by-2023.md",
-      "title": "AI in Telecommunication market is expected to reach USD 1 billion by 2023",
-      "excerpt": "Global AI in Telecommunication Market Research Report, By Component (Solution, Services), Deployment (On-Premise,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-is-expected-to-reach-usd-1-billion-by-2023-2020-05-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Telecommunication market is expected to reach USD 1 billion by 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-mobile-ai-market-sharerevenue-growth-forecast-and-segmentation-based-on-industry-wise.md",
-      "title": "Mobile AI Market , Share,Revenue, Growth Forecast and Segmentation based on Industry-wise",
-      "excerpt": "Global Mobile AI Market Research Report, by Mobile Platform (Android, iOS, Windows), by Application (Virtual Assistant, Camera, Chatbots, Navigation, Drones), by Vertical (Finance, Education, Travel & Tourism,",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/mobile-ai-market-sharerevenue-growth-forecast-and-segmentation-based-on-industry-wise-2020-05-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T00:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Mobile AI Market , Share,Revenue, Growth Forecast and Segmentation based on Industry-wise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-united-states-image-recognition-market-will-take-the-highest-jump-during-2020-2025.md",
-      "title": "United States Image Recognition Market will take the highest jump during 2020-2025",
-      "excerpt": "\"The Image Recognition Market 2020 Research Report investigates the industry thoroughly and offers a complete study on Image Recognition volume, market Share, market Trends, Global Image Recognition Growth aspects,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cmo.com.au/mediareleases/102748/united-states-image-recognition-market-will-take/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
-          "width": 600,
-          "height": 246,
-          "title": "United States Image Recognition Market will take the highest jump during 2020-2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-pirce-musk-says-it-will-be-worth-100k.md",
+      "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
+      "excerpt": "CEO Elon Musk announced via Twitter that Tesla will soon raise the cost of the full self driving option for their vehicles",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/",
+      "ampWebUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
+      "publishedDateTime": "2020-05-19T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inside EVs",
+        "domain": "insideevs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.motor1.com/images/mgl/6BLve/s1/top-five-reasons-why-consumers-buy-tesla-cars-video.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-facebooks-new-ai-tool-will-automatically-identify-items-you-put-up-for-sale.md",
       "title": "Facebook’s new AI tool will automatically identify items you put up for sale",
       "excerpt": "Facebook is launching what it’s calling a “universal product recognition model” that uses artificial intelligence to identify consumer goods, from furniture to fast fashion to fast cars. It’s the first step toward a future where the products in every image on its site can be identified and potentially shopped for.",
@@ -1031,50 +1068,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time.md",
-      "title": "AI-Powered Biotech Can Help Deploy a Vaccine In Record Time",
-      "excerpt": "Simulators that can rapidly test trillions of options would accelerate the slow and costly process of human clinical trials.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/",
-      "ampWebUrl": "https://www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/amp",
-      "publishedDateTime": "2020-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec305c12de599a4da36ef60/master/pass/OpEd-Vaccines-91344406.jpg",
-          "width": 2400,
-          "height": 1643,
-          "title": "AI-Powered Biotech Can Help Deploy a Vaccine In Record Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -3,24 +3,23 @@ category: news
 title: "Artificial intelligence can make personality judgments based on our photographs"
 excerpt: "Russian researchers from HSE University and Open University for the Humanities and Economics have demonstrated that artificial intelligence is able to infer people's personality from 'selfie' photographs better than human raters do."
 publishedDateTime: 2020-05-22T09:04:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-05/nruh-aic052020.php"
+webUrl: "https://www.nature.com/articles/s41598-020-65358-6?error=cookies_not_supported&code=b88b5501-fdd3-416e-9a3c-ae5fd2f3b7ce"
 type: article
-quality: 35
-heat: -1
-published: false
+quality: 133
+heat: 153
+published: true
 
 provider:
   name: EurekAlert!
   domain: eurekalert.org
 
 topics:
-  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-    width: 900
-    height: 300
+  - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-65358-6/MediaObjects/41598_2020_65358_Fig1_HTML.png"
+    width: 453
+    height: 685
     title: "Artificial intelligence can make personality judgments based on our photographs"
 
 related:
@@ -39,7 +38,16 @@ related:
       - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2018/10/phone-hoody.jpg?fit=900%2C600&#038;ssl=1"
         width: 900
         height: 600
+  - title: "Study reveals artificial intelligence can make personality judgements based on our photographs"
+    excerpt: "Russian researchers have demonstrated that artificial intelligence is able to infer people's personality from 'selfie' photographs better than human raters do. Conscientiousness emerged to be more easily recognisable than the other four traits."
+    publishedDateTime: 2020-05-23T07:36:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200523/3563405.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 7
 
-secured: "bMWU8EKtBUumSVklfEbZZEiEuAcWJd7hoBgfK+9CyJ8r/O5ZM08JKZAtrB/3izc4eSo7usUvzIp8PG/3RtRUvAFqgK2GROb5kSDuQas1+ir2bpYxyH+hfhHli0JqWP2LphVC2nMsm1DwlaZPIOZAgrP3ariesuBhu2J+mqHRqdIjRqSKKIfNyXSu3WVmLogLhwxGBMxAJTCaZ+/TcrPwukOJoKOD0Hsep/H7FNi8ZrAeZUQ1UWmWT2hvgF3L7QEK9Sq0hDObbeNeNwcGGhiwXkChjwRfalJYd2IUkT7FNVqk0JgD70slSygh3mbCsNHJ;f/jwlO3KBiZVrrp1V6p9PA=="
+secured: "yjIgv+WRLBwRRnZrTZ13gkd8BxU4BfCCJ9EVNGv8OlXpGCWKFroUxNalfRmaHHiD3bXneLRcF916j+eIBRywovNIWEXDEDQfpDSCoB79jhnEiS70S2y41WdcZ/Mh5UQFNEECm1Zg4KZefJCSrOa0fYxd9VNc0OgXgbs6tQUUDrR//XcyAPVuFs5OyqsSOOqtA2fLkCf8VPsME7YKQHuQWsExkvyIWXuNmuTTP+1/n+m/UNVVFBq7O6JCjL3yy1Up+D/8gniagbJQVUU9a0jrzJrPEh75u74BRRBptZTqlYVtoGxKNd/n3yFK+jVW/rKsGGwYwez+xsMa0G41baX3GA==;EG2u5S49U6LyBr/9gVfp9A=="
 ---
 

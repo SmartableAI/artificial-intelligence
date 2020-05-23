@@ -2,6 +2,154 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-05-08-computer-vision-helps-scientists-study-lithium-ion-batteries.md",
+      "title": "Computer vision helps scientists study lithium ion batteries",
+      "excerpt": "Lithium-ion batteries lose their juice over time, causing scientists and engineer to work hard to understand that process in detail. Now, scientists at the Department of Energy's SLAC National Accelerator Laboratory have combined sophisticated machine learning algorithms with X-ray tomography data to produce a detailed picture of how one battery component,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.html",
+      "ampWebUrl": "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.amp",
+      "publishedDateTime": "2020-05-08T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-shield-ai-recognized-as-one-of-worlds-most-innovative-companies.md",
+      "title": "Shield AI Recognized As One of World's Most Innovative Companies",
+      "excerpt": "Fast Company praises tech startup for developing pioneering AI technology for use in conflict zones SAN DIEGO (PRWEB) Shield AI, the technology company focused",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/p15986951/shield-ai-recognized-as-one-of-worlds-most-innovative-companies",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15986951",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15986951",
+      "publishedDateTime": "2020-05-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-zillow-bets-new-normal-for-real-estate-is-virtual-tours-digital-processes-machine-learning.md",
+      "title": "Zillow bets new normal for real estate is virtual tours, digital processes, machine learning",
+      "excerpt": "Zillow said its real estate 2.0 vision has been accelerated dramatically by the COVID-19 pandemic and remote work.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/zillow-bets-new-normal-for-real-estate-is-virtual-tours-digital-processes-machine-learning/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zillow-bets-new-normal-for-real-estate-is-virtual-tours-digital-processes-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zillow-bets-new-normal-for-real-estate-is-virtual-tours-digital-processes-machine-learning/",
+      "publishedDateTime": "2020-05-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/07/7b0a628c-2bcd-4aeb-ae5b-033b0531e8a9/zillow-outlook-q2-2020.png",
+          "width": 688,
+          "height": 454,
+          "title": "Zillow bets new normal for real estate is virtual tours, digital processes, machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-wsjs-the-future-of-everything.md",
+      "title": "WSJ’s The Future of Everything",
+      "excerpt": "Artificial Intelligence can speed up research and ... running in an era of skeptical users and wary regulators? From driverless cars to outer-space colonies, two moonshot thinkers talk about ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/podcasts/wsj-the-future-of-everything",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-29359?width=400",
+          "width": 400,
+          "height": 400,
+          "title": "WSJ’s The Future of Everything",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors.md",
       "title": "Tradier Teams With Q.ai, a Forbes Company, to Bring AI and Big Data Analytics to Customers and Retail Investors",
       "excerpt": "Tradier is teaming up with Q.ai, a Forbes company, to bring advanced AI-driven intelligent investing to retail investors. The collaboration aligns with Q.ai's mission to democratize access to AI and other quantitative investing methodologies by giving traders data-driven insights and seamless execution to help them gain an edge on the market.",
@@ -1093,185 +1241,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-leading-businesses-reveal-the-power-of-combining-human-ingenuity-with-ai.md",
-      "title": "Leading businesses reveal the power of combining human ingenuity with AI",
-      "excerpt": "The post Leading businesses reveal the power of combining human ingenuity with AI appeared first on The AI Blog.\n",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/transform/leading-businesses-reveal-the-power-of-combining-human-ingenuity-with-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T08:45:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/05/AI-Skills_Hero2-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "Leading businesses reveal the power of combining human ingenuity with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-googles-read-along-taps-ai-to-improve-kids-reading-skills.md",
-      "title": "Google’s Read Along taps AI to improve kids’ reading skills",
-      "excerpt": "Google today launched Read Along, an app that uses speech recognition and natural language processing to provide kids feedback on their reading skills.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/googles-read-along-taps-ai-to-improve-kids-reading-skills/amp/",
-      "publishedDateTime": "2020-05-07T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s Read Along taps AI to improve kids’ reading skills",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-google-lens-can-now-copy-and-paste-handwritten-notes-to-your-computer.md",
-      "title": "Google Lens can now copy and paste handwritten notes to your computer",
-      "excerpt": "Photo: James Vincent/The Verge Google has added a very useful feature to Google Lens, its multipurpose object recognition tool. You can now copy and paste handwritten notes from your phone to your ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/7/21250556/google-lens-copy-paste-handwritten-notes-computer-phone-ios-android",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/7/21250556/google-lens-copy-paste-handwritten-notes-computer-phone-ios-android",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/7/21250556/google-lens-copy-paste-handwritten-notes-computer-phone-ios-android",
-      "publishedDateTime": "2020-05-07T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/OB8GZ9S31DDSxMolJNrmh8gUyr8=/0x0:2050x1369/1400x933/filters:focal(861x521:1189x849):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66764297/DSC04857_2.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Google Lens can now copy and paste handwritten notes to your computer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-computer-vision-better-service-lower-costs.md",
-      "title": "Computer Vision = Better Service + Lower Costs",
-      "excerpt": "So where humans weren’t the answer, they turned to a computer vision-based POS system developed by Flytech and its subsidiary Berry AI.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/resources/202638/computer-vision-better-service-lower-costs",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": "Computer Vision = Better Service + Lower Costs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

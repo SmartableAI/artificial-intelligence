@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-19T10:34:00Z
 webUrl: "https://www.siliconrepublic.com/machines/microsoft-azure-sony-smart-camera-sensors-ai"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: SiliconRepublic
@@ -24,47 +24,19 @@ images:
     title: "Microsoft is integrating Azure AI into Sony’s smart camera sensors"
 
 related:
-  - title: "Microsoft will integrate its Azure AI system into Sony's smart camera sensors"
-    excerpt: "Microsoft and Sony have formed a new partnership to apply the former's Azure AI capabilities to the latter's smart camera sensor system. The goal is to boost computer vision for enterprise settings."
-    publishedDateTime: 2020-05-19T02:32:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors/"
+  - title: "Sony, Microsoft Partner to Deploy AI Analytics in New Image Sensors"
+    excerpt: "Sony and Microsoft have announced a partnership to bring Azure AI capabilities to Sony's new image sensor, the IMX500."
+    publishedDateTime: 2020-05-19T18:11:00Z
+    webUrl: "https://www.extremetech.com/computing/310736-sony-microsoft-partner-to-deploy-ai-analytics-in-new-image-sensors"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 116
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 56
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1589842585_untitled_design_(2)_story.jpg"
-        width: 760
-        height: 428
-  - title: "Sony, Microsoft strike deal on tiny AI imaging chip with huge potential for cameras"
-    excerpt: "Sony says it will partner with Microsoft to embed artificial intelligence capabilities into its latest imaging chip, which will be able to analyse video in a self-contained system without sending any data through remote servers."
-    publishedDateTime: 2020-05-19T04:12:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3084988/sony-microsoft-strike-deal-tiny-ai-imaging-chip-huge-potential"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3084988/sony-microsoft-strike-deal-tiny-ai-imaging-chip-huge-potential"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3084988/sony-microsoft-strike-deal-tiny-ai-imaging-chip-huge-potential"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 115
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/19/8b4e443c-9984-11ea-96ff-7aff439fc3be_image_hires_121707.jpg?itok=KiFTvH6F&v=1589861847"
-        width: 1200
-        height: 630
-  - title: "Sony and Microsoft partner on tiny AI chip"
-    excerpt: "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers."
-    publishedDateTime: 2020-05-19T05:02:00Z
-    webUrl: "https://mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html"
-    ampWebUrl: "https://mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 71
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Sony-AI-Sensor.jpg"
+        width: 1344
+        height: 742
 
 secured: "ikQ6+p+/x2whZVSiIZ4ua1lnRyhP3N19DL8/TpFOsUWFMGzWFKbwk/3J7SlJBLDQXlvr+FcyORz5dJPVzDCH7DSW8/08uQ+zpwImFkxKRfvqvkePylBVhPga4Y4CqE9/R6VK/v6YmPV+nWK2D3QJBH3Kbpp9TOindhsZdWuqA5Z4/ojDsFiS/xr9Mh+ufdK4sNnmCOyx/t7vnIAJQYPMXvaVOxbeOXjufiw2BAeqVUU5aFmKTcqUazT7N1ERMZdpb8InEWTWIy52G+j/oArZhi6Z7SQ1OKMKYn4/D5c1uTohVgNSwm96/UaXlXyJy0gJV+h3ikf3uTxCFilYbOwEbbRi9rnHfUzjWqn7S+XGceQJPHdKpZ1MpGCmAPGOA9UxcT2UNuc8K2mpIwtZoU6zuxQ7LCUOuOtC9JjU4cOaxkSWz9+pMuWwQh3Zru8xhwAQOyvYOjvtXmQ94I0DmstxxjXgDSeakByXYisFhLSfUPI=;hmbB0Ud4mLde/BUj5+VENg=="
 ---

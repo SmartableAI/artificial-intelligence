@@ -3,7 +3,7 @@ category: news
 title: "How coronavirus dashed Ethiopia’s dream of hosting Africa’s first major AI conference"
 excerpt: "A meeting planned for Addis Ababa in April was meant to diversify artificial-intelligence conferences, but the push for greater participation continues."
 publishedDateTime: 2020-05-21T16:44:00Z
-webUrl: "https://www.nature.com/articles/d41586-020-01530-2?sf234270229=1"
+webUrl: "https://www.nature.com/articles/d41586-020-01530-2?fbclid=IwAR0tY2j97SwD6cZ_BOcsUpxE3c373ehRZ9CCV0l1UHmen5t5s2VhOA1kle8"
 type: article
 quality: 30
 heat: 30
@@ -22,6 +22,6 @@ images:
     height: 576
     title: "How coronavirus dashed Ethiopia’s dream of hosting Africa’s first major AI conference"
 
-secured: "zdkf0aYBAJsBXhvkAT5gaEoievQUp5rWkOlRwlw4CM0wtKag1f76IR/UouGw0ioknDwdkUIDKpJPDZk0CW2V+0CPHg+DS7kjVcILPoj5lU35vMzox0tiKhLnOiT4mzFu4KlFms0f8BAaac+FnYTOiDCa2s9zegJw/OkAvaRM8st7X+Fkpqh3wene00C9EYrJ/VSofJfNNg2tqH51q/u7+KQ429y3djy35esxtNYiS39t7kBtaG57hZHRUr5a2maAGw2A1NNIT6T8TE5+83Fd/+SFTlQoR0tEKZ+Se1S64LELXajz7xz3IUUADfNWNp4/ivUs+7bZe+aFqatdZLBi1JzuP6n3pjyPAx1I/Ah0bg02NnUxK7lYGPkP/Qd6zZrA9+/rmZ+V/RHTqA4bW7ZJBxbdghcdW2pDRSGIxxIz5Se3J65HH43DcZ7MSssK0rpdHeceBj485ueAPamvahvKOMF+3fsJTHTZ+StQLcpbMoE=;DXPFTcINFNRA/+R8o3meFg=="
+secured: "D9lMH3e+6UlKlwmfZuX67AniNmBIdE9TfYaSQuB82/kxKhnCq6f2ddZ8IeNy85IVowpK40mSUsiYVzR7b5cyxXcfS98othZybD5l/yOjU6tlvj3Gt8DH5uDZyftOnqfwDfzixvo6tjYkuShiY7Ftj3aUVqqsNIpqE5u94wYXI69MdLOoGE9so6Sg064BeiIQWsgqz0cc21wwv8OJTyqW9EUg5K9Ozotgrm05o6Yvy/K1hSvbl3ptNfTb/TWhs19A7mnA4bE85Zh+rQBAZU8i3hfl7vSvWNSGVMJHTrQv7X01WoCiZkJo9F0iW6ydyHwD;4j1LB20KHXrGa6ZYpdbHSQ=="
 ---
 

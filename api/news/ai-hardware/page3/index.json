@@ -2,6 +2,97 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-07-huaweis-hisilicon-becomes-first-mainland-chinese-chip-company-to-enter-top-10-in-global-sales-says-ic-insights.md",
+      "title": "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights",
+      "excerpt": "HiSilicon’s first quarter revenue surged 54 per cent year on year to US$2.67 billion, although 90 per cent of its sales go to parent Huawei Technologies",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3083314/huaweis-hisilicon-first-mainland-chinese-chip-company-enter-top-10",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3083314/huaweis-hisilicon-first-mainland-chinese-chip-company-enter-top-10",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3083314/huaweis-hisilicon-first-mainland-chinese-chip-company-enter-top-10",
+      "publishedDateTime": "2020-05-07T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/07/13b312c8-9028-11ea-a674-527cfdef49ee_image_hires_175821.JPEG?itok=J7WDgbBI&v=1588845509",
+          "width": 1200,
+          "height": 630,
+          "title": "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024.md",
+      "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
+      "excerpt": "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024-2020-05-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-artificial-intelligence-ai-in-supply-chain-market-sharerevenue-demand-and-forecast-to-2023.md",
       "title": "Artificial Intelligence (AI) in Supply Chain Market Share,Revenue, Demand and Forecast to 2023",
       "excerpt": "Artificial Intelligence in Supply Chain Market, By Component (Software, Network, Hardware, FPGA, GPU, ASIC), by",
@@ -1196,89 +1287,6 @@
           "width": 1200,
           "height": 675,
           "title": "Nvidia RTX Voice is great for improving sound quality on video calls – and doesn’t actually need an RTX GPU",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm.md",
-      "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
-      "excerpt": "Recently, aridamo hospital announced the establishment of XG laboratory. The laboratory is committed to promoting",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm-2020-04-21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-new-weka-ai-framework-to-accelerate-edge-to-core-to-cloud-data-pipelines.md",
-      "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
-      "excerpt": "WekaIO introduced Weka AI, a transformative storage solution framework underpinned by the Weka File System (WekaFS) that enables accelerated edge-to-core-to-cloud data pipelines. Weka AI is a framework of customizable reference architectures (RAs) and software development kits (SDKs) with leading technology alliances like NVIDIA,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidehpc.com/2020/04/new-weka-ai-to-accelerate-edge-to-core-to-cloud-data-pipelines/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2017/07/wekaio.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
           "attribution": null
         }
       ],

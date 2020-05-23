@@ -8,7 +8,7 @@ ampWebUrl: "https://www.courthousenews.com/artificial-intelligence-used-to-make-
 cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/artificial-intelligence-used-to-make-personality-judgments-from-selfies/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -29,16 +29,25 @@ related:
   - title: "Artificial intelligence can make personality judgments based on our photographs"
     excerpt: "Russian researchers from HSE University and Open University for the Humanities and Economics have demonstrated that artificial intelligence is able to infer people's personality from 'selfie' photographs better than human raters do."
     publishedDateTime: 2020-05-22T09:04:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-05/nruh-aic052020.php"
+    webUrl: "https://www.nature.com/articles/s41598-020-65358-6?error=cookies_not_supported&code=b88b5501-fdd3-416e-9a3c-ae5fd2f3b7ce"
     type: article
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 35
+    quality: 133
     images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-65358-6/MediaObjects/41598_2020_65358_Fig1_HTML.png"
+        width: 453
+        height: 685
+  - title: "Study reveals artificial intelligence can make personality judgements based on our photographs"
+    excerpt: "Russian researchers have demonstrated that artificial intelligence is able to infer people's personality from 'selfie' photographs better than human raters do. Conscientiousness emerged to be more easily recognisable than the other four traits."
+    publishedDateTime: 2020-05-23T07:36:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200523/3563405.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 7
 
 secured: "WLvGiKhm66D9kENCRVkhGm969XPe8OIpRfpyFqh98sfEhg2cIQ+LyGEsu/QyTIl3rcX2Lf2p0QCtGDHBDWmmTURWrNnKM4nXwhBnzyjQuSheI2whpYPBBFoE87ZKxpEpAIZwMtq4wEnksettMMVI5wOIMZ9kXWQIDl8cLg0P5Md+O9ebXHnrVaUJMBbaD31Lk66PNMmthn1IUJZxuiabJcIoN2A+ypIuu3bo2FAJiYcHAZKVVRoD0KOww6YXAbbH+Xbnz8Z3i09pUVWXFdumooWpEuvfuqxBDmDUhbqckxR5XGlgFrGRMXzTQ232PmnTkeubmBVeFe197I8M8BEBKFxwyWmxjCUYex/A4XEuUfy1L9Zs6q1AleXPkwfT5Ngh1SQCtgnTxCqYoKshW0HuajpgyNECaAD9uZfi02cXNE2hdtzwyfjJ4IF2XHmdRDLb2vG3lWP5u3eV1UaMFkRXYFVhpKMonMMOLNRyDm5xp5E=;OEY5lMjlA3/GZZzhyz4y0Q=="
 ---

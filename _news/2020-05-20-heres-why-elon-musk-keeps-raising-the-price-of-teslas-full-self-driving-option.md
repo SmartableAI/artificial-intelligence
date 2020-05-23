@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/20/21264345/elon-musk-t
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/20/21264345/elon-musk-tesla-full-self-driving-autopilot-price-increase"
 type: article
 quality: 98
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     title: "Here’s why Elon Musk keeps raising the price of Tesla’s ‘Full Self-Driving’ option"
 
 related:
-  - title: "Tesla ‘full self-driving’ option to get a price bump, Elon Musk says"
-    excerpt: "Tesla CEO Elon Musk tweeted on Monday that the full self-driving package will receive a $1,000 price bump on July 1. It's the first hike in about a year."
-    publishedDateTime: 2020-05-19T02:30:00Z
-    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/"
-    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-to-get-price-bump-elon-musk-says/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
   - title: "Elon Musk says price of Tesla’s self-driving tech is going up"
     excerpt: "Tesla Chief Executive Officer Elon Musk says that if you are looking at buying one of his company’s cars, you should get your order in quick"
     publishedDateTime: 2020-05-19T21:00:00Z

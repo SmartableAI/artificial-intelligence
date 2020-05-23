@@ -2,6 +2,179 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-15-facebooks-voice-synthesis-ai-generates-speech-in-500-milliseconds.md",
+      "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
+      "excerpt": "Facebook's new AI text-to-speech system generates one second of human-like audio in just 500 milliseconds, running on off-the-shelf processors.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/15/facebooks-voice-synthesis-ai-generates-speech-in-500-milliseconds/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-portal-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-boeing-loyal-wingman-a-combat-drone-that-leans-hard-on-ai.md",
+      "title": "Boeing Loyal Wingman: A combat drone that leans hard on AI",
+      "excerpt": "But luckily, at least one wingman is still rolling.  Earlier this month, Boeing Australia delivered the first of three prototype drones to the Royal Australian Air Force. The aircraft, nicknamed Loyal Wingman,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/boeing-loyal-wingman-a-combat-drone-and-historic-aircraft/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/boeing-loyal-wingman-a-combat-drone-and-historic-aircraft/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/boeing-loyal-wingman-a-combat-drone-and-historic-aircraft/",
+      "publishedDateTime": "2020-05-15T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/RvXgziYDiKnRyBupRm1gPdTpvlM=/756x567/2020/05/14/667a5774-b864-4956-a51a-31e6f607ca1e/1-ats-loyal-wingman-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Boeing Loyal Wingman: A combat drone that leans hard on AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-the-internet-furry-drama-raising-big-questions-about-artificial-intelligence.md",
+      "title": "The Internet Furry Drama Raising Big Questions About Artificial Intelligence",
+      "excerpt": "Much of the fun of internet drama comes from its frivolousness, but sometimes an online shitfest points to something bigger. Last week, the AI-powered furry art site thisfursonadoesnotexist did just that,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922",
+      "ampWebUrl": "https://gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922/amp",
+      "publishedDateTime": "2020-05-15T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kvtktiiq3knuxu0tgjzp.png",
+          "width": 800,
+          "height": 450,
+          "title": "The Internet Furry Drama Raising Big Questions About Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-artificial-intelligence-ai-partnering-deals-collection-2014-2020-access-to-over-350-ai-deal-records-researchandmarketscom.md",
+      "title": "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com",
+      "excerpt": "The \"Global Artificial Intelligence (AI) Partnering Terms and Agreements (2014-2020)\" report has been added to ResearchAndMarkets.com's offering. This report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200515005346/en/Artificial-Intelligence-AI-Partnering-Deals-Collection-2014-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200515005346/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-15-facial-recognition-firms-are-scrambling-to-see-around-face-masks.md",
       "title": "Facial recognition firms are scrambling to see around face masks",
       "excerpt": "Because of face coverings prompted by the coronavirus pandemic, companies are trying to ID people based on just their eyes and cheek bones.",
@@ -1125,185 +1298,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-this-luna-ai-speakerphone-ticks-all-the-boxes-and-costs-just-99.md",
-      "title": "This Luna AI Speakerphone Ticks All The Boxes And Costs Just $99",
-      "excerpt": "Portable speakerphones are a great way to take calls, whether you're on your own or with others you want to share the call with. This new and affordable eMeet Luna speakerphone uses AI for clearer calls.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2020/05/14/this-luna-speakerphone-ticks-all-the-boxes-and-costs-just-99/",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2020/05/14/this-luna-speakerphone-ticks-all-the-boxes-and-costs-just-99/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2020/05/14/this-luna-speakerphone-ticks-all-the-boxes-and-costs-just-99/amp/",
-      "publishedDateTime": "2020-05-14T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd5d4a67673900066bbb47%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D31%26cropY2%3D706",
-          "width": 1200,
-          "height": 676,
-          "title": "This Luna AI Speakerphone Ticks All The Boxes And Costs Just $99",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-gms-self-driving-unit-crusie-to-cut-8-of-staff.md",
-      "title": "GM's self-driving unit Crusie to cut 8% of staff",
-      "excerpt": "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
-      "publishedDateTime": "2020-05-14T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103",
-          "width": 1920,
-          "height": 1471,
-          "title": "GM's self-driving unit Crusie to cut 8% of staff",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx.md",
-      "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
-      "excerpt": "We built a virtual customer service robot with the Xavier NX, a powerful GPU that can decode 32 video streams at once but is little bigger than a credit card and costs just $399.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx",
-      "ampWebUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
-      "publishedDateTime": "2020-05-14T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-to-bui/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx_rwas.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users.md",
-      "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
-      "excerpt": "Want AWS with easy-to-use Red Hat OpenShift Kubernetes container orchestration? You'll soon be able to get that.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "publishedDateTime": "2020-05-14T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/07/15acec1a-c9b8-4440-80e9-2d7266e44721/thumbnail/1200x675/68d586e111b2a5939b36cf74ebe8a84e/in-the-modern-data-center.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
