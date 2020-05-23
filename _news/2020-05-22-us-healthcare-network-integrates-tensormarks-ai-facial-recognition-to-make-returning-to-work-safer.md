@@ -23,6 +23,6 @@ images:
     height: 1080
     title: "U.S. healthcare network integrates TensorMark’s AI, facial recognition to make returning to work safer"
 
-secured: "uz9BHO9yI2d3Wx9xsBUYdlO60lqBNBts7XGkWkYw4mwDQldr038KW7Fg+jbTiyu9c23Vpj1AF+FZT5qiHZE4RT/mDDphcXlJY+CHNzlXaMQSHereTFFPtSch8bD2nFgYPOC5bG7Wk1IcAWCiGZu7Rm7bVQ0nHZhG0nAFMn9C42SY/z3Guj6S9mgtDkuyXMKh6QbBaOToMmm8hL7lsUJicnsFzez6PYlMS5lEuEkZxGpnW4Pp3WntyVdZ/+O5WXPmeLnqVnQe3qe77+vsEE39K3dD5rIb227uNE/Vtwa9KGY6xRKyE+j4Ao7xnOFBl+cF;b3VH8LArVFODQqgw8JzZhA=="
+secured: "LGVS/FKbjawbptHEQJdCPeBUXeVzraAakrpPeFnoaoeX9f+WZaXT9UKjCo0z0ZcOFDFrCfW5YMLcS202ZArVBHmKmP781tEvfyXP2N6TGXk4S4pTZsRChBGat7L5xwt8YeFqxX6nolsJEQzzwJp0K5LQMAfOmH7TByNtHyV/HLQdHRWEzB4tyBiMZn1Tc5GU+1j2WeuzVKigK5Nf5BpsO5klwyH+M3lYoDlXWfUK5eUM/lNk8X8Qb+uhJLDYIIt/BtCaP9lGALlZ7LgsMI4D440/mTqVsVLExZqnOkxWaNCHu52Mdmb20zJN6ulBULqqukm4uIxdf8DzJJF7dAggQGxEHgutlJFQsRXqD9Fqd69iuHigdEhuI2AJs+4/v5+pDa93e2c+/DNZTnaK3XyAVi/Q3KsdQc6bxV3NREC0Kjuh2WI6iLqvQUIHAyFSTy7++ZdbUD271tdl37XwXtMuqyA1kao2+YS8mqxAZeJ/R+E=;vxoNeBDYRd+kN1s6Bt6w4Q=="
 ---
 

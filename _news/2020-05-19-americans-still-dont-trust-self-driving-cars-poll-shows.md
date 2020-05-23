@@ -39,21 +39,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=22628d1961500d0e3c76b6997a86c05744eeaae8"
         width: 600
         height: 400
-  - title: "Americans still don’t trust self-driving cars"
-    excerpt: "Self-driving cars are having a really rough time gaining our trust. This is not a total shock considering autonomous vehicles remain theoretical and elusive for most people. The limited number of self-driving cars on the road today are mostly test vehicles that aren’t available to the riding public."
-    publishedDateTime: 2020-05-19T04:06:00Z
-    webUrl: "https://www.theverge.com/2020/5/19/21262576/self-driving-cars-poll-av-perception-trust-skepticism-pave"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21262576/self-driving-cars-poll-av-perception-trust-skepticism-pave"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21262576/self-driving-cars-poll-av-perception-trust-skepticism-pave"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/m72EzrWuPzWBOfvn1i31svwAU10=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814379/vpavic_191202_3827_0009.0.jpg"
-        width: 1400
-        height: 933
   - title: "Americans still don’t trust self-driving cars, poll shows"
     excerpt: "Nearly half of Americans say they would not get in a self-driving taxi, according to a poll commissioned by the advocacy group Partners for Automated Vehicle Education."
     publishedDateTime: 2020-05-22T19:31:00Z

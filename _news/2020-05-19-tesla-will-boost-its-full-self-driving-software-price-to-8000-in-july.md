@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-f
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/15/3053554c-c824-4836-8a36-0799d582197c/thumbnail/1200x675/e43c36f0d6c95273d85fcae3b0f11c02/applestoreistock-1157988186a.jpg"
         width: 1200
         height: 675
+  - title: "Tesla raises cost of ‘self-driving’ cars"
+    excerpt: "Tesla is raising the price of its \"self-driving\" option on its electric vehicles worldwide starting with a $1,000 (£820) hike."
+    publishedDateTime: 2020-05-19T15:52:00Z
+    webUrl: "https://www.myjoyonline.com/lifestyle/cars/tesla-raises-cost-of-self-driving-cars/"
+    type: article
+    provider:
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 54
+    images:
+      - url: "https://www.myjoyonline.com/wp-content/uploads/2020/05/tesla.jpg"
+        width: 660
+        height: 371
 
 secured: "+tB1HfInCx6G9WvDeqhyZXU8uiYbWdtqhxQSYlCXorm0jHrzaKQQZCWOVD2ewNGD3/jeQ8bXiyuIK31Y/eM2Ht32j38B6WU+7gKo3pRXGtBQYv9CO4cZSroaza0ms3pEIwftYRRFfd1PBEBLvTs12t0u9GA1PNShwzNGJh4d7ih7fRwTJpp3Pp8Too9wknLWWO+7JOX+XIbLVWfM9v/JTFJhdjLAxbxeU3+MZ+ncSk+I0ujwSHS5/vtXO91Kqff/uxqwOawwZTnIaAG1rtjx2cuvbNrpmtx9Nm7iNHsSmW9pCkyE7rlTyBhl7XuNuSK5Hy3+eSAKJ3rEgSzM7XiiEUTqwdxHslmwq+sFS4n/U/cPbHxi7RZ6uNaCVSLspSqrR9Vvr/nnTqGXhpBsvzGlKqVnkbLymC1/mrNahI1f+CvI+I0KcrLtw4N7tay6+UulgGqeIKJqUPs/6SXgPslzRs2aLNL4NbNUewIpVRXFHac=;xu2/h2fMEZ9K85E9SDi9hw=="
 ---

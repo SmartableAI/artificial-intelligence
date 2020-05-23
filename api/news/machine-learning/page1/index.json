@@ -1278,38 +1278,30 @@
       ]
     },
     {
-      "path": "_news/2020-05-09-artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023.md",
-      "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
-      "excerpt": "May 09, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning,",
-      "heat": 76,
+      "path": "_news/2020-05-09-matlab-and-simulink-get-a-major-deep-learning-facelift.md",
+      "title": "MATLAB and Simulink Get a Major Deep Learning Facelift",
+      "excerpt": "MathWorks has revamped MATLAB and Simulink with a host of deep learning development tools—and they say these updates will be a major boon for automotive and wireless designers. To help engineers develop AI systems, MathWorks has added deep learning ...",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023-2020-05-09",
+      "webUrl": "https://www.allaboutcircuits.com/news/matlab-and-simulink-get-a-major-deep-learning-facelift/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-09T02:08:00-07:00",
+      "publishedDateTime": "2020-05-09T13:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "All About Circuits",
+        "domain": "allaboutcircuits.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
+          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/Experiment_Manager.jpg",
+          "width": 800,
+          "height": 447,
+          "title": "MATLAB and Simulink Get a Major Deep Learning Facelift",
           "attribution": null
         }
       ],
@@ -1318,9 +1310,8 @@
         "news"
       ],
       "topics": [
-        "AI",
         "Machine Learning",
-        "AI in Robotics"
+        "AI"
       ]
     }
   ],

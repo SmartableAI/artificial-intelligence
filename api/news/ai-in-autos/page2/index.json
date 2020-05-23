@@ -803,15 +803,23 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.bbc.co.uk/news/business-52392366",
-      "ampWebUrl": "https://www.bbc.co.uk/news/amp/business-52392366",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52392366",
+      "webUrl": "https://www.bbc.com/news/business-52392366",
+      "ampWebUrl": "https://www.bbc.com/news/amp/business-52392366",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52392366",
       "publishedDateTime": "2020-05-07T18:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
