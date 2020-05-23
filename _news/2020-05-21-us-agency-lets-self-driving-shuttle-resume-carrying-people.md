@@ -1,27 +1,23 @@
 ---
 category: news
-title: "U.S. Agency Lets Self-Driving Shuttle Resume Carrying People"
-excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions."
-publishedDateTime: 2020-05-21T19:37:00Z
-webUrl: "https://hamodia.com/2020/05/21/u-s-agency-lets-self-driving-shuttle-resume-carrying-people/"
+title: "US agency lets self-driving shuttle resume carrying people"
+excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
+publishedDateTime: 2020-05-21T08:39:00Z
+webUrl: "https://www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people"
+ampWebUrl: "https://www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people.amp"
+cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people.amp"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Hamodia
-  domain: hamodia.com
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://images.hamodia.com/hamod-uploads/2020/05/AP20141782919761-300x206.jpg"
-    width: 300
-    height: 206
-    title: "U.S. Agency Lets Self-Driving Shuttle Resume Carrying People"
 
 related:
   - title: "US agency lets self-driving shuttle resume carrying people"
@@ -51,6 +47,6 @@ related:
         width: 1200
         height: 675
 
-secured: "vT66WvYJ1BESdWPH/RNJOo0CMCPceC/ESXXxl8wqyijDErAjj95NNwdCiKF+9DHfWER/a9J39Ms5TtliJ/HeF/vA86WTWqYG7rsF5G02SIFjUOW1UdpN4S6HWH/4T9BbPXIu/5i/3NZHH1wDHEZEg18MkcuIO1dqEqBV8vam+/7JyJTK5DfsA8407tPCKgQIcPF6j3BvTEQ1rJgm7A2uC2RNAMEnFZshwrLmmp0/G3EyIRrRMkcLtQnC95BWMAe5IpQmbfobBA72gvEQ6Gtdt0YcrOis9Nst3VVgWCGLCvQS9nso0kfOU7RHdcjThURuQV1JxlLcy9EdjRf/Pf3HJz2jUuxq7FzBWercIYo+kFxr9nSDxh+3N2MHGsYghiuiE98Y4B3LD8xS1FZms4B56U65coBrQi8t+000uNPbTAMG3f3yCNYFyBZLQXsssJTVam0BI0sL5HBEDdmO5pxRbtgIlXLtpw9IbeP2DgnmjLc=;UM/oFWW2++sRkdbyOJDfSQ=="
+secured: "DQBvRPkZpSKLyLcgO8lOHha4z0IfqXHrLyHEzeWUtW2LJ6H6cevpDQ8xgaSvbMdbUr8a9UfpZH5YDas7tfLFH5Q9xCMh7TCsFr8JYtM/+WElEucSRIqpR03XKJQkpmpdjKBtNkiW/N5so58SbsL3eRcyc/WUMx/0c55aWrnc8UBjkYAqIhZ3F9bAH1JYXittBeaa/EG4OF94heffVGfd+oP72HMHdrf4Sm//OZ7ECo2WePqRUQtZQKiYmXu5VJJSucjwa5w4O1plL3iJmewuQnICqFeyru0WPhCAzPpjtSsZAU7RL2oFObONaNcbrOfJhj8+232vZs8pKZK0oRmeV13QLHcYJnlkArv/fayUAULIEA9vGJ9/Va6I05jjhgdWwPY0gjHg2JPmBJ9g5y/eQEviJQju6NyhR6RNHGhWBX7bRtJWa3GqjwbRtQnV2KOSpBIFC+xuSaH2LKvJxk8IVILwOvaatI9fmeD7SrEJPwU=;QLhBUYLnEPHCcvggPiIRDQ=="
 ---
 

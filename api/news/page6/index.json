@@ -2,6 +2,87 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-19-state-of-marketing-2020-innovation-is-top-priority-with-186-increase-in-ai-adoption-since-2018.md",
+      "title": "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018",
+      "excerpt": "Salesforce collected data from 7,000 marketing leaders across the globe for its sixth annual “State of Marketing” report. The report demonstrates the values that will remain critical as marketers and their businesses recover.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/state-of-marketing-2020/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/state-of-marketing-2020/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-marketing-2020/",
+      "publishedDateTime": "2020-05-19T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/17/e52e1b8a-c1f0-47b3-bb7c-ccaee81ab1b1/picture2.png",
+          "width": 940,
+          "height": 807,
+          "title": "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-microsoft-unveil-latest-joint-ai-play.md",
+      "title": "Sony, Microsoft unveil latest joint AI play",
+      "excerpt": "Sony’s semiconductor division and Microsoft announced a collaboration to develop AI video analytics systems for",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/",
+      "ampWebUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
+      "publishedDateTime": "2020-05-19T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Sony, Microsoft unveil latest joint AI play",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-azure-hosted-ai-for-finding-code-defects-emitted-but-does-it-work.md",
       "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
       "excerpt": "Altran – in association with Microsoft – has pushed out an open source project to find code defects via AI whenever you commit code. It is easy to see why Microsoft is keen. T",
@@ -970,95 +1051,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-facebook-ceo-warns-against-spread-of-chinese-style-internet-regulations.md",
-      "title": "Facebook CEO warns against spread of Chinese-style internet regulations",
-      "excerpt": "Facebook chief executive Mark Zuckerberg warned against ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3084962/facebook-ceo-warns-against-spread-chinese-style-internet-regulations",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3084962/facebook-ceo-warns-against-spread-chinese-style-internet-regulations",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3084962/facebook-ceo-warns-against-spread-chinese-style-internet-regulations",
-      "publishedDateTime": "2020-05-18T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2020/05/19/71370a12-995b-11ea-96ff-7aff439fc3be_image_hires_075509.jpg?itok=5oh-v35g&v=1589846119",
-          "width": 1200,
-          "height": 630,
-          "title": "Facebook CEO warns against spread of Chinese-style internet regulations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-as-mental-health-needs-surge-this-seattle-startup-offers-ai-powered-analysis-of-therapy-sessions.md",
-      "title": "As mental health needs surge, this Seattle startup offers AI-powered analysis of therapy sessions",
-      "excerpt": "The novel coronavirus has brought with it fears of infection, massive job losses, the challenges of teaching kids at home, social isolation, and the list goes on. The toll on our collective",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/",
-      "ampWebUrl": "https://www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/amp/",
-      "publishedDateTime": "2020-05-18T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Lyssn_telehealth-630x383.png",
-          "width": 630,
-          "height": 383,
-          "title": "As mental health needs surge, this Seattle startup offers AI-powered analysis of therapy sessions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

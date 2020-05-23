@@ -22,6 +22,6 @@ images:
     height: 349
     title: "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network"
 
-secured: "QHNSlLNCIXc7kT+ncvizPEcl/tkZCD5XfAhBtmQVlQuo6GAiDcjzn6W+5ilPU1CiYKJwHh32bJQFZSE+QcjHjqVEjE2+kpfvCP2JmfCWvJdfaslFGzR6y3W9ceQn78pydCso5qj4eZGJuyJjf1nMIta7TU04+dplCnazkdYgBNv6zjGhuBfM50m060TJDrhVmuIikD46o5m6hXdBoSxP1T3jm7Tjn0Wtvga+IOqNZARZe76XDfmk/KZE1R3Z+YWUUzsP5OzDv92NPoEcbaLSEw2t4ChVhE1E2xkSTSlFb0yra7WeLRRZNyK7LoI7zpaU;JlS+UpEU2WIKra8Lq67l1g=="
+secured: "KAakKosWN/SgHXKn7HtLYzh5epNBv4qV2oOlWlTtpmN1IUFU+tG3J2FOCJDYzhKwWnb36vmV8/cMuOsgLJoh7oq8hW2TXtHZy5SuMKTmh/T8W9t3EYNZ7gH+2LRqCFcot6taWmM24CpL/I4UwlgRiW2qeM9URQJ32XUO8aFZ3xUxG4u/A0dG45PumYcjd6sKh6aMAzN6otxIvfJFvuJcown+fsuohgyMJ/jhcPP8iRRYemeNRqCn/UI52KlIKmBIB4QSpRvJtzC07aR6sPbr33+oQ/7lT8x1WIS3PHzfqhS8K3dq/vBlXoZ2lwzmL96D;R1MX5WKJl2/OSpk73iODQw=="
 ---
 

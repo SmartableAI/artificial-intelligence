@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19"
-excerpt: "Food processors, farms, medical offices, and plant nurseries are among small businesses turning to face recognition employee"
+excerpt: "Contactless Employee Time and Attendance Joins Face Masks, Gloves and Social Distancing for Employee Health and Safety Return to Work ATLANTA (PRWEB)"
 publishedDateTime: 2020-05-20T09:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/05/n16072599/lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16072599"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072599"
+webUrl: "https://www.benzinga.com/pressreleases/20/05/p16072620/lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16072620"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072620"
 type: article
 quality: 38
 heat: 38
@@ -19,6 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "uMnrzucfWlK1qa8qk2pbm7vbpyHeGJltOYHDPAjvGRwlqY/CqzeMO73OkpVMuJjx6vuqnV1U0I1WhIxEIPBtdw4Xyv0S26qwQ7H3ud6Ba4yYMTLWIr2V1pdn01JMKs0/3vZZsAJ2x22csSQQqk0ti99V4z2eMF7Hr1bM0A60sKDVhQvP6mBokwCtLJEOXrHcvVtWa283YDsDWfPiIJtZTHrkZUmCnb5qFdgCc/JgBbeUl97i0HbHxDzQYGuKQmx8uoaqXSgaOaSjRST8B9rcV7vlcEaQz+gMZN38hGoZqLXabXZRbs39e6nmly0hAFxb;t8MHmBMc1y3tDcejgclJZA=="
+secured: "nidHzHYtc4DEQmA1msxODGAkm2XF4BVTm6urtE3qxkVnxPPQ8JAIQg8PwuUw5JsXwtADKofAb+qfR+sjwtg9JodiB2o7PWQ/y1TUpf7hvxZQdXUPnI7KZcPz0XDQ9sIdiQH1zfSQHdElnkYXLBOtoS0Ut2UlZh0IW05l1dN1s3v1uJtPPQJVw+2rTYjjk0j77tuJWcHcLizHiay+eLwO3sVT9M8bveG50KIIe+DnlfoxJ3hnuBch013CGwNrOlfj7XWjVGoi5pTl4iHSX/FAwKDBATtTtBbhVs6wE9L9lU9HN+519EgsBz4tCOP3o+5E;kg5TD02VkEiWVBELnHVvKQ=="
 ---
 

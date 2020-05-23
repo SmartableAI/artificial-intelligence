@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
 
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/02/9-AI-Ally-1.jpg?w=1200&#038;strip=all"
+    width: 1200
+    height: 599
+    title: "AI can be an ally in cybersecurity"
+
 related:
   - title: "Deep Instinct nabs $43M for a deep-learning cybersecurity solution that can suss an attack before it happens"
     excerpt: "Today, a startup that’s built a deep learning solution that it claims can both identify and stop even viruses that have yet to be identified, has raised a large round of funding from some big strategic partners. Deep Instinct, which uses deep learning both to learn how to identify and stop known viruses and other hacking techniques ..."
@@ -89,6 +95,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "hgCFdXGQo3AGGtBOqc7VsVAqg27jHCi1zusOYIpVRSZpop5VI8EKU/9/8SFuhCmkLAHigf07bN1kpU50tDa0MZgNTj0P3G/CdAvi8ICtSPtiykpBR9clzVdfH8jFpStICLS+jn9tBBBht5a8OnECo6N7/A6NUEI7QtdyOZcwUoME5Eptm2j6c34TW4TYXMIQEbI0mdG1To7Va11iXhPn9dwFJ0IgoRg3vM4U9xVs2bIzrm1IGZKKsMHkNXV65pdY0UWbWIBCxLx0fDbT6rxRvJp0+nOYBeor8/d6tAV5zvQZrKIqh63UMWLqV9PvOucDwX2Z9kY324TMdEKqVMZeKICUaREpjjm1XgBvyMqWN9CnjgZ8zQkO12pFuiv2st0LywJegIKlcz8MlN5GEZCb9cm2IjROs9MqUnYz55pWItUYRPkjAuPJlu/CT+OjHpGV6ouaXRRVS5aq8GLZJMehrgKmZxyVrpOtQvUOkNyYYtk=;/Fj4YGcfSOmxVgz3g83gag=="
+secured: "Ehj/mAbwZrO/IPPoAnzohUYttlyBoGIAxFI6bBUAwaHhzOlPJWZgGkGXSQ/+f3RpDttkrlg4o9I0bML3cQ+x8/eIbHPXAocZLOHRcNDhAeJHx0WbeGsfyguI47YWZQpeTBI/EpCe9lcgiExqdtQFT3zJ0nDncZbBp/5TPQynLYCeEp1Z6w1BZFFoVS2IQrSnJkmAnoAuuYPGMB6FnON/dhCRjp2CRjvrM+EDqhiD9FAkaeDx/1BUwLisA3CLZRHFdpaz3QGxa2GVe3Tjd4sckOpFivwF81zwHvjuUXqMC6PL9YWWy519qVbHHmf/iwXgaCHRPmNWYro3B5fQOt3FctF9ZH2zUwxAmwwKrZoQ5AQ=;Q/9Vxk7EW2LggC/Su+mTSQ=="
 ---
 
