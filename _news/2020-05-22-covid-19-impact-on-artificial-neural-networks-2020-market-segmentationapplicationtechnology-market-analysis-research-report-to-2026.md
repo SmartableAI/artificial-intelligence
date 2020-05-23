@@ -3,7 +3,7 @@ category: news
 title: "COVID-19 Impact on Artificial Neural Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2026"
 excerpt: "This report focuses on the global Artificial Neural Networks status, future forecast, growth opportunity, key market and key players. The study objectives are to present the Artificial Neural Networks development in North America,"
 publishedDateTime: 2020-05-22T21:28:00Z
-webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-neural-networks-2020-market-segmentationapplicationtechnology-market-analysis-research-report-to-2026-2020-05-22?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-neural-networks-2020-market-segmentationapplicationtechnology-market-analysis-research-report-to-2026-2020-05-22"
 type: article
 quality: 37
 heat: -1
@@ -57,6 +57,6 @@ related:
         width: 1200
         height: 630
 
-secured: "j61gcbiPAZN+dxrF/U4STq5zMoblKCL1QTKZN9Rpwm8j5iaQmp1Dm94fRKE8PHyiwcthd/tDSaH74OfZNtJ963FeyG20WoICEGS9XARhN+DsyfCwtSSf2OjdXoBnHpB5uz0IFdJybgjDakSTIrvA7Jiv/eIPYKG9zrEoi4qUTd8K4DPl/26tZyFl7YZ2ymXskKs5lakVhYlM4gd6xwEEkswK23dZGPmdmUfkTfw4DeTZFY83n1mF07lKvhLyXB7A6F+BR+ig8XsDMIXvHKjwSkFAgdEbvG/A3B3rAMDy8qA9A7V45ZRjuO3dE67X3EtG;OPzcmbkJk/ACcsQngL2iHQ=="
+secured: "k/NaTf7qL+y2U+1HTKIIl8rMH8Paqtx3nQ0D8+O8hXcPbtcv8K2+h0XOkw8nJAoXmbTLZ6djlUN8VGWc2zKOy1vwWDgpYJdLfOlrRTrVrpmyDilopMq+pT2NJuYvBw5Nt3ZSUX+F3RsYzPRpkDGpAlzfOfD3OO/skdDY4hifxgVqLGyH2ESm9AKmZf76Ejx5NwIM43MqLA7fKQ8WLElgc6KLDaJ+qxgY0C8MUDLQu3GLjxt1VlNpJl8FS7sz4yb58ibFsXszd0PZbDRe4uRscH0VN3+nnxse5eoaYwR2FesobkRAiF4+OUATG6IpypcF;vwz0/k2sRTZbtTJCgQ3OEg=="
 ---
 

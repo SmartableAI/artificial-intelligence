@@ -5,9 +5,9 @@ excerpt: "The artificial intelligence and robotics in the aerospace and defense 
 publishedDateTime: 2020-05-23T08:01:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025-2020-05-23"
 type: article
-quality: 43
-heat: 43
-published: false
+quality: 75
+heat: 75
+published: true
 
 provider:
   name: MarketWatch
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

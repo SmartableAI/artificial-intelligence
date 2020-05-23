@@ -2,6 +2,95 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-20-shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network.md",
+      "title": "Shopify intros Balance debit card for SMBs, expands access to AI fulfillment network",
+      "excerpt": "E-commerce platform provider Shopify on Wednesday unveiled a new financial service for its small business merchants that aims to consolidate business transactions and cash flows into a single business account.",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
+      "publishedDateTime": "2020-05-20T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/18/9c02bf5f-14b2-4c9a-81fb-c41203e8a625/thumbnail/1200x675/497b2a0ce40b8724b624d72a84bd65e2/patrick-tomasso-nwvwbv0sv04-unsplash.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Shopify intros Balance debit card for SMBs, expands access to AI fulfillment network",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-influence-of-covid-19-north-america-self-driving-car-market-on-global-trends.md",
+      "title": "Influence of COVID-19 North America Self-driving Car Market, on Global Trends",
+      "excerpt": "May 20, 2020 (AmericaNewsHour) -- North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/influence-of-covid-19-north-america-self-driving-car-market-on-global-trends-2020-05-20",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Influence of COVID-19 North America Self-driving Car Market, on Global Trends",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-search-engines-are-leveraging-ai-to-improve-their-language-understanding.md",
       "title": "Search engines are leveraging AI to improve their language understanding",
       "excerpt": "Increasingly, search engines like Bing and Google are leveraging AI and machine learning to improve the quality of results.",
@@ -1225,88 +1314,6 @@
           "width": 580,
           "height": 378,
           "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness.md",
-      "title": "New AI from DeepMind and Google can detect a common cause of blindness",
-      "excerpt": "DeepMind and Google Health have developed an AI that can predict who'll get one of the world's most common causes of blindness.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
-      "publishedDateTime": "2020-05-19T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-40-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "New AI from DeepMind and Google can detect a common cause of blindness",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-pirce-musk-says-it-will-be-worth-100k.md",
-      "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
-      "excerpt": "CEO Elon Musk announced via Twitter that Tesla will soon raise the cost of the full self driving option for their vehicles",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/",
-      "ampWebUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
-      "publishedDateTime": "2020-05-19T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inside EVs",
-        "domain": "insideevs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.motor1.com/images/mgl/6BLve/s1/top-five-reasons-why-consumers-buy-tesla-cars-video.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
           "attribution": null
         }
       ],

@@ -42,7 +42,7 @@ related:
   - title: "COVID-19 Impact on Artificial Neural Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2026"
     excerpt: "This report focuses on the global Artificial Neural Networks status, future forecast, growth opportunity, key market and key players. The study objectives are to present the Artificial Neural Networks development in North America,"
     publishedDateTime: 2020-05-22T21:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-neural-networks-2020-market-segmentationapplicationtechnology-market-analysis-research-report-to-2026-2020-05-22?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-neural-networks-2020-market-segmentationapplicationtechnology-market-analysis-research-report-to-2026-2020-05-22"
     type: article
     provider:
       name: MarketWatch

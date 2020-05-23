@@ -2,6 +2,79 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-05-08-can-ai-make-work-safe-again.md",
+      "title": "Can AI Make Work Safe Again?",
+      "excerpt": "Although this is no doubt disappointing, it is also evident that data and AI have been quite helpful to certain countries (with the most salient or widely-discussed cases being Israel, Singapore, and of course China) vis-à-vis their ability to track the patterns of virus spread across and within regions,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp",
+      "publishedDateTime": "2020-05-08T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go.md",
+      "title": "AI Weekly: CDPA bill shows progress on coronavirus-tracking data privacy, but there’s still a ways to go",
+      "excerpt": "Legislation around data privacy is crucial to setting up guardrails around how the U.S. tracks the spread of the coronavirus, but we need bipartisanship.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/amp/",
+      "publishedDateTime": "2020-05-08T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/contact-tracing.jpg?fit=1985%2C1237&strip=all",
+          "width": 1985,
+          "height": 1237,
+          "title": "AI Weekly: CDPA bill shows progress on coronavirus-tracking data privacy, but there’s still a ways to go",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-written-and-directed-by-artificial-intelligence.md",
       "title": "Written And Directed By: Artificial Intelligence",
       "excerpt": "As impossible as it seems, it won’t be long before artificial intelligence is writing and creating films.",
@@ -1166,72 +1239,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing.md",
-      "title": "Tesla's Semi makes first deliveries; Waymo, Uber expand driverless truck testing",
-      "excerpt": "Tesla's electric Semi made its first delivery while Waymo and Uber each said they ... The company said the trucks’ artificial intelligence and array of sensors provide Level 4 autonomy on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-indiegogo-campaign-introduces-the-next-gen-social-family-robot.md",
-      "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-      "excerpt": "Misa is a revolutionary social family robot that is backed by high-tech sensors, AI, and emotional intelligence travel, learn, teach, and interact with people around like a",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15985882/indiegogo-campaign-introduces-the-next-gen-social-family-robot",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15985882",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15985882",
-      "publishedDateTime": "2020-05-07T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.getnews.info/uploads/98e0ea3f3e3e583379fdb6396838275d.jpg",
-          "width": 579,
-          "height": 480,
-          "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

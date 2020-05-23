@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/15/california-e-commerce-startup-home-delivery-service-plans.jpg"

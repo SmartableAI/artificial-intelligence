@@ -2,6 +2,96 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-18-using-ai-to-predict-retinal-disease-progression.md",
+      "title": "Using AI to predict retinal disease progression",
+      "excerpt": "Vision loss among the elderly is a major healthcare issue: about one in three people have some vision-reducing disease by the age of 65. Age-related macular degeneration (AMD) is the most common cause of blindness in the developed world. In Europe, approximately 25% of those 60 and older have AMD. The",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/UakhSqcWKFG3IeXxAeWRn9glKAVZivbPWLkZdtKeYhWrLtVVx--7YRIGW5j4DdUeSFZ0eLMGFrEhw5t_4CukZWwOx8hF2KUv0etSy94",
+          "width": 512,
+          "height": 288,
+          "title": "Using AI to predict retinal disease progression",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-17-10-ways-ai-can-improve-voice-of-the-customer-programs.md",
+      "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
+      "excerpt": "Gaining insight and intelligence to energize existing customer relationships calls for greater use of AI in VoC programs.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/amp/",
+      "publishedDateTime": "2020-05-17T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec1682ea4ff430007767803%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-17-no-matter-how-sophisticated-artificial-intelligence-systems-still-need-human-oversight.md",
       "title": "No matter how sophisticated, artificial intelligence systems still need human oversight",
       "excerpt": "AI and machine learning systems are only as good as the data we feed them. Witness the fallout from the COVID-19 crisis, which threw many AI algorithms out of whack: 'If machines are to be trusted, we need to watch over them.",
@@ -1007,94 +1097,6 @@
         "AI Hardware",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-boeing-loyal-wingman-a-combat-drone-that-leans-hard-on-ai.md",
-      "title": "Boeing Loyal Wingman: A combat drone that leans hard on AI",
-      "excerpt": "But luckily, at least one wingman is still rolling.  Earlier this month, Boeing Australia delivered the first of three prototype drones to the Royal Australian Air Force. The aircraft, nicknamed Loyal Wingman,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/boeing-loyal-wingman-a-combat-drone-and-historic-aircraft/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/boeing-loyal-wingman-a-combat-drone-and-historic-aircraft/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/boeing-loyal-wingman-a-combat-drone-and-historic-aircraft/",
-      "publishedDateTime": "2020-05-15T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/RvXgziYDiKnRyBupRm1gPdTpvlM=/756x567/2020/05/14/667a5774-b864-4956-a51a-31e6f607ca1e/1-ats-loyal-wingman-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Boeing Loyal Wingman: A combat drone that leans hard on AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-the-internet-furry-drama-raising-big-questions-about-artificial-intelligence.md",
-      "title": "The Internet Furry Drama Raising Big Questions About Artificial Intelligence",
-      "excerpt": "Much of the fun of internet drama comes from its frivolousness, but sometimes an online shitfest points to something bigger. Last week, the AI-powered furry art site thisfursonadoesnotexist did just that,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922",
-      "ampWebUrl": "https://gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922/amp",
-      "publishedDateTime": "2020-05-15T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kvtktiiq3knuxu0tgjzp.png",
-          "width": 800,
-          "height": 450,
-          "title": "The Internet Furry Drama Raising Big Questions About Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
