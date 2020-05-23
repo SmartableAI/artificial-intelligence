@@ -22,6 +22,6 @@ images:
     height: 576
     title: "How coronavirus dashed Ethiopia’s dream of hosting Africa’s first major AI conference"
 
-secured: "SCJ+2+O+3Jm03/Sv6lFfp1H29m1ndLsoBtE9vpOLAZWmDZ1ZOZGeTw9AOMT0xvnyYNvTovyYV/1th4h7rGlFq2rTXwQo+5o9hewepS3pkeNnk9zWEiZIX13uPbjUKvXZqNHfaUqzh0zQF2rdRytLju/LmBdxZEV8/2Xxd926Ft2kS2ImlHedh0J9sZQg2/Tohx0OH9XLXIPnIwUQXjhLwmppZtLDERaCmRkf5MQq7VY5F+V/E92IiahNsm/UPSRXQfrqwdipwnvl58NhHyoW4uYcxAkuCi43sP14p0qcpmHcpEBZ0lihkKOiXt25rre7;f/zbgk92rM4D67JAbT5BXA=="
+secured: "zdkf0aYBAJsBXhvkAT5gaEoievQUp5rWkOlRwlw4CM0wtKag1f76IR/UouGw0ioknDwdkUIDKpJPDZk0CW2V+0CPHg+DS7kjVcILPoj5lU35vMzox0tiKhLnOiT4mzFu4KlFms0f8BAaac+FnYTOiDCa2s9zegJw/OkAvaRM8st7X+Fkpqh3wene00C9EYrJ/VSofJfNNg2tqH51q/u7+KQ429y3djy35esxtNYiS39t7kBtaG57hZHRUr5a2maAGw2A1NNIT6T8TE5+83Fd/+SFTlQoR0tEKZ+Se1S64LELXajz7xz3IUUADfNWNp4/ivUs+7bZe+aFqatdZLBi1JzuP6n3pjyPAx1I/Ah0bg02NnUxK7lYGPkP/Qd6zZrA9+/rmZ+V/RHTqA4bW7ZJBxbdghcdW2pDRSGIxxIz5Se3J65HH43DcZ7MSssK0rpdHeceBj485ueAPamvahvKOMF+3fsJTHTZ+StQLcpbMoE=;DXPFTcINFNRA/+R8o3meFg=="
 ---
 

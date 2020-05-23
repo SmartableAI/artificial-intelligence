@@ -24,34 +24,19 @@ images:
     title: "DeepMind: Google AI can predict the progression of sight-threatening eye conditions"
 
 related:
-  - title: "How AI could predict sight-threatening eye conditions"
-    excerpt: "Age-related macular degeneration (AMD) is the biggest cause of sight loss in the UK and USA and is the third largest cause of blindness across the globe. The latest research collaboration between Google Health, DeepMind and Moorfields Eye Hospital is published in Nature Medicine today. It shows that"
-    publishedDateTime: 2020-05-18T15:00:00Z
-    webUrl: "https://www.blog.google/technology/health/predicting-sight-threatening-eye-condition/"
-    ampWebUrl: "https://blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/"
+  - title: "DeepMind’s AI Can Predict the Progression of AMD Eye Condition"
+    excerpt: "DeepMind by Google and Moorfields Eye Hospital NHS Foundation Trust have collaborated to develop an Artificial Intelligence (AI) model to predict whether a patient will develop wet Age-related macular degeneration (AMD) within six months."
+    publishedDateTime: 2020-05-20T19:32:00Z
+    webUrl: "https://www.analyticsinsight.net/deepminds-ai-can-predict-progression-amd-eye-condition/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
     images:
-      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
-        width: 1000
-        height: 1000
-  - title: "Predicting conversion to wet age-related macular degeneration using deep learning"
-    excerpt: "In individuals diagnosed with age-related macular degeneration in one eye, a deep learning model can predict progression to the ‘wet’, sight-threatening form of the disease in the second eye within a 6-month time frame."
-    publishedDateTime: 2020-05-18T15:19:00Z
-    webUrl: "https://www.nature.com/articles/s41591-020-0867-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 34
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-020-0867-7/MediaObjects/41591_2020_867_Fig1_HTML.png"
-        width: 685
-        height: 375
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/05/AI-2.png"
+        width: 1814
+        height: 1042
 
 secured: "LWZzOHx/UFxIncalwbdDv3fwLel5YKyxnbGaukf5t9ueXGsHf3dyOVCBkS2bDNpTqJzrgK4xOxVZkqOEVoFL7YfxHAVaDG31n/TttHs8qvTCAOQQeBqK0gjPchv1CLsOQjVWC84uMKmpL+8/huqLDpT0DAeruaWaSquPJH1UePGmFnY6CvU/TIm2+NeOgZAcfTFkkjccUrUXdHfgC3olH1GRyxz2dFFyUnYMx2ye3jZHvWOaIjgV6APFax+RoGNXxEGu0ckWBxW104lK6B3opDVTsd9BX8CLV/SCOSKkAyKOqERo7J1rmeFm3QftOccPo4UbvWGCWDvlbrn2U8kpaSa6IHuFlYTD95cATLnIHL4AGRaUKOVZG/qcLx/Y0hPErU74AMghEnl/9JprcxD0IUABnhzXVuzzm8jZ5jj29u5GmKY/mjfe9JzBSoiYbOdJv0EPvD9Ke36vJlhAE/oC90cad+ChAslquIABh010UEQ=;ToCLrlS79EujtiL9Sy3bAg=="
 ---
