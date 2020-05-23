@@ -29,6 +29,6 @@ images:
     height: 349
     title: "Microsoft Updates Windows, Azure Tools with an Eye on The Future"
 
-secured: "iCifTDOf2s0Kj+7BvEcGoN42qhvPYbycmAcMG5Wxr+hcEXNvVQbhk9TL6xEHISMJXcnv+mDly+H7CLU0MoZgDAjqLZPPdJ7Dom5x7fS+f8JyICZgqY+cyj7106iVxsMicAPbKeirmAHo++zwJnlksSe5F2zoW/YhSEp2Hcm3PuQYpY7ZejE1NHQ68Ly3LYtcdBVFoLJxcWJPQewyltDBj9JzmA0R9iyKpfA0PqZm+TGLWgosAVw6kH73XL5tRmBfCN/Hl/h31Ur9q/y3MH+jtJ+/ky/bW6lKZuRjtKHTsXub8QZoFEgGqpcEgaNwgN3q;1+8ilbeE2kGZ9tuHb1tu1A=="
+secured: "qPgED/tf1b+r9b7wpQsviXBfN52lUl9ibKYf96HV+XUVKaD2TH6NlsKyyACj0bWB3ClSt+dII7cupN77BQDxmA6XAKrUfyMfXi2S1Sob/x0Strou+WF61UJmN4as936sNnl4hfm4Qw0AlI46uKg3vfJ/6mvp9ftZ2/uYoMikhjhe2HylrWcIwIYXdvoXN5beWdqg0C/ThEOAgIjAL5FJwMnWrujolJc2l4ftyu6S29D8Mt6MfUrBPuE8MRy5RPZ2e30xnSqUTIP/GrDVc9BTuCCJ4KTWdkIpexdmrwfqtxuUbrXL0epZBP4Q3S1Fe7ptn4hbuk5yzU8Ki/KfKq7KSmp1bOaT15M894tbzZcjMOResTOPyJ3/OrSeduh7P2k2tyM+4aD5+E14OeMWNjcQKYQ9GCmy0kvDeJ2wpkaNJBhCCjubjbS7Kcl4OzVI1qeuAjw3roGA526x6n3rgBY8Y2QivYeVQnMr3qd6sJIn9pQ=;U3KtPrga4/phydDtyTcxAg=="
 ---
 

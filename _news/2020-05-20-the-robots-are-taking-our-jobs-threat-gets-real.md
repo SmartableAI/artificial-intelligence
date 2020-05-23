@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-make
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/05/21/691271.jpg"
         width: 1240
         height: 826
+  - title: "The robots-are-taking-our-jobs threat is real"
+    excerpt: "The future of labor is changing, with a sharp push from COVID-19."
+    publishedDateTime: 2020-05-22T22:57:00Z
+    webUrl: "https://www.startribune.com/the-robots-are-taking-our-jobs-threat-is-real/570706872/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://stmedia.stimg.co/ows_d65106cb-d9cd-47d9-8854-03b6915826d0.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
   - title: "The Robots-Are-Taking-Our-Jobs Threat Gets Real"
     excerpt: "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down."
     publishedDateTime: 2020-05-21T05:00:00Z

@@ -2,6 +2,50 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-09-a-different-kind-of-science-fiction-the-innovation-case-for-centering-discussions-of-inclusion-driven-ai.md",
+      "title": "A Different Kind Of Science Fiction: The Innovation Case For Centering Discussions Of Inclusion-Driven AI",
+      "excerpt": "What if our innovations were inspired instead by feminist science fiction writers and theorists like Ursula K. Le Guin, Octavia Butler and Donna Harraway.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/a-different-kind-of-science-fiction/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/a-different-kind-of-science-fiction/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/09/a-different-kind-of-science-fiction/amp/",
+      "publishedDateTime": "2020-05-09T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1079757622%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3007%26cropY1%3D102%26cropY2%3D1794",
+          "width": 1200,
+          "height": 676,
+          "title": "A Different Kind Of Science Fiction: The Innovation Case For Centering Discussions Of Inclusion-Driven AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-ionq-ceo-peter-chapman-on-how-quantum-computing-will-change-the-future-of-ai.md",
       "title": "IonQ CEO Peter Chapman on how quantum computing will change the future of AI",
       "excerpt": "IonQ CEO Peter Chapman explains how quantum computing overlaps with Strong AI and potential machine learnign improvements.",
@@ -320,11 +364,11 @@
     {
       "path": "_news/2020-05-09-weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal.md",
       "title": "WeRide Trade Secrets Feud With Rival, Ex-Execs Ends In Deal",
-      "excerpt": "Both companies are developing autonomous, or self-driving, cars for the Chinese market ... According to WeRide, Wang was pushed out as CEO in January 2018 after his former employer, the Chinese internet company Baidu, sued him, alleging that he failed to return a laptop belonging to Baidu, stole Baidu's trade secrets and poached Baidu's ...",
+      "excerpt": "Self-driving car startup WeRide has reached an agreement to end its heated trade secrets spat with a rival company founded by two of its former executives, according to a joint stipulation of dismissal lodged Friday in California federal court.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.law360.com/ip/articles/1272042",
+      "webUrl": "https://www.law360.com/articles/1272042/weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal",
       "ampWebUrl": "https://www.law360.com/amp/articles/1272042",
       "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272042",
       "publishedDateTime": "2020-05-08T19:30:00-07:00",
@@ -995,51 +1039,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-deepmind-compares-the-way-children-and-ai-explore.md",
-      "title": "DeepMind compares the way children and AI explore",
-      "excerpt": "In a preprint paper, DeepMind researchers propose a paradigm for comparing the exploration behaviors of children and AI models.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
-      "publishedDateTime": "2020-05-08T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind compares the way children and AI explore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

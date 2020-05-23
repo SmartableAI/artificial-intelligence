@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.in/business/news/airtel-acquires-10-stak
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms"
 type: article
 quality: 57
-heat: 128
+heat: 127
 published: true
 
 provider:

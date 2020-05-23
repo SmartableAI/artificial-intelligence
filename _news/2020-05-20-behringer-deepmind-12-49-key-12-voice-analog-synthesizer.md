@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Behringer DeepMind 12 49-Key 12-Voice Analog Synthesizer"
-excerpt: "This seller is shipping orders within 48 hours, on average. Buy With Confidence Reverb Protection has you covered. We provide a safe community for finding the gear you want."
-publishedDateTime: 2020-05-20T19:58:00Z
-webUrl: "https://reverb.com/item/33768186-behringer-deepmind-12-49-key-12-voice-analog-synthesizer?bk=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJhZmQ2ZWFiMC00Nzk5LTRjZTgtOThjZS04MzE3NDQ5NzRmN2UiLCJpYXQiOjE1OTAwMDQ3MTQsInVzZXJfaWQiOiIiLCJzZXNzaW9uX2lkIjoiIiwiY29va2llX2lkIjoiYmY2MWUzOGYtMDIxNy00NWQ3LWE2ODItNDU5NjM5ZTIyMmMwIiwicHJvZHVjdF9pZCI6IjMzNzY4MTg2In0.db6KA0J3LVXQjZqvY4wST9ZowgyHDP-MSoksULOv4f4"
+excerpt: "We are committed to getting your purchase to you quickly without any stress. Orders will be shipped within 1 (one) business day. Saturdays and Sundays do not qualify as business days. If you placed your order on Friday, it will be shipped the following ..."
+publishedDateTime: 2020-05-20T19:39:00Z
+webUrl: "https://reverb.com/item/33768177-behringer-deepmind-12-49-key-12-voice-analog-synthesizer?bk=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIwZTE3Yjk2My1mOWQ5LTQ5ZGEtODJiMi04M2ZjYjcyNWVmYjUiLCJpYXQiOjE1OTAwMDM1NTQsInVzZXJfaWQiOiIiLCJzZXNzaW9uX2lkIjoiIiwiY29va2llX2lkIjoiNDhkZjFmNjYtZjJhNi00YWZkLTljN2UtMmVmYjEzODY3NjBkIiwicHJvZHVjdF9pZCI6IjMzNzY4MTc3In0.9JtCda9_Qb774T02o5OzTpBV4CvBMWzdFaT-Gga_D1M"
 type: article
 quality: 19
 heat: 19
@@ -17,6 +17,6 @@ topics:
   - Google AI
   - AI
 
-secured: "/0GbW8JK3iSe/Wr8kS1wtvHwxDU9NlKLHCTn+32WsM85cn5SBHsf55scb4U5DQC2A0NH11jvhu3JS6hPn8kkCWIkKtga2c04/y5bUu0K/JYdq+18YafJWvfCOuBrz8QqjE1eVKg5m2xdAvJPAHO92Ns2F292+1dHBO6BK4tYlwUnD/HtqP6JmNXTFTy5DGgV1WwoWEoF5Ou1Yyu7T4dmQ6ZZJ02FvuOlZHVd+M8LKsFOiL9Ajjxq4D3I9BtGoE3G9n3zOCSLrfs5Iecno3SNjQQrNFI+Ly+2c0Ldd3a915uTpNXakoQaGs9y8lQ/lLckCKyuZ828RwUUjhSGaIWsciJ4L3Ho1rsJQ0LMbrh+AHtJbvXsJHHLMUJUXFnTS0dzxOly3Q+095Eg4TZh9Fri4v8khDHGTdow22zxLj0UdCK/9d5Iqziwgxawinp5MQ97CMBVXQvyBeeZhoNOTk/2yixvXc0j5VlCkDBxntrUi/E=;aOcD7oVd/4YQpRF5IWgm5g=="
+secured: "yyFxEDDJu//qOIJMqq5Wtxfzrkm+AYJYGRmQX8TbQjrVo+5QQJq7WYfLmcLs9ygMW5qtWf680zOBcUMiZMmn+lFnZf+5/r0Nvv+i2DH/3o8JlLzZyEbF7Qlu4ynWcTSXx9Sz+ER6ZYn7Hm4I5q7IijZ5BYlz93BhJ5oIrY7kcIEmTMy6URc8dPLo79+I9KjH8BNA1+uTw4XeHVHuwNMpmVveKqPi76hpdumfgoqB9aYcFsrpB/gATlUGe/t+MnDTOrm/HKrQPpWe9mkZijaBvc3ajvKJwWKID1HuhL+uvK2Wf1TI6b6qGqYHfxLzmuCd;vB6t09RPtfORi1iiNvKBdA=="
 ---
 

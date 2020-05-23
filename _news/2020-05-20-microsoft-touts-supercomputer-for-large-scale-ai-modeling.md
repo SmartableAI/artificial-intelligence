@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-20T17:12:00Z
 webUrl: "https://redmondmag.com/articles/2020/05/20/microsoft-supercomputer-ai-modeling.aspx"
 type: article
 quality: 60
-heat: 81
+heat: 80
 published: true
 
 provider:

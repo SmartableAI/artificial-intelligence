@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-19-state-of-marketing-2020-innovation-is-top-priority-with-186-increase-in-ai-adoption-since-2018.md",
+      "title": "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018",
+      "excerpt": "Salesforce collected data from 7,000 marketing leaders across the globe for its sixth annual “State of Marketing” report. The report demonstrates the values that will remain critical as marketers and their businesses recover.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/state-of-marketing-2020/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/state-of-marketing-2020/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-marketing-2020/",
+      "publishedDateTime": "2020-05-19T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/17/e52e1b8a-c1f0-47b3-bb7c-ccaee81ab1b1/picture2.png",
+          "width": 940,
+          "height": 807,
+          "title": "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-sony-microsoft-unveil-latest-joint-ai-play.md",
       "title": "Sony, Microsoft unveil latest joint AI play",
       "excerpt": "Sony’s semiconductor division and Microsoft announced a collaboration to develop AI video analytics systems for",
@@ -1223,51 +1267,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-sogou-inc-sogo-q1-2020-earnings-call-transcript.md",
-      "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
-      "excerpt": "Sogou Inc. Q1 2020 Earnings Call May 18, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
-      "publishedDateTime": "2020-05-18T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-          "width": 580,
-          "height": 618,
-          "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

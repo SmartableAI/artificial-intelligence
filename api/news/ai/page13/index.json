@@ -2,6 +2,43 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-05-11-ai-and-machine-learning-help-google-read-along-teach-kids-reading-skills.md",
+      "title": "AI and machine learning help Google Read Along teach kids reading skills",
+      "excerpt": "The tech giant recent launched the new app to help support kids as they improve their reading. The Google Read Along application was recently added to app stor",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.qrcodepress.com/ai-and-machine-learning-help-google-read-along-teach-kids-reading-skills/8537872/",
+      "ampWebUrl": "https://www.qrcodepress.com/ai-and-machine-learning-help-google-read-along-teach-kids-reading-skills/8537872/amp/",
+      "cdnAmpWebUrl": "https://www-qrcodepress-com.cdn.ampproject.org/c/s/www.qrcodepress.com/ai-and-machine-learning-help-google-read-along-teach-kids-reading-skills/8537872/amp/",
+      "publishedDateTime": "2020-05-11T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "QR Code Press",
+        "domain": "qrcodepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://www.qrcodepress.com/wp-content/uploads/2020/05/Google-Read-Along-AI-machine-learning-book.jpg",
+          "width": 875,
+          "height": 492,
+          "title": "AI and machine learning help Google Read Along teach kids reading skills",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-vochi-the-computer-vision-based-video-editing-and-effects-app-raises-15m-seed.md",
       "title": "Vochi, the ‘computer vision’-based video editing and effects app, raises $1.5M seed",
       "excerpt": "Vochi, a startup operating out of Belarus that’s created a “computer vision”-based video editing and effects app for mobile phones, has raised $1.5 million in seed funding. Leading the round is Ukraine-based Genesis Investments (backer of BetterMe and Jiji).",
@@ -360,14 +397,14 @@
     {
       "path": "_news/2020-05-10-artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026.md",
       "title": "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026",
-      "excerpt": "Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion in 2019 and is anticipated",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. May 10, 2020 (AmericaNewsHour) -- Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion in 2019 and is anticipated to grow with a ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026-2020-05-10",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026-2020-05-10?tesla=y",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-10T03:09:00-07:00",
+      "publishedDateTime": "2020-05-10T03:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -890,11 +927,11 @@
     {
       "path": "_news/2020-05-09-weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal.md",
       "title": "WeRide Trade Secrets Feud With Rival, Ex-Execs Ends In Deal",
-      "excerpt": "Both companies are developing autonomous, or self-driving, cars for the Chinese market ... According to WeRide, Wang was pushed out as CEO in January 2018 after his former employer, the Chinese internet company Baidu, sued him, alleging that he failed to return a laptop belonging to Baidu, stole Baidu's trade secrets and poached Baidu's ...",
+      "excerpt": "Self-driving car startup WeRide has reached an agreement to end its heated trade secrets spat with a rival company founded by two of its former executives, according to a joint stipulation of dismissal lodged Friday in California federal court.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.law360.com/ip/articles/1272042",
+      "webUrl": "https://www.law360.com/articles/1272042/weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal",
       "ampWebUrl": "https://www.law360.com/amp/articles/1272042",
       "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272042",
       "publishedDateTime": "2020-05-08T19:30:00-07:00",
@@ -1216,51 +1253,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-waymo-self-driving-cars-hit-the-road-again-in-phoenix.md",
-      "title": "Waymo self-driving cars hit the road again in Phoenix",
-      "excerpt": "Those residing in the metro Phoenix area will once again start to see Waymo's self-driving vehicles hitting the road. On Thursday, the Alphabet Inc division said it will start redeploying its autonomous cars starting May 11.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-cars-phoenix-coronavirus/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-cars-phoenix-coronavirus/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-cars-phoenix-coronavirus/",
-      "publishedDateTime": "2020-05-08T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Waymo self-driving cars hit the road again in Phoenix",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

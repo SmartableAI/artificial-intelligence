@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale-companies-using-crypto/amp/"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:

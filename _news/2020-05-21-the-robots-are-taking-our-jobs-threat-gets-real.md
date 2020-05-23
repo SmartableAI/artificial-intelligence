@@ -42,6 +42,19 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/05/21/691271.jpg"
         width: 1240
         height: 826
+  - title: "The robots-are-taking-our-jobs threat is real"
+    excerpt: "The future of labor is changing, with a sharp push from COVID-19."
+    publishedDateTime: 2020-05-22T22:57:00Z
+    webUrl: "https://www.startribune.com/the-robots-are-taking-our-jobs-threat-is-real/570706872/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://stmedia.stimg.co/ows_d65106cb-d9cd-47d9-8854-03b6915826d0.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
 
 secured: "TvKL0RxH2YA74rc8+uO4QPOL8lK1BA/1nUOAoQ18+XomcQm5UFTy73UmiIdKFItATI2QG2mT4x9ZBncCO+szeHIuGWQjffhKhyhkBsoMk1cFS6RKXMIcJlM9lBsf31wJcgpk9ZbODIE9kM9G73fyRm5eZetnJMWkYkltj+5dGqKMKN4fPCJYd3C5wX8ErwWayV/IzgzqNOMt8VEc08hWToVbd7azqmymnNOCG+Lc4TD9sbp3yYWugPs8DtRupJWdsCQgxLnoOabrWbLFJFi5jDT47wFlQjZDdqGQRTX71TddumOmrJCGLHI130KGQ59J;+qfxBpi99TZsjGjoX+zcOA=="
 ---

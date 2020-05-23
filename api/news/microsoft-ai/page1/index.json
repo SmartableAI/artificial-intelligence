@@ -93,6 +93,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-21-the-register-calls-for-aid-and-microsofts-rohan-kumar-will-answer-our-questions-about-sql-edge-and-azure-synapse.md",
+      "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
+      "excerpt": "Build There was SQL Edge and Azure Synapse news at Microsoft's reimagined Build gathering this week, so The Register had a chat with corporate vice president Rohan Kumar about the company's database ambitions.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/05/21/sql_edge_azure_synapse/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/21/sql_edge_azure_synapse/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/21/sql_edge_azure_synapse/",
+      "publishedDateTime": "2020-05-21T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/01/15/shutterstock_db.jpg",
+          "width": 648,
+          "height": 429,
+          "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer.md",
       "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
       "excerpt": "During its Build 2020 developer conference on Tuesday, Microsoft unveiled the new supercomputer built in collaboration with OpenAI, an artificial intelligence startup found by Elon Musk. Microsoft announced that the supercomputer hosted in Azure was developed exclusively to train OpenAI’s large-scale artificial intelligence models.",
@@ -309,7 +346,7 @@
       "path": "_news/2020-05-20-microsoft-touts-supercomputer-for-large-scale-ai-modeling.md",
       "title": "Microsoft Touts Supercomputer for Large-Scale AI Modeling",
       "excerpt": "Microsoft disclosed at Build that it has built one of the world's most powerful supercomputers in collaboration with a company building artificial intelligence (AI) solutions.",
-      "heat": 81,
+      "heat": 80,
       "tags": null,
       "type": "article",
       "webUrl": "https://redmondmag.com/articles/2020/05/20/microsoft-supercomputer-ai-modeling.aspx",
@@ -1259,52 +1296,6 @@
       "topics": [
         "AI",
         "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-sony-to-use-microsofts-azure-ai-technology-in-new-smart-camera-sensors.md",
-      "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
-      "excerpt": "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also",
-      "heat": 141,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/",
-      "ampWebUrl": "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/",
-      "publishedDateTime": "2020-05-18T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
         "Microsoft AI"
       ]
     }

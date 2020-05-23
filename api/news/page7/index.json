@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-18-microsoft-and-sony-partner-to-make-smart-cameras-smarter-with-azure-ai.md",
+      "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
+      "excerpt": "Microsoft and Sony announced a partnership today that will bring Azure AI smarts to Sony's intelligent vision sensor IMX500. The combination is intended to result in faster analysis for enterprise scenarios.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp",
+      "publishedDateTime": "2020-05-18T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D",
+          "width": 800,
+          "height": 600,
+          "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-sogou-inc-sogo-q1-2020-earnings-call-transcript.md",
       "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
       "excerpt": "Sogou Inc. Q1 2020 Earnings Call May 18, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen",
@@ -1054,51 +1091,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-no-matter-how-sophisticated-artificial-intelligence-systems-still-need-human-oversight.md",
-      "title": "No matter how sophisticated, artificial intelligence systems still need human oversight",
-      "excerpt": "AI and machine learning systems are only as good as the data we feed them. Witness the fallout from the COVID-19 crisis, which threw many AI algorithms out of whack: 'If machines are to be trusted, we need to watch over them.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
-      "publishedDateTime": "2020-05-17T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/17/8e854e40-61b9-473f-ad50-ea490c404772/asimo-honda-cropped.jpg",
-          "width": 534,
-          "height": 640,
-          "title": "No matter how sophisticated, artificial intelligence systems still need human oversight",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

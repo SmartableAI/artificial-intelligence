@@ -2,6 +2,52 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-30-microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai.md",
+      "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
+      "excerpt": "Specifically, those with successful proposals will get unlimited use of the C3 AI Suite, access to the Microsoft Azure cloud platform, and access to the Blue Waters supercomputer at the National Center for Super Computing Applications at the University of Illinois Urbana-Champaign (UIUC). To fund the institute, C3.ai will provide $57,250,000 ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
+      "publishedDateTime": "2020-03-30T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/03/efb9f0b3-0ca8-4514-b481-36f1df2e8f22/thumbnail/1200x675/a5cb4c555bf6fb63345ce79fcd3d7ada/20200225-sonmez-part5-dan.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-microsofts-ai-powered-editor-can-generate-rewrite-suggestions.md",
       "title": "Microsoft’s AI-powered Editor can generate rewrite suggestions",
       "excerpt": "Microsoft’s writing assistant for Microsoft 365 users is coming to Chrome and Edge browser extensions as well as Outlook.com and is getting new AI-powered features like Rewrite Suggestions, which lets you highlight a sentence then right-click for AI-generated revision ideas. AI editor can also now review text for more gender-related ...",
@@ -1150,43 +1196,6 @@
           "width": 1600,
           "height": 758,
           "title": "Transforming surgery with data, AI, and cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-azure-netapp-files-become-hipaa-compliant.md",
-      "title": "Azure NetApp files become HIPAA compliant",
-      "excerpt": "In March 2018, Microsoft released automation for HIPAA/HITRUST compliance in the form of its new Azure Security and Compliance Blueprint for HIPAA/HITRUST – Health Data & AI. Azure Blueprints by Microsoft are resources to help build and launch cloud-powered applications that comply with stringent regulations and standards. Included in the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632",
-      "ampWebUrl": "https://www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632?amp=1",
-      "publishedDateTime": "2020-03-18T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/03/GettyImages-1127091365-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": "Azure NetApp files become HIPAA compliant",
           "attribution": null
         }
       ],

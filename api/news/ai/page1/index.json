@@ -1166,6 +1166,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-21-the-register-calls-for-aid-and-microsofts-rohan-kumar-will-answer-our-questions-about-sql-edge-and-azure-synapse.md",
+      "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
+      "excerpt": "Build There was SQL Edge and Azure Synapse news at Microsoft's reimagined Build gathering this week, so The Register had a chat with corporate vice president Rohan Kumar about the company's database ambitions.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/05/21/sql_edge_azure_synapse/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/21/sql_edge_azure_synapse/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/21/sql_edge_azure_synapse/",
+      "publishedDateTime": "2020-05-21T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/01/15/shutterstock_db.jpg",
+          "width": 648,
+          "height": 429,
+          "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
       "title": "AI chips in 2020: Nvidia and the challengers",
       "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
@@ -1254,50 +1291,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-the-trash-apps-new-features-can-create-ai-edited-music-videos-and-more.md",
-      "title": "The Trash app’s new features can create AI-edited music videos and more",
-      "excerpt": "The team behind Trash, an app that uses artificial intelligence to edit your video footage, launched a number of new features this week that should make it more useful for anyone — but especially independent musicians.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/21/trash-app-music-video/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/21/trash-app-music-video/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/21/trash-app-music-video/amp/",
-      "publishedDateTime": "2020-05-21T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Founders-2.jpg?w=1024",
-          "width": 1024,
-          "height": 592,
-          "title": "The Trash app’s new features can create AI-edited music videos and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

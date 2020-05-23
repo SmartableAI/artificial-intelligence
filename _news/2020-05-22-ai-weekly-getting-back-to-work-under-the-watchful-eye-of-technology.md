@@ -29,6 +29,6 @@ images:
     height: 600
     title: "AI Weekly: Getting back to work under the watchful eye of technology"
 
-secured: "bIET2ma7mbdK1rM6n8FcToT1nROjxH6/HZ3emK+7+BJNsWBQxhSdZyCMVMsPtRe/9BkhqsQKXKvmUJL24rDgaKUHoVlmzUGRL4drc6VegUN3lUkJJHwwq/u08L3S7lMGXbMtox91GJcfWUuDi01MAWEJ/1VTiZbbEfkficiTJ4amQYVmh6ANIFIm1Mxa1x6r9R/qinHauDMw+4fmGZy8SyVSP74v/ham2AvVXC37e3MAC49M+YkfzbtL4VkmjIksYS2JyjZWr8P/0ZfbTghW+dKUdwKVjGkRnMLHSH/qG2Rj1jWwvpuySaXgHM9AI5Ef;OwQbZ15ISdk9sEw8ex36PA=="
+secured: "ANUd1pexP4+LyGAsdCrb5zK4BVGLQOQGvernx/yICEXseKDLAc7GAysyVEhRhkqFY+vxTGAZxnRoPE/HtiByYUJrTrcZ0TQEZrk5t8ZAW1RuUtSRX7JmjCxR5d1+SqWUY+VHGxEjDVdpRWaae2/613D0U4wuLAFtSpbTtIvpKEhYXKYRr4oGm6+G+jWfPRFislLbecXwtQ3dPAHw4CSUHi0svIiPHMk6zRZcC88xhxNdkbCqMJ8rn+GKJEn5NX6SN15PRfj4vPJoXGgOj3qgmq6nMRsLgqCiz5NL0doeEisPF8ryMOee+9rwtpTB4fcdTh7/Riu9Lzr7LdZO8X+9zLaHgSVaH91vQRzZvVJH2/rJkehCVaLSQli2Z5Hv5OetwDO5ihRYNwCY+GmbDv4RhgESYrxeV3lv2m1Z4c0rUtD85sjr2hzMZ+PUCiisEVhgfs+7RSrWiI692Hbm0f9XLfiOFQTI/yN3tcDahw2T3Jo=;N71xiaXER0m8d7L9XGKsUw=="
 ---
 
