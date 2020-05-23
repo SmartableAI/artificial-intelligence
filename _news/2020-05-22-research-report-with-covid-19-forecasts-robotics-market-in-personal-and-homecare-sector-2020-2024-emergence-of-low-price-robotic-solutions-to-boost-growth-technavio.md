@@ -23,17 +23,6 @@ images:
     height: 627
     title: "Research Report with COVID-19 Forecasts - Robotics Market in Personal and Homecare Sector 2020-2024 | Emergence of Low-Price Robotic Solutions to Boost Growth | Technavio"
 
-related:
-  - title: "AI Image, Facial, Emotion Recognition Market Worth Size Value Growth Trends Share Forecast Outlook Industry Statistics | Valuates Reports"
-    excerpt: "In 2019 the global AI Image Recognition market size was USD 1 1844 Billion and it is expected to reach USD 2 9828 million by the end of 2026 with a CAGR of 14 0 during 2021 2026 Get Free"
-    publishedDateTime: 2020-05-22T12:19:00Z
-    webUrl: "https://www.openpr.com/news/2055156/ai-image-facial-emotion-recognition-market-worth-size-value"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-
 secured: "srsJP/xWvQLukRH3uLbHINMAb7WaAOtNVljh0VVZkFnz0iV1lJZDrA/CgpZRsn8vQQfO7POHZlo0OAJ3/SjaJLjqONx3v9WRN1X6n1jBftnaPajqcjjp3D0IFymS55CrME5CjWDxlt+xj2r9cWB0pXxWuMUddJxUO+UHyB8bWqo/kpduaj8Z5t3GlzmWkwlVNxGNdC8yWveRi+sSIF0eZoBYF80jp7G+nWt/0tE16LqZpo9ML7Tt7Ae6816vn66roOx+le5lSH7gD06RTfMEufZCdKQsr0SKaVoW59uj6aqvdegZnv6VZ69ncv02gr5pRvZiTPvX2bjpmgycy6AUA6tteR8RehonHwZXly0mxJneVKB7zwJBOsvRXwyfvLn+KFUWZ61C9hfcqazn3RJmFHuv6ksF7L73NHto3GCjL/Pq9ypX9BvTtT5s3dWRQscBJnZNYKjSqh8+vfx2fTKHn7ZeBnNA53Hunep8GNf2TTM=;TUOvb7hWpQGVpvAIM25EVA=="
 ---
 

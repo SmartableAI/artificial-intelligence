@@ -5,7 +5,7 @@ excerpt: "Semantic dementia patients present with a core semantic impairment and
 publishedDateTime: 2020-05-22T09:55:00Z
 webUrl: "https://www.nature.com/articles/s41467-020-16089-9"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-16089-9/MediaObjects/41467_2020_16089_Fig1_HTML.png"
@@ -40,6 +41,6 @@ related:
         width: 747
         height: 403
 
-secured: "SGbpW7enwP7s8beQiNK+8B1iDdOyVoSqCIKcI17a8O7gNoF6576TLXQko5ntJcde43mH6rbjk4E8ufUA9AhpeoBRCMWWrzbqtrrsoeslEYNnQEYaNnnohuPB9QvaPx7zlH1eKU4TDNkXQ7yMM4blOgo91u9iN2hXf4BO6uEGGZ5dE3j/DvNQQqest5doLbsE2656OUkGnfi+ybiMRGzhNqNNb034qLIoTqCRQnY7zuTZ6+aTz5gjZZx7NcxiZyO/I1Cke30XJLR5HwtfBBzmqZU/y4fSL5LEnSssEZH2NXJZKnbN17aegLcODPIup1o5;VR72tQOTneKsF9DCy42wdw=="
+secured: "KaCgxvaFfDgaB4vcj/aXW3lXEo3PnDEgNQMrYo82nj7r9Tsz+T52d7DJrDOUS0Vl++12l49LQPvb0cKhza2YMM63oTFnaRM6i7xFehR3aYOTo4/AVtqa5KTqBzpmMmpVqCtya5MCyFEJpq/QPks0e1AbBKgwq5KJbUh9TEgs16s4g1+JINn+0uvu4s2LlZ0d83TuqwVr1Dyl3oAaucaE0tYGyTE/pkiFznr7AYz0DORvvKCtdHnEh0Dmlzzq2BPzz2GyXQCpTX7jYikFxPSL8HXp9pr8i/8SOmHT/roGqcN66a0oc/WysA92u0v97qispu5cCTx37aO3K/kBUKcpdKoKENZOaZtLMT8U+B1u5qMeGMZarVwzNSQgrpvju8yJC4+xrxIKpj1K0K+HEmyvm+Avw59eijzQs5cos1Bi94+95sq1IS0/u/jCCa7dzhTI7/t4bNx/wMCp3uC7IJ70rVCjpDJyAwBhOORW/CERq7c=;ypn75lErz/cI0NIGCjhu9w=="
 ---
 

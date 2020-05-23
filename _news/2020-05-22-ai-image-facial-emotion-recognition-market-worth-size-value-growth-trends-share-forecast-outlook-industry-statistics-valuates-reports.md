@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Research Report with COVID-19 Forecasts - Robotics Market in Personal and Homecare Sector 2020-2024 | Emergence of Low-Price Robotic Solutions to Boost Growth | Technavio"
-    excerpt: "The global robotics market in personal and homecare sector has the potential to grow by USD 1.93 billion during 2020-2024"
-    publishedDateTime: 2020-05-22T12:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200522005130/en/Research-Report-COVID-19-Forecasts---Robotics-Market"
+  - title: "Automotive Voice Recognition System Market Worth Nearly $39 Bn by 2027"
+    excerpt: "A research study by ARC foresees the Automotive Voice Recognition System market growing at a CAGR around 6% throughout the forecast period and reach around $39 Billion by 2026. Automotive voice recognition system consists of the monitoring of digital vehicle infotainment devices that includes telecommunications,"
+    publishedDateTime: 2020-05-22T13:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-worth-nearly-39-bn-by-2027-2020-05-22"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://mms.businesswire.com/media/20200522005130/en/793374/23/IRTNTR40867.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
 
 secured: "XMIr2FBzOd8O1/LsycwYYEc3MRLpfCPOwlbkT9D27HC+RAOfAKElMp+RMqYnXPXLvrYdsS/jcxIryvZ6m0UOuzZMMkHdukJjGTfBnc0RqFsG24hlRPgRo36ewMtWvHmzW5R5Of0Khsy6gLRgLyPlulrZQqsPEDZc3dNkee8OfaqUXG1SGVu1xWoIMqzJJYzD2umphoK4IrNQbCj51yVGreOQxYY6iQ/j4hN42hOptvIUo6drYDnt6/VDQFDTvAiy1aSAzD8aNENlvlLk8WBQ+rMVMZ2dhM/6UQaR81zLbXfWVEQFUCRb+HDK7DgRPtdZK+8bz4rMe0apjJz1VjVfkkCwy3+hKsOCSf0ul2iDjFw0geOLgsNX24JVvEUTpIghdcj0Ne4WpGlSQlvwJjYhAOdpklBwoo+aCC40rCaBtND6acrcm1+5waujphaHDDeVjGqNNQ3HZcqSbNbgOrCCoZAzBwUqcG5pxz3MeCdM3R0=;YPGqFwpv5Uw3bIfTwJfSWg=="
 ---

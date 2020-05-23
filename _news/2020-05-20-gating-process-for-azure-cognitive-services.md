@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://docs.microsoft.com/learn/achievements/process-translate-speech-azure-cognitive-speech-services-social.png"
         width: 643

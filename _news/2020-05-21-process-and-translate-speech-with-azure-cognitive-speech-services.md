@@ -5,7 +5,7 @@ excerpt: "Learn how to implement the Speech services found in Azure Cognitive Se
 publishedDateTime: 2020-05-21T05:24:00Z
 webUrl: "https://docs.microsoft.com/en-us/learn/paths/process-translate-speech-azure-cognitive-speech-services/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://docs.microsoft.com/learn/achievements/process-translate-speech-azure-cognitive-speech-services-social.png"
