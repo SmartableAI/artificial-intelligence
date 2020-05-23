@@ -2,6 +2,52 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-05-08-clearview-ai-to-stop-providing-facial-recognition-to-private-companies.md",
+      "title": "Clearview AI to stop providing facial recognition to private companies",
+      "excerpt": "Maker of controversial says it's cutting off anyone not associated with government or law enforcement entities.",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
+      "publishedDateTime": "2020-05-07T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/tcvCfks6e4V39F8bVmD3sLv2B3o=/756x567/2020/05/08/8c6c9808-f26e-4358-9f9d-8cf65d0c04d3/gettyimages-1189384731.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview AI to stop providing facial recognition to private companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-clearview-ai-pinky-swears-it-will-stop-working-with-private-companies.md",
       "title": "Clearview AI pinky swears it will stop working with private companies",
       "excerpt": "This time Clearview AI really means it. Honest. The problematic facial-recognition company that scraped billions of photos off social media is now claiming that it will not sell its technology to private companies.",
@@ -983,35 +1029,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
-      "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
-      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-07-france-is-using-ai-to-check-whether-people-are-wearing-masks-on-public-transport.md",
       "title": "France is using AI to check whether people are wearing masks on public transport",
       "excerpt": "France is integrating new AI tools into security cameras in the Paris metro system to check whether passengers are wearing face masks. The software, which has already been deployed elsewhere in the country,",
@@ -1099,6 +1116,43 @@
         "Machine Learning",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-inspur-takes-3rd-place-in-neurips-autodl-2019-2020.md",
+      "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
+      "excerpt": "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bakersfield.com/ap/news/inspur-takes-3rd-place-in-neurips-autodl-2019-2020/article_369dc614-0439-5079-9394-c84d3b7ce923.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1212,51 +1266,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-digital-psychotherapy-is-now-more-accessible-thanks-to-data-driven-healthcare-tools.md",
-      "title": "Digital psychotherapy is now more accessible, thanks to data-driven healthcare tools",
-      "excerpt": "Over the past decade, technology has transformed the way we live.  The emergence and advancement of personal devices, data capture, networks and the cloud, deep learning , and Internet of Things (IoT)—amongst other things—has changed our world.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/syndication/2020/05/07/digital-psychotherapy-is-now-more-accessible-thanks-to-data-driven-healthcare-tools/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-2-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Digital psychotherapy is now more accessible, thanks to data-driven healthcare tools",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

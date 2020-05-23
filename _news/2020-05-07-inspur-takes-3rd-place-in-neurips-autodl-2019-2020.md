@@ -2,18 +2,24 @@
 category: news
 title: "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020"
 excerpt: "Prior to this, Inspur managed to make a spot for itself among the top three in the NIPS 2018 AutoML challenge and NeurIPS 2019 AutoWSL challenge. The AutoDL challenge series organized by NeurIPS ..."
-publishedDateTime: 2020-05-07T14:42:00Z
-webUrl: "https://www.oaoa.com/news/business/article_7595f95f-4cfe-5740-a06f-be62fd9d1693.html"
+publishedDateTime: 2020-05-07T14:29:00Z
+webUrl: "https://www.bakersfield.com/ap/news/inspur-takes-3rd-place-in-neurips-autodl-2019-2020/article_369dc614-0439-5079-9394-c84d3b7ce923.html"
 type: article
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "ucrnRswvzytJWh0DKy69Ok9IroYTdKMYW36SIm1Kp39V9edg5ibpUtkx9MctTO7RVx5HX44GqVg6uDLtWeTljnH/v4ItAFOd2iqAwLmepJAYVmV9ZFHsSJ3S5k1dOG1aFfBNTLG1FVJ5vATVl+itdGRiXFZjBUINKytoqk6xgaeoMytAlUPacebit8KiSPlX1EwkBMRhTvu3O0Mg/VupdbZFXlmAj1pBn0kBDvHwqDQ6k8elcVHGZYV1WCQYaTOnGgpgcaY8Gl3TXmM1ZbJr3FMGuzCR6pxRobicRClvZZdFUKiJggIkjF2qXhBOUwo+;QZcwqbQBaDB56zAz8+9hIw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+    width: 1200
+    height: 630
+    title: "Inspur Takes 3rd Place in NeurIPS AutoDL 2019-2020"
+
+secured: "yb8rZWLm5vASGGNZBRQjA8SIzGJmrrt/35vGcpeX8D1GRGJ7BSG8qH8bM5JCSremo6h2blEJh87Oyo6o2vspeqe3LnSg6+8FbZge5qrQVHa9zDIs5F1rJZwcT8mENqGqBS8zlFqgUFBUyXXqJ5rkQQKbgiYXYnUuGRCBz4w01fgUljosf8/uUuNiG3pu8LZAbiBAGBdhFQgA3f0xALhhCpeg1lylYZfjmVuMguWkwhFqdwc2zWIjb7+S07Si62iXNK7NDVOHWBT/ZiObKgOmb7HlMbhyZeNH/c2YDAhtT4yzxhBKLsN6i0n8jcvRYncf;6iXFz4dmvygPg+HuPeSlPg=="
 ---
 

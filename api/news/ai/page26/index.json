@@ -2,6 +2,43 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-04-29-cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead.md",
+      "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
+      "excerpt": "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/cruise-gm-autonomous-cars-food-delivery/",
+      "ampWebUrl": "https://mashable.com/article/cruise-gm-autonomous-cars-food-delivery.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/cruise-gm-autonomous-cars-food-delivery.amp",
+      "publishedDateTime": "2020-04-29T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F29%252F5e%252F1efeba8e0f7e467eb123699e8e9356c2.e6915.jpg%252F1200x630.jpg?signature=Hvy3PtU_wTqrmzWJ1FvBYTRijw0=",
+          "width": 1200,
+          "height": 630,
+          "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition.md",
       "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
       "excerpt": "Many industries, including retail, manufacturing, and healthcare, are adopting IoT-enabled devices and using AI or machine learning (ML) technologies to enable such devices to make human-like decisions without human intervention. You can also apply some of the use cases involving powering IoT-enabled",
@@ -1220,51 +1257,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-ford-delays-self-driving-taxis-to-2022.md",
-      "title": "Ford delays self-driving taxis to 2022",
-      "excerpt": "Ford is putting the future of autonomous driving on hold until 2022 as it grapples with the COVID-19 pandemic.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/ford-delays-self-driving-taxis-to-2022-231030762.html",
-      "ampWebUrl": "https://www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html",
-      "publishedDateTime": "2020-04-28T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffaaa14f0-899e-11ea-afdf-5a87c7809954&client=amp-blogside-v2&signature=0b6f392a8bccfb903035225147ea3a24dd7fe351",
-          "width": 600,
-          "height": 350,
-          "title": "Ford delays self-driving taxis to 2022",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

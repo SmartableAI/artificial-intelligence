@@ -24,19 +24,6 @@ images:
     title: "Coronavirus Tests The Value Of Artificial Intelligence In Medicine"
 
 related:
-  - title: "Coronavirus tests the value of artificial intelligence in medicine"
-    excerpt: "The machine-learning programs scroll through millions of pieces of data to detect patterns that may be hard for clinicians to discern. Yet few of the algorithms have been rigorously tested against standard procedures."
-    publishedDateTime: 2020-05-22T13:55:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/coronavirus-tests-value-artificial-intelligence-medicine"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 39
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1590154536/xrays.png?Nd_QGcn8yDOQnMg9dgOFPubBxLmN0BeG"
-        width: 1350
-        height: 900
   - title: "COVID-19 tests the value of artificial intelligence in medicine"
     excerpt: "It has now been applied to more than 6,000 chest X-rays, and it's providing some value in diagnosis, said Hsiao, the director of UCSD's augmented imaging and artificial intelligence data analytics laboratory."
     publishedDateTime: 2020-05-22T16:03:00Z
@@ -50,6 +37,19 @@ related:
       - url: "https://www.modernhealthcare.com/s3/files/styles/800x600/public/artificial-intelligence-4469138_1280_i.jpg"
         width: 800
         height: 600
+  - title: "Coronavirus Tests The Value Of Artificial Intelligence In Medicine"
+    excerpt: "Overall, AI's implementation in everyday clinical care is less common than hype over the technology would suggest. Yet the coronavirus crisis has inspired some hospital systems to accelerate promising applications."
+    publishedDateTime: 2020-05-22T10:44:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/coronavirus-tests-value-artificial-intelligence-medicine-0"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 37
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/ai-coronavirus-shutterstock_1664625346.jpg"
+        width: 2732
+        height: 1200
 
 secured: "eaCuP3bBDlRkEVdDlxezJr/7G0j7EmG/lKluODMwL0gPmH/zkH3qjsCGWrAh7rNWdHLUfNB0dXBXPu1fPZ+9AjKR0T4nxxrC/4oVpf9wq4SXf994nBJNnIyEWEkvm90KC2eLZ+pTnClQ9I8CjmF43T4+wnacSi7/t9zmDJEZbCDn0oppWcPthtyguopm/L10/Is4yc9tJuipyhmK/hDQivV7VWtML/eOSpcPMa8mBk6Q2M8m49uk7tQPkhG2hG3EieFH+4mssgMFJ+WwBBGvxI+XVWAFKgMiT/gjzVp5SgV0WP7AGz+qaqDatpQlKvDbzsamlpnlwikGokOxxzNTsO1A5wxBxhkkd+RjI+6QefbhTJQBYjR6ZRypw3LrWQydNo3vaZmhCzVHNNWgxZZhtJ0eYTBOEIi/QdYaXioinIzf1StNoZYtF+jcNvZGg0KU76c/CAalUboDG29d4ZWGax+Fv2P2bdvkaxdPeNcWmIs=;IImSMrEds4yYHvfBbaRTRg=="
 ---

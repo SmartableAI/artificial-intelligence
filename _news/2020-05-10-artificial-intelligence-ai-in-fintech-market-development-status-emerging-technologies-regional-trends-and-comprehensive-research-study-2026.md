@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026"
-excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 10, 2020 (AmericaNewsHour) -- Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 40.4 % over the forecast period 2020-2026. Artificial ..."
-publishedDateTime: 2020-05-10T10:11:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026-2020-05-10?tesla=y"
+excerpt: "Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion in 2019 and is anticipated"
+publishedDateTime: 2020-05-10T10:09:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026-2020-05-10"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026"
 
-secured: "YkEvoYQPM9unEfD+OEiknHZS0zoxIi6MxaHdsnm0gxcGTINRuUS4awKdJbm1jeAUwzb6FuyPgEsSWWeNoTaI6AtLhzmKE/+Pk90HP1LhQG0iRc3gxuY7FHCY2TR9D72v+5/XIDdndnzK7Dvfci/SqzeQsVuhUP++IMpMMkLf5YxKDBX1ulaGo5LndOKFAvnP2oiLVwx/k4uBb0aehbXt39cIzvGuqnAup0aiiRciHBgRRIJHOXEEtnKtW2HylosMVtuu/CVPMRjswWxS9DwnqOhobrT5aDVDBH4TPX/QKHmIkkPcNjOkmhaLGRi33eOy;Qx4xdKFrwbqPs4S5SKFIpg=="
+secured: "QlTmCtx2BD2HCTnmWHKRl6gr1sbxrx4ZMAtn4yWT+KVrc6dBBB70IpohKAL9y6A0mVyZJYCC/mVkdfheKVGkxFbxso/zU93HsMXrHtvUlXKyQaBt7QdKhcPHvbtLlhumSTN5kACH7fKYqTvp7Qg6GK8QImsyRgaanpPRZZw7juu5TH3y+8Ufrvy69xIS6vmIdHmCT8+lEJGAk7rAGIO2jvcxoSt3EKrZ+CvN2YBVKp+YOLpfqDagN91UMI+ym6cwFaLQZPpqzauQZiyxgZ4sX8VCcW/P+c77L8tfY3Mxn3XSqWjY9rMhBSIaXQ8wt57D;Ih0/WJNjiNeCIDnHU0N3bg=="
 ---
 

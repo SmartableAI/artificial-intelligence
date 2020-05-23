@@ -2,6 +2,44 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-06-unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool.md",
+      "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
+      "excerpt": "A team of materials scientists at Lawrence Berkeley National Laboratory (Berkeley Lab) – scientists who normally spend their time researching things like high-performance materials for thermoelectrics",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/",
+      "ampWebUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
+      "publishedDateTime": "2020-05-06T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus.md",
       "title": "Facebook cancels its 2020-2021 AI Residency program due to coronavirus",
       "excerpt": "Facebook today announced that it plans to cancel its 2020-2021 in-person AI Residency program as a result of the novel coronavirus pandemic. In a statement sent to VentureBeat via email, Facebook vice president of AI Jerome Pesenti said that the decision was motivated by health and safety concerns.",
@@ -1006,51 +1044,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools.md",
-      "title": "Programming languages: Python developers reveal what they use it for and their top tools",
-      "excerpt": "New global survey shows that Python developers love machine learning, but just don't call them data scientists.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "publishedDateTime": "2020-05-06T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/22/a17d7717-dbc3-4b7f-b230-403db29add1b/thumbnail/1200x675/7791e5900ab4aa0f77cb2a33e9ca29d9/developer-demand-for-python-skills-has-e-5dd7bd800aef250001f131fb-1-nov-22-2019-11-48-21-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Programming languages: Python developers reveal what they use it for and their top tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

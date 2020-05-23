@@ -2,6 +2,42 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2020-01-28-yogi-raises-23m-uses-neural-networking-to-reconstruct-the-entire-customer-feedback-process.md",
+      "title": "Yogi Raises $2.3M Uses Neural Networking to Reconstruct the Entire Customer Feedback Process",
+      "excerpt": "Customer feedback ... to the Yogi platform while also adding more functionality to our product. What’s your favorite restaurant in the city? I’m all about getting my day started right, so nothing beats a Sausage, Egg, & Cheese Bagel at New York City ...",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.alleywatch.com/2020/01/yogi-customer-feedback-platform-neural-gautum-kanumuru/",
+      "ampWebUrl": "https://www.alleywatch.com/2020/01/yogi-customer-feedback-platform-neural-gautum-kanumuru/amp/",
+      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/01/yogi-customer-feedback-platform-neural-gautum-kanumuru/amp/",
+      "publishedDateTime": "2020-01-28T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "alleywatch.com",
+        "domain": "alleywatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/01/Gautam_Kanumuru_Yogi-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Yogi Raises $2.3M Uses Neural Networking to Reconstruct the Entire Customer Feedback Process",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-general-motors-to-build-cruise-origin-electric-self-driving-shuttle-electric-trucks-in-detroit.md",
       "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
       "excerpt": "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ...",
@@ -1224,43 +1260,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
-      "title": "AI can help cancer patients start radiation therapy sooner",
-      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
-      "publishedDateTime": "2020-01-27T18:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "AI can help cancer patients start radiation therapy sooner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -35,15 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
-  - title: "Global Tech Company NTT Selects PlateSmart as Vehicle Recognition Vendor"
-    excerpt: "Oldsmar, FL, United States, 2020/05/18 - PlateSmart completes vetting process to provide ALPR-based vehicle recognition solutions to NTT customers - NTT.co.jp / PlateSmart.com."
-    publishedDateTime: 2020-05-18T22:59:00Z
-    webUrl: "https://www.newswiretoday.com/news/172915/Global-Tech-Company-NTT-Selects-PlateSmart-as-Vehicle-Recognition-Vendor/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 3
 
 secured: "+6hHl9Cad/ai2O1vMdXTVfKkJUYL5RABq+fwbXVZfAuhYjmFkYWsq+hKz14aaWQ92sYtw6pIqKzbAUFKBa6xGqbZEzAOJGS1KnCzzTCaDt9fwnqizkTca/go8bFJUvZWIkZRZ8aENXyTdg0JAuUCfGaQPhczfvQXQyh4qGyNYoQfLCbEMNTe0BHBKYfYZh+RbR6iN1OJmbdMkYRvr4d7NKnInI2sy0zs2uX0omozeGHL6j75m5a4J9/4oxLbFa2V6r9Obm9tWFS5A9J0k2cWNHKdhcc8TzjW+1ZzknqksXMNu1sJHoNt2CgjFoxKiVxEsSvHSLU36yzR2CKrv6cUxJhR1jJpiGZbDunQqmdR2Acg4qWIiqxZh9aoRwsDCBhyFiYiubl7uyYIXG2IfCGVJ/UKbjD2AxT9fuQhKDlOes38gC0m3LRqDuf6CQd7FZbExA/Z9esuQ7HMFeasGfhan3s0AnnbcUwySlUCjBl51e8=;dUy/DZorNtZNR6A7taHOfQ=="
 ---

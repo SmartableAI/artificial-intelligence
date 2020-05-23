@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-and-sony-to-create-smart-camera-solutions-for-ai-enabled-image-sensor.md",
+      "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
+      "excerpt": "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced.",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
+      "publishedDateTime": "2020-05-18T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg",
+          "width": 360,
+          "height": 300,
+          "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-sony-to-use-microsofts-azure-ai-technology-in-new-smart-camera-sensors.md",
       "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
       "excerpt": "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also",
@@ -764,7 +810,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200512005274/en/Dr.-Ranveer-Chandra-Chief-Scientist-Microsoft-Azure",
+      "webUrl": "https://www.businesswire.com/news/home/20200512005274/en/Dr.-Ranveer-Chandra-Chief-Scientist-Microsoft-Azure/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A==",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-12T07:23:00-07:00",
@@ -1241,51 +1287,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools.md",
-      "title": "Programming languages: Python developers reveal what they use it for and their top tools",
-      "excerpt": "New global survey shows that Python developers love machine learning, but just don't call them data scientists.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
-      "publishedDateTime": "2020-05-06T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/22/a17d7717-dbc3-4b7f-b230-403db29add1b/thumbnail/1200x675/7791e5900ab4aa0f77cb2a33e9ca29d9/developer-demand-for-python-skills-has-e-5dd7bd800aef250001f131fb-1-nov-22-2019-11-48-21-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Programming languages: Python developers reveal what they use it for and their top tools",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

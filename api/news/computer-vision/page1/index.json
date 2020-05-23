@@ -159,43 +159,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-20-global-tech-company-ntt-selects-platesmart-as-vehicle-recognition-vendor.md",
-      "title": "Global Tech Company NTT Selects PlateSmart as Vehicle Recognition Vendor",
-      "excerpt": "PlateSmart Technologies, which applies cutting-edge AI and deep learning technologies to its automatic license plate recognition (ALPR)-based vehicle recognition solutions, announced it was selected by NTT Corporation (NTT) to be an official provider of ALPR,",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-tech-company-ntt-selects-platesmart-as-vehicle-recognition-vendor-1029221414",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-tech-company-ntt-selects-platesmart-as-vehicle-recognition-vendor-1029221414",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-tech-company-ntt-selects-platesmart-as-vehicle-recognition-vendor-1029221414",
-      "publishedDateTime": "2020-05-20T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-20-ios-135-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing.md",
       "title": "iOS 13.5 released: Faster unlock with face masks plus COVID-19 contact tracing",
       "excerpt": "Apple has released iOS 13.5, bringing exposure notification for COVID-19 contact tracing as well as a quicker way to unlock your iPhone when you’re wearing a face mask. Released as a gold",
@@ -1234,6 +1197,52 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-clearview-ai-to-stop-providing-facial-recognition-to-private-companies.md",
+      "title": "Clearview AI to stop providing facial recognition to private companies",
+      "excerpt": "Maker of controversial says it's cutting off anyone not associated with government or law enforcement entities.",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
+      "publishedDateTime": "2020-05-07T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/tcvCfks6e4V39F8bVmD3sLv2B3o=/756x567/2020/05/08/8c6c9808-f26e-4358-9f9d-8cf65d0c04d3/gettyimages-1189384731.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview AI to stop providing facial recognition to private companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

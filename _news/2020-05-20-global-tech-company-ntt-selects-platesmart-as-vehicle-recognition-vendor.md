@@ -8,8 +8,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/global-tech-company-ntt
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-tech-company-ntt-selects-platesmart-as-vehicle-recognition-vendor-1029221414"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Business Insider
@@ -37,15 +37,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
         width: 1920
         height: 1080
-  - title: "Global Tech Company NTT Selects PlateSmart as Vehicle Recognition Vendor"
-    excerpt: "Oldsmar, FL, United States, 2020/05/18 - PlateSmart completes vetting process to provide ALPR-based vehicle recognition solutions to NTT customers - NTT.co.jp / PlateSmart.com."
-    publishedDateTime: 2020-05-18T22:59:00Z
-    webUrl: "https://www.newswiretoday.com/news/172915/Global-Tech-Company-NTT-Selects-PlateSmart-as-Vehicle-Recognition-Vendor/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 3
 
 secured: "DhutK1T/cdnrirdY5zy0kvBV0+NPZ1AccEvwWfCIj0peMgFiS3jKBTucSoSUHRJx0/lbfqEfW23Qr9mkFZHiCBsgpqokPyEkLxJ7IiHPAkcM0uezR2m64bwD1SAljOTF4GenTw/OK5Uw3nyOc3SMp6MqBmI0mekyM/CoVeym4KP6UMVXOUyazsbFrcuTCcF9ShX9iBcjrjy04BDCAVjCyuQIPgzpcsueFuHb3LNXyAVFGRI3GVGOiV8qnaP52fK6p8sDZ9Tv9IDPRmF0LSahbhWCJpyq6ApncN9fDk4gkfRuRFbY3Vd+4BdUtugUmAGd;zTiKMMqXNyAOogZl6sIqcw=="
 ---

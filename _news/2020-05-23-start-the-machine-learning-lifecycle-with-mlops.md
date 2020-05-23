@@ -27,6 +27,6 @@ images:
     height: 400
     title: "Start the machine learning lifecycle with MLOps"
 
-secured: "pB0LEieve5On9lJDHWqsogCiiE6aEHJ0oxnB7fht2GpuVLt0vPKpWio2KUMmF6G9LX/NitGaizqb4NxZQ3u6ZbzUCHAHtHJdDaSpe6EX5sxwuKzoSYX9mbcDA0XeDPneW3Qh3lTXm45z/6S69VFELt8SE/FdZEOXtPnODaSq5LXWXGEkQKceo11u8hXFPfdG/g7pS9EJhc7cvJ/oHzu7zPlA0qsLk/hTgxvqbuTMyfp/V4Lq91G3atdgg3aH0xLCi/7+jMo+HnkZLwgZruKSuMg3FvUcrKCcFjzZrkWVhYQr/+M4eQkCu+dqsRyUy9ay;JHE6lbkwpJM+28iiVTlz5g=="
+secured: "n+NfFJLPvwvXlyxehJlCZ+re6FwUrYWQQFM0UkwMWa+4xLTRgHL/t+RwXz+VNjwypgTR1XBH7kPC/9JPMLrrzBlBiDhHZDBOAuiExLj37dPmNwIhI57HUCDLrKVpqVan0mytlsJJsVOoTkDDSXZz1RA62oDNrKn6mcROCHfrigHvWQQsKSp0QB67sNKvm7+iOgXems7gOti6PkHjcJlkb1tBddOHwfunA3goZM9zMQRtPXfqYqhkP8E4cuix2zCKQkzoJK6GbaYP0dWpRt0gKTe/9l9SCvF/9KfQj+uNndNi0OLwtV80lxo/7dk5bfg9jI4n8OZLCbI/fRR/UN3E77MLlwNEEfeun3GbSD5IiHIc4TXxc8BMdKbrj7hf/IBMZkt5Jancb/1FJeYZpRbo34/2GslTzOcJV4fIxpsv4GKK3Ed7KTMjriVTLICxjWAuvh+aJ/vVa2wqDvgkop6NVKR1zOcDkivDoj6NIqa1cVo=;/au4kbyLDzJ+HZODwA6I/g=="
 ---
 
