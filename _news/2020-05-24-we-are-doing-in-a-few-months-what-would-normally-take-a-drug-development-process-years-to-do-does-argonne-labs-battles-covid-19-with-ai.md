@@ -29,6 +29,6 @@ images:
     height: 289
     title: "‘We are doing in a few months what would normally take a drug development process years to do’: DoE’s Argonne Labs battles COVID-19 with AI"
 
-secured: "x6UD0FzzHsrVfIzP0mJ91RzbewMeaEZ/APkK1udwHJKqgfybKTdsZnE/yk9xgGcsHC0AeCBQ04VWxbzg+hhwBkyiipQ53ppKEFkXFSk3KCAqEY+5KoB4MyhTzEPE6tystJ1UMtfUnNf31R6VuT8N0CGIxbw/DAKSfomVMcn3gT16o1NKWsj5f6RQfqFYy9Ju6SKdy0a7Fa/Vp2+KgkmGlYJMxS7w1P2K/UfMuDTBeKymewAW+R4bCYQZPsgF+CTK8qxmmSApDFt3fUEyw/4LPc7Mz4fFo/QkLqCzP+pXBH0OD7oJ0JBlkpeboiNoDInq;dPc9SVsCZ5I/nH1NVLKcHQ=="
+secured: "CkVNGjJgB2EA4ndzJpLjVf4CNp0wWd75YOsq5dgj5Ga8xMr4iMWa7jvrJgTJlgbugiATY8aFAvrAmZzheTL4cgPvnGyekWlHQhaqKJ8OKVPA3HDF188mhKrMQVETACXUNJXNmgRjFD+iQqSvsDJglw2GH8uSH0zZULdwffbNGgMYX027P0rUBGvwfO0VC4IZUC5pwKV8koG/gGAIozTEMffN5oxJ8TlTyNUntaADHmIv0+E2Njx6EG+7/VE4bOcRTA1+/SeJN5ExDd++u9l26NQ5xAPx6dIs2gQclfajlACHd4LugcH7BFwHMravNNUe+r47Wpv9Zzhp38HyHmfwX5mqixjmPphIOy6NrlH4ZElwsCC62Uf+fdnkN3J3O6Fo0NBIYO6QHf01n/eI/BOMbYD0VYkMTCZ1XnI3Tp7NAGa1AYpIanxoB2IET76mtkKLQgQq76rDbHO65sw77EUGjjbtMWzXLfBLFUHVwLeydFE=;lHrtzTJosDpwzKEXzDi3YQ=="
 ---
 

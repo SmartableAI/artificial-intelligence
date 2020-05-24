@@ -3,7 +3,7 @@ category: news
 title: "Self-driving shuttle can carry people again"
 excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions."
 publishedDateTime: 2020-05-24T06:43:00Z
-webUrl: "https://www.arkansasonline.com/news/2020/may/24/self-driving-shuttle-can-carry-people-a/?business"
+webUrl: "https://www.arkansasonline.com/news/2020/may/24/self-driving-shuttle-can-carry-people-a/"
 type: article
 quality: 39
 heat: 39
@@ -62,6 +62,6 @@ related:
       domain: foxbusiness.com
     quality: 24
 
-secured: "ZTDJd5fcD4Qw7GraGOwuQAdHaucTqyGMmWoXhOtLl6tKHoDOLiQWLUp/QQlwKAtS5+jUSJ1s/sA2pK03cTqjnSnrQawIa3sC5YIUeM7eoFfIdZEUBtyturPsYOO1GcSj87Bt/7phX/4yaOm9MTGlB9gL+q6q5mowwsSftzZ7txSZLfiDw4F2NFc8nTrE6+UG+QUbxkJPJZ49xnCccZ1o7d7IYi+UCssiG7XdyF3H+hlZFJ5UwL9EMfyi7m2p+JGYDiBJ+bKgMyL+qVXA+/YbHISdeEwzBMBn7XLuRxGpGq3Hxiv0kgan5ho2rle0CJbG2yXwvKz9K9357LcS9G5QVEetHYFtA5l5cthJFwTxAY4cF6Vjse/xW3fhNFaILrQxU8Z7UNQTlsk8XctWIEANarQV/bNkSpXNIXIGfA3pOiZBnyW9ASn/HXajACLv320Q5+B71GjAfNcNMsC8RAvtPbc+/uGMu1IJVdYsyDVck1o=;cQWqffmF5uFui+RrGoBDqg=="
+secured: "lHU/BJEONqixULK2MXHbF3x3gq47k8dtJSn4jM77sIpjcWKA+E2oGeAnnLQfxt05NPaTNTjkvxusW2Unmbs3Zdl0Nf5eKeOS82rAWtz4N0MHraz9fTNgcT3Foi3OuxqCi1wRv3vgjuqcbUoQNfWl1dY5+mrkOBifZDpgqVE711JFSAXLwXhoMNabKW+S/d8s0OFSSuHxsmNE/p8uTgxD2KkcmnqJE/GqNYmAX04Tkd6i+ho92oEFaCmpNsHb+YpF0zuU1Gp3mNKYC3XeANApZCgjByAnuTJNgRW+hSJnYYKbjuCjCa2oD/VfgY1+SAET;X+6Ls28vxVBtplvPfsvOXA=="
 ---
 

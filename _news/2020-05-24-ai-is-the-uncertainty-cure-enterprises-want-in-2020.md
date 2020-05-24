@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncerta
 ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca991785e6c7000617bd7a%2F0x0.jpg"
@@ -28,6 +29,6 @@ images:
     height: 872
     title: "AI Is The Uncertainty Cure Enterprises Want In 2020"
 
-secured: "akYqguT2x8zQ7fiQxQMifYCpEOGYmx2UaEE7pGlrguukWenF5DAGaMfxA6wG+mgswfxpgB+NcOLaXZy++vpuZRfHFR7YidmJPnOE/QwqIaTXVmRdf7U5bNa7jDol91R/6R9R6o6HrIigMz8MrXLY9Vqv/oN7zUCz7OC9CRJPmwcur6JEXtIR9sQNnLVHAeFw/Qey5gZ4LUTDF2lF5+8rU1hUdUkgVjWI6vn003bjTIudw0Jp13Ptb8t5wZcR/pkKndNdMNj76qaY5tEdVHsUjbaHkd4noVk0AADTlCs7RVbzKXlnzb5UG8vGV/3p1kIk;KSwKPd3h8jedJlGgymOr5g=="
+secured: "rhgjHE/3OU4DcGvJKNi7rUN1D+eQCAEdB91nNljZCfqhspsyjDgVkAVcwoIDqW8iNHNtI82fMcJd8EcNWMtSKFFT3ZQ10fepg9TKFRtlmNuvqKkd6yWlwyk7URKQM7wzsv/whbjNKGWalO4xjyCV0AF2qEr20+892T34GJPE6TiDtj0OtjSb+CKiMVjv90BDIX4wBzBQd0x1SJxjjQYe867JYN75AogLnKAfUQRu41qoqkT2jlLJMSnK5V4tlMkbXIKuHIlrybPhZKPLAG+Yv562KdkJBCkUdKolPM/ArZfKKLTAgED1FgDcjQxykvwtXXAhSQTQO0kVepPGVIXN03eww9IIXxqXRCyh52eL1YoejDGYahzfIAmVQM839CuCHC5tW7h0EH9J6vBJJQ7KtcooAhXtswvoGBJ4PDWFm7qNkgVWuv250yPr0XX/slfcpwqlZ5QetdjgCvYb2HUnMD5qF/kZaGw/g4K4WWqY2I8=;hNZifMCBzlmJMvECdDD30w=="
 ---
 

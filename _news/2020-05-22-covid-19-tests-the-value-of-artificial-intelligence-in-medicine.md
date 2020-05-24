@@ -45,7 +45,7 @@ related:
     provider:
       name: FierceBiotech
       domain: fiercebiotech.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://qtxasset.com/fiercebiotech/1590154536/xrays.png?Nd_QGcn8yDOQnMg9dgOFPubBxLmN0BeG"
         width: 1350

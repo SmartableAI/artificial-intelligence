@@ -5,7 +5,7 @@ excerpt: "The machine-learning programs scroll through millions of pieces of dat
 publishedDateTime: 2020-05-22T13:55:00Z
 webUrl: "https://www.fiercebiotech.com/medtech/coronavirus-tests-value-artificial-intelligence-medicine"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://qtxasset.com/fiercebiotech/1590154536/xrays.png?Nd_QGcn8yDOQnMg9dgOFPubBxLmN0BeG"
