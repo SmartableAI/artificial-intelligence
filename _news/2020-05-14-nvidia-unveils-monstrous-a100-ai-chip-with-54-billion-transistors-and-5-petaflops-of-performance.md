@@ -4,6 +4,8 @@ title: "Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 
 excerpt: "Nvidia unwrapped its Nvidia A100 artificial intelligence chip today, and CEO Jensen Huang called it the ultimate instrument for advancing AI."
 publishedDateTime: 2020-05-14T13:14:00Z
 webUrl: "https://venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/"
+ampWebUrl: "https://venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/amp/"
 type: article
 quality: 71
 heat: 71
@@ -20,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Autos
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/a100.jpg?w=1200&#038;strip=all"

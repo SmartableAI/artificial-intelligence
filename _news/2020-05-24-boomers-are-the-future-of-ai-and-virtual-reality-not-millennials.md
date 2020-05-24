@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Boomers Are the Future of AI and Virtual Reality, Not Millennials"
 
-secured: "PXJJ+XBw8M/SxX57+Fcd7s9Ojq215/CTD2Wwfle9fReSBq5XRW4vVxGzCr1tKRPTbd+DkowFA6rc7kpu16mj0hM1Qv9uxhuTKMxRDMbhFB4IajkcJFy/pI8qCxWjJfswWztmZk3p9AXiFUd9sjxFPmJq7dx9+Xut5BbyruwBTjoY5xtge/emqXMhq2wN8ZH/fNXf/1k+KQb0RpKzGxURqkiKY1Ihy8SASisimGAv0BxK5dgHQqENZlor5E2JcksiCYT41xY1WEtVtVYLQEFlUk3+TcgYXHTV2P/wFM1BOdZkYo6uXXQJ8OuAWcoECOW+;zWgPmqMCdVU5jsIilc2O+Q=="
+secured: "ZocTP1D/vkA2FshjyJe0qj/le/QWFo/yFmhpWP5FJqmtHDAZnGQ+pCrAk1uPBnr889xloVxP2RyWd8Vyk275PCWp3H69Vc2CzeDkytvWKv9xRE26QH+fpTqLHk6i36pOfoCbTVDhjdw2z1Q/13Ix2mnyaEnSMFMb8zzfIcqOnhSzzqVgiuMYsbMo2k09kMcH7OtpLKPVN4xqu5+SdIeqCRjySHqfbAu5YEDO+Qur4C+k1jWRgec3mFkRBisYgdXl/83NE3z0cE6qFB7Cct916bIbh5N3f8cadxwInkmQP1PKz+ajfMqHafKFwGAet+2pss39Ue2KMJ9ftv6u7UCDZb/4h2VYif0y19AWOsm2sCLhouwE/7VQcYMG4OrepTmxX7K3/r7XWrvRtxp6/2hpNjiKJTz1lbUL06+Jdm9YJJVNcPl/yjDHbph156YHAKQCisAMXT0nroXPPsiXwyZzVegLMVHtjq5QmcuL3TGWE/g=;+jnmyHOEZhpG7rj0zDoaGA=="
 ---
 
