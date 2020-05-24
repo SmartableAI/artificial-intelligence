@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-23T05:22:00Z
 webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/level-up-with-microsoft-certified-azure-ai-engineer-associate"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     width: 400
     height: 400
     title: "Level up with Microsoft Certified: Azure AI Engineer Associate"
-
-related:
-  - title: "Microsoft Certified: Azure AI Fundamentals"
-    excerpt: "This certification will be available on or around June 8, 2020. Azure AI Fundamentals validates foundational knowledge of machine learning and artificial intelligence concepts and related Microsoft Azure services."
-    publishedDateTime: 2020-05-19T22:20:00Z
-    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-    images:
-      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
-        width: 400
-        height: 400
 
 secured: "x5sgUrKSFPEVT1J7OOfxitQ8VSJfy11D087S9FlKAiYzcK78P08Fx0pruOdNd4fNpC3+iC5vEtqDLXugWkauTQaDR+MLuobupRPfumWP6Lkoe8FC2whWw59WL8rpgE7urneJ8NdYMSm6Y6x2fm/yiVLXnUQWBknuaf/pn140tdW9qX9McOjHoA+/8xC4u0Yh0mgO12JvbEtF/Q7QnHFwGXDaSxeQUrFsysXjEa2VIEX5b87onj2O0CFxyIzuQ1ELPtDTYFrTppR1MJye1DyEJ/bd9ArCUtpwx/3UezGZsvrdnuCjiuux0EXR6bmEBL0n;aY1Wiv2jiQs5PCnsi3AGIA=="
 ---

@@ -16,6 +16,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "OnMobile acquires 25% stake in AI firm robO"
+    excerpt: "Bengaluru-headquartered mobile entertainment platform OnMobile Global Limited has announced a 25 per cent equity stake acquisition in Artificial Intelligence (AI)-based analytics startup robO through its subsidiary Onmobile Global Solutions Canada Ltd,"
+    publishedDateTime: 2020-05-24T14:34:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200524/3564152.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
+
 secured: "9hpei2FicFGTZOv7g+pJuPQpqZ/vOabC8IN0JTWmevVmGpX4/RqlzLOSf8oN1Ce/nqJfCoHEfB/EKdRUlJeRZSFUTDxD1qA1l7NIP+mL4GvSiAUgQJzpFinNGLcjkYk1/I9bPCD/Nz/8e2NADR+HgiAcERFGgpv6xEi1KvXt5hpjgGzgmsZkzVMQIsPYFeg6Ty5uU1eGu1TWI9/sqrozmp3Xex66FT4/E99mGgvYDScukh/nUGgrDUelOAi1+YoezoWjj2OTmdhkAUkZFIviVhJrAhoIq+RdI95IvoWBgyDcrtUNvCVUO9VGPNkJHdIr;ES35Wp/8HwGm/HAmTaaomg=="
 ---
 
