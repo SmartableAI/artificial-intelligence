@@ -2,51 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-05-20-sphero-startup-will-make-robots-for-government-and-first-responders.md",
-      "title": "Sphero startup will make robots for government and first responders",
-      "excerpt": "Sphero, the company best known for its BB-8 toy robot, has announced the successful spin-off of its Company Six into a startup that will make robots for the government, military use, and more.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/",
-      "ampWebUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
-      "publishedDateTime": "2020-05-20T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/company_six_logo_main.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": "Sphero startup will make robots for government and first responders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-20-the-robots-are-taking-our-jobs-threat-gets-real.md",
       "title": "The Robots-Are-Taking-Our-Jobs Threat Gets Real",
       "excerpt": "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down.",
@@ -424,7 +379,7 @@
       "path": "_news/2020-05-20-face-mask-selfies-are-being-used-to-retrain-facial-recognition-systems.md",
       "title": "Face mask selfies are being used to retrain facial recognition systems",
       "excerpt": "Millions of people started wearing face masks in public settings after the Centers for Disease Control and Prevention (CDC) recommended doing so last month to help slow the spread of Covid-19 when social distancing measures are difficult to maintain.",
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techspot.com/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html",
@@ -506,51 +461,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-influence-of-covid-19-north-america-self-driving-car-market-on-global-trends.md",
-      "title": "Influence of COVID-19 North America Self-driving Car Market, on Global Trends",
-      "excerpt": "May 20, 2020 (AmericaNewsHour) -- North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/influence-of-covid-19-north-america-self-driving-car-market-on-global-trends-2020-05-20",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Influence of COVID-19 North America Self-driving Car Market, on Global Trends",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -687,6 +597,43 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-microsoft-and-openai-team-to-build-a-285000-core-azure-supercomputer.md",
+      "title": "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer",
+      "excerpt": "Microsoft recently announced that it teamed up with OpenAI to create one of the world's fastest supercomputers running on the Azure infrastructure.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hothardware.com/news/openai-supercomputer-by-microsoft",
+      "ampWebUrl": "https://amp.hothardware.com/news/openai-supercomputer-by-microsoft",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/openai-supercomputer-by-microsoft",
+      "publishedDateTime": "2020-05-20T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/51689/content/microsoft-g-building.jpg",
+          "width": 708,
+          "height": 462,
+          "title": "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -874,7 +821,7 @@
       "path": "_news/2020-05-20-google-says-it-wont-build-ai-tools-for-oil-and-gas-drillers.md",
       "title": "Google says it won't build AI tools for oil and gas drillers",
       "excerpt": "Google's announcement followed a report that documents how three tech giants are using AI to help oil companies find and access oil and gas deposits.",
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nbcnews.com/tech/tech-news/google-says-it-won-t-build-ai-tools-oil-gas-n1211076",
@@ -1294,6 +1241,51 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-us-semiconductor-giant-shuts-china-factory-hailed-as-a-miracle-in-blow-to-beijings-chip-plans.md",
+      "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
+      "excerpt": "The winding down of GlobalFoundries’ only Chinese facility was due to poor planning, analysts said, but comes at a time of rising US-China tech tensions.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
+      "ampWebUrl": "https://amp.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
+      "publishedDateTime": "2020-05-20T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/20/607f15f4-9a53-11ea-96ff-7aff439fc3be_image_hires_142028.jpg?itok=h3FEcWGp&v=1589955637",
+          "width": 1200,
+          "height": 630,
+          "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

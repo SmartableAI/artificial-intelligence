@@ -25,64 +25,21 @@ images:
     title: "Google says it won't build AI tools for oil and gas drillers"
 
 related:
-  - title: "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure"
-    excerpt: "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,"
-    publishedDateTime: 2020-05-19T15:13:00Z
-    webUrl: "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/"
-    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/"
+  - title: "Google says it won't build AI tools for oil and gas drillers"
+    excerpt: "Google's announcement followed a report that documents how three tech giants are using AI to help oil companies find and access oil and gas deposits."
+    publishedDateTime: 2020-05-20T12:11:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/google-says-it-won-t-build-ai-tools-oil-gas-n1211076"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1211076"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1211076"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 112
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024"
-        width: 1024
-        height: 652
-  - title: "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer"
-    excerpt: "Microsoft recently announced that it teamed up with OpenAI to create one of the world's fastest supercomputers running on the Azure infrastructure."
-    publishedDateTime: 2020-05-20T14:25:00Z
-    webUrl: "https://hothardware.com/news/openai-supercomputer-by-microsoft"
-    ampWebUrl: "https://amp.hothardware.com/news/openai-supercomputer-by-microsoft"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/openai-supercomputer-by-microsoft"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 89
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/51689/content/microsoft-g-building.jpg"
-        width: 708
-        height: 462
-  - title: "Microsoft built a new AI supercomputer in Azure"
-    excerpt: "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!"
-    publishedDateTime: 2020-05-20T12:59:00Z
-    webUrl: "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/"
-    ampWebUrl: "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp"
-    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp"
-    type: article
-    provider:
-      name: Windows
-      domain: windowsreport.com
-    quality: 89
-    images:
-      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg"
-        width: 1200
-        height: 800
-  - title: "At digital Build conference, Microsoft unifies Windows app development, boosts Teams and AI"
-    excerpt: "Microsoft Corp. kicked off its annual developer conference Build 2020 today with new services to unify Windows application development, additional Teams services and even a supercomputer for artificial intelligence available through its Azure cloud service."
-    publishedDateTime: 2020-05-19T15:08:00Z
-    webUrl: "https://siliconangle.com/2020/05/19/digital-build-conference-microsoft-unifies-windows-app-development-boosts-teams-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/nadellabuild2020-2.png"
-        width: 2560
-        height: 1600
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_21/3357371/200520-oil-ai-google-al-0752_6a6bf87340ba869d23f0d6a33a87699d.jpg"
+        width: 2500
+        height: 1666
 
 secured: "mNrheuPteiggEN/8i28Bi6nifONfN4+OXN+nppg2oRvqgIv1t2Xre5SHx5S9tOzXkwJsJCGsc/3ubH6pnoJpaP5cMoaG5dhXj+tN6HnEEgoLaP6VNdjtT9dvj6T8F7TSymd7wy7RBgVn1dZcu208EUGOybsAJ7Q22T6Fj3Rlnkw0UNpOMULBzF0JWi0ZA9UkeI2Y7xUkv7++8/G6S+TrhBg+BnQGUBCGbm0d2Dco+DhxhVNHdh3lhPumIOTprVsbgcRe7PvbMOI/O9yFKaEG3fq+zoOU7vxPCIH4btdviCwyA3gveMORX7ihfF3K0l8JJmwRlnlzy59nl/RLGVd+Z/O3vemoLjZUgUuX6yg8cPmoOnnTJonAuvX56XX9PniQdVlyBBgQDCusY5qWhbAoqbrxDZ7MizAerexLbk2Mrm5SfRZ/homzgxNHuYxHEtMR07pJ9hhYd0JSvOHbgW4srYJbDBVxWOa7vrq1qbnzArg=;9vCENUquz3gOXirgdkBfRg=="
 ---

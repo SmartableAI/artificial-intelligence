@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-builds-massive-superc
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -31,6 +31,21 @@ images:
     title: "Microsoft builds massive supercomputer for smarter AI"
 
 related:
+  - title: "Microsoft built a new AI supercomputer in Azure"
+    excerpt: "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!"
+    publishedDateTime: 2020-05-20T12:59:00Z
+    webUrl: "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/"
+    ampWebUrl: "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 89
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg"
+        width: 1200
+        height: 800
   - title: "Microsoft Says It’s Built a Top-Five Supercomputer in the Cloud for AI"
     excerpt: "Future machine learning models will be enormous. The OpenAI system shows that hyperscale cloud platforms can take them on."
     publishedDateTime: 2020-05-21T16:50:00Z

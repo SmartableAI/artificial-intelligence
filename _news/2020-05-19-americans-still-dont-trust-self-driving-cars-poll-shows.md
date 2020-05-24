@@ -24,21 +24,6 @@ images:
     title: "Americans still don’t trust self-driving cars, poll shows"
 
 related:
-  - title: "Americans don't know why they don't trust self-driving cars"
-    excerpt: "A new survey from PAVE suggests self-driving car companies have a long way to go before they people trust their vehicles."
-    publishedDateTime: 2020-05-19T15:45:00Z
-    webUrl: "https://www.engadget.com/pave-self-driving-car-survey-154045444.html"
-    ampWebUrl: "https://www.engadget.com/amp/pave-self-driving-car-survey-154045444.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/pave-self-driving-car-survey-154045444.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=22628d1961500d0e3c76b6997a86c05744eeaae8"
-        width: 600
-        height: 400
   - title: "Americans still don’t trust self-driving cars, poll shows"
     excerpt: "Nearly half of Americans say they would not get in a self-driving taxi, according to a poll commissioned by the advocacy group Partners for Automated Vehicle Education."
     publishedDateTime: 2020-05-22T19:31:00Z

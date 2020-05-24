@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-05-artificial-intelligence-covid
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-05-artificial-intelligence-covid-.amp"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Mount Sinai’s AI can diagnose COVID-19"
-    excerpt: "Researchers from Mount Sinai believe they are the first in the US to use AI, combined with imaging and clinical data, to diagnose COVID-19."
-    publishedDateTime: 2020-05-19T15:29:00Z
-    webUrl: "https://www.engadget.com/mount-sinai-ai-diagnoses-covid-19-152430735.html"
-    ampWebUrl: "https://www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-152430735.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-152430735.html"
+  - title: "AI-powered diagnostics repurposed for rapid assessment and triage of seriously ill COVID-19 patients"
+    excerpt: "Heart disease is now known to be both a cause and an effect of serious COVID-19 infection, with more than 1 in 10 patients who have underlying cardiac conditions being killed by the virus, while others with no previous record of cardiovascular problems are suffering significant COVID-19 induced weakening of their hearts."
+    publishedDateTime: 2020-05-20T16:50:00Z
+    webUrl: "https://www.bioworld.com/articles/435221-ai-powered-diagnostics-repurposed-for-rapid-assessment-and-triage-of-seriously-ill-covid-19-patients"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: BioWorld
+      domain: bioworld.com
+    quality: 24
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F1b148db0-99df-11ea-bffc-6f21960ebf57&client=amp-blogside-v2&signature=289127313e83e511d92b33c506a4697f8eb8a732"
-        width: 600
-        height: 350
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Cardiovascular/heart-AI.png?height=635&t=1589928752&width=1200"
+        width: 847
+        height: 635
 
 secured: "9V7z491kj/VXbEMmvY6sa9IHLRcE7UxBRBZP4xhxoVoSI046eHDUjMlQXaDO0HNBeiezrM2ErLRN2DImOFUtdq+JqiFPB9D+Y1mxCXo+OcL8USQymGVSnutkNtDKbbvclnmrQREQtu0z11ZoIRhd+RhzPYb1tVnQKlvDsZBi768Q36cwwU9ZSK+ZAujN5K+GkUI8OdegS8cSl65T2UoKdNGmbMAH463HpC94pl1cY6L7nZ5ctPVTmqyDi21DnxvVC4ifInDISWJVB1psG8WTaHBCys0ZKQDs1OepBmmZsvm6C5tQCJLENFy0QTt7zgt3/LyntzGG88T/FYKGlKJd4xXxa6gZ/PV5dR0HqMRvWKenTgpkNviAxftzmlyiVd1OBys+wzfcD8JHTLQSXO20tcX78y/ldomPjWgEidj2ZCJlL2bak3MxqqC9phn4Llei2cNa/wXi8I6UTnbMQVYEuOl241KTaF1fGDQ34DyzD5I=;cFERTTgmRd3spk7s+HdwYw=="
 ---

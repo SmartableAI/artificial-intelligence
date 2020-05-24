@@ -41,6 +41,21 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg"
         width: 756
         height: 567
+  - title: "Microsoft built a new AI supercomputer in Azure"
+    excerpt: "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!"
+    publishedDateTime: 2020-05-20T12:59:00Z
+    webUrl: "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/"
+    ampWebUrl: "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 89
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg"
+        width: 1200
+        height: 800
   - title: "Microsoft builds huge cloud-based AI supercomputer for OpenAI"
     excerpt: "Microsoft announced on Tuesday that it has built a massive supercomputer for OpenAI, a company with a mission to build an artificial general intelligence that will benefit humanity as a whole. The announcement came at Microsoft's Build 2020 developer conference,"
     publishedDateTime: 2020-05-20T08:07:00Z

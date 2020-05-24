@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-20T16:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/influence-of-covid-19-north-america-self-driving-car-market-on-global-trends-2020-05-20"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: MarketWatch
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Influence of COVID-19, Self-Driving Car Market Growth Opportunity During COVID-19 Pandemic"
-    excerpt: "May 19, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
-    publishedDateTime: 2020-05-19T16:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/influence-of-covid-19-self-driving-car-market-growth-opportunity-during-covid-19-pandemic-2020-05-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026"
-excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 10, 2020 (AmericaNewsHour) -- Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 40.4 % over the forecast period 2020-2026. Artificial ..."
-publishedDateTime: 2020-05-10T10:11:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026-2020-05-10?tesla=y"
+excerpt: "Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion in 2019 and is anticipated"
+publishedDateTime: 2020-05-10T10:09:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026-2020-05-10"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026"
 
-secured: "NHv4e/y8vRKOGWD4JLw9n9bEYVJ/vi/BmCERPMB1AgFAmxAsdtp6fln6sChdsxTLsceqXuSpTUGkt0c7cdirMiHiW1KSnwQsrXbgMo1HeNnMiTUlfRwKIScCl4VzfUIXpSewhU/qYfgL1nZSKoXhRQ9lbldC1KI34pFPJKFnreVtW/08Rg9M5A5SgaeW7GoUKjGWFF9txziGV3bFOu/icE4CQLTJ1mZOG2jhnvioKSHNBFcFiWwB3xJYE8gVDiTEbysBF4aTQhdojeSeyafnk2J28A0YtR3nuhDRryKCcxd2x5pyYeSDiQs7y27BFn9N;Zm23yT5sDvxIDeze4+hu1g=="
+secured: "dikLC0z8Nf+UrccbFbW2v/SUE/GZ2q9ROU1jQyiGpwjNzlcjB/jkOvjf284sL9L8GRCM6u4+PI4mqdVJVFppQFk2Jl3BaGje4BFOsug7CoIf3P/5zV20g/ePPp7a8HBatge1meSL0mrsTW+uhEfZn0SjtRBkSYqqT5BI3XdBtyCGnERLT1asHhC9haDVk6cTTFAHucSVeqsjfCw6uoa1RcdeBN/RVtJHZ9PKq/3PBuNMdewYnAEQsR8FdrroutRZ486J+XQKkGMZXHcsK921rSo70kByeGEOqX7AnCiSc0ewYQ7hoZuojKszJgdOXzev;IjXvlkB1aSxKf6KlTKskQQ=="
 ---
 

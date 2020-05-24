@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Coronavirus Tests The Value Of Artificial Intelligence In Medicine"
-excerpt: "Overall, AI's implementation in everyday clinical care is less common than hype over the technology would suggest. Yet the coronavirus crisis has inspired some hospital systems to accelerate promising applications."
-publishedDateTime: 2020-05-22T10:44:00Z
-webUrl: "https://www.healthleadersmedia.com/innovation/coronavirus-tests-value-artificial-intelligence-medicine-0"
+title: "Coronavirus tests the value of artificial intelligence in medicine"
+excerpt: "The machine-learning programs scroll through millions of pieces of data to detect patterns that may be hard for clinicians to discern. Yet few of the algorithms have been rigorously tested against standard procedures."
+publishedDateTime: 2020-05-22T13:55:00Z
+webUrl: "https://www.fiercebiotech.com/medtech/coronavirus-tests-value-artificial-intelligence-medicine"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: HealthLeaders Media
-  domain: healthleadersmedia.com
+  name: FierceBiotech
+  domain: fiercebiotech.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.healthleadersmedia.com/sites/hlmp/files/ai-coronavirus-shutterstock_1664625346.jpg"
-    width: 2732
-    height: 1200
-    title: "Coronavirus Tests The Value Of Artificial Intelligence In Medicine"
+  - url: "https://qtxasset.com/fiercebiotech/1590154536/xrays.png?Nd_QGcn8yDOQnMg9dgOFPubBxLmN0BeG"
+    width: 1350
+    height: 900
+    title: "Coronavirus tests the value of artificial intelligence in medicine"
 
 related:
   - title: "Coronavirus Tests The Value Of Artificial Intelligence In Medicine"
@@ -50,6 +50,6 @@ related:
         width: 800
         height: 600
 
-secured: "wh+n3he9S2vlgwYyCsGKF5QTgeAR5nbALJ/ju6onA+2l9JLmuZ1TFTQULDLtHQOR9lWfqZyvniekI9HjrO8HVY+yUlFMeXM9zX19g0CG7GbFhDt1mADm3OFvxPzkFEtIpLR7XNBD7TnUEM/7waUj+9j0zYp75uFGVoHzXnF9WT9gGYOkkwS3t/n6UiBam4v3sDyL7EmYFPMx4aq/bM4AZsUj9xY8uVXl4ztMaqShzikUxtvfCaIw5QANf2EMt0a7r9jFmfz7mBmEi6oGrYCfOY6o8SST/+ehYfjTnGu9PYDNWm5kCX4+ZCa8jf4Xv2x8h/L/6Un4TxUINtpENifU8sUMYnL27W6oclyjrPoBhHrSc/MJhBQm0mLc49gn/1j0zadAdFDgpT1azZnNCZL5J7SpJt7km3o9egTUtpPQphMz+zTwXzukmqfWKdQymo5oFZMxn8GAIs/t1ZR0fP3mkD519GE2CVN42a9/qXemio8=;06q3dMm4GMfRYyaKTkr80Q=="
+secured: "kpsCRGSGFW0aMtQ0ClIztHO3oxPI0gk4wb4U0HWYn5AnrYEW9Lxvu50F1+S834gsRuIydKiwivJbABw+YRFfN72n5aXrtyMvZV/tnZ9o8WjlCnQtjTnO/wkZQb81/tD1Lw0TOMnhQd8phg92h4hJohn6zZgHkO9TsFHGqYz8nOuniUxBAv/BsQh6cGW4rhsdFBYIvQ9DfaSwO1OZ8pcgDKTwjQFYpJaAY3dakjjfiT7p5S3+TQ9cHbk5OJ7atTEWGI8oL1T7v4IhZNg4Pqw7mRVDQiweHdFhq9Ge/jxARflfdDO2WKm6LYLrQLCLj+5K;iwXWnvxaPkWjjnjry7yD8A=="
 ---
 

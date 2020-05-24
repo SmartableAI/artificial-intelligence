@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1211076"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1211076"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -23,6 +23,23 @@ images:
     width: 2500
     height: 1666
     title: "Google says it won't build AI tools for oil and gas drillers"
+
+related:
+  - title: "Google says it won't build AI tools for oil and gas drillers"
+    excerpt: "Google says it will no longer build custom artificial intelligence tools for speeding up oil and gas extraction, separating itself from cloud computing rivals Microsoft and Amazon. A statement from the company Tuesday followed a Greenpeace report that documents how the three tech giants are using AI and computing power to help oil companies find and access oil and gas deposits in the U."
+    publishedDateTime: 2020-05-19T19:32:00Z
+    webUrl: "https://www.chron.com/news/article/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Google-backs-off-on-AI-for-oil-and-gas-extraction-15280615.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 57
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
 
 secured: "xo+5nCGlGiwu80at3+1IXvKPOVs/eB6Dmpz3kcFmWsPUpiRDpl1kcp0RbtEUjGB8fO8YNyRuOqzU/rEwCV6mOqcOFsIKFePsUcQIymWy4gaOTXCiONiiB421uqwkZPHCH5stD46740fIIorTMcSA/9qoZNMDUK/msaTHSV+nIwZ1ZEnZj+fLxaUe3L8RYM6SOoTLv73Sgm20p2Qi5wy1SdqxLQ2PmOfGJ0D4F43rDkZKZyXk6LCSeL0JsCbna6Noxzc87F9xb81rUbaUoyXwUpG4ErfGhDRUs/U3xxzPmK8M3loyKCUh362fkmyDr8vgt3rtLWqOBrXe1rN3B4ZZIVPmsBn6Vr7CFCrW6FXxfm2Sly2c0BZS2xhdswq76ZmBgxZhJbvu5yGH6C5Y6xiBSXAkqKLLhv3zT80zga4yNalWiDv3QjET1mfMlLflwzdjq9G1KiybOUWpqVts8JgL0UO/BDiHG7E1vVBCGIg7acI=;mVSyo6o+42P3BBUBPU2ojg=="
 ---

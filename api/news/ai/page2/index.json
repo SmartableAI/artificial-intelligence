@@ -1214,30 +1214,38 @@
       ]
     },
     {
-      "path": "_news/2020-05-21-microsofts-ai-supercomputer-on-azure-combinations-of-perceptual-domains.md",
-      "title": "Microsoft’s AI Supercomputer on Azure: ‘Combinations of Perceptual Domains’",
-      "excerpt": "Microsoft has unveiled a supercomputing monster – the world’s fifth most powerful, according to the company – aimed at what is known in scientific and",
-      "heat": 79,
+      "path": "_news/2020-05-20-sphero-startup-will-make-robots-for-government-and-first-responders.md",
+      "title": "Sphero startup will make robots for government and first responders",
+      "excerpt": "Sphero, the company best known for its BB-8 toy robot, has announced the successful spin-off of its Company Six into a startup that will make robots for the government, military use, and more.",
+      "heat": 99,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.hpcwire.com/2020/05/20/microsofts-ai-supercomputer-on-azure-combinations-of-perceptual-domains/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T17:31:00-07:00",
+      "webUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/",
+      "ampWebUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
+      "publishedDateTime": "2020-05-20T16:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/Microsoft-AI-supercomputer_1000x.jpg",
-          "width": 1000,
-          "height": 577,
-          "title": "Microsoft’s AI Supercomputer on Azure: ‘Combinations of Perceptual Domains’",
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/company_six_logo_main.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": "Sphero startup will make robots for government and first responders",
           "attribution": null
         }
       ],
@@ -1246,9 +1254,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

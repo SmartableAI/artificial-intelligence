@@ -65,21 +65,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
         width: 615
         height: 384
-  - title: "Face-mask selfies are being scanned to update facial recognition databases, report says"
-    excerpt: "Collections of facemask selfies are being used to update facial recognition algorthims because of the coronavirus pandemic, according to a new report."
-    publishedDateTime: 2020-05-19T16:18:00Z
-    webUrl: "https://www.dailydot.com/debug/face-mask-selfies-facial-recognition/"
-    ampWebUrl: "https://www.dailydot.com/debug/face-mask-selfies-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-mask-selfies-facial-recognition/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 51
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/05/facemask-selfie-facial-recognition-scaled.jpg"
-        width: 2560
-        height: 1280
 
 secured: "4HiXzS1WMahGTS5USA/9ENAmVd0003p2Q6gbjqeHix8OZqmwVmvlzm8z3w7yk/sQVs1YTs8RSXwzgfrW5c35Z9opMBEiE/WkXLTMBLb8HEVQePDsxl/jKuWDySht+yUTFFSiwf3D3hlhjvAqjEMRy/VoKwIpsdlVbA1XO29ftpZIkupDTzpc8SgnhL6xjBeKzjkyxtuc3QjQitsICmKum62ePMHVLdy8fPK7XORLG1bKXB+BocC/ZYJh+Gje6XMOAHUQRaOOKTVd3tvkPxc3GIcR4GrvXpS6DQ7a7WZmwk6U6Ely55/OoCM1pPH9nSgV;f7/QPwspsCsqN1qwif6tRg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-go
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 796
     height: 417
     title: "New AI from DeepMind and Google can detect a common cause of blindness"
-
-related:
-  - title: "Google AI could predict eye condition behind vision loss"
-    excerpt: "Google has developed an Artificial intelligence (AI)-based system that performed as well as, and in certain cases better than, clinicians in predicting progression of a common eye condition that can cause vision loss."
-    publishedDateTime: 2020-05-19T15:03:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Health/20200519/3561196.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "08RyMrVozMEuka4vFk9NnoylMvCv5rCFp6Y7tbDJIyLl/3qVPbpXVzwB6hnqpkjEOYdl9d6sjK6OVN0AAMHI4IDjCziG8xsjGr5Xwyro1MdpDpQiQW5QnnL8lRGUTxW5LDvub1TY291n/Aa6Lqs87uXU60SJksk7IVI07FiC4exLr67BeSaRTrrN78rEMtEY1/IqY4e2UvNFm/db253FeEHeKWQQ4Qqx8Tex/Gpxb14T+GlgmZ4gkU5whQoSYjL43ATyBdAi/AZIVtiPfCMQ0qgZGR77Xkco5MXfyYb33oSISp0XOI30Ko+pILmYE+CvazWlQWRh5wbRajhN8rT7lnby6ca2g8upOQqnJKBSVlIglaccCR61sew7aRM8VuGzj5qZoRH/9TkyhVUjQrf6tP38CxewIi3R7EWF8EuoG7ubC8FKQvlLCfn0YNPNNs6fg/N1JzTk+kucT+LZgsUNffgDPGJsfmWbN5k3t/bxqhA=;mUPn/HnQQSGKDG4Z7Tt3ug=="
 ---

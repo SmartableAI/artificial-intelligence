@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85307-face-mask-selfies-used-retra
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -60,21 +60,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
         width: 615
         height: 384
-  - title: "Face-mask selfies are being scanned to update facial recognition databases, report says"
-    excerpt: "Collections of facemask selfies are being used to update facial recognition algorthims because of the coronavirus pandemic, according to a new report."
-    publishedDateTime: 2020-05-19T16:18:00Z
-    webUrl: "https://www.dailydot.com/debug/face-mask-selfies-facial-recognition/"
-    ampWebUrl: "https://www.dailydot.com/debug/face-mask-selfies-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-mask-selfies-facial-recognition/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 51
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/05/facemask-selfie-facial-recognition-scaled.jpg"
-        width: 2560
-        height: 1280
   - title: "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19"
     excerpt: "Contactless Employee Time and Attendance Joins Face Masks, Gloves and Social Distancing for Employee Health and Safety Return to Work ATLANTA (PRWEB)"
     publishedDateTime: 2020-05-20T09:00:00Z
