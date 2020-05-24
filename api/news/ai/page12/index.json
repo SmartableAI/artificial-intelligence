@@ -2,6 +2,233 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-05-12-facebook-deploys-ai-in-its-fight-against-hate-speech-and-misinformation.md",
+      "title": "Facebook deploys AI in its fight against hate speech and misinformation",
+      "excerpt": "The company has long sought to rein in the prevalence of hate speech spread on its site. Detecting hate speech is no easy feat. The company is even tackling hate memes.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/facebook-ai-hate-speech-covid-19-160037191.html",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-ai-hate-speech-covid-19-160037191.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-hate-speech-covid-19-160037191.html",
+      "publishedDateTime": "2020-05-12T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F54d59260-ea8a-11e9-bf7f-758b7f2dc3d2&client=amp-blogside-v2&signature=45436068159308fc2a7d743785a6f90e67a9e5f9",
+          "width": 600,
+          "height": 350,
+          "title": "Facebook deploys AI in its fight against hate speech and misinformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-facebook-is-using-more-ai-to-detect-hate-speech.md",
+      "title": "Facebook is using more AI to detect hate speech",
+      "excerpt": "Facebook reported large gains in AI used for hate speech detection and announced the launch of the $100,000 Hateful Memes challenge for AI researchers.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/12/facebook-is-using-more-ai-to-detect-hate-speech/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/hateful-memes-challlenge.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook is using more AI to detect hate speech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-this-was-supposed-to-be-the-year-driverless-cars-went-mainstream.md",
+      "title": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
+      "excerpt": "Perfecting the technology has taken longer than expected. The coronavirus pandemic has made it even more difficult. By Cade Metz and Erin Griffith SAN FRANCISCO — Tech companies once promised that fully functional, self-driving cars would be on the road by 2020 and on the path to remaking transportation and transforming the economy.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.amp.html",
+      "publishedDateTime": "2020-05-12T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/08/business/00robotcars5/00robotcars5-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-meet-the-googlers-working-to-ensure-tech-is-for-everyone.md",
+      "title": "Meet the Googlers working to ensure tech is for everyone",
+      "excerpt": "During their early studies and careers, Tiffany Deng, Tulsee Doshi and Timnit Gebru found themselves asking the same questions: Why is it that some products and services work better for some than others, and why isn’t everyone represented around the table when a decision is being made? Their collective",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.blog.google/technology/ai/googlers-leading-machine-learning-fairness/",
+      "ampWebUrl": "https://blog.google/technology/ai/googlers-leading-machine-learning-fairness/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/googlers-leading-machine-learning-fairness/amp/",
+      "publishedDateTime": "2020-05-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Hero_ML_V1.gif",
+          "width": 2880,
+          "height": 1200,
+          "title": "Meet the Googlers working to ensure tech is for everyone",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-sony-just-teamed-up-with-a-robot-avatar-company-with-big-ambitions.md",
+      "title": "Sony just teamed up with a robot avatar company with big ambitions",
+      "excerpt": "Sony and remotely-controlled robot startup Avatarin are teaming up to make telepresence avatars smarter, borrowing tech from Aibo and more. It’s the latest move by the freshly-founded Sony",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/",
+      "ampWebUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
+      "publishedDateTime": "2020-05-12T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/avatarin-robot-avatar.jpg",
+          "width": 1502,
+          "height": 1063,
+          "title": "Sony just teamed up with a robot avatar company with big ambitions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-nntcs-fully-autonomous-ai-powered-face-recognition-integrated-on-vuzix-smart-glasses-now-supports-4g-and-5g.md",
       "title": "NNTC's Fully Autonomous AI-Powered Face Recognition Integrated on Vuzix Smart Glasses Now Supports 4G and 5G",
       "excerpt": "PRNewswire/ -- Vuzix® Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a leading supplier of Smart Glasses and Augmented Reality (AR) technology and products, together with",
@@ -1066,214 +1293,6 @@
         "Microsoft AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-aws-announces-general-availability-of-amazon-kendra.md",
-      "title": "AWS Announces General Availability of Amazon Kendra",
-      "excerpt": "AWS announces the general availability of Amazon Kendra, a highly accurate and easy to use enterprise search service powered by machine learning.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200511005867/en/AWS-Announces-General-Availability-Amazon-Kendra",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200511005867/en/790881/23/AWS_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "AWS Announces General Availability of Amazon Kendra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-arlington-asset-investment-corp-ai-q1-2020-earnings-call-transcript.md",
-      "title": "Arlington Asset Investment Corp (AI) Q1 2020 Earnings Call Transcript",
-      "excerpt": "Arlington Asset Investment Corp Q1 2020 Earnings Call May 11, 2020, 10:00 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
-      "publishedDateTime": "2020-05-11T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-          "width": 580,
-          "height": 618,
-          "title": "Arlington Asset Investment Corp (AI) Q1 2020 Earnings Call Transcript",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation.md",
-      "title": "UPS: How VR, IoT, AI, and big data powers the logistics company's digital transformation",
-      "excerpt": "In light of the novel coronavirus pandemic, there are more eyes than ever on the global supply chain and worker safety as logistics companies and postal agencies work to provide essential delivery services.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/",
-      "publishedDateTime": "2020-05-11T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/03/23/11232f1b-da8c-4e3c-98a8-966c33370e4f/thumbnail/1200x675/486d0069eff46635d66b70183fea7484/2020-ups-part0-main.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "UPS: How VR, IoT, AI, and big data powers the logistics company's digital transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-this-ai-tool-predicts-whos-got-covid-19-without-testing.md",
-      "title": "This AI tool predicts who’s got COVID-19 without testing",
-      "excerpt": "A new AI diagnostic tool trained on crowdsourced data from the COVID Symptom Study app predicts who's got COVID-19 without testing",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/amp/",
-      "publishedDateTime": "2020-05-11T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-32-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This AI tool predicts who’s got COVID-19 without testing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump.md",
-      "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
-      "excerpt": "An AI speech recognition bot designed to analyze speech and compile it into a database broke when it tried to analyze Trump's speech patterns, its creator",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "ampWebUrl": "https://amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "publishedDateTime": "2020-05-11T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/bf3770e6-d718-5402-b212-cb364f2fa018/default-1589197781-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

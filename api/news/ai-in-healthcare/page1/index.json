@@ -2,43 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-05-23-microsoft-unveils-cloud-tools-tailored-for-health-care-systems.md",
-      "title": "Microsoft unveils cloud tools tailored for health-care systems",
-      "excerpt": "Microsoft unveiled a package of cloud software designed for health-care systems, starting with a free trial to help the industry weather a viral pandemic that is both increasing the need for technology solutions and putting hospitals in financial peril.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailyherald.com/business/20200523/microsoft-unveils-cloud-tools-tailored-for-health-care-systems",
-      "ampWebUrl": "https://www.dailyherald.com/amp-article/20200523/business/200529786/",
-      "cdnAmpWebUrl": "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200523/business/200529786/",
-      "publishedDateTime": "2020-05-23T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailyherald.com/storyimage/DA/20200523/business/200529786/AR/0/AR-200529786.jpg&updated=202005211541&MaxW=800&MaxH=800&noborder",
-          "width": 800,
-          "height": 533,
-          "title": "Microsoft unveils cloud tools tailored for health-care systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution.md",
       "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
       "excerpt": "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning.",
@@ -169,31 +132,31 @@
     {
       "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
       "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
-      "excerpt": "PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become",
+      "excerpt": "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-301061518.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T01:12:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
+      "publishedDateTime": "2020-05-19T01:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -597,6 +560,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-11-sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases.md",
+      "title": "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases",
+      "excerpt": "Agreement leverages Sarepta’s leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno’s CapsidMap artificial",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases-1029186702",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-novartis-sarepta-partner-with-new-george-church-gene-therapy-startup.md",
       "title": "Novartis, Sarepta partner with new George Church gene therapy startup",
       "excerpt": "Dyno Therapeutics launched Monday with plans to use artificial intelligence to expand the use of gene therapy. The company was co-founded by George Church, the noted Harvard University geneticist, and others.",
@@ -624,35 +624,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases.md",
-      "title": "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases",
-      "excerpt": "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15998024",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024",
-      "publishedDateTime": "2020-05-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1209,6 +1180,35 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
+      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence (A2I), a fully managed service that makes it easy to add human review to machine learning predictions to improve model and application accuracy by continuously identifying and improving low confidence predictions.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i/article_c4de685a-02e2-5f24-bde1-2a283599ad9a.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

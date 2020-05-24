@@ -24,49 +24,36 @@ images:
     title: "Microsoft builds huge cloud-based AI supercomputer for OpenAI"
 
 related:
-  - title: "Microsoft builds massive supercomputer for smarter AI"
-    excerpt: "The Azure machine has 285,000 processor cores and 10,000 GPUs to tackle a new class of artificial intelligence tasks."
-    publishedDateTime: 2020-05-19T21:00:00Z
-    webUrl: "https://www.cnet.com/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
+  - title: "Microsoft’s new supercomputer will unlock AI opportunities that are ‘hard to even imagine’"
+    excerpt: "The supercomputer was built in partnership with and will be exclusively used by OpenAI, a San Francisco-based firm dedicated to the ethical implementation of AI. According to a Microsoft blog, the design of its supercomputer was informed by new developments in the field of AI research,"
+    publishedDateTime: 2020-05-20T11:32:00Z
+    webUrl: "https://www.techradar.com/au/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
+      name: TechRadar
+      domain: techradar.com
+    quality: 96
     images:
-      - url: "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg"
-        width: 756
-        height: 567
-  - title: "Microsoft built a new AI supercomputer in Azure"
-    excerpt: "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!"
-    publishedDateTime: 2020-05-20T12:59:00Z
-    webUrl: "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/"
-    ampWebUrl: "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp"
-    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp"
+      - url: "https://cdn.mos.cms.futurecdn.net/XBZBxbuMHoHZsPHfA6NZtU-1200-80.jpg"
+        width: 970
+        height: 545
+  - title: "Microsoft unveils 'world's fifth most powerful' supercomputer developed with help from Elon Musk's AI firm"
+    excerpt: "Microsoft has unveiled the world’s fifth most powerful supercomputer at its Build 2020 event. The new supercomputer has been developed with Elon Musk-founded OpenAI and hosted on Microsoft’s Azure cloud services."
+    publishedDateTime: 2020-05-20T08:43:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-unveils-worlds-fifth-most-powerful-supercomputer-developed-with-help-from-elon-musks-ai-firm-5292091.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/microsoft-unveils-worlds-fifth-most-powerful-supercomputer-developed-with-help-from-elon-musks-ai-firm-5292091.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-unveils-worlds-fifth-most-powerful-supercomputer-developed-with-help-from-elon-musks-ai-firm-5292091.html/amp"
     type: article
     provider:
-      name: Windows
-      domain: windowsreport.com
-    quality: 89
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 41
     images:
-      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg"
-        width: 1200
-        height: 800
-  - title: "Microsoft Says It’s Built a Top-Five Supercomputer in the Cloud for AI"
-    excerpt: "Future machine learning models will be enormous. The OpenAI system shows that hyperscale cloud platforms can take them on."
-    publishedDateTime: 2020-05-21T16:50:00Z
-    webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-says-it-s-built-top-five-supercomputer-cloud-ai"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 58
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/sam%20altman%20openai%20techcrunch%20disrupt%202019%20getty.jpg"
-        width: 1024
-        height: 683
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/09/Microsoft-image-Reuters-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
 
 secured: "jViJDJMvYm35gL0E73habnzuZFsPWMP3gQaZwrAlreCGe0GtNakLVCvdSYcsijzCGOawfJxCdQe3aQLDsH0Zosl3mP9dD0RKJD3vGsRDH8lwfLPMux7WRWtH6tSWrZJ0IK52XbgHDjrSUtgiu9RsxJZ0VVkUWBo5xftcYXLgqM4+UTxlHpX1mNzlO8fgEB6cy5RFunIOdz4UnmmgcLaymRqGZTN/KSOYpanWt4jghxiCcMQ//uCZxeQYbU00nee2v8S1p8uNxDOcLTRFHpiwyvwY8KqwOccm/00cPtzZP7Ji/CRdKaAdHr4YD/pvLnqSlGAqouuulUHE+aLJ2/IGWflIFEa9DpmpHswJJ3bWCdLheZmuLII1NbyMvk4ZVApa9Wb9FaHHJhS1DNACxldnZlIxAIyQCUqutJAQkX3ibZFVvYiulsCinpY2mZDtpCe8o/COwVo4UZ1axgagXXopJvk0yP7hQsAzPRbaRuTYEh0=;3awYDmxct4zBJNoYBwO7zw=="
 ---

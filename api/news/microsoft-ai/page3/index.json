@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-11-amazon-launches-cognitive-search-service-kendra-in-general-availability.md",
+      "title": "Amazon launches cognitive search service Kendra in general availability",
+      "excerpt": "Kendra, Amazon's AI-powered cognitive enterprise search service, launched in general availability after a lengthy preview.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/amp/",
+      "publishedDateTime": "2020-05-11T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon launches cognitive search service Kendra in general availability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired.md",
       "title": "The Station: Uber has a taste for Lime, Tesla drama, Moovit gets acquired",
       "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hi and welcome back to The Station, I’m your host Kirsten Korosec,",
@@ -1195,43 +1241,6 @@
           "width": 1200,
           "height": 630,
           "title": "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-microsoft-strikes-5-year-cloud-deal-with-coca-cola-for-azure-microsoft-365.md",
-      "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
-      "excerpt": "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365",
-      "ampWebUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
-      "publishedDateTime": "2020-04-27T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm",
-          "width": 800,
-          "height": 600,
-          "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
           "attribution": null
         }
       ],

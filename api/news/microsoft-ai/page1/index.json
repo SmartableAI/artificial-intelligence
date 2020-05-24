@@ -519,6 +519,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-20-microsoft-built-a-new-ai-supercomputer-in-azure.md",
+      "title": "Microsoft built a new AI supercomputer in Azure",
+      "excerpt": "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/",
+      "ampWebUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
+      "publishedDateTime": "2020-05-20T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft built a new AI supercomputer in Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie.md",
       "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
       "excerpt": "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered.",
@@ -612,7 +649,7 @@
       "path": "_news/2020-05-20-microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine.md",
       "title": "Microsoft’s new supercomputer will unlock AI opportunities that are ‘hard to even imagine’",
       "excerpt": "The supercomputer was built in partnership with and will be exclusively used by OpenAI, a San Francisco-based firm dedicated to the ethical implementation of AI. According to a Microsoft blog, the design of its supercomputer was informed by new developments in the field of AI research,",
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techradar.com/au/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine",
@@ -1256,51 +1293,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work.md",
-      "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
-      "excerpt": "The post Microsoft announces new supercomputer, lays out vision for future AI work appeared first on The AI Blog.\n",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/openai-azure-supercomputer/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:59:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/openai-azure-supercomputer-kevin-scott_3_1200x630-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.dailyherald.com/amp-article/20200523/business/200529786/
 cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200523/business/200529786/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Daily Herald
@@ -26,19 +26,6 @@ images:
     title: "Microsoft unveils cloud tools tailored for health-care systems"
 
 related:
-  - title: "Microsoft unveils cloud tools tailored for health-care systems"
-    excerpt: "A logo sits on display outside the Microsoft Corp. pavilion at the Mobile World Congress in Barcelona. Bloomberg/Simon Dawson Microsoft Corp. unveiled a package of cloud software designed for health-care systems,"
-    publishedDateTime: 2020-05-19T17:32:00Z
-    webUrl: "https://www.bnnbloomberg.ca/microsoft-unveils-cloud-tools-tailored-for-health-care-systems-1.1438336"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 39
-    images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1430204!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-logo-sits-on-display-outside-the-microsoft-corp-pavilion-at-the-mobile-world-congress-in-barcelona-photographer-simon-dawson-bloomberg.jpg"
-        width: 620
-        height: 349
   - title: "Microsoft unveils cloud tools tailored for health care systems"
     excerpt: "Microsoft Cloud for Healthcare includes tools that allow for digital triage, telemedicine and coordination of care using internet-based services, chat and conferencing apps. The product was unveiled in a virtual version of the annual Build conference for developers,"
     publishedDateTime: 2020-05-20T06:01:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/microsofts-new-supercomputer-w
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -46,6 +46,19 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2019/09/Microsoft-image-Reuters-770x433.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
+  - title: "Microsoft builds huge cloud-based AI supercomputer for OpenAI"
+    excerpt: "Microsoft announced on Tuesday that it has built a massive supercomputer for OpenAI, a company with a mission to build an artificial general intelligence that will benefit humanity as a whole. The announcement came at Microsoft's Build 2020 developer conference,"
+    publishedDateTime: 2020-05-20T08:07:00Z
+    webUrl: "https://www.computing.co.uk/news/4015437/microsoft-builds-huge-cloud-ai-supercomputer-openai"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/c096680/a58c1446-ff27-40f1-ac9c-39d2f5f9d330/3/openai-azure-370x229.jpg"
+        width: 370
+        height: 229
 
 secured: "Osw6Jmo2s1KEredkmICrF72fYFVPE6wJFmjaDl1R1y8cbobKZ2jG3yY6xmA727NYU7SCFwUZEa5KY2In80Nh6K7F1o5MHf86x70jCHJpU2ikNyWFwfFvYMU3GZ+S1MCTd2+Ewy81ZrzG6gez2NtHDSn7qd+SMfwRSe/e3gV/ml23nFvxTLH46gIEQUSm6AkfQfXKS3F9UDzx+sEsL/ppiX0Xl85asnltG432OQT6AOY9CGQ+q42AphY9HbbAFWBOiGWjznA5YaNln0shFPrE3B5jy6ly1wL1lJ2Xvx1/2zXvZAIXOBoNFd5zsLkIL3iLHwL0vLxQ5D0+gjOZspibfLAvOy9gDga+3QeLwrsBp0uYhDOCxZLM4diPU04WuTH78hcA86brzsEib4ha/kihhbyWlc6gOS9nmy1LvAfWdY52DoOcekuV3BIDV0LLL5ytSOTSaFE1PbS9QPETFjx7qnhpLY+Fd0mL1jzyxFz/hgg=;8gf3cy/LkTJZ8xGbziJwpA=="
 ---

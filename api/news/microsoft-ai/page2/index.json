@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work.md",
+      "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
+      "excerpt": "The post Microsoft announces new supercomputer, lays out vision for future AI work appeared first on The AI Blog.\n",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/openai-azure-supercomputer/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T07:59:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/openai-azure-supercomputer-kevin-scott_3_1200x630-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-sony-microsoft-unveil-latest-joint-ai-play.md",
       "title": "Sony, Microsoft unveil latest joint AI play",
       "excerpt": "Sony’s semiconductor division and Microsoft announced a collaboration to develop AI video analytics systems for",
@@ -1235,52 +1280,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-amazon-launches-cognitive-search-service-kendra-in-general-availability.md",
-      "title": "Amazon launches cognitive search service Kendra in general availability",
-      "excerpt": "Kendra, Amazon's AI-powered cognitive enterprise search service, launched in general availability after a lengthy preview.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/amp/",
-      "publishedDateTime": "2020-05-11T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon launches cognitive search service Kendra in general availability",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -41,6 +41,19 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/XBZBxbuMHoHZsPHfA6NZtU-1200-80.jpg"
         width: 970
         height: 545
+  - title: "Microsoft builds huge cloud-based AI supercomputer for OpenAI"
+    excerpt: "Microsoft announced on Tuesday that it has built a massive supercomputer for OpenAI, a company with a mission to build an artificial general intelligence that will benefit humanity as a whole. The announcement came at Microsoft's Build 2020 developer conference,"
+    publishedDateTime: 2020-05-20T08:07:00Z
+    webUrl: "https://www.computing.co.uk/news/4015437/microsoft-builds-huge-cloud-ai-supercomputer-openai"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/c096680/a58c1446-ff27-40f1-ac9c-39d2f5f9d330/3/openai-azure-370x229.jpg"
+        width: 370
+        height: 229
 
 secured: "zb0kbLcgVR2Cr3EuSWbNzonuE86d2twzujfBFuwaKh/YBNUNol3iVoNHe4VxBOXKor5zacj8Kdnwk1WqfP77aAx3trnLm8ckY3/IvjHIWyrbloYyY7b4GMJLHpC0Az9oHSJ2kYr4d90rQ2B/9EIDIuURNnmW8MCc6/Q/LiD+OplYVJsDAz8Sjv5uUrdMWbW1WVQ+tzIOKoFWcXMwUTfl2zci8cSIJll5tEhKRWW0i4xUpu5UMFKL8q5HqmQVsa17/NWo8jtw07CvLDr2UwDYe9fpzPPCqehyFim5sbxYA5MekCsK12TFGKsMk19JuSZBeDH9tc/mvmQmicQdyc/HGdYH9DRadPAf3ANaYbgDhsuCNbKJKy4Z+JwDb/5zc7o87PGlnLKcGyTfIiNdZ67HG6rKE7u/7hUl5FdgB1kgJ/72yCIK+W+NgHwHAviS8K4U0SLPknNbjaY/KPMXCWRvl7shirmR/F4ZLvweuz5wOUk=;wUP36VnLFI6k2XA+LPiXVw=="
 ---

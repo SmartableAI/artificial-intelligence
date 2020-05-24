@@ -2,6 +2,214 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-05-07-uber-may-use-its-selfie-tech-to-verify-drivers-are-wearing-masks.md",
+      "title": "Uber may use its selfie tech to verify drivers are wearing masks",
+      "excerpt": "When Uber rolled out its selfie system for drivers in 2016, the ride-hailing company was focused on preventing fraud. In the future, it could be used to ensure drivers are wearing a mask. Uber said earlier this week — CEO Dara Khosrowshahi reiterated today — that it is working through plans to",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/07/uber-may-use-its-selfie-tech-to-verify-drivers-are-wearing-masks/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/07/uber-may-use-its-selfie-tech-to-verify-drivers-are-wearing-masks/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/07/uber-may-use-its-selfie-tech-to-verify-drivers-are-wearing-masks/amp/",
+      "publishedDateTime": "2020-05-07T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/uber-mask-GettyImages-1211871217.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Uber may use its selfie tech to verify drivers are wearing masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-as-waymo-resumes-self-driving-tests-backup-drivers-are-still-worried-about-the-virus.md",
+      "title": "As Waymo resumes self-driving tests, backup drivers are still worried about the virus",
+      "excerpt": "Waymo is planning to resume testing its autonomous vehicles in Arizona on May 11th, nearly two months after pausing its robotaxi service as a result of the COVID-19 pandemic. But some of the company’s backup drivers are worried that Waymo may be rushing back into service too quickly.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/5/7/21250830/waymo-self-driving-resume-testing-coronavirus-arizona-drivers-concerns",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/7/21250830/waymo-self-driving-resume-testing-coronavirus-arizona-drivers-concerns",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/7/21250830/waymo-self-driving-resume-testing-coronavirus-arizona-drivers-concerns",
+      "publishedDateTime": "2020-05-07T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/lveHS73iaaLc1l2TS1Z0FuxmV_o=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66767191/vpavic_181127_3122_0042.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "As Waymo resumes self-driving tests, backup drivers are still worried about the virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-gaining-experience-using-deep-learning-for-social-good-in-global-competition.md",
+      "title": "Gaining Experience Using Deep Learning for Social Good in Global Competition",
+      "excerpt": "AI has demonstrated its versatility in recent years, extending far beyond enterprise use into the realm of social good.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/guest-blogs/gaining-experience-using-deep-learning-for-social-good-in-global-competition",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5eb31bbd05044-earth-2254769_1920.jpg",
+          "width": 1920,
+          "height": 1180,
+          "title": "Gaining Experience Using Deep Learning for Social Good in Global Competition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-inference-moves-to-the-network.md",
+      "title": "Inference Moves To The Network",
+      "excerpt": "Machine-learning inference started out as a data-center activity, but tremendous effort is being put into inference at the edge. At this point, the “edge” is not a well-defined concept, and future inference capabilities will reside not only at the extremes of the data center and a data-gathering device,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://semiengineering.com/inference-moves-to-the-network/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/2020/05/BM_Fig02.png",
+          "width": 936,
+          "height": 624,
+          "title": "Inference Moves To The Network",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-vector-institutes-ai-makes-predictions-about-random-events-like-market-trades.md",
+      "title": "Vector Institute’s AI makes predictions about random events like market trades",
+      "excerpt": "Researchers at the Vector Institute propose an AI approach to modeling random events like stock market fluctuations and hospital visits.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/07/vector-institutes-ai-makes-predictions-about-random-events-like-market-trades/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/07/vector-institutes-ai-makes-predictions-about-random-events-like-market-trades/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/vector-institutes-ai-makes-predictions-about-random-events-like-market-trades/amp/",
+      "publishedDateTime": "2020-05-07T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Vector Institute’s AI makes predictions about random events like market trades",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-3-tips-to-find-a-good-ai-partner-for-your-recovery.md",
       "title": "3 Tips to Find a Good AI Partner for Your Recovery",
       "excerpt": "The world will never look the way it did before, but productivity and consumption can resume with a little help.",
@@ -865,215 +1073,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-ibm-retrains-watson-ai-for-it-operations.md",
-      "title": "IBM retrains Watson AI for IT operations",
-      "excerpt": "IBM is relying on technology from its Red Hat acquisition to deploy a new AIOps tool and help it deliver new edge-of-cloud computing services to support 5G networks",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.html",
-      "ampWebUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html",
-      "publishedDateTime": "2020-05-07T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/08/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM retrains Watson AI for IT operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-huaweis-hisilicon-becomes-first-mainland-chinese-chip-company-to-enter-top-10-in-global-sales-says-ic-insights.md",
-      "title": "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights",
-      "excerpt": "HiSilicon’s first quarter revenue surged 54 per cent year on year to US$2.67 billion, although 90 per cent of its sales go to parent Huawei Technologies",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3083314/huaweis-hisilicon-first-mainland-chinese-chip-company-enter-top-10",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3083314/huaweis-hisilicon-first-mainland-chinese-chip-company-enter-top-10",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3083314/huaweis-hisilicon-first-mainland-chinese-chip-company-enter-top-10",
-      "publishedDateTime": "2020-05-07T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/07/13b312c8-9028-11ea-a674-527cfdef49ee_image_hires_175821.JPEG?itok=J7WDgbBI&v=1588845509",
-          "width": 1200,
-          "height": 630,
-          "title": "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-dtex-raises-175-million-to-detect-cyberthreats-with-ai-while-preserving-privacy.md",
-      "title": "Dtex raises $17.5 million to detect cyberthreats with AI while preserving privacy",
-      "excerpt": "Dtex, which is developing a privacy-preserving cybersecurity platform for enterprise customers, raised $17.5 million in venture capital.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/amp/",
-      "publishedDateTime": "2020-05-07T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/US-cyber-security-company-Dtex-Systems-The-Hague-011.jpg?fit=2500%2C1667&strip=all",
-          "width": 2500,
-          "height": 1667,
-          "title": "Dtex raises $17.5 million to detect cyberthreats with AI while preserving privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-predicting-failing-tests-with-machine-learning.md",
-      "title": "Predicting Failing Tests with Machine Learning",
-      "excerpt": "Machine learning can be used to predict how tests behave on changes in the code. These predictions reduce the feedback time to developers by providing information at check-in time. Marco Achtziger & Dr.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/05/predicting-failing-tests/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/05/predicting-failing-tests/en/headerimage/Predicting+Failing+Tests-1588741558619.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Predicting Failing Tests with Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024.md",
-      "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
-      "excerpt": "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024-2020-05-07",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

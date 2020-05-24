@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-20-sphero-startup-will-make-robots-for-government-and-first-responders.md",
+      "title": "Sphero startup will make robots for government and first responders",
+      "excerpt": "Sphero, the company best known for its BB-8 toy robot, has announced the successful spin-off of its Company Six into a startup that will make robots for the government, military use, and more.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/",
+      "ampWebUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
+      "publishedDateTime": "2020-05-20T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/company_six_logo_main.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": "Sphero startup will make robots for government and first responders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-the-robots-are-taking-our-jobs-threat-gets-real.md",
       "title": "The Robots-Are-Taking-Our-Jobs Threat Gets Real",
       "excerpt": "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down.",
@@ -42,7 +87,7 @@
       "path": "_news/2020-05-20-heres-why-elon-musk-keeps-raising-the-price-of-teslas-full-self-driving-option.md",
       "title": "Here’s why Elon Musk keeps raising the price of Tesla’s ‘Full Self-Driving’ option",
       "excerpt": "Driving” version of its Autopilot driver assistance package by around $1,000 on July 1st, CEO Elon Musk announced on Twitter this week. The company has done this before — a few times. It will probably do it again.",
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/5/20/21264345/elon-musk-tesla-full-self-driving-autopilot-price-increase",
@@ -638,6 +683,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-20-facial-recognition-reunites-missing-child-after-32-years.md",
+      "title": "Facial recognition reunites missing child after 32 years",
+      "excerpt": "Facial recognition technology leading to a joyful reunion and a happy ending to what was a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/",
+      "ampWebUrl": "https://www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/amp/",
+      "cdnAmpWebUrl": "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/amp/",
+      "publishedDateTime": "2020-05-20T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "myhighplains.com",
+        "domain": "myhighplains.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/05/DB7E220B2CBD4F819FAA7CDA6577BD9D_5.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Facial recognition reunites missing child after 32 years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-self-driving-shared-electric-scooters-are-here-are-they-awesome-or-terrifying.md",
       "title": "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?",
       "excerpt": "Shared electric scooter provider Go X is combining its scooters with self-driving tech from the company Tortoise to solve the first and last step problem of shared e-scooters: finding and returning the scooters.",
@@ -773,6 +855,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-20-microsoft-built-a-new-ai-supercomputer-in-azure.md",
+      "title": "Microsoft built a new AI supercomputer in Azure",
+      "excerpt": "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/",
+      "ampWebUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
+      "publishedDateTime": "2020-05-20T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft built a new AI supercomputer in Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie.md",
       "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
       "excerpt": "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered.",
@@ -821,7 +940,7 @@
       "path": "_news/2020-05-20-google-says-it-wont-build-ai-tools-for-oil-and-gas-drillers.md",
       "title": "Google says it won't build AI tools for oil and gas drillers",
       "excerpt": "Google's announcement followed a report that documents how three tech giants are using AI to help oil companies find and access oil and gas deposits.",
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nbcnews.com/tech/tech-news/google-says-it-won-t-build-ai-tools-oil-gas-n1211076",
@@ -1118,7 +1237,7 @@
       "path": "_news/2020-05-20-microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine.md",
       "title": "Microsoft’s new supercomputer will unlock AI opportunities that are ‘hard to even imagine’",
       "excerpt": "The supercomputer was built in partnership with and will be exclusively used by OpenAI, a San Francisco-based firm dedicated to the ethical implementation of AI. According to a Microsoft blog, the design of its supercomputer was informed by new developments in the field of AI research,",
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techradar.com/au/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine",
@@ -1158,134 +1277,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-robots-deployed-to-help-bahrains-frontline-workers-in-virus-fight.md",
-      "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
-      "excerpt": "One of the robots also speaks 12 different languages and can identify patients through facial recognition. Health Ministry Under-Secretary Dr Waleed Al Manea said yesterday that this was their first time foraying into Artificial Intelligence (AI) and using it to fight the pandemic. “We have started using the robots in the isolation and ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Robots_deployed_to_help_Bahrains_frontline_workers_in_virus_fight-SNG_174983408/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_174983408/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_174983408/",
-      "publishedDateTime": "2020-05-20T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools.md",
-      "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
-      "excerpt": "Microsoft has announced a slew of up updates to its hybrid cloud platform at its Build 2020 developer conference, which is taking place virtually this year due to the COVID-19 pandemic.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
-      "publishedDateTime": "2020-05-20T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/12/eab3af76-ea24-4a96-a295-3f7c8c9ecc01/thumbnail/1200x675/be8b004c9ec9810ed8d5affdb497ccc9/istock-990892848.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-us-semiconductor-giant-shuts-china-factory-hailed-as-a-miracle-in-blow-to-beijings-chip-plans.md",
-      "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
-      "excerpt": "The winding down of GlobalFoundries’ only Chinese facility was due to poor planning, analysts said, but comes at a time of rising US-China tech tensions.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
-      "ampWebUrl": "https://amp.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
-      "publishedDateTime": "2020-05-20T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/20/607f15f4-9a53-11ea-96ff-7aff439fc3be_image_hires_142028.jpg?itok=h3FEcWGp&v=1589955637",
-          "width": 1200,
-          "height": 630,
-          "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

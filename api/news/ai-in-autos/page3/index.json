@@ -2,6 +2,80 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-06-volvo-cars-will-use-luminars-lidar-to-enable-highway-self-driving-in-2022.md",
+      "title": "Volvo Cars Will Use Luminar's Lidar to Enable Highway Self-Driving in 2022",
+      "excerpt": "Swedish automaker Volvo Cars said that it will add lidar sensors and new perception technology from Silicon Valley start-up Luminar to some of its models starting in 2022. Luminar's lidar technology will allow Volvo to offer highway self-driving as an option,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx",
+      "publishedDateTime": "2020-05-06T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F572202%2Fvolvo_luminar_roofline_lidar_integration.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 632,
+          "title": "Volvo Cars Will Use Luminar's Lidar to Enable Highway Self-Driving in 2022",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-unfounded-criticism-of-chinese-tech-firms-its-just-business.md",
+      "title": "Unfounded Criticism Of Chinese Tech Firms: It's Just Business",
+      "excerpt": "Dismal factory activity data in China and the U.S., coupled with downbeat earnings from tech giants dragged down equity indices in both countries. Feeling unlov",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/article/4343620-unfounded-criticism-of-chinese-tech-firms-just-business",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together.md",
       "title": "Machine-First World? Getting Drones, Robots, Self-Driving Cars, And AI-Driven Systems To Work Together",
       "excerpt": "By deploying smart software that coordinates smart hardware, enabling multiple robots and smart systems to work together as a combined, integrated workforce. That’s something European startup Unmanned.",
@@ -1160,88 +1234,6 @@
           "width": 600,
           "height": 350,
           "title": "Tesla's 'full self-driving' feature is coming in subscription form",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-ford-self-driving-robotaxi-service-delayed-until-2022.md",
-      "title": "Ford self-driving robotaxi service delayed until 2022",
-      "excerpt": "Ford issued a statement (PDF) on Tuesday outlining the reasons for its decision to push the service back to 2022: Given the challenges of the current business environment, as well as the need to evaluate the long-term impact of COVID-19 on customer behaviors,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/ford-robotaxi-self-driving-fleet-delayed-2022/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/",
-      "publishedDateTime": "2020-04-30T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/zBtgGOgC6okZfcHMjUvu96dUuy4=/2018/10/02/b2b370e2-b088-46b0-b050-6e0e85069241/ford-autonomous-car-signals-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Ford self-driving robotaxi service delayed until 2022",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-tesla-set-to-launch-a-full-self-driving-subscription-service-this-year.md",
-      "title": "Tesla set to launch a Full Self-Driving subscription service this year",
-      "excerpt": "Tesla is set to roll out a subscription service for its Full Self-Driving suite later this year, Elon Musk said. During the company’s Q1 2020 Earnings Call, Musk and CFO Zachary Kirkhorn briefly confirmed the introduction of a subscription program for Full Self-Driving.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/",
-      "ampWebUrl": "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/",
-      "cdnAmpWebUrl": "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/",
-      "publishedDateTime": "2020-04-30T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tesla News",
-        "domain": "teslarati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-stop-sign-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Tesla set to launch a Full Self-Driving subscription service this year",
           "attribution": null
         }
       ],

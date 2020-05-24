@@ -33,19 +33,6 @@ related:
       - url: "https://www.dailyherald.com/storyimage/DA/20200523/business/200529786/AR/0/AR-200529786.jpg&updated=202005211541&MaxW=800&MaxH=800&noborder"
         width: 800
         height: 533
-  - title: "Microsoft unveils cloud tools tailored for health-care systems"
-    excerpt: "A logo sits on display outside the Microsoft Corp. pavilion at the Mobile World Congress in Barcelona. Bloomberg/Simon Dawson Microsoft Corp. unveiled a package of cloud software designed for health-care systems,"
-    publishedDateTime: 2020-05-19T17:32:00Z
-    webUrl: "https://www.bnnbloomberg.ca/microsoft-unveils-cloud-tools-tailored-for-health-care-systems-1.1438336"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 39
-    images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1430204!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-logo-sits-on-display-outside-the-microsoft-corp-pavilion-at-the-mobile-world-congress-in-barcelona-photographer-simon-dawson-bloomberg.jpg"
-        width: 620
-        height: 349
 
 secured: "15LqpOhqeV6vnB/CxzIhg+Mjx66KWZkZ3UPHZBsTT6TB1PZy3m526zTCkeHt0DUHhrSvkxEoar7AXtsE7dOjehvBovrn5Uk5EI00ZWUiSK28BQ29WeYPNBjW8txldJkln07I/8VeBQ02ixnpxdAROf1NQomnP3XHaBiYB/lSsu9wwP+3VsYAUBYOyVHytVEQuB5UEIrT/gfkB7MR44ApMVF81t5BnTa4nIjWsWDckLwmRg0r0iLH+0Km8StGZwYnmZR2esMFvM3ni8A4XU6auO5K7Q3e3D1gzWJv/5wN5St7ovWyoZMmINE/b9NYIj/H2T8C+5zM5nv+LUVcJlK9J8BQZU7nOb7ZYr/2j7Oak/V3Bd4zgs0ZAdRIOlxqZKa9WeU4XiEqHA+HcbSxOaVlUpUrA4kfHNXRGlD68W2EmdekMcXA0yYreq6beREpJb3t2YChMp2Bcyb9kRIsnb4z+6yFsF6tO56ZHqXbYAe8K44=;Fs6JNrv6V0ON3oETJgcE6Q=="
 ---
