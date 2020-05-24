@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-19-survey-3-out-of-4-americans-say-driverless-cars-not-ready-for-primetime.md",
+      "title": "Survey: 3 out of 4 Americans say driverless cars 'not ready for primetime'",
+      "excerpt": "A poll conducted by PAVE shows Americans are pessimistic about self-driving cars, and it's probably because they just don't understand them.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/pave-autonomous-vehicle-survey/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/pave-autonomous-vehicle-survey/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pave-autonomous-vehicle-survey/",
+      "publishedDateTime": "2020-05-18T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Survey: 3 out of 4 Americans say driverless cars 'not ready for primetime'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-elon-musk-tesla-raises-cost-of-self-driving-cars.md",
       "title": "Elon Musk: Tesla raises cost of 'self-driving' cars",
       "excerpt": "Tesla is raising the price of its \"self-driving\" option on its electric vehicles worldwide starting with a $1,000 (£820) hike. Founder Elon Musk tweeted that the price \"will continue to rise\" as its technology improves.",
@@ -1257,51 +1302,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-how-artificial-intelligence-is-reshaping-the-insurance-industry.md",
-      "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
-      "excerpt": "AI in the insurance sector has transcended several use cases from intelligent automation in the back office to providing virtual assistance on the frontlines.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/350752",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350752",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350752",
-      "publishedDateTime": "2020-05-18T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1589803306-Webpnet-compress-image42.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

@@ -2,10 +2,47 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-19-facial-recognition-reunites-missing-child-after-32-years.md",
+      "title": "Facial recognition reunites missing child after 32 years",
+      "excerpt": "Facial recognition technology led to a joyful reunion and a happy ending to what was a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday.",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/",
+      "ampWebUrl": "https://www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/?outputType=amp",
+      "publishedDateTime": "2020-05-19T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Click Orlando",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.clickorlando.com/resizer/a7OufWIR6j0NLRAfMiTxGCqd7o8=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/05-19-2020/t_ce5dc077995b4a778e835315ee014a7f_name_file_1920x1080_5400_v4_.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Facial recognition reunites missing child after 32 years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-facebooks-new-ai-tool-will-automatically-identify-items-you-put-up-for-sale.md",
       "title": "Facebook’s new AI tool will automatically identify items you put up for sale",
       "excerpt": "Facebook is launching what it’s calling a “universal product recognition model” that uses artificial intelligence to identify consumer goods, from furniture to fast fashion to fast cars. It’s the first step toward a future where the products in every image on its site can be identified and potentially shopped for.",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet",
@@ -249,7 +286,7 @@
       "path": "_news/2020-05-19-chinese-man-abducted-32-years-ago-as-toddler-reunited-with-birth-parents-thanks-to-facial-recognition-tech.md",
       "title": "Chinese man abducted 32 years ago as toddler reunited with birth parents thanks to facial recognition tech",
       "excerpt": "A Chinese man who was kidnapped as a toddler 32 years ago was reunited with his biological parents during an emotional news conference Monday after police used facial recognition technology to track him down and confirm his identity,",
-      "heat": 91,
+      "heat": 131,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.foxnews.com/world/china-kidnapped-toddler-32-years-reunites-birth-parents-facial-recognition",
@@ -1031,50 +1068,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time.md",
-      "title": "AI-Powered Biotech Can Help Deploy a Vaccine In Record Time",
-      "excerpt": "Simulators that can rapidly test trillions of options would accelerate the slow and costly process of human clinical trials.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/",
-      "ampWebUrl": "https://www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/amp",
-      "publishedDateTime": "2020-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec305c12de599a4da36ef60/master/pass/OpEd-Vaccines-91344406.jpg",
-          "width": 2400,
-          "height": 1643,
-          "title": "AI-Powered Biotech Can Help Deploy a Vaccine In Record Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

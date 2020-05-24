@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263523/facebook-ma
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 1400
     height: 933
     title: "Facebook’s new AI tool will automatically identify items you put up for sale"
+
+related:
+  - title: "Facebook’s new AI tool will automatically identify items you put up for sale"
+    excerpt: "Facebook is launching what it’s calling a “universal product recognition model” that uses artificial intelligence to identify consumer goods,"
+    publishedDateTime: 2020-05-23T07:22:00Z
+    webUrl: "https://dailytimes.com.pk/616882/facebooks-new-ai-tool-will-automatically-identify-items-you-put-up-for-sale/"
+    ampWebUrl: "https://dailytimes.com.pk/616882/facebooks-new-ai-tool-will-automatically-identify-items-you-put-up-for-sale/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/616882/facebooks-new-ai-tool-will-automatically-identify-items-you-put-up-for-sale/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 56
+    images:
+      - url: "https://dailytimes.com.pk/assets/uploads/2020/05/23/Screen_Shot_2020_05_19_at_6.14.46_PM.jpg"
+        width: 1200
+        height: 831
 
 secured: "7wxpJxbDtXmf0MqS/v01oFOhLMXuN4gTnn+vsLYFoQc6q39eDYqCiPZK0bHbAcsol5nZb9TjMvns77nyk1X6olY4bJa5/QlTWquD6HzY9R2KaII4OeVMjQioSMH9sTH47o4ROWitOy8kseJPtU4u5Dd6XJ8vcDEI6cerqeXlwxPJzWnXMo+em3yscG+kLEQ9xn9M1nOXCnPQSHRZ92g7rwSfHO+UISXElE6cpbmQY0g64moOLNXIobIXt+T266RYUMfQP9Z58laLEVoVlLzvjmWYWUuGm1TNjSnuXpIbuympSoV1X0uXCxBYWo800TpSUbJg6K5IML8A5JR/8QbX+cWM5jRyGKngKQfVhsvuvpBQnWjrPamaKe+XkKfOknaKaBEkZhqsvh1McSfJFQ5XPKY2htx4HuKpVLnV0qptS2lD2fwPJj/UgE1GKTCovmCkPpnecZI17zD2NOONx+kIk+oRa05J+QNDKFbPNGeggG0=;LTdomEI1hvaqJk+o3rwUaw=="
 ---

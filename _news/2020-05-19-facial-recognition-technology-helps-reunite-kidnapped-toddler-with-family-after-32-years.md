@@ -26,36 +26,6 @@ images:
     title: "Facial recognition technology helps reunite kidnapped toddler with family after 32 years"
 
 related:
-  - title: "Facial recognition used to reunite missing child with family after 32 years"
-    excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology."
-    publishedDateTime: 2020-05-19T06:54:00Z
-    webUrl: "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html?ref=hvper.com"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200519145036-chinese-city-of-xian--super-tease.jpg"
-        width: 1100
-        height: 619
-  - title: "Facial recognition helps reunite kidnapped toddler with family after 32 years"
-    excerpt: "A Chinese man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology."
-    publishedDateTime: 2020-05-19T06:54:00Z
-    webUrl: "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 86
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200519145036-chinese-city-of-xian--super-tease.jpg"
-        width: 1100
-        height: 619
   - title: "Facial recognition reunites missing child after 32 years"
     excerpt: "Facial recognition technology led to a joyful reunion and a happy ending to what was a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday."
     publishedDateTime: 2020-05-19T17:42:00Z
@@ -146,51 +116,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/7/83/783f4958-cac6-5157-aabd-a9b7c56883a2/5ec3f148eeba6.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
-  - title: "Facial recognition helps reunite man kidnapped as toddler with family after 32 years"
-    excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help"
-    publishedDateTime: 2020-05-19T20:03:00Z
-    webUrl: "https://wsvn.com/news/us-world/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years/"
-    ampWebUrl: "https://wsvn.com/news/us-world/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 52
-    images:
-      - url: "https://sunbeamwsvn.files.wordpress.com/2020/05/bhdn_in-41tu_facial-recognition-reunites-missing-child-after-_cnna-st1-1000000005ca99fc_174_0_moment.jpg?quality=60&strip=color&w=1200"
-        width: 1200
-        height: 675
-  - title: "Kidnapped Toddler Reunited with Parents After 32 Years By Using Facial Recognition Technology"
-    excerpt: "Mao Yin was two when he was abducted on the way home from nursery school after his father briefly looked away while getting him some water in a hotel in the Chinese city of Xi'an"
-    publishedDateTime: 2020-05-19T19:13:00Z
-    webUrl: "https://toofab.com/2020/05/19/son-reunited-with-parents-after-32-years-facial-recognition-tech/"
-    ampWebUrl: "https://amp.toofab.com/2020/05/19/son-reunited-with-parents-after-32-years-facial-recognition-tech/"
-    cdnAmpWebUrl: "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/05/19/son-reunited-with-parents-after-32-years-facial-recognition-tech/"
-    type: article
-    provider:
-      name: TooFab
-      domain: toofab.com
-    quality: 48
-    images:
-      - url: "https://images.toofab.com/image/c3/16by9/2020/05/19/c3a56e501f204e10913fba6cb390463e_xl.jpg"
-        width: 1200
-        height: 675
-  - title: "Son Reunites with Parents 32 Years After Kidnapping — Thanks to Facial Recognition Technology"
-    excerpt: "The couple's son was reportedly snatched and sold to a childless couple for the equivalent of $840 today A Chinese couple who spent more than three decades searching for their son after he was abducted in the late ‘80s were reunited with him on Monday,"
-    publishedDateTime: 2020-05-19T15:56:00Z
-    webUrl: "https://people.com/human-interest/chinese-couple-reunited-kidnapped-son-after-32-years/"
-    ampWebUrl: "https://people.com/human-interest/chinese-couple-reunited-kidnapped-son-after-32-years/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/human-interest/chinese-couple-reunited-kidnapped-son-after-32-years/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 48
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F05%2F19%2Fson-abducted-32-years-3.jpg"
-        width: 2000
-        height: 1045
   - title: "Facial recognition reunites missing child after 32 years in China"
     excerpt: "Mao Yin was 2 years old when he was taken from his parents in 1988."
     publishedDateTime: 2020-05-19T19:47:00Z
@@ -230,19 +155,6 @@ related:
       - url: "https://media.graytvinc.com/images/aa413.jpg"
         width: 700
         height: 400
-  - title: "Facial recognition helps reunite man kidnapped as toddler with family after 32 years"
-    excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological parents Monday, with the help of facial recognition technology. Mao Yin was taken from his family in 1988 when he was two years old while outside of a hotel in the Chinese city of Xi’an,"
-    publishedDateTime: 2020-05-21T13:02:00Z
-    webUrl: "https://www.eastidahonews.com/2020/05/facial-recognition-helps-reunite-man-kidnapped-as-toddler-with-family-after-32-years/"
-    type: article
-    provider:
-      name: East Idaho News
-      domain: eastidahonews.com
-    quality: 32
-    images:
-      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2017/09/25103716/EINLogo_1024x1024.jpg"
-        width: 1024
-        height: 1024
 
 secured: "mGEDkUTUNoTUBvdqkRQq/EK8Yhv5fHWkDoBOGcyx9dD+YT7JtX66vPcfDZAxIoAYgvmokUDChV8QjSUIScTZHfZ3sF9SE9xD+tKvVq1bj26X4cvKR7f5540OV/iAqN8QSeJydEWOhPxGQplrJELFTEsts8PncBdz3r9PDPyHxIIsjs4BAqL+loC3GKEE1mLL9/rRHlMuaZCaxowY7grYr55dVwH2poWrFf+B7K57TxI6lrvbwO8hOoki/mu1Zq75iu5w6e9hfxaKYZAPU2pchtmHkzY+om9fxyVzefFkcmEEpmjkYGdyApOHb+AT7yMq;0hM0rWwCYYJ9YLQ3NzWYOQ=="
 ---
