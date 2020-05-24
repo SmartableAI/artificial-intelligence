@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techspot.com/amp/news/85307-face-mask-selfies-used-retra
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: TechSpot
@@ -30,21 +30,62 @@ images:
     title: "Face mask selfies are being used to retrain facial recognition systems"
 
 related:
-  - title: "Your face mask selfies could be training the next facial recognition tool"
-    excerpt: "Researchers are crawling the internet for photos of people wearing face masks to improve facial recognition algorithms."
-    publishedDateTime: 2020-05-19T12:08:00Z
-    webUrl: "https://www.cnet.com/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/"
+  - title: "iOS 13.5 released: Faster unlock with face masks plus COVID-19 contact tracing"
+    excerpt: "Apple has released iOS 13.5, bringing exposure notification for COVID-19 contact tracing as well as a quicker way to unlock your iPhone when you’re wearing a face mask. Released as a gold"
+    publishedDateTime: 2020-05-20T17:47:00Z
+    webUrl: "https://www.slashgear.com/ios-13-5-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing-20621385/"
+    ampWebUrl: "https://www.slashgear.com/ios-13-5-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing-20621385/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-13-5-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing-20621385/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 105
+      name: SlashGear
+      domain: slashgear.com
+    quality: 70
     images:
-      - url: "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg"
-        width: 756
-        height: 567
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/iphone-11-hands-on-0.jpg"
+        width: 1680
+        height: 946
+  - title: "Today’s cache | Facial recognition technology, and more"
+    excerpt: "The COVID-19 crisis is making it difficult for facial recognition tech firms as governments around the world are asking citizens wear masks when they leave their homes. So, companies are gathering selfies of users wearing masks to train and improve face detection algorithms."
+    publishedDateTime: 2020-05-20T13:35:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
+        width: 615
+        height: 384
+  - title: "Face-mask selfies are being scanned to update facial recognition databases, report says"
+    excerpt: "Collections of facemask selfies are being used to update facial recognition algorthims because of the coronavirus pandemic, according to a new report."
+    publishedDateTime: 2020-05-19T16:18:00Z
+    webUrl: "https://www.dailydot.com/debug/face-mask-selfies-facial-recognition/"
+    ampWebUrl: "https://www.dailydot.com/debug/face-mask-selfies-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-mask-selfies-facial-recognition/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 51
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/05/facemask-selfie-facial-recognition-scaled.jpg"
+        width: 2560
+        height: 1280
+  - title: "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19"
+    excerpt: "Contactless Employee Time and Attendance Joins Face Masks, Gloves and Social Distancing for Employee Health and Safety Return to Work ATLANTA (PRWEB)"
+    publishedDateTime: 2020-05-20T09:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/05/p16072620/lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16072620"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072620"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
 
 secured: "5okzS01xW1O5KaTVbS3SLYnZ3Eh3lwNdeeeCOFD3qxCG/gz/JrFeXQwQJVcClsRDWtgNskYRJRJ/g7e4CaSiVUSP7fsbd2g1n5v9wuh4UPO+xB5pAWDhlqO7nHP6zD1j8rMl4OW8bGGl5UT8ERJ1sBNI4cfESXBl88d5iePrjYUvkhUGWOGIDhXSOujWkTmVMFpBLWjwJw5NOuWa8W2LoCCJsiFmFUVg/73I0FjNcejjt5HleMV6+/+fjw/aqav9v1Y6Gztc0kmnodHvuSXw6MgCOI0+NfaW/S13OTeeZ+iyfiEQkQVSCkY5d1vGBGVBhT9qYTrF73GZ/htNHMpJ01rwQiUxmPWu2U0f1XG760kzJPsPu1essHh/bsb0OfkaOi9qHGdHIzd/FzRuudpDqHixQi6AlU5e7oBqmoOUxjgcPjcMO5Q1XzODxFP1EEnIFApEk0+ujtIjjvg9mu3/VM4LPIaxdMz+WcM2rTvtP4w=;RfGs/KCZuBYVl4Il8/zVIQ=="
 ---

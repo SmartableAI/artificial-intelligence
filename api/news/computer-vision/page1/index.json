@@ -159,23 +159,23 @@
       ]
     },
     {
-      "path": "_news/2020-05-20-ios-135-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing.md",
-      "title": "iOS 13.5 released: Faster unlock with face masks plus COVID-19 contact tracing",
-      "excerpt": "Apple has released iOS 13.5, bringing exposure notification for COVID-19 contact tracing as well as a quicker way to unlock your iPhone when you’re wearing a face mask. Released as a gold",
-      "heat": 70,
+      "path": "_news/2020-05-20-face-mask-selfies-are-being-used-to-retrain-facial-recognition-systems.md",
+      "title": "Face mask selfies are being used to retrain facial recognition systems",
+      "excerpt": "Millions of people started wearing face masks in public settings after the Centers for Disease Control and Prevention (CDC) recommended doing so last month to help slow the spread of Covid-19 when social distancing measures are difficult to maintain.",
+      "heat": 144,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.slashgear.com/ios-13-5-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing-20621385/",
-      "ampWebUrl": "https://www.slashgear.com/ios-13-5-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing-20621385/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-13-5-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing-20621385/amp/",
-      "publishedDateTime": "2020-05-20T10:47:00-07:00",
+      "webUrl": "https://www.techspot.com/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html",
+      "publishedDateTime": "2020-05-20T09:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
+        "name": "TechSpot",
+        "domain": "techspot.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -187,10 +187,10 @@
       },
       "images": [
         {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/iphone-11-hands-on-0.jpg",
-          "width": 1680,
-          "height": 946,
-          "title": "iOS 13.5 released: Faster unlock with face masks plus COVID-19 contact tracing",
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-18.jpg",
+          "width": 1500,
+          "height": 1125,
+          "title": "Face mask selfies are being used to retrain facial recognition systems",
           "attribution": null
         }
       ],

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.slashgear.com/ios-13-5-released-faster-unlock-with-face-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-13-5-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing-20621385/amp/"
 type: article
 quality: 70
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: SlashGear
@@ -28,6 +28,64 @@ images:
     width: 1680
     height: 946
     title: "iOS 13.5 released: Faster unlock with face masks plus COVID-19 contact tracing"
+
+related:
+  - title: "Face mask selfies are being used to retrain facial recognition systems"
+    excerpt: "Millions of people started wearing face masks in public settings after the Centers for Disease Control and Prevention (CDC) recommended doing so last month to help slow the spread of Covid-19 when social distancing measures are difficult to maintain."
+    publishedDateTime: 2020-05-20T16:44:00Z
+    webUrl: "https://www.techspot.com/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 104
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-18.jpg"
+        width: 1500
+        height: 1125
+  - title: "Today’s cache | Facial recognition technology, and more"
+    excerpt: "The COVID-19 crisis is making it difficult for facial recognition tech firms as governments around the world are asking citizens wear masks when they leave their homes. So, companies are gathering selfies of users wearing masks to train and improve face detection algorithms."
+    publishedDateTime: 2020-05-20T13:35:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
+        width: 615
+        height: 384
+  - title: "Face-mask selfies are being scanned to update facial recognition databases, report says"
+    excerpt: "Collections of facemask selfies are being used to update facial recognition algorthims because of the coronavirus pandemic, according to a new report."
+    publishedDateTime: 2020-05-19T16:18:00Z
+    webUrl: "https://www.dailydot.com/debug/face-mask-selfies-facial-recognition/"
+    ampWebUrl: "https://www.dailydot.com/debug/face-mask-selfies-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-mask-selfies-facial-recognition/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 51
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/05/facemask-selfie-facial-recognition-scaled.jpg"
+        width: 2560
+        height: 1280
+  - title: "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19"
+    excerpt: "Contactless Employee Time and Attendance Joins Face Masks, Gloves and Social Distancing for Employee Health and Safety Return to Work ATLANTA (PRWEB)"
+    publishedDateTime: 2020-05-20T09:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/05/p16072620/lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16072620"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072620"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
 
 secured: "PMMyTVVEYDMEKs5UlDtRHseHqO3pQ3ssyRroMV1P9Us5fmMFTxrE5+NX5Qrn3Le6yToHW3NtGikgnR49vAjKgqqumVhmFx9OtJhkEFrUcPMuMnaj8rC8G63IOG01ING56NT49tmPk+C76vJ9WbeXvAtzghaTIpPuyP58LzoyDhsRGx8NUYSXt2Z7YkfWaiOhPfOo/v3k77CsLqeEmF445e3vpc8xfNwZwH1LTuARI695ao+2At4dpD3plOc2xmR7RXsES8TgLd6tgx4+LqFWPVg9ywFMqT1GxBWs5tE5YEEBmoyQYs/3mZatpnRuMo6t;SEFhf5Y3XIj0s2U0jeY1pw=="
 ---

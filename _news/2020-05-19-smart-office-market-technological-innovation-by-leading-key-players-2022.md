@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-19T19:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/smart-office-market-technological-innovation-by-leading-key-players-2022-2020-05-19"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: MarketWatch
@@ -28,19 +28,6 @@ images:
     title: "Smart Office Market Technological Innovation by Leading Key Players 2022"
 
 related:
-  - title: "Deep learning drives computer vision market with global revenues set to grow to $33.5 billion by 2025, according to Omdia"
-    excerpt: "Classical computer vision techniques being replaced by artificial intelligence in rapidly shifting market LONDON-- ( BUSINESS WIRE )--Computer vision (CV) is aiding numerous promising applications and revolutionizing the way people do things."
-    publishedDateTime: 2020-05-19T11:20:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200519005208/en/Deep-learning-drives-computer-vision-market-global"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 31
-    images:
-      - url: "https://mms.businesswire.com/media/20200519005208/en/792046/23/OMDIA_LOGO_Endorsement_Black.jpg"
-        width: 1200
-        height: 627
   - title: "Key Dynamics of Machine Learning and Intelligent Automation in Contemporary Market"
     excerpt: "AI subset Machine Learning and Intelligent Automation have become most vibrant technology across businesses. With continuous growing they are driving the current digital transformation with most innovative capabilities."
     publishedDateTime: 2020-05-20T05:14:00Z

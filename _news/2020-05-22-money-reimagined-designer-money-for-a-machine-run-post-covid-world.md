@@ -7,8 +7,8 @@ webUrl: "https://www.coindesk.com/money-reimagined-designer-money-for-a-machine-
 ampWebUrl: "https://www.coindesk.com/money-reimagined-designer-money-for-a-machine-run-post-covid-world?amp=1"
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/money-reimagined-designer-money-for-a-machine-run-post-covid-world?amp=1"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://static.coindesk.com/wp-content/uploads/2020/05/03_Starship_Campus-post.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1187
     title: "Money Reimagined: Designer Money for a Machine-Run Post-COVID World"
 
-secured: "z6cPej/kXTUkDZ2+wsXEzwLWczLu2yspzIbguZj85BtLZCV2z30gQ8lw6K4emNMuBEGKfVt/U3gj9XOuBw8fj2Rvfna0v77TXjQ8SvQXpAahIRmOm6DLWVoQ8jcytgmmLir5eabRDgk6Nba04hD50BX3nF08P+ZEnH9/QhEkidGWoF7U2W/niY/YID5EMt+oxzhOP4XvqZRuWstt1d9nqgq3Xx1L+ZPlMJfnNoWPFyx61D+s4ka9XIlMTNY2ksEhRLiCbgKm0MvKdAQIHqBFT03HNWwP7G0VD8Ys7LV5h34Gjbr30lbKy6rd/LX3UKFB;ypFoH6/tHg7x4FrJ48QAtQ=="
+secured: "PSwuXxU0XXNbfb8PUBLSLyTTQSmHqdLNkK8SWLlupTUEUvL3JmgXwGuhM3nJtGnUKK1C9Vj1qYzDihhWS52FxnInoQb2q4D7YLVR4iWCtiie4NzX7WCCioFyzEwtxAofePkR8dhMqkkzBl6S+/xj/KVo5kgRrLEvbzOpWRlM6MPd7PZygW6pBXZxFeG4Pvx8HNgECQ0wmTzGYMJtVDa3GHjJEL1P0cVcH0Xv3rXKlsi39nGd1eSA8Z/EYI0ZCg3zV7i/QBKg8HXMoD+/SXx4/gV8+PBaHR5WQyKTnAkz+A9SQdIHOmalkzFft4/u7N8lqDn9UgMENtHLPGilvsCNXgDQ1t30ljbVKmVId3LIdx9MNYzbyLgysrosNCxGhG992d55K+Z1ecosyTbDDGqk+eHLBNuTeQhOXqcrtZHFfh0Pp1hbsqY/KoiSDYVNeqLq2KM1rQ7Xo2UoU6Jnb39yWs8bv3/5RmXlh6pw/UtbJXQ=;GQZi/UWyxRofnedq6zWWRw=="
 ---
 
