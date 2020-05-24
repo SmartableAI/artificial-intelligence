@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-19T11:06:00Z
 webUrl: "https://www.businesswire.com/news/home/20200519005262/en/M6Connect-Sharp-HealthCare-Advance-Digital-Agreements-New"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 561
     height: 561
     title: "M6Connect and Sharp HealthCare Advance Digital Agreements With New ‘Insights’ Artificial Intelligence Capabilities"
-
-related:
-  - title: "Miso Robotics Partners with PathSpot to Advance Healthier Commercial Cooking Environments"
-    excerpt: "PRNewswire/ -- Miso Robotics – the startup driving intelligent automation for commercial kitchens – announces today a new partnership with PathSpot Technologies, Inc. to advance sterile and healthy cooking environments,"
-    publishedDateTime: 2020-05-19T09:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/18fb863b5be4ce55870e4695e903d435"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 45
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
 
 secured: "JR5t5R+ophKYTXlDqqfnuvuOdxL2dVpHor15qOie7BnDp+aC/z7zwQwqRlfbnO74E0a0alVAkrcAWAwEZ88dCLcL75sIaRyQOj5Zl3RAwZoX+twHNDvzdP2uyBNM4na4MdYt9R7VTcvlerdfAcSIFCav6iMGYr2dE764xJbrP0VksmkfFyKjtSttpAYV2n2Hr8902F0FnUTuoMCDt/5CS+0si1rBLZ2EpdKs7242O4kzRb0BnEsQ+6XCykHSjUw+vBYiF7U7Pti2q7uQpbws8rK1SFPtdvn5BED/QUkF5NVx2h45XSy+JbOhsIt7Tz4Z;qRi0ygRfJIfDI1We/2HMQA=="
 ---

@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://eurekalert.org/multimedia/pub/web/230884_web.jpg"

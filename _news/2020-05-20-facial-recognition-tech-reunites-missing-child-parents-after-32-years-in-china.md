@@ -84,21 +84,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/6200174_052020-ktrk-cnn-facial-recognition-reunites-family-carolina-final.png"
         width: 1920
         height: 1080
-  - title: "Facial recognition technology reunites kidnapped toddler with family after 32 years"
-    excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology. Mao Yin was"
-    publishedDateTime: 2020-05-19T07:46:00Z
-    webUrl: "https://www.myarklamiss.com/news/international/facial-recognition-technology-reunites-kidnapped-toddler-with-family-after-32-years/"
-    ampWebUrl: "https://www.myarklamiss.com/news/international/facial-recognition-technology-reunites-kidnapped-toddler-with-family-after-32-years/amp/"
-    cdnAmpWebUrl: "https://www-myarklamiss-com.cdn.ampproject.org/c/s/www.myarklamiss.com/news/international/facial-recognition-technology-reunites-kidnapped-toddler-with-family-after-32-years/amp/"
-    type: article
-    provider:
-      name: My ArkLaMiss
-      domain: myarklamiss.com
-    quality: 53
-    images:
-      - url: "https://www.myarklamiss.com/wp-content/uploads/sites/15/2020/05/chinesetoddler.jpg?w=780&h=438&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
   - title: "Facial recognition helps reunite kidnapped Chinese toddler with family after 32 years"
     excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology."
     publishedDateTime: 2020-05-19T15:30:00Z
