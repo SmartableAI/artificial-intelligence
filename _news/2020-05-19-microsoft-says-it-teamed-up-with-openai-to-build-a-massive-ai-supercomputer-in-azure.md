@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-o
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/"
 type: article
 quality: 112
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -60,17 +60,6 @@ related:
       - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg"
         width: 1200
         height: 800
-  - title: "Microsoft builds a supercomputer for OpenAI for training massive AI models"
-    excerpt: "Microsoft is building a supercomputer for and with OpenAI and is using it to train massive distributed AI models, which it is counting on to improve the AI capabilities in its own software and services."
-    publishedDateTime: 2020-05-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
   - title: "Google says it won't build AI tools for oil and gas drillers"
     excerpt: "Google says it will no longer build custom artificial intelligence tools for speeding up oil and gas extraction, separating itself from cloud computing rivals Microsoft and Amazon. A statement from the company Tuesday followed a Greenpeace report that documents how the three tech giants are using AI and computing power to help oil companies find and access oil and gas deposits in the U."
     publishedDateTime: 2020-05-19T19:32:00Z

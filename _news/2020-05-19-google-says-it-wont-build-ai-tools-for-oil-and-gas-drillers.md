@@ -70,17 +70,6 @@ related:
       - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg"
         width: 1200
         height: 800
-  - title: "Microsoft builds a supercomputer for OpenAI for training massive AI models"
-    excerpt: "Microsoft is building a supercomputer for and with OpenAI and is using it to train massive distributed AI models, which it is counting on to improve the AI capabilities in its own software and services."
-    publishedDateTime: 2020-05-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-builds-a-supercomputer-for-openai-for-training-massive-ai-models/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
   - title: "At digital Build conference, Microsoft unifies Windows app development, boosts Teams and AI"
     excerpt: "Microsoft Corp. kicked off its annual developer conference Build 2020 today with new services to unify Windows application development, additional Teams services and even a supercomputer for artificial intelligence available through its Azure cloud service."
     publishedDateTime: 2020-05-19T15:08:00Z

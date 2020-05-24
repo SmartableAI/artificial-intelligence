@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-19T18:14:00Z
 webUrl: "https://www.miragenews.com/marshaling-artificial-intelligence-in-fight-against-covid-19/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 639
     height: 426
     title: "Marshaling artificial intelligence in fight against Covid-19"
-
-related:
-  - title: "The Role Artificial Intelligence is Playing in the Fight Against COVID-19"
-    excerpt: "As the economy begins the slow process of re-opening, advanced technologies such as artificial intelligence, machine learning, and natural language processing are playing a key role not only in monitoring COVID-19 outbreaks,"
-    publishedDateTime: 2020-05-19T14:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19-2020-05-19"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 63
 
 secured: "AlRXHE/xJwx/cfI7HWGmC3HCJAnPDShjhwyoAzRn+nGE6hbFVdZ5xpjK10OGjE4/jmOOi44QzZUI8U3M3xT7O0n22Vgkybp0u9tCd6Sw0h8sOBwd2ojezD8mNcyEojqrzN5EDDjvGhjW7iKSp2xScWrdazyZT2Uwk4AgwtmT5OJiT2OvyGHWV4z/ZmW+T8Ghj55TCOwahBu/5+T3lCL924ysyYMAwV/5QprNH2rGF44g9OzP3lEg2djAH0f72RGwywp0ZhKPBJVh/qpjRTMAxzWEaweopPVf0c+Lawj+RerNa6NwJqD7hzt3brrFISIn;B3bgk6l6aNIs/aIMknBphw=="
 ---

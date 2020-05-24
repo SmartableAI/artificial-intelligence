@@ -22,6 +22,6 @@ images:
     height: 800
     title: "Israeli HMO investments in AI pay off during the coronavirus crisis"
 
-secured: "Dk7I3P+4/+39E2VSAUamhCdOEzzVA1GVzfyvMIIow1czcySDGdUMU+tkdeoQUkdrJciYUdY1qzmfiEJdSwbTB4FRaCqYoOmmqPPdyMl1AB6OUPWtqyu9rjWUcPhd9pfHgZnQn1l/qz+zjmSCHzPAkQOTTDizadhhNDEu+EOAtXtp9Z/1oMV4psVLogxVSgZZthU70bozL5EHAesycXP893XX2sruayS20i+406lV+dd0H8GdYYIbnZg0bJWk7A2/spPwXBCRw5vbk0WiYoZUi+1Dn1ZwiorliW3H8ZnAXkGG8Ty/djnOBg3gHfCagi1f;s6ZtTLvZ+ZhAt8JqlZk7Pg=="
+secured: "u4pS37poqETnyJyNHSZFkKq/4JG+QRUsTFNAdXdKGrL/uDWdmvsSlzZWjU2oj2KdyZ9mPOgf/qdg20uvU2guEz8R2nbe897Z3FBzhE1T4TuIDfqhLNfJ+SWgXG/6SbQHnItb2cZ/4BkBurJIgfpf8eJHfiFVGtnz7DXxxIqfCPDvUp6iSwEZr/h83r00G+UXWiIK1/2YmJP30aLH6AN93qpTMNZ+/x+2K8IRiN63KnesVkg7naCr7eGeajhk0tEHdgQYztwyZdJniMAkWBAHGxY+MUFNAbxu10otlvLJhz0P5/qnhPNGxBx0EYHENCmXo9P+CAvmYAQOJHukQPORfJcNqxB7neLdqkGP6wE8Wo2KgjK2S2IxLHGDsAySSjA54WTp13n9yk3BXtidbqPQaj0nkvU2ECTCaQdmi+PmXamqJ+hMUrnSCrjB2TgboziIWhTfWB+q7V6xTJHDu8GGSz6tR+udJkdxTenmV1AyD5s=;uc4z1Vk+NMjudzlglqOcig=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-b
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
 type: article
 quality: 120
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -46,19 +46,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/015JLImS9DModQt24LO6Lie-8.fit_lim.size_1200x630.v_1589904030.png"
         width: 1120
         height: 630
-  - title: "Microsoft responsible machine learning capabilities build trust in AI systems, developers say"
-    excerpt: "The post Microsoft responsible machine learning capabilities build trust in AI systems, developers say appeared first on The AI Blog.\n"
-    publishedDateTime: 2020-05-19T14:59:23Z
-    webUrl: "https://blogs.microsoft.com/ai/azure-responsible-machine-learning/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 93
-    images:
-      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/microsoft-build-responsible-machine-learning-sas-terminal_1200x630-5ec3c46a3bb28-1024x538.jpg"
-        width: 1024
-        height: 538
   - title: "Microsoft builds supercomputer for OpenAI to help train massive AI models"
     excerpt: "Microsoft today announced that it has built the fifth most powerful public supercomputers in the world. The computer will be part of the company’s Azure cloud platform and is meant to train large artificial intelligence (AI) models."
     publishedDateTime: 2020-05-19T15:53:00Z

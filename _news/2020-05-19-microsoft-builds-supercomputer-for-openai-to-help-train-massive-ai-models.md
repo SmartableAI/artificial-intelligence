@@ -56,19 +56,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/015JLImS9DModQt24LO6Lie-8.fit_lim.size_1200x630.v_1589904030.png"
         width: 1120
         height: 630
-  - title: "Microsoft responsible machine learning capabilities build trust in AI systems, developers say"
-    excerpt: "The post Microsoft responsible machine learning capabilities build trust in AI systems, developers say appeared first on The AI Blog.\n"
-    publishedDateTime: 2020-05-19T14:59:23Z
-    webUrl: "https://blogs.microsoft.com/ai/azure-responsible-machine-learning/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 93
-    images:
-      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/microsoft-build-responsible-machine-learning-sas-terminal_1200x630-5ec3c46a3bb28-1024x538.jpg"
-        width: 1024
-        height: 538
   - title: "6 Top Azure Announcements From Microsoft Build"
     excerpt: "Major Azure announcements at Microsoft Build include the general availability of Microsoft’s Azure IoT Developer Specialty Certification and training resources. Microsoft has built a new artificial intelligence supercomputer on its Azure cloud in collaboration with Open AI,"
     publishedDateTime: 2020-05-19T15:24:00Z

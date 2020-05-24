@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-15243
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-152430735.html"
 type: article
 quality: 87
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -40,26 +40,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 37
-  - title: "Hospital is first in US to use artificial intelligence to analyze COVID-19 patients"
-    excerpt: "Mount Sinai researchers are the first in the country to use artificial intelligence (AI) combined with imaging, and clinical data to analyze patients with coronavirus disease (COVID-19). They have developed a unique algorithm that can rapidly detect COVID-19 based on how lung disease looks in computed tomography (CT scans) of the chest,"
-    publishedDateTime: 2020-05-19T14:56:00Z
-    webUrl: "https://medicalxpress.com/news/2020-05-hospital-artificial-intelligence-covid-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-05-hospital-artificial-intelligence-covid-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-05-hospital-artificial-intelligence-covid-patients.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 31
-  - title: "Artificial Intelligence Tool Identifies COVID-19 in CT Scans"
-    excerpt: "Mount Sinai researchers are the first in the US to use artificial intelligence to analyze CT scans and patients' clinical information to detect COVID-19."
-    publishedDateTime: 2020-05-19T14:59:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-tool-identifies-covid-19-in-ct-scans"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "gqbDmE1dpTDAuqCWFVHN85SirqyVk6ayk0nfIQz96rn1wFcZ5XCFKB+xVBgdbiOyrqqGauEFHwzJ1gCVbAw1USQdIqxBSqVn8K2dyx9gL25G+ckAxlwFwWR52YwL2z+pXQovSc/Q3hqRCmg0QJg3ofK5qXGDKgD8VLh5UaFlrhOmAFiI/OLaCXDnjWiHGcOS9rtIU8UBDymGPqPs8GA0n8JQOnhqWp4SWTjkwMCBkDWqownIRFs7m694PirLxP+7woM7zqMrzKVasc0T4ruc9np1K1vVLFbDXDCoj6hwP9eiV2mSRHi0IGFio8HWAsSIhAcuG8w+virvIoQ4hUnE/TyET62j5Wtl2nJi8fpwApPqxIqTVHX2Rr1vD+oitDoUKe+PktZ6+iHb8caPlp5VBIaPJMJkDjSK8I75VmCztEC+GmZGhqx/U0oPcNIJxMD0rNa5AsgpYEAy68AbjtEKiq9L9yr2HGCLqygynfTb3zg=;hsPVYP6KWUVJxwwd22A87w=="
 ---

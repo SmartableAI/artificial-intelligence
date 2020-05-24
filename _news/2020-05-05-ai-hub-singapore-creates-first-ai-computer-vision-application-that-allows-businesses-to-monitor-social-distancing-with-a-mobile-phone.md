@@ -1,25 +1,25 @@
 ---
 category: news
 title: "AI Hub Singapore creates first AI computer vision application that allows businesses to monitor social distancing with a mobile phone"
-excerpt: "As economies gradually reopen globally, people around the world share a responsibility to keep up the fight against COVID-19. To allow more businesses and"
-publishedDateTime: 2020-05-05T07:00:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social/article_d78af5b5-c558-5d40-8e9f-bc0732c99890.html"
+excerpt: "Dubbed SafeDistancer, the innovative application makes use of AI and computer vision to detect people in the phone's camera frame and monitors the distance between them in realtime. When people ..."
+publishedDateTime: 2020-05-05T07:04:00Z
+webUrl: "https://www.prnewswire.com/news-releases/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-301052610.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     title: "AI Hub Singapore creates first AI computer vision application that allows businesses to monitor social distancing with a mobile phone"
 
-secured: "zzOj8bM0B3coMFX5h5ko/sRb+AM3Um4z27TGixgd8uAx8pGcc6gUNbWZG2wgffhnJ4jdeLgwtFsC35chwnmtPVgxD9UAO4U2gaN5PdEXphJmwRmSnFmDBpkC481jX7C6EHxzAgBpnc5kUiGh6VRViqWHdHTtnHuk4sAldBy2Olxk6nUrev/UaPyCQvXjqeVV4Y7MWnXewZCWOhhgWoonF4lm1kUIAzj7eF8H0dIoYPR46XWttTecS/B2Mfi5Uy1w0wPdibSql99PCHUEVDypycHT5TYuuT8mMksddQqiHGB92mpJQPdhhfz66hhKpOLn;cjGD6myt2+V4GGzndlZxKw=="
+secured: "SMXblfMei++e6Kxvst5B/BZSI+CJ1h7jSsJtO0S+PzQQ6JJVC7ftB/NiDhsyAbxnd+KYFivZnsaDKu8zFlsZISoK2u0D+HlNqHkpKWbZOIiXt2UiQQa//mOvIRCi7juF4KAGJDPP/z8dRHGHBLpoRv2Qb1yrd+AdB8/WqEE6IfLtctv/nep6nZnbLNEe8t353BomK4zWI3uZ5b2Le6obJiAd3Zre+22O7T73JaOFnAP0INXN5ifmnp0OPl3EDQwM2Fwusj92oKKFfu/CZYhNEexVN9XR7/NJxsBUniZnWfCRfvjrBd5So/I8ikS1qpcm;Skg0ZOAwXP9yuK3Tn5I6EA=="
 ---
 

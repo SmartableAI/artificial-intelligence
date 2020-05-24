@@ -20,6 +20,19 @@ topics:
   - AI
 
 related:
+  - title: "Self-driving shuttle can carry people again"
+    excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions."
+    publishedDateTime: 2020-05-24T06:43:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/may/24/self-driving-shuttle-can-carry-people-a/?business"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://media.arkansasonline.com/img/photos/2020/05/24/195164071_195151106-ebc4a7eae974460f8b39235e31801e8e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 412
   - title: "US agency lets self-driving shuttle resume carrying people"
     excerpt: "WASHINGTON (AP) — A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
     publishedDateTime: 2020-05-20T22:02:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-mor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-more-transparent-ai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 468
     title: "Towards A More Transparent AI"
 
-secured: "2OyY+KllQ/DH2FoH1DQzz776jjE6Jkn1VmTphuvFNp0AqwbPsyhRxP5ZO8YX18POr21G46vPRlM5p7rYz+AE9LuYbd9ZIQRRFNwEnApNLQY0ipQFJqyhzKIxgg7Gy/NnqpfInyoBmF6VNuRxqh+HCrzmMFqrSeMr0fl632T9m5PNg8HxYK61CfH8lkZdX5lK/5gEPsixeOSX+zlyh5QZ03vlnDy+hfzS9jUgk3Jz6xG3pwt/SlcU3bjncVsHdKwmi740wc2gwL5PkixzFWGUN+BDr1OzE7SS+Leryi8RcPlKtrT4CuSYoqAQI0Fku73y;OyGF/LEDfAlaODq1W6fWNg=="
+secured: "3/Hl9U70BTRCY3FimWdM4HxSKl2RFOeOZ90rhINNGBZBNtV2n+D5oecm6r8//0C/KJv6AZZRzvXDiu5uxCWACqvK7bL7rP3eymuMgJ9AslWvp6Dbu6xqq0NIMZq3GFdjOTfeYqhS+MlQu257EWjnt/D9xHEHO+nbjpWl1tVBDKSjWPVYFx6x3ipRkWdrInEDud97YAPNHxptOUzaJ6dBp0WJqrTGd6TtPATpj2PzHTwrWZiAdtPdhmN6JH+8So2iFEuERZ1gDmhZktwGHVV9RrvLn6dbNKa2E7R8NfOLrvA0cdKwwdPJtKsfOagIL3yD;e+v1kJWZ48Hn3t/lu0IyfA=="
 ---
 

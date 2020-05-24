@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-19T15:04:00Z
 webUrl: "https://venturebeat.com/2020/05/19/azure-synapse-link-anchors-microsoft-big-data-analytics-capabilities/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: VentureBeat
@@ -26,19 +26,6 @@ images:
     width: 1200
     height: 600
     title: "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities"
-
-related:
-  - title: "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates"
-    excerpt: "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020."
-    publishedDateTime: 2020-05-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 93
 
 secured: "cus3h1VX01mu9xA9MlkS9P0MF8B677haiz68Yih4GCrZa1Y3zap0pymHjiFDqMS2jsideETsiJetR5HJUkt61zAVDXHMhRncJQFQnsysgZusBxXicmVD4IRB3qaUsRU9BEyLFJ6k31R9CIOd422ywmmZbxooLXA9XcjphCzRJkXSRlWEYNC8lOpz3fJczGJn4QpxUZMLL1RGWHF+n6BSw/ao1UxBezbJUf6hOy5hroFrsWZOPAuNz4lmcg4sT/XXrGkfZPuuBioj8SihzLWrt9EP8HgaVyv+dkmTmhTuBrcfifI6SdDBN2IrW14VpXYWJLktlOpNUF9+KCW2CL++2eNy4wIHvS3V/OYjzweAYO0JSt+5N2+mNEzvADc8Kq23yOdgGrXaurz89voB1GzuqS62cFlDnKYcUXmNOShYA4tdOktpUYcQbrc4GMmnwitkEU8VEuKiXoaYBhD3Oaze1q5TY+QGA68Uh+lPpdFTzrs=;rly6xxiGVLeZKqLVQ1iaKw=="
 ---
