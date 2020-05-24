@@ -2,6 +2,141 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-17-china-injects-us22-billion-into-local-chip-maker-smic.md",
+      "title": "China injects US$2.2 billion into local chip maker SMIC",
+      "excerpt": "The investment comes as Washington moves to further restrict the ability of Chinese telecommunications equipment maker Huawei Technologies to develop chips using American technologies.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
+      "publishedDateTime": "2020-05-17T00:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/17/a5b50f20-980a-11ea-ae0d-0e69ba128e68_image_hires_153449.jpg?itok=Qs4iyILB&v=1589700900",
+          "width": 1200,
+          "height": 630,
+          "title": "China injects US$2.2 billion into local chip maker SMIC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-16-hugging-face-dives-into-machine-translation-with-release-of-1000-models.md",
+      "title": "Hugging Face dives into machine translation with release of 1,000 models",
+      "excerpt": "Hugging Face launched about 1,000 AI models for translation, the first venture into translation for the startup that seeks out and shares cutting-edge NLP.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/16/hugging-face-dives-into-machine-translation-with-release-of-1000-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-16T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Hugging Face dives into machine translation with release of 1,000 models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-16-steve-platt-and-experian-decades-of-delivering-return-on-ai.md",
+      "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
+      "excerpt": "Steve Platt, an Experian executive, has a long history of delivering economic returns from artificial intelligence.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/amp/",
+      "publishedDateTime": "2020-05-16T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebfdc7cdf2b8f00069d4a2f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-16-this-n95-like-mask-would-allow-you-to-unlock-your-phone-with-face-id.md",
       "title": "This N95-like mask would allow you to unlock your phone with Face ID",
       "excerpt": "If you're struggling to unlock your phone with facial recognition while wearing a face mask due to the coronavirus outbreak, a better alternative may be on the way. The Chinese tech company Huami, best known for its Amazfit wearable devices,",
@@ -947,133 +1082,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-sony-announces-camera-sensor-chips-with-built-in-ai-processing.md",
-      "title": "Sony announces camera sensor chips with built-in AI processing",
-      "excerpt": "Sony has shown off what it's calling \"the world's first image sensors to be equipped with AI processing functionality.\" These new sensors handle AI image analysis on board, so only the necessary data can be sent for further cloud processing.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/",
-      "ampWebUrl": "https://newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/?amp=true",
-      "publishedDateTime": "2020-05-15T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/7d5d11d/2147483647/strip/true/crop/5250x3500+0+50/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0e%2Fd6%2Fbe43993548dd8926342b0bd6864e%2Fdepositphotos-25748679-xl-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Sony announces camera sensor chips with built-in AI processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-ltn-global-enters-aws-advanced-technology-partner.md",
-      "title": "LTN Global enters AWS advanced technology partner",
-      "excerpt": "LTN Global has become the latest video industry firm to seek out the IT platform giants to provide offerings and will use AWS across its modular suite.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.html",
-      "ampWebUrl": "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html",
-      "publishedDateTime": "2020-05-15T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2020/May_2020/Elemental_12_Jan.jpg",
-          "width": 400,
-          "height": 234,
-          "title": "LTN Global enters AWS advanced technology partner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-sony-develops-first-image-sensor-combined-with-ai-chip.md",
-      "title": "Sony develops first image sensor combined with AI chip",
-      "excerpt": "Sony has announced it has developed the world's first image sensor equipped with artificial intelligence (AI) processing. The new image sensor has a configuration consisting of a pixel chip and logic chip.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/sony-develops-first-image-sensor-combined-with-ai-chip/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sony-develops-first-image-sensor-combined-with-ai-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-develops-first-image-sensor-combined-with-ai-chip/",
-      "publishedDateTime": "2020-05-14T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg",
-          "width": 360,
-          "height": 300,
-          "title": "Sony develops first image sensor combined with AI chip",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

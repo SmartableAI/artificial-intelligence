@@ -2,6 +2,79 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-22-pac-man-once-felt-futuristic-now-theres-a-new-one-built-entirely-by-ai.md",
+      "title": "'Pac-Man' once felt futuristic. Now there's a new one built entirely by AI.",
+      "excerpt": "Using the same technology that powers deepfakes, Nvidia developed an AI that created its own version of 'Pac-Man,' which turns 40 on May 22.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech/",
+      "ampWebUrl": "https://mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech.amp",
+      "publishedDateTime": "2020-05-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F05%252F22%252F02%252F852da140b0a1472d859097a97c762321.3b388.png%252F1200x630.png?signature=_nyeGrjEkTv3u_idcPDX6uFm_KE=",
+          "width": 1200,
+          "height": 630,
+          "title": "'Pac-Man' once felt futuristic. Now there's a new one built entirely by AI.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance.md",
+      "title": "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance",
+      "excerpt": "The”Global Artificial Intelligence (AI) in Education Market Research Report 2020-2026″ has deeply studied the analysis of significant factors that responsible for the growth of the international market.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/",
+      "ampWebUrl": "https://surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/amp/",
+      "cdnAmpWebUrl": "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/amp/",
+      "publishedDateTime": "2020-05-22T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "surfacingmagazine.net",
+        "domain": "surfacingmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://surfacingmagazine.net/wp-content/uploads/2020/05/market-research-expertz-16-43.png",
+          "width": 700,
+          "height": 370,
+          "title": "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-data-centre-chip-demand-fuels-nvidias-record-q2-revenue.md",
       "title": "Data centre chip demand fuels Nvidia's 'record Q2 revenue'",
       "excerpt": "Nvidia has forecast its 2021 second-quarter revenue above analysts’ estimates, powered by a surge in demand for data centre components amid the mass shift to remote working. The company expects its Q2 revenue to be $3.",
@@ -223,7 +296,7 @@
       "path": "_news/2020-05-22-ibm-making-big-job-cuts-even-to-watson-and-ai-as-it-pivots-to-cloud.md",
       "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
       "excerpt": "Services teams seem to be bearing the brunt of it as thousands of workers given 30 days notice, 90 days pay and not much else",
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theregister.co.uk/2020/05/22/ibm_layoffs/",
@@ -423,7 +496,7 @@
       "path": "_news/2020-05-21-nvidia-reports-308-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar.md",
       "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
       "excerpt": "Nvidia posted revenues of $3.08 billion for the first quarter ended April 26, up 39% from a year earlier as data center revenues soared.",
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/",
@@ -461,7 +534,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -963,86 +1037,6 @@
           "width": 1200,
           "height": 711,
           "title": "Clara Analytics nabs $25 million for AI that expedites workers’ compensation claims",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-facebook-leverages-ai-to-improve-kids-safety-in-messenger.md",
-      "title": "Facebook leverages AI to improve kids’ safety in Messenger",
-      "excerpt": "Facebook is rolling out an AI feature that gives users under the age of 18 tips on interacting with unfamiliar adults and avoiding scams.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/amp/",
-      "publishedDateTime": "2020-05-21T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/facebook-messenger-f8-e1584730735130.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook leverages AI to improve kids’ safety in Messenger",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-airtel-acquires-10-stake-in-ai-startup-voicezen.md",
-      "title": "Airtel acquires 10% stake in AI startup Voicezen",
-      "excerpt": "New Delhi, May 21 () Bharti Airtel has acquired 10 per cent stake in Gurgaon-based start-up Voicezen, which focusses on conversational artificial intelligence technologies, in an all-cash deal, the private operator said on Thursday.",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/articleshow/75868862.cms",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms",
-      "publishedDateTime": "2020-05-21T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/75868862.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": "Airtel acquires 10% stake in AI startup Voicezen",
           "attribution": null
         }
       ],

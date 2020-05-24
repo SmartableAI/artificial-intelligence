@@ -2,6 +2,64 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-and-altran-release-ai-based-tool-for-bug-detection.md",
+      "title": "Microsoft and Altran release AI-based tool for bug detection",
+      "excerpt": "Microsoft and Altran, the design and engineering firm recently acquired by Capgemini, have collaborated to develop an AI-based tool, now available on GitHub, to predict the likelihood of bugs in source codes.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.microsoft.com/en-us/ai/ai-lab-code-defect",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "diarioti.com",
+        "domain": "diarioti.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-and-microsoft-partner-on-tiny-ai-chip.md",
+      "title": "Sony and Microsoft partner on tiny AI chip",
+      "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html",
+      "ampWebUrl": "https://mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html/amp",
+      "publishedDateTime": "2020-05-18T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-imaging-chip-with-huge-potential-for-cameras.md",
       "title": "Sony, Microsoft strike deal on tiny AI imaging chip with huge potential for cameras",
       "excerpt": "Sony says it will partner with Microsoft to embed artificial intelligence capabilities into its latest imaging chip, which will be able to analyse video in a self-contained system without sending any data through remote servers.",
@@ -1213,95 +1271,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-this-ai-tool-automatically-identifies-different-types-of-brain-injury.md",
-      "title": "This AI tool automatically identifies different types of brain injury",
-      "excerpt": "Scientists from Imperial College London and Cambridge have developed an AI tool that can identify different brain injuries by analyzing images of CT scans",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/amp/",
-      "publishedDateTime": "2020-05-18T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-38-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This AI tool automatically identifies different types of brain injury",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-nvidia-releases-new-artificial-intelligence-hardware.md",
-      "title": "NVIDIA Releases New Artificial Intelligence Hardware",
-      "excerpt": "When it comes to hardware technology, NVIDIA (NASDAQ:NVDA) is at the leading edge of developments that are poised to reshape the world for at least the next decade. Using its graphics processing unit (GPU) roots for high-end video games -- an early data-dense computing task that has paved the way for breakthroughs in other areas -- NVIDIA is a busy chip designer and software developer these days.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
-      "publishedDateTime": "2020-05-18T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "NVIDIA Releases New Artificial Intelligence Hardware",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

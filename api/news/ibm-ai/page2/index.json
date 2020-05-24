@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-05-revolutionize-it-operations-with-watson-aiops.md",
+      "title": "Revolutionize IT Operations with Watson AIOps",
+      "excerpt": "When a component in the application end-to-end workflow becomes unavailable causing impact to internal users or external clients, the clock starts ticking, and customer satisfaction can be significantly impacted. Market research firm Aberdeen pegs an outage at about $260,000/hour. And many businesses",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/revolutionize-it-operations-with-watson-aiops/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T17:01:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_04_29_AIOps-Blog-Leadspace-Images_Dark.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Revolutionize IT Operations with Watson AIOps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-02-money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity.md",
       "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
       "excerpt": "Trusting AI to keep the banks safe can be a good or bad thing. It all depends on who wins -- villains or heroes. We'll discover",
@@ -1236,51 +1280,6 @@
           "width": 1000,
           "height": 625,
           "title": "IBM launches an interactive dashboard to track coronavirus on phone and the web",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-running-these-workloads-you-should-take-a-look-at-the-ibm-z15.md",
-      "title": "Running These Workloads? You Should Take A Look At The IBM Z15",
-      "excerpt": "Talk to any IT administrator about what they look for in a server platform and performance, openness, and security will top the list. Specifically, run my most demanding applications fast, enable my organization to support the range of workloads that power my modern business,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/20/running-these-workloads-you-should-take-a-look-at-the-ibm-z15/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/20/running-these-workloads-you-should-take-a-look-at-the-ibm-z15/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/20/running-these-workloads-you-should-take-a-look-at-the-ibm-z15/amp/",
-      "publishedDateTime": "2020-03-20T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e73ebfb10380d0006bda89a%2F0x0.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Running These Workloads? You Should Take A Look At The IBM Z15",
           "attribution": null
         }
       ],

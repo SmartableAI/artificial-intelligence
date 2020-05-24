@@ -894,6 +894,96 @@
       ]
     },
     {
+      "path": "_news/2020-05-22-google-will-stop-building-custom-ai-for-big-oil-and-gas.md",
+      "title": "Google will stop building custom AI for Big Oil and Gas",
+      "excerpt": "This report exposes how the three largest cloud companies — Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/",
+      "ampWebUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/amp/",
+      "publishedDateTime": "2020-05-22T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/Google-1.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Google will stop building custom AI for Big Oil and Gas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages.md",
+      "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
+      "excerpt": "This report exposes how the three largest cloud companies—Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/",
+      "ampWebUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/amp/",
+      "publishedDateTime": "2020-05-22T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/unilever.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-artificial-intelligence-ai-market-worldwide-is-projected-to-grow-by-us2846-billion.md",
       "title": "Artificial Intelligence (AI) market worldwide is projected to grow by US$284.6 Billion",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. (C) Copyright 2020 GlobeNewswire, Inc. All rights reserved. The MarketWatch News Department was not involved in the creation of this content. A link that brings you back to the homepage.",
@@ -1023,79 +1113,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-pac-man-once-felt-futuristic-now-theres-a-new-one-built-entirely-by-ai.md",
-      "title": "'Pac-Man' once felt futuristic. Now there's a new one built entirely by AI.",
-      "excerpt": "Using the same technology that powers deepfakes, Nvidia developed an AI that created its own version of 'Pac-Man,' which turns 40 on May 22.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech/",
-      "ampWebUrl": "https://mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech.amp",
-      "publishedDateTime": "2020-05-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F05%252F22%252F02%252F852da140b0a1472d859097a97c762321.3b388.png%252F1200x630.png?signature=_nyeGrjEkTv3u_idcPDX6uFm_KE=",
-          "width": 1200,
-          "height": 630,
-          "title": "'Pac-Man' once felt futuristic. Now there's a new one built entirely by AI.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance.md",
-      "title": "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance",
-      "excerpt": "The”Global Artificial Intelligence (AI) in Education Market Research Report 2020-2026″ has deeply studied the analysis of significant factors that responsible for the growth of the international market.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/",
-      "ampWebUrl": "https://surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/amp/",
-      "cdnAmpWebUrl": "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/amp/",
-      "publishedDateTime": "2020-05-22T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "surfacingmagazine.net",
-        "domain": "surfacingmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://surfacingmagazine.net/wp-content/uploads/2020/05/market-research-expertz-16-43.png",
-          "width": 700,
-          "height": 370,
-          "title": "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

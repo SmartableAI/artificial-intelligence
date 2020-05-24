@@ -99,21 +99,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/7/83/783f4958-cac6-5157-aabd-a9b7c56883a2/5ec3f148eeba6.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
-  - title: "Facial recognition technology helps reunite kidnapped toddler with family after 32 years"
-    excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology."
-    publishedDateTime: 2020-05-19T09:42:00Z
-    webUrl: "https://www.wesh.com/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-    ampWebUrl: "https://www.wesh.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-    type: article
-    provider:
-      name: WESH
-      domain: wesh.com
-    quality: 50
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1200828790.jpg?crop=1.00xw:0.846xh;0,0.0587xh&resize=1200:*"
-        width: 1200
-        height: 677
   - title: "Facial recognition tech reunites missing child, parents after 32 years in China"
     excerpt: "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday."
     publishedDateTime: 2020-05-19T20:48:00Z

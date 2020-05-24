@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-20
 ampWebUrl: "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/"
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/Jensen-cooking.jpg?w=1200&#038;strip=all"

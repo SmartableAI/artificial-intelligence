@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Supermicro Artificial Intelligence / Machine Learning Ready Solution"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-05-21T18:21:00Z
-webUrl: "https://www.computerworld.com/resources/203530/supermicro-artificial-intelligence-machine-learning-ready-solution"
+excerpt: "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership."
+publishedDateTime: 2020-05-21T18:07:00Z
+webUrl: "https://www.csoonline.com/resources/203530/supermicro-artificial-intelligence-machine-learning-ready-solution"
 type: article
-quality: 54
-heat: 54
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: CSOonline
+  domain: csoonline.com
 
 topics:
   - AI
-  - Machine Learning
 
-images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-    width: 300
-    height: 300
-    title: "Supermicro Artificial Intelligence / Machine Learning Ready Solution"
+related:
+  - title: "Digital Finance Learning Offers Courses to Businesses"
+    excerpt: "Learning Platform that offers a variety of courses that focus on automation, visualization, cloud computing, ETL, and machine learning in"
+    publishedDateTime: 2020-05-22T01:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/05/ab16091208/digital-finance-learning-offers-courses-to-businesses"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16091208"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16091208"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
-secured: "0ODIzKRPpqlYrals+mtIE7aDFwPVEck8OiC09bEux+Q/n98ygq1OShNc4gZis3TQAYWiTHTYcX9a0V10dHW9lelygaUMbkSW1NZsv7yLTUiWJPI0E3OWOc7AeY+ZCH5pno2hLySK27xmKQb6Em6pUeLOcMxdbKP0GZDP+g2rE2wT+FMIumMksFPkMD7wmHLs9kUhoOEIJpN97VDVMrw26TmKGRYlO9QgF+0u6f9owbU3Sj6GwAB1v2AAdcb2bi7OgmVQRmGCDpF2rJx9Duwtz4vMwr4Xu/vsb6qa5MB4VvuxjUTqJIDR4lPa917xtTPTx3MYi0CMSqKTP8C7UDvuanIwZE22X9H1L5EOSUNLBiQY+f0AB6yxufbH5QDqU68b4gWXImfHge6PFREmGo4s4N6s9v9/lKxiPlXK9d//hiWvOvog7Re1j8hHMBqZkqEb924LEH8shfgCwcHmdMs5tlVS25flmy5rOgcgiDsNm5o=;0820vTXxkTldLT2XYBHlpQ=="
+secured: "WwkGDthZQShdDK4ecVWc/Dc37Z4o/WrB3V/Ofm/p8brgUH4AOJ53n+CJ4MLeL63/K1tZV/2pD1K3HFISnOk+Lez60NT/kHTPJbOBD2ZQk92xHtOf9LD3FREJ2kqeU2OFz1fNTDdtqY8qWaMNnvB8m8P2nRwCCTwW7qOpo/nCjv7ECh+Q154/VdgZUE2n0+kSjP4BvwUHJJP/9+ln/gOuzkpi7ZgQkk17oGLcP1g9Xkz+ACKKiM9loGBXo8XoRo6HhOMYkIPdVVtoHGVIz8umMFP5SwK3/fR1BslRcJpLWIyYl8oPGAL+lhYjy7tgTmuzhVIl8GWuZ3dDhl3sPwk8bXPt6yHBFYGc/VAu/iSoSfPlcYpVW0v1FatdcWA0Fd4NJlA9I1EqDBUWwARE5s2ge7i7TbF3ARrfEkGOmVqXkzNMEZxRMNXEw/yoa5ZyfpBc6Be6CB9fxuip9zCDTNbN9HR7S19nOmdnK9/n2HRCL00=;Kq10yI2fXLR2GCAsSU2C8w=="
 ---
 

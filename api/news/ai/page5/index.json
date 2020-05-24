@@ -2,6 +2,95 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work.md",
+      "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
+      "excerpt": "The post Microsoft announces new supercomputer, lays out vision for future AI work appeared first on The AI Blog.\n",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/openai-azure-supercomputer/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T07:59:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/openai-azure-supercomputer-kevin-scott_3_1200x630-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients.md",
+      "title": "AI is helping get medical research into the hands of doctors and patients",
+      "excerpt": "A patient-centric approach helps advance medical knowledge, which is desperately needed in the middle of a fast-moving pandemic.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "publishedDateTime": "2020-05-19T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/19/96ab2ebc-4b2e-4359-af1c-edd50149a4f4/resize/1200x/f33ff0c5fa127e5b5f86d5a3a01afd04/istock-1200774681.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI is helping get medical research into the hands of doctors and patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-master-ai-machine-learning-with-this-discounted-training-bundle.md",
       "title": "Master AI, Machine Learning With This Discounted Training Bundle",
       "excerpt": "It's time to demystify AI, and The Essential AI and Machine Learning Certification Training Bundle is here to help for just $40.",
@@ -1185,64 +1274,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-and-altran-release-ai-based-tool-for-bug-detection.md",
-      "title": "Microsoft and Altran release AI-based tool for bug detection",
-      "excerpt": "Microsoft and Altran, the design and engineering firm recently acquired by Capgemini, have collaborated to develop an AI-based tool, now available on GitHub, to predict the likelihood of bugs in source codes.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.microsoft.com/en-us/ai/ai-lab-code-defect",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "diarioti.com",
-        "domain": "diarioti.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-sony-and-microsoft-partner-on-tiny-ai-chip.md",
-      "title": "Sony and Microsoft partner on tiny AI chip",
-      "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html",
-      "ampWebUrl": "https://mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html/amp",
-      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/technology/352591-sony-and-microsoft-partner-on-tiny-ai-chip.html/amp",
-      "publishedDateTime": "2020-05-18T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyBroadband",
-        "domain": "mybroadband.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

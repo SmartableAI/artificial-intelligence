@@ -894,6 +894,96 @@
       ]
     },
     {
+      "path": "_news/2020-05-22-google-will-stop-building-custom-ai-for-big-oil-and-gas.md",
+      "title": "Google will stop building custom AI for Big Oil and Gas",
+      "excerpt": "This report exposes how the three largest cloud companies — Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/",
+      "ampWebUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/amp/",
+      "publishedDateTime": "2020-05-22T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/Google-1.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Google will stop building custom AI for Big Oil and Gas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages.md",
+      "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
+      "excerpt": "This report exposes how the three largest cloud companies—Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/",
+      "ampWebUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/amp/",
+      "publishedDateTime": "2020-05-22T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/unilever.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-artificial-intelligence-ai-market-worldwide-is-projected-to-grow-by-us2846-billion.md",
       "title": "Artificial Intelligence (AI) market worldwide is projected to grow by US$284.6 Billion",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. (C) Copyright 2020 GlobeNewswire, Inc. All rights reserved. The MarketWatch News Department was not involved in the creation of this content. A link that brings you back to the homepage.",
@@ -1224,96 +1314,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-coronavirus-impact-on-machine-learning-as-a-service-market.md",
-      "title": "Coronavirus Impact on Machine Learning as a Service Market",
-      "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Machine Learning as a Service Market is expected to be around US$ 10746.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/coronavirus-impact-on-machine-learning-as-a-service-market-2020-05-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Coronavirus Impact on Machine Learning as a Service Market",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-unisa-and-uow-to-jointly-research-ai-capabilities-for-defence.md",
-      "title": "UniSA and UOW to jointly research AI capabilities for Defence",
-      "excerpt": "They will also work with the ADF to apply any new artificial intelligence capabilities to the new Star Shots strategy where possible.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
-      "publishedDateTime": "2020-05-21T20:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/22/9084fd20-5691-4f1a-9734-eeb82a2417a9/thumbnail/1200x675/fdd58539a87b8ff3bc44374d7cc21c9e/action-blocks.png",
-          "width": 1200,
-          "height": 675,
-          "title": "UniSA and UOW to jointly research AI capabilities for Defence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

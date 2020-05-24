@@ -2,6 +2,132 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-05-12-how-ai-and-gaze-control-will-help-businesses-reopen-safely.md",
+      "title": "How AI And “Gaze Control” Will Help Businesses Reopen Safely",
+      "excerpt": "When businesses and other institutions open up, they will need to do a lot of things differently. Here's how new technologies like AI and \"gaze control\" can help.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sap/2020/05/12/how-ai-and-gaze-control-will-help-businesses-reopen-safely/",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/05/12/how-ai-and-gaze-control-will-help-businesses-reopen-safely/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/05/12/how-ai-and-gaze-control-will-help-businesses-reopen-safely/amp/",
+      "publishedDateTime": "2020-05-12T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1048105658%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6016%26cropY1%3D312%26cropY2%3D3695",
+          "width": 1200,
+          "height": 675,
+          "title": "How AI And “Gaze Control” Will Help Businesses Reopen Safely",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-how-the-coronavirus-will-permanently-change-healthcare-according-to-26-top-industry-leaders.md",
+      "title": "How the coronavirus will permanently change healthcare, according to 26 top industry leaders",
+      "excerpt": "Coronavirus is changing the future of the healthcare industry",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/whats-next-ceos-future-leaders-200-healthcare-covid-19-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/whats-next-ceos-future-leaders-200-healthcare-covid-19-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/whats-next-ceos-future-leaders-200-healthcare-covid-19-2020-5?amp",
+      "publishedDateTime": "2020-05-12T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5eb5c9d75f726e0d2b19599c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How the coronavirus will permanently change healthcare, according to 26 top industry leaders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-dr-ranveer-chandra-chief-scientist-of-microsoft-azure-global-joins-terrameras-science-technology-advisory-council.md",
+      "title": "Dr. Ranveer Chandra, Chief Scientist of Microsoft Azure Global, Joins Terramera’s Science & Technology Advisory Council",
+      "excerpt": "Terramera®, the global agtech leader transforming how food is grown and the economics of agriculture over the next decade, today announced that Dr. Ra",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200512005274/en/Dr.-Ranveer-Chandra-Chief-Scientist-Microsoft-Azure/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A==",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200512005274/en/791007/23/Ranveer.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Dr. Ranveer Chandra, Chief Scientist of Microsoft Azure Global, Joins Terramera’s Science & Technology Advisory Council",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-ibms-watson-aiops-a-killer-app-for-cios.md",
       "title": "IBM’s Watson AIOps - A Killer App For CIOs",
       "excerpt": "Watson AIOps could be one of the most powerful tools any CIO can deploy to help them adopt and adapt to hybrid cloud infrastructures and make their digital transformations more successful.",
@@ -1147,139 +1273,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai.md",
-      "title": "Paradox Raises $40M Series B to Help Companies Embrace the Future of Work with Conversational AI",
-      "excerpt": "Press Release Paradox, the conversational AI platform helping HR and talent teams automate administrative tasks and deliver real-time candidate and employee communications, announced today $40M in Series B funding,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/amp/",
-      "publishedDateTime": "2020-05-11T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20200511005657/en/790786/4/paradox-hq.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 360,
-          "title": "Paradox Raises $40M Series B to Help Companies Embrace the Future of Work with Conversational AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips.md",
-      "title": "Qualcomm and MediaTek chase video and game fans with tweaked 5G chips",
-      "excerpt": "New chips from two top device chipmakers suggest that high frame rate videos and games will be major selling points for even budget 5G phones.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/amp/",
-      "publishedDateTime": "2020-05-11T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/snapdimen.jpg?fit=1440%2C720&strip=all",
-          "width": 1440,
-          "height": 720,
-          "title": "Qualcomm and MediaTek chase video and game fans with tweaked 5G chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ai-can-help-to-inform-pandemic-policy.md",
-      "title": "AI Can Help To Inform Pandemic Policy",
-      "excerpt": "An Interview with Dr. Deborah Duong, Director for AI Development at Rejuve and Director of Network Analytics at SingularityNET and Dr. Ben Goertzel, founder of SingularityNET.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/amp/",
-      "publishedDateTime": "2020-05-11T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x621/https://specials-images.forbesimg.com/imageserve/5eb2eeb5858c030007722ea6/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 621,
-          "title": "AI Can Help To Inform Pandemic Policy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

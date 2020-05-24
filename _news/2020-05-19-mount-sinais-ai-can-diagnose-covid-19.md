@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-15243
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-152430735.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -40,6 +40,17 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 37
+  - title: "Hospital is first in US to use artificial intelligence to analyze COVID-19 patients"
+    excerpt: "Mount Sinai researchers are the first in the country to use artificial intelligence (AI) combined with imaging, and clinical data to analyze patients with coronavirus disease (COVID-19). They have developed a unique algorithm that can rapidly detect COVID-19 based on how lung disease looks in computed tomography (CT scans) of the chest,"
+    publishedDateTime: 2020-05-19T14:56:00Z
+    webUrl: "https://medicalxpress.com/news/2020-05-hospital-artificial-intelligence-covid-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-05-hospital-artificial-intelligence-covid-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-05-hospital-artificial-intelligence-covid-patients.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 31
   - title: "Artificial Intelligence Tool Identifies COVID-19 in CT Scans"
     excerpt: "Mount Sinai researchers are the first in the US to use artificial intelligence to analyze CT scans and patients' clinical information to detect COVID-19."
     publishedDateTime: 2020-05-19T14:59:00Z

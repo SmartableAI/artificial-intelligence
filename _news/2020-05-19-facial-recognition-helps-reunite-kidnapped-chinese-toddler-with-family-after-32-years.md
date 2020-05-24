@@ -86,21 +86,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/6200174_052020-ktrk-cnn-facial-recognition-reunites-family-carolina-final.png"
         width: 1920
         height: 1080
-  - title: "Facial recognition technology helps reunite kidnapped toddler with family after 32 years"
-    excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology."
-    publishedDateTime: 2020-05-19T09:42:00Z
-    webUrl: "https://www.wesh.com/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-    ampWebUrl: "https://www.wesh.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/facial-recognition-technology-helps-reunite-kidnapped-toddler-with-family-after-32-years/32593845"
-    type: article
-    provider:
-      name: WESH
-      domain: wesh.com
-    quality: 50
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1200828790.jpg?crop=1.00xw:0.846xh;0,0.0587xh&resize=1200:*"
-        width: 1200
-        height: 677
   - title: "Facial recognition reunites missing child after 32 years in China"
     excerpt: "Mao Yin was 2 years old when he was taken from his parents in 1988."
     publishedDateTime: 2020-05-19T19:47:00Z

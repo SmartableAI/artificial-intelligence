@@ -2,6 +2,132 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-05-07-aws-unveils-open-source-model-server-for-pytorch.md",
+      "title": "AWS unveils open source model server for PyTorch",
+      "excerpt": "including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reseller.co.nz/article/679084/aws-unveils-open-source-model-server-pytorch/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/aws_dreamstime.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "AWS unveils open source model server for PyTorch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-la-trobe-university-using-artificial-intelligence-to-reduce-course-dropout-rates.md",
+      "title": "La Trobe University using artificial intelligence to reduce course dropout rates",
+      "excerpt": "The Bachelor of Arts Explorer allows students to shortlist majors and see what careers they can enter if they study a specific course.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/la-trobe-using-artificial-intelligence-to-reduce-course-dropout-rates/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/la-trobe-using-artificial-intelligence-to-reduce-course-dropout-rates/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/la-trobe-using-artificial-intelligence-to-reduce-course-dropout-rates/",
+      "publishedDateTime": "2020-05-06T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/06/beae507b-2d7e-48b2-ac68-6996eb050e6e/bachelor-of-arts-explorer.png",
+          "width": 1248,
+          "height": 764,
+          "title": "La Trobe University using artificial intelligence to reduce course dropout rates",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-feds-quarles-says-paying-a-lot-of-attention-to-spread-of-machine-learning-in-finance.md",
+      "title": "Fed's Quarles says paying 'a lot' of attention to spread of machine learning in finance",
+      "excerpt": "Federal Reserve vice chair for supervision Randal Quarles said the central bank is in the early stages of studying the use of machine learning in the financial sector. Federal Reserve vice chair ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
+      "publishedDateTime": "2020-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105188162-GettyImages-924650070.jpg?v=1569588423",
+          "width": 1024,
+          "height": 683,
+          "title": "Fed's Quarles says paying 'a lot' of attention to spread of machine learning in finance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-microsoft-adds-openshift-and-rhel-support-to-azure-arc-its-hybrid-and-multi-cloud-platform.md",
       "title": "Microsoft Adds OpenShift and RHEL Support to Azure Arc, Its Hybrid and Multi-Cloud Platform",
       "excerpt": "At the recent virtual Red Hat Summit, Microsoft's cloud and AI group's executive VP, Scott Guthrie, joined Red Hat CEO Paul Cormier to explain that Red Hat and Azure engineers have been working side-by-side to integrate Red Hat Enterprise Linux and the OpenShift container platform into Arc. At the same time, Arc has been expanded to manage ...",
@@ -1102,133 +1228,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-harrisburg-university-develops-facial-recognition-software-to-predict-criminality.md",
-      "title": "Harrisburg University develops facial recognition software to predict criminality",
-      "excerpt": "A group of Harrisburg University professors and a Ph.D. student have developed automated computer facial recognition software capable of predicting whether someone",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.abc27.com/news/local/harrisburg/harrisburg-university-develops-facial-recognition-software-to-predict-criminality/",
-      "ampWebUrl": "https://www.abc27.com/news/local/harrisburg/harrisburg-university-develops-facial-recognition-software-to-predict-criminality/amp/",
-      "cdnAmpWebUrl": "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/local/harrisburg/harrisburg-university-develops-facial-recognition-software-to-predict-criminality/amp/",
-      "publishedDateTime": "2020-05-06T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc27.com",
-        "domain": "abc27.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abc27.com/wp-content/uploads/sites/55/2020/05/facerecognition.png?w=408&h=340&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Harrisburg University develops facial recognition software to predict criminality",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes.md",
-      "title": "Health care at ICLR: AI tackles poor data, low resources, and black boxes",
-      "excerpt": "In the field of medicine, AI can make a positive impact, but healthcare presents unique problems in data and with resources and explainability.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes/amp/",
-      "publishedDateTime": "2020-05-06T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/pexels-photo-236380-e1511747322253.jpeg?fit=1200%2C795&strip=all",
-          "width": 1200,
-          "height": 795,
-          "title": "Health care at ICLR: AI tackles poor data, low resources, and black boxes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-call-of-ai-ethics-the-origin-story.md",
-      "title": "Call of AI Ethics: The origin story",
-      "excerpt": "Dr. Francesca Rossi, IBM fellow, AI ethics global leader, and distinguished research staff member, IBM Research, tells Tonya Hall about the Call of AI Ethics that was initiated by the Vatican and presented to Pope Francis.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/call-of-ai-ethics-the-origin-story/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/06/9607c290-d166-4c72-8aa5-8d924164ec86/thumbnail/770x578/4386903680cf78bb5d3ee9cc9c177802/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Call of AI Ethics: The origin story",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -2,6 +2,95 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-18-this-ai-tool-automatically-identifies-different-types-of-brain-injury.md",
+      "title": "This AI tool automatically identifies different types of brain injury",
+      "excerpt": "Scientists from Imperial College London and Cambridge have developed an AI tool that can identify different brain injuries by analyzing images of CT scans",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/amp/",
+      "publishedDateTime": "2020-05-18T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-38-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI tool automatically identifies different types of brain injury",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-nvidia-releases-new-artificial-intelligence-hardware.md",
+      "title": "NVIDIA Releases New Artificial Intelligence Hardware",
+      "excerpt": "When it comes to hardware technology, NVIDIA (NASDAQ:NVDA) is at the leading edge of developments that are poised to reshape the world for at least the next decade. Using its graphics processing unit (GPU) roots for high-end video games -- an early data-dense computing task that has paved the way for breakthroughs in other areas -- NVIDIA is a busy chip designer and software developer these days.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "publishedDateTime": "2020-05-18T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "NVIDIA Releases New Artificial Intelligence Hardware",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code.md",
       "title": "Machine learning tool trains on old code to spot bugs in new code",
       "excerpt": "Microsoft and Altran release Code Defect AI to identify potential problems in software development and suggest fixes.",
@@ -269,6 +358,35 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-techsplainedfe-ready-to-chat.md",
+      "title": "Techsplained@FE: Ready to chat",
+      "excerpt": "On the other, ICMR announced that it would be leveraging IBM’s Watson to enhance performance ... step in government relying on artificial intelligence to improve its response time.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/industry/technology/techsplainedfe-ready-to-chat/1962235/",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/techsplainedfe-ready-to-chat/1962235/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/techsplainedfe-ready-to-chat/1962235/lite/",
+      "publishedDateTime": "2020-05-18T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1193,133 +1311,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-analyzing-and-tagging-assets-stored-in-veeva-vault-promomats-using-amazon-ai-services.md",
-      "title": "Analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services",
-      "excerpt": "Veeva Systems is a provider of cloud-based software for the global life sciences industry, which offers products that serve multiple domains ranging from clinical, regulatory, quality, and more. Veeva’s Vault Platform manages both content and data in a single platform that allows you to deploy powerful",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-and-tagging-assets-stored-in-veeva-vault-promomats-using-amazon-ai-services/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-15T11:02:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/veevo-1-2.gif",
-          "width": 1200,
-          "height": 583,
-          "title": "Analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable.md",
-      "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
-      "excerpt": "NVIDIA Corporation (NASDAQ: NVDA) shares, which have been bouncing along nicely for much of this week amid positive sell-side expectations for the chipmaker's earnings",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/16043371/nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16043371",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16043371",
-      "publishedDateTime": "2020-05-15T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/nvidia_a100_gpu.jpg",
-          "width": 2000,
-          "height": 1700,
-          "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-voice-control-speaking-is-better-than-swiping-during-the-coronavirus.md",
-      "title": "Voice control: Speaking is better than swiping during the coronavirus",
-      "excerpt": "A survey shows that people are worried about privacy and security when using voice control but they like not having to touch anything.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
-      "publishedDateTime": "2020-05-15T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/11/22/88326323-0d79-46bf-96dd-249d6e66ec6f/thumbnail/1200x675/84317c9b308cf0e20a8ecfddd3825515/20191121-dreamforce-patterson-bill.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Voice control: Speaking is better than swiping during the coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

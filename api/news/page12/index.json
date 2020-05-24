@@ -2,6 +2,142 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-05-14-nvidia-and-databricks-announce-gpu-acceleration-for-spark-30.md",
+      "title": "Nvidia and Databricks announce GPU acceleration for Spark 3.0",
+      "excerpt": "At its GPU Technology Conference event today, Nvidia is announcing GPU acceleration for Apache Spark 3.0, made possible by open source software developed in collaboration with Spark's creators at Databricks.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/nvidia-and-databricks-announce-gpu-acceleration-for-spark-3-0/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-and-databricks-announce-gpu-acceleration-for-spark-3-0/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-databricks-announce-gpu-acceleration-for-spark-3-0/",
+      "publishedDateTime": "2020-05-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2017/09/29/997be8da-a338-49ec-aaaf-274dc1375575/thumbnail/1200x675/48c52c31f037cfda198e14cd18f0a288/jump-into-data-lake.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Nvidia and Databricks announce GPU acceleration for Spark 3.0",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server.md",
+      "title": "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server",
+      "excerpt": "(Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green computing technology, today announced two new systems designed for artificial intelligence (AI) deep learning applications that fully leverage the third-generation NVIDIA HGX™ technology with the new NVIDIA A100™ Tensor Core GPUs as well as full support for the new NVIDIA A100 GPUs across the company's broad portfolio of 1U,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server-2020-05-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-traitify-raises-12-million-to-assess-job-candidates-personalities-with-ai.md",
+      "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
+      "excerpt": "Traitify, which taps AI and machine learning to assess the personality traits of job candidates, has raised $12 million in venture capital.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/14/traitify-raises-12-million-to-assess-job-candidates-personalities-with-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/share_image-e1589311151114.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network.md",
       "title": "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network",
       "excerpt": "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help ...",
@@ -932,126 +1068,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution.md",
-      "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
-      "excerpt": "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has announced the general availability of Amazon Kendra, described as an enterprise search solution which leverages \"machine learning to enable organizations to index all of their internal data sources,",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution-2020-05-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow.md",
-      "title": "7 Artificial Intelligence ETFs to Buy for Today and Tomorrow",
-      "excerpt": "Artificial intelligence (AI) is taking a variety of industries by storm and with that shift comes a plethora of investment implications. Fortunately, in what feels like a universe of thematic funds teeming with obscure products,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13?amp",
-      "publishedDateTime": "2020-05-13T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-facebooks-head-of-ai-says-elon-musk-has-no-idea-what-he-is-talking-about.md",
-      "title": "Facebook's head of AI says Elon Musk 'has no idea what he is talking about'",
-      "excerpt": "Elon Musk has repeatedly warned that AI is on the brink of outsmarting humans and that it could prove more dangerous to mankind than nuclear weapons.",
-      "heat": 115,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5?amp",
-      "publishedDateTime": "2020-05-13T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ebc148f48d92c67f652cf9c?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": "Facebook's head of AI says Elon Musk 'has no idea what he is talking about'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

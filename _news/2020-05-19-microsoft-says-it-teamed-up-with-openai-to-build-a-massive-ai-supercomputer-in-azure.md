@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-o
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/"
 type: article
 quality: 112
-heat: 172
+heat: 162
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure"
 
 related:
-  - title: "Sony and Microsoft team up on AI-powered cameras"
-    excerpt: "Sony and Microsoft are working on AI-powered cameras together. The two tech giants have announced that they’re embedding Microsoft Azure’s AI capabilities into Sony’s new image sensor, the IMX500, which comes with an onboard AI chip that processes information in real time."
-    publishedDateTime: 2020-05-19T09:17:00Z
-    webUrl: "https://www.engadget.com/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
-    ampWebUrl: "https://www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 106
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
-        width: 600
-        height: 350
   - title: "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer"
     excerpt: "Microsoft recently announced that it teamed up with OpenAI to create one of the world's fastest supercomputers running on the Azure infrastructure."
     publishedDateTime: 2020-05-20T14:25:00Z

@@ -34,6 +34,17 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F1b148db0-99df-11ea-bffc-6f21960ebf57&client=amp-blogside-v2&signature=289127313e83e511d92b33c506a4697f8eb8a732"
         width: 600
         height: 350
+  - title: "Hospital is first in US to use artificial intelligence to analyze COVID-19 patients"
+    excerpt: "Mount Sinai researchers are the first in the country to use artificial intelligence (AI) combined with imaging, and clinical data to analyze patients with coronavirus disease (COVID-19). They have developed a unique algorithm that can rapidly detect COVID-19 based on how lung disease looks in computed tomography (CT scans) of the chest,"
+    publishedDateTime: 2020-05-19T14:56:00Z
+    webUrl: "https://medicalxpress.com/news/2020-05-hospital-artificial-intelligence-covid-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-05-hospital-artificial-intelligence-covid-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-05-hospital-artificial-intelligence-covid-patients.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 31
   - title: "Artificial Intelligence Tool Identifies COVID-19 in CT Scans"
     excerpt: "Mount Sinai researchers are the first in the US to use artificial intelligence to analyze CT scans and patients' clinical information to detect COVID-19."
     publishedDateTime: 2020-05-19T14:59:00Z
