@@ -3,11 +3,8 @@ category: news
 title: "AI and Machine Learning for Game Design: The Positive Influencers"
 excerpt: "Artificial intelligence and machine learning help improve the game designing approach with evaluation and response support."
 publishedDateTime: 2020-05-20T14:45:00Z
-webUrl: "https://www.gamasutra.com/blogs/VivekSonchhatra/20200520/363256/AI_and_Machine_Learning_for_Game_Design_The_Positive_Influencers.php"
+webUrl: "https://gamasutra.com/blogs/VivekSonchhatra/20200520/363256/AI_and_Machine_Learning_for_Game_Design_The_Positive_Influencers.php"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: Gamasutra
@@ -23,6 +20,6 @@ images:
     height: 465
     title: "AI and Machine Learning for Game Design: The Positive Influencers"
 
-secured: "III91yaCrcp+fvmN5M2ka7sy5WOoH4PftOVfq323gJqsoOz6G1k7eDGfN5kcXCzW0zZHbiEjVHNvDzaSTqkTUqvjToNjrptmK3VHgwz77bwjLskIHIuVKiwzIrbHm+m4vXatK6V6EDQ6xTxLa67KuAweXcap9bi3o2pmQ2GFaBN2pGDLH8+0+A4cxiQHPvDjFp+FKq8cRfjzZ/c/NMSkHof/OZGUhsa1AobxONNaVsbVLV2ehGjkjbNfawHYFYrcmf40nZalIirZWTaWb4k56hdIIVDQFSQbrUePNdRXQ2S5PlhiL28gg/V2bhhRfQYgF+X6km/bvvJarVQiW806hNgZLkLHenkkQ0D8B7+YHdZq4gQ9FfQK+QqxmBcrN8KbpZSoasK+ldcdFiNxRjUNpe1bUs5w3BZWgEtp3XdfUThKF6z2O4drRnGa1cPOYQ8RO2JYqTTzcgzct2vCIytwQarN55rKOEOg6wPQ2+MJjlw=;AkNd3zsiR6OtTdq/v7wfcQ=="
+secured: "7wM2qCNnC6PIlo80mDZQ28C+fZjF3QSGDjzwW9gQGs3aNvqrzx05yPN5cUIon4izHaH5puaVyPzPw5M6PegeEDfPfzykQIrrBSfnd0SV7DsE++nbhjMr/sdKNq0aETiEQzKQCyBkFTYTVr/D+nkAu1GUvCeAGkOooApFwH1zq+sNXDbC6vNYYllIuDl9j/mG7tJm6LmW8oLUfPgO9GOSD4WYPRew0jxy/zV8qXcpFeLHJrvLWVnVrMwRxnJ08vUp0k+jekg7j0rs2jCTCguLV9JhoqHzxIeojASkjxiV9F0H73f3PljVrbn4XhIatBZb;gazFLoO4MamZGgNxGx8n2g=="
 ---
 

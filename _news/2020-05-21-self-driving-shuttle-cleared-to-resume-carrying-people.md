@@ -38,19 +38,6 @@ related:
         width: 600
         height: 412
   - title: "US agency lets self-driving shuttle resume carrying people"
-    excerpt: "WASHINGTON (AP) — A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S."
-    publishedDateTime: 2020-05-20T21:08:00Z
-    webUrl: "https://apnews.com/aa26472267a917ad3e0419c76987fa31"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/ebc4a7eae974460f8b39235e31801e8e/3000.jpeg"
-        width: 3000
-        height: 2061
-  - title: "US agency lets self-driving shuttle resume carrying people"
     excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
     publishedDateTime: 2020-05-21T08:39:00Z
     webUrl: "https://www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people"

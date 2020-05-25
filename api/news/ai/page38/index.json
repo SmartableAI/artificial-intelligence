@@ -2,6 +2,51 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-04-20-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
+      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "publishedDateTime": "2020-04-20T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
+          "width": 1440,
+          "height": 810,
+          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks.md",
       "title": "OpenAI launches Mircoscope with Lucid Library to help unravel neural networks",
       "excerpt": "Microscope does the same thing with neural networks. It studies the neurons in these networks and their interconnectivity ... OpenAI is a research laboratory based in San Francisco, California. It mainly works in the artificial general intelligence (AGI)area to build systems for the benefit of humankind. It was co-founded by Elon Musk in ...",
@@ -1208,43 +1253,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-clearview-ai-exposes-source-code-to-controversial-facial-recognition-app-and-company-credentials.md",
-      "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
-      "excerpt": "A researcher found that a misconfiguration allowed anyone to register as a new user and access the database containing Clearview's code regardless of whether they had entered password.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
-      "publishedDateTime": "2020-04-17T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail Online",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/04/17/19/25231518-0-image-a-2_1587149037389.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

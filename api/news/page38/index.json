@@ -2,6 +2,51 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-04-27-larry-page-highlights-new-businesses-says-hes-having-a-good-time-in-alphabet-shareholder-letter.md",
+      "title": "Larry Page highlights new businesses, says he's having a 'good time,' in Alphabet shareholder letter",
+      "excerpt": "Google may be Larry Page's best-known project, but it's Alphabet's \"other bets\" that took the spotlight in his 2016 shareholder letter ... of kooky projects: artificial intelligence.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/04/27/alphabet-2016-shareholder-letter-larry-page.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/04/27/alphabet-2016-shareholder-letter-larry-page.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/27/alphabet-2016-shareholder-letter-larry-page.html",
+      "publishedDateTime": "2020-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103597047-GettyImages-495431358.jpg?v=1529471416",
+          "width": 2000,
+          "height": 1332,
+          "title": "Larry Page highlights new businesses, says he's having a 'good time,' in Alphabet shareholder letter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-the-tiniest-computer-vision-platform-just-got-better.md",
       "title": "The Tiniest Computer Vision Platform Just Got Better",
       "excerpt": "The future, if you believe the ad copy, is a world filled with cameras backed by intelligence, neural nets, and computer vision. Despite the hype, this may actually turn out to be true ...",
@@ -1013,51 +1058,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-nanorobotics-systems-market-manufacturing-size-global-share-investment-opportunities-future-trends-business-demand-and-growth-forecast-2027.md",
-      "title": "Nanorobotics Systems Market - Manufacturing Size, Global Share, Investment Opportunities, Future Trends, Business Demand and Growth Forecast 2027",
-      "excerpt": "Apr 24, 2020 Xherald -- Nanorobotics is an evolving technology arena that creates robots or machines which ... However, emergence of mind-controlled nanorobots and development of swarm ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/nanorobotics-systems-market---manufacturing-size-global-share-investment-opportunities-future-trends-business-demand-and-growth-forecast-2027-2020-04-24?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Nanorobotics Systems Market - Manufacturing Size, Global Share, Investment Opportunities, Future Trends, Business Demand and Growth Forecast 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/11/IMG_20191122_111658.jpg?w=1200&#038;strip=all"

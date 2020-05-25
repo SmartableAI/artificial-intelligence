@@ -2,6 +2,35 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-05-05-global-natural-language-processing-market-2020-to-2025-ensemble-of-nlp-systems-to-boost-phenotyping-capabilities-presents-opportunities.md",
+      "title": "Global Natural Language Processing Market (2020 to 2025) - Ensemble of NLP Systems to Boost Phenotyping Capabilities Presents Opportunities",
+      "excerpt": "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@ ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/05/05/2027361/0/en/Global-Natural-Language-Processing-Market-2020-to-2025-Ensemble-of-NLP-Systems-to-Boost-Phenotyping-Capabilities-Presents-Opportunities.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-2020-insights-deep-learning-suppliers-strategic-positioning-and-leadership-quadrant-researchandmarketscom.md",
       "title": "2020 Insights - Deep Learning Suppliers Strategic Positioning and Leadership Quadrant - ResearchAndMarkets.com",
       "excerpt": "The \"Deep Learning Suppliers Strategic Positioning and Leadership Quadrant\" report has been added to ResearchAndMarkets.com's offering. The deep learning manufacture landscape is diverse and ...",
@@ -1005,51 +1034,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
-      "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-      "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/",
-      "ampWebUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
-      "publishedDateTime": "2020-05-04T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg",
-          "width": 1680,
-          "height": 946,
-          "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

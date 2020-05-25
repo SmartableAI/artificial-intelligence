@@ -2,6 +2,50 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-04-30-these-ai-generated-memes-are-bizarre-and-profound.md",
+      "title": "These AI generated memes are bizarre and profound",
+      "excerpt": "For an entire generation reared in the murky dark corners of the internet, memes are the preferred mode of communication. They help us deal with catastrophic events and manage existential dread; they can even help shape the spread of diseases like the coronavirus.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
+      "publishedDateTime": "2020-04-29T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/8H-_8nn57zlQt9SV6hr1lOKPr24=/940x0/2020/04/30/6f286b36-5379-4b5e-92f6-1e5707ad6403/screen-shot-2020-04-30-at-1-52-02-pm.png",
+          "width": 940,
+          "height": 739,
+          "title": "These AI generated memes are bizarre and profound",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-cars-could-go-completely-driverless-very-soon-says-ceo-of-chinese-autonomous-driving-tech-start-up.md",
       "title": "Cars could go completely driverless 'very soon,' says CEO of Chinese autonomous driving tech start-up",
       "excerpt": "Despite current regulations and safety concerns over self-driving cars, the time that cars could really go driverless is coming \"very soon,\" according to Jianxiong Xiao, CEO and founder of AutoX ...",
@@ -1003,51 +1047,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition.md",
-      "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
-      "excerpt": "Many industries, including retail, manufacturing, and healthcare, are adopting IoT-enabled devices and using AI or machine learning (ML) technologies to enable such devices to make human-like decisions without human intervention. You can also apply some of the use cases involving powering IoT-enabled",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T10:09:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/building-smart-garage-16.gif",
-          "width": 979,
-          "height": 571,
-          "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

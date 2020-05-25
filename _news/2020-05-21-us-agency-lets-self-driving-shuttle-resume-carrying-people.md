@@ -33,19 +33,6 @@ related:
       - url: "https://media.arkansasonline.com/img/photos/2020/05/24/195164071_195151106-ebc4a7eae974460f8b39235e31801e8e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 412
-  - title: "US agency lets self-driving shuttle resume carrying people"
-    excerpt: "WASHINGTON (AP) — A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S."
-    publishedDateTime: 2020-05-20T21:08:00Z
-    webUrl: "https://apnews.com/aa26472267a917ad3e0419c76987fa31"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/ebc4a7eae974460f8b39235e31801e8e/3000.jpeg"
-        width: 3000
-        height: 2061
   - title: "Self-Driving Shuttle Cleared to Resume Carrying People"
     excerpt: "WASHINGTON (AP) — A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
     publishedDateTime: 2020-05-21T15:59:00Z

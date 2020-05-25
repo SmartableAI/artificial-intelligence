@@ -2,6 +2,51 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-14-traitify-raises-12-million-to-assess-job-candidates-personalities-with-ai.md",
+      "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
+      "excerpt": "Traitify, which taps AI and machine learning to assess the personality traits of job candidates, has raised $12 million in venture capital.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/14/traitify-raises-12-million-to-assess-job-candidates-personalities-with-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/share_image-e1589311151114.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Traitify raises $12 million to assess job candidates’ personalities with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network.md",
       "title": "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network",
       "excerpt": "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help ...",
@@ -1222,50 +1267,6 @@
           "width": 796,
           "height": 417,
           "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data.md",
-      "title": "FortressIQ snags $30M Series B to streamline processes with AI-fueled data",
-      "excerpt": "As we move through life in the pandemic, companies are being forced to review and understand how workflows happen. How do you distribute laptops to your workforce? How do you make sure everyone has the correct tool set?",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/amp/",
-      "publishedDateTime": "2020-05-13T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-907330012.jpg?w=1024",
-          "width": 1024,
-          "height": 716,
-          "title": "FortressIQ snags $30M Series B to streamline processes with AI-fueled data",
           "attribution": null
         }
       ],

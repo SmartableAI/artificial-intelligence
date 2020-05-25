@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-16-hugging-face-dives-into-machine-translation-with-release-of-1000-models.md",
+      "title": "Hugging Face dives into machine translation with release of 1,000 models",
+      "excerpt": "Hugging Face launched about 1,000 AI models for translation, the first venture into translation for the startup that seeks out and shares cutting-edge NLP.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/16/hugging-face-dives-into-machine-translation-with-release-of-1000-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-16T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Hugging Face dives into machine translation with release of 1,000 models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-16-steve-platt-and-experian-decades-of-delivering-return-on-ai.md",
       "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
       "excerpt": "Steve Platt, an Experian executive, has a long history of delivering economic returns from artificial intelligence.",
@@ -1037,43 +1082,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-ltn-global-enters-aws-advanced-technology-partner.md",
-      "title": "LTN Global enters AWS advanced technology partner",
-      "excerpt": "LTN Global has become the latest video industry firm to seek out the IT platform giants to provide offerings and will use AWS across its modular suite.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.html",
-      "ampWebUrl": "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html",
-      "publishedDateTime": "2020-05-15T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2020/May_2020/Elemental_12_Jan.jpg",
-          "width": 400,
-          "height": 234,
-          "title": "LTN Global enters AWS advanced technology partner",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

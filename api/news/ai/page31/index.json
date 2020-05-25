@@ -2,6 +2,50 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-04-27-codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code.md",
+      "title": "Codota raises $12 million for AI that suggests and autocompletes code",
+      "excerpt": "Codota, a startup developing a platform that suggests and autocompletes code, has raised $12 million in equity financing.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/",
+      "publishedDateTime": "2020-04-27T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/1_0wIenZUkUNVutcizFB9sPA-e1587686866252.jpeg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Codota raises $12 million for AI that suggests and autocompletes code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-logical-clocks-launches-hopsworksai-the-worlds-first-artificial-intelligence-cloud-platform-with-a-feature-store.md",
       "title": "Logical Clocks Launches Hopsworks.ai: The World's First Artificial Intelligence Cloud Platform with a Feature Store",
       "excerpt": "Logical Clocks, the enterprise behind Hopsworks - the first data platform for designing and operating machine learning",
@@ -1172,43 +1216,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-why-samsung-thinks-its-2020-tvs-are-the-perfect-partners-for-the-next-gen-game-consoles.md",
-      "title": "Why Samsung Thinks Its 2020 TVs Are The Perfect Partners For The Next-Gen Game Consoles",
-      "excerpt": "In recognition of the fact that minimizing nput ... This feature has the potential to be especially effective with the new Object Tracking Sound technology found in varying configurations on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnarcher/2020/04/25/why-samsung-thinks-its-2020-tvs-are-the-perfect-partners-for-the-next-gen-game-consoles/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnarcher/2020/04/25/why-samsung-thinks-its-2020-tvs-are-the-perfect-partners-for-the-next-gen-game-consoles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnarcher/2020/04/25/why-samsung-thinks-its-2020-tvs-are-the-perfect-partners-for-the-next-gen-game-consoles/amp/",
-      "publishedDateTime": "2020-04-25T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

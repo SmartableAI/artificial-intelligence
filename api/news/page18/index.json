@@ -2,6 +2,51 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-05-09-artificial-intelligence-ai-chipset-market-size-share-leading-players-and-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Leading Players and Forecast to 2023",
+      "excerpt": "May 09, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning,",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-leading-players-and-forecast-to-2023-2020-05-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Leading Players and Forecast to 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-roborock-s6-maxv-review-it-can-find-and-avoid-your-socks.md",
       "title": "Roborock S6 MaxV Review: It can find and avoid your socks",
       "excerpt": "It’s worth a look if you don’t need (or want) high-end room-mapping and object-recognition features. There’s a lot of tech crammed into this one, so it would be no surprise for people to be ...",
@@ -978,43 +1023,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-how-facial-recognition-will-change-retail.md",
-      "title": "How Facial Recognition Will Change Retail",
-      "excerpt": "Through the use of facial recognition technology, retail stores may be able to proactively help limit unsatisfactory customer service experiences.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/08/how-facial-recognition-will-change-retail/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/08/how-facial-recognition-will-change-retail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/05/08/how-facial-recognition-will-change-retail/amp/",
-      "publishedDateTime": "2020-05-08T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

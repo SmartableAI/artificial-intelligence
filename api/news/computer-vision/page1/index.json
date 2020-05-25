@@ -204,43 +204,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-21-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
-      "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-      "excerpt": "Unbelievable! 😲 With the help of facial recognition, this man who was abducted as a child 32 years ago, was finally reunited with his birth parents.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://abc7.com/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
-      "ampWebUrl": "https://abc7.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
-      "publishedDateTime": "2020-05-20T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/6200174_052020-ktrk-cnn-facial-recognition-reunites-family-carolina-final.png",
-          "width": 1920,
-          "height": 1080,
-          "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-20-ios-135-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing.md",
       "title": "iOS 13.5 released: Faster unlock with face masks plus COVID-19 contact tracing",
       "excerpt": "Apple has released iOS 13.5, bringing exposure notification for COVID-19 contact tracing as well as a quicker way to unlock your iPhone when you’re wearing a face mask. Released as a gold",
@@ -1243,6 +1206,43 @@
         "authors": null
       },
       "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-computer-vision-can-renovate-financial-services-say-deltec-bank-bahamas.md",
+      "title": "Computer Vision Can Renovate Financial Services say Deltec Bank, Bahamas",
+      "excerpt": "Computer vision turns to visit a bank branch into a whole new experience. Financial services can be improved by implementing computer vision technology, which offers many great benefits for ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15992440/computer-vision-can-renovate-financial-services-say-deltec-bank-bahamas",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15992440",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15992440",
+      "publishedDateTime": "2020-05-08T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1587327365.jpeg",
+          "width": 3300,
+          "height": 2550,
+          "title": "Computer Vision Can Renovate Financial Services say Deltec Bank, Bahamas",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

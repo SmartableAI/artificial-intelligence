@@ -8,8 +8,8 @@ ampWebUrl: "https://abc7.com/amp/child-abducted-in-china-man-reunited-with-birth
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: ABC7
@@ -26,21 +26,6 @@ images:
     title: "Facial recognition helps reunite kidnapped toddler with family after 32 years"
 
 related:
-  - title: "Facial Recognition Software Helps Man Kidnapped as Toddler Reunite With Mom After 32 Years Apart"
-    excerpt: "It’s all thanks to facial recognition technology that a man was reunited with his biological parents, 32 years after he was kidnapped as a toddler. “I won’t let him leave me anymore,” mother Li Jingzhi said through tears as she and her son Mao Yin looked through photo albums at their Monday reunion."
-    publishedDateTime: 2020-05-20T21:39:00Z
-    webUrl: "https://www.insideedition.com/facial-recognition-software-helps-man-kidnapped-as-toddler-reunite-with-mom-after-32-years-apart"
-    ampWebUrl: "https://www.insideedition.com/mom-reunited-with-kidnapped-son-32-years-after-he-was-abducted-as-a-toddler-59687?amp"
-    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/mom-reunited-with-kidnapped-son-32-years-after-he-was-abducted-as-a-toddler-59687?amp"
-    type: article
-    provider:
-      name: Inside Edition
-      domain: insideedition.com
-    quality: 46
-    images:
-      - url: "https://www.insideedition.com/sites/default/files/images/2020-05/052020-mao-yin-1280x720.jpg"
-        width: 1280
-        height: 720
   - title: "Facial recognition helps reunite man kidnapped as toddler with family after 32 years"
     excerpt: "A man who was abducted as a toddler 32 years ago was finally reunited with his biological parents Monday, with the help of facial recognition technology. Mao Yin was taken from his family in 1988 when he was two years old while outside of a hotel in the Chinese city of Xi’an,"
     publishedDateTime: 2020-05-21T13:02:00Z

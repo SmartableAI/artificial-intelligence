@@ -2,6 +2,51 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-05-dow-jones-news-ibm-to-launch-new-cloud-ai-products-microsofts-next-xbox-could-face-problems.md",
+      "title": "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems",
+      "excerpt": "IBM is using its Think conference to roll out new products, and Microsoft will need to contend with game delays and a sluggish economy when it launches a new game console later this year.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
+      "publishedDateTime": "2020-05-05T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-how-self-driving-telescopes-could-transform-astronomy.md",
       "title": "How Self-Driving Telescopes Could Transform Astronomy",
       "excerpt": "Astronomers and physicists continue to pursue the answers to the universe’s deepest questions, but on many matters, including dark matter and dark energy, they are stymied. What if an autonomously operating telescope,",
@@ -1200,43 +1245,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-xilinx-and-avnet-combine-to-provide-solutions-for-autonomous-car-developers.md",
-      "title": "Xilinx and Avnet combine to provide solutions for autonomous car developers",
-      "excerpt": "Chipmaker Xilinx and Avnet, a designer and distributor of electronics components, have combined to offer a range of solutions for autonomous car development. Xilinx is a big name in the industrial",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://roboticsandautomationnews.com/2020/05/05/xilinx-and-avnet-combine-to-provide-solutions-for-autonomous-car-developers/32076/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics & Automation News",
-        "domain": "roboticsandautomationnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2019/11/restrict-access-ad.jpg",
-          "width": 842,
-          "height": 595,
-          "title": "Xilinx and Avnet combine to provide solutions for autonomous car developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

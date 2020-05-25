@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-18-facial-recognition-and-your-right-to-privacy.md",
+      "title": "Facial recognition and your right to privacy",
+      "excerpt": "Would your social media habits change if you knew your posts could be used by law enforcement? Jacob Ward brings to light the privacy issues surrounding AI and facial recognition on the Weekend Report.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/video/facial-recognition-and-your-right-to-privacy-83601477518",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo83601477518",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo83601477518",
+      "publishedDateTime": "2020-05-18T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202005/sg_3.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Facial recognition and your right to privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages.md",
       "title": "Hackers spoof new Azure AD and Microsoft 365 sign-in pages",
       "excerpt": "The Azure AD sign-in experience underwent a redesign about three months ago, but the new sign-in pages didn’t roll out until the first week of April. Microsoft intended the rede",
@@ -1047,51 +1084,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-16-hugging-face-dives-into-machine-translation-with-release-of-1000-models.md",
-      "title": "Hugging Face dives into machine translation with release of 1,000 models",
-      "excerpt": "Hugging Face launched about 1,000 AI models for translation, the first venture into translation for the startup that seeks out and shares cutting-edge NLP.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/16/hugging-face-dives-into-machine-translation-with-release-of-1000-models/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-16T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Hugging Face dives into machine translation with release of 1,000 models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
