@@ -2,6 +2,44 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-05-05-gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems.md",
+      "title": "Gap in AI chips between China and US may be larger than it seems",
+      "excerpt": "But competition could fracture a global research community as US and Chinese governments bid for local control of AI chips.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
+      "ampWebUrl": "https://technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/05/gap-in-ai-chips-between-china-and-us-may-be-larger-than-it-seems/",
+      "publishedDateTime": "2020-05-04T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2020/03/bigstock-micro-chip-quantum-processor-259779781.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": "Gap in AI chips between China and US may be larger than it seems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-smart-serendipity-in-ibm-ai-for-operations.md",
       "title": "Smart Serendipity In IBM AI For Operations",
       "excerpt": "Now that CIOs are being forced to automate an more of their IT infrastructures as a necessity (rather than a nice to have), it is perhaps a realization that IBM’s branding elves were being quite subtle when they thought to think of Think as means of championing IBM’s Watson line of AI products.",
@@ -1208,43 +1246,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-your-organization-needs-a-proprietary-data-strategy.md",
-      "title": "Your Organization Needs a Proprietary Data Strategy",
-      "excerpt": "The need for proprietary data strategies is increasing with new data types and the growth of artificial intelligence (AI ... Alphabet’s Waymo and GM’s Cruise Automation, for example, are ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/05/May20_04_1197992656.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Your Organization Needs a Proprietary Data Strategy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

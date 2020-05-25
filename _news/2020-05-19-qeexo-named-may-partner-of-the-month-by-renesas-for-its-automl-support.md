@@ -2,20 +2,24 @@
 category: news
 title: "Qeexo Named May \"Partner of the Month\" by Renesas for its AutoML Support"
 excerpt: "This honor reinforces Qeexo's methodology that pairing the Qeexo AutoML platform with a flexible MCU hardware platform is a strong value proposition for edge/endpoint processing. Qeexo's end-to ..."
-publishedDateTime: 2020-05-19T17:04:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/05/n16067170/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16067170"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16067170"
+publishedDateTime: 2020-05-19T18:45:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "WhnykEW60+wJ9XBAznVGApUvg/rRLbLLFIdJOl/qBxZ5yhy1chnCe28i66ForWGm0iTmVcDaCIkVpzIb1AoEY+JDfmFs543Uy/2CUlrRnroUdttTYA+RllUF8/Y5Sm9V6DmKrwSjpTIvTUJQnzqY72AnEqol3QNTq2iiqKgWm7yflbvJOIbq1WHpwR8IJbdMTx63P7UIkROtNqZ0Ri/G02g1hFqDzxMuMH7T+OW+MDy3z2YMmj6fhV6MVm4/XRvjT28yaFlg4/afpwhcv8q2L5FxCqXyyTY0GKM9kdwrOczb4K90VpiLdY4i9/hwjiwi;YtJwqtatjU7S58TogtbvOw=="
+secured: "9+YECMWHRuMDcj5u1ydvcE4djg+9bnPJDM/WgPKkKopZTLlu7/hwITm40WhLHrkgx3KrhwXiJZcUsOvWj8lmycTYInJMSwRWrWKqT1jDA7NWmPoP+L2nEDlayI+yZLaytQveBqLHSSXMpD5SUAy5DQjuq+R0F2DlRyGjwQ66BFXbsMsueX5txYdd27b/L9xEe1kTGOCgIMxeZ5kqEmLNWnn/8707mCGplfB6KjcuxgIEG+yzNheI8IkDrHh/2a31V82C/gWctvA+Y0uj8QZXba5dnoiZWWhoScvo/KPsNpTupHzWeBqaXxSQi4GBFMcF;eNCszNBuar8NX/sbsIf2uA=="
 ---
 

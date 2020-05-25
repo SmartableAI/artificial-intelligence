@@ -2,6 +2,50 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-04-21-microsoft-words-ai-wants-to-rewrite-your-crappy-sentences.md",
+      "title": "Microsoft Word’s AI wants to rewrite your crappy sentences",
+      "excerpt": "Microsoft has released a handy new tool for writers struggling to turn their ingenious ideas into words. The feature is a new addition to Rewrite Suggestions, an AI-powered editor for Word that was first unveiled at the 2019 Microsoft Build conference. The tool initially only offered ideas on different ways to express a phrase, but the ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/21/microsoft-words-ai-wants-to-rewrite-your-crappy-sentences/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/21/microsoft-words-ai-wants-to-rewrite-your-crappy-sentences/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/21/microsoft-words-ai-wants-to-rewrite-your-crappy-sentences/amp/",
+      "publishedDateTime": "2020-04-21T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-6-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Microsoft Word’s AI wants to rewrite your crappy sentences",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-diamonds-shine-in-energy-storage-solution.md",
       "title": "Diamonds shine in energy storage solution",
       "excerpt": "The new carbon structure could be a potential micro-scale power supply for anything from implanted biomedical sensing systems monitoring heart and brain functions, to small robotics and electronics.",
@@ -1190,43 +1234,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-37-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Worth $3.7 billion by 2025 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "CHICAGO, April 20, 2020 /PRNewswire/ -- According to the new market research report \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market by Component, NLP Type, Application ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-3-7-billion-by-2025-exclusive-report-by-marketsandmarkets-1029108136",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-3-7-billion-by-2025-exclusive-report-by-marketsandmarkets-1029108136",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-3-7-billion-by-2025-exclusive-report-by-marketsandmarkets-1029108136",
-      "publishedDateTime": "2020-04-20T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
