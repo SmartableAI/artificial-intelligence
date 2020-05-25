@@ -60,17 +60,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
         width: 615
         height: 384
-  - title: "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19"
-    excerpt: "Contactless Employee Time and Attendance Joins Face Masks, Gloves and Social Distancing for Employee Health and Safety Return to Work ATLANTA (PRWEB)"
-    publishedDateTime: 2020-05-20T09:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/05/p16072620/lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16072620"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072620"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
 
 secured: "PMMyTVVEYDMEKs5UlDtRHseHqO3pQ3ssyRroMV1P9Us5fmMFTxrE5+NX5Qrn3Le6yToHW3NtGikgnR49vAjKgqqumVhmFx9OtJhkEFrUcPMuMnaj8rC8G63IOG01ING56NT49tmPk+C76vJ9WbeXvAtzghaTIpPuyP58LzoyDhsRGx8NUYSXt2Z7YkfWaiOhPfOo/v3k77CsLqeEmF445e3vpc8xfNwZwH1LTuARI695ao+2At4dpD3plOc2xmR7RXsES8TgLd6tgx4+LqFWPVg9ywFMqT1GxBWs5tE5YEEBmoyQYs/3mZatpnRuMo6t;SEFhf5Y3XIj0s2U0jeY1pw=="
 ---

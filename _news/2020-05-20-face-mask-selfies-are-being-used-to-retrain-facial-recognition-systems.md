@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85307-face-mask-selfies-used-retra
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -60,17 +60,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
         width: 615
         height: 384
-  - title: "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19"
-    excerpt: "Contactless Employee Time and Attendance Joins Face Masks, Gloves and Social Distancing for Employee Health and Safety Return to Work ATLANTA (PRWEB)"
-    publishedDateTime: 2020-05-20T09:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/05/p16072620/lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16072620"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072620"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
 
 secured: "5okzS01xW1O5KaTVbS3SLYnZ3Eh3lwNdeeeCOFD3qxCG/gz/JrFeXQwQJVcClsRDWtgNskYRJRJ/g7e4CaSiVUSP7fsbd2g1n5v9wuh4UPO+xB5pAWDhlqO7nHP6zD1j8rMl4OW8bGGl5UT8ERJ1sBNI4cfESXBl88d5iePrjYUvkhUGWOGIDhXSOujWkTmVMFpBLWjwJw5NOuWa8W2LoCCJsiFmFUVg/73I0FjNcejjt5HleMV6+/+fjw/aqav9v1Y6Gztc0kmnodHvuSXw6MgCOI0+NfaW/S13OTeeZ+iyfiEQkQVSCkY5d1vGBGVBhT9qYTrF73GZ/htNHMpJ01rwQiUxmPWu2U0f1XG760kzJPsPu1essHh/bsb0OfkaOi9qHGdHIzd/FzRuudpDqHixQi6AlU5e7oBqmoOUxjgcPjcMO5Q1XzODxFP1EEnIFApEk0+ujtIjjvg9mu3/VM4LPIaxdMz+WcM2rTvtP4w=;RfGs/KCZuBYVl4Il8/zVIQ=="
 ---

@@ -56,17 +56,6 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/iphone-11-hands-on-0.jpg"
         width: 1680
         height: 946
-  - title: "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19"
-    excerpt: "Contactless Employee Time and Attendance Joins Face Masks, Gloves and Social Distancing for Employee Health and Safety Return to Work ATLANTA (PRWEB)"
-    publishedDateTime: 2020-05-20T09:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/05/p16072620/lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16072620"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072620"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
 
 secured: "tES+Pmf3HyH9aMAy53aM4rIfZo/ghBr24I3TpwsIgEzrzF3tESVeAh6Hb+AQVJmddcOmiZN/qja7rk1kRwk8J4z67AkfwF8fXG0ipBiq9VPitCL5tYzC+sTlgqCBd9szffVye0w1uGDOeADTeIUs/4GPl8hB1MDdpgs1SYfp5jTsz2klHhPuXQEc0Y0HosdGOOQGr5VQApxfvGCag3s9epIF3+FN+EgNnjq8/SlIJc3IQhuBXlfXAaUJXU/5GC/XYB4qVIDmGA8Qfwv3tBu/RAlzyj+Zp7/9BGjzECacurzilhZ/lY1LA4pGFA8iDbRj;0WUpwOALGkVNNpJspkHyVQ=="
 ---
