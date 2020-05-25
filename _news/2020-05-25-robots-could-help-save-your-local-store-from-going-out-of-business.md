@@ -25,6 +25,6 @@ images:
     height: 673
     title: "Robots could help save your local store from going out of business"
 
-secured: "gQLTvbggBsCd1QdSGK6Mx866WZbnQO/UmbeE+JYvKaq4/cLqYeOlJdrOa1PAemdUoNGSlrg8De81macuNPXmbLtwRlKq7t+JKXduDEFVjAcBJqdoLoJNh1kLI3FzkIf29QHGbz1LvDZL5wJGHUCqKp7ZVZ/hM0NMKU+4f7NVsls+QQGH6xtDqWVPqDyXgVrWn+tXs9jpCG4nitrcg5SLvQYL6PEYfh+kQl0+f+rIVgVKPUV8MlOF7BOLoZNOYFfkgeiLiCQoce6ylV+RqBrsub0x+ONdQ5C+NWWe/eR+NBAMI0jn0n40+FAGI9wJ+K4L;EfR+SAp4PAfBDhnRvXu/sg=="
+secured: "DJHjk9FvSygwVSdcIzDtu5z/SCxSVCR3v+5wkPCaNBT/bZYF1GIAGZtiIC4RVwOHExz8MMyuxiRXTwjdDtfjFUa9J54J7YzHPt9cwlSqKL979erh/Wi8cLEfMQFYAPTNTKDqYeWAbkBDaOov6NQvzSGG7zwRgLXinl8ogOMLs0D7rEvHXme75AXvcAp6+2ha5WWwUkyuZkJSkxM1DNl5EN5s/Q+R98UoNSoE08TGTjYvHSDuw90FOHo7qNSWME2DjFyZa0gg/daI2VEcKAu34uSAWcLwvV82J52A2TZ/tOWaRqrId8/HyroYHtUicEgMtvllgdHonvR9SiFAsavCWCw4/WHznNYW5dJwUlFNL5Ewx60js6VFUKZUfrMWwRbuo4ZiA/MkUynfPLyZy3r9HVf/6fEAsAlxhRlREoqPAPjgeCEOPqQnCabCklxaU6lpVS4vrdAk1dAFe0feVarYDli46K4YYGe925r7EecVKzE=;Hoy0765oNxAt8h1L6PMgUQ=="
 ---
 

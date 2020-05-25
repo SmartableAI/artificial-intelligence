@@ -1,25 +1,25 @@
 ---
 category: news
 title: "ECS Achieves AWS Migration Competency"
-excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, has been awarded the Amazon Web Services (AWS) Migration Competency. This aw"
-publishedDateTime: 2020-05-14T14:33:00Z
-webUrl: "https://www.businesswire.com/news/home/20200514005590/en/ECS-Achieves-AWS-Migration-Competency"
+excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, has been awarded the Amazon Web Services (AWS) Migration Competency."
+publishedDateTime: 2020-05-14T14:57:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/ecs-achieves-aws-migration-competency-1029203000"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ecs-achieves-aws-migration-competency-1029203000"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ecs-achieves-aws-migration-competency-1029203000"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200514005590/en/786373/23/RedTab%403x.jpg"
-    width: 1200
-    height: 627
-    title: "ECS Achieves AWS Migration Competency"
-
-secured: "NmD1mc0oFo4zagQ3Un3jt5AwQaweNSZFmRxkhxerbvpDMCbMivWUQ35huPYoT0psqzjkp1s7wlwdZgGNnJdqwiboEWFUsjxBvTmKhJV1FGzh+HmAptIgPPORnTDeyl/eqqAHAKD19aVBCdLSJNL7kBKqOYiUvYcGd2guCBzY310tKaKqCasCDFIhjqv7AmJXxRrHog+fCx6D3nb6LgOFkERUWvL97bXEWyp2mgyxoOd/R2EOiuSA09RUE5V2l/jdw3LU+wB8T4Y9dOREot2RazgG7RpwzeWcjCxQ+zXuPqI+wutArQLQhM5zfw1C8MFD;yhinAtUArUnx9ySQfUMxBQ=="
+secured: "BWMyQT+qkxnS1Vg5B1+tnI16rQwJjkNE+QI0N3q/QG5AEi/Q7d/WOdikdcmrESdWRiyNJKqr4kI2ZvoVsqKigEdzOr5hr2yjW80eF8Z96UQh2SygqkhtrucmfWK0EtPD5mSYcLqwc+nSjSgSSQgSj+mxqtcWgqwn07WB6A25wU5EKRZnop4lwNO5vGZe41Q3+rcF1eIptlIWH25+xVs4p22awrdKPyTuf4YdBvzOZ+qgg3HUde9tXSVMZYo4OL1futre2L+ttWSbYO2Mu2eKlEZjGekWZl6NsxYWak/dkXqTbXcJvqyrDq7b1nSSpg5i;KmC+IM6V1jhsIPX1uLYjcw=="
 ---
 
