@@ -21,17 +21,32 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Outlook on the Worldwide Artificial Intelligence in Manufacturing Industry to 2027 - Rising Demand of AI-Based Applications Presents Opportunities"
-    excerpt: "The \"Artificial Intelligence in Manufacturing Market by Component, Technology (ML, Computer Vision, NLP), Application"
-    publishedDateTime: 2020-05-25T09:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/05/g16101341/outlook-on-the-worldwide-artificial-intelligence-in-manufacturing-industry-to-2027-rising-demand-o"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16101341"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16101341"
+  - title: "Realizing the Potential of Artificial Intelligence in Investor Relations"
+    excerpt: "Investor relations play a vital role in the success of a company, integrating finance, communication, and marketing efforts to deliver improved investment decisions. Using Artificial Intelligence helps IR professionals provide enhanced capabilities and answer the questions around deploying AI within an organization."
+    publishedDateTime: 2020-05-25T12:20:00Z
+    webUrl: "https://www.analyticsinsight.net/realizing-potential-artificial-intelligence-investor-relations/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 36
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/05/Investor-Relations11.png"
+        width: 1920
+        height: 1080
+  - title: "Outlook on the Worldwide Artificial Intelligence in Manufacturing Industry to 2027 - Rising Demand of AI-Based Applications Presents Opportunities"
+    excerpt: "The Artificial Intelligence in Manufacturing Market by Component, Technology (ML, Computer Vision, NLP), Application (Cybersecurity, Robot, Planning), Industry (Electronics, Energy, Automotive, Metals and Machine,"
+    publishedDateTime: 2020-05-25T12:12:00Z
+    webUrl: "https://menafn.com/1100218046/Outlook-on-the-Worldwide-Artificial-Intelligence-in-Manufacturing-Industry-to-2027-Rising-Demand-of-AI-Based-Applications-Presents-Opportunities"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
 
 secured: "+jEkyX/cuSOB5+mcz8Xo8TW5JMHg3evzun9WtbUX5//iheOZYgiHeUvathOLV2jjMj35PEl5RghnBkRkVkLHBI9vmSdbT5QM0jlDUg9yJbJBvSRlANHR0f7cZkIl3QtZh0zKpTqEGRrUiEEK8IH81Y5YVOIJG7dOr6atry9mXQoPjpgwklhMugwCW//udg5bt8cQvfxK0teZZUqIt1lUayJluqEOsCz78UoxumU2LVZ2Mqw7yYjnLejvz+7xTLLxnNXoQUneGq29vs2UkXFGN0SZu4T/2pFo60ZjcYEuG73olNtRNoGwQxOvt+v84yke;+mbsrY2o1O9gphQW7RboVA=="
 ---

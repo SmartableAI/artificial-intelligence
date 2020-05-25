@@ -5,8 +5,8 @@ excerpt: "Selbyville, Delaware According to Market Study Report LLC has added a 
 publishedDateTime: 2020-05-25T11:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-expected-to-exhibit-54-billion-usd-by-2026-2020-05-25"
 type: article
-quality: 62
-heat: 72
+quality: 64
+heat: 74
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
