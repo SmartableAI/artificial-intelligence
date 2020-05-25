@@ -5,8 +5,8 @@ excerpt: "New research points to an issue AI researchers are increasingly worrie
 publishedDateTime: 2020-05-25T19:06:00Z
 webUrl: "https://www.statnews.com/2020/05/25/ai-systems-training-data-sex-bias/"
 type: article
-quality: 33
-heat: 33
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,6 +15,8 @@ provider:
 
 topics:
   - AI
+  - Google AI
+  - Machine Learning
 
 images:
   - url: "https://www.statnews.com/wp-content/uploads/2019/09/AdobeStock_287209713-1024x576.jpeg"
@@ -22,6 +24,6 @@ images:
     height: 576
     title: "AI systems are worse at diagnosing disease when training data is skewed by sex"
 
-secured: "fCGjLLXZAjTatWUAq2KS4faNcWdnRAF3erMEjnF+8OII9pAKRaifIjf3nVU7zaYEA2rt3Drg54zg16Ptm1BVnqXjvzYH+UpxCI3Yi+HaI/hdThbwW719sujU1pUd/omL8HXLozJ5TpbmfxFjJ24Fu+RcUap4WXpOXbjbjVtWvo2EqehoEnLxRmx7qrOMk+H1f9AtR5LS0GursZOZG+Xhxl0287+raB4F154ZVEdedt5fMKTG6SBZtmE7ljSGI3Xuc4OtiIK06rjUEJcQfhuEcxEAE9IN3oK1wcA1lIl9wEnroLLi6eUDxsz1DDZdGbcY;K23bzA6Jh3O3EBgWicRwyQ=="
+secured: "W421QlGdoHzF+Ee7v7ZOExlHwB+dokIJ8GQryzJwSKFLv0oNIwnJKrRoRFd58g5RFNlMJKLo75DaYtt6mWKW3UT9ZPfmYDq+ttzNufhI8+edCBVuumOXelH5rgt6KcVcbnMCMsIYSxVP03q/Tuex+tDvgC3pUmR3/7dM54g4df41QtvvW+uvr9GVQxi8ob4yyvnxR7iIGs6bqJ1sX4SOudLHCVxlw1MJg36OoGracKEYLNoeSgggk+qD6ar/uQ5l7XoMuilIzP4KJdT2l8s8OFv6Dk3g4x/a493DgtXr032i/WwY92flENZ3tr2RBPiFZ8V7NgPUmJvw5IHp6swtM9pvJdvCdy0at7dbS/t1Y2y/2Gx0jaR/qOy3nTJI8r5RcvrBMgwKH2EDPWvm1+osGmk8jDaOnEegR8P/22JSuG1Vi9dFdpumwAVZXw9KIE3HNuW8yA7tchF5mDzoDYVMNL9XEmRbbsGRuNlewPUUqA4=;QTYAwvLil3i54xZx8FntkQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.newsday.com/amp/opinion/coronavirus/robots-taking-jobs-f
 cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/coronavirus/robots-taking-jobs-factory-workers-automation-coronavirus-labor-costs-1.44824777"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       - url: "https://stmedia.stimg.co/ows_d65106cb-d9cd-47d9-8854-03b6915826d0.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
-  - title: "The Robots-Are-Taking-Our-Jobs Threat Gets Real"
-    excerpt: "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down."
-    publishedDateTime: 2020-05-21T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/the-robots-are-taking-our-jobs-threat-gets-real/2020/05/20/bbcf77d8-9aed-11ea-ad79-eef7cd734641_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 19
 
 secured: "tmZVhrlov15bGUiQ6Z7xEvidyeGet8FOInMzUNtTBGrTQi8DGUbvqYtWWo/+jegSN/775b8C2EsUTd2LLEPD8uvxG/K6/fqsq7nZAP2TmwkuVj3IxNyWntM1xLkngqfQ9MvldjDFVOeMz7eSIP+0CPbmaLRxBp4fZ9Ppl6FWlVmNq/j3qz9pCEuNj4tdRL6O/mHzDaphZt1WBUE/zGYA5MhhKo1eo75qqqx6ke7z6iBdkma1PoxR8Lur2C81UH1uKgjaE0ogJS+EuA1WWI9W//J84OERoD0n2lOMxQb5Xrr9Tdcizet4oLOdJqByeVJ+;XSOGpikR5WKcANWPVQe/rA=="
 ---

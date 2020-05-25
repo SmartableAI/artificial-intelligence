@@ -52,15 +52,6 @@ related:
       - url: "https://stmedia.stimg.co/ows_d65106cb-d9cd-47d9-8854-03b6915826d0.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
-  - title: "The Robots-Are-Taking-Our-Jobs Threat Gets Real"
-    excerpt: "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down."
-    publishedDateTime: 2020-05-21T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/the-robots-are-taking-our-jobs-threat-gets-real/2020/05/20/bbcf77d8-9aed-11ea-ad79-eef7cd734641_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 19
 
 secured: "wHcs0rAL4ee6vAAnptj1q2AHSOaAg9Fg/4Y4KUo2iEZU7zFo/LNhndRyM2lPunt5TwlZfIErxoLOpkDkPaDOPoB2qt4gthaiosFSWRhLZBLjboxiLFbl3LliNQTxt7h0kWN/MDa5hWCeoegPiR3wfPH+oWFgsfwF1iZ+TU0cRC3klY53g1KR0S54XOL7Pm30d2UA3aJt+1XrZ00o9Ap+4mejnSrA/eLgwnyJpNAq0NOpp8BgQPCFMrSpHesfxRo7Kkj27fDUogP+sYMUiRrQ7Jt73CxA2csqTJ8L5of9Wrs+BBK3+jo+N+Pp8G8wpK6W;eMwh4rR6n62tAFmEsUv0ow=="
 ---

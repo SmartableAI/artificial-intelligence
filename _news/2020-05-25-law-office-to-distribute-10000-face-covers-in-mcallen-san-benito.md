@@ -25,6 +25,6 @@ images:
     height: 720
     title: "Law office to distribute 10,000 face covers in McAllen & San Benito"
 
-secured: "Q+C1vcYUcHnUKlVxqiU22SwlRN+sxzPk4QvXNxkAmxRYP4PhGvfMulRf3m7miAgP37djI/IZl9jrmnbhCJuDLe+AManwuQl6k6aps7cLMnbzaL0GacB2VIUJ5O1EDW465LfbA7i8fHLBwkbRzaHAkPO5AnOZ4c24SPkd1ySO6WszKgPv/f5xPnYB5Lupn3NLF1+fJpS3cPShP/rnI2174n0B9l33WZuKiVKUEv84YFdnrrz6pNOFc81XA3wDCL7vfq+VNG/FSoGVeCVB7BmVijO0KMuBjQ9qH+dtaPp+u5ZpMbpZt5QKCqPpK1NJJQi4;7M/L+/JnPo+IQ+raIJlo1A=="
+secured: "otaJSUr9SmwvXr7OZiLqVXxh8E3ChM2Egh+FXfTrmNjSi6WijfYh6tddLsZOH1bjgO8lVd86YKBHfJpmG1WyTXcDBZvFqn4ZuUVxjosnQOG47LzApqVnngX8jig8ruaX9l+lLYoibJbv7JHvtblnI4+jozniwoSN5rC8+hldN1oaQtzbR3l3AsgoKMe3SrLc+PIya3bI3bipf77r5Zdzqli5BkwyD/PyZjMT2c9/kX/ACrYCJKIn+cGUlr4GGK9lbHPqkaxD5BALfWQbrK83eL3Ka/H0Y/n+952YPws7kfiotq9ZlL6LiGznlyjGLl+ScsD2K//QOuBU9avVGvQvzRQPTSNH8oje0ETvneVWANgxZHAXpB8841fLH4hSoMkCrvCmm1rdbi0+8kCAzfd46QoA3bPA54ohT3XabsYO7VGM09XuGnJERj1czyWEGUgrPIxr/cKaBQcY+gWYit6XDlpHfnFEB151nFRHgjYeU14=;6bVOvua3mpUPaptqaHlZcA=="
 ---
 

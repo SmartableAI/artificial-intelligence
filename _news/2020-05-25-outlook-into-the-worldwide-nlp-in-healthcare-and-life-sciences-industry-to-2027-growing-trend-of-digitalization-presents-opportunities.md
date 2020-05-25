@@ -34,6 +34,19 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/05/Investor-Relations11.png"
         width: 1920
         height: 1080
+  - title: "Outlook on the Worldwide Artificial Intelligence in Manufacturing Industry to 2027 - Rising Demand of AI-Based Applications Presents Opportunities"
+    excerpt: "The Artificial Intelligence in Manufacturing Market by Component, Technology (ML, Computer Vision, NLP), Application (Cybersecurity, Robot, Planning), Industry (Electronics, Energy, Automotive, Metals and Machine,"
+    publishedDateTime: 2020-05-25T12:12:00Z
+    webUrl: "https://menafn.com/1100218046/Outlook-on-the-Worldwide-Artificial-Intelligence-in-Manufacturing-Industry-to-2027-Rising-Demand-of-AI-Based-Applications-Presents-Opportunities"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?445989"
+        width: 405
+        height: 250
 
 secured: "+jEkyX/cuSOB5+mcz8Xo8TW5JMHg3evzun9WtbUX5//iheOZYgiHeUvathOLV2jjMj35PEl5RghnBkRkVkLHBI9vmSdbT5QM0jlDUg9yJbJBvSRlANHR0f7cZkIl3QtZh0zKpTqEGRrUiEEK8IH81Y5YVOIJG7dOr6atry9mXQoPjpgwklhMugwCW//udg5bt8cQvfxK0teZZUqIt1lUayJluqEOsCz78UoxumU2LVZ2Mqw7yYjnLejvz+7xTLLxnNXoQUneGq29vs2UkXFGN0SZu4T/2pFo60ZjcYEuG73olNtRNoGwQxOvt+v84yke;+mbsrY2o1O9gphQW7RboVA=="
 ---

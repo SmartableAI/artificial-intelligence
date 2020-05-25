@@ -52,15 +52,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/05/21/691271.jpg"
         width: 1240
         height: 826
-  - title: "The Robots-Are-Taking-Our-Jobs Threat Gets Real"
-    excerpt: "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down."
-    publishedDateTime: 2020-05-21T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/the-robots-are-taking-our-jobs-threat-gets-real/2020/05/20/bbcf77d8-9aed-11ea-ad79-eef7cd734641_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 19
 
 secured: "C9+YXCiEwP8wNhrKDSFpfn89pdQq+yW7thO0CLMpZYaqNoL+jMOxWsu0uO6b6WeDoah8eqh/46oH5AAjaUsXlK/wFW/14CgkymB5yvfDYVLs4WXu8e1407HFMFhbEgJe5T0Ll5/xsCbjTzcj0HiqzfYb0dauzNIJFJoYAkrSb98AB7jfRUBL1NbO6nAmlWJ38zChGDTXl02H68MwB7hNKSgnbkH7FG4GTGqJNDgaB60Kqksu9i3+eGJ97lwhjZmMSAKlcayCttoKR/GEOwzrSdfiHxFAdPwPfJuEp6IoJl2Uv2jNKXhbg0Ab3VolyZU/1p2tOPjqVgCEEqbWxJo+LZHZ+csCFNIlm7LC7VEar/9YgCwngDNyojXYhGl5xMcEGU2T2DN8W1dJ0+vUWT/9HtSmQBwKDjBrszvXXcygsaFvZqGMp5SZ2nafyVYE1D53voeOPIVDq/RFW/kP2uHctb9pXJuJkz5ITy/uhvzmhSI=;o/58MTBd/34lqfjIvwh9cQ=="
 ---
