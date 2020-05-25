@@ -24,28 +24,15 @@ images:
     title: "Global Artificial Intelligence (AI) in Fintech Market 2020 Overview with Demographic Data and Industry Growth Trends 2026"
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market 2019 Share Growing Rapidly With Latest Trends, Development, Revenue, Demand And Forecast To 2029"
-    excerpt: "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of"
-    publishedDateTime: 2020-05-22T08:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-share-growing-rapidly-with-latest-trends-development-revenue-demand-and-forecast-to-2029-2020-05-22"
+  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Industry: Global Market Trends, Share, Size and Forecast Report 2013-2025"
+    excerpt: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market, provides a basic overview of the industry including definitions, classifications, applications and industry chain structure."
+    publishedDateTime: 2020-05-22T10:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-global-market-trends-share-size-and-forecast-report-2013-2025-2020-05-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Cognitive Computing Market Advancement Strategy, world Top Players, Analysis and Forecast To 2026"
-    excerpt: "The global Cognitive Computing Market is projected to grow with a striking growth rate of 37 % over the forecast period 2019-2026, divulges the latest research report presented by Big Market Research."
-    publishedDateTime: 2020-05-22T17:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-advancement-strategy-world-top-players-analysis-and-forecast-to-2026-2020-05-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

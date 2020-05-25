@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-21T14:31:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/amax-accelerates-ai-supercomputing-build-outs-with-nvidia-dgx-a100/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "AMAX Accelerates AI Supercomputing Build Outs With NVIDIA DGX A100"
 
 related:
-  - title: "AMAX Accelerates AI Supercomputing Build Outs With NVIDIA DGX™ A100"
-    excerpt: "AMAX, a leader in integrated supply chain manufacturing and orchestration, announced today that its HPC and AI Solutions Group unit is"
-    publishedDateTime: 2020-05-20T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/amax-accelerates-ai-supercomputing-build-outs-with-nvidia-dgx-a100-301062676.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1170790/AMAX_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
   - title: "AMAX Accelerates AI Supercomputing Build Outs With NVIDIA DGX(TM) A100"
     excerpt: "AMAX, a leader in integrated supply chain manufacturing and orchestration, announced today that its HPC and AI Solutions Group unit is offering and"
     publishedDateTime: 2020-05-20T16:04:00Z

@@ -27,7 +27,7 @@ related:
   - title: "Self-driving shuttle can carry people again"
     excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions."
     publishedDateTime: 2020-05-24T06:43:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/may/24/self-driving-shuttle-can-carry-people-a/"
+    webUrl: "https://www.arkansasonline.com/news/2020/may/24/self-driving-shuttle-can-carry-people-a/?business"
     type: article
     provider:
       name: Arkansas Democrat-Gazette

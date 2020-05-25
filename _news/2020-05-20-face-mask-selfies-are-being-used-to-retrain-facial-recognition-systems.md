@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85307-face-mask-selfies-used-retra
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/iphone-11-hands-on-0.jpg"
         width: 1680
         height: 946
-  - title: "Today’s cache | Facial recognition technology, and more"
-    excerpt: "The COVID-19 crisis is making it difficult for facial recognition tech firms as governments around the world are asking citizens wear masks when they leave their homes. So, companies are gathering selfies of users wearing masks to train and improve face detection algorithms."
-    publishedDateTime: 2020-05-20T13:35:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
-        width: 615
-        height: 384
 
 secured: "5okzS01xW1O5KaTVbS3SLYnZ3Eh3lwNdeeeCOFD3qxCG/gz/JrFeXQwQJVcClsRDWtgNskYRJRJ/g7e4CaSiVUSP7fsbd2g1n5v9wuh4UPO+xB5pAWDhlqO7nHP6zD1j8rMl4OW8bGGl5UT8ERJ1sBNI4cfESXBl88d5iePrjYUvkhUGWOGIDhXSOujWkTmVMFpBLWjwJw5NOuWa8W2LoCCJsiFmFUVg/73I0FjNcejjt5HleMV6+/+fjw/aqav9v1Y6Gztc0kmnodHvuSXw6MgCOI0+NfaW/S13OTeeZ+iyfiEQkQVSCkY5d1vGBGVBhT9qYTrF73GZ/htNHMpJ01rwQiUxmPWu2U0f1XG760kzJPsPu1essHh/bsb0OfkaOi9qHGdHIzd/FzRuudpDqHixQi6AlU5e7oBqmoOUxjgcPjcMO5Q1XzODxFP1EEnIFApEk0+ujtIjjvg9mu3/VM4LPIaxdMz+WcM2rTvtP4w=;RfGs/KCZuBYVl4Il8/zVIQ=="
 ---

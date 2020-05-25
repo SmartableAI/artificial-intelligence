@@ -84,6 +84,17 @@ related:
       - url: "https://menafn.com/updates/pr/2020-05/21/I_67c36ed7-6image_story.jpg"
         width: 369
         height: 400
+  - title: "Airtel picks stake in conversational AI focused startup Voicezen"
+    excerpt: "The investment will give Airtel preferred access to Voicezen’s technologies, which can be deployed across its customer touchpoints in multiple languages."
+    publishedDateTime: 2020-05-25T07:04:00Z
+    webUrl: "https://www.voicendata.com/airtel-invests-conversational-ai-focused-startup-voicezen/"
+    ampWebUrl: "https://www.voicendata.com/airtel-invests-conversational-ai-focused-startup-voicezen/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/airtel-invests-conversational-ai-focused-startup-voicezen/amp/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 37
   - title: "Airtel acquires stake in AI startup Voicezen"
     excerpt: "Indian mobile operator Airtel has acquired a stake in conversational AI-focused startup Voicezen. No financial details related to the investment have been released. Gurgaon-based Voicezen is developing services that leverage machine learning,"
     publishedDateTime: 2020-05-22T04:55:00Z

@@ -94,30 +94,30 @@
       ]
     },
     {
-      "path": "_news/2020-05-20-microsoft-touts-supercomputer-for-large-scale-ai-modeling.md",
-      "title": "Microsoft Touts Supercomputer for Large-Scale AI Modeling",
-      "excerpt": "Microsoft disclosed at Build that it has built one of the world's most powerful supercomputers in collaboration with a company building artificial intelligence (AI) solutions.",
-      "heat": 70,
+      "path": "_news/2020-05-21-microsofts-ai-supercomputer-on-azure-combinations-of-perceptual-domains.md",
+      "title": "Microsoft’s AI Supercomputer on Azure: ‘Combinations of Perceptual Domains’",
+      "excerpt": "Microsoft has unveiled a supercomputing monster – the world’s fifth most powerful, according to the company – aimed at what is known in scientific and",
+      "heat": 79,
       "tags": null,
       "type": "article",
-      "webUrl": "https://redmondmag.com/articles/2020/05/20/microsoft-supercomputer-ai-modeling.aspx",
+      "webUrl": "https://www.hpcwire.com/2020/05/20/microsofts-ai-supercomputer-on-azure-combinations-of-perceptual-domains/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T10:12:00-07:00",
+      "publishedDateTime": "2020-05-20T17:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg",
-          "width": 1665,
-          "height": 1158,
-          "title": "Microsoft Touts Supercomputer for Large-Scale AI Modeling",
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/Microsoft-AI-supercomputer_1000x.jpg",
+          "width": 1000,
+          "height": 577,
+          "title": "Microsoft’s AI Supercomputer on Azure: ‘Combinations of Perceptual Domains’",
           "attribution": null
         }
       ],
@@ -126,11 +126,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Natural Language Processing",
         "AI",
-        "Microsoft AI",
-        "AI Ethics",
-        "Natural Language Processing"
+        "Microsoft AI"
       ]
     },
     {

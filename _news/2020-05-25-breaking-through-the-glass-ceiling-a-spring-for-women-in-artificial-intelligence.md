@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through
 ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/amp/"
 type: article
-quality: 81
-heat: 81
+quality: 83
+heat: 83
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F915025868%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D926%26cropY2%3D3626"
@@ -28,6 +29,6 @@ images:
     height: 563
     title: "Breaking Through The Glass Ceiling - A Spring For Women In Artificial Intelligence"
 
-secured: "jGul0C4UDwoUvOT6BeY35NXlrfXeQtZ9wfFJUK/oO2PTi9pDUznm9bLTo7orb0hlxt6hkmgZNlvgKL4vcfpNkVhNCaWJtCjqCTkGdlgaplpVAYkcE2qWevyyU7g/qTOiT0uILJVCpjbo6mFLMB4GTklaZy+NUotbW2l2sSl7Ey/6s5Q5jmURgnNrvhu+5IHhVcnl9DoXqzNs9AQ1Ir/DAdQU5fI2aDEYRPdJV72AA/d5IXwlBPGB85mqc9RW/PQpXLwvafHJRLVJPIZy8eAL7No7HNXwUTQwGzaoZrIgLTrdCV8JwUBgTiLOkuYu/ABu;1SY8wKi0zp9DJfq96KuSkg=="
+secured: "59nUDVHJFXV1E5WYSiffgpdx66LyPR//FUr09J8dJWHcFe6oVRMv3QBonCdSglYBHxuftN2RczqgZHaHb3Fd2EKR9vAY7lTnWI4Rj6EYIyUUuA32j9Ivn7yvBSJpwcYUVRCyP9GtE0BniQf4GZAuVIIDHKT+Fbgla+c/xnvDv21Kty90cGcj9nmRhVBKT6MVyy8aeEt4xLnfINSvOg0UUVJTvMqPlQr68a9USZaupQHsa4e6uu2g0/27aqfsLBaOwM2we5sJUpabgSt5ZcAogC18OX92xovWos0NBsHHivJsqIUKXvP8PvoxYShKxAf3W7yLIu2J5V1aOlZb36SQ2bElHmFd1GVuFtwFAFyCsFkwFlT9FsK6fS5hs0bpx32RgBT60lLXlnaBjRIUbqXNEZGMGuCMOLXYqta8KLH3n3l/iQm6ZFYU6mQJdWZPmKw7TSQxo4HMnEVeyjprNnOpbUdxKaF/Y+JMOOELFt0Qpmw=;GdTQaVbNyC/cd1VGuJPiGA=="
 ---
 

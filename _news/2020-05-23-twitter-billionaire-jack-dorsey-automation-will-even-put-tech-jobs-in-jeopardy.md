@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Twitter billionaire Jack Dorsey: Automation will even put tech jobs in jeopardy"
-excerpt: "Artificial intelligence will soon write its own software, according to Twitter and Square CEO Jack Dorsey. \"We talk a lot about the self-driving trucks and whatnot\" but automation \"is even coming for programming\" jobs,"
-publishedDateTime: 2020-05-23T06:42:00Z
-webUrl: "https://www.cnbc.com/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html"
+title: "Twitter Billionaire Jack Dorsey: Automation Will Even Put Tech Jobs in Jeopardy"
+excerpt: "The rise of artificial intelligence will make even software engineers less sought after. That’s because artificial intelligence will soon write its own software, according to Jack Dorsey, the tech billionaire boss of Twitter and Square."
+publishedDateTime: 2020-05-23T09:19:00Z
+webUrl: "https://www.nbcnewyork.com/news/tech/twitter-billionaire-jack-dorsey-automation-will-even-put-tech-jobs-in-jeopardy/2429849/"
+ampWebUrl: "https://www.nbcnewyork.com/news/tech/twitter-billionaire-jack-dorsey-automation-will-even-put-tech-jobs-in-jeopardy/2429849/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/tech/twitter-billionaire-jack-dorsey-automation-will-even-put-tech-jobs-in-jeopardy/2429849/?amp"
 type: article
-quality: 85
-heat: 85
-published: true
+quality: 55
+heat: 55
+published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/105868105-1556088770264gettyimages-1134474993.jpeg?v=1590167235"
-    width: 594
-    height: 396
-    title: "Twitter billionaire Jack Dorsey: Automation will even put tech jobs in jeopardy"
+  - url: "https://media.nbcnewyork.com/2019/09/GettyImages-1134474993.jpg?crop=0px%2C105px%2C6720px%2C3780px&resize=1200%2C675"
+    width: 1200
+    height: 675
+    title: "Twitter Billionaire Jack Dorsey: Automation Will Even Put Tech Jobs in Jeopardy"
 
-secured: "JsYK0xzXWiODo5Jg+Xzt8GN11n3x374TD2Jl6FD/MsNnNnHL3ndVudS/rItJgkUhFx7Ea6qg4/0ZiORTTLDs6OMHbAQywS+xLpB2RlGUR2UhsPtJ/VBb+uBKT4fsX+gWM+DOro2/1rI/lXJa+rdFCTiOxmQ112GbWKvq8Z9GqWdptDofx7CVXP8O/FeKSs9sBQv2ZD0Mp4GzF3MainD6cNi/CYeoXXuq9sPg4nOrE8Xzice86mOwjqzM2qR8gIr42uohGza/i17zEbAmzFyNNovqt+L5qQpRqYaIzMG80fb/vbHj2ajiDpfzMBGPLb3nnmZTEhj1QNg17O3eJnssZy54cL46ge7hA0egjo+aOuaTtAfXeYZaSqRidsb+Xff1MmcGQ4ZvXfVIc1CcHBNX5K8Ks4q94L2zhYSGWcspj/jjXJSDMaM4VJaG9gZDpYJZ7hSWDUzYVCeX9A4n4fTauhcT4um/rGleG9fY5xdEzNg=;9fTeMSRaMsUCcOlYMc7oxg=="
+secured: "9oKrSA01v7oKvPp9DPQzewjQu0O8Vkr+f4/E4JUSOIcscGk57BQiD3xgLk/VxmVvxa6KkAHKYla3hdHqEtjgO+Bm51625QdsLQNt+oa5puE5B6+jNdSmjltRWk228BFobJf6X3iDw5hncewC9qYxnlenM34O7JYmtUFsdzN54RxvcuqjazKXMUI1sD0pyqnpZDbtL3JEUV21XY4k1vH96aTOgkSgcv0gKa4192K1My5iXjjXMRd1SETvfb0KuntoJYD0UouILfw1/ydHtDteaBOxsylP9EJVTH7WOwYThD/+tNihvbsg3Di+hJw4s9Z1;L0q5AAkf45BJxA7rHNslVA=="
 ---
 

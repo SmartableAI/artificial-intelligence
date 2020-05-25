@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-21T00:31:00Z
 webUrl: "https://www.hpcwire.com/2020/05/20/microsofts-ai-supercomputer-on-azure-combinations-of-perceptual-domains/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: HPCwire
@@ -23,6 +23,21 @@ images:
     width: 1000
     height: 577
     title: "Microsoft’s AI Supercomputer on Azure: ‘Combinations of Perceptual Domains’"
+
+related:
+  - title: "Microsoft Built One of the Most Powerful Supercomputers in the World to Develop Human-Like AI"
+    excerpt: "The system is one of the top five most powerful computers in the world, and it's exclusively for training AI models. The companies hope this supercomputer will be able to create more human-like intelligences."
+    publishedDateTime: 2020-05-20T18:37:00Z
+    webUrl: "https://www.extremetech.com/extreme/310806-microsoft-powerful-supercomputer-human-like-ai"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 43
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/05/openai-azure-supercomputer-kevin-scott_2_1920x1080-5ec3bbdb4945d.jpg"
+        width: 1344
+        height: 742
 
 secured: "i0MbQXgMHPp50PxHfkPOKvjP0AicmqRjGvJ9RiKQHcZb+/YkdCKwLmhwLY5rcKagqLGgYtHAFb6tjFUleQ3PBpuOAf6F8OV7hThBlzH30L+3h3o35HyHv/5Vv0LT3WDCSIL3E/TFxAVk7VQOt8tHXCq7nTSYMEkyyPSVHCR4FxMggh6j8UaOGnlqyrEhQ6pa1+y8nELEhrZK6thvKOTZVQeyiSYQ+cmoCKOtj0ZOMNHky6CvzoGkIWxcRpXY/Fd0yfG5VcDBf76aiwYneOWeJRMDCFKLmYjhk+CspN802IU9tpQIUoLTgmk3/6C7TBlaPDM7kJGZDoxmuPQZHtW0M6o31lXZCrapf0oWcVBZEewxykUoFmMr4KISN2S17Ehl74Jc0a/H9lZBNrL8NKzN02HK/0M2f3jJAqNGF/PRK0otiNUKzfeMBUECqu/c11IrHJKCeHpNLZtuVZAIUCqGhe1V1vDm4y5BT76x339DDwY=;aS5bKWjytViLR0tVPdiM7Q=="
 ---

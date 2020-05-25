@@ -45,21 +45,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-18.jpg"
         width: 1500
         height: 1125
-  - title: "Today’s cache | Facial recognition technology, and more"
-    excerpt: "The COVID-19 crisis is making it difficult for facial recognition tech firms as governments around the world are asking citizens wear masks when they leave their homes. So, companies are gathering selfies of users wearing masks to train and improve face detection algorithms."
-    publishedDateTime: 2020-05-20T13:35:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-facial-recognition-technology-and-more/article31633525.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
-        width: 615
-        height: 384
 
 secured: "PMMyTVVEYDMEKs5UlDtRHseHqO3pQ3ssyRroMV1P9Us5fmMFTxrE5+NX5Qrn3Le6yToHW3NtGikgnR49vAjKgqqumVhmFx9OtJhkEFrUcPMuMnaj8rC8G63IOG01ING56NT49tmPk+C76vJ9WbeXvAtzghaTIpPuyP58LzoyDhsRGx8NUYSXt2Z7YkfWaiOhPfOo/v3k77CsLqeEmF445e3vpc8xfNwZwH1LTuARI695ao+2At4dpD3plOc2xmR7RXsES8TgLd6tgx4+LqFWPVg9ywFMqT1GxBWs5tE5YEEBmoyQYs/3mZatpnRuMo6t;SEFhf5Y3XIj0s2U0jeY1pw=="
 ---
