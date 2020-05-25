@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-21T15:45:00Z
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-wroth-usd-17315-bn-by-2023-2020-05-21"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     width: 1200
     height: 630
     title: "Self-driving car market wroth USD 173.15 Bn by 2023"
-
-related:
-  - title: "Self-driving Car Market leading to global revenue of USD 173.15 Bn by 2023"
-    excerpt: "May 20, 2020 (AmericaNewsHour) -- Self-driving Car Market The report on SELF-DRIVING CAR MARKET offers a detailed analysis of the SELF-DRIVING CAR"
-    publishedDateTime: 2020-05-20T15:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-leading-to-global-revenue-of-usd-17315-bn-by-2023-2020-05-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "5KFU0rW057UCRCe7awwsyVeMzSRiRbKju/lBWuOu3lyFFCVMG6WLuV+kTa1Jc8Z9RYNr9F6Lfis+JmBRF0aR9rIoWgQkok9+kILaR0WhTeJLct7FxefdStyuA9DlhkTfmx5vQ9SbtRsRS1CbS34ooKKj8xsD4DrgdFV3s5qRdBygiJ1CT1L7u1Ku61+LpbssqlzFpIWMQh25sVdowOxbCiBBSWMnJtY4a+7iuK3iPJz8vGfnZl2DwjUWL5MhrJmlmsDtzewRZfPpq562GiKpaHssh46823lfLo8S0ilGnGYmcV1zbCz1C5BJoN6txvRt;eHSEivfBXkPGHJr2XWSFpg=="
 ---

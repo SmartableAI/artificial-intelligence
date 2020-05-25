@@ -27,7 +27,7 @@ related:
   - title: "Self-driving shuttle can carry people again"
     excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions."
     publishedDateTime: 2020-05-24T06:43:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/may/24/self-driving-shuttle-can-carry-people-a/?business"
+    webUrl: "https://www.arkansasonline.com/news/2020/may/24/self-driving-shuttle-can-carry-people-a/"
     type: article
     provider:
       name: Arkansas Democrat-Gazette
@@ -38,18 +38,18 @@ related:
         width: 600
         height: 412
   - title: "US agency lets self-driving shuttle resume carrying people"
-    excerpt: "WASHINGTON (AP) — A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
-    publishedDateTime: 2020-05-20T22:02:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/US-agency-lets-self-driving-shuttle-resume-15284289.php"
+    excerpt: "WASHINGTON (AP) — A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S."
+    publishedDateTime: 2020-05-20T21:08:00Z
+    webUrl: "https://apnews.com/aa26472267a917ad3e0419c76987fa31"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://s.hdnux.com/photos/01/12/11/34/19437373/3/rawImage.jpg"
-        width: 2048
-        height: 1407
+      - url: "https://storage.googleapis.com/afs-prod/media/ebc4a7eae974460f8b39235e31801e8e/3000.jpeg"
+        width: 3000
+        height: 2061
   - title: "US agency lets self-driving shuttle resume carrying people"
     excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
     publishedDateTime: 2020-05-21T08:39:00Z

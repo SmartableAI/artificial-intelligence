@@ -23,6 +23,19 @@ images:
     height: 627
     title: "Growing Adoption of AI and Machine Learning and Increased Use of Drones is Driving Growth in the Global Mining Ventilation Systems Market - ResearchAndMarkets.com"
 
-secured: "QK9HU3DUnxlvTPsMrGkqsS1rRm9Qqz6cXY+cB4346wQlln+lbNSArZ9MvZthtgL1g0LTxRlv7AU/aSl5NyP6hhGlt13Z29BlCHoO74KTUIFku2HIwiFgpcyWZBIGwLL9aKXjNk56JL1ZuPFGCzHn4rnWc4i/sJkas3+yj2mEbYf4xjZIXK/XxkuvO0FJaXcv1goOx8CSkgIGpfFXfLQOsRT9a3j63wwfveBMTLSTWTNrfyRv6bmKoWKWYRjXobrchVQlMqRVAq03wVC5SS/xw7bFJjotYTXa2qwOrAhL9dh1w3jVujawFCLzl17isb9w;9bCKqkzRORuTzKBOekQVug=="
+related:
+  - title: "Outlook into the Worldwide NLP in Healthcare and Life Sciences Industry to 2027 - Growing Trend of Digitalization Presents Opportunities"
+    excerpt: "The \"Global NLP in Healthcare and Life Sciences Market Outlook 2027\" report has been added to ResearchAndMarkets.com's offering. Natural language processing (NLP) is a technology which helps machines in understanding both written and spoken human language by analyzing human to computer collaboration."
+    publishedDateTime: 2020-05-25T09:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/05/g16101306/outlook-into-the-worldwide-nlp-in-healthcare-and-life-sciences-industry-to-2027-growing-trend-of-d"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16101306"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16101306"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+
+secured: "r8perekZ0FIIeZpG1PNRxR9l3o9zUkndvy9Uyx1cSS9OWezAhfr4xy/4ojFsUSYt3MHsWW0kw1BZ6ljhAdPgWg9Kiz5y5DOwafNmZDYlxrd3YFfL1SiwZKKLUVkXO4mFF6VhEcgQ1EUc8zY3970V1rTUMVj7Vs07nTMeflVD2bOMa5D+oBqk9Lf6y5jxjtwEXtvPs1fO6opYTwQgUdkpV4zxVGgzdmNAQPsEu7pA+6x27VSXOIIECgLsTkK2XGVJ1gSNuAx183E0egXs2wPVD4gkG/OTn+dOL7N+DmF9XTYhjAzLP5rQaQlGaNV5DD4XLqIjGia/XIsos5tm2YQfLEvUcvixaXltXpUYKhNirS8TPyE4p4LlTcOX19KfurjRjFlPjBxIsg+niYXINO9N3KxAV4A2xFetFni4zjdZtEfwD+6SCfaVq5s2eLaTaIm+b5ORSmcgRr8G91d4SAOGvwjCypM0ZMoGOn7AbMaHrFI=;rdxzfAZ5vE5ZOZvL8vsxiA=="
 ---
 

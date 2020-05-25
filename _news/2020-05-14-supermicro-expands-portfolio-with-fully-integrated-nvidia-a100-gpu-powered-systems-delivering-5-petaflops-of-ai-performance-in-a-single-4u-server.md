@@ -20,6 +20,6 @@ images:
     height: 288
     title: "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server"
 
-secured: "pU2E2UMXXpolvPWou6uX/ZvJ/pt94CkXm27qAR0/kPFe7izGHmjAbtq/ocxvpY+YLY0EgycpK2Wwy0EyYZvN3F3ZUSb29H2RmHxWktlh1qhbEIgTm2tWBeu4jsbnGV2gZIYwx98Ofx3j9nHXjI2/lSI4KUpnSzyEeNuxRvGcxik7nwQJh5+r7XozqztYm7URgxCYGJEJ/lt6q7KuawTh51ZroYC+bBHiGyq50mnLgohnxbyiQ2Ug/SkvAfUl7hXzWmcUD9Cby3vejoPxlxquC/WfuugVk1Kue0/zsw7xBQEMjobnIurrvt4Yocw/fC0Q;1Gce+UFvgNPQZGkph2ZJ9g=="
+secured: "GWV8WnTmCJD9duiKDL3Pj/W+1mcnT8J7sRAl6fpt8OzI+QoqeT5oncIHnKvj1/HuttwqhKdr6UqZMFBqObe83YorQmhN1YD1V06+0deXkV2Pr8yIQ78y+ZdUazOjkKjulW4XhA1aWkjpo4xEIRObasxXUe9WdO4z4lfUbkXKVasNy5ZHqJEoDPqvxgbeSLvKhQ7wwnu4ilf77NAw3jZnINaTdMnzyYbA9GhVrCKax0FO0NWBpHShzq7DrxwfarjOtpbBnKQcd0KonY3s9S8s78jXK8LPpzn4GDTnyuvmw2hP58XX3+oDKFca38nwZ49t8+iNCvkXRD1jXpXD/kcy0O8SH/oGbnzyEmuBL2tr4fPh2IcxSphqzlQn/Xho1P+C6NnbnXJBYRn0+/yCtXXyNu7BGoxy8AV9hSFaMMSWcSaQHlnqROFTRP6HLKFbbrq3XGLy04dzr/Rx5uINQaOemMOjDaUKNTfgT4odsVI82lo=;4JEC+KhBJJh9SSIH4/LeuQ=="
 ---
 
