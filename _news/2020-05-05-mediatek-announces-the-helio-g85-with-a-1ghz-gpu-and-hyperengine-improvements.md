@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1588628153_mediatek_story.jpg"

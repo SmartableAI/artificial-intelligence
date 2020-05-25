@@ -2,18 +2,26 @@
 category: news
 title: "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network"
 excerpt: "Live Video Cloud runs on AWS and supports a range of AWS services such as Amazon Rekognition to enable artificial intelligence (AI)-assisted curation, production and programming that can help ..."
-publishedDateTime: 2020-05-14T12:38:00Z
-webUrl: "https://www.broadcastingcable.com/post-type-the-wire/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
+publishedDateTime: 2020-05-14T12:21:00Z
+webUrl: "https://www.multichannel.com/pr-feed/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
+ampWebUrl: "https://www.multichannel.com/.amp/pr-feed/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
+cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/pr-feed/ltn-global-named-advanced-technology-partner-in-the-amazon-web-services-partner-network"
 type: article
 
 provider:
-  name: Broadcasting & Cable
-  domain: broadcastingcable.com
+  name: Multichannel News
+  domain: multichannel.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "TaWrP+8ThblCxCYlcTH1C0nm0wn7oBsmzH0jMuwTprbewoncDHxAQrU+M8iTLUeMZ+0r4lwQrjYF6K7tf+FWI7h1yJ780dbLR9xeUsRsnBEFqRkiewMCGyzH49V8BEJv/NM+/v7c6aCSfMC/byYSQQ+pui5biD4/vyUO0Umg60xQHldwo3Nz7YOeCXYwKFjq8EfdkXeeNvlm3Jocf0Xx56O8CTUfduZNHRGORyjds5ylxBfyZOWFlxhFI3sNMVPJl5Li599M30V0SCZ2ldv9RfpatusHqddrAlC4vTec+6IMzbd15UiMuWdMd+cNZ4d3;YZm5w8K77/1UVj6O490v7Q=="
+images:
+  - url: "https://www.multichannel.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcyMTc2MTY2NTgzNTQyOTk2/ltn-columbia_4286.jpg"
+    width: 620
+    height: 349
+    title: "LTN Global named Advanced Technology Partner in the Amazon Web Services Partner Network"
+
+secured: "2X4rPkpi5+07kaZHALG4QVtdSUPeN1cJF1SqI66xqRQYzuj0a2r6b1J6cmIuLPIELeDImjIDqDfvN4vTVopzKO/53dL35dTmFb49zGFyt0wWh+jgr6Yo9lgaK1wD2FCejwYdvt9Bx/ltJUvJF+sFXoFrOCqSrWHUHJ2R25xmGEEkGAuRqCutQGL6x9WHsZULFV0c9BwDWZrvJS8IECdgk6+HVB5Nb84RuUWYVDRJ0Db071DKyBQ3F8YWGFFAHi/l+oGrMg9ilnkN6zDHpY8vpHnmqxWSRPNch4Q30GD1eUi/BpbDrXlCkchbkStH5zPB;9UYINWD9ZQoJA172VHFa7g=="
 ---
 

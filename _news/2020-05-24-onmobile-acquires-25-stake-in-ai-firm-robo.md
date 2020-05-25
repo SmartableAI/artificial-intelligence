@@ -17,6 +17,19 @@ topics:
   - AI
 
 related:
+  - title: "OnMobile acquires 25% stake in AI firm robO"
+    excerpt: "Bengaluru-headquartered mobile entertainment platform OnMobile Global Limited has announced a 25 per cent equity stake acquisition in Artificial Intelligence (AI)-based analytics startup robO through its subsidiary Onmobile Global Solutions Canada Ltd,"
+    publishedDateTime: 2020-05-25T05:10:00Z
+    webUrl: "https://www.sify.com/finance/onmobile-acquires-25-stake-in-ai-firm-robo-news-topnews-ufzfebgdbjfaa.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+    images:
+      - url: "https://www.sify.com/uploads/onmobile_logo_wiki_ufzfebgdcbhef.jpg"
+        width: 798
+        height: 278
   - title: "OnMobile acquires 25% stake in AI firm rob0"
     excerpt: "New Delhi, May 24 (IANS) Bengaluru-headquartered mobile entertainment platform OnMobile Global Limited has announced a 25 per cent equity stake acquisition in Artificial Intelligence (AI)-based analytics startup rob0 through its subsidiary Onmobile Global Solutions Canada Ltd,"
     publishedDateTime: 2020-05-24T09:35:00Z

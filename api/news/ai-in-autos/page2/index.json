@@ -634,10 +634,10 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.maritime-executive.com/article/port-automation-technology-demonstrated-by-cosco",
+      "webUrl": "https://maritime-executive.com/article/port-automation-technology-demonstrated-by-cosco",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T12:31:00-07:00",
+      "publishedDateTime": "2020-05-12T12:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Maritime Executive",
@@ -648,7 +648,7 @@
       },
       "images": [
         {
-          "url": "https://www.maritime-executive.com/media/images/article/Photos/Technology/Xiamen-Ocean-Gate-Terminal-file-photo-courtesy-Cosco-Shipping-copy.49795a.jpg",
+          "url": "https://maritime-executive.com/media/images/article/Photos/Technology/Xiamen-Ocean-Gate-Terminal-file-photo-courtesy-Cosco-Shipping-copy.49795a.jpg",
           "width": 643,
           "height": 361,
           "title": "Port Automation Technology Demonstrated by Cosco",
@@ -1164,23 +1164,15 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.bbc.com/news/business-52392366",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-52392366",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52392366",
+      "webUrl": "https://www.bbc.co.uk/news/business-52392366",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/business-52392366",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52392366",
       "publishedDateTime": "2020-05-07T18:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "domain": "bbc.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

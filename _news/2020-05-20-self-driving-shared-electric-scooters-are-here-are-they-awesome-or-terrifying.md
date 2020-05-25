@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/05/20/g0-x-self-driving-shared-electric-sco
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     title: "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?"
 
 related:
-  - title: "All Hail The World’s First Self-Driving E-Scooter Fleet Coming To Georgia City"
-    excerpt: "An important goal for us was to ensure that residents can enjoy the convenience of using e-scooters, while creating a world first in efficient, organized and advanced micromobility – right here in Peachtree Corners,"
-    publishedDateTime: 2020-05-20T13:00:00Z
-    webUrl: "https://www.carscoops.com/2020/05/city-in-georgia-to-get-autonomous-e-scooters-as-part-of-six-month-pilot/"
-    ampWebUrl: "https://www.carscoops.com/2020/05/city-in-georgia-to-get-autonomous-e-scooters-as-part-of-six-month-pilot/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/05/city-in-georgia-to-get-autonomous-e-scooters-as-part-of-six-month-pilot/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 35
   - title: "Go X, Tortoise Launch World’s Only Fleet of Self-Driving Scooters"
     excerpt: "A new trial pioneered by shared mobility / scooter rental platform Go X, Tortoise and Curiosity Lab at Peachtree Corners is seeking to address two of the biggest issues with shared e-scooter services: parking and hygiene."
     publishedDateTime: 2020-05-21T06:46:00Z

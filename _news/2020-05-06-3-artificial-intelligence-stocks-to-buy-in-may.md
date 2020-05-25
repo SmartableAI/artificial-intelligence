@@ -1,9 +1,9 @@
 ---
 category: news
 title: "3 Artificial Intelligence Stocks to Buy in May"
-excerpt: "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ..."
-publishedDateTime: 2020-05-06T11:01:00Z
-webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
+excerpt: "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46."
+publishedDateTime: 2020-05-06T14:45:00Z
+webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 378
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
-secured: "0Fk0654/APvI60Gso4zv2n+T9JHYVSw4QWwaLPGryJNcc5dOQLyBhFh+UdqOvnDezlScbdQ90qtcXZwPDuhdiNLd3YQbj/oppkXWpaSvWau7BkcYd3MD/N5ifCvu6uxzjTD8Gwg/sZhsrAtB3YKboJeRHtIRDuelZyLgB2hr/SKNXealQ42SyoOhvHNzPolPup6DpWrYQ+wi6mx+H6OBJgJ4Re4UWheH0fPG2UweRrzgIIIuGV0ZDtyyh9U1fceHgYud5zj7KcSy44OfAA+hcIsWlAti51uLsrP/q9s3I4wteHt7EpY+ZKLIvAqTouxS;kn4scH0YuakKRD1/venvgQ=="
+secured: "sFLL0FjE+xvnsIsdHpmjqjE2pCqcmKTK/XmC6NXIYHSK3mlUNFVrOgDh1d1HgEyuu4JZ/jjUysYMurIHR6jKsneeGBJGUeJ1vFq8E+nWsVwRkufTnVcsiE7uKgE6K4nLtcy0BXYq/P7ON6hcHsg0x/fTT0cs/WMBU1i+zzTT4eItboaiBAWb/8OSN4ApqIXRQEMZDyB6Nru7rrkuTAznwuVqDggjUVe9ge9XzKkUiu2Zh/urs7DAp9fPxCR9wVHrOXUmU9WCCQtJU4XA+B68TIQmNKzm6+EECrNsIEwqz70mF62Ca1jF/b4yLpCeujEi;vXG1CnRnOvSZ9zHv7BDQ+A=="
 ---
 
