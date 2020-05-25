@@ -1,0 +1,67 @@
+---
+category: news
+title: "The robots-are-taking-our-jobs threat gets real"
+excerpt: "If there was ever a good time for the robots-taking-over-jobs argument, this may be it. Not just because factory owners don't want to pay for rising labor costs, but because workers don't want to gath"
+publishedDateTime: 2020-05-25T18:00:00Z
+webUrl: "https://www.newsday.com/opinion/coronavirus/robots-taking-jobs-factory-workers-automation-coronavirus-labor-costs-1.44824777"
+ampWebUrl: "https://www.newsday.com/amp/opinion/coronavirus/robots-taking-jobs-factory-workers-automation-coronavirus-labor-costs-1.44824777"
+cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/coronavirus/robots-taking-jobs-factory-workers-automation-coronavirus-labor-costs-1.44824777"
+type: article
+quality: 59
+heat: 89
+published: true
+
+provider:
+  name: Newsday
+  domain: newsday.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://cdn.newsday.com/polopoly_fs/1.44824778.1590091035!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+    width: 1280
+    height: 719
+    title: "The robots-are-taking-our-jobs threat gets real"
+
+related:
+  - title: "Opinion: The robots-are-taking-our-jobs threat gets real"
+    excerpt: "If there was ever a good time for the robots-taking-over-jobs argument, this may be it. Not just because factory owners don’t want to pay for rising labour costs, but because workers don’t want to gather every day in petri dishes."
+    publishedDateTime: 2020-05-21T09:42:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/05/21/opinion-the-robots-are-taking-our-jobs-threat-gets-real"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/05/21/691271.jpg"
+        width: 1240
+        height: 826
+  - title: "The robots-are-taking-our-jobs threat is real"
+    excerpt: "The future of labor is changing, with a sharp push from COVID-19."
+    publishedDateTime: 2020-05-22T22:57:00Z
+    webUrl: "https://www.startribune.com/the-robots-are-taking-our-jobs-threat-is-real/570706872/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://stmedia.stimg.co/ows_d65106cb-d9cd-47d9-8854-03b6915826d0.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+  - title: "The Robots-Are-Taking-Our-Jobs Threat Gets Real"
+    excerpt: "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down."
+    publishedDateTime: 2020-05-21T05:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/the-robots-are-taking-our-jobs-threat-gets-real/2020/05/20/bbcf77d8-9aed-11ea-ad79-eef7cd734641_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 19
+
+secured: "tmZVhrlov15bGUiQ6Z7xEvidyeGet8FOInMzUNtTBGrTQi8DGUbvqYtWWo/+jegSN/775b8C2EsUTd2LLEPD8uvxG/K6/fqsq7nZAP2TmwkuVj3IxNyWntM1xLkngqfQ9MvldjDFVOeMz7eSIP+0CPbmaLRxBp4fZ9Ppl6FWlVmNq/j3qz9pCEuNj4tdRL6O/mHzDaphZt1WBUE/zGYA5MhhKo1eo75qqqx6ke7z6iBdkma1PoxR8Lur2C81UH1uKgjaE0ogJS+EuA1WWI9W//J84OERoD0n2lOMxQb5Xrr9Tdcizet4oLOdJqByeVJ+;XSOGpikR5WKcANWPVQe/rA=="
+---
+

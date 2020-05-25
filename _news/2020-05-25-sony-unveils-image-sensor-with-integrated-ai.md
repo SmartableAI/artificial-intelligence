@@ -2,13 +2,13 @@
 category: news
 title: "Sony unveils image sensor with integrated AI"
 excerpt: "Other sensor chips need to transfer an image to a separate computer for that type of analysis, but Sony has built AI right into the processor itself"
-publishedDateTime: 2020-05-25T11:00:00Z
-webUrl: "https://theweek.com/articles/915742/sony-unveils-image-sensor-integrated-ai"
-ampWebUrl: "https://theweek.com/articles-amp/915742/sony-unveils-image-sensor-integrated-ai"
-cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/articles-amp/915742/sony-unveils-image-sensor-integrated-ai"
+publishedDateTime: 2020-05-25T10:58:00Z
+webUrl: "https://www.theweek.com/articles/915742/sony-unveils-image-sensor-integrated-ai"
+ampWebUrl: "https://www.theweek.com/articles-amp/915742/sony-unveils-image-sensor-integrated-ai"
+cdnAmpWebUrl: "https://www-theweek-com.cdn.ampproject.org/c/s/www.theweek.com/articles-amp/915742/sony-unveils-image-sensor-integrated-ai"
 type: article
-quality: 59
-heat: 59
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
   domain: theweek.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -25,6 +24,6 @@ images:
     height: 560
     title: "Sony unveils image sensor with integrated AI"
 
-secured: "2yj46pADEGRsl3TVwT57QvxTqS7tKgGyTO8f2+DuNMvskF/FW53fCWQI7JmBecVRCkizZsN71cir4Dehi8HZpZxjyZlp3ZKZPU9V+7AMo6oo0Bf7Urvub467tUMkGNCRJ+HD1yKMT4WfBr90+yiRjhtBgH2t7S15IEtEtvUEmsxg+mTTBVZTK6uEQHwoLAxkrwJif9o31yvkqSfPPmOhlL/XMCOo+TbvevWToqsViPyh7zUS5cDMfuh6Rq2qcmkH05K88VJ/du1uU3pItsod5RQOnrcZ6ca+yBdcmGPk9AboKKOQuCZmADWwrCzMjZTJ;7j56M1lZCSMt2vIVPgfsJA=="
+secured: "2FJWLlFbwR45w3Jeo8D03uOCuFmSDNgwRm5dforJNAOzgV49hlvb76yYzp0HoNPfu6VhvbULiNTZU2026Np41LSRXP3zm0JbPSYTTf3JThor4ZN29H0GqUyWX7DfQTnbHPp/qGuPYTG4FWQ0skgTqA1+r6ok+lh9h+lRC06CY7YaKX0Ng2oOP8+/1RDlZrYSYsJjk0d4VZ6LoIwN+FWMI1YCzbtDp4injhIkpsPwHg3r/lGLHG1XGxmz0NW/gdCacKO5NPsJeBgxkHC5FmDVIXg8oA2qpe8/JKeT72cSUYkZQi1VqsOSFDsNXYIJLRmB;bErcvovDA/ZJ5o5rIqNbbw=="
 ---
 

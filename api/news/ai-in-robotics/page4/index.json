@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-28-robots-could-complete-all-human-tasks-by-2050-claims-transhumanist-writer.md",
+      "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
+      "excerpt": "THERE'S a 50 percent chance robots will be capable of completing \"all human tasks\" by 2050, allowing humans to move to a post-compulsory work society, according to a leading transhumanist thinker.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
+      "publishedDateTime": "2020-04-28T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/Transhumanism-1275130.jpg?r=1588113071648",
+          "width": 590,
+          "height": 350,
+          "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-artificial-intelligence-ai-in-healthcare-market-progressing-at-a-cagr-of-4048-during-the-forecast-period-2020-2027.md",
       "title": "Artificial Intelligence (Ai) In Healthcare Market progressing at a CAGR of 40.48% during the forecast period 2020-2027",
       "excerpt": "The Artificial intelligence in the healthcare market dynamics, forces, companies and trends have been determined after conducting",
@@ -1190,51 +1227,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation.md",
-      "title": "How The White House “Guidance For Regulation Of Artificial Intelligence” Invites Overregulation",
-      "excerpt": "New AI guidance from the White House meant to boost the sector will be interpreted by future administrations and policymakers in ways that advance regulatory agendas rather than free enterprise stances.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/waynecrews/2020/04/15/how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation/",
-      "ampWebUrl": "https://www.forbes.com/sites/waynecrews/2020/04/15/how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynecrews/2020/04/15/how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation/amp/",
-      "publishedDateTime": "2020-04-15T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e97210f1048ea0006cbdbc2%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": "How The White House “Guidance For Regulation Of Artificial Intelligence” Invites Overregulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

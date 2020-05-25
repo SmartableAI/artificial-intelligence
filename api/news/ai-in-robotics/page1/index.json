@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-25-the-robots-are-taking-our-jobs-threat-gets-real.md",
+      "title": "The robots-are-taking-our-jobs threat gets real",
+      "excerpt": "If there was ever a good time for the robots-taking-over-jobs argument, this may be it. Not just because factory owners don't want to pay for rising labor costs, but because workers don't want to gath",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsday.com/opinion/coronavirus/robots-taking-jobs-factory-workers-automation-coronavirus-labor-costs-1.44824777",
+      "ampWebUrl": "https://www.newsday.com/amp/opinion/coronavirus/robots-taking-jobs-factory-workers-automation-coronavirus-labor-costs-1.44824777",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/coronavirus/robots-taking-jobs-factory-workers-automation-coronavirus-labor-costs-1.44824777",
+      "publishedDateTime": "2020-05-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.44824778.1590091035!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": "The robots-are-taking-our-jobs threat gets real",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-25-why-robots-will-need-humans-in-the-future.md",
       "title": "Why robots will need humans in the future",
       "excerpt": "Ben Shneiderman, a University of Maryland computer scientist who has for decades warned against blindly automating tasks with computers, thinks fully automated cars and the tech industry’s vision for a robotic future is misguided.",
@@ -1228,36 +1265,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis.md",
-      "title": "Healthcare Tech & Robotics ETFs in Focus amid COVID-19 Crisis",
-      "excerpt": "Moderna’s Vaccine Fast Tracked By FDA (14:00) - Repurposing Drugs For Covid-19 Treatment (21:15) - Will Telemedicine Cont",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis-2020-05-15",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-15T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

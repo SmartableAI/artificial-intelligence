@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-21T09:42:00Z
 webUrl: "https://www.thestar.com.my/tech/tech-news/2020/05/21/opinion-the-robots-are-taking-our-jobs-threat-gets-real"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,21 @@ images:
     title: "Opinion: The robots-are-taking-our-jobs threat gets real"
 
 related:
+  - title: "The robots-are-taking-our-jobs threat gets real"
+    excerpt: "If there was ever a good time for the robots-taking-over-jobs argument, this may be it. Not just because factory owners don't want to pay for rising labor costs, but because workers don't want to gath"
+    publishedDateTime: 2020-05-25T18:00:00Z
+    webUrl: "https://www.newsday.com/opinion/coronavirus/robots-taking-jobs-factory-workers-automation-coronavirus-labor-costs-1.44824777"
+    ampWebUrl: "https://www.newsday.com/amp/opinion/coronavirus/robots-taking-jobs-factory-workers-automation-coronavirus-labor-costs-1.44824777"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/coronavirus/robots-taking-jobs-factory-workers-automation-coronavirus-labor-costs-1.44824777"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 59
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.44824778.1590091035!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
   - title: "The robots-are-taking-our-jobs threat is real"
     excerpt: "The future of labor is changing, with a sharp push from COVID-19."
     publishedDateTime: 2020-05-22T22:57:00Z

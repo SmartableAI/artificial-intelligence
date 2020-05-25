@@ -2,6 +2,133 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-21-gain-customer-insights-using-amazon-aurora-machine-learning.md",
+      "title": "Gain customer insights using Amazon Aurora machine learning",
+      "excerpt": "In recent years, AWS customers have been running machine learning (ML) on an increasing variety of datasets and data sources. Because a large percentage of organizational data is stored in relational databases such as Amazon Aurora, there’s a common need to make this relational data available for training",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gain-customer-insights-using-amazon-aurora-machine-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T13:56:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/05/gain-customer-insights-1.gif",
+          "width": 726,
+          "height": 413,
+          "title": "Gain customer insights using Amazon Aurora machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-the-register-calls-for-aid-and-microsofts-rohan-kumar-will-answer-our-questions-about-sql-edge-and-azure-synapse.md",
+      "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
+      "excerpt": "Build There was SQL Edge and Azure Synapse news at Microsoft's reimagined Build gathering this week, so The Register had a chat with corporate vice president Rohan Kumar about the company's database ambitions.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/05/21/sql_edge_azure_synapse/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/21/sql_edge_azure_synapse/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/21/sql_edge_azure_synapse/",
+      "publishedDateTime": "2020-05-21T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/01/15/shutterstock_db.jpg",
+          "width": 648,
+          "height": 429,
+          "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
+      "title": "AI chips in 2020: Nvidia and the challengers",
+      "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "publishedDateTime": "2020-05-21T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/04/03/156d6478-5ded-4ada-835a-784899fa6564/abstraction-layer-runai.png",
+          "width": 954,
+          "height": 672,
+          "title": "AI chips in 2020: Nvidia and the challengers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer.md",
       "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
       "excerpt": "During its Build 2020 developer conference on Tuesday, Microsoft unveiled the new supercomputer built in collaboration with OpenAI, an artificial intelligence startup found by Elon Musk. Microsoft announced that the supercomputer hosted in Azure was developed exclusively to train OpenAI’s large-scale artificial intelligence models.",
@@ -1158,134 +1285,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-search-engines-are-leveraging-ai-to-improve-their-language-understanding.md",
-      "title": "Search engines are leveraging AI to improve their language understanding",
-      "excerpt": "Increasingly, search engines like Bing and Google are leveraging AI and machine learning to improve the quality of results.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/20/search-engines-google-bing-are-leveraging-ai-to-improve-their-language-understanding/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Search engines are leveraging AI to improve their language understanding",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars.md",
-      "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
-      "excerpt": "Via the advent of Machine Learning (ML) and Deep Learning (DL), many of these AI applications are intended to adjust on-the-fly and tailor themselves in real-time to the efforts they were designed to meet.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-05-20T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1128869156%2F0x0.jpg",
-          "width": 1200,
-          "height": 781,
-          "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-ai-and-machine-learning-for-game-design-the-positive-influencers.md",
-      "title": "AI and Machine Learning for Game Design: The Positive Influencers",
-      "excerpt": "Artificial intelligence and machine learning help improve the game designing approach with evaluation and response support.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gamasutra.com/blogs/VivekSonchhatra/20200520/363256/AI_and_Machine_Learning_for_Game_Design_The_Positive_Influencers.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gamasutra",
-        "domain": "gamasutra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/235501.png",
-          "width": 465,
-          "height": 465,
-          "title": "AI and Machine Learning for Game Design: The Positive Influencers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,134 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-20-search-engines-are-leveraging-ai-to-improve-their-language-understanding.md",
+      "title": "Search engines are leveraging AI to improve their language understanding",
+      "excerpt": "Increasingly, search engines like Bing and Google are leveraging AI and machine learning to improve the quality of results.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/20/search-engines-google-bing-are-leveraging-ai-to-improve-their-language-understanding/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Search engines are leveraging AI to improve their language understanding",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars.md",
+      "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
+      "excerpt": "Via the advent of Machine Learning (ML) and Deep Learning (DL), many of these AI applications are intended to adjust on-the-fly and tailor themselves in real-time to the efforts they were designed to meet.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-05-20T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1128869156%2F0x0.jpg",
+          "width": 1200,
+          "height": 781,
+          "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-ai-and-machine-learning-for-game-design-the-positive-influencers.md",
+      "title": "AI and Machine Learning for Game Design: The Positive Influencers",
+      "excerpt": "Artificial intelligence and machine learning help improve the game designing approach with evaluation and response support.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gamasutra.com/blogs/VivekSonchhatra/20200520/363256/AI_and_Machine_Learning_for_Game_Design_The_Positive_Influencers.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gamasutra",
+        "domain": "gamasutra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/235501.png",
+          "width": 465,
+          "height": 465,
+          "title": "AI and Machine Learning for Game Design: The Positive Influencers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders.md",
       "title": "Sphero spins out Company Six to bring robotics tech to first responders",
       "excerpt": "Colorado-based Sphero launched Company Six, a new robotics company focused on first responder and disaster response technologies.",
@@ -1164,141 +1292,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-builds-massive-supercomputer-for-smarter-ai.md",
-      "title": "Microsoft builds massive supercomputer for smarter AI",
-      "excerpt": "The Azure machine has 285,000 processor cores and 10,000 GPUs to tackle a new class of artificial intelligence tasks.",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
-      "publishedDateTime": "2020-05-19T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Microsoft builds massive supercomputer for smarter AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-google-halts-ai-tools-for-oil-industry-after-greenpeace-report.md",
-      "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
-      "excerpt": "The move comes after the report detailed links between Google, Amazon and Microsoft and oil and gas companies.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/amp/",
-      "publishedDateTime": "2020-05-19T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211427609%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tesla-will-boost-its-full-self-driving-software-price-to-8000-in-july.md",
-      "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-      "excerpt": "As the electric-car maker's driver-assist software package moves closer to being truly full self-driving, the company is raising its price.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
-      "publishedDateTime": "2020-05-19T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

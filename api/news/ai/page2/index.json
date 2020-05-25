@@ -2,6 +2,140 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-22-scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development.md",
+      "title": "Scale AI releases free lidar dataset to power self-driving car development",
+      "excerpt": "High quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "publishedDateTime": "2020-05-22T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/LiDAR-comparison-credit_-Scale-AI.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": "Scale AI releases free lidar dataset to power self-driving car development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev-and-more.md",
+      "title": "Podcast: Tesla Full Self-Driving value, Tesla software update, GMC Hummer EV, and more",
+      "excerpt": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including the value of Tesla’s Full Self-Driving package, a new Tesla software update,",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/05/22/podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev/",
+      "ampWebUrl": "https://electrek.co/2020/05/22/podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev/amp/",
+      "publishedDateTime": "2020-05-22T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 562,
+          "title": "Podcast: Tesla Full Self-Driving value, Tesla software update, GMC Hummer EV, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-nvidia-used-artificial-intelligence-to-clone-pac-man.md",
+      "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
+      "excerpt": "This is an early test of a very ambitious project that aims to build entirely new games and real-world simulation engines in the long run.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
+      "publishedDateTime": "2020-05-22T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-probeat-microsofts-ai-supercomputer-was-the-best-of-build-2020.md",
       "title": "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020",
       "excerpt": "OpenAI showed Microsoft's supercomputer not just completing code and offering suggestions, but writing code from English instructions.",
@@ -1148,133 +1282,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-gain-customer-insights-using-amazon-aurora-machine-learning.md",
-      "title": "Gain customer insights using Amazon Aurora machine learning",
-      "excerpt": "In recent years, AWS customers have been running machine learning (ML) on an increasing variety of datasets and data sources. Because a large percentage of organizational data is stored in relational databases such as Amazon Aurora, there’s a common need to make this relational data available for training",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gain-customer-insights-using-amazon-aurora-machine-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T13:56:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/05/gain-customer-insights-1.gif",
-          "width": 726,
-          "height": 413,
-          "title": "Gain customer insights using Amazon Aurora machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-the-register-calls-for-aid-and-microsofts-rohan-kumar-will-answer-our-questions-about-sql-edge-and-azure-synapse.md",
-      "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
-      "excerpt": "Build There was SQL Edge and Azure Synapse news at Microsoft's reimagined Build gathering this week, so The Register had a chat with corporate vice president Rohan Kumar about the company's database ambitions.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/05/21/sql_edge_azure_synapse/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/21/sql_edge_azure_synapse/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/21/sql_edge_azure_synapse/",
-      "publishedDateTime": "2020-05-21T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/01/15/shutterstock_db.jpg",
-          "width": 648,
-          "height": 429,
-          "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
-      "title": "AI chips in 2020: Nvidia and the challengers",
-      "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "publishedDateTime": "2020-05-21T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/04/03/156d6478-5ded-4ada-835a-784899fa6564/abstraction-layer-runai.png",
-          "width": 954,
-          "height": 672,
-          "title": "AI chips in 2020: Nvidia and the challengers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
