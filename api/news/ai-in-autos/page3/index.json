@@ -2,6 +2,72 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-08-can-robotaxis-ease-public-transport-fears-in-china.md",
+      "title": "Can robotaxis ease public transport fears in China?",
+      "excerpt": "The rise of self-driving taxis in China comes at a time when ... Internet search engine Baidu, China's answer to Google, is rolling out a fleet of its Apollo robotaxis across three cities in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.co.uk/news/business-52392366",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/business-52392366",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-52392366",
+      "publishedDateTime": "2020-05-07T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/687B/production/_112174762_robotaxi.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Can robotaxis ease public transport fears in China?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing.md",
+      "title": "Tesla's Semi makes first deliveries; Waymo, Uber expand driverless truck testing",
+      "excerpt": "Tesla's electric Semi made its first delivery while Waymo and Uber each said they ... The company said the trucks’ artificial intelligence and array of sensors provide Level 4 autonomy on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides.md",
       "title": "Waymo’s Self-Driving Vans To Roll Again After COVID-19 Shutdown–But No Robotaxi Rides",
       "excerpt": "A portion of the Alphabet Inc. company’s easy to spot Chrysler Pacifica minivans will be on the road again from May 11.",
@@ -1139,72 +1205,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms.md",
-      "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
-      "excerpt": "After Facebook invested over Rs 43,000 crore in Jio platforms last month, Reliance Industries Limited (RIL) on Monday announced that US private equity firm Silver Lake will invest Rs 5,655 crore (nearly $750 million) into Jio platforms.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gulfnews.com/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
-      "ampWebUrl": "https://gulfnews.com/amp/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
-      "publishedDateTime": "2020-05-03T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2020/05/04/20200504-jio_171de660947_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-silver-lake-reliance-jio-deal-5-key-things-you-need-to-know.md",
-      "title": "Silver Lake-Reliance Jio deal: 5 key things you need to know",
-      "excerpt": "The deal comes shortly after Facebook announced investing Rs 43,574 crore in Reliance’s Jio platforms in exchange of 9.99% stake. The deal also covers WhatsApp-JioMart partnership aimed at the smaller retailers in the country.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO.html",
-      "ampWebUrl": "https://m.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO_amp.html",
-      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/silver-lake-reliance-jio-deal-5-key-things-you-need-to-know/story-LQUuK1Bi6yX01tdag2xMCO_amp.html",
-      "publishedDateTime": "2020-05-03T21:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

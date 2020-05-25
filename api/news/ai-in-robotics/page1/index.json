@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-25-why-robots-will-need-humans-in-the-future.md",
+      "title": "Why robots will need humans in the future",
+      "excerpt": "Ben Shneiderman, a University of Maryland computer scientist who has for decades warned against blindly automating tasks with computers, thinks fully automated cars and the tech industry’s vision for a robotic future is misguided.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html",
+      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
+      "publishedDateTime": "2020-05-25T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/resizer/-RkmdLbQY_5T6dnGwSJV5mIp7-g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JTAXB6YFGFAU7AZ5272JMTGK3I.png",
+          "width": 1200,
+          "height": 858,
+          "title": "Why robots will need humans in the future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-05-25-ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas.md",
       "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
       "excerpt": "Robochamps, an edtech start-up dedicated to introducing kids to early AI education, recently launched online courses in robotics and coding in multiple languages, including Hindi, Gujarati, Punjabi, a",
@@ -336,6 +374,51 @@
           "width": 560,
           "height": 315,
           "title": "First-rate cleaning is just the start for this super-smart Home Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military.md",
+      "title": "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military",
+      "excerpt": "Robot toy maker Sphero this week launched a spin-off company focused on creating intelligent AI for first responders, law enforcement, and the military. Company Six (CO6), an independent startup, will adapt technology from Sphero's Public Safety Division to craft robust and feature-rich yet affordable products.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military",
+      "ampWebUrl": "https://au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1",
+      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military?amp=1",
+      "publishedDateTime": "2020-05-21T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/s/sphero-spi/sphero-spin-off-makes-robots-for-first-responders-law-enforc_68ys.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military",
           "attribution": null
         }
       ],
@@ -1175,89 +1258,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-robot-dog-enforces-social-distancing-in-singapore.md",
-      "title": "Robot dog enforces social distancing in Singapore",
-      "excerpt": "Spot’s two-week pilot in a park is seen as a test of how machines and artificial intelligence could help reduce human contact in public spaces",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.detroitnews.com/story/news/world/2020/05/14/robot-dog-social-distancing/111715036/",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/111715036",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111715036",
-      "publishedDateTime": "2020-05-14T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/15/PDTN/785adfc9-75b1-4a4d-ab53-663fbf963888-WORLD-NEWS-CORONAVIRUS-SINGAPORE-ROBOT-DOG-GET.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Robot dog enforces social distancing in Singapore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020.md",
-      "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
-      "excerpt": "I watched NVIDIA’s GTC 2020 virtual keynote today, and I found the company scored high on both. Architecture is everything when you are a platform provider and NVIDIA rolled out its new architecture,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020/amp/",
-      "publishedDateTime": "2020-05-14T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebda3d7e0de010006d35c1b%2F0x0.jpg%3FcropX1%3D483%26cropX2%3D3296%26cropY1%3D0%26cropY2%3D1581",
-          "width": 1200,
-          "height": 675,
-          "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],
