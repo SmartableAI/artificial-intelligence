@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailyherald.com/amp-article/20200523/business/200529786/
 cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200523/business/200529786/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 800
     height: 533
     title: "Microsoft unveils cloud tools tailored for health-care systems"
-
-related:
-  - title: "Microsoft unveils cloud tools tailored for health care systems"
-    excerpt: "Microsoft Cloud for Healthcare includes tools that allow for digital triage, telemedicine and coordination of care using internet-based services, chat and conferencing apps. The product was unveiled in a virtual version of the annual Build conference for developers,"
-    publishedDateTime: 2020-05-20T06:01:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
 
 secured: "z3hfkoiRL0atYBp8fl5U7gn8UuuTX95BtaOrwxhD6E8Nk4SiTDFzXW0QOxdFBdqqpWuMl7bAgM4z+YM+s06LIiqb3HNg27L3MLrSyUnOU29Ie+z3K/dtrIegzYMI7tKkAnYEnXAm8iBVJnl3Ez8ReRW/SRiMQeOmbQtQaSlyMJbWDixw3kg2/E7naBIf+Toe8zJqVAJaPneFl/2J36SbcS16jktPDVM4N+nSFgsexnbK0UXIe65vFUOMSyLXYqBa2YPu3IjnGxQP7/j5Mk+YV/F9Ll9br1M3SB1i+W9b81l9cLqbVobJABE/C0xUKeeWJ0UMLDGVDW1j6pWZNroo6gA1yiAAvwLA9GbhCD5BvJq1shYqngam+8Knc8BSiq05PqlY0tl2Ov3LtYp6qdATGd/MF4w8PAFW7nTspT1J4ogK4tzbmPKvNwsap+0wKjMQ8FbUS5crhTYi9/tQcHgbTSxKojDV825aWXovqvL3KrU=;AYsIsb3J9tMaD82F3gbVaA=="
 ---

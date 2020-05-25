@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-21T05:24:00Z
 webUrl: "https://docs.microsoft.com/en-us/learn/paths/process-translate-speech-azure-cognitive-speech-services/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 643
     height: 321
     title: "Process and Translate Speech with Azure Cognitive Speech Services"
-
-related:
-  - title: "Gating process for Azure Cognitive Services"
-    excerpt: "As new Azure Cognitive Services offerings are introduced, they go through a gated preview where customers have to request access through an application. This gating process helps identify opportunities for improvements to service offerings before they're widely available."
-    publishedDateTime: 2020-05-20T05:33:00Z
-    webUrl: "https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-gating-process"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
-        width: 400
-        height: 400
 
 secured: "Ay/B+Sy470D7Ti0SNrnqe55Zmv9z6s+MrJ419FkX4Z96Pb6FX1vs8KRs9+WwcXyHYtKOWFohqSxiZNDQLccrNA4tRdWPMu7bavUTfLq2QaFIkmMw6rXig1xaQh5CiWMNPIIGjvZPtqU4OPIVqP3of5iPYa2TK/Xw0mbadRcCxzp16vS8qyTxcBBi6y2Wd7D2LdhtjHesmi0tQ4DbAW26LeYITeifSUApTOuL5uIUJoPszQ4O1mUrqFOWBTFWAJcptOu3STnce1+fT4iQhKXG+7dWFK+/Rb66cPDa1xaOXtzOY1a53ePuIASbuDxkt2Dg749NF/a9CPSJqFY/UuxlcjGScJJzLvBLtQzsWQY1ijM2kpfNmEd185A2fdBaqAQtizYznxMktXkpRXSO6YQfQMKuzpd16fpd5Bv4cbq3lhhGDAmg4uBRMUYO6QZgyUT+3sew+OoAR51sdfKskAycnv0zJDWCbfAmIVMaCqYhzIw=;IF8o/YuuY7BoNJyVmnMqQg=="
 ---

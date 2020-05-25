@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy"
-excerpt: "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,"
-publishedDateTime: 2020-05-19T08:24:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663"
+excerpt: "PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become"
+publishedDateTime: 2020-05-19T08:12:00Z
+webUrl: "https://www.prnewswire.com/news-releases/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-301061518.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "EhPo/YBavkk89yflkd4ov3Xsfm1ddy9Iz49HudHD/qGrWKv0iXOQqZO007s0KwRsHjVdyhcKZSTn1LvQQJ8e4qieLViJV7C759yChQHf7CoWopCcrh0iahxjxPkxsd5PPIxIGw1UT4ePs/FVSNf6Uawnv+AoQCF6CaSAoLXC4LnNKCoBW/8AAoA53Qg6F6k1D4JdQKaiTG1ubItSxHA3DVBkmNnHjNgRdCn+TBlyNW1S9dCO+T30nZbCLmj9ODDLB/Fg6ufGwhrWaFVpa3GAZVF0jr1ToI/gNHaGj/eTGBeKzaSYsCwt+T6SiCx3yRtW;XWengoZBnVeuqy2e87jfPA=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy"
+
+secured: "p/a8H7CXFFwW7dVP++QlIMrN3j/anRd85qP6vuU79E65jAE4ww0EnaNSLOCoD72rYx1JYEC73ojJVQtK/HcDkwg785DwfXLqy6E0rtZ6UKn3CaNuowozlDUD2YSlEMk4unclwbLC7TRDOxJRtj+U8d7FJsZwxZqCatlR4/AlgKH1rcivOD6mhm93MO0MfZn9UcN+QtXlxamdeT+yJPPp8ncEeIJLIwfYUnXIW3bZISKZRt0ACArFJ+Xccgi+L2lf1gokVx5rGr7+J6FSSa3PVM0jQbub9DLHS13zMs5rgq94dtMdAKhKscsfglYOeD9m;61m0DomgLnJ0si6xJYu/MQ=="
 ---
 
