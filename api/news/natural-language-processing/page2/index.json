@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-12-javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool.md",
+      "title": "JavaScript programming language developers: This is Kite's new free AI code-completion tool",
+      "excerpt": "Kite's code completion has supported Python for six years. Last January the company landed $10m in funding as it launched more complex line-of-code completions for Python, helping",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
+      "publishedDateTime": "2020-05-12T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/843fd8ab-846f-4d03-8060-bcd5d611ec7e/thumbnail/1200x675/6c7e3312371b165b65c90cd7fc188d5d/developer-go-is-the-programming-language-5eb921c27f8c3b07249d42e4-1-may-11-2020-11-50-12-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "JavaScript programming language developers: This is Kite's new free AI code-completion tool",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-intel-capital-commits-132-million-to-11-ai-startups.md",
       "title": "Intel Capital commits $132 million to 11 AI startups",
       "excerpt": "Intel Capital announced that it's invested $132 million in 11 startups focused on AI, machine learning, automation, and chipset design.",
@@ -1183,35 +1228,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-former-public-school-speech-therapist-releases-insightful-new-book-to-raise-awareness-of-importance-of-speech-therapy-in-schools.md",
-      "title": "Former Public School Speech Therapist Releases Insightful New Book to Raise Awareness of Importance of Speech Therapy in Schools",
-      "excerpt": "Author W. Ray reflects on her time as a public school speech therapist including the ups and downs of the position and how rewarding, humorous and challenging it can be",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/p15882309/former-public-school-speech-therapist-releases-insightful-new-book-to-raise-awareness-of-importanc",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15882309",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15882309",
-      "publishedDateTime": "2020-04-27T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

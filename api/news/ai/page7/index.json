@@ -2,6 +2,34 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-and-altran-release-ai-based-tool-for-bug-detection.md",
+      "title": "Microsoft and Altran release AI-based tool for bug detection",
+      "excerpt": "Microsoft and Altran, the design and engineering firm recently acquired by Capgemini, have collaborated to develop an AI-based tool, now available on GitHub, to predict the likelihood of bugs in source codes.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.microsoft.com/en-us/ai/ai-lab-code-defect",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "diarioti.com",
+        "domain": "diarioti.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-sony-and-microsoft-partner-on-tiny-ai-chip.md",
       "title": "Sony and Microsoft partner on tiny AI chip",
       "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
@@ -1226,51 +1254,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts.md",
-      "title": "DeepMind claims its AI predicts macular degeneration more accurately than experts",
-      "excerpt": "DeepMind claims that its machine learning system can predict macular degeneration more accurately than a team of human experts.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/18/deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind claims its AI predicts macular degeneration more accurately than experts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

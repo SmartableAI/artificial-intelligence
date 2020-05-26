@@ -2,6 +2,89 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-05-07-symend-raises-52-million-to-remediate-consumer-debt-with-data-science.md",
+      "title": "Symend raises $52 million to remediate consumer debt with data science",
+      "excerpt": "Symend, which is using AI and machine learning to help customers remediate debt, has secured $52 million in equity financing.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/amp/",
+      "publishedDateTime": "2020-05-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/9cc469b8-554a-45ab-911b-57fb23b7e4c5-e1588710720507.png?fit=1200%2C743&strip=all",
+          "width": 1200,
+          "height": 743,
+          "title": "Symend raises $52 million to remediate consumer debt with data science",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer.md",
+      "title": "Center in Singapore Expanding Access to Radiation Therapy Technology in the Fight Against Cancer",
+      "excerpt": "Two Varian VitalBeam ™ medical linear accelerators, together with an Edge ™ radiosurgery system with HyperArc ™ technology, will be installed at NCIS, thereby expanding radiation therapy treatment options for cancer patients in Singapore.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
+      "publishedDateTime": "2020-05-07T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-digital-psychotherapy-is-now-more-accessible-thanks-to-data-driven-healthcare-tools.md",
       "title": "Digital psychotherapy is now more accessible, thanks to data-driven healthcare tools",
       "excerpt": "Over the past decade, technology has transformed the way we live.  The emergence and advancement of personal devices, data capture, networks and the cloud, deep learning , and Internet of Things (IoT)—amongst other things—has changed our world.",
@@ -913,89 +996,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool.md",
-      "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
-      "excerpt": "A team of materials scientists at Lawrence Berkeley National Laboratory (Berkeley Lab) – scientists who normally spend their time researching things like high-performance materials for thermoelectrics",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/",
-      "ampWebUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
-      "publishedDateTime": "2020-05-06T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus.md",
-      "title": "Facebook cancels its 2020-2021 AI Residency program due to coronavirus",
-      "excerpt": "Facebook today announced that it plans to cancel its 2020-2021 in-person AI Residency program as a result of the novel coronavirus pandemic. In a statement sent to VentureBeat via email, Facebook vice president of AI Jerome Pesenti said that the decision was motivated by health and safety concerns.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus/amp/",
-      "publishedDateTime": "2020-05-06T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook cancels its 2020-2021 AI Residency program due to coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

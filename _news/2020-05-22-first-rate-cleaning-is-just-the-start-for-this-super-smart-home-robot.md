@@ -29,6 +29,6 @@ images:
     height: 315
     title: "First-rate cleaning is just the start for this super-smart Home Robot"
 
-secured: "fdupbv7Q1Guyzv/2zMtunQ9zOavaipyMXg6xHfUpAhF46o1k8wtGgZK9MRUB+iKOZbLQx4uV9YiAZX/7x/+AlwfVUSBy4oBFNoa18tn9UzQHXeovgrNqy0o3lEw76+TB56kO3+5clkRVbjS1JkfbVGY/fBnWY/Un33rMc1+JWhr9+aNcYr2FCFq/AhpHO0afdEVzj9U7Ce4z7f00JWxUfDfD/wrO0S5EFmfmoKR5JgEqRIPh4sE90ZL5Czxv0CNCSN3kVW4i7j+yOMiizeHZfgG8Nu1ZS9hii/0C5P6yrz+/X3VMSpCL/YbWXDVrXeKD;uqEKRMFf2DS7OlIrD2pbag=="
+secured: "pesM8+4ahlLqnXcJ1orQvt78WLoL+V4h+ShWoj/vQACznDwkxN60Nnv/3kr48dbynRHk3/R+WMnOLZv4QTelyzxMlXn17ez5uXhtpO5XTKMiiHNZ9+9vvPvG5u1/QVWzWickFjhEoc6FXm3QPL5cLr6Ak77KO6r5FhydAhdTh2rfho43IfUidzXM2ukaeFP2OlU9qWg6nkX+aOFuSPaC5E7QpXpPgcy9LbZsKGFDXkXm82s3gQlWrs92kURNrxwozitnpZGK+sSLGLOvYO0xHNww6Vj4s/3ILt8KkFE+uJ74G/5bMfVf7AqQ4FO2KdLYpJPZSYAZkvUtW/ujx0OGZ495bvcD7+mDUM6cKT0bMP0fB8TiGERz+WRz3efWvOy0Rn999sAjoJEl+A1Vl5E/+aqAUiQCiwag3B2epL/EtFHTDdkE4SMsBc7pHsi4/E5o7knKq7nYNj5cyIW7+PklwvJIKq5kZ6FbertI/m0v6AY=;tz9yahGW/izd9c9o9mPMew=="
 ---
 

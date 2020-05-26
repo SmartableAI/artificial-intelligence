@@ -8,7 +8,7 @@ ampWebUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-
 cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     title: "Why robots will need humans in the future"
 
 related:
+  - title: "Why robots will need humans in the future"
+    excerpt: "Ben Shneiderman, a University of Maryland computer scientist who has for decades warned against blindly automating tasks with computers, thinks fully automated cars and the tech industry’s vision for a robotic future is misguided."
+    publishedDateTime: 2020-05-26T00:03:00Z
+    webUrl: "https://www.courant.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html"
+    ampWebUrl: "https://www.courant.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 61
+    images:
+      - url: "https://www.courant.com/resizer/-RkmdLbQY_5T6dnGwSJV5mIp7-g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JTAXB6YFGFAU7AZ5272JMTGK3I.png"
+        width: 1200
+        height: 858
   - title: "Why robots will need humans in the future"
     excerpt: "Tesla chief Elon Musk and other big-name Silicon Valley executives have long promised a car that can do all the driving without human assistance. But Ben Shneiderman, a University of Maryland computer scientist who has for decades warned against"
     publishedDateTime: 2020-05-24T20:01:00Z

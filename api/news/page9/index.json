@@ -2,6 +2,51 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-18-sogou-inc-sogo-q1-2020-earnings-call-transcript.md",
+      "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
+      "excerpt": "Sogou Inc. Q1 2020 Earnings Call May 18, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
+      "publishedDateTime": "2020-05-18T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+          "width": 580,
+          "height": 618,
+          "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-microsoft-and-fedex-team-up-against-amazon-with-new-technology-and-logistics-partnership.md",
       "title": "Microsoft and FedEx team up against Amazon with new technology and logistics partnership",
       "excerpt": "Microsoft and FedEx will work together to develop new products and services under a multiyear technology and logistics partnership announced Monday morning. The deal aligns the two corporate",
@@ -1038,51 +1083,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-no-matter-how-sophisticated-artificial-intelligence-systems-still-need-human-oversight.md",
-      "title": "No matter how sophisticated, artificial intelligence systems still need human oversight",
-      "excerpt": "AI and machine learning systems are only as good as the data we feed them. Witness the fallout from the COVID-19 crisis, which threw many AI algorithms out of whack: 'If machines are to be trusted, we need to watch over them.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
-      "publishedDateTime": "2020-05-17T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/17/8e854e40-61b9-473f-ad50-ea490c404772/asimo-honda-cropped.jpg",
-          "width": 534,
-          "height": 640,
-          "title": "No matter how sophisticated, artificial intelligence systems still need human oversight",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -2,6 +2,72 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-05-07-google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom.md",
+      "title": "Google to teach journalists power of AI, machine learning in newsroom",
+      "excerpt": "In a global survey conducted by Google last year about the use of AI by news organisations, most respondents highlighted the need to train their newsroom on the potential offered by machine learning a",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/internet/google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom/article31524236.ece",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/internet/google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom/article31524236.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/internet/google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom/article31524236.ece/amp/",
+      "publishedDateTime": "2020-05-07T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/internet/a1ffcf/article31524235.ece/ALTERNATES/LANDSCAPE_615/07NETGOOGLEJOURNO",
+          "width": 615,
+          "height": 384,
+          "title": "Google to teach journalists power of AI, machine learning in newsroom",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-talend-sas-tlnd-ceo-christal-bemont-on-q1-2020-results-earnings-call-transcript.md",
+      "title": "Talend SA's (TLND) CEO Christal Bemont on Q1 2020 Results - Earnings Call Transcript",
+      "excerpt": "Q1 2020 Earnings Conference Call May 06, 2020 4:30 PM ET Company Participants Lauren Sloane – Investor Relations Christal Bemont – C",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/article/4343962-talend-sas-tlnd-ceo-christal-bemont-on-q1-2020-results-earnings-call-transcript",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-artificial-intelligence-ai-in-supply-chain-market-sharerevenue-demand-and-forecast-to-2023.md",
       "title": "Artificial Intelligence (AI) in Supply Chain Market Share,Revenue, Demand and Forecast to 2023",
       "excerpt": "Artificial Intelligence in Supply Chain Market, By Component (Software, Network, Hardware, FPGA, GPU, ASIC), by",
@@ -1123,95 +1189,6 @@
           "width": 796,
           "height": 417,
           "title": "Corpse-detecting robots will use AI to recover bodies from the Korean War",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey.md",
-      "title": "Diversity in AI improves, but has further to go, according to IBM survey",
-      "excerpt": "Confidence in AI varies by gender and country, but generally speaking AI pros have more faith in systems than the general population.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/diversity-in-ai-improves-but-has-further-to-go-according-to-ibm-survey/",
-      "publishedDateTime": "2020-05-06T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/06/a4f48112-8f60-462b-ada5-b2b7f3aa5c9e/ibm-ai-system-design-priorities.png",
-          "width": 1013,
-          "height": 773,
-          "title": "Diversity in AI improves, but has further to go, according to IBM survey",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing.md",
-      "title": "PinkLion’s Jennifer Bonine: AI is dramatically changing game testing",
-      "excerpt": "Sponsored Presented by PinkLion.AI “Now that we’re all in this unique situation with COVID-19, do we have an opportunity to do something dramatically different together?” asked Jennifer Bonine, co-founder and CEO of PinkLion.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/pinklions-jennifer-bonine-ai-is-dramatically-changing-game-testing/amp/",
-      "publishedDateTime": "2020-05-06T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-06-at-8.50.06-AM.png?fit=2806%2C1566&strip=all",
-          "width": 2806,
-          "height": 1566,
-          "title": "PinkLion’s Jennifer Bonine: AI is dramatically changing game testing",
           "attribution": null
         }
       ],
