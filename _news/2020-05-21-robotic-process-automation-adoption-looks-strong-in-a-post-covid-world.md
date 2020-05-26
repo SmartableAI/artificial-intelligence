@@ -37,15 +37,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/robot-2301646_1280-Computerizer-Pixabay.jpg"
         width: 1280
         height: 720
-  - title: "Newtown’s Music Education Program Receives National Recognition"
-    excerpt: "Newtown has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to music education. Now in its 21st year, the Best Communities for Music Education designation is awarded to districts that demonstrate outstanding achievement in efforts to provide music access and education to all students."
-    publishedDateTime: 2020-05-21T11:00:00Z
-    webUrl: "https://www.newtownbee.com/05212020/newtowns-music-education-program-receives-national-recognition/"
-    type: article
-    provider:
-      name: The Newtown Bee
-      domain: newtownbee.com
-    quality: 4
 
 secured: "qkPOwWpYZAgyKCTIZy0n10YOzRwYz2YMrCaR57af3+zyKlEx5Rv3JArm3iCpLPP0drw+01D2l47W6/7tf/EBj17aoON+IiwYB5jlHjX8drt3+KRDGZFkbms5U2P3TchhrzD64S/ogagMWOLstezizGP9QTbFX7FeoN8Pe4mzmIMnk2CA/kipCsn5vJKrlVRr7RTYIq+AUTHWxrl+n4Hb/Nzh9kQkDfK1qc7Zi1gU5o617QorIX8Ex7/tvdNsFeAjzpL+tPgCl4hoTPRPURBKOVh8BcU6+o8RBSj4bGInftptXUy/MvxUdlqKcHkbHGuorQBe5Iggt9YHyMgDjsBZh1I2R7+fj2lAPrBkhVf181oPN7FhqYSWvTiwDLuO17FNt2UNNyRmBkcvkXlV1oNRKkremJKicH+7icNkXglWLcFR7s3Qv9YuJyqGju/5RGxQcmHwtNixgJoKIT808w1/4uo5C4/rH87gwamlU5lPSVg=;MdsFXeidMSAFkuysldLang=="
 ---

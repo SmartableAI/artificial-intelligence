@@ -95,15 +95,6 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 37
-  - title: "Bharti Airtel picks up stake in conversational AI tech startup Voicezen"
-    excerpt: "Bharti Airtel Ltd has acquired a 10% stake in Voicezen India Pvt. Ltd, an early-stage startup focused on conversational artificial"
-    publishedDateTime: 2020-05-21T10:31:00Z
-    webUrl: "https://www.vccircle.com/bharti-airtel-picks-up-stake-in-conversational-ai-tech-startup-voicezen"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 17
   - title: "Airtel acquires strategic stake in conversational AI-focused startup Voicezen"
     excerpt: "The acquisition has been made under its Airtel Startup Accelerator Programme, the company said on Thursday. Gurugram-based Voicezen has been working on developing advanced solutions that leverage machine learning,"
     publishedDateTime: 2020-05-21T13:02:00Z

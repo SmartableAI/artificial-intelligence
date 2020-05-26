@@ -86,15 +86,6 @@ related:
       - url: "https://menafn.com/updates/pr/2020-05/21/I_67c36ed7-6image_story.jpg"
         width: 369
         height: 400
-  - title: "Bharti Airtel picks up stake in conversational AI tech startup Voicezen"
-    excerpt: "Bharti Airtel Ltd has acquired a 10% stake in Voicezen India Pvt. Ltd, an early-stage startup focused on conversational artificial"
-    publishedDateTime: 2020-05-21T10:31:00Z
-    webUrl: "https://www.vccircle.com/bharti-airtel-picks-up-stake-in-conversational-ai-tech-startup-voicezen"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 17
   - title: "Airtel acquires stake in AI startup Voicezen"
     excerpt: "Indian mobile operator Airtel has acquired a stake in conversational AI-focused startup Voicezen. No financial details related to the investment have been released. Gurgaon-based Voicezen is developing services that leverage machine learning,"
     publishedDateTime: 2020-05-22T04:55:00Z

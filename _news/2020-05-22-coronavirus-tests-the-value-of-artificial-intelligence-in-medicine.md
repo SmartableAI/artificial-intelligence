@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-22T13:55:00Z
 webUrl: "https://www.fiercebiotech.com/medtech/coronavirus-tests-value-artificial-intelligence-medicine"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "Coronavirus tests the value of artificial intelligence in medicine"
 
 related:
-  - title: "Coronavirus Tests The Value Of Artificial Intelligence In Medicine"
-    excerpt: "The pandemic offers an opportunity to use artificial intelligence programs to help doctors in COVID-19 diagnosis. But some leading hospital systems have shelved their AI technology because it"
-    publishedDateTime: 2020-05-21T09:09:00Z
-    webUrl: "https://californiahealthline.org/news/coronavirus-tests-the-value-of-artificial-intelligence-in-medicine/"
-    type: article
-    provider:
-      name: California Healthline
-      domain: californiahealthline.org
-    quality: 39
-    images:
-      - url: "https://californiahealthline.org/wp-content/uploads/sites/3/2020/05/xrays.png"
-        width: 1350
-        height: 900
   - title: "COVID-19 tests the value of artificial intelligence in medicine"
     excerpt: "It has now been applied to more than 6,000 chest X-rays, and it's providing some value in diagnosis, said Hsiao, the director of UCSD's augmented imaging and artificial intelligence data analytics laboratory."
     publishedDateTime: 2020-05-22T16:03:00Z

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.newsday.com/amp/opinion/coronavirus/robots-taking-jobs-f
 cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/coronavirus/robots-taking-jobs-factory-workers-automation-coronavirus-labor-costs-1.44824777"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Newsday
@@ -26,19 +26,6 @@ images:
     title: "The robots-are-taking-our-jobs threat gets real"
 
 related:
-  - title: "Opinion: The robots-are-taking-our-jobs threat gets real"
-    excerpt: "If there was ever a good time for the robots-taking-over-jobs argument, this may be it. Not just because factory owners don’t want to pay for rising labour costs, but because workers don’t want to gather every day in petri dishes."
-    publishedDateTime: 2020-05-21T09:42:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/05/21/opinion-the-robots-are-taking-our-jobs-threat-gets-real"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/05/21/691271.jpg"
-        width: 1240
-        height: 826
   - title: "The robots-are-taking-our-jobs threat is real"
     excerpt: "The future of labor is changing, with a sharp push from COVID-19."
     publishedDateTime: 2020-05-22T22:57:00Z

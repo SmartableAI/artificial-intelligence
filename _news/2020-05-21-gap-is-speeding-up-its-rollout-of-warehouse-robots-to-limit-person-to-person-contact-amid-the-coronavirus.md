@@ -8,8 +8,8 @@ ampWebUrl: "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehou
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Business Insider
@@ -28,53 +28,6 @@ images:
     width: 1200
     height: 600
     title: "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus"
-
-related:
-  - title: "Gap rushes in more robots to warehouses to solve virus disruption"
-    excerpt: "U.S. apparel chain Gap Inc is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic, the company told Reuters."
-    publishedDateTime: 2020-05-21T10:31:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-gap-automation-foc-idUSKBN22X14Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22X14Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22X14Y"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519427977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K0SD"
-        width: 817
-        height: 545
-  - title: "Gap is rushing more robots into its warehouses to handle coronavirus disruption"
-    excerpt: "The news illustrates how the pandemic may speed up automation in the retail industry. Companies including Gap and Amazon have long used such systems for a range of tasks, like moving items across warehouse floors."
-    publishedDateTime: 2020-05-21T18:56:00Z
-    webUrl: "https://www.cnbc.com/2020/05/21/gap-rushing-more-robots-into-warehouses.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 85
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106547755-1590087185389gap.jpg?v=1590087262"
-        width: 1326
-        height: 745
-  - title: "Gap rolls out more robots to warehouses to solve coronavirus disruption"
-    excerpt: "US apparel chain Gap Inc is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic, the company told Reuters."
-    publishedDateTime: 2020-05-21T10:53:00Z
-    webUrl: "https://www.iol.co.za/technology/gadgets/gap-rolls-out-more-robots-to-warehouses-to-solve-coronavirus-disruption-48307211"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/gap-rolls-out-more-robots-to-warehouses-to-solve-coronavirus-disruption-48307211"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/gap-rolls-out-more-robots-to-warehouses-to-solve-coronavirus-disruption-48307211"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 59
-    images:
-      - url: "https://image.iol.co.za/image/1/process/5184x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/05/21/48307211/22-5-21T1637Z_1_LYNXMPEG4KSF_RTROPTP_4_HEALTH-CORONAVIRUS-GAP-AUTOMATION.JPG&operation=CROP&offset=0x270&resize=5184x2916"
-        width: 651
-        height: 366
 
 secured: "6b7k20YVs2Dd6Yib7Q9DTlDYYErgfG7uzAfSP8TZnoYmAJqo0bVSJArYGSYLsGeeSmhxQGHh5fNZVEIfad3angqd7HBbfEqj5GTKnrYCkADxhVgHVjOyEnUh4MVWOR58lCkGDtxLVFdX+/Z/IIX+I1/hR6tv2KL1BugyvH47ZTru3Jui7cMn+WFb4294q2BcdGd5b9KI0bYbmAfn7Y0ySQxhTRY0/nPDQpIDiBYmX4LLGfuplRKo2P9r4u5C9Slz8qPZdVrUwepnpIizT3CD0bDW+xkw3yd456JTsxmSnOjS5WktSMOpxRWkE9YfV4QZQi2/q07BsQX8p+suTJTcw7L8FBc1D+HC4V/D8wgc0l4C6ZxtRI3JteVl/8xAN3006jmS2RWZWTGEvf17MtVs1N5tOG2Kp3BMAcrKrdE2fkWeaGk8Uu9kkZqftF2J6u+icm5MvP2PrpGqKO+L3VDBDOASf7ZJNSd+JT0FANiS97g=;MllTyIE4OQ1giRcS4BvQVA=="
 ---

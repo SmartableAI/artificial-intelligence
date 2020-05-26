@@ -24,19 +24,6 @@ images:
     title: "COVID-19 tests the value of artificial intelligence in medicine"
 
 related:
-  - title: "Coronavirus Tests The Value Of Artificial Intelligence In Medicine"
-    excerpt: "The pandemic offers an opportunity to use artificial intelligence programs to help doctors in COVID-19 diagnosis. But some leading hospital systems have shelved their AI technology because it"
-    publishedDateTime: 2020-05-21T09:09:00Z
-    webUrl: "https://californiahealthline.org/news/coronavirus-tests-the-value-of-artificial-intelligence-in-medicine/"
-    type: article
-    provider:
-      name: California Healthline
-      domain: californiahealthline.org
-    quality: 39
-    images:
-      - url: "https://californiahealthline.org/wp-content/uploads/sites/3/2020/05/xrays.png"
-        width: 1350
-        height: 900
   - title: "Coronavirus tests the value of artificial intelligence in medicine"
     excerpt: "The machine-learning programs scroll through millions of pieces of data to detect patterns that may be hard for clinicians to discern. Yet few of the algorithms have been rigorously tested against standard procedures."
     publishedDateTime: 2020-05-22T13:55:00Z

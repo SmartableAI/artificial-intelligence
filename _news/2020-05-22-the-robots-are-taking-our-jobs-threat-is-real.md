@@ -39,19 +39,6 @@ related:
       - url: "https://cdn.newsday.com/polopoly_fs/1.44824778.1590091035!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
         width: 1280
         height: 719
-  - title: "Opinion: The robots-are-taking-our-jobs threat gets real"
-    excerpt: "If there was ever a good time for the robots-taking-over-jobs argument, this may be it. Not just because factory owners don’t want to pay for rising labour costs, but because workers don’t want to gather every day in petri dishes."
-    publishedDateTime: 2020-05-21T09:42:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/05/21/opinion-the-robots-are-taking-our-jobs-threat-gets-real"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/05/21/691271.jpg"
-        width: 1240
-        height: 826
 
 secured: "C9+YXCiEwP8wNhrKDSFpfn89pdQq+yW7thO0CLMpZYaqNoL+jMOxWsu0uO6b6WeDoah8eqh/46oH5AAjaUsXlK/wFW/14CgkymB5yvfDYVLs4WXu8e1407HFMFhbEgJe5T0Ll5/xsCbjTzcj0HiqzfYb0dauzNIJFJoYAkrSb98AB7jfRUBL1NbO6nAmlWJ38zChGDTXl02H68MwB7hNKSgnbkH7FG4GTGqJNDgaB60Kqksu9i3+eGJ97lwhjZmMSAKlcayCttoKR/GEOwzrSdfiHxFAdPwPfJuEp6IoJl2Uv2jNKXhbg0Ab3VolyZU/1p2tOPjqVgCEEqbWxJo+LZHZ+csCFNIlm7LC7VEar/9YgCwngDNyojXYhGl5xMcEGU2T2DN8W1dJ0+vUWT/9HtSmQBwKDjBrszvXXcygsaFvZqGMp5SZ2nafyVYE1D53voeOPIVDq/RFW/kP2uHctb9pXJuJkz5ITy/uhvzmhSI=;o/58MTBd/34lqfjIvwh9cQ=="
 ---

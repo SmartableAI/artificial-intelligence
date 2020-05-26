@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.in/business/news/airtel-acquires-10-stak
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms"
 type: article
 quality: 57
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 37
-  - title: "Bharti Airtel picks up stake in conversational AI tech startup Voicezen"
-    excerpt: "Bharti Airtel Ltd has acquired a 10% stake in Voicezen India Pvt. Ltd, an early-stage startup focused on conversational artificial"
-    publishedDateTime: 2020-05-21T10:31:00Z
-    webUrl: "https://www.vccircle.com/bharti-airtel-picks-up-stake-in-conversational-ai-tech-startup-voicezen"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 17
   - title: "Airtel acquires stake in AI startup Voicezen"
     excerpt: "Indian mobile operator Airtel has acquired a stake in conversational AI-focused startup Voicezen. No financial details related to the investment have been released. Gurgaon-based Voicezen is developing services that leverage machine learning,"
     publishedDateTime: 2020-05-22T04:55:00Z
