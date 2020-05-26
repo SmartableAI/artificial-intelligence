@@ -23,6 +23,6 @@ images:
     height: 675
     title: "Stats Perform’s Nancy Hensley: ‘Everything's Got More Room for Growth With AI’"
 
-secured: "0XYks/rOhacGk7X/xHwrI/OJPmwdS2qdb8vnrgSQEBNN5nZRPc2sY9tDJIXhG8629ggvA8+Q/TUighRHZDierdepICmArcZtGtxukDUUURGJJYt/+hcGwuB0U68Xa9S4yDLyihINYHFwsBkVROTdLKnADBnyf6pT0oGaIMbhQ44k+22xOga8fW4BxketlLkREr74f3NCWeUUrH3b7lldJ8dJ/yw7v9PVopupkMfKs9F18RCVUq23CRwB7TwT5WCz01zsswN/vMEl/eJkd4K3zVDITWZE3g5ZwjX/tj+73DnVYYsTeugtDaL3c9+nRh0z;I+ucJbFAdG1+Ewjk0zgnCQ=="
+secured: "QsJRxlgyVlhHpJHa8K2n8CWnzm22X3p8zV9jjEHIhbpvMxNK/dXTh12153NvOn2QMSAU4kMJj2a6sTk6+s78ja5AgTmDueBHLpqB5uRHMBVAQwLPGgemcTx07BituqZ3dYEiGFHYOcSOWyuvgDeqj7jnV5F5eb40QUuZPQiZO2FcYi/jIhs5zzm2dz1XP7ai+z+8YvG8iXm5IsxWO+46Q4dhf/QEhX1O91H6bMlgajzt63MuQ7duJNZf2/An041oqwsiDh2ISwXsuV1wG1aOmGUZnpUbGHPY4OtOSwyJbXa8cJD0EuxWeVrVvaqN1z/KCG2ap9KOj0emT88+MvEJhd6vrl3YY8EvEn9fiEyjKp1MfEer9851fePT75di5wFsy7JQbNX9O4HRHbZQa5+4JgfltZ3C3fYod0gZ0YmlzVf/3oH0xc1NAmv9uTybqbxeiSPTyWPxI0Uco7iV9f7eWX+Db2qvuiBW6bBlIK0Jvz4=;we0g4EuwfiVSaMNt1jcQ9A=="
 ---
 

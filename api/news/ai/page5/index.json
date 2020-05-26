@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-20-microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine.md",
+      "title": "Microsoft’s new supercomputer will unlock AI opportunities that are ‘hard to even imagine’",
+      "excerpt": "The supercomputer was built in partnership with and will be exclusively used by OpenAI, a San Francisco-based firm dedicated to the ethical implementation of AI. According to a Microsoft blog, the design of its supercomputer was informed by new developments in the field of AI research,",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/au/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine",
+      "publishedDateTime": "2020-05-20T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XBZBxbuMHoHZsPHfA6NZtU-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Microsoft’s new supercomputer will unlock AI opportunities that are ‘hard to even imagine’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-robots-deployed-to-help-bahrains-frontline-workers-in-virus-fight.md",
+      "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
+      "excerpt": "One of the robots also speaks 12 different languages and can identify patients through facial recognition. Health Ministry Under-Secretary Dr Waleed Al Manea said yesterday that this was their first time foraying into Artificial Intelligence (AI) and using it to fight the pandemic. “We have started using the robots in the isolation and ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Robots_deployed_to_help_Bahrains_frontline_workers_in_virus_fight-SNG_174983408/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_174983408/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_174983408/",
+      "publishedDateTime": "2020-05-20T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools.md",
+      "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
+      "excerpt": "Microsoft has announced a slew of up updates to its hybrid cloud platform at its Build 2020 developer conference, which is taking place virtually this year due to the COVID-19 pandemic.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
+      "publishedDateTime": "2020-05-20T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/12/eab3af76-ea24-4a96-a295-3f7c8c9ecc01/thumbnail/1200x675/be8b004c9ec9810ed8d5affdb497ccc9/istock-990892848.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
       "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
       "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
@@ -92,43 +221,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-20-lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19.md",
-      "title": "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19",
-      "excerpt": "Food processors, farms, medical offices, and plant nurseries are among small businesses turning to face recognition employee time clocks for contactless clocking in and out during COVID-19. Lathem's FaceIN face recognition time clocks for employee time and attendance are experiencing an uptick in sales – 5:1 over Lathem's fingerprint clocks - as employers seek contactless solutions for essential employees on the job and others returning to work.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lathem-s-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19-1029218541",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/lathem-s-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19-1029218541",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lathem-s-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19-1029218541",
-      "publishedDateTime": "2020-05-20T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker.md",
       "title": "Alibaba to invest $1B on AI integration with smart speaker",
       "excerpt": "Chinese e-commerce giant will use the funds to bolster its artificial intelligence and Internet of Things ecosystem that supports Tmall Genie, including linking more content and services from Alibaba's wider ecosystem that spans entertainment,",
@@ -172,6 +264,35 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19.md",
+      "title": "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19",
+      "excerpt": "Contactless Employee Time and Attendance Joins Face Masks, Gloves and Social Distancing for Employee Health and Safety Return to Work ATLANTA (PRWEB)",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/p16072620/lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16072620",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072620",
+      "publishedDateTime": "2020-05-20T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1155,142 +1276,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models.md",
-      "title": "Microsoft launches new tools for building fairer machine learning models",
-      "excerpt": "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
-      "publishedDateTime": "2020-05-19T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Microsoft launches new tools for building fairer machine learning models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
-      "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
-      "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
-      "heat": 152,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/",
-      "publishedDateTime": "2020-05-19T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024",
-          "width": 1024,
-          "height": 652,
-          "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-synapse-link-anchors-microsofts-new-big-data-analytics-capabilities.md",
-      "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
-      "excerpt": "During its Build 2020 conference, Microsoft announced a number of products targeting enterprises engaged in big data, including Azure Synapse Linke.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/19/azure-synapse-link-anchors-microsoft-big-data-analytics-capabilities/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

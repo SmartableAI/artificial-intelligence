@@ -536,6 +536,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-21-a-case-for-cooperation-between-machines-and-humans.md",
+      "title": "A Case for Cooperation Between Machines and Humans",
+      "excerpt": "A computer scientist argues that the quest for fully automated robots is misguided, perhaps even dangerous. His decades of warnings are gaining more attention.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
+      "publishedDateTime": "2020-05-21T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/30/business/30hybrid/01hybrid-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "A Case for Cooperation Between Machines and Humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-heres-why-elon-musk-keeps-raising-the-price-of-teslas-full-self-driving-option.md",
       "title": "Here’s why Elon Musk keeps raising the price of Tesla’s ‘Full Self-Driving’ option",
       "excerpt": "Driving” version of its Autopilot driver assistance package by around $1,000 on July 1st, CEO Elon Musk announced on Twitter this week. The company has done this before — a few times. It will probably do it again.",
@@ -1244,51 +1289,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-price-as-elon-musk-sees-value-rise-to-100k.md",
-      "title": "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k",
-      "excerpt": "Driving’ package again as Elon Musk now evaluates the value of the completed version of the package at over $100,000. Over the years, much has been said about how Tesla is approaching self-driving technology differently from the rest of the auto industry.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/",
-      "ampWebUrl": "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/",
-      "publishedDateTime": "2020-05-18T18:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 497,
-          "title": "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

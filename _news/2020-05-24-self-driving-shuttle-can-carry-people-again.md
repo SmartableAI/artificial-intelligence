@@ -24,19 +24,6 @@ images:
     title: "Self-driving shuttle can carry people again"
 
 related:
-  - title: "Self-Driving Shuttle Cleared to Resume Carrying People"
-    excerpt: "WASHINGTON (AP) — A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
-    publishedDateTime: 2020-05-21T15:59:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21134437/selfdriving-shuttle-cleared-to-resume-carrying-people"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/05/16x9/AP20141782919761.5ec69846bccce.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
   - title: "U.S. Agency Lets Self-Driving Shuttle Resume Carrying People"
     excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions."
     publishedDateTime: 2020-05-21T19:37:00Z

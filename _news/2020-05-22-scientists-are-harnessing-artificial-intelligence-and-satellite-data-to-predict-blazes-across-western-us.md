@@ -24,19 +24,6 @@ images:
     height: 480
     title: "Scientists are harnessing artificial intelligence and satellite data to predict blazes across Western US"
 
-related:
-  - title: "Mapping dry wildfire fuels with AI and new satellite data"
-    excerpt: "As California and the American West head into fire season amid the coronavirus pandemic, scientists are harnessing artificial intelligence and new satellite data to help predict blazes across the region."
-    publishedDateTime: 2020-05-21T15:05:00Z
-    webUrl: "https://phys.org/news/2020-05-wildfire-fuels-ai-satellite.html"
-    ampWebUrl: "https://phys.org/news/2020-05-wildfire-fuels-ai-satellite.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-05-wildfire-fuels-ai-satellite.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 37
-
 secured: "83ufExQefTQ3FocxSZ23HqQIBfnvbmWCThVJDwvqhHpv/fX6I51yjCim63f2L27TDZQfbY0yMj76ubYNwPrXpwazOijCQlM/QOVlspooe6CEwdpe0rUMfs5kHGREsjYmSmzdKInl8Tg1Io+OOmuZo0o7uWXyU/rb+U4bKstnSPhgB40n+Xl57vpCgqAOqGc3bWo30nMwA4xPZ2wafliSuUzso8KW0RWRc8qnKPdukN2Zu7PT1SPqdMn9YtcsF/iOqOYlrqCdkkBKCWVqxc8H4AeCMjnbGsXoi0iMqqskTlLTfkGphAq10UPMnftAXQ3Q;69PzGFFToijrJ5TxFLydrQ=="
 ---
 

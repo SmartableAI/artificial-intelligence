@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-26-scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision.md",
+      "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
+      "excerpt": "Scandit, a company that develops mobile barcode scanning and computer vision technology, has raised $80 million in a series C round of funding.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
+      "publishedDateTime": "2020-05-26T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Scandit-Retail-Product-Rating.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-rico-gear-using-artificial-intelligence-to-create-rugby-training-app.md",
       "title": "Rico Gear using artificial intelligence to create rugby training app",
       "excerpt": "Gear, who played 20 Tests for the All Blacks, is setting up an app to help players improve, but with so many training apps on the market his point of difference is using artificial intelligence. \"The artificial intelligence is going to get to the point where to show the difference between elite and beginner and everything in between,",
@@ -41,7 +86,7 @@
       "path": "_news/2020-05-26-the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker.md",
       "title": "The Bundesliga Is Using Cloud And AI To Power New Stats For ‘Der Klassiker’",
       "excerpt": "Borussia Dortmund v Bayern Munich will be the first Bundesliga broadcast to offer xGoals and Average Position 'Match Facts' to viewers, powered by AWS infrastructure",
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/",
@@ -1035,50 +1080,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown.md",
-      "title": "AI proves it’s a poor substitute for human content checkers during lockdown",
-      "excerpt": "Major social media companies have replaced many of their human content moderators with AI during the pandemic. And the results aren't encouraging.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/amp/",
-      "publishedDateTime": "2020-05-23T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ai_news.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 822,
-          "title": "AI proves it’s a poor substitute for human content checkers during lockdown",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,23 +1,21 @@
 ---
 category: news
 title: "Computer vision helps scientists study lithium ion batteries"
-excerpt: "New machine learning methods bring insights into how lithium ion batteries degrade, and show it's more complicated than many thought. Lithium-ion batteries lose their juice over time, causing ..."
-publishedDateTime: 2020-05-08T00:00:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/05/200508083542.htm"
+excerpt: "Of course, it's a tall order for humans to figure out what's going on just by looking at pictures of an NMC cathode, so the team turned to computer vision, a subfield of machine learning ..."
+publishedDateTime: 2020-05-08T10:13:00Z
+webUrl: "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.html"
+ampWebUrl: "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Computer Vision
   - AI
 
-secured: "MxHUopC8RgppL/bcxHEpFBkV2swbJc75H2oCPzFMMIYObn1rhcGmbULlVQpWVhW22cN5i/dLKZYTJ3S5ducG1uRqliZS377CYngtvfDKkffxHRxtNCWBbsn2MENW0RC4m7LQME5uV7I2PCbxs31RbsMPci9LYGER35GNVC5lXKYpYZmykDemn4n3M6BXO8SG/w/SOTDqdv8iDfi7v1qmEBEL082mYAFg27Rs7hCtsPSjS5VaHBKS0kSopFjfaNn7jGJ4DlQQeuchjnJb1VzZHQyA5MdyZVerdeaCo4seZyxozkmUfWoDppQHSHsUP13w;eLpSYandOPJMdm1vxCLwVw=="
+secured: "xYJPz75NCjuSzLhcW8V19vE6+mpiaj4K2yexV+1P+N5Ec6raIT7M5/wonIS8xlkDbcIHj/UVZqW/YrXJxENXWLiefn5OhOPC70fblxl/4Hrgs6jAuXsLeZQepkkGbbwX8NQxQQBTuMPNsKhX3nsYOS9qnYKqZJKYRj1i2mYXkQ4K6IhE7pUIKWdS8v0Ttz52DgcC6WhRLB1VHjPgke21wLgEkgnvaSfKVL0pWMdVoT8dV9xuDpLFXIzpar8//HSipczkNo+SqbE6Hcf6fVrneMX4o9qP3CEc4OEqX+Cc44e4lu4weWk81+ZDL0/Xqzfu;rOw5houhYviHMazB1jD/DA=="
 ---
 

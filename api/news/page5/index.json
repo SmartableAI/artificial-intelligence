@@ -2,6 +2,141 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-20-face-mask-selfies-are-being-used-to-retrain-facial-recognition-systems.md",
+      "title": "Face mask selfies are being used to retrain facial recognition systems",
+      "excerpt": "Millions of people started wearing face masks in public settings after the Centers for Disease Control and Prevention (CDC) recommended doing so last month to help slow the spread of Covid-19 when social distancing measures are difficult to maintain.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html",
+      "publishedDateTime": "2020-05-20T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-18.jpg",
+          "width": 1500,
+          "height": 1125,
+          "title": "Face mask selfies are being used to retrain facial recognition systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network.md",
+      "title": "Shopify intros Balance debit card for SMBs, expands access to AI fulfillment network",
+      "excerpt": "E-commerce platform provider Shopify on Wednesday unveiled a new financial service for its small business merchants that aims to consolidate business transactions and cash flows into a single business account.",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
+      "publishedDateTime": "2020-05-20T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/18/9c02bf5f-14b2-4c9a-81fb-c41203e8a625/thumbnail/1200x675/497b2a0ce40b8724b624d72a84bd65e2/patrick-tomasso-nwvwbv0sv04-unsplash.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Shopify intros Balance debit card for SMBs, expands access to AI fulfillment network",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-search-engines-are-leveraging-ai-to-improve-their-language-understanding.md",
+      "title": "Search engines are leveraging AI to improve their language understanding",
+      "excerpt": "Increasingly, search engines like Bing and Google are leveraging AI and machine learning to improve the quality of results.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/20/search-engines-google-bing-are-leveraging-ai-to-improve-their-language-understanding/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Search engines are leveraging AI to improve their language understanding",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars.md",
       "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
       "excerpt": "Via the advent of Machine Learning (ML) and Deep Learning (DL), many of these AI applications are intended to adjust on-the-fly and tailor themselves in real-time to the efforts they were designed to meet.",
@@ -925,134 +1060,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-us-semiconductor-giant-shuts-china-factory-hailed-as-a-miracle-in-blow-to-beijings-chip-plans.md",
-      "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
-      "excerpt": "The winding down of GlobalFoundries’ only Chinese facility was due to poor planning, analysts said, but comes at a time of rising US-China tech tensions.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
-      "ampWebUrl": "https://amp.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
-      "publishedDateTime": "2020-05-20T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/20/607f15f4-9a53-11ea-96ff-7aff439fc3be_image_hires_142028.jpg?itok=h3FEcWGp&v=1589955637",
-          "width": 1200,
-          "height": 630,
-          "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19.md",
-      "title": "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19",
-      "excerpt": "Food processors, farms, medical offices, and plant nurseries are among small businesses turning to face recognition employee time clocks for contactless clocking in and out during COVID-19. Lathem's FaceIN face recognition time clocks for employee time and attendance are experiencing an uptick in sales – 5:1 over Lathem's fingerprint clocks - as employers seek contactless solutions for essential employees on the job and others returning to work.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lathem-s-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19-1029218541",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/lathem-s-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19-1029218541",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lathem-s-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19-1029218541",
-      "publishedDateTime": "2020-05-20T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker.md",
-      "title": "Alibaba to invest $1B on AI integration with smart speaker",
-      "excerpt": "Chinese e-commerce giant will use the funds to bolster its artificial intelligence and Internet of Things ecosystem that supports Tmall Genie, including linking more content and services from Alibaba's wider ecosystem that spans entertainment,",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
-      "publishedDateTime": "2020-05-20T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/20/a4c65357-021e-45d8-bf8e-cd3831167937/thumbnail/1200x675/871569821e3baf939ac18c93fecddce5/tmall-logo.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Alibaba to invest $1B on AI integration with smart speaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

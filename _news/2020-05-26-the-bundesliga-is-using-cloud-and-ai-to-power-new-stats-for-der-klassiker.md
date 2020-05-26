@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundeslig
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,23 @@ images:
     height: 752
     title: "The Bundesliga Is Using Cloud And AI To Power New Stats For ‘Der Klassiker’"
 
-secured: "UhfFYOClU7s/K8VBNkv9soMp8QSetEJpmaEiTgvz+OBI/RYo7ILej3QeRqh3KsWqaqjFoLalKNlYRpTeJEJRTnKijt6nDrpnlUXAVp/83+rzS8BOJCpSP2wE2S26wJq4qzkA1G2ps0lGNzhE6yO3VCqPR4r1Zl7pVHmJxlZ+yJDSe1B+qRSxjVIffMUiZW3b7QDzmUPY8zPSLEdbKWG/I905mLSrPZzWyExXB6CpvqJOPy/itQd34heHEQwljTUngeFr9tjI/SO/WaY5YERZiVYHeo/bg7/9Z8viXL0fOmDd4RwGCnRj6TmKNlo9yO05;IWB86MSyftFTdslsvNPB/A=="
+related:
+  - title: "AWS, Bundesliga to debut real-time game analysis during Dortmund v Bayern"
+    excerpt: "Amazon Web Services and Bundesliga will debut their new real-time game analysis during tonight’s match between Borussia Dortmund and Bayern Muenchen. Bundesliga Match Facts offers fans two news sets of stats,"
+    publishedDateTime: 2020-05-26T09:52:00Z
+    webUrl: "https://www.tvbeurope.com/live-production/aws-bundesliga-to-debut-real-time-game-analysis-during-dortmund-v-bayern"
+    ampWebUrl: "https://www.tvbeurope.com/live-production/aws-bundesliga-to-debut-real-time-game-analysis-during-dortmund-v-bayern?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/live-production/aws-bundesliga-to-debut-real-time-game-analysis-during-dortmund-v-bayern?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 58
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2020/05/Bundesliga-Match-Facts-2.jpg"
+        width: 695
+        height: 391
+
+secured: "CYCfTm9QWE5qp/WDMJUx1DLJD0fmj/aExjdA5PRrvjE3qAf7Kxfro/CAhCRNu7AIeesSowq4a3PWAwqtGAVi2cTzqytjKGe2n864p9ND8TGSs6Fpj9yQxYCHokEJkvFPA372F+3S7UgYSC65bDRlHh+HJ7lixrZMbhKuuv/9a594D5EEc/AxEJofDoui8N09qojBAUZz7Zc0jd42qfblq2Jg29RfcW3uL6VIk68JYlFz2+HIHMyWXGey0g6+Dpry4XjSLHfpNLWm4wC+CV6mKFI8bdDc0E3lg+NXyZmmmcji8HMg/no1yu2WpR74j0I2JWkvSsvXC6trt39oG9PI0MtX2FMaBEMtg+bzTexP7ZZ97PQQ/g3Lf1DBExqupIAHTSivtzXrh19ES/vc/W0hgsRWoWi/lBMhZE7l6VV/HwYEPBvUVB2Tqy6niAbIY8dujYIrB5TDskM7h53auUHyy1Od1AjKLz64d1aqjvDzq3Y=;K9+9rBN8AbcfzEvML+HWKw=="
 ---
 

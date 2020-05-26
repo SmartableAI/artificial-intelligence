@@ -2,6 +2,89 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-10-tech-trick-easily-turn-your-handwritten-notes-into-typed-text.md",
+      "title": "Tech trick: Easily turn your handwritten notes into typed text",
+      "excerpt": "According to a blog post from Google itself, the acclaimed object recognition tool will now be able to pick up your handwriting and transcribe it into digital text. No, we’re not talking about ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/",
+      "ampWebUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
+      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
+      "publishedDateTime": "2020-05-10T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kim Komando",
+        "domain": "komando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.komando.com/wp-content/uploads/2020/05/dreamstime_m_145621473-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Tech trick: Easily turn your handwritten notes into typed text",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-understanding-the-recognition-pattern-of-ai.md",
+      "title": "Understanding The Recognition Pattern Of AI",
+      "excerpt": "Of the seven patterns of AI that represent the ways in which AI is being implemented, one of the most common is the recognition pattern.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/",
+      "publishedDateTime": "2020-05-09T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1032667470%2F0x0.jpg",
+          "width": 1200,
+          "height": 584,
+          "title": "Understanding The Recognition Pattern Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-roborock-s6-maxv-review-it-can-find-and-avoid-your-socks.md",
       "title": "Roborock S6 MaxV Review: It can find and avoid your socks",
       "excerpt": "It’s worth a look if you don’t need (or want) high-end room-mapping and object-recognition features. There’s a lot of tech crammed into this one, so it would be no surprise for people to be ...",
@@ -150,6 +233,35 @@
       ]
     },
     {
+      "path": "_news/2020-05-08-computer-vision-helps-scientists-study-lithium-ion-batteries.md",
+      "title": "Computer vision helps scientists study lithium ion batteries",
+      "excerpt": "Of course, it's a tall order for humans to figure out what's going on just by looking at pictures of an NMC cathode, so the team turned to computer vision, a subfield of machine learning ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.html",
+      "ampWebUrl": "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.amp",
+      "publishedDateTime": "2020-05-08T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-clearview-ai-claims-its-facial-recognition-tech-isnt-for-private-companies.md",
       "title": "Clearview AI claims its facial recognition tech isn't for private companies",
       "excerpt": "Clearview AI responded to a lawsuit over its facial recognition tech by claiming that it's cancelling the accounts of anyone not in law enforcement or affiliated with a government agency. The company built its database with images scraped from social media.",
@@ -238,43 +350,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-computer-vision-helps-scientists-study-lithium-ion-batteries.md",
-      "title": "Computer vision helps scientists study lithium ion batteries",
-      "excerpt": "New machine learning methods bring insights into how lithium ion batteries degrade, and show it's more complicated than many thought. Lithium-ion batteries lose their juice over time, causing ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200508083542.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1076,88 +1151,6 @@
           "width": 3300,
           "height": 2550,
           "title": "Deltec Bank Says – Computer Vision will help in fraud prevention, data extraction, and the overall user experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-how-russia-is-using-facial-recognition-to-police-its-coronavirus-lockdown.md",
-      "title": "How Russia is using facial recognition to police its coronavirus lockdown",
-      "excerpt": "Bykovsky said officers told him he had been spotted on a camera set up on the front door of his apartment building and identified through a facial recognition system, which had then alerted them.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://abcnews.go.com/International/russia-facial-recognition-police-coronavirus-lockdown/story?id=70299736",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/russia-facial-recognition-police-coronavirus-lockdown/story?id=70299736",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/russia-facial-recognition-police-coronavirus-lockdown/story?id=70299736",
-      "publishedDateTime": "2020-04-30T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/moscow-phone-pass-nc-jc-200424_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": "How Russia is using facial recognition to police its coronavirus lockdown",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask.md",
-      "title": "With IOS 13.5 Public Beta 2, Face ID Can Recognize When You're Wearing A Mask",
-      "excerpt": "The iOS 13.4.5 Public Beta cycle had been anything but normal. First, developers got the beta a week before Public Beta testers (that usually only happens when a brand-new version of iOS is released).",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/anthonykarcz/2020/04/29/with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask/",
-      "ampWebUrl": "https://www.forbes.com/sites/anthonykarcz/2020/04/29/with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2020/04/29/with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask/amp/",
-      "publishedDateTime": "2020-04-29T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x399/https://specials-images.forbesimg.com/imageserve/5eaa056a12fcd40006de04b7/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 399,
-          "title": "With IOS 13.5 Public Beta 2, Face ID Can Recognize When You're Wearing A Mask",
           "attribution": null
         }
       ],

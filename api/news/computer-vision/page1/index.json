@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-26-scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision.md",
+      "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
+      "excerpt": "Scandit, a company that develops mobile barcode scanning and computer vision technology, has raised $80 million in a series C round of funding.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
+      "publishedDateTime": "2020-05-26T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Scandit-Retail-Product-Rating.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-24-china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face.md",
       "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
       "excerpt": "Hello and welcome back to TechCrunch’s China Roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. It’s been a tumultuous week for Chinese tech firms abroad: Huawei’s mounting pressure from the U.",
@@ -241,6 +286,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-20-facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-china.md",
+      "title": "Facial recognition tech reunites missing child, parents after 32 years in China",
+      "excerpt": "Investigators used facial recognition technology to analyze an old photo of Mao as a boy and came up with a simulated image of him as an adult.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbc15.com/content/news/Facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-China-570602011.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC15",
+        "domain": "nbc15.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.graytvinc.com/images/aa413.jpg",
+          "width": 700,
+          "height": 400,
+          "title": "Facial recognition tech reunites missing child, parents after 32 years in China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-ios-135-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing.md",
       "title": "iOS 13.5 released: Faster unlock with face masks plus COVID-19 contact tracing",
       "excerpt": "Apple has released iOS 13.5, bringing exposure notification for COVID-19 contact tracing as well as a quicker way to unlock your iPhone when you’re wearing a face mask. Released as a gold",
@@ -415,27 +497,19 @@
     {
       "path": "_news/2020-05-20-lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19.md",
       "title": "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19",
-      "excerpt": "Food processors, farms, medical offices, and plant nurseries are among small businesses turning to face recognition employee time clocks for contactless clocking in and out during COVID-19. Lathem's FaceIN face recognition time clocks for employee time and attendance are experiencing an uptick in sales – 5:1 over Lathem's fingerprint clocks - as employers seek contactless solutions for essential employees on the job and others returning to work.",
+      "excerpt": "Contactless Employee Time and Attendance Joins Face Masks, Gloves and Social Distancing for Employee Health and Safety Return to Work ATLANTA (PRWEB)",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lathem-s-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19-1029218541",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/lathem-s-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19-1029218541",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lathem-s-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19-1029218541",
-      "publishedDateTime": "2020-05-20T02:16:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/p16072620/lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16072620",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072620",
+      "publishedDateTime": "2020-05-20T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1167,89 +1241,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-10-tech-trick-easily-turn-your-handwritten-notes-into-typed-text.md",
-      "title": "Tech trick: Easily turn your handwritten notes into typed text",
-      "excerpt": "According to a blog post from Google itself, the acclaimed object recognition tool will now be able to pick up your handwriting and transcribe it into digital text. No, we’re not talking about ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/",
-      "ampWebUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
-      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
-      "publishedDateTime": "2020-05-10T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kim Komando",
-        "domain": "komando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.komando.com/wp-content/uploads/2020/05/dreamstime_m_145621473-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Tech trick: Easily turn your handwritten notes into typed text",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-09-understanding-the-recognition-pattern-of-ai.md",
-      "title": "Understanding The Recognition Pattern Of AI",
-      "excerpt": "Of the seven patterns of AI that represent the ways in which AI is being implemented, one of the most common is the recognition pattern.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/",
-      "publishedDateTime": "2020-05-09T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1032667470%2F0x0.jpg",
-          "width": 1200,
-          "height": 584,
-          "title": "Understanding The Recognition Pattern Of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

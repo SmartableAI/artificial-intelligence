@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-price-as-elon-musk-sees-value-rise-to-100k.md",
+      "title": "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k",
+      "excerpt": "Driving’ package again as Elon Musk now evaluates the value of the completed version of the package at over $100,000. Over the years, much has been said about how Tesla is approaching self-driving technology differently from the rest of the auto industry.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/",
+      "ampWebUrl": "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/",
+      "publishedDateTime": "2020-05-18T18:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 497,
+          "title": "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-go-x-is-unleashing-100-self-driving-scooters-on-a-large-georgia-business-park.md",
       "title": "Go X is unleashing 100 self-driving scooters on a large Georgia business park",
       "excerpt": "These scooters will be summonable by riders and return to a centralized charging and sanitization area when done.",
@@ -1235,51 +1280,6 @@
           "width": 400,
           "height": 400,
           "title": "WSJ’s The Future of Everything",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-waymos-self-driving-vans-ready-to-roll-after-covid-19-shutdownbut-no-robotaxi-rides.md",
-      "title": "Waymo’s Self-Driving Vans Ready To Roll After COVID-19 Shutdown–But No Robotaxi Rides",
-      "excerpt": "A portion of the Alphabet Inc. company’s easy to spot Chrysler Pacifica minivans will be on the road again from May 11.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/07/waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides/",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/07/waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/05/07/waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides/amp/",
-      "publishedDateTime": "2020-05-07T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb47f7d835fec0006764e53%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Waymo’s Self-Driving Vans Ready To Roll After COVID-19 Shutdown–But No Robotaxi Rides",
           "attribution": null
         }
       ],

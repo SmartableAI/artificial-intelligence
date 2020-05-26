@@ -1,21 +1,19 @@
 ---
 category: news
 title: "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases"
-excerpt: "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design AAV vectors -- CAMBRIDGE ..."
-publishedDateTime: 2020-05-11T11:06:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15998024"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024"
+excerpt: "Dyno Therapeutics is a pioneer in applying artificial intelligence (AI) and quantitative high-throughput in vivo experimentation to gene therapy. The company’s proprietary CapsidMap™ platform ..."
+publishedDateTime: 2020-05-11T00:00:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/05/11/2030949/0/en/Sarepta-Therapeutics-and-Dyno-Therapeutics-Announce-Agreement-to-Develop-Next-Generation-Gene-Therapy-Vectors-for-Muscle-Diseases.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "MF/tEmEdaUoKVe9jTLoMxpv7hp2O2Gfss3qptBLe/9FEr4fuOvaC2Rv1Z+8Nhd6tSWzc4sX61EuqTFL7KUun3SxRsuul/bXGY4XNWfJ4YSNpYDT4lNFNIWayKtVY5bFRhS/48JWqI8esfb8DspBvxOiby93dMJY1ALlgruo274WESdqlqQ/7pQaVEdnFDNvbHFgm+vLhFdtBduEWHdZOI5urbHoJRLgdB5/E4hb9P/LxgBH8TS47veeVc+InuNSS44ufyWsIlZttSAZcAp7HQDZ1D3vTblXKrfXiufGpvI7samNhOjHXbUWU9e9YMXGn;V46emGFm4dI1DOSghoDTBg=="
+secured: "m9h35O+izQC4RnIs6Y6b6KKDjRpYY2OkDQ3xHi2K1+cDOXZkm1uNnUIq+9BgebzQWmznZfedUbuwJBCkMtcy7hAl5b4cRSD4QbhKUkLHCorwLpfQknLALpVf/mO/Ol8jMeZvnNWuCJ5sB8Qwq5x6A5lTZZ0Dvcog8jret9bt30wIR/GTyLIWVNlcZ6rfD8HtibBqTJp5xwKtYHOE0P7rOiN4NEV1SBRXdHPtKfRRvJfnOc4nrwo1rBrhqObNbLBygLIPf8Dj4SuJBn3VJGR2ABm1Tca4O2bTEtRUjTkSyMacdQw0IRa8xsxWuGQOaw4V;zFUhhKy5Ee919MlYYTIGSQ=="
 ---
 
