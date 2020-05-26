@@ -23,6 +23,6 @@ images:
     height: 640
     title: "Top Artificial Intelligence Trends that will Change the Decade"
 
-secured: "YUy7gFxphwXCOXsL03MqEwUjbTx4sm3LeyAmtGt3Lvx5J/AsgpAolVYUsz90cwbJgbvtRdzUh8ce0hLcT+d/edQkjV/oUTFXWuA+N/rcOOkza7lnD5EqcNY9yW+qG/7F9xa1LSZyZdyLX5EfQA5ICX8Kio0ztfUCeaQAMW8wMSdbzHfjRTR0aMrhju+f+TemV0HSGI0GxJDmC65Au4K0wb8xool/Xv/8I+J6eOUFNWoKcHrMnpwEAOBAEjelC9o3tnn6AYiYw/q/k+V05ddrfOijcR9RPRhSB3eXxLH8VAMn8QSu+Uh2aeoMoZ/+oFax;CadvkZWw33Z03XPb/TG0hA=="
+secured: "ZR24BuqjOgpp5z/paOgBUh0FrHvoeGkTelbaWlW7pH6Tz0lOuq+WI+aajx57/rPGpqzRXlY4l6qVVQWrg9aw0yS1TJM0xltiYccPfCSGxa5KNHqUUahh5U9aQeG8w21zUXGAHzzmQjaJpiRDOuGKKsopj6uduGPWzy8mV0Z4mQNa5MEqWpN7cMely0JNdGOHYK0uf2x1XVwciHabEPnRZNWeCdPgkB7kXkhWVMpBgWcKdKkjTYAEW1Zhz2V/XMCvqavxzg7xR60R4KvIpepH9A61FFGgf9Kk9Ue1Cmteu6lRQqfqPYKB2qto86qucxTnLVkJFX74Iy8DVPQOwNTzTca5jHthUZNwPmd9/0PdcKJnoe+0OvFpIh0QPhxgqPPkfaOeTQes5DE2qvp6hak/ef+X/lgKDCh8XJ/MFO8EiR14+/yHB30Kqfr6H6i8J1W7tTnzdLHQw70e+tpPO81MecJDF6much3gMkRgYiSGhh4=;NTlulQLeTkLMT3B+lnFhOQ=="
 ---
 
