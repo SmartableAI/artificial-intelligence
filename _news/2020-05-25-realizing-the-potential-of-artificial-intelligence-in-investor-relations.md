@@ -23,19 +23,6 @@ images:
     title: "Realizing the Potential of Artificial Intelligence in Investor Relations"
 
 related:
-  - title: "Outlook on the Worldwide Artificial Intelligence in Manufacturing Industry to 2027 - Rising Demand of AI-Based Applications Presents Opportunities"
-    excerpt: "The Artificial Intelligence in Manufacturing Market by Component, Technology (ML, Computer Vision, NLP), Application (Cybersecurity, Robot, Planning), Industry (Electronics, Energy, Automotive, Metals and Machine,"
-    publishedDateTime: 2020-05-25T12:12:00Z
-    webUrl: "https://menafn.com/1100218046/Outlook-on-the-Worldwide-Artificial-Intelligence-in-Manufacturing-Industry-to-2027-Rising-Demand-of-AI-Based-Applications-Presents-Opportunities"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?445989"
-        width: 405
-        height: 250
   - title: "Outlook into the Worldwide NLP in Healthcare and Life Sciences Industry to 2027 - Growing Trend of Digitalization Presents Opportunities"
     excerpt: "The \"Global NLP in Healthcare and Life Sciences Market Outlook 2027\" report has been added to ResearchAndMarkets.com's offering. Natural language processing (NLP) is a technology which helps machines in understanding both written and spoken human language by analyzing human to computer collaboration."
     publishedDateTime: 2020-05-25T09:08:00Z

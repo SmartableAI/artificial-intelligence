@@ -37,17 +37,19 @@ related:
       - url: "https://media.arkansasonline.com/img/photos/2020/05/24/195164071_195151106-ebc4a7eae974460f8b39235e31801e8e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 412
-  - title: "US agency lets self-driving shuttle resume carrying people"
-    excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
-    publishedDateTime: 2020-05-21T08:39:00Z
-    webUrl: "https://www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people"
-    ampWebUrl: "https://www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people.amp"
+  - title: "U.S. Agency Lets Self-Driving Shuttle Resume Carrying People"
+    excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions."
+    publishedDateTime: 2020-05-21T19:37:00Z
+    webUrl: "https://hamodia.com/2020/05/21/u-s-agency-lets-self-driving-shuttle-resume-carrying-people/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: Hamodia
+      domain: hamodia.com
     quality: 24
+    images:
+      - url: "https://images.hamodia.com/hamod-uploads/2020/05/AP20141782919761-300x206.jpg"
+        width: 300
+        height: 206
 
 secured: "ZLUn21QXTL55bJ5EsqeNkNFx8196UKYuZuoNx0zQRRNKM2xsbc5YOb1y1bQ6MguZM7zPESccCpeagTFjq+i1vubkFmXnD1BNyl+uQ+DkIV3B1KNJWvNxrgv5zaDrDBP+fTJp/V32sAwWBSTlV4hXCkGZDhVrRTmKX7GlWgouDKLOlGVYrORUA2CXoyr328U1Styq+cUJ7/C1M4Z1Smw+e08J7KjTGjNyFfdgL4qxKuVt2stp2byTp5u0ipyEyIzPWrM64cVt7Zfz5hyHagxIUZP1oSHCR1TYKh1Qah+HpcSgUBqZZ3W/IZSEqghY7h12;65i6SZUTtXkPhmzcGgNj1A=="
 ---

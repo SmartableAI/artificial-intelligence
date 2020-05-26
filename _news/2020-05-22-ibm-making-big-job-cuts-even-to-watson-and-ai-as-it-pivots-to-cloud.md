@@ -1,9 +1,9 @@
 ---
 category: news
 title: "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud"
-excerpt: "Services teams seem to be bearing the brunt of it as thousands of workers given 30 days notice, 90 days pay and not much else"
-publishedDateTime: 2020-05-22T02:21:00Z
-webUrl: "https://www.theregister.co.uk/2020/05/22/ibm_layoffs/"
+excerpt: "A thread on the Watching IBM Facebook group mentions cuts in cloud and cognitive software teams and Watson health. Whole departments of ... cutting staff from AI-driven initiatives that aren’t doing well, or all of the above."
+publishedDateTime: 2020-05-22T02:15:00Z
+webUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/22/ibm_layoffs/"
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/"
 type: article
@@ -42,6 +42,6 @@ related:
         width: 994
         height: 600
 
-secured: "tmscdbZULk36QdCWNDGwBLipfBB9b5kkxUuzOpU9ZHedMSoTmSOXtTYc5lUqlDKoRUJDDNZPY6qB3RUR9BO6YutqL3kl+5bPMQJt6LfJNLKyrEiq6GQgEoAM41b1HwBJI1otqYEthGR1skqYjALOBVM8I7UNBS13iFOQNeLT5bdO431uy+u3cTNgWV988nHbL1i+iRsjQSZFuzpE/6PEcuRWQX3N2GhQFn2z/3bPWZr7K+jMxc4KQbqr7eVi2s0ER1MwnDjF/KkusiaLIbx4vGzT8JxzhNYgJIq/xwRZYXE3OHlqOHWpqzOkAybaAYJJ;HCHXBp+Pq6oaDEhD6PtD+g=="
+secured: "qdGfk4cJ13u0/bNNq0mQxm45nE1vGRj7awz3pLA30cC/5XwMba3ffae6dAqfQgBCm102QWQwgKDpo9DafMoP99sy3Xufgm9TK7KCIc9dhcj91SbffVtDmVAZ7peSmlMGGfI0y3NJFqS48h6vwQYyVmPfig7Lzh0esnKnmdnMj9GVKxuEwOWcjkrwF4nhvHAJKkjLRmLNGSHxAQx/AwS8Ba9GVDSq/2neL3ubgC+PpEreB8h3ZigF7tW7zv7lx/NsRrXMRFQKGCy4nECuatpJlq026P9AGlOBUPJmu1p50TztaDGP6cV849dF94i72gKA;o98DCMoT9e870PUFYRjRDw=="
 ---
 

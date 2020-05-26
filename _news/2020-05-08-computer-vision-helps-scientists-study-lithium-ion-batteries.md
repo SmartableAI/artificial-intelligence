@@ -1,21 +1,23 @@
 ---
 category: news
 title: "Computer vision helps scientists study lithium ion batteries"
-excerpt: "Lithium-ion batteries lose their juice over time, causing scientists and engineer to work hard to understand that process in detail. Now, scientists at the Department of Energy's SLAC National Accelerator Laboratory have combined sophisticated machine learning algorithms with X-ray tomography data to produce a detailed picture of how one battery component,"
-publishedDateTime: 2020-05-08T10:15:00Z
-webUrl: "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.html"
-ampWebUrl: "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.amp"
+excerpt: "New machine learning methods bring insights into how lithium ion batteries degrade, and show it's more complicated than many thought. Lithium-ion batteries lose their juice over time, causing ..."
+publishedDateTime: 2020-05-08T00:00:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/05/200508083542.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "utfOflShbv0BxX8JQhMIY6WZHKhRpKhwzxX2M+JO/RBtnXw+cAxUCBqk9ctsHx8o069AsdXRcvxhdAdg3JauNxxXSFJ+1Jim8W4SWm+5hTNXkzJDK1qRjwEcKXSjtDaUtpGojarRvesKgZNZlpraUwTYC0SVKdyUVDsQHL3TCZUbrQXsINlMf+K0OaGJUO7Bs4M4W1dA+87K4NRMZi3+qkG03Sfdb2wHPGuXigQXeS68Y9G62kteOWkHCL+e5crJcyQf8CqHyF8gckg1M0gMyuGPPs6UM2MbERgNGnpaws9l+VfEN49/LDRihmL1QW8VH2F6ZhWKmr9gN4la89MSA9+XzbIeSFtbCsvnC9Tv6zldMXUKECGm/cqs0JgCURoFmb5DecjePMRKvolacVTexzwu02Lb7XI7xEzbdpPwV7UOxD4c+g0xQ7w6duNFdNsBPQYk2l7QrgjcVJLYWDE5mkLUN51f1Z3j/RJ215EQ0qg=;QUj77EJMcND/3jt9EARFGg=="
+secured: "SYPESBerGtqR124/IhinmGbSnqZ0J0fGJtOSMelnPe3ttg65Xdb3vwOaRk8xHQh8dJ2L98DE88tJXK8e3sspH3vnTLeHM2JpuMistjxbrVCH1lD3OFqjtC/ExnaqNoxOfN8npvXyhBdb40GaKKlEoQW+4nqNn0m2axUQuAuFcn5ds1CgTyFOuCNlh8UQgIykNkS7rcBJ+X6JCxqrgHVRewqbtAZl7/HuGPnI56omUi5ImO5yEJH7xn1qEvUujlaa92DPJQi3GT2Gu3xypltNtyHlXwu+7rTVYTYnklJwOdb8OZks7qBXz/zjGXrnZAZq;gjXi3pKQQt7tUGiQZAk0bw=="
 ---
 

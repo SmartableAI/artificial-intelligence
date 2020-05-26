@@ -37,17 +37,19 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/05/16x9/AP20141782919761.5ec69846bccce.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
-  - title: "US agency lets self-driving shuttle resume carrying people"
-    excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions. The U.S. National Highway Traffic Safety Administration told France-based EasyMile to halt passenger operations on low-speed shuttles in 16 U."
-    publishedDateTime: 2020-05-21T08:39:00Z
-    webUrl: "https://www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people"
-    ampWebUrl: "https://www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-agency-lets-self-driving-shuttle-resume-carrying-people.amp"
+  - title: "U.S. Agency Lets Self-Driving Shuttle Resume Carrying People"
+    excerpt: "A self-driving shuttle service that was ordered to stop carrying passengers in February has been cleared to resume operations with new safety precautions."
+    publishedDateTime: 2020-05-21T19:37:00Z
+    webUrl: "https://hamodia.com/2020/05/21/u-s-agency-lets-self-driving-shuttle-resume-carrying-people/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: Hamodia
+      domain: hamodia.com
     quality: 24
+    images:
+      - url: "https://images.hamodia.com/hamod-uploads/2020/05/AP20141782919761-300x206.jpg"
+        width: 300
+        height: 206
 
 secured: "jSLNq4yYeDhE6qYH3wUEu7mzNgD3eg7e7AeRpmVBC49WjfAXftpnEJgFuFtSw/NWrsoZCulDPVUpkzyXzzTrK3ap7SNfWnvu3pkChnR7n4TY4dzaHc7qb33zPcLYNmHL4dVIGooifVjPIJp8DXHtNLYBNNlGGLrIKhRBuav/JyOs1L2tkq4mQyaSYnIk9N85PZ62BfaOedBy8XzyLVv+VQjIVRssb9xNKiMMeBfmxHXv85WKv+plX0DaDkftMsKSW/lUrta2aPGpmJVRjgeAe4Q8AQ7uU9EwRK+ZoxD9W8Fx72iYPyFarbiHzEywwTUn4cg8LY2NiZgZXYOpXquTojbxS8ZmFBLS0bYTmzRpOdD54Yb7s/kUxxPsUmPWJAfPX45HR6wbtPnmIolGOps5l4+CMWq9I/5a81Uh0TcbrdHn6vB5nlFn5iV4AWadsg2L5jXipfINx5gbaf8Y1e1de2v90vdFpi9t1eSAXsPtEHI=;u7fFza+pbh/1THO63uCQiA=="
 ---

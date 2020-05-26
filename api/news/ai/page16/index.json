@@ -299,35 +299,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-08-computer-vision-helps-scientists-study-lithium-ion-batteries.md",
-      "title": "Computer vision helps scientists study lithium ion batteries",
-      "excerpt": "Lithium-ion batteries lose their juice over time, causing scientists and engineer to work hard to understand that process in detail. Now, scientists at the Department of Energy's SLAC National Accelerator Laboratory have combined sophisticated machine learning algorithms with X-ray tomography data to produce a detailed picture of how one battery component,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.html",
-      "ampWebUrl": "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.amp",
-      "publishedDateTime": "2020-05-08T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-08-shield-ai-recognized-as-one-of-worlds-most-innovative-companies.md",
       "title": "Shield AI Recognized As One of World's Most Innovative Companies",
       "excerpt": "Fast Company praises tech startup for developing pioneering AI technology for use in conflict zones SAN DIEGO (PRWEB) Shield AI, the technology company focused",
@@ -816,6 +787,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-computer-vision-helps-scientists-study-lithium-ion-batteries.md",
+      "title": "Computer vision helps scientists study lithium ion batteries",
+      "excerpt": "New machine learning methods bring insights into how lithium ion batteries degrade, and show it's more complicated than many thought. Lithium-ion batteries lose their juice over time, causing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200508083542.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },

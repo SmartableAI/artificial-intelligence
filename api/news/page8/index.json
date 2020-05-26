@@ -2,38 +2,30 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-05-19-how-machines-see-everything-you-need-to-know-about-computer-vision.md",
-      "title": "How machines see: everything you need to know about computer vision",
-      "excerpt": "The human vision is a very intricate piece of organic technology that involves our eyes and visual cortex, but also takes into account our mental models of objects, our abstract understanding of concepts and our personal experiences through billions and trillions of interactions we’ve made with the world in our lives.",
-      "heat": 89,
+      "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
+      "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
+      "excerpt": "PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/amp/",
-      "publishedDateTime": "2020-05-19T01:20:00-07:00",
+      "webUrl": "https://www.prnewswire.com/news-releases/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-301061518.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T01:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-1-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "How machines see: everything you need to know about computer vision",
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
           "attribution": null
         }
       ],
@@ -42,7 +34,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Healthcare",
         "AI"
       ]
     },

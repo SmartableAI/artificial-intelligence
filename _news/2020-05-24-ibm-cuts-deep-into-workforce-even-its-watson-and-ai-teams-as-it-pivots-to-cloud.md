@@ -27,9 +27,9 @@ images:
 
 related:
   - title: "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud"
-    excerpt: "Services teams seem to be bearing the brunt of it as thousands of workers given 30 days notice, 90 days pay and not much else"
-    publishedDateTime: 2020-05-22T02:21:00Z
-    webUrl: "https://www.theregister.co.uk/2020/05/22/ibm_layoffs/"
+    excerpt: "A thread on the Watching IBM Facebook group mentions cuts in cloud and cognitive software teams and Watson health. Whole departments of ... cutting staff from AI-driven initiatives that aren’t doing well, or all of the above."
+    publishedDateTime: 2020-05-22T02:15:00Z
+    webUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/22/ibm_layoffs/"
     ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/"
     cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/"
     type: article
