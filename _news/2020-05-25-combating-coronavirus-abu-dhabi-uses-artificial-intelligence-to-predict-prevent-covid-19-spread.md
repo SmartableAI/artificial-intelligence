@@ -27,14 +27,14 @@ related:
   - title: "Abu Dhabi uses artificial intelligence to predict, prevent Covid-19 spread"
     excerpt: "Former NHS data scientist and Draper and Dash CEO Orlando Agrippa said advanced tools help predict the infection rate and enable Seha to prepare its action"
     publishedDateTime: 2020-05-26T05:09:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Abu_Dhabi_uses_artificial_intelligence_to_predict_prevent_Covid19_spread-SNG_175366331/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_175366331/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_175366331/"
+    webUrl: "https://www.zawya.com/uae/en/business/story/Abu_Dhabi_uses_artificial_intelligence_to_predict_prevent_Covid19_spread-SNG_175366331/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_175366331/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_175366331/"
     type: article
     provider:
       name: Zawya
       domain: zawya.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200

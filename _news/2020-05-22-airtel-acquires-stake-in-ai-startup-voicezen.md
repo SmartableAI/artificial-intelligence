@@ -32,17 +32,6 @@ related:
       - url: "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg"
         width: 300
         height: 300
-  - title: "Airtel acquires 10 per cent stake in AI startup Voicezen"
-    excerpt: "The acquisition has been made by the company under its fast expanding Airtel Startup Accelerator Programme, the company noted."
-    publishedDateTime: 2020-05-21T13:35:00Z
-    webUrl: "https://www.financialexpress.com/industry/airtel-acquires-10-per-cent-stake-in-ai-startup-voicezen/1966686/"
-    ampWebUrl: "https://www.financialexpress.com/industry/airtel-acquires-10-per-cent-stake-in-ai-startup-voicezen/1966686/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/airtel-acquires-10-per-cent-stake-in-ai-startup-voicezen/1966686/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 37
 
 secured: "xPgq0Dmr+2rQjJT1IijoGAOkQUiEVEq47aAQ1VK8l69YBQs3BQMuKEpDmIxsAOGQAQMZUw0tc3wZVq8LYQec9axxe7/P35ykqJ4lPFaMk4Yzc+lexxasM8htv/yGNMWyOls2IWejRx3hHGaPTiLgqhb8UsetMxQEEUhxcmliqdHaRiETH+L2hkuBxclccDmi/sncSbDhT9vR88WIoxV+/fmThIBvDc3+Zvq8lxURsfR5dXC23pXmvJqMbjGBLxfyFhmHjWzEabrkHZo0W0M49/IQ52mztxLnlKOgtVOjPiqQM09Hq9CfXeAvucTqAKID;IqZDcplybhW2u728Sn52TA=="
 ---

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.thehindu.com/business/bharti-airtel-acquires-10-in-ai-st
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/bharti-airtel-acquires-10-in-ai-start-up/article31644357.ece/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Hindu
@@ -25,17 +25,6 @@ images:
     title: "Bharti Airtel acquires 10% in AI start-up"
 
 related:
-  - title: "Airtel acquires 10 per cent stake in AI startup Voicezen"
-    excerpt: "The acquisition has been made by the company under its fast expanding Airtel Startup Accelerator Programme, the company noted."
-    publishedDateTime: 2020-05-21T13:35:00Z
-    webUrl: "https://www.financialexpress.com/industry/airtel-acquires-10-per-cent-stake-in-ai-startup-voicezen/1966686/"
-    ampWebUrl: "https://www.financialexpress.com/industry/airtel-acquires-10-per-cent-stake-in-ai-startup-voicezen/1966686/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/airtel-acquires-10-per-cent-stake-in-ai-startup-voicezen/1966686/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 37
   - title: "Airtel acquires stake in AI startup Voicezen"
     excerpt: "Indian mobile operator Airtel has acquired a stake in conversational AI-focused startup Voicezen. No financial details related to the investment have been released. Gurgaon-based Voicezen is developing services that leverage machine learning,"
     publishedDateTime: 2020-05-22T04:55:00Z
