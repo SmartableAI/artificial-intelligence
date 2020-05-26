@@ -23,6 +23,6 @@ images:
     height: 627
     title: "SkyWater Chosen for Volume U.S. Manufacturing of Temperature Sensing Chip for Low-Cost Wearable Solution That Detects Early Stage Symptom of COVID-19"
 
-secured: "Y3/bPJ+ucQnmuaYDC0GPpsFKXcnd+M9m74sE2fsLpulsp8Mds7VapoFOEAfD8uJ6536PiV3G4GUyXdK/PvoFHKfX1oEDrlzHA4bluwywLkR10jWQG4RdHHh1DmozQevXUNi2UpwdXKCZW42m5kjdb/EprfC3XEGiSufueQzyzoTZbwa2oWdkeF6lBh8IVbNVW8ibFEeHr9LWM5pVCcMTIEtZlq3bVaIP8y7Ze3bbGcuMkoj7ApIjokrR+AdMmxZTVvKCk8/SR9oiE+bmxSNdIrf0n3V2FxASG32M/XgxAbrceDusvPHsEFXzK8VC0N+q;R5OjbNr4BgitI3Mqkl7rnQ=="
+secured: "y+/OdIHCu6ePiEKvCfjWgOUYQ2k1ltYHKIVdaXEQkR+NZ89Wi3xSUDJglgXXFd/Y327hIfishjr4CCE3ptfqqQl84bQUZ3gZ+a/azU1ljW8urDjeTm5E33gSy4Z3BA6h9AXeatxMfg4Acoll5Z/TyMZAsx3DBKrw7IEan7EGglYTTlzlwMsoZjdKRCCHBs0LI2nnpgv+uEFcxL6ehe84jnX6DvpUCOkYYMAyn4xgIZvbOMfMQ739WyXOzxDvH4/ExjL8ZqpvPoTdOjkAANbGtrg8Wm1zKD8TUxG/rqZquVVztOdlt/FPmSQDjNUD2fkGLJJAckJ0Z/iX7bLvXDILqXNkEnDFDBRhqvCkKb+t3AfydKI1U6wCLL/LDnMbj+8z8i/+HH9IvnKMQnjuR72lFtmlmpNNi3u/Ddhd8F/pz/ELkcJ6ljNiDKuMyer1n1V3NPpFP5AHon2u6jlExgroSgetfnltqePoh0qKxIhLGvc=;wjhMM07u4EiKjsJgLKys/w=="
 ---
 

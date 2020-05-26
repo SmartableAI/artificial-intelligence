@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-26-arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai.md",
+      "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
+      "excerpt": "Arm roles out new CPU, GPU and NPU products, as well as a new program to customize products for greater performance.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
+      "publishedDateTime": "2020-05-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/22/80cb27af-160b-43d9-b352-4b453d8c729e/armprocessors.png",
+          "width": 766,
+          "height": 371,
+          "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g.md",
       "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
       "excerpt": "Samsung has announced a new Exynos chip for its mid-range smartphones, the Exynos 880. The octa-core chip is based on the 8nm FinFET process and features an integrated 5G modem with sub-6GHz support.",
@@ -1253,43 +1298,6 @@
           "width": 1200,
           "height": 630,
           "title": "China injects US$2.2 billion into local chip maker SMIC",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable.md",
-      "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
-      "excerpt": "NVIDIA Corporation (NASDAQ: NVDA) shares, which have been bouncing along nicely for much of this week amid positive sell-side expectations for the chipmaker's earnings",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/16043371/nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16043371",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16043371",
-      "publishedDateTime": "2020-05-15T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/nvidia_a100_gpu.jpg",
-          "width": 2000,
-          "height": 1700,
-          "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
           "attribution": null
         }
       ],

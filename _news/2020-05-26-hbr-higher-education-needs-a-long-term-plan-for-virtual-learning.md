@@ -2,8 +2,8 @@
 category: news
 title: "HBR: Higher education needs a long-term plan for virtual learning"
 excerpt: "The impact of Covid-19 on education systems around the world is unlike anything we have seen in the postwar era. More than 1.6 billion students have been affected, representing over 91% of all students in the world."
-publishedDateTime: 2020-05-26T13:56:00Z
-webUrl: "https://www.bizjournals.com/washington/news/2020/05/26/hbr-higher-education-plan-for-virtual-learning.html"
+publishedDateTime: 2020-05-26T13:54:00Z
+webUrl: "https://www.bizjournals.com/nashville/news/2020/05/26/hbr-higher-education-plan-for-virtual-learning.html"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 675
     title: "HBR: Higher education needs a long-term plan for virtual learning"
 
-secured: "+Ck9cMkTGRBlkygo3hGcrKc+8lPIIcUmY0x42CHzS46/L0bYIw88cK3f58kXLI8QvVzb6iKiLWy1+ZO1eCQcbWrvqJjE6mR4TIxYBXvfQl90ABawjjVtn5TUo03oEULYLASu+OgL95/BBUVChl+9o7ogFTSm3fgbvhGftAGWt5EccPO2oYRwQKAaHZBoTkRVGcJ44M4DuliS2bvc5ukvqLmMDiuv0GydTOFkWKUjtqneHS1XL3c+HDcbwOlUyAW0/jO7aY3MD6oW52c9P510ToRbJoyAM8/AsGe3wG2PlqMFNctSRfCcbFNWPMy55wow;QDDwfmNJur1BG+v4Tuhseg=="
+secured: "B1/52mPg5I+ECHTUpA9b1Z2cRNf6gVYV5PP3HA+mNJKDVWasNZvPdqfDUbmLo0OPrWT+kX3aPzifllUM4hkxjaNY3Q+xFo3UnFCYrvV8hVR+Nh3a1giiB5HrwKdwPUr8SZlb2JD19N6eCAs7kkuKFDbqa7oC/V/g/LoTG2cWJ/7bz5G8e4TZAnFORsuhKJ08a4/0HdEIHg/0DWxWACGP8E6IbES1HuVzAYIX5SZfMCYtGwIAwSNp8DlXDRzRu/Dwf1dm1uepa4ixaudFa3DD7I9If5irY0pTN75JEaGafsi3Y3N119g+RIhkWTj9nMJU;61qcc0P/7oFmDONMoQSpDQ=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 1414
     title: "High-Tech Business Leader and Speech Recognition Expert Steven Chambers Joins Kasisto's Board of Directors"
 
-secured: "WXBN/1rCU9FL5N2+nxPWat9K+iwoQtOew7VzNUQBMKbrGhd4wJeyiLO4pm0wlL6YsOoXxex1/0mfJ/4R0xQYTrXcSaHZktku2p16QR/sYYUMqjd10NKKWHrrj24G0ax7dxc+GQMth1P5loXcAEbweyXp/nyb/Zrb+KtmizrSmz6su+uDKgmTf+ynNUctDv9s38OwgKuSTdkJjixM5EszC4Mt9RcbR1Usq8cD5nq0O80P4G/9B/++hozeaCOqPaZkk8FRLSeMmeOwDmflI+Yx+9Ksce6a6kJWAMU7O1yAqLG+4xvs2ZW9PikSWAtzjXfu;M1jEBAyQsm8j3s3dY7CD1Q=="
+secured: "fkghdYSYRg53pPnB7uTpYG9to4onhWr2iNM6Lo+fiucEWVkuOl54/bXU6XJbRc5oLx2A7pyrmQ6Y/dkZrivvN71CnttrkqyCcDJynJWhYpEcEMY6Zy+AFwveTk8mW0t6R162COdwUflJDhjF53E9WXHEEyhD8dO71BQHhAmCAGqE7nhh/x28rXFdwq8DfKv4n8izVMEYSyLMENL1mWDIDrES/RV+t5yaCh4wDLWRVbm6LguoY46gr5nP1wQlUpluStO+Mr7oIyPzyZO4ye2hHKUGL6B7zVlUz0GruhY9hJZlLTrPkDnJrsFpURsgvoKiSJdUVOKYQ8v7MDzibSYvbvmH+gmcuMDzoTGyWCAiqjF3NRwc9oVex/pnJnFwNrpy4k/K02nD5WJ1+9arNCIxq2TCSjlWx5sKXLnLE86X6nLffgeF3o/hVTslRl5XT1H0FVHzG0KxAPl8lcKIZLHu+9YvHlYC591+FUFDW+EaysI=;bqTxRMRfYMBJPBf6NZKcbQ=="
 ---
 

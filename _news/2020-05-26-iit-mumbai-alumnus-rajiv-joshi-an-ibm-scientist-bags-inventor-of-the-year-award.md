@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/companies/people/iit-mumbai-alumnus-rajiv-j
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/iit-mumbai-alumnus-rajiv-joshi-an-ibm-scientist-bags-inventor-of-the-year-award/amp-11590482653785.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 600
     height: 338
     title: "IIT Mumbai alumnus Rajiv Joshi, an IBM scientist, bags inventor of the year award"
-
-related:
-  - title: "Indian-American IBM scientist bags inventor of the year award for improving AI capabilities"
-    excerpt: "Dr Joshi, who is a master inventor with more than 250 patented inventions in the US, works at the IBM Thomson Watson Research Center in New York."
-    publishedDateTime: 2020-05-26T03:38:00Z
-    webUrl: "https://www.thehindu.com/news/international/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities/article31676193.ece"
-    ampWebUrl: "https://www.thehindu.com/news/international/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities/article31676193.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities/article31676193.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 49
-    images:
-      - url: "https://www.thehindu.com/news/national/ldtktg/article31621518.ece/ALTERNATES/LANDSCAPE_615/BreakNews-3"
-        width: 615
-        height: 384
 
 secured: "WbMcgaoXYe5stSfCOPPYQXHObLjQHbKjH1Ta94nBpDYVeG9G8XdV3Fn+YhVBH4OS6z++McnrZbdkYnjwVw4j6cxw+e3tcPiTHG1txYmEbxPiuKWgml8AkyD6BFZpN8SxwYP0Q2Mm2gjkwgOqTSjX4ky+k7T/FHov9PwjPTQM/Loc2cZyPlKyOHRuHQjz4nMfS7wg+wRX1V5270bNXcUzMCIkKWhN08aIQpIEiSFEaLxjkQwQjMaqC/hCJycke1p2TmsjQ6q58OiEhoP5RqKLST+9nJbZ5sm/TP1aPucWBy3Rk9qpQlwpeKOtUo9iIE8Oax+NuKnEwgvpQcKuE7wg13lyf3KhUlppcUgnju8B1DjZljKEkvPyNZR3yfl+aqng9jkiEp9MbV4HIoi2KCmkrR+FQvm5Xkt+LsRHC6f6NSBHaovYWVYuqE3O9uyHT+R9EZ2Zp4VcpKjWUYyzCd7T8ArfxFLKH6i8qTo0f7U4VYA=;cMuBMnhtSPHprJm/jFTyTA=="
 ---

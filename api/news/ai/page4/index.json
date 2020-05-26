@@ -2,6 +2,159 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-21-machine-learning-models-estimate-seasonal-impact-of-covid-19.md",
+      "title": "Machine Learning Models Estimate Seasonal Impact of COVID-19",
+      "excerpt": "Researchers will use machine learning to determine the impact environmental factors have on the transmission of COVID-19.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://healthitanalytics.com/news/machine-learning-models-estimate-seasonal-impact-of-covid-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims.md",
+      "title": "Clara Analytics nabs $25 million for AI that expedites workers’ compensation claims",
+      "excerpt": "Clara Analytics, a startup leveraging AI to expedite workers' compensation claims, has raised $25 million during the pandemic.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/21/clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/21/clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/clara-analytics-nabs-25-million-for-ai-that-expedites-workers-compensation-claims/amp/",
+      "publishedDateTime": "2020-05-21T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Da6I4d0VAAESNhK.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 711,
+          "title": "Clara Analytics nabs $25 million for AI that expedites workers’ compensation claims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-facebook-leverages-ai-to-improve-kids-safety-in-messenger.md",
+      "title": "Facebook leverages AI to improve kids’ safety in Messenger",
+      "excerpt": "Facebook is rolling out an AI feature that gives users under the age of 18 tips on interacting with unfamiliar adults and avoiding scams.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/amp/",
+      "publishedDateTime": "2020-05-21T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/facebook-messenger-f8-e1584730735130.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook leverages AI to improve kids’ safety in Messenger",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-airtel-acquires-10-stake-in-ai-startup-voicezen.md",
+      "title": "Airtel acquires 10% stake in AI startup Voicezen",
+      "excerpt": "New Delhi, May 21 () Bharti Airtel has acquired 10 per cent stake in Gurgaon-based start-up Voicezen, which focusses on conversational artificial intelligence technologies, in an all-cash deal, the private operator said on Thursday.",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/articleshow/75868862.cms",
+      "ampWebUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms",
+      "publishedDateTime": "2020-05-21T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/75868862.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": "Airtel acquires 10% stake in AI startup Voicezen",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-bb-8-toy-robot-maker-spins-off-robotics-startup-for-first-responders.md",
       "title": "BB-8 toy robot maker spins off robotics startup for first responders",
       "excerpt": "Sphero is perhaps best known for its mini Star Wars droids, but the company also makes edutainment bots for kids. And now the firm has turned its Public Safety Division into a brand new company focused on developing robots and AI software for emergency personnel,",
@@ -455,43 +608,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-china.md",
-      "title": "Facial recognition tech reunites missing child, parents after 32 years in China",
-      "excerpt": "Investigators used facial recognition technology to analyze an old photo of Mao as a boy and came up with a simulated image of him as an adult.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbc15.com/content/news/Facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-China-570602011.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC15",
-        "domain": "nbc15.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.graytvinc.com/images/aa413.jpg",
-          "width": 700,
-          "height": 400,
-          "title": "Facial recognition tech reunites missing child, parents after 32 years in China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1133,133 +1249,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-facial-recognition-reunites-missing-child-after-32-years.md",
-      "title": "Facial recognition reunites missing child after 32 years",
-      "excerpt": "Facial recognition technology leading to a joyful reunion and a happy ending to what was a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/",
-      "ampWebUrl": "https://www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/amp/",
-      "cdnAmpWebUrl": "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/amp/",
-      "publishedDateTime": "2020-05-20T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "myhighplains.com",
-        "domain": "myhighplains.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/05/DB7E220B2CBD4F819FAA7CDA6577BD9D_5.jpg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": "Facial recognition reunites missing child after 32 years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-self-driving-shared-electric-scooters-are-here-are-they-awesome-or-terrifying.md",
-      "title": "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?",
-      "excerpt": "Shared electric scooter provider Go X is combining its scooters with self-driving tech from the company Tortoise to solve the first and last step problem of shared e-scooters: finding and returning the scooters.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/",
-      "ampWebUrl": "https://electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/amp/",
-      "publishedDateTime": "2020-05-20T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/go-x-scooters-header.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain.md",
-      "title": "Facial Recognition Firms Pitch Covid-19 ‘Immunity Passports’ For America And Britain",
-      "excerpt": "FaceFirst pitches a coronavirus health passport system, though concerns around civil liberties and privacy abound.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/amp/",
-      "publishedDateTime": "2020-05-20T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1212203380%2F0x0.jpg",
-          "width": 1200,
-          "height": 823,
-          "title": "Facial Recognition Firms Pitch Covid-19 ‘Immunity Passports’ For America And Britain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

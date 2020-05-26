@@ -8,7 +8,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/london/2020/5/21/1_4949479.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/london/2020/5/21/1_4949479.html"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 1020
     height: 573
     title: "Details emerge about use of facial recognition software by London police"
-
-related:
-  - title: "London police complete review into use of now-banned facial-recognition software"
-    excerpt: "A London police officer used controversial facial-recognition software to try to identify a suspect in a voyeurism case involving a man spying on minor in a change room, the city’s police chief says."
-    publishedDateTime: 2020-05-21T21:40:00Z
-    webUrl: "https://lfpress.com/news/local-news/london-police-complete-review-into-use-of-now-banned-facial-recognition-software/"
-    ampWebUrl: "https://lfpress.com/news/local-news/london-police-complete-review-into-use-of-now-banned-facial-recognition-software/wcm/f6585f80-5950-41db-a383-3e2e2946c7a0/amp/"
-    cdnAmpWebUrl: "https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/news/local-news/london-police-complete-review-into-use-of-now-banned-facial-recognition-software/wcm/f6585f80-5950-41db-a383-3e2e2946c7a0/amp/"
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 19
 
 secured: "L4VfTcVp/wh71rA0pFq1ElHGHVA6VYYbntwJMKgfpMmV6AVdbKlK8QTdQeyoEuL2PryfIRNvtTq/ZAq2syVxEJIaokISgiLfJAsuQPyhg3hhQzmHVj6E4sGSfFAzTj1Kbh+jFfTpTz3TTMeGbMCEtO0cQKEoE9BDjjxe5MXV+6FRi7Zj9HgRpfXd+tgzzjOLJOP7n7cJvPeTiLFqugablPXx90D1GIvBm/OSwvHWkEJ9XBdHkFdOWs5TsOkmjpXaXdctgnfgM8OgkwF3QhVHt7VrC7yxwh99hnwK44qboTzJdfdZDO4M8xzMBHC+2Wen;971g/6/30Md4TCGyA/NJTg=="
 ---

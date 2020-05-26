@@ -2,10 +2,143 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-26-creating-a-complete-tensorflow-2-workflow-in-amazon-sagemaker.md",
+      "title": "Creating a complete TensorFlow 2 workflow in Amazon SageMaker",
+      "excerpt": "Managing the complete lifecycle of a deep learning project can be challenging, especially if you use multiple separate tools and services. For example, you may use different tools for data preprocessing, prototyping training and inference code, full-scale model training and tuning, model deployments,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-complete-tensorflow-2-workflow-in-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T08:47:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Creating a complete TensorFlow 2 workflow in Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-definedcrowd-raises-505-million-for-ai-data-set-curation.md",
+      "title": "DefinedCrowd raises $50.5 million for AI data set curation",
+      "excerpt": "Seattle-based DefinedCrowd, which describes itself as a “smart” data curation platform, has raised $50.5 million in venture capital.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/amp/",
+      "publishedDateTime": "2020-05-26T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/social-thumbnail-e1590501305895.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": "DefinedCrowd raises $50.5 million for AI data set curation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-seattle-startup-definedcrowd-lands-50m-to-help-mastercard-bmw-others-improve-their-ai-services.md",
+      "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
+      "excerpt": "Artificial intelligence services require mountains of reliable data to reach their full potential. Seattle startup DefinedCrowd is filling that need for Fortune 500 companies such as Mastercard",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/",
+      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
+      "publishedDateTime": "2020-05-26T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/DanielaBraga_DefinedCrowd_3-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai.md",
       "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
       "excerpt": "Arm roles out new CPU, GPU and NPU products, as well as a new program to customize products for greater performance.",
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
@@ -42,7 +175,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -273,7 +407,7 @@
       "path": "_news/2020-05-26-california-activists-ramp-up-fight-against-facial-recognition-technology.md",
       "title": "California Activists Ramp Up Fight Against Facial Recognition Technology",
       "excerpt": "California privacy advocates are mobilizing to thwart a bill backed by Microsoft Corp. that would regulate facial recognition technology and that is working its way through the state legislature.",
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wsj.com/articles/california-activists-ramp-up-fight-against-facial-recognition-technology-11590485400",
@@ -1168,141 +1302,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-ai-is-the-uncertainty-cure-enterprises-want-in-2020.md",
-      "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
-      "excerpt": "Supervised machine learning algorithms is the most popular machine learning technique in enterprises today. 73% of enterprises with advanced expertise in AI are making extensive use of supervised machine learning techniques to interpret,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/",
-      "publishedDateTime": "2020-05-24T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca991785e6c7000617bd7a%2F0x0.jpg",
-          "width": 1193,
-          "height": 872,
-          "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-nvidia-ceo-jensen-huang-on-the-metaverse-permanent-wfh-and-accelerating-raises.md",
-      "title": "Nvidia CEO Jensen Huang on the Metaverse, permanent WFH, and accelerating raises",
-      "excerpt": "Nvidia posted big earnings gains and unveiled its A100 artificial intelligence chip in the past two weeks. We talked with CEO Jensen Huang about that.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/amp/",
-      "publishedDateTime": "2020-05-24T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Jensen-cooking.jpg?w=1200&#038;strip=all",
-          "width": 1116,
-          "height": 669,
-          "title": "Nvidia CEO Jensen Huang on the Metaverse, permanent WFH, and accelerating raises",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face.md",
-      "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
-      "excerpt": "Hello and welcome back to TechCrunch’s China Roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. It’s been a tumultuous week for Chinese tech firms abroad: Huawei’s mounting pressure from the U.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/amp/",
-      "publishedDateTime": "2020-05-24T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/kevin-mayer-e1590307306151.jpg?w=1021",
-          "width": 1021,
-          "height": 545,
-          "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

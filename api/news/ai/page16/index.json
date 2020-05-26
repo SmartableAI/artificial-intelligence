@@ -2,6 +2,265 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-10-artificial-intelligence-is-driving-a-silicon-renaissance.md",
+      "title": "Artificial Intelligence Is Driving A Silicon Renaissance",
+      "excerpt": "More innovation is happening in the semiconductor industry today than at any time since Silicon Valley's earliest days.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/05/10/artificial-intelligence-is-driving-a-silicon-renaissance/",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/05/10/artificial-intelligence-is-driving-a-silicon-renaissance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/05/10/artificial-intelligence-is-driving-a-silicon-renaissance/amp/",
+      "publishedDateTime": "2020-05-10T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb85a25a96e2d0006574822%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D28%26cropY2%3D726",
+          "width": 1199,
+          "height": 676,
+          "title": "Artificial Intelligence Is Driving A Silicon Renaissance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-why-the-way-you-talk-about-artificial-intelligence-needs-to-change.md",
+      "title": "Why The Way You Talk About Artificial Intelligence Needs To Change",
+      "excerpt": "What happens if we don't fix the hype around AI? Is it possible to quantify issues caused by technological terminology misuse? All this and more is asked and answered in Gemma Milne's 'Smoke + Mirrors\" - out now.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/paularmstrongtech/2020/05/10/the-way-you-talk-about-ai-needs-to-change-or-were-all-doomed/",
+      "ampWebUrl": "https://www.forbes.com/sites/paularmstrongtech/2020/05/10/the-way-you-talk-about-ai-needs-to-change-or-were-all-doomed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paularmstrongtech/2020/05/10/the-way-you-talk-about-ai-needs-to-change-or-were-all-doomed/amp/",
+      "publishedDateTime": "2020-05-10T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea9e569228117000681cfa6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1691%26cropY1%3D561%26cropY2%3D1513",
+          "width": 1200,
+          "height": 676,
+          "title": "Why The Way You Talk About Artificial Intelligence Needs To Change",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026",
+      "excerpt": "Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion in 2019 and is anticipated",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026-2020-05-10",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-10T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-tech-trick-easily-turn-your-handwritten-notes-into-typed-text.md",
+      "title": "Tech trick: Easily turn your handwritten notes into typed text",
+      "excerpt": "According to a blog post from Google itself, the acclaimed object recognition tool will now be able to pick up your handwriting and transcribe it into digital text. No, we’re not talking about ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/",
+      "ampWebUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
+      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
+      "publishedDateTime": "2020-05-10T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kim Komando",
+        "domain": "komando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.komando.com/wp-content/uploads/2020/05/dreamstime_m_145621473-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Tech trick: Easily turn your handwritten notes into typed text",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-how-ai-is-finding-patterns-and-anomalies-in-your-data.md",
+      "title": "How AI Is Finding Patterns And Anomalies In Your Data",
+      "excerpt": "When companies are looking to apply AI, we always recommend that they look at the seven patterns of AI to determine which pattern, or patterns, they are applying. As one of the more widely used patterns,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/10/finding-patterns-and-anomalies-in-your-data/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/10/finding-patterns-and-anomalies-in-your-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/10/finding-patterns-and-anomalies-in-your-data/amp/",
+      "publishedDateTime": "2020-05-09T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F624857627%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How AI Is Finding Patterns And Anomalies In Your Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-banjo-ceo-resigns-to-preserve-the-companys-ai-surveillance-deals.md",
+      "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
+      "excerpt": "Banjo's CEO has resigned to prevent his racist past from affecting the AI surveillance company's deals with Utah and others.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/banjo-ceo-resigns-020523666.html",
+      "ampWebUrl": "https://www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
+      "publishedDateTime": "2020-05-09T19:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F3729fa60-9248-11ea-bd0d-d3fefe9341ba&client=amp-blogside-v2&signature=9faec48e566990e0328ac6a78f600c99de1a3e20",
+          "width": 600,
+          "height": 350,
+          "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-10-mega-man-11-review-i-hate-bounce-man.md",
       "title": "'Mega Man 11' Review: I Hate Bounce Man",
       "excerpt": "The eight robot masters have been taken by the evil Dr. Wily, and it's up to you to get him back. You'll jump, dash and bounce in levels themed around each one of these mind-controlled bots.",
@@ -971,267 +1230,6 @@
           "width": 1200,
           "height": 630,
           "title": "Mercedes-Benz to make MBUX artificial intelligence tech even more proactive",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-increasing-customer-engagement-and-loyalty-with-personalized-coupon-recommendations-using-amazon-personalize.md",
-      "title": "Increasing customer engagement and loyalty with personalized coupon recommendations using Amazon Personalize",
-      "excerpt": "This is a guest blog post by Sungoh Park, a big data analyst at Lotte Mart. In their own words, “Lotte Mart, a division of Lotte Co., Ltd., is a leading South Korean retailer that sells a variety of groceries, clothing, toys, electronics, and other goods.” \nConsumers today have many options for purchasing",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increasing-customer-engagement-and-loyalty-with-personalized-coupon-recommendations-using-amazon-personalize/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T10:15:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/07/lotte-mart-2.jpg",
-          "width": 800,
-          "height": 284,
-          "title": "Increasing customer engagement and loyalty with personalized coupon recommendations using Amazon Personalize",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services.md",
-      "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
-      "excerpt": "For new home buyers, a common challenge is to understand how to manage their lawn needs effectively. Now imagine if you’re a farmer and have to do this for many acres of land. As a farmer, some of the challenges you’d typically face include the when (when is the right time to water), the where (where",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T09:22:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/28/weed-detector-1.gif",
-          "width": 1000,
-          "height": 600,
-          "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-computer-vision-can-renovate-financial-services-say-deltec-bank-bahamas.md",
-      "title": "Computer Vision Can Renovate Financial Services say Deltec Bank, Bahamas",
-      "excerpt": "Computer vision turns to visit a bank branch into a whole new experience. Financial services can be improved by implementing computer vision technology, which offers many great benefits for ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15992440/computer-vision-can-renovate-financial-services-say-deltec-bank-bahamas",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15992440",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15992440",
-      "publishedDateTime": "2020-05-08T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1587327365.jpeg",
-          "width": 3300,
-          "height": 2550,
-          "title": "Computer Vision Can Renovate Financial Services say Deltec Bank, Bahamas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity.md",
-      "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
-      "excerpt": "How can you snag the dough? There is a contest underway that promises a prize of $1,000,000 to someone or some entity that has managed to innovatively perform an outstandingly good deed with AI that demonstrably benefits humanity.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/amp/",
-      "publishedDateTime": "2020-05-08T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1146017341%2F0x0.jpg%3FcropX1%3D606%26cropX2%3D3484%26cropY1%3D0%26cropY2%3D2160",
-          "width": 1200,
-          "height": 900,
-          "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-catching-fraud-faster-by-building-a-proof-of-concept-in-amazon-fraud-detector.md",
-      "title": "Catching fraud faster by building a proof of concept in Amazon Fraud Detector",
-      "excerpt": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/catching-fraud-faster-by-building-a-proof-of-concept-in-amazon-fraud-detector/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T07:51:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/07/fraud-detector-4.jpg",
-          "width": 800,
-          "height": 566,
-          "title": "Catching fraud faster by building a proof of concept in Amazon Fraud Detector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19.md",
-      "title": "Aidoc obtains FDA clearance for AI that uses CT scans to help diagnose COVID-19",
-      "excerpt": "Startup Aidoc says it has obtained FDA clearance for AI and machine learning tech that uses CT scans to help diagnose COVID-19.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/08/aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/08/aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19/amp/",
-      "publishedDateTime": "2020-05-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Aidoc obtains FDA clearance for AI that uses CT scans to help diagnose COVID-19",
           "attribution": null
         }
       ],
