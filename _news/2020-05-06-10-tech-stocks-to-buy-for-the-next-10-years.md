@@ -1,27 +1,19 @@
 ---
 category: news
 title: "10 Tech Stocks to Buy for the Next 10 Years"
-excerpt: "To find tech stocks with upside for the next decade, look for companies that are strong now and have a business built for future growth."
-publishedDateTime: 2020-05-06T17:27:00Z
-webUrl: "https://investorplace.com/2020/05/10-tech-stocks-to-buy-for-the-next-10-years/"
-ampWebUrl: "https://investorplace.com/2020/05/10-tech-stocks-to-buy-for-the-next-10-years/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/10-tech-stocks-to-buy-for-the-next-10-years/amp/"
+excerpt: "Any one of these could become the driver of tech stock growth over the next 10 years, the way smartphones dominated the past decade. This list of tech stocks to buy for the next 10 years includes many familiar names: While many companies have been a big part of the past decade in tech,"
+publishedDateTime: 2020-05-06T18:27:00Z
+webUrl: "https://www.nasdaq.com/articles/10-tech-stocks-to-buy-for-the-next-10-years-2020-05-06"
 type: article
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/tech1600.jpg"
-    width: 1600
-    height: 900
-    title: "10 Tech Stocks to Buy for the Next 10 Years"
-
-secured: "EDZPXe7iXFmw97LpXtRJi9nZJu3cIcZ7715H8xxo0B1yFBlAda04q6+6Uu9Omuh3ZdqYoOHwY44ar+r7SlAoH+HCp+vXcfWPFNpR/UantHF5jcvTLqiOt5GlQvJsCQvzVsh0wNnEqtU1gH1uz+FrCpG9LwwTjZjqOQBsCqBIvYoQn2O/NMBo6zSzJIn4dDd47UQMGHdsp/6OmajwKJQbitGahUfgjYe3p+lw8oTodgPdQxIgIxSobTaCf137/fCXFbeATUFWgS0cjoY3zuInw9L8N7ffy+1D7o4DPIb/wt3TKeBzS6ffPuKN2G43walo;xHi2qw1cnjGxuynjKf5M0w=="
+secured: "g7CJustx5e2VNiCaYePhpqWRSGMn5OoNdxPZ/C0ZyXocVy6QhChn/BIdHKqnPI3xT3u23BYrPIc/9j/G91uNZNdsmTAlZBSchqNPhb4CQk+hhrP3gAX0NCz/LGIX7uUbo9GVwt/0Ho5GIgFGteLtUF9SOgGKrFAOQH90hIR2RDbSPH3v+2ZfKRnX3Rh50UpA5gvgIKGuYlU1wh0l9Qk12QyJtAZkuzdyNlJTlwl+/7mZQWjhA49zIs6waHpobW14KbPl+Q3z9mmP4cBzTdV1nNqro2yaI9q9S1mq/fGlm3k+BWmuIay49Y8V2/an04g/twgOnTZcW4JQKutWmn6CvZSGhGGFrip4sgsp4sINSf0MiQq4ROUinh+UAdwMgfW9pVPdvQdEJmR/58cUMDGsAJJoSUHdyRfvd8+2Q4SA9JCdPj/kDdOzLxKycCMCzxkk+mcqc1OdU2n1zSW4TFGzVx+YVW5d2AEiykBrDRUDLkI=;aALmn3D6EAQQhkRKWXkY7Q=="
 ---
 

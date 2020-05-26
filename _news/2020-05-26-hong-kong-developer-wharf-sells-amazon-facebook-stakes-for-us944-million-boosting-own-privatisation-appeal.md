@@ -29,6 +29,6 @@ images:
     height: 630
     title: "Hong Kong developer Wharf sells Amazon, Facebook stakes for US$944 million, boosting own privatisation appeal"
 
-secured: "Cq8hL3aDTs9DAeB4n7eKno0NxEdT8iXSpXOiASHaYDQnlV33etfdxKveoeyZr3ioZGpjbV/ePCqashotHuvd1tJnA1tnWn/mQ1NsNnpuLPX9p0dii+5eP6jUpiw+AG8usOlNdwrTUcb7ixhhdGjYNAqfWzYtDepbK/TJba5G6/gJrvlmN+/X3lTs0LlBDbWePLQRbyYZJYUWyObLMQyCZFEpcDE+reZlTljEQkplFVJr/1CN40jOzXg4Cz1cQkwhBIEx30pcC+4Y4bTafErjFhyZYMv/PdOwhQMEBuRMvsdaza9kbwGqpsP7bY8ONWYv;ccN4A5Slwy+b+WE4Ek6l7g=="
+secured: "GTxPfZhwwSelSEkXnw1YIP2RsCcDB1r8U+C1mDuwT792GUkjhXz+AES4PYLex+3tO0GHOIcaEIIS9OPtX9QI4ilWsGTmlIICID5V4dDP6xtdCJFjDnrl4hw3kyDomiWJ5W1oeQaMroPw7XYZS4/dKAGzwrPOplDXgUHK3194bM/yK7LkR3MsOBYymeuw6zGoTh2d2Q0VtJY2Kj5Izy2y64QdHilfoBfZuJ2fM+K+29QsiVBLPFTZdpNZhw+WERAlro9GJOBgE30c0zUllDBcO3OVE4rd5B1xG00HKtYZsmd0qfgYxzgNl4IN7kLgZZnzQwsi16Fohdi5OR7kwHtU3+MqFFbeRO//UGAAAR9sJhNo2uMasYjMutUs17ZL21F+4/0fynPhszz4XRI6PA/3P8NlplSQzgD3ODSxMzRse4J89dTXe5Z7kli4qmYaFrK09dU8Upi6HpoD/HA/FQSTvaDQ/IHUDfDIaGCsfurDkn4=;xLK6Ren3vSxguRxdwUoWtA=="
 ---
 

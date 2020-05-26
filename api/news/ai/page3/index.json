@@ -347,6 +347,42 @@
       ]
     },
     {
+      "path": "_news/2020-05-21-bharti-airtel-acquires-10-in-ai-start-up.md",
+      "title": "Bharti Airtel acquires 10% in AI start-up",
+      "excerpt": "Bharti Airtel on Thursday said it would acquired a strategic stake in Voicezen, an early stage start-up focused on conversational AI technologies.Gurgaon-based Voicezen has been working on developing",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindu.com/business/bharti-airtel-acquires-10-in-ai-start-up/article31644357.ece",
+      "ampWebUrl": "https://www.thehindu.com/business/bharti-airtel-acquires-10-in-ai-start-up/article31644357.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/bharti-airtel-acquires-10-in-ai-start-up/article31644357.ece/amp/",
+      "publishedDateTime": "2020-05-21T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Bharti Airtel acquires 10% in AI start-up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-the-trash-apps-new-features-can-create-ai-edited-music-videos-and-more.md",
       "title": "The Trash app’s new features can create AI-edited music videos and more",
       "excerpt": "The team behind Trash, an app that uses artificial intelligence to edit your video footage, launched a number of new features this week that should make it more useful for anyone — but especially independent musicians.",
@@ -985,6 +1021,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-21-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
+      "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
+      "excerpt": "Unbelievable! 😲 With the help of facial recognition, this man who was abducted as a child 32 years ago, was finally reunited with his birth parents.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://abc7news.com/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
+      "ampWebUrl": "https://abc7news.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
+      "publishedDateTime": "2020-05-20T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/6200174_052020-ktrk-cnn-facial-recognition-reunites-family-carolina-final.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-sphero-startup-will-make-robots-for-government-and-first-responders.md",
       "title": "Sphero startup will make robots for government and first responders",
       "excerpt": "Sphero, the company best known for its BB-8 toy robot, has announced the successful spin-off of its Company Six into a startup that will make robots for the government, military use, and more.",
@@ -1196,88 +1269,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-scientists-claim-they-can-teach-ai-to-judge-right-from-wrong.md",
-      "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
-      "excerpt": "Scientists claim they can \"teach\" an AI moral reasoning by training it to extract ideas of right and wrong from texts",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/amp/",
-      "publishedDateTime": "2020-05-20T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-42-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-gms-ultra-cruise-aims-to-take-on-teslas-full-self-driving-option.md",
-      "title": "GM's \"Ultra Cruise\" Aims to Take on Tesla's Full Self-Driving Option",
-      "excerpt": "General Motors announced it's working on a better-than Super Cruise semi-autonomous driving system internally known as \"Ultra Cruise.\"",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.motortrend.com/news/ultra-cruise-gm-details-photos/",
-      "ampWebUrl": "https://www.motortrend.com/news/ultra-cruise-gm-details-photos/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/ultra-cruise-gm-details-photos/amp/",
-      "publishedDateTime": "2020-05-20T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.motortrend.com/uploads/sites/5/2020/05/2021-Cadillac-Escalade.jpg?fit=around%7C480:270",
-          "width": 480,
-          "height": 270,
-          "title": "GM's \"Ultra Cruise\" Aims to Take on Tesla's Full Self-Driving Option",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

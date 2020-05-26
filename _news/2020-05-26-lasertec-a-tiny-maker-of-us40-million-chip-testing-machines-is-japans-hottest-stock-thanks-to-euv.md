@@ -29,6 +29,6 @@ images:
     height: 630
     title: "Lasertec, a tiny maker of US$40 million chip testing machines, is Japan’s hottest stock thanks to EUV"
 
-secured: "sDmwykdT+YmPfsL8vpHvD5mvxH/J37t3P8LPQs4KebTA+mHk3Jn1WX/pZvYza4xJOItawG2XYQ5b5sN+Yi+cqh+QBvw+yV+uBlgbVqpvgGdVau/xErbFGv8gFavsJ6PesasixN8fSW7t5o6Wp0T1E1S2Gs+AY+2Z4CKX+Q0RVGDX2cttphRp+ZIQK1KLXlus7ZpQ9MncPTWYwZqe9jUVTbcFACLW1bTETSdbMmgUwyJ0OIImT3iARmJNq5EUBoTgvyinRRm9/AYIKg9TO79Jl88sB7We9dFkXVZEprbAwGxowa+zs0Kyf6561ZNAsnnN;MD1WEhtTLVA3uFjBXPwcHA=="
+secured: "IWsuiRuDNLh9EmTPrHvVVxS0hEU06tlu5DWJ01cXZFFj9zx/xV5V6e6zYv3NoS7gBo6wfYTFxXFyqhW36YLLfy513c2F37L1tPveuUfMrc8UKqwIbFiRtnGraWPX0PH9B0uzkV+du5fyCBFbXmJtTIz7oIaJqQrv4KG0nRcBXKZFodrJW+XhoVjydDtbUHX6qniGCXZx6+cHYfjA19CMAVAWx+dBR8HS90GB9NfGjk2oWklnP2pmb56ozUJla3aFTR8Ss9G9I9l99SUO6yGvuQceq40qiLk3mElGQHhVqth/O9/H3lf7iwKDtiwlIHW40PaQFEv8nLXHVsvpthzXph+2cwW8H+Y+aCThSdPNFxIGFon6t6104f5M4NeCCQH2gv9ygxw90HXVPBmRfXBtJjkl6yvrlKWYN6CzzeCiB0jDuQvzytXHI0NKj1jHdd9uGUdGhvAxO2O2D7XBW1sCBKeaBgo02HOMCWQGmspduik=;+EJh9NZXy8yW1pYP1TYvJw=="
 ---
 

@@ -23,17 +23,6 @@ images:
     height: 355
     title: "Building a deep learning model to judge if you are at risk."
 
-related:
-  - title: "Science in the age of machine learning"
-    excerpt: "The rise of machine learning is moving research away from tightly controlled, theory-guided experiments towards an approach based on data-driven searches. Abbas Ourmazd describes how this change might profoundly affect our understanding and practice of physics."
-    publishedDateTime: 2020-05-21T11:37:00Z
-    webUrl: "https://www.nature.com/articles/s42254-020-0191-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 19
-
 secured: "EtsTujeSg7l0lrE9qpZfaWlXnKJXnBeiglShAy89X7l6GKsPmORgvpEkgwar0s3fRmDQNxXCOlsHJPBqnQJZUwdLSZk50c3wnUmsVbLRYiz2VGugbRA6eNzRhuZz16RIFdn8MATy3GjHK24dnFZ6WKCuVP18TxsVOOJ07zz3wRyORFYTsSpFq+1Y/qdjKCyCknBQRLgdelUfDvnf+4nWBQ78KjDsMDXSdETK7YGpddpD5WrVUxE1LZETQIxmu8b4tJWfPj5CGF7qngn0BsoDoGJ+SJ1OC98jYBvGJChRx0fc8ktfMVrkx4wXzyYi/u+/;cdzzULXxddAjq9zRH1nv7w=="
 ---
 
