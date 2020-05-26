@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-17-help-wanted-autonomous-robot-guide.md",
+      "title": "Help wanted: Autonomous robot guide",
+      "excerpt": "COVID-19 knocked the wheels off the economy, but one nascent tech job not only kept rolling, it picked up speed. Teleoperations — or more specifically, teleops for autonomous delivery robots — is still a niche job within an industry that has yet to dive into the deep end of the commercialization",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/17/help-wanted-autonomous-robot-guide/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/17/help-wanted-autonomous-robot-guide/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/17/help-wanted-autonomous-robot-guide/amp/",
+      "publishedDateTime": "2020-05-17T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/POSTMATES-OUSTER-1.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": "Help wanted: Autonomous robot guide",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-16-irobots-roomba-i7-robot-vacuum-has-been-perfect-pandemic-company.md",
       "title": "iRobot’s Roomba i7+ robot vacuum has been perfect pandemic company",
       "excerpt": "You’d think that, after all this time at home waiting out the COVID-19 pandemic, I’d have got around to vacuuming more. Instead I’ve been offloading most of the responsibility to",
@@ -1197,51 +1242,6 @@
           "width": 1400,
           "height": 933,
           "title": "Pittsburgh’s airport is the first in the US to use UV-cleaning robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-zoom-xoom-zum-why-does-every-start-up-sound-fast-now.md",
-      "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
-      "excerpt": "One day this quarantine, who can say which, I encountered the following pieces of information: Zoom, the videoconferencing company, saw its stock hit a new high; Züm, a ride-sharing venture, cut its work force by a third;",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/07/technology/zooooooooooooom.amp.html",
-      "publishedDateTime": "2020-05-07T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/07/business/07Zoom-illo/07Zoom-illo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
           "attribution": null
         }
       ],

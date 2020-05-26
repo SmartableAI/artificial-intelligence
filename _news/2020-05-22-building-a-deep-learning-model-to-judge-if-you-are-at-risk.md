@@ -23,17 +23,6 @@ images:
     height: 355
     title: "Building a deep learning model to judge if you are at risk."
 
-related:
-  - title: "Machine Learning Through Streaming at Lyft"
-    excerpt: "Sherin Thomas talks about the challenges of building and scaling a fully managed, self-service platform for stream processing using Flink; best practices, and common pitfalls. Thomas is going into the details of how the Lyft system evolved over the last couple of years,"
-    publishedDateTime: 2020-05-21T18:41:00Z
-    webUrl: "https://www.infoq.com/presentations/ml-streaming-lyft/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 19
-
 secured: "EtsTujeSg7l0lrE9qpZfaWlXnKJXnBeiglShAy89X7l6GKsPmORgvpEkgwar0s3fRmDQNxXCOlsHJPBqnQJZUwdLSZk50c3wnUmsVbLRYiz2VGugbRA6eNzRhuZz16RIFdn8MATy3GjHK24dnFZ6WKCuVP18TxsVOOJ07zz3wRyORFYTsSpFq+1Y/qdjKCyCknBQRLgdelUfDvnf+4nWBQ78KjDsMDXSdETK7YGpddpD5WrVUxE1LZETQIxmu8b4tJWfPj5CGF7qngn0BsoDoGJ+SJ1OC98jYBvGJChRx0fc8ktfMVrkx4wXzyYi/u+/;cdzzULXxddAjq9zRH1nv7w=="
 ---
 

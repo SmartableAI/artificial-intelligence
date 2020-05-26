@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-22T04:20:00Z
 webUrl: "https://menafn.com/1100203566/Airtel-buys-10-stake-in-conversational-AI-startup-Voicezen"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     title: "Airtel buys 10% stake in conversational AI startup Voicezen"
 
 related:
-  - title: "Airtel buys 10% stake in conversational AI startup Voicezen"
-    excerpt: "Bharti Airtel on Thursday said that it has acquired a 10 per cent stake in Voicezen, an early stage startup focused on conversational AI technologies."
-    publishedDateTime: 2020-05-21T18:21:00Z
-    webUrl: "https://www.sify.com/news/airtel-buys-10-stake-in-conversational-ai-startup-voicezen-news-education-ufvxF9fjicgfa.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
-    images:
-      - url: "http://iansphoto.in/web/photoimages_new/400/2017/11/22/b60e90261d0a521e6d91819a388a4d58.jpg"
-        width: 369
-        height: 400
   - title: "Airtel picks stake in conversational AI focused startup Voicezen"
     excerpt: "The investment will give Airtel preferred access to Voicezen’s technologies, which can be deployed across its customer touchpoints in multiple languages."
     publishedDateTime: 2020-05-25T07:04:00Z
@@ -47,6 +34,15 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 37
+  - title: "Airtel acquires stake in AI startup Voicezen"
+    excerpt: "Indian mobile operator Airtel has acquired a stake in conversational AI-focused startup Voicezen. No financial details related to the investment have been released. Gurgaon-based Voicezen is developing services that leverage machine learning,"
+    publishedDateTime: 2020-05-22T04:55:00Z
+    webUrl: "https://www.telecompaper.com/news/airtel-acquires-stake-in-ai-startup-voicezen--1339552"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "6eUfvgtJGY7jxhtADdt00P09BD5lFFptwa5/hRgNRj4+dsGXZR3evbvGHBMLKpzRY3RvzxMH6qXWi/ECaE3Jaa8PQUmBXRMsalC0wycLKHFb6r3cA91EjoPc/baTL0oteNlpTvUZ+M63dOTTeVy83XldPpqrpXrFFGV5Fl8NgFh/O6mYiF567q0WgF5BddP1ZQsszs0t9fsQ2PGllXfo1eDeO5qPrQXWXo1UXivh32Z17g0z1PaeyzAbQ/K2lWh7zFPA/NdJA1wubWOCtVHg3pxhVFuLLvvzpEFUFU5cIYhdQqFkZvlgXR9IGyM0tUqG;ws34FBX4PEyf8FwI4tNaTg=="
 ---
