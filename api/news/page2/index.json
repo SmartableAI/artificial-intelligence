@@ -2,6 +2,264 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-27-e-commerce-giant-amazon-in-talks-to-buy-autonomous-vehicle-start-up-zoox.md",
+      "title": "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox",
+      "excerpt": "Amazon is in talks to buy driverless vehicle start-up Zoox, according to people familiar with the matter, a deal that would accelerate the e-commerce giant’s automation efforts.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
+      "publishedDateTime": "2020-05-26T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/27/e5187472-9fd0-11ea-8055-0ae12e466049_image_hires_121813.jpg?itok=IUl69-RQ&v=1590553099",
+          "width": 1200,
+          "height": 630,
+          "title": "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox.md",
+      "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
+      "excerpt": "Amazo AMZN n may be preparing to make a big move into the self-driving vehicle world as the logistics giant is said to be in “advanced” talks to acquire Zoox, a stealthy developer of robotaxi technology,",
+      "heat": 159,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
+      "publishedDateTime": "2020-05-26T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecdb8a20ca0110007263878%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson.md",
+      "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
+      "excerpt": "As I’ve previously discussed, Natural Language Processing (NLP) is making its way into every industry. Each day, organizations find a way to implement NLP into their organization to speed up a process, analyze data more efficiently, or even provide smarter recommendations. As the amount of unstructured",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T17:00:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_03_27_Blog_NLP_BlogBanner-990x498.png",
+          "width": 990,
+          "height": 498,
+          "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-wada-looks-to-artificial-intelligence-to-catch-dopers.md",
+      "title": "WADA looks to artificial intelligence to catch dopers",
+      "excerpt": "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes who cheat. WADA is funding four projects in Canada and Germany,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/sports/article/WADA-looks-to-artificial-intelligence-to-catch-15294888.php",
+      "ampWebUrl": "https://www.sfgate.com/sports/amp/WADA-looks-to-artificial-intelligence-to-catch-15294888.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/sports/amp/WADA-looks-to-artificial-intelligence-to-catch-15294888.php",
+      "publishedDateTime": "2020-05-26T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "WADA looks to artificial intelligence to catch dopers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering.md",
+      "title": "Google AI researchers want to teach robots tasks through self-supervised reverse engineering",
+      "excerpt": "Google and Stanford University researchers propose a technique that has AI predict the steps required to reach a goal state.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/amp/",
+      "publishedDateTime": "2020-05-26T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google AI researchers want to teach robots tasks through self-supervised reverse engineering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it.md",
+      "title": "AI is more data-hungry than ever, and DefinedCrowd raises $50M B round to feed it",
+      "excerpt": "As AI has grown from niche to mission-critical technology, the companies that enable it have multiplied and in many cases prospered. A good example of that success is DefinedCrowd, which has gone from the Disrupt stage to globe-spanning AI toolkit to the Fortune 500 in just a couple years.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/26/ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/26/ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/26/ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it/amp/",
+      "publishedDateTime": "2020-05-26T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/definedcrowd.png?w=1024",
+          "width": 1024,
+          "height": 502,
+          "title": "AI is more data-hungry than ever, and DefinedCrowd raises $50M B round to feed it",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty.md",
       "title": "AI can battle coronavirus, but privacy shouldn’t be a casualty",
       "excerpt": "Introduced as short-term fixes to the immediate threat of coronavirus, widespread data-sharing, monitoring and surveillance could become fixtures of modern public life.",
@@ -86,51 +344,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-arm-doubles-down-on-ai-for-mobile-devices.md",
-      "title": "Arm doubles down on AI for mobile devices",
-      "excerpt": "If you care the least bit about where the mobile device market is headed, it’s important to keep track of the new advancements that Arm introduces. While you won’t experience them immediately, if you purchase a new smartphones 12-18",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "publishedDateTime": "2020-05-26T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2019/12/2019-12-10-image-16.jpg",
-          "width": 3840,
-          "height": 2560,
-          "title": "Arm doubles down on AI for mobile devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -395,43 +608,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-wada-looks-to-artificial-intelligence-to-catch-dopers.md",
-      "title": "WADA looks to artificial intelligence to catch dopers",
-      "excerpt": "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/",
-      "ampWebUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
-      "cdnAmpWebUrl": "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
-      "publishedDateTime": "2020-05-26T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSEE",
-        "domain": "yourcentralvalley.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2020/05/4878bde720924c678f20a60662f1f937.jpg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": "WADA looks to artificial intelligence to catch dopers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {
@@ -924,177 +1100,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-rico-gear-using-artificial-intelligence-to-create-rugby-training-app.md",
-      "title": "Rico Gear using artificial intelligence to create rugby training app",
-      "excerpt": "Gear, who played 20 Tests for the All Blacks, is setting up an app to help players improve, but with so many training apps on the market his point of difference is using artificial intelligence. \"The artificial intelligence is going to get to the point where to show the difference between elite and beginner and everything in between,",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tvnz.co.nz/one-news/sport/rugby/rico-gear-using-artificial-intelligence-create-rugby-training-app",
-      "ampWebUrl": "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYyNiUyRnJpY28=",
-      "cdnAmpWebUrl": "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYyNiUyRnJpY28=",
-      "publishedDateTime": "2020-05-26T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TVNZ 1",
-        "domain": "tvnz.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/26/GEAR_Rico_173888.jpg?w=700&h=393.75&fit=crop&auto=format",
-          "width": 700,
-          "height": 394,
-          "title": "Rico Gear using artificial intelligence to create rugby training app",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker.md",
-      "title": "The Bundesliga Is Using Cloud And AI To Power New Stats For ‘Der Klassiker’",
-      "excerpt": "Borussia Dortmund v Bayern Munich will be the first Bundesliga broadcast to offer xGoals and Average Position 'Match Facts' to viewers, powered by AWS infrastructure",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/amp/",
-      "publishedDateTime": "2020-05-26T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1214865857%2F0x0.jpg",
-          "width": 1200,
-          "height": 752,
-          "title": "The Bundesliga Is Using Cloud And AI To Power New Stats For ‘Der Klassiker’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g.md",
-      "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
-      "excerpt": "Samsung has announced a new Exynos chip for its mid-range smartphones, the Exynos 880. The octa-core chip is based on the 8nm FinFET process and features an integrated 5G modem with sub-6GHz support.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g",
-      "ampWebUrl": "https://www.neowin.net/amp/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g/",
-      "publishedDateTime": "2020-05-26T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1590465939_exynos-880_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-google-assistant-may-soon-confirm-some-purchases-by-voice.md",
-      "title": "Google Assistant may soon confirm some purchases by voice",
-      "excerpt": "Remember the almost comical incident more than three years ago when Amazon Echo speakers started ordering dollhouses because a TV anchor said so? Those things are long behind us and people have",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/google-assistant-may-soon-confirm-some-purchases-by-voice-25621939/",
-      "ampWebUrl": "https://www.slashgear.com/google-assistant-may-soon-confirm-some-purchases-by-voice-25621939/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-assistant-may-soon-confirm-some-purchases-by-voice-25621939/amp/",
-      "publishedDateTime": "2020-05-25T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/google-home-mini-review-sg-4.jpg",
-          "width": 1278,
-          "height": 809,
-          "title": "Google Assistant may soon confirm some purchases by voice",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

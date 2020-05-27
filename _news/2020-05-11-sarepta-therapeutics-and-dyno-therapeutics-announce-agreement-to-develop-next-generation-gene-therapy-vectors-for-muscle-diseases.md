@@ -1,21 +1,19 @@
 ---
 category: news
 title: "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases"
-excerpt: "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design AAV vectors -- CAMBRIDGE ..."
-publishedDateTime: 2020-05-11T11:06:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15998024"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024"
+excerpt: "Dyno Therapeutics is a pioneer in applying artificial intelligence (AI) and quantitative high-throughput in vivo experimentation to gene therapy. The company’s proprietary CapsidMap™ platform ..."
+publishedDateTime: 2020-05-11T00:00:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/05/11/2030949/0/en/Sarepta-Therapeutics-and-Dyno-Therapeutics-Announce-Agreement-to-Develop-Next-Generation-Gene-Therapy-Vectors-for-Muscle-Diseases.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "MASAuh8WDZv9zRjNV9R9NWW6TukJGb7HeYnqAQ6NFKAWEqKzQN09KXG8qnZibWftpc+1Fg9g1r/T9XYMVuVvn0sEBxaDbSqUmGnysAvw599lTZH7YtrhIMHm4eVOBjiFNxqunUaWveDXFFmr5kFGxXFRLJEfy1ZskV7B33CEOPiYHv9r5tciwz4oT4pRfLI5nDWJqk2fGXBn1t6nMleh9Q2IFxb0GXPW3TWE27uIE9IBlI+MW387OikU6e7dTL2nrJbTqhMeX/9E2fYEvT7EcdJYyy3VkHsgFY1sCfMdIPDARNzC3AjyVxl2+llry5zw;grHIpepX3Vs+HHM+siHl6w=="
+secured: "rU9Lv8QfLyACZA2ejmDhDH+3J2eK27cCNRqvcAbS+q1jNouBilsmFuULdRA9G+OHyiypwTWCopsk3Rm23WHEQRj6GjrrbriS1Wc6lbUa5P3E4e0sQYlgEg8Lus1MG3MV+ptipegCd9oyjsXSab+JjTc9VJPHuAOWx37LXbeK8dNodO+roclNW5LRX2axLsi0oKMI7XeU2sR+Imuy/Un1EsOb4m4jVtBObG4BQaoZ6cNHx7hExrSjksBqMlQRVMSyqsjxCLqDlDLxaqoKp8CdEmnelAABD23R7ShoEE0qGqgyeovdsdnniVOufvwLdsWt;UWY5LpkUnCxx6lMSAktB8w=="
 ---
 

@@ -2,6 +2,35 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-09-weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal.md",
+      "title": "WeRide Trade Secrets Feud With Rival, Ex-Execs Ends In Deal",
+      "excerpt": "Self-driving car startup WeRide has reached an agreement to end its heated trade secrets spat with a rival company founded by two of its former executives, according to a joint stipulation of dismissal lodged Friday in California federal court.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.law360.com/articles/1272042/weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1272042",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272042",
+      "publishedDateTime": "2020-05-08T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-3-companies-that-highlight-the-power-of-crowdfunding-for-vr.md",
       "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
       "excerpt": "Facebook allegedly has plans to use artificial intelligence to monitor its ad program and prevent fake news. Driverless cars are already underway, powered by AI. It will even start taking over the more dangerous jobs, where a shortage of workers is ...",
@@ -587,51 +616,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
-      "title": "3 Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "publishedDateTime": "2020-05-06T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571563%2Fgettyimages-1135819437.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 729,
-          "title": "3 Artificial Intelligence Stocks to Buy in May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {

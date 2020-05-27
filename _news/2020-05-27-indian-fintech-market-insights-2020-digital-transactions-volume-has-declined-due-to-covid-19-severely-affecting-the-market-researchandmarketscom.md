@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Indian Fintech Market Insights, 2020 - Digital Transactions Volume Has Declined due to COVID-19, Severely Affecting the Market - ResearchAndMarkets.com"
 
-secured: "IpunCKlRUUzcpRNnMUmBGaK4sWzPhVAEWf+Akj9XSoFj4f1mWtsjBPCw0B8D5r/NzjqbR5VZ57/kUDjfSRaMRxMPifbAx0yyuxxYQPHaQjTr+cvt8UieeQ1X5XcFTqKPcKt1laEFPU4DicZHfw42it5/kvgD/0Z0sbERrRE+VEeiubo+uNzYX2KZSKe+fDpi4Mref5lN/4B0XSQCOrWDW016KjqQ7niQT/97gATi/p108yErA4tza5Wr/j2z13uuLJ6ZnfPIVbGNMHPUOvDBQZvZs1yY8UtqWocMnbcurLKtpxbYEZczw5Zvrj5VZxVB;wS0q1N3t72HW29jre51mgA=="
+secured: "e5vS4o+p1oYQRCdD9/OjtiyQkfx6Ewbd1Uen/qTrSHOmQlb1TLMA//aQJ72NJuOkrTCJWU9gL9RVq6Y0syNfF0VFuET6t4yMk5OLt5O2bqavhcIrrRXITaCIexrshkB6jAl4/6+OjuZwu+QxuKfoZbKR9WjYfUQOVMYSs/FgaU2T5V+cEcXK5ReOQIpNl6Tcxmf8BzCJIbg9HZJX1Jiru7f6ceQhLicVfG0i/SONBQe9Dc0L8unutrc2mhrQoUYlSSfLAlvef4mWW/sML7jIuGnOxc+IITXJr135MFqQbo5Hlj4+ENSeWleY/6DwhHBIEw6t+jBTkw/4ZqHPvobSmdupy+8GAjp2wFo13sRY+p6ywqNB5Q2i64Z5u2U3NMfP2luUyo7PNdofDf0uW5UF5CzFOXcFRm7wxyYqynxGVJuaedMFYNoQLvH6NKVGYKDqqGDYYAmkEg1rIyoIJh5a2/oEqU/717iJOMRULn6uiR4=;wO3tYfRUsbZc/g+oarT/OA=="
 ---
 

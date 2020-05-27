@@ -2,16 +2,16 @@
 category: news
 title: "Temperature check kiosks ready to tackle COVID-19"
 excerpt: "All types of locations where people congregate to enforce social distancing and identify individuals with high temperatures on account of COVID-19. In response, technology providers have developed automated identity and temperature monitoring tools that allow locations to check people's temperatures."
-publishedDateTime: 2020-05-27T16:02:00Z
-webUrl: "https://www.vendingtimes.com/blogs/temperature-check-kiosks-tackle-covid-19/"
+publishedDateTime: 2020-05-27T18:45:00Z
+webUrl: "https://www.retailcustomerexperience.com/blogs/temperature-check-kiosks-tackle-covid-19/"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Vending Times
-  domain: vendingtimes.com
+  name: Retailcustomerexperience.com
+  domain: retailcustomerexperience.com
 
 topics:
   - Natural Language Processing
@@ -23,6 +23,6 @@ images:
     height: 360
     title: "Temperature check kiosks ready to tackle COVID-19"
 
-secured: "POOxa/fh6VwLWlu7AoKa1BkDJRvJ2uG36xrLj+uSRtOEMnUEjNrbhFy02XaJmIqz7wfGVe3lnkvsncVV2sT0i49iPzYk4UmRdATv9rngGRFgkg0rGvEUYel4C2FZ9ehyJwzu4Wy8ON/vKnX7l0+XzRBVyJ+MVDaDN4K63GLpVeB0qPw+RgN7RioB7/9F2j4q+6z5LJ0o0l53KvrDDJthmbbNHDlaENDVB52i7oaaw4lVE3fmeIsuX3hsNR1cHtyz5z1U4lJWjOYsrTO2Tnx+RtC5xnpDfIExwLTsWBgDCGgWfmNDOqwsjgGSgUis+NXa;JinkbWsKF/Vp9pAYDAfznw=="
+secured: "bboQMFyhu2BvAbmkdU48B/i5eL6MbFGmPMhrYWhYHnAET/PvNjTv3wvHxiYsDViWOQtGpuxj8Ym8xnX4W/UKsRgE+f2q9VUophWSqcvSuJJixNypR7j7IEHvyRC2Ay6vNQT9QStZXH3DYkZT0WSx/BPyLrRak9FwHeRAZYuW9XFur+YK61KsC28TmIueCSYglS/3eblCAotvj77s2y+HMN6UsMatfQOQpx7ti0n0s1zxQ9Y92X19PgzLJg76YLdbIMKpYqIR7klsqjaXzdea435OlUeN2h5fH0ygIV8oaSYXVjsRkI+3j3RorA+vdxc9;tKeO8niMpaw35fjq7Ajw3Q=="
 ---
 

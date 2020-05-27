@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "WADA looks to artificial intelligence to catch dopers"
-    excerpt: "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes"
-    publishedDateTime: 2020-05-26T15:08:00Z
-    webUrl: "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/"
-    ampWebUrl: "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/"
-    cdnAmpWebUrl: "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/"
+    excerpt: "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes who cheat. WADA is funding four projects in Canada and Germany,"
+    publishedDateTime: 2020-05-26T23:06:00Z
+    webUrl: "https://www.sfgate.com/sports/article/WADA-looks-to-artificial-intelligence-to-catch-15294888.php"
+    ampWebUrl: "https://www.sfgate.com/sports/amp/WADA-looks-to-artificial-intelligence-to-catch-15294888.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/sports/amp/WADA-looks-to-artificial-intelligence-to-catch-15294888.php"
     type: article
     provider:
-      name: KSEE
-      domain: yourcentralvalley.com
-    quality: 59
+      name: SFGate
+      domain: sfgate.com
+    quality: 57
     images:
-      - url: "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2020/05/4878bde720924c678f20a60662f1f937.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
   - title: "World Anti-Doping Agency looks to artificial intelligence to catch dopers"
     excerpt: "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes"
     publishedDateTime: 2020-05-26T16:07:00Z

@@ -22,6 +22,6 @@ images:
     height: 749
     title: "Tuya Smart unveils 2020 strategy, launches Cloud Development Platform to global developers during the AI+IoT Business Conference"
 
-secured: "/Oc1BfnLQ5XQAi6BjEqJ7QC3UAB4+fvR+/k+Kcx2BXxtu8m+QMOBp49ouiu5J00uVFE1KG0TS+XVwHA+E1aMQCwBPhGtGKLXXd/nTdvbXtPcKf4EXgG9IJ87o/xJDSDfToDT9b/5DOTXK3keG6XKZSAgb7vC9pjc+3uvIl+B0n0UFcutHvvVTEV6Va1Yp6p5nMWZ0DjdPv5TXqqlqBCQyGUNybx0K/jFNTdwedHiIdofgsgtU+H5gpkdS0iAWAcd783fX18Hcr26fX64Pq4L3sSGZLOSRVXWo7qrkEJyp6xuFwrW37OW9O5ybDqJYCxi;NXDxAkpfBAcG8LwrLIYOYw=="
+secured: "032NktYY79QhW8bq2ZuRHWac+8LJd2QdPNGIv1UjFOQvfvRyUbVRjuKtjdTof3som5RCaAaLN7Gc5uuKEo52InX2QGQlPm4+wiQP5UmkxXBz0lTRqmjpBqoWZ9N4kdAlAiKhut1nXUwSpU0NH1XPvXBvzdLfURrY8AkdrmzZEZRO/4StW56hPx3c8Wj+cnvre/i2erRU6y8XL/nGPs40BJdDhfLCsIOuX6s6ZuREcEvGaDqDBUl4qYmwg+lafiBY6tVPeXrcoe6F6PWowGsjfizEP1n8Hr8R8i9k+A3k6ZqWs9UnqZHjHBHh8+vZ9kUGfoU8UqRN9lzfDqGGFEaqjcjisuQEfY+tGn2W4YaJHXYJ7+hhyz/W6FLaGmd2BvHApG8r7r1LLrXk0hxB0X4j9wK0IDvsXNxvKsNR2b912E82iUuuL6i/julJAFfQnkwinwZ+Woaa1IPhFzqYnrC9QT6lP/10si2BxtBBOJHbniQ=;mLd4igw1vahzUQNeQ+aVIQ=="
 ---
 

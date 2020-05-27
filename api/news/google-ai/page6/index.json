@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-01-15-ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction.md",
+      "title": "AI can fight climate change but there's a catch: Optimization doesn't automatically equal emissions reduction",
+      "excerpt": "The event was sponsored by Google's DeepMind, Microsoft, and ElementAI, the AI software and services firm co-founded by Yoshua Bengio, a star in the field of deep learning. Organizers were from Climate Change AI, a group of volunteer researchers from institutions around the world. What is artificial general intelligence? Everything you need ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction/",
+      "publishedDateTime": "2020-01-15T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/15/17b15a0a-75a3-4e60-8f52-373c4dfcb3ed/yoshua-bengio-andrew-ng-climate-panel-dec-2019.png",
+          "width": 2483,
+          "height": 1385,
+          "title": "AI can fight climate change but there's a catch: Optimization doesn't automatically equal emissions reduction",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-coral-is-googles-quiet-initiative-to-enable-ai-without-the-cloud.md",
       "title": "Coral is Google’s quiet initiative to enable AI without the cloud",
       "excerpt": "Market analysts predict that more than 750 million edge AI chips and computers will be sold in 2020, rising to 1.5 billion by 2024. And while most of these will be installed in consumer devices like phones, a great deal are destined for enterprise customers in industries like automotive and health care. To meet customers’ needs Coral offers ...",

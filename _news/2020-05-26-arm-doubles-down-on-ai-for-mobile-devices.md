@@ -1,34 +1,22 @@
 ---
 category: news
-title: "Arm doubles down on AI for mobile devices"
-excerpt: "If you care the least bit about where the mobile device market is headed, it’s important to keep track of the new advancements that Arm introduces. While you won’t experience them immediately, if you purchase a new smartphones 12-18"
-publishedDateTime: 2020-05-26T19:05:00Z
-webUrl: "https://www.techspot.com/news/85377-arm-doubles-down-ai-mobile-devices.html"
-ampWebUrl: "https://www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html"
-cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html"
+title: "Arm Doubles Down On AI For Mobile Devices"
+excerpt: "In addition to the A78, Arm debuted a whole new branch of CPUs with the Cortex-X1, a larger, but more powerful design. On the GPU side, the company made two different introductions: one at the top end of the performance chain and the other emphasizing the rapidly growing opportunity for moderately priced smartphones."
+publishedDateTime: 2020-05-26T16:32:00Z
+webUrl: "https://seekingalpha.com/article/4350084-arm-doubles-down-on-ai-for-mobile-devices"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
-  name: TechSpot
-  domain: techspot.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://static.techspot.com/images2/news/bigimage/2019/12/2019-12-10-image-16.jpg"
-    width: 3840
-    height: 2560
-    title: "Arm doubles down on AI for mobile devices"
-
-secured: "vurmEjX8CHBH3qddNhJLJwfPB3hRTbGiub46iDR1sSrxLAUFNC2bkrQ+LBkypMACcfLyx6AOV3s/QZG0bzBwCrgo4f9MXCoonlZbnW5uK/C95lyZVFRruW9HwnxBwDwihjWjPm2BcowVgbbVB6jIrSuVgdsj8zWGte1OTNYSgYhiyEgiRmh9HCGuwPWkrTcF4hJwa4ZNB66sUfANg82Dj8ybGxXYh2Zev3jXHzFZPBmbfssQDbft05sv4Di1aoVTLfxX7nCKjFCtv5aFqJsOH4D0TdfYUUtVt3Xm7yC6WtC2kBUT9yIqIJpSLfII5NmKRdZrdeBCi3YHFTL4z1wcDcpRjD0uDVwXiu7V+Vw1Z2/CmtY6wD0Ln8NIIAmMI19JIz1ypQUx4lpHUBcoiWj2JC/R/U+wp26aUaSp0OEpeOroFQr623EbDckLBhzTDiKil6Y0KjNeW2TxNB9tGFbJSKu9qwkmXtjInV3r2v/XiMg=;dWfEIcCFHvOluhMI4pYE4g=="
+secured: "4ffYkQeZD5HBZofM1jcOj9VuN7SagVxF6LKGUMUkXH1Z6dA7OQUjQA8Dm6y7jTlZ9YGKYfLwRwDibB6+TZw5ifEdpSAT4LtG28QYlXTycEe8FwzSKURg9kJqYYGNjwir47KEzPLDNBo86ZWl7V5Aty/AmWxpzXN3S5zApNV7MOry4MEJ1vE6hagmcvwFlCgY1m+Z1H9l8HZU5N5coMYd8d0IuThH/fwbwhuD0KkpZqs7KiPSXwQQveqWQT6aIQJMe4DbX0OZIB0pmN8t7eJ66pZBd177XFQzEiXuE2qPjey3TQLu9Sqb0Je/iXcikvJO;mJVODAxpo8K4R9Z/nCxALw=="
 ---
 

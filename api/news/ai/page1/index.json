@@ -2,6 +2,170 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-27-making-it-easier-to-stay-caught-up-with-cortana-in-microsoft-365.md",
+      "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
+      "excerpt": "The post Making it easier to stay caught up with Cortana in Microsoft 365 appeared first on The AI Blog.\n",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/",
+      "ampWebUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/amp/",
+      "cdnAmpWebUrl": "https://www-microsoft-com.cdn.ampproject.org/c/s/www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/amp/",
+      "publishedDateTime": "2020-05-27T12:48:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/05/Cortana-Briefing-SOCIAL.png",
+          "width": 1200,
+          "height": 634,
+          "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-computer-vision-and-uncertainty-in-ai-for-robotic-prosthetics.md",
+      "title": "Computer vision and uncertainty in AI for robotic prosthetics",
+      "excerpt": "Researchers have developed new software that can be integrated with existing hardware to enable people using robotic prosthetics or exoskeletons to walk in a safer, more natural manner on different types of terrain.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200527133147.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-new-models-use-computer-vision-and-ai-to-identify-covid-19-in-x-rays.md",
+      "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
+      "excerpt": "Students at Cranfield University have designed computer models that can identify COVID-19 in X-rays. The models use computer vision and artificial intelligence (AI) to analyze chest X-ray imagery. It can classify information which would not normally be recognized with the naked eye and assist with the diagnosis of COVID-19.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
+      "publishedDateTime": "2020-05-27T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-baidu-accelerates-its-self-driving-car-initiative-with-new-test-center-and-partnership.md",
+      "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
+      "excerpt": "Big investments in autonomous-vehicle and AI technology could be the key to getting Baidu's growth back on track.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
+      "publishedDateTime": "2020-05-27T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576084%2Fgettyimages-1136820871.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse.md",
       "title": "Scientists are using AI to predict which lung cancer patients will relapse",
       "excerpt": "A new AI tool could predict which lung cancer patients will suffer a relapse by analyzing genetic data and pathology images",
@@ -93,7 +257,7 @@
       "path": "_news/2020-05-27-investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market.md",
       "title": "Investments in AI to Grow as COVID-19 Strikes Artificial Intelligence (AI) Chipset Market",
       "excerpt": "The sudden challenges created by the ongoing COVID-19 are captured effectively to exhibit the long term growth projections",
-      "heat": 75,
+      "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market-2020-05-27",
@@ -131,7 +295,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -527,9 +692,9 @@
       "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/au/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "webUrl": "https://www.techradar.com/in/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
       "publishedDateTime": "2020-05-27T06:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -562,6 +727,51 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-the-role-of-augmented-intelligence-in-fighting-against-a-pandemic.md",
+      "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
+      "excerpt": "Augmented intelligence is on track to change the way the world manages a pandemic and the tools it can use to detect and cure potential outbreaks in the future.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
+      "publishedDateTime": "2020-05-27T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-25-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -876,7 +1086,7 @@
       "path": "_news/2020-05-27-e-commerce-giant-amazon-in-talks-to-buy-autonomous-vehicle-start-up-zoox.md",
       "title": "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox",
       "excerpt": "Amazon is in talks to buy driverless vehicle start-up Zoox, according to people familiar with the matter, a deal that would accelerate the e-commerce giant’s automation efforts.",
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
@@ -959,6 +1169,42 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-wada-looks-to-artificial-intelligence-to-catch-dopers.md",
+      "title": "WADA looks to artificial intelligence to catch dopers",
+      "excerpt": "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes who cheat. WADA is funding four projects in Canada and Germany,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sfgate.com/sports/article/WADA-looks-to-artificial-intelligence-to-catch-15294888.php",
+      "ampWebUrl": "https://www.sfgate.com/sports/amp/WADA-looks-to-artificial-intelligence-to-catch-15294888.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/sports/amp/WADA-looks-to-artificial-intelligence-to-catch-15294888.php",
+      "publishedDateTime": "2020-05-26T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "WADA looks to artificial intelligence to catch dopers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1047,267 +1293,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty.md",
-      "title": "AI can battle coronavirus, but privacy shouldn’t be a casualty",
-      "excerpt": "Introduced as short-term fixes to the immediate threat of coronavirus, widespread data-sharing, monitoring and surveillance could become fixtures of modern public life.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/amp/",
-      "publishedDateTime": "2020-05-26T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1216351064.jpg?w=1024",
-          "width": 1024,
-          "height": 565,
-          "title": "AI can battle coronavirus, but privacy shouldn’t be a casualty",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars.md",
-      "title": "How Cinelytic is using AI to help Hollywood reboot for the streaming wars",
-      "excerpt": "L.A.-based Cinelytic wants to help Hollywood studios use AI to improve their decision-making and forecasting as they launch their streaming services.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/26/how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/26/how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars/amp/",
-      "publishedDateTime": "2020-05-26T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/cinelytic-e1590410711396.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "How Cinelytic is using AI to help Hollywood reboot for the streaming wars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-arm-doubles-down-on-ai-for-mobile-devices.md",
-      "title": "Arm doubles down on AI for mobile devices",
-      "excerpt": "If you care the least bit about where the mobile device market is headed, it’s important to keep track of the new advancements that Arm introduces. While you won’t experience them immediately, if you purchase a new smartphones 12-18",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "publishedDateTime": "2020-05-26T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2019/12/2019-12-10-image-16.jpg",
-          "width": 3840,
-          "height": 2560,
-          "title": "Arm doubles down on AI for mobile devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher.md",
-      "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
-      "excerpt": "Some big trends stand to benefit Nvidia and its rivals, Intel and Advanced Micro Devices Inc. (NASDAQ: AMD). These include artificial intelligence, gaming and driverless vehicles.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/",
-      "ampWebUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
-      "publishedDateTime": "2020-05-26T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2019/02/imageforentry7-azs.jpg?w=400",
-          "width": 400,
-          "height": 225,
-          "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-facebooks-ai-convincingly-inserts-people-into-photos.md",
-      "title": "Facebook’s AI convincingly inserts people into photos",
-      "excerpt": "Facebook researchers propose AI that can insert people into existing images, and even change the hair and clothing styles of those inserted people.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/amp/",
-      "publishedDateTime": "2020-05-26T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AI convincingly inserts people into photos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
-      "excerpt": "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023-2020-05-26",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

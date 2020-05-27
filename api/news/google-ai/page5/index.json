@@ -2,6 +2,44 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-18-google-revealed-to-have-acquired-the-most-ai-startups-since-2009.md",
+      "title": "Google revealed to have acquired the most AI startups since 2009",
+      "excerpt": "Coming in behind Google was Apple with 18 AI companies acquired for a total disclosed amount of $886 million, followed by Facebook with 12 for the disclosed cost of just over $1 billion. Apple’s acquisitions included Siri in 2010 and Realface in 2017, while Facebook bought Face.com in 2012 and Masquerade Technologies in 2016. Along with data ...",
+      "heat": 151,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.information-age.com/google-revealed-acquired-most-ai-startups-since-2009-123487752/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/02/google-revealed-acquired-most-ai-startups-since-2009.jpeg",
+          "width": 1013,
+          "height": 675,
+          "title": "Google revealed to have acquired the most AI startups since 2009",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption.md",
       "title": "Enveil raises $10 million for enterprise-scale homomorphic encryption",
       "excerpt": "Moreover, libraries like PySyft and tf-encrypted — which are built on Facebook’s PyTorch machine learning framework and TensorFlow, respectively — have made great strides in recent months. So, too, have abstraction layers like HE-Transformer, a backend for nGraph (Intel’s neural network compiler) that delivers leading performance on ...",
@@ -1285,51 +1323,6 @@
           "width": 1200,
           "height": 600,
           "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction.md",
-      "title": "AI can fight climate change but there's a catch: Optimization doesn't automatically equal emissions reduction",
-      "excerpt": "The event was sponsored by Google's DeepMind, Microsoft, and ElementAI, the AI software and services firm co-founded by Yoshua Bengio, a star in the field of deep learning. Organizers were from Climate Change AI, a group of volunteer researchers from institutions around the world. What is artificial general intelligence? Everything you need ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction/",
-      "publishedDateTime": "2020-01-15T08:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/15/17b15a0a-75a3-4e60-8f52-373c4dfcb3ed/yoshua-bengio-andrew-ng-climate-panel-dec-2019.png",
-          "width": 2483,
-          "height": 1385,
-          "title": "AI can fight climate change but there's a catch: Optimization doesn't automatically equal emissions reduction",
           "attribution": null
         }
       ],

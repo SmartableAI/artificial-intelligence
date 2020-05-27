@@ -2,6 +2,88 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-03-ai-researchers-scold-amazon-for-selling-flawed-face-recognition-tech-to-the-police.md",
+      "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
+      "excerpt": "Amazon has come under fire before for Rekognition, the facial recognition technology that the company has allowed police to use and which has led to concerns the company is essentially supporting ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://bgr.com/2019/04/03/amazon-facial-recognition-open-letter/",
+      "ampWebUrl": "https://bgr.com/2019/04/03/amazon-facial-recognition-open-letter/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/04/03/amazon-facial-recognition-open-letter/amp/",
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://boygeniusreport.files.wordpress.com/2019/04/face-recognition.jpg?quality=98&#038;strip=all",
+          "width": 1600,
+          "height": 1050,
+          "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-amazon-stands-for-nothing-that-almost-makes-it-beautiful.md",
+      "title": "Amazon stands for nothing. That almost makes it beautiful",
+      "excerpt": "“We feel really great and really strongly about the value that Amazon Rekognition is providing our customers of all sizes and all types of industries in law enforcement and out of law enforcement.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/co/1364409/amazon-stands-for-nothing-that-almost-makes-it-beautiful/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://qz-news.imgix.net/1364409/thumbnail?auto=compress",
+          "width": 1400,
+          "height": 786,
+          "title": "Amazon stands for nothing. That almost makes it beautiful",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-your-face-is-going-places-you-may-not-like.md",
       "title": "Your Face Is Going Places You May Not Like",
       "excerpt": "In a study by the ACLU, Amazon’s Rekognition software accidentally matched 28 members of congress with mugshots in its database. The training set isn’t the only problem for recognition.",
@@ -1157,80 +1239,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-coronavirus-scare-india-postpones-summit-on-ai-to-october.md",
-      "title": "Coronavirus scare: India postpones summit on AI to October",
-      "excerpt": "NEW DELHI: Worried about the rising number of cases of Covid-19, the Indian government RAISE--Responsible AI for Social Empowerment) 2020 summit on AI (Artificial Intelligence)--to 5-6 October.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/technology/tech-news/coronavirus-scare-india-postpones-summit-on-ai-to-october-11584706416259.html",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/coronavirus-scare-india-postpones-summit-on-ai-to-october/amp-11584706416259.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/coronavirus-scare-india-postpones-summit-on-ai-to-october/amp-11584706416259.html",
-      "publishedDateTime": "2020-03-20T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/03/20/600x338/AI-kkGH--621x414@LiveMint_1584707001977.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Coronavirus scare: India postpones summit on AI to October",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-raspberry-pi-camera-with-smarts-cloud-or-local.md",
-      "title": "Raspberry Pi Camera With Smarts — Cloud Or Local?",
-      "excerpt": "[Mark’s] first pass was to use Amazon’s Rekognition service to process video. This allowed the camera to actually be smarter about what would trigger a detection event. In particular ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hackaday.com/2019/03/07/raspberry-pi-camera-with-smarts-cloud-or-local/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/03/cam-1.png",
-          "width": 800,
-          "height": 450,
-          "title": "Raspberry Pi Camera With Smarts — Cloud Or Local?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

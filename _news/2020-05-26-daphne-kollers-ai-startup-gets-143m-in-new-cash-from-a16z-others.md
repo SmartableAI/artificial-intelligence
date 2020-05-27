@@ -22,6 +22,6 @@ images:
     height: 1152
     title: "Daphne Koller’s AI start­up gets $143M in new cash from a16z, oth­ers"
 
-secured: "Rxova45SY+kOkJF9yZ3wNw/ac0TfsWJelFYgYYOyD3EVkYMVV9ubISFxVF9r4nhP1KmkGp0JJ7YBG4SZr2NzZe4woXLQwxUg25Ww8ICDZdspchKTVpzYAcollpFsFdZAbH+4dqJM+YdKOkSsG5qrIEDGc4bLHhIm1LwoU3bwZtP4jH5+GcXrtS21zjiu2ACX/owawb13JiyloBaRUtJWUDzii2qEA+Qn471qKje7EBzVBwaAetLCKN1Mmw3cm+RiMh2L7C/sElR2fhI2osg7wEUZeZAaS1W747I3W9ayMkm6io+MrsHQPROKGNf+oKBC;0QW7flk4Qfefowdmin/fJQ=="
+secured: "JuLyAxmaeFlZCw6QWc1X+ZpatY/pW9IN1FVl6CdO75aByg6OTk/GX6uqTdj/MD7aZBEwtmYxyDjIzt2fyrWveSKirKBYv0madJlr0gwdph92K59sV393fCMAyEilxgu7CMZfC9Zd1nj6QrdQxvSmNIJc3k16IuYRICR8xdkONETBphHv/3ETxZUg3jiXN57XaeaDQnH0FTL0CERdsW9dBjiYDRI88pt12aD5RZ5xwSZJ6j85san+0Z/Eep/64jfp62G+99BvKY7CUWV1VlVAJ0aSzwuklU4sE4hKFE1HY3IxFW3M7nEnNa3ZSopwCIbmowb0RHsj/Sv4EdrDtBQC8740ynXyVFmu2DVHr5KnAgXYNAw4iQG45KOeecyMd4mwlYjni1jKlvia/ieXbgHBCyzJMkkkkhJYuAoV3vkfp7aq+Jm5eHWfpj/BLy5iCENX2Q+9sMZAJa+cOxbmGeHjLp4dlFL9+WhR5EUunsoOHX0=;L3J9h9DrOrmxxhD6JTD3DA=="
 ---
 

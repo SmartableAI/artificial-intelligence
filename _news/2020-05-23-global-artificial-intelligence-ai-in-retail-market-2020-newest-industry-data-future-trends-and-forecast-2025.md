@@ -5,8 +5,8 @@ excerpt: "The 'Artificial Intelligence (AI) In Retail market' research report fa
 publishedDateTime: 2020-05-23T06:02:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-retail-market-2020-newest-industry-data-future-trends-and-forecast-2025-2020-05-23"
 type: article
-quality: 63
-heat: 63
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

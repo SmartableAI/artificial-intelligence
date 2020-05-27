@@ -5,8 +5,8 @@ excerpt: "The sudden challenges created by the ongoing COVID-19 are captured eff
 publishedDateTime: 2020-05-27T16:57:00Z
 webUrl: "https://www.marketwatch.com/press-release/investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market-2020-05-27"
 type: article
-quality: 75
-heat: 75
+quality: 92
+heat: 92
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

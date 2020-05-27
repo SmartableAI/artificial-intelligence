@@ -1,28 +1,27 @@
 ---
 category: news
 title: "WADA looks to artificial intelligence to catch dopers"
-excerpt: "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes"
-publishedDateTime: 2020-05-26T15:08:00Z
-webUrl: "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/"
-ampWebUrl: "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/"
-cdnAmpWebUrl: "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/"
+excerpt: "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes who cheat. WADA is funding four projects in Canada and Germany,"
+publishedDateTime: 2020-05-26T23:06:00Z
+webUrl: "https://www.sfgate.com/sports/article/WADA-looks-to-artificial-intelligence-to-catch-15294888.php"
+ampWebUrl: "https://www.sfgate.com/sports/amp/WADA-looks-to-artificial-intelligence-to-catch-15294888.php"
+cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/sports/amp/WADA-looks-to-artificial-intelligence-to-catch-15294888.php"
 type: article
-quality: 59
-heat: 89
+quality: 57
+heat: 87
 published: true
 
 provider:
-  name: KSEE
-  domain: yourcentralvalley.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2020/05/4878bde720924c678f20a60662f1f937.jpg?w=1280&h=720&crop=1"
-    width: 1280
-    height: 720
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     title: "WADA looks to artificial intelligence to catch dopers"
 
 related:
@@ -72,6 +71,6 @@ related:
         width: 1280
         height: 720
 
-secured: "1Jtpnjto9m5cOx2kayGCC3S/xYt6BSKPY8cFUdnlA7xSmbOFtT8h3KK/jIIIavkWNYh05h8kMWFMfW4qo9z5e9uBU+ubcNLFi8xN8R0z3fjY9zrc8Xg9ehl2tOZK3P5Lb8V8VGLlqQSSLUHAntg13HuEyf60XkGbFFxdW11ULI8LqaDnoR7Z5VATcggzwlpatW9+jAXbv/rkDFDDy4z5KzlUZAnqdVjORjf+9McBDXXDH07o3d8guOt66EN2/4VzvHRGf8TfRp1XjpL1xKmTGcYx8/veErNogOn4zsk1BQgdT5Ab9G1bZARjvrhLnoJ3;dh2MlwS2MZmn0eqQa7nPIA=="
+secured: "mt7jB1tzrXvyYxOhkJx8A43D4GjjGPLpGGhsAj+4OI2ka0U39Q8eeE5Og9/dp3Aa6Gvapom39xyKff8VDzyBUK69rzCvjDDJw9xK+Zu/YXw7NojSFg/VlKfbGGVn0f/8kGpnekFL1QNkrayyZUnQFBs+ZtnjyQi24Oc7Qtbi+JS2zH3LU16g+df25KH20My2ut2Mo9NmpzGzlmthu43pSmBErTIVG6GO6nNnas6D9m/G6Fl7iKe0imkkKWuwonscpc/i+ipA0YYQAuGHd+LfgwrbIoySCSmswfY8z6sq93IO7p1uD1dSO9w32sgyO03H;6wJLE6HK7hAk3lCR7p5eFA=="
 ---
 

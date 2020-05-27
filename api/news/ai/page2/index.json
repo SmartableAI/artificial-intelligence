@@ -2,6 +2,222 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-26-ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty.md",
+      "title": "AI can battle coronavirus, but privacy shouldn’t be a casualty",
+      "excerpt": "Introduced as short-term fixes to the immediate threat of coronavirus, widespread data-sharing, monitoring and surveillance could become fixtures of modern public life.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/amp/",
+      "publishedDateTime": "2020-05-26T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1216351064.jpg?w=1024",
+          "width": 1024,
+          "height": 565,
+          "title": "AI can battle coronavirus, but privacy shouldn’t be a casualty",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars.md",
+      "title": "How Cinelytic is using AI to help Hollywood reboot for the streaming wars",
+      "excerpt": "L.A.-based Cinelytic wants to help Hollywood studios use AI to improve their decision-making and forecasting as they launch their streaming services.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars/amp/",
+      "publishedDateTime": "2020-05-26T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/cinelytic-e1590410711396.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "How Cinelytic is using AI to help Hollywood reboot for the streaming wars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher.md",
+      "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
+      "excerpt": "Some big trends stand to benefit Nvidia and its rivals, Intel and Advanced Micro Devices Inc. (NASDAQ: AMD). These include artificial intelligence, gaming and driverless vehicles.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/",
+      "ampWebUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
+      "publishedDateTime": "2020-05-26T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2019/02/imageforentry7-azs.jpg?w=400",
+          "width": 400,
+          "height": 225,
+          "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-facebooks-ai-convincingly-inserts-people-into-photos.md",
+      "title": "Facebook’s AI convincingly inserts people into photos",
+      "excerpt": "Facebook researchers propose AI that can insert people into existing images, and even change the hair and clothing styles of those inserted people.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/amp/",
+      "publishedDateTime": "2020-05-26T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s AI convincingly inserts people into photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
+      "excerpt": "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023-2020-05-26",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-using-artificial-intelligence-to-diagnose-lung-cancer.md",
       "title": "Using Artificial Intelligence To Diagnose Lung Cancer",
       "excerpt": "The National Cancer Institute reported that lung cancer accounts for 25% of all cancer deaths. According to Paul Pagano, Interium CEO and Chief Scientific Officer, LungLife AI around 80 percent of lung cancer is diagnosed at a late stage due to inadequate early detection strategies,",
@@ -134,43 +350,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-wada-looks-to-artificial-intelligence-to-catch-dopers.md",
-      "title": "WADA looks to artificial intelligence to catch dopers",
-      "excerpt": "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/",
-      "ampWebUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
-      "cdnAmpWebUrl": "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
-      "publishedDateTime": "2020-05-26T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSEE",
-        "domain": "yourcentralvalley.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2020/05/4878bde720924c678f20a60662f1f937.jpg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": "WADA looks to artificial intelligence to catch dopers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {
@@ -1124,177 +1303,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home.md",
-      "title": "ECOVACS ROBOTICS Launches the DEEBOT OZMO T8 Family Putting AI to Work For a Better Looking Home",
-      "excerpt": "ECOVACS ROBOTICS launched the DEEBOT OZMO T8 family, its latest series of high-end intelligent robotic vacuum cleaner. First family member DEEBOT OZMO T8 AIVI features ECOVACS' optimized AIVI™ (Artificial Intelligence and Visual Interpretation) Technology for faster obstacle recognition,",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
-      "publishedDateTime": "2020-05-24T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-breaking-through-the-glass-ceiling-a-spring-for-women-in-artificial-intelligence.md",
-      "title": "Breaking Through The Glass Ceiling - A Spring For Women In Artificial Intelligence",
-      "excerpt": "To conclude, while there is still a long way to go before we see equal numbers of women in AI for healthcare, the glass ceiling is breaking and I cannot think of a better career choice for a young woman.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-05-24T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F915025868%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D926%26cropY2%3D3626",
-          "width": 1200,
-          "height": 563,
-          "title": "Breaking Through The Glass Ceiling - A Spring For Women In Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-huawei-said-to-ask-samsung-sk-hynix-for-stable-supply-of-memory-chips.md",
-      "title": "Huawei said to ask Samsung, SK Hynix for stable supply of memory chips",
-      "excerpt": "The world’s largest telecommunications equipment supplier is one of the five biggest clients for Samsung and SK Hynix, spending around US$8.1 billion to buy memory chips from the two South Korean companies every year.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
-      "publishedDateTime": "2020-05-24T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/25/a17ff3fe-9e1b-11ea-8055-0ae12e466049_image_hires_082942.jpeg?itok=sU7aud-4&v=1590366589",
-          "width": 1200,
-          "height": 630,
-          "title": "Huawei said to ask Samsung, SK Hynix for stable supply of memory chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel.md",
-      "title": "New Social Media App Iris Predicts Mutual Attraction Via Artificial Intel",
-      "excerpt": "Now, the new social media platform Iris looks to artificial intelligence to predict better potential matches while eliminating the possibility of cat-fishing.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/amp/",
-      "publishedDateTime": "2020-05-24T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211084313%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "New Social Media App Iris Predicts Mutual Attraction Via Artificial Intel",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

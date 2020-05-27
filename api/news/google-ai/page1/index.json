@@ -575,6 +575,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-06-is-the-use-of-open-source-software-putting-your-business-at-risk.md",
+      "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
+      "excerpt": "TensorFlow: Google open sourced its artificial intelligence engine to enable programmers to develop and enhance AI applications. Vulnerabilities in open source software. Vulnerabilities in open ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk",
+      "ampWebUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
+      "publishedDateTime": "2020-05-06T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.iptechblog.com/wp-content/uploads/sites/17/2020/05/Programming-code--300x222.jpg",
+          "width": 300,
+          "height": 222,
+          "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-how-nvidia-hopes-to-industrialize-ai-with-mlops.md",
       "title": "How NVIDIA hopes to industrialize AI with MLOps",
       "excerpt": "We still spend far too much time training machine learning models rather than deploying them. Could MLOps--which brings data scientists and DevOps together--be a solution?",
@@ -1254,51 +1291,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-deepminds-ai-studies-game-players-to-exploit-weaknesses-in-their-strategies.md",
-      "title": "DeepMind’s AI studies game players to exploit weaknesses in their strategies",
-      "excerpt": "In a paper published on the preprint server Arxiv.org, scientists at Alphabet’s DeepMind propose a new framework that learns an approximate best response in both imperfect information games (where players are unaware of the actions chosen by other players) and perfect information games (where each player is informed of all actions taken by ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/amp/",
-      "publishedDateTime": "2020-04-23T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind’s AI studies game players to exploit weaknesses in their strategies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

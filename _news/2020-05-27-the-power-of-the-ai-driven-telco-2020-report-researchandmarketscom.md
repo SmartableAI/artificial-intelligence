@@ -23,6 +23,6 @@ images:
     height: 627
     title: "The Power of the AI Driven Telco, 2020 Report - ResearchAndMarkets.com"
 
-secured: "qkglV1KBPlyVYhrL0FCKmUZp9/WC/H0NNKKaDxCirapzpumxuxhUXpY/3pu2+SOuHhbhmS3SsslnwWAiQFSHiRx4KMrQXmpkVx4//hZlKl61sbfq1OSFYKktiADZ1EljEG6zKeARb+wN/Lyxb/eZUoynE+YCKekqD++yO5BlnfJxsyDEj+KNb9MBXn9PInEoNqJ2DohOKR26tTX5I94j8Sx+pjegABP8H42Xa7Obqt/aml6alWpGDCezWj8Um/78+7pTxGwT8EC0MVtBSOrUPyGEUpVlQw7KWiGmhw1qMO1kxSH7LZV0jY4YZrfXaAsq;x6GxSDR0DDkj470kXJPzMg=="
+secured: "P5znX2uHFJ85TRcF8d2QanPvb+/Xyaer2UwCV/SSLkqorrTlhPugXjKZD96gKjKlq5+kjlNmeO2nPZBRB5ztH+Eynp/rQjlvPPEsVJsdl4JayhCZzgryMElFZbBeguozIBU5r6twXlG3kQ3087drKmkyvEmAS3watadjT0FTteKLQgzTflYyhaAeStlqWDBkHEKAmKiKzlDP//roJIBWOSjXi5H+KIU5bhBL1prJgcIdbMry+gNu12CyaWPKGw8oaJeslMfbuEyeOdlTRa8Fb30SoyFzurIHjSZ5PHRip/SF3QzpBJT1b8BRY6vqO49x5Q4WJNlzp6++2H/Ur1169s/wnbIByNScfukaup1bgNeNSC9ZChb1Y1PXlfH1gYwHORE8eJVJzsBHbaBamMa97qiZAsLHpaWBYzSY1kMyFXiL2raJhzqH6S9KlLe/mD8GA5CpRSyzGwdG03DgjGMaLfhusOi9TfWwqX+HFKLnpVg=;2gYPoIrQuDUJYnJ/QeNkMA=="
 ---
 
