@@ -2,6 +2,96 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-05-18-what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors.md",
+      "title": "What SoftBank’s Vision Fund results tell us about troubled startup sectors",
+      "excerpt": "A famous investor published notes today concerning its startup investments, detailing where they excelled and where they struggled. To understand why we care about this particular investor’s results,",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/amp/",
+      "publishedDateTime": "2020-05-18T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1172366774.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "What SoftBank’s Vision Fund results tell us about troubled startup sectors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-microsoft-just-gave-the-sony-ai-camera-an-azure-brain.md",
+      "title": "Microsoft just gave the Sony AI camera an Azure brain",
+      "excerpt": "It was only last week that Sony showed off its new embedded AI smart camera sensor, and already Microsoft is promising an artificial intelligence for the innovative chip. The Sony IMX500 stacks a",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/",
+      "ampWebUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/",
+      "publishedDateTime": "2020-05-18T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg",
+          "width": 2307,
+          "height": 1334,
+          "title": "Microsoft just gave the Sony AI camera an Azure brain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-five-robots-that-are-saving-the-us-food-supply-chain.md",
       "title": "Five robots that are saving the US food supply chain",
       "excerpt": "As Covid-19 threatens to buckle the US food supply chain, businesses are wrestling with the task of how to feed millions under lockdown via understaffed supply chains. As a result, demand for robotics companies whose machines can harvest,",
@@ -333,43 +423,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-cloud-storage-market-to-reach-usd-29754-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights.md",
-      "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
-      "excerpt": "The global cloud storage market is set to gain traction from the rising adoption of autonomous systems and machine learning. Besides,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/cloud-storage-market-to-reach-usd-297-54-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights-301060697.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1169294/Cloud_Storage_Market.jpg?p=facebook",
-          "width": 1333,
-          "height": 698,
-          "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -1026,50 +1079,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-could-creepy-ai-come-to-the-rescue-and-help-bosses-do-their-job.md",
-      "title": "Could Creepy AI Come To The Rescue And Help Bosses Do Their Job?",
-      "excerpt": "In a world of virtual-only work, could surveillance algorithms improve the performance of the average boss? The good news is that the bar is quite low.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/05/17/could-creepy-ai-come-to-the-rescue-and-help-bosses-do-their-job/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/05/17/could-creepy-ai-come-to-the-rescue-and-help-bosses-do-their-job/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomaspremuzic/2020/05/17/could-creepy-ai-come-to-the-rescue-and-help-bosses-do-their-job/amp/",
-      "publishedDateTime": "2020-05-17T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1189384530%2F0x0.jpg%3FcropX1%3D265%26cropX2%3D5721%26cropY1%3D0%26cropY2%3D3069",
-          "width": 1200,
-          "height": 675,
-          "title": "Could Creepy AI Come To The Rescue And Help Bosses Do Their Job?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

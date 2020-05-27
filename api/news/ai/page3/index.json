@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-25-nvidia-launches-new-gpu-for-ai-systems.md",
+      "title": "NVIDIA Launches New GPU for AI Systems",
+      "excerpt": "DGX A100 includes dual AMD Rome EPYC CPUs with PCIe 4.0. Exploded view of the NVIDIA DGX A100. (1) 8 NVIDIA A100 GPUs; (2) 6 NVSwitches; (3) Mellanox Connect-6; (4) Dual AMD 64-core EPYC CPUs/1TB system memory;",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engineering.com/Hardware/ArticleID/20316/NVIDIA-Launches-New-GPU-for-AI-Systems.aspx",
+      "ampWebUrl": "https://mobile.engineering.com/amp/20316.html",
+      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20316.html",
+      "publishedDateTime": "2020-05-25T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering",
+        "domain": "engineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.engineering.com/portals/0/BlogFiles/2_ima3.jpg",
+          "width": 640,
+          "height": 336,
+          "title": "NVIDIA Launches New GPU for AI Systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-25-ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home.md",
       "title": "ECOVACS ROBOTICS Launches the DEEBOT OZMO T8 Family Putting AI to Work For a Better Looking Home",
       "excerpt": "ECOVACS ROBOTICS launched the DEEBOT OZMO T8 family, its latest series of high-end intelligent robotic vacuum cleaner. First family member DEEBOT OZMO T8 AIVI features ECOVACS' optimized AIVI™ (Artificial Intelligence and Visual Interpretation) Technology for faster obstacle recognition,",
@@ -1294,51 +1331,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future.md",
-      "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-      "excerpt": "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
-      "ampWebUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "publishedDateTime": "2020-05-22T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_m6h8.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

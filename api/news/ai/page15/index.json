@@ -2,6 +2,43 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-05-12-port-automation-technology-demonstrated-by-cosco.md",
+      "title": "Port Automation Technology Demonstrated by Cosco",
+      "excerpt": "The successful trial runs of a new automated driverless container truck operating on a 5G platform illustrated yet again the opportunities for port automation. The technology, which is being developed jointly by Cosco Shipping Ports Limited,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.maritime-executive.com/article/port-automation-technology-demonstrated-by-cosco",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Maritime Executive",
+        "domain": "maritime-executive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.maritime-executive.com/media/images/article/Photos/Technology/Xiamen-Ocean-Gate-Terminal-file-photo-courtesy-Cosco-Shipping-copy.49795a.jpg",
+          "width": 643,
+          "height": 361,
+          "title": "Port Automation Technology Demonstrated by Cosco",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-australia-wins-ai-eurovision-song-contest.md",
       "title": "Australia wins AI 'Eurovision Song Contest'",
       "excerpt": "An editor for Dutch broadcaster VPRO had the idea, after the Netherlands won last year's Eurovision Song Contest. And it grew into an international effort after this year's contest was cancelled because of the coronavirus pandemic.",
@@ -1220,43 +1257,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-talkspace-wants-to-build-a-better-therapist-with-ai-listening-in.md",
-      "title": "Talkspace Wants to Build a Better Therapist With AI Listening In",
-      "excerpt": "It’s using tools such as machine learning and artificial intelligence to analyze transcripts of therapy sessions, which have been scrubbed of any identifying data. The company hopes its ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-12/talkspace-using-ai-for-therapy-during-mental-health-crisis",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

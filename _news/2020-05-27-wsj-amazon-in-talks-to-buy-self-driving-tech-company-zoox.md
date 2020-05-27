@@ -86,6 +86,21 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/KWKx_VshCeTaf6InTIOGGAuLbV4=/2020/05/27/b33d5cd5-0063-4b3b-a074-45b1ebf23ccf/ogi-zoox.jpg"
         width: 1200
         height: 630
+  - title: "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox"
+    excerpt: "Amazon is reportedly in advanced talks to purchase self-driving vehicle start-up Zoox. Sources familiar with the matter tell The Wall Street Journal that the deal would value the company under $3.2 billion,"
+    publishedDateTime: 2020-05-27T20:03:00Z
+    webUrl: "https://www.techspot.com/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 72
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-27-image-45.jpg"
+        width: 1260
+        height: 840
   - title: "Amazon in Advanced Talks to Buy Self-Driving Startup Zoox: WSJ"
     excerpt: "Amazon.com Inc is in advanced talks to buy self-driving startup Zoox Inc, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology, the Wall Street Journal reported  on Tuesday."
     publishedDateTime: 2020-05-27T00:53:00Z

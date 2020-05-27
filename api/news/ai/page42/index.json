@@ -2,6 +2,51 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-04-17-microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time.md",
+      "title": "Microsoft: Our new machine learning model spots critical security bugs 97% of the time",
+      "excerpt": "Microsoft claims a machine learning models its built for software developers can distinguish between security and non-security bugs 99% of the time. Microsoft plans to open-source the methodology behind a machine learning algorithm that it claims can distinguish between security bugs and non-security bugs with 99% accuracy. The company ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/",
+      "publishedDateTime": "2020-04-17T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/05/b1b4f0cd-0452-48f5-886c-d3afe0a743dd/thumbnail/1200x675/77fef6207247b1bf98a280183c42a4e5/20200304-larry-bill-coronavirus.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft: Our new machine learning model spots critical security bugs 97% of the time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-mhn-asks-the-apartment-of-the-future.md",
       "title": "MHN Asks … The Apartment of the Future",
       "excerpt": "Technology will enhance the resident experience, increase efficiency in operations and improve design and decision-making using artificial intelligence ... such as driverless vehicles and air ...",
@@ -1226,51 +1271,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-ponyai-partners-with-yamibuy-on-autonomous-deliveries.md",
-      "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
-      "excerpt": "Self-driving startup Pony.ai today announced that it’s collaborating with Yamibuy ... as well as reduce the risk of infection in the course of deliveries. Former Baidu chief architect James Peng cofounded Pony.ai in 2016 with Tiancheng Lou, who worked at Google X’s autonomous car project before it was spun off into Waymo.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
-      "publishedDateTime": "2020-04-16T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Photo2-e1587077842271.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

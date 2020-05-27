@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Cleareye.ai acquires Aiware.ai, a leading Artificial Intelligence player in India"
-excerpt: "Global fintech company Cleareye.ai, headquartered in California, has acquired AIWare.ai, an India based startup specializing in Artificial Intelligence (AI) based solutions. Located in the State of Kerala,"
+excerpt: "Global fintech company Cleareye.ai, headquartered in California, has acquired AIWare.ai, an India based startup specializing in"
 publishedDateTime: 2020-05-26T11:00:00Z
-webUrl: "https://apnews.com/PR Newswire/a164d363ebd837c13eca92b9f767da23"
+webUrl: "https://www.prnewswire.com/news-releases/cleareyeai-acquires-aiwareai-a-leading-artificial-intelligence-player-in-india-301064806.html"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     title: "Cleareye.ai acquires Aiware.ai, a leading Artificial Intelligence player in India"
 
-secured: "8V8XAqA0jxE8NLwGY6gSt7MeHhdXTypRGThZDr3SaA89QPsYXZrDmKo4BkAr5iTCbNGrmSdrw8PSlAFKDZFn8tjli2fElQ2PJTlYQ0y6liCfdeiOW17VWQIoSmr7kY3jOhCQgm1nTHzqE6XTOQlwhwN9hENYMdkmT+GB7TUaXVecQxStBg85NHvAIInzVKO+j822oQCAwxMsR9LVfTdLFFxq0u7qXZ8j0VTkaWp5BNRVBd4qHjeir9VFJoVqjP3GAx26hO3HlsG7LLZnHYOZsOKEo5g/EjE5IipsIUuv+Gly4xZ+zxNUISwF9ioTjS/4;ROc2QnRAoJ272mOmDtSJIg=="
+secured: "F5QFfL1YXU5ET24iPCc3n35CgkGmjKMFihHDbas23uY4wlbKaCEUIUc0c38CWx6hOhKTwczDPA7Yzum18qvEEN5dhOgijsjT0QwrsGIxwMIPFKsuXBuqXYyKjyvOt3PBtSpJ9C53y08iZ/SY4gHxDj7EHLOWTP3aP1TlbLVD7n8l3lgBPEe+u38GQ6sIxwpUcqnB/8zpVfHjgOwF1cCnHfW7pyUgEAzvizgge5/uaj+AyQ7ZbbXA8Qng7VXijvFdSTdan0yjlPjzsxoq/ZxbrWMw+3M6wKC/lyqnovrIJhcNMVP1g6yolcG22afa2Crv;RBnLAZXQHcVA+UTF32NVLQ=="
 ---
 

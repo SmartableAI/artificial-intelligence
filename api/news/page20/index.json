@@ -2,6 +2,50 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-11-how-blackskys-spectra-geospatial-data-platform-uses-ai-to-make-sense-of-satellite-images.md",
+      "title": "How BlackSky’s Spectra geospatial data platform uses AI to make sense of satellite images",
+      "excerpt": "BlackSky’s Spectra geospatial platform uses satellite imagery and multiple data streams to anticipate trends in the coronavirus outbreak and on other fronts.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/blackskys-spectra-geospatial-data-platform-uses-ai-make-sense-satellite-images/",
+      "ampWebUrl": "https://www.geekwire.com/2020/blackskys-spectra-geospatial-data-platform-uses-ai-make-sense-satellite-images/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/blackskys-spectra-geospatial-data-platform-uses-ai-make-sense-satellite-images/amp/",
+      "publishedDateTime": "2020-05-11T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/200510-blacksky-630x442.png",
+          "width": 630,
+          "height": 442,
+          "title": "How BlackSky’s Spectra geospatial data platform uses AI to make sense of satellite images",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-how-walmart-uses-ai-to-enable-two-hour-express-delivery.md",
       "title": "How Walmart uses AI to enable two-hour Express Delivery",
       "excerpt": "Walmart spoke with VentureBeat about the AI systems underlying its 2-hour Express Delivery, ranging from a logistics algorithm to an alerting platform.",
@@ -334,6 +378,35 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases.md",
+      "title": "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases",
+      "excerpt": "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design AAV vectors -- CAMBRIDGE ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15998024",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024",
+      "publishedDateTime": "2020-05-11T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -775,35 +848,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-11-sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases.md",
-      "title": "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases",
-      "excerpt": "Dyno Therapeutics is a pioneer in applying artificial intelligence (AI) and quantitative high-throughput in vivo experimentation to gene therapy. The company’s proprietary CapsidMap™ platform ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/05/11/2030949/0/en/Sarepta-Therapeutics-and-Dyno-Therapeutics-Announce-Agreement-to-Develop-Next-Generation-Gene-Therapy-Vectors-for-Muscle-Diseases.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-10-artificial-intelligence-is-driving-a-silicon-renaissance.md",
       "title": "Artificial Intelligence Is Driving A Silicon Renaissance",
       "excerpt": "More innovation is happening in the semiconductor industry today than at any time since Silicon Valley's earliest days.",
@@ -1007,50 +1051,6 @@
           "width": 1200,
           "height": 800,
           "title": "How AI Is Finding Patterns And Anomalies In Your Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-10-banjo-ceo-resigns-to-preserve-the-companys-ai-surveillance-deals.md",
-      "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
-      "excerpt": "Banjo's CEO has resigned to prevent his racist past from affecting the AI surveillance company's deals with Utah and others.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/banjo-ceo-resigns-020523666.html",
-      "ampWebUrl": "https://www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
-      "publishedDateTime": "2020-05-09T19:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F3729fa60-9248-11ea-bd0d-d3fefe9341ba&client=amp-blogside-v2&signature=9faec48e566990e0328ac6a78f600c99de1a3e20",
-          "width": 600,
-          "height": 350,
-          "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
           "attribution": null
         }
       ],

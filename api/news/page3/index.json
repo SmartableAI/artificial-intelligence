@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-26-scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision.md",
+      "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
+      "excerpt": "Scandit, a company that develops mobile barcode scanning and computer vision technology, has raised $80 million in a series C round of funding.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
+      "publishedDateTime": "2020-05-26T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Scandit-Retail-Product-Rating.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-rico-gear-using-artificial-intelligence-to-create-rugby-training-app.md",
       "title": "Rico Gear using artificial intelligence to create rugby training app",
       "excerpt": "Gear, who played 20 Tests for the All Blacks, is setting up an app to help players improve, but with so many training apps on the market his point of difference is using artificial intelligence. \"The artificial intelligence is going to get to the point where to show the difference between elite and beginner and everything in between,",
@@ -1025,50 +1070,6 @@
           "width": 1200,
           "height": 822,
           "title": "AI proves it’s a poor substitute for human content checkers during lockdown",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-recommended-reading-covid-19-and-ai-health-care.md",
-      "title": "Recommended Reading: COVID-19 and AI health care",
-      "excerpt": "Fu Lee, Wired The coronavirus pandemic will cause us to rethink major aspects of everyday life around the world, but it may also expedite the use of artificial intelligence in health care.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/recommended-reading-covid-19-and-ai-health-care-163041644.html",
-      "ampWebUrl": "https://www.engadget.com/amp/recommended-reading-covid-19-and-ai-health-care-163041644.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-covid-19-and-ai-health-care-163041644.html",
-      "publishedDateTime": "2020-05-23T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F910e4d10-9ca2-11ea-a4cf-ce4924f21bdf&client=amp-blogside-v2&signature=16e4f1f0457be801296053c0fcab71e6970562d3",
-          "width": 600,
-          "height": 350,
-          "title": "Recommended Reading: COVID-19 and AI health care",
           "attribution": null
         }
       ],

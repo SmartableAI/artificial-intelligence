@@ -22,6 +22,6 @@ images:
     height: 627
     title: "COVID-19 Impact: A Mix of Challenges and Opportunities | Artificial Intelligence-as-a-Service (AIaaS) Market 2020-2024 | Growing Adoption of Cloud Based Solutions to Boost ..."
 
-secured: "KCz0o4tfjH5uBrLNF/+kl/6AQoCHJ6DF/5+LooclowlVn5BA8Y9/G+OAKBrEQ3++pVk2YdgeOrm6eVZdBXOtLLWzAHvDVvgXmj/x4HIp9lwXkoWzejMVYmjgtYO7lQyTML2B66cujVv87zkPfj+DUkEIdG/SNxCakR8RhovUfl4JEakuB/P/x0jXS00mqESXVMOXK9Z4po9K0g4A3qsuoMFaFIwERUGosE8vW1p2zbcUKvX/gh+7GSvgKDjIbWq9ftUWNkR4NG3+sphKj8WS1NqpLB9fhWCCV3YdrfM9fJ/cjAsc69ZEoZ/WGE2dsWAA;2srzqEIBZvKvzfCiCARzRw=="
+secured: "rlwQB9N/QRkr7Aoo8yim5aaTOH4Kr6Rv2WE3s7a8VZyBSrvyqA6dVbMoBh1hco3AuBUEyT8CNWm1QTzpHQ3me/ZsRj8qC4Zi07yDGyvoM43vRj42IKNrBSZbXPuQTzIAkU2fVKxjWtQ0bvZT5ZXCZkER0rdr2nUPJoSqaL6ZURhB4SeDI/LJCIy9qw4YMzpJ1PsUByyyJVhK3p10i2w4lv/crfXk1DjTBPMTboZiJRiieSbVAa0mC2p+sz5cpmiNlBDq45XBTeKQc0oHJCW5KqZE4zUZznzVh2FcXaTRD4QUtFjbsY0RqQOUHBVDmG0eMQUXBsbbBlNy72vPr/HBQSF1thU3DBU3Xci1vhGMbyLspTojQzu/OCUxo0+lLRXcVRrUDhK7ijZ24QZgNEV/vNB/blk+LNkimXQkjVUEGZS2+ENjtgqcbXJhDk0+AejZzzhl3/fbGNOQ1sXW+n4HL1bRHzjqWj/3MupdLmNUmCg=;DRgT3Ci1j1QtCy7lHFbC2w=="
 ---
 
