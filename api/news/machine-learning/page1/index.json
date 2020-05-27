@@ -138,35 +138,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-21-impetus-streamanalytix-launches-a-cloud-based-version-for-self-service-etl-and-machine-learning.md",
-      "title": "Impetus StreamAnalytix Launches a Cloud-based Version for Self-service ETL and Machine Learning",
-      "excerpt": "Impetus Technologies Inc., a leading software products and services company, announced the launch of its new cloud-based version of StreamAnalytix on AWS",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/impetus-streamanalytix-launches-a-cloud-based-version-for-self-service-etl-and-machine-learning/article_0bddf60f-fda7-5ca0-a304-91d57fc84dcb.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-21-machine-learning-models-estimate-seasonal-impact-of-covid-19.md",
       "title": "Machine Learning Models Estimate Seasonal Impact of COVID-19",
       "excerpt": "Researchers will use machine learning to determine the impact environmental factors have on the transmission of COVID-19.",
@@ -1279,6 +1250,43 @@
         "AI Hardware",
         "Natural Language Processing",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-microsoft-intel-combine-deep-learning-and-pixels-to-nix-malware.md",
+      "title": "Microsoft, Intel Combine Deep Learning and Pixels to Nix Malware",
+      "excerpt": "Microsoft and Intel researchers have found a way to combine artificial intelligence and image analysis to create a highly effective means to combat malicious software infections. The researchers call their approach \"STAMINA\" -- static malware-as-image network analysis -- and say it's proven to be highly effective in detecting malware with a low rate of false positives.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technewsworld.com/story/86662.html?rss=1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2018-malware-1.jpg",
+          "width": 620,
+          "height": 360,
+          "title": "Microsoft, Intel Combine Deep Learning and Pixels to Nix Malware",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -23,21 +23,6 @@ images:
     height: 509
     title: "The Voice winner eyes family trip to Disney World"
 
-related:
-  - title: "Newly crowned The Voice winner plans to use prize money for family trip to Disney World"
-    excerpt: "Take his wife and eight children to Disney World. That is one of the things Todd Tilghman, the newly crowned winner of The Voice, is planning to do with his cash prize of US$100,000.. Read more at straitstimes."
-    publishedDateTime: 2020-05-22T06:39:00Z
-    webUrl: "https://www.straitstimes.com/lifestyle/entertainment/newly-crowned-the-voice-winner-plans-to-use-prize-money-for-family-trip-to"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 16
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/05/22/ab_tilghman_220520.jpg?itok=Kwt9lR3b"
-        width: 763
-        height: 509
-
 secured: "On6J7FXYNJudB6ryZp6RmysRC/Tg+GFPCetSeKy/yDtuakxByi1+LROucRmB7tJ09RwrwLlu+RVup97WsYJgXAle67bFe3N/q/FKfagkfjK6nJNf6Zxof+yXpvKW4AZ8Yz6AL6PdXEW7xZzQPtKYxRrej+S96z+AQSdGzlmwYgtD3VhLhq9QO9CUEwRkmeFRtmt4hNlt9lXbDs6uU8Z0p0LKPzcjsuAxeii0g7PYVkJP0+QZOuaZyu9IKK9m/SL5wrKRrzGKZkX+fQYt33Qnjr+KkRbMbT6PrfIfs+9aGA/zv1r+NEioWskQpPbNzXaq;kCmIJZC25Wc5kNWa1WCOmw=="
 ---
 

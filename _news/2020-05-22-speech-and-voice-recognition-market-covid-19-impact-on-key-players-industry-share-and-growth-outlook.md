@@ -29,10 +29,10 @@ images:
     title: "Speech and Voice Recognition Market COVID-19 Impact on Key Players, Industry Share and Growth Outlook"
 
 related:
-  - title: "Artificial Intelligence Market COVID-19 Impact on Key Players, Industry Share and Growth Outlook"
-    excerpt: "The artificial intelligencemarket in North America is set for rapid growth. The growth witnessed in this region"
-    publishedDateTime: 2020-05-22T12:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-covid-19-impact-on-key-players-industry-share-and-growth-outlook-2020-05-22"
+  - title: "Natural Language Processing Market COVID-19 Impact on Key Players, Industry Share and Growth Outlook"
+    excerpt: "The overallnatural language processingmarket is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by"
+    publishedDateTime: 2020-05-27T01:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-covid-19-impact-on-key-players-industry-share-and-growth-outlook-2020-05-26"
     type: article
     provider:
       name: MarketWatch

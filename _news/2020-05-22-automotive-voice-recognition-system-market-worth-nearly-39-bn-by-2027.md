@@ -28,15 +28,19 @@ images:
     title: "Automotive Voice Recognition System Market Worth Nearly $39 Bn by 2027"
 
 related:
-  - title: "AI Image, Facial, Emotion Recognition Market Worth Size Value Growth Trends Share Forecast Outlook Industry Statistics | Valuates Reports"
-    excerpt: "In 2019 the global AI Image Recognition market size was USD 1 1844 Billion and it is expected to reach USD 2 9828 million by the end of 2026 with a CAGR of 14 0 during 2021 2026 Get Free"
-    publishedDateTime: 2020-05-22T12:19:00Z
-    webUrl: "https://www.openpr.com/news/2055156/ai-image-facial-emotion-recognition-market-worth-size-value"
+  - title: "COVID-19 Impact on Artificial Neural Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2026"
+    excerpt: "This report focuses on the global Artificial Neural Networks status, future forecast, growth opportunity, key market and key players. The study objectives are to present the Artificial Neural Networks development in North America,"
+    publishedDateTime: 2020-05-22T21:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-neural-networks-2020-market-segmentationapplicationtechnology-market-analysis-research-report-to-2026-2020-05-22"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "eMaO4H2AUKlAHRkgxqqWjiZIZJhG/zz1w+uwKHSReu6RZa2rFc/mIplKA2mPpGrCB4txBuCqbIouUHChOMOIK7fn0gld50sD5IQZqNHUqmk3tTBZYH+uzXK802tZ12LV9NELo/mVeu1wY/ql+F0+Rva6N+5uvWiLEtSPwc8lyDGwQpQly1LmU4qFOkNCF0c+aZjxLnK0g69uhnHJixga4OaQcxqzQF2VdpVFA4q8KzB1/UIY+PMGYo+bwDUH5TjwPD/NHd7wJOeAAAnw9xgN+7JRLqNTafelLkkDA8wmkBJV6k06OXsrhCY76NQdFbk/;b7dPvFVMt2FhVqVOQs+7+Q=="
 ---

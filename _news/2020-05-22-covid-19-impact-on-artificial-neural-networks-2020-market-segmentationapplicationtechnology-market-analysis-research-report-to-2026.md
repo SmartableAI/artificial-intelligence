@@ -28,30 +28,15 @@ images:
     title: "COVID-19 Impact on Artificial Neural Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2026"
 
 related:
-  - title: "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance"
-    excerpt: "The”Global Artificial Intelligence (AI) in Education Market Research Report 2020-2026″ has deeply studied the analysis of significant factors that responsible for the growth of the international market."
-    publishedDateTime: 2020-05-22T12:52:00Z
-    webUrl: "https://surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/"
-    ampWebUrl: "https://surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/amp/"
-    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/amp/"
-    type: article
-    provider:
-      name: surfacingmagazine.net
-      domain: surfacingmagazine.net
-    quality: 66
-    images:
-      - url: "https://surfacingmagazine.net/wp-content/uploads/2020/05/market-research-expertz-16-43.png"
-        width: 700
-        height: 370
-  - title: "Global Artificial Intelligence (AI) In Retail Market 2020 | Newest Industry Data, Future Trends and Forecast 2025"
-    excerpt: "The 'Artificial Intelligence (AI) In Retail market' research report fabricated by Brand Essence Market Research"
-    publishedDateTime: 2020-05-23T06:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-retail-market-2020-newest-industry-data-future-trends-and-forecast-2025-2020-05-23"
+  - title: "Automotive Voice Recognition System Market Worth Nearly $39 Bn by 2027"
+    excerpt: "A research study by ARC foresees the Automotive Voice Recognition System market growing at a CAGR around 6% throughout the forecast period and reach around $39 Billion by 2026. Automotive voice recognition system consists of the monitoring of digital vehicle infotainment devices that includes telecommunications,"
+    publishedDateTime: 2020-05-22T13:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-worth-nearly-39-bn-by-2027-2020-05-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

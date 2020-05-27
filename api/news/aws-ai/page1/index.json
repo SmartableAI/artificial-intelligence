@@ -740,27 +740,19 @@
     {
       "path": "_news/2020-05-13-envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution.md",
       "title": "Envoi and Data Expedition Partner to Launch Cloud-Based Data Restoration and Migration Solution",
-      "excerpt": "Envoi and Data Expedition, Inc.® (DEI®) have launched Envoi – CloudDat Edition, which integrates DEI’s CloudDat™ solution to provide a self-service solution for processing multi-media content migrated to Amazon Web Services (AWS).",
+      "excerpt": "Envoi – CloudDat Edition leverages Envoi's APIs to support other solutions including Amazon Rekognition for video indexing and AWS Elemental MediaConvert, a file-based video transcoding service ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution-1029196193",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T03:09:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g16019011/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16019011",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16019011",
+      "publishedDateTime": "2020-05-13T03:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-he
 ampWebUrl: "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/03/DanielaBraga_DefinedCrowd_3-630x420.jpg"
@@ -28,6 +29,6 @@ images:
     height: 420
     title: "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services"
 
-secured: "9M2nidO/G2wsXMHUHmc+O3HnhaaXmbAhPdk45wQkdnp/wt3TZRoi/e2NcOag+PkAl2+EBYOZAjAkzqNZblzoZsesMxcyhKbMOjJjub07dacqy5bw2EilspplQCezWRemjeJX4CXoQIjOX1noqiXK/qBrMa7CT5GdahInNcPAeXrjKCaM9XFoTAyjQB+11ru1/AUvEpAt2qOmLwmQa/z5AO2mPYm/gZbbIz4SsSKgUS1rUBJUjYOt5RzESbrmXPBAHRO8PjUJS6BvB+vJLGbf0VUud23oWB/mP8Z+jWJvb3RB+IwzpuPT989plHOWoDO0;d8Q3pcYwAPDNh1lmIqsmAQ=="
+secured: "ouo8va6MJxLvvmOWUuWOTkaHcscOQWOI7+gXNzBe1syNzMwuT+ORrqA+OWDcyN+My0wDU/sKGslHNpuKSan9chZOLbqB6eiBHRKQ6xrjf8wDj5b+5fg3zX2Pat5cJOddIAJU/18bsQ9d3h4UJIqLzyF637Qp/APlmps2RiHgDcQNiC/R44mOmptNVF+Er9VXIFkIlEFFRSc7d4FZHjEwPl3WITimbFLAvNgUzP1RjkK55swoXOFSzDesxGocOpcRhFkDSEJHrKTKWGR7+gJE+Pa4enc5B5dtRKzNeWjF28YUaWg+e2Y8VCCb3Rdi6rRIMOeqIb2aZ0zyNlNITHy4Lpf+kXyA6l6a3zU7ISAcfgvXB9o+p7ShSi95bASx0r1GI80NL0fHm/JNOpe0hFF7p+POUXWYpfW0GpRNFaQa48/scGyP6SQBP8LYMkIBBNfNMHqZu9ruwvCpoObtpWfsOk9tEYbHs5BT2/TkLdj8r6w=;bbzag8dEsrQmmyDBGhi9Lw=="
 ---
 

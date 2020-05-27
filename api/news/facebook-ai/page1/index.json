@@ -2,6 +2,88 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-26-facebooks-ai-convincingly-inserts-people-into-photos.md",
+      "title": "Facebook’s AI convincingly inserts people into photos",
+      "excerpt": "Facebook researchers propose AI that can insert people into existing images, and even change the hair and clothing styles of those inserted people.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/amp/",
+      "publishedDateTime": "2020-05-26T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s AI convincingly inserts people into photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-wada-looks-to-artificial-intelligence-to-catch-dopers.md",
+      "title": "WADA looks to artificial intelligence to catch dopers",
+      "excerpt": "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/",
+      "ampWebUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
+      "cdnAmpWebUrl": "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
+      "publishedDateTime": "2020-05-26T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSEE",
+        "domain": "yourcentralvalley.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2020/05/4878bde720924c678f20a60662f1f937.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "WADA looks to artificial intelligence to catch dopers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-25-ai-researchers-say-they-created-a-better-way-to-generate-3d-photos.md",
       "title": "AI researchers say they created a better way to generate 3D photos",
       "excerpt": "AI researers say they've created a novel way to generate realistic, impressive 3D photography that's better than Facebook 3D Photo.",
@@ -50,7 +132,7 @@
       "path": "_news/2020-05-22-nvidia-ai-creates-a-playable-version-of-pac-man-without-any-source-code.md",
       "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
       "excerpt": "Up until now, that's seemingly been the case, but one Nvidia-created AI is challenging the norm. To celebrate Pac-Man's 40th anniversary, the hardware maker fed a computer farm a whopping 50,000 \"episodes\" of gameplay from the title -- but",
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techspot.com/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
@@ -1233,96 +1315,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-facebooks-teaching-ai-to-lie-like-a-human.md",
-      "title": "Facebook’s teaching AI to lie like a human",
-      "excerpt": "Because, essentially, what Facebook‘s done is taught Blender’s chatbots to lie moderately better than everyone else’s. Today we’re announcing that Facebook AI has built and open-sourced Blender, the largest-ever open-domain chatbot.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
-      "publishedDateTime": "2020-04-29T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Facebook’s teaching AI to lie like a human",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-facebook-releases-its-blender-chatbot-as-an-open-source-project.md",
-      "title": "Facebook releases its 'Blender' chatbot as an open-source project",
-      "excerpt": "Facebook has spent years training its Blender chatbot on 9.4 billion conversational parameters. Now the company is releasing it as an open-source project.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/facebook-chatbot-ai-open-source-blender-150001320.html",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
-      "publishedDateTime": "2020-04-29T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fec52bd10-8991-11ea-bfbf-a5d10e9a9f52&client=amp-blogside-v2&signature=1b5c7c9ee001fd626753b341ba8ee569497eef1c",
-          "width": 600,
-          "height": 350,
-          "title": "Facebook releases its 'Blender' chatbot as an open-source project",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

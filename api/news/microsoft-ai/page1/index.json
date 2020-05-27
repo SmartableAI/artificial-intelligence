@@ -268,6 +268,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-21-impetus-streamanalytix-launches-a-cloud-based-version-for-self-service-etl-and-machine-learning.md",
+      "title": "Impetus StreamAnalytix Launches a Cloud-based Version for Self-service ETL and Machine Learning",
+      "excerpt": "Impetus Technologies Inc., a leading software products and services company, announced the launch of its new cloud-based version",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/impetus-streamanalytix-launches-a-cloud-based-version-for-self-service-etl-and-machine-learning-301063525.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/367508/impetus_logo_Logo.jpg?p=facebook",
+          "width": 1494,
+          "height": 785,
+          "title": "Impetus StreamAnalytix Launches a Cloud-based Version for Self-service ETL and Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus.md",
       "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
       "excerpt": "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network.",
@@ -1254,51 +1291,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work.md",
-      "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
-      "excerpt": "The post Microsoft announces new supercomputer, lays out vision for future AI work appeared first on The AI Blog.\n",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/openai-azure-supercomputer/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:59:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/openai-azure-supercomputer-kevin-scott_3_1200x630-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]

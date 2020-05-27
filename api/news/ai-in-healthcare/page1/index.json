@@ -2,16 +2,16 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-05-25-artificial-intelligence-in-healthcare-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024.md",
-      "title": "Artificial Intelligence in Healthcare Market Analytical Overview, Growth Factors, Demand, Trends and Forecast to 2024",
-      "excerpt": "The Artificial Intelligence in Healthcare Market report upholds the future market predictions related to Artificial Intelligence in Healthcare market size, revenue, production, Consumption, gross margin and other substantial factors.",
-      "heat": 73,
+      "path": "_news/2020-05-26-artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
+      "excerpt": "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled",
+      "heat": 91,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024-2020-05-25",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023-2020-05-26",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-24T23:20:00-07:00",
+      "publishedDateTime": "2020-05-26T09:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -33,7 +33,7 @@
           "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market Analytical Overview, Growth Factors, Demand, Trends and Forecast to 2024",
+          "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
           "attribution": null
         }
       ],
@@ -43,8 +43,7 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "IBM AI"
+        "AI"
       ]
     },
     {
@@ -427,27 +426,27 @@
     {
       "path": "_news/2020-05-15-artificial-intelligence-ai-partnering-deals-collection-2014-2020-access-to-over-350-ai-deal-records-researchandmarketscom.md",
       "title": "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com",
-      "excerpt": "The \"Global Artificial Intelligence (AI) Partnering Terms and Agreements (2014-2020)\" report has been added to ResearchAndMarkets.com's offering. This report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies.",
+      "excerpt": "Global Artificial Intelligence Partnering Terms and Agreements includes: Trends in artificial intelligence dealmaking in the biopharma industry since 2014; Analysis of artificial",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200515005346/en/Artificial-Intelligence-AI-Partnering-Deals-Collection-2014-2020",
+      "webUrl": "https://apnews.com/Business Wire/3020edf9d31b402d8141fbbd38e30456",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-15T07:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20200515005346/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com",
           "attribution": null
         }
@@ -688,35 +687,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-11-sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases.md",
-      "title": "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases",
-      "excerpt": "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design AAV vectors -- CAMBRIDGE ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15998024",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024",
-      "publishedDateTime": "2020-05-11T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-11-novartis-sarepta-partner-with-new-george-church-gene-therapy-startup.md",
       "title": "Novartis, Sarepta partner with new George Church gene therapy startup",
       "excerpt": "Dyno Therapeutics launched Monday with plans to use artificial intelligence to expand the use of gene therapy. The company was co-founded by George Church, the noted Harvard University geneticist, and others.",
@@ -744,6 +714,35 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-therapy-vectors-for-muscle-diseases.md",
+      "title": "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases",
+      "excerpt": "Dyno Therapeutics is a pioneer in applying artificial intelligence (AI) and quantitative high-throughput in vivo experimentation to gene therapy. The company’s proprietary CapsidMap™ platform ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/05/11/2030949/0/en/Sarepta-Therapeutics-and-Dyno-Therapeutics-Announce-Agreement-to-Develop-Next-Generation-Gene-Therapy-Vectors-for-Muscle-Diseases.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
