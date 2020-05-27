@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Dataiku Launches Dataiku Academy, a Free Online Learning Tool to Enable All Users to Build Skills on the Leading Enterprise AI Platform"
 
-secured: "OUL2kfair9opfDYz0h10dHN/3/0bHwo+FlEPB63wDTAUfJEPG1hODc+tCkFECLP8x5FxXgcS/87LOLOG/jUwUKhHwRjmozi+hDYbvB6nfWtT8sBBZqk1hTHUjGkAFd/464D6aYF3AEHYVEfCGmM5Norv/QeZtS9Y5ZYs9S16YrsGtXtvXrkP+j6nRTES27oJLiQ7KFZrenQaWgPuCehol65mPXICf8fxQN9UzBQB9g7fo4A7s/xhG3f6is3sl7H3QcL8JVvk/n/H5NKEQoQFX+y81ZbEEPvdLtGaxGUkd2OeCGdyOBaLK+/0tA6yxVpY;y0r+TPT38SrulsWzFCvdgg=="
+secured: "XINOL4lkOGDDq1InF8gwG2ZgyTtNhJGIYurb+MuElA3PsnpsiXPgKpVgovr9hWrAWycz/VaZ0IfKTtVvZHKkCumyOjJdBllzQh/wU3Oz7NyjZaQl1qInOEXGVUgX2AUuRjJZnYO2LgXwTFH41NpJAUTVZue3Lk0VPCnfjAq17PBzX1JE8/osuAxrDmZ+s0aRvxp2ejgG66rywuDvjxlJ9W3UUUS4DUuDgmAhkKMyWN2h2sK/rlAAP/sra//qV9rbQnoVp9ic1PZ0ih+266TJNkrrEKe4lfbBhd2SrOqk4OU+y6Y9JyRQYhS72hx/qn8mJBxj7eXBWeFl4sTyIAciaL+1iaNKLzmNtBBLNgXLXXBjjNptMZxSutBuETRwgXUGaQKLAvGNykHOizAl8RZntfvTBN5RG8THFXyzG9mGaNPDyNyyiridF30h2IK8lIU3wzjHQ8h0UgtSLCgdBAZs/3fJxy6vInxoNP12QD5irFE=;47CgqHhkAdXTyaeJi/9fpw=="
 ---
 

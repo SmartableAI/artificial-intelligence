@@ -1,39 +1,45 @@
 ---
 category: news
 title: "Amazon Reportedly In Advanced Talks To Buy Self-driving Technology Company Zoox"
-excerpt: "(RTTNews) - Amazon.com Inc (AMZN) is in advanced talks to buy self-driving technology company Zoox Inc, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology, the Wall Street Journal reported citing people familiar with the matter."
-publishedDateTime: 2020-05-27T04:00:00Z
-webUrl: "https://www.nasdaq.com/articles/amazon-reportedly-in-advanced-talks-to-buy-self-driving-technology-company-zoox-2020-05-26"
+excerpt: "(RTTNews) - Amazon.com Inc (AMZN) is in advanced talks to buy self-driving technology company Zoox Inc, in a move that would expand the"
+publishedDateTime: 2020-05-27T03:46:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/amazon-reportedly-in-advanced-talks-to-buy-self-driving-technology-company-zoox-1029235449"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Amazon-Reportedly-In-Advanced-Talks-To-Buy-Self-driving-Technology-Company-Zoox-1029235449"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Amazon-Reportedly-In-Advanced-Talks-To-Buy-Self-driving-Technology-Company-Zoox-1029235449"
 type: article
-quality: 30
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 related:
-  - title: "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox"
-    excerpt: "Amazon is in talks to buy driverless vehicle start-up Zoox, according to people familiar with the matter, a deal that would accelerate the e-commerce giant’s automation efforts."
-    publishedDateTime: 2020-05-27T04:53:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox"
+  - title: "Amazon is reportedly in talks to buy secretive self-driving car company Zoox for less than $3.2 billion"
+    excerpt: "Zoox hinted it's had interest from multiple buyers."
+    publishedDateTime: 2020-05-27T10:09:00Z
+    webUrl: "https://www.businessinsider.com/amazon-acquire-zoox-self-driving-rumors-2020-5"
+    ampWebUrl: "https://www.businessinsider.com/amazon-acquire-zoox-self-driving-rumors-2020-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-acquire-zoox-self-driving-rumors-2020-5?amp"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 73
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/27/e5187472-9fd0-11ea-8055-0ae12e466049_image_hires_121813.jpg?itok=IUl69-RQ&v=1590553099"
+      - url: "https://i.insider.com/5ece37e6aee6a8643064e963?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
 
-secured: "QcnbA8StiZ7SNk8Jk3fgb3g++j3Kf7K3decUdLX+fOxL/nxxCbuOM/DGUyQNE47y38oJVfwB+fTFzJeQiiYEUFqV0+OPzXk3Jj6ewaJQjoaHjRMms1oFQPRBOAwW1wuS1cwLBnvp6pjisuCMeepLPfgsrhW3n6xVa+ohmcO0HGgkoQKyDOMXg9K+X0clSF56eYZXWQCUZzXm6XdPkzP4Ie1rmynJgFfBFAMUsuZ2RYaDbyBXppDSUTUMxeHEPAR/zSyVINc/SmHrY50Juj9XUP8moDHlOTv89e/E0IbwlXQsiyjedZlSBvg9KI9PTQg2;aWQJE5c9rPaUP4XG3AUngg=="
+secured: "EreJbl1G8dNc/abeRRC/ZmOW5oGZPCnjVEhKvzm2zSEmdWy2lL8HtdCLjI47y7sGeTZZUPpZ8Nxfa369hAt/0/sbxuUYthSrFnoyGlb8PMIoYHmgfXMacOWnEv63HzjBONSWgb8e1hdMhdoCVGFDwJw4lmTvuRpbvUPoeeP3mZXb1S61ylGjgbKVoGiPxjzdkif1yqvO73CqFqJMiB3XuppTuuP8VlX+69K6G60yPKYk+1ZRCu94YnqiDkejHs1027mXp2bsMu4oGTExVUkQGdRv2kDyNdxDAw2X7ZOTIR0LF49Y8zONbKHyAGqVzq7D;/G4xM76ZaT/K8awrb7Sksw=="
 ---
 

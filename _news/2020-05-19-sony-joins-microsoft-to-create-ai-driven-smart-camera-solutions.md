@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Sony joins Microsoft to create AI-driven smart camera solutions"
-excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers.The companies will embed Microsoft Azure AI capabilities on Sony's intelligent vision sensor IMX500,"
-publishedDateTime: 2020-05-19T22:47:00Z
-webUrl: "https://menafn.com/1100188927/Sony-joins-Microsoft-to-create-AI-driven-smart-camera-solutions"
+excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers."
+publishedDateTime: 2020-05-19T17:39:00Z
+webUrl: "https://www.sify.com/finance/sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions-news-topnews-ufuk09gagjdei.html"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "7C92ZnNi/QYMlIJipV5qfi3wxE/IBvHvTqkCwmrw1UVu5/Dpj3TIsbOiDwn3HbaOweDaO7tTbhViytwtiOBg9/cfig7nfYCiLvQveJAPLoWbJII/xR97emAqqM0GR2zGw09ffmGEAFeuBwkRKufrYJ8Ll737xxEa07R08J8Fnn8c9s+EPZI8i5bCQY+wVbRGjWlt/1/qYxE8eNjDOMm7tAgDLcEQ8KYChOzfk/N5aY/fKWOecYnGA2Pj+3rM8hShEzsT3WrXbR8fPBjvo3CgEmEQMdYZVu4s/tDYolknn+fQFZnEOtboojN/yA+B2huO;0OYlVEN6oS/hH224TCdVHQ=="
+images:
+  - url: "https://www.sify.com/uploads/microsoft_logo_ap_ufuk09gahbaeh.jpg"
+    width: 950
+    height: 633
+    title: "Sony joins Microsoft to create AI-driven smart camera solutions"
+
+secured: "T7UOkq901RQnzaYOqJFB/1dOkGII4qELqAI0LhddW/C/Wxk4VSrCTE+CyapVZio1GkkLgCUsYc9nUt53dqy14QUEdVhSOrcDutGkwWo5ZZrYRfw7lfDqxbilbVc7OtPPVo220zGPOZiAD9Gju6eDK0LNe3+E1R3R7Bm5Olu37I7PbLXfb8pxr4WoSdRuxT7eGGOnWpcyqEiBLsEmjZ4GPnHLnoqgGGMTFXxCcNpuq8h2N+/hYuJcsQnhoT9suBf6MHN573P4IMRF6/JGeec9DEe5VfrcSiWWAxzpxkKtmdZtttNQyxhGz1DygtKeqAMG;Fe1d34GDUYDTxVaFdHMnvw=="
 ---
 

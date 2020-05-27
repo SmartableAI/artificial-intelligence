@@ -58,6 +58,36 @@ related:
       - url: "https://images.wsj.net/im-191133/social"
         width: 1280
         height: 640
+  - title: "Amazon in Talks to Acquire Self-Driving Car Startup Zoox"
+    excerpt: "The company has long been an innovator in artificial intelligence. Now it wants to add additional autonomous vehicle technology to its portfolio."
+    publishedDateTime: 2020-05-27T16:27:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576082%2Fself-driving-electronic-computer-car-on-road.jpg&w=1200&op=resize"
+        width: 1200
+        height: 760
+  - title: "Amazon might buy self-driving startup Zoox, report says"
+    excerpt: "The purchase would continue Amazon's work to create its own delivery network and cut out driver pay to save cash."
+    publishedDateTime: 2020-05-27T16:50:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/amazon-buy-self-driving-startup-zoox/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-buy-self-driving-startup-zoox/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-buy-self-driving-startup-zoox/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/KWKx_VshCeTaf6InTIOGGAuLbV4=/2020/05/27/b33d5cd5-0063-4b3b-a074-45b1ebf23ccf/ogi-zoox.jpg"
+        width: 1200
+        height: 630
   - title: "WSJ: Amazon in Advanced Talks to Buy Self-Driving Startup Zoox"
     excerpt: "Amazon.com Inc is in advanced talks to buy self-driving startup Zoox Inc, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology, the Wall Street Journal reported on Tuesday."
     publishedDateTime: 2020-05-27T00:51:00Z

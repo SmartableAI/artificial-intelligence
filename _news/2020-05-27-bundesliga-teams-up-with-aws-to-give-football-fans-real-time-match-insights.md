@@ -3,11 +3,13 @@ category: news
 title: "Bundesliga teams up with AWS to give football fans real-time match insights"
 excerpt: "The German Bundesliga has integrated Amazon Web Services technology into live broadcasts to give football fans real-time insights into the games playing out in front of them. Amazon’s cloud infrastructure and artificial intelligence (AI) will be deployed to gather player data and generate two forms of insight: Average Positions and Expected Goals (xGoals)."
 publishedDateTime: 2020-05-27T06:32:00Z
-webUrl: "https://www.techradar.com/in/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights"
+webUrl: "https://www.techradar.com/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights"
+ampWebUrl: "https://www.techradar.com/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: TechRadar
@@ -21,6 +23,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "D5K3zX9swVlSdAeCOVQp5E2KZiNqDMLz/5TIQqvjEfP3gkv0RAen21i5LGuJC7a18dl6GfqiM1Q/2MjOJV/bQe2m9/fibIitOWdSwhsLGXJIPVZ5U+6hsraPyr08s4WfFzlkxIj64PTCdN5M2KHVm/SpCC26XsVmNAxqEpoMkDpmdfPyhq6v6lMZFSwWAQJFAxwobeRGQS7vM0XPF65gY+ZEx45SrXftkNG5+mFxy7QbfNRds77YTESHen+ioQCOadKnc20nAn/i3yGLbS3D7t33riB1ao9Bdo0Vqw9kppbWHPOGlXvUxV28ZqFxny69;UE0mgWXjmaLw75QRbJvukQ=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/hGWUJqYM2xwcTFpm63GvUB-1200-80.jpg"
+    width: 695
+    height: 391
+    title: "Bundesliga teams up with AWS to give football fans real-time match insights"
+
+secured: "uJBw3B8QYZHI76mlYxz56iKXJt9ByVuLRERWBHrqwv9m6nA+UI9BHubLo4zagawOOWdfx/H82nAx10l77WOG3L/QhVWDhzcFtM9wkrOW4Jmb6wK04+FvxezTfL5bTza4QZFZzS8H/y/qOKQh7JJUKEo8Cq15YANZ6xX3RR8X04MwmQIHrDAc1EUF14ZOUhbWJ9HV9M0SK8cKcMM6cnse4GyLxFg6PDJvb/1jXSf1c+LkzIkD0MI1nkEsUFE/dOReBzEadc+PSPLEd1f0gZiAvg48ePo37JwdY1lA7QSGWvDe2ynOFr3N3Lcr73qKE8jZ;Mp0/V7C3CFCtXcKH5OaPKg=="
 ---
 
