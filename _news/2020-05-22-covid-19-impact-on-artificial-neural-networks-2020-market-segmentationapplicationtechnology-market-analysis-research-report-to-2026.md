@@ -28,15 +28,15 @@ images:
     title: "COVID-19 Impact on Artificial Neural Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2026"
 
 related:
-  - title: "Automotive Voice Recognition System Market Worth Nearly $39 Bn by 2027"
-    excerpt: "A research study by ARC foresees the Automotive Voice Recognition System market growing at a CAGR around 6% throughout the forecast period and reach around $39 Billion by 2026. Automotive voice recognition system consists of the monitoring of digital vehicle infotainment devices that includes telecommunications,"
-    publishedDateTime: 2020-05-22T13:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-worth-nearly-39-bn-by-2027-2020-05-22"
+  - title: "Cognitive Computing Market Advancement Strategy, world Top Players, Analysis and Forecast To 2026"
+    excerpt: "The global Cognitive Computing Market is projected to grow with a striking growth rate of 37 % over the forecast period 2019-2026, divulges the latest research report presented by Big Market Research."
+    publishedDateTime: 2020-05-22T17:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-advancement-strategy-world-top-players-analysis-and-forecast-to-2026-2020-05-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

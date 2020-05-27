@@ -25,6 +25,6 @@ images:
     height: 900
     title: "Roborock S6 MaxV Review – The Best Robot Vacuum & Mop For Pet Owners"
 
-secured: "W5L10Crsfs2KD4fsc2nbGaNJXoNMqz06BFP18B4vt8Z5qrCoQgKiH8xcjQeaJlxmAcXhAQDW1V2G0h6H7EyiiknVjg6nmrtshDoKuoEQFFs7BCY95qqXDIMMJhyND3mROXD2uC6V9lvltYnzAqhJ+X9NHK1zCwkPOrr1s/4kd/2O3Lb0Pefwc/09o2S4uGH+S8GpQp19Twzm/fLBRagaL4xtLQRReFRR0+G0K8nyX/CS0PJtsPe+t127NdhN8eUhnuyUKPYFr5dluaJ6muki4BdaX8c7fxjTlPE/Plrao4eUqIvQPS3c5wRWaGLeJAQV;9r6k+tcVqpaU/dvqyq2cTA=="
+secured: "3327cdrF8xBN1nt+kKHDxixW+1kASQPptAj87aok6XU93ZDV8qANNKYtXSKH7NtdGVFytBfXeJ1mLgTNCQp5tkDEV1gY1g1A5e6iPYpgvVbkhrpxOymtBVeS2QFaObGzDVg0LXtKoJHkilrANKR8UWxYUpWSwfXsb8Oe1IRyNJXFXlxX9qaibjW5v+CQPI6LOqy4N30/ti53h/VMRTshGShYO/GeX07Y8SFgrtGJQ4WhxpIRzRJ3aWVl37ILCZuJz307n4vsxPCB+6g3tpR6/YqhIu8hVW0UpXaFWZcovs6KTvUv7pD1laADnUNXUvcxvBrsXu7lgIQG7r7DA3xt1XXXFaEqo1Zcs5sv55mYid3j0p1THiYKDAvOzxyfnT6Fcbhw62cJKvbhlFio3DyU/lPE+ueg4KqoWDBCsrhmreSs6wc6Mj/ihpHGh1gIp0C+EwbdFptdJSaRwgNGYC6Pbpvk5cOeiJ1q+AXxn5o1Sho=;zUnKNZ8AYuI+b6H+7EAotQ=="
 ---
 

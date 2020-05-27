@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-04-top-5-most-useful-tools-all-data-science-freelancers-should-know.md",
+      "title": "Top 5 Most Useful Tools All Data Science Freelancers Should Know",
+      "excerpt": "Freelance data science professionals need to be proficient in certain tools to smoothly navigate their careers in turbulent times.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/top-5-most-useful-tools-all-data-science-freelancers-should-know/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/05/freelancer.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "Top 5 Most Useful Tools All Data Science Freelancers Should Know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-learn-how-to-select-ml-instances-on-the-fly-in-amazon-sagemaker-studio.md",
       "title": "Learn how to select ML instances on the fly in Amazon SageMaker Studio",
       "excerpt": "Amazon Web Services (AWS) is happy to announce the general availability of Notebooks within Amazon SageMaker Studio. Amazon SageMaker Studio supports on-the-fly selection of machine learning (ML) instance types, optimized and pre-packaged Amazon SageMaker Images, and sharing of Jupyter notebooks. You",
@@ -1185,51 +1222,6 @@
           "width": 813,
           "height": 435,
           "title": "Translating your website or application automatically with Amazon Translate in your CI/CD pipeline",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-aws-iq-waives-fees-until-june-30-2020-to-help-you-stand-up-and-scale-remote-work-initiatives.md",
-      "title": "AWS IQ waives fees until June 30, 2020, to help you stand up and scale remote work initiatives",
-      "excerpt": "The recent post Working from Home? Here’s How AWS Can Help shared several ways AWS is helping you set up and scale remote work and work-from-home initiatives. Getting these solutions set up is sometimes best—and achieved more quickly—with expert help. You can get the help you need with AWS IQ, which",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-iq-waives-fees-until-june-30-2020-to-help-you-stand-up-and-scale-remote-work-initiatives/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T11:40:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/15/no-fee-aws-iq-2.gif",
-          "width": 1000,
-          "height": 380,
-          "title": "AWS IQ waives fees until June 30, 2020, to help you stand up and scale remote work initiatives",
           "attribution": null
         }
       ],

@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/jenniferhicks/2020/05/26/using-artificial-
 ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2020/05/26/using-artificial-intelligence-to-diagnose-lung-cancer/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/05/26/using-artificial-intelligence-to-diagnose-lung-cancer/amp/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -21,7 +21,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "1aPTMeEzwZknFgMiC1MNpE8zTKeP3+J4NWkNqOtE3KMQyiY1qBhI/ga5m+LL8EEOm+avhau7e5cEoMu1yFQ6sZbPfpYHtdkNmm0F9RfcThspN/c/ULQCjQGg+GAQ9wh4ZV5yWV88BycspMSJvkdibKapiJ+lGLblLImTLrfOqlpwK9hNOl+F+sCxWsjQj1v1y8871+9Ti1uLk3ao+NmfvlFm/aIkBJ8nSturxdc1Ipw/1n7k8H9cM+zr0TX/XafTq+HnjSfocejTLw5j1/PYbGQS8SXUWGM6J5N3XCCletHK77P5yDC/2Evtg+/411TiLhJQVmblarGaccHEvSh+IiymzA8Uo24CdLZvIunZognFWRz/qtgZA5gVluSoGBTipyFkkmqRi4SaO7w1igFBaW2SSgO3WK7e317dO3Vxrnl76EwmuKgy5rZ7aR0LUQjgkMO/aElk6V1lcSyy7VDPOlcFOio2C44l9mAfmyYDxNk=;oHMeRT34ZaT/tP6cvltSOw=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180547354%2F0x0.jpg"
+    width: 1199
+    height: 657
+    title: "Using Artificial Intelligence To Diagnose Lung Cancer"
+
+secured: "lBQY1afTWYRqBQVgtJJVtvDfipoUCW7w7fV1W+wVrbgzV4SnnvRXfSsG03Vq69yiDo7iJmFjN7qRHOmUkTQupJDtO3vLSIbHZin/6fnzpnmgsKILL10huddlhecIuN9TojOK/8eRrrZwdJGZP2SRPYDGhfipnt7zN0pSU3HhVxUaw78g3iBHs0PYekwp3635CqFyRVvuuidQ4oDaDI++AM8/Ucwyihf8iZVcx5efTy8L79WctsTXYAEDNAl/7bYx8XO3j7SX5k1Mo+RnvUT6pWmth7S8pSCUrahHRrjQva9hDo15mYVCjOXLMkTS8YaC;tAQEuujKwvgpvnj/6NdyhA=="
 ---
 

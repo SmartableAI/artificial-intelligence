@@ -23,6 +23,6 @@ images:
     height: 667
     title: "GBG Predator with Machine Learning Simplifies and Improves Fraud Detection for Credit Card, Mobile, Digital Payments and Digital Banking Transactions"
 
-secured: "GL3MCW2bmZKh9/asSEcZwE0kbVFLk5BlXF4oXHvtY5lI/T9OxnRBSE3ClpBekAfVq3vo+o+ue77vacV3m+mTkGZ/9LBSzB1CjMmeiURAwHH11ClymJULQN+nXmCNpXB8+L8dNCHYcOOmv171ppoEkKxYpjyIZBKVh5ygXnqMLAq/4LNiD/5SEts6OmWd5B+WxEJsPl6HO9BpykaGlX5b0NlWa0r9coFCDM7TNZjI6Uqdo9ojdFbhME9b36Z6oS67OVZ07Hx2B8VKTwsfSMMVJwsBci7zSQ7aJf0+FZ5G3uVvi/M7GxCtrWJP9BNIrpZx;95rdPkFgM0Ls2QBr5sd4Lg=="
+secured: "R5DwsUZfhBdeU7GL34DMFBjsbIVgKEtPYJfCtGP84K1QrSW3DVyfV1hNwqbE5BtaQh0PavKxbMJNwhjtUwBf5OcHNT1h+repiydtBH4Q+2yXlbieiXlpiCILAcbf+WSyYA64j+NjVPxakajamlldwurVY569L+u6Qof0XkwBOqiH159TII/HBveaGLU0cMHoJaauQiR0J2WRXCD+Yn102l/66H1qZ+AzN+Eh2enizBXdnfWsi2SxbB45G4PZ+v5gPSl75jfGQ6FJhV/890b1m9ANjCfZ31cnCHPT/Jmk9wVMNZLjGSzIwY/j/6gsEtbnVSvHthyQhaZOFNr1wLRaHiZHbdKbi7NvlGY2iw6H6migXDDfLlrk+BmmD4wxU3bxL4ffLrzmsc1a9VO8AwDqMzyfQltfmPUakbu09e0JnLxNWIrKkGj6ikaEyoOVJ8Xg/1IWuMIGrL+PNrmG7vyJyJiI4kf8YXkKtRmWJU5/9vw=;6tCIV1ar3WCc2I/U2P9aXw=="
 ---
 

@@ -2,6 +2,35 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-04-intel-buys-moovit-transit-app-for-900-mln-to-help-develop-robotaxis.md",
+      "title": "Intel buys Moovit transit app for $900 mln to help develop robotaxis",
+      "excerpt": "Chipmaker Intel Corp INTC.O has bought Israeli public transit app maker Moovit for about $900 million to help it develop self-d",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0",
+      "ampWebUrl": "https://www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0?amp",
+      "publishedDateTime": "2020-05-04T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-intel-buys-moovit-transit-app-for-900m-to-help-develop-robotaxis.md",
       "title": "Intel buys Moovit transit app for $900M to help develop robotaxis",
       "excerpt": "Moovit will remain independent while its technology and the data it collects from more than 800 million users in 102 countries will be integrated into Intel's Israel-based autonomous car unit, Mobileye.",
@@ -1173,51 +1202,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-audi-abandons-self-driving-plans-for-current-flagship.md",
-      "title": "Audi abandons self-driving plans for current flagship",
-      "excerpt": "Audi is abandoning plans to upgrade its flagship A8 sedan with Level 3 autonomous driving, blaming patchy legislation rather than technological shortcomings for the decision. Announced back in",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/",
-      "ampWebUrl": "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/",
-      "publishedDateTime": "2020-04-28T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/audi-traffic-assist-pilot-1.jpg",
-          "width": 1680,
-          "height": 1120,
-          "title": "Audi abandons self-driving plans for current flagship",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

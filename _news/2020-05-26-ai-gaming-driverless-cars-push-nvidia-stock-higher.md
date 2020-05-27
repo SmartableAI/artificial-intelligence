@@ -7,8 +7,8 @@ webUrl: "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars
 ampWebUrl: "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/"
 cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://247wallst.com/wp-content/uploads/2019/02/imageforentry7-azs.jpg?w=400"

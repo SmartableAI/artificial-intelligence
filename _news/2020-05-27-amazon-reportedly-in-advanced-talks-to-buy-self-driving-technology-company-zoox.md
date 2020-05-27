@@ -1,23 +1,17 @@
 ---
 category: news
 title: "Amazon Reportedly In Advanced Talks To Buy Self-driving Technology Company Zoox"
-excerpt: "(RTTNews) - Amazon.com Inc (AMZN) is in advanced talks to buy self-driving technology company Zoox Inc, in a move that would expand the"
-publishedDateTime: 2020-05-27T03:46:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/amazon-reportedly-in-advanced-talks-to-buy-self-driving-technology-company-zoox-1029235449"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Amazon-Reportedly-In-Advanced-Talks-To-Buy-Self-driving-Technology-Company-Zoox-1029235449"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Amazon-Reportedly-In-Advanced-Talks-To-Buy-Self-driving-Technology-Company-Zoox-1029235449"
+excerpt: "(RTTNews) - Amazon.com Inc (AMZN) is in advanced talks to buy self-driving technology company Zoox Inc, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology, the Wall Street Journal reported citing people familiar with the matter."
+publishedDateTime: 2020-05-27T04:00:00Z
+webUrl: "https://www.nasdaq.com/articles/amazon-reportedly-in-advanced-talks-to-buy-self-driving-technology-company-zoox-2020-05-26"
 type: article
-quality: 50
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
@@ -96,6 +90,6 @@ related:
         width: 597
         height: 346
 
-secured: "jxqQm3FZRs46FAf79iBnajTQau4eCmknIrqsWXxcmiNooi5ACQayakt0/3FMhEVlx4Hw9Vs6fcNdHqV6pO0P4KmN8adnFFPpGEsDPpuCqJatxFoeZCyyST3akPJ940tf/IIp1mfO9vnbHNzORuV2vBE0euh/g7yy71GnsJSoqh/MP2hf6GxEpJawpT1t3c+Wz8nokbVYUVo95LI1Z/4qPdLATSc3F/yjFSk7/VOyVREhG9c/cN60k+L8ntuyykCwZoMgIYbkCHdAAnJ41e9Prxc/u3ZLv7tS9DKOISV2TbOp9fOIlBPtyUc8VIvZGRFR;9cv5ESjb/3/EXyd+BQ7jSg=="
+secured: "QcnbA8StiZ7SNk8Jk3fgb3g++j3Kf7K3decUdLX+fOxL/nxxCbuOM/DGUyQNE47y38oJVfwB+fTFzJeQiiYEUFqV0+OPzXk3Jj6ewaJQjoaHjRMms1oFQPRBOAwW1wuS1cwLBnvp6pjisuCMeepLPfgsrhW3n6xVa+ohmcO0HGgkoQKyDOMXg9K+X0clSF56eYZXWQCUZzXm6XdPkzP4Ie1rmynJgFfBFAMUsuZ2RYaDbyBXppDSUTUMxeHEPAR/zSyVINc/SmHrY50Juj9XUP8moDHlOTv89e/E0IbwlXQsiyjedZlSBvg9KI9PTQg2;aWQJE5c9rPaUP4XG3AUngg=="
 ---
 

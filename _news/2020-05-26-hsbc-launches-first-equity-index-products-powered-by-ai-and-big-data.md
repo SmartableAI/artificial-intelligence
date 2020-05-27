@@ -1,26 +1,25 @@
 ---
 category: news
 title: "HSBC Launches First Equity Index Products Powered by AI and Big Data"
-excerpt: "HSBC today announced the launch of the AI Powered US Equity Index (AiPEX) family, the market’s first to use AI as a method for equity investing"
-publishedDateTime: 2020-05-26T15:08:00Z
-webUrl: "https://www.businesswire.com/news/home/20200526005556/en/HSBC-Launches-Equity-Index-Products-Powered-AI"
+excerpt: "HSBC today announced the launch of the AI Powered US Equity Index (AiPEX) family, the market’s first to use artificial intelligence (AI) as a method for equity investing. The AiPEX family of indices was developed by EquBot and leverages the AI capabilities of EquBot and IBM Watson ™ to turn Big Data into investment insight."
+publishedDateTime: 2020-05-26T14:09:00Z
+webUrl: "https://apnews.com/17b35dcbdc7c48c783b39c71c9a3d0c4"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - IBM AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200526005556/en/647275/23/HSBC_Logo_2018.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     title: "HSBC Launches First Equity Index Products Powered by AI and Big Data"
 
 related:
@@ -36,6 +35,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "oIpDGkMEB7A5Aup56woqNXgRNvri4AuP96llSf8avj+66bDIyJpBQA1fuky/CQxXUn+wjiYlXPtRuOKkM80CWV+xRC1mJC95xPaUBAiAsN/Whoinj/jJdYbr5/UTouAMvqgU4gkd6nyfpVqe1Rhtnkf+U3kh+iugB4jYYQhdHqvOuw5/kUJ3tefhxlJRQ/tiPO0QhnGM72IWAdP68kqibuh3OEEu0368Fa9QJiXzIu8xiGlCqo4LgAnT07NJaBJUeoX4QvGN741VaoOyod/QJ6Y4jfgMxR9xNS5kT8KYcL8zUWb8UxSsRmeCC8FG4KZW;8PXWHFRbbePi1YliuIxnmg=="
+secured: "k/7fThoMaGMXY6i7EMGUqfvaVL4bTu75VR+5gMOsMv5081jzvumZ1875Rok/EKfjomcMyPNCFI+TTO+O0cAPDbVIvEb37Zd8AMIHE9LEAL7NAQiX9gwJIBdOxA6tVT3TwLegnBnXwcwu80Zorz8jEliosrMFi9Y/Jjiikc7kaqIHgWrcWRVvHaR9sxDgD0pUwGu70vmKSSglOipCWHSYhE7DZzcorDjrwinwJqz5c5W3qCR8DlHKt92JHvMvnrh6vrADT7oY9SjXGI1SKCtIIfJ/htmzK7QZs84zerzT8VtA09tBkSjbkURkHwgRSsWZ;U8/dPDx4fWjOPCHY1oQEEQ=="
 ---
 

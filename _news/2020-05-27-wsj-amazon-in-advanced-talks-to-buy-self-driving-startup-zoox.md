@@ -54,17 +54,6 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
-  - title: "Amazon Reportedly In Advanced Talks To Buy Self-driving Technology Company Zoox"
-    excerpt: "(RTTNews) - Amazon.com Inc (AMZN) is in advanced talks to buy self-driving technology company Zoox Inc, in a move that would expand the"
-    publishedDateTime: 2020-05-27T03:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-reportedly-in-advanced-talks-to-buy-self-driving-technology-company-zoox-1029235449"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Amazon-Reportedly-In-Advanced-Talks-To-Buy-Self-driving-Technology-Company-Zoox-1029235449"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Amazon-Reportedly-In-Advanced-Talks-To-Buy-Self-driving-Technology-Company-Zoox-1029235449"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
   - title: "WSJ: Amazon in talks to buy self-driving tech company Zoox"
     excerpt: "Why it matters: It's the latest move by the e-commerce giant, which appears to be building an electric, autonomous logistics operation through its investments in EV truck maker Rivian, self-driving tech company Aurora Innovation and now,"
     publishedDateTime: 2020-05-27T04:09:00Z
@@ -80,6 +69,15 @@ related:
       - url: "https://images.axios.com/LDXr39K4Uf1_HKpRarvzBH0nT84=/2020/05/27/1590546494986.jpg"
         width: 2242
         height: 1472
+  - title: "Amazon Reportedly In Advanced Talks To Buy Self-driving Technology Company Zoox"
+    excerpt: "(RTTNews) - Amazon.com Inc (AMZN) is in advanced talks to buy self-driving technology company Zoox Inc, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology, the Wall Street Journal reported citing people familiar with the matter."
+    publishedDateTime: 2020-05-27T04:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-reportedly-in-advanced-talks-to-buy-self-driving-technology-company-zoox-2020-05-26"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 30
   - title: "Report: Amazon in advanced talks to acquire self-driving car startup Zoox"
     excerpt: "Founded in 2014, Zoox describes itself as an “autonomous mobility” firm that’s designing technology for self-driving vehicles. Where the company differs from others in the business is that it’s not simply designing autonomous vehicle technology but “a symmetrical,"
     publishedDateTime: 2020-05-27T04:17:00Z
@@ -94,6 +92,6 @@ related:
         width: 597
         height: 346
 
-secured: "tdr5HYSoYvx/rGlscZZ2Dch6yhxmzG+soMGK9gfo8dAXIMdb0IvwocKkVVvMVxGUWFmdGGtt33XSQD1RyrOJv+QUHyTvaXr7V6luA/fVW/CS0kdPPaiT2X4o6jJJE1mq4P80m0SnyIRCWAeu985Smq6CEVxiWzde6T10vmKq19lG6hNXkh7ZtP3eYQJpznbu3uonDUfHYq33B5tRQT9UoDc8vJWSR5+QuRWxr8Z3Xpj5ge68dfLP/9DDkcO1NAdmrm7W7Lpz4IGJk2MSdf/1xl1WpEW+svLGn+h/zMNGcp3cwHeMgZjN4KLrVEbyjfzl;F6DRf6gA4KzRecc0bUzSQw=="
+secured: "ptyf+h4HwuejiiSH4Y033GzNUv6yOABhPoxVyk55nONQMri6yoiyzYC3UCYi/dqhSYQ0zxbO006ZLlQw03OyavrFD2FmBZ2JEf4+Q43CrGw30GxIDy3vydLc4HyjoOrg1oE3qhbBRfgyXwUfpazsJRCpl7GR9FiFEWMt5pNF49SNfxrJPd5LBay2tcmgSgk1dW+2HXflca3Hnp2/o9j8GxilDfmjmDslsNnKug2UCAE7tx1ymvQFOAAy+KDWRPH8wOcm1mywe7D9/uXVHRdnbpfxSGXHouQ6QOIvlEJfMbkGZy6Ao9Uija0ShGhgDPPXO/5mZunEoH87Be2PYZ71gYHzsGJVKXxCQ0WivA3l/0WSh7e4rIHTR3rmQKXXIbbymgQIobWBb7fmVfiGT/bkVBc3hsmDbJgo+mDuxD9ndhx2VCsN1jA9guzEgXQToaF7PqFjrbYFR4rpTe2TbY3mqVLnOR8w9dnaY0xTd4JhXEc=;wxkQE3zLcjH3uDItZf+H6g=="
 ---
 

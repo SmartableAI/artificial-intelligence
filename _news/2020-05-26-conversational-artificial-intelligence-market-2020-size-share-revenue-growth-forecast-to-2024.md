@@ -5,7 +5,7 @@ excerpt: "Global Conversational Artificial Intelligence (AI) Market, by Componen
 publishedDateTime: 2020-05-26T16:27:00Z
 webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-2020-size-share-revenue-growth-forecast-to-2024-2020-05-26"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
