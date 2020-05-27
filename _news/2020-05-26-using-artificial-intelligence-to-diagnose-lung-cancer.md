@@ -29,6 +29,6 @@ images:
     height: 657
     title: "Using Artificial Intelligence To Diagnose Lung Cancer"
 
-secured: "lBQY1afTWYRqBQVgtJJVtvDfipoUCW7w7fV1W+wVrbgzV4SnnvRXfSsG03Vq69yiDo7iJmFjN7qRHOmUkTQupJDtO3vLSIbHZin/6fnzpnmgsKILL10huddlhecIuN9TojOK/8eRrrZwdJGZP2SRPYDGhfipnt7zN0pSU3HhVxUaw78g3iBHs0PYekwp3635CqFyRVvuuidQ4oDaDI++AM8/Ucwyihf8iZVcx5efTy8L79WctsTXYAEDNAl/7bYx8XO3j7SX5k1Mo+RnvUT6pWmth7S8pSCUrahHRrjQva9hDo15mYVCjOXLMkTS8YaC;tAQEuujKwvgpvnj/6NdyhA=="
+secured: "3eby60d0+44AWMgbMNgyYQPQKNaxKNAzUStKmqmktYeLpIR5Z2ocOR/vttk003n47vZ+zMutxQ/ZUoTnloT2rNmnrQrdR+dQtF6SGCxQZgtPkzqTlgXuKVqVOplTPW5sq/+lZ80ciG40muDRv47Vnuks/L1uf7SknE7PGjf7/ogLIrVJPQ9PxON9XFI+DBIFG7VS+MPAaZqO62jo3fNKZI/gUG3AjYPjDl4qj1R9qYOTW0xpip0MU1NV71+cx8/FQlzJwqArvePxnI4pkwrInEdesGwAmtyTMf/BiNfv45QaSf31FTob9tdYQrv/Mx62pQKb46Pc0Ks/tprq+FiEO5wyjgcdIWmPiTDVr9ZRin55BjorVJCVJ+9Q/tEaiA7BZ33zY92suQypYYEP+EbrSukQoznuFvFZO2/xI2muTXglg93EokNjn/ExL9WyX7scdznR/+ggEZcpY7SY/iJRXPFGU9a/P3OoGHfFuYVm8gY=;XZj0rxvXWKxzcIfqxsAtmw=="
 ---
 

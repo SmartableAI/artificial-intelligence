@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-18-five-robots-that-are-saving-the-us-food-supply-chain.md",
+      "title": "Five robots that are saving the US food supply chain",
+      "excerpt": "As Covid-19 threatens to buckle the US food supply chain, businesses are wrestling with the task of how to feed millions under lockdown via understaffed supply chains. As a result, demand for robotics companies whose machines can harvest,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
+      "ampWebUrl": "https://amp.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
+      "publishedDateTime": "2020-05-18T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2d98e856-a3fe-498c-8c42-ab85a0556c61.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "Five robots that are saving the US food supply chain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-samsung-backs-startup-that-has-made-an-artificial-window-which-mimics-sunlight.md",
       "title": "Samsung Backs Startup That Has Made An Artificial Window Which Mimics Sunlight",
       "excerpt": "The SunnySide artificial window not only changes the angle of light according to the time of the day but is also claimed to help users synthesize vitamin D.",
@@ -1207,43 +1244,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-indiegogo-campaign-introduces-the-next-gen-social-family-robot.md",
-      "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-      "excerpt": "Misa is a revolutionary social family robot that is backed by high-tech sensors, AI, and emotional intelligence travel, learn, teach, and interact with people around like a",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15985882/indiegogo-campaign-introduces-the-next-gen-social-family-robot",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15985882",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15985882",
-      "publishedDateTime": "2020-05-07T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.getnews.info/uploads/98e0ea3f3e3e583379fdb6396838275d.jpg",
-          "width": 579,
-          "height": 480,
-          "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

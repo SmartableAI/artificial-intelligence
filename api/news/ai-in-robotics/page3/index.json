@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-07-indiegogo-campaign-introduces-the-next-gen-social-family-robot.md",
+      "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
+      "excerpt": "Misa is a revolutionary social family robot that is backed by high-tech sensors, AI, and emotional intelligence travel, learn, teach, and interact with people around like a",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15985882/indiegogo-campaign-introduces-the-next-gen-social-family-robot",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15985882",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15985882",
+      "publishedDateTime": "2020-05-07T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://www.getnews.info/uploads/98e0ea3f3e3e583379fdb6396838275d.jpg",
+          "width": 579,
+          "height": 480,
+          "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-pittsburghs-airport-is-the-first-in-the-us-to-use-uv-cleaning-robots.md",
       "title": "Pittsburgh’s airport is the first in the US to use UV-cleaning robots",
       "excerpt": "Allegheny County Airport CEO Christina Cassotis said the partnership with Pittsburgh-based Carnegie Robotics highlights how the burgeoning robotics sector in Pittsburgh works alongside the community to solve big-picture problems.",
@@ -1235,43 +1272,6 @@
         "Machine Learning",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
-      "title": "Artificial intelligence can’t technically invent things, says patent office",
-      "excerpt": "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/",
-      "ampWebUrl": "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/",
-      "cdnAmpWebUrl": "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/",
-      "publishedDateTime": "2020-04-30T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://fox59.com/wp-content/uploads/sites/21/2020/04/GettyImages-1176548169.jpg?w=1024&h=720&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Artificial intelligence can’t technically invent things, says patent office",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

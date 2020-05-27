@@ -8,7 +8,7 @@ ampWebUrl: "https://www.law360.com/amp/articles/1276823"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1276823"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,18 +21,18 @@ topics:
 
 related:
   - title: "HSBC Launches First Equity Index Products Powered by AI and Big Data"
-    excerpt: "HSBC today announced the launch of the AI Powered US Equity Index (AiPEX) family, the market’s first to use artificial intelligence (AI) as a method for equity investing. The AiPEX family of indices was developed by EquBot and leverages the AI capabilities of EquBot and IBM Watson ™ to turn Big Data into investment insight."
-    publishedDateTime: 2020-05-26T14:09:00Z
-    webUrl: "https://apnews.com/17b35dcbdc7c48c783b39c71c9a3d0c4"
+    excerpt: "HSBC today announced the launch of the AI Powered US Equity Index (AiPEX) family, the market’s first to use AI as a method for equity investing"
+    publishedDateTime: 2020-05-26T15:08:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200526005556/en/HSBC-Launches-Equity-Index-Products-Powered-AI"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mms.businesswire.com/media/20200526005556/en/647275/23/HSBC_Logo_2018.jpg"
+        width: 1200
+        height: 627
 
 secured: "86JE2VfxhuRIEknYHdO9odGTwLoBpAZwUJ/01cxTNHhx3mQf/hetsnbmTIQ3cCsvnHACos3WOEGEAUaxpCzwN8Bv8oU5orNybqu7sI94k8+qfTxGuWy8GupD1DLTUNQY+vrn7NvSamoIT7FNrHPxvw18ffp9EPM2JAD4uVocXeeH96cWdGRM7mvFZ17VkRZHzilrRdtdFsx1W5mlzWh5c3xCxprGsqvGXYTSQoFhOJfpUP96DkGfg9Sw3nZESFqwarw0pWD8UzyXE77B+CTopmhQt67v7Q6WQq6ZnpZTJFNkNTNF9lGqu+01u8/Pi+UA;6IEs5MSiPAy1BKYRrsmb8g=="
 ---

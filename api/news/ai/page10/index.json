@@ -2,6 +2,53 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
+      "title": "Edward Saatchi on virtual beings: AI is the next great art form",
+      "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-17T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/lucy.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": "Edward Saatchi on virtual beings: AI is the next great art form",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-05-17-openai-finds-machine-learning-efficiency-is-outpacing-moores-law.md",
       "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
       "excerpt": "OpenAI researchers outline a new way to measure AI efficiency, and using their measure, they show AI has been getting more efficient at a wicked pace.",
@@ -1255,50 +1302,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-how-ai-can-help-in-fighting-covid-19.md",
-      "title": "How AI Can Help In Fighting COVID-19",
-      "excerpt": "To manage the pandemic, hospitals are looking forward to automated tools to the hilt. Healthcare experts are using AI to triage COVID-19 patients",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/350672",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350672",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350672",
-      "publishedDateTime": "2020-05-15T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1589535361-web-3963945.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "How AI Can Help In Fighting COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

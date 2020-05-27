@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-27-the-robot-artists-arent-coming.md",
+      "title": "The Robot Artists Aren’t Coming",
+      "excerpt": "Many artists are turned off by artificial intelligence. They may be discouraged by fears that A.I., with its efficiency, will take away people’s jobs. They may question the ability of machines to be creative.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.amp.html",
+      "publishedDateTime": "2020-05-27T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/27/multimedia/27bigideas-elgammal-03/27bigideas-elgammal-03-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "The Robot Artists Aren’t Coming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-unlocking-the-value-of-values-with-ai.md",
+      "title": "Unlocking the value of values with AI",
+      "excerpt": "Now, as we grapple with the pandemic businesses are turning to AI and robotics to help compensate for the loss of revenue and layoffs. However, it is likely not the technology itself that will make the difference in the aftermath,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/unlocking-the-value-of-values-with-ai",
+      "ampWebUrl": "https://www.techradar.com/amp/news/unlocking-the-value-of-values-with-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/unlocking-the-value-of-values-with-ai",
+      "publishedDateTime": "2020-05-27T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/FVsNoGEW8hur5KqLGncuBe-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Unlocking the value of values with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-social-distancing-apps-and-facial-recognition-are-the-new-normal-at-indias-it-firms.md",
       "title": "Social distancing apps and facial recognition are the new normal at India’s IT firms",
       "excerpt": "Quartz spoke to several IT players and industry experts to understand what is already happening and what more needs to be done to adjust with the “new normal.” Here’s what they said: Most IT firms are starting with limited employees in offices to ensure physical distancing.",
@@ -140,7 +230,7 @@
       "path": "_news/2020-05-27-e-commerce-giant-amazon-in-talks-to-buy-autonomous-vehicle-start-up-zoox.md",
       "title": "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox",
       "excerpt": "Amazon is in talks to buy driverless vehicle start-up Zoox, according to people familiar with the matter, a deal that would accelerate the e-commerce giant’s automation efforts.",
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
@@ -182,23 +272,23 @@
       ]
     },
     {
-      "path": "_news/2020-05-27-amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox.md",
-      "title": "Amazon in Advanced Talks to Buy Self-Driving-Car Tech Company Zoox",
-      "excerpt": "Amazon is in advanced talks to buy Zoox, a move that would expand its reach in autonomous-vehicle technology, people familiar with the matter say.",
-      "heat": 124,
+      "path": "_news/2020-05-27-amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox.md",
+      "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
+      "excerpt": "Amazo AMZN n may be preparing to make a big move into the self-driving vehicle world as the logistics giant is said to be in “advanced” talks to acquire Zoox, a stealthy developer of robotaxi technology,",
+      "heat": 139,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wsj.com/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611",
-      "publishedDateTime": "2020-05-26T20:25:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
+      "publishedDateTime": "2020-05-26T20:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -210,10 +300,10 @@
       },
       "images": [
         {
-          "url": "https://images.wsj.net/im-191133/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Amazon in Advanced Talks to Buy Self-Driving-Car Tech Company Zoox",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecdb8a20ca0110007263878%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
           "attribution": null
         }
       ],
@@ -403,51 +493,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-26-arm-doubles-down-on-ai-for-mobile-devices.md",
-      "title": "Arm doubles down on AI for mobile devices",
-      "excerpt": "If you care the least bit about where the mobile device market is headed, it’s important to keep track of the new advancements that Arm introduces. While you won’t experience them immediately, if you purchase a new smartphones 12-18",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "publishedDateTime": "2020-05-26T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2019/12/2019-12-10-image-16.jpg",
-          "width": 3840,
-          "height": 2560,
-          "title": "Arm doubles down on AI for mobile devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher.md",
       "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
       "excerpt": "Some big trends stand to benefit Nvidia and its rivals, Intel and Advanced Micro Devices Inc. (NASDAQ: AMD). These include artificial intelligence, gaming and driverless vehicles.",
@@ -576,42 +621,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-26-wada-looks-to-artificial-intelligence-to-catch-dopers.md",
-      "title": "WADA looks to artificial intelligence to catch dopers",
-      "excerpt": "Doping Agency is looking to artificial intelligence as a new way to detect athletes who cheat as sports around the world are shut down by the coronavirus pandemic",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://abcnews.go.com/Sports/wireStory/wada-artificial-intelligence-catch-dopers-70884096",
-      "ampWebUrl": "https://abcnews.go.com/amp/Sports/wireStory/wada-artificial-intelligence-catch-dopers-70884096",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/wireStory/wada-artificial-intelligence-catch-dopers-70884096",
-      "publishedDateTime": "2020-05-26T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Sports/WireAP_e66e5c61dee74c66ab71e0e8837347dd_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": "WADA looks to artificial intelligence to catch dopers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-26-using-artificial-intelligence-to-diagnose-lung-cancer.md",
       "title": "Using Artificial Intelligence To Diagnose Lung Cancer",
       "excerpt": "The National Cancer Institute reported that lung cancer accounts for 25% of all cancer deaths. According to Paul Pagano, Interium CEO and Chief Scientific Officer, LungLife AI around 80 percent of lung cancer is diagnosed at a late stage due to inadequate early detection strategies,",
@@ -660,7 +669,7 @@
       "path": "_news/2020-05-26-ai-in-computer-vision-market-research-report-2020-share-growth-opportunity-and-forecast-2023.md",
       "title": "AI In Computer Vision Market Research Report 2020 Share, Growth, Opportunity, And Forecast-2023",
       "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-2020-share-growth-opportunity-and-forecast-2023-2020-05-26",
@@ -744,6 +753,43 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-wada-looks-to-artificial-intelligence-to-catch-dopers.md",
+      "title": "WADA looks to artificial intelligence to catch dopers",
+      "excerpt": "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/",
+      "ampWebUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
+      "cdnAmpWebUrl": "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
+      "publishedDateTime": "2020-05-26T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSEE",
+        "domain": "yourcentralvalley.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2020/05/4878bde720924c678f20a60662f1f937.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "WADA looks to artificial intelligence to catch dopers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1056,51 +1102,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-machine-learning-market-is-estimated-to-reach-768-bn-by-2027.md",
-      "title": "Machine Learning Market is Estimated to Reach $ 76.8 Bn by 2027",
-      "excerpt": "The global Machine Learning Market is estimated to grow at a healthy CAGR of over 40.1% during the forecast period 2020 to 2027 and reach a valuation of over US$ 76.8 Bn. The market report provides an analysis of the global Machine Learning Market for the period 2016-2027,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-estimated-to-reach-768-bn-by-2027-2020-05-26",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Market is Estimated to Reach $ 76.8 Bn by 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

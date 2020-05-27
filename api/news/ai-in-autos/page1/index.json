@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-05-27-amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox.md",
-      "title": "Amazon in Advanced Talks to Buy Self-Driving-Car Tech Company Zoox",
-      "excerpt": "Amazon is in advanced talks to buy Zoox, a move that would expand its reach in autonomous-vehicle technology, people familiar with the matter say.",
-      "heat": 124,
+      "path": "_news/2020-05-27-amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox.md",
+      "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
+      "excerpt": "Amazo AMZN n may be preparing to make a big move into the self-driving vehicle world as the logistics giant is said to be in “advanced” talks to acquire Zoox, a stealthy developer of robotaxi technology,",
+      "heat": 139,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wsj.com/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611",
-      "publishedDateTime": "2020-05-26T20:25:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
+      "publishedDateTime": "2020-05-26T20:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +30,10 @@
       },
       "images": [
         {
-          "url": "https://images.wsj.net/im-191133/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Amazon in Advanced Talks to Buy Self-Driving-Car Tech Company Zoox",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecdb8a20ca0110007263878%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
           "attribution": null
         }
       ],

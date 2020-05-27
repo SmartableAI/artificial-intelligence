@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-26-the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker.md",
+      "title": "The Bundesliga Is Using Cloud And AI To Power New Stats For ‘Der Klassiker’",
+      "excerpt": "Borussia Dortmund v Bayern Munich will be the first Bundesliga broadcast to offer xGoals and Average Position 'Match Facts' to viewers, powered by AWS infrastructure",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/amp/",
+      "publishedDateTime": "2020-05-26T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1214865857%2F0x0.jpg",
+          "width": 1200,
+          "height": 752,
+          "title": "The Bundesliga Is Using Cloud And AI To Power New Stats For ‘Der Klassiker’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g.md",
       "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
       "excerpt": "Samsung has announced a new Exynos chip for its mid-range smartphones, the Exynos 880. The octa-core chip is based on the 8nm FinFET process and features an integrated 5G modem with sub-6GHz support.",
@@ -1270,51 +1315,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology.md",
-      "title": "AI Weekly: Getting back to work under the watchful eye of technology",
-      "excerpt": "As we figure out how to get back to normal, all the same issues around surveillance, AI, data privacy, and safety coalesce in the workplace.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
-      "publishedDateTime": "2020-05-22T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/reuters-thermal-camera-workplace-surveillance-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: Getting back to work under the watchful eye of technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],
