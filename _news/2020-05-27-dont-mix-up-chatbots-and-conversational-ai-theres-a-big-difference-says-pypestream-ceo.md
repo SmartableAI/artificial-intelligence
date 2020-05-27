@@ -24,6 +24,6 @@ images:
     height: 864
     title: "Don't mix up chatbots and conversational AI. There's a big difference, says Pypestream CEO"
 
-secured: "A9uZUeuV3H0E52hTklfQz1ciJnbmE9k39wLJrImdNi8kHdaSux/GbUCapVV6CJok6Gb2X9a03uxgesKPD2kspwsubzCy+Z4538lzj8H3FopnFBbYFZCYDynTkF9mPWQSSc+6aSGFx7lH70U8kYHX9Cpw/V9hQTi5PHCCAraJbn3j0I1fkKc8u6bYGGx3pMSv4qEyfJixo78+hYTyoZz++XuCIF9gsp8YS/M9VmY4pv5lzyrKr27KM3Vj3ANXDxFvTmt/YwE4WMLsTKHW/RUOHco8esbD1okRFVYTxDgi+1ukw4bhAg+jtdZYwJMVsV4e;qWg0fIuhAdLbs6IJ2jWG3A=="
+secured: "PVwd7EkndALVBw7H4/vbjSy6uu1oDMaXNIJ8HKGUf+xmYSuAv+ziNVGiWW4SbBLCgGXon9uCGI3K4FBENcL1VSwlWwHgjUYKB1tVGOY24jNCQ7C29o0dwdgaFCILfSl1cpIVJU0TAEmct+V5Y+9H6J3szzjdIuOljEpH1g69GZUJqAJnNu20523tmG/a4p5qW+2dyVCVigcwYYyvZ7HCYMRpuuqxwOq5vFKXZyfklThFmCQ+7dtKfb/OKolpyWa3OJvLtlG7Qs51TlYenaLs6MnDz1hIwMU5SkWkK3+xlIE40t3o1cP87PUVH7rf7w/p07XImR41LSE3nSQ2SJy2tHXweJDB/yuZ1d+I+0XoGd570oBrpNehdtwiANl+h4mrkWMtwv36+q5g8mQrItvQ7Q89NUQqXlQvAPKCap0G7p6H8zoFRwxFu7ox8ZpMZ6blAVbogDhUfCc/HPqjSvxMqkBXXCx6MiNidUpkIWAzI78=;+VENFdYYsRqp8ygzG3r/fA=="
 ---
 

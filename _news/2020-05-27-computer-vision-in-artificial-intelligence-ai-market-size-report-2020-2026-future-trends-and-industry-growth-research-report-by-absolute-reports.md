@@ -5,7 +5,7 @@ excerpt: "Final Report will add the analysis of the impact of COVID-19 on this i
 publishedDateTime: 2020-05-27T08:03:00Z
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-report-2020-2026-future-trends-and-industry-growth-research-report-by-absolute-reports-2020-05-27"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

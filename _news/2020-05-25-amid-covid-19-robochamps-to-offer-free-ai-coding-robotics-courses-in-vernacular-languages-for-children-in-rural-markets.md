@@ -35,6 +35,15 @@ related:
       - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
         width: 300
         height: 300
+  - title: "Robochamps to offer free AI, coding and robotics courses in Indian languages for rural school children"
+    excerpt: "Robochamps offers free AI, coding and robotics courses in Hindi, English, Gujarati, and Punjabi will soon launch in 35 more local languages"
+    publishedDateTime: 2020-05-27T11:03:00Z
+    webUrl: "https://www.dqindia.com/robochamps-offer-free-ai-coding-robotics-courses-indian-languages-rural-school-children/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 33
 
 secured: "xrvUiHPtJ5L2sTnwp78btnaO1/4YyMsmXBAJrVtsHuQmBvEqgX9vzHjig87nbmSH/yKBJhA4jRN9F5+ct8Tjp6OdnMWtz+DvaOa4Gt7tEOQOjCqcJTfxFXcZ8zI1DPeOslsMo94RMCtqwsbZENrakdfzIbMuAbrOnYMwhlw6sQi8Ce8cIFY7u0Ty+Z+cA1BoVeFxn02QMmXrtp0O1xkXN5NcQ4Xy8gHNiccpMEm/ey0pQY8a3/v6dX/955FCjLbrLwrhdiTgWSCQ0i7w6JHFKmmKJvuPTLh34PhHzQYt9Fw31KO9pJE60pxX7gDarBCm;5HaFYlnou2dsr6WtSwFEiA=="
 ---

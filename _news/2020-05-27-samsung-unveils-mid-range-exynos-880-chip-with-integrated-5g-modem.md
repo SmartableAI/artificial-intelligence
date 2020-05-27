@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Samsung unveils mid-range Exynos 880 chip with integrated 5G modem"
-excerpt: "Source: IANS ; Samsung unveils mid-range Exynos 880 chip with integrated 5G modem. Samsung unveils mid-range Exynos 880 chip with integrated"
-publishedDateTime: 2020-05-27T05:16:00Z
-webUrl: "https://www.outlookindia.com/newsscroll/samsung-unveils-midrange-exynos-880-chip-with-integrated-5g-modem/1847114"
-ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/samsung-unveils-midrange-exynos-880-chip-with-integrated-5g-modem/1847114"
-cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/samsung-unveils-midrange-exynos-880-chip-with-integrated-5g-modem/1847114"
+excerpt: "South Korean tech giant Samsung on Wednesday unveiled a new mobile chip, the Exynos 880 SoC, featuring an integrated 5G modem and AI capabilities. The Exynos 880 includes a 5G cellular modem that enables lag-less streaming and rapid downloads."
+publishedDateTime: 2020-05-27T11:34:00Z
+webUrl: "https://news.webindia123.com/news/articles/Science/20200527/3565696.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Outlookindia
-  domain: outlookindia.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI Hardware
@@ -36,6 +34,6 @@ related:
         width: 760
         height: 428
 
-secured: "jbj+yI1TEtg/CbigPNl6xBE+6chb8YnqkewzOb0TRKXTYLsJ9d00YwMNsbqRRi4Oi87qQC/HbgnFzwEUhDxtH2HYwBtdEi3RnwhBKbWqIAIFMfl3gY2XhgM4Lxd46oRE3ZIEgNR+Tz+kTagWPm6D9RRyZan+FknoWhmwX0VjnfuGKHqERrq7/z3LkmccGRURdW3pZVdvOBcKw9FdLpAF1Sy4jjx9Xho0JQnNnw+OABn43wOMNX8By8a61Tb2IhX1cB/Bvbuw7VpNH/w/OR+OrWSmmmErPqBhUsWaKhSuqjNA2vFei+zo0QUtZlr3pfav;XCJuIc1O3yuep4pLr9x8qg=="
+secured: "6T1L0u1FCpblpIYAuUdOnzntJK3iyB5hZr/Km4GjdX4RDEJ46JKCvbPHGxJA/IA1xW40dbCXBDJ0DuH7WAM8QA/sqhoPeV6ZPW66MDv37q4iEgDxlavKnJVjxGeMogbM+Bd/Qx66ZYS33eteece7lOLKsbKykMNk9++rjj3oNlIEvCUwIeKOnWB+SKkmK9AWA2Yo3ImIsg9O1txJ473qOU36kUExMvv7DOgB0VRd8N8MkC/1bTNtMJLjCOvZlqy3ymvG0kDPyDdTji3s6k8RdHElgn37SfFonKsQY3JE2QFx8cGkPg5rOsvZ9b8OAMgj;3R0eQOa8wQ9BfSZVAlwroA=="
 ---
 

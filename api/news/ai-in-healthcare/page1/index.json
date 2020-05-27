@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-27-guest-opinion-artificial-intelligence-joins-humans-in-fight-against-covid-19.md",
+      "title": "Guest Opinion: Artificial intelligence joins humans in fight against COVID-19",
+      "excerpt": "As the COVID crisis continues, Albertans and all Canadians would surely welcome some good news among the bleak headlines.So consider this — we’ve learned a lot over the past few months",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://calgarysun.com/opinion/columnists/guest-opinion-artificial-intelligence-joins-humans-in-fight-against-covid-19",
+      "ampWebUrl": "https://calgarysun.com/opinion/columnists/guest-opinion-artificial-intelligence-joins-humans-in-fight-against-covid-19/amp",
+      "cdnAmpWebUrl": "https://calgarysun-com.cdn.ampproject.org/c/s/calgarysun.com/opinion/columnists/guest-opinion-artificial-intelligence-joins-humans-in-fight-against-covid-19/amp",
+      "publishedDateTime": "2020-05-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Calgary Sun",
+        "domain": "calgarysun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://postmediacalgarysun.files.wordpress.com/2020/05/cpt505-the-associated-press-1.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": "Guest Opinion: Artificial intelligence joins humans in fight against COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
       "excerpt": "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled",
@@ -1171,51 +1208,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026.md",
-      "title": "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026",
-      "excerpt": "The Artificial Intelligence In Healthcare Market report provides a detailed analysis of global market size, regional",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026-2020-05-05",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
