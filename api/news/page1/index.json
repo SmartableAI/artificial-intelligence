@@ -2,6 +2,222 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-27-train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker.md",
+      "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
+      "excerpt": "At re:Invent 2019, AWS shared the fastest training times on the cloud for two popular machine learning (ML) models: BERT (natural language processing) and Mask-RCNN (object detection). To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T09:00:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/26/albert-nlp-6.gif",
+          "width": 1000,
+          "height": 580,
+          "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-microsoft-azure-cognitive-services-receives-pronunciation-assessment.md",
+      "title": "Microsoft Azure Cognitive Services Receives Pronunciation Assessment",
+      "excerpt": "Microsoft also announced Speaker Recognition improvements for Azure Cognitive Services, as well as an update to Personalizer.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://winbuzzer.com/2020/05/27/microsoft-azure-cognitive-services-receives-pronunciation-assessment-xcxwbn/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2018/07/Samsung-AI-Samsung.jpg",
+          "width": 705,
+          "height": 470,
+          "title": "Microsoft Azure Cognitive Services Receives Pronunciation Assessment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-artificial-intelligence-in-retail-market-2020-comprehensive-insights-opportunties-and-forecast-to-2026.md",
+      "title": "Artificial Intelligence in Retail Market 2020 Comprehensive Insights, Opportunties and Forecast to 2026",
+      "excerpt": "New Jersey, United States, - The report is a brilliant presentation of critical dynamics, regional growth, competition, and other important aspects of the Artificial Intelligence in Retail Market. The factual,",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-comprehensive-insights-opportunties-and-forecast-to-2026-2020-05-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Retail Market 2020 Comprehensive Insights, Opportunties and Forecast to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines.md",
+      "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
+      "excerpt": "Scientists have developed a method of automatically detecting hidden landmines by using AI to scan images captured by drones",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
+      "publishedDateTime": "2020-05-27T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-53-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers.md",
+      "title": "IBM publishes wide-ranging free data sets to assist AI developers",
+      "excerpt": "IBM has published a number of notebooks, datasets and more resources from IBM Research on their Data Asset eXchange (DAX) for developers to use free of cost. DAX is an online hub with curated, free data sets that AI developers and data scientists can use under open data licenses.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "publishedDateTime": "2020-05-27T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "IBM publishes wide-ranging free data sets to assist AI developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-gamemakers-inject-ai-to-develop-more-lifelike-characters.md",
       "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
       "excerpt": "And in a neat twist, the researchers are harnessing an AI technique that proved itself by playing some of the earliest console videogames. A team from EA and the University of British Columbia in Vancouver is using a technique called reinforcement learning,",
@@ -219,51 +435,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-27-bundesliga-teams-up-with-aws-to-give-football-fans-real-time-match-insights.md",
-      "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
-      "excerpt": "The German Bundesliga has integrated Amazon Web Services technology into live broadcasts to give football fans real-time insights into the games playing out in front of them. Amazon’s cloud infrastructure and artificial intelligence (AI) will be deployed to gather player data and generate two forms of insight: Average Positions and Expected Goals (xGoals).",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "ampWebUrl": "https://www.techradar.com/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "publishedDateTime": "2020-05-26T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hGWUJqYM2xwcTFpm63GvUB-1200-80.jpg",
-          "width": 695,
-          "height": 391,
-          "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-27-computer-vision-market-in-india-2020-to-2025rising-demand-share-trends-growth-opportunities.md",
       "title": "Computer Vision Market In India 2020 to 2025|Rising Demand, Share, Trends, Growth, Opportunities",
       "excerpt": "At Verified Market Intelligence, we provide a market study that encompasses both qualitative and quantitative assessments of latest trends for the market segmentations classified by our analysts. According to our research team,",
@@ -396,6 +567,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson.md",
+      "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
+      "excerpt": "As I’ve previously discussed, Natural Language Processing (NLP) is making its way into every industry. Each day, organizations find a way to implement NLP into their organization to speed up a process, analyze data more efficiently, or even provide smarter recommendations. As the amount of unstructured",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T17:00:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_03_27_Blog_NLP_BlogBanner-990x498.png",
+          "width": 990,
+          "height": 498,
+          "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     },
     {
@@ -870,229 +1085,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-creating-a-complete-tensorflow-2-workflow-in-amazon-sagemaker.md",
-      "title": "Creating a complete TensorFlow 2 workflow in Amazon SageMaker",
-      "excerpt": "Managing the complete lifecycle of a deep learning project can be challenging, especially if you use multiple separate tools and services. For example, you may use different tools for data preprocessing, prototyping training and inference code, full-scale model training and tuning, model deployments,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-complete-tensorflow-2-workflow-in-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T08:47:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "Creating a complete TensorFlow 2 workflow in Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-definedcrowd-raises-505-million-for-ai-data-set-curation.md",
-      "title": "DefinedCrowd raises $50.5 million for AI data set curation",
-      "excerpt": "Seattle-based DefinedCrowd, which describes itself as a “smart” data curation platform, has raised $50.5 million in venture capital.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/amp/",
-      "publishedDateTime": "2020-05-26T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/social-thumbnail-e1590501305895.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": "DefinedCrowd raises $50.5 million for AI data set curation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-seattle-startup-definedcrowd-lands-50m-to-help-mastercard-bmw-others-improve-their-ai-services.md",
-      "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
-      "excerpt": "Artificial intelligence services require mountains of reliable data to reach their full potential. Seattle startup DefinedCrowd is filling that need for Fortune 500 companies such as Mastercard",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
-      "publishedDateTime": "2020-05-26T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/DanielaBraga_DefinedCrowd_3-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai.md",
-      "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
-      "excerpt": "Arm roles out new CPU, GPU and NPU products, as well as a new program to customize products for greater performance.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
-      "publishedDateTime": "2020-05-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/22/80cb27af-160b-43d9-b352-4b453d8c729e/armprocessors.png",
-          "width": 766,
-          "height": 371,
-          "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools.md",
-      "title": "Bluecore raises $50M for its first-party, AI-based marketing automation tools",
-      "excerpt": "As more online brands look for ways to move beyond third-party cookies as a way of gaining more direct insights about their users and customers, a startup that has developed a platform to help them has raised a big round of funding.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/26/bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/26/bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/26/bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/amp/",
-      "publishedDateTime": "2020-05-26T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-832158646-1.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": "Bluecore raises $50M for its first-party, AI-based marketing automation tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

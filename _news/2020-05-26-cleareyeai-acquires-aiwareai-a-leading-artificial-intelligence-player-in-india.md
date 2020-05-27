@@ -22,6 +22,6 @@ images:
     height: 450
     title: "Cleareye.ai acquires Aiware.ai, a leading Artificial Intelligence player in India"
 
-secured: "h8fnIfQNVsoDJbMKX1ZW08ogkWeaDHL97gAHIZWta0w1h6gS2ozCd+TZcw1IyBFI5JRGeILsEaXoCGqXt7Un+5bRr83ItfoXdCEBgeI4teKhlm879FCcuNxIgkE3B3fyqj39+cShKwnS+d64nvjBkIStzO89vi1D+wmsU2mHSKBAeGu64wHPoYmMfcHAf6jOMYOAhr88x702ihiMocezbt8mvJvDhAm+IPRIecjwDY2MOi20et87dOwQ5zxQ8K/MYWxyYJY5eEmQSwa3KgsDEAYY+bZDA12vxLBtlTE+IS00CHeczDFovo0uFFCV3iZ7;xvgLBeVAb0jDSgrtIo92LQ=="
+secured: "MV053/koEEiyn7kBq/r9wd4GRWWLuYjOv0N/m5vADERHbhhhsrRltYNJg/OmcfOt5AbMC9GBmILvRHUC7YNVp3xDklbuuTM/F1Uq89X1dhudGBjUYGhuhOHbEZaZsrP7OxAEXK9IU15wRyv2kh8AqvQNUuLkNKJ8PdYb8p8NWdBGRzZ3e5dV0REEW8jbUgk+0pnA3ge+iMuEUv5oZzTTYRyumYDMxstiv8pgg0bFFwmx7RaLDE4Wdb6rbkSmGkO2m+gQFpmILpN3L8MYK7jWyV9uHNa84GRRoeTtjnfjnJR53PBazh/Zp1fbXAbOpfuR;ml84ve8tlfbqdRgUGlAeSQ=="
 ---
 

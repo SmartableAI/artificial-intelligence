@@ -2,6 +2,305 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-05-13-automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook.md",
+      "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
+      "excerpt": "MarketResearch.Biz published a new industry research report “Automatic Speech Recognition Software Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook-2020-05-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-amazon-launches-kendra-to-solve-enterprise-search-with-ai.md",
+      "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
+      "excerpt": "Amazon announced the general availability of Amazon Kendra which is an AI and machine learning-powered, easy to use enterprise search service.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
+      "publishedDateTime": "2020-05-13T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068",
+          "width": 1200,
+          "height": 676,
+          "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-facebooks-ai-for-hate-speech-improves-how-much-is-unclear.md",
+      "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
+      "excerpt": "The company says algorithms flagged almost 90 percent of the hate speech it removed in the first quarter. But it doesn't report how much slipped through.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/",
+      "ampWebUrl": "https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-ai-hate-speech-improves-unclear/amp",
+      "publishedDateTime": "2020-05-12T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ebac50348074637267906e8/master/pass/Biz-emptyoffice-157752805.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-netcracker-offers-ai-driven-digital-bssoss-on-microsoft-azure.md",
+      "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
+      "excerpt": "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/",
+      "ampWebUrl": "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/",
+      "publishedDateTime": "2020-05-12T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-hailo-partners-with-foxconn-to-build-edge-device-for-ai-inference.md",
+      "title": "Hailo partners with Foxconn to build edge device for AI inference",
+      "excerpt": "AI chip startup Hailo plans to partner with Foxconn to launch an AI edge computing device -- BOXiedge -- designed for applications like smart cities.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/12/hailo-partners-with-foxconn-to-build-edge-device-for-ai-inference/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/0f1109a5-c70d-4a6e-9220-9ad6189e69db.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 610,
+          "title": "Hailo partners with Foxconn to build edge device for AI inference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech.md",
+      "title": "Facebook upgrades its AI to better tackle COVID-19 misinformation and hate speech",
+      "excerpt": "Facebook’s AI tools are the only thing standing between its users and the growing onslaught of hate and misinformation the platform is experiencing. The company’s researchers have cooked up a few new capabilities for the systems that keep the adversary at bay,",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/amp/",
+      "publishedDateTime": "2020-05-12T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/Reuters-Facebook-Fact-Checking.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": "Facebook upgrades its AI to better tackle COVID-19 misinformation and hate speech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-port-automation-technology-demonstrated-by-cosco.md",
+      "title": "Port Automation Technology Demonstrated by Cosco",
+      "excerpt": "The successful trial runs of a new automated driverless container truck operating on a 5G platform illustrated yet again the opportunities for port automation. The technology, which is being developed jointly by Cosco Shipping Ports Limited,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.maritime-executive.com/article/port-automation-technology-demonstrated-by-cosco",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Maritime Executive",
+        "domain": "maritime-executive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.maritime-executive.com/media/images/article/Photos/Technology/Xiamen-Ocean-Gate-Terminal-file-photo-courtesy-Cosco-Shipping-copy.49795a.jpg",
+          "width": 643,
+          "height": 361,
+          "title": "Port Automation Technology Demonstrated by Cosco",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-australia-wins-ai-eurovision-song-contest.md",
       "title": "Australia wins AI 'Eurovision Song Contest'",
       "excerpt": "An editor for Dutch broadcaster VPRO had the idea, after the Netherlands won last year's Eurovision Song Contest. And it grew into an international effort after this year's contest was cancelled because of the coronavirus pandemic.",
@@ -752,296 +1051,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital.md",
-      "title": "AI Start-Up LexCheck Raises $3 Million Series Seed Investment Led by Kli Capital",
-      "excerpt": "PRNewswire/ -- LexCheck, an artificial intelligence (AI) and legal technology platform based in New York City, has",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649",
-      "publishedDateTime": "2020-05-12T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool.md",
-      "title": "JavaScript programming language developers: This is Kite's new free AI code-completion tool",
-      "excerpt": "Kite's code completion has supported Python for six years. Last January the company landed $10m in funding as it launched more complex line-of-code completions for Python, helping",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool/",
-      "publishedDateTime": "2020-05-12T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/11/843fd8ab-846f-4d03-8060-bcd5d611ec7e/thumbnail/1200x675/6c7e3312371b165b65c90cd7fc188d5d/developer-go-is-the-programming-language-5eb921c27f8c3b07249d42e4-1-may-11-2020-11-50-12-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "JavaScript programming language developers: This is Kite's new free AI code-completion tool",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-transformative-robotics-technology-from-brain-corp.md",
-      "title": "Transformative Robotics Technology From Brain Corp",
-      "excerpt": "With retailers seeking to enhance the customer experience, not to mention overcome current COVID-19 challenges, Brain Corp believes that technology offers a way",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.esmmagazine.com/uncategorized/transformative-robotics-technology-brain-corp-98085",
-      "ampWebUrl": "https://www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
-      "cdnAmpWebUrl": "https://www-esmmagazine-com.cdn.ampproject.org/c/s/www.esmmagazine.com/amp/technology/transformative-robotics-technology-brain-corp-98085",
-      "publishedDateTime": "2020-05-12T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "esmmagazine.com",
-        "domain": "esmmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA1XFxcLzEyMTMxODQxXFxcL1Rlbm5hbnRSZXRhaWwtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjUwMCxcImhlaWdodFwiOjI4NyxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC93d3cuZXNtbWFnYXppbmUuY29tXFxcL2lcXFwvbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNjk1OGI3MzBhOGQ5MGQyZWEwZjM0ZDNkZWMxMjQ0YmM2YTFmYmM2ZiJ9/tennantretail-1024x683.jpg",
-          "width": 500,
-          "height": 287,
-          "title": "Transformative Robotics Technology From Brain Corp",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-artificial-intelligence-cracks-quantum-chemistry-conundrum.md",
-      "title": "Artificial Intelligence Cracks Quantum Chemistry Conundrum",
-      "excerpt": "Machine learning techniques accurately calculate the energy required to make — or break — simple molecules. A new machine learning tool can calculate the energy required to make — or break — a molecule with higher accuracy than conventional methods.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/",
-      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-cracks-quantum-chemistry-conundrum/amp/",
-      "publishedDateTime": "2020-05-12T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Tetrahedral-Electronic-Distribution-Water-Molecule-777x435.jpg",
-          "width": 777,
-          "height": 435,
-          "title": "Artificial Intelligence Cracks Quantum Chemistry Conundrum",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-simaai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution.md",
-      "title": "SiMa.ai announces $30M Series A to build out lower-power edge chip solution",
-      "excerpt": "Krishna Rangasayeem, founder and CEO, at SiMa.ai, has 30 years of experience in the semiconductor industry. He decided to put that experience to work in a startup and launched SiMa.ai last year with the goal of building an ultra low-power software and chip solution for machine learning at the edge.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/12/sima-ai-announces-30m-series-a-to-build-out-lower-power-edge-chip-solution/amp/",
-      "publishedDateTime": "2020-05-12T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1136623583.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "SiMa.ai announces $30M Series A to build out lower-power edge chip solution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-intel-capital-commits-132-million-to-11-ai-startups.md",
-      "title": "Intel Capital commits $132 million to 11 AI startups",
-      "excerpt": "Intel Capital announced that it's invested $132 million in 11 startups focused on AI, machine learning, automation, and chipset design.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/12/intel-capital-commits-132-million-to-11-ai-startups/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel Capital commits $132 million to 11 AI startups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-database-week-microsoft-oems-redis-enterprise-for-azure.md",
-      "title": "Database Week: Microsoft OEMs Redis Enterprise for Azure",
-      "excerpt": "Microsoft is upgrading the Azure cache service through a new OEM agreement to the full Redis Enterprise service.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/database-week-microsoft-oems-redis-enterprise-for-azure/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/",
-      "publishedDateTime": "2020-05-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/11/f9afed5d-33cd-438f-ba73-31b31abba8e1/redis-logo-2.png",
-          "width": 280,
-          "height": 280,
-          "title": "Database Week: Microsoft OEMs Redis Enterprise for Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

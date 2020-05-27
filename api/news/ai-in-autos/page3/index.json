@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-09-3-companies-that-highlight-the-power-of-crowdfunding-for-vr.md",
+      "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
+      "excerpt": "Facebook allegedly has plans to use artificial intelligence to monitor its ad program and prevent fake news. Driverless cars are already underway, powered by AI. It will even start taking over the more dangerous jobs, where a shortage of workers is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.smartdatacollective.com/3-companies-that-highlight-the-power-of-crowdfunding-for-vr/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2018/07/virtual-reality.jpg",
+          "width": 1000,
+          "height": 665,
+          "title": "3 Companies That Highlight The Power Of Crowdfunding For VR",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-google-io-2018-the-10-biggest-announcements.md",
       "title": "Google I/O 2018: The 10 biggest announcements",
       "excerpt": "Artificial intelligence was obviously among the stars ... to overlay live results on items in your camera’s view. Waymo is the only company that currently has a fleet of fully self-driving ...",
@@ -553,51 +590,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
-      "title": "3 Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "publishedDateTime": "2020-05-06T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571563%2Fgettyimages-1135819437.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 729,
-          "title": "3 Artificial Intelligence Stocks to Buy in May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-sleeker-lidar-moves-volvo-closer-to-selling-a-self-driving-car.md",
       "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
       "excerpt": "Using technology from Silicon Valley's Luminar, the Swedish automaker plans to offer completely autonomous highway driving by 2022.",
@@ -630,6 +622,51 @@
           "width": 2400,
           "height": 1600,
           "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571563%2Fgettyimages-1135819437.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 729,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
           "attribution": null
         }
       ],
@@ -1181,51 +1218,6 @@
           "width": 1680,
           "height": 946,
           "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-will-the-pandemic-map-a-new-course-for-autonomous-cars.md",
-      "title": "Will the pandemic map a new course for autonomous cars?",
-      "excerpt": "In a future where human contacts will need greater protection, the driverless car could end up giving people greater control than they had before.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
-      "publishedDateTime": "2020-05-04T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/04/13b78c5a-4517-49cb-a584-009e7afe2ab0/200504-gm-motorama-01.jpg",
-          "width": 900,
-          "height": 675,
-          "title": "Will the pandemic map a new course for autonomous cars?",
           "attribution": null
         }
       ],

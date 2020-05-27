@@ -2,11 +2,11 @@
 category: news
 title: "Natural Language Processing Market COVID-19 Impact on Key Players, Industry Share and Growth Outlook"
 excerpt: "The overallnatural language processingmarket is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by"
-publishedDateTime: 2020-05-27T01:33:00Z
-webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-covid-19-impact-on-key-players-industry-share-and-growth-outlook-2020-05-26"
+publishedDateTime: 2020-05-27T15:18:00Z
+webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-covid-19-impact-on-key-players-industry-share-and-growth-outlook-2020-05-27"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     height: 630
     title: "Natural Language Processing Market COVID-19 Impact on Key Players, Industry Share and Growth Outlook"
 
-secured: "g4gCcXmtdsAvHGUmuAlxdlp62J75f9ObmUigaBcR9ACxOTQuRJFne0v0ZNtbIGQNxgnt9GB5DTCS6195F9xGmto3R7f06S4DDxeXXXGh7d+3IgI41FvId7EJSFymL6+lWkbdTOo2Jf65EzrNOJ5b9qPbcqpYj2z48HvptiiGV/blRSlZ9wQe2DMM8Vgl36vOCs0mpBxi6dbvavtf6p83zVJOAzqW6MJNK/xqpwWFh/P+PLWCS1EUVPUlZEEqpLIfwIil9df1nN55NX0ZtenYynPxnje+liVcgewGrcmlKN+NR/6FJLhkgTkh6t/h4YDA;PeH9mUCtqc/gXToQY6/0rA=="
+related:
+  - title: "Speech Technology Market Worth Value Size Share Growth Forecast Trends Outlook Industry Statistics | Valuates Reports"
+    excerpt: "The Global Speech Technology Market is expected to grow from USD 8 59178 Billions in 2018 to USD 28 90167 Billions by the end of 2025 at a Compound Annual Growth Rate CAGR of 18 92 Get Free Sample https"
+    publishedDateTime: 2020-05-27T13:18:00Z
+    webUrl: "https://www.openpr.com/news/2059440/speech-technology-market-worth-value-size-share-growth-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
+secured: "/bLEtftTx4RBvNULJH4dkfGJlrhYvODSR2RtubsJuEKQmU8+zIGTxmnB9vSs4dgVtcFwaFn6WS79SFSMfYp2GJXh4eS3B5kZyqGUCZHcPDxPkXvb4QEj2myx+YKfNhYqYuMHfdtCvZyky9PszqhFRXs0hgkSd0D7RWJxoOcuK77U19blJZwd8i1JV6AYz2zUZOTKG6QkwPTHhOYW8g3k6BnjQJagKHijSI4ai6XI6QVtRAw22K54uNGIJ2z3nsVO9MtnfcgPxIegCPWOheWFhA3bsOQzyncxDEQBFcOBIVogvcWx7seprSQ+vLnqfIaH;GRSlb/zGsKcsNBwupRq0dA=="
 ---
 

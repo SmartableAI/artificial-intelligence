@@ -8,7 +8,7 @@ ampWebUrl: "https://www.newsday.com/amp/opinion/coronavirus/robots-taking-jobs-f
 cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/coronavirus/robots-taking-jobs-factory-workers-automation-coronavirus-labor-costs-1.44824777"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     width: 1280
     height: 719
     title: "The robots-are-taking-our-jobs threat gets real"
-
-related:
-  - title: "The robots-are-taking-our-jobs threat is real"
-    excerpt: "The future of labor is changing, with a sharp push from COVID-19."
-    publishedDateTime: 2020-05-22T22:57:00Z
-    webUrl: "https://www.startribune.com/the-robots-are-taking-our-jobs-threat-is-real/570706872/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://stmedia.stimg.co/ows_d65106cb-d9cd-47d9-8854-03b6915826d0.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
 
 secured: "Y6NYzNJCGzhyJCkvJ/06v9kwxbH60AlESeqfLO1DLTBntUxYG4m4t5oA4j7H54EGJX2NQUf1dYjeuCT4DwRvJez7O1ghRXngIfrJPcSTmcL3f63qITtSl/L1zgAHdHnvdnAjrFuQ7rnWU9jn0DV/iTN7TjyXfYeQ6R0Exoz0TxQVhZ+w8ScW8MSW0oUaSnvSHZAxDSleNqQ0sAgReypwaPYq30R8U0M6XOe751yKwqMB0MIfGFB5+W9EIPiyZ2WxYegIkx8qxSs/XS8sh+y/mGpH/A/0ndbP+dKUqyVZAzNpXgGHoZxKAIBlnjH8GEIoMF5DiVwhksuoWZI4mbEJG/IsnyyPeOXVWFA9V0ipIesF3YAM/DW5rTLXoOGBhvu52dgvOTGL9niTYygtzkAs4MJaWhwaYQaC3KXYOz2pUqpF1bBQYwx2V+Ix6VKnDQmNr7AlN5LrYjVic/cQ1mgVLYFE6UORMYhcCG8HzaTjPMw=;suRPTjhYwBWZGqFE7cIV+Q=="
 ---

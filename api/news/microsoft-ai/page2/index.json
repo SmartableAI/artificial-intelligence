@@ -2,6 +2,89 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-announces-azure-cognitive-services-and-bot-service-enhancements.md",
+      "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
+      "excerpt": "Not only have Microsoft's Bot Framework and Service been updated, but new AI functionality and language capabilities have been introduced for apps that leverage Azure Cognitive Services as well.",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements/",
+      "publishedDateTime": "2020-05-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2017/02/1486489003_cognitive_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates.md",
+      "title": "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates",
+      "excerpt": "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020.",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "publishedDateTime": "2020-05-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work.md",
       "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
       "excerpt": "The post Microsoft announces new supercomputer, lays out vision for future AI work appeared first on The AI Blog.\n",
@@ -1172,88 +1255,6 @@
           "width": 1200,
           "height": 675,
           "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-dr-ranveer-chandra-chief-scientist-of-microsoft-azure-global-joins-terrameras-science-technology-advisory-council.md",
-      "title": "Dr. Ranveer Chandra, Chief Scientist of Microsoft Azure Global, Joins Terramera’s Science & Technology Advisory Council",
-      "excerpt": "Terramera®, the global agtech leader transforming how food is grown and the economics of agriculture over the next decade, today announced that Dr. Ra",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200512005274/en/Dr.-Ranveer-Chandra-Chief-Scientist-Microsoft-Azure/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A==",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200512005274/en/791007/23/Ranveer.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Dr. Ranveer Chandra, Chief Scientist of Microsoft Azure Global, Joins Terramera’s Science & Technology Advisory Council",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-database-week-microsoft-oems-redis-enterprise-for-azure.md",
-      "title": "Database Week: Microsoft OEMs Redis Enterprise for Azure",
-      "excerpt": "Microsoft is upgrading the Azure cache service through a new OEM agreement to the full Redis Enterprise service.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/database-week-microsoft-oems-redis-enterprise-for-azure/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/",
-      "publishedDateTime": "2020-05-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/11/f9afed5d-33cd-438f-ba73-31b31abba8e1/redis-logo-2.png",
-          "width": 280,
-          "height": 280,
-          "title": "Database Week: Microsoft OEMs Redis Enterprise for Azure",
           "attribution": null
         }
       ],

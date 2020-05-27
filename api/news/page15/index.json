@@ -2,6 +2,299 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-05-14-a-new-way-to-think-about-artificial-intelligence-with-this-etf.md",
+      "title": "A New Way To Think About Artificial Intelligence With This ETF",
+      "excerpt": "Among the myriad thematic exchange traded funds investors have to consider, artificial intelligence products are numerous and some are catching on with investors. What To",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/trading-ideas/long-ideas/20/05/16028413/a-new-way-to-think-about-artificial-intelligence-with-this-etf",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16028413",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16028413",
+      "publishedDateTime": "2020-05-14T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/artificial-intelligence-3382507_1920_3_0.jpg",
+          "width": 685,
+          "height": 375,
+          "title": "A New Way To Think About Artificial Intelligence With This ETF",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
+      "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
+      "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report",
+      "ampWebUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
+      "publishedDateTime": "2020-05-14T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/iStock-914562482.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidia-unifies-ai-compute-with-ampere-gpu.md",
+      "title": "Nvidia Unifies AI Compute With “Ampere” GPU",
+      "excerpt": "The GPU Technical Conference may have been canceled in March thanks to the coronavirus pandemic, but behind the scenes Nvidia kept on pace with the",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextplatform.com/2020/05/14/nvidia-unifies-ai-compute-with-ampere-gpu/",
+      "ampWebUrl": "https://www.nextplatform.com/2020/05/14/nvidia-unifies-ai-compute-with-ampere-gpu/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/05/14/nvidia-unifies-ai-compute-with-ampere-gpu/amp/",
+      "publishedDateTime": "2020-05-14T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg",
+          "width": 1199,
+          "height": 877,
+          "title": "Nvidia Unifies AI Compute With “Ampere” GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-sony-wants-to-make-cameras-smarter-with-an-onboard-ai-chip.md",
+      "title": "Sony wants to make cameras smarter with an onboard AI chip",
+      "excerpt": "Sony has announced two new 12.3-megapixel image sensors that come equipped with dedicated AI chips for applying machine learning to camera data locally.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/photography/sony-smart-sensor-ai/",
+      "ampWebUrl": "https://www.digitaltrends.com/photography/sony-smart-sensor-ai/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/photography/sony-smart-sensor-ai/?amp",
+      "publishedDateTime": "2020-05-14T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/nvidia-dgx-a100-03-500x500.jpg",
+          "width": 500,
+          "height": 313,
+          "title": "Sony wants to make cameras smarter with an onboard AI chip",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai.md",
+      "title": "NVIDIA Launches Ampere A100 GPU For Data Center Computing And AI",
+      "excerpt": "NVIDIA launched its Volta architecture and the V100 GPU with Tensor Cores, which dramatically accelerated performance for FP32 and FP16 tensor operations used in training AI deep neural networks (DNNs).",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai/amp/",
+      "publishedDateTime": "2020-05-14T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance.md",
+      "title": "Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 petaflops of performance",
+      "excerpt": "Nvidia unwrapped its Nvidia A100 artificial intelligence chip today, and CEO Jensen Huang called it the ultimate instrument for advancing AI.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/amp/",
+      "publishedDateTime": "2020-05-14T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/a100.jpg?w=1200&#038;strip=all",
+          "width": 1194,
+          "height": 686,
+          "title": "Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 petaflops of performance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidias-first-ampere-gpu-is-designed-for-data-centers-and-ai-not-your-pc.md",
+      "title": "Nvidia’s first Ampere GPU is designed for data centers and AI, not your PC",
+      "excerpt": "Nvidia is unveiling its next-generation Ampere GPU architecture today. The first GPU to use Ampere will be Nvidia’s new A100, built for scientific computing, cloud graphics, and data analytics. While there have been plenty of rumors around Nvidia’s Ampere plans for GeForce “RTX 3080” cards,",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer",
+      "publishedDateTime": "2020-05-14T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/HF2WomES921lXx07YJ_w3OkXx-w=/0x0:1980x1320/1400x933/filters:focal(832x502:1148x818):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66796434/2555435ebae590030837.15346566_NVIDIA_A100_GPU.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Nvidia’s first Ampere GPU is designed for data centers and AI, not your PC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.md",
       "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
       "excerpt": "The next major release of the in-memory data processing framework will support GPU-accelerated functions courtesy of Nvidia RAPIDS",
@@ -268,27 +561,35 @@
     {
       "path": "_news/2020-05-14-supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server.md",
       "title": "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server",
-      "excerpt": "PRNewswire/ -- Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green",
+      "excerpt": "(Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green computing technology, today announced two new systems designed for artificial intelligence (AI) deep learning applications that fully leverage the third-generation NVIDIA HGX™ technology with the new NVIDIA A100™ Tensor Core GPUs as well as full support for the new NVIDIA A100 GPUs across the company's broad portfolio of 1U,",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server-301059071.html",
+      "webUrl": "https://www.marketwatch.com/press-release/supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server-2020-05-14",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-14T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1168093/RedStone_SuperMinute_100.mp4?p=medium",
-          "width": 512,
-          "height": 288,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server",
           "attribution": null
         }
@@ -774,299 +1075,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-simcam-1s-security-camera-hands-on-ai-facial-recognition-and-super-loud-siren.md",
-      "title": "SimCam 1S security camera hands-on: AI facial recognition and super loud siren",
-      "excerpt": "The Simcam 1S security camera is solid with a nice look and feel to the camera body. It is slightly smaller than the Netvue Orb 1080p I looked at earlier this week, a similar size",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/product/simcam-1s-indoor-security-camera/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/simcam-1s-indoor-security-camera/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/simcam-1s-indoor-security-camera/",
-      "publishedDateTime": "2020-05-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/13/603e9526-85f7-4709-bde3-eb6cf52ca7c4/resize/1200x900/35115003e97135c8e3aca57eb8e51b94/simcam-1s-security-camera-eileen-brown-zdnet.png",
-          "width": 1162,
-          "height": 900,
-          "title": "SimCam 1S security camera hands-on: AI facial recognition and super loud siren",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-singapore-enforces-social-distancing-with-a-robot-dog.md",
-      "title": "Singapore enforces social distancing — with a robot dog",
-      "excerpt": "Let’s keep Singapore healthy,” comes a woman’s voice, polite but firm. “For your own safety, and for those around you, please stand at least one meter apart. Thank you.” Spot, clearly, is no ordinary squirrel-chasing canine.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-05-13/coronavirus-singapores-robot-dog-enforces-social-distancing",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-05-13/coronavirus-singapores-robot-dog-enforces-social-distancing?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-05-13/coronavirus-singapores-robot-dog-enforces-social-distancing?_amp=true",
-      "publishedDateTime": "2020-05-14T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/c302d9e/2147483647/strip/true/crop/4996x3263+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F36%2Fb3f5f1be481fa53bd2f849ebc739%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1209534231.jpg",
-          "width": 320,
-          "height": 209,
-          "title": "Singapore enforces social distancing — with a robot dog",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-sony-says-it-created-worlds-first-image-sensor-with-built-in-ai.md",
-      "title": "Sony Says It Created World’s First Image Sensor With Built-in AI",
-      "excerpt": "Sony Corp. touted on Thursday the world’s first image sensors with built-in artificial intelligence, promising to make data-gathering tasks much faster and more secure. Calling it the first of its kind,",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor",
-      "publishedDateTime": "2020-05-14T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-singapore-based-data-protection-startup-dathena-raises-12-million-series-a.md",
-      "title": "Singapore-based data protection startup Dathena raises $12 million Series A",
-      "excerpt": "Dathena, a Singapore-based company that provides AI-based data protection and privacy solutions, announced it has raised a $12 million Series A. Part of the funding will be used to expand Dathena’s co-sell partnership with Microsoft in the United States,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/singapore-based-data-protection-startup-dathena-raises-12-million-series-a/amp/",
-      "publishedDateTime": "2020-05-13T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1185880486.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Singapore-based data protection startup Dathena raises $12 million Series A",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020.md",
-      "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
-      "excerpt": "Waymo, the autonomous driving unit of Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL), announced Tuesday that it has raised a further $750 million in external investment.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/news/20/05/16026539/another-fundraise-as-self-driving-startup-waymos-investment-hits-3b-in-2020",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16026539",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16026539",
-      "publishedDateTime": "2020-05-13T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/waymo_minivan_7_1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Another Fundraise, As Self-Driving Startup Waymo's Investment Hits $3B In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai.md",
-      "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
-      "excerpt": "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai-2020-05-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea.md",
-      "title": "Using ‘personalized AI’ to end coronavirus lockdown is a stupid, cruel idea",
-      "excerpt": "A trio of AI and business experts from INSEAD, a prestigious business school, recently penned a lengthy article in the Harvard Business Review extolling the virtues of “personalized AI” prediction models to end the coronavirus lockdown.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/13/using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/13/using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/13/using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea/amp/",
-      "publishedDateTime": "2020-05-13T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design52-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Using ‘personalized AI’ to end coronavirus lockdown is a stupid, cruel idea",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

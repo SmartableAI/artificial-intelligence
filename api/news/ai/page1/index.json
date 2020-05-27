@@ -2,6 +2,222 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-27-train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker.md",
+      "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
+      "excerpt": "At re:Invent 2019, AWS shared the fastest training times on the cloud for two popular machine learning (ML) models: BERT (natural language processing) and Mask-RCNN (object detection). To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T09:00:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/26/albert-nlp-6.gif",
+          "width": 1000,
+          "height": 580,
+          "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-microsoft-azure-cognitive-services-receives-pronunciation-assessment.md",
+      "title": "Microsoft Azure Cognitive Services Receives Pronunciation Assessment",
+      "excerpt": "Microsoft also announced Speaker Recognition improvements for Azure Cognitive Services, as well as an update to Personalizer.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://winbuzzer.com/2020/05/27/microsoft-azure-cognitive-services-receives-pronunciation-assessment-xcxwbn/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2018/07/Samsung-AI-Samsung.jpg",
+          "width": 705,
+          "height": 470,
+          "title": "Microsoft Azure Cognitive Services Receives Pronunciation Assessment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-artificial-intelligence-in-retail-market-2020-comprehensive-insights-opportunties-and-forecast-to-2026.md",
+      "title": "Artificial Intelligence in Retail Market 2020 Comprehensive Insights, Opportunties and Forecast to 2026",
+      "excerpt": "New Jersey, United States, - The report is a brilliant presentation of critical dynamics, regional growth, competition, and other important aspects of the Artificial Intelligence in Retail Market. The factual,",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-comprehensive-insights-opportunties-and-forecast-to-2026-2020-05-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Retail Market 2020 Comprehensive Insights, Opportunties and Forecast to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines.md",
+      "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
+      "excerpt": "Scientists have developed a method of automatically detecting hidden landmines by using AI to scan images captured by drones",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
+      "publishedDateTime": "2020-05-27T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-53-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers.md",
+      "title": "IBM publishes wide-ranging free data sets to assist AI developers",
+      "excerpt": "IBM has published a number of notebooks, datasets and more resources from IBM Research on their Data Asset eXchange (DAX) for developers to use free of cost. DAX is an online hub with curated, free data sets that AI developers and data scientists can use under open data licenses.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "publishedDateTime": "2020-05-27T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "IBM publishes wide-ranging free data sets to assist AI developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-gamemakers-inject-ai-to-develop-more-lifelike-characters.md",
       "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
       "excerpt": "And in a neat twist, the researchers are harnessing an AI technique that proved itself by playing some of the earliest console videogames. A team from EA and the University of British Columbia in Vancouver is using a technique called reinforcement learning,",
@@ -215,51 +431,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-bundesliga-teams-up-with-aws-to-give-football-fans-real-time-match-insights.md",
-      "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
-      "excerpt": "The German Bundesliga has integrated Amazon Web Services technology into live broadcasts to give football fans real-time insights into the games playing out in front of them. Amazon’s cloud infrastructure and artificial intelligence (AI) will be deployed to gather player data and generate two forms of insight: Average Positions and Expected Goals (xGoals).",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "ampWebUrl": "https://www.techradar.com/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "publishedDateTime": "2020-05-26T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hGWUJqYM2xwcTFpm63GvUB-1200-80.jpg",
-          "width": 695,
-          "height": 391,
-          "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1138,186 +1309,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-google-is-working-on-voice-confirmation-for-purchases-with-assistant.md",
-      "title": "Google is working on voice confirmation for purchases with Assistant",
-      "excerpt": "Soon you’ll be able to make purchases through Google Assistant using just your voice. As Android Police reports, a new Voice Match setting has been discovered in the Assistants",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/google-is-working-on-voice-confirmation-for-purchases-104045532.html",
-      "ampWebUrl": "https://www.engadget.com/amp/google-is-working-on-voice-confirmation-for-purchases-104045532.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-is-working-on-voice-confirmation-for-purchases-104045532.html",
-      "publishedDateTime": "2020-05-26T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2Fc70d8f70-9f31-11ea-adf0-744b518d1e33&client=amp-blogside-v2&signature=aef3787a22a2d6ec748bb8accc3503bb80f07b03",
-          "width": 600,
-          "height": 350,
-          "title": "Google is working on voice confirmation for purchases with Assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-google-assistant-now-lets-some-users-confirm-payments-with-their-voice.md",
-      "title": "Google Assistant now lets some users confirm payments with their voice",
-      "excerpt": "Google is testing a new feature with some Assistant users, which lets them use their voice to confirm certain types of payments. The feature is still being tested and there are some limits.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/google-assistant-now-lets-some-users-confirm-payments-with-their-voice",
-      "ampWebUrl": "https://www.neowin.net/amp/google-assistant-now-lets-some-users-confirm-payments-with-their-voice/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-assistant-now-lets-some-users-confirm-payments-with-their-voice/",
-      "publishedDateTime": "2020-05-26T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1588349474_google_assistant_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Google Assistant now lets some users confirm payments with their voice",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-machine-learning-market-is-estimated-to-reach-768-bn-by-2027.md",
-      "title": "Machine Learning Market is Estimated to Reach $ 76.8 Bn by 2027",
-      "excerpt": "The global Machine Learning Market is estimated to grow at a healthy CAGR of over 40.1% during the forecast period 2020 to 2027 and reach a valuation of over US$ 76.8 Bn. The market report provides an analysis of the global Machine Learning Market for the period 2016-2027,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-estimated-to-reach-768-bn-by-2027-2020-05-26",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Market is Estimated to Reach $ 76.8 Bn by 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-california-activists-ramp-up-fight-against-facial-recognition-technology.md",
-      "title": "California Activists Ramp Up Fight Against Facial Recognition Technology",
-      "excerpt": "California privacy advocates are mobilizing to thwart a bill backed by Microsoft Corp. that would regulate facial recognition technology and that is working its way through the state legislature.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/california-activists-ramp-up-fight-against-facial-recognition-technology-11590485400",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-190401/social",
-          "width": 1280,
-          "height": 640,
-          "title": "California Activists Ramp Up Fight Against Facial Recognition Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

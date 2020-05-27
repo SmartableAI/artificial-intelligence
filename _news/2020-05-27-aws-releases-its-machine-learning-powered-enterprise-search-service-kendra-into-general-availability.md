@@ -5,8 +5,8 @@ excerpt: "Amazon announced the general availability of its enterprise search ser
 publishedDateTime: 2020-05-27T11:03:00Z
 webUrl: "https://www.infoq.com/news/2020/05/aws-kendra-ga-new-features/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.infoq.com/statics_s2_20200525085632/styles/static/images/logo/logo-big.jpg"
@@ -23,6 +24,6 @@ images:
     height: 630
     title: "AWS Releases its Machine Learning Powered Enterprise Search Service Kendra into General Availability"
 
-secured: "r2/lzKHWOKDQsA6IfNnOCF/5fFnFFnlS3ylMRyjo4vb/4pfCjsf7Gg2k4OgrFnPOwLbhsrqkRIadLTx9GlCq1tB+uohR8Q3HYHjqMZREcyq4OP5xpcFAOn9vJVtLR0zbdIXeaghfjDWaImJW+kaiIjvpM2n+nQ4mIPlWJSDt7Ec43BJ6/uLRXb6W0720EX26shYmoBQ4Dx8vWOrFFgqNl5ZXakHJgj69fP7/xN0as1XsX5H/CzeREhPgEsBjnOjyD1/fjDGZm3NJlky4n2AXNNJqzoxVZPmyDQ8IH/hjPyxZ20uE/e6E+uE2WW6002jc;WZD6BNDz3/6mGev+yZmEYg=="
+secured: "uWAEMb4SZ2gqtSSLOw8tZd8GpQpDXOsTibbHhNZf2d4G8UVjUTydC+rOwu/6j5jqw+roMBimtxw9iM+01s1XpIyR1Z5vmLbZBTN68d0f7ltqZWr3UE5LnHA/z04WKLJ6vXZNVJX0tyLqJDNwOJsPT+cJT7pAyYQzlvW6mmQFBcJ7PmNLIhtU1rmz9Jr+yb/N9Yior6RDqyChuOtoe7rkjH1eHKE0a7NMUxoAo10tIqa0lWxPSEnAZ7cJPcznokcf+CBsWW9VWa3Ox4d+C1yC15AY7OocSgYT7b88d6U/l+YkoYlRngaQsxt3tACIQjFYTm07LWN3USz0IFDfUqiBamfNXbwIVaB/IYrwDq+JaNjfsveeqEsLTwgzohM6RXGDmC7LRclbImdN//4sTyfu7Au5TOuBjciiOPPvBJ1/s9JqsfcLvI76vr/PIJTqrlP7sd9OstG+ubNdX8PI/UnjSGbhpUiBqzEt2NHbzjwmmmc=;LiX43tiDh95pc1T2MJ5WmA=="
 ---
 

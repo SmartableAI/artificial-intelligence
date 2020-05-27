@@ -2,6 +2,98 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-29-microsoft-reports-350-billion-in-q3-2020-revenue-azure-up-59-surface-up-1-and-linkedin-up-21.md",
+      "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
+      "excerpt": "Microsoft today reported fiscal Q3 2020 earnings, including revenue of $35.0 billion, net income of $10.8 billion, and earnings per share of $1.40.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/",
+      "publishedDateTime": "2020-04-29T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all",
+          "width": 2048,
+          "height": 1025,
+          "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-microsoft-this-is-how-to-protect-your-machine-learning-applications.md",
+      "title": "Microsoft: This is how to protect your machine-learning applications",
+      "excerpt": "The models that drive our ML applications are incredibly complex, training neural networks on large data sets. But there's a big problem: they're hard to explain or understand. Why does a model parse a red blob with white text as a stop sign and not a soft drink advert?",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
+      "publishedDateTime": "2020-04-29T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft: This is how to protect your machine-learning applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-the-secret-sauce-behind-project-cortex-good-metadata.md",
       "title": "The Secret Sauce Behind Project Cortex: Good Metadata",
       "excerpt": "It will of course, apply security trimming, just as it does with Microsoft Search results. Sounds pretty sexy, no? AI! Machine learning! Azure Cognitive Services! But the foundation of all this ...",
@@ -1124,80 +1216,6 @@
             "attribution": null
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-fareye-raises-25-million-to-orchestrate-deliveries-with-ai.md",
-      "title": "FarEye raises $25 million to orchestrate deliveries with AI",
-      "excerpt": "Additionally, Serve provides delivery progress reports and a drag-and-drop, single-touch interface that lets managers update customer preferences on the fly, alongside an AI-powered chat platform that plugs into existing systems to expedite customer inquiry resolutions. According to CEO Kushal Nahata, the platform handles over 10 million ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/amp/",
-      "publishedDateTime": "2020-04-14T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/FarEye-Team-Picture-feature-e1586805333499.jpg?fit=1059%2C528&strip=all",
-          "width": 1059,
-          "height": 528,
-          "title": "FarEye raises $25 million to orchestrate deliveries with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-microsoft-msft-invests-in-ai-for-health-to-fight-covid-19.md",
-      "title": "Microsoft (MSFT) Invests in AI for Health to Fight COVID-19",
-      "excerpt": "Microsoft MSFT recently announced that it is dedicating $20 million to its AI for Health initiative in an effort to combat the coronavirus pandemic. Launched on Jan 29, the AI for Health initiative was started to empower medical workers and researchers with AI as well as data science capabilities to improve healthcare services around the world.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-invests-in-ai-for-health-to-fight-covid-19-2020-04-14",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-invests-in-ai-for-health-to-fight-covid-19-2020-04-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-invests-in-ai-for-health-to-fight-covid-19-2020-04-14?amp",
-      "publishedDateTime": "2020-04-14T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -25,6 +25,6 @@ images:
     height: 1200
     title: "Peter Eckstein-Kovacs has defended Jews and other Romanian minorities for decades. Will his legacy survive the Orban era?"
 
-secured: "fT7TVv+cL/iQ/iIEOUR9kNzF1jxiNSlTetw6kGcEnaCCeXQ7/iWvhzeUcRcmP805WZ/PmGJBYSgRrigz1Ms8xiMLClG0LKabp0KYgNtdjUHQDxx+O7Qjo1xePXLhjhydjGXe8b+HjQEgkx7nbveqXFFkIkpF9Vtgw0KkSsdc/uVD/LOd80QY7SOpqn23JcEbY5E5dzpt1sf0Y+Wwm1jD0+Slil8Iep83qTrYMOQq8I8Ht+0i2AqiQPDZaWzq66d+ie/xoBn8NcS1hpTRPUpI1l9epzuRvVNVmYwkdE4tslbj2elJyjpUDL1JhkXoGY8F;qjXIcGqaowGmbonTBFem4w=="
+secured: "qXc5go2f0801A0oWebtaGKcZ1z3ua8xxg5DdFhN1yWOR/oNsHjcqRn9pw4B6IKpEUuocrNjxxHesz55Jk37KMuX10VBPi6h75lC+V0aopGbzHPBm6F4evTNBOoT3aB3tBnSTYRIAuYCZEBaZ4jNd78q5uGbnJlDqoK7kW8TBARcpyyOgQ1WuayRbnkYcsjTuqyLsZsWkJo6Y/GmXuECfg0fuUmFSG1nTFIt8kJ9zV4zObS17gydKnH2+y/OxNqP8F0ovmaQJ2K2jC84VHNpyvLA5Qs//7dprTPbbg4A+TgA/lglPG3K7sJ6aVCwnlW0NMpaIql8xXkK+Qs8yBGUGJXNcwTi2ru8yMxHqt2SkQsVJmfPXAHK8Mm3JajxONKJTW2TXmolqPpJqrisDSfPh+5Rqm3kvXl5c62cXKJdVdefFzAJ40l0wZifvRPzSltSQKFajnSnyhhZmng656SH/nzzgHNK/68pMpCHdNbW49EU=;fNiV+kd1lF/Vcfyan5/ofg=="
 ---
 

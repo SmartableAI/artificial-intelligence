@@ -2,6 +2,186 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-26-google-is-working-on-voice-confirmation-for-purchases-with-assistant.md",
+      "title": "Google is working on voice confirmation for purchases with Assistant",
+      "excerpt": "Soon you’ll be able to make purchases through Google Assistant using just your voice. As Android Police reports, a new Voice Match setting has been discovered in the Assistants",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/google-is-working-on-voice-confirmation-for-purchases-104045532.html",
+      "ampWebUrl": "https://www.engadget.com/amp/google-is-working-on-voice-confirmation-for-purchases-104045532.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-is-working-on-voice-confirmation-for-purchases-104045532.html",
+      "publishedDateTime": "2020-05-26T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2Fc70d8f70-9f31-11ea-adf0-744b518d1e33&client=amp-blogside-v2&signature=aef3787a22a2d6ec748bb8accc3503bb80f07b03",
+          "width": 600,
+          "height": 350,
+          "title": "Google is working on voice confirmation for purchases with Assistant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-google-assistant-now-lets-some-users-confirm-payments-with-their-voice.md",
+      "title": "Google Assistant now lets some users confirm payments with their voice",
+      "excerpt": "Google is testing a new feature with some Assistant users, which lets them use their voice to confirm certain types of payments. The feature is still being tested and there are some limits.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/google-assistant-now-lets-some-users-confirm-payments-with-their-voice",
+      "ampWebUrl": "https://www.neowin.net/amp/google-assistant-now-lets-some-users-confirm-payments-with-their-voice/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-assistant-now-lets-some-users-confirm-payments-with-their-voice/",
+      "publishedDateTime": "2020-05-26T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1588349474_google_assistant_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Google Assistant now lets some users confirm payments with their voice",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-machine-learning-market-is-estimated-to-reach-768-bn-by-2027.md",
+      "title": "Machine Learning Market is Estimated to Reach $ 76.8 Bn by 2027",
+      "excerpt": "The global Machine Learning Market is estimated to grow at a healthy CAGR of over 40.1% during the forecast period 2020 to 2027 and reach a valuation of over US$ 76.8 Bn. The market report provides an analysis of the global Machine Learning Market for the period 2016-2027,",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-estimated-to-reach-768-bn-by-2027-2020-05-26",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning Market is Estimated to Reach $ 76.8 Bn by 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-california-activists-ramp-up-fight-against-facial-recognition-technology.md",
+      "title": "California Activists Ramp Up Fight Against Facial Recognition Technology",
+      "excerpt": "California privacy advocates are mobilizing to thwart a bill backed by Microsoft Corp. that would regulate facial recognition technology and that is working its way through the state legislature.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/california-activists-ramp-up-fight-against-facial-recognition-technology-11590485400",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-190401/social",
+          "width": 1280,
+          "height": 640,
+          "title": "California Activists Ramp Up Fight Against Facial Recognition Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-36-million-unemployed-how-ai-can-create-jobs.md",
       "title": "36 Million Unemployed: How AI Can Create Jobs",
       "excerpt": "Artificial Intelligence (AI) is the transformative technology for this decade. With 36 million unemployed in US today, can AI also create jobs? Examples of jobs created in finance, human rights, manufacturing,",
@@ -993,6 +1173,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-24-scale-ai-releases-free-lidar-data-set-to-power-self-driving-car-development.md",
+      "title": "Scale AI releases free lidar data set to power self-driving car development",
+      "excerpt": "High-quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "publishedDateTime": "2020-05-23T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/LiDAR-comparison-credit_-Scale-AI.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": "Scale AI releases free lidar data set to power self-driving car development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-05-23-towards-a-more-transparent-ai.md",
       "title": "Towards A More Transparent AI",
       "excerpt": "How can we depend on machine learning models and trust them knowing that there are so many ways for the model to fail?",
@@ -1078,232 +1303,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-recommended-reading-covid-19-and-ai-health-care.md",
-      "title": "Recommended Reading: COVID-19 and AI health care",
-      "excerpt": "Fu Lee, Wired The coronavirus pandemic will cause us to rethink major aspects of everyday life around the world, but it may also expedite the use of artificial intelligence in health care.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/recommended-reading-covid-19-and-ai-health-care-163041644.html",
-      "ampWebUrl": "https://www.engadget.com/amp/recommended-reading-covid-19-and-ai-health-care-163041644.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-covid-19-and-ai-health-care-163041644.html",
-      "publishedDateTime": "2020-05-23T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F910e4d10-9ca2-11ea-a4cf-ce4924f21bdf&client=amp-blogside-v2&signature=16e4f1f0457be801296053c0fcab71e6970562d3",
-          "width": 600,
-          "height": 350,
-          "title": "Recommended Reading: COVID-19 and AI health care",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley.md",
-      "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
-      "excerpt": "The largest Joint AI Center contract to date was awarded this week. CTO Nand Mulchandani on AI at the Pentagon and why JAIC is mimicing Silicon Valley.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
-      "publishedDateTime": "2020-05-23T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/5932740.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-hitting-the-books-do-we-really-want-our-robots-to-have-consciousness.md",
-      "title": "Hitting the Books: Do we really want our robots to have consciousness?",
-      "excerpt": "Although I argue for self-awareness, I do not believe that we need to worry about consciousness. Let’s first try to build some interesting robots without consciousness and see how far we get.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
-      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
-      "publishedDateTime": "2020-05-23T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F8b194eb0-9c5b-11ea-b6fd-8ed4d5e48c49&client=amp-blogside-v2&signature=63f3f512471b9e4ba21e47e49d51de72ff3205b3",
-          "width": 600,
-          "height": 350,
-          "title": "Hitting the Books: Do we really want our robots to have consciousness?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-everything-you-need-to-know-about-neuromorphic-computing.md",
-      "title": "Everything you need to know about neuromorphic computing",
-      "excerpt": "In July, a group of artificial intelligence researchers showcased a self-driving bicycle that could navigate around obstacles, follow a person, and respond to voice commands. While the self-driving bike itself was of little use,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
-      "publishedDateTime": "2020-05-23T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-26-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Everything you need to know about neuromorphic computing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus.md",
-      "title": "What Can Tesla And Waymo Learn From A Human’s Ability To Focus",
-      "excerpt": "Humans focus to drive while autonomous vehicles try to be knowledge oracles. Perhaps the human approach is better.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/",
-      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/amp/",
-      "publishedDateTime": "2020-05-23T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec8e9886fdb740006902ba2%2F0x0.jpg",
-          "width": 1199,
-          "height": 579,
-          "title": "What Can Tesla And Waymo Learn From A Human’s Ability To Focus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-05-27-bundesliga-teams-up-with-aws-to-give-football-fans-real-time-match-insights.md",
-      "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
-      "excerpt": "The German Bundesliga has integrated Amazon Web Services technology into live broadcasts to give football fans real-time insights into the games playing out in front of them. Amazon’s cloud infrastructure and artificial intelligence (AI) will be deployed to gather player data and generate two forms of insight: Average Positions and Expected Goals (xGoals).",
-      "heat": 87,
+      "path": "_news/2020-05-27-train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker.md",
+      "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
+      "excerpt": "At re:Invent 2019, AWS shared the fastest training times on the cloud for two popular machine learning (ML) models: BERT (natural language processing) and Mask-RCNN (object detection). To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure,",
+      "heat": 99,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "ampWebUrl": "https://www.techradar.com/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
-      "publishedDateTime": "2020-05-26T23:32:00-07:00",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T09:00:22-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +30,10 @@
       },
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/hGWUJqYM2xwcTFpm63GvUB-1200-80.jpg",
-          "width": 695,
-          "height": 391,
-          "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/26/albert-nlp-6.gif",
+          "width": 1000,
+          "height": 580,
+          "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
           "attribution": null
         }
       ],
@@ -42,8 +42,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
