@@ -2,6 +2,245 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-11-abb-partners-with-covariant-for-integrated-ai-robotic-solutions.md",
+      "title": "ABB partners with Covariant for integrated AI robotic solutions",
+      "excerpt": "ABB and Silicon Valley AI start-up, Covariant, have partnered up to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfillment solution. According to ABB, the partnership brings together the two companies with a vision for robotics enabled by AI, where intelligent robots work alongside humans in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controldesign.com/industrynews/2020/abb-partners-with-covariant-for-integrated-ai-robotic-solutions/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Design",
+        "domain": "controldesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.controldesign.com/assets/Uploads/ABB-robots-sorting-different-packages-with-Covariant-AI-sb.jpg",
+          "width": 880,
+          "height": 440,
+          "title": "ABB partners with Covariant for integrated AI robotic solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-researchers-unveil-ultra-precise-mind-controlled-prosthetic-its-like-you-have-a-hand-again.md",
+      "title": "Researchers Unveil Ultra-Precise, Mind-Controlled Prosthetic: ‘It’s like you have a hand again’",
+      "excerpt": "In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and amplified them to enable real-time, intuitive, finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings, separate thick nerve ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.goodnewsnetwork.org/u-of-m-researchers-unveil-ultra-precise-mind-controlled-prosthetic/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GoodNewsNetwork",
+        "domain": "goodnewsnetwork.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/03/Prosthetic-Arm-User-Evan-Dougherty-Michigan-Engineering.jpg",
+          "width": 1400,
+          "height": 874,
+          "title": "Researchers Unveil Ultra-Precise, Mind-Controlled Prosthetic: ‘It’s like you have a hand again’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-how-ibm-turns-flashy-ai-projects-like-a-robot-that-can-debate-humans-into-commercial-products-for-enterprises.md",
+      "title": "How IBM turns flashy AI projects like a robot that can debate humans into commercial products for enterprises",
+      "excerpt": "The tech giant is introducing applications based on \"Project Debater\" that can autonomously cluster similar documents and understand idioms.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/how-ibm-turns-research-like-project-debater-into-enterprise-products-2020-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e67b491e4f9fe389623a166?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How IBM turns flashy AI projects like a robot that can debate humans into commercial products for enterprises",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners.md",
+      "title": "Agriculture, cameras, tire changes and drive-throughs: Here are our robotics pitch-off winners",
+      "excerpt": "We tried something new at last week’s TC Sessions: Robotics + AI. For the first time ever, we incorporated a pitch-off into the event. With a site as embedded in the startup world, it made sense to find a way to give some stage time to some early-stage startups. On Monday night, I was joined by Aaron Jacobson (NEA), Jennifer Roberts (Grit ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/amp/",
+      "publishedDateTime": "2020-03-10T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/49615823798_a99646b439_c.jpg",
+          "width": 799,
+          "height": 533,
+          "title": "Agriculture, cameras, tire changes and drive-throughs: Here are our robotics pitch-off winners",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-artificial-intelligence-drives-new-industrial-inspection-drones.md",
+      "title": "Artificial Intelligence Drives New Industrial Inspection Drones",
+      "excerpt": "Jameson Huckaba of Digital Aerolus explains the technology behind and capabilities of the company's Aertos industrial inspection drones during the Tech Crunch Robotics+AI 2020 event.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.automationworld.com/factory/plant-maintenance/video/21120855/artificial-intelligence-drives-new-industrial-inspection-drones",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2020/03/IMG_0453.5e6696b198bf7.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 900,
+          "title": "Artificial Intelligence Drives New Industrial Inspection Drones",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-artificial-intelligence-image-guided-robotics-for-automatic-blood-draw.md",
+      "title": "Artificial intelligence, image-guided robotics for automatic blood draw",
+      "excerpt": "Rutgers University engineers have created a tabletop device that combines a robot, artificial intelligence (AI), and near-infrared and ultrasound imaging to draw blood or insert catheters for fluid and drug delivery. Research results, published in the journal Nature Machine Intelligence, suggest medical robots could reduce injuries, improve ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.todaysmedicaldevelopments.com/article/medical-device-robotic-image-guided-artificial-intelligence-blood-draw/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Today's Medical Developments",
+        "domain": "todaysmedicaldevelopments.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://www.todaysmedicaldevelopments.com/fileuploads/image/2020/03/04/Artificial-intelligence-image-guided-robotics-automatic-blood-draw.jpg?w=736&h=414&mode=crop",
+          "width": 736,
+          "height": 414,
+          "title": "Artificial intelligence, image-guided robotics for automatic blood draw",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-06-its-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology.md",
       "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
       "excerpt": "They're claiming it as a major advance in mind-controlled prosthetics ... \"It's just been really hard to do because the physics is not in your favour.\" While the robotic technology in prosthetic hands has come a long way in recent years, the way ...",
@@ -926,252 +1165,6 @@
           "width": 1200,
           "height": 675,
           "title": "We should learn how to collaborate with robots before it will be too late!",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-robot-suitcase-uses-ai-to-help-visually-impaired-travelers.md",
-      "title": "Robot suitcase uses AI to help visually impaired travelers",
-      "excerpt": "IBM Japan and partners are developing a new suitcase-shaped robot that could help the visually impaired while they travel. The navigation robot will use artificial intelligence to help people travel more independently, whether that's around town or around the world. A consortium of five companies -- including IBM Japan, Shimizu and Mitsubishi ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
-      "publishedDateTime": "2020-02-24T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/1Fs9ohsEFGnis2AFh72zTVapQEk=/756x567/2020/02/24/6a28062c-1189-4044-8851-67cced21a744/gettyimages-sb10062851ai-001.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Robot suitcase uses AI to help visually impaired travelers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.md",
-      "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
-      "excerpt": "... presence of robots and artificial intelligence in our world,\" said Barry in an article about the project. \"One of the points that I'm bringing out in this class is that robots reflect their programming: If they're programmed with a life-affirming, ethical framework, they are more likely to act ethically and help humans to do the same.\"",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx?admgarea=news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T13:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Technology",
-        "domain": "campustechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20200224MariaBotfigure1.jpg",
-          "width": 300,
-          "height": 243,
-          "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-this-robot-wants-to-help-stressed-out-teens.md",
-      "title": "This Robot Wants to Help Stressed-Out Teens",
-      "excerpt": "For instance, teens quickly told us that elaborate, AI humanoids were NOT the type of robot they wanted to interact ... We’ve also noticed that by inviting the teen to talk to the robot, teens in the environment seem to instinctively start talking to one another about their stress and experiences. I am gently calling this an \"invitation ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.pcmag.com/robotics-automation/135185/this-robot-wants-to-help-stressed-out-teens",
-      "ampWebUrl": "https://in.pcmag.com/robotics-automation/135185/this-robot-wants-to-help-stressed-out-teens?amp=1",
-      "cdnAmpWebUrl": "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/robotics-automation/135185/this-robot-wants-to-help-stressed-out-teens?amp=1",
-      "publishedDateTime": "2020-02-24T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/t/this-robot/this-robot-wants-to-help-stressed-out-teens_tpjf.620.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "This Robot Wants to Help Stressed-Out Teens",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-how-to-deploy-robotics-responsibly.md",
-      "title": "How To Deploy Robotics Responsibly",
-      "excerpt": "industrial and commercial robotics, artificial intelligence (AI) and the interconnectivity of software and hardware devices. Indeed, IDC predicts that by 2022, the global robotics market (i.e., robots,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/",
-      "publishedDateTime": "2020-02-24T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1011468914/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How To Deploy Robotics Responsibly",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-applications-of-photodetectors-in-robotics.md",
-      "title": "Applications of Photodetectors in Robotics",
-      "excerpt": "For now, security robots aren’t able to adequately replace a human security guard ... In 2017, the US Department of Defense launched Project Maven, an initiative to leverage artificial intelligence to classify and analyze massive amounts of surveillance video. The project has been working on AI software that can flag people, vehicles ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=345",
-      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=345",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=345",
-      "publishedDateTime": "2020-02-24T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.azorobotics.com/images/Article_Images/ImageForArticle_345_15825385749239338.png",
-          "width": 950,
-          "height": 713,
-          "title": "Applications of Photodetectors in Robotics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-dubai-set-to-witness-professional-interaction-with-humanoid-robot-sophia.md",
-      "title": "Dubai set to witness professional interaction with humanoid robot Sophia",
-      "excerpt": "“As a robot myself, I believe that data is the key to making smart decisions. With enough data, AI can be used to evaluate potential risk factors and prevent problems before they start.” The UAE is the only country in the world to have a Ministry of Artificial Intelligence. When she was asked to suggest as to what should it do to be a ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Dubai_set_to_witness_professional_interaction_with_humanoid_robot_Sophia-ZAWYA20200224083733/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200224083733/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200224083733/",
-      "publishedDateTime": "2020-02-24T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Dubai set to witness professional interaction with humanoid robot Sophia",
           "attribution": null
         }
       ],

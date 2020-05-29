@@ -2,242 +2,16 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future.md",
-      "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-      "excerpt": "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms.",
-      "heat": 104,
+      "path": "_news/2020-05-26-machine-learning-market-is-estimated-to-reach-768-bn-by-2027.md",
+      "title": "Machine Learning Market is Estimated to Reach $ 76.8 Bn by 2027",
+      "excerpt": "The global Machine Learning Market is estimated to grow at a healthy CAGR of over 40.1% during the forecast period 2020 to 2027 and reach a valuation of over US$ 76.8 Bn. The market report provides an analysis of the global Machine Learning Market for the period 2016-2027,",
+      "heat": 79,
       "tags": null,
       "type": "article",
-      "webUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
-      "ampWebUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "publishedDateTime": "2020-05-22T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_m6h8.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40.md",
-      "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
-      "excerpt": "The Nvidia GameGAN artificial intelligence recreated the game from scratch after ingesting 50,000 gameplay episodes of the classic game.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
-      "publishedDateTime": "2020-05-22T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/yQEmqA_2RjWodVpXtfPF4mainp8=/756x567/2020/05/22/8fcfffb0-d775-4f67-86be-9cf2467ea18d/nvidia-ai-pac-man.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay.md",
-      "title": "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay",
-      "excerpt": "Nvidia researchers have used generative adversarial networks (GANs) to create a new version of Pac-Man that recreated without studying the game's code",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/amp/",
-      "publishedDateTime": "2020-05-22T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-50-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-google-will-stop-building-custom-ai-for-big-oil-and-gas.md",
-      "title": "Google will stop building custom AI for Big Oil and Gas",
-      "excerpt": "This report exposes how the three largest cloud companies — Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/",
-      "ampWebUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/amp/",
-      "publishedDateTime": "2020-05-22T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/Google-1.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "Google will stop building custom AI for Big Oil and Gas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages.md",
-      "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
-      "excerpt": "This report exposes how the three largest cloud companies—Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/",
-      "ampWebUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/amp/",
-      "publishedDateTime": "2020-05-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/unilever.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-artificial-intelligence-ai-market-worldwide-is-projected-to-grow-by-us2846-billion.md",
-      "title": "Artificial Intelligence (AI) market worldwide is projected to grow by US$284.6 Billion",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. (C) Copyright 2020 GlobeNewswire, Inc. All rights reserved. The MarketWatch News Department was not involved in the creation of this content. A link that brings you back to the homepage.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-worldwide-is-projected-to-grow-by-us2846-billion-2020-05-22",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-estimated-to-reach-768-bn-by-2027-2020-05-26",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-22T07:47:00-07:00",
+      "publishedDateTime": "2020-05-26T03:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -259,7 +33,7 @@
           "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
-          "title": "Artificial Intelligence (AI) market worldwide is projected to grow by US$284.6 Billion",
+          "title": "Machine Learning Market is Estimated to Reach $ 76.8 Bn by 2027",
           "attribution": null
         }
       ],
@@ -268,27 +42,28 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-22-nvidias-ai-recreates-pac-man-from-scratch-just-by-watching-it-being-played.md",
-      "title": "Nvidia’s AI recreates Pac-Man from scratch just by watching it being played",
-      "excerpt": "For its latest project, Nvidia researchers taught an AI system to recreate the game of Pac-Man simply by watching it being played. There’s no coding involved, no pre-rendered images for the software to draw on.",
-      "heat": 87,
+      "path": "_news/2020-05-26-california-activists-ramp-up-fight-against-facial-recognition-technology.md",
+      "title": "California Activists Ramp Up Fight Against Facial Recognition Technology",
+      "excerpt": "California privacy advocates are mobilizing to thwart a bill backed by Microsoft Corp. that would regulate facial recognition technology and that is working its way through the state legislature.",
+      "heat": 93,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/22/21266251/nvidia-ai-gamegan-recreate-pac-man-virutal-environment",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/22/21266251/nvidia-ai-gamegan-recreate-pac-man-virutal-environment",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/22/21266251/nvidia-ai-gamegan-recreate-pac-man-virutal-environment",
-      "publishedDateTime": "2020-05-22T06:04:00-07:00",
+      "webUrl": "https://www.wsj.com/articles/california-activists-ramp-up-fight-against-facial-recognition-technology-11590485400",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T03:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -300,255 +75,10 @@
       },
       "images": [
         {
-          "url": "https://cdn.vox-cdn.com/thumbor/xjGb52nXR7zhrKi-e9RJHeVcO-8=/0x0:2896x2088/1400x933/filters:focal(1217x813:1679x1275):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66831231/162915406.jpg.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Nvidia’s AI recreates Pac-Man from scratch just by watching it being played",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine.md",
-      "title": "Nvidia researchers use AI to recreate PAC-MAN, without a game engine",
-      "excerpt": "Using generative adversarial networks, Nvidia opens up a line of research that could have implications not just for game creation but for real-world settings like factory floors.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine/",
-      "publishedDateTime": "2020-05-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/21/cd740e5d-f593-4f7a-818a-c5d8b479437e/embargoed-pac-man-nvidia-logos.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Nvidia researchers use AI to recreate PAC-MAN, without a game engine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-pac-man-once-felt-futuristic-now-theres-a-new-one-built-entirely-by-ai.md",
-      "title": "'Pac-Man' once felt futuristic. Now there's a new one built entirely by AI.",
-      "excerpt": "Using the same technology that powers deepfakes, Nvidia developed an AI that created its own version of 'Pac-Man,' which turns 40 on May 22.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech/",
-      "ampWebUrl": "https://mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech.amp",
-      "publishedDateTime": "2020-05-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F05%252F22%252F02%252F852da140b0a1472d859097a97c762321.3b388.png%252F1200x630.png?signature=_nyeGrjEkTv3u_idcPDX6uFm_KE=",
-          "width": 1200,
-          "height": 630,
-          "title": "'Pac-Man' once felt futuristic. Now there's a new one built entirely by AI.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance.md",
-      "title": "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance",
-      "excerpt": "The”Global Artificial Intelligence (AI) in Education Market Research Report 2020-2026″ has deeply studied the analysis of significant factors that responsible for the growth of the international market.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/",
-      "ampWebUrl": "https://surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/amp/",
-      "cdnAmpWebUrl": "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/amp/",
-      "publishedDateTime": "2020-05-22T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "surfacingmagazine.net",
-        "domain": "surfacingmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://surfacingmagazine.net/wp-content/uploads/2020/05/market-research-expertz-16-43.png",
-          "width": 700,
-          "height": 370,
-          "title": "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-data-centre-chip-demand-fuels-nvidias-record-q2-revenue.md",
-      "title": "Data centre chip demand fuels Nvidia's 'record Q2 revenue'",
-      "excerpt": "Nvidia has forecast its 2021 second-quarter revenue above analysts’ estimates, powered by a surge in demand for data centre components amid the mass shift to remote working. The company expects its Q2 revenue to be $3.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue",
-      "ampWebUrl": "https://www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue?amp",
-      "publishedDateTime": "2020-05-22T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1590146422/itpro/shutterstock_410318023.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Data centre chip demand fuels Nvidia's 'record Q2 revenue'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution.md",
-      "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
-      "excerpt": "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/",
-      "ampWebUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
-      "publishedDateTime": "2020-05-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec5a14ac96258473f89195d/master/pass/ai-illo-backchannel.jpg",
-          "width": 3078,
-          "height": 2000,
-          "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-government-trials-facial-recognition-system-to-improve-social-aid-disbursement.md",
-      "title": "Government trials facial recognition system to improve social aid disbursement",
-      "excerpt": "With the new system, recipients only need to visit a designated merchant where facial scanning technology will be used to verify their identity.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thejakartapost.com/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
-      "ampWebUrl": "https://www.thejakartapost.com/amp/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
-      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
-      "publishedDateTime": "2020-05-22T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jakarta Post",
-        "domain": "thejakartapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.jakpost.net/c/2019/01/04/2019_01_04_62237_1546584615._medium.jpg",
-          "width": 747,
-          "height": 403,
-          "title": "Government trials facial recognition system to improve social aid disbursement",
+          "url": "https://images.wsj.net/im-190401/social",
+          "width": 1280,
+          "height": 640,
+          "title": "California Activists Ramp Up Fight Against Facial Recognition Technology",
           "attribution": null
         }
       ],
@@ -562,187 +92,23 @@
       ]
     },
     {
-      "path": "_news/2020-05-22-coronavirus-impact-on-machine-learning-as-a-service-market.md",
-      "title": "Coronavirus Impact on Machine Learning as a Service Market",
-      "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Machine Learning as a Service Market is expected to be around US$ 10746.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/coronavirus-impact-on-machine-learning-as-a-service-market-2020-05-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Coronavirus Impact on Machine Learning as a Service Market",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-unisa-and-uow-to-jointly-research-ai-capabilities-for-defence.md",
-      "title": "UniSA and UOW to jointly research AI capabilities for Defence",
-      "excerpt": "They will also work with the ADF to apply any new artificial intelligence capabilities to the new Star Shots strategy where possible.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
-      "publishedDateTime": "2020-05-21T20:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/22/9084fd20-5691-4f1a-9734-eeb82a2417a9/thumbnail/1200x675/fdd58539a87b8ff3bc44374d7cc21c9e/action-blocks.png",
-          "width": 1200,
-          "height": 675,
-          "title": "UniSA and UOW to jointly research AI capabilities for Defence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-sony-and-microsoft-develop-ai-imaging-chip-what-it-means-for-industry.md",
-      "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
-      "excerpt": "Sony & Microsoft have developed the 1st AI-enabled imaging chip, looking to push it further with AI-powered smart camera solutions in AR & other arenas",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techwireasia.com/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "publishedDateTime": "2020-05-21T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/000_1DZ2ZD-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-ibm-making-big-job-cuts-even-to-watson-and-ai-as-it-pivots-to-cloud.md",
-      "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
-      "excerpt": "A thread on the Watching IBM Facebook group mentions cuts in cloud and cognitive software teams and Watson health. Whole departments of ... cutting staff from AI-driven initiatives that aren’t doing well, or all of the above.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/22/ibm_layoffs/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
-      "publishedDateTime": "2020-05-21T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/03/03/shutterstock_ibm.jpg",
-          "width": 994,
-          "height": 600,
-          "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-first-rate-cleaning-is-just-the-start-for-this-super-smart-home-robot.md",
-      "title": "First-rate cleaning is just the start for this super-smart Home Robot",
-      "excerpt": "Robot vacuum cleaners can be a great time-saving addition to the home, but Lucy is a whole new ballgame. Using sophisticated object recognition, night vision and AI-based robotic intelligence, Lucy not only puts other robot vacuums in the shade when it comes to cleaning your floor,",
+      "path": "_news/2020-05-26-36-million-unemployed-how-ai-can-create-jobs.md",
+      "title": "36 Million Unemployed: How AI Can Create Jobs",
+      "excerpt": "Artificial Intelligence (AI) is the transformative technology for this decade. With 36 million unemployed in US today, can AI also create jobs? Examples of jobs created in finance, human rights, manufacturing,",
       "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/",
-      "ampWebUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
-      "publishedDateTime": "2020-05-21T17:40:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/suzytaherian/2020/05/26/36-million-unemployed-how-ai-can-create-jobs/",
+      "ampWebUrl": "https://www.forbes.com/sites/suzytaherian/2020/05/26/36-million-unemployed-how-ai-can-create-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/suzytaherian/2020/05/26/36-million-unemployed-how-ai-can-create-jobs/amp/",
+      "publishedDateTime": "2020-05-26T03:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -754,10 +120,10 @@
       },
       "images": [
         {
-          "url": "https://ksr-ugc.imgix.net/assets/029/186/787/5fc7090956e99254f2665496fa1cf339_original.jpg?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1590179053&auto=format&frame=1&q=92&s=c09f4cffcaa93e0dc1fa90dabc59a32b",
-          "width": 560,
-          "height": 315,
-          "title": "First-rate cleaning is just the start for this super-smart Home Robot",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecadd84a866ac0006728767%2F0x0.jpg",
+          "width": 700,
+          "height": 431,
+          "title": "36 Million Unemployed: How AI Can Create Jobs",
           "attribution": null
         }
       ],
@@ -771,30 +137,38 @@
       ]
     },
     {
-      "path": "_news/2020-05-21-details-emerge-about-use-of-facial-recognition-software-by-london-police.md",
-      "title": "Details emerge about use of facial recognition software by London police",
-      "excerpt": "Several London police officers ‘played around’ with controversial facial recognition software after being provided free access by the vendor. One used it in an investigation.",
-      "heat": 73,
+      "path": "_news/2020-05-26-scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision.md",
+      "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
+      "excerpt": "Scandit, a company that develops mobile barcode scanning and computer vision technology, has raised $80 million in a series C round of funding.",
+      "heat": 106,
       "tags": null,
       "type": "article",
-      "webUrl": "https://london.ctvnews.ca/details-emerge-about-use-of-facial-recognition-software-by-london-police-1.4949479?cache=yes%3FautoPlay%3Dtrue%3FclipId%3D89531%2F5-things-to-know-for-friday-september-13-2019-1.4591474",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/london/2020/5/21/1_4949479.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/london/2020/5/21/1_4949479.html",
-      "publishedDateTime": "2020-05-21T16:22:00-07:00",
+      "webUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
+      "publishedDateTime": "2020-05-26T01:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://beta.ctvnews.ca/local/london/2020/5/21/1_4949479/_jcr_content/root/responsivegrid/image.coreimg.jpg",
-          "width": 1020,
-          "height": 573,
-          "title": "Details emerge about use of facial recognition software by London police",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Scandit-Retail-Product-Rating.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
           "attribution": null
         }
       ],
@@ -808,38 +182,30 @@
       ]
     },
     {
-      "path": "_news/2020-05-21-google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry.md",
-      "title": "Google says it won’t build new AI solutions for the fossil fuel industry",
-      "excerpt": "Google today confirmed it will “no longer develop artificial intelligence (AI) software and tools for oil and gas drilling operations ... [Read: Employees say Google cut diversity programs to make conservatives happy] If this is the start of Google and Alphabet extricating themselves entirely from working with big oil, it deserves a ...",
-      "heat": 86,
+      "path": "_news/2020-05-26-rico-gear-using-artificial-intelligence-to-create-rugby-training-app.md",
+      "title": "Rico Gear using artificial intelligence to create rugby training app",
+      "excerpt": "Gear, who played 20 Tests for the All Blacks, is setting up an app to help players improve, but with so many training apps on the market his point of difference is using artificial intelligence. \"The artificial intelligence is going to get to the point where to show the difference between elite and beginner and everything in between,",
+      "heat": 72,
       "tags": null,
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/amp/",
-      "publishedDateTime": "2020-05-21T15:35:00-07:00",
+      "webUrl": "https://www.tvnz.co.nz/one-news/sport/rugby/rico-gear-using-artificial-intelligence-create-rugby-training-app",
+      "ampWebUrl": "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYyNiUyRnJpY28=",
+      "cdnAmpWebUrl": "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYyNiUyRnJpY28=",
+      "publishedDateTime": "2020-05-26T00:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "TVNZ 1",
+        "domain": "tvnz.co.nz",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Sundar-Pichai-Alphabet-Google-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Google says it won’t build new AI solutions for the fossil fuel industry",
+          "url": "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/26/GEAR_Rico_173888.jpg?w=700&h=393.75&fit=crop&auto=format",
+          "width": 700,
+          "height": 394,
+          "title": "Rico Gear using artificial intelligence to create rugby training app",
           "attribution": null
         }
       ],
@@ -852,16 +218,441 @@
       ]
     },
     {
-      "path": "_news/2020-05-21-gap-is-speeding-up-its-rollout-of-warehouse-robots-to-limit-person-to-person-contact-amid-the-coronavirus.md",
-      "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
-      "excerpt": "Gap Inc. is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic.",
-      "heat": 72,
+      "path": "_news/2020-05-26-the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker.md",
+      "title": "The Bundesliga Is Using Cloud And AI To Power New Stats For ‘Der Klassiker’",
+      "excerpt": "Borussia Dortmund v Bayern Munich will be the first Bundesliga broadcast to offer xGoals and Average Position 'Match Facts' to viewers, powered by AWS infrastructure",
+      "heat": 97,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
-      "publishedDateTime": "2020-05-21T14:42:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/05/26/the-bundesliga-is-using-cloud-and-ai-to-power-new-stats-for-der-klassiker/amp/",
+      "publishedDateTime": "2020-05-26T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1214865857%2F0x0.jpg",
+          "width": 1200,
+          "height": 752,
+          "title": "The Bundesliga Is Using Cloud And AI To Power New Stats For ‘Der Klassiker’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g.md",
+      "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
+      "excerpt": "Samsung has announced a new Exynos chip for its mid-range smartphones, the Exynos 880. The octa-core chip is based on the 8nm FinFET process and features an integrated 5G modem with sub-6GHz support.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g",
+      "ampWebUrl": "https://www.neowin.net/amp/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g/",
+      "publishedDateTime": "2020-05-26T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1590465939_exynos-880_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-google-assistant-may-soon-confirm-some-purchases-by-voice.md",
+      "title": "Google Assistant may soon confirm some purchases by voice",
+      "excerpt": "Remember the almost comical incident more than three years ago when Amazon Echo speakers started ordering dollhouses because a TV anchor said so? Those things are long behind us and people have",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/google-assistant-may-soon-confirm-some-purchases-by-voice-25621939/",
+      "ampWebUrl": "https://www.slashgear.com/google-assistant-may-soon-confirm-some-purchases-by-voice-25621939/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-assistant-may-soon-confirm-some-purchases-by-voice-25621939/amp/",
+      "publishedDateTime": "2020-05-25T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/google-home-mini-review-sg-4.jpg",
+          "width": 1278,
+          "height": 809,
+          "title": "Google Assistant may soon confirm some purchases by voice",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-lasertec-a-tiny-maker-of-us40-million-chip-testing-machines-is-japans-hottest-stock-thanks-to-euv.md",
+      "title": "Lasertec, a tiny maker of US$40 million chip testing machines, is Japan’s hottest stock thanks to EUV",
+      "excerpt": "Lasertec is the world’s only maker of testing machines required to verify chip designs for the nascent extreme ultraviolet lithography, or EUV, method of chipmaking",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/gear/article/3086040/lasertec-tiny-maker-us40-million-chip-testing-machines-japans-hottest",
+      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3086040/lasertec-tiny-maker-us40-million-chip-testing-machines-japans-hottest",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3086040/lasertec-tiny-maker-us40-million-chip-testing-machines-japans-hottest",
+      "publishedDateTime": "2020-05-25T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/26/d6904df4-9ef8-11ea-8055-0ae12e466049_image_hires_103831.jpg?itok=ZE4r2CFZ&v=1590460723",
+          "width": 1200,
+          "height": 630,
+          "title": "Lasertec, a tiny maker of US$40 million chip testing machines, is Japan’s hottest stock thanks to EUV",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-ai-researchers-say-they-created-a-better-way-to-generate-3d-photos.md",
+      "title": "AI researchers say they created a better way to generate 3D photos",
+      "excerpt": "AI researers say they've created a novel way to generate realistic, impressive 3D photography that's better than Facebook 3D Photo.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/25/ai-researchers-say-they-created-a-better-way-to-generate-3d-photos/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/25/ai-researchers-say-they-created-a-better-way-to-generate-3d-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/25/ai-researchers-say-they-created-a-better-way-to-generate-3d-photos/amp/",
+      "publishedDateTime": "2020-05-25T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/download-13.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI researchers say they created a better way to generate 3D photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-an-ai-beat-humans-in-a-selfie-personality-test.md",
+      "title": "An AI beat humans in a selfie personality test",
+      "excerpt": "Another study has found that artificial intelligence is able to beat humans — this time it involves judging selfies to determine the subject’s personality traits. The machine was best",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/an-ai-beat-humans-in-a-selfie-personality-test-25621913/",
+      "ampWebUrl": "https://www.slashgear.com/an-ai-beat-humans-in-a-selfie-personality-test-25621913/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/an-ai-beat-humans-in-a-selfie-personality-test-25621913/amp/",
+      "publishedDateTime": "2020-05-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/robot_hand_main_uns.jpg",
+          "width": 1437,
+          "height": 800,
+          "title": "An AI beat humans in a selfie personality test",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-why-robots-will-need-humans-in-the-future.md",
+      "title": "Why robots will need humans in the future",
+      "excerpt": "Ben Shneiderman, a University of Maryland computer scientist who has for decades warned against blindly automating tasks with computers, thinks fully automated cars and the tech industry’s vision for a robotic future is misguided.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html",
+      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
+      "publishedDateTime": "2020-05-25T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/resizer/-RkmdLbQY_5T6dnGwSJV5mIp7-g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JTAXB6YFGFAU7AZ5272JMTGK3I.png",
+          "width": 1200,
+          "height": 858,
+          "title": "Why robots will need humans in the future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-conversational-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
+      "title": "Conversational Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
+      "excerpt": "Kenneth Research has published a detailed report on Conversational Artificial Intelligence (AI) Market which has",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-overall-study-report-with-top-key-players-2020-05-25",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-25T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Conversational Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas.md",
+      "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
+      "excerpt": "Robochamps, an edtech start-up dedicated to introducing kids to early AI education, recently launched online courses in robotics and coding in multiple languages, including Hindi, Gujarati, Punjabi, a",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece/amp/",
+      "publishedDateTime": "2020-05-25T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-nvidia-launches-new-gpu-for-ai-systems.md",
+      "title": "NVIDIA Launches New GPU for AI Systems",
+      "excerpt": "DGX A100 includes dual AMD Rome EPYC CPUs with PCIe 4.0. Exploded view of the NVIDIA DGX A100. (1) 8 NVIDIA A100 GPUs; (2) 6 NVSwitches; (3) Mellanox Connect-6; (4) Dual AMD 64-core EPYC CPUs/1TB system memory;",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engineering.com/Hardware/ArticleID/20316/NVIDIA-Launches-New-GPU-for-AI-Systems.aspx",
+      "ampWebUrl": "https://mobile.engineering.com/amp/20316.html",
+      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20316.html",
+      "publishedDateTime": "2020-05-25T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering",
+        "domain": "engineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.engineering.com/portals/0/BlogFiles/2_ima3.jpg",
+          "width": 640,
+          "height": 336,
+          "title": "NVIDIA Launches New GPU for AI Systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home.md",
+      "title": "ECOVACS ROBOTICS Launches the DEEBOT OZMO T8 Family Putting AI to Work For a Better Looking Home",
+      "excerpt": "ECOVACS ROBOTICS launched the DEEBOT OZMO T8 family, its latest series of high-end intelligent robotic vacuum cleaner. First family member DEEBOT OZMO T8 AIVI features ECOVACS' optimized AIVI™ (Artificial Intelligence and Visual Interpretation) Technology for faster obstacle recognition,",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
+      "publishedDateTime": "2020-05-24T22:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -878,15 +669,7 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ec6ecbf3ad861791b7c0226?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -897,30 +680,38 @@
       ]
     },
     {
-      "path": "_news/2020-05-21-police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand.md",
-      "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
-      "excerpt": "Clearview AI facial recognition technology once again made the news for crimefighting reasons, this time in New Zealand. But controversy persists.",
-      "heat": 70,
+      "path": "_news/2020-05-25-breaking-through-the-glass-ceiling-a-spring-for-women-in-artificial-intelligence.md",
+      "title": "Breaking Through The Glass Ceiling - A Spring For Women In Artificial Intelligence",
+      "excerpt": "To conclude, while there is still a long way to go before we see equal numbers of women in AI for healthcare, the glass ceiling is breaking and I cannot think of a better career choice for a young woman.",
+      "heat": 83,
       "tags": null,
       "type": "article",
-      "webUrl": "https://techwireasia.com/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
-      "publishedDateTime": "2020-05-21T14:18:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-05-24T21:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/063_1198303844-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F915025868%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D926%26cropY2%3D3626",
+          "width": 1200,
+          "height": 563,
+          "title": "Breaking Through The Glass Ceiling - A Spring For Women In Artificial Intelligence",
           "attribution": null
         }
       ],
@@ -929,21 +720,199 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-huawei-said-to-ask-samsung-sk-hynix-for-stable-supply-of-memory-chips.md",
+      "title": "Huawei said to ask Samsung, SK Hynix for stable supply of memory chips",
+      "excerpt": "The world’s largest telecommunications equipment supplier is one of the five biggest clients for Samsung and SK Hynix, spending around US$8.1 billion to buy memory chips from the two South Korean companies every year.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
+      "publishedDateTime": "2020-05-24T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/25/a17ff3fe-9e1b-11ea-8055-0ae12e466049_image_hires_082942.jpeg?itok=sU7aud-4&v=1590366589",
+          "width": 1200,
+          "height": 630,
+          "title": "Huawei said to ask Samsung, SK Hynix for stable supply of memory chips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-21-nvidia-reports-308-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar.md",
-      "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
-      "excerpt": "Nvidia posted revenues of $3.08 billion for the first quarter ended April 26, up 39% from a year earlier as data center revenues soared.",
-      "heat": 88,
+      "path": "_news/2020-05-24-new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel.md",
+      "title": "New Social Media App Iris Predicts Mutual Attraction Via Artificial Intel",
+      "excerpt": "Now, the new social media platform Iris looks to artificial intelligence to predict better potential matches while eliminating the possibility of cat-fishing.",
+      "heat": 71,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
-      "publishedDateTime": "2020-05-21T14:17:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/",
+      "ampWebUrl": "https://www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/amp/",
+      "publishedDateTime": "2020-05-24T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211084313%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "New Social Media App Iris Predicts Mutual Attraction Via Artificial Intel",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-24-will-the-real-vcs-please-stand-up.md",
+      "title": "Will the real VCs please stand up",
+      "excerpt": "It’s time for the VC industry to remember its task is to build the future, not to focus on safe “PE like”  investments and top-up rounds.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/24/will-the-real-vcs-please-stand-up/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/24/will-the-real-vcs-please-stand-up/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/24/will-the-real-vcs-please-stand-up/amp/",
+      "publishedDateTime": "2020-05-24T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/raised_hand.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": "Will the real VCs please stand up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-24-ai-is-the-uncertainty-cure-enterprises-want-in-2020.md",
+      "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
+      "excerpt": "Supervised machine learning algorithms is the most popular machine learning technique in enterprises today. 73% of enterprises with advanced expertise in AI are making extensive use of supervised machine learning techniques to interpret,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/",
+      "publishedDateTime": "2020-05-24T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca991785e6c7000617bd7a%2F0x0.jpg",
+          "width": 1193,
+          "height": 872,
+          "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-24-nvidia-ceo-jensen-huang-on-the-metaverse-permanent-wfh-and-accelerating-raises.md",
+      "title": "Nvidia CEO Jensen Huang on the Metaverse, permanent WFH, and accelerating raises",
+      "excerpt": "Nvidia posted big earnings gains and unveiled its A100 artificial intelligence chip in the past two weeks. We talked with CEO Jensen Huang about that.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/amp/",
+      "publishedDateTime": "2020-05-24T08:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -965,7 +934,7 @@
           "url": "https://venturebeat.com/wp-content/uploads/2020/05/Jensen-cooking.jpg?w=1200&#038;strip=all",
           "width": 1116,
           "height": 669,
-          "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
+          "title": "Nvidia CEO Jensen Huang on the Metaverse, permanent WFH, and accelerating raises",
           "attribution": null
         }
       ],
@@ -974,29 +943,208 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-24-china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face.md",
+      "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
+      "excerpt": "Hello and welcome back to TechCrunch’s China Roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. It’s been a tumultuous week for Chinese tech firms abroad: Huawei’s mounting pressure from the U.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/amp/",
+      "publishedDateTime": "2020-05-24T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/kevin-mayer-e1590307306151.jpg?w=1021",
+          "width": 1021,
+          "height": 545,
+          "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-24-the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel.md",
+      "title": "The Station: Hertz files for bankruptcy, hailing “self-driving” scooters, Memorial Day travel",
+      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hi and welcome back to The Station. Memorial Day is this coming Monday,",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/amp/",
+      "publishedDateTime": "2020-05-24T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/micromobility-comeback.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "The Station: Hertz files for bankruptcy, hailing “self-driving” scooters, Memorial Day travel",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-24-machine-learning-what-is-it-really-good-for.md",
+      "title": "Machine Learning: What Is It Really Good For?",
+      "excerpt": "The idea is that the model gets better as you feed it more data points.” There are two key steps with machine learning. First, you need to collect and train the data, which can be a long and tough process.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/23/machine-learning-what-is-it-really-good-for/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/23/machine-learning-what-is-it-really-good-for/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/05/23/machine-learning-what-is-it-really-good-for/amp/",
+      "publishedDateTime": "2020-05-23T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1179697528%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7680%26cropY1%3D0%26cropY2%3D4320",
+          "width": 1200,
+          "height": 675,
+          "title": "Machine Learning: What Is It Really Good For?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-24-scale-ai-releases-free-lidar-data-set-to-power-self-driving-car-development.md",
+      "title": "Scale AI releases free lidar data set to power self-driving car development",
+      "excerpt": "High-quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "publishedDateTime": "2020-05-23T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/LiDAR-comparison-credit_-Scale-AI.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": "Scale AI releases free lidar data set to power self-driving car development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "AI in Autos"
       ]
     },
     {
-      "path": "_news/2020-05-21-top-safety-official-at-waymo-self-driving-unit-stepping-down.md",
-      "title": "Top safety official at Waymo self-driving unit stepping down",
-      "excerpt": "Alphabet Inc’s Waymo self-driving unit said on Thursday that its chief safety officer, Debbie Hersman, was stepping down but would remain as a consultant to the company.",
+      "path": "_news/2020-05-23-towards-a-more-transparent-ai.md",
+      "title": "Towards A More Transparent AI",
+      "excerpt": "How can we depend on machine learning models and trust them knowing that there are so many ways for the model to fail?",
       "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-waymo-safety-idUSKBN22X2Q9",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22X2Q9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22X2Q9",
-      "publishedDateTime": "2020-05-21T14:10:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-more-transparent-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-more-transparent-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-more-transparent-ai/amp/",
+      "publishedDateTime": "2020-05-23T10:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1008,10 +1156,10 @@
       },
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519490622&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K20U",
-          "width": 817,
-          "height": 545,
-          "title": "Top safety official at Waymo self-driving unit stepping down",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec95cd64a0d9e0006b5f07e%2F0x0.jpg",
+          "width": 757,
+          "height": 468,
+          "title": "Towards A More Transparent AI",
           "attribution": null
         }
       ],
@@ -1020,146 +1168,28 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-21-veterans-affairs-launches-first-chatbot-to-field-covid-19-questions.md",
-      "title": "Veterans Affairs Launches First Chatbot to Field COVID-19 Questions",
-      "excerpt": "VA contact centers have seen a significant increase in calls from veterans since the start of the COVID-19 pandemic. This surge in calls drove the rapid development of VA’s first chatbot,” officials wrote in a blog post.",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nextgov.com/emerging-tech/2020/05/veterans-affairs-launches-first-chatbot-field-covid-19-questions/165579/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/upload/2020/05/21/NGchatbot20200521/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Veterans Affairs Launches First Chatbot to Field COVID-19 Questions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-gain-customer-insights-using-amazon-aurora-machine-learning.md",
-      "title": "Gain customer insights using Amazon Aurora machine learning",
-      "excerpt": "In recent years, AWS customers have been running machine learning (ML) on an increasing variety of datasets and data sources. Because a large percentage of organizational data is stored in relational databases such as Amazon Aurora, there’s a common need to make this relational data available for training",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gain-customer-insights-using-amazon-aurora-machine-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T13:56:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/05/gain-customer-insights-1.gif",
-          "width": 726,
-          "height": 413,
-          "title": "Gain customer insights using Amazon Aurora machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-the-register-calls-for-aid-and-microsofts-rohan-kumar-will-answer-our-questions-about-sql-edge-and-azure-synapse.md",
-      "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
-      "excerpt": "Build There was SQL Edge and Azure Synapse news at Microsoft's reimagined Build gathering this week, so The Register had a chat with corporate vice president Rohan Kumar about the company's database ambitions.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/05/21/sql_edge_azure_synapse/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/21/sql_edge_azure_synapse/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/21/sql_edge_azure_synapse/",
-      "publishedDateTime": "2020-05-21T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/01/15/shutterstock_db.jpg",
-          "width": 648,
-          "height": 429,
-          "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-gap-is-rushing-more-robots-into-its-warehouses-to-handle-coronavirus-disruption.md",
-      "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
-      "excerpt": "The news illustrates how the pandemic may speed up automation in the retail industry. Companies including Gap and Amazon have long used such systems for a range of tasks, like moving items across warehouse floors.",
+      "path": "_news/2020-05-23-ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown.md",
+      "title": "AI proves it’s a poor substitute for human content checkers during lockdown",
+      "excerpt": "Major social media companies have replaced many of their human content moderators with AI during the pandemic. And the results aren't encouraging.",
       "heat": 85,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
-      "publishedDateTime": "2020-05-21T11:56:00-07:00",
+      "webUrl": "https://venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/amp/",
+      "publishedDateTime": "2020-05-23T10:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1171,10 +1201,10 @@
       },
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/106547755-1590087185389gap.jpg?v=1590087262",
-          "width": 1326,
-          "height": 745,
-          "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ai_news.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 822,
+          "title": "AI proves it’s a poor substitute for human content checkers during lockdown",
           "attribution": null
         }
       ],
@@ -1183,28 +1213,27 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
-      "title": "AI chips in 2020: Nvidia and the challengers",
-      "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
-      "heat": 104,
+      "path": "_news/2020-05-23-recommended-reading-covid-19-and-ai-health-care.md",
+      "title": "Recommended Reading: COVID-19 and AI health care",
+      "excerpt": "Fu Lee, Wired The coronavirus pandemic will cause us to rethink major aspects of everyday life around the world, but it may also expedite the use of artificial intelligence in health care.",
+      "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "publishedDateTime": "2020-05-21T11:41:00-07:00",
+      "webUrl": "https://www.engadget.com/recommended-reading-covid-19-and-ai-health-care-163041644.html",
+      "ampWebUrl": "https://www.engadget.com/amp/recommended-reading-covid-19-and-ai-health-care-163041644.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-covid-19-and-ai-health-care-163041644.html",
+      "publishedDateTime": "2020-05-23T09:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1216,10 +1245,10 @@
       },
       "images": [
         {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/04/03/156d6478-5ded-4ada-835a-784899fa6564/abstraction-layer-runai.png",
-          "width": 954,
-          "height": 672,
-          "title": "AI chips in 2020: Nvidia and the challengers",
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F910e4d10-9ca2-11ea-a4cf-ce4924f21bdf&client=amp-blogside-v2&signature=16e4f1f0457be801296053c0fcab71e6970562d3",
+          "width": 600,
+          "height": 350,
+          "title": "Recommended Reading: COVID-19 and AI health care",
           "attribution": null
         }
       ],
@@ -1228,53 +1257,54 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-23-the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley.md",
+      "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
+      "excerpt": "The largest Joint AI Center contract to date was awarded this week. CTO Nand Mulchandani on AI at the Pentagon and why JAIC is mimicing Silicon Valley.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
+      "publishedDateTime": "2020-05-23T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/5932740.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-a-case-for-cooperation-between-machines-and-humans.md",
-      "title": "A Case for Cooperation Between Machines and Humans",
-      "excerpt": "A computer scientist argues that the quest for fully automated robots is misguided, perhaps even dangerous. His decades of warnings are gaining more attention.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
-      "publishedDateTime": "2020-05-21T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/04/30/business/30hybrid/01hybrid-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "A Case for Cooperation Between Machines and Humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
+        "Microsoft AI",
+        "AI in Robotics"
       ]
     }
   ],

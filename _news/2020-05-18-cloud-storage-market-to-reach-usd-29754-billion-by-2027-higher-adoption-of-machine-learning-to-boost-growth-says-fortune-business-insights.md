@@ -20,6 +20,6 @@ images:
     height: 698
     title: "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™"
 
-secured: "p4WJwfRqRCVG1/DhdgD2d5qlv/fewJA0yw5cx0P+pumnhIBNnPyKUmVxusDWGNI1xHnP5vVCSnwM9yF3eJVb9e/IjOY8+/+0wY0y1A6K3XGtzbeOuvUxluVGXFTzxvVVC1Gf63Gi1/bFhmPUbHkuOZiZT6teYRRr+FD4hivx8fbBpxbx1lPfGmul6ND+i4Xe503avzO3nF7kAYyxBM8ma7ZdRBMC7lY31ip+mKVH+PjAng4ATymGJyxioQ68TaU0JXepZbdAKEPdAbPp1Xlm03mBjV3aseT/XZfioFHPf5yeV5Fj4twC3WRFnlaVCwzf;mfcR0/4mtxhk3hyKxPSe1A=="
+secured: "eZd7ZKmnLaUiebZvWCMXr9iDJrKHl3IN5lAX9koX9fr70N9qyvHxFzkH+JmckZ5Hqj0gmTp5kMbQHm0BRaNhCyptc9Rmgu0shSbpAjjZ2020wdIOoVyxzgvNgdIuwF63afShhcIhoF7BRQsX5ekWGwso7M9kWTk4/pPhrXyPLBfCt2A0TzC/9Cf8tIJsow8DdK3F/Q9RNFj+bbT8ADHO3+aQwHjghPeKji8qS7DPxcoasOlDoWYKfEaVPQF3ATwczSXxY18c7k25p7FfiYb2CtTW5+7J9J8y3OiT2ZDjgMBALgliHDv6nBXEHrSSeHXdLGBqcW/GwE+59eqFOMUo4SQFnAtrEsY1sZncgsxxYu2Yz3wbBNg+Zp913vWQi6eDcf6BPHYRb3sC6qQjXpfV7jEsOackrkoS2SFj5cP5xdtpAdEN7eQZHgbkYWVtVGcKrYJYaTv1eN4ZJ3X+oOZFczBRgv5lAz1SoPh7qqqtYYU=;04YYRF08d21Qsjju5PPbPA=="
 ---
 

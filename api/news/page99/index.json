@@ -2,21 +2,309 @@
   "page": 99,
   "value": [
     {
-      "path": "_news/2020-03-12-ticker-tocker-wins-best-social-trading-platform-designation-in-2020-fintech-breakthrough-awards-program.md",
-      "title": "Ticker Tocker Wins \"Best Social Trading Platform\" Designation in 2020 FinTech Breakthrough Awards Program",
-      "excerpt": "NEW YORK, March 11, 2020 /PRNewswire/ -- Ticker Tocker, an award winning social marketplace of verified trading leaders, announced today that it has been selected as the winner of the \"Best Social Trading Platform\" award in the 2020 FinTech Breakthrough Awards program conducted by FinTech Breakthrough,",
+      "path": "_news/2020-03-13-infosys-ranked-a-leader-in-nelsonhalls-cognitive-and-self-healing-it-infrastructure-management-services-report-2020.md",
+      "title": "Infosys Ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services Report 2020",
+      "excerpt": "BENGALURU, India, March 13, 2020 /PRNewswire/ -- Infosys has been ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services report 2020. Infosys emerged as ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ticker-tocker-wins-best-social-trading-platform-designation-in-fintech/article_fa63fe8a-81c6-59bb-a66a-17cac9527377.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T17:29:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/infosys-ranked-a-leader-in-nelsonhall-s-cognitive-and-self-healing-it-infrastructure-management-services-report-2020-1028992553",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/infosys-ranked-a-leader-in-nelsonhall-s-cognitive-and-self-healing-it-infrastructure-management-services-report-2020-1028992553",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/infosys-ranked-a-leader-in-nelsonhall-s-cognitive-and-self-healing-it-infrastructure-management-services-report-2020-1028992553",
+      "publishedDateTime": "2020-03-13T00:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data.md",
+      "title": "Using Machine Learning to Tackle Arms Proliferation In Russian Trade Data",
+      "excerpt": "We eventually settled on EMR (Spark & Livy), in conjunction with SageMaker, as it was perfect for our use-case. We picked these two for their ease-of-use in a collaborative work environment and ability to use multiple clusters to process our large dataset. The set-up process was substantial and required some of what would be called a sysadmin ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T19:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ji9YlyGqz6Y_1dCss28fnA.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "Using Machine Learning to Tackle Arms Proliferation In Russian Trade Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-behringer-deepmind-12-polyphonic-analog-synth.md",
+      "title": "Behringer DeepMind 12 Polyphonic Analog Synth",
+      "excerpt": "Excellent items are almost entirely free from blemishes and other visual defects and have been played or used with the utmost care.learn more I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/32851741-behringer-deepmind-12-polyphonic-analog-synth",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-elon-musks-best-investments.md",
+      "title": "Elon Musk's Best Investments",
+      "excerpt": "A list of some of Musk's best investments includes PayPal Holdings, Inc. (PYPL), SpaceX, DeepMind (GOOGL), Tesla Inc. (TSLA), and The Boring Company. Musk is the CEO and co-founder of Tesla and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.investopedia.com/articles/investing/031316/elon-musks-5-best-investments-tsla-pypl.asp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.investopedia.com/thmb/116HqdfR7rOQoAhctt4rjgaZYqE=/680x440/filters:fill(auto,1)/ap_507406182676-5bfc3829c9e77c00587a7cc8.jpg",
+          "width": 680,
+          "height": 440,
+          "title": "Elon Musk's Best Investments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-emergence-of-visual-center-periphery-spatial-organization-in-deep-convolutional-neural-networks.md",
+      "title": "Emergence of Visual Center-Periphery Spatial Organization in Deep Convolutional Neural Networks",
+      "excerpt": "Recently, studies have uncovered emergence of human interpretable concepts within DCNNs layers trained to identify visual objects and scenes. Here, we asked whether an artificial neural network (with convolutional structure) trained for visual categorization would demonstrate spatial correspondences with human brain regions showing central ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41598-020-61409-0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61409-0/MediaObjects/41598_2020_61409_Fig1_HTML.png",
+          "width": 685,
+          "height": 346,
+          "title": "Emergence of Visual Center-Periphery Spatial Organization in Deep Convolutional Neural Networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-ibms-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.md",
+      "title": "IBM's Prototype AutoML Could Vastly Improve AI Responses To Pandemics",
+      "excerpt": "AutoML is one of the more exciting things worked on in IBM’s labs, and it is on the path to a future of AIs that can create AIs without the need for Data Scientists. Given the threats we face as a race, this capability can’t come soon enough.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datamation.com/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
+      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
+      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
+      "publishedDateTime": "2020-03-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
+      "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/paralyzed-man-feels-fingers-again/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0=",
+          "width": 1200,
+          "height": 630,
+          "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ibm-watson-health-to-tap-ebscos-dynamed-libraries-for-a-combined-ai-drug-information-suite.md",
+      "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
+      "excerpt": "RELATED: IBM Watson Health's new manager talks about returning to basics, doubling down IBM’s Micromedex and Watson programs employ artificial intelligence and natural language processing with the goal of providing users a conversational approach for searching drug information—similar to Big Blue’s previous approaches in oncology and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fiercebiotech.com/medtech/ibm-watson-health-to-tap-ebsco-s-dynamed-libraries-for-a-combined-ai-drug-information-suite",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1584043544/IBM_Watson.jpg/IBM_Watson.jpg?O_jG5rsopS3DHTncRsKFiffFsacRkMDY",
+          "width": 1200,
+          "height": 803,
+          "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-a-competitive-fintech-environment-encourages-innovative-technology.md",
+      "title": "A competitive fintech environment encourages innovative technology",
+      "excerpt": "While change is essential, it brings with it wide-ranging implications for the industry, particularly as customer needs and regulation continue to move the needle.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/professional/blog/a-competitive-fintech-environment-encourages-innovative-technology/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -31,16 +319,53 @@
       ]
     },
     {
-      "path": "_news/2020-03-11-scientists-successfully-created-a-cybernetic-neural-network.md",
-      "title": "Scientists successfully created a cybernetic neural network",
-      "excerpt": "and the UK have successfully joined artificial neurons and an organic neuron to form the first operational biological-artificial hybrid neural network. They’ve made a cyborg. The team set out to recreate a classic experiment showing how neurons can “learn” by transferring information through synapses. In a classic neural network ...",
+      "path": "_news/2020-03-12-just-in-defense-innovation-unit-to-sponsor-computer-vision-prize-challenge.md",
+      "title": "JUST IN: Defense Innovation Unit to Sponsor Computer Vision Prize Challenge",
+      "excerpt": "HONOLULU, Hawaii — The Pentagon’s Defense Innovation Unit is preparing to launch another industry competition to boost computer vision technology that could aid disaster relief efforts, a top official said March 11. DIU was launched in 2015 by then-Secretary of Defense Ash Carter to bridge the gap between the military and the nation’s ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/11/scientists-successfully-created-a-cybernetic-neural-network/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/11/scientists-successfully-created-a-cybernetic-neural-network/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/11/scientists-successfully-created-a-cybernetic-neural-network/amp/",
-      "publishedDateTime": "2020-03-11T15:54:00-07:00",
+      "webUrl": "https://www.nationaldefensemagazine.org/articles/2020/3/12/defense-innovation-unit-to-sponsor-computer-vision-prize-challenge",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Defense Magazine",
+        "domain": "nationaldefensemagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/03/istock-1172131894_web.ashx?h=500&w=878&la=en&hash=6CA3F9E7BEC57550BC7EF738EDD66F4E78DDCB88",
+          "width": 878,
+          "height": 500,
+          "title": "JUST IN: Defense Innovation Unit to Sponsor Computer Vision Prize Challenge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets.md",
+      "title": "Researchers use AI to translate text found on ancient clay tablets",
+      "excerpt": "Read: Google now supports five new languages on Translate To build the model, they’re training it on more than 6,000 annotated images from the Persepolis Fortification Archive. This will teach the system to read tablets in the collection that have never been analyzed before. They believe the system could uncover new secrets about Achaemenid ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/amp/",
+      "publishedDateTime": "2020-03-12T11:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Web",
@@ -59,158 +384,10 @@
       },
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design19-796x417.png",
           "width": 796,
           "height": 417,
-          "title": "Scientists successfully created a cybernetic neural network",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-intels-facial-recognition-will-track-employees-and-visitors.md",
-      "title": "Intel’s Facial Recognition Will Track Employees and Visitors",
-      "excerpt": "Intel’s Portland office will begin using facial recognition to identify “high risk individuals.” The company touts the tech as being used for safety, but many are concerned about privacy and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.governing.com/security/Intels-Facial-Recognition-Will-Track-Employees-and-Visitors.html",
-      "ampWebUrl": "https://www.governing.com/security/Intels-Facial-Recognition-Will-Track-Employees-and-Visitors.html?AMP",
-      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Intels-Facial-Recognition-Will-Track-Employees-and-Visitors.html?AMP",
-      "publishedDateTime": "2020-03-11T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Governing",
-        "domain": "governing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-police-used-facial-recognition-to-arrest-over-1100-people-in-india-last-month.md",
-      "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
-      "excerpt": "Shortly after one of the worst riots New Delhi has seen in decades, law enforcement agencies in India used facial recognition technology to identify more than 1,100 people who allegedly took part ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965",
-      "ampWebUrl": "https://gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965/amp",
-      "publishedDateTime": "2020-03-11T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ettkddlwrqgiro3hlrjc.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-abb-partners-with-covariant-for-integrated-ai-robotic-solutions.md",
-      "title": "ABB partners with Covariant for integrated AI robotic solutions",
-      "excerpt": "ABB and Silicon Valley AI start-up, Covariant, have partnered up to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfillment solution. According to ABB, the partnership brings together the two companies with a vision for robotics enabled by AI, where intelligent robots work alongside humans in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.controldesign.com/industrynews/2020/abb-partners-with-covariant-for-integrated-ai-robotic-solutions/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Control Design",
-        "domain": "controldesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.controldesign.com/assets/Uploads/ABB-robots-sorting-different-packages-with-Covariant-AI-sb.jpg",
-          "width": 880,
-          "height": 440,
-          "title": "ABB partners with Covariant for integrated AI robotic solutions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-new-scientist-got-an-early-glimpse-of-voice-recognition-technology.md",
-      "title": "New Scientist got an early glimpse of voice recognition technology",
-      "excerpt": "HEY Siri, we saw you coming. In our 17 March 1990 issue, we wrote about a computer system that could recognise continuous speech and may, we predicted, “form the basis of a personal computer controlled by voice”. At the time, this intriguing new technology had already piqued the interest of Apple, which we then described as “famous for ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newscientist.com/article/mg24532732-700-new-scientist-got-an-early-glimpse-of-voice-recognition-technology/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2015/08/ns-logo-for-featured-image.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "New Scientist got an early glimpse of voice recognition technology",
+          "title": "Researchers use AI to translate text found on ancient clay tablets",
           "attribution": null
         }
       ],
@@ -224,30 +401,30 @@
       ]
     },
     {
-      "path": "_news/2020-03-11-researchers-criticize-opacity-of-googles-mammogram-reading-ai-study.md",
-      "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
-      "excerpt": "Though a study published Jan. 1 describing the success of Google's DeepMind artificial intelligence at diagnosing breast cancer was largely met with praise and excitement, in a Feb. 28 response, a group of AI researchers criticized the study's lack of transparency. In the initial study, Google researchers found the DeepMind AI produced fewer ...",
+      "path": "_news/2020-03-12-ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
+      "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
+      "excerpt": "/PRNewswire/ -- AI Recruitment startup, Talview, has received the prestigious \"Best AI Application for Societal Impact\" award in the partner category in",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/researchers-criticize-opacity-of-google-s-mammogram-reading-ai-study.html",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsoft-s-ai-awards-2-0-875582027.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T11:17:00-07:00",
+      "publishedDateTime": "2020-03-12T10:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg",
-          "width": 400,
-          "height": 300,
-          "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
+          "url": "https://mma.prnewswire.com/media/1121668/Talview___Microsoft_AI_Awards.jpg?p=facebook",
+          "width": 1198,
+          "height": 628,
+          "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
           "attribution": null
         }
       ],
@@ -256,21 +433,21 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-03-11-is-inter-company-automation-the-next-frontier-for-ai-a-new-startup-backboneai-says-yes.md",
-      "title": "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes.",
-      "excerpt": "BackboneAI is designed to fill the need for automation between companies, a distinct approach from other solutions that focus on AI within a company or between a company and its customers. The startup was founded by Rob Bailey with seed funding of $4.",
+      "path": "_news/2020-03-12-ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too.md",
+      "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
+      "excerpt": "AI ethics is a hot trending topic these days. And, so it should be. With the rise of AI systems popping up here and there, and virtually everywhere, there is a rightfully emerging concern that these computer-based systems are being thrown into the world without much thought given to the societal impacts that they can produce.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/",
-      "ampWebUrl": "https://www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/amp/",
-      "publishedDateTime": "2020-03-11T10:48:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
+      "publishedDateTime": "2020-03-12T10:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -289,10 +466,10 @@
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41ed80f133f400076c2216%2F0x0.jpg",
-          "width": 612,
-          "height": 1156,
-          "title": "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes.",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e680526e1e61700080e7020%2F0x0.jpg%3FcropX1%3D339%26cropX2%3D5849%26cropY1%3D0%26cropY2%3D4133",
+          "width": 1200,
+          "height": 900,
+          "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
           "attribution": null
         }
       ],
@@ -301,20 +478,198 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-03-11-toyotas-self-driving-car-mapping-system-could-be-a-game-changer.md",
-      "title": "Toyota's self-driving car mapping system could be a game changer",
-      "excerpt": "Before anyone believes self-driving cars will be able to storm streets around the world, automakers and companies with interests in automated vehicles need to complete a major task: mapping the ...",
+      "path": "_news/2020-03-12-sentara-healthcare-partners-with-citiustech-to-deploy-data-platform-on-microsoft-azure.md",
+      "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
+      "excerpt": "CitiusTech H-Scale, combined with Azure, helps customers achieve scale in healthcare data management.” CitiusTech has further enabled Sentara to leverage aggregated information and generate actionable insights by deploying artificial intelligence and machine learning models at an enterprise scale. This is expected to save approximately $3 ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/toyota-self-driving-car-mapping-system-satellite/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/toyota-self-driving-car-mapping-system-satellite/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/toyota-self-driving-car-mapping-system-satellite/",
-      "publishedDateTime": "2020-03-11T09:25:00-07:00",
+      "webUrl": "https://www.businesswire.com/news/home/20200312005559/en/Sentara-Healthcare-Partners-CitiusTech-Deploy-Data-Platform",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200312005559/en/779461/23/citiustech_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-facebook-research-develops-ai-system-for-music-source-separation.md",
+      "title": "Facebook Research Develops AI System for Music Source Separation",
+      "excerpt": "Facebook Research recently released Demucs, a new deep-learning-powered system for music ... Accelerated by existing research in the source separation domain, research scientists began using AI to separate sounds in music in the early 2000s. Today, spectrograms generated by the short-time Fourier transform (STFT) are the centerpiece of state ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/03/facebook-ai-source-separation/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-the-humanization-of-customer-experience-in-an-era-of-artificial-intelligence.md",
+      "title": "The Humanization of Customer Experience in an Era of Artificial Intelligence",
+      "excerpt": "This requires innovative solutions and making artificial intelligence a priority. 70% of companies are already using some form of AI to engage customers. 90% will be using AI within the next 24 months. Risk-averse markets such as healthcare, utilities and insurance are more than 70% of organizations are planning to make AI investments in the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.linkedin.com/pulse/humanization-customer-experience-era-artificial-brian-solis/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHHhzgKh1QPJQ/article-cover_image-shrink_720_1280/0?e=1590624000&v=beta&t=qFepTyXnx18VGXkqZJm8DEAeU-7dWL19yrdvzoBkFms",
+          "width": 1279,
+          "height": 720,
+          "title": "The Humanization of Customer Experience in an Era of Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ai-applications-in-alzheimers-forecast-to-2024-diagnosis-therapy-health-management-research.md",
+      "title": "AI Applications in Alzheimer's, Forecast to 2024: Diagnosis, Therapy, Health Management, Research",
+      "excerpt": "DUBLIN, March 12, 2020 /PRNewswire/ -- The \"Artificial Intelligence (AI) in Alzheimer's Applications\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence (AI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/ai-applications-in-alzheimers-forecast-to-2024-diagnosis-therapy-health-management-research-301022297.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": "AI Applications in Alzheimer's, Forecast to 2024: Diagnosis, Therapy, Health Management, Research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-artificial-intelligence-in-medical-imaging.md",
+      "title": "Artificial Intelligence in Medical Imaging",
+      "excerpt": "Worldwide Market Reports adds Artificial Intelligence in Medical Imaging Market 2020 Global Analysis Growth Trends and Opportunities Research Report Forecasting to 2024 reports to its database This report provides in depth study of Artificial Intelligence in Medical Imaging Market using",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1965015/artificial-intelligence-in-medical-imaging-market-report-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-aclu-sues-for-records-on-facial-recognition-use-at-airports-border.md",
+      "title": "ACLU sues for records on facial recognition use at airports, border",
+      "excerpt": "The lawsuit, filed on Thursday, argues that the public has a right to know how these US agencies have been using facial recognition, citing concerns about surveillance and privacy. \"Over the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/aclu-sues-for-records-on-facial-recognition-use-at-airports-border/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/aclu-sues-for-records-on-facial-recognition-use-at-airports-border/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/aclu-sues-for-records-on-facial-recognition-use-at-airports-border/",
+      "publishedDateTime": "2020-03-12T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNET",
@@ -333,10 +688,10 @@
       },
       "images": [
         {
-          "url": "https://cnet4.cbsistatic.com/img/HDT-32iZkdvCsv70p9wp0jzxpFo=/2020/03/11/08c6bafa-528c-4a61-8910-015efd1c372e/ogi-map.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Toyota's self-driving car mapping system could be a game changer",
+          "url": "https://cnet2.cbsistatic.com/img/k89SXv9Mmf4VLv5BUGzTuxgTjOo=/756x567/2020/03/11/ad4aacfb-49cc-4708-b0ad-2eecbcb1c682/gettyimages-819622666.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "ACLU sues for records on facial recognition use at airports, border",
           "attribution": null
         }
       ],
@@ -345,35 +700,35 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-03-11-client-note-aon-acquires-willis-towers-watson-for-30b-nvidia-buys-an-ai-startup-ant-financial-invests-in-klarna-and-more.md",
-      "title": "Client Note: Aon Acquires Willis Towers Watson For $30B, Nvidia Buys An AI Startup, Ant Financial Invests In Klarna, And More",
-      "excerpt": "Also covered are Sequoia’s investment in a student loan company, an email encryption startup raises, and Grindr’s $600M+ sale. Want the full post? Become a CB Insights customer. If you’re already a customer, log in here.",
+      "path": "_news/2020-03-12-podcast-applying-deep-learning-to-extreme-weather.md",
+      "title": "Podcast: Applying Deep Learning to Extreme Weather",
+      "excerpt": "In this podcast, the Radio Free HPC team looks at how researchers are using supercomputers to apply deep learning to extreme weather. A research team from Rice University utilized three supercomputers (TACC’s Stampede 2, Wrangler, and Pittsburg Supercomputing Center’s Bridges system) to see if data on heat waves and cold spells could be ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.cbinsights.com/research/aon-willis-towers-watson-nvidia-ai-ant-financial-klarna/",
+      "webUrl": "https://insidehpc.com/2020/03/podcast-applying-deep-learning-to-extreme-weather/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T08:56:00-07:00",
+      "publishedDateTime": "2020-03-12T07:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CB Insights",
-        "domain": "cbinsights.com",
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/03/11105643/News-coverage_edge-computing_CN_03102020-572x364.png",
-          "width": 572,
-          "height": 364,
-          "title": "Client Note: Aon Acquires Willis Towers Watson For $30B, Nvidia Buys An AI Startup, Ant Financial Invests In Klarna, And More",
+          "url": "https://insidehpc.com/wp-content/uploads/2019/12/RFHPC-logo-notag-darkblue-svg.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Podcast: Applying Deep Learning to Extreme Weather",
           "attribution": null
         }
       ],
@@ -382,112 +737,30 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-03-11-cadence-tensilica-hifi-ip-accelerates-ai-deployment-with-support-for-tensorflow-lite-for-microcontrollers.md",
-      "title": "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers",
-      "excerpt": "SAN JOSE, Calif.--(BUSINESS WIRE)--Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that software for Cadence ® Tensilica ® HiFi digital signal processors (DSPs) has been optimized to efficiently execute TensorFlow Lite for Microcontrollers, part of the TensorFlow end-to-end open-source platform for machine learning (ML ...",
+      "path": "_news/2020-03-12-memory-systems-for-ai-part-4.md",
+      "title": "Memory Systems for AI: Part 4",
+      "excerpt": "In this blog post, we’ll be taking a closer look at a Roofline model that illustrates how AI applications perform on Google’s tensor processing unit (TPU), NVIDIA’s K80 GPU and Intel’s Haswell CPU. The graph above is featured in a paper published by Google a couple of years ago detailing the first-generation Tensor Processing Unit (TPU).",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200311005239/en/Cadence-Tensilica-HiFi-IP-Accelerates-AI-Deployment",
+      "webUrl": "https://www.design-reuse.com/industryexpertblogs/47679/memory-systems-for-ai-part-4.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T08:19:00-07:00",
+      "publishedDateTime": "2020-03-12T07:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200311005239/en/778960/23/bigstock-Voice-Recording-Or-Speech-Reco-321922831.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-google-launches-tensorflow-quantum-that-facilitates-hybrid-ai-models.md",
-      "title": "Google launches TensorFlow Quantum that facilitates hybrid AI models",
-      "excerpt": "Google announced the launch of TensorFlow Quantum, which is based on Machine learning and quantum computing coming together to build hybrid AI models. The TFQ was built in collaboration with the University of Waterloo, X, and Volkswagen. TensorFlow Quantum is an opensource library for rapid prototyping of quantum ML models. “TensorFlow ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technowize.com/google-launches-tensorflow-quantum-that-facilitates-hybrid-ai-models/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Technowize",
-        "domain": "technowize.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.technowize.com/wp-content/uploads/2019/11/Quantum-Supremacy.jpg",
-          "width": 1100,
-          "height": 825,
-          "title": "Google launches TensorFlow Quantum that facilitates hybrid AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-chip-progress-ai-gains-leave-intel-stock-poised-to-outperform.md",
-      "title": "Chip Progress, AI Gains Leave Intel Stock Poised to Outperform",
-      "excerpt": "I remain convinced that Intelâs (NASDAQ:) increased parity with AMD (NASDAQ:) when it comes to computer chips, along with Intelâs superiority in the vital field of AI, leave Intel stock poised to outperform the market and AMD stock over the longer term,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/chip-progress-ai-gains-leave-intel-stock-poised-to-outperform-2020-03-11",
-      "ampWebUrl": "https://www.nasdaq.com/articles/chip-progress-ai-gains-leave-intel-stock-poised-to-outperform-2020-03-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chip-progress-ai-gains-leave-intel-stock-poised-to-outperform-2020-03-11?amp",
-      "publishedDateTime": "2020-03-11T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?128964636",
-          "width": 1024,
-          "height": 512,
-          "title": "Chip Progress, AI Gains Leave Intel Stock Poised to Outperform",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -498,23 +771,23 @@
       ]
     },
     {
-      "path": "_news/2020-03-11-sd-times-news-digest-ibm-to-add-new-ai-capabilities-to-watson-threat-stack-supports-ruby-and-gitlabs-remote-work-report.md",
-      "title": "SD Times news digest: IBM to add new AI capabilities to Watson, Threat Stack supports Ruby, and GitLab’s Remote Work Report",
-      "excerpt": "IBM announced several new IBM Watson technologies designed to help organizations begin identifying ... capabilities to come from IBM Research’s Project Debater, an AI system capable of debating humans on complex topics, IBM explained. The company will focus on advanced sentiment analysis to make AI more capable of understanding complicated ...",
+      "path": "_news/2020-03-12-agtech-startups-use-machine-learning-to-analyze-farm-data.md",
+      "title": "Agtech Startups Use Machine Learning to Analyze Farm Data",
+      "excerpt": "Startups focused on agriculture and aquaculture technology are turning to cloud-based machine-learning services to process and analyze data so they can give customers better predictions on fertilizer needs,",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-ibm-to-add-new-ai-capabilities-to-watson-threat-stack-supports-ruby-and-gitlabs-remote-work-report/",
+      "webUrl": "https://www.wsj.com/articles/agtech-startups-use-machine-learning-to-analyze-farm-data-11583960555",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T07:54:00-07:00",
+      "publishedDateTime": "2020-03-12T07:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -526,113 +799,10 @@
       },
       "images": [
         {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/03/ibm-watson.png",
-          "width": 1026,
-          "height": 552,
-          "title": "SD Times news digest: IBM to add new AI capabilities to Watson, Threat Stack supports Ruby, and GitLab’s Remote Work Report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-advances-watsons-ability-to-understand-business-language.md",
-      "title": "IBM advances Watson's ability to understand business language",
-      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research's Project Debater -- an AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms for the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.webindia123.com/news/articles/Science/20200311/3518902.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology.md",
-      "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
-      "excerpt": "/PRNewswire/ -- Highlights: Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and Go, Synopsys' DSO.ai™ solution is able",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-301021331.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ai-provider-releases-social-determinants-of-health-tool.md",
-      "title": "AI provider releases social determinants of health tool",
-      "excerpt": "Jvion leveraged its own AI along with Microsoft Azure Maps to empower providers and health systems to address underserved populations. Jvion's social determinants of health platform also offers individualized interventions to aid in aligning community benefits more effectively. The platform is based on de-identified patient information.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/ai-provider-releases-social-determinants-of-health-tool.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg",
-          "width": 400,
-          "height": 300,
-          "title": "AI provider releases social determinants of health tool",
+          "url": "https://si.wsj.net/public/resources/images/B3-GH440_spainm_SOC_20200311141112.jpg",
+          "width": 900,
+          "height": 471,
+          "title": "Agtech Startups Use Machine Learning to Analyze Farm Data",
           "attribution": null
         }
       ],
@@ -646,300 +816,16 @@
       ]
     },
     {
-      "path": "_news/2020-03-11-intel-stock-is-poised-to-outperform-on-chip-and-ai-developments.md",
-      "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
-      "excerpt": "Intel’s chips are proving to be popular with AI developers, and it expects its upcoming Cooper chips to “enable AI systems to be trained up to 60% faster than their predecessors.” Moreover, as I wrote in a previous article on AMD: “According to Analytics India Magazine, AI chips made by Habana are four times better than graphics ...",
+      "path": "_news/2020-03-12-deep-north-closes-257-million-series-a-to-globalize-its-computer-vision-and-ai-powered-analytics-platform.md",
+      "title": "Deep North Closes $25.7 Million Series A To Globalize Its Computer Vision and AI-Powered Analytics Platform",
+      "excerpt": "/PRNewswire/ -- Deep North, a pioneer in computer vision and AI- powered video analytics, has closed a $25.7 million Series A funding round, led",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/",
-      "ampWebUrl": "https://investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/amp/",
-      "publishedDateTime": "2020-03-11T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/10/intc1600n.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-watson-improves-ability-to-understand-the-language-of-business.md",
-      "title": "IBM Watson improves ability to understand the language of business",
-      "excerpt": "The new technologies represent the first commercialisation of key natural language processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature has been developed to identify and analyse idioms and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.information-age.com/ibm-watson-improves-ability-to-understand-language-business-123488213/",
+      "webUrl": "https://www.prnewswire.com/news-releases/deep-north-closes-25-7-million-series-a-to-globalize-its-computer-vision-and-ai-powered-analytics-platform-301021818.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/03/ibm-watson-improves-ability-to-understand-language-business.jpeg",
-          "width": 1080,
-          "height": 608,
-          "title": "IBM Watson improves ability to understand the language of business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-smart-machines-market-is-expected-to-witness-cagr-of-193-during-the-forecast-period-2019-2027.md",
-      "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
-      "excerpt": "Market Overview A smart machine is an intelligent device embedded with machine-to-machine technology to perform various",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/smart-machines-market-is-expected-to-witness-cagr-of-193-during-the-forecast-period-2019-2027-2020-03-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-machine-learning-market-growth-factors-product-types-and-application-by-regions-analysis-and-forecast-by-2026.md",
-      "title": "Machine Learning Market Growth Factors, Product Types and Application by Regions Analysis and Forecast by 2026",
-      "excerpt": "Market Analysis: In accordance with the study held by Acumen Research, the Machine Learning Market size is projected to reach US$ 76.8 Bn by 2026 with a CAGR of 40.1% from 2019 to 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-growth-factors-product-types-and-application-by-regions-analysis-and-forecast-by-2026-2020-03-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Market Growth Factors, Product Types and Application by Regions Analysis and Forecast by 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-built-language-processing-ai-technology-that-was-a-hit-after-debating-against-humans-now-its-ready-for-businesses-needing-to-plow-through-data.md",
-      "title": "IBM built language-processing AI technology that was a hit after debating against humans. Now it's ready for businesses needing to plow through data.",
-      "excerpt": "IBM's AI head said the company is commercializing its famous \"Debater\" technology, which became a hit for debating with humans.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/ibm-debater-watson-ai-technology-available-to-businesses-2020-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ab2631798e6e51f008b45a7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM built language-processing AI technology that was a hit after debating against humans. Now it's ready for businesses needing to plow through data.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-new-york-times-best-selling-book-the-lean-startup-expands-series-with-newest-addition-lean-ai.md",
-      "title": "New York Times Best-Selling Book, The Lean Startup, Expands Series with Newest Addition, Lean AI",
-      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--The next book in the Lean Startup series by Eric Ries, and the first book from Lomit Patel, Lean AI will launch in bookstores across the country on March 17th. Published by O’Reilly Media, Lean AI dives into the power of artificial intelligence and automation to adapt, customize, and personalize cross-channel ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200311005108/en/New-York-Times-Best-Selling-Book-Lean-Startup",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200311005108/en/778928/23/AF_color_medium.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "New York Times Best-Selling Book, The Lean Startup, Expands Series with Newest Addition, Lean AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-researchers-unveil-ultra-precise-mind-controlled-prosthetic-its-like-you-have-a-hand-again.md",
-      "title": "Researchers Unveil Ultra-Precise, Mind-Controlled Prosthetic: ‘It’s like you have a hand again’",
-      "excerpt": "In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and amplified them to enable real-time, intuitive, finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings, separate thick nerve ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.goodnewsnetwork.org/u-of-m-researchers-unveil-ultra-precise-mind-controlled-prosthetic/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GoodNewsNetwork",
-        "domain": "goodnewsnetwork.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/03/Prosthetic-Arm-User-Evan-Dougherty-Michigan-Engineering.jpg",
-          "width": 1400,
-          "height": 874,
-          "title": "Researchers Unveil Ultra-Precise, Mind-Controlled Prosthetic: ‘It’s like you have a hand again’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
-      "title": "AI Recruitment Startup Talview Wins the 'Best AI Application for Societal Impact' Recognition at Microsoft's AI Awards 2.0",
-      "excerpt": "/PRNewswire/ -- AI Recruitment startup, Talview, has received the prestigious 'Best AI Application for Societal Impact' award in the partner category in",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-2-0--301021405.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T05:07:00-07:00",
+      "publishedDateTime": "2020-03-12T07:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
@@ -950,10 +836,10 @@
       },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1122612/Microsoft_AI_Awards.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
-          "title": "AI Recruitment Startup Talview Wins the 'Best AI Application for Societal Impact' Recognition at Microsoft's AI Awards 2.0",
+          "url": "https://mma.prnewswire.com/media/1122876/Deep_North_Logo.jpg?p=facebook",
+          "width": 707,
+          "height": 371,
+          "title": "Deep North Closes $25.7 Million Series A To Globalize Its Computer Vision and AI-Powered Analytics Platform",
           "attribution": null
         }
       ],
@@ -962,8 +848,66 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-swiss-re-announces-ai-data-tie-up-with-microsoft.md",
+      "title": "Swiss Re Announces AI Data Tie-Up With Microsoft",
+      "excerpt": "The service would be available to insurer clients, but also used internally to aid the company’s own pricing. As part of the deal, Swiss Re said it would move its internal operating system to Microsoft’s cloud product, Azure. That would enable the reinsurer to access “advanced data processing” and artificial intelligence systems ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.law360.com/articles/1252636/swiss-re-announces-ai-data-tie-up-with-microsoft",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1252636",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1252636",
+      "publishedDateTime": "2020-03-12T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-how-ai-could-help-translate-the-written-language-of-ancient-civilizations.md",
+      "title": "How AI could help translate the written language of ancient civilizations",
+      "excerpt": "But a technological breakthrough at the University of Chicago may finally make automated transcription of these tablets—which reveal rich information about Achaemenid history, society and language—possible ... Krishnan applies deep learning and AI techniques to data analysis, including video and other complex data types.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://phys.org/news/2020-03-ai-written-language-ancient-civilizations.html",
+      "ampWebUrl": "https://phys.org/news/2020-03-ai-written-language-ancient-civilizations.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-ai-written-language-ancient-civilizations.amp",
+      "publishedDateTime": "2020-03-12T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

@@ -2,6 +2,244 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-19-energy-industry-turning-to-robotics-to-inspect-infrastructure.md",
+      "title": "Energy industry turning to robotics to inspect infrastructure",
+      "excerpt": "Gecko Robotics is providing the energy industry with artificial intelligence-enabled robots to inspect infrastructure and supply massive amounts of data to help predict failures before they occur.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mrt.com/business/oil/article/Energy-industry-turning-to-robotics-to-inspect-15210735.php",
+      "ampWebUrl": "https://www.mrt.com/business/oil/amp/Energy-industry-turning-to-robotics-to-inspect-15210735.php",
+      "cdnAmpWebUrl": "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/business/oil/amp/Energy-industry-turning-to-robotics-to-inspect-15210735.php",
+      "publishedDateTime": "2020-04-18T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Midland Reporter-Telegram",
+        "domain": "mrt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "Energy industry turning to robotics to inspect infrastructure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-18-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-64-higher.md",
+      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading 6.4% Higher",
+      "excerpt": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) shares traded up 6.4% on Friday . The stock traded as high as $6.27 and last traded at $6.16, 251,800 shares changed hands during trading. An increase of 79% from the average session volume of 140,834 shares. The stock had previously closed at $5.79.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html/amp",
+      "publishedDateTime": "2020-04-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading 6.4% Higher",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future.md",
+      "title": "COVID-19: How artificial intelligence can help companies plan for the future",
+      "excerpt": "Karen Roby speaks with Dataminr's Jen Jones about the role of artificial intelligence in the coronavirus crisis and why information is ... 1:39 Cross-Training Tool Kit IT Data Center Green Energy Policy Internet and Email Usage policy Hiring Kit: Robotics Engineer",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/videos/covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/16/abc977fe-63e7-448f-b067-9fc0dd4897b1/thumbnail/770x578/50436816b34395c42e50fa63a9b22279/20200413-dataminr-karen.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "COVID-19: How artificial intelligence can help companies plan for the future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-robotaxi-service-ponyai-begins-offering-autonomous-deliveries.md",
+      "title": "Robotaxi Service Pony.Ai Begins Offering Autonomous Deliveries",
+      "excerpt": "As delivery services are being stretched thin, delivery robot and robotaxi companies are looking to pick up the slack. First NAVYA repurposed its self-driving shuttles to deliver COVID-19 tests to the Mayo Clinic in Florida, and now Pony.ai is transforming 10 of its Hyundai Kona Electrics as delivery vehicles. Chinese robotaxi startup Pony.ai ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.caranddriver.com/news/a32188633/robotaxi-service-ponyai-autonomous-deliveries/",
+      "ampWebUrl": "https://www.caranddriver.com/news/amp32188633/robotaxi-service-ponyai-autonomous-deliveries/",
+      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp32188633/robotaxi-service-ponyai-autonomous-deliveries/",
+      "publishedDateTime": "2020-04-16T23:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Car and Driver",
+        "domain": "caranddriver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pony-ai-yamibuy-delivery-service-jpg-1587143386.jpg?crop=1.00xw:0.754xh;0,0.236xh&resize=1200:*",
+          "width": 600,
+          "height": 302,
+          "title": "Robotaxi Service Pony.Ai Begins Offering Autonomous Deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-ai-robotics-start-ups-leverage-tools-to-combat-covid-19.md",
+      "title": "AI, robotics start-ups leverage tools to combat Covid-19",
+      "excerpt": "As India battles to contain the spread of coronavirus, artificial intelligence and technology start-ups in the country are leveraging their tools and solutions to help those in the frontline combat the crisis. Invento Robotics, a Bengaluru-based start-up, has been re-purposing its robots — to screening and diagnostics robots — to help ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/",
+      "publishedDateTime": "2020-04-16T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/opinion/columns/from-the-viewsroom/qtcfto/article30934970.ece/ALTERNATES/LANDSCAPE_615/BL28THINKFTV",
+          "width": 615,
+          "height": 384,
+          "title": "AI, robotics start-ups leverage tools to combat Covid-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-kebotix-raises-115-million-to-automate-lab-experiments-with-ai-and-robotics.md",
+      "title": "Kebotix raises $11.5 million to automate lab experiments with AI and robotics",
+      "excerpt": "Kebotix, a startup developing AI tools to expedite the discovery of chemicals ... Perhaps unsurprisingly, in a recent survey of 100 pharmaceutical executives, Pharma IQ found that 94% believe intelligent automation technologies like robots and AI will make an impact on lab practices within two years. “In a short period, Kebotix has managed ...",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/",
+      "publishedDateTime": "2020-04-16T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/7e0fd2ea-d4bb-4524-8980-e9a4a4bc93d3-e1586978829363.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Kebotix raises $11.5 million to automate lab experiments with AI and robotics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-roboads-develops-new-robots-to-aid-healthcare-security-staff.md",
       "title": "RoboAds develops new robots to aid healthcare, security staff",
       "excerpt": "UAE based Robotics startup, RoboAds Inc, has developed a new generation of telepresence robots to ... The robot utilises the latest advancements in AI, machine learning, digital signage and video analytics. It can analyse the number of visitors, age, gender and emotions. RoboAds team, the company said, is dedicated towards developing advanced ...",
@@ -989,254 +1227,6 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-emil-miso-robotics-launches-crowdfunding-campaign-for-autonomous-kitchen-robots.md",
-      "title": "Emil Miso Robotics launches crowdfunding campaign for autonomous kitchen robots",
-      "excerpt": "Today marks the official start of Miso Robotics‘ series C equity crowdfunding campaign ... On the software side, it benefits from improvements to Miso AI (Miso’s cloud-based platform) that expand the number of cookable food categories to over a dozen, including chicken tenders, chicken wings, tater tots, french fries and waffle fries ...",
-      "heat": 125,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/miso-robotics-launches-fundraising-campaign-to-develop-autonomous-kitchen-robots/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/miso-robotics-launches-fundraising-campaign-to-develop-autonomous-kitchen-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/miso-robotics-launches-fundraising-campaign-to-develop-autonomous-kitchen-robots/amp/",
-      "publishedDateTime": "2020-04-07T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE-1-e1579804235265.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Emil Miso Robotics launches crowdfunding campaign for autonomous kitchen robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-kc-robotics-company-gets-2m-investment-from-umb-bank.md",
-      "title": "KC robotics company gets $2M investment from UMB Bank",
-      "excerpt": "Among Tesseract Ventures' aims are turning memories into something more than a 2-D picture and the future of the greeting card.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/kansascity/news/2020/04/06/umb-tesseract-ventures-investment-robotics-ai.html",
-      "ampWebUrl": "https://www.bizjournals.com/kansascity/news/2020/04/06/umb-tesseract-ventures-investment-robotics-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/kansascity/news/2020/04/06/umb-tesseract-ventures-investment-robotics-ai.amp.html",
-      "publishedDateTime": "2020-04-06T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11642345/john-boucard-headshot*600xx2134-1417-0-164.jpg",
-          "width": 600,
-          "height": 398,
-          "title": "KC robotics company gets $2M investment from UMB Bank",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-cvg-becomes-first-us-airport-to-have-autonomous-robots-cleaning.md",
-      "title": "CVG becomes first U.S. airport to have autonomous robots cleaning",
-      "excerpt": "Cincinnati/Northern Kentucky International Airport is the first U.S. airport to use a certain type of robot to clean its floors, a practice that started earlier this year but has become even more useful given the COVID19 crisis.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.html",
-      "ampWebUrl": "https://www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.amp.html",
-      "publishedDateTime": "2020-04-06T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11642104/neocvg2*600xx3281-2187-0-0.png",
-          "width": 600,
-          "height": 399,
-          "title": "CVG becomes first U.S. airport to have autonomous robots cleaning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money.md",
-      "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
-      "excerpt": "Investment firms use prompts to help customers make better financial decisions.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
-      "publishedDateTime": "2020-04-05T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-172689/social",
-          "width": 1280,
-          "height": 640,
-          "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-04-artificial-or-human-intelligence-companies-faking-ai.md",
-      "title": "Artificial Or Human Intelligence? Companies Faking AI",
-      "excerpt": "Some companies are choosing to approach these AI challenges not by scaling back their AI ambitions, but rather by using humans to do the task that they are otherwise trying to get their AI systems to",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/",
-      "publishedDateTime": "2020-04-04T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1126179832%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6480%26cropY1%3D292%26cropY2%3D3936",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial Or Human Intelligence? Companies Faking AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic.md",
-      "title": "This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic",
-      "excerpt": "Vicarious, an AI software company, is training a growing fleet of industrial robots to carry out manufacturing jobs that only could only be performed by human beings until now. Their fleet is imbued with a \"layer general intelligence\" that allows them to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic",
-      "ampWebUrl": "https://in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic?amp=1",
-      "publishedDateTime": "2020-04-03T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/feature/t/this-ai-st/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid_wgfw.620.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

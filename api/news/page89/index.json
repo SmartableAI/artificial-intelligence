@@ -2,30 +2,30 @@
   "page": 89,
   "value": [
     {
-      "path": "_news/2020-03-18-artificial-intelligence-helps-prevent-disruptions-in-fusion-devices.md",
-      "title": "Artificial intelligence helps prevent disruptions in fusion devices",
-      "excerpt": "has demonstrated the use of Artificial Intelligence (AI), the same computing concept that will empower self-driving cars, to predict and avoid disruptions -- the sudden release of energy stored in ...",
+      "path": "_news/2020-03-19-comment-busting-the-myths-of-autonomous-vehicles.md",
+      "title": "Comment: Busting the myths of autonomous vehicles",
+      "excerpt": "The electric and driverless vehicle offers a vision of the future – but JLR promises it ... taking up less space on the road and allowing traffic to move in a mathematically optimised way. The artificial intelligence behind the vehicles should allow for traffic management; cities with autonomous networks will be able to manage the flow ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://eurekalert.org/pub_releases/2020-03/dppl-aih031720.php",
+      "webUrl": "https://fleetworld.co.uk/comment-busting-the-myths-of-autonomous-vehicles/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:56:00-07:00",
+      "publishedDateTime": "2020-03-19T05:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Fleet World",
+        "domain": "fleetworld.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/227200_web.jpg",
-          "width": 1440,
-          "height": 523,
-          "title": "Artificial intelligence helps prevent disruptions in fusion devices",
+          "url": "https://fleetworld.co.uk/wp-content/uploads/2020/03/Alfonso-Martinez-091.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Comment: Busting the myths of autonomous vehicles",
           "attribution": null
         }
       ],
@@ -39,172 +39,16 @@
       ]
     },
     {
-      "path": "_news/2020-03-18-is-python-storming-ahead-of-java-in-fintech.md",
-      "title": "Is Python storming ahead of Java in fintech?",
-      "excerpt": "Harris sees momentum being driven by the appetite for data and AI projects, rather than purely fintech, among the bigger banks. According to Harris: “A larger factor could be the popularity of Python in machine learning and data science – in solving challenges in analytics, regulation, compliance, and data. Tasks which are made easier by ...",
+      "path": "_news/2020-03-19-natural-language-processing-market-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast.md",
+      "title": "Natural Language Processing Market Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast",
+      "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest revenue by 2026.Fortune Business Insights™ in its latest report published this information.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.finextra.com/the-long-read/28/is-python-storming-ahead-of-java-in-fintech",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast-2020-03-19",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/oped/28.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Is Python storming ahead of Java in fintech?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-a-chinese-firm-claims-it-has-built-facial-recognition-tech-that-identifies-people-wearing-masks-with-95-accuracy.md",
-      "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
-      "excerpt": "People have foiled facial recognition technologies by wearing masks during the coronavirus outbreak.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
-      "publishedDateTime": "2020-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e5cf6c9fee23d6b777b3ed4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-how-china-built-facial-recognition-for-people-wearing-masks.md",
-      "title": "How China built facial recognition for people wearing masks",
-      "excerpt": "Hanwang, the facial-recognition company that has placed 2 million of its cameras at entrance gates across the world, started preparing for the coronavirus in early January. Huang Lei, the company’s chief technical officer, said that even before the new virus was widely known about, he had begun to get requests from hospitals at the centre of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://arstechnica.com/tech-policy/2020/03/how-china-built-facial-recognition-for-people-wearing-masks/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-specialized-processors-accelerate-endpoint-ai-workloads.md",
-      "title": "Specialized processors accelerate endpoint AI workloads",
-      "excerpt": "(Image: Texas Instruments Inc.) Nvidia’s well-known Jetson Nano is a small but powerful graphics processing unit (GPU) module for AI applications in endpoint devices. Built on the same Maxwell architecture as larger members of the Jetson family (AGX Xavier and TX2), the GPU on the Nano module has 128 cores and is capable of 0.5 TFLOPS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded.com/specialized-processors-accelerate-endpoint-ai-workloads/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200318091424Top-10-processors-for-AI-acceler_0.jpg?resize=1024,576",
-          "width": 1024,
-          "height": 576,
-          "title": "Specialized processors accelerate endpoint AI workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-natural-language-processing-nlp-market-2019-trends-market-share-growth-opportunity-and-2027.md",
-      "title": "Natural Language Processing (NLP) Market 2019: Trends, Market Share, Growth, Opportunity And 2027",
-      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-trends-market-share-growth-opportunity-and-2027-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:11:00-07:00",
+      "publishedDateTime": "2020-03-19T05:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -226,7 +70,7 @@
           "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
-          "title": "Natural Language Processing (NLP) Market 2019: Trends, Market Share, Growth, Opportunity And 2027",
+          "title": "Natural Language Processing Market Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast",
           "attribution": null
         }
       ],
@@ -240,140 +84,30 @@
       ]
     },
     {
-      "path": "_news/2020-03-18-ai-product-analytics-startup-convizit-closes-a-5-million-seed-round-led-by-pitango-venture-capital.md",
-      "title": "AI Product Analytics Startup Convizit Closes a $5 Million Seed Round Led by Pitango Venture Capital",
-      "excerpt": "/PRNewswire/ -- Convizit, a startup applying unique AI technologies to disrupt the product analytics market, announced today the closing of a $5M seed",
+      "path": "_news/2020-03-19-is-ices-use-of-a-maryland-facial-recognition-database-lawful.md",
+      "title": "Is ICE’s Use of a Maryland Facial Recognition Database Lawful?",
+      "excerpt": "The Washington Post reported recently that U.S. Immigration and Customs Enforcement (ICE) officials have accessed, without obtaining judicial process, a Maryland facial recognition database that contains photographs of more than 275,000 undocumented immigrants who have obtained special driver’s licenses under a 2013 state law. “It’s a bet ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/ai-product-analytics-startup-convizit-closes-a-5-million-seed-round-led-by-pitango-venture-capital-301026080.html",
+      "webUrl": "https://www.lawfareblog.com/ices-use-maryland-facial-recognition-database-lawful",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:00:00-07:00",
+      "publishedDateTime": "2020-03-19T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Lawfare",
+        "domain": "lawfareblog.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "AI Product Analytics Startup Convizit Closes a $5 Million Seed Round Led by Pitango Venture Capital",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-enzo-villani-former-nasdaq-strategist-and-fintech-ma-executive-raising-100-million-for-new-hedge-fund-focused-on-blockchain-and-digital-currencies.md",
-      "title": "Enzo Villani, Former Nasdaq Strategist and Fintech M&A Executive Raising $100 Million for New Hedge Fund Focused on Blockchain and Digital Currencies",
-      "excerpt": "Alpha Sigma Capital combines executives from Wall Street, digital currency and private equity to fund blockchain companies that demonstrate promise.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/18/2002586/0/en/Enzo-Villani-Former-Nasdaq-Strategist-and-Fintech-M-A-Executive-Raising-100-Million-for-New-Hedge-Fund-Focused-on-Blockchain-and-Digital-Currencies.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-lanner-teams-with-gorilla-technology-to-launch-secure-edge-ai-appliance.md",
-      "title": "Lanner Teams with Gorilla Technology to Launch Secure Edge AI Appliance",
-      "excerpt": "/PRNewswire/ -- Lanner Electronics, a world leader in design and manufacturing of intelligent edge appliances, announced partnering with Gorilla",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/lanner-teams-with-gorilla-technology-to-launch-secure-edge-ai-appliance-301025613.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1134798/Lanner_Gorilla_Edge_AI.jpg?p=facebook",
-          "width": 1265,
-          "height": 664,
-          "title": "Lanner Teams with Gorilla Technology to Launch Secure Edge AI Appliance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-heres-what-facebooks-internal-facial-recognition-app-looked-like.md",
-      "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
-      "excerpt": "Facebook developed an internal facial recognition app that allowed users to scan peoples' faces and identify them. Images obtained by Motherboard now show what that app looked like. Business Insider first reported the existence of Facebook's facial recognition app in November last year. The app, made between 2015 and 2016, was available to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/k7ekmv/facebook-facial-recognition-app",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/k7ekmv/facebook-facial-recognition-app",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/k7ekmv/facebook-facial-recognition-app",
-      "publishedDateTime": "2020-03-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e6fb419fce7bf009dc0fe79/lede/1584379361591-facebook-app-logo.jpeg?crop=1xw:0.8432xh;0xw,0xh",
-          "width": 2000,
-          "height": 1123,
-          "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
+          "url": "https://lawfare.s3-us-west-2.amazonaws.com/staging/s3fs-public/1230px-Face_Recognition_3252983.png",
+          "width": 1230,
+          "height": 1024,
+          "title": "Is ICE’s Use of a Maryland Facial Recognition Database Lawful?",
           "attribution": null
         }
       ],
@@ -387,30 +121,30 @@
       ]
     },
     {
-      "path": "_news/2020-03-18-axon-announces-new-svp-of-artificial-intelligence.md",
-      "title": "Axon Announces New SVP of Artificial Intelligence",
-      "excerpt": "/PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, today announced the addition of Yasser Ibrahim as Axon's SVP",
+      "path": "_news/2020-03-19-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-3-million-in-seed-funding.md",
+      "title": "UK-based Fintech Payhawk, a Corporate Expense Management Solution Provider, Secures €3 Million in Seed Funding",
+      "excerpt": "UK-based Fintech Payhawk, a corporate expense management solution provider, secures €3 million in seed funding.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/axon-announces-new-svp-of-artificial-intelligence-301025902.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T04:30:00-07:00",
+      "webUrl": "https://www.crowdfundinsider.com/2020/03/159008-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-e3-million-in-seed-funding/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/159008-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-e3-million-in-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/159008-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-e3-million-in-seed-funding/amp/",
+      "publishedDateTime": "2020-03-19T04:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1135083/Yasser_Ibrahim.jpg?p=facebook",
-          "width": 5157,
-          "height": 2699,
-          "title": "Axon Announces New SVP of Artificial Intelligence",
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Payhawk-300x228.jpg",
+          "width": 300,
+          "height": 228,
+          "title": "UK-based Fintech Payhawk, a Corporate Expense Management Solution Provider, Secures €3 Million in Seed Funding",
           "attribution": null
         }
       ],
@@ -419,21 +153,21 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-03-18-deep-learning-market-size-record-booming-511-cagr-by-2020-to-2026.md",
-      "title": "Deep Learning Market Size Record Booming 51.1% CAGR by 2020 to 2026",
-      "excerpt": "The global Deep Learning market is analyzed to grow at a CAGR of around 51.1% during the forecast period and projected to reach the market value over US$ 56,427.2 Mn in 2027. The study provides an extensive market evaluation and includes thorough ideas,",
+      "path": "_news/2020-03-19-artificial-intelligence-advanced-machine-learning-market-growth-and-key-industry-players-2020-analysis-and-forecasts-to-2026.md",
+      "title": "Artificial Intelligence & Advanced Machine Learning Market Growth and key Industry Players 2020 Analysis and Forecasts to 2026",
+      "excerpt": "According to BlueWeave Consulting, The global Artificial Intelligence market & Advanced Machine has reached USD 29.8 Billion in 2019 and projected to reach USD 281.24 Billion by 2026 and anticipated to grow with CAGR of 37.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-record-booming-511-cagr-by-2020-to-2026-2020-03-18",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-growth-and-key-industry-players-2020-analysis-and-forecasts-to-2026-2020-03-19",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T04:22:00-07:00",
+      "publishedDateTime": "2020-03-19T04:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -455,7 +189,7 @@
           "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
-          "title": "Deep Learning Market Size Record Booming 51.1% CAGR by 2020 to 2026",
+          "title": "Artificial Intelligence & Advanced Machine Learning Market Growth and key Industry Players 2020 Analysis and Forecasts to 2026",
           "attribution": null
         }
       ],
@@ -469,455 +203,30 @@
       ]
     },
     {
-      "path": "_news/2020-03-18-attendance-via-facial-recognition-with-temperature-screening-now-available-in-india.md",
-      "title": "Attendance Via Facial Recognition With Temperature Screening Now Available in India",
-      "excerpt": "Ramco Systems unveils advanced facial attendance system embedded with temperature recording. Chennai: Enterprise software company Ramco Systems on Wednesday unveils an advanced facial attendance system embedded with temperature recording which will help organisations improve employees’ safety right at the entrance door. Called RamcoGEEK ...",
+      "path": "_news/2020-03-19-bioxcel-therapeutics-provides-an-update-on-its-ongoing-phase-3-serenity-trials.md",
+      "title": "BioXcel Therapeutics Provides an Update on its Ongoing Phase 3 SERENITY Trials",
+      "excerpt": "A non-invasive therapy that causes rapid symptom relief and de-escalates agitation may be ... About BioXcel Therapeutics, Inc.: BioXcel Therapeutics, Inc. is a clinical-stage biopharmaceutical company utilizing artificial intelligence to identify improved therapies in neuroscience and immuno-oncology. BTI's drug re-innovation approach leverages ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/",
-      "ampWebUrl": "https://www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/amp/",
-      "publishedDateTime": "2020-03-18T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2020/03/b1142c3c810f8aa113112dc5c17841d8.jpg",
-          "width": 700,
-          "height": 415,
-          "title": "Attendance Via Facial Recognition With Temperature Screening Now Available in India",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-here-to-help-formations-comes-out-of-stealth-to-help-full-time-self-employed-maximize-their-financial-gains.md",
-      "title": "Here to Help: Formations Comes Out of Stealth to Help Full-Time Self-Employed Maximize Their Financial Gains",
-      "excerpt": "The Kirkland-Based Fintech Startup Embraces the Latest Cloud-Accounting Technology, Big Data and Machine Learning to Detect Patterns and Find Opportunities for Smarter Financial Decisions That Can Add Up to $20,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15578143/here-to-help-formations-comes-out-of-stealth-to-help-full-time-self-employed-maximize-their-financ",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15578143",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15578143",
-      "publishedDateTime": "2020-03-18T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses.md",
-      "title": "Deepgram raises $12 million to train custom speech recognition models for businesses",
-      "excerpt": "Deepgram, a Y Combinator graduate building tailored speech recognition models, today announced it has raised $12 million in series A financing. CEO and cofounder Scott Stephenson says the proceeds will bolster the development of Deepgram’s platform, which helps enterprises to process meeting, call, and presentation recordings. If all goes ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/18/deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/18/deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/18/deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses/amp/",
-      "publishedDateTime": "2020-03-18T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/voice-recognition.shutterstock_10831770921-e1584378309976.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Deepgram raises $12 million to train custom speech recognition models for businesses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-deepgram-raises-12m-for-enterprise-speech-recognition.md",
-      "title": "Deepgram raises $12M for enterprise speech recognition",
-      "excerpt": "Deepgram, a startup focused on high-quality, real-time speech recognition, announced a $12 million Series A this morning. The startup, founded a half decade ago, according to Crunchbase data, with just a few million in raised capital, is interesting, as its success to date was founded on two consecutive experiments. The first dealing with its ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/18/deepgram-raises-12m-for-enterprise-speech-recognition/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/18/deepgram-raises-12m-for-enterprise-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/18/deepgram-raises-12m-for-enterprise-speech-recognition/amp/",
-      "publishedDateTime": "2020-03-18T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-491580488.jpg?w=1024",
-          "width": 1024,
-          "height": 767,
-          "title": "Deepgram raises $12M for enterprise speech recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-ibm-talks-up-deeper-language-smarts-for-watson.md",
-      "title": "IBM talks up deeper language smarts for Watson",
-      "excerpt": "“Language is a tool for expressing thought and opinion, as much as it is a tool for information,” said Rob Thomas, general manager, IBM Data and AI. “This is why we’re harvesting technology from Project Debater and integrating it into Watson – to enable businesses to capture, analyse, and understand more from human language and start ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.html",
-      "ampWebUrl": "https://www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.amp.html",
-      "publishedDateTime": "2020-03-18T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/09/11_everyone-has-a-voice_point-of-view_speaking_communication_megaphone-100771142-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM talks up deeper language smarts for Watson",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform-at-fca.md",
-      "title": "Cerence Powers Voice for All-New Uconnect 5 Global Infotainment Platform at FCA",
-      "excerpt": "Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive in-car experiences Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autoblog.com/press-releases/cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform--at-fca_22558/",
+      "webUrl": "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-provides-an-update-its-ongoing-phase-/2020/03/19/9117710.htm",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T03:18:00-07:00",
+      "publishedDateTime": "2020-03-19T04:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-oneconnect-joins-idcs-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia.md",
-      "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
-      "excerpt": "IDC’s FinTech Fast 101 was based upon extensive ... Lastly, OneConnect’s rapid respond to customers’ demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200318005262/en/OneConnect-Joins-IDC’s-Financial-Insights’-FinTech-Fast",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/23/IDC.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-canon-medicals-3t-mr-system-receives-fda-clearance-for-artificial-intelligence-based-image-reconstruction-technology.md",
-      "title": "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology",
-      "excerpt": "AiCE was trained using vast amounts of high-quality image data, and features a deep learning neural network that can reduce noise and boost signal to quickly deliver sharp, clear and distinct images, further opening doors for advancements in MR imaging. Capabilities include: “AiCE utilizes a next generation approach to MR image reconstruction ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200318005103/en/Canon-Medical’s-3T-System-Receives-FDA-Clearance",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200318005103/en/706033/23/3724089_3724081_Canon_Medical_Systems_Corpration_USA_Red_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-axon-names-dr-wael-abd-almageed-to-ai-ethics-board-jeff-kunins-quoted.md",
-      "title": "Axon Names Dr. Wael Abd-Almageed to AI Ethics Board; Jeff Kunins Quoted",
-      "excerpt": "Axon (Nasdaq: AAXN) has appointed three new members to its AI Ethics Board, including Dr. Wael Abd-Almageed, the company announced on Tuesday. The board was established in April 2018 to guide the responsible development and use of AI-powered technologies being developed. \"Our new AI Ethics Board members bring a wealth of knowledge and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govconwire.com/2020/03/axon-names-dr-wael-abd-almageed-to-ai-ethics-board-jeff-kunins-quoted/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://govconwire-media.s3.amazonaws.com/2020/03/18/2c/ab/57/f7/9d/73/eb/c4/servlet-9.filedownload",
-          "width": 272,
-          "height": 270,
-          "title": "Axon Names Dr. Wael Abd-Almageed to AI Ethics Board; Jeff Kunins Quoted",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-natural-language-processing-nlp-market-overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2025.md",
-      "title": "Natural Language Processing (NLP) Market- Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2025",
-      "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market--overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market- Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-at-aws-cloud-day-2020-in-jaipur-aws-architects-and-customers-share-their-experiences-on-aws-cloud-solutions.md",
-      "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
-      "excerpt": "On February 19, Amazon Web Services (AWS) organised the AWS Cloud Day in Jaipur. AWS solution architects, industry veterans and startups took to the stage to discuss Artificial Intelligence (AI), Machine Learning (ML), SAP, migration, cloud architecture, and how Amazon’s Cloud solutions are helping startups scale. The event was packed with ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud",
-      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
-      "publishedDateTime": "2020-03-18T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1584522154228.png?fm=png&auto=format",
-          "width": 801,
-          "height": 401,
-          "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026.md",
-      "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
-      "excerpt": "Artificial Intelligence in Healthcare Market To Expand Rapidly at Notable CAGR as the various factors mentioned in",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
+          "url": "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg",
+          "width": 252,
+          "height": 335,
+          "title": "BioXcel Therapeutics Provides an Update on its Ongoing Phase 3 SERENITY Trials",
           "attribution": null
         }
       ],
@@ -931,30 +240,30 @@
       ]
     },
     {
-      "path": "_news/2020-03-18-5-elements-of-a-comprehensive-government-ai-strategy.md",
-      "title": "5 Elements of a Comprehensive Government AI Strategy",
-      "excerpt": "Strategy architects should identify appropriate performance metrics for the AI, adopt data ethics guardrails, and explicitly define performance standards in terms of accuracy, explainability, transparency and preventing bias. An AI upgrade may require platform, data and technical upgrades. The U.S. Department of Health and Human Services ...",
+      "path": "_news/2020-03-19-google-translate-now-enables-you-to-transcribe-speech.md",
+      "title": "Google Translate now enables you to transcribe speech",
+      "excerpt": "... transcribe speech in real time - meaning that if you're at an event and someone starts speaking in another language, you can understand what's going on. A key point is that it's not going to replace translation services like Otter.ai for chunks of text yet. For example, it won't deal fully with multiple speaker conversations and enable you ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.governing.com/next/5-Elements-of-a-Comprehensive-Government-AI-Strategy.html",
-      "ampWebUrl": "https://www.governing.com/next/5-Elements-of-a-Comprehensive-Government-AI-Strategy.html?AMP",
-      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/5-Elements-of-a-Comprehensive-Government-AI-Strategy.html?AMP",
-      "publishedDateTime": "2020-03-18T01:05:00-07:00",
+      "webUrl": "https://www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech",
+      "ampWebUrl": "https://www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech.amphtml",
+      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech.amphtml",
+      "publishedDateTime": "2020-03-19T04:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Governing",
-        "domain": "governing.com",
+        "name": "Pocket-lint",
+        "domain": "pocket-lint.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://media2.govtech.com/images/amazon+echo.jpg",
-          "width": 770,
-          "height": 513,
-          "title": "5 Elements of a Comprehensive Government AI Strategy",
+          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/151499-apps-news-google-translate-now-enables-you-to-transcribe-speech-image1-hdvtbcdk05.jpg",
+          "width": 945,
+          "height": 630,
+          "title": "Google Translate now enables you to transcribe speech",
           "attribution": null
         }
       ],
@@ -963,7 +272,702 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-how-machine-learning-fights-financial-fraud.md",
+      "title": "How Machine Learning Fights Financial Fraud",
+      "excerpt": "We have e-shops, online banking, online insurances, and tons of other online services. But there’s one more thing we have ... So companies are forced to look for new solutions to prevent, detect, and eliminate fraud. And machine learning seems to be the best answer to financial fraud. How does it work, what are the benefits, and who ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cpomagazine.com/cyber-security/how-machine-learning-fights-financial-fraud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2020/03/how-machine-learning-fights-financial-fraud_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": "How Machine Learning Fights Financial Fraud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning.md",
+      "title": "Hybrid AI systems are quietly solving the problems of deep learning",
+      "excerpt": "Deep learning, the main innovation that has renewed interest in artificial intelligence in the past years, has helped solve many critical problems in computer vision, natural language processing, and speech recognition. However, as the deep learning matures and moves from hype peak to its trough of disillusionment, it is becoming clear that it ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/syndication/2020/03/19/hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/1-copy-1-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Hybrid AI systems are quietly solving the problems of deep learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-multi-modular-ai-approach-to-streamline-autism-diagnosis-in-young-children.md",
+      "title": "Multi-modular AI Approach to Streamline Autism Diagnosis in Young Children",
+      "excerpt": "Autism has become a pressing healthcare challenge. The instruments used to aid diagnosis are time and labor expensive and require trained clinicians to administer, leading to long wait times for at-risk children.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41598-020-61213-w",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61213-w/MediaObjects/41598_2020_61213_Fig1_HTML.png",
+          "width": 685,
+          "height": 365,
+          "title": "Multi-modular AI Approach to Streamline Autism Diagnosis in Young Children",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-artificial-intelligence-driven-scanning-probe-microscopy.md",
+      "title": "Artificial-intelligence-driven scanning probe microscopy",
+      "excerpt": "Enabling atomic-precision mapping and manipulation of surfaces, scanning probe microscopy requires constant human supervision to assess image quality and probe conditions. Here, the authors demonstrate DeepSPM,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s42005-020-0317-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42005-020-0317-3/MediaObjects/42005_2020_317_Fig1_HTML.png",
+          "width": 636,
+          "height": 685,
+          "title": "Artificial-intelligence-driven scanning probe microscopy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-test-time-augmentation-for-deep-learning-based-cell-segmentation-on-microscopy-images.md",
+      "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
+      "excerpt": "Recent advancements in deep learning have revolutionized the way microscopy images of cells are processed. Deep learning network architectures have a large number of parameters, thus, in order to reach high accuracy,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41598-020-61808-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61808-3/MediaObjects/41598_2020_61808_Fig1_HTML.png",
+          "width": 685,
+          "height": 319,
+          "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-automatic-optic-nerve-head-localization-and-cup-to-disc-ratio-detection-using-state-of-the-art-deep-learning-architectures.md",
+      "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
+      "excerpt": "Computer vision has greatly advanced recently. Since AlexNet was first introduced, many modified deep learning architectures have been developed and they are still evolving. However, there are few studies comparing these architectures in the field of ophthalmology.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41598-020-62022-x",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-62022-x/MediaObjects/41598_2020_62022_Fig1_HTML.png",
+          "width": 685,
+          "height": 502,
+          "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-explaining-machine-learning-models-to-the-business.md",
+      "title": "Explaining machine learning models to the business",
+      "excerpt": "Explainable machine learning is a sub-discipline of artificial intelligence (AI) and machine learning that attempts to summarize ... H2O.ai Figure 1: Explanations created by H2O Driverless AI. These explanations are probably better suited for data scientists than for business users. For issue 1, I’m going to assume that you want to use ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.amp.html",
+      "publishedDateTime": "2020-03-19T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/03/thinkstockphotos-523692007-100648034-large3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Explaining machine learning models to the business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-how-artificial-intelligence-will-impact-your-business-in-2020.md",
+      "title": "How Artificial Intelligence Will Impact Your Business in 2020",
+      "excerpt": "Robotics Process Optimizations may be an unfamiliar term to some ... transcending issues that threaten to hold them back and overcoming difficulties in today’s complex business landscape. Artificial intelligence is becoming more widely used every day, and that will only increase moving forward. IDC predicts that by 2025, 75 percent of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://independentretailer.com/2020/03/19/how-artificial-intelligence-will-impact-your-business-in-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent Retailer",
+        "domain": "independentretailer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://independentretailer.com/wp-content/uploads/2020/03/artificial-intelligence-300x188.png",
+          "width": 2154,
+          "height": 1350,
+          "title": "How Artificial Intelligence Will Impact Your Business in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-artificial-intelligence-in-retail-market-2023-size-share-business-growth-competitive-landscape-historical-analysis-and-forecast.md",
+      "title": "Artificial Intelligence in Retail Market 2023 Size, Share, Business Growth, Competitive Landscape, Historical Analysis and Forecast",
+      "excerpt": "Artificial Intelligence in Retail Market Global Artificial Intelligence in Retail Market, Application",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2023-size-share-business-growth-competitive-landscape-historical-analysis-and-forecast-2020-03-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Retail Market 2023 Size, Share, Business Growth, Competitive Landscape, Historical Analysis and Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-artificial-intelligence-review-of-physician-notes-discerns-types-of-lower-back-pain.md",
+      "title": "Artificial intelligence review of physician notes discerns types of lower back pain",
+      "excerpt": "Researchers from the Icahn School of Medicine at Mount Sinai developed an artificial intelligence model that can scan physicians’ notes and distinguish between acute and chronic lower back pain, according to findings published in the Journal of Medical Internet Research. “Several studies have documented increases in medication prescriptions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.healio.com/rheumatology/spondyloarthropathies/news/online/{3bb9d677-4518-4e92-9f6b-a50515118222}/artificial-intelligence-review-of-physician-notes-discerns-types-of-lower-back-pain",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healio",
+        "domain": "healio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.healio.com/~/media/slack-news/stock-images/rheumatology/b/bigdata_doctor.jpg",
+          "width": 407,
+          "height": 269,
+          "title": "Artificial intelligence review of physician notes discerns types of lower back pain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-global-forecast-for-artificial-intelligence-in-supply-chains-to-2026-researchandmarketscom.md",
+      "title": "Global Forecast for Artificial Intelligence In Supply Chains to 2026 - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence In Supply Chain (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually it ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200319005265/en/Global-Forecast-Artificial-Intelligence-Supply-Chains-2026",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200319005265/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Global Forecast for Artificial Intelligence In Supply Chains to 2026 - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-natural-language-processing-and-recognition-2020-global-trends-opportunities-market-size-share-status-swot-analysis-and-forecast-to-2026.md",
+      "title": "Natural Language Processing and Recognition 2020 Global Trends, Opportunities, Market Size, Share, Status, SWOT Analysis and Forecast to 2026",
+      "excerpt": "“Natural Language Processing and Recognition Market” WiseGuyRerports.com Presents \"Global Natural Language Processing and Recognition Market Size, Status",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15587838/natural-language-processing-and-recognition-2020-global-trends-opportunities-market-size-share-st",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15587838",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15587838",
+      "publishedDateTime": "2020-03-18T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1584599499.jpeg",
+          "width": 720,
+          "height": 300,
+          "title": "Natural Language Processing and Recognition 2020 Global Trends, Opportunities, Market Size, Share, Status, SWOT Analysis and Forecast to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked.md",
+      "title": "Scientists linked artificial and biological neurons in a network — and it worked",
+      "excerpt": "Scientists have linked up two silicon-based artificial neurons with a biological one across multiple countries into a fully-functional network. Using standard internet protocols, they established a chain of communication whereby an artificial neuron ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.themandarin.com.au/127951-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mandarin",
+        "domain": "themandarin.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.themandarin.com.au/content/uploads/2020/03/neurons.jpg",
+          "width": 795,
+          "height": 530,
+          "title": "Scientists linked artificial and biological neurons in a network — and it worked",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-transforming-surgery-with-data-ai-and-cloud.md",
+      "title": "Transforming surgery with data, AI, and cloud",
+      "excerpt": "In the future, there are plans to deploy Azure SQL Database, Azure Storage, and Azure App Services to realize a serverless environment. And later, AI technologies such as Microsoft Cognitive Services and Azure Machine Learning will be applied. Dr. Takeshita’s specialty is gastrointestinal surgery. With the database in place, he sees an ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/apac/features/transforming-surgery-with-data-ai-and-cloud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/03/hero-1600x758.jpg",
+          "width": 1600,
+          "height": 758,
+          "title": "Transforming surgery with data, AI, and cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-self-driving-car-companies-suspend-testing-on-coronavirus-concerns.md",
+      "title": "Self-driving car companies suspend testing on coronavirus concerns",
+      "excerpt": "Major self-driving car companies have suspended their ... Other companies to have ceased testing include Pony.ai, Baidu Inc., Zoox Inc., Nuro Inc. and Yandex NV. One notable exception is the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/18/self-driving-car-companies-suspend-testing-due-coronavirus-concerns/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/06/1_Gikb_56-v7jI5Q8oy3wy9w.jpeg",
+          "width": 800,
+          "height": 533,
+          "title": "Self-driving car companies suspend testing on coronavirus concerns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-machine-learning-powered-steam-recommendations-now-live.md",
+      "title": "Machine Learning-Powered Steam Recommendations Now Live",
+      "excerpt": "Steam has added a new tool today for recommending games to users. Steam Interactive Recommender uses machine learning to predict which games you'll enjoy based on what other people with similar taste have played. The Interactive Recommender started as a tool within Steam Labs back in July 2019, but has now become a proper feature of the store.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gamespot.com/articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
+      "publishedDateTime": "2020-03-18T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3611299-biggest-games-play-2020-most-anticipated-nologo-3.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "Machine Learning-Powered Steam Recommendations Now Live",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-amazon-elastic-inference-adds-support-for-pytorch-machine-learning-models.md",
+      "title": "Amazon Elastic Inference adds support for PyTorch machine learning models",
+      "excerpt": "Enhanced PyTorch libraries for EI are available by default in Amazon SageMaker, AWS Deep Learning AMIs, and AWS Deep Learning Containers, allowing developers to deploy PyTorch models in production with minimal code changes. In a blog post, Amazon explained that inference tends to account for around 90% of the compute costs for the average deep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/18/amazon-elastic-inference-adds-support-pytorch-machine-learning-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/aws-logo-reinvent2018-800x537.jpg",
+          "width": 800,
+          "height": 537,
+          "title": "Amazon Elastic Inference adds support for PyTorch machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-fingerprint-locks-and-smart-home-facial-recognition-launched-to-growing-consumer-biometrics-market.md",
+      "title": "Fingerprint locks and smart home facial recognition launched to growing consumer biometrics market",
+      "excerpt": "The smart camera capabilities including object recognition for people, animals, and vehicles, were introduced with the HomeKit Secure Video in the previous version. The feature is expected to consist of face classification with identification for family members through smart home cameras. Other new features include Night Shift, which makes ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.biometricupdate.com/202003/fingerprint-locks-and-smart-home-facial-recognition-launched-to-growing-consumer-biometrics-market",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/03/27164821/benjilock-biometric-travel-lock-by-Hampton-Products.jpeg",
+          "width": 2000,
+          "height": 2000,
+          "title": "Fingerprint locks and smart home facial recognition launched to growing consumer biometrics market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

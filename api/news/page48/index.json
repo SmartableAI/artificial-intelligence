@@ -2,60 +2,16 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2020-04-20-clearview-ai-source-code-revealed-exposing-majority-security-lapse.md",
-      "title": "Clearview AI source code revealed, exposing majority security lapse",
-      "excerpt": "Hussein also found the source code had been configured to allow anyone to register as a new user and log in to the platform. Hoan Ton-That, CEO and co-founder of Clearview AI, responded to the cybersecurity lapse, saying that it “did not expose any personally identifiable information, search history, or biometric identifiers.” He added that ...",
-      "heat": 87,
+      "path": "_news/2020-04-22-microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks.md",
+      "title": "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks",
+      "excerpt": "Microsoft's AI masks and infrared temperature 2-in-1 detection device checks people entering ... [+] Cardinal Tien Hospital in Taiwan to make sure they are wearing face masks and whether they have a fever.",
+      "heat": 104,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse",
-      "ampWebUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
-      "publishedDateTime": "2020-04-20T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587403508/shutterstock_1658378527.jpg",
-          "width": 5000,
-          "height": 3051,
-          "title": "Clearview AI source code revealed, exposing majority security lapse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-using-ai-to-build-better-chips.md",
-      "title": "Using AI To Build Better Chips",
-      "excerpt": "With so many startups and large semiconductor firms racing to get new AI chips to market, electronic tool and design service firms like Synopsis, Cadence and Mentor Graphics are looking for new approaches to help designers speed their time to market. Ironically, one of the approaches being taken is to use AI to help build better AI chips.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
-      "publishedDateTime": "2020-04-20T10:57:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/",
+      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/",
+      "publishedDateTime": "2020-04-22T00:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -72,49 +28,12 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-introducing-the-digital-startup-alley-package-for-disrupt-sf.md",
-      "title": "Introducing the Digital Startup Alley Package for Disrupt SF",
-      "excerpt": "The Digital Startup Alley Package covers three people and includes: CrunchMatch: TechCrunch’s AI-powered founder/investor networking platform. Save time, zero in and connect with the people who can move your business forward. Each startup will create a customizable profile, allowing startups to easily note their value add and business model ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/amp/",
-      "publishedDateTime": "2020-04-20T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/CrunchMatch.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Introducing the Digital Startup Alley Package for Disrupt SF",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9e84bcdea8300007de7c4c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks",
           "attribution": null
         }
       ],
@@ -123,37 +42,38 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-20-cognex-introduces-worlds-first-industrial-smart-camera-powered-by-deep-learning.md",
-      "title": "Cognex Introduces World's First Industrial Smart Camera Powered by Deep Learning",
-      "excerpt": "PRWeb/ -- Cognex Corporation, the leader in industrial machine vision, introduces the In-Sight® D900 embedded vision system. A first-of-its-kind solution, the In-Sight D900 features Cognex's ViDiTM deep learning software inside an In-Sight industrial-grade smart camera.",
-      "heat": 74,
+      "path": "_news/2020-04-22-commscope-brings-artificial-intelligence-and-machine-learning-to-ruckus-analytics.md",
+      "title": "Commscope brings artificial intelligence and machine learning to Ruckus Analytics",
+      "excerpt": "Built on a patented machine learning (ML) and artificial intelligence (AI) foundation, the new service accelerates troubleshooting, provides comprehensive network visibility, automatically identifies service-affecting issues, and—unique to the networking industry classifies them according to severity, enabling managed service provider and ...",
+      "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
-      "publishedDateTime": "2020-04-20T10:30:00-07:00",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Commscope_brings_artificial_intelligence_and_machine_learning_to_Ruckus_Analytics-ZAWYA20200422073526/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/",
+      "publishedDateTime": "2020-04-22T00:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Commscope brings artificial intelligence and machine learning to Ruckus Analytics",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -164,29 +84,21 @@
       ]
     },
     {
-      "path": "_news/2020-04-20-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-37-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Worth $3.7 billion by 2025 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "CHICAGO, April 20, 2020 /PRNewswire/ -- According to the new market research report \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market by Component, NLP Type, Application ...",
+      "path": "_news/2020-04-22-using-artificial-intelligence-to-save-coral-reefs.md",
+      "title": "Using Artificial Intelligence to Save Coral Reefs",
+      "excerpt": "What’s New: Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-3-7-billion-by-2025-exclusive-report-by-marketsandmarkets-1029108136",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-3-7-billion-by-2025-exclusive-report-by-marketsandmarkets-1029108136",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-3-7-billion-by-2025-exclusive-report-by-marketsandmarkets-1029108136",
-      "publishedDateTime": "2020-04-20T10:30:00-07:00",
+      "webUrl": "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/",
+      "ampWebUrl": "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/",
+      "publishedDateTime": "2020-04-21T23:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -196,28 +108,28 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-20-this-covid-19-app-would-listen-to-your-cough-and-use-ai-to-predict-whether-you-have-coronavirus.md",
-      "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
-      "excerpt": "A slew of AI labs are currently aiming to fight coronavirus with apps that analyze audio from people speaking, breathing, or coughing.",
-      "heat": 75,
+      "path": "_news/2020-04-22-how-artificial-intelligence-iot-and-big-data-can-save-the-bees.md",
+      "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
+      "excerpt": "Artificial intelligence (AI), internet of things sensors, big data analytics, and other technologies are being used to monitor and develop solutions to mitigate the global issue of declining honey bee and pollinator populations.",
+      "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4",
-      "ampWebUrl": "https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4?amp",
-      "publishedDateTime": "2020-04-20T10:24:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
+      "publishedDateTime": "2020-04-21T21:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -229,10 +141,100 @@
       },
       "images": [
         {
-          "url": "https://i.insider.com/5e9dc9c192e8ba71ef0c6fc8?width=1200&format=jpeg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9fc586dea8300007de8a08%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-intels-project-corail-monitors-coral-reef-health-with-ai.md",
+      "title": "Intel’s Project Corail monitors coral reef health with AI",
+      "excerpt": "To commemorate Earth Day, Intel — in partnership with Accenture and Sulubaaï Environmental Foundation, a Philippine-based nonprofit dedicated to protecting Palawan’s natural resources — detailed Project Corail, an AI-powered platform that monitors and analyzes the resiliency of coral reefs. Since its launch in May 2019, it’s collected ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
+      "publishedDateTime": "2020-04-21T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/CORaiL_5small-e1587450236227.jpg?fit=1200%2C600&strip=all",
           "width": 1200,
           "height": 600,
-          "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
+          "title": "Intel’s Project Corail monitors coral reef health with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-dissident-artist-ai-weiwei-says-virus-has-only-strengthened-chinas-police-state.md",
+      "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
+      "excerpt": "The artist has been critical of China's handling of the outbreak and believes the \"arrogance and success\" of the government's authoritarian tactics will lead it into another crisis.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-coronavirus-pandemic/index.html",
+      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
+      "publishedDateTime": "2020-04-21T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200421223427-ai-weiwei-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
           "attribution": null
         }
       ],
@@ -245,16 +247,196 @@
       ]
     },
     {
-      "path": "_news/2020-04-20-robo-nurse-of-the-future.md",
-      "title": "Robo nurse of the future",
-      "excerpt": "Failure to insert an IV line is one of the leading causes of injury and infection. Researchers at Rutgers University in the US have developed a robot that finds blood vessels, even if they’re very small, and successfully inserts a needle or catheter.",
+      "path": "_news/2020-04-21-alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm.md",
+      "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
+      "excerpt": "Recently, aridamo hospital announced the establishment of XG laboratory. The laboratory is committed to promoting",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm-2020-04-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves.md",
+      "title": "MIT work raises a question: Can robots be teammates with humans rather than slaves?",
+      "excerpt": "A \"three-finger gripper\" is attached to it, made by startup Robotiq, based in Lévis ... and said that specifying the correct objective is \"both challenging and critical to design of AI systems.\" Also: Watching YouTube videos may someday let robots copy humans The challenge is that a machine system in some sense has to infer what a human's ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
+      "publishedDateTime": "2020-04-21T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/21/419e6f8d-c2b4-42cf-85aa-2e6a9ce085f2/mit-robot-arm-collaborates-via-dialogue.png",
+          "width": 1412,
+          "height": 1056,
+          "title": "MIT work raises a question: Can robots be teammates with humans rather than slaves?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests.md",
+      "title": "Facebook’s AI detects fake accounts with fewer than 20 friend requests",
+      "excerpt": "We plan to accomplish this by mixing feature-based and behavior-based models,” wrote Facebook. Facebook is broadly moving toward an AI training technique called self-supervised learning, in which unlabeled data is used in conjunction with small amounts of labeled data to produce an improvement in learning accuracy. Facebook’s deep entity ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/amp/",
+      "publishedDateTime": "2020-04-21T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s AI detects fake accounts with fewer than 20 friend requests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai.md",
+      "title": "Watch: Fake Elon Musk Zoom-bombs meeting using real-time Deepfake AI",
+      "excerpt": "The technology’s called Avatarify. It was developed by Aliev using open-source AI code called “The First Order Motion Model For Image Animation,” which was developed by researchers at the University of Trento in Italy. Avatarify superimposes another person’s face on your own in real-time. Most Deepfakes require you to pre-record ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/21/watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/21/watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/21/watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai/amp/",
+      "publishedDateTime": "2020-04-21T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/fakeelon-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": "Watch: Fake Elon Musk Zoom-bombs meeting using real-time Deepfake AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-current-thinking-how-does-the-brain-work.md",
+      "title": "Current thinking: how does the brain work?",
+      "excerpt": "This is a brain implant that allows paralysed patients to move robotic arms. It is an array of 128 needles that gathers stable neural recordings of potential actions in the motor cortex to transmit movement data. It has up to 256 electrodes and neural ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/04/robo-nurse-of-the-future/",
+      "webUrl": "https://eandt.theiet.org/content/articles/2020/04/current-thinking-using-electrodes-to-understand-how-the-brain-works/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T10:01:00-07:00",
+      "publishedDateTime": "2020-04-21T11:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IET",
@@ -265,10 +447,10 @@
       },
       "images": [
         {
-          "url": "https://eandt.theiet.org/media/11134/gettyimages-1168897253-2048x2048_4038263225044594476.jpg?crop=0.0000000000000013895057943753,0.45791664232810403,0,0.049895857671895291&cropmode=percentage&width=1200&height=450&rnd=132328005720000000",
+          "url": "https://eandt.theiet.org/media/11142/c0270936-parkinson_s_disease_with_dbs_electrodes_230916218720977579.jpg?crop=0.0000000000000013895057943753,0.04375000000000006,0,0.46406249999999927&cropmode=percentage&width=1200&height=450&rnd=132328005720000000",
           "width": 1200,
           "height": 450,
-          "title": "Robo nurse of the future",
+          "title": "Current thinking: how does the brain work?",
           "attribution": null
         }
       ],
@@ -282,16 +464,150 @@
       ]
     },
     {
-      "path": "_news/2020-04-20-the-station-ponyai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip.md",
-      "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
-      "excerpt": "Pony .ai is the latest autonomous vehicle startup to turn its efforts to delivery — at least temporarily. The company announced this week it will partner with e-commerce platform Yamibuy to ...",
-      "heat": 83,
+      "path": "_news/2020-04-21-nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha.md",
+      "title": "Nvidia launches Project MONAI AI framework for health care research in alpha",
+      "excerpt": "MONAI stands for Medical Open Network for AI. The framework is optimized for the demands of health care researchers and made for running with deep learning frameworks like PyTorch and Ignite. A main goal of the MONAI framework is to help researchers can reproduce their experiments in order t to build upon each other’s work. One example in the ...",
+      "heat": 94,
       "tags": null,
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/amp/",
-      "publishedDateTime": "2020-04-20T09:38:00-07:00",
+      "webUrl": "https://venturebeat.com/2020/04/21/nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha/amp/",
+      "publishedDateTime": "2020-04-21T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/monai.jpg?fit=1262%2C673&strip=all",
+          "width": 1262,
+          "height": 673,
+          "title": "Nvidia launches Project MONAI AI framework for health care research in alpha",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-global-ai-in-fintech-market-2020-outlook-key-players-segmentation-industry-size-and-share-comprehensive-analysis-to-2025.md",
+      "title": "Global AI in Fintech Market 2020 Outlook, Key Players, Segmentation, Industry Size and Share, Comprehensive Analysis to 2025",
+      "excerpt": "Global AI in Fintech Market 2020 by Company, Regions, Type and Application, Forecast to 2025 available at MarketandResearch.biz presents the latest study on the market covering product scope, market revenue,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2020-outlook-key-players-segmentation-industry-size-and-share-comprehensive-analysis-to-2025-2020-04-21?tesla=y",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global AI in Fintech Market 2020 Outlook, Key Players, Segmentation, Industry Size and Share, Comprehensive Analysis to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-why-covid-natures-code-cracking-machine-intelligence.md",
+      "title": "Why COVID? Nature’s Code Cracking Machine Intelligence",
+      "excerpt": "Viruses don’t just attack the human body. They attack all the systems we’ve built to sustain modern life. As our systems have evolved, so too have our viruses. Today, we have COVID-19, and if we aren’t careful,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2020/04/21/why-covid-natures-code-cracking-machine-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2020/04/21/why-covid-natures-code-cracking-machine-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2020/04/21/why-covid-natures-code-cracking-machine-intelligence/amp/",
+      "publishedDateTime": "2020-04-21T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9f1c9d736d170006fedf1b%2F0x0.jpg",
+          "width": 1199,
+          "height": 831,
+          "title": "Why COVID? Nature’s Code Cracking Machine Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-aws-and-facebook-launch-an-open-source-model-server-for-pytorch.md",
+      "title": "AWS and Facebook launch an open-source model server for PyTorch",
+      "excerpt": "For AWS, that’s mostly SageMaker, the company’s machine learning platform, but as Bratin Saha, AWS VP and GM for Machine Learning Services, told me, the work on PyTorch was mostly motivated by requests from the community. And while there are obviously other model servers like TensorFlow Serving and the Multi Model Server available today ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
+      "publishedDateTime": "2020-04-21T09:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -310,10 +626,10 @@
       },
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/05/boosted-electric-board-vehicle-bridge.jpg",
-          "width": 680,
-          "height": 383,
-          "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-175397431.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "AWS and Facebook launch an open-source model server for PyTorch",
           "attribution": null
         }
       ],
@@ -322,27 +638,28 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-20-brief-oncodesign-announces-creation-of-artificial-intelligence-business-unit.md",
-      "title": "BRIEF-Oncodesign Announces Creation Of Artificial Intelligence Business Unit",
-      "excerpt": "Oncodesign SA: * ANNOUNCES CREATION OF ITS NEW ARTIFICIAL INTELLIGENCE BUSINESS UNIT (BU) HEADED UP BY STÉPHANE GERART * NEW BU WILL BE BASED MAINLY IN DIJON",
-      "heat": 84,
+      "path": "_news/2020-04-21-low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars.md",
+      "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
+      "excerpt": "To make things parsimonious, there are two overarching categories conventionally used when discussing trust levels, namely a citizenry of little or no trust, known as a low-trust nation or locale, versus being characterized as a high-trust nation or locale,",
+      "heat": 76,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.reuters.com/article/brief-oncodesign-announces-creation-of-a-idUSFWN2C819O",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2C819O",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2C819O",
-      "publishedDateTime": "2020-04-20T09:35:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-04-21T09:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -354,10 +671,55 @@
       },
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F182201783%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D419%26cropY2%3D3567",
           "width": 1200,
-          "height": 630,
-          "title": "BRIEF-Oncodesign Announces Creation Of Artificial Intelligence Business Unit",
+          "height": 675,
+          "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19.md",
+      "title": "AI indicates which symptoms might be leading indicators of COVID-19",
+      "excerpt": "In a preprint paper published this week on Arxiv.org, a team of researchers from the Mayo Clinic and Nference, a startup developing tech that analyzes text from biomedical publications, report that they’ve used AI to isolate phenotypes characteristic of the coronavirus. They claim that a specific combination of cough and diarrhea, along with ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/amp/",
+      "publishedDateTime": "2020-04-21T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/05/diagnosis-e1585691897976.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI indicates which symptoms might be leading indicators of COVID-19",
           "attribution": null
         }
       ],
@@ -370,30 +732,30 @@
       ]
     },
     {
-      "path": "_news/2020-04-20-rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung-surgery.md",
-      "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
-      "excerpt": "SILICON VALLEY, Calif., April 20, 2020 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI) and computer vision technology, announced today a new innovative AI-based suite of m",
+      "path": "_news/2020-04-21-new-weka-ai-framework-to-accelerate-edge-to-core-to-cloud-data-pipelines.md",
+      "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
+      "excerpt": "WekaIO introduced Weka AI, a transformative storage solution framework underpinned by the Weka File System (WekaFS) that enables accelerated edge-to-core-to-cloud data pipelines. Weka AI is a framework of customizable reference architectures (RAs) and software development kits (SDKs) with leading technology alliances like NVIDIA,",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung/article_969a06df-ac77-52f8-b8ec-7edfe462e80a.html",
+      "webUrl": "https://insidehpc.com/2020/04/new-weka-ai-to-accelerate-edge-to-core-to-cloud-data-pipelines/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T09:33:00-07:00",
+      "publishedDateTime": "2020-04-21T08:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/9a/99a67bba-74e1-5907-b0c4-b6be6666bca3/5e9dd1fbaaefd.image.jpg?resize=400%2C349",
-          "width": 400,
-          "height": 349,
-          "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
+          "url": "https://insidehpc.com/wp-content/uploads/2017/07/wekaio.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
           "attribution": null
         }
       ],
@@ -402,43 +764,35 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-20-unlearnai-nabs-12m-to-build-digital-twins-to-speed-up-and-improve-clinical-trials.md",
-      "title": "Unlearn.AI nabs $12M to build “digital twins” to speed up and improve clinical trials",
-      "excerpt": "Today, a startup founded by a former principal scientist at Pfizer, which has developed a way of digitising this concept through the use of AI, is announcing some funding to further its efforts. Unlearn.AI, which has built a machine learning platform that builds “digital twin” profiles of patients that become the controls in clinical trials ...",
-      "heat": 80,
+      "path": "_news/2020-04-21-wekaio-introduces-weka-ai-to-enable-accelerated-edge-to-core-to-cloud-data-pipelines.md",
+      "title": "WekaIO Introduces Weka AI to Enable Accelerated Edge to Core to Cloud Data Pipelines",
+      "excerpt": "WekaIO™ (Weka), the innovation leader in high-performance and scalable file storage, and a NVIDIA Partner Network Solution Advisor, today introduced W",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/20/unlearn-ai-nabs-12m-to-build-digital-twins-to-speed-up-and-improve-clinical-trials/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/20/unlearn-ai-nabs-12m-to-build-digital-twins-to-speed-up-and-improve-clinical-trials/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/unlearn-ai-nabs-12m-to-build-digital-twins-to-speed-up-and-improve-clinical-trials/amp/",
-      "publishedDateTime": "2020-04-20T08:25:00-07:00",
+      "webUrl": "https://www.businesswire.com/news/home/20200421005072/en/WekaIO-Introduces-Weka-AI-Enable-Accelerated-Edge",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T07:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/6467612281_ccb5b72b02_b.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Unlearn.AI nabs $12M to build “digital twins” to speed up and improve clinical trials",
+          "url": "https://mms.businesswire.com/media/20200421005072/en/782264/23/New_Weka_logo_Color.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "WekaIO Introduces Weka AI to Enable Accelerated Edge to Core to Cloud Data Pipelines",
           "attribution": null
         }
       ],
@@ -447,20 +801,21 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-20-googles-entities-as-experts-ai-answers-text-based-questions-with-less-data.md",
-      "title": "Google’s Entities as Experts AI answers text-based questions with less data",
-      "excerpt": "A preprint study published this week by coauthors at Google Research describes Entities as Experts (EAE), a new type of machine learning model that can access memories of entities (e.g., people, places, organizations, dates, times, and figures) mentioned in a piece of sample text. They claim that it outperforms two state-of-the-art models with ...",
-      "heat": 85,
+      "path": "_news/2020-04-21-googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications.md",
+      "title": "Google’s DynamicEmbedding framework extends TensorFlow to ‘colossal-scale’ applications",
+      "excerpt": "In a preliminary whitepaper published this week on Arxiv.org, Google researchers describe DynamicEmbedding, which extends Google’s TensorFlow machine learning framework to “colossal-scale” applications with arbitrary numbers of features (e.g., search queries). According to Google, AI models developed on it have achieved significant ...",
+      "heat": 100,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/googles-entities-as-experts-ai-answers-text-based-questions-with-less-data/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/googles-entities-as-experts-ai-answers-text-based-questions-with-less-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/googles-entities-as-experts-ai-answers-text-based-questions-with-less-data/amp/",
-      "publishedDateTime": "2020-04-20T08:06:00-07:00",
+      "webUrl": "https://venturebeat.com/2020/04/21/googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications/amp/",
+      "publishedDateTime": "2020-04-21T07:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -482,7 +837,7 @@
           "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
           "width": 1200,
           "height": 600,
-          "title": "Google’s Entities as Experts AI answers text-based questions with less data",
+          "title": "Google’s DynamicEmbedding framework extends TensorFlow to ‘colossal-scale’ applications",
           "attribution": null
         }
       ],
@@ -491,109 +846,30 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_news/2020-04-20-the-nba-and-microsoft-plan-to-release-a-new-ai-driven-dtc-streaming-platform.md",
-      "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
-      "excerpt": "The NBA and Microsoft announced a new multiyear partnership aimed at transforming the digital fan experience through a direct-to-consumer platform.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/nba-microsoft-team-up-for-ai-driven-personalized-streaming-platform-2020-4",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-facebook-partners-up-with-researchers-to-fight-covid-19-using-ai.md",
-      "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
-      "excerpt": "To that end, Facebook AI has partnered up with academic researchers and other experts on a slew of ... Facebook has also partnered up with the Mila research institute in Montreal to share predictive, causal, and decision algorithms to effectively analyze clinical data. Facebook says it’s important for public health experts to understand ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai",
-      "ampWebUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
-      "publishedDateTime": "2020-04-20T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/t/the-corona/the-coronavirus-is-proving-to-be-big-business-for-facebook-n_n947.620.jpg",
-          "width": 620,
-          "height": 397,
-          "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-how-utilities-are-using-ai-to-adapt-to-electricity-demands.md",
-      "title": "How utilities are using AI to adapt to electricity demands",
-      "excerpt": "Some utilities are employing AI and machine learning to address the windfalls and fluctuations in energy usage resulting from COVID-19. Precise load forecasting could ensure that operations aren’t interrupted in the coming months, thereby preventing blackouts and brownouts. And they might also bolster the efficiency of utilities’ internal ...",
+      "path": "_news/2020-04-21-microsoft-words-ai-wants-to-rewrite-your-crappy-sentences.md",
+      "title": "Microsoft Word’s AI wants to rewrite your crappy sentences",
+      "excerpt": "Microsoft has released a handy new tool for writers struggling to turn their ingenious ideas into words. The feature is a new addition to Rewrite Suggestions, an AI-powered editor for Word that was first unveiled at the 2019 Microsoft Build conference. The tool initially only offered ideas on different ways to express a phrase, but the ...",
       "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/",
-      "publishedDateTime": "2020-04-20T06:34:00-07:00",
+      "webUrl": "https://thenextweb.com/neural/2020/04/21/microsoft-words-ai-wants-to-rewrite-your-crappy-sentences/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/21/microsoft-words-ai-wants-to-rewrite-your-crappy-sentences/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/21/microsoft-words-ai-wants-to-rewrite-your-crappy-sentences/amp/",
+      "publishedDateTime": "2020-04-21T06:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -605,10 +881,10 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6cd663ee-b571-428e-8665-0dadb7cbc371-e1587321011520.png?fit=1202%2C598&strip=all",
-          "width": 1202,
-          "height": 598,
-          "title": "How utilities are using AI to adapt to electricity demands",
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-6-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Microsoft Word’s AI wants to rewrite your crappy sentences",
           "attribution": null
         }
       ],
@@ -621,23 +897,60 @@
       ]
     },
     {
-      "path": "_news/2020-04-20-brief-unlearnai-closes-12-mln-series-a-to-advance-the-use-of-digital-twins-in-clinical-trials.md",
-      "title": "BRIEF-Unlearn.Ai Closes $12 Mln Series A To Advance The Use Of Digital Twins In Clinical Trials",
-      "excerpt": "UNLEARN.AI CLOSES $12M SERIES A TO ADVANCE THE USE OF DIGITAL TWINS IN CLINICAL TRIALS * UNLEARN.AI - CLOSED A $12 MILLION SERIES A FINANCING. FINANCING ROU",
-      "heat": 75,
+      "path": "_news/2020-04-21-diamonds-shine-in-energy-storage-solution.md",
+      "title": "Diamonds shine in energy storage solution",
+      "excerpt": "The new carbon structure could be a potential micro-scale power supply for anything from implanted biomedical sensing systems monitoring heart and brain functions, to small robotics and electronics.",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.reuters.com/article/brief-unlearnai-closes-12-mln-series-a-t-idUSASA00L44",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSASA00L44",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSASA00L44",
-      "publishedDateTime": "2020-04-20T05:09:00-07:00",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/04/200421090540.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T06:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-efficient-ai-how-to-position-your-rd-spend-in-a-downturn.md",
+      "title": "Efficient AI: How To Position Your R&D Spend In A Downturn",
+      "excerpt": "A recession ahead will mark the first time corporations will have to learn to manage their AI spend during a downtown. Many companies are unsure how to position research and development (R&D) spend when their core business models are threatened.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/theyec/2020/04/21/efficient-ai-how-to-position-your-rd-spend-in-a-downturn/",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/04/21/efficient-ai-how-to-position-your-rd-spend-in-a-downturn/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/04/21/efficient-ai-how-to-position-your-rd-spend-in-a-downturn/amp/",
+      "publishedDateTime": "2020-04-21T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -649,10 +962,10 @@
       },
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "BRIEF-Unlearn.Ai Closes $12 Mln Series A To Advance The Use Of Digital Twins In Clinical Trials",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Ftheyec%2Ffiles%2F2020%2F04%2Fa-13-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Efficient AI: How To Position Your R&D Spend In A Downturn",
           "attribution": null
         }
       ],
@@ -665,16 +978,16 @@
       ]
     },
     {
-      "path": "_news/2020-04-20-microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports.md",
-      "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
-      "excerpt": "Microsoft has revealed how it's applying machine learning to the challenge of correctly identifying which bug reports are actually security-related. Its goal is to correctly identify security bugs at scale using a machine-learning model to analyze just the label of bug reports. According to Microsoft, its 47,000 developers generate about ...",
-      "heat": 78,
+      "path": "_news/2020-04-21-this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand.md",
+      "title": "This AI tool helps hospitals predict COVID-19 bed and ventilator demand",
+      "excerpt": "SEE: How to implement AI and machine learning (ZDNet special report) | Download the report as a PDF (TechRepublic) Trials are expected to last a week and will take place at NHS trusts Cambridge University Hospitals, Kings College Hospital, Lancashire Teaching Hospitals and University Hospital Southampton. If initial deployments prove successful ...",
+      "heat": 97,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
-      "publishedDateTime": "2020-04-20T04:28:00-07:00",
+      "webUrl": "https://www.zdnet.com/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/",
+      "publishedDateTime": "2020-04-21T05:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -693,10 +1006,10 @@
       },
       "images": [
         {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/11/dcabbbb7-b82d-4967-afd8-66b2b64ff7f8/thumbnail/1200x675/d583d73263f0adcedfde77d6f345a798/ransomware-these-sophisticated-attacks-a-5e666032710b2800019be724-1-mar-11-2020-13-21-31-poster.jpg",
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
           "width": 1200,
           "height": 675,
-          "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
+          "title": "This AI tool helps hospitals predict COVID-19 bed and ventilator demand",
           "attribution": null
         }
       ],
@@ -709,23 +1022,23 @@
       ]
     },
     {
-      "path": "_news/2020-04-20-can-artificial-intelligence-help-alleviate-travel-industry-woes.md",
-      "title": "Can Artificial Intelligence Help Alleviate Travel Industry Woes?",
-      "excerpt": "The travel industry, for instance, is uniquely vulnerable to this combination of systemic shocks. As such, operators like airlines and OTAs should take this opportunity to review and identify strategies to increase efficiency.",
-      "heat": 87,
+      "path": "_news/2020-04-21-mit-cuts-ties-with-a-chinese-ai-firm-amid-human-rights-concerns.md",
+      "title": "MIT Cuts Ties With a Chinese AI Firm Amid Human Rights Concerns",
+      "excerpt": "The amount of money involved was not disclosed. iFlytek is one of China’s older AI companies, and while it specializes in voice recognition, it also offers tools for analyzing legal documents and medical imagery. Like other growing Chinese AI companies, contracts to supply software for processing video and audio to police departments and ...",
+      "heat": 99,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/can-artificial-intelligence-help-alleviate-travel-industry-woes/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/can-artificial-intelligence-help-alleviate-travel-industry-woes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/20/can-artificial-intelligence-help-alleviate-travel-industry-woes/amp/",
-      "publishedDateTime": "2020-04-20T04:19:00-07:00",
+      "webUrl": "https://www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/",
+      "ampWebUrl": "https://www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/amp",
+      "publishedDateTime": "2020-04-21T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -737,10 +1050,10 @@
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-14-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Can Artificial Intelligence Help Alleviate Travel Industry Woes?",
+          "url": "https://media.wired.com/photos/5e9a05aab1d67d0009c2cdf3/master/pass/Biz-mit-1216059983.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "MIT Cuts Ties With a Chinese AI Firm Amid Human Rights Concerns",
           "attribution": null
         }
       ],
@@ -749,298 +1062,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-how-to-keep-our-ai-obsession-from-overcomplicating-data-projects.md",
-      "title": "How To Keep Our AI Obsession From Overcomplicating Data Projects",
-      "excerpt": "To work effectively, AI needs to be used in the right way for the right applications. You wouldn't use a precision laser to tailor clothing. It could work, but it would create unnecessary cost and risk with no meaningful improvement over fabric scissors.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/amp/",
-      "publishedDateTime": "2020-04-20T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-4-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How To Keep Our AI Obsession From Overcomplicating Data Projects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors.md",
-      "title": "MyndYou uses AI and passive data to detect cognitive decline in seniors",
-      "excerpt": "A quick glance across this landscape shows fall-detection contraptions, targeted social networks, and more. Artificial intelligence (AI) in particular is gaining a firmer foothold, with AI-powered social companions and fancy wearables designed to track all manner of activity or changes in behavior. Fledgling Israeli startup MyndYou is using AI ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/amp/",
-      "publishedDateTime": "2020-04-20T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Elderly.jpg?fit=2001%2C1000&strip=all",
-          "width": 2001,
-          "height": 1000,
-          "title": "MyndYou uses AI and passive data to detect cognitive decline in seniors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-starsky-robotics-failure-offers-a-sobering-look-at-the-state-of-ai.md",
-      "title": "Starsky Robotics Failure Offers a Sobering Look at the State of AI",
-      "excerpt": "Autonomous trucking company Starsky Robotics has closed its doors after failing to secure additional funding in late 2019. Anyone that follows the AI industry or the autonomous vehicle space knows that not every startup was going to make it to the finish line. But the demise of one of the pioneering companies of the autonomous trucking space ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.designnews.com/automation-motion-control/starsky-robotics-failure-offers-sobering-look-state-ai/181515550662728",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/default/files/Design%20News/Starsky%20Robotics_small.jpg",
-          "width": 700,
-          "height": 525,
-          "title": "Starsky Robotics Failure Offers a Sobering Look at the State of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-kavout-k-score-a-machine-learning-driven-stock-rating-is-available-for-developers-on-iex-cloud.md",
-      "title": "Kavout K Score, a Machine Learning Driven Stock Rating, is Available for Developers on IEX Cloud",
-      "excerpt": "K Score is a stock rating generated by applying machine learning ... with curated financial data. The platform provides a high-performance API along with custom-built services to help users ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/kavout-k-score-a-machine-learning-driven-stock-rating-is-available-for-developers-on-iex-cloud-1029106470",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/kavout-k-score-a-machine-learning-driven-stock-rating-is-available-for-developers-on-iex-cloud-1029106470",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kavout-k-score-a-machine-learning-driven-stock-rating-is-available-for-developers-on-iex-cloud-1029106470",
-      "publishedDateTime": "2020-04-20T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
-      "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
-      "excerpt": "If your shop is obsessed with mixing AI into your stack, Amazon has almost too many options to consider. There are too many to list. They begin with basic tools like SageMaker for training models to respond to your data. These tools have attracted plenty of developers and that may be why the sales literature brags that “85% of TensorFlow ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.3x2.jpg",
-          "width": 700,
-          "height": 467,
-          "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-microsoft-to-launch-azure-based-streaming-service-for-nba-league.md",
-      "title": "Microsoft to launch Azure-based streaming service for NBA League",
-      "excerpt": "As the Official Technology Partner for the NBA, Microsoft will allow NBA Digital to leverage the power of its Azure platform to give birth to a new, direct-to-consumer platform, which claims to make use of Artificial Intelligence (AI) and Machine Learning (ML). Thanks to the AI and ML, Microsoft hopes to deliver personalized game broadcasts and ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.thewindowsclub.com/microsoft-nba-league-99193/",
-      "ampWebUrl": "https://news.thewindowsclub.com/microsoft-nba-league-99193/amp/",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-nba-league-99193/amp/",
-      "publishedDateTime": "2020-04-20T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/04/Microsoft-NBA.jpg",
-          "width": 600,
-          "height": 338,
-          "title": "Microsoft to launch Azure-based streaming service for NBA League",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-facebook-three-fintech-firms-in-talks-to-launch-mobile-payments-service-in-indonesia.md",
-      "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
-      "excerpt": "Facebook is working with three Indonesian digital fintech firms to apply for regulatory approval to launch mobile payments ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
-      "publishedDateTime": "2020-04-20T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/20/72823e74-82e4-11ea-8863-2139a14b0dea_image_hires_181245.JPG?itok=-bpnCTHB&v=1587377576",
-          "width": 1200,
-          "height": 630,
-          "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Facebook AI"
       ]

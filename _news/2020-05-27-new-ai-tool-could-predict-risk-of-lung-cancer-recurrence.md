@@ -41,6 +41,30 @@ related:
       - url: "https://www.cancerresearchuk.org/sites/default/files/lung-cancer-cells-hero_1.jpg"
         width: 620
         height: 348
+  - title: "AI could predict risk of lung cancer recurrence"
+    excerpt: "Computer scientists working with pathologists have trained an artificial intelligence (AI) tool to determine which patients with lung cancer have a higher risk of their disease coming back after treatment."
+    publishedDateTime: 2020-05-28T12:18:00Z
+    webUrl: "https://medicalxpress.com/news/2020-05-ai-lung-cancer-recurrence.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-05-ai-lung-cancer-recurrence.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-05-ai-lung-cancer-recurrence.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 39
+  - title: "New AI tool could predict lung cancer recurrence"
+    excerpt: "Scientists have been working with pathologists to build an artificial intelligence tool that can predict which patients with lung cancer […]"
+    publishedDateTime: 2020-05-28T09:26:00Z
+    webUrl: "https://frontlinegenomics.com/new-ai-tool-could-predict-lung-cancer-recurrence/"
+    type: article
+    provider:
+      name: Front Line Genomics
+      domain: frontlinegenomics.com
+    quality: 39
+    images:
+      - url: "https://frontlinegenomics.com/wp-content/uploads/2020/05/stockvault-artificial-intelligence-concept238841-scaled.jpg"
+        width: 2560
+        height: 1604
 
 secured: "+SBZVSM4EmJpPnlTAhR4mXC2bWlPbnnWicCWp0faYVF1X0R++pJYZ0oU2tesnX1iXZk74U1hMZo1AXX20t3FFsCcckDdSMmpUJGH3HmUC4f9IrnW/F44Gw+sm0LNwpxQb7mo+yIiHpMqLaxO/vCrimrMrWhm3XI3TgL4jQ/4zcjaVGXdTOsvkKEDEkdKjVikgFxQ45FPwwzBqPBpoXMs9x9V1Q8EgqLiZBuMEpoAK7azRZM0pF/gBv/3WoCFDFMTh4P1WJ1MxKIPnvhPc8fOyE0BROT52ysWl791A8yKsTGuW4ZB2XsiuCXNW22Kk6D6;4zNU3FEZ4K7Cj3hP+6bQfQ=="
 ---

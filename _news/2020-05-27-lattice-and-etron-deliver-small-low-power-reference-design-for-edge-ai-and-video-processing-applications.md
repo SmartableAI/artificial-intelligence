@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Lattice and Etron Deliver Small, Low Power Reference Design for Edge AI and Video Processing Applications"
 
-secured: "vd3Iglq893L+qwa3fygqGnIauGYHrzhwT1FOVkumozpbew9CeNNz2/ZFyIckD4Qa/dJHCdbromwx/LMfrnCARiBquB2BMMNBiFcJ5fcz9BhOEP5GacRBOuPDOg+S7H7tmW9tgNqki/6PXDm7nOW59X2GQL3yCm0eZUEbFVMyXjaSKcY8eaYNsJ/dnDKOi3rN7/HzGj148h00GwHgAVWzLqKFthtOvfrGyQ6OPwqthjZc8nMpBM2GmVqStV1mSzW9fKbrXUNGSWfoUmbaQJjJl1z9fMrwUkJEJXSdPmXxh2r4qbazBx0kqSzpikCAtIV+;UhwuO66gdpDoYyIav0dcbQ=="
+secured: "oN3hbUlnJUgBAUMdDShs4Zc1jAc4njJ7w3YLWSWcCTPV+NA+aeJBVtUuvm3gt2yiymNVG2ulpngBBbWsMUs8bFdts/Kt0F6IXCJaTPNF9L16uREOKLFDuFw+lt8BUEWLF49Ge/HCnthTPNAMTFpFGxR2HBjqG1++FRTftdBJuFCGg86fOkL29wjehJ9bwc9j6fxllQqxpxRRRubjVKvmRrsLvEQ0bPH89y3o0ukrp+9NGmeHKGV/o/+NsX5uZOYYuk51ha2YVraiGtzfxO9tQ/gNucH1U1G++i/KobhcHVDSb9I8mkIX/XuZqzbk2Pbvbi2A1MXKqBasikwvz/17Dphi+QI/k80doyV2kBMRp00rSSIgK1hut7OmOPrtFc0KIfdDdJoAkmoxKwxfLKMcX3yhpkiZhiPkdUX8FAcRBmdkU3YwUax24QGFQHVX42l5/kfGLb+bB+IuxuPR3MJq/W21USwcYLZxP0nuBAqI6u8=;Eh2gDi5emP6/KJiRe1v2zQ=="
 ---
 

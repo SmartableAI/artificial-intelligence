@@ -2,745 +2,20 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-05-19-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time.md",
-      "title": "AI-Powered Biotech Can Help Deploy a Vaccine In Record Time",
-      "excerpt": "Simulators that can rapidly test trillions of options would accelerate the slow and costly process of human clinical trials.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/",
-      "ampWebUrl": "https://www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/amp",
-      "publishedDateTime": "2020-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec305c12de599a4da36ef60/master/pass/OpEd-Vaccines-91344406.jpg",
-          "width": 2400,
-          "height": 1643,
-          "title": "AI-Powered Biotech Can Help Deploy a Vaccine In Record Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-sony-microsoft-partner-for-smart-camera-solutions.md",
-      "title": "Sony, Microsoft partner for smart camera solutions",
-      "excerpt": "Sony Semiconductor Solutions (Sony) and Microsoft Corp have announced they are partnering ... Sony will also create a smart camera managed app powered by Azure IoT and Cognitive Services that complements the IMX500 sensor and expands the range and ...",
+      "path": "_news/2020-05-20-lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19.md",
+      "title": "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19",
+      "excerpt": "Contactless Employee Time and Attendance Joins Face Masks, Gloves and Social Distancing for Employee Health and Safety Return to Work ATLANTA (PRWEB)",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Sony_Microsoft_partner_for_smart_camera_solutions-SNG_174885824/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_174885824/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_174885824/",
-      "publishedDateTime": "2020-05-19T05:26:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/p16072620/lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16072620",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072620",
+      "publishedDateTime": "2020-05-20T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Sony, Microsoft partner for smart camera solutions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-this-startup-wants-to-get-people-with-autism-into-tech-jobs.md",
-      "title": "This startup wants to get people with autism into tech jobs",
-      "excerpt": "Thanks to Hunter's accessibilities job program, though, he heard about a startup called Daivergent, whose aim is to connect companies with a remote tech workforce of folks on the autism spectrum.  For the last two years,",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/this-startup-wants-to-get-people-with-autism-into-tech-jobs/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-startup-wants-to-get-people-with-autism-into-tech-jobs/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-startup-wants-to-get-people-with-autism-into-tech-jobs/",
-      "publishedDateTime": "2020-05-19T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/WnHHrp55u-AazHFNi1YkNLOOH1U=/756x567/2020/05/19/2501608e-54cd-4831-992a-af2e0acc7ea5/gettyimages-1219925426.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "This startup wants to get people with autism into tech jobs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool.md",
-      "title": "Your face mask selfies could be training the next facial recognition tool",
-      "excerpt": "Researchers are crawling the internet for photos of people wearing face masks to improve facial recognition algorithms.",
-      "heat": 115,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
-      "publishedDateTime": "2020-05-19T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Your face mask selfies could be training the next facial recognition tool",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-europe-to-facebook-pay-taxes-and-respect-our-values-or-well-regulate.md",
-      "title": "Europe to Facebook: Pay taxes and respect our values — or we’ll regulate",
-      "excerpt": "A livestreamed “debate” yesterday between Facebook CEO Mark Zuckerberg and a European commissioner shaping digital policy for the internal market, Thierry Breton, sounded cordial enough on the surface,",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/europe-to-facebook-pay-taxes-and-respect-our-values-or-well-regulate/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/europe-to-facebook-pay-taxes-and-respect-our-values-or-well-regulate/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/europe-to-facebook-pay-taxes-and-respect-our-values-or-well-regulate/amp/",
-      "publishedDateTime": "2020-05-19T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Screenshot-2020-05-18-at-18.51.27.png?w=680",
-          "width": 680,
-          "height": 382,
-          "title": "Europe to Facebook: Pay taxes and respect our values — or we’ll regulate",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-shot-in-the-arm-6-use-cases-of-ai-that-will-disrupt-healthcare-space.md",
-      "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
-      "excerpt": "Machines that think and talk like us may once have been possible only in the realm of science fiction. In 1950, all that changed when British mathematician Alan Turing created the Turing test, still in use today,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space",
-      "ampWebUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space/amp",
-      "publishedDateTime": "2020-05-19T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Healthcare-AI-1589887107545.jpg?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal.md",
-      "title": "Five Insights For Leveraging RPA And Process Intelligence In The 'New Normal'",
-      "excerpt": "If we acknowledge that digital transformation can help organizations successfully navigate business operations, especially in today’s “new normal,” the next step is to ask the right questions.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/amp/",
-      "publishedDateTime": "2020-05-19T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-27-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Five Insights For Leveraging RPA And Process Intelligence In The 'New Normal'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence.md",
-      "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
-      "excerpt": "Enhancements in how machines can collect audio and visual data and use it to understand and predictively respond to our actions is a game-changer for the future of IoT.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/amp/",
-      "publishedDateTime": "2020-05-19T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-22-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-state-of-marketing-2020-innovation-is-top-priority-with-186-increase-in-ai-adoption-since-2018.md",
-      "title": "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018",
-      "excerpt": "Salesforce collected data from 7,000 marketing leaders across the globe for its sixth annual “State of Marketing” report. The report demonstrates the values that will remain critical as marketers and their businesses recover.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/state-of-marketing-2020/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/state-of-marketing-2020/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-marketing-2020/",
-      "publishedDateTime": "2020-05-19T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/17/e52e1b8a-c1f0-47b3-bb7c-ccaee81ab1b1/picture2.png",
-          "width": 940,
-          "height": 807,
-          "title": "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-sony-microsoft-unveil-latest-joint-ai-play.md",
-      "title": "Sony, Microsoft unveil latest joint AI play",
-      "excerpt": "Sony’s semiconductor division and Microsoft announced a collaboration to develop AI video analytics systems for",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/",
-      "ampWebUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
-      "publishedDateTime": "2020-05-19T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Sony, Microsoft unveil latest joint AI play",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-is-integrating-azure-ai-into-sonys-smart-camera-sensors.md",
-      "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
-      "excerpt": "The two companies plan to embed Microsoft Azure AI capabilities onto Sony's new intelligent vision sensors, which were recently unveiled.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.siliconrepublic.com/machines/microsoft-azure-sony-smart-camera-sensors-ai",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png",
-          "width": 1200,
-          "height": 900,
-          "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-hosted-ai-for-finding-code-defects-emitted-but-does-it-work.md",
-      "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-      "excerpt": "Altran – in association with Microsoft – has pushed out an open source project to find code defects via AI whenever you commit code. It is easy to see why Microsoft is keen. T",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "publishedDateTime": "2020-05-19T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/05/18/codedefect.jpg",
-          "width": 800,
-          "height": 408,
-          "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-are-ai-powered-killer-robots-inevitable.md",
-      "title": "Are AI-Powered Killer Robots Inevitable?",
-      "excerpt": "Military scholars warn of a “battlefield singularity,” a point at which humans can no longer keep up with the pace of conflict.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-military-robots/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebefa5288ead7be95a5c6c2/master/pass/Biz-robotskull-476996566.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Are AI-Powered Killer Robots Inevitable?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-as-machines-get-smarter-how-will-we-relate-to-them.md",
-      "title": "As Machines Get Smarter, How Will We Relate to Them?",
-      "excerpt": "My theory of robot mind was vaporized, replaced by a feeling of unease: As AI grows more capable and assertive, how will we relate to it? Generally speaking, people adapt well to new technologies. We steer hunks of speeding metal and communicate via tiny icons with élan.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/",
-      "ampWebUrl": "https://www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec31a45d58e99fafced809d/master/pass/How-We-Relate-to-AI.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "As Machines Get Smarter, How Will We Relate to Them?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-is-the-brain-a-useful-model-for-artificial-intelligence.md",
-      "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-      "excerpt": "In the summer of 2009, the Israeli neuroscientist Henry Markram strode onto the TED stage in Oxford, England, and made an immodest proposal: Within a decade, he said, he and his colleagues would build a complete simulation of the human brain inside a supercomputer.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/",
-      "ampWebUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/brain-model-artificial-intelligence/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-its-called-artificial-intelligencebut-what-is-intelligence.md",
-      "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
-      "excerpt": "Gurgling infants might seem like no match for artificial intelligence. They are terrible at labeling images, hopeless at mining text, and awful at videogames. Then again, babies can do things beyond the reach of any AI.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/",
-      "ampWebUrl": "https://www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec32f02480746372679073b/master/pass/ai-intelligence-business-01-update-01.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-why-didnt-artificial-intelligence-save-us-from-covid-19.md",
-      "title": "Why Didn't Artificial Intelligence Save Us From Covid-19?",
-      "excerpt": "In late January, more than a week before Covid-19 had been given that name, hospitals in Wuhan, China, began testing a new method to screen for the disease, using artificial intelligence. The plan involved chest CTs—three-dimensional scans of lungs displayed in finely detailed slices.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-couldnt-save-us-from-covid-19/",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-couldnt-save-us-from-covid-19/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-couldnt-save-us-from-covid-19/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebef9a16c0df3393bc20f6e/master/pass/Biz-hazmatdoc-1219925345.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Why Didn't Artificial Intelligence Save Us From Covid-19?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-sony-semiconductor-microsoft-partner-to-create-smart-camera-products-for-enterprise-customers.md",
-      "title": "Sony Semiconductor, Microsoft partner to create smart camera products for enterprise customers",
-      "excerpt": "Sony Semiconductor Solutions (Sony) and Microsoft are partnering to create products that make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. As a result of the partnership,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telecompaper.com/news/sony-semiconductor-microsoft-partner-to-create-smart-camera-products-for-enterprise-customers--1339097",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -751,28 +26,28 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-19-aaeon-ai-monitoring-for-fever-and-mask-detection.md",
-      "title": "AAEON AI monitoring for fever and mask detection",
-      "excerpt": "Monitor areas with high-volume foot traffic, such as metro station entrances, for mask compliance and people running a fever.",
-      "heat": 87,
+      "path": "_news/2020-05-20-chinas-didi-will-begin-using-ai-to-run-virus-monitoring-in-latin-america.md",
+      "title": "China's Didi will begin using AI to run virus monitoring in Latin America",
+      "excerpt": "China ride-hailing giant Didi Chuxing said on Wednesday that it will start using artificial intelligence (AI) technologies to verify if drivers in its Latin American markets wear masks and disinfect cars to keep rides safe amid the coronavirus pandemic.",
+      "heat": 86,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
-      "publishedDateTime": "2020-05-19T02:17:00-07:00",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-didi-idUSKBN22W0U3",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22W0U3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22W0U3",
+      "publishedDateTime": "2020-05-19T23:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -784,10 +59,10 @@
       },
       "images": [
         {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/19/ad69f266-7f5c-4de1-9202-2390c8122407/resize/1200x900/78b07e11530208db03d849cf9b79ba66/unnamed.jpg",
-          "width": 1074,
-          "height": 900,
-          "title": "AAEON AI monitoring for fever and mask detection",
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200520&t=2&i=1519261256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4J0H7",
+          "width": 805,
+          "height": 545,
+          "title": "China's Didi will begin using AI to run virus monitoring in Latin America",
           "attribution": null
         }
       ],
@@ -800,23 +75,23 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-tiktok-parent-bytedance-leads-6m-round-in-financial-ai-startup-lingxi.md",
-      "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
-      "excerpt": "TikTok’s parent company ByteDance has added Lingxi, a Beijing-based startup that applies machine intelligence to financial services such as debt collection and insurance sales, to its ever-expanding portfolio of investments.",
-      "heat": 89,
+      "path": "_news/2020-05-20-edge-ai-market-analysis-as-per-the-latest-covid-19-impact.md",
+      "title": "Edge AI Market Analysis as per the Latest COVID-19 Impact",
+      "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The global Edge AI market report provides geographic analysis covering regions,",
+      "heat": 129,
       "tags": null,
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/amp/",
-      "publishedDateTime": "2020-05-19T02:10:00-07:00",
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-analysis-as-per-the-latest-covid-19-impact-2020-05-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T20:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -828,10 +103,10 @@
       },
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/441589457034_.pic_hd-e1589588089905.jpg?w=1024",
-          "width": 1024,
-          "height": 544,
-          "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Edge AI Market Analysis as per the Latest COVID-19 Impact",
           "attribution": null
         }
       ],
@@ -840,58 +115,21 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-whats-the-role-of-microsoft-azure-in-the-iot-sphere.md",
-      "title": "What’s the role of Microsoft Azure in the IoT sphere?",
-      "excerpt": "An article by Kevin E. Kline, Principal Program Manager at SentryOne. Microsoft Azure is a cloud-based IaaS (infrastructure as a service) that has technically been around since 2008, and provides nearly two dozen categories of specific services.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/",
-      "ampWebUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
-      "cdnAmpWebUrl": "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
-      "publishedDateTime": "2020-05-19T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOT Business News",
-        "domain": "iotbusinessnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://iotbusinessnews.com/WordPress/wp-content/uploads/technology-code-software.jpg",
-          "width": 800,
-          "height": 360,
-          "title": "What’s the role of Microsoft Azure in the IoT sphere?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
-      "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
-      "excerpt": "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
+      "path": "_news/2020-05-20-changsha-intelligent-manufacturing-on-the-fast-track.md",
+      "title": "Changsha: Intelligent Manufacturing on the Fast Track",
+      "excerpt": "a type of self-driving taxi developed by Chinese tech giant Baidu. \"It's really a convenient service. The taxi arrived in just a few minutes after I typed in my destination address and pressed the ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
-      "publishedDateTime": "2020-05-19T01:24:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/changsha-intelligent-manufacturing-on-the-fast-track-1029217481",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/changsha-intelligent-manufacturing-on-the-fast-track-1029217481",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/changsha-intelligent-manufacturing-on-the-fast-track-1029217481",
+      "publishedDateTime": "2020-05-19T19:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -914,21 +152,401 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-19-how-machines-see-everything-you-need-to-know-about-computer-vision.md",
-      "title": "How machines see: everything you need to know about computer vision",
-      "excerpt": "The human vision is a very intricate piece of organic technology that involves our eyes and visual cortex, but also takes into account our mental models of objects, our abstract understanding of concepts and our personal experiences through billions and trillions of interactions we’ve made with the world in our lives.",
+      "path": "_news/2020-05-19-sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions.md",
+      "title": "Sony joins Microsoft to create AI-driven smart camera solutions",
+      "excerpt": "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. The companies will embed Microsoft Azure AI capabilities on Sony's intelligent vision sensor IMX500,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.webindia123.com/news/articles/Science/20200520/3561442.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
+      "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
+      "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "publishedDateTime": "2020-05-19T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5ec426f35504fd0099a9f91f/lede/1589913548738-Copy-of-Copy-of-Splitscreen-5.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-certified-azure-ai-fundamentals.md",
+      "title": "Microsoft Certified: Azure AI Fundamentals",
+      "excerpt": "This certification will be available on or around June 8, 2020. Azure AI Fundamentals validates foundational knowledge of machine learning and artificial intelligence concepts and related Microsoft Azure services.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Microsoft Certified: Azure AI Fundamentals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity.md",
+      "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
+      "excerpt": "For Daivergent, matching tech workers with autism to jobs isn't an act of charity. It was 2018, and Leon Campbell was worried about getting a job. The Hunter College grad, now 25, had a degree in computer science,",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity/",
+      "publishedDateTime": "2020-05-19T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/WnHHrp55u-AazHFNi1YkNLOOH1U=/756x567/2020/05/19/2501608e-54cd-4831-992a-af2e0acc7ea5/gettyimages-1219925426.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-how-to-find-out-which-facial-recognition-databases-you-may-be-in.md",
+      "title": "How to find out which facial recognition databases you may be in",
+      "excerpt": "With a basic online quiz, you can find the likelihood that your face is included in various government databases.",
       "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/amp/",
-      "publishedDateTime": "2020-05-19T01:20:00-07:00",
+      "webUrl": "https://www.businessinsider.com/how-to-find-which-facial-recognition-databases-you-are-in-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/how-to-find-which-facial-recognition-databases-you-are-in-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-find-which-facial-recognition-databases-you-are-in-2020-5?amp",
+      "publishedDateTime": "2020-05-19T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How to find out which facial recognition databases you may be in",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-builds-massive-supercomputer-for-smarter-ai.md",
+      "title": "Microsoft builds massive supercomputer for smarter AI",
+      "excerpt": "The Azure machine has 285,000 processor cores and 10,000 GPUs to tackle a new class of artificial intelligence tasks.",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
+      "publishedDateTime": "2020-05-19T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft builds massive supercomputer for smarter AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-google-halts-ai-tools-for-oil-industry-after-greenpeace-report.md",
+      "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
+      "excerpt": "The move comes after the report detailed links between Google, Amazon and Microsoft and oil and gas companies.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/amp/",
+      "publishedDateTime": "2020-05-19T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211427609%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-tesla-will-boost-its-full-self-driving-software-price-to-8000-in-july.md",
+      "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+      "excerpt": "As the electric-car maker's driver-assist software package moves closer to being truly full self-driving, the company is raising its price.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "publishedDateTime": "2020-05-19T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support.md",
+      "title": "Qeexo Named May \"Partner of the Month\" by Renesas for its AutoML Support",
+      "excerpt": "This honor reinforces Qeexo's methodology that pairing the Qeexo AutoML platform with a flexible MCU hardware platform is a strong value proposition for edge/endpoint processing. Qeexo's end-to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
+      "publishedDateTime": "2020-05-19T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness.md",
+      "title": "New AI from DeepMind and Google can detect a common cause of blindness",
+      "excerpt": "DeepMind and Google Health have developed an AI that can predict who'll get one of the world's most common causes of blindness.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness/amp/",
+      "publishedDateTime": "2020-05-19T10:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Web",
@@ -947,10 +565,84 @@
       },
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-1-1-796x417.png",
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-40-796x417.png",
           "width": 796,
           "height": 417,
-          "title": "How machines see: everything you need to know about computer vision",
+          "title": "New AI from DeepMind and Google can detect a common cause of blindness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-pirce-musk-says-it-will-be-worth-100k.md",
+      "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
+      "excerpt": "CEO Elon Musk announced via Twitter that Tesla will soon raise the cost of the full self driving option for their vehicles",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/",
+      "ampWebUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
+      "publishedDateTime": "2020-05-19T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inside EVs",
+        "domain": "insideevs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.motor1.com/images/mgl/6BLve/s1/top-five-reasons-why-consumers-buy-tesla-cars-video.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-facial-recognition-reunites-missing-child-after-32-years.md",
+      "title": "Facial recognition reunites missing child after 32 years",
+      "excerpt": "Facial recognition technology led to a joyful reunion and a happy ending to what was a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday.",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/",
+      "ampWebUrl": "https://www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/?outputType=amp",
+      "publishedDateTime": "2020-05-19T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Click Orlando",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.clickorlando.com/resizer/a7OufWIR6j0NLRAfMiTxGCqd7o8=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/05-19-2020/t_ce5dc077995b4a778e835315ee014a7f_name_file_1920x1080_5400_v4_.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Facial recognition reunites missing child after 32 years",
           "attribution": null
         }
       ],
@@ -964,52 +656,23 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-how-conversational-service-automation-can-boost-your-contact-center.md",
-      "title": "How Conversational Service Automation can boost your contact center",
-      "excerpt": "CSA has the capability to provide a massive overhaul to how contact centers function by using Artificial Intelligence, Machine Learning Natural Language Processing and RPA, writes Umesh Sachdev ...",
-      "heat": null,
+      "path": "_news/2020-05-19-facebooks-new-ai-tool-will-automatically-identify-items-you-put-up-for-sale.md",
+      "title": "Facebook’s new AI tool will automatically identify items you put up for sale",
+      "excerpt": "Facebook is launching what it’s calling a “universal product recognition model” that uses artificial intelligence to identify consumer goods, from furniture to fast fashion to fast cars. It’s the first step toward a future where the products in every image on its site can be identified and potentially shopped for.",
+      "heat": 94,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.ciol.com/conversational-service-automation-can-boost-contact-center/",
-      "ampWebUrl": "https://www.ciol.com/conversational-service-automation-can-boost-contact-center/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/conversational-service-automation-can-boost-contact-center/amp/",
-      "publishedDateTime": "2020-05-19T00:33:00-07:00",
+      "webUrl": "https://www.theverge.com/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet",
+      "publishedDateTime": "2020-05-19T10:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-facial-recognition-used-to-reunite-missing-child-with-family-after-32-years.md",
-      "title": "Facial recognition used to reunite missing child with family after 32 years",
-      "excerpt": "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology.",
-      "heat": 237,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html?ref=hvper.com",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html",
-      "publishedDateTime": "2020-05-18T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "The Verge",
+        "domain": "theverge.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1021,10 +684,254 @@
       },
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200519145036-chinese-city-of-xian--super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Facial recognition used to reunite missing child with family after 32 years",
+          "url": "https://cdn.vox-cdn.com/thumbor/5av4IoZlR7WwWz6z_6O7O5QryTo=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66817004/acastro_180522_facebook_0002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Facebook’s new AI tool will automatically identify items you put up for sale",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable.md",
+      "title": "Facebook develops new AI techniques to one day make \"anything shoppable\"",
+      "excerpt": "By improving product segmentation, detection and classification, Facebook is working towards building a holistic AI system for frictionless shopping on Marketplace or Facebook Pages.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable/",
+      "publishedDateTime": "2020-05-19T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/19/9c1802a8-a999-47f7-b53e-d3abd334f523/instance-mask-projection-model-graphic.png",
+          "width": 1071,
+          "height": 849,
+          "title": "Facebook develops new AI techniques to one day make \"anything shoppable\"",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-helps-sony-power-the-worlds-first-ai-image-sensor-with-azure.md",
+      "title": "Microsoft helps Sony power the world’s first AI image sensor with Azure",
+      "excerpt": "Sony is the top image sensor supplier to the smartphone industry and has a presence in other segments as well. The IMX500 is designed to power enterprise systems such as industrial cameras for monitoring product lines.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/05/19/microsoft-helps-sony-power-worlds-first-ai-image-sensor-azure/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-3.png",
+          "width": 718,
+          "height": 400,
+          "title": "Microsoft helps Sony power the world’s first AI image sensor with Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-adds-microsoft-powered-artificial-intelligence-to-imx500-video-camera-sensors.md",
+      "title": "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors",
+      "excerpt": "Sony is making video cameras smarter. The IMX500 line of intelligent video sensors will come with embedded access to artificial intelligence (AI) tools from Microsoft (NASDAQ:MSFT",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "publishedDateTime": "2020-05-19T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575066%2Findustrial-monitor-camera.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 925,
+          "title": "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment.md",
+      "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
+      "excerpt": "Developers, to help you advance your AI and machine learning (ML) skills with hands-on and engaging learning, the AWS Machine Learning Scholarship Program from Udacity is now open for enrollment. \nAWS and Udacity are collaborating to educate developers of all skill levels to expand their AWS ML expertise.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T09:49:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/19/ml-scholarship-2.jpg",
+          "width": 1000,
+          "height": 537,
+          "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-msft-sony-ai-camera-deal-to-boost-business-yield.md",
+      "title": "Microsoft (MSFT)-Sony AI-Camera Deal to Boost Business Yield",
+      "excerpt": "Microsoft MSFT recently inked a deal with Sony Semiconductor Solutions (Sony) aimed at delivering solutions to aid enterprises avail the benefits of AI-driven smart cameras with robust video analytics capabilities.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-sony-ai-camera-deal-to-boost-business-yield-2020-05-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-chinese-man-abducted-32-years-ago-as-toddler-reunited-with-birth-parents-thanks-to-facial-recognition-tech.md",
+      "title": "Chinese man abducted 32 years ago as toddler reunited with birth parents thanks to facial recognition tech",
+      "excerpt": "A Chinese man who was kidnapped as a toddler 32 years ago was reunited with his biological parents during an emotional news conference Monday after police used facial recognition technology to track him down and confirm his identity,",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/world/china-kidnapped-toddler-32-years-reunites-birth-parents-facial-recognition",
+      "ampWebUrl": "https://www.foxnews.com/world/china-kidnapped-toddler-32-years-reunites-birth-parents-facial-recognition.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-kidnapped-toddler-32-years-reunites-birth-parents-facial-recognition.amp",
+      "publishedDateTime": "2020-05-19T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Mao-Yin-2-Getty-Images.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Chinese man abducted 32 years ago as toddler reunited with birth parents thanks to facial recognition tech",
           "attribution": null
         }
       ],
@@ -1034,6 +941,96 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-americans-dont-know-why-they-dont-trust-self-driving-cars.md",
+      "title": "Americans don't know why they don't trust self-driving cars",
+      "excerpt": "A new survey from PAVE suggests self-driving car companies have a long way to go before they people trust their vehicles.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/pave-self-driving-car-survey-154045444.html",
+      "ampWebUrl": "https://www.engadget.com/amp/pave-self-driving-car-survey-154045444.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/pave-self-driving-car-survey-154045444.html",
+      "publishedDateTime": "2020-05-19T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=22628d1961500d0e3c76b6997a86c05744eeaae8",
+          "width": 600,
+          "height": 400,
+          "title": "Americans don't know why they don't trust self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-builds-a-new-online-developer-conference-experience.md",
+      "title": "Microsoft builds a new online developer conference experience",
+      "excerpt": "A look at what Microsoft announced at Microsoft Build 2020, as well as the considerations that went into making the event virtual",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/msft/microsoft-builds-a-new-online-developer-conference-experience/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/05/KDbEeqOL.jpeg",
+          "width": 680,
+          "height": 383,
+          "title": "Microsoft builds a new online developer conference experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

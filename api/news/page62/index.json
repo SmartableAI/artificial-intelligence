@@ -2,23 +2,23 @@
   "page": 62,
   "value": [
     {
-      "path": "_news/2020-04-08-creepy-face-recognition-firm-clearview-ai-sure-has-a-lot-of-ties-to-the-far-right.md",
-      "title": "Creepy Face Recognition Firm Clearview AI Sure Has a Lot of Ties to the Far Right",
-      "excerpt": "Clearview AI, the dystopian face recognition company that claims to have amassed a database of billions of photos, signed contracts with hundreds of law enforcement agencies, and shopped its app around to the rich and powerful, has extensive links to the far right, according to a Huffington Post investigation. In fact, one of its associates ...",
-      "heat": 99,
+      "path": "_news/2020-04-09-fmi-updates-medical-bionic-implants-and-exoskeletons-market-forecast-and-analysis-as-corona-virus-outbreak-disturbs-investment-plans.md",
+      "title": "FMI Updates Medical Bionic Implants And Exoskeletons Market Forecast and Analysis as Corona Virus Outbreak Disturbs Investment Plans",
+      "excerpt": "Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Download the sample copy of ...",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://gizmodo.com/creepy-face-recognition-firm-clearview-ai-sure-has-a-lo-1842740604",
-      "ampWebUrl": "https://gizmodo.com/creepy-face-recognition-firm-clearview-ai-sure-has-a-lo-1842740604/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/creepy-face-recognition-firm-clearview-ai-sure-has-a-lo-1842740604/amp",
-      "publishedDateTime": "2020-04-07T21:32:00-07:00",
+      "webUrl": "https://www.marketwatch.com/press-release/fmi-updates-medical-bionic-implants-and-exoskeletons-market-forecast-and-analysis-as-corona-virus-outbreak-disturbs-investment-plans-2020-04-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T03:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,47 +30,10 @@
       },
       "images": [
         {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Creepy Face Recognition Firm Clearview AI Sure Has a Lot of Ties to the Far Right",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-strategic-elements-turns-primary-focus-to-robotics-ai-and-automation.md",
-      "title": "Strategic Elements turns primary focus to robotics, AI and automation",
-      "excerpt": "SOR’s fully-owned artificial intelligence and robotics company Stealth Technologies is working with Honeywell to build experimental autonomous robotic vehicles. Strategic Elements Ltd (ASX:SOR) is increasing its focus on opportunities in robotics, artificial intelligence (AI) and automation, which are likely to see a big increase in ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/916869/strategic-elements-turns-primary-focus-to-robotics-ai-and-automation-916869.html",
-      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/916869",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/916869",
-      "publishedDateTime": "2020-04-07T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors UK",
-        "domain": "proactiveinvestors.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.proactiveinvestors.com.au/thumbs/upload/News/Image/2020_04/1200z740_1586306954_2020-04-08-10-49-14_db8c3de50fe04b48ce8d305771eaa76f.jpg",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 740,
-          "title": "Strategic Elements turns primary focus to robotics, AI and automation",
+          "height": 630,
+          "title": "FMI Updates Medical Bionic Implants And Exoskeletons Market Forecast and Analysis as Corona Virus Outbreak Disturbs Investment Plans",
           "attribution": null
         }
       ],
@@ -84,38 +47,30 @@
       ]
     },
     {
-      "path": "_news/2020-04-08-hong-kong-developer-chinachems-hotels-unit-brings-in-robots-to-beat-coronavirus-slump.md",
-      "title": "Hong Kong developer Chinachem’s hotels unit brings in robots to beat coronavirus slump",
-      "excerpt": "The company, which is wholly owned by property developer Chinachem Group, will have three artificial intelligence robots called Genie delivering meals and drinks to guests ... Last week, InterContinental Hong Kong hotel, also in Tsim Sha Tsui, opted to start a lengthy renovations process earlier than scheduled and let go of about 500 staff ...",
-      "heat": 81,
+      "path": "_news/2020-04-09-robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic.md",
+      "title": "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic",
+      "excerpt": "Students wary of coming into contact with COVID-19 at the dining hall can instead dispatch a robot to deliver food to their dorm.",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
-      "ampWebUrl": "https://amp.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
-      "publishedDateTime": "2020-04-07T18:30:00-07:00",
+      "webUrl": "https://madison.com/wsj/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.html",
+      "ampWebUrl": "https://madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html",
+      "publishedDateTime": "2020-04-09T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/07/c95fc976-77c9-11ea-9479-e3cad17ef2b4_image_hires_172711.jpg?itok=yRHzUuTY&v=1586251637",
-          "width": 1200,
-          "height": 630,
-          "title": "Hong Kong developer Chinachem’s hotels unit brings in robots to beat coronavirus slump",
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/3/fb/3fb77a79-7fe7-5882-84b1-de4944452c4c/5e8e28945f28f.image.jpg?resize=1024%2C701",
+          "width": 1024,
+          "height": 701,
+          "title": "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic",
           "attribution": null
         }
       ],
@@ -129,90 +84,16 @@
       ]
     },
     {
-      "path": "_news/2020-04-08-bring-your-own-model-for-amazon-sagemaker-labeling-workflows-with-active-learning.md",
-      "title": "Bring your own model for Amazon SageMaker labeling workflows with active learning",
-      "excerpt": "With Amazon SageMaker Ground Truth, you can easily and inexpensively build accurately labeled machine learning (ML) datasets. To decrease labeling costs, SageMaker Ground Truth uses active learning to differentiate between data objects (like images or documents) that are difficult and easy to label.",
-      "heat": 84,
+      "path": "_news/2020-04-09-accelerating-digital-transformation-in-manufacturing.md",
+      "title": "Accelerating digital transformation in manufacturing",
+      "excerpt": "Digital transformation in manufacturing has the potential to increase annual global economic value by $4.5 trillion according to the IDC MarketScape.i With so much upside, manufacturers are looking at how technologies like IoT, machine learning, and artificial intelligence (AI) can be used to optimize",
+      "heat": 72,
       "tags": null,
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-for-amazon-sagemaker-labeling-workflows-with-active-learning/",
+      "webUrl": "https://azure.microsoft.com/blog/accelerating-digital-transformation-in-manufacturing/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T17:10:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "Bring your own model for Amazon SageMaker labeling workflows with active learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-artificial-intelligence-ai-in-agriculture.md",
-      "title": "Artificial Intelligence (AI) in Agriculture",
-      "excerpt": "Artificial Intelligence has various application in agriculture ranging from rural automatons, facial acknowledgment, computerized water system frameworks, and driverless tractors. These ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/2004110/artificial-intelligence-ai-in-agriculture-market-overall",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-aws-to-azure-services-comparison.md",
-      "title": "AWS to Azure services comparison",
-      "excerpt": "This article helps you understand how Microsoft Azure services compare to Amazon Web Services (AWS). Whether you are planning ... including single virtual machine or multiple virtual machine solutions. SageMaker Machine Learning A cloud service to train ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T17:00:00-07:00",
+      "publishedDateTime": "2020-04-09T02:00:12-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -231,84 +112,10 @@
       },
       "images": [
         {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "AWS to Azure services comparison",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-deep-learning-shows-promising-growth-amid-challenges.md",
-      "title": "Deep Learning Shows Promising Growth Amid Challenges",
-      "excerpt": "Deep learning, a subset of machine learning and artificial intelligence (AI), has been there since a while, but became an overnight “sensation” when in 2016, Google’s AI program, a robot ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cxotoday.com/news-analysis/deep-learning-shows-promising-growth-amid-challenges/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CXO Today",
-        "domain": "cxotoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cxotoday.com/wp-content/uploads/2020/04/deep-learning5.jpg",
-          "width": 600,
-          "height": 450,
-          "title": "Deep Learning Shows Promising Growth Amid Challenges",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-security-measure-or-big-brother-civil-rights-groups-ask-amazon-to-stop-selling-its-facial-recognition-system-to-law-enforcement.md",
-      "title": "Security measure or Big Brother? Civil rights groups ask Amazon to stop selling its facial recognition system to law enforcement",
-      "excerpt": "The technology, called Rekognition, was released in 2016 through Amazon’s cloud computing division. For a low price, it helps users identify people, objects, scenes and activities in videos or ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scpr.org/programs/airtalk/2018/05/24/63078/security-measure-or-big-brother-civil-rights-group/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPCC",
-        "domain": "scpr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a.scpr.org/i/8008c8cbd74aba3f0f7b599bcb88a11c/161224-full.jpg",
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d3ef2473-cd90-46d6-a056-b82f9ab7f3c2.jpg",
           "width": 1024,
-          "height": 768,
-          "title": "Security measure or Big Brother? Civil rights groups ask Amazon to stop selling its facial recognition system to law enforcement",
+          "height": 683,
+          "title": "Accelerating digital transformation in manufacturing",
           "attribution": null
         }
       ],
@@ -317,65 +124,27 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2020-04-08-why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success.md",
-      "title": "Why your firm should host a hackathon – and 5 ways to ensure its success",
-      "excerpt": "Hackathons have become de rigueur in the tech world – Facebook, Inc. held its 50th in February – but it’s not just tech companies that can benefit from scheduling an all-day brainstorming and development session, management consultants Elizabeth ...",
-      "heat": null,
+      "path": "_news/2020-04-09-singapore-dangles-70m-package-to-help-fintech-fsi-firms-drive-digital-efforts.md",
+      "title": "Singapore dangles $70M package to help fintech, FSI firms drive digital efforts",
+      "excerpt": "essential as it adopts new technologies such as AI, as well as more funding support for deep-tech startups and SMBs. Read More Funded by the country's Financial Sector Development Fund, the SG$125 million package focused on three components comprising workforce training and manpower costs, digitalisation and operational resilience, and fintech ...",
+      "heat": 80,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436",
-      "ampWebUrl": "https://www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436?amp=1",
-      "publishedDateTime": "2020-04-07T17:00:00-07:00",
+      "webUrl": "https://www.zdnet.com/article/singapore-dangles-70m-package-to-help-fintech-fsi-firms-drive-digital-efforts/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-dangles-70m-package-to-help-fintech-fsi-firms-drive-digital-efforts/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-dangles-70m-package-to-help-fintech-fsi-firms-drive-digital-efforts/",
+      "publishedDateTime": "2020-04-09T00:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2016/04/Hackathons-header.jpg",
-          "width": 620,
-          "height": 250,
-          "title": "Why your firm should host a hackathon – and 5 ways to ensure its success",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-tesla-is-hiking-the-price-of-its-semi-autonomous-full-self-driving-package-soon-in-anticipation-of-new-over-the-air-updates.md",
-      "title": "Tesla is hiking the price of its semi-autonomous 'Full Self-Driving' package soon in anticipation of new over-the-air updates",
-      "excerpt": "Driving package is not currently autonomous, but features semi-autonomous features like automated lane changes and Tesla's \"Summon.\"",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/tesla-will-hike-price-semi-autonomous-full-self-driving-package-2020-4",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-will-hike-price-semi-autonomous-full-self-driving-package-2020-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-will-hike-price-semi-autonomous-full-self-driving-package-2020-4?amp",
-      "publishedDateTime": "2020-04-07T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -387,10 +156,10 @@
       },
       "images": [
         {
-          "url": "https://i.insider.com/5e8cc62373d0c85e5057b3d5?width=1200&format=jpeg",
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/26/85e9778f-abfa-4966-914a-e8a7a82e2236/thumbnail/1200x675/fbe7926652330423f7c1d9dbe3d95609/virus-coronavirus-covid-19-stock-photo.png",
           "width": 1200,
-          "height": 600,
-          "title": "Tesla is hiking the price of its semi-autonomous 'Full Self-Driving' package soon in anticipation of new over-the-air updates",
+          "height": 675,
+          "title": "Singapore dangles $70M package to help fintech, FSI firms drive digital efforts",
           "attribution": null
         }
       ],
@@ -399,35 +168,43 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-07-uc-san-diego-health-uses-ai-to-augment-covid-19-lung-imaging-analysis.md",
-      "title": "UC San Diego Health uses AI to augment COVID-19 lung imaging analysis",
-      "excerpt": "To quickly detect pneumonia -- and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home -- UC San Diego Health radiologists and other physicians are now using artificial intelligence ... by Amazon Web Services (AWS). The new AI capability ...",
-      "heat": 99,
+      "path": "_news/2020-04-09-google-expands-its-conversational-duplex-ai-to-the-uk-australia-and-canada.md",
+      "title": "Google expands its conversational Duplex AI to the UK, Australia and Canada",
+      "excerpt": "Google’s high-tech Duplex AI calling service has quietly made its way to the UK, Australia and Canada. The tech giant originally launched the feature in the US back in 2018 before it started a pilot testing for it in New Zealand a year later. With Duplex, you can ask Google Assistant to call, say, restaurants or car rentals for you ...",
+      "heat": 85,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx",
-      "publishedDateTime": "2020-04-07T13:15:00-07:00",
+      "webUrl": "https://www.engadget.com/google-duplex-ai-uk-australia-canada-065647926.html",
+      "ampWebUrl": "https://www.engadget.com/amp/google-duplex-ai-uk-australia-canada-065647926.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-duplex-ai-uk-australia-canada-065647926.html",
+      "publishedDateTime": "2020-04-09T00:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "UC San Diego Health uses AI to augment COVID-19 lung imaging analysis",
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Fc25452f0-7a2b-11ea-b6bd-6db87fe71403&client=amp-blogside-v2&signature=0dc9cee41896177dbcc23190188c405db8a79342",
+          "width": 600,
+          "height": 350,
+          "title": "Google expands its conversational Duplex AI to the UK, Australia and Canada",
           "attribution": null
         }
       ],
@@ -436,28 +213,27 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-07-apple-acquires-ai-start-up-voysis.md",
-      "title": "Apple Acquires AI Start-Up Voysis",
-      "excerpt": "He served on active duty with the US Army and has a Bachelor's degree in accounting. Follow @dannyvena Apple (NASDAQ:AAPL) has acquired Voysis, an artificial intelligence (AI) start-up focused on helping systems provide better responses to voice commands. Bloomberg reported the acquisition on Friday. The most obvious application would be to ...",
+      "path": "_news/2020-04-09-googles-crazy-duplex-ai-calling-service-is-coming-to-3-more-markets.md",
+      "title": "Google’s crazy Duplex AI calling service is coming to 3 more markets",
+      "excerpt": "Google’s Duplex calling functionality is one of the more impressive inventions we’ve seen, delivering an AI concierge that’s capable of arranging appointments for you over the phone. This functionality is currently available in the US only, although Google was conducting a pilot test of sorts in New Zealand. Now, VentureBeat has uncovered ...",
       "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx",
-      "publishedDateTime": "2020-04-07T13:12:00-07:00",
+      "webUrl": "https://www.androidauthority.com/google-duplex-markets-1103531/",
+      "ampWebUrl": "https://www.androidauthority.com/google-duplex-markets-1103531/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-duplex-markets-1103531/amp/",
+      "publishedDateTime": "2020-04-08T23:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -469,10 +245,10 @@
       },
       "images": [
         {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F567147%2Fgirl-using-a-smart-phone-voice-recognition.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Apple Acquires AI Start-Up Voysis",
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/05/duplex-2-Google-2019-e1586412199711-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Google’s crazy Duplex AI calling service is coming to 3 more markets",
           "attribution": null
         }
       ],
@@ -485,16 +261,16 @@
       ]
     },
     {
-      "path": "_news/2020-04-07-blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation.md",
-      "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
-      "excerpt": "BlackRock and Microsoft Corp. have formed a strategic partnership to host BlackRock’s Aladdin infrastructure on the Microsoft Azure cloud platform,",
-      "heat": null,
+      "path": "_news/2020-04-09-artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026.md",
+      "title": "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026",
+      "excerpt": "Market Study Report adds 2020-2026 Global Artificial Intelligence (AI) in Automotive report that offers an exhaustive coverage of",
+      "heat": 70,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation-2020-04-07",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T13:00:00-07:00",
+      "publishedDateTime": "2020-04-08T22:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -516,7 +292,7 @@
           "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
-          "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+          "title": "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026",
           "attribution": null
         }
       ],
@@ -525,65 +301,21 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-07-googles-ai-learns-how-to-navigate-environments-from-limited-data.md",
-      "title": "Google’s AI learns how to navigate environments from limited data",
-      "excerpt": "Carnegie Mellon, Google, and Stanford researchers write in a paper that they’ve developed a framework for using weak supervision — a form of AI training where the model learns from large amounts of limited, imprecise, or noisy data — that enables robots to efficiently explore a challenging environment. By learning to reach only areas of ...",
-      "heat": 97,
+      "path": "_news/2020-04-09-robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak.md",
+      "title": "Robots Are Cleaning Grocery Store Floors During The Coronavirus Outbreak",
+      "excerpt": "The coronavirus outbreak has forced retailers to focus more on sanitation while they are struggling to restock shelves and hire more employees. Some grocery stores are turning to floor cleaning robots for additional help.",
+      "heat": 88,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/googles-ai-learns-how-to-navigate-environments-from-limited-data/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/googles-ai-learns-how-to-navigate-environments-from-limited-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/googles-ai-learns-how-to-navigate-environments-from-limited-data/amp/",
-      "publishedDateTime": "2020-04-07T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/robot-on-computer.jpg?fit=1198%2C599&strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": "Google’s AI learns how to navigate environments from limited data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-the-dirty-truth-about-seo-in-2020.md",
-      "title": "The Dirty Truth About SEO In 2020",
-      "excerpt": "The truth is, no one really gets SEO. What Google does is highly secretive, based on complex algorithms and machine learning. You’ll probably hear a lot of mumbo jumbo from some SEO consultants. Once upon a time,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/04/06/the-dirty-truth-about-seo-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/04/06/the-dirty-truth-about-seo-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/04/06/the-dirty-truth-about-seo-in-2020/amp/",
-      "publishedDateTime": "2020-04-07T12:02:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/",
+      "publishedDateTime": "2020-04-08T20:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -602,84 +334,10 @@
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Ftheyec%2Ffiles%2F2020%2F04%2Fa-16.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The Dirty Truth About SEO In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-how-voice-technology-is-reshaping-businesses.md",
-      "title": "How Voice Technology Is Reshaping Businesses",
-      "excerpt": "It’s AI that makes voice tech as effective as it currently is. The voice recognition software is only part of the equation. The real utility here lies in the fact that AI can understand what you’re saying. As machine learning continues to improve, we’ll see voice tech becoming even more useful. Initially, voice tech seemed like passing fad.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hostreview.com/blog/200407-how-voice-technology-is-reshaping-businesses",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Host Review",
-        "domain": "hostreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "How Voice Technology Is Reshaping Businesses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-self-driving-cars-are-helping-the-coronavirus-fight-in-florida.md",
-      "title": "Self-driving cars are helping the coronavirus fight in Florida",
-      "excerpt": "With already limited staff, it's hard for people to be everywhere at once. Now, the Mayo Clinic is using self-driving cars to ease the burden. On March 30, the Mayo Clinic in Florida launched its program with four vehicles. The shuttles, which do not have any attendants or people onboard, transfer coronavirus tests and medical supplies from a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125",
-      "ampWebUrl": "https://www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125/amp",
-      "cdnAmpWebUrl": "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125/amp",
-      "publishedDateTime": "2020-04-07T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mic",
-        "domain": "mic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://imgix.bustle.com/uploads/image/2020/4/7/29123b17-85f2-46ca-b31f-a9dcde4d2b1e-screen-shot-2020-04-07-at-15630-pm.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e71b1b4aaaa0006eceb13%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3999",
           "width": 1200,
-          "height": 630,
-          "title": "Self-driving cars are helping the coronavirus fight in Florida",
+          "height": 800,
+          "title": "Robots Are Cleaning Grocery Store Floors During The Coronavirus Outbreak",
           "attribution": null
         }
       ],
@@ -688,43 +346,35 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-07-optimizing-japanese-text-to-speech-with-amazon-polly.md",
-      "title": "Optimizing Japanese text-to-speech with Amazon Polly",
-      "excerpt": "Amazon Polly is a cloud service that offers text-to-speech (TTS), a system that converts text input into a waveform, in a range of 61 voices in 29 languages by using advanced deep learning technologies. The Amazon Polly service supports companies in developing digital products that use speech synthesis",
-      "heat": 89,
+      "path": "_news/2020-04-09-node-enables-companies-to-build-ai-into-their-applications-products-and-business-processes.md",
+      "title": "Node enables companies to build AI into their applications, products, and business processes",
+      "excerpt": "“Node has built ‘AI for the rest of us’ and is delivering self-service predictions to the market of over 100M companies and fortune 2000 that don’t have the expertise, data or available resources required to implement AI with the existing infrastructure-as-a-service and autoML tools that exist across cloud offerings.” As the first and ...",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-japanese-text-to-speech-with-amazon-polly/",
+      "webUrl": "https://www.helpnetsecurity.com/2020/04/09/node-self-service-ai/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T10:59:57-07:00",
+      "publishedDateTime": "2020-04-08T19:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Optimizing Japanese text-to-speech with Amazon Polly",
+          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg",
+          "width": 304,
+          "height": 430,
+          "title": "Node enables companies to build AI into their applications, products, and business processes",
           "attribution": null
         }
       ],
@@ -733,67 +383,21 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
-      "path": "_news/2020-04-07-microsofts-cto-explains-how-ai-can-help-health-care-in-the-us-right-now.md",
-      "title": "Microsoft’s CTO explains how AI can help health care in the US right now",
-      "excerpt": "Scott’s book tackles how artificial intelligence and machine learning can help rural America in a more grounding way, from employment to education to public health. In one chapter of his book, Scott focuses on how AI can assist with health care and diagnostic issues — a prominent concern in the US today,",
-      "heat": 90,
+      "path": "_news/2020-04-09-startup-stimulus-how-logjams-and-ethics-are-impacting-federal-loans-for-tech-companies.md",
+      "title": "Startup stimulus? How logjams and ethics are impacting federal loans for tech companies",
+      "excerpt": "Several startup founders attributed their experience, good or bad, to the bank facilitating the loan. Dan Wachtler, CEO of an artificial intelligence upstart called Darklight, immediately recognized that the type of bank he chose would impact his likelihood of success. Wachtler’s background working with big banks as clients informed his decision.",
+      "heat": 81,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.theverge.com/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
-      "publishedDateTime": "2020-04-07T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/TrMdv5CKOKd-anE8ovz4hZ2WC84=/0x0:1314x739/1400x933/filters:focal(558x160:768x370):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66617290/y648_1.0.jpg",
-          "width": 1314,
-          "height": 739,
-          "title": "Microsoft’s CTO explains how AI can help health care in the US right now",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-the-quest-for-a-better-blockchain-former-microsoft-ai-chief-invests-in-seattle-startup-asensys.md",
-      "title": "The quest for a better blockchain: Former Microsoft AI chief invests in Seattle startup Asensys",
-      "excerpt": "Harry Shum, former head of Microsoft’s AI and Research Group, in his Redmond office in 2017. (GeekWire File Photo / Todd Bishop) Asensys, a Seattle startup promising to build a more scalable and efficient blockchain infrastructure, has landed noted computer scientist and former Microsoft artificial intelligence chief Harry Shum as one of the ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/",
-      "ampWebUrl": "https://www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/amp/",
-      "publishedDateTime": "2020-04-07T10:32:00-07:00",
+      "webUrl": "https://www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/",
+      "ampWebUrl": "https://www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/amp/",
+      "publishedDateTime": "2020-04-08T18:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "GeekWire",
@@ -812,10 +416,10 @@
       },
       "images": [
         {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/09/harryshum-1-1-630x418.png",
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/01/20190209_145224-630x473.jpg",
           "width": 630,
-          "height": 418,
-          "title": "The quest for a better blockchain: Former Microsoft AI chief invests in Seattle startup Asensys",
+          "height": 473,
+          "title": "Startup stimulus? How logjams and ethics are impacting federal loans for tech companies",
           "attribution": null
         }
       ],
@@ -824,27 +428,28 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-07-facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks.md",
-      "title": "Facebook apologizes after AI blocks posts about DIY coronavirus masks",
-      "excerpt": "Facebook’s AI moderators claimed another innocent victim this week when an algorithm blocked content on DIY coronavirus masks. The system threatened to ban mask makers in Pennsylvania, Illinois, and California, The New York Times reports. These groups were set up to fill a gap in protective gear that has forced hospital staff to don ski ...",
-      "heat": 87,
+      "path": "_news/2020-04-09-zoom-hires-ex-facebook-security-chief-alex-stamos-as-google-bans-desktop-app.md",
+      "title": "Zoom hires ex-Facebook security chief Alex Stamos as Google bans desktop app",
+      "excerpt": "Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries. The report also includes exclusive access to webinars to interact with C-level executives from ...",
+      "heat": 71,
       "tags": null,
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/amp/",
-      "publishedDateTime": "2020-04-07T10:11:00-07:00",
+      "webUrl": "https://www.scmp.com/tech/apps-social/article/3079121/zoom-hires-ex-facebook-security-chief-alex-stamos-google-bans",
+      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3079121/zoom-hires-ex-facebook-security-chief-alex-stamos-google-bans",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3079121/zoom-hires-ex-facebook-security-chief-alex-stamos-google-bans",
+      "publishedDateTime": "2020-04-08T18:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -856,10 +461,10 @@
       },
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design54-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Facebook apologizes after AI blocks posts about DIY coronavirus masks",
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/09/f2f3e990-7a01-11ea-9b24-e7152d1bf921_image_hires_093548.jpg?itok=LcKuL49k&v=1586396156",
+          "width": 1200,
+          "height": 630,
+          "title": "Zoom hires ex-Facebook security chief Alex Stamos as Google bans desktop app",
           "attribution": null
         }
       ],
@@ -868,34 +473,43 @@
         "news"
       ],
       "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-07-ibm-is-getting-ready-to-fight-for-a-place-in-the-cloud-universe.md",
-      "title": "IBM Is Getting Ready To Fight For A Place In The Cloud Universe",
-      "excerpt": "It all started when International Business Machines Corporation (NYSE: IBM) joined forces with the open-source software giant Red Hat. The deal was closed in July 2019,",
-      "heat": null,
+      "path": "_news/2020-04-09-google-expands-ai-calling-service-duplex-to-australia-canada-and-the-uk.md",
+      "title": "Google expands AI calling service Duplex to Australia, Canada, and the UK",
+      "excerpt": "Google’s automated, artificial intelligence-powered calling service Duplex is now available in more countries, according to a support page updated today. In addition to the US and New Zealand, Duplex is now available in Australia,",
+      "heat": 96,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/markets/20/04/15757392/ibm-is-getting-ready-to-fight-for-a-place-in-the-cloud-universe",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T10:05:00-07:00",
+      "webUrl": "https://www.theverge.com/2020/4/8/21214321/google-duplex-ai-automated-calling-australia-canada-uk-expansion",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/8/21214321/google-duplex-ai-automated-calling-australia-canada-uk-expansion",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/8/21214321/google-duplex-ai-automated-calling-australia-canada-uk-expansion",
+      "publishedDateTime": "2020-04-08T17:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/carson-masterson-0mxw-dvulok-unsplash_1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "IBM Is Getting Ready To Fight For A Place In The Cloud Universe",
+          "url": "https://cdn.vox-cdn.com/thumbor/6QA2AXffPO1DJM2OwDoTCFXEYsc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66625892/acastro_180510_1777_google_assistant_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Google expands AI calling service Duplex to Australia, Canada, and the UK",
           "attribution": null
         }
       ],
@@ -904,21 +518,20 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-07-tenstorrent-launches-ai-chip-with-conditional-execution.md",
-      "title": "Tenstorrent Launches AI Chip With Conditional Execution",
-      "excerpt": "Analyst Karl Freund gives his take on the Cambrian Explosion of new AI chips and how the bar will continue to creep higher. The latest entrant to emerge from Stealth is Canada’s Tenstorrent, who has some aggressive optimizations that make them stand out in the crowd.",
-      "heat": 104,
+      "path": "_news/2020-04-09-dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence.md",
+      "title": "Don't Be Afraid Of The New Kid At The Job Fair: Artificial Intelligence",
+      "excerpt": "But today’s college graduates have a new question on their radar: “Will I have to compete with artificial intelligence (AI), too?” In a word, no. I believe fears around AI wiping out jobs are largely overblown, but you can’t fault new grads for worrying. A quick scan of tech news could lead anyone to believe that AI is the Grim Reaper ...",
+      "heat": 102,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/amp/",
-      "publishedDateTime": "2020-04-07T10:03:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/04/09/dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/04/09/dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/04/09/dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-04-08T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -937,10 +550,10 @@
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8cacf5e9952f0006c612e3%2F0x0.jpg",
-          "width": 563,
-          "height": 291,
-          "title": "Tenstorrent Launches AI Chip With Conditional Execution",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbescommunicationscouncil%2Ffiles%2F2020%2F04%2Fa-43.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Don't Be Afraid Of The New Kid At The Job Fair: Artificial Intelligence",
           "attribution": null
         }
       ],
@@ -949,35 +562,159 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-07-driverless-vehicles-are-transporting-covid-19-tests-between-test-site-lab-in-florida.md",
-      "title": "Driverless vehicles are transporting COVID-19 tests between test site, lab in Florida",
-      "excerpt": "Driverless vehicles are being used in northeast ... according to the Mayo Clinic. “Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using ...",
+      "path": "_news/2020-04-09-halcon-deep-learning-software-package-updated-with-improvements-for-industrial-pcs-and-embedded-devices.md",
+      "title": "HALCON deep learning software package updated with improvements for industrial PCs and embedded devices",
+      "excerpt": "Version 20.05, the latest update to MVTec’s HALCON deep learning software package, features an advanced decoding algorithm for barcode reading that allows codes with bars smaller than one pixel to be scanned. The new release also allows deep learning ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html",
-      "ampWebUrl": "https://www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp",
-      "publishedDateTime": "2020-04-07T09:37:00-07:00",
+      "webUrl": "https://www.vision-systems.com/boards-software/article/14173758/halcon-deep-learning-software-version-20-05-improved-support-for-embedded-devices-and-industrial-pc",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Sun Sentinel",
-        "domain": "sun-sentinel.com",
+        "name": "Vision Systems Design",
+        "domain": "vision-systems.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-after-coronavirus-ai-could-be-central-to-our-new-normal.md",
+      "title": "After coronavirus, AI could be central to our new normal",
+      "excerpt": "The current COVID-19 crisis could provide a similar inflection point for AI applications. While the implications of AI continue to be debated on the world stage, the rapid onset of a global health crisis and concomitant recession will accelerate its impact. Times of crisis bring rapid change. Efforts to harness AI technologies to discover new ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/08/after-coronavirus-ai-could-be-central-to-our-new-normal/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/08/after-coronavirus-ai-could-be-central-to-our-new-normal/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/08/after-coronavirus-ai-could-be-central-to-our-new-normal/amp/",
+      "publishedDateTime": "2020-04-08T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.sun-sentinel.com/resizer/iYi9LMBDKD3GKRWmhpK920iZT7Y=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/RHUO5ROTPRBJXAVWDTN6HF24TU.JPG",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/edge.jpg?fit=2120%2C1414&strip=all",
+          "width": 2120,
+          "height": 1414,
+          "title": "After coronavirus, AI could be central to our new normal",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-google-cloud-launches-new-ai-chatbot-for-covid-19-information.md",
+      "title": "Google Cloud launches new AI chatbot for COVID-19 information",
+      "excerpt": "Delivered Daily Artificial intelligence and machine learning are continuing to take a front-row seat in fighting COVID-19, with Google Cloud launching an AI chatbot on Wednesday. The chatbot, which it calls the Rapid Response Virtual Agent program, will provide information to battle the COVID-19 pandemic, as announced in a Google blog.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/google-cloud-launches-new-ai-chatbot-for-covid-19-information/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/google-cloud-launches-new-ai-chatbot-for-covid-19-information/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-launches-new-ai-chatbot-for-covid-19-information/",
+      "publishedDateTime": "2020-04-08T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/08/edeae713-3857-4811-a1ee-4be521db5ae0/resize/1200x/cdcf07d88eb6d4823cf25a9648f5b6c1/google-images.jpg",
           "width": 1200,
-          "height": 635,
-          "title": "Driverless vehicles are transporting COVID-19 tests between test site, lab in Florida",
+          "height": 735,
+          "title": "Google Cloud launches new AI chatbot for COVID-19 information",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-nuro-cleared-to-test-self-driving-delivery-vehicles-in-california.md",
+      "title": "Nuro cleared to test self-driving delivery vehicles in California",
+      "excerpt": "The small driverless vehicles could help deliver goods amid the coronavirus pandemic. ns will soon see an odd, new vehicle motoring around local roads after the state cleared Nuro to test its self-driving delivery car in the state,",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "publishedDateTime": "2020-04-08T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gh9rCPWglLqLLnPkvD6PHLBo1B4=/2020/04/08/e348bb1c-3476-4cd5-9d9b-45f1c08c60c5/ogi-nuro.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Nuro cleared to test self-driving delivery vehicles in California",
           "attribution": null
         }
       ],
@@ -991,23 +728,23 @@
       ]
     },
     {
-      "path": "_news/2020-04-07-north-america-machine-learning-market-analysis-by-top-companies-driver.md",
-      "title": "North America Machine Learning Market Analysis by Top Companies, Driver",
-      "excerpt": "The value of the machine learning market in North America is expected to reach USD 8.07 Bn by 2023, expanding at a",
-      "heat": 71,
+      "path": "_news/2020-04-08-researchers-open-source-state-of-the-art-object-tracking-ai.md",
+      "title": "Researchers open-source state-of-the-art object tracking AI",
+      "excerpt": "A team of Microsoft and Huazhong University researchers this week open-sourced an AI object detector — Fair Multi-Object Tracking (FairMOT) — they claim outperforms state-of-the-art models on public data sets at 30 frames per second. If productized, it could benefit industries ranging from elder care to security, and perhaps be used to ...",
+      "heat": 97,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-machine-learning-market-analysis-by-top-companies-driver-2020-04-07?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T09:37:00-07:00",
+      "webUrl": "https://venturebeat.com/2020/04/08/researchers-open-source-state-of-the-art-object-tracking-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/08/researchers-open-source-state-of-the-art-object-tracking-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/08/researchers-open-source-state-of-the-art-object-tracking-ai/amp/",
+      "publishedDateTime": "2020-04-08T13:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1019,10 +756,10 @@
       },
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/b9355a07-e2bb-4f05-9662-bdce9c625cb4-e1586377374664.png?fit=1200%2C600&strip=all",
           "width": 1200,
-          "height": 630,
-          "title": "North America Machine Learning Market Analysis by Top Companies, Driver",
+          "height": 600,
+          "title": "Researchers open-source state-of-the-art object tracking AI",
           "attribution": null
         }
       ],
@@ -1031,9 +768,319 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-using-cloudfront-to-secure-your-web-applications.md",
+      "title": "Using CloudFront to secure your web applications",
+      "excerpt": "Cybersecurity is a hot topic now. If you search on Google about how to protect your website, you may find many buzzwords, IDS, IPS, WAF, DDoS, Proxy, you name it. You may think protecting your ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/swlh/using-aws-to-secure-your-web-applications-3bd363206875",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ner-yFUzwHIG_nkxW9C29g.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Using CloudFront to secure your web applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-storytelling-diversity-the-ai-edge-in-la.md",
+      "title": "Storytelling & Diversity: The AI Edge In LA",
+      "excerpt": "LA is known as the land of storytellers, but when it comes to its own story, the entertainment business is still front and center. In fact, LA has been at the core of a flourishing AI scene for decades.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/08/ai-edge-la/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/08/ai-edge-la/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/08/ai-edge-la/amp/",
+      "publishedDateTime": "2020-04-08T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e1eabfc5d3f00067c5eba%2F0x0.jpg",
+          "width": 978,
+          "height": 1037,
+          "title": "Storytelling & Diversity: The AI Edge In LA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-how-ai-is-helping-scientists-in-the-fight-against-covid-19-from-robots-to-predicting-the-future.md",
+      "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
+      "excerpt": "“AI is playing numerous roles, all of which are important based on where we are in the pandemic cycle,” the two told GeekWire in an email. “But what if the virus could have been contained?” Canadian health surveillance startup BlueDot was among the first in the world to identify the COVID-19 risk and accurately predict its ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/",
+      "publishedDateTime": "2020-04-08T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/02/190210-ai-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
-        "AI in Finance"
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-google-releases-api-to-train-smaller-faster-ai-models.md",
+      "title": "Google releases API to train smaller, faster AI models",
+      "excerpt": "The QAT API solves this by simulating low-precision computation during the AI model training process. Quantization error is introduced as noise throughout the training, which QAT API’s algorithm tries to minimize such that it learns variables more robust to quantization. A training graph leverages operations that convert floating-point ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/08/google-releases-api-to-train-smaller-faster-ai-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/08/google-releases-api-to-train-smaller-faster-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/08/google-releases-api-to-train-smaller-faster-ai-models/amp/",
+      "publishedDateTime": "2020-04-08T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases API to train smaller, faster AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-coronavirus-crisis-gives-an-opportunity-for-ai-to-shine.md",
+      "title": "Coronavirus crisis gives an opportunity for AI to shine",
+      "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) It seems that artificial intelligence (AI) and machine learning (ML) have important roles to play as physicians, hospitals, pharmaceutical companies, and others directly engaged in the coronavirus fight try to find rapid therapeutic and containment answers.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
+      "publishedDateTime": "2020-04-08T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/08/0f2c7dfc-c9c7-468a-a36d-eafc5cc75256/resize/1200x/48d39f57b6e8ab042b8f7759922c32a7/istock-1204743045.jpg",
+          "width": 1200,
+          "height": 654,
+          "title": "Coronavirus crisis gives an opportunity for AI to shine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-ai-and-account-based-marketing-in-a-time-of-disruption.md",
+      "title": "AI And Account Based Marketing In A Time Of Disruption",
+      "excerpt": "How is AI holding up? Has the pandemic impacted the quality of data used to feed analytic tools that help marketers create both strategic and tactical scenarios and insights? Alex Atzberger: There is more data and more need for automation and AI now than ever.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/paultalbot/2020/04/08/ai-and-account-based-marketing-in-a-time-of-disruption/",
+      "ampWebUrl": "https://www.forbes.com/sites/paultalbot/2020/04/08/ai-and-account-based-marketing-in-a-time-of-disruption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultalbot/2020/04/08/ai-and-account-based-marketing-in-a-time-of-disruption/amp/",
+      "publishedDateTime": "2020-04-08T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e05d52b720000076d7f52%2F0x0.jpg",
+          "width": 1199,
+          "height": 915,
+          "title": "AI And Account Based Marketing In A Time Of Disruption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-china-may-forge-ahead-of-the-us-in-ai-chip-race-but-at-what-cost-to-both.md",
+      "title": "China may forge ahead of the US in AI chip race, but at what cost to both?",
+      "excerpt": "Success in artificial intelligence is not limited to data and algorithms. The third component that determines success in research and applications is advanced specialised AI chips that provide increased computing power and storage, while decreasing energy consumption. Companies that have access to leading-edge AI chips are essentially in the ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/comment/opinion/article/3078827/china-may-forge-ahead-us-ai-chip-race-what-cost-both",
+      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3078827/china-may-forge-ahead-us-ai-chip-race-what-cost-both",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3078827/china-may-forge-ahead-us-ai-chip-race-what-cost-both",
+      "publishedDateTime": "2020-04-08T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/04/09/1d2a7b84-78c2-11ea-9479-e3cad17ef2b4_image_hires_014859.JPG?itok=3BOh8Ia1&v=1586368145",
+          "width": 1200,
+          "height": 630,
+          "title": "China may forge ahead of the US in AI chip race, but at what cost to both?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

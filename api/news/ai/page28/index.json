@@ -2,60 +2,23 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2020-04-30-training-instance-segmentation-neural-network-with-synthetic-datasets-for-seed-phenotyping.md",
-      "title": "Training instance segmentation neural network with synthetic datasets for seed phenotyping",
-      "excerpt": "A team of scientists led by Yosuke Toda, Designated Assistant Professor at the Institute of Transformative Bio-Molecules (WPI-ITbM), Nagoya University, and Fumio Okura, Assistant Professor at the Institute of Scientific and Industrial Research,",
+      "path": "_news/2020-05-01-courseras-23-most-popular-online-courses-right-now-from-public-health-courses-on-covid-19-to-the-science-of-happiness.md",
+      "title": "Coursera's 23 most popular online courses right now — from public health courses on COVID-19 to the science of happiness",
+      "excerpt": "Coursera is a popular online learning platform. These are the most popular classes in Coursera's library right now, most of which are free to audit and under $100 per month to complete.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://eurekalert.org/pub_releases/2020-04/iotb-tis042420.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T13:00:00-07:00",
+      "webUrl": "https://www.businessinsider.com/coursera-most-popular-online-classes",
+      "ampWebUrl": "https://www.businessinsider.com/coursera-most-popular-online-classes?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coursera-most-popular-online-classes?amp",
+      "publishedDateTime": "2020-05-01T13:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/230120_web.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": "Training instance segmentation neural network with synthetic datasets for seed phenotyping",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-how-this-startup-built-and-exited-to-twitter-in-1219-days.md",
-      "title": "How this startup built and exited to Twitter in 1,219 days",
-      "excerpt": "Marie Outtier had spent eight years as a consultant advising media agencies and martech companies on marketing growth strategy. Pierre-Jean “PJ” Camillieri started as a music software engineer before joining one of Apple’s consumer electronics divisions.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/30/how-this-startup-built-and-exited-to-twitter-in-1219-days/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/30/how-this-startup-built-and-exited-to-twitter-in-1219-days/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/how-this-startup-built-and-exited-to-twitter-in-1219-days/amp/",
-      "publishedDateTime": "2020-04-30T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -67,525 +30,10 @@
       },
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Aiden-team-at-Twitter-offices.jpg?w=706",
-          "width": 706,
-          "height": 529,
-          "title": "How this startup built and exited to Twitter in 1,219 days",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-smart-home-startup-joshai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa.md",
-      "title": "Smart home startup Josh.ai raises $11 million to offer a home assistant alternative to Alexa",
-      "excerpt": "Directly taking on Google and Amazon generally seems to be an ill-advised strategy for a young startup. It’s even more complicated when you’re competing on the home assistants front, a technically-complex,",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/30/smart-home-startup-josh-ai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/30/smart-home-startup-josh-ai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/smart-home-startup-josh-ai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa/amp/",
-      "publishedDateTime": "2020-04-30T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Josh-Lifestyle-Dots-Crop.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Smart home startup Josh.ai raises $11 million to offer a home assistant alternative to Alexa",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-ford-self-driving-robotaxi-service-delayed-until-2022.md",
-      "title": "Ford self-driving robotaxi service delayed until 2022",
-      "excerpt": "Ford issued a statement (PDF) on Tuesday outlining the reasons for its decision to push the service back to 2022: Given the challenges of the current business environment, as well as the need to evaluate the long-term impact of COVID-19 on customer behaviors,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/ford-robotaxi-self-driving-fleet-delayed-2022/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/",
-      "publishedDateTime": "2020-04-30T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/zBtgGOgC6okZfcHMjUvu96dUuy4=/2018/10/02/b2b370e2-b088-46b0-b050-6e0e85069241/ford-autonomous-car-signals-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Ford self-driving robotaxi service delayed until 2022",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-the-danger-of-facial-recognition-in-our-childrens-classrooms.md",
-      "title": "The Danger of Facial Recognition in Our Children’s Classrooms",
-      "excerpt": "Schools in China have recently reported using facial recognition to monitor how attentive students are in the classroom. Cameras are installed above the blackboard and, by identifying facial expressions,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rstreet.org/2020/04/30/the-danger-of-facial-recognition-in-our-childrens-classrooms/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "R Street Institute",
-        "domain": "rstreet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rstreet.org/wp-content/uploads/2018/04/yoest-facebook-share-default.png",
-          "width": 1200,
-          "height": 628,
-          "title": "The Danger of Facial Recognition in Our Children’s Classrooms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-openai-introduces-jukebox-a-new-ai-model-that-generates-genre-specific-music-with-lyrics.md",
-      "title": "OpenAI introduces Jukebox, a new AI model that generates genre-specific music with lyrics",
-      "excerpt": "The way OpenAI did it was also fascinating. They used raw audio to train the model — which spits out raw audio in return — instead of using “symbolic music,” like player pianos use, because symbolic music doesn’t include voices.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/4/30/21243038/openai-jukebox-model-raw-audio-lyrics-ai-generated-copyright",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/30/21243038/openai-jukebox-model-raw-audio-lyrics-ai-generated-copyright",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/30/21243038/openai-jukebox-model-raw-audio-lyrics-ai-generated-copyright",
-      "publishedDateTime": "2020-04-30T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/8R1BJShVjMuf-55i6NsrC0TXokY=/0x0:2000x1333/1400x933/filters:focal(840x507:1160x827):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66735464/openai_dactyl_one_handed_solve.0.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": "OpenAI introduces Jukebox, a new AI model that generates genre-specific music with lyrics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-openais-jukebox-ai-produces-music-in-any-style-from-scratch-complete-with-lyrics.md",
-      "title": "OpenAI’s Jukebox AI produces music in any style from scratch — complete with lyrics",
-      "excerpt": "OpenAI's Jukebox AI produces music in any style from scratch -- comlete with lyrics. The code, samples, and pretrained models are publicly available.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/openais-jukebox-ai-produces-music-in-any-style-from-scratch-complete-with-lyrics/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/openais-jukebox-ai-produces-music-in-any-style-from-scratch-complete-with-lyrics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/openais-jukebox-ai-produces-music-in-any-style-from-scratch-complete-with-lyrics/amp/",
-      "publishedDateTime": "2020-04-30T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/openai-logo-vertical-dimensional-purple-e1588267015132.png?fit=1200%2C600&strip=all",
+          "url": "https://i.insider.com/5eac8efc3dac9a33a64b9ab9?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
-          "title": "OpenAI’s Jukebox AI produces music in any style from scratch — complete with lyrics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-advance-your-career-with-a-scholarship-to-the-aws-machine-learning-engineer-nanodegree-program-from-udacity.md",
-      "title": "Advance your career with a scholarship to the AWS Machine Learning Engineer Nanodegree program from Udacity",
-      "excerpt": "Machine learning (ML) is one of the fastest growing areas in technology and a highly sought-after skill set in today’s job market. The growth of artificial intelligence is expected to create 58 million net new jobs in the next few years, according to the World Economic Forum [1]. However, according to",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/advance-your-career-with-a-scholarship-to-the-aws-machine-learning-engineer-nanodegree-program-from-udacity/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T09:34:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/30/ml-nanodegree-1-1.png",
-          "width": 1000,
-          "height": 462,
-          "title": "Advance your career with a scholarship to the AWS Machine Learning Engineer Nanodegree program from Udacity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-learn-how-to-start-a-podcast-with-this-45-online-training-bundle.md",
-      "title": "Learn how to start a podcast with this $45 online training bundle",
-      "excerpt": "Sponsored Kick off your new podcasting career with The Start-to-Finish Guide to Launching a Successful Podcast Bundle for over 90 percent off retail price.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/amp/",
-      "publishedDateTime": "2020-04-30T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/S2HMbnk.jpg?fit=1200%2C800&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Learn how to start a podcast with this $45 online training bundle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-googles-ai-can-adjust-voice-emotion-pitch-and-speed-with-30-minutes-of-data.md",
-      "title": "Google’s AI can adjust voice emotion, pitch, and speed with 30 minutes of data",
-      "excerpt": "In a paper originally published last October and accepted to the International Conference on Learning Representations (ICLR) 2020, researchers affiliated with Google and the University College London propose an AI model that enables control of speech characteristics like pitch, emotion, and speaking rate with as little as 30 minutes of data.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/googles-ai-can-adjust-voice-emotion-pitch-and-speed-with-30-minutes-of-data/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/googles-ai-can-adjust-voice-emotion-pitch-and-speed-with-30-minutes-of-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/googles-ai-can-adjust-voice-emotion-pitch-and-speed-with-30-minutes-of-data/amp/",
-      "publishedDateTime": "2020-04-30T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AI can adjust voice emotion, pitch, and speed with 30 minutes of data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-face-recognition-behind-a-mask.md",
-      "title": "Face Recognition Behind a Mask",
-      "excerpt": "Face masks have recently become a symbol of the global effort to slow the spread of COVID-19. The Centers for Disease Control and Prevention (CDC) made a recommendation on April 3 that all adults ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
-      "publishedDateTime": "2020-04-30T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-tesla-set-to-launch-a-full-self-driving-subscription-service-this-year.md",
-      "title": "Tesla set to launch a Full Self-Driving subscription service this year",
-      "excerpt": "Tesla is set to roll out a subscription service for its Full Self-Driving suite later this year, Elon Musk said. During the company’s Q1 2020 Earnings Call, Musk and CFO Zachary Kirkhorn briefly confirmed the introduction of a subscription program for Full Self-Driving.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/",
-      "ampWebUrl": "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/",
-      "cdnAmpWebUrl": "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/",
-      "publishedDateTime": "2020-04-30T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tesla News",
-        "domain": "teslarati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-stop-sign-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Tesla set to launch a Full Self-Driving subscription service this year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-deltec-bank-says-computer-vision-will-help-in-fraud-prevention-data-extraction-and-the-overall-user-experience.md",
-      "title": "Deltec Bank Says – Computer Vision will help in fraud prevention, data extraction, and the overall user experience",
-      "excerpt": "Computer vision enables a more in-depth data set for the financial services industry to use when evaluating specific investment opportunities. The financial services industry is continuously ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15925700/deltec-bank-says-computer-vision-will-help-in-fraud-prevention-data-extraction-and-the-overall-us",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15925700",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15925700",
-      "publishedDateTime": "2020-04-30T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1587326284.jpeg",
-          "width": 3300,
-          "height": 2550,
-          "title": "Deltec Bank Says – Computer Vision will help in fraud prevention, data extraction, and the overall user experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-how-coronavirus-pandemic-will-impact-on-global-artificial-intelligence-in-healthcare-market-industry-trends-and-developments-2020-2027.md",
-      "title": "How Coronavirus Pandemic Will Impact on Global Artificial Intelligence in Healthcare Market : Industry Trends and Developments 2020-2027",
-      "excerpt": "Data Bridge Market Research has recently added a concise research on the Global Artificial Intelligence in Healthcare Market to depict valuable insights related to significant market trends driving the industry The report features analysis based on key opportunities and challenges",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/2031234/how-coronavirus-pandemic-will-impact-on-global-artificial",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-google-executive-attended-meeting-of-key-scientific-group-advising-government.md",
-      "title": "Google executive attended meeting of key scientific group advising Government",
-      "excerpt": "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telegraph & Argus",
-        "domain": "thetelegraphandargus.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thetelegraphandargus.co.uk/resources/images/11319113/",
-          "width": 2168,
-          "height": 1445,
-          "title": "Google executive attended meeting of key scientific group advising Government",
+          "title": "Coursera's 23 most popular online courses right now — from public health courses on COVID-19 to the science of happiness",
           "attribution": null
         }
       ],
@@ -599,20 +47,20 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-regis-tr-and-sensiple-to-collaborate-on-delegated-reporting-services-for-sftr.md",
-      "title": "REGIS-TR and Sensiple to collaborate on delegated reporting services for SFTR",
-      "excerpt": "The European trade repository REGIS TR will join forces with Sensiple a market leader in regulatory technology solutions for repurchase agreements repo and secured lending The partnership aims to provide an interoperable web based end to end automated reporting solution",
+      "path": "_news/2020-05-01-live-video-president-trump-participates-in-presidential-recognition-ceremony.md",
+      "title": "LIVE VIDEO: President Trump participates in Presidential Recognition Ceremony",
+      "excerpt": "President Donald Trump participates in the Presidential Recognition Ceremony: Hard Work, Heroism and Hope..embed-container \\{ position: relative; padding-bottom: 56.25%; height: 0;",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.openpr.com/news/2031013/regis-tr-and-sensiple-to-collaborate-on-delegated-reporting",
+      "webUrl": "https://www.statesman.com/zz/news/20200501/live-video-president-trump-participates-in-presidential-recognition-ceremony",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T06:52:00-07:00",
+      "publishedDateTime": "2020-05-01T13:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -623,199 +71,21 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-30-fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments.md",
-      "title": "FDA-cleared AI-based medical triage tool goes free to help busy radiology diagnostics departments",
-      "excerpt": "Medical startup Nines, which has developed an AI-based triage tool that has received clearance from the U.S. Food and Drug Administration (FDA) for use, is making that tool available for free to all until June 30 to help address the growing burden on radiology diagnostics departments as COVID-19",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/30/fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/30/fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments/amp/",
-      "publishedDateTime": "2020-04-30T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/5eaa4c5a7ba1264e6486b846__Nines_FINAL_042720-0-01-30-21s.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "FDA-cleared AI-based medical triage tool goes free to help busy radiology diagnostics departments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-facebooks-role-playing-game-teaches-ai-to-complete-tasks-by-reading-descriptions.md",
-      "title": "Facebook’s role-playing game teaches AI to complete tasks by reading descriptions",
-      "excerpt": "Facebook researchers built a role-playing game to train AI agents to complete tasks by reading text descriptions of those tasks.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/facebook-rpg-teaches-ai-to-complete-tasks-by-reading-descriptions/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/facebook-rpg-teaches-ai-to-complete-tasks-by-reading-descriptions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/facebook-rpg-teaches-ai-to-complete-tasks-by-reading-descriptions/amp/",
-      "publishedDateTime": "2020-04-30T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s role-playing game teaches AI to complete tasks by reading descriptions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume.md",
-      "title": "VC appetite for AI startups holds up in Q1 despite lackluster exit volume",
-      "excerpt": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. Today we’re taking our final look back at Q1 venture capital through the lens of AI-focused startups.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/30/vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/30/vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume/amp/",
-      "publishedDateTime": "2020-04-30T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1139876920.jpg?w=1024",
-          "width": 1024,
-          "height": 664,
-          "title": "VC appetite for AI startups holds up in Q1 despite lackluster exit volume",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-tesla-confirms-self-driving-as-a-subscription-service-but-brace-yourself-for-the-price.md",
-      "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
-      "excerpt": "Driving package (FSD) as a subscription service, but you should brace yourself for the price. We reported earlier this week that Tesla is working on a pay-as-you-go subscription for its self-driving package based on some code that leaked in Tesla’s in-app purchase system.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/",
-      "ampWebUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
-      "publishedDateTime": "2020-04-30T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 458,
-          "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers.md",
-      "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
-      "excerpt": "LinkedIn today launched a new AI feature that provides helpful feedback to members on their answers to job interview questions.",
+      "path": "_news/2020-05-01-linkedins-ai-generates-candidate-screening-questions-from-job-postings.md",
+      "title": "LinkedIn’s AI generates candidate screening questions from job postings",
+      "excerpt": "LinkedIn is using AI to automatically generate candidate screening questions from the text of its over 20 million job postings.",
       "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
-      "publishedDateTime": "2020-04-30T06:04:00-07:00",
+      "webUrl": "https://venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/amp/",
+      "publishedDateTime": "2020-05-01T12:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -837,7 +107,7 @@
           "url": "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?fit=1200%2C600&strip=all",
           "width": 1200,
           "height": 600,
-          "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
+          "title": "LinkedIn’s AI generates candidate screening questions from job postings",
           "attribution": null
         }
       ],
@@ -850,16 +120,62 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-duolingos-ai-drives-its-english-proficiency-tests.md",
-      "title": "Duolingo’s AI drives its English proficiency tests",
-      "excerpt": "Duolingo tapped AI and machine learning to create a cheaper, faster English proficiency test that the company claims is on par with proctored exams.",
-      "heat": 87,
+      "path": "_news/2020-05-01-google-to-replace-tensorflows-runtime-with-tfrt.md",
+      "title": "Google to replace TensorFlow’s runtime with TFRT",
+      "excerpt": "Google launched TFRT, a new TensorFlow runtime that aims to make it easy to build and deploy ML models across many different devices.",
+      "heat": 86,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
-      "publishedDateTime": "2020-04-30T06:03:00-07:00",
+      "webUrl": "https://sdtimes.com/ai/google-to-replace-tensorflows-runtime-with-tfrt/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/05/tfrtroleingraph.png",
+          "width": 646,
+          "height": 314,
+          "title": "Google to replace TensorFlow’s runtime with TFRT",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online.md",
+      "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
+      "excerpt": "An upcoming Animal Crossing AI workshop and ICLR this week may reshape what research conferences look like, but social experiences are still a challenge.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/amp/",
+      "publishedDateTime": "2020-05-01T11:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -878,10 +194,10 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/06/duolingo_logo.png?fit=1000%2C600&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": "Duolingo’s AI drives its English proficiency tests",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/animal-crossing.png?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
           "attribution": null
         }
       ],
@@ -890,27 +206,65 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-30-microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next.md",
-      "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
-      "excerpt": "Microsoft is ready to roll out its 'spring refresh' of WVD, while working on a grander plan to make WVD more of a full-fledged cloud-managed desktop.",
-      "heat": 89,
+      "path": "_news/2020-05-01-coronavirus-helps-robot-delivery-startup-refraction-ai-gain-traction.md",
+      "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
+      "excerpt": "Refraction AI, a robot delivery startup in Ann Arbor, Mich., was having trouble gaining traction before the pandemic — and now, it's racing to capitalize on our stay-at-home mentality. Why it matters: In the midst of the pain and suffering from a crisis,",
+      "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "publishedDateTime": "2020-04-30T06:00:00-07:00",
+      "webUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
+      "ampWebUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
+      "publishedDateTime": "2020-05-01T11:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.axios.com/6e7fxp84f9oN52Lh4Z7nrPlsfyI=/2020/05/01/1588353067194.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-the-ai-eye-coca-cola-makes-5-year-agreement-with-microsoft.md",
+      "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
+      "excerpt": "Watching stock news, deal tracker and advancements in artificial intelligence Coca-Cola ( NYSE:KO) has announced a five-year agreement with Microsoft ( NasdaqGS:MSFT ), wherein it will leverage the latter's Azure,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-coca-cola-makes-5-year-agreement-with-microsoft-2020-05-01",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -922,10 +276,10 @@
       },
       "images": [
         {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg",
-          "width": 875,
-          "height": 557,
-          "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
           "attribution": null
         }
       ],
@@ -939,23 +293,23 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-ai-in-africa-teaching-a-bot-to-read-my-mums-texts.md",
-      "title": "AI in Africa: Teaching a bot to read my mum's texts",
-      "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
-      "heat": 87,
+      "path": "_news/2020-05-01-streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss.md",
+      "title": "Streaming service Deezer built an AI to catch the explicit lyrics human censors miss",
+      "excerpt": "Streaming service Deezer has developed an AI technique that automatically detects explicit lyrics -- just by analyzing the audio",
+      "heat": 80,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.bbc.com/news/world-africa-52411797",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-africa-52411797",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797",
-      "publishedDateTime": "2020-04-30T05:47:00-07:00",
+      "webUrl": "https://thenextweb.com/neural/2020/05/01/streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/01/streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/01/streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss/amp/",
+      "publishedDateTime": "2020-05-01T09:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -967,10 +321,10 @@
       },
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FD69/production/_112037846_img_20180827_082945_171.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "AI in Africa: Teaching a bot to read my mum's texts",
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-22-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Streaming service Deezer built an AI to catch the explicit lyrics human censors miss",
           "attribution": null
         }
       ],
@@ -983,30 +337,30 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-tesla-profits-says-full-self-driving-will-be-subscription-by-year-end.md",
-      "title": "Tesla Profits, Says Full Self-Driving Will Be Subscription by Year-End",
-      "excerpt": "CEO Elon Musk said the self-driving feature will roll out by the end of 2020, and he also complained that COVID-19 shelter-in-place rules infringe on rights.",
+      "path": "_news/2020-05-01-imagination-supports-google-android-gpu-inspector.md",
+      "title": "Imagination supports Google Android GPU Inspector",
+      "excerpt": "Imagination Technologies announces that it is supporting Google Android Graphics Processing Unit (GPU) Inspector to help developers profile and debug graphics on",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.caranddriver.com/news/a32324475/tesla-posts-profit-q1-2020/",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp32324475/tesla-posts-profit-q1-2020/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp32324475/tesla-posts-profit-q1-2020/",
-      "publishedDateTime": "2020-04-30T05:36:00-07:00",
+      "webUrl": "https://www.eejournal.com/industry_news/imagination-supports-google-android-gpu-inspector/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T09:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
+        "name": "Electronic Engineering Journal",
+        "domain": "eejournal.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-logo-is-seen-at-its-factory-in-fremont-california-on-news-photo-1588013368.jpg?crop=1xw:0.82183xh;center,top&resize=1200:*",
-          "width": 1024,
+          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
+          "width": 512,
           "height": 512,
-          "title": "Tesla Profits, Says Full Self-Driving Will Be Subscription by Year-End",
+          "title": "Imagination supports Google Android GPU Inspector",
           "attribution": null
         }
       ],
@@ -1015,21 +369,21 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-30-australian-businesses-lead-in-ai-deployment-but-bias-challenges-still-exist-genpact.md",
-      "title": "Australian businesses lead in AI deployment but bias challenges still exist: Genpact",
-      "excerpt": "Australians still fear AI bias and that algorithms can make decisions that affect them without their knowledge, a new report has found.",
-      "heat": 80,
+      "path": "_news/2020-05-01-astronauts-adopt-mozilla-speech-tech-to-control-moon-robots.md",
+      "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
+      "excerpt": "The text-to-speech engine will give astronauts their hands back during complex tasks. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
+      "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
-      "publishedDateTime": "2020-04-30T05:15:00-07:00",
+      "webUrl": "https://www.zdnet.com/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
+      "publishedDateTime": "2020-05-01T09:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1048,10 +402,10 @@
       },
       "images": [
         {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/08/08/f6ceef89-c938-405c-9ff0-71b03a212cbd/thumbnail/1200x675/7d7f9d66decc95dc28d1267da7a0d33a/woolworths.png",
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/09/23/bb592151-a7e8-47d8-84ec-11dcda294513/resize/1200x900/7f35b9e8aa729f1d5fbf1543913e030e/roborock-s4-1.jpg",
           "width": 1200,
-          "height": 675,
-          "title": "Australian businesses lead in AI deployment but bias challenges still exist: Genpact",
+          "height": 900,
+          "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
           "attribution": null
         }
       ],
@@ -1060,42 +414,35 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-30-why-white-box-models-in-enterprise-data-science-work-more-efficiently.md",
-      "title": "Why White-Box Models in Enterprise Data Science Work More Efficiently",
-      "excerpt": "WEEK DATA POINTS: Once the industry standard, black-box-type machine-learning projects tended to offer high degrees of accuracy, but they also generated minimal actionable insights and resulted in a lack of accountability in the data-driven decision-making process.",
+      "path": "_news/2020-05-01-these-pop-songs-were-written-by-openais-deep-learning-algorithm.md",
+      "title": "These pop songs were written by OpenAI’s deep-learning algorithm",
+      "excerpt": "In a fresh spin on manufactured pop, OpenAI has released a neural network called Jukebox that can generate catchy songs in a variety of different styles, from teenybop and country to hip-hop and heavy metal.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/why-white-box-models-in-enterprise-data-science-work-more-efficiently",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T05:03:00-07:00",
+      "webUrl": "https://www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm/",
+      "ampWebUrl": "https://www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/01/1000942/pop-songs-katy-perry-elvis-openai-neural-network-deep-learning-algorithm/amp/",
+      "publishedDateTime": "2020-05-01T08:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/04/White.box.black.box.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "Why White-Box Models in Enterprise Data Science Work More Efficiently",
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/05/GettyImages-1211766399.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "These pop songs were written by OpenAI’s deep-learning algorithm",
           "attribution": null
         }
       ],
@@ -1109,16 +456,387 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-its-no-joke-ai-beats-humans-at-making-you-laugh.md",
-      "title": "It's No Joke: AI Beats Humans At Making You Laugh",
-      "excerpt": "Research shows people don’t trust recommendations from algorithms—and that’s a problem for companies that increasingly rely on AI-based technology to persuade consumers.",
+      "path": "_news/2020-05-01-google-releases-ai-tool-for-processing-paycheck-protection-program-loans.md",
+      "title": "Google releases AI tool for processing Paycheck Protection Program loans",
+      "excerpt": "Google released a tool -- PPP Lending AI -- that enables lenders to leverage AI to process applications for the U.S. Paycheck Protection Program.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
+      "publishedDateTime": "2020-05-01T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases AI tool for processing Paycheck Protection Program loans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-senator-questions-clearview-ai-over-coronavirus-tracking-plans.md",
+      "title": "Senator questions Clearview AI over coronavirus tracking plans",
+      "excerpt": "Sen. Edward Markey says COVID-19 contact tracing can't be \"used as cover by companies like Clearview to build shadowy surveillance networks.\"",
       "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/",
-      "ampWebUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/amp/",
-      "publishedDateTime": "2020-04-30T05:02:00-07:00",
+      "webUrl": "https://www.cnet.com/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
+      "publishedDateTime": "2020-05-01T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Senator questions Clearview AI over coronavirus tracking plans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-how-artificial-intelligence-amazon-and-ubc-are-working-together-to-chart-coronavirus-treatment.md",
+      "title": "How artificial intelligence, Amazon and UBC are working together to chart coronavirus treatment",
+      "excerpt": "UBC researchers are teaming up with Amazon Web Services to develop a global cloud-based dataset that uses artificial intelligence to build treatment models for COVID-19 patients.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ctvnews.ca/sci-tech/how-artificial-intelligence-amazon-and-ubc-are-working-together-to-chart-coronavirus-treatment-1.4920374?cache=yes%3FclipId%3D89531%3FclipId%3D89531%3FclipId%3D86116",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2020/5/1/1_4920374.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2020/5/1/1_4920374.html",
+      "publishedDateTime": "2020-05-01T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/1/26/1_4784484.jpg?cache_timestamp=1588340116540",
+          "width": 1020,
+          "height": 573,
+          "title": "How artificial intelligence, Amazon and UBC are working together to chart coronavirus treatment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-3-ways-smbs-use-machine-learning-to-power-digital-transformation.md",
+      "title": "3 ways SMBs use machine learning to power digital transformation",
+      "excerpt": "Businesses should start small and fail fast with machine learning (ML) projects to get the best ROI. Some of the most common use cases for small- to medium-sized businesses (SMBs) include fraud detection,",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
+      "publishedDateTime": "2020-05-01T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/31/1d4ffefb-a94f-4bc2-89b4-b9f1d7257e4b/thumbnail/1200x675/3c077c568da3486c12635990b915a508/20200330-sf-april.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "3 ways SMBs use machine learning to power digital transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-watch-this-ai-algorithm-change-humans-into-animorphs.md",
+      "title": "Watch This AI Algorithm Change Humans into Animorphs",
+      "excerpt": "AI researcher Xander Steenbrugge used machine learning generative models to turn people into animals and back again.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_ca/article/884wek/ai-algorithm-turns-humans-into-animals",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/884wek/ai-algorithm-turns-humans-into-animals",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/884wek/ai-algorithm-turns-humans-into-animals",
+      "publishedDateTime": "2020-05-01T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5eab0bb5d93a90009b14b3f2/lede/1588269690157-Screen-Shot-2020-04-30-at-20037-PM.png?crop=0.8434xw:0.9986xh;0.081xw,0.0014xh",
+          "width": 2488,
+          "height": 1398,
+          "title": "Watch This AI Algorithm Change Humans into Animorphs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup.md",
+      "title": "Former St. Louis Fed executive takes role at fast-growing fintech startup",
+      "excerpt": "\"Julie brings a wealth of banking and regulatory knowledge to our board of directors, and we are excited to welcome her to the Neocova team\"",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
+      "publishedDateTime": "2020-05-01T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.ksdk.com/assets/KSDK/images/a1d1230c-9cbf-4633-b16d-796ce263ce58/a1d1230c-9cbf-4633-b16d-796ce263ce58_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Former St. Louis Fed executive takes role at fast-growing fintech startup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-lane-mendelsohn-of-vantagepoint-ai-predicted-the-oil-collapse-months-in-advance-whats-next.md",
+      "title": "Lane Mendelsohn of Vantagepoint AI Predicted the Oil Collapse Months in Advance - What's Next?",
+      "excerpt": "Lane Mendelsohn, a leading expert in the FinTech Industry and President of Vantagepoint AI, started predicting the downward spiral of oil back",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lane-mendelsohn-of-vantagepoint-ai-predicted-the-oil-collapse-months-in-advance---whats/article_73a1302a-e835-514f-8c4a-17782f5da056.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/5a/e5ab8c04-49d7-56ba-a91b-42fa906186cf/5eac1729ccb15.image.jpg?resize=400%2C233",
+          "width": 400,
+          "height": 233,
+          "title": "Lane Mendelsohn of Vantagepoint AI Predicted the Oil Collapse Months in Advance - What's Next?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-stats-perform-hits-a-bulls-eye.md",
+      "title": "Stats Perform Hits a Bull’s Eye",
+      "excerpt": "Amazon Web Services and Formula 1 have partnered to create a simulated racing competition called the F1 DeepRacer ProAm. Participants will use Amazon’s machine-learning software to build autonomous digital racing cars that can race against each other in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sporttechie.com/stats-perform-professional-darts-counter-strike-esports",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportTechie",
+        "domain": "sporttechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Stats Perform Hits a Bull’s Eye",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic.md",
+      "title": "Drug discovery might be the best use of AI to tackle the pandemic",
+      "excerpt": "BenevolentAI's discovery of a potential coronavirus treatment show's that drug discovery is one application of AI that's living up to the hype",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/",
+      "publishedDateTime": "2020-05-01T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-21-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Drug discovery might be the best use of AI to tackle the pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty.md",
+      "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
+      "excerpt": "He sees the vision of how AI and machine learning can help us work better in the post-pandemic world. Gaurav Kataria, VP Product at BetterUp says, “One of the key skills that we are focusing on is learning agility and resilience.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/amp/",
+      "publishedDateTime": "2020-05-01T04:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1137,10 +855,10 @@
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9747a11048ea0006cbddb7%2F0x0.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eac09d2af7fe60006a119f7%2F0x0.jpg%3FcropX1%3D467%26cropX2%3D9888%26cropY1%3D0%26cropY2%3D5304",
           "width": 1200,
-          "height": 675,
-          "title": "It's No Joke: AI Beats Humans At Making You Laugh",
+          "height": 645,
+          "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
           "attribution": null
         }
       ],
@@ -1153,16 +871,187 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-moxie-is-the-robot-pal-you-dreamed-of-as-a-kid.md",
-      "title": "Moxie Is the Robot Pal You Dreamed of as a Kid",
-      "excerpt": "Whereas other companion robots like the household assistant Jibo or Paro the robotic seal are designed for adults or the elderly, Moxie is built to foster social, cognitive, and emotional development in children.",
-      "heat": 89,
+      "path": "_news/2020-05-01-how-as-a-service-models-can-improve-business-outcomes.md",
+      "title": "How 'As-A-Service' Models Can Improve Business Outcomes",
+      "excerpt": "For some, the transition to “as-a-service” means having a smarter business. To make this model work for you, it’s essential to have a sound strategy in place.",
+      "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/",
-      "ampWebUrl": "https://www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/amp",
-      "publishedDateTime": "2020-04-30T05:00:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/01/how-as-a-service-models-can-improve-business-outcomes/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/01/how-as-a-service-models-can-improve-business-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/01/how-as-a-service-models-can-improve-business-outcomes/amp/",
+      "publishedDateTime": "2020-05-01T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F04%2F599.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How 'As-A-Service' Models Can Improve Business Outcomes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-microsoft-introduces-digigirlz-ai-class-brings-artificial-intelligence-to-high-school-girls.md",
+      "title": "Microsoft introduces DigiGirlz AI Class, brings Artificial Intelligence to high-school girls",
+      "excerpt": "Microsoft introduces Alice envisions the future, DigiGirlz AI Class targeting high school girls around the world to develop their understanding of AI.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://microsoftcaregh.com/2020/05/01/microsoft-digigirlz-ai-class-high-school-girls/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "microsoftcaregh.com",
+        "domain": "microsoftcaregh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i2.wp.com/microsoftcaregh.com/wp-content/uploads/2020/05/DigiGirlz.jpg?fit=960%2C640&#038;ssl=1",
+          "width": 960,
+          "height": 640,
+          "title": "Microsoft introduces DigiGirlz AI Class, brings Artificial Intelligence to high-school girls",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-uk-government-invited-google-deepmind-exec-to-critical-coronavirus-meeting.md",
+      "title": "UK government invited Google DeepMind exec to critical coronavirus meeting",
+      "excerpt": "DeepMind cofounder and CEO Demis Hassabis attended a meeting of the scientific advisory group for emergencies (Sage) on March 18.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
+      "publishedDateTime": "2020-05-01T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1529472645",
+          "width": 1024,
+          "height": 678,
+          "title": "UK government invited Google DeepMind exec to critical coronavirus meeting",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-deezer-develops-ai-to-detect-explicit-song-lyrics.md",
+      "title": "Deezer develops AI to detect explicit song lyrics",
+      "excerpt": "Streaming service Deezer is developing technology to automatically detect explicit content in songs. The company has been looking into the issue because record labels often fail to identify offensive lyrics when they submit songs,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-52499375",
+      "ampWebUrl": "https://www.bbc.com/news/amp/entertainment-arts-52499375",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/entertainment-arts-52499375",
+      "publishedDateTime": "2020-05-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11E4F/production/_112059237_gettyimages-1191011684.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Deezer develops AI to detect explicit song lyrics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-how-well-can-algorithms-recognize-your-masked-face.md",
+      "title": "How Well Can Algorithms Recognize Your Masked Face?",
+      "excerpt": "Makers of facial-recognition technology scramble to adapt to a world where people routinely cover their faces to avoid spreading disease.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/",
+      "ampWebUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "publishedDateTime": "2020-05-01T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -1181,10 +1070,145 @@
       },
       "images": [
         {
-          "url": "https://media.wired.com/photos/5ea9c7ddf6ca1700082903b1/master/pass/Science_Moxie_gray_727A9788_face_lights_color.jpg",
-          "width": 2300,
-          "height": 1533,
-          "title": "Moxie Is the Robot Pal You Dreamed of as a Kid",
+          "url": "https://media.wired.com/photos/5ea9d268640d500008d511c5/master/pass/Biz-maskman-1217070531.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "How Well Can Algorithms Recognize Your Masked Face?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government.md",
+      "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
+      "excerpt": "Public sector organizations using Microsoft Azure will receive discounted rates and benefits under an amended agreement between the software giant and the UK government.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
+      "publishedDateTime": "2020-05-01T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/02/89020fc6-fe78-4bee-abb0-0ce4d0175c91/thumbnail/1200x675/66a68d9e60796e80b78d5bedaa0bde98/20200227-rsa-yehoshua-veronica.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
+      "title": "Fueling driverless navigation with AI",
+      "excerpt": "When navigation comes into play, AI can help to give drivers the very best directions, despite the complexity of the route. Powerful, accurate maps can be created by deep learning models, able to process masses of images no human cartographer could ever manage.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/fueling-driverless-navigation-with-ai",
+      "ampWebUrl": "https://www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
+      "publishedDateTime": "2020-05-01T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Fueling driverless navigation with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-mind-controlled-prosthetic-arms-feel-like-the-real-thing.md",
+      "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
+      "excerpt": "An international team of scientists is reporting success with one of the most advanced bionic arms ever made. The system is integrated into the patient’s nerves, allowing them to control the ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/medical/mind-controlled-prosthetic-arm/",
+      "ampWebUrl": "https://newatlas.com/medical/mind-controlled-prosthetic-arm/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/mind-controlled-prosthetic-arm/?amp=true",
+      "publishedDateTime": "2020-05-01T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/0c827a2/2147483647/strip/true/crop/510x340+94+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff4%2Fae%2Ffdcae926498284ed63b4a5b89366%2Fprosthetic-1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
           "attribution": null
         }
       ],
@@ -1198,30 +1222,38 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-mind-controlled-bionic-arm-with-sense-of-touch-could-be-available-in-two-years.md",
-      "title": "Mind-controlled bionic arm with sense of touch ‘could be available in two years’",
-      "excerpt": "The prosthesis is mind controlled via the electrical muscle and nerve signals sent through the arm stump and captured by the electrodes. The signals are passed into the implant, which goes through the skin and connects to the prosthesis. The signals are ...",
-      "heat": null,
+      "path": "_news/2020-05-01-money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity.md",
+      "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
+      "excerpt": "Trusting AI to keep the banks safe can be a good or bad thing. It all depends on who wins -- villains or heroes. We'll discover",
+      "heat": 90,
       "tags": null,
       "type": "article",
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/04/mind-controlled-bionic-arm-with-sense-of-touch-could-be-available-in-two-years/",
+      "webUrl": "https://www.marketwatch.com/press-release/money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity-2020-05-01",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T04:51:00-07:00",
+      "publishedDateTime": "2020-05-01T00:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://eandt.theiet.org/media/11220/dreamstime_xxl_139573292.jpg?crop=0,0.27989870707194014,0,0.22791379292805983&cropmode=percentage&width=1200&height=450&rnd=132328005740000000",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 450,
-          "title": "Mind-controlled bionic arm with sense of touch ‘could be available in two years’",
+          "height": 630,
+          "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
           "attribution": null
         }
       ],
@@ -1230,8 +1262,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "IBM AI",
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

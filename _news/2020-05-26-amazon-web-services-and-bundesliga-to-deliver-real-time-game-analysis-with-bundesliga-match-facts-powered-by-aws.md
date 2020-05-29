@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-26T07:22:00Z
 webUrl: "https://www.businesswire.com/news/home/20200526005205/en/Amazon-Web-Services-Bundesliga-Deliver-Real-Time"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 1200
     height: 627
     title: "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”"
+
+related:
+  - title: "The Bundesliga Match Facts Powered by AWS"
+    excerpt: "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS” AWS"
+    publishedDateTime: 2020-05-28T14:15:00Z
+    webUrl: "https://www.businessghana.com/site/news/Sports/214105/The-Bundesliga-Match-Facts-Powered-by-AWS"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 39
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2020-05-28-1345261.jpg"
+        width: 800
+        height: 600
 
 secured: "QjYoCeudDlUcx5uY3ygSvqXNo4LjW2jJf4uOU6nFxOCrvvMsZcPdrzt7LhcIMKFr4V3C6ElBzHDAhjCoeMXMQ8NzJoWPLUNvUm3YBiX7KxKwcvvj0rSwXOZHgBycQT7ovD1kth+X7A3CAX5gX40TKvoCUy0P+V9Qrb8GHuQfSjVM913Y5S8tmnEX1pub24wLRgU05l2y566xa+w85zdPTaSDJhWoVIDPsz7xyLgUVNkn1spePZ5mxUCaO/rfsCqMEClwnsPbfFmwPnOC/9oTcXr8yPOY/JN1AoiR1z+CxVvOmuOlyrI4+Gyy+n2/9zzSFqLUe6YT89ArFEZfZLJXhz4vctNjSf/fJ7k0C6fn/vswzq+X35CZPqmmz1lRXdHgrP35VL+p65HSzsvkuT6Senl8toETlnjiymo/96SnX50lZzQT2Wala8TF4HchmMPU4yJp64nGDxZ4qOGZtX8IqjZB1gvzAY9o4YE1diGB97k=;Z1JJHHbEjaGUskIxChWoeg=="
 ---

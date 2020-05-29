@@ -2,114 +2,115 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2020-05-19-sony-adds-microsoft-powered-artificial-intelligence-to-imx500-video-camera-sensors.md",
-      "title": "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors",
-      "excerpt": "Sony is making video cameras smarter. The IMX500 line of intelligent video sensors will come with embedded access to artificial intelligence (AI) tools from Microsoft (NASDAQ:MSFT",
-      "heat": 81,
+      "path": "_news/2020-05-20-ai-and-machine-learning-for-game-design-the-positive-influencers.md",
+      "title": "AI and Machine Learning for Game Design: The Positive Influencers",
+      "excerpt": "Artificial intelligence and machine learning help improve the game designing approach with evaluation and response support.",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
-      "publishedDateTime": "2020-05-19T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575066%2Findustrial-monitor-camera.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 925,
-          "title": "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment.md",
-      "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
-      "excerpt": "Developers, to help you advance your AI and machine learning (ML) skills with hands-on and engaging learning, the AWS Machine Learning Scholarship Program from Udacity is now open for enrollment. \nAWS and Udacity are collaborating to educate developers of all skill levels to expand their AWS ML expertise.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment/",
+      "webUrl": "https://www.gamasutra.com/blogs/VivekSonchhatra/20200520/363256/AI_and_Machine_Learning_for_Game_Design_The_Positive_Influencers.php",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T09:49:39-07:00",
+      "publishedDateTime": "2020-05-20T07:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/19/ml-scholarship-2.jpg",
-          "width": 1000,
-          "height": 537,
-          "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-msft-sony-ai-camera-deal-to-boost-business-yield.md",
-      "title": "Microsoft (MSFT)-Sony AI-Camera Deal to Boost Business Yield",
-      "excerpt": "Microsoft MSFT recently inked a deal with Sony Semiconductor Solutions (Sony) aimed at delivering solutions to aid enterprises avail the benefits of AI-driven smart cameras with robust video analytics capabilities.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-sony-ai-camera-deal-to-boost-business-yield-2020-05-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Gamasutra",
+        "domain": "gamasutra.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/235501.png",
+          "width": 465,
+          "height": 465,
+          "title": "AI and Machine Learning for Game Design: The Positive Influencers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders.md",
+      "title": "Sphero spins out Company Six to bring robotics tech to first responders",
+      "excerpt": "Colorado-based Sphero launched Company Six, a new robotics company focused on first responder and disaster response technologies.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/20/sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/RVRKickHR-0079-e1589985394869.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Sphero spins out Company Six to bring robotics tech to first responders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-microsoft-and-openai-team-to-build-a-285000-core-azure-supercomputer.md",
+      "title": "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer",
+      "excerpt": "Microsoft recently announced that it teamed up with OpenAI to create one of the world's fastest supercomputers running on the Azure infrastructure.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hothardware.com/news/openai-supercomputer-by-microsoft",
+      "ampWebUrl": "https://amp.hothardware.com/news/openai-supercomputer-by-microsoft",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/openai-supercomputer-by-microsoft",
+      "publishedDateTime": "2020-05-20T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/51689/content/microsoft-g-building.jpg",
+          "width": 708,
+          "height": 462,
+          "title": "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -120,38 +121,67 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-chinese-man-abducted-32-years-ago-as-toddler-reunited-with-birth-parents-thanks-to-facial-recognition-tech.md",
-      "title": "Chinese man abducted 32 years ago as toddler reunited with birth parents thanks to facial recognition tech",
-      "excerpt": "A Chinese man who was kidnapped as a toddler 32 years ago was reunited with his biological parents during an emotional news conference Monday after police used facial recognition technology to track him down and confirm his identity,",
-      "heat": 131,
+      "path": "_news/2020-05-20-vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom-and-zoom-for-healthcare-applications.md",
+      "title": "Vuzix M400 Smart Glasses Now Support Hands-Free Voice Control for Skype for Business, Zoom and Zoom for Healthcare Applications",
+      "excerpt": "PRNewswire/ -- Vuzix® Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a leading supplier of Smart Glasses and Augmented Reality (AR) technology and products, today announced",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.foxnews.com/world/china-kidnapped-toddler-32-years-reunites-birth-parents-facial-recognition",
-      "ampWebUrl": "https://www.foxnews.com/world/china-kidnapped-toddler-32-years-reunites-birth-parents-facial-recognition.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-kidnapped-toddler-32-years-reunites-birth-parents-facial-recognition.amp",
-      "publishedDateTime": "2020-05-19T08:54:00-07:00",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom/article_f967488a-a5b0-596b-9ac6-9a6fefae5e73.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T06:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Mao-Yin-2-Getty-Images.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "Chinese man abducted 32 years ago as toddler reunited with birth parents thanks to facial recognition tech",
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/d0/9d029a52-8f57-5a6f-817e-5b57ac2248f7/5ec534c01ec33.image.jpg?resize=300%2C301",
+          "width": 300,
+          "height": 301,
+          "title": "Vuzix M400 Smart Glasses Now Support Hands-Free Voice Control for Skype for Business, Zoom and Zoom for Healthcare Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-facial-recognition-reunites-missing-child-after-32-years.md",
+      "title": "Facial recognition reunites missing child after 32 years",
+      "excerpt": "Facial recognition technology leading to a joyful reunion and a happy ending to what was a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/",
+      "ampWebUrl": "https://www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/amp/",
+      "cdnAmpWebUrl": "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/amp/",
+      "publishedDateTime": "2020-05-20T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "myhighplains.com",
+        "domain": "myhighplains.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/05/DB7E220B2CBD4F819FAA7CDA6577BD9D_5.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Facial recognition reunites missing child after 32 years",
           "attribution": null
         }
       ],
@@ -165,23 +195,23 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-americans-dont-know-why-they-dont-trust-self-driving-cars.md",
-      "title": "Americans don't know why they don't trust self-driving cars",
-      "excerpt": "A new survey from PAVE suggests self-driving car companies have a long way to go before they people trust their vehicles.",
-      "heat": 94,
+      "path": "_news/2020-05-20-self-driving-shared-electric-scooters-are-here-are-they-awesome-or-terrifying.md",
+      "title": "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?",
+      "excerpt": "Shared electric scooter provider Go X is combining its scooters with self-driving tech from the company Tortoise to solve the first and last step problem of shared e-scooters: finding and returning the scooters.",
+      "heat": 78,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.engadget.com/pave-self-driving-car-survey-154045444.html",
-      "ampWebUrl": "https://www.engadget.com/amp/pave-self-driving-car-survey-154045444.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/pave-self-driving-car-survey-154045444.html",
-      "publishedDateTime": "2020-05-19T08:45:00-07:00",
+      "webUrl": "https://electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/",
+      "ampWebUrl": "https://electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/amp/",
+      "publishedDateTime": "2020-05-20T06:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
+        "name": "Electrek",
+        "domain": "electrek.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -193,10 +223,10 @@
       },
       "images": [
         {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=22628d1961500d0e3c76b6997a86c05744eeaae8",
-          "width": 600,
-          "height": 400,
-          "title": "Americans don't know why they don't trust self-driving cars",
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/go-x-scooters-header.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?",
           "attribution": null
         }
       ],
@@ -210,68 +240,23 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-microsoft-builds-a-new-online-developer-conference-experience.md",
-      "title": "Microsoft builds a new online developer conference experience",
-      "excerpt": "A look at what Microsoft announced at Microsoft Build 2020, as well as the considerations that went into making the event virtual",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/msft/microsoft-builds-a-new-online-developer-conference-experience/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/05/KDbEeqOL.jpeg",
-          "width": 680,
-          "height": 383,
-          "title": "Microsoft builds a new online developer conference experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-mount-sinais-ai-can-diagnose-covid-19.md",
-      "title": "Mount Sinai’s AI can diagnose COVID-19",
-      "excerpt": "Researchers from Mount Sinai believe they are the first in the US to use AI, combined with imaging and clinical data, to diagnose COVID-19.",
+      "path": "_news/2020-05-20-facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain.md",
+      "title": "Facial Recognition Firms Pitch Covid-19 ‘Immunity Passports’ For America And Britain",
+      "excerpt": "FaceFirst pitches a coronavirus health passport system, though concerns around civil liberties and privacy abound.",
       "heat": 97,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.engadget.com/mount-sinai-ai-diagnoses-covid-19-152430735.html",
-      "ampWebUrl": "https://www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-152430735.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-152430735.html",
-      "publishedDateTime": "2020-05-19T08:29:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/",
+      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/amp/",
+      "publishedDateTime": "2020-05-20T06:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -283,191 +268,10 @@
       },
       "images": [
         {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F1b148db0-99df-11ea-bffc-6f21960ebf57&client=amp-blogside-v2&signature=289127313e83e511d92b33c506a4697f8eb8a732",
-          "width": 600,
-          "height": 350,
-          "title": "Mount Sinai’s AI can diagnose COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-cognitive-services-learns-more-languages.md",
-      "title": "Azure Cognitive Services learns more languages",
-      "excerpt": "It wouldn’t be a Microsoft Build without a bunch of new capabilities for Azure Cognitive Services, Microsoft’s cloud-based AI tools for developers. The first new feature is what Microsoft calls the “personalized apprentice mode,",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
-      "publishedDateTime": "2020-05-19T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1173107665-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Azure Cognitive Services learns more languages",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models.md",
-      "title": "Microsoft launches new tools for building fairer machine learning models",
-      "excerpt": "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
-      "publishedDateTime": "2020-05-19T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Microsoft launches new tools for building fairer machine learning models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
-      "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
-      "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
-      "heat": 152,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/",
-      "publishedDateTime": "2020-05-19T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024",
-          "width": 1024,
-          "height": 652,
-          "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-synapse-link-anchors-microsofts-new-big-data-analytics-capabilities.md",
-      "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
-      "excerpt": "During its Build 2020 conference, Microsoft announced a number of products targeting enterprises engaged in big data, including Azure Synapse Linke.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/19/azure-synapse-link-anchors-microsoft-big-data-analytics-capabilities/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1212203380%2F0x0.jpg",
           "width": 1200,
-          "height": 600,
-          "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
+          "height": 823,
+          "title": "Facial Recognition Firms Pitch Covid-19 ‘Immunity Passports’ For America And Britain",
           "attribution": null
         }
       ],
@@ -476,28 +280,28 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-19-microsoft-builds-openais-dream-system-an-azure-supercomputer-that-ranks-among-top-5-in-the-world.md",
-      "title": "Microsoft builds OpenAI’s ‘dream system,’ an Azure supercomputer that ranks among top 5 in the world",
-      "excerpt": "Microsoft says it has created one of the world’s top supercomputers for the exclusive use of OpenAI, the San Francisco-based artificial intelligence company pursuing breakthroughs in",
-      "heat": 114,
+      "path": "_news/2020-05-20-this-lab-cooks-with-ai-to-make-new-materials.md",
+      "title": "This Lab ‘Cooks’ With AI to Make New Materials",
+      "excerpt": "A Toronto lab recycles carbon dioxide into more useful chemicals, using materials it discovered with artificial intelligence and supercomputers.",
+      "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/microsoft-builds-openais-dream-system-azure-supercomputer-rank-among-top-5-world/",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-builds-openais-dream-system-azure-supercomputer-rank-among-top-5-world/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-builds-openais-dream-system-azure-supercomputer-rank-among-top-5-world/amp/",
-      "publishedDateTime": "2020-05-19T08:03:00-07:00",
+      "webUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/",
+      "ampWebUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
+      "publishedDateTime": "2020-05-20T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -509,10 +313,10 @@
       },
       "images": [
         {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/MSFT-Nadella-OpenAI-Altman.jpg",
-          "width": 630,
-          "height": 423,
-          "title": "Microsoft builds OpenAI’s ‘dream system,’ an Azure supercomputer that ranks among top 5 in the world",
+          "url": "https://media.wired.com/photos/5ec43c61fb13964ea4a83df5/master/pass/Science_co2_1130455777.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "This Lab ‘Cooks’ With AI to Make New Materials",
           "attribution": null
         }
       ],
@@ -521,43 +325,35 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-19-microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy.md",
-      "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
-      "excerpt": "Microsoft debuted a number of privacy- and fairness-focused enhancements to Azure Machine Learning, including the WhiteNoise toolkit.",
-      "heat": 86,
+      "path": "_news/2020-05-20-microsoft-built-a-new-ai-supercomputer-in-azure.md",
+      "title": "Microsoft built a new AI supercomputer in Azure",
+      "excerpt": "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!",
+      "heat": 99,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/19/microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T08:03:00-07:00",
+      "webUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/",
+      "ampWebUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
+      "publishedDateTime": "2020-05-20T05:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg",
           "width": 1200,
-          "height": 573,
-          "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
+          "height": 800,
+          "title": "Microsoft built a new AI supercomputer in Azure",
           "attribution": null
         }
       ],
@@ -566,113 +362,221 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
+      "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
+      "excerpt": "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/",
+      "ampWebUrl": "https://www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/amp/",
+      "cdnAmpWebUrl": "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/amp/",
+      "publishedDateTime": "2020-05-20T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRN",
+        "domain": "wkrn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wkrn.com/wp-content/uploads/sites/73/2020/05/97DEC7C8C9EC4C018B904AD24A8ED6A2_7.jpg?w=576&h=324&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie.md",
+      "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
+      "excerpt": "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
+      "publishedDateTime": "2020-05-20T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/20/9e85075f-4425-4576-995a-976a4acc1b40/guthriewhereareyou.jpg",
+          "width": 1071,
+          "height": 728,
+          "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2020-05-19-azure-machine-learning-gets-responsible-ml-innovations-and-more.md",
-      "title": "Azure Machine Learning gets Responsible ML innovations and more",
-      "excerpt": "Microsoft has announced new capabilities to its cloud-based machine learning platform. A new project to advance machine teaching methods has also been released in the form of a public preview.",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/azure-machine-learning-gets-responsible-ml-innovations-and-more",
-      "ampWebUrl": "https://www.neowin.net/amp/azure-machine-learning-gets-responsible-ml-innovations-and-more/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-machine-learning-gets-responsible-ml-innovations-and-more/",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589650666_airport_story.jpg",
-          "width": 760,
-          "height": 506,
-          "title": "Azure Machine Learning gets Responsible ML innovations and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-announces-azure-cognitive-services-and-bot-service-enhancements.md",
-      "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
-      "excerpt": "Not only have Microsoft's Bot Framework and Service been updated, but new AI functionality and language capabilities have been introduced for apps that leverage Azure Cognitive Services as well.",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements/",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/02/1486489003_cognitive_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-readies-more-developer-tools-for-its-project-cortex-knowledge-management-service.md",
-      "title": "Microsoft readies more developer tools for its 'Project Cortex' knowledge-management service",
-      "excerpt": "Microsoft's Project Cortex knowledge service is still on track to be generally available this summer. Microsoft has 75 companies privately testing Cortex and is working to get more developers on board.",
+      "path": "_news/2020-05-20-sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning.md",
+      "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
+      "excerpt": "As part of its commitment to using data and analytics to solve the world's most pressing problems, SAS' recent work includes helping to",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-readies-more-developer-tools-for-its-project-cortex-knowledge-management-service/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-readies-more-developer-tools-for-its-project-cortex-knowledge-management-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-readies-more-developer-tools-for-its-project-cortex-knowledge-management-service/",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning/article_485ec294-2a44-5327-ae6a-1709e3772f22.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/ab/9aba8953-86d7-52f2-b984-7311e20a2062/5ec523443f416.image.jpg?resize=400%2C240",
+          "width": 400,
+          "height": 240,
+          "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-google-says-it-wont-build-ai-tools-for-oil-and-gas-drillers.md",
+      "title": "Google says it won't build AI tools for oil and gas drillers",
+      "excerpt": "Google's announcement followed a report that documents how three tech giants are using AI to help oil companies find and access oil and gas deposits.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/google-says-it-won-t-build-ai-tools-oil-gas-n1211076",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1211076",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1211076",
+      "publishedDateTime": "2020-05-20T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_21/3357371/200520-oil-ai-google-al-0752_6a6bf87340ba869d23f0d6a33a87699d.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": "Google says it won't build AI tools for oil and gas drillers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-nvidia-reveals-why-it-chose-rival-amd-over-intel-for-its-deep-learning-system.md",
+      "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
+      "excerpt": "In Nvidia’s first two DGX systems, Intel’s Xeon CPUs were the preferred processor, but the company dropped them in the DGX A100 for two of AMD's 64-core, Zen 2-based Epyc 7742 CPUs. The system, which uses the new,",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
+      "publishedDateTime": "2020-05-20T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-3.jpg",
+          "width": 1037,
+          "height": 598,
+          "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-now-hiring-ai-futurists-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite.md",
+      "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
+      "excerpt": "In a time of COVID-19 disruption, futurists can accelerate organizational recovery and capacity. When partnered with purpose-built AI, augmented intelligence can also spur radical innovation.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "publishedDateTime": "2020-05-20T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -691,10 +595,10 @@
       },
       "images": [
         {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/19/1e67420f-359a-4072-ad9a-b2eb02c56a6c/thumbnail/1200x675/1b12f9a73cf7a93c43a879cf941ccb5c/msbuyssoftomotive.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft readies more developer tools for its 'Project Cortex' knowledge-management service",
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/18/17e256c4-9dfe-411d-b600-d26fc0ad8edf/24-brian-solis-on-twitter-new-poll-who-s-leading-the-digitaltransformation-of-your-company-twitter.jpg",
+          "width": 596,
+          "height": 344,
+          "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
           "attribution": null
         }
       ],
@@ -703,28 +607,73 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-this-ai-maestro-wants-to-serenade-you.md",
+      "title": "This AI Maestro Wants to Serenade You",
+      "excerpt": "A composer and the co-creator of Siri are trying to create background music that responds to the listener's feelings.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/",
+      "ampWebUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/amp",
+      "publishedDateTime": "2020-05-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec32db73b4719b49ff88aff/master/pass/Biz-Lifescore-Inline.jpg",
+          "width": 2400,
+          "height": 1248,
+          "title": "This AI Maestro Wants to Serenade You",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates.md",
-      "title": "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates",
-      "excerpt": "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020.",
-      "heat": 103,
+      "path": "_news/2020-05-20-warehouse-robots-provide-crucial-link-in-supply-chain.md",
+      "title": "Warehouse Robots Provide Crucial Link In Supply Chain",
+      "excerpt": "Throughout the coronavirus crisis, the e-commerce supply chain – retailers, shippers, third-party logistics operations, fulfillment centers and sortation facilities – delivered. UPS and FedEx drivers came to symbolize a sense of national resiliency.",
+      "heat": 84,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/",
+      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/amp/",
+      "publishedDateTime": "2020-05-20T04:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -740,29 +689,28 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
-      "path": "_news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work.md",
-      "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
-      "excerpt": "The post Microsoft announces new supercomputer, lays out vision for future AI work appeared first on The AI Blog.\n",
-      "heat": 103,
+      "path": "_news/2020-05-20-when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction.md",
+      "title": "When It Comes To Leveraging AI For Your Business, Don't Forget About The Power Of Human Interaction",
+      "excerpt": "Don’t view AI as a replacement for your team, but rather as a member of your team, to provide better workflow, better processes and greater efficiency.",
+      "heat": 73,
       "tags": null,
       "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/openai-azure-supercomputer/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:59:25-07:00",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/20/when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/20/when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/20/when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction/amp/",
+      "publishedDateTime": "2020-05-20T04:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -774,10 +722,54 @@
       },
       "images": [
         {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/openai-azure-supercomputer-kevin-scott_3_1200x630-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F05%2F757.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "When It Comes To Leveraging AI For Your Business, Don't Forget About The Power Of Human Interaction",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-the-morning-after-microsoft-unveils-its-powerful-open-ai-supercomputer.md",
+      "title": "The Morning After: Microsoft unveils its powerful Open AI supercomputer",
+      "excerpt": "Apple TV+, Microsoft's Build 2020 and OnePlus' 'x-ray' mode gets cut.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/the-morning-after-microsoft-ai-supercomputer-113456625.html",
+      "ampWebUrl": "https://www.engadget.com/amp/the-morning-after-microsoft-ai-supercomputer-113456625.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-microsoft-ai-supercomputer-113456625.html",
+      "publishedDateTime": "2020-05-20T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2020-05%2F945f3710-9a84-11ea-bbf6-6a688df9689a&thumbnail=640%2C&client=49kdj93ncb8s938hkdo&signature=70c9400fcb008c035b69db8d6add6f3bec0bf672",
+          "width": 640,
+          "height": 335,
+          "title": "The Morning After: Microsoft unveils its powerful Open AI supercomputer",
           "attribution": null
         }
       ],
@@ -791,16 +783,99 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients.md",
-      "title": "AI is helping get medical research into the hands of doctors and patients",
-      "excerpt": "A patient-centric approach helps advance medical knowledge, which is desperately needed in the middle of a fast-moving pandemic.",
-      "heat": 86,
+      "path": "_news/2020-05-20-microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine.md",
+      "title": "Microsoft’s new supercomputer will unlock AI opportunities that are ‘hard to even imagine’",
+      "excerpt": "The supercomputer was built in partnership with and will be exclusively used by OpenAI, a San Francisco-based firm dedicated to the ethical implementation of AI. According to a Microsoft blog, the design of its supercomputer was informed by new developments in the field of AI research,",
+      "heat": 96,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
-      "publishedDateTime": "2020-05-19T07:49:00-07:00",
+      "webUrl": "https://www.techradar.com/au/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine",
+      "publishedDateTime": "2020-05-20T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XBZBxbuMHoHZsPHfA6NZtU-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Microsoft’s new supercomputer will unlock AI opportunities that are ‘hard to even imagine’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-robots-deployed-to-help-bahrains-frontline-workers-in-virus-fight.md",
+      "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
+      "excerpt": "One of the robots also speaks 12 different languages and can identify patients through facial recognition. Health Ministry Under-Secretary Dr Waleed Al Manea said yesterday that this was their first time foraying into Artificial Intelligence (AI) and using it to fight the pandemic. “We have started using the robots in the isolation and ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Robots_deployed_to_help_Bahrains_frontline_workers_in_virus_fight-SNG_174983408/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_174983408/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_174983408/",
+      "publishedDateTime": "2020-05-20T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools.md",
+      "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
+      "excerpt": "Microsoft has announced a slew of up updates to its hybrid cloud platform at its Build 2020 developer conference, which is taking place virtually this year due to the COVID-19 pandemic.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
+      "publishedDateTime": "2020-05-20T03:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",
@@ -819,10 +894,10 @@
       },
       "images": [
         {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/19/96ab2ebc-4b2e-4359-af1c-edd50149a4f4/resize/1200x/f33ff0c5fa127e5b5f86d5a3a01afd04/istock-1200774681.jpg",
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/12/eab3af76-ea24-4a96-a295-3f7c8c9ecc01/thumbnail/1200x675/be8b004c9ec9810ed8d5affdb497ccc9/istock-990892848.jpg",
           "width": 1200,
-          "height": 800,
-          "title": "AI is helping get medical research into the hands of doctors and patients",
+          "height": 675,
+          "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
           "attribution": null
         }
       ],
@@ -831,138 +906,29 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-master-ai-machine-learning-with-this-discounted-training-bundle.md",
-      "title": "Master AI, Machine Learning With This Discounted Training Bundle",
-      "excerpt": "It's time to demystify AI, and The Essential AI and Machine Learning Certification Training Bundle is here to help for just $40.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/deals/master-ai-machine-learning-with-this-discounted-training-bundle",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00oJYHbcrtgk5RlvzX11jYC-1.fit_lim.size_1200x630.v_1589877302.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": "Master AI, Machine Learning With This Discounted Training Bundle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_news/2020-05-19-the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19.md",
-      "title": "The Role Artificial Intelligence is Playing in the Fight Against COVID-19",
-      "excerpt": "As the economy begins the slow process of re-opening, advanced technologies such as artificial intelligence, machine learning, and natural language processing are playing a key role not only in monitoring COVID-19 outbreaks,",
-      "heat": 73,
+      "path": "_news/2020-05-20-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
+      "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
+      "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
+      "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19-2020-05-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:22:00-07:00",
+      "webUrl": "https://www.vice.com/en_uk/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "ampWebUrl": "https://www.vice.com/amp/en_uk/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_uk/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "publishedDateTime": "2020-05-20T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-aware-combines-face-and-voice-in-latest-knomi-version-26-release.md",
-      "title": "Aware Combines Face and Voice in Latest Knomi® Version 2.6 Release",
-      "excerpt": "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced the release",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/aware-combines-face-and-voice-in-latest-knomi-version-2-6-release-301061758.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Aware Combines Face and Voice in Latest Knomi® Version 2.6 Release",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-elon-musk-says-teslas-full-self-driving-option-will-get-more-expensive-again-on-july-1.md",
-      "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
-      "excerpt": "Tesla has said that the technology will eventually move to a subscription model when it becomes advanced enough to actually self-drive.",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp",
-      "publishedDateTime": "2020-05-19T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "VICE",
+        "domain": "vice.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -974,10 +940,10 @@
       },
       "images": [
         {
-          "url": "https://i.insider.com/5ec3d9b9988ee3401360e504?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
+          "url": "https://video-images.vice.com/test-uploads/articles/5ec426f35504fd0099a9f91f/lede/1589913548738-Copy-of-Copy-of-Splitscreen-5.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
           "attribution": null
         }
       ],
@@ -991,23 +957,23 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit.md",
-      "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
-      "excerpt": "Space-specific silicon company Xilinx has developed a new processor for in-space and satellite applications that records a number of firsts: It’s the first 20nm process that’s rated for use in space,",
-      "heat": 95,
+      "path": "_news/2020-05-20-us-semiconductor-giant-shuts-china-factory-hailed-as-a-miracle-in-blow-to-beijings-chip-plans.md",
+      "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
+      "excerpt": "The winding down of GlobalFoundries’ only Chinese facility was due to poor planning, analysts said, but comes at a time of rising US-China tech tensions.",
+      "heat": 91,
       "tags": null,
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/amp/",
-      "publishedDateTime": "2020-05-19T06:10:00-07:00",
+      "webUrl": "https://www.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
+      "ampWebUrl": "https://amp.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
+      "publishedDateTime": "2020-05-20T02:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1019,55 +985,10 @@
       },
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/xilinx-space-tablet.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-the-ai-show-how-intel-built-a-chip-with-a-sense-of-smell.md",
-      "title": "The AI Show: How Intel built a chip with a sense of smell",
-      "excerpt": "Intel designed a neuromorphic AI chip to learn faster on less training data than traditional artificial intelligence techniques.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/19/the-ai-show-how-intel-built-a-chip-with-a-sense-of-smell/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Nahuku-neuromorphic-board.jpg?fit=578%2C385&strip=all",
-          "width": 577,
-          "height": 385,
-          "title": "The AI Show: How Intel built a chip with a sense of smell",
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/20/607f15f4-9a53-11ea-96ff-7aff439fc3be_image_hires_142028.jpg?itok=h3FEcWGp&v=1589955637",
+          "width": 1200,
+          "height": 630,
+          "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
           "attribution": null
         }
       ],
@@ -1078,6 +999,52 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker.md",
+      "title": "Alibaba to invest $1B on AI integration with smart speaker",
+      "excerpt": "Chinese e-commerce giant will use the funds to bolster its artificial intelligence and Internet of Things ecosystem that supports Tmall Genie, including linking more content and services from Alibaba's wider ecosystem that spans entertainment,",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "publishedDateTime": "2020-05-20T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/20/a4c65357-021e-45d8-bf8e-cd3831167937/thumbnail/1200x675/871569821e3baf939ac18c93fecddce5/tmall-logo.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Alibaba to invest $1B on AI integration with smart speaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

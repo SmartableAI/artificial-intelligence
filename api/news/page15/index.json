@@ -2,68 +2,23 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2020-05-14-how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx.md",
-      "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
-      "excerpt": "We built a virtual customer service robot with the Xavier NX, a powerful GPU that can decode 32 video streams at once but is little bigger than a credit card and costs just $399.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx",
-      "ampWebUrl": "https://au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/robotics/66883/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx?amp=1",
-      "publishedDateTime": "2020-05-14T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-to-bui/how-to-build-an-ai-robot-with-nvidias-399-jetson-xavier-nx_rwas.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "How to Build an AI Robot With Nvidia's $399 Jetson Xavier NX",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users.md",
-      "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
-      "excerpt": "Want AWS with easy-to-use Red Hat OpenShift Kubernetes container orchestration? You'll soon be able to get that.",
+      "path": "_news/2020-05-16-this-n95-like-mask-would-allow-you-to-unlock-your-phone-with-face-id.md",
+      "title": "This N95-like mask would allow you to unlock your phone with Face ID",
+      "excerpt": "If you're struggling to unlock your phone with facial recognition while wearing a face mask due to the coronavirus outbreak, a better alternative may be on the way. The Chinese tech company Huami, best known for its Amazfit wearable devices,",
       "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-red-hat-openshift-announced-for-public-cloud-kubernetes-users/",
-      "publishedDateTime": "2020-05-14T11:56:00-07:00",
+      "webUrl": "https://www.cnet.com/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
+      "publishedDateTime": "2020-05-16T05:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -75,493 +30,10 @@
       },
       "images": [
         {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/07/15acec1a-c9b8-4440-80e9-2d7266e44721/thumbnail/1200x675/68d586e111b2a5939b36cf74ebe8a84e/in-the-modern-data-center.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Amazon Red Hat OpenShift announced for public cloud Kubernetes users",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-this-ai-will-judge-you-for-eating-microwave-meals.md",
-      "title": "This AI will judge you for eating microwave meals",
-      "excerpt": "MIT CSAIL has created an AI system called Sapple that uses motion sensors and smart energy meters to work out how you're using microwaves and hair dryers",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/amp/",
-      "publishedDateTime": "2020-05-14T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-36-796x377.png",
-          "width": 796,
-          "height": 377,
-          "title": "This AI will judge you for eating microwave meals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models.md",
-      "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
-      "excerpt": "Nvidia unveiled its latest data center chip architecture, “Ampere,” and a motherboard to power multi-chip servers for AI. The company sees ever-more-gigantic neural networks in coming years.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
-      "publishedDateTime": "2020-05-14T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/14/1da79d85-66af-4eca-b991-3d2cf1492395/nvidia-2020-hgx-platform.jpg",
-          "width": 2000,
-          "height": 1600,
-          "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-adlingo-ads-builder-turns-an-ad-into-a-conversation.md",
-      "title": "AdLingo Ads Builder turns an ad into a conversation",
-      "excerpt": "My parents were small business owners in the U.S. Virgin Islands where I grew up. They taught me that, though advertising is important, personal relationships are the best way to get new customers and grow your business. When I started working at Google 14 years ago, online advertising was a one-way",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.blog.google/technology/area-120/adlingo-ads-builder/",
-      "ampWebUrl": "https://blog.google/technology/area-120/adlingo-ads-builder/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/area-120/adlingo-ads-builder/amp/",
-      "publishedDateTime": "2020-05-14T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": "AdLingo Ads Builder turns an ad into a conversation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-australia-wins-first-ai-eurovision-song-contest-by-sampling-koalas-and-kookaburras.md",
-      "title": "Australia wins first AI Eurovision Song Contest by sampling koalas and kookaburras",
-      "excerpt": "A team of programmers and songwriters from Australia have won the inaugural (and unofficial) AI Eurovision Song Contest, using a neural network trained on noises made by koalas, kookaburras, and Tasmanian devils to help score their winning entry.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/14/21258493/ai-eurovision-song-contest-australia-winning-entry-uncanny-valley",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/14/21258493/ai-eurovision-song-contest-australia-winning-entry-uncanny-valley",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258493/ai-eurovision-song-contest-australia-winning-entry-uncanny-valley",
-      "publishedDateTime": "2020-05-14T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/H0mdFNHHmaxT6HlchTr5oE3LMCY=/0x0:1280x720/1400x933/filters:focal(538x258:742x462):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66797979/maxresdefault.0.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Australia wins first AI Eurovision Song Contest by sampling koalas and kookaburras",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-ceo-talks-new-ampere-based-gpu-advanced-ai-system-in-gtc-2020-keynote.md",
-      "title": "Nvidia CEO Talks New Ampere-Based GPU, Advanced AI System In GTC 2020 Keynote",
-      "excerpt": "NVIDIA Corporation's (NASDAQ: NVDA) annual GPU Technology Conference is virtual this year and takes place May 19. Ahead of the conference, CEO Jensen Huang's",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/news/20/05/16033361/nvidia-ceo-talks-new-ampere-based-gpu-advanced-ai-system-in-gtc-2020-keynote",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16033361",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16033361",
-      "publishedDateTime": "2020-05-14T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/nvidia-superpod-press-image-1280x515.jpg",
-          "width": 1280,
-          "height": 515,
-          "title": "Nvidia CEO Talks New Ampere-Based GPU, Advanced AI System In GTC 2020 Keynote",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic.md",
-      "title": "From Hand Sanitizers To Tacos: Microsoft Shows Us How Companies Are Using Technology To Thrive During A Pandemic",
-      "excerpt": "Companies are embracing CRM and analytics technologies to help them shift business models during the COVID-19 pandemic. The Microsoft Business Applications summit showcased how Chipolte, IKEA, and others are using Microsoft technology to create new customer engagement models.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/",
-      "publishedDateTime": "2020-05-14T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd63e1a69715000675b9de%2F0x0.jpg",
-          "width": 1200,
-          "height": 616,
-          "title": "From Hand Sanitizers To Tacos: Microsoft Shows Us How Companies Are Using Technology To Thrive During A Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-ibm-claims-its-neural-computer-achieves-record-ai-model-training-time.md",
-      "title": "IBM claims its Neural Computer achieves record AI model training time",
-      "excerpt": "IBM claims its Neural Computer can train an AI algorithm to beat Atari 2600 games in record time -- and perform on par with state-of-the-art approaches.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/14/ibm-claims-its-neural-computer-achieves-record-ai-model-training-time/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM claims its Neural Computer achieves record AI model training time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars.md",
-      "title": "Patent Office Declares AI Cannot Be An Inventor, Stuns AI Devotees, Has Impacts For Self-Driving Cars",
-      "excerpt": "Can AI be an inventor? According to a recent decision by the U.S. Patent and Trademark Office (USPTO), the answer seems to be no. There is more to this story, though, and we’ll need to push past the surface to understand the full nuances involved.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/14/patent-office-declares-ai-cannot-be-an-inventor-stuns-ai-devotees-has-impacts-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-05-14T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6ff40aaa542800075a1352%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D371%26cropY2%3D3524",
-          "width": 1200,
-          "height": 676,
-          "title": "Patent Office Declares AI Cannot Be An Inventor, Stuns AI Devotees, Has Impacts For Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-ai-and-machine-learning-are-at-the-heart-of-future-healthcare.md",
-      "title": "AI and Machine Learning are at the heart of future healthcare.",
-      "excerpt": "Because of the influx of the different types of information we can hold for an individual, the future is relying on data management solutions to influence the way we store, use, and protect information.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://frontlinegenomics.com/ai-and-machine-learning-are-at-the-heart-of-future-healthcare/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Front Line Genomics",
-        "domain": "frontlinegenomics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://frontlinegenomics.com/wp-content/uploads/2020/05/alexander-sinn-KgLtFCgfC28-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1710,
-          "title": "AI and Machine Learning are at the heart of future healthcare.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-adobe-announces-ai-toolbox-for-experience-platform.md",
-      "title": "Adobe announces AI toolbox for Experience Platform",
-      "excerpt": "Most companies don’t have the personnel to do AI well, so they turn to platform vendors like Adobe for help. Like other platforms, it has been building AI into its product set for several years now, but wanted to give marketers a set of tools that take advantage of some advanced AI",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/adobe-announces-a-marketers-ai-toolbox-for-experience-platform/amp/",
-      "publishedDateTime": "2020-05-14T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Adobe-Customer-AI.jpg?w=680",
-          "width": 680,
-          "height": 586,
-          "title": "Adobe announces AI toolbox for Experience Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks.md",
-      "title": "Uber introduces AI to make sure its drivers wear face masks",
-      "excerpt": "Uber is making face masks mandatory in the US, Canada, India, and most of Europe and Latin America -- and will use AI to ensure drivers follow the rules",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/uber-introduces-ai-to-make-sure-its-drivers-wear-face-masks/amp/",
-      "publishedDateTime": "2020-05-14T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-35-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Uber introduces AI to make sure its drivers wear face masks",
+          "url": "https://cnet2.cbsistatic.com/img/F2kIQhUcGfgh3zP_EUna2KVKcrk=/756x567/2020/05/01/4390e8d4-7ab5-43eb-af57-126a3d9e863d/aeri-concept-x-05.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "This N95-like mask would allow you to unlock your phone with Face ID",
           "attribution": null
         }
       ],
@@ -575,23 +47,23 @@
       ]
     },
     {
-      "path": "_news/2020-05-14-ecs-achieves-aws-migration-competency.md",
-      "title": "ECS Achieves AWS Migration Competency",
-      "excerpt": "ECS, a leader in advanced technology, science, and engineering solutions, has been awarded the Amazon Web Services (AWS) Migration Competency.",
-      "heat": null,
+      "path": "_news/2020-05-16-artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook.md",
+      "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
+      "excerpt": "The definitive source for facts, data and analysis of the Global Artificial Intelligence Ai",
+      "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ecs-achieves-aws-migration-competency-1029203000",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ecs-achieves-aws-migration-competency-1029203000",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ecs-achieves-aws-migration-competency-1029203000",
-      "publishedDateTime": "2020-05-14T07:57:00-07:00",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook-2020-05-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-16T03:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -601,27 +73,35 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-14-sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip.md",
-      "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
-      "excerpt": "Sony’s camera sensors are already inside many of the high-end smartphones, but its new AI image sensor promises to make things even smarter – and high-end features cheaper, too. The",
-      "heat": 104,
+      "path": "_news/2020-05-16-irobots-roomba-i7-robot-vacuum-has-been-perfect-pandemic-company.md",
+      "title": "iRobot’s Roomba i7+ robot vacuum has been perfect pandemic company",
+      "excerpt": "You’d think that, after all this time at home waiting out the COVID-19 pandemic, I’d have got around to vacuuming more. Instead I’ve been offloading most of the responsibility to",
+      "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/",
-      "ampWebUrl": "https://www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sonys-ai-image-sensor-bakes-camera-smarts-right-into-the-chip-14620581/amp/",
-      "publishedDateTime": "2020-05-14T07:25:00-07:00",
+      "webUrl": "https://www.slashgear.com/irobot-roomba-i7-plus-review-robot-vacuum-smart-mapping-auto-emptying-bin-16620806/",
+      "ampWebUrl": "https://www.slashgear.com/irobot-roomba-i7-plus-review-robot-vacuum-smart-mapping-auto-emptying-bin-16620806/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/irobot-roomba-i7-plus-review-robot-vacuum-smart-mapping-auto-emptying-bin-16620806/amp/",
+      "publishedDateTime": "2020-05-16T02:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SlashGear",
@@ -640,92 +120,10 @@
       },
       "images": [
         {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor.jpg",
-          "width": 2307,
-          "height": 1334,
-          "title": "Sony’s AI image sensor bakes camera smarts right into the chip",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-releases-gpu-accelerated-app-framework-for-conversational-ai-services.md",
-      "title": "NVIDIA releases GPU-accelerated app framework for conversational AI services",
-      "excerpt": "NVIDIA announced a new solution to help organizations create artificially intelligent conversational services at its online GPU Technology Conference (GTC) this week. NVIDIA Jarvis is a GPU-accelerated app framework that leverages video and speech data to build customized,",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/nvidia-releases-gpu-accelerated-app-framework-for-conversational-ai-services/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/images/sd-premium.png",
-          "width": 628,
-          "height": 246,
-          "title": "NVIDIA releases GPU-accelerated app framework for conversational AI services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-a-new-way-to-think-about-artificial-intelligence-with-this-etf.md",
-      "title": "A New Way To Think About Artificial Intelligence With This ETF",
-      "excerpt": "Among the myriad thematic exchange traded funds investors have to consider, artificial intelligence products are numerous and some are catching on with investors. What To",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/trading-ideas/long-ideas/20/05/16028413/a-new-way-to-think-about-artificial-intelligence-with-this-etf",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16028413",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16028413",
-      "publishedDateTime": "2020-05-14T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/artificial-intelligence-3382507_1920_3_0.jpg",
-          "width": 685,
-          "height": 375,
-          "title": "A New Way To Think About Artificial Intelligence With This ETF",
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/irobot-roomba-i7-plus-robot-vacuum-08.jpg",
+          "width": 1680,
+          "height": 1050,
+          "title": "iRobot’s Roomba i7+ robot vacuum has been perfect pandemic company",
           "attribution": null
         }
       ],
@@ -739,105 +137,23 @@
       ]
     },
     {
-      "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
-      "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
-      "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report",
-      "ampWebUrl": "https://www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/robots-patrol-social-distancing-tourist-hotspots-eu-report.amp",
-      "publishedDateTime": "2020-05-14T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/iStock-914562482.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-unifies-ai-compute-with-ampere-gpu.md",
-      "title": "Nvidia Unifies AI Compute With “Ampere” GPU",
-      "excerpt": "The GPU Technical Conference may have been canceled in March thanks to the coronavirus pandemic, but behind the scenes Nvidia kept on pace with the",
+      "path": "_news/2020-05-16-facebooks-giphy-purchase-will-help-keep-track-of-competitors.md",
+      "title": "Facebook’s Giphy purchase will help keep track of competitors",
+      "excerpt": "Giphy provides the same search service to many of Facebook’s competitors – including Apple’s iMessage, Twitter, Signal and TikTok – which shows how often people use these platforms, the kind of insight Facebook values most.",
       "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nextplatform.com/2020/05/14/nvidia-unifies-ai-compute-with-ampere-gpu/",
-      "ampWebUrl": "https://www.nextplatform.com/2020/05/14/nvidia-unifies-ai-compute-with-ampere-gpu/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/05/14/nvidia-unifies-ai-compute-with-ampere-gpu/amp/",
-      "publishedDateTime": "2020-05-14T06:22:00-07:00",
+      "webUrl": "https://www.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
+      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
+      "publishedDateTime": "2020-05-15T21:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg",
-          "width": 1199,
-          "height": 877,
-          "title": "Nvidia Unifies AI Compute With “Ampere” GPU",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-sony-wants-to-make-cameras-smarter-with-an-onboard-ai-chip.md",
-      "title": "Sony wants to make cameras smarter with an onboard AI chip",
-      "excerpt": "Sony has announced two new 12.3-megapixel image sensors that come equipped with dedicated AI chips for applying machine learning to camera data locally.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/photography/sony-smart-sensor-ai/",
-      "ampWebUrl": "https://www.digitaltrends.com/photography/sony-smart-sensor-ai/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/photography/sony-smart-sensor-ai/?amp",
-      "publishedDateTime": "2020-05-14T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -849,10 +165,10 @@
       },
       "images": [
         {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/nvidia-dgx-a100-03-500x500.jpg",
-          "width": 500,
-          "height": 313,
-          "title": "Sony wants to make cameras smarter with an onboard AI chip",
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/16/9ec5b494-972e-11ea-ae0d-0e69ba128e68_image_hires_125830.jpg?itok=gcwE52xs&v=1589605117",
+          "width": 1200,
+          "height": 630,
+          "title": "Facebook’s Giphy purchase will help keep track of competitors",
           "attribution": null
         }
       ],
@@ -861,21 +177,96 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-14-nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai.md",
-      "title": "NVIDIA Launches Ampere A100 GPU For Data Center Computing And AI",
-      "excerpt": "NVIDIA launched its Volta architecture and the V100 GPU with Tensor Cores, which dramatically accelerated performance for FP32 and FP16 tensor operations used in training AI deep neural networks (DNNs).",
-      "heat": 104,
+      "path": "_news/2020-05-15-healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis.md",
+      "title": "Healthcare Tech & Robotics ETFs in Focus amid COVID-19 Crisis",
+      "excerpt": "Moderna’s Vaccine Fast Tracked By FDA (14:00) - Repurposing Drugs For Covid-19 Treatment (21:15) - Will Telemedicine Cont",
+      "heat": 81,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/14/nvidia-launches-ampere-a100-gpu-for-data-center-computing-and-ai/amp/",
-      "publishedDateTime": "2020-05-14T06:14:00-07:00",
+      "webUrl": "https://www.nasdaq.com/articles/healthcare-tech-robotics-etfs-in-focus-amid-covid-19-crisis-2020-05-15",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-update-1-gm-ceo-calls-self-driving-unit-layoffs-prudent-still-sees-huge-opportunity.md",
+      "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
+      "excerpt": "General Motors Co’s top executive on Friday said layoffs announced a day earlier at the company’s self-driving Cruise unit were “prudent” but insisted that she sees a “huge opportunity” for its vehicles to move both people and packages.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/autos-gm-idUSL1N2CX2GA",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22R30M",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22R30M",
+      "publishedDateTime": "2020-05-15T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200515&t=2&i=1518809247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4E23K",
+          "width": 811,
+          "height": 545,
+          "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-easymile-self-driving-shuttles-add-seatbelts-to-get-back-in-operation.md",
+      "title": "EasyMile Self-Driving Shuttles Add Seatbelts To Get Back In Operation",
+      "excerpt": "EasyMile shut operations due to a sudden-stop incident. It's coming back, adding seatbelts. But is the very idea of the \"transit stop\" where you drop off and pick up passengers the flaw? Can 21st century transit have minimal stops and thus be safer?",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/05/15/easymile-self-driving-shuttles-add-seatbelts-to-get-back-in-operation/",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/05/15/easymile-self-driving-shuttles-add-seatbelts-to-get-back-in-operation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/05/15/easymile-self-driving-shuttles-add-seatbelts-to-get-back-in-operation/amp/",
+      "publishedDateTime": "2020-05-15T13:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -892,7 +283,142 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebef67012242700064a9918%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "EasyMile Self-Driving Shuttles Add Seatbelts To Get Back In Operation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-enhancing-speech-to-text-accuracy-of-covid-19-related-terms-with-amazon-transcribe-medical.md",
+      "title": "Enhancing speech-to-text accuracy of COVID-19-related terms with Amazon Transcribe Medical",
+      "excerpt": "As the world responds to the ongoing pandemic, it’s more important than ever to accurately access, consume, and analyze information related to COVID-19. Topics about the healthcare crisis permeate many dimensions of our personal and professional lives, through channels as diverse as news reporting, social",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-speech-to-text-accuracy-of-covid-19-related-terms-with-amazon-transcribe-medical/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T12:21:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/15/transcribing-covid-social.jpg",
+          "width": 1056,
+          "height": 484,
+          "title": "Enhancing speech-to-text accuracy of COVID-19-related terms with Amazon Transcribe Medical",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-analyzing-and-tagging-assets-stored-in-veeva-vault-promomats-using-amazon-ai-services.md",
+      "title": "Analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services",
+      "excerpt": "Veeva Systems is a provider of cloud-based software for the global life sciences industry, which offers products that serve multiple domains ranging from clinical, regulatory, quality, and more. Veeva’s Vault Platform manages both content and data in a single platform that allows you to deploy powerful",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-and-tagging-assets-stored-in-veeva-vault-promomats-using-amazon-ai-services/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T11:02:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/veevo-1-2.gif",
+          "width": 1200,
+          "height": 583,
+          "title": "Analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable.md",
+      "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
+      "excerpt": "NVIDIA Corporation (NASDAQ: NVDA) shares, which have been bouncing along nicely for much of this week amid positive sell-side expectations for the chipmaker's earnings",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/16043371/nvidia-analyst-says-new-ampere-based-data-center-gpu-makes-chipmaker-unassailable",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16043371",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16043371",
+      "publishedDateTime": "2020-05-15T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/nvidia_a100_gpu.jpg",
+          "width": 2000,
+          "height": 1700,
+          "title": "Nvidia Analyst Says New, Ampere-Based Data Center GPU Makes Chipmaker 'Unassailable'",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -903,16 +429,105 @@
       ]
     },
     {
-      "path": "_news/2020-05-14-nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance.md",
-      "title": "Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 petaflops of performance",
-      "excerpt": "Nvidia unwrapped its Nvidia A100 artificial intelligence chip today, and CEO Jensen Huang called it the ultimate instrument for advancing AI.",
-      "heat": 71,
+      "path": "_news/2020-05-15-voice-control-speaking-is-better-than-swiping-during-the-coronavirus.md",
+      "title": "Voice control: Speaking is better than swiping during the coronavirus",
+      "excerpt": "A survey shows that people are worried about privacy and security when using voice control but they like not having to touch anything.",
+      "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/amp/",
-      "publishedDateTime": "2020-05-14T06:14:00-07:00",
+      "webUrl": "https://www.techrepublic.com/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-control-speaking-is-better-than-swiping-during-the-coronavirus/",
+      "publishedDateTime": "2020-05-15T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/11/22/88326323-0d79-46bf-96dd-249d6e66ec6f/thumbnail/1200x675/84317c9b308cf0e20a8ecfddd3825515/20191121-dreamforce-patterson-bill.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Voice control: Speaking is better than swiping during the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-apple-buys-virtual-reality-startup-nextvr.md",
+      "title": "Apple Buys Virtual-Reality Startup NextVR",
+      "excerpt": "Apple (NASDAQ:AAPL) confirmed on Thursday that it has acquired virtual-reality (VR) specialist NextVR. The technology start-up created a platform that broadcasts live and recorded",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/15/apple-buys-virtual-reality-startup-nextvr.aspx",
+      "publishedDateTime": "2020-05-15T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574677%2Fvirtual-reality.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Apple Buys Virtual-Reality Startup NextVR",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-facebooks-voice-synthesis-ai-generates-speech-in-500-milliseconds.md",
+      "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
+      "excerpt": "Facebook's new AI text-to-speech system generates one second of human-like audio in just 500 milliseconds, running on off-the-shelf processors.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/15/facebooks-voice-synthesis-ai-generates-speech-in-500-milliseconds/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T09:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -931,102 +546,10 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/a100.jpg?w=1200&#038;strip=all",
-          "width": 1194,
-          "height": 686,
-          "title": "Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 petaflops of performance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidias-first-ampere-gpu-is-designed-for-data-centers-and-ai-not-your-pc.md",
-      "title": "Nvidia’s first Ampere GPU is designed for data centers and AI, not your PC",
-      "excerpt": "Nvidia is unveiling its next-generation Ampere GPU architecture today. The first GPU to use Ampere will be Nvidia’s new A100, built for scientific computing, cloud graphics, and data analytics. While there have been plenty of rumors around Nvidia’s Ampere plans for GeForce “RTX 3080” cards,",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer",
-      "publishedDateTime": "2020-05-14T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/HF2WomES921lXx07YJ_w3OkXx-w=/0x0:1980x1320/1400x933/filters:focal(832x502:1148x818):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66796434/2555435ebae590030837.15346566_NVIDIA_A100_GPU.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Nvidia’s first Ampere GPU is designed for data centers and AI, not your PC",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.md",
-      "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
-      "excerpt": "The next major release of the in-memory data processing framework will support GPU-accelerated functions courtesy of Nvidia RAPIDS",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.amp.html",
-      "publishedDateTime": "2020-05-14T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/05/sparking-jumper-cables-94261543-100265638-large.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-portal-1.jpg?w=1200&#038;strip=all",
           "width": 1200,
-          "height": 800,
-          "title": "Apache Spark 3.0 adds Nvidia GPU support for machine learning",
+          "height": 600,
+          "title": "Facebook’s voice synthesis AI generates speech in 500 milliseconds",
           "attribution": null
         }
       ],
@@ -1035,21 +558,195 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-boeing-loyal-wingman-a-combat-drone-that-leans-hard-on-ai.md",
+      "title": "Boeing Loyal Wingman: A combat drone that leans hard on AI",
+      "excerpt": "But luckily, at least one wingman is still rolling.  Earlier this month, Boeing Australia delivered the first of three prototype drones to the Royal Australian Air Force. The aircraft, nicknamed Loyal Wingman,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/boeing-loyal-wingman-a-combat-drone-and-historic-aircraft/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/boeing-loyal-wingman-a-combat-drone-and-historic-aircraft/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/boeing-loyal-wingman-a-combat-drone-and-historic-aircraft/",
+      "publishedDateTime": "2020-05-15T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/RvXgziYDiKnRyBupRm1gPdTpvlM=/756x567/2020/05/14/667a5774-b864-4956-a51a-31e6f607ca1e/1-ats-loyal-wingman-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Boeing Loyal Wingman: A combat drone that leans hard on AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-14-gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing.md",
-      "title": "GPU Chips Are Poised To Rewrite (Again) What’s Possible In Cloud Computing",
-      "excerpt": "Tech companies such as Nvidia and Oracle are making it easier for businesses to apply GPUs to more complicated realms of artificial intelligence.",
+      "path": "_news/2020-05-15-the-internet-furry-drama-raising-big-questions-about-artificial-intelligence.md",
+      "title": "The Internet Furry Drama Raising Big Questions About Artificial Intelligence",
+      "excerpt": "Much of the fun of internet drama comes from its frivolousness, but sometimes an online shitfest points to something bigger. Last week, the AI-powered furry art site thisfursonadoesnotexist did just that,",
       "heat": 99,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/",
-      "ampWebUrl": "https://www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oracle/2020/05/14/gpu-chips-are-poised-to-rewrite-again-whats-possible-in-cloud-computing/amp/",
-      "publishedDateTime": "2020-05-14T06:10:00-07:00",
+      "webUrl": "https://gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922",
+      "ampWebUrl": "https://gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-internet-furry-drama-raising-big-questions-about-ar-1843412922/amp",
+      "publishedDateTime": "2020-05-15T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kvtktiiq3knuxu0tgjzp.png",
+          "width": 800,
+          "height": 450,
+          "title": "The Internet Furry Drama Raising Big Questions About Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-artificial-intelligence-ai-partnering-deals-collection-2014-2020-access-to-over-350-ai-deal-records-researchandmarketscom.md",
+      "title": "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com",
+      "excerpt": "Global Artificial Intelligence Partnering Terms and Agreements includes: Trends in artificial intelligence dealmaking in the biopharma industry since 2014; Analysis of artificial",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Business Wire/3020edf9d31b402d8141fbbd38e30456",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Artificial Intelligence (AI) Partnering Deals Collection 2014-2020: Access to Over 350 AI Deal Records - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-facial-recognition-firms-are-scrambling-to-see-around-face-masks.md",
+      "title": "Facial recognition firms are scrambling to see around face masks",
+      "excerpt": "Because of face coverings prompted by the coronavirus pandemic, companies are trying to ID people based on just their eyes and cheek bones.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/health/facial-recognition-firms-are-scrambling-to-see-around-face-masks/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-firms-are-scrambling-to-see-around-face-masks/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-firms-are-scrambling-to-see-around-face-masks/",
+      "publishedDateTime": "2020-05-15T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/bxotKLLLXdGY0MGRcmXGsKAdVIo=/756x567/2020/03/19/c7c10680-5921-4f44-9797-3902b191bcda/coronavirus-masks-n95-health-5058.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Facial recognition firms are scrambling to see around face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-new-ai-helps-people-exercise-at-home-during-pandemic-infographic.md",
+      "title": "New AI Helps People Exercise At Home During Pandemic [Infographic]",
+      "excerpt": "Many people have been exercising at home since the outbreak of Covid-19. Gyms have shut their doors and the CDC has suggested we stay in our homes. So much traffic has shifted to online services that we could be seeing a permanent change in the industry.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kevinanderton/2020/05/15/new-ai-helps-people-exercise-at-home-during-pandemic-infographic/",
+      "ampWebUrl": "https://www.forbes.com/sites/kevinanderton/2020/05/15/new-ai-helps-people-exercise-at-home-during-pandemic-infographic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kevinanderton/2020/05/15/new-ai-helps-people-exercise-at-home-during-pandemic-infographic/amp/",
+      "publishedDateTime": "2020-05-15T04:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1066,15 +763,310 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd8f5f228fb10006a3cd15%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1440%26cropY1%3D429%26cropY2%3D1239",
+          "width": 1200,
+          "height": 676,
+          "title": "New AI Helps People Exercise At Home During Pandemic [Infographic]",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-nvidia-releases-most-advanced-ai-chip-ever.md",
+      "title": "Nvidia releases most advanced AI chip ever",
+      "excerpt": "Nvidia has just released its next-generation artificial intelligence chip - and it's quite the beast. During a keynote at Nvidia GTC, CEO Jensen Huang referred to the new Nvidia A",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itproportal.com/news/nvidia-releases-most-advanced-ai-chip-ever/",
+      "ampWebUrl": "https://www.itproportal.com/amp/news/nvidia-releases-most-advanced-ai-chip-ever/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nvidia-releases-most-advanced-ai-chip-ever/",
+      "publishedDateTime": "2020-05-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZCpccNHtpUekUzUU49oVbe-1200-80.jpg",
+          "width": 700,
+          "height": 394,
+          "title": "Nvidia releases most advanced AI chip ever",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-pandemic-effect-how-do-consumers-feel-about-ai-right-now.md",
+      "title": "Pandemic effect: How do consumers feel about AI right now?",
+      "excerpt": "Consumer-facing AI and robotics applications have had an uphill battle, and they've had to wage it on two fronts. Regulation has, perhaps for the better, throttled adoption of technologies like self-driving cars and delivery robots,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/pandemic-effect-how-do-consumers-feel-about-ai-right-now/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pandemic-effect-how-do-consumers-feel-about-ai-right-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pandemic-effect-how-do-consumers-feel-about-ai-right-now/",
+      "publishedDateTime": "2020-05-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2017/05/04/7f9fab71-4c68-4c3f-ac60-a57c26eb4ad6/ai.jpg",
+          "width": 770,
+          "height": 577,
+          "title": "Pandemic effect: How do consumers feel about AI right now?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-gms-self-driving-car-startup-cruise-has-laid-off-8-of-its-staff-or-around-150-workers.md",
+      "title": "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers",
+      "excerpt": "The move is aimed at cutting costs amid the ongoing coronavirus pandemic.",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-owned-self-driving-car-startup-cruise-lays-off-staff-2020-5?amp",
+      "publishedDateTime": "2020-05-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ebe5ca4aee6a849b975e494?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-how-ai-can-help-in-fighting-covid-19.md",
+      "title": "How AI Can Help In Fighting COVID-19",
+      "excerpt": "To manage the pandemic, hospitals are looking forward to automated tools to the hilt. Healthcare experts are using AI to triage COVID-19 patients",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/350672",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350672",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350672",
+      "publishedDateTime": "2020-05-15T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1589535361-web-3963945.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How AI Can Help In Fighting COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-sony-announces-camera-sensor-chips-with-built-in-ai-processing.md",
+      "title": "Sony announces camera sensor chips with built-in AI processing",
+      "excerpt": "Sony has shown off what it's calling \"the world's first image sensors to be equipped with AI processing functionality.\" These new sensors handle AI image analysis on board, so only the necessary data can be sent for further cloud processing.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/",
+      "ampWebUrl": "https://newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/digital-cameras/sony-ai-camera-sensors-imx500-imx501/?amp=true",
+      "publishedDateTime": "2020-05-15T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/7d5d11d/2147483647/strip/true/crop/5250x3500+0+50/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0e%2Fd6%2Fbe43993548dd8926342b0bd6864e%2Fdepositphotos-25748679-xl-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Sony announces camera sensor chips with built-in AI processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-ltn-global-enters-aws-advanced-technology-partner.md",
+      "title": "LTN Global enters AWS advanced technology partner",
+      "excerpt": "LTN Global has become the latest video industry firm to seek out the IT platform giants to provide offerings and will use AWS across its modular suite.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.html",
+      "ampWebUrl": "https://www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020051558503/ltn-global-enters-aws-advanced-technology-partner.amp.html",
+      "publishedDateTime": "2020-05-15T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rapidtvnews.com/images/2020/May_2020/Elemental_12_Jan.jpg",
+          "width": 400,
+          "height": 234,
+          "title": "LTN Global enters AWS advanced technology partner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus.md",
+      "title": "Child psychologist says AI can help the poor amid the coronavirus",
+      "excerpt": "RELATED: Papal academy fosters ethics, multidisciplinary alliances in AI debate Given the Catholic Church’s global nature and its networks with diverse experts in various fields, it is “in a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/",
+      "ampWebUrl": "https://cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/amp/",
+      "publishedDateTime": "2020-05-14T22:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crux",
+        "domain": "cruxnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cruxnow.com/wp-content/uploads/2020/05/binary-1536651_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": "Child psychologist says AI can help the poor amid the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

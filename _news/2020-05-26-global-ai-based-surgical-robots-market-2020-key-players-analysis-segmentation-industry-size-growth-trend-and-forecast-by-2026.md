@@ -27,6 +27,19 @@ images:
     title: "Global AI-based Surgical Robots Market 2020 Key Players Analysis, Segmentation, Industry Size, Growth, Trend and Forecast by 2026"
 
 related:
+  - title: "COVID-19 impact on Big Data Market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023"
+    excerpt: "The global big data market is expected to grow at a 13.35% CAGR from 2018 to 2023. Towards the end of the assessment period, the market is likely to surpass a valuation of USD 81,"
+    publishedDateTime: 2020-05-29T02:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-big-data-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2023-2020-05-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Outlook on the Worldwide Artificial Intelligence in Manufacturing Industry to 2027 - Rising Demand of AI-Based Applications Presents Opportunities"
     excerpt: "The \"Artificial Intelligence in Manufacturing Market by Component, Technology (ML, Computer Vision, NLP), Application"
     publishedDateTime: 2020-05-25T09:43:00Z

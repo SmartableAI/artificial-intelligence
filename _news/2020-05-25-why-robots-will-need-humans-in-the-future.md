@@ -8,7 +8,7 @@ ampWebUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-
 cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -42,21 +42,6 @@ related:
       - url: "https://www.courant.com/resizer/-RkmdLbQY_5T6dnGwSJV5mIp7-g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JTAXB6YFGFAU7AZ5272JMTGK3I.png"
         width: 1200
         height: 858
-  - title: "Why robots will need humans in the future"
-    excerpt: "Tesla chief Elon Musk and other big-name Silicon Valley executives have long promised a car that can do all the driving without human assistance. But Ben Shneiderman, a University of Maryland computer scientist who has for decades warned against"
-    publishedDateTime: 2020-05-24T20:01:00Z
-    webUrl: "https://www.seattletimes.com/business/why-robots-will-need-humans-in-the-future/"
-    ampWebUrl: "https://www.seattletimes.com/business/why-robots-will-need-humans-in-the-future/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/why-robots-will-need-humans-in-the-future/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 59
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/05/05222020_Robots_132810-300x300.jpg"
-        width: 300
-        height: 300
 
 secured: "FIaMQ3LQ7WWwMByJvuy2umuGT4xypNDnFkla7MuzjdOG+AgNj9ou3U/mSFcduKhjbZLdeReSF50o+vOTR2eJVZ9z8sIFVX1zu+q166o3u1hemyk/R2LmmA2rm1j+VmZkO5gRO/zJVdo0+7/kl1DCs/Hqj0GS5oNPDJXZ/QVroJ6lWdFGyuO7AJUPWU+DKYJFlSV0wbTDHmePCJGtf1UQvkoPSU1XRFxwtkXZKTc1c6Ni9zylRMW1xg/+9iIJm3h352YvAE3MF8MHdNF2491ssqJ6p5DPMLzvMZh99+LHKE/Z3Z9A1zC2cT20rAGqEzEp/j69q6Z4we89ndXjcUNr+kmvO4JXvJhtnPf+/CyLkpqKQRPODA+iIoHIzYx7/1oAU4IynT1hDlPwyqXxwC9Zi2rkpsWNyHD3+3gcRd0r389WxHzQZn1CRNg7hTbnR6hBdJUVVeLW2BtBaN+IafoeojTMIPqLnk7z/+KPAgLHLuI=;ITstTm2ia7j29KaU3jCtjA=="
 ---

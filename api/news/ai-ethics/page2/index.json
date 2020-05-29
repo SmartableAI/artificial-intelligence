@@ -2,6 +2,188 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-22-google-debuts-ai-in-google-translate-that-addresses-gender-bias.md",
+      "title": "Google debuts AI in Google Translate that addresses gender bias",
+      "excerpt": "“We’ve made significant progress since our initial launch by increasing the quality of gender-specific translations and also expanding it to 4 more language-pairs,” wrote Google Research senior software engineer Melvin Johnson. “We are committed to further addressing gender bias in Google Translate and plan to extend this work to ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/",
+      "publishedDateTime": "2020-04-22T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google debuts AI in Google Translate that addresses gender bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-18-ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution.md",
+      "title": "AI Weekly: When to ship or shelve a coronavirus solution",
+      "excerpt": "Those debates certainly carry over to the kind of AI being deployed right now, and the important question of when a company should ship or shelve a coronavirus solution. A lot of AI is being deployed in the pandemic to save lives and someday soon help us resume daily lives, much of which you’ve been able to read about here. But they aren’t ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/",
+      "publishedDateTime": "2020-04-17T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1214233667.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "AI Weekly: When to ship or shelve a coronavirus solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice.md",
+      "title": "AI researchers propose ‘bias bounties’ to put ethics principles into practice",
+      "excerpt": "Researchers from Google Brain, Intel, OpenAI, and top research labs in the U.S. and Europe joined forces this week to release what the group calls a toolbox for turning AI ethics principles into practice. The kit for organizations creating AI models includes the idea of paying developers for finding bias in AI, akin to the bug bounties offered ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/17/ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/17/ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice/amp/",
+      "publishedDateTime": "2020-04-17T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1199708189.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "AI researchers propose ‘bias bounties’ to put ethics principles into practice",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days.md",
+      "title": "VentureBeat’s flagship AI event, Transform, goes fully digital and extends to 3 days",
+      "excerpt": "Transform will also host its popular Women-in-AI breakfast, sponsored by Intel and Capital One. Transform will include a focus on diversity and inclusion topics, reflecting how ethics has become an important part of smart AI practice, and host its 2nd annual AI Innovation Awards. VentureBeat’s virtual event will allow AI innovators and ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days/amp/",
+      "publishedDateTime": "2020-04-16T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?fit=1800%2C1200&strip=all",
+          "width": 1800,
+          "height": 1200,
+          "title": "VentureBeat’s flagship AI event, Transform, goes fully digital and extends to 3 days",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-futurelaw-2020-showcases-how-tech-is-transforming-the-law-including-the-impacts-of-ai.md",
       "title": "FutureLaw 2020 Showcases How Tech Is Transforming The Law, Including The Impacts Of AI",
       "excerpt": "As his point vividly suggests, when it comes to law and the practice of law, there is a great deal of human reasoning involved, far beyond the reach of any simplistic calculating machine. Of course, his authoritative remark was proffered in the late 1940s when computers were massive in size and minuscule in computational capabilities when compared to the power of today’s computing,",
@@ -1119,170 +1301,6 @@
         "AI Ethics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai.md",
-      "title": "Google and the Oxford Internet Institute explain artificial intelligence basics with the ‘A-Z of AI’",
-      "excerpt": "and her team to select the specific subjects that they felt were pivotal to understanding AI and its role in how the world operates today. “The 26 topics chosen are by no means an exhaustive list, but they are a great place for first-timers to start,” the guide’s FAQ section explains. “The team carefully balanced their selections across ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/25/google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/25/google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai/amp/",
-      "publishedDateTime": "2020-03-25T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Feat-3.png?fit=1383%2C794&strip=all",
-          "width": 1383,
-          "height": 794,
-          "title": "Google and the Oxford Internet Institute explain artificial intelligence basics with the ‘A-Z of AI’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-three-experts-appointed-to-axons-ai-ethics-board.md",
-      "title": "Three Experts Appointed to Axon’s AI Ethics Board",
-      "excerpt": "Axon, a provider of smart devices for reduced-force policing and security applications, has appointed three individuals to its AI Ethics Board. Axon offers products like tasers, body cameras, and drones, as well as policing software; and the company seeks to leverage Artificial Intelligence in its offerings. At a time of intensifying scrutiny ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://findbiometrics.com/biometrics-news-three-experts-appointed-to-axons-ai-ethics-board-903184/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecuriMetrics HIIDE",
-        "domain": "findbiometrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://findbiometrics.com/wp-content/uploads/iStock-910132252-1-e1525292879902.jpg",
-          "width": 851,
-          "height": 638,
-          "title": "Three Experts Appointed to Axon’s AI Ethics Board",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next.md",
-      "title": "IBM and Microsoft Sign 'Rome Call for AI Ethics': What Happens Next?",
-      "excerpt": "On Feb. 28, representatives from the Pontifical Academy for Life, Microsoft, IBM, FAO (UN Food and Agriculture Organization) and the Italian government signed the \"Rome Call for AI Ethics,\" a document developed to support an ethical approach to artificial intelligence. Founded in 1994, the Pontifical Academy is dedicated to study and inform on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cmswire.com/information-management/ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next/",
-      "ampWebUrl": "https://www.cmswire.com/information-management/ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next/amp/",
-      "publishedDateTime": "2020-03-18T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/images/smg/editorial/2020-18-march-doctor-looking-at-xray-on-tablet.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": "IBM and Microsoft Sign 'Rome Call for AI Ethics': What Happens Next?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-85-of-organizations-are-using-ai-in-deployed-applications.md",
-      "title": "85% of organizations are using AI in deployed applications",
-      "excerpt": "For mature adopters, the need to control for interpretability and transparency of machine learning models was the second-most cited risk factor (~55%), while those still evaluating AI placed fairness, bias, and ethics (~40%) in second place. While the risks of AI can be intimidating, the benefits can be worth the risk. For all adopters ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/85-of-organizations-are-using-ai-in-deployed-applications/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/85-of-organizations-are-using-ai-in-deployed-applications/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/85-of-organizations-are-using-ai-in-deployed-applications/",
-      "publishedDateTime": "2020-03-18T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/12/30/1d648c0f-4760-4136-b873-d81d41107963/resize/1200x/0ca267f50dad0a49084f5dcccb3c2b75/istock-1167065891.jpg",
-          "width": 1200,
-          "height": 791,
-          "title": "85% of organizations are using AI in deployed applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -2,117 +2,67 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2020-05-12-damien-patton-ceo-of-ai-surveillance-tool-banjo-resigns-after-kkk-neo-nazi-past-exposed.md",
-      "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
-      "excerpt": "News of the shift comes after OneZero re-surfaced newspaper reports from the 1990s which tied Patton to a fork of the Ku Klux Klan hate group and his involvement with a synagogue shooting.",
-      "heat": 78,
+      "path": "_news/2020-05-13-the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution.md",
+      "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
+      "excerpt": "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has announced the general availability of Amazon Kendra, described as an enterprise search solution which leverages \"machine learning to enable organizations to index all of their internal data sources,",
+      "heat": 72,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339",
-      "ampWebUrl": "https://www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/banjo-ceo-damien-patton-resigns-nazi-white-supremacy-ai-social-media-mining-police-1503339?amp=1",
-      "publishedDateTime": "2020-05-12T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1589117/banjo.png",
-          "width": 1548,
-          "height": 1090,
-          "title": "Damien Patton, CEO of AI Surveillance Tool Banjo, Resigns After KKK Neo-Nazi Past Exposed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-cheat-sheet-a-comprehensive-guide-to-ai-terminology.md",
-      "title": "Cheat sheet: A comprehensive guide to AI terminology",
-      "excerpt": "Despite that, there is a lack of consistency in how many AI concepts are discussed, not just at the STEM education level, but in popular entertainment, science writing, and even at times in scientific journals.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/12/cheat-sheet-a-comprehensive-guide-to-ai-terminology-syndication/amp/",
-      "publishedDateTime": "2020-05-12T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Cheat sheet: A comprehensive guide to AI terminology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-talkspace-wants-to-build-a-better-therapist-with-ai-listening-in.md",
-      "title": "Talkspace Wants to Build a Better Therapist With AI Listening In",
-      "excerpt": "It’s using tools such as machine learning and artificial intelligence to analyze transcripts of therapy sessions, which have been scrubbed of any identifying data. The company hopes its ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-12/talkspace-using-ai-for-therapy-during-mental-health-crisis",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution-2020-05-13",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-12T03:00:00-07:00",
+      "publishedDateTime": "2020-05-13T10:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
             "attribution": null
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow.md",
+      "title": "7 Artificial Intelligence ETFs to Buy for Today and Tomorrow",
+      "excerpt": "Artificial intelligence (AI) is taking a variety of industries by storm and with that shift comes a plethora of investment implications. Fortunately, in what feels like a universe of thematic funds teeming with obscure products,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-etfs-to-buy-for-today-and-tomorrow-2020-05-13?amp",
+      "publishedDateTime": "2020-05-13T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -123,321 +73,21 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year.md",
-      "title": "AI-Brain-Chip Neuralink To Be Implanted in Human Brain Within a Year",
-      "excerpt": "Speaking on on Joe Rogan's latest podcast, the billionaire said the device could one day fix \"anything that is wrong with the brain\".",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://dailytimes.com.pk/611147/ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year/",
-      "ampWebUrl": "https://dailytimes.com.pk/611147/ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/611147/ai-brain-chip-neuralink-to-be-implanted-in-human-brain-within-a-year/amp/",
-      "publishedDateTime": "2020-05-12T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/05/12/neuralink-brain-implants.jpg",
-          "width": 600,
-          "height": 349,
-          "title": "AI-Brain-Chip Neuralink To Be Implanted in Human Brain Within a Year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-microsoft-conducts-ai-virtual-summit-for-the-students-of-bml-munjal-university.md",
-      "title": "Microsoft conducts AI Virtual Summit for the students of BML Munjal University",
-      "excerpt": "Microsoft conducted an AI Virtual Summit for the students of BML Munjal University (BMU), a Hero Group initiative on May 6 & 7, 2020. This was as per the MoU signed between BMU and",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://indiaeducationdiary.in/microsoft-conducts-ai-virtual-summit-for-the-students-of-bml-munjal-university/",
-      "ampWebUrl": "https://indiaeducationdiary.in/microsoft-conducts-ai-virtual-summit-for-the-students-of-bml-munjal-university/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-conducts-ai-virtual-summit-for-the-students-of-bml-munjal-university/?amp",
-      "publishedDateTime": "2020-05-12T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2017/04/bmlmunjaluniversity.jpg?fit=882%2C589&ssl=1",
-          "width": 882,
-          "height": 589,
-          "title": "Microsoft conducts AI Virtual Summit for the students of BML Munjal University",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-fiat-chrysler-provides-bespoke-minivan-for-self-driving-startup-voyage.md",
-      "title": "Fiat Chrysler provides bespoke minivan for self-driving startup Voyage",
-      "excerpt": "For a few years now, Fiat Chrysler Automobiles (FCA) has been pursuing a self-driving future through its Pacifica Hybrid minivans, making deals with Google and then its spin-off autonomous car venture Waymo.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/automotive/fiat-chrysler-bespoke-minivan-self-driving-voyage/",
-      "ampWebUrl": "https://newatlas.com/automotive/fiat-chrysler-bespoke-minivan-self-driving-voyage/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/fiat-chrysler-bespoke-minivan-self-driving-voyage/?amp=true",
-      "publishedDateTime": "2020-05-12T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/2a79a37/2147483647/strip/true/crop/3499x2333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F70%2F5b%2F56764e5944a6b276a76f33e5bef0%2F1-izrzct19dhmbk5ijnyimia.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Fiat Chrysler provides bespoke minivan for self-driving startup Voyage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-the-robot-assistant-that-can-guess-what-you-want.md",
-      "title": "The robot assistant that can guess what you want",
-      "excerpt": "In a five-year project a group of robotics experts have developed a robot that can assist in maintenance tasks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/business-52547331",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-52547331",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52547331",
-      "publishedDateTime": "2020-05-11T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C387/production/_112155005_secondhandsrobotatwork.png",
-          "width": 1024,
-          "height": 576,
-          "title": "The robot assistant that can guess what you want",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-brazilian-founder-features-in-global-ranking-of-female-ai-leaders.md",
-      "title": "Brazilian founder features in global ranking of female AI leaders",
-      "excerpt": "Karla Capela is the only Latin American appearing on the list of artificial intelligence shapers released by IBM",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-founder-features-in-global-ranking-of-female-ai-leaders/",
-      "publishedDateTime": "2020-05-11T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/05/12/58e755f4-da25-4d63-93c1-d2b9a7f1a0cc/thumbnail/1200x675/54f9de3d1e16af385d53687195a630d0/storage.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Brazilian founder features in global ranking of female AI leaders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
-        "IBM AI"
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2020-05-11-amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning.md",
-      "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
-      "excerpt": "Enterprise search has always been a tough nut to crack. The holy grail has always been to operate like Google, but in-house. You enter a few keywords and you get back that nearly perfect response at the top of the list of the results.",
-      "heat": 122,
+      "path": "_news/2020-05-13-facebooks-head-of-ai-says-elon-musk-has-no-idea-what-he-is-talking-about.md",
+      "title": "Facebook's head of AI says Elon Musk 'has no idea what he is talking about'",
+      "excerpt": "Elon Musk has repeatedly warned that AI is on the brink of outsmarting humans and that it could prove more dangerous to mankind than nuclear weapons.",
+      "heat": 115,
       "tags": null,
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2020-05-11T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/AWS-Logo.jpg?w=1024",
-          "width": 1024,
-          "height": 649,
-          "title": "Amazon releases Kendra to solve enterprise search with AI and machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans.md",
-      "title": "Fiat Chrysler and AV startup Voyage partner on self-driving minivans",
-      "excerpt": "Self-driving vehicle startup Voyage said Monday that it has inked a deal with Fiat Chrysler to supply purpose-built vehicles, a partnership that will help accelerate its plan to launch a fully driverless ride-hailing service.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/11/fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/11/fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/fiat-chrysler-and-av-startup-voyage-partner-on-self-driving-minivans/amp/",
-      "publishedDateTime": "2020-05-11T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/voyage.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Fiat Chrysler and AV startup Voyage partner on self-driving minivans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ceo-of-softbank-backed-startup-banjo-resigns-after-hidden-neo-nazi-past-surfaces.md",
-      "title": "CEO of SoftBank-backed startup Banjo resigns after hidden neo-Nazi past surfaces",
-      "excerpt": "The state of Utah suspended a $20 million contract with Banjo after CEO Damien Patton's hidden neo-Nazi past was unearthed last month.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/banjo-ceo-damien-patton-resigns-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/banjo-ceo-damien-patton-resigns-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/banjo-ceo-damien-patton-resigns-2020-5?amp",
-      "publishedDateTime": "2020-05-11T13:36:00-07:00",
+      "webUrl": "https://www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-ai-head-slams-elon-musk-2020-5?amp",
+      "publishedDateTime": "2020-05-13T09:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -456,10 +106,10 @@
       },
       "images": [
         {
-          "url": "https://i.insider.com/5eb9a1f9204ad31b3c0f51d3?width=1200&format=jpeg",
-          "width": 878,
-          "height": 439,
-          "title": "CEO of SoftBank-backed startup Banjo resigns after hidden neo-Nazi past surfaces",
+          "url": "https://i.insider.com/5ebc148f48d92c67f652cf9c?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": "Facebook's head of AI says Elon Musk 'has no idea what he is talking about'",
           "attribution": null
         }
       ],
@@ -472,76 +122,38 @@
       ]
     },
     {
-      "path": "_news/2020-05-11-amazon-launches-cognitive-search-service-kendra-in-general-availability.md",
-      "title": "Amazon launches cognitive search service Kendra in general availability",
-      "excerpt": "Kendra, Amazon's AI-powered cognitive enterprise search service, launched in general availability after a lengthy preview.",
-      "heat": 91,
+      "path": "_news/2020-05-13-north-america-self-driving-car-market-2024-size-future-outlook-of-the-market.md",
+      "title": "North America Self-driving Car Market 2024 Size, Future Outlook of the Market",
+      "excerpt": "May 13, 2020 (AmericaNewsHour) -- North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a",
+      "heat": 81,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/amazon-launches-cognitive-search-service-kendra-in-general-availability/amp/",
-      "publishedDateTime": "2020-05-11T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon launches cognitive search service Kendra in general availability",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-aws-announces-general-availability-of-amazon-kendra.md",
-      "title": "AWS Announces General Availability of Amazon Kendra",
-      "excerpt": "AWS announces the general availability of Amazon Kendra, a highly accurate and easy to use enterprise search service powered by machine learning.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200511005867/en/AWS-Announces-General-Availability-Amazon-Kendra",
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-2024-size-future-outlook-of-the-market-2020-05-13",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T13:03:00-07:00",
+      "publishedDateTime": "2020-05-13T08:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20200511005867/en/790881/23/AWS_logo_RGB.jpg",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 627,
-          "title": "AWS Announces General Availability of Amazon Kendra",
+          "height": 630,
+          "title": "North America Self-driving Car Market 2024 Size, Future Outlook of the Market",
           "attribution": null
         }
       ],
@@ -550,28 +162,28 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-11-arlington-asset-investment-corp-ai-q1-2020-earnings-call-transcript.md",
-      "title": "Arlington Asset Investment Corp (AI) Q1 2020 Earnings Call Transcript",
-      "excerpt": "Arlington Asset Investment Corp Q1 2020 Earnings Call May 11, 2020, 10:00 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator",
-      "heat": 87,
+      "path": "_news/2020-05-13-behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner.md",
+      "title": "Behold the relentlessly optimistic silliness of the ‘AI Eurovision’ winner",
+      "excerpt": "Around two-thirds of the way through “Beautiful the World,” a voice declaratively whispers, “The music of the Earth has arrived.” Created by the fittingly named Uncanny Valley, the three-and-a-half minute track bombards the listener with fragments of relentless optimism,",
+      "heat": 85,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
-      "publishedDateTime": "2020-05-11T13:00:00-07:00",
+      "webUrl": "https://techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/behold-the-relentlessly-optimistic-silliness-of-the-ai-eurovision-winner/amp/",
+      "publishedDateTime": "2020-05-13T08:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -583,10 +195,10 @@
       },
       "images": [
         {
-          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-          "width": 580,
-          "height": 618,
-          "title": "Arlington Asset Investment Corp (AI) Q1 2020 Earnings Call Transcript",
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-13-at-11.15.09-AM.jpg?w=1024",
+          "width": 1024,
+          "height": 563,
+          "title": "Behold the relentlessly optimistic silliness of the ‘AI Eurovision’ winner",
           "attribution": null
         }
       ],
@@ -599,313 +211,16 @@
       ]
     },
     {
-      "path": "_news/2020-05-11-ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation.md",
-      "title": "UPS: How VR, IoT, AI, and big data powers the logistics company's digital transformation",
-      "excerpt": "In light of the novel coronavirus pandemic, there are more eyes than ever on the global supply chain and worker safety as logistics companies and postal agencies work to provide essential delivery services.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/",
-      "publishedDateTime": "2020-05-11T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/03/23/11232f1b-da8c-4e3c-98a8-966c33370e4f/thumbnail/1200x675/486d0069eff46635d66b70183fea7484/2020-ups-part0-main.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "UPS: How VR, IoT, AI, and big data powers the logistics company's digital transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-this-ai-tool-predicts-whos-got-covid-19-without-testing.md",
-      "title": "This AI tool predicts who’s got COVID-19 without testing",
-      "excerpt": "A new AI diagnostic tool trained on crowdsourced data from the COVID Symptom Study app predicts who's got COVID-19 without testing",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/amp/",
-      "publishedDateTime": "2020-05-11T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-32-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This AI tool predicts who’s got COVID-19 without testing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump.md",
-      "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
-      "excerpt": "An AI speech recognition bot designed to analyze speech and compile it into a database broke when it tried to analyze Trump's speech patterns, its creator",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "ampWebUrl": "https://amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "publishedDateTime": "2020-05-11T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/bf3770e6-d718-5402-b212-cb364f2fa018/default-1589197781-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-women-leaders-in-ai-it-leader-seema-gaur-on-putting-ai-to-work-in-insurance.md",
-      "title": "Women Leaders in AI: IT Leader Seema Gaur on Putting AI to Work in Insurance",
-      "excerpt": "Seema Gaur is the head of IT at one of the largest general insurance companies in India. She was honored in 2019 by IBM as a pioneer in putting AI to work in her business. Seema and her team are working to bring in the best technology to make the user journey more efficient, improve the agent experience,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/women-leaders-in-ai-it-leader-seema-gaur-on-putting-ai-to-work-in-insurance/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T09:56:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/Seema-Gaur-gradient.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "Women Leaders in AI: IT Leader Seema Gaur on Putting AI to Work in Insurance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-zoom-xoom-zum-why-does-every-startup-sound-fast-now.md",
-      "title": "Zoom, Xoom, Züm: Why does every startup sound fast now?",
-      "excerpt": "There have been at least 120 startups whose names include something that sounds like “zoom.” Another fact: They have raised a collective $1.8 billion in funding.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/boston/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11660440/zoom-soundalikes-0*400xx2400-2400-0-0.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Zoom, Xoom, Züm: Why does every startup sound fast now?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai.md",
-      "title": "Paradox Raises $40M Series B to Help Companies Embrace the Future of Work with Conversational AI",
-      "excerpt": "Press Release Paradox, the conversational AI platform helping HR and talent teams automate administrative tasks and deliver real-time candidate and employee communications, announced today $40M in Series B funding,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/amp/",
-      "publishedDateTime": "2020-05-11T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20200511005657/en/790786/4/paradox-hq.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 360,
-          "title": "Paradox Raises $40M Series B to Help Companies Embrace the Future of Work with Conversational AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips.md",
-      "title": "Qualcomm and MediaTek chase video and game fans with tweaked 5G chips",
-      "excerpt": "New chips from two top device chipmakers suggest that high frame rate videos and games will be major selling points for even budget 5G phones.",
+      "path": "_news/2020-05-13-facebook-offers-50k-for-ai-that-can-detect-hateful-memes.md",
+      "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
+      "excerpt": "Facebook's created a dataset of 10,000 ‘hateful’ memes and is offering prizes totaling $100,000 for developers who can use it to detect hate speech in memes.",
       "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/amp/",
-      "publishedDateTime": "2020-05-11T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/snapdimen.jpg?fit=1440%2C720&strip=all",
-          "width": 1440,
-          "height": 720,
-          "title": "Qualcomm and MediaTek chase video and game fans with tweaked 5G chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ai-can-help-to-inform-pandemic-policy.md",
-      "title": "AI Can Help To Inform Pandemic Policy",
-      "excerpt": "An Interview with Dr. Deborah Duong, Director for AI Development at Rejuve and Director of Network Analytics at SingularityNET and Dr. Ben Goertzel, founder of SingularityNET.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/amp/",
-      "publishedDateTime": "2020-05-11T09:34:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/05/13/facebook-offers-50k-for-ai-that-can-detect-hateful-memes/amp/",
+      "publishedDateTime": "2020-05-13T06:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -924,10 +239,55 @@
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/711x621/https://specials-images.forbesimg.com/imageserve/5eb2eeb5858c030007722ea6/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 621,
-          "title": "AI Can Help To Inform Pandemic Policy",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e58eaf07a009800073473b9%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": "Facebook Offers $50K For AI That Can Detect Hateful Memes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-scientists-used-ai-to-make-448-gigapixel-copy-of-historic-rembrandt-painting.md",
+      "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
+      "excerpt": "You can now get intimately familiar with this Rembrandt's historic painting, 'The Night Watch' — without even having to step foot in the Rijksmuseum.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/13/scientist-ai-rembrandt-painting/amp/",
+      "publishedDateTime": "2020-05-13T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/the-night-watch-rembrandt-digital-copy-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists used AI to make 44.8 gigapixel copy of historic Rembrandt painting",
           "attribution": null
         }
       ],
@@ -940,30 +300,372 @@
       ]
     },
     {
-      "path": "_news/2020-05-11-papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate.md",
-      "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
-      "excerpt": "The Pontifical Academy for Life \"strives to interweave faith with science and technology, to identify paths for multiple voices to walk alongside one another.\"",
-      "heat": 88,
+      "path": "_news/2020-05-13-fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data.md",
+      "title": "FortressIQ snags $30M Series B to streamline processes with AI-fueled data",
+      "excerpt": "As we move through life in the pandemic, companies are being forced to review and understand how workflows happen. How do you distribute laptops to your workforce? How do you make sure everyone has the correct tool set?",
+      "heat": 85,
       "tags": null,
       "type": "article",
-      "webUrl": "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/",
-      "ampWebUrl": "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/amp/",
-      "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/amp/",
-      "publishedDateTime": "2020-05-11T08:44:00-07:00",
+      "webUrl": "https://techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/13/fortressiq-snags-30m-series-b-to-streamline-processes-with-ai-fueled-data/amp/",
+      "publishedDateTime": "2020-05-13T06:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Angelus",
-        "domain": "angelusnews.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-907330012.jpg?w=1024",
+          "width": 1024,
+          "height": 716,
+          "title": "FortressIQ snags $30M Series B to streamline processes with AI-fueled data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-amazon-ec2-inf1-instances-now-support-amazon-sagemaker.md",
+      "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
+      "excerpt": "Patrick Moorhead gives an update with Amazon's team that has been busy with customers, optimizing and adding capabilities, some of the Inferentia and EC2 Inf1 instance leads.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
+      "publishedDateTime": "2020-05-13T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebb15cf082ee4000682bb85%2F0x0.jpg",
+          "width": 821,
+          "height": 439,
+          "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure.md",
+      "title": "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure",
+      "excerpt": "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating digital transformation,",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-2020-05-13?mod=mw_quote_news&tesla=y",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution.md",
+      "title": "Envoi and Data Expedition Partner to Launch Cloud-Based Data Restoration and Migration Solution",
+      "excerpt": "Envoi – CloudDat Edition leverages Envoi's APIs to support other solutions including Amazon Rekognition for video indexing and AWS Elemental MediaConvert, a file-based video transcoding service ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g16019011/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16019011",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16019011",
+      "publishedDateTime": "2020-05-13T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-elon-musk-has-a-complex-relationship-with-the-ai-community.md",
+      "title": "Elon Musk has a complex relationship with the A.I. community",
+      "excerpt": "Elon Musk is one of the first investors in DeepMind, he helped set up the $1 billion OpenAI research lab, and he's often making comments about AI. WWIII, more dangerous than nukes, scariest problem: several people in the AI community told CNBC that they struggle to take Musk's AI comments seriously.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html",
+      "publishedDateTime": "2020-05-13T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105773439-1551717349171rtx6p9uc.jpg?v=1551717410",
+          "width": 3986,
+          "height": 2657,
+          "title": "Elon Musk has a complex relationship with the A.I. community",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook.md",
+      "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
+      "excerpt": "MarketResearch.Biz published a new industry research report “Automatic Speech Recognition Software Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-potential-impact-of-covid-19-2020-2029-google-baidu-facebook-2020-05-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automatic Speech Recognition Software Market Potential Impact of COVID-19 (2020-2029) | Google, Baidu, Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-amazon-launches-kendra-to-solve-enterprise-search-with-ai.md",
+      "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
+      "excerpt": "Amazon announced the general availability of Amazon Kendra which is an AI and machine learning-powered, easy to use enterprise search service.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/05/13/amazon-launches-kendra-to-solve-enterprise-search-with-ai/amp/",
+      "publishedDateTime": "2020-05-13T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068",
+          "width": 1200,
+          "height": 676,
+          "title": "Amazon Launches Kendra To Solve Enterprise Search With AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-facebooks-ai-for-hate-speech-improves-how-much-is-unclear.md",
+      "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
+      "excerpt": "The company says algorithms flagged almost 90 percent of the hate speech it removed in the first quarter. But it doesn't report how much slipped through.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/",
+      "ampWebUrl": "https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-ai-hate-speech-improves-unclear/amp",
+      "publishedDateTime": "2020-05-12T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ebac50348074637267906e8/master/pass/Biz-emptyoffice-157752805.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Facebook's AI for Hate Speech Improves. How Much Is Unclear",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-netcracker-offers-ai-driven-digital-bssoss-on-microsoft-azure.md",
+      "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
+      "excerpt": "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/",
+      "ampWebUrl": "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/",
+      "publishedDateTime": "2020-05-12T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://angelusnews.com/wp-content/uploads/2020/05/20200511T1049-681-CNS-VATICAN-AI-NATURE-e1589211174823.jpg",
-          "width": 1602,
-          "height": 906,
-          "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure",
           "attribution": null
         }
       ],
@@ -972,75 +674,28 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy.md",
-      "title": "This AI is learning to spot brain tumors – without infringing privacy",
-      "excerpt": "Intel and Penn Medicine are working on a huge, institution-spanning AI that will help identify brain tumors but without overstepping on strict medical privacy rules. The cross-location AI will use",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/",
-      "ampWebUrl": "https://www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/amp/",
-      "publishedDateTime": "2020-05-11T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/digital-brain.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "This AI is learning to spot brain tumors – without infringing privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-11-intel-and-penn-medicine-are-developing-an-ai-to-spot-brain-tumors.md",
-      "title": "Intel and Penn Medicine are developing an AI to spot brain tumors",
-      "excerpt": "Using Intel’s AI hardware and software, Penn Medicine will lead 29 international healthcare and research institutions in creating an AI model trained on the largest brain tumor dataset ever -- and it will do so without sharing sensitive patient data.",
-      "heat": 87,
+      "path": "_news/2020-05-12-hailo-partners-with-foxconn-to-build-edge-device-for-ai-inference.md",
+      "title": "Hailo partners with Foxconn to build edge device for AI inference",
+      "excerpt": "AI chip startup Hailo plans to partner with Foxconn to launch an AI edge computing device -- BOXiedge -- designed for applications like smart cities.",
+      "heat": 71,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.engadget.com/intel-penn-medicine-brain-tumor-ai-151105509.html",
-      "ampWebUrl": "https://www.engadget.com/amp/intel-penn-medicine-brain-tumor-ai-151105509.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-penn-medicine-brain-tumor-ai-151105509.html",
-      "publishedDateTime": "2020-05-11T08:13:00-07:00",
+      "webUrl": "https://venturebeat.com/2020/05/12/hailo-partners-with-foxconn-to-build-edge-device-for-ai-inference/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T13:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1052,10 +707,10 @@
       },
       "images": [
         {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-11%2F61a272a0-0dd6-11ea-9baf-3626d7d9044b&client=amp-blogside-v2&signature=18f09dd385ab1262724a8ab162e82af463914227",
-          "width": 600,
-          "height": 350,
-          "title": "Intel and Penn Medicine are developing an AI to spot brain tumors",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/0f1109a5-c70d-4a6e-9220-9ad6189e69db.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 610,
+          "title": "Hailo partners with Foxconn to build edge device for AI inference",
           "attribution": null
         }
       ],
@@ -1064,6 +719,344 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech.md",
+      "title": "Facebook upgrades its AI to better tackle COVID-19 misinformation and hate speech",
+      "excerpt": "Facebook’s AI tools are the only thing standing between its users and the growing onslaught of hate and misinformation the platform is experiencing. The company’s researchers have cooked up a few new capabilities for the systems that keep the adversary at bay,",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/12/facebook-upgrades-its-ai-to-better-tackle-covid-19-misinformation-and-hate-speech/amp/",
+      "publishedDateTime": "2020-05-12T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/Reuters-Facebook-Fact-Checking.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": "Facebook upgrades its AI to better tackle COVID-19 misinformation and hate speech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-port-automation-technology-demonstrated-by-cosco.md",
+      "title": "Port Automation Technology Demonstrated by Cosco",
+      "excerpt": "The successful trial runs of a new automated driverless container truck operating on a 5G platform illustrated yet again the opportunities for port automation. The technology, which is being developed jointly by Cosco Shipping Ports Limited,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.maritime-executive.com/article/port-automation-technology-demonstrated-by-cosco",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Maritime Executive",
+        "domain": "maritime-executive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.maritime-executive.com/media/images/article/Photos/Technology/Xiamen-Ocean-Gate-Terminal-file-photo-courtesy-Cosco-Shipping-copy.49795a.jpg",
+          "width": 643,
+          "height": 361,
+          "title": "Port Automation Technology Demonstrated by Cosco",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-australia-wins-ai-eurovision-song-contest.md",
+      "title": "Australia wins AI 'Eurovision Song Contest'",
+      "excerpt": "An editor for Dutch broadcaster VPRO had the idea, after the Netherlands won last year's Eurovision Song Contest. And it grew into an international effort after this year's contest was cancelled because of the coronavirus pandemic.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-52632916",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/technology-52632916",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52632916",
+      "publishedDateTime": "2020-05-12T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/17603/production/_111874759_aimusic.png",
+          "width": 1024,
+          "height": 576,
+          "title": "Australia wins AI 'Eurovision Song Contest'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-ai-is-still-largely-baffled-by-covid-misinformation.md",
+      "title": "AI is still largely baffled by covid misinformation",
+      "excerpt": "In its latest Community Standards Enforcement Report, released today, Facebook detailed the updates it has made to its AI systems for detecting hate speech and disinformation. The tech giant says 88.8% of all the hate speech it removed this quarter was detected by AI,",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/",
+      "ampWebUrl": "https://www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/12/1001633/ai-is-still-largely-baffled-by-covid-misinformation/amp/",
+      "publishedDateTime": "2020-05-12T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/05/AP_19148851357453-e1589306268959.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": "AI is still largely baffled by covid misinformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes.md",
+      "title": "Facebook says AI has a ways to go to detect nasty memes",
+      "excerpt": "Facebook has developed a data set consisting of 10,000 “hateful” memes and suggests that computer models that can “fuse” multiple signal types, such as text and image, are the way forward for classifying content such as hate speech.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-says-ai-has-a-ways-to-go-to-detect-nasty-memes/",
+      "publishedDateTime": "2020-05-12T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/12/c82fab43-1856-4a3f-b289-fc5ab9d052bc/final-9-benchmarks-table-v2.png",
+          "width": 2881,
+          "height": 2010,
+          "title": "Facebook says AI has a ways to go to detect nasty memes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-waymo-raises-another-800-million-for-self-driving-cars.md",
+      "title": "Waymo raises another $800 million for self-driving cars",
+      "excerpt": "Waymo said Tuesday that it has raised another roughly $800 million for its self-driving technology, expanding the size of its first external investment round to $3 billion. Why it matters: With the coronavirus pandemic likely to speed consolidation among self-driving tech firms,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
+      "ampWebUrl": "https://www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/waymo-raises-800-million-self-driving-cars-28c39ffd-0ce9-45b6-93a8-457af238eaf0.html",
+      "publishedDateTime": "2020-05-12T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.axios.com/sFX9HxvY_oBlORx1YPbGg0AmQlU=/2020/05/12/1589303283397.jpg",
+          "width": 8702,
+          "height": 4895,
+          "title": "Waymo raises another $800 million for self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-twitter-names-former-google-executive-to-its-board-to-boost-its-ai-chops.md",
+      "title": "Twitter Names Former Google Executive to Its Board to Boost Its AI Chops",
+      "excerpt": "Fei Li, the former Google executive, and Stanford professor is coming on board to help expand Twitter's use of AI on its platform.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/12/twitter-names-former-google-executive-to-its-board.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/12/twitter-names-former-google-executive-to-its-board.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/12/twitter-names-former-google-executive-to-its-board.aspx",
+      "publishedDateTime": "2020-05-12T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F573985%2Ftwitter-ai-li-mf.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 640,
+          "title": "Twitter Names Former Google Executive to Its Board to Boost Its AI Chops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-how-facebook-is-using-ai-to-combat-covid-19-misinformation-and-detect-hateful-memes.md",
+      "title": "How Facebook is using AI to combat COVID-19 misinformation and detect ‘hateful memes’",
+      "excerpt": "That’s because Facebook is relying more on the technology to help moderate its platform during the COVID-19 pandemic, which is preventing the company from using its usual third-party moderator firms because those firms’ employees are not allowed to access sensitive Facebook data from home computers.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech",
+      "publishedDateTime": "2020-05-12T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/29Ohkhnj8vaOLcOrf4YADVErTsU=/0x0:2040x1360/1400x933/filters:focal(831x690:1157x1016):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66785966/jbareham_180405_1777_facebook_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "How Facebook is using AI to combat COVID-19 misinformation and detect ‘hateful memes’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

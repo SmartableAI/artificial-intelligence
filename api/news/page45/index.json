@@ -2,128 +2,30 @@
   "page": 45,
   "value": [
     {
-      "path": "_news/2020-04-22-cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy.md",
-      "title": "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy",
-      "excerpt": "Now power these self-driving EVs with locally produced renewable energy, and you’ve created a blameless transportation system. That’s essentially what self-driving start-up Cruise has done. But achieving carbon neutrality is just the first step—the next is becoming carbon negative.",
-      "heat": 75,
+      "path": "_news/2020-04-23-metaphors-on-artificial-intelligence-help-us-think-through-threats-to-human-rights.md",
+      "title": "Metaphors on artificial intelligence help us think through threats to human rights",
+      "excerpt": "Artificial intelligence (AI) is now receiving unprecedented global attention as it finds widespread practical application in multiple spheres of activity. But what are the human rights, social justice and development implications of AI when used in areas such as health,",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/",
-      "ampWebUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/",
-      "publishedDateTime": "2020-04-22T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea09585dea8300007de92b9%2F0x0.jpg",
-          "width": 1200,
-          "height": 959,
-          "title": "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-clouds-fully-managed-anthos-is-now-generally-available-for-aws.md",
-      "title": "Google Cloud’s fully managed Anthos is now generally available for AWS",
-      "excerpt": "But support for Azure will come later this year and the company already has a number of preview customers for it. In addition, Anthos will also come to bare metal servers in the future. Looking even further ahead, Manor also noted that better support for machine learning workloads is on the way. Many businesses, after all, want to be able to ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
-      "publishedDateTime": "2020-04-22T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GOOGLENEXT_2019_0409_091100-0355_ALIVECOVE.max-2200x2200-1.png?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Google Cloud’s fully managed Anthos is now generally available for AWS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-announcing-availability-of-inf1-instances-in-amazon-sagemaker-for-high-performance-and-cost-effective-machine-learning-inference.md",
-      "title": "Announcing availability of Inf1 instances in Amazon SageMaker for high performance and cost-effective machine learning inference",
-      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. Tens of thousands of customers, including Intuit, Voodoo, ADP, Cerner, Dow Jones, and Thompson Reuters, use Amazon SageMaker",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-availability-of-inf1-instances-in-amazon-sagemaker-for-high-performance-and-cost-effective-machine-learning-inference/",
+      "webUrl": "https://www.apc.org/en/news/metaphors-artificial-intelligence-help-us-think-through-threats-human-rights",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T11:49:41-07:00",
+      "publishedDateTime": "2020-04-23T15:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "APC",
+        "domain": "apc.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "Announcing availability of Inf1 instances in Amazon SageMaker for high performance and cost-effective machine learning inference",
+          "url": "https://www.apc.org/sites/default/files/styles/node_full-size/public/design-02_0.png?itok=o_Gd7eoi",
+          "width": 705,
+          "height": 393,
+          "title": "Metaphors on artificial intelligence help us think through threats to human rights",
           "attribution": null
         }
       ],
@@ -132,163 +34,28 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-debuts-ai-in-google-translate-that-addresses-gender-bias.md",
-      "title": "Google debuts AI in Google Translate that addresses gender bias",
-      "excerpt": "“We’ve made significant progress since our initial launch by increasing the quality of gender-specific translations and also expanding it to 4 more language-pairs,” wrote Google Research senior software engineer Melvin Johnson. “We are committed to further addressing gender bias in Google Translate and plan to extend this work to ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/",
-      "publishedDateTime": "2020-04-22T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google debuts AI in Google Translate that addresses gender bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-facebooks-climate-conversation-map-reveals-reactions-to-environmental-news.md",
-      "title": "Facebook’s Climate Conversation Map reveals reactions to environmental news",
-      "excerpt": "It’s available by request to research partners and nonprofits following a preview last year ... “We look forward to seeing how different organizations use these maps to inform the climate debate and deliver new resources.” Facebook’s work in AI and mapping comes after the social network shared to the OpenStreetMap community the Map ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/facebooks-climate-conversation-map-reveals-reactions-to-environmental-news/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/facebooks-climate-conversation-map-reveals-reactions-to-environmental-news/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/facebooks-climate-conversation-map-reveals-reactions-to-environmental-news/amp/",
-      "publishedDateTime": "2020-04-22T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s Climate Conversation Map reveals reactions to environmental news",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-22-for-earth-day-a-tech-team-develops-a-way-to-heal-coral-reefs-using-ai.md",
-      "title": "For Earth Day, a tech team develops a way to heal coral reefs using AI",
-      "excerpt": "The joint initiative will use the power of artificial intelligence (AI) \"to monitor, recreate, and restore coral reefs,\" according to the release. SEE: Earth Day 2020 (free PDF) (TechRepublic) To gauge the reef health, Project: CORail calculated the number and type of fish in a reef. While the monitoring of coral reefs has typically been left ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/for-earth-day-a-tech-team-develops-a-way-to-heal-coral-reefs-using-ai/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/for-earth-day-a-tech-team-develops-a-way-to-heal-coral-reefs-using-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/for-earth-day-a-tech-team-develops-a-way-to-heal-coral-reefs-using-ai/",
-      "publishedDateTime": "2020-04-22T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/02/18/d1467839-4251-47cb-9fa9-aed070561526/thumbnail/1200x675/f3685147226f27819a3454fc3d626812/rainforest-connection.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "For Earth Day, a tech team develops a way to heal coral reefs using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-how-microsoft-is-using-ai-to-make-the-planet-greener-and-what-other-companies-can-learn-from-its-environmental-game-plan.md",
-      "title": "How Microsoft is using AI to make the planet greener — and what other companies can learn from its environmental game plan",
-      "excerpt": "The company said it gave out 230 grants since launching the initiative. Microsoft also put large government data sets related to the environment on its cloud, Azure, to further help AI developers. And this isn't the first time Microsoft used AI to address climate change. The company gave farmers in India, a country heavily affected by rising ...",
+      "path": "_news/2020-04-23-minecraft-machine-learning-and-bots-enter-an-ai-wonderland-with-these-stayathome-workshops.md",
+      "title": "Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops",
+      "excerpt": "The post Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops appeared first on The AI Blog.\n",
       "heat": 78,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6",
-      "ampWebUrl": "https://www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6?amp",
-      "publishedDateTime": "2020-04-22T09:20:00-07:00",
+      "webUrl": "https://news.microsoft.com/europe/features/minecraft-machine-learning-and-bots-enter-an-ai-wonderland-with-these-stayathome-workshops/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T14:59:53-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -300,10 +67,10 @@
       },
       "images": [
         {
-          "url": "https://i.insider.com/5ea05ca35bd7a5652d64a405?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "How Microsoft is using AI to make the planet greener — and what other companies can learn from its environmental game plan",
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/93/2020/04/Win18b_Consumer_Creativity_Asus_Vivobook_Flip_T203_0194-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops",
           "attribution": null
         }
       ],
@@ -312,88 +79,124 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-mit-csail-aims-for-energy-efficiency-in-ai-model-training.md",
+      "title": "MIT CSAIL aims for energy efficiency in AI model training",
+      "excerpt": "In a newly published paper, MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers propose a system for training and running AI models in a way that’s more environmentally friendly than previous approaches. They claim it can cut down on the pounds of carbon emissions involved to “low triple digits” in some cases ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/mit-csails-ai-trains-models-in-an-energy-efficient-way/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/mit-csails-ai-trains-models-in-an-energy-efficient-way/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/mit-csails-ai-trains-models-in-an-energy-efficient-way/amp/",
+      "publishedDateTime": "2020-04-23T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/12/co2-carbon-emissions-novelo-shutterstock-e1587673753658.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MIT CSAIL aims for energy efficiency in AI model training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-22-americans-remain-super-skeptical-of-evs-self-driving-cars.md",
-      "title": "Americans remain super skeptical of EVs, self-driving cars",
-      "excerpt": "JD Power's latest survey shows confidence in both electric cars and self-driving technology started to fall even before the coronavirus pandemic.",
+      "path": "_news/2020-04-23-you-dont-need-an-rtx-gpu-to-access-rtx-voice-after-all.md",
+      "title": "You don't need an RTX GPU to access RTX Voice, after all",
+      "excerpt": "This app claims to use AI to reduce or outright cancel microphone background noise, and it was only intended to function for RTX card owners. However, as per the usual, the internet has circumvented those limitations. A user over on the Guru3D forums discovered that RTX Voice works \"just fine\" without a pricey RTX GPU in your system.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
+      "publishedDateTime": "2020-04-23T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-23-image-31.jpg",
+          "width": 1680,
+          "height": 1120,
+          "title": "You don't need an RTX GPU to access RTX Voice, after all",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-former-fox-cto-joins-microsoft-azures-media-and-entertainment-business.md",
+      "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
+      "excerpt": "Hanno Basse, the former chief technology officer at 20th Century Fox, has been named CTO for Microsoft Azure Media and Entertainment. In his new role, he’s working with entertainment industry customers, partners, industry groups and vendors to create applications for Microsoft’s cloud, edge and AI technologies. His initial focus is ...",
       "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/ev-self-driving-survey-skeptical-americans/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ev-self-driving-survey-skeptical-americans/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ev-self-driving-survey-skeptical-americans/",
-      "publishedDateTime": "2020-04-22T09:07:00-07:00",
+      "webUrl": "https://www.hollywoodreporter.com/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
+      "ampWebUrl": "https://www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
+      "publishedDateTime": "2020-04-23T13:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://cnet1.cbsistatic.com/img/2Gr2Oyn5xtHNf_PXRKKOiPtjivU=/2018/06/07/ba35851f-811f-48c2-9c8b-65cbba20aaae/2018-chevrolet-bolt-ev-charging-port-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Americans remain super skeptical of EVs, self-driving cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview.md",
-      "title": "Google Cloud's Anthos for AWS generally available, Microsoft Azure in preview",
-      "excerpt": "For Google Cloud, Anthos is a differentiator that can bring it more enterprise workloads as it competes with AWS and Azure. Google Cloud chief Thomas Kurian has been touting ... the vendor can have higher-level discussions with customers about machine learning and services like BigQuery. Google Cloud announces Anthos for Telecom, bringing ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
-      "publishedDateTime": "2020-04-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/21/f845188f-8d56-4277-aab6-a38aaf57c3d6/thumbnail/1200x675/72fd8fe83f620363c3fbf8b8bd32e846/screen-shot-2020-04-07-at-4-35-13-pm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Google Cloud's Anthos for AWS generally available, Microsoft Azure in preview",
+          "url": "https://cdn1.thr.com/sites/default/files/imagecache/768x433/2019/06/hanno_basse-getty-h_2019_.jpg",
+          "width": 768,
+          "height": 433,
+          "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
           "attribution": null
         }
       ],
@@ -407,16 +210,45 @@
       ]
     },
     {
-      "path": "_news/2020-04-22-googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations.md",
-      "title": "Google’s AI teaches robots to grasp occluded objects and adapt to new situations",
-      "excerpt": "In a pair of papers published on the preprint server Arxiv.org this week, Google and University of California, Berkely researchers describe new AI and machine learning techniques that enable robots to adapt to never-before-seen tasks and grasp occluded objects. The first study details X-Ray, an algorithm that when deployed on a robot can search ...",
-      "heat": 82,
+      "path": "_news/2020-04-23-arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications.md",
+      "title": "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications",
+      "excerpt": "Arista Networks (NYSE:ANET), today announced a new release of its Cognitive WiFi software that seamlessly delivers intelligent application identification, performance optimization, automated troubleshooting and location services. This provides customers ...",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/amp/",
-      "publishedDateTime": "2020-04-22T08:41:00-07:00",
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/04/22/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-google-claims-its-ai-can-design-computer-chips-in-under-6-hours.md",
+      "title": "Google claims its AI can design computer chips in under 6 hours",
+      "excerpt": "In a preprint paper coauthored by Google AI lead Jeff Dean, scientists at Google Research and the Google chip implementation and infrastructure team describe a learning-based approach to chip design that can learn from past experience and improve over time, becoming better at generating architectures for unseen components. They claim it ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/amp/",
+      "publishedDateTime": "2020-04-23T10:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -438,178 +270,7 @@
           "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
           "width": 1200,
           "height": 600,
-          "title": "Google’s AI teaches robots to grasp occluded objects and adapt to new situations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-conversational-systems-market-growing-at-a-cagr-308-key-player-google-microsoft-aws-ibm-oracle.md",
-      "title": "Conversational Systems Market Growing at a CAGR 30.8% | Key Player Google, Microsoft, AWS, IBM, Oracle",
-      "excerpt": "MarketsandMarkets forecasts the global Conversational Systems Market size to grow from USD 4.6 billion in 2019 to",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/conversational-systems-market-growing-at-a-cagr-308-key-player-google-microsoft-aws-ibm-oracle-2020-04-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Conversational Systems Market Growing at a CAGR 30.8% | Key Player Google, Microsoft, AWS, IBM, Oracle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-intel-is-using-ai-to-gather-real-time-data-on-coral-reef-health.md",
-      "title": "Intel is using AI to gather real-time data on coral reef health",
-      "excerpt": "Project CORaiL monitors prosthetic reefs with AI-powered video cameras. There’s no question that coral reefs are rapidly deteriorating due to overfishing, bottom trawling, warming temperatures and unsustainable coastal development. In order to help protect and restore reefs, scientists need more data, and Intel thinks it might have a solution.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/intel-ai-monitors-coral-reef-health-152247984.html",
-      "ampWebUrl": "https://www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152247984.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152247984.html",
-      "publishedDateTime": "2020-04-22T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffb956480-84aa-11ea-97ce-b695cf0789e3&client=amp-blogside-v2&signature=b61893ebfaeb73766baa17712deaccb3ea747147",
-          "width": 600,
-          "height": 350,
-          "title": "Intel is using AI to gather real-time data on coral reef health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-impact-of-covid-19-on-artificial-intelligence-market-beyond-2020.md",
-      "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of the content. The global artificial intelligence market has been segmented in terms of type, application, and region. Based on type, the market has been segmented into artificial neural network, digital assistance system, embedded system, expert system and automated robotic system.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-market---beyond-2020-2020-04-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-are-you-pushing-too-many-vertices-to-your-gpu-careful-there.md",
-      "title": "Are You Pushing Too Many Vertices to Your GPU? Careful There!",
-      "excerpt": "Is your game rendering more geometry than your GPU can handle? Here, let me show you a few steps to check if your geometry is causing a performance bottleneck on your players' GPU.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gamasutra.com/blogs/RubenTorresBonet/20200422/361542/Are_You_Pushing_Too_Many_Vertices_to_Your_GPU_Careful_There.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gamasutra",
-        "domain": "gamasutra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/992467.jpg",
-          "width": 467,
-          "height": 483,
-          "title": "Are You Pushing Too Many Vertices to Your GPU? Careful There!",
+          "title": "Google claims its AI can design computer chips in under 6 hours",
           "attribution": null
         }
       ],
@@ -623,30 +284,208 @@
       ]
     },
     {
-      "path": "_news/2020-04-22-baidu-accuses-former-executive-of-corruption.md",
-      "title": "Baidu Accuses Former Executive of Corruption",
-      "excerpt": "Baidu, China’s leading online search group, has reported a former executive to the police. It accuses him of corruption. Wei Fang, a former VP at the company, was investigated by Baidu’s",
-      "heat": null,
+      "path": "_news/2020-04-23-ai-detects-plastics-in-the-oceans-by-analyzing-satellite-images.md",
+      "title": "AI detects plastics in the oceans by analyzing satellite images",
+      "excerpt": "An AI system has spotted plastic pollution in the sea by analyzing images from satellites orbiting the earth. The scientists behind the technique claim that it’s the first time patches of plastics in coastal waters have been detected via satellites. The system studies images collected by the European Space Agency’s Sentinel-2 ...",
+      "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/",
-      "ampWebUrl": "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/",
-      "publishedDateTime": "2020-04-22T07:32:00-07:00",
+      "webUrl": "https://thenextweb.com/neural/2020/04/23/ai-detects-plastics-in-the-oceans-by-analyzing-satellite-images/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/23/ai-detects-plastics-in-the-oceans-by-analyzing-satellite-images/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/23/ai-detects-plastics-in-the-oceans-by-analyzing-satellite-images/amp/",
+      "publishedDateTime": "2020-04-23T10:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://pmcvariety.files.wordpress.com/2016/02/baidu-logo.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Baidu Accuses Former Executive of Corruption",
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-10-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI detects plastics in the oceans by analyzing satellite images",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists.md",
+      "title": "Core Scientific and SQream Team Up to Accelerate Massive Data Analytics on GPU Cloud for Data Scientists",
+      "excerpt": "About Core Scientific Led by a team that has a 10+ year AI success story, Core Scientific provides custom hosting solutions at scale. To learn more, visit www.corescientific.com. View original content to download multimedia:https://www.prnewswire.com/news-releases/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-1029123856",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-1029123856",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/core-scientific-and-sqream-team-up-to-accelerate-massive-data-analytics-on-gpu-cloud-for-data-scientists-1029123856",
+      "publishedDateTime": "2020-04-23T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-respecting-rights-global-network-initiative-assessment-report.md",
+      "title": "Respecting rights: Global Network Initiative assessment report",
+      "excerpt": "In their first letter to shareholders, our founders highlighted Google’s mission to “develop services that significantly improve the lives of as many people as possible.\" This vision continues to guide all of us at Google. From Search to YouTube, Gmail to Google Maps—we’ve worked to ensure that our products",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/amp/",
+      "publishedDateTime": "2020-04-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": "Respecting rights: Global Network Initiative assessment report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-why-misleading-metaphors-are-fooling-managers-about-the-use-of-ai.md",
+      "title": "Why Misleading Metaphors Are Fooling Managers About The Use Of AI",
+      "excerpt": "But metaphors are also terrible traps for the unwary, and being misled by metaphors can have serious consequences. Enter artificial intelligence, the brain metaphor, and robots. First there is the use of the word ‘intelligence’ which is metaphorical thinking at work: very intelligent people are great at chess and now computers are too.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/londonschoolofeconomics/2020/04/23/why-misleading-metaphors-are-fooling-managers-about-the-use-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/londonschoolofeconomics/2020/04/23/why-misleading-metaphors-are-fooling-managers-about-the-use-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/londonschoolofeconomics/2020/04/23/why-misleading-metaphors-are-fooling-managers-about-the-use-of-ai/amp/",
+      "publishedDateTime": "2020-04-23T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1217820482%2F0x0.jpg%3Ffit%3Dscale",
+          "width": 1200,
+          "height": 675,
+          "title": "Why Misleading Metaphors Are Fooling Managers About The Use Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-dangers-await-self-driving-car-tryouts-as-post-pandemic-roadway-efforts-get-underway.md",
+      "title": "Dangers Await Self-Driving Car Tryouts As Post-Pandemic Roadway Efforts Get Underway",
+      "excerpt": "Many parts of the economy and commercial industry have been brought to a temporary halt as a result of the pandemic, including the preponderance of the self-driving car roadway tryouts that had been taking place throughout the U.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/23/dangers-await-self-driving-car-tryouts-as-post-pandemic-roadway-efforts-get-underway/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/23/dangers-await-self-driving-car-tryouts-as-post-pandemic-roadway-efforts-get-underway/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/23/dangers-await-self-driving-car-tryouts-as-post-pandemic-roadway-efforts-get-underway/amp/",
+      "publishedDateTime": "2020-04-23T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1129565376%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Dangers Await Self-Driving Car Tryouts As Post-Pandemic Roadway Efforts Get Underway",
           "attribution": null
         }
       ],
@@ -660,16 +499,16 @@
       ]
     },
     {
-      "path": "_news/2020-04-22-granulate-raises-12-million-to-optimize-server-performance-with-ai.md",
-      "title": "Granulate raises $12 million to optimize server performance with AI",
-      "excerpt": "Applying AI to data center operations isn’t a new idea — IDC predicts that 50% of IT assets ... (Granulate has 14 employees, and it expects to triple its headcount to roughly 40 by 2021.) Sign up for Funding Weekly to start your week with VB's top funding stories.",
-      "heat": 89,
+      "path": "_news/2020-04-23-deepminds-ai-studies-game-players-to-exploit-weaknesses-in-their-strategies.md",
+      "title": "DeepMind’s AI studies game players to exploit weaknesses in their strategies",
+      "excerpt": "In a paper published on the preprint server Arxiv.org, scientists at Alphabet’s DeepMind propose a new framework that learns an approximate best response in both imperfect information games (where players are unaware of the actions chosen by other players) and perfect information games (where each player is informed of all actions taken by ...",
+      "heat": 101,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/amp/",
-      "publishedDateTime": "2020-04-22T07:30:00-07:00",
+      "webUrl": "https://venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/amp/",
+      "publishedDateTime": "2020-04-23T08:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -688,10 +527,10 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/10/hp-servers-e1586902722207.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
+          "width": 1198,
           "height": 600,
-          "title": "Granulate raises $12 million to optimize server performance with AI",
+          "title": "DeepMind’s AI studies game players to exploit weaknesses in their strategies",
           "attribution": null
         }
       ],
@@ -700,28 +539,28 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Facebook AI"
+        "Google AI",
+        "AI"
       ]
     },
     {
-      "path": "_news/2020-04-22-optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding.md",
-      "title": "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding",
-      "excerpt": "Ezra and his co-founder, Tal Saiag, have a story shared by many Israeli startup founders. They met over a decade ago, and served together in one of Israel's top technological intelligence units. Ezra said that besides the fact that this enabled them to hone their problem solving and initiative taking skills, it also had some technical ...",
-      "heat": 73,
+      "path": "_news/2020-04-23-artificial-intelligence-and-automation-top-focus-for-venture-capitalists.md",
+      "title": "Artificial Intelligence And Automation Top Focus For Venture Capitalists",
+      "excerpt": "As most of the workforce seemingly shifted to a remote workforce, the need for automation, technology, and tools has never been greater. How are VCs investing in AI and automation?",
+      "heat": 88,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
-      "publishedDateTime": "2020-04-22T07:00:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/23/artificial-intelligence-and-automation-top-focus-for-venture-capitalists/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/23/artificial-intelligence-and-automation-top-focus-for-venture-capitalists/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/23/artificial-intelligence-and-automation-top-focus-for-venture-capitalists/amp/",
+      "publishedDateTime": "2020-04-23T08:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -733,10 +572,10 @@
       },
       "images": [
         {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/22/75d52d79-fe77-48d3-b2aa-5b33a032fa72/granulate-io.jpg",
-          "width": 595,
-          "height": 418,
-          "title": "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea1b04f8a54cb0006b1eee2%2F0x0.jpg",
+          "width": 489,
+          "height": 392,
+          "title": "Artificial Intelligence And Automation Top Focus For Venture Capitalists",
           "attribution": null
         }
       ],
@@ -745,57 +584,21 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-22-auditoriaai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office.md",
-      "title": "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office",
-      "excerpt": "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- today announced SmartFlow Skills, a groundbreaking new SaaS solution that addresses the most pressing challenges of the enterprise finance back office.",
-      "heat": null,
+      "path": "_news/2020-04-23-otterais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings.md",
+      "title": "Otter.ai’s newest feature offers live, interactive transcripts of your Zoom meetings",
+      "excerpt": "Real-time voice transcription service Otter.ai is adding new functionality that will aid home school students and work-from-home employees alike. The company today is introducing an integration with Zoom in order to provide “Live Video Meeting Notes” — meaning, the ability to record and and view a live, interactive transcript directly ...",
+      "heat": 100,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance/article_2a4185c6-6b31-5968-b616-a1b081e1a222.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-comet-ai-nabs-45m-for-more-efficient-machine-learning-model-management.md",
-      "title": "Comet AI nabs $4.5M for more efficient machine learning model management",
-      "excerpt": "To that end, Comet AI announced a $4.5 million investment today as it tries to build a more efficient machine learning platform. The money came from existing investors Trilogy Equity Partners, Two Sigma Ventures and Founder’s Co-op. Today’s investment comes on top of an earlier $2.3 million seed. “We provide a self-hosted and cloud-based ...",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/22/comet-ai-nabs-4-5m-for-more-efficient-machine-learning-model-management/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/22/comet-ai-nabs-4-5m-for-more-efficient-machine-learning-model-management/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/22/comet-ai-nabs-4-5m-for-more-efficient-machine-learning-model-management/amp/",
-      "publishedDateTime": "2020-04-22T06:15:00-07:00",
+      "webUrl": "https://techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/amp/",
+      "publishedDateTime": "2020-04-23T08:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -814,10 +617,10 @@
       },
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-927316250.jpg?w=1024",
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/otter-hero-screens-2.png?w=1024",
           "width": 1024,
-          "height": 768,
-          "title": "Comet AI nabs $4.5M for more efficient machine learning model management",
+          "height": 650,
+          "title": "Otter.ai’s newest feature offers live, interactive transcripts of your Zoom meetings",
           "attribution": null
         }
       ],
@@ -826,28 +629,27 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-22-quillbot-taps-ai-to-rewrite-and-rephrase-whole-paragraphs.md",
-      "title": "QuillBot taps AI to rewrite and rephrase whole paragraphs",
-      "excerpt": "QuillBot, a startup developing AI tools that intelligently rewrite text, today announced that it raised $4 million in financing. Fresh capital in hand, the cofounders hope to make QuillBot’s platform a one-stop editing shop, with modules that will summarize information from articles and complete paragraphs by synthesizing sentences informed ...",
-      "heat": 97,
+      "path": "_news/2020-04-23-artificial-intelligence-can-take-banks-to-the-next-level.md",
+      "title": "Artificial intelligence can take banks to the next level",
+      "excerpt": "This struggle with customer service is ongoing for financial institutions. But it's an area in which artificial intelligence (AI), and its ability to work with unstructured data like voice and images, can help. \"There are two things that artificial intelligence does really well,\" said Ameek Singh, vice president of IBM's Watson applications and ...",
+      "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/quillbot-taps-ai-to-rewrite-and-rephrase-whole-paragraphs/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/quillbot-taps-ai-to-rewrite-and-rephrase-whole-paragraphs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/quillbot-taps-ai-to-rewrite-and-rephrase-whole-paragraphs/amp/",
-      "publishedDateTime": "2020-04-22T06:03:00-07:00",
+      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-can-take-banks-to-the-next-level/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-can-take-banks-to-the-next-level/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-can-take-banks-to-the-next-level/",
+      "publishedDateTime": "2020-04-23T08:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -859,10 +661,10 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all",
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/23/e7141a30-003c-4e34-ad1d-6cc7c76daf90/resize/1200x/331adc6fa5179da2d9e9d3f835c07f81/woman-clerk-in-a-bank-flat-vector-vector-id483987118-1.jpg",
           "width": 1200,
-          "height": 600,
-          "title": "QuillBot taps AI to rewrite and rephrase whole paragraphs",
+          "height": 675,
+          "title": "Artificial intelligence can take banks to the next level",
           "attribution": null
         }
       ],
@@ -871,20 +673,103 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "IBM AI",
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_news/2020-04-22-bodhala-raises-10-million-to-optimize-companies-legal-spend-with-ai.md",
-      "title": "Bodhala raises $10 million to optimize companies’ legal spend with AI",
-      "excerpt": "Legal tech startup Bodhala this week closed a $10 million financing round, the bulk of which will be put toward product R&D and sales efforts, cofounder and CEO Raj Goyle told VentureBeat. The company’s platform taps AI and machine learning to help companies analyze and optimize legal spend — a valuable service in light of the fact that ...",
+      "path": "_news/2020-04-23-omnipresence-launches-cxmnowio-for-life-sciences-in-the-microsoft-azure-marketplace.md",
+      "title": "Omnipresence Launches CXMnow.io for Life Sciences in the Microsoft Azure Marketplace",
+      "excerpt": "CXMnow.io in the Azure Marketplace today, an online store providing applications and services for use on Microsoft Azure. The customer experience management (CXM) technology allows life sciences organizations with certain well-defined business needs to sign up online for a built-for-purpose customer engagement capability to use in their commercial or medical operations.",
       "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/bodhala-raises-10-million-to-optimize-companies-legal-spend-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/bodhala-raises-10-million-to-optimize-companies-legal-spend-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/bodhala-raises-10-million-to-optimize-companies-legal-spend-with-ai/amp/",
-      "publishedDateTime": "2020-04-22T06:00:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "publishedDateTime": "2020-04-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19.md",
+      "title": "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19",
+      "excerpt": "If a restaurant like Emilie’s were to use Dragontail’s AI camera technology, it could help them show customers what they’re doing in the kitchen, says CEO Levanol.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/amp/",
+      "publishedDateTime": "2020-04-23T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea18f0ef0b8cf000629757b%2F0x0.jpg",
+          "width": 1199,
+          "height": 673,
+          "title": "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-robots-ai-and-the-road-to-a-fully-autonomous-construction-industry.md",
+      "title": "Robots, AI, and the road to a fully autonomous construction industry",
+      "excerpt": "That might’ve seemed like an absurd thing to say back when autonomous driving first entered the collective imagination and companies established their intention to solve AI’s grand autonomous vehicle challenge. But Waymo now takes billions from outside investors, and the delay of major initiatives like GM’s Cruise and taxi service and ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/robots-ai-and-the-road-to-a-fully-autonomous-construction-industry/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/robots-ai-and-the-road-to-a-fully-autonomous-construction-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/robots-ai-and-the-road-to-a-fully-autonomous-construction-industry/amp/",
+      "publishedDateTime": "2020-04-23T06:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -903,10 +788,10 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Facebook-Post-1-e1587524404244.jpg?fit=1200%2C600&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/built-robotics.jpg?fit=1200%2C600&strip=all",
           "width": 1200,
           "height": 600,
-          "title": "Bodhala raises $10 million to optimize companies’ legal spend with AI",
+          "title": "Robots, AI, and the road to a fully autonomous construction industry",
           "attribution": null
         }
       ],
@@ -915,20 +800,21 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2020-04-22-maccabi-to-deploy-ai-that-identifies-patients-at-risk-of-developing-covid-19-complications.md",
-      "title": "Maccabi to deploy AI that identifies patients at risk of developing COVID-19 complications",
-      "excerpt": "An HMO developing a platform for the discovery of clinical insights from medial information, Israel’s Maccabi Healthcare Services, plans to deploy an AI system that can identify people at risk of developing COVID-19 complications. The work is being done in partnership with the Kahn-Sagol-Maccabi Research and Innovation Institute and Medial ...",
-      "heat": 77,
+      "path": "_news/2020-04-23-randori-raises-20-million-to-spot-cyberattacks-with-ai.md",
+      "title": "Randori raises $20 million to spot cyberattacks with AI",
+      "excerpt": "Cybersecurity startup Randori today announced that it secured $20 million in equity financing ... Randori tells VentureBeat that it uses AI classification models to prioritize the targets attackers are most interested in, as well as affiliation mechanisms that make up a confidence engine responsible for analyzing information gleaned from ...",
+      "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/maccabi-to-deploy-ai-that-identifies-patients-at-risk-of-developing-covid-19-complications/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/maccabi-to-deploy-ai-that-identifies-patients-at-risk-of-developing-covid-19-complications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/maccabi-to-deploy-ai-that-identifies-patients-at-risk-of-developing-covid-19-complications/amp/",
-      "publishedDateTime": "2020-04-22T06:00:00-07:00",
+      "webUrl": "https://venturebeat.com/2020/04/23/randori-raises-20-million-to-spot-cyberattacks-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/randori-raises-20-million-to-spot-cyberattacks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/randori-raises-20-million-to-spot-cyberattacks-with-ai/amp/",
+      "publishedDateTime": "2020-04-23T06:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -947,10 +833,10 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/istock-701228292-e1587585848522.jpg?fit=1200%2C600&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/randori_masthead_updated_photo_x4-1-e1587142028408.png?fit=1200%2C600&strip=all",
           "width": 1200,
           "height": 600,
-          "title": "Maccabi to deploy AI that identifies patients at risk of developing COVID-19 complications",
+          "title": "Randori raises $20 million to spot cyberattacks with AI",
           "attribution": null
         }
       ],
@@ -963,23 +849,23 @@
       ]
     },
     {
-      "path": "_news/2020-04-22-consumer-lending-companies-riding-on-machine-learning-platforms-to-manage-risks.md",
-      "title": "Consumer Lending Companies Riding On Machine Learning Platforms To Manage Risks",
-      "excerpt": "The increased incidents of payment defaults, along with an alarming credit risk rate have prompted many of these firms to build risk mitigation models using machine learning (ML), so as to reduce the risk of default in a cost-effective manner, while taking smart, well-informed lending decisions in these complex times. The traditional analytical ...",
-      "heat": 105,
+      "path": "_news/2020-04-23-peakai-raises-12-million-to-bolster-enterprise-ai-adoption.md",
+      "title": "Peak.AI raises $12 million to bolster enterprise AI adoption",
+      "excerpt": "Peak.AI, a startup developing AI solutions for enterprise customers, today announced that it has raised $12 million in extended series A funding. The fresh capital will fuel Peak’s growth, commercial expansion, and R&D, according to CEO Richard Potter, and will come as up to 25% of companies report experiencing a 50% failure rate in deploying ...",
+      "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/349633",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349633",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349633",
-      "publishedDateTime": "2020-04-22T03:54:00-07:00",
+      "webUrl": "https://venturebeat.com/2020/04/23/peak-ai-raises-12-million-to-bolster-enterprise-ai-adoption/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/peak-ai-raises-12-million-to-bolster-enterprise-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/peak-ai-raises-12-million-to-bolster-enterprise-ai-adoption/amp/",
+      "publishedDateTime": "2020-04-23T06:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -991,55 +877,10 @@
       },
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160727110527-shutterstock-391308160.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Consumer Lending Companies Riding On Machine Learning Platforms To Manage Risks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-nvidia-rtx-voice-is-great-for-improving-sound-quality-on-video-calls-and-doesnt-actually-need-an-rtx-gpu.md",
-      "title": "Nvidia RTX Voice is great for improving sound quality on video calls – and doesn’t actually need an RTX GPU",
-      "excerpt": "The way it works is you download the RTX Voice beta as normal, and install the plugin, whereupon non-RTX GPU owners will be greeted by an error message stating that ... car alarms going off outside your window, and so on (and as it’s AI-powered, it should get better with time and training). Remember that RTX Voice is still in beta, although ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/nvidia-rtx-voice-is-great-for-improving-sound-quality-on-video-calls-and-doesnt-actually-need-an-rtx-gpu",
-      "ampWebUrl": "https://www.techradar.com/amp/news/nvidia-rtx-voice-is-great-for-improving-sound-quality-on-video-calls-and-doesnt-actually-need-an-rtx-gpu",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-rtx-voice-is-great-for-improving-sound-quality-on-video-calls-and-doesnt-actually-need-an-rtx-gpu",
-      "publishedDateTime": "2020-04-22T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/WAzBq6sGY9T2ruVjdDvRuk-1200-80.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/fd634a2a-81b7-4821-95c0-f67a68309315-e1587585516260.png?fit=1200%2C600&strip=all",
           "width": 1200,
-          "height": 675,
-          "title": "Nvidia RTX Voice is great for improving sound quality on video calls – and doesn’t actually need an RTX GPU",
+          "height": 600,
+          "title": "Peak.AI raises $12 million to bolster enterprise AI adoption",
           "attribution": null
         }
       ],
@@ -1048,35 +889,116 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-22-ibm-fenergo-sign-oem-agreement-to-help-clients-address-financial-risks.md",
-      "title": "IBM, Fenergo Sign OEM Agreement to Help Clients Address Financial Risks",
-      "excerpt": "IBM (NYSE: IBM ... and know-your-client platforms equipped with the Watson technology. IBM will offer customers a complete AI application suite that is focused on risk and compliance that ...",
+      "path": "_news/2020-04-23-progenics-pharmaceuticals-sets-first-quarter-2020-financial-results-and-business-update-call-for-may-7.md",
+      "title": "Progenics Pharmaceuticals Sets First Quarter 2020 Financial Results and Business Update Call for May 7",
+      "excerpt": "NEW YORK, April 23, 2020 (GLOBE NEWSWIRE) -- Progenics Pharmaceuticals, Inc. (NASDAQ: PGNX), an oncology company developing innovative medicines and artificial intelligence to find, fight and follow cancer,",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.govconwire.com/2020/04/ibm-fenergo-sign-oem-agreement-to-help-clients-address-financial-risks/",
+      "webUrl": "https://www.marketwatch.com/press-release/progenics-pharmaceuticals-sets-first-quarter-2020-financial-results-and-business-update-call-for-may-7-2020-04-23-81843110",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T03:06:00-07:00",
+      "publishedDateTime": "2020-04-23T05:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Progenics Pharmaceuticals Sets First Quarter 2020 Financial Results and Business Update Call for May 7",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-embedded-deep-learning-creates-new-possibilities-across-disparate-industries.md",
+      "title": "Embedded deep learning creates new possibilities across disparate industries",
+      "excerpt": "Embedded vision systems capable of performing on-device deep learning inference offer a capable solution for applications in many different industries, including assembly, collaborative robotics, medical technology, drones, driver assistance, and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vision-systems.com/embedded/article/14174401/embedded-deep-learning-vision-systems-across-disparate-industries",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vision Systems Design",
+        "domain": "vision-systems.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-otterai-releases-secure-live-interactive-transcripts-for-collaboration-platforms.md",
+      "title": "Otter.ai releases secure, live interactive transcripts for collaboration platforms",
+      "excerpt": "The new feature is available to Otter for Teams and Zoom subscribers with additional video collaboration integrations planned. Voice transcription company Otter.ai has rolled out a new Live Video Meeting Notes feature, which enables participants to open a secure, live interactive transcript directly from a video conference, or after a meeting ...",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/otter-ai-releases-secure-live-interactive-transcripts-for-collaboration-platforms/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/otter-ai-releases-secure-live-interactive-transcripts-for-collaboration-platforms/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/otter-ai-releases-secure-live-interactive-transcripts-for-collaboration-platforms/",
+      "publishedDateTime": "2020-04-23T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
       "images": [
         {
-          "url": "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300000wBvK4EAK",
-          "width": 272,
-          "height": 270,
-          "title": "IBM, Fenergo Sign OEM Agreement to Help Clients Address Financial Risks",
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/24/757c78fb-3099-49b8-8845-3ab72d4964d8/thumbnail/1200x675/1cdb1f301471faa092025ad26e671b30/zoom.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Otter.ai releases secure, live interactive transcripts for collaboration platforms",
           "attribution": null
         }
       ],
@@ -1085,7 +1007,51 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision.md",
+      "title": "Paige raises $5 million more from Goldman Sachs to detect cancer with computer vision",
+      "excerpt": "Health care startup Paige has raised an additional $5 million to help diagnose cancer using computer vision trained with clinical imaging data. The idea is to use data sets related to treatment and genomics to train the company’s deep learning networks to detect breast, prostate, and other major cancers. New York-based Paige has raised over ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/",
+      "publishedDateTime": "2020-04-23T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/paige.jpg?fit=1200%2C722&strip=all",
+          "width": 1200,
+          "height": 722,
+          "title": "Paige raises $5 million more from Goldman Sachs to detect cancer with computer vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

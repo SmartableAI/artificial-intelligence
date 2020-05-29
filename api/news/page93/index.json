@@ -2,231 +2,30 @@
   "page": 93,
   "value": [
     {
-      "path": "_news/2020-03-17-ibm-commercialises-ai-communication.md",
-      "title": "IBM commercialises AI communication",
-      "excerpt": "IBM is commercialising a new technology that makes it easier for computers to understand human communication. AI has struggled to understand the kinds of nuances that appear in everyday communication among people. Now Big Blue is adding new tools to its AI system, Watson, which can address that problem and better understand human language.",
+      "path": "_news/2020-03-17-scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.md",
+      "title": "Scientists use artificial intelligence to create new proteins unseen in nature",
+      "excerpt": "The resulting “musical scores” which are generated depending on how a protein folds were fed into a deep learning neural network. These artificial neural networks are computational algorithms that mimic the behavior of human interconnected neurons to process and learn from large amounts of information in a similar way to how the brain ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.fudzilla.com/news/ai/50483-ibm-commercialises-ai-communication",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T18:30:00-07:00",
+      "webUrl": "https://www.news-medical.net/news/20200317/Scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200317/Scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200317/Scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.aspx",
+      "publishedDateTime": "2020-03-17T08:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/31c2c7604349f9615a8f77c09e482964_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": "IBM commercialises AI communication",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-now-ai-will-understand-language-of-business.md",
-      "title": "Now AI will understand language of business",
-      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gadget.co.za/now-ai-will-understand-language-of-business/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1000x600.jpg",
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f3%2fshutterstock_1354969193.jpg",
           "width": 1000,
-          "height": 600,
-          "title": "Now AI will understand language of business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-tesla-trails-waymo-cruise-and-others-in-self-driving-strategy-study-claims.md",
-      "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
-      "excerpt": "Tesla's position on Navigant Research's AV development leaderboard is just about at the bottom. Waymo continues to lead the pack in terms of both vision and execution, according to Navigant's leaderboard.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "publishedDateTime": "2020-03-16T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/JYW41s6QFq3vS977cDHZTxVbuKc=/2019/08/20/1ad7f55f-6c1a-4d83-b8e5-b2d40024b32c/waymo-florida-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in-phoenix.md",
-      "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
-      "excerpt": "PALO ALTO, Calif., March 16, 2020 /PRNewswire/ -- Varian (NYSE: VAR) today announced it was selected to equip the new Ethos Personalized Adaptive Therapy Center in Phoenix, Arizona, and help",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in/article_db430520-912a-5b81-8dd6-2c00c7b1f532.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-aws-australia-returns-to-profit-after-posting-half-a-billion-revenue.md",
-      "title": "AWS Australia returns to profit after posting half a billion revenue",
-      "excerpt": "These included around cloud migration and modernisation, demand for contact centre technology and data analytics management and artificial intelligence. Last year, Migliorini spoke to ARN about AWS’ loss for 2018, saying the company had lowered its ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.arnnet.com.au/article/671884/aws-australia-returns-profit-after-posting-half-billion-revenue/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T17:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/adam_beavis.jpg",
-          "width": 800,
-          "height": 500,
-          "title": "AWS Australia returns to profit after posting half a billion revenue",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-the-10-best-free-online-artificial-intelligence-and-machine-learning-courses-for-2020.md",
-      "title": "The 10 Best Free Online Artificial Intelligence And Machine Learning Courses For 2020",
-      "excerpt": "Demand for people with artificial intelligence and machine learning skills has never been bigger. Demand clearly outstrips supply. If you want to boost your AI and ML skills, then these 10 free courses are a great place to start.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/16/the-10-best-free-artificial-intelligence-and-machine-learning-courses-for-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/16/the-10-best-free-artificial-intelligence-and-machine-learning-courses-for-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/03/16/the-10-best-free-artificial-intelligence-and-machine-learning-courses-for-2020/amp/",
-      "publishedDateTime": "2020-03-16T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6f204737d0440006bc84f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "The 10 Best Free Online Artificial Intelligence And Machine Learning Courses For 2020",
+          "height": 563,
+          "title": "Scientists use artificial intelligence to create new proteins unseen in nature",
           "attribution": null
         }
       ],
@@ -240,30 +39,30 @@
       ]
     },
     {
-      "path": "_news/2020-03-16-rsip-vision-announces-breakthrough-ai-technology-for-3d-reconstruction-of-knees-from-x-ray-images.md",
-      "title": "RSIP Vision Announces Breakthrough AI technology for 3D Reconstruction of Knees from X-ray Images",
-      "excerpt": "and computer vision technology, announced today a new innovative AI-based solution for 3D Reconstruction of Knees from X-ray Images. This technology provides physicians with a rich 3D modelling of each bone,",
+      "path": "_news/2020-03-17-osaro-recognized-as-top-global-ai-startup-by-cb-insights-ai-100-cnbcs-upstart-100.md",
+      "title": "OSARO Recognized as Top Global AI Startup by CB Insights' AI 100 & CNBC's Upstart 100",
+      "excerpt": "\"Each year, CNBC scans the globe looking for the 100 venture-backed start-ups that have the potential to transform industries ... Since 2015, OSARO's wider mission has been to build hardware-agnostic AI software that enables robots to function in a variety of environments and perform a diverse set of tasks. OSARO systems are compatible with ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/il/news-releases/rsip-vision-announces-breakthrough-ai-technology-for-3d-reconstruction-of-knees-from-x-ray-images-301024885.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-osaro-recognized-as-top-global-ai-startup-cb-/2020/03/17/9116494.htm",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T15:00:00-07:00",
+      "publishedDateTime": "2020-03-17T08:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1134403/RSIP_Vision_3D_Reconstruction.jpg?p=facebook",
-          "width": 599,
-          "height": 315,
-          "title": "RSIP Vision Announces Breakthrough AI technology for 3D Reconstruction of Knees from X-ray Images",
+          "url": "https://mms.businesswire.com/media/20200317005221/en/780161/4/Osaro-Pick-heroImage_%281%29_%281%29.jpg",
+          "width": 480,
+          "height": 385,
+          "title": "OSARO Recognized as Top Global AI Startup by CB Insights' AI 100 & CNBC's Upstart 100",
           "attribution": null
         }
       ],
@@ -272,145 +71,34 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-03-16-machine-learning-technique-sharpens-prediction-of-materials-mechanical-properties.md",
-      "title": "Machine learning technique sharpens prediction of material's mechanical properties",
-      "excerpt": "Scientists at Nanyang Technological University, Singapore (NTU Singapore), Massachusetts Institute of Technology (MIT), and Brown University have developed new approaches that significantly improve the accuracy of an important material testing technique by harnessing the power of machine learning. Nano-indentation - the process of poking a ...",
+      "path": "_news/2020-03-17-moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service.md",
+      "title": "Moven and the Saudi Digital Payments Company (STC Pay) announce Agreement to Collaborate on new Fintech Banking Service",
+      "excerpt": "Ahmed Alenazi, the CEO of STC Pay added, \"we have strived to create the best FinTech service in the Kingdom and the MENA region in Oct 2018 ... Movencorp leads banking-as-a-service innovation in AI/ML driven smart-banking technologies in order to drive financial wellness and smart day-to-day banking capabilities. Movencorp, Inc is the only ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ntu-mlt031320.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T14:36:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
+      "publishedDateTime": "2020-03-17T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226983_web.jpg",
-          "width": 720,
-          "height": 405,
-          "title": "Machine learning technique sharpens prediction of material's mechanical properties",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-white-house-aims-to-answer-whos-coronavirus-questions-using-natural-language-processing.md",
-      "title": "White House aims to answer WHO’s coronavirus questions using natural language processing",
-      "excerpt": "And the National Academies of Sciences, Engineering and Medicine narrowed those queries down to the ones data scientists can answer using natural language processing on the dataset. “For us, we’re posing important questions,” said Michael Kratsios ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fedscoop.com/coronavirus-database-natural-language-processing/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.fedscoop.com/wp-content/uploads/2020/03/GettyImages-1204793213.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": "White House aims to answer WHO’s coronavirus questions using natural language processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-how-enterprise-companies-are-changing-recruitment-with-ai.md",
-      "title": "How Enterprise Companies Are Changing Recruitment With AI",
-      "excerpt": "One of the fastest-growing enterprises putting forward recruitment solutions is Jobpal, a chatbot-software company that can use any of the popular messaging platforms (WhatsApp, LINE, Telegram, Facebook messenger or even SMS) to create software that ensures better customer engagement. The benefits of using AI in this fashion for recruitment are ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/347190",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/347190",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347190",
-      "publishedDateTime": "2020-03-16T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
             "attribution": null
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200312202638-GettyImages-1166135960.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "How Enterprise Companies Are Changing Recruitment With AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east.md",
-      "title": "Fintech Firms, Aion Digital and Qarar, Team Up to Accelerate Development of Online Lending Platforms in the Middle East",
-      "excerpt": "Two major Fintech companies, Aion Digital and Qarar ... As mentioned in the announcement, the platform integrates artificial intelligence (AI) capabilities to assist banks in improving their decision-making processes. Qarar’s deep analytics engine helps financial institutions make risk-managed, consistent business decisions by ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/amp/",
-      "publishedDateTime": "2020-03-16T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -425,30 +113,392 @@
       ]
     },
     {
-      "path": "_news/2020-03-16-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider.md",
-      "title": "ING Invests $5 Million in Eigen Technologies, a Natural Language Processing Solution Provider",
-      "excerpt": "$5 million) to a $42 million investment round in Eigen Technologies, a natural language processing (NLP) solution provider. The investment, which has been made via ING’s VC division, ING Ventures, is part of Eigen Technologies’ Series B funding round, which was announced in November of last year. The round also included contributions from ...",
+      "path": "_news/2020-03-17-machine-learning-to-scale-up-the-quantum-computer.md",
+      "title": "Machine learning to scale up the quantum computer",
+      "excerpt": "Machine learning is an emerging area of research which is revolutionizing almost every field of research, from medical science to image processing, robotics, and material design. A carefully trained machine learning algorithm can process very large data sets with enormous efficiency. One branch of machine learning is known as convolutional ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/03/158821-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158821-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158821-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider/amp/",
-      "publishedDateTime": "2020-03-16T13:30:00-07:00",
+      "webUrl": "https://phys.org/news/2020-03-machine-scale-quantum.html",
+      "ampWebUrl": "https://phys.org/news/2020-03-machine-scale-quantum.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-machine-scale-quantum.amp",
+      "publishedDateTime": "2020-03-17T07:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-intels-innovative-approach-to-data-encryption-could-advance-ai-and-machine-learning.md",
+      "title": "Intel’s innovative approach to data encryption could advance AI and machine learning",
+      "excerpt": "This week, theCUBE features Casimir Wierzynski as its Guest of the Week. Wierzynski is one of the leading voices in a movement for Privacy-Preserving Machine Learning, or PPML. The goal of PPML is to combine complementary technologies so that machine learning can use data for training models without sacrificing the anonymity of personal ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/17/ntels-innovative-approach-to-data-encryption-could-advance-ai-and-machine-learning-rsac-guestoftheweek/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/ING-Bank-300x239.jpg",
-          "width": 300,
-          "height": 239,
-          "title": "ING Invests $5 Million in Eigen Technologies, a Natural Language Processing Solution Provider",
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/Wierzynski.jpg",
+          "width": 894,
+          "height": 596,
+          "title": "Intel’s innovative approach to data encryption could advance AI and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-after-test-san-diego-pd-bans-facial-recognition-app.md",
+      "title": "After Test, San Diego P.D. Bans Facial Recognition App",
+      "excerpt": "(TNS) — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html",
+      "ampWebUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
+      "publishedDateTime": "2020-03-17T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_145677227.jpg",
+          "width": 940,
+          "height": 627,
+          "title": "After Test, San Diego P.D. Bans Facial Recognition App",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-moodys-analytics-vince-il-regtech-innovation-award-ai-fintech-breakthrough-awards.md",
+      "title": "Moody’s Analytics vince il RegTech Innovation Award ai FinTech Breakthrough Awards",
+      "excerpt": "LONDRA--(BUSINESS WIRE)--Moody’s Analytics, fornitore globale di intelligence finanziaria, ha vinto il premio RegTech Innovation Award ai 2020 FinTech Breakthrough Awards. Il riconoscimento ha premiato le nostre soluzioni tecnologiche normative software-as-a-service (SaaS). L'anno scorso abbiamo vinto un riconoscimento per Best Wealth ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200317005471/it/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200317005471/it/779410/23/FinTech_Breakthrough_Awards_2020_Moodys.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Moody’s Analytics vince il RegTech Innovation Award ai FinTech Breakthrough Awards",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-10-ways-googles-deepmind-uses-ai-across-the-globe.md",
+      "title": "10 ways Google's DeepMind uses AI across the globe",
+      "excerpt": "DeepMind has attracted mixed headlines since Google paid $50 million for the U.K.-based AI startup in 2014. The awe inspired by DeepMind's AlphaGo system defeating Go world champion Lee Sedol was soon tempered by criticisms of its controversial access to personal health records, which the ICO ruled had breached the Data Protection Act ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.idginsiderpro.com/article/3533048/10-ways-googles-deepmind-uses-ai-across-the-globe.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idginsiderpro",
+        "domain": "idginsiderpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_neural_networks_technology_brain_by_4x-image_gettyimages_997524096-100817778-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "10 ways Google's DeepMind uses AI across the globe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-tyler-technologies-micropact-global-alliance-members-secure-major-vocational-rehabilitation-and-employment-contract.md",
+      "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
+      "excerpt": "The completed project will be hosted on Amazon Web Services (AWS) and will feature 2,500 seats of Tyler’s Entellitrak ® solution ... Chainbridge Solutions leverages technologies such as Artificial Intelligence, Robotic Process Automation, and Machine Learning to deliver the next generation of case management solutions.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200317005053/en/Tyler-Technologies’-MicroPact-Global-Alliance-Members-Secure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200317005053/en/257505/23/tyler_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-rpa-and-artificial-intelligence-five-questions.md",
+      "title": "RPA and Artificial Intelligence – Five Questions",
+      "excerpt": "Indico CEO Tom Wilde sees a shifting landscape ahead for AI and RPA users as enterprises look to move their process automation efforts forward. Some of the major themes he’s watching include: RPA’s adoption problem;",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/17/2001931/0/en/RPA-and-Artificial-Intelligence-Five-Questions.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-computer-vision-and-image-analysis-online-course-offered-by-microsoft.md",
+      "title": "Computer Vision and Image Analysis online course offered by Microsoft",
+      "excerpt": "Computer Vision is the art of distilling actionable information from images. In this hands-on course, we'll learn about Image Analysis techniques using Python packages like PIL, Scikit-Image, Open CV, and others. You'll then explore machine learning for computer vision, including deep learning techniques for image classification, object ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sakshieducation.com/Story.aspx?cid=0&sid=0&chid=0&tid=0&nid=261255",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sakshi Education",
+        "domain": "sakshieducation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sakshieducation.com/images/logo.png",
+          "width": 510,
+          "height": 300,
+          "title": "Computer Vision and Image Analysis online course offered by Microsoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-runai-announces-general-availability-of-its-k8s-based-deep-learning-virtualization-platform.md",
+      "title": "Run:AI Announces General Availability of Its K8s-based Deep Learning Virtualization Platform",
+      "excerpt": "/PRNewswire/ -- Run:AI, a company virtualizing AI infrastructure, today announced the general availability of its deep learning virtualization platform.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/runai-announces-general-availability-of-its-k8s-based-deep-learning-virtualization-platform-301025455.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Run:AI Announces General Availability of Its K8s-based Deep Learning Virtualization Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-socionext-prototypes-low-power-ai-chip-with-quantized-deep-neural-network-engine.md",
+      "title": "Socionext Prototypes Low-Power AI Chip with Quantized Deep Neural Network Engine",
+      "excerpt": "/PRNewswire/ -- Socionext Inc. has developed a prototype chip that incorporates newly-developed quantized Deep Neural Network (DNN) technology,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/socionext-prototypes-low-power-ai-chip-with-quantized-deep-neural-network-engine-301025274.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/196435/socionext_inc_logo.jpg?p=facebook",
+          "width": 2300,
+          "height": 1207,
+          "title": "Socionext Prototypes Low-Power AI Chip with Quantized Deep Neural Network Engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-europe-speech-recognition-market-size-share-growth-challenges-on-present-state-future-growth-revenue-period-2020-2025.md",
+      "title": "Europe Speech Recognition Market Size, Share, Growth, Challenges On Present State & Future Growth Revenue Period 2020-2025",
+      "excerpt": "A recent report on Europe Speech Recognition Market provides a detailed analysis on the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary obstacles and latest growth trends accepted by key players that form a part of the competitive spectrum of this business.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/europe-speech-recognition-market-size-share-growth-challenges-on-present-state-future-growth-revenue-period-2020-2025-2020-03-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Europe Speech Recognition Market Size, Share, Growth, Challenges On Present State & Future Growth Revenue Period 2020-2025",
           "attribution": null
         }
       ],
@@ -462,65 +512,20 @@
       ]
     },
     {
-      "path": "_news/2020-03-16-roboy-the-robot-is-fully-compliant-soft-and-huggable.md",
-      "title": "Roboy the robot is fully compliant, soft, and huggable",
-      "excerpt": "Pascal Kaufmann introduces us to Roboy, which represents a new generation of robots. Technology tipping points for ... 1:21 How many jobs will AI destroy and why we need to share the spoils 1:39 Coronavirus and its impact on the enterprise Windows 10 Start menu hacks Telecommuting policy How to work from home: IT pro’s guidebook to ...",
+      "path": "_news/2020-03-17-cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform-at-fca.md",
+      "title": "Cerence Powers Voice for All-New Uconnect 5 Global Infotainment Platform at FCA",
+      "excerpt": "Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive in-car experiences",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/videos/roboy-the-robot-is-fully-compliant-soft-and-huggable/",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/17/2001838/0/en/Cerence-Powers-Voice-for-All-New-Uconnect-5-Global-Infotainment-Platform-at-FCA.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T12:17:00-07:00",
+      "publishedDateTime": "2020-03-17T05:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/16/e7e28fc1-a205-412e-9fe0-76fc29086f0a/thumbnail/770x578/6562c9429e0a748d1b522ac17b0a91a6/20200224-kaufmann-dan.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Roboy the robot is fully compliant, soft, and huggable",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-botz-the-roboticsartificial-intelligence-etf-is-not-a-bargain-buy-even-after-recent-crash.md",
-      "title": "BOTZ: The Robotics/Artificial Intelligence ETF Is Not A Bargain Buy Even After Recent Crash",
-      "excerpt": "For the Global X Robotics & Artificial Intelligence ETF (BOTZ), its bear market actually started in 2018 when BOTZ stumbled back to earth from its 80+% meteoric rise in the preceding year: Source: WingCapital Investments Prior to the market turmoil, BOTZ had struggled to retrace towards its all-time high, even as the broader technology sector ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://seekingalpha.com/article/4332230-botz-robotics-artificial-intelligence-etf-is-not-bargain-buy-even-after-recent-crash",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -531,43 +536,35 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-03-16-nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans.md",
-      "title": "Nvidia researchers use AI to teach robots how to hand objects to humans",
-      "excerpt": "Then they used a Microsoft Azure Kinect depth camera to compile a data set to train an AI model to classify a hand holding an object into one of those categories, specifically by showing an example image of a hand grasp to the subject and recording the subject performing similar poses from 20-60 seconds. During the recording, the person could ...",
+      "path": "_news/2020-03-17-axon-announces-three-new-members-to-ai-ethics-board.md",
+      "title": "Axon Announces Three New Members to AI Ethics Board",
+      "excerpt": "/PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, announced today the appointment of three new members to its",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/16/nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/16/nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/16/nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans/amp/",
-      "publishedDateTime": "2020-03-16T09:35:00-07:00",
+      "webUrl": "https://www.prnewswire.com/news-releases/axon-announces-three-new-members-to-ai-ethics-board-301025168.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/29f61469-3b62-42ab-adb3-8f819670e565.png?w=673&resize=673%2C600&strip=all",
-          "width": 673,
-          "height": 600,
-          "title": "Nvidia researchers use AI to teach robots how to hand objects to humans",
+          "url": "https://mma.prnewswire.com/media/1134612/Danielle_Citron.jpg?p=facebook",
+          "width": 2735,
+          "height": 1431,
+          "title": "Axon Announces Three New Members to AI Ethics Board",
           "attribution": null
         }
       ],
@@ -576,171 +573,38 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-03-16-how-to-run-tensorflowjs-on-a-serverless-platform.md",
-      "title": "How to run Tensorflow.js on a serverless platform",
-      "excerpt": "In a previous article, we introduced neural networks and TensorFlow framework basics. Today, we present how to use TensorFlow.js, from online models to model conversion, web-based versus server ...",
+      "path": "_news/2020-03-17-with-painted-faces-artists-fight-facial-recognition-tech.md",
+      "title": "With painted faces, artists fight facial recognition tech",
+      "excerpt": "As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long narrow blue triangles and thin white rectangles criss-crossing her face.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://medium.com/warpjs/how-to-run-tensorflow-js-on-a-serverless-platform-cbdfe9e733b7",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T09:29:00-07:00",
+      "webUrl": "https://www.pressofatlanticcity.com/business/ap/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.html",
+      "ampWebUrl": "https://www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
+      "cdnAmpWebUrl": "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
+      "publishedDateTime": "2020-03-17T03:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-ibms-6-dividend-yield-should-set-a-floor-under-the-stock.md",
-      "title": "IBM's 6% Dividend Yield Should Set a Floor Under the Stock",
-      "excerpt": "Last quarter, only two of IBM's core businesses -- cloud & cognitive software and systems -- posted annual revenue growth. Revenue from its other three business units (global technology services, global business services ... Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16?amp",
-      "publishedDateTime": "2020-03-16T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "The Press of Atlantic City",
+        "domain": "pressofatlanticcity.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2014824675",
+          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/b/75/b75ab181-5b9b-5c17-bb85-ed0894c739a1/5e42e53a5ff29.image.jpg?resize=1024%2C738",
           "width": 1024,
-          "height": 512,
-          "title": "IBM's 6% Dividend Yield Should Set a Floor Under the Stock",
+          "height": 738,
+          "title": "With painted faces, artists fight facial recognition tech",
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-the-amazon-athena-query-federation-sdk-allows-you-to-customize-amazon-athena-with-your-own-data-sources-and-code.md",
-      "title": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.",
-      "excerpt": "To enable this Preview feature you need to create an Athena workgroup named AmazonAthenaPreviewFunctionality and run any queries attempting to federate to this connector, use a UDF, or SageMaker inference from that workgroup. We've written integrations with more than 20 databases, storage formats, and live APIs in order to refine this interface ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://github.com/awslabs/aws-athena-query-federation",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://github.com/awslabs/aws-athena-query-federation/raw/master/docs/img/athena_federation_flow.png?raw=true",
-          "width": 608,
-          "height": 552,
-          "title": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-the-smart-money-is-on-the-sensors.md",
-      "title": "The Smart Money Is on the Sensors",
-      "excerpt": "With a tracking module connected to the OBD II port and the integration of RFID readers, telematics use cases can be extended to identifying individual drivers and passengers through ID tag swipe. RFID technology allows businesses to, for example, keep ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rfidjournal.com/articles/view?18461/2",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFID Journal",
-        "domain": "rfidjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-san-diego-police-da-ban-use-of-facial-recognition-app-but-not-before-it-was-tested.md",
-      "title": "San Diego police, DA ban use of facial recognition app — but not before it was tested",
-      "excerpt": "SAN DIEGO — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.policeone.com/police-products/police-technology/police-software/facial-recognition/articles/san-diego-police-da-ban-use-of-facial-recognition-app-but-not-before-it-was-tested-rsOdyj81pbqfpu7K/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PoliceOne",
-        "domain": "policeone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -751,20 +615,131 @@
       ]
     },
     {
-      "path": "_news/2020-03-16-amazon-updates-transcribe-with-automatic-redaction-of-personally-identifiable-information-feature.md",
-      "title": "Amazon Updates Transcribe with Automatic Redaction of Personally Identifiable Information Feature",
-      "excerpt": "Amazon Transcribe is an automatic speech recognition (ASR) service, allowing customers to add speech-to-text capabilities to their applications. Recently, the public cloud provider made a ...",
+      "path": "_news/2020-03-17-mccs-azure-based-ai-solution-detects-eerie-silence.md",
+      "title": "MCC’s Azure-based AI solution detects eerie silence",
+      "excerpt": "After two years of careful design and another two of intense deployment and ongoing refinement, a sophisticated Azure-based AI solution at the Melbourne Cricket Club (MCC) is possibly feeling a little confused by an entirely new and unexpected sound triggered after teams score or players are dismissed on the field: crickets. As the coronavirus ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/03/aws-transcribe-redact-pii/?useSponsorshipSuggestions=true",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T06:06:00-07:00",
+      "webUrl": "https://www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.html",
+      "ampWebUrl": "https://www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.amp.html",
+      "publishedDateTime": "2020-03-17T03:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/cio-street-sign-cricket-ground-by-ctrphotos-gettyimages-516114501-100835591-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "MCC’s Azure-based AI solution detects eerie silence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-why-sd-wans-need-artificial-intelligence.md",
+      "title": "Why SD-WANs Need Artificial Intelligence",
+      "excerpt": "A driver still needs to be present. That is, until fully autonomous vehicles become a reality. Self-driving cars will rely on understanding road rules and use artificial intelligence (AI) to make decisions without drivers. Data will be constantly fed into the automobile, so as conditions change, so too will the AI-based decisions. The same is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3532473/why-sd-wans-need-artificial-intelligence.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/istock-1051617224-100835456-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Why SD-WANs Need Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-knives-out-tech-tackles-violent-crime.md",
+      "title": "Knives out: tech tackles violent crime",
+      "excerpt": "“This means that in a crowded environment like a train station or shopping centre, video-recognition systems that are enhanced by AI-powered threat-object recognition software can be used to identify and flag forbidden objects such as knives,” he says.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://eandt.theiet.org/content/articles/2020/03/knives-out-tech-tackles-violent-crime/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IET",
+        "domain": "theiet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eandt.theiet.org/media/10910/gettyimages-175224409-2048x2048_440107723754523852.jpg?crop=0.0000000000000013895057943753,0.27276577721304568,0,0.22691656077932973&cropmode=percentage&width=1200&height=450&rnd=132288417420000000",
+          "width": 1200,
+          "height": 450,
+          "title": "Knives out: tech tackles violent crime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries.md",
+      "title": "Venture Capitalist Tim Draper: Bitcoin, decentralization and artificial intelligence could transform global industries",
+      "excerpt": "WELCOME We use cookies to enhance your experience like remembering your Time Zone. We have updated our privacy policy please check our Terms&Conditions Accept and Continue Industries that could be transformed using decentralization,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fxstreet.com/cryptocurrencies/news/venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries-202003170949",
+      "ampWebUrl": "https://www.fxstreet.com/amp/cryptocurrencies/news/venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries-202003170949",
+      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/cryptocurrencies/news/venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries-202003170949",
+      "publishedDateTime": "2020-03-17T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXStreet",
+        "domain": "fxstreet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -775,21 +750,50 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-03-16-a-look-at-the-tensorflow-ecosystem-in-2020.md",
-      "title": "A look at the TensorFlow ecosystem in 2020",
-      "excerpt": "TensorFlow Dev Summit 2020 took place last week and gave an overview of everything that’s been going on in the world of the machine learning library. While we have been covering TensorFlow, TensorFlow.js, and the recently open sourced TensorFlow Quantum, you may not yet have heard of TF Hub, TFX or TF Lite, so let’s see what they are all about.",
+      "path": "_news/2020-03-17-natural-language-processing-market-growth-opportunity-size-share-and-forecast-2019-2025.md",
+      "title": "Natural Language Processing Market Growth, Opportunity, Size, Share and Forecast 2019-2025",
+      "excerpt": "Natural Language Processing (NLP) market is growing tremendously owing to growing applications in artificial intelligence and machine learning technology. NLP technology supports computer to ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://jaxenter.com/tensorflow-2020-169727.html",
+      "webUrl": "https://www.openpr.com/news/1970701/natural-language-processing-market-growth-opportunity-size",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T05:25:00-07:00",
+      "publishedDateTime": "2020-03-17T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-facebook-ais-demucs-teaches-ai-to-hear-in-a-more-human-like-way.md",
+      "title": "Facebook AI’s Demucs teaches AI to hear in a more human-like way",
+      "excerpt": "Demucs is a new research project by Facebook AI. It is designed to separate musical tracks into different instruments or vocals, similar to how a human can detect the specific instruments, and solve the problems of existing approaches. In the long run, Demucs could be applied to other AI tasks as well. Music source separation can be a tricky ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/facebook-ai-demucs-169778.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T02:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "jaxenter.com",
@@ -800,10 +804,10 @@
       },
       "images": [
         {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/02/MLC_MUN20_Webbanner_Smartblock_550x214_56305_v1.jpg",
-          "width": 550,
-          "height": 214,
-          "title": "A look at the TensorFlow ecosystem in 2020",
+          "url": "https://jaxenter.com/wp-content/uploads/2020/03/demucs.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Facebook AI’s Demucs teaches AI to hear in a more human-like way",
           "attribution": null
         }
       ],
@@ -812,65 +816,35 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
-      "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-      "excerpt": "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15556274",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274",
-      "publishedDateTime": "2020-03-16T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
+        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-03-16-ibm-tackles-human-language-through-ai.md",
-      "title": "IBM Tackles Human Language Through AI",
-      "excerpt": "Rob Thomas, GM of IBM Data and AI was quoted saying, “A language is a tool for expressing thought and opinion as much as it is a tool for information.” This has been the motto of IBM with its recent announcement of bringing Project Debater and integrating it into Watson. Marketing Technology News: Xandr AT&T Partners with AMC Networks ...",
+      "path": "_news/2020-03-17-ai-predictions-2020-artificial-intelligence-grows-up.md",
+      "title": "AI predictions 2020: Artificial Intelligence grows up",
+      "excerpt": "As AI grows to be a pervasive technology, there is currently little trust of the morals and ethics of many companies that use it. As a data scientist, that is disheartening – but I believe there are ways that AI innovators can respond to the pressure they’ll begin to come under from governments and their customers.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.martechadvisor.com/news/machine-learning-ai/ibm-tackles-human-language-through-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T03:41:00-07:00",
+      "webUrl": "https://www.itproportal.com/features/ai-predictions-2020-artificial-intelligence-grows-up/",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-predictions-2020-artificial-intelligence-grows-up/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-predictions-2020-artificial-intelligence-grows-up/",
+      "publishedDateTime": "2020-03-17T02:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarTech Advisor",
-        "domain": "martechadvisor.com",
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://images.martechadvisor.com/images/uploads/content_images/shutterstock_677646538_5e6f53ac61cd9.jpg",
-          "width": 786,
-          "height": 393,
-          "title": "IBM Tackles Human Language Through AI",
+          "url": "https://cdn.mos.cms.futurecdn.net/7wpkwZ96dcE55zQ5nmxUST-1200-80.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "AI predictions 2020: Artificial Intelligence grows up",
           "attribution": null
         }
       ],
@@ -879,26 +853,25 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
+        "AI Ethics",
+        "AI"
       ]
     },
     {
-      "path": "_news/2020-03-16-fortinet-introduces-self-learning-artificial-intelligence-appliance-for-sub-second-threat-detection.md",
-      "title": "Fortinet Introduces Self-Learning Artificial Intelligence Appliance for Sub-Second Threat Detection",
-      "excerpt": "FortiAI’s Virtual Security Analyst embeds one of the industry’s most mature cybersecurity artificial intelligence – developed by Fortinet’s FortiGuard Labs – directly into an ...",
+      "path": "_news/2020-03-17-artificial-intelligence-ai-market.md",
+      "title": "Artificial Intelligence (AI) Market",
+      "excerpt": "In This report studies of MarketStudyReport LLC the Artificial Intelligence (AI) in Fintech market status and outlook of Global and major regions, from angles of players, countries, product types ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/",
-      "ampWebUrl": "https://www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/amp/",
-      "publishedDateTime": "2020-03-16T03:31:00-07:00",
+      "webUrl": "https://www.openpr.com/news/1970600/whats-driving-an-artificial-intelligence-ai-in-fintech-market",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T02:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
+        "name": "openpr.com",
+        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -910,8 +883,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     }
   ],
