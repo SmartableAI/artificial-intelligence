@@ -5,8 +5,8 @@ excerpt: "Technology giant Apple Inc. (NASDAQ:AAPL) has bought a small Canadian 
 publishedDateTime: 2020-05-28T11:21:00Z
 webUrl: "https://www.marketwatch.com/press-release/apple-buys-canadian-start-up-to-help-improve-machine-learning-and-ai-2020-05-28-71972150"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

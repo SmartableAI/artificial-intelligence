@@ -2,6 +2,276 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-24-machine-learning-what-is-it-really-good-for.md",
+      "title": "Machine Learning: What Is It Really Good For?",
+      "excerpt": "The idea is that the model gets better as you feed it more data points.” There are two key steps with machine learning. First, you need to collect and train the data, which can be a long and tough process.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/23/machine-learning-what-is-it-really-good-for/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/23/machine-learning-what-is-it-really-good-for/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/05/23/machine-learning-what-is-it-really-good-for/amp/",
+      "publishedDateTime": "2020-05-23T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1179697528%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7680%26cropY1%3D0%26cropY2%3D4320",
+          "width": 1200,
+          "height": 675,
+          "title": "Machine Learning: What Is It Really Good For?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-24-scale-ai-releases-free-lidar-data-set-to-power-self-driving-car-development.md",
+      "title": "Scale AI releases free lidar data set to power self-driving car development",
+      "excerpt": "High-quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "publishedDateTime": "2020-05-23T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/LiDAR-comparison-credit_-Scale-AI.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": "Scale AI releases free lidar data set to power self-driving car development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-05-23-towards-a-more-transparent-ai.md",
+      "title": "Towards A More Transparent AI",
+      "excerpt": "How can we depend on machine learning models and trust them knowing that there are so many ways for the model to fail?",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-more-transparent-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-more-transparent-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-more-transparent-ai/amp/",
+      "publishedDateTime": "2020-05-23T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec95cd64a0d9e0006b5f07e%2F0x0.jpg",
+          "width": 757,
+          "height": 468,
+          "title": "Towards A More Transparent AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-23-ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown.md",
+      "title": "AI proves it’s a poor substitute for human content checkers during lockdown",
+      "excerpt": "Major social media companies have replaced many of their human content moderators with AI during the pandemic. And the results aren't encouraging.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/amp/",
+      "publishedDateTime": "2020-05-23T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ai_news.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 822,
+          "title": "AI proves it’s a poor substitute for human content checkers during lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-23-recommended-reading-covid-19-and-ai-health-care.md",
+      "title": "Recommended Reading: COVID-19 and AI health care",
+      "excerpt": "Fu Lee, Wired The coronavirus pandemic will cause us to rethink major aspects of everyday life around the world, but it may also expedite the use of artificial intelligence in health care.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/recommended-reading-covid-19-and-ai-health-care-163041644.html",
+      "ampWebUrl": "https://www.engadget.com/amp/recommended-reading-covid-19-and-ai-health-care-163041644.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-covid-19-and-ai-health-care-163041644.html",
+      "publishedDateTime": "2020-05-23T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F910e4d10-9ca2-11ea-a4cf-ce4924f21bdf&client=amp-blogside-v2&signature=16e4f1f0457be801296053c0fcab71e6970562d3",
+          "width": 600,
+          "height": 350,
+          "title": "Recommended Reading: COVID-19 and AI health care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-23-the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley.md",
+      "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
+      "excerpt": "The largest Joint AI Center contract to date was awarded this week. CTO Nand Mulchandani on AI at the Pentagon and why JAIC is mimicing Silicon Valley.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
+      "publishedDateTime": "2020-05-23T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/5932740.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-23-hitting-the-books-do-we-really-want-our-robots-to-have-consciousness.md",
       "title": "Hitting the Books: Do we really want our robots to have consciousness?",
       "excerpt": "Although I argue for self-awareness, I do not believe that we need to worry about consciousness. Let’s first try to build some interesting robots without consciousness and see how far we get.",
@@ -1060,261 +1330,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-data-centre-chip-demand-fuels-nvidias-record-q2-revenue.md",
-      "title": "Data centre chip demand fuels Nvidia's 'record Q2 revenue'",
-      "excerpt": "Nvidia has forecast its 2021 second-quarter revenue above analysts’ estimates, powered by a surge in demand for data centre components amid the mass shift to remote working. The company expects its Q2 revenue to be $3.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue",
-      "ampWebUrl": "https://www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue?amp",
-      "publishedDateTime": "2020-05-22T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1590146422/itpro/shutterstock_410318023.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Data centre chip demand fuels Nvidia's 'record Q2 revenue'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution.md",
-      "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
-      "excerpt": "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/",
-      "ampWebUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
-      "publishedDateTime": "2020-05-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec5a14ac96258473f89195d/master/pass/ai-illo-backchannel.jpg",
-          "width": 3078,
-          "height": 2000,
-          "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-government-trials-facial-recognition-system-to-improve-social-aid-disbursement.md",
-      "title": "Government trials facial recognition system to improve social aid disbursement",
-      "excerpt": "With the new system, recipients only need to visit a designated merchant where facial scanning technology will be used to verify their identity.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thejakartapost.com/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
-      "ampWebUrl": "https://www.thejakartapost.com/amp/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
-      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
-      "publishedDateTime": "2020-05-22T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jakarta Post",
-        "domain": "thejakartapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.jakpost.net/c/2019/01/04/2019_01_04_62237_1546584615._medium.jpg",
-          "width": 747,
-          "height": 403,
-          "title": "Government trials facial recognition system to improve social aid disbursement",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-coronavirus-impact-on-machine-learning-as-a-service-market.md",
-      "title": "Coronavirus Impact on Machine Learning as a Service Market",
-      "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Machine Learning as a Service Market is expected to be around US$ 10746.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/coronavirus-impact-on-machine-learning-as-a-service-market-2020-05-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Coronavirus Impact on Machine Learning as a Service Market",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-unisa-and-uow-to-jointly-research-ai-capabilities-for-defence.md",
-      "title": "UniSA and UOW to jointly research AI capabilities for Defence",
-      "excerpt": "They will also work with the ADF to apply any new artificial intelligence capabilities to the new Star Shots strategy where possible.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
-      "publishedDateTime": "2020-05-21T20:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/22/9084fd20-5691-4f1a-9734-eeb82a2417a9/thumbnail/1200x675/fdd58539a87b8ff3bc44374d7cc21c9e/action-blocks.png",
-          "width": 1200,
-          "height": 675,
-          "title": "UniSA and UOW to jointly research AI capabilities for Defence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-sony-and-microsoft-develop-ai-imaging-chip-what-it-means-for-industry.md",
-      "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
-      "excerpt": "Sony & Microsoft have developed the 1st AI-enabled imaging chip, looking to push it further with AI-powered smart camera solutions in AR & other arenas",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techwireasia.com/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "publishedDateTime": "2020-05-21T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/000_1DZ2ZD-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

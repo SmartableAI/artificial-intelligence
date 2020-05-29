@@ -25,6 +25,6 @@ images:
     height: 692
     title: "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects"
 
-secured: "9vUtI+oN3NkTeBuZPRXHQ3i7xCkQPyQb0d/WeqQI4ZzofRLrvMN0Aw7yfsYfoG22PHJwdYpjz2gPcMf4zyyTyPbso8Ljz14EQJBzqn4gn2Ps7G9MgIjcVbPpcGsheJe2fMOrluDU23VR0GSeUtTMao2PJypa8wr74MnzDAkKFCnKmTfx+KIVtNeN9/V1oVL8xkVcCu/DTJpx/SqmcUBFyACPdJT5B6Kuzdu70lUnNIcWza7j2ZvYGw+c9t6GIH/pjk35bI7kv/YzVF4ARgE3U6xC4xM6no88BGyTTbu+PxpBQK7lm0BrszZ/IBQnwrzd;uTDaqthqb5C2V7dQHezMwg=="
+secured: "bNtxm2GnCykKVM0vcRJyepIJVi/tMDeIBFKm/jxODBDhs/M5cI+oB4Expe0VSnQL6aG9EhDowbPxa+Hex/EsP/n96ZJ4iPLjKjAJKD4NnIxW+bBYYS+ehELd5+opB2Z7ALCM1SPtEQvEpBOIpzKMQ2RLU52b+lsNIUqrvUQYx1Wp1qqKfuRNfm58ettOFEMl0ATZow9bHLTvu9mLR5REVG61QXlye9ljbN09NVcH8jvZ1JXjDosP7MYuhlQzCEbE3p3rd4AxRoogB1GK+RI30UnlLHnOIwedyuD7xDyRNJs/8zCWHFsKV1I6UkUgC3klsHbJbp9LhO3g7Lc+dzT73gzy0QUuHHVmor7dzyVy5344NMkSk57+7+rv8sg+y4qdlbN8g77CehsfZQVjqTc0ChkF/MP/0jawIu5CUVVYiyZzITMmP2VVDXSEqmUL2Px8/n8mo6R/UU3toG1LnUNCFUwXi+LnNkm4UKVMJ618ccA=;rhPDIqV9JZPhcFK3zBuNxg=="
 ---
 

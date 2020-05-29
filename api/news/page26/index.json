@@ -2,6 +2,254 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-05-07-pandemic-spike-in-ai-learning-and-what-it-means-for-schools.md",
+      "title": "Pandemic Spike In AI Learning--and What It Means For Schools",
+      "excerpt": "The tech learning space is shifting fast with big implications for high schools and colleges. It will be important to rethink delivery with blended competency-based pathways.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/05/07/pandemic-spike-in-ai-learning--and-what-it-means-for-schools/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/05/07/pandemic-spike-in-ai-learning--and-what-it-means-for-schools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/05/07/pandemic-spike-in-ai-learning--and-what-it-means-for-schools/amp/",
+      "publishedDateTime": "2020-05-07T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1171094880%2F0x0.jpg",
+          "width": 1200,
+          "height": 777,
+          "title": "Pandemic Spike In AI Learning--and What It Means For Schools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-artificial-intelligence-is-energy-hungry-new-hardware-could-curb-its-appetite.md",
+      "title": "Artificial intelligence is energy-hungry. New hardware could curb its appetite.",
+      "excerpt": "To just solve a puzzle or play a game, artificial intelligence can require software running on thousands of computers. That could be the energy that three nuclear plants produce in one hour. A team of engineers has created hardware that can learn skills using a type of AI that currently runs on software platforms.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.purdue.edu/newsroom/releases/2020/Q2/artificial-intelligence-is-energy-hungry.-new-hardware-could-curb-its-appetite..html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Purdue University",
+        "domain": "purdue.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.purdue.edu/uns/images/2020/hand-aiOG.jpg",
+          "width": 800,
+          "height": 400,
+          "title": "Artificial intelligence is energy-hungry. New hardware could curb its appetite.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-symend-raises-52-million-to-remediate-consumer-debt-with-data-science.md",
+      "title": "Symend raises $52 million to remediate consumer debt with data science",
+      "excerpt": "Symend, which is using AI and machine learning to help customers remediate debt, has secured $52 million in equity financing.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/symend-raises-52-million-to-remediate-consumer-debt-with-data-science/amp/",
+      "publishedDateTime": "2020-05-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/9cc469b8-554a-45ab-911b-57fb23b7e4c5-e1588710720507.png?fit=1200%2C743&strip=all",
+          "width": 1200,
+          "height": 743,
+          "title": "Symend raises $52 million to remediate consumer debt with data science",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer.md",
+      "title": "Center in Singapore Expanding Access to Radiation Therapy Technology in the Fight Against Cancer",
+      "excerpt": "Two Varian VitalBeam ™ medical linear accelerators, together with an Edge ™ radiosurgery system with HyperArc ™ technology, will be installed at NCIS, thereby expanding radiation therapy treatment options for cancer patients in Singapore.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/center-in-singapore-expanding-access-to-radiation-therapy-technology-in-the-fight-against-cancer-1029176965",
+      "publishedDateTime": "2020-05-07T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-digital-psychotherapy-is-now-more-accessible-thanks-to-data-driven-healthcare-tools.md",
+      "title": "Digital psychotherapy is now more accessible, thanks to data-driven healthcare tools",
+      "excerpt": "Over the past decade, technology has transformed the way we live.  The emergence and advancement of personal devices, data capture, networks and the cloud, deep learning , and Internet of Things (IoT)—amongst other things—has changed our world.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/syndication/2020/05/07/digital-psychotherapy-is-now-more-accessible-thanks-to-data-driven-healthcare-tools/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-2-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Digital psychotherapy is now more accessible, thanks to data-driven healthcare tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-ibm-retrains-watson-ai-for-it-operations.md",
+      "title": "IBM retrains Watson AI for IT operations",
+      "excerpt": "IBM is relying on technology from its Red Hat acquisition to deploy a new AIOps tool and help it deliver new edge-of-cloud computing services to support 5G networks",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.html",
+      "ampWebUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html",
+      "publishedDateTime": "2020-05-07T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM retrains Watson AI for IT operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-huaweis-hisilicon-becomes-first-mainland-chinese-chip-company-to-enter-top-10-in-global-sales-says-ic-insights.md",
       "title": "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights",
       "excerpt": "HiSilicon’s first quarter revenue surged 54 per cent year on year to US$2.67 billion, although 90 per cent of its sales go to parent Huawei Technologies",
@@ -750,253 +998,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-is-the-use-of-open-source-software-putting-your-business-at-risk.md",
-      "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
-      "excerpt": "TensorFlow: Google open sourced its artificial intelligence engine to enable programmers to develop and enhance AI applications. Vulnerabilities in open source software. Vulnerabilities in open ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk",
-      "ampWebUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
-      "publishedDateTime": "2020-05-06T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.iptechblog.com/wp-content/uploads/sites/17/2020/05/Programming-code--300x222.jpg",
-          "width": 300,
-          "height": 222,
-          "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone.md",
-      "title": "Facebook’s AI ‘learns how to learn’ to transport payloads using a drone",
-      "excerpt": "In a recent paper, Facebook and University of California, Berkely researchers propose an approach to payload-carrying drone flight planning that “learns how to learn” models of environmental dynamics.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/amp/",
-      "publishedDateTime": "2020-05-06T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/Drones.jpg?fit=1200%2C800&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Facebook’s AI ‘learns how to learn’ to transport payloads using a drone",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-microsoft-quickly-updates-portfolio-in-response-to-covid-19.md",
-      "title": "Microsoft Quickly Updates Portfolio In Response To COVID-19",
-      "excerpt": "Patrick Moorhead takes a look at Microsoft unveiling last week a slew of updates to its portfolio designed to improve collaboration and virtual meetings, the provisioning and management of remote devices,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/06/microsoft-quickly-updates-portfolio-in-response-to-covid-19/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/06/microsoft-quickly-updates-portfolio-in-response-to-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/06/microsoft-quickly-updates-portfolio-in-response-to-covid-19/amp/",
-      "publishedDateTime": "2020-05-06T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool.md",
-      "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
-      "excerpt": "A team of materials scientists at Lawrence Berkeley National Laboratory (Berkeley Lab) – scientists who normally spend their time researching things like high-performance materials for thermoelectrics",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/",
-      "ampWebUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
-      "publishedDateTime": "2020-05-06T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus.md",
-      "title": "Facebook cancels its 2020-2021 AI Residency program due to coronavirus",
-      "excerpt": "Facebook today announced that it plans to cancel its 2020-2021 in-person AI Residency program as a result of the novel coronavirus pandemic. In a statement sent to VentureBeat via email, Facebook vice president of AI Jerome Pesenti said that the decision was motivated by health and safety concerns.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus/amp/",
-      "publishedDateTime": "2020-05-06T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook cancels its 2020-2021 AI Residency program due to coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization.md",
-      "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
-      "excerpt": "There is so much hype about AI and its ubiquity, fueled by stories about auto-piloted vehicles, creepy facial recognition, and human-free company operations that it's important to sometimes be reminded of AI's core capabilities.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
-      "publishedDateTime": "2020-05-06T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/05/9ba1b354-e835-450f-b505-7ce9a9ac3914/resize/1200x/48a87a86718ea97bb615d302505f9881/istock-1178132567.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

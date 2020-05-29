@@ -69,6 +69,19 @@ related:
       - url: "https://wnyt.com/wnytimages/repository/2020-05/cvs-ap19050561641382-cropped.jpg"
         width: 800
         height: 450
+  - title: "CVS tests delivering prescriptions with self-driving vehicles"
+    excerpt: "CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro to deliver medicines and other products to customers near a Houston-area store."
+    publishedDateTime: 2020-05-29T15:01:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/cvs-tests-delivering-prescriptions-self-driving-vehicles"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/cvs_pharmacy_i.jpg"
+        width: 800
+        height: 600
 
 secured: "Zm0fBpHOgHB7ZpGXHUkg2sDaZsYvx27mtsEYQLQbfdjbxWzA1JbYPUhWV4K0slyi6ZD4JOKbxPWpRGzJjx1LGXDK5M4aalVtohLhS0G5wrXMHn3g2HiXkyFFiI4OZOVXVdI2X/eiLdE1FTN6SH6H91iLbuvuPjeqqTx/kYdZY58pyki2xRv8DfxOPQBw5C62rynTl+93c0VMsZ9D/SNsK78sH7WA3XoVbudl7z4HahHgZZjVodQ1NOChj5eh8vXPrtGXynSkTap8efNXd9D0fh7ACb2Q6DWyvRGtP04Tz6+ZTqgxq6iP4Qxl3W7vVkk9;ilXSGYfp4XENsujqO9ituw=="
 ---

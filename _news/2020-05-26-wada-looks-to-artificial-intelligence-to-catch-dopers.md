@@ -1,30 +1,45 @@
 ---
 category: news
 title: "WADA looks to artificial intelligence to catch dopers"
-excerpt: "Doping Agency is looking to artificial intelligence as a new way to detect athletes who cheat as sports around the world are shut down by the coronavirus pandemic"
-publishedDateTime: 2020-05-26T16:36:00Z
-webUrl: "https://abcnews.go.com/Sports/wireStory/wada-artificial-intelligence-catch-dopers-70884096"
-ampWebUrl: "https://abcnews.go.com/amp/Sports/wireStory/wada-artificial-intelligence-catch-dopers-70884096"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/wireStory/wada-artificial-intelligence-catch-dopers-70884096"
+excerpt: "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes who cheat. WADA is funding four projects in Canada and Germany,"
+publishedDateTime: 2020-05-26T23:06:00Z
+webUrl: "https://www.sfgate.com/sports/article/WADA-looks-to-artificial-intelligence-to-catch-15294888.php"
+ampWebUrl: "https://www.sfgate.com/sports/amp/WADA-looks-to-artificial-intelligence-to-catch-15294888.php"
+cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/sports/amp/WADA-looks-to-artificial-intelligence-to-catch-15294888.php"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
-  name: ABC
-  domain: go.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Sports/WireAP_e66e5c61dee74c66ab71e0e8837347dd_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     title: "WADA looks to artificial intelligence to catch dopers"
 
 related:
+  - title: "World Anti-Doping Agency looks to artificial intelligence"
+    excerpt: "When you are working for an anti-doping organization and you want to target some athletes, you look at their competition calendar and you look at their whereabouts, you look at the previous results and so forth,"
+    publishedDateTime: 2020-05-26T15:20:00Z
+    webUrl: "https://durangoherald.com/articles/325910"
+    ampWebUrl: "https://durangoherald.com/amp/325910-world-antidoping-agency-looks-to-artificial-intelligence"
+    cdnAmpWebUrl: "https://durangoherald-com.cdn.ampproject.org/c/s/durangoherald.com/amp/325910-world-antidoping-agency-looks-to-artificial-intelligence"
+    type: article
+    provider:
+      name: The Durango Herald
+      domain: durangoherald.com
+    quality: 57
+    images:
+      - url: "https://dur-duweb.newscyclecloud.com/storyimage/DU/20200526/SPORTS/200529776/AR/0/AR-200529776.jpg?ts=1590506435&imageversion=1by1&maxw=large"
+        width: 1665
+        height: 1664
   - title: "World Anti-Doping Agency looks to artificial intelligence to catch dopers"
     excerpt: "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes"
     publishedDateTime: 2020-05-26T16:07:00Z
@@ -56,6 +71,6 @@ related:
         width: 1280
         height: 720
 
-secured: "Fct+ZSac5taFOeNPNB8emXZcLoBaSFaSJ5SmlnEEkXTvoAqNDCRjGmD11QoSjcWG5WrTi5N+J5ciyuWqneYbsB2/4dtCv3PyJsrg8JqbJBLzwN/rROhJ63BTGJpkar+5ZtVwRPaaV1InpNruSrK5JX0+fCJf3xuU3jp5SDFrIoA4zFkx1uNkRtfS4iUDH/e5qlaI/afftK4r4VVxPpCzhqy/t7gOwLykcGfF/8VUrGiGcc8i7bhoNPznA6TwKM+HxqGHnM2lgU7JbwI9CmILJwAb4awotSwxNO4BX6J+sEnWvjNqsYiL5ze5Nndexxhq;rF+eE2BW1oYvHHJ4lDmJ9g=="
+secured: "NjT8u5Q4eKy+XfWkealcaBlFAjmF07ySYEEHGAxZAHIM1xn5AUIg0F9/OknhviOaYP7htk1w5P1GDe+3kDS7NUcZgaNmOeBjS9YDUFAU/P4DTXpxfuRbsCKTp3Z2HzWjRULAwVYN/3Lo7zlYWqoHJJNZD1VXFtakL1iTXVBxvLi+vhRaf3DYzD2orhZIG+9NxrsVqmd8TDE0uD+CgeaDNopdfgbyo7MBwvrXaRGjuhaDctH4Ue5ADmPr1zQju3ZTXttKhckq+opaXFUMqQqB3wDFOtjnaQefobzV6V9Wqn8vmeoXgQp0EalObuJFsjg/;nmXIc04LOiYLV5StJ6DtUw=="
 ---
 

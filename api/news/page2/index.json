@@ -2,6 +2,171 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-28-implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker.md",
+      "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
+      "excerpt": "Preferred Networks (PFN) released the first major version of their open-source hyperparameter optimization (HPO) framework Optuna in January 2020, which has an eager API. This post introduces a method for HPO using Optuna and its reference architecture in Amazon SageMaker. \nAmazon SageMaker supports",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T16:39:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/optuna-1-674x630.gif",
+          "width": 674,
+          "height": 630,
+          "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
+      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 57.4% from its 52-week low price of $14.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28?amp",
+      "publishedDateTime": "2020-05-28T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-apple-acquires-machine-learning-startup-inductiv.md",
+      "title": "Apple Acquires Machine Learning Startup Inductiv",
+      "excerpt": "Apple (NASDAQ:AAPL) has acquired Inductiv, a machine-learning (ML) start-up that uses artificial intelligence (AI) to automatically identify and correct errors that may be lurking",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx",
+      "publishedDateTime": "2020-05-28T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576238%2Fgirl-using-a-smart-phone-voice-recognition.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Apple Acquires Machine Learning Startup Inductiv",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-cvs-pharmacy-prescriptions-go-high-tech-with-self-driving-delivery.md",
+      "title": "CVS Pharmacy prescriptions go high-tech with self-driving delivery",
+      "excerpt": "As we continue to sort out life in the coronavirus era, many households are making use of delivery services for things like groceries, baby food and pet supplies. Soon, Houston residents will be able to have their CVS Pharmacy prescriptions delivered with a self-driving car performing the service.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
+      "publishedDateTime": "2020-05-28T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Qys-BncoeEz1nrHHcjhZ7In0SsM=/2020/05/28/c821a1fe-212f-4276-a45f-ec9a873c0758/ogi-nuro.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "CVS Pharmacy prescriptions go high-tech with self-driving delivery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations.md",
       "title": "ACLU sues facial recognition startup Clearview AI for privacy and safety violations",
       "excerpt": "The ACLU claims Clearview AI \"will end privacy as we know it if it isn't stopped\" and calls the startup a threat to safety.",
@@ -453,10 +618,54 @@
       ]
     },
     {
+      "path": "_news/2020-05-28-how-baidus-ai-produces-news-videos-using-just-a-url.md",
+      "title": "How Baidu’s AI produces news videos using just a URL",
+      "excerpt": "AI for news production is one of the areas that has drawn contrasting opinions. On one hand, it might help media houses produce more news in a better format with minimal effort, on the other hand, it might take away the human element of journalism or take people out of jobs.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/amp/",
+      "publishedDateTime": "2020-05-28T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/10/cryptocurrency-writer-media-blockchain-bitcoin-news-journalism-trust-broken-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": "How Baidu’s AI produces news videos using just a URL",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-apple-buys-canadian-start-up-to-help-improve-machine-learning-and-ai.md",
       "title": "Apple Buys Canadian Start-Up To Help Improve Machine-Learning And AI",
       "excerpt": "Technology giant Apple Inc. (NASDAQ:AAPL) has bought a small Canadian start-up company to help it improve machine-learning and artificial intelligence (AI). Apple has purchased Waterloo, Ontario-based company Inductiv Inc.",
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/apple-buys-canadian-start-up-to-help-improve-machine-learning-and-ai-2020-05-28-71972150",
@@ -493,7 +702,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -879,213 +1089,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-new-models-use-computer-vision-and-ai-to-identify-covid-19-in-x-rays.md",
-      "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
-      "excerpt": "Students at Cranfield University have designed computer models that can identify COVID-19 in X-rays. The models use computer vision and artificial intelligence (AI) to analyze chest X-ray imagery. It can classify information which would not normally be recognized with the naked eye and assist with the diagnosis of COVID-19.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
-      "publishedDateTime": "2020-05-27T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-baidu-accelerates-its-self-driving-car-initiative-with-new-test-center-and-partnership.md",
-      "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
-      "excerpt": "Big investments in autonomous-vehicle and AI technology could be the key to getting Baidu's growth back on track.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
-      "publishedDateTime": "2020-05-27T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576084%2Fgettyimages-1136820871.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse.md",
-      "title": "Scientists are using AI to predict which lung cancer patients will relapse",
-      "excerpt": "A new AI tool could predict which lung cancer patients will suffer a relapse by analyzing genetic data and pathology images",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/27/scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/27/scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/27/scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse/amp/",
-      "publishedDateTime": "2020-05-27T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-55-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists are using AI to predict which lung cancer patients will relapse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back.md",
-      "title": "AI could predict risk of lung cancer coming back",
-      "excerpt": "Computer scientists working with pathologists have trained an AI tool to determine which lung cancer patients have a higher risk of their disease coming back",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back",
-      "ampWebUrl": "https://www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back?amp",
-      "cdnAmpWebUrl": "https://www-cancerresearchuk-org.cdn.ampproject.org/c/s/www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back?amp",
-      "publishedDateTime": "2020-05-27T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cancer Research UK",
-        "domain": "cancerresearchuk.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cancerresearchuk.org/sites/default/files/lung-cancer-cells-hero_1.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "AI could predict risk of lung cancer coming back",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-us-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing.md",
-      "title": "U.S. funds AI project to enable millisecond-level 5G spectrum sharing",
-      "excerpt": "The Department of Defense is backing an initiative that will enable some 5G spectrum to be efficiently shared by multiple users on a millisecond basis.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/27/u-s-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/27/u-s-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/27/u-s-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing/amp/",
-      "publishedDateTime": "2020-05-27T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/08/untitled-design2-e1585324670149.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "U.S. funds AI project to enable millisecond-level 5G spectrum sharing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

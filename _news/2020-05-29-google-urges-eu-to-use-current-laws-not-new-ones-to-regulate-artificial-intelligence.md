@@ -23,6 +23,6 @@ images:
     height: 392
     title: "Google Urges EU to Use Current Laws, Not New Ones, to Regulate Artificial Intelligence"
 
-secured: "Nrx2vYxn3w9Ej7n6fUxM6lv5ikwhvurgJWzea4ePK/P0wQU4yBjEaZt3BvDIm00arDMSGQXapsu2G//bkPfi2gUVAyCNLsSVvyVYnkfrFS73811I+NuNnE7CWsKEKU7deASWv2OQYcj14k7iV+BEtTc4U9LzYIjveBG50NoPqBl/A+2yBI0+C49sl2aYf0XMoOeR7Jk5XLJIk7cLK/9lQxtfh6iljHlPZ2wydVVapRRXyQdF/Nbez+GX3oLSBGTwYoVadxp5Vp2X2BoEwutr3aWLQDuGjvoth2fPwfhCZSDWFtxtWjstIIpOhNFJZSiq;IkuUqMORXt+8zCQM3hCALA=="
+secured: "AAoAjSppXGAFKb/841FK4J52cz3ncR/M8+ibTTebbrhPGy0Se3hI9/h0mBV61k1JtY5u/RRYpSdge/Kmf6/b5tiNdiQwkBMcgAnkgxP/i3JHUIybQRQVFRhaOGpq9/4yQJ3cbhs+dAtTZ5wjyEskC445DoK8yOQvpAoDRBsHVg3TU8vE7ekaBCMGd44qZK3A9R6ad4jPwHiT4plXD3X2I3dVohNiCQsI55XiPbd4XMsm44moX08igE7RyiBhMcOEcaMFSrq2CD0pt4kR1x+J4PxBlyI/7pU/gmGxV2Puisrnp9xFJbyomTJp7mnEt/5B+9GubBJB2QvC3OKuKDugXyO/qBg8oDNgeqrtbr+UkQcPNVi1R7CN6M2rGXHzsfgRdfu+aMJu4b3zqY9J84jqfJYK1ZfMzxL3j8eGPipcs45/WzownZwedR9ZMwzEb3u6c9JQXCH+lfTfuPHUJX6odr/OUX0Dq1wwK4po5SVpuWI=;rsrFIObw/iYCsAoePkyH7A=="
 ---
 

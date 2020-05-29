@@ -2,6 +2,257 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-05-10-tech-trick-easily-turn-your-handwritten-notes-into-typed-text.md",
+      "title": "Tech trick: Easily turn your handwritten notes into typed text",
+      "excerpt": "According to a blog post from Google itself, the acclaimed object recognition tool will now be able to pick up your handwriting and transcribe it into digital text. No, we’re not talking about ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/",
+      "ampWebUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
+      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
+      "publishedDateTime": "2020-05-10T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kim Komando",
+        "domain": "komando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.komando.com/wp-content/uploads/2020/05/dreamstime_m_145621473-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Tech trick: Easily turn your handwritten notes into typed text",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-how-ai-is-finding-patterns-and-anomalies-in-your-data.md",
+      "title": "How AI Is Finding Patterns And Anomalies In Your Data",
+      "excerpt": "When companies are looking to apply AI, we always recommend that they look at the seven patterns of AI to determine which pattern, or patterns, they are applying. As one of the more widely used patterns,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/10/finding-patterns-and-anomalies-in-your-data/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/10/finding-patterns-and-anomalies-in-your-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/10/finding-patterns-and-anomalies-in-your-data/amp/",
+      "publishedDateTime": "2020-05-09T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F624857627%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How AI Is Finding Patterns And Anomalies In Your Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-banjo-ceo-resigns-to-preserve-the-companys-ai-surveillance-deals.md",
+      "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
+      "excerpt": "Banjo's CEO has resigned to prevent his racist past from affecting the AI surveillance company's deals with Utah and others.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/banjo-ceo-resigns-020523666.html",
+      "ampWebUrl": "https://www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/banjo-ceo-resigns-020523666.html",
+      "publishedDateTime": "2020-05-09T19:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F3729fa60-9248-11ea-bd0d-d3fefe9341ba&client=amp-blogside-v2&signature=9faec48e566990e0328ac6a78f600c99de1a3e20",
+          "width": 600,
+          "height": 350,
+          "title": "Banjo CEO resigns to preserve the company's AI surveillance deals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-mega-man-11-review-i-hate-bounce-man.md",
+      "title": "'Mega Man 11' Review: I Hate Bounce Man",
+      "excerpt": "The eight robot masters have been taken by the evil Dr. Wily, and it's up to you to get him back. You'll jump, dash and bounce in levels themed around each one of these mind-controlled bots.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166",
+      "ampWebUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
+      "publishedDateTime": "2020-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1147163/mega-man-11.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "'Mega Man 11' Review: I Hate Bounce Man",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-uber-launches-new-toronto-based-autonomous-vehicle-research-hub.md",
+      "title": "Uber launches new Toronto-based autonomous vehicle research hub",
+      "excerpt": "The company announced this week that it will be launching a new research hub in Toronto focused on developing artificial intelligence (AI ... announcement comes amid Uber’s legal battle with Waymo, the company that runs Google’s self-driving car ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244",
+      "ampWebUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244?amp=1",
+      "publishedDateTime": "2020-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itbusiness.ca/wp-content/ewww/lazy/placeholder-620x250.png",
+          "width": 620,
+          "height": 250,
+          "title": "Uber launches new Toronto-based autonomous vehicle research hub",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-a-different-kind-of-science-fiction-the-innovation-case-for-centering-discussions-of-inclusion-driven-ai.md",
+      "title": "A Different Kind Of Science Fiction: The Innovation Case For Centering Discussions Of Inclusion-Driven AI",
+      "excerpt": "What if our innovations were inspired instead by feminist science fiction writers and theorists like Ursula K. Le Guin, Octavia Butler and Donna Harraway.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/a-different-kind-of-science-fiction/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/a-different-kind-of-science-fiction/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/09/a-different-kind-of-science-fiction/amp/",
+      "publishedDateTime": "2020-05-09T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1079757622%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3007%26cropY1%3D102%26cropY2%3D1794",
+          "width": 1200,
+          "height": 676,
+          "title": "A Different Kind Of Science Fiction: The Innovation Case For Centering Discussions Of Inclusion-Driven AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-ionq-ceo-peter-chapman-on-how-quantum-computing-will-change-the-future-of-ai.md",
       "title": "IonQ CEO Peter Chapman on how quantum computing will change the future of AI",
       "excerpt": "IonQ CEO Peter Chapman explains how quantum computing overlaps with Strong AI and potential machine learnign improvements.",
@@ -765,267 +1016,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-waymo-self-driving-cars-hit-the-road-again-in-phoenix.md",
-      "title": "Waymo self-driving cars hit the road again in Phoenix",
-      "excerpt": "Those residing in the metro Phoenix area will once again start to see Waymo's self-driving vehicles hitting the road. On Thursday, the Alphabet Inc division said it will start redeploying its autonomous cars starting May 11.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-cars-phoenix-coronavirus/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-cars-phoenix-coronavirus/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-cars-phoenix-coronavirus/",
-      "publishedDateTime": "2020-05-08T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Waymo self-driving cars hit the road again in Phoenix",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-mercedes-benz-to-make-mbux-artificial-intelligence-tech-even-more-proactive.md",
-      "title": "Mercedes-Benz to make MBUX artificial intelligence tech even more proactive",
-      "excerpt": "Benz's MBUX infotainment tech is its voice-activated virtual assistant. The company's artificial intelligence software allows a driver to search for destinations, control vehicle functions and more. And as MBUX evolves,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/mercedes-benz-mbux-infotainment-voice-control/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/mercedes-benz-mbux-infotainment-voice-control/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mercedes-benz-mbux-infotainment-voice-control/",
-      "publishedDateTime": "2020-05-08T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/RotQKetSy8Wp-x6u9aCw6Zdpz8w=/2020/05/08/4e955f56-0867-4281-87fb-24ed4f263655/mbux-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Mercedes-Benz to make MBUX artificial intelligence tech even more proactive",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-increasing-customer-engagement-and-loyalty-with-personalized-coupon-recommendations-using-amazon-personalize.md",
-      "title": "Increasing customer engagement and loyalty with personalized coupon recommendations using Amazon Personalize",
-      "excerpt": "This is a guest blog post by Sungoh Park, a big data analyst at Lotte Mart. In their own words, “Lotte Mart, a division of Lotte Co., Ltd., is a leading South Korean retailer that sells a variety of groceries, clothing, toys, electronics, and other goods.” \nConsumers today have many options for purchasing",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increasing-customer-engagement-and-loyalty-with-personalized-coupon-recommendations-using-amazon-personalize/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T10:15:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/07/lotte-mart-2.jpg",
-          "width": 800,
-          "height": 284,
-          "title": "Increasing customer engagement and loyalty with personalized coupon recommendations using Amazon Personalize",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services.md",
-      "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
-      "excerpt": "For new home buyers, a common challenge is to understand how to manage their lawn needs effectively. Now imagine if you’re a farmer and have to do this for many acres of land. As a farmer, some of the challenges you’d typically face include the when (when is the right time to water), the where (where",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T09:22:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/28/weed-detector-1.gif",
-          "width": 1000,
-          "height": 600,
-          "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-computer-vision-can-renovate-financial-services-say-deltec-bank-bahamas.md",
-      "title": "Computer Vision Can Renovate Financial Services say Deltec Bank, Bahamas",
-      "excerpt": "Computer vision turns to visit a bank branch into a whole new experience. Financial services can be improved by implementing computer vision technology, which offers many great benefits for ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15992440/computer-vision-can-renovate-financial-services-say-deltec-bank-bahamas",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15992440",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15992440",
-      "publishedDateTime": "2020-05-08T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1587327365.jpeg",
-          "width": 3300,
-          "height": 2550,
-          "title": "Computer Vision Can Renovate Financial Services say Deltec Bank, Bahamas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity.md",
-      "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
-      "excerpt": "How can you snag the dough? There is a contest underway that promises a prize of $1,000,000 to someone or some entity that has managed to innovatively perform an outstandingly good deed with AI that demonstrably benefits humanity.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/amp/",
-      "publishedDateTime": "2020-05-08T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1146017341%2F0x0.jpg%3FcropX1%3D606%26cropX2%3D3484%26cropY1%3D0%26cropY2%3D2160",
-          "width": 1200,
-          "height": 900,
-          "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

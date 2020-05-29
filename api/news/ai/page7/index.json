@@ -2,6 +2,261 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-21-airtel-acquires-10-stake-in-ai-startup-voicezen.md",
+      "title": "Airtel acquires 10% stake in AI startup Voicezen",
+      "excerpt": "New Delhi, May 21 () Bharti Airtel has acquired 10 per cent stake in Gurgaon-based start-up Voicezen, which focusses on conversational artificial intelligence technologies, in an all-cash deal, the private operator said on Thursday.",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/articleshow/75868862.cms",
+      "ampWebUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms",
+      "publishedDateTime": "2020-05-21T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/75868862.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": "Airtel acquires 10% stake in AI startup Voicezen",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-bb-8-toy-robot-maker-spins-off-robotics-startup-for-first-responders.md",
+      "title": "BB-8 toy robot maker spins off robotics startup for first responders",
+      "excerpt": "Sphero is perhaps best known for its mini Star Wars droids, but the company also makes edutainment bots for kids. And now the firm has turned its Public Safety Division into a brand new company focused on developing robots and AI software for emergency personnel,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/robotics/sphero-company-six/",
+      "ampWebUrl": "https://newatlas.com/robotics/sphero-company-six/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sphero-company-six/?amp=true",
+      "publishedDateTime": "2020-05-21T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/06aad15/2147483647/strip/true/crop/845x563+78+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe7%2Fe6%2Fa6b004194a4dad0bc7c3ff904cbd%2Fhero.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "BB-8 toy robot maker spins off robotics startup for first responders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus.md",
+      "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
+      "excerpt": "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network.",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
+      "publishedDateTime": "2020-05-21T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/20/80b822d9-b20b-4ba7-8a9a-461401bce55e/resize/400x/90d28741c1cdcb3f5513125869884ad8/nvidia-v100-t4-gpus.jpg",
+          "width": 400,
+          "height": 450,
+          "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-robots-help-out-in-bahrains-covid-19-quarantines.md",
+      "title": "Robots help out in Bahrain’s COVID-19 quarantines",
+      "excerpt": "Bahrain has introduced robots into places where patients of the new coronavirus are isolated and treated in an effort to protect health workers from contracting the potentially fatal virus, officials have said “This experiment is the first of its kind in Bahrain and has been done to utilise artificial intelligence technology and determine the scope of its benefits in providing medical care in isolation and treatment centres,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gulfnews.com/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
+      "ampWebUrl": "https://gulfnews.com/amp/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
+      "publishedDateTime": "2020-05-21T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2020/05/21/20200521_Bahrain_robot_17236e75595_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": "Robots help out in Bahrain’s COVID-19 quarantines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption.md",
+      "title": "Gap rushes in more robots to warehouses to solve virus disruption",
+      "excerpt": "U.S. apparel chain Gap Inc is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic, the company told Reuters.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-gap-automation-foc-idUSKBN22X14Y",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22X14Y",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22X14Y",
+      "publishedDateTime": "2020-05-21T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519427977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K0SD",
+          "width": 817,
+          "height": 545,
+          "title": "Gap rushes in more robots to warehouses to solve virus disruption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-samsung-takes-another-step-in-us116-billion-plan-to-take-on-chip-maker-tsmc.md",
+      "title": "Samsung takes another step in US$116 billion plan to take on chip maker TSMC",
+      "excerpt": "South Korea’s largest company has started construction on a new fabrication plant that is dedicated to its made-to-order chip foundry business, an arena that Taiwan Semiconductor Manufacturing Co dominates.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
+      "publishedDateTime": "2020-05-21T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/21/686ef5e6-9b42-11ea-96ff-7aff439fc3be_image_hires_172643.jpeg?itok=_vSkaSW2&v=1590053214",
+          "width": 1200,
+          "height": 630,
+          "title": "Samsung takes another step in US$116 billion plan to take on chip maker TSMC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-meeting-the-challenges-of-today-and-tomorrow-with-azure-ai.md",
       "title": "Meeting the challenges of today and tomorrow with Azure AI",
       "excerpt": "It’s inspiring to see how customers continue to reimagine how they work with the help of AI, which is more important today than ever. Our customers are finding innovative ways to deliver crisis management solutions, drive cost-savings, redefine customer engagement, and accelerate decision-making.\r\n\r\nHere",
@@ -492,6 +747,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-20-microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers.md",
+      "title": "Microsoft's Powerful Supercomputer Will Supercharge AI for Azure Developers",
+      "excerpt": "At its online-only Build 2020, Microsoft unveils the fifth-most-powerful supercomputer on Earth, which is designed to run massive machine-learning AI projects, plus some new tools to ensure responsible use of AI.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers",
+      "ampWebUrl": "https://www.pcmag.com/news/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=true",
+      "publishedDateTime": "2020-05-20T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04HQr2P4eRWa7B1cgx0BS0Y-2.fit_lim.size_1200x630.v_1589989995.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": "Microsoft's Powerful Supercomputer Will Supercharge AI for Azure Developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-ios-135-released-faster-unlock-with-face-masks-plus-covid-19-contact-tracing.md",
       "title": "iOS 13.5 released: Faster unlock with face masks plus COVID-19 contact tracing",
       "excerpt": "Apple has released iOS 13.5, bringing exposure notification for COVID-19 contact tracing as well as a quicker way to unlock your iPhone when you’re wearing a face mask. Released as a gold",
@@ -533,51 +833,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers.md",
-      "title": "Microsoft's Powerful Supercomputer Will Supercharge AI for Azure Developers",
-      "excerpt": "At its online-only Build 2020, Microsoft unveils the fifth-most-powerful supercomputer on Earth, which is designed to run massive machine-learning AI projects, plus some new tools to ensure responsible use of AI.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://uk.pcmag.com/news-analysis/127055/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers",
-      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127055/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127055/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=1",
-      "publishedDateTime": "2020-05-20T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/m/microsofts/microsofts-powerful-supercomputer-will-supercharge-ai-for-az_gjfb.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Microsoft's Powerful Supercomputer Will Supercharge AI for Azure Developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -996,252 +1251,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain.md",
-      "title": "Facial Recognition Firms Pitch Covid-19 ‘Immunity Passports’ For America And Britain",
-      "excerpt": "FaceFirst pitches a coronavirus health passport system, though concerns around civil liberties and privacy abound.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/amp/",
-      "publishedDateTime": "2020-05-20T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1212203380%2F0x0.jpg",
-          "width": 1200,
-          "height": 823,
-          "title": "Facial Recognition Firms Pitch Covid-19 ‘Immunity Passports’ For America And Britain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-this-lab-cooks-with-ai-to-make-new-materials.md",
-      "title": "This Lab ‘Cooks’ With AI to Make New Materials",
-      "excerpt": "A Toronto lab recycles carbon dioxide into more useful chemicals, using materials it discovered with artificial intelligence and supercomputers.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/",
-      "ampWebUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/amp",
-      "publishedDateTime": "2020-05-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec43c61fb13964ea4a83df5/master/pass/Science_co2_1130455777.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "This Lab ‘Cooks’ With AI to Make New Materials",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-microsoft-built-a-new-ai-supercomputer-in-azure.md",
-      "title": "Microsoft built a new AI supercomputer in Azure",
-      "excerpt": "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/",
-      "ampWebUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
-      "publishedDateTime": "2020-05-20T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Microsoft built a new AI supercomputer in Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
-      "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-      "excerpt": "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/",
-      "ampWebUrl": "https://www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/amp/",
-      "cdnAmpWebUrl": "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/amp/",
-      "publishedDateTime": "2020-05-20T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKRN",
-        "domain": "wkrn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wkrn.com/wp-content/uploads/sites/73/2020/05/97DEC7C8C9EC4C018B904AD24A8ED6A2_7.jpg?w=576&h=324&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie.md",
-      "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
-      "excerpt": "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "publishedDateTime": "2020-05-20T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/20/9e85075f-4425-4576-995a-976a4acc1b40/guthriewhereareyou.jpg",
-          "width": 1071,
-          "height": 728,
-          "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning.md",
-      "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
-      "excerpt": "As part of its commitment to using data and analytics to solve the world's most pressing problems, SAS' recent work includes helping to",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning/article_485ec294-2a44-5327-ae6a-1709e3772f22.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/ab/9aba8953-86d7-52f2-b984-7311e20a2062/5ec523443f416.image.jpg?resize=400%2C240",
-          "width": 400,
-          "height": 240,
-          "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

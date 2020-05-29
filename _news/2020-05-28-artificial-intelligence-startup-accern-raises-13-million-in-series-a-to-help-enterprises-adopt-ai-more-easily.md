@@ -29,6 +29,6 @@ images:
     height: 925
     title: "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily"
 
-secured: "t+l/kZs0agzoOrqnM9lI+InCYdO6IUkF5DL6iH1wN+4XBZxJ7F/aDpwyWrC8N3AsGjIQ4+TS+ZXT6zV56lorZLhAIpKGPQ+Eg2gaa+6uzzdi4zTUXsbh2EUmpEALe2WML0UacFKDNnZ6CXofQi7sUeAa45smYQMcoaPNxAN6qcemoNPJaL8yj3teW67/iEehEFvHhsd4IQ8Bono+5EOnA+jnJl/8Fm/K1MEwYymvK4prrPLIronZM5Xhfsy9sgrfLVsbJh1h9BhqDwU1sBrx/rrnGjHi6jlJ0gWaGHv52NQuxBM7WgCmasUdHOLTYB03;de4V4p65+l3GZbwOGazPnA=="
+secured: "/SZ0kPPF9DLEUHhkQGvoDqvkx7RwozGuaiUmIlxErfSeWf0CO1lqlm00qafHP9h5+r7SYCR9Wcvg4tOEVuVuk2ll4dZKvr36tAI4GmUMvT2zPHa3xus7XAg4PaOjh/GRhPvj2HkhYMiRE+qiWLEKIPvj2kCLR6JhHbK2xQSFFBSFfb/nkEw+wd6ZHd8aoPkDp9J0pWA23Qm+XQrJYeluFNld//acVAW7eB+rViNxh0iIvdCf5osne9Jgpe4tQa9SM759tyTKHVWG+j+7ZzkQTMp8dE8Ofs3WPmXse6UrrBwBlTB8ql5Kcwa0E/hw8/W8+Ye+/cehrmC2hswIiTev/afTkX4Jko5qu4K9cCaIkM9tzBcKFggP01hbGbyq4MYdkQjKFsNhFDwIoxSQcz4/8s9SRMwsYrtulRhe/+AFExVy2YKAj0DwWSddkllFEsX4MFV4VnPlnZrhX2gEnoeWA2+fcLn/MDo4Z5vuMoJ2XoU=;RVmRg7PhQrtdI9w2vuIpag=="
 ---
 

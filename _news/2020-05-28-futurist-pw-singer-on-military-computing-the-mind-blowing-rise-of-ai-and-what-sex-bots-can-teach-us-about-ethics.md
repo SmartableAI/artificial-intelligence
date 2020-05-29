@@ -26,6 +26,6 @@ images:
     height: 326
     title: "Futurist P.W. Singer on military computing, the mind-blowing rise of AI, and what sex bots can teach us about ethics"
 
-secured: "/lOelj+AePc4LwA3l5oyjhGy5p93SfkFeP8w5cLj6/M910Gqbs59EfFpj8zhTtWMH5alc6gAlc+0+fNa7IyzWvKz5DDd9c8BSHWA/uav5S0N5yACSChRrvxcTRzrZqYHsDtwB/SBC9XUXKEP3SVTYeAE1MFjEkVKA+Hj+hI2iaUkjYnI8/pceBXSCfF9mUug+MjuG0bwzRU7NEYO5DFXuc0cageXq+W1Ct3GCJEew7YZ3jHiwnqIp7kBa/sgLmUsHOf/OGNjFxGImMNT9RW5rJpdOopegIslEb1ojnZvDTpCu39h1QnNUCCkSyXAqL+C;36wXnVz2pzVWgbv+SQIlWg=="
+secured: "I8TzYon1hWGRyIMXOMwVGUIhuknnPa+XyGwpMWIA1mLewVMvEFuAm2P1iyqB8OY/Un56tHAetBZu6YMJ08rTg0z7hD7SO9/Bp8UZJMV0ryqoLn2X7E38/YU1CxxXSvgjG5rOiEMxthP+akhCCN7fzmMYJ2wgsoypuj3VQ7bfn09bdtY9BlI4W3jypJCt4sqA8oNh/KxJckP8vNzpNfxf/LAOYQXgak4sgoKzWDvwnWYQ7ZAdoPbYQ9nFraAsC3pHXAzm1jn3UF/D96GJDCsPslPtpm59UHHf2o8LQ5zp0VN/jgCnXNmtHlJVDxNRJy1vJigvBeuTwl5EZVtFln2t1BkKuKlaAAavRkFF/n9SolGckc8jb/eWt2AoaO0pyMDPV09TB+0aUkYR9gldQe9xrqznuFTeLf1+5kNbSf83Mu8m6A/sEpUtwfregmoM6k0XFz3/z3p/MqKW/uevtu0d2t+cE9gKgDXh0p8DmqVE1bs=;xJBDHPeLjgwKllzFA33UMQ=="
 ---
 

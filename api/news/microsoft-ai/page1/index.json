@@ -514,10 +514,10 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://uk.pcmag.com/news-analysis/127055/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers",
-      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127055/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127055/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=1",
-      "publishedDateTime": "2020-05-20T10:45:00-07:00",
+      "webUrl": "https://www.pcmag.com/news/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers",
+      "ampWebUrl": "https://www.pcmag.com/news/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers?amp=true",
+      "publishedDateTime": "2020-05-20T10:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -536,9 +536,9 @@
       },
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/m/microsofts/microsofts-powerful-supercomputer-will-supercharge-ai-for-az_gjfb.620.jpg",
-          "width": 620,
-          "height": 349,
+          "url": "https://i.pcmag.com/imagery/articles/04HQr2P4eRWa7B1cgx0BS0Y-2.fit_lim.size_1200x630.v_1589989995.jpg",
+          "width": 1120,
+          "height": 630,
           "title": "Microsoft's Powerful Supercomputer Will Supercharge AI for Azure Developers",
           "attribution": null
         }

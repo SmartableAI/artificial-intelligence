@@ -2,6 +2,186 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-28-facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models.md",
+      "title": "Facebook AI Research applies Transformer architecture to streamline object detection models",
+      "excerpt": "Facebook AI researchers claim they created the first object detection model with the Transformer neural network architecture typically used for NLP.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/28/facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/28/facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models/amp/",
+      "publishedDateTime": "2020-05-28T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/DETR.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook AI Research applies Transformer architecture to streamline object detection models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-square-enix-establishes-new-company-to-pursue-entertainment-ai.md",
+      "title": "Square Enix establishes new company to pursue ‘entertainment AI’",
+      "excerpt": "Square Enix wants to get into the exciting new business of \"entertainment AI.\" Does that mean you'll finally get the digital Tifa of your dreams?",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/amp/",
+      "publishedDateTime": "2020-05-28T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ff7-tifa.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Square Enix establishes new company to pursue ‘entertainment AI’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-its-the-data-stupid-why-ai-might-get-it-wrong.md",
+      "title": "It’s The Data, Stupid! Why AI Might Get It Wrong.",
+      "excerpt": "Artificial Intelligence is based on data. But that data might not be sufficient, biased, or out-right wrong. To have control over AI we need tools to check for biases.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/",
+      "ampWebUrl": "https://www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/amp/",
+      "publishedDateTime": "2020-05-28T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecfd6dd75134600060969b1%2F0x0.jpg",
+          "width": 940,
+          "height": 788,
+          "title": "It’s The Data, Stupid! Why AI Might Get It Wrong.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent.md",
+      "title": "Clearview AI faces lawsuit over gathering people's images without consent",
+      "excerpt": "Clearview AI has spent months amassing its facial recognition database with more than 3 billion pictures of people it gathered from the internet. Now it faces a lawsuit in Illinois for taking those photos without people's consent.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
+      "publishedDateTime": "2020-05-28T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/2Xk6hmSaVxblXYNhWoSGstkx7-s=/756x567/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview AI faces lawsuit over gathering people's images without consent",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-us-joins-g7-ai-alliance-to-counter-chinas-influence.md",
       "title": "US joins G7 AI alliance to counter China’s influence",
       "excerpt": "The US is joining the rest of the G7 in the Global Partnership on Artificial Intelligence, in an effort to contain China's influence on AI",
@@ -227,10 +407,54 @@
       ]
     },
     {
+      "path": "_news/2020-05-28-how-baidus-ai-produces-news-videos-using-just-a-url.md",
+      "title": "How Baidu’s AI produces news videos using just a URL",
+      "excerpt": "AI for news production is one of the areas that has drawn contrasting opinions. On one hand, it might help media houses produce more news in a better format with minimal effort, on the other hand, it might take away the human element of journalism or take people out of jobs.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/amp/",
+      "publishedDateTime": "2020-05-28T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/10/cryptocurrency-writer-media-blockchain-bitcoin-news-journalism-trust-broken-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": "How Baidu’s AI produces news videos using just a URL",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-apple-buys-canadian-start-up-to-help-improve-machine-learning-and-ai.md",
       "title": "Apple Buys Canadian Start-Up To Help Improve Machine-Learning And AI",
       "excerpt": "Technology giant Apple Inc. (NASDAQ:AAPL) has bought a small Canadian start-up company to help it improve machine-learning and artificial intelligence (AI). Apple has purchased Waterloo, Ontario-based company Inductiv Inc.",
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/apple-buys-canadian-start-up-to-help-improve-machine-learning-and-ai-2020-05-28-71972150",
@@ -267,7 +491,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1075,222 +1300,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-former-microsoft-ai-and-bing-chief-harry-shum-joins-fast-growing-startup-news-break-as-chairman.md",
-      "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-      "excerpt": "Microsoft’s former top artificial intelligence executive, Harry Shum, has signed on as chairman of the board of News Break, the technology startup founded and led by former Yahoo engineering",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/",
-      "ampWebUrl": "https://www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/amp/",
-      "publishedDateTime": "2020-05-27T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Harry-Shum_Headshot-630x499.png",
-          "width": 630,
-          "height": 499,
-          "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker.md",
-      "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
-      "excerpt": "At re:Invent 2019, AWS shared the fastest training times on the cloud for two popular machine learning (ML) models: BERT (natural language processing) and Mask-RCNN (object detection). To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T09:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/26/albert-nlp-6.gif",
-          "width": 1000,
-          "height": 580,
-          "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-microsoft-azure-cognitive-services-receives-pronunciation-assessment.md",
-      "title": "Microsoft Azure Cognitive Services Receives Pronunciation Assessment",
-      "excerpt": "Microsoft also announced Speaker Recognition improvements for Azure Cognitive Services, as well as an update to Personalizer.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://winbuzzer.com/2020/05/27/microsoft-azure-cognitive-services-receives-pronunciation-assessment-xcxwbn/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2018/07/Samsung-AI-Samsung.jpg",
-          "width": 705,
-          "height": 470,
-          "title": "Microsoft Azure Cognitive Services Receives Pronunciation Assessment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-artificial-intelligence-in-retail-market-2020-comprehensive-insights-opportunties-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence in Retail Market 2020 Comprehensive Insights, Opportunties and Forecast to 2026",
-      "excerpt": "New Jersey, United States, - The report is a brilliant presentation of critical dynamics, regional growth, competition, and other important aspects of the Artificial Intelligence in Retail Market. The factual,",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-comprehensive-insights-opportunties-and-forecast-to-2026-2020-05-27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Retail Market 2020 Comprehensive Insights, Opportunties and Forecast to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines.md",
-      "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
-      "excerpt": "Scientists have developed a method of automatically detecting hidden landmines by using AI to scan images captured by drones",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
-      "publishedDateTime": "2020-05-27T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-53-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

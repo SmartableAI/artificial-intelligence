@@ -27,6 +27,6 @@ images:
     height: 275
     title: "Artificial intelligence drug discovery startups insitro and Exscientia scored a combined $200 million from investors"
 
-secured: "pHMkVxyf9Wvi7FL7k4nxHdFnJFN5rUgMN9JRl/qMpXeQPbe+GZhqq91cTrg2mN9K71WntRxzqB/v43IHpTcB+AxgB8YV265PW9xnnYsdewJ6d3bjxp/kj/wscXVORK+QDcU1xG7jAZMOSfHexC8QfKRvDHDBW6pmlNDIebphPfcXNWrxS+rDS+ThNR6oM9uICSOZOf7rvMnypmgXpXX8WmJVO5oAFTUQ++V648IqTtmw+OzUj7xqq9mdOR3HgHm3K8R4R+9l5cd+IXQd0+kNbid5YdUQa1oDwSmNA3cZoB+yHgM8p1OMzQpqEXSK1zI8;0rBZk6c7NwaDzAMUCdsysw=="
+secured: "yjeiWdYCBhIPtVBye+hsnaW4SlOVOL9vYeG/i/I5npyH1BGldPc20z3vOIuk6Fw1bOl95/DdlwYc0ugWrduxtBQwPQ6P/uUb4tEYn/wUW6j4C8ClWyyyPuTZCAgVOWq0JJ2HdGzD57zjMPu0n6Z38uFs0yAOJxM8dxxbQ4FhodVeAUtvIkzOoHsnBWaV4SP2oei/vpVnDaEtzcJ3+sC/rTWXsPKlIA1/kyFm5IgrWHBYE62YUCEvr8wsnBADmTOWr0OzyvMCUpvMs6+yJXfeoMhM3FOkh0RTyDTX4dG2H4ysPN3gYkOfWydHpAaCJdKk/z91qP/1y6kJJF0e/pouQ6GfvSInQC9DCVRH7AybeMYh5rMAwfyL0STFwvd8vxFnLfWBHLA3KnILGdKjMqQ+V3CfU4yMQP9eFCLBiYPSmYYgnDKp1qqNO7DS2IUmNQ7UI2rYq8ltHq8SNs9bFhAarRys/O/QQA57Bvb2CXqb8Po=;kbugbRP/zJQ+XvH3AOQ/PQ=="
 ---
 

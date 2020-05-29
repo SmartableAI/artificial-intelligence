@@ -1,28 +1,32 @@
 ---
 category: news
 title: "The ACLU Is Suing Shady Facial Recognition Startup Clearview AI for Being a Shady Facial Recognition Startup"
-excerpt: "The facial recognition org Clearview AI — which you might know as the firm that secretly harvested the photos of millions of people from their social media profiles before pawning said photos to law enforcement — is officially facing a lawsuit from the Illinois-based branch of the American Civil"
-publishedDateTime: 2020-05-28T12:50:00Z
-webUrl: "https://www.gizmodo.com.au/2020/05/the-aclu-is-suing-shady-facial-recognition-startup-clearview-ai-for-being-a-shady-facial-recognition-startup/"
-ampWebUrl: "https://www.gizmodo.com.au/2020/05/the-aclu-is-suing-shady-facial-recognition-startup-clearview-ai-for-being-a-shady-facial-recognition-startup/amp/"
-cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/05/the-aclu-is-suing-shady-facial-recognition-startup-clearview-ai-for-being-a-shady-facial-recognition-startup/amp/"
+excerpt: "The facial recognition org Clearview AI—which you might know as the firm that secretly harvested the photos of millions of people from their social media profiles before pawning said photos to law enforcement—is officially facing a lawsuit from the Illinois-based branch of the American Civil Liberties Union,"
+publishedDateTime: 2020-05-28T23:19:00Z
+webUrl: "https://gizmodo.com/the-aclu-is-suing-shady-facial-recognition-startup-clea-1843739244"
+ampWebUrl: "https://gizmodo.com/the-aclu-is-suing-shady-facial-recognition-startup-clea-1843739244/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-aclu-is-suing-shady-facial-recognition-startup-clea-1843739244/amp"
 type: article
-quality: 40
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo Australia
-  domain: gizmodo.com.au
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/05/29/znk9sbuuooxranebzxjw-1024x576.jpg"
-    width: 1024
-    height: 576
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/znk9sbuuooxranebzxjw.jpg"
+    width: 800
+    height: 450
     title: "The ACLU Is Suing Shady Facial Recognition Startup Clearview AI for Being a Shady Facial Recognition Startup"
 
 related:
@@ -100,6 +104,6 @@ related:
         width: 700
         height: 379
 
-secured: "TG3wtDvRgKLDm6Lq8Y1t3eN0xsvp0aiOTCR7dpeCOxL/3flb1N8t47jJvrKsma8gpn1LQBhOLfNN9la6qtwT3nFzKC2XLY8VB14EYH2Em1oSVKGFJSey6eu8y0iS7clZWurhyrbZy4F0EO3GdMZJjK/tpE3MKTann8tvfQoNVVqDptx/iqOVXvOLeWctw+J6c9VIODHH9qRC4F0XpUIhTh1j6rv+H9eXjEWzw3wE7A5tqrhmGlvEcjQ2aa5UgwdfrGbd2J95e0oOyDf0NaKHFs/8WuoYwx994HFcmjyVdCceTxhbbT68Zxocay2y/7oh;KZDMlc7Yj3RuG9B6lDSUXA=="
+secured: "cdvFz1Wmr/YAJHNNcvtac0aCzUNM5M+jogXmrgMWagEHcdqjcR87W8/BZ4/3iSE4ocRCGLbcg3LYcJQL8K/8wM1m4ys5CQ9QLxf5BEcMYAkjpw7TZkg9LTgJq5lv1draCwe9ijHjLCW6tD8apPQXDRJ8hVwCTJyST1yli9uslctVhpQDoR618dCWBU1A7TfTZhv642HBk18nSaKLqrmioUUZSS+L3b/OakkjQwEeMpXWxbsBMnddXRHRbdU5ns+RmJqlKeV53Dw352YFua9okAzOmi3A9SDcPQEUSgMDULbkK3VF+kSOtFE6oSh86nXc;0I1c+P8IES81BjkraIK8lw=="
 ---
 

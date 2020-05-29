@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/cvs-pharmacy-prescriptions-deli
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,19 @@ related:
       - url: "https://wnyt.com/wnytimages/repository/2020-05/cvs-ap19050561641382-cropped.jpg"
         width: 800
         height: 450
+  - title: "CVS tests delivering prescriptions with self-driving vehicles"
+    excerpt: "CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro to deliver medicines and other products to customers near a Houston-area store."
+    publishedDateTime: 2020-05-29T15:01:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/cvs-tests-delivering-prescriptions-self-driving-vehicles"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/cvs_pharmacy_i.jpg"
+        width: 800
+        height: 600
   - title: "CVS to deliver prescriptions via self-driving cars"
     excerpt: "CVS is testing prescription delivery using self-driving vehicles in a partnership with Nuro, a technology company based in Mountain View, Calif. Starting next month, customers in the Houston area can order prescriptions and essentials to be delivered to their homes via self-driving vehicles."
     publishedDateTime: 2020-05-29T16:03:00Z
@@ -74,6 +87,6 @@ related:
         width: 400
         height: 300
 
-secured: "ztRL4+j0g0D/BMufHllTb61VBmIAnOWnqXSe0Lu34rqJwqbSxepV+LcrIhF8wXMqNMYkeeP3C5oLyEn1e5ZrlN/T8YTkU8CYY6WIjiWFZaSwkTyCp6pFAQNfwW+yCaHC/XQx1qRr/KtuMa2qP+HgQTB626xT6pITb/2FFszQmiEHhIAdEvoeeM2Vp9fgzNoUNOVPdwgymSpKYUrB7lYMS/bEBCqsv0TKJCEVAq7lDBU8cChWIx13G3OASEt66WyAHEOnmPEpxORUttzn+aX8/g1A1AJaVlzE/39Kknu7njCWkpcC/W8AdPL7zjnzevm1;rvqliXOfDlxQV3H7FQXmjA=="
+secured: "rbD0rn2CrQkFTyk2NxmE7P0MZGx7DqeXPIYDmtmBj2+XDVEp2ZZk6TbLhWjIn0UVbO025zL5461Du05mDRMd84TRq4Y8p1+/bX2B0yNCBatxRpBnOnVfrmVBtZUehUpFUkrfHwyjgrzvc6I8pevQLXGbC+ew36ELKwo9ywOkB1jdTl0z/Du73+hKsoybERIl8VF/s1AweelYhZmb+Hpc1VyRdhNuDAa2S7WBoBNFCzWoysH4HrvR2A0+eEhyYswDl12+B031CN7tzC7F0L2Sa3dxT8pwKns8/Z0xUvvHVozqwcxNHjAgmA5F0xXjnMoUtCHvzhds+o5xdgnz6hk/7R8ZU8BqPmj83pi/C4IQyJyGFjXQCu3Rdo/5NAvAgkaKAQvycp36ybxf6kH36Yx5D6YSTqTH2lzrGTJObYZUibfWLiSg0/vOyBmOAK4YNaB7a6BXG/lRGM3WOWkZH1cCpN+KDQ4pQiyTLardiJvOUyQ=;AprbCXhO7nAUMQtmy9Tynw=="
 ---
 

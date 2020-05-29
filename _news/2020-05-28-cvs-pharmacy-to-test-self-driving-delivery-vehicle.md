@@ -56,6 +56,19 @@ related:
       - url: "https://wnyt.com/wnytimages/repository/2020-05/cvs-ap19050561641382-cropped.jpg"
         width: 800
         height: 450
+  - title: "CVS tests delivering prescriptions with self-driving vehicles"
+    excerpt: "CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro to deliver medicines and other products to customers near a Houston-area store."
+    publishedDateTime: 2020-05-29T15:01:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/cvs-tests-delivering-prescriptions-self-driving-vehicles"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/cvs_pharmacy_i.jpg"
+        width: 800
+        height: 600
   - title: "CVS to deliver prescriptions via self-driving cars"
     excerpt: "CVS is testing prescription delivery using self-driving vehicles in a partnership with Nuro, a technology company based in Mountain View, Calif. Starting next month, customers in the Houston area can order prescriptions and essentials to be delivered to their homes via self-driving vehicles."
     publishedDateTime: 2020-05-29T16:03:00Z
@@ -70,6 +83,6 @@ related:
         width: 400
         height: 300
 
-secured: "8OGIs/pXNKAC1axusLQ/E0dRxMhUcaxjbUpEs43gHBZXwlqVlRYE41v/SpYIUPMktvn084tOdihoMGRKHL08F683li9ymqiMsL9HB35D33TSOpU7tuFPYxPfLadG0odKSSeqeFqWpwt5Hs8yda+wz7WFmA19juuddC29eAe8UmFRDZ5eOeX4/AWHOSh/UMFvDwieSi3tGTUCQZzVW6d32+V0JS1/runqK+6IUgLMf57N9ZQw9UznhHWrp3DMRSBPhFy+paBVfd3rcmHKYivkchRZkTFCbQPZBU/qM88LJWTdztgV33scEPjwF6njiENt;ZOrlF034rEiZAuYJ5a3Bbw=="
+secured: "cjzDHdPNQTfeANo/mVCwMWyTjAax2tQ1oNqnIYtH4X4YJYpY4FWhBAud0jJdn8+bfutdxQIfi3P45+GyHTw2ahxdMndSBSfwNeTd/F5njZVDjRwhIz43YG9JEMiHFkTYuu0deVn2YpCEnAC6cC1BDGVKgiOgpnypYgVXq0JLMOBFxQHu0jiaiCwz7qHC6auPWciA+/6+TRew+FMs8azeFiJ3wNE14KLU1ihNsC3DpRZ3N9OgCdvXMRI8Dz34RFkrNrT6z7wkqpDu1GnRzZJcQiDB/L8HvMzU93GDoxPxHThZGRYEVf4FZQaiBxmWZt67njeueA2fpneaxjnXpEZPpBomNovi/wmJ9EFUts8inoGoPj6KC4sukq2Jj6UFLLjar1K1siIj3cKdthtU57F5iIk8X7ThYsqQgEpyeiXnArxNwNEqLnpEiW3wc/h8UTjHuYhzSdvdrj4bpbNFZ7gxQLjbzQlEeimzKCQ1rcl4QWc=;7sjFvaNfLhSiQq+a4xWNSQ=="
 ---
 

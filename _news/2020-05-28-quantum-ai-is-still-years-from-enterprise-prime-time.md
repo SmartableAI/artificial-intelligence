@@ -27,6 +27,6 @@ images:
     height: 675
     title: "Quantum AI is still years from enterprise prime time"
 
-secured: "ScrWYn2XA/Z6Hm0oybRG5MgbnMpiK/wTsQ7cMQc8AcFynHhhh7tWG/FJfLTMdMdrAEmcpqSe3TJ9HVnSI7Akndr5csjr9g3aqLbrmE0pYuhRlvYDE0H5/dDGp3ocjXqiMriwuv/9vi0mfWE5mfS/zx+d31ggFvDY4lK4yTrEGnTv25c5KTm53ClDb+KAwOYrsc6vgpcBFaUjnYa/OTnUqaZoMr8OumUMPG0q+Di+/UrXxUrytkZ6PDbKy6EeCrGVuH+Je4T7RdORQzXjqyvm8zXDlIbfi6viPFHGd/Dfx6IsJljzlWI7/KiWEDUsX99/;wncZPSxVyacXTvnRssU+Cw=="
+secured: "Xf9vIpqmDZeSWydRIkUUiMX2zTSWLLwVVCpNt2PyLs9/6wPoYywIsLQPFIpJ5rxNsNkiDitepNzyvV09VcnuJYtIDnmA+XlQ1vUMtAXeo4ZjuiCIpPJhVDKKYWLzglyQb9nj3b/SJAWxbM1SkavvcEF0QtS58Ye2wP0pgGXkafeVEhrdLzF3io+mt+jKdls29wgwYstLczJEnsSb/jXPBhETncreqUdpkohE3rMeCBIQ5JKJtqJcye6Cn19Dch+Wjo4LaI81btgpBj/n7t9mAOTHfH2NEcNdal5NhjDwspqwF7+n39KqDuVJt8elqzoVmegwuM/b7reqlbK8T23LffakXNyE2T2+09mJnf/raDxsUA7UMRkKN6M1fI+1pX7pb+UPu6OBXOfIw4uB2OAR4D5LRz/6fmAzOGJsalbnesdrvw5UcUKvYpPyTqHOLp/459krMTG8e0LdUWOfkLZW0bmuOkj7UZoDtl41WaL9X5Y=;i1NhTqWxcdyFjoBRK/Lt9g=="
 ---
 

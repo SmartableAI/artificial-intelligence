@@ -25,6 +25,6 @@ images:
     height: 380
     title: "This viral video shows how the Pixel's live voice transcription absolutely destroys the iPhone's (and why it matters)"
 
-secured: "ylVZ6PQVAZbO4+oh9AOSqF0x4xKb/42tcuk8k3vCz8I4+VM4R98VKV4iOmnNfSlX1xSgXpH8JhNJJE72fGOKeuIpoSTsF0AeuWd/Yf8p4VjFV4XpY1hUt6QMOjf92SDlldkhtxpmG613fS23jK3YVbqx8FRNCkOmCU/L7bJRvdquf3dpGMKkDBYbViFRrVeMXYxFLf+IS8Dyw5UUHruNnc5TsvSSXeuskcYsWYMl2ltuGyNhtbDOuvXvX5v8fqMTrjFCcDv4tMZgMmRZKS+mVWEN+S/UEy/6e7DEj0b3S+Eexv8D/jmGa4kud5ockIy5;xis8qP5UWCIbngPd/8ytAQ=="
+secured: "P49mbwzOrvhfKzd8axrztI6Eob96e0euwZ3lNmaTZPBDJz6r7o6T1RHzJUMcXBXUFaFqNmanoyv6FJ9k/2362rA0Rlz/ZvnmxO86a0/nKFmoD2Ntg/1wr6viefESR0X5/2d/wrFudjNGmKJC2p1DC41i8eZc63aoAHCbOnmdkbqd2PYgxPPPXtvHG85A9iVhk2mhijGkkX49cNG4x+WD8tXtnODn7VIzYLxaKEREbYQt26p2YR7xAplKzO9rFPz/sqDnbd9Nf34A5Gl2LRdLQEki5xjOVqqmiw4IUtbetxqVeLgYXp4kiUU+Qr+vRV4iWkI8y/6r/KxaZwKGp3bdI0Hti2Y+FJ6axla7bMRNicF2jKPwK3WomRTHozjSHumZK0L5XQhAjiV6yXe9aPtlfezWv7eYWWBw129+CkfGgA0Q521dRx20fZ0xLWEiuogx2WnfRPhaS86Szzm/L1S9j2/u9rFxuwbVlOvX2KZufcQ=;cBf5wSt/1jx+l6+hl4vpuw=="
 ---
 

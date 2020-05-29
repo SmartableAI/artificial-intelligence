@@ -23,6 +23,6 @@ images:
     height: 315
     title: "Vuzix Expands Partnership with TensorMark for Facial Recognition Related to COVID-19 Hospital Testing Initiative"
 
-secured: "Sbx4zPgI5/2T/0l+/5vqgd0OcN8mea7Sfw9l+sxi3A745ubDQC7bmDqllHlX2XdG2qZMoL+sfJ56EupmICGXlAUke4OcZm6WbDXoGTakGxF/JhsFRbVy5Kb/ohwQP+m+brLL/3c53Lk8nNhHuzh+JdP5dL/M/wulCqeCOuHtB8F+K4F0NTvoQWetNDLSwoWuPDU1qDdyc30GVVy2PRv6LKt/aozK8aL/9N4gka5It0uK86/yQXLv8D++neU9ncqK4v6AZS5dy0laHyhlAdUDhl8T8XVz712RRizQrAUry/CNyTSe37SfEwRSKLwM7KEk;zwCj6u7R4YA76b3WISV20g=="
+secured: "qcP19lUbsCCq6m/nrcYqtaVr3UnEDUbeHvQP5NIy+daw2QuTIKvUDNc+mgoGWerwrLNQWybaVEXr+7j34DmdMkX4mYC1RsgfjaRC0VBlKKv4K4n/07vIe8oIMsr+/n7rsz+lOR/WYNCK6uj9KfTUG2C+mVV64Q9ZX5UqFU/cPb7XO2HGAhsFey76lE91t+HStsPxCa2Su3/aHzu38+qu6YzC6hNgkstTLB0hfOpT6RNu/Nupzpu7ELJU0P6OimJ13/euokSwn2ERko8qE1qVZLhpXGxCcwqWL8NtPAyvwevs2P89NX5HLul0m/evz6k5+JDrzYZ0T8IfWqzHo/ScrtsXBn8WbMjJt2TvZ/Ze4ivUJ2jtpPaOZecX3mrnQLUZ42+Nga8rBIUnpcQRW4iuRetjjeaRvUlxtvUCpi/ccEiNObjBMp6uNCx++Os9RFQFo/XTZWsTROGAzhbM4bUELwwmKNX2UhVMXjEu3P9dx3A=;IyVHsDYWhcxpTv+SMPP9gA=="
 ---
 
