@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-26T01:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-ai-based-surgical-robots-market-2020-key-players-analysis-segmentation-industry-size-growth-trend-and-forecast-by-2026-2020-05-25"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,28 @@ images:
     title: "Global AI-based Surgical Robots Market 2020 Key Players Analysis, Segmentation, Industry Size, Growth, Trend and Forecast by 2026"
 
 related:
-  - title: "COVID-19 impact on Big Data Market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023"
-    excerpt: "The global big data market is expected to grow at a 13.35% CAGR from 2018 to 2023. Towards the end of the assessment period, the market is likely to surpass a valuation of USD 81,"
-    publishedDateTime: 2020-05-29T02:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-big-data-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2023-2020-05-28"
+  - title: "Global Healthcare Artificial Intelligence Market 2020 Segmentation Analysis, Key Players, Industry Share and Forecast by 2026"
+    excerpt: "The dedicated research report titled Global Healthcare Artificial Intelligence Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 envelopes all-in information of the market and vital understanding on the global market at a holistic global perspective,"
+    publishedDateTime: 2020-05-30T14:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2020-segmentation-analysis-key-players-industry-share-and-forecast-by-2026-2020-05-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Automotive Artificial Intelligence Market is expected to see growth rate of 37.86% and may see market size of USD9537.46 Million by 2024"
+    excerpt: "Global Automotive Artificial Intelligence Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns & country along with competitive landscape,"
+    publishedDateTime: 2020-05-30T13:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-is-expected-to-see-growth-rate-of-3786-and-may-see-market-size-of-usd953746-million-by-2024-2020-05-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

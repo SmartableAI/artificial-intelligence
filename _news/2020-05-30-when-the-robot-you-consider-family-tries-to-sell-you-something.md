@@ -25,6 +25,6 @@ images:
     height: 520
     title: "When the Robot You Consider Family Tries to Sell You Something"
 
-secured: "b5UOlGHHnu0uMmAOOv0MkRYs+293Jqcr+f2VSmKZcqslbSJAFtlCGniLLrCBx6LE6XJc53HkNG/3GjNtJpPNjllINwqfktnykjVZIuHhngfRtpA/nmJ0Tk0I7o+9Hkhc2M6xmbnGBOQ370ullv1QHC/af4qJqWfwlMZ0s4HcLtfy+yHb3bo3D8wGUDlNkftBYwtU72mIKDR9DYpf9jco0OzCXWcPwkJ6wmU+8Yql3jOz7k0JvXbFzlIzfzqtHEKmlmZsZxiu60XplhodpRVSP3E8h3/qgYxKMSLa/288etenQY3o8h0+/6RyZzf3q/vA;QSW1DgbmLFEucpjhYw11iQ=="
+secured: "+VTUheNsJ/TNaNNRiPJPC8MuLHiY/i/I2Uh/C5sQTYg15mqWQIc3aUvJNakBJLfLW4uRGmvpmH91DyjBCbraSr4cyL2nT/dMxm9Xr64QOFspH26ZUqj+b3SAToeJ4je4U9Ev7e0M3vb5iDdG+qMR+bnKBcNnhjEQ0DfhisB/g2/RTxKJy218/Iymwi420SlzqXtEPlsCDS+BNoM99ZeAo5UBXM25fTYvqkwREcQmtqTCHoqxvdhJ0NVNtMCaDno7GeYa21TRReECPGMfT4Dket9CTL2f1p+L0DfkYl7UCpE95qEL6T1CCs4J/C11naIfBr4RR+DXTUQ6zeV/DEFD6rkjstEht0JBnO1bDtt2j5WPEgLUhLNrbD4C9igWIbAoagfZzvvc9st3HZMDFn4PCfnzBXrgQr8l/9dkeY7U1f4gTelrsJsBbPC3TepFio+Qy4o4I3xSbodDCDJ5RIcSexFmU7IYCriT5J4kFvZ/p/0=;MpuqnKCaGcCmPdgmNB02Iw=="
 ---
 

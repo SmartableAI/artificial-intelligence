@@ -27,6 +27,6 @@ images:
     height: 417
     title: "These ‘self-driving’ shared scooters will automatically return to base after each use"
 
-secured: "fS+vTweV13EO29MEikqb/yRRgt9sFhCRiMWD0Fgb3aWNKNGg55yuVG/pQDY7F5GcqseLmwuNu2uAHy0Qxw6JRt3HjWrvR/FkfMLx+kRKua57dbpXWYTl6l6p4/y/VqD6rU5jiJ4chpc9aCs/LKxrEbk6euxvr4HPwYoPEkZ1gz6LypzALw8HqeNDH5rerzuxCI8gpXYz9pV45jRvsLO3hnXCteCG5LYN+s+Y9a2eummOm/OnilKhrkeISb2OYEE1j5F4afckE5VJJDUKvo32atojLuf+1q1Mmoa/8FI+RBj9jXL95h+KlaI7raEEyqe+;aYUeGGEYeqYIo6ehxknzog=="
+secured: "bLPw3+2pgXIy/JQVJT2GxoefUT/gL5FxdGyNtoL99vHObyvIeuGa+ZYy+VQbEcGQ5MfSD7KjnALmB4K/poPuBgg8KlZVT+GIw8B++zSSEq/VeUHUjXVw4u9b7ZMoRr4qNeGIE8Ws9GOWa60rFseAqnlM0Oksrk9F8x9HBhsmvfpv6CD2OKw7T0ZyUlokikEVnRwma8cEHM2sQubkSPOLlUJ7Ud48bcnopyOXA/H4+iiH3oCbmeAmIblcdiazPZV1Qhgh1OFcMWGlmW7m66JypiikC47An4r04CTF209JDp8ww6n7x1Bgc70xCkj9ohIlf2Sa9lVgEjCmtCl8gDQySeATQucoNm7AmzCkP+4ayqWLJgvMY+/T3QCZZSu+NOo1X+gc7LzdjHUftTLNGhTwcV9QDxc7kL5WP9sgj5qVhjpgFUqYYImUFaany9W5Ed10Dtf4jhPEPdvhZCYcczlGpiBUxePf8X/6/97n8J6FFVA=;zCqhWCxoLStgiYw3nQiP2g=="
 ---
 
