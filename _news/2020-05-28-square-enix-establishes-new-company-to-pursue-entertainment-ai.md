@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Square Enix establishes new company to pursue ‘entertainment AI’"
 
-secured: "U53FdHxLDMkLHHqNc9OY68OLmrTR9OKpjOYZjsrIlYUINrHjxivXtuoJZbhYp+X47JBdB+Iylu/Kfzs3i3NH20gGhN/8uMcaw9GE+dVeg7azGfZo8OBFc6Cie6gSY+i7mgalUO8JSoVLDocjiyXmO+mgEYtbLkg3Ei4F1QIV9w/T8nBAlTotHfb3bSSbz/YJHi4rt5AhG5NGTJ42q43G+2avTlCAZDBStnxwtkGLwW/xhX0cPdloPHH/wI8S5EsXZ/qosor12Wa+jeecm7rh+f0uIKC9qO5QZZvB9m4P6FjsadlpgtbSe1Lkssre0tJE;1sshy8TbIoZ5I5erehlefw=="
+secured: "lFNaP+AIOf/bdqAfi2RD69i/lOmcUMrm74FsaTlwoYpA2VBPE7v09Ri4+VhEBC0Qd+ZX0+7dEx+6VzRjGT/bJfHxw0/FqW2cj5OH2wJSzrOeZ7USvqpKpJxWUre3RLCXxbp7NNCw7QEQLSLN6kGCaLPqtPY2uIW3tNX+SkmZMHvwOulGowjsygaNDgiotsoncuLMR9QF4vIBAe2jsBcMJcEY2tC7fP/9FROhmETusBIitPh9F6XDwkdY/zeEYwdKUQRZ1LnO6eaVQcSfYLDHvCjt/rVxeAOSXSpqYZYuUh8ErPcLnjh8nrFPnur53R+ZwUFRAB55Y/jvBSpX4fc9ZaaA8neokpu7Fwn9+XB/h8b2QDTrP5spG0XpPJIJJowS5MjG6cdDjBYD1r4XfK4YjO/EU32uGjPkp0RRgziaay+t5ADPfPckLl0bo5g1ww6y3UHAEb9sEh6Oj5gZr5Migufyz3iABdOVUmwho9WgN98=;ZK6pwIenpzS77I5TWZAnmg=="
 ---
 

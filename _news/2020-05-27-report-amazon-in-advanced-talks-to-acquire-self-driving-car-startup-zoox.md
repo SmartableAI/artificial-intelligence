@@ -142,6 +142,19 @@ related:
       - url: "https://images.axios.com/LDXr39K4Uf1_HKpRarvzBH0nT84=/2020/05/27/1590546494986.jpg"
         width: 2242
         height: 1472
+  - title: "Amazon Could Take Over Self-Driving Startup"
+    excerpt: "Zoox previously drew headlines when Tesla filed a lawsuit against the startup last year. Amazon has had its hands full in recent months as it attempted to keep home-bound consumers stocked up on essential goods — while keeping its own massive warehouses free of the novel coronavirus."
+    publishedDateTime: 2020-05-29T16:26:00Z
+    webUrl: "https://www.manufacturing.net/technology/video/21135536/amazon-could-take-over-selfdriving-startup"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/05/amazontn.5ed123c4d1cb3.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
 
 secured: "gvcHywn2DmCJzjncO6dnLsYwWReIKt4e1RPsBUfxzaXxs3A22X73PbGKERWUNmi/BUwUV4zTmpAjdVA5s82BMtYp8BmUnh280SzDxAMc0w6VRjqqPHLGkQ2zDpacT9Te8VGXPYx3kPC7BvcZZPvhx8PWeqwHm+dH1J9siYhrNJS6sd/TJtbH84qu/vXUNh6PiIAv/4O6HCPLODmfLnUbLKhiBESTHjN88Q9rFx4LNcHAKxBubZJ08Swk7oiZra7wppbzXmjQ1FF5hQmEBOvJOoq991xB6YF2Dz4EtB1DAK0fPYWA5SfkyS5t45O1dFHo;wcJqtmePQgZUnwMHPzUvEg=="
 ---

@@ -133,6 +133,19 @@ related:
       - url: "https://images.axios.com/LDXr39K4Uf1_HKpRarvzBH0nT84=/2020/05/27/1590546494986.jpg"
         width: 2242
         height: 1472
+  - title: "Amazon Could Take Over Self-Driving Startup"
+    excerpt: "Zoox previously drew headlines when Tesla filed a lawsuit against the startup last year. Amazon has had its hands full in recent months as it attempted to keep home-bound consumers stocked up on essential goods — while keeping its own massive warehouses free of the novel coronavirus."
+    publishedDateTime: 2020-05-29T16:26:00Z
+    webUrl: "https://www.manufacturing.net/technology/video/21135536/amazon-could-take-over-selfdriving-startup"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/05/amazontn.5ed123c4d1cb3.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
   - title: "Report: Amazon in advanced talks to acquire self-driving car startup Zoox"
     excerpt: "Founded in 2014, Zoox describes itself as an “autonomous mobility” firm that’s designing technology for self-driving vehicles. Where the company differs from others in the business is that it’s not simply designing autonomous vehicle technology but “a symmetrical,"
     publishedDateTime: 2020-05-27T04:17:00Z

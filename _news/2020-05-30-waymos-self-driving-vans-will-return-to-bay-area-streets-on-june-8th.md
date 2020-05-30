@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/waymo-may-resume-san-francisco-driving-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-may-resume-san-francisco-driving-june-8-183821348.html"
 type: article
 quality: 89
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -29,6 +29,23 @@ images:
     height: 350
     title: "Waymo's self-driving vans will return to Bay Area streets on June 8th"
 
-secured: "aS5H6ikU4QeDDcuLpvyW2mYHdWyYHy+9xLLAuSlDeSjXRrLShkxnWs/LcGNar452WTi0feERAGpK7mTTHiA4dJ9K9qR2McifcP2kAImkQeTAQeFzI7Hgj5rU/4fDLm1vXuvgv9v5HdUFU37r4XTt6CFQeijvH87lOF98bpjqR9+DSGTxWpUqUmkfiBkNfWkUX20fANCoL0TiUP1J2BzqzjK1Jy1BUoNJs6TSSFfad0M28uz+pbXStqdvFbrlBaaFrETM0vQ0F/ewAartGA0Tc6GjCIh5DaT8WNopNBbQx5UE5WC3H1wCrsW+5kwtT+wV;ji/HV60+bb86GfPMAN4zbA=="
+related:
+  - title: "Waymo's self-driving minivans will return to California streets in June"
+    excerpt: "The Alphabet-owned company shut down a public testing program for its self-driving minivans in early March, as the global pandemic started to reshape society in the United States. Now that fleet will reportedly return to the streets of San Francisco on June 8."
+    publishedDateTime: 2020-05-30T21:41:00Z
+    webUrl: "https://mashable.com/article/waymo-self-driving-san-francisco-package-delivery/"
+    ampWebUrl: "https://mashable.com/article/waymo-self-driving-san-francisco-package-delivery.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-self-driving-san-francisco-package-delivery.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F05%252F30%252Feb%252F5e5b46aaedeb47c0b739f26f3fd553e9.74557.jpg%252F1200x630.jpg?signature=xUO9hqK5LNlxZPLg539Vi6Hjo-s="
+        width: 1200
+        height: 630
+
+secured: "1TdswSWacVdnhddohx41XcuBq4tnKVfk67bMABoeCN6PDB0ZU5MwhudfdALFtMTdrEcm7vIUNU0FLDyKlEKdkR9KaVYeIO5cRhKDSXCnCfOF28tFmZAtCRUA488q8nyAq6rsgjY5hRCTvOWvDX0ujLlHU40j2B66jc3vj612tvc9XUaVNO2/x6hAeUKhcNJcInjr0uca/QGOfr/sKbrF/+koUpB0mFdYex5kbEQ28P6Yw2D/ekRq0Qblk2bJSSuTL44VB8uRtil2zn5OxNRx+5eI1ZBUZ1b2iXWSN5tR7UiJ95CaHBNCYHcMVg9C5DxA6gzBHN79XiYERKoacuJLBD2HaQcJpCnT0ROPoEfLz00EtbhlZIJO+afaP7q4xuxOnZiRxCZxXBTZl/U6uAt/7ooL2pXR9HBDDgInWPHIoB7Azk3apMtDLJ7ebWa8+xPHXQFw5Fgos0b4NNBQoLfoVPgdTuGWSkVqGp6oZ7Fp4rI=;YGwiF0kjBAuU5kQScxydmQ=="
 ---
 

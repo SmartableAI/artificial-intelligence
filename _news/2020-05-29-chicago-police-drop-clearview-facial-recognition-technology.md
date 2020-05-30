@@ -2,22 +2,26 @@
 category: news
 title: "Chicago police drop Clearview facial recognition technology"
 excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
-publishedDateTime: 2020-05-29T22:57:00Z
-webUrl: "https://www.thenewstribune.com/news/business/article243103416.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/business/article243103416.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article243103416.html"
+publishedDateTime: 2020-05-29T23:19:00Z
+webUrl: "https://www.washingtontimes.com/news/2020/may/29/chicago-police-drop-clearview-facial-recognition-t/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://twt-assets.washtimes.com/img/icon-facebook.jpg"
+    width: 314
+    height: 314
+    title: "Chicago police drop Clearview facial recognition technology"
 
 related:
   - title: "ACLU sues Clearview AI over 'unlawful' facial recognition technology"
@@ -79,6 +83,6 @@ related:
         width: 860
         height: 484
 
-secured: "yVRX8cST3OpD56mKw0+6xHlSMrsh20VnXr9jABAXgPso3JmdNHsUDcYzOgeC5CbzRuXfvui3c7o3XCpEb/EhPlIt8ymzqh0YGQhvGFGkKCjJ6U9J3sNnNoEjKLNDSO6QcapILeYRPHi0SK2ymbI+BFpXo6kRQj2kWBk7ZOSQ907oNVDwBofbrqWRX8Fvq2EDVM8GdKSPMt/OEhs8yjZRXJvtYYbpndTDd5qYNpeIF4Z8M7A2zMEPbDF6zcOSEaC7NWTjPZeoawGzAlQPRvT1NR5xV2uhsjl9RHagGvcpqagqSg4Q5EbcfQ+dNWhs7Wbp;XyIPxGPK62QvVfGcBttu3Q=="
+secured: "6kmlH12GmAATH+bqpnpij9QuPw0PxS+Zudhlq8+aTyzWUrz11nccCdrRARHdJsFrDNSgwvNFK170qIC5Nr2NGek05ncP+XG8iV/753eNjvwLbsIAYUTYelt8eBETnjCSHSttxJtaYY/SQGg6ZcliUzgKh8HST6qEGnHh2fI49bwVVLF5J4DJi7an0iiCPp4m9TmtQleBVgsmSJhZZi6NILM+CwEmZ8U+H8Vtz3HjDS+Nic5Fxfa8BWOxmVcJARzdEZrBqWE7mEsNY/5HACu/+68FsVJfxz/X3dU3ZkmH0VVo29JdbLExpeRQ+iJsRMle;NwlWixYPqKXzxO9AZN+lAQ=="
 ---
 

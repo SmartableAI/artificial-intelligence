@@ -71,15 +71,17 @@ related:
         height: 484
   - title: "Chicago police drop Clearview facial recognition technology"
     excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
-    publishedDateTime: 2020-05-29T22:57:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article243103416.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article243103416.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article243103416.html"
+    publishedDateTime: 2020-05-29T23:19:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/may/29/chicago-police-drop-clearview-facial-recognition-t/"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
+      name: Washington Times
+      domain: washingtontimes.com
     quality: 24
+    images:
+      - url: "https://twt-assets.washtimes.com/img/icon-facebook.jpg"
+        width: 314
+        height: 314
 
 secured: "/J9p146PcM2l9SR+fA2u0sjXajCuzRwjZYfQBYI5HC7zoi//UcBAe3VLAcjEuo80VIaAPS8zkjgwEUcOpJPFEeJSywDrBTiudNqO2SqTZh9x7kLxgAoQ0nNYHiehBvOLQg50EntlxNc/g6tqqG4e6bn94rgYOxUw4EuzhGMeoBw1bB0ZETM0X6NzJ8C49aZgsXG6aAWDOh16FU1LnWebwlyA0RrZs2BdbKttM/5oE2++cfvs696F+5QrR58yC6VnU1ul/w7aqhcl3PFBFJjCM7yhlW1Pb0vcO8dODA2iUAs3I44xYqslXKZlKbi6LAHm;a4eobBKzPgXqS+8hJLNEUw=="
 ---
