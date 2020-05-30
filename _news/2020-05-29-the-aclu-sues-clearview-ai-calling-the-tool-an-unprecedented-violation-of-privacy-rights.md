@@ -55,26 +55,30 @@ related:
         width: 1320
         height: 743
   - title: "Chicago police drop Clearview facial recognition technology"
-    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns"
-    publishedDateTime: 2020-05-29T22:56:00Z
-    webUrl: "https://www.dailyherald.com/article/20200529/news/305299907"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20200529/news/305299907/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200529/news/305299907/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 41
-  - title: "Chicago police drop Clearview facial recognition technology"
     excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns. The American Civil Liberties Union filed a lawsuit Thursday against Clearview AI over its technology that allows users to compare photos with a database of billions of photos collected from the internet."
-    publishedDateTime: 2020-05-30T03:13:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
+    publishedDateTime: 2020-05-30T07:00:00Z
+    webUrl: "https://www.sfgate.com/news/article/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
+    ampWebUrl: "https://www.sfgate.com/news/amp/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: SFGate
+      domain: sfgate.com
+    quality: 59
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+  - title: "Chicago police drop Clearview facial recognition technology"
+    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
+    publishedDateTime: 2020-05-29T22:57:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article243103416.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article243103416.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article243103416.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
     quality: 24
 
 secured: "DBysyiLwV2Kq3UcS0i6hvL0/d03aZWUiN9n03GV29kWuwqts328Ge1CKObsFeSn7Q2z8l4vy82ijSXnIKGsRI6jWju64UoQRzVyEsHZVU37FCEnqzqSIOiuFQh2mC7DqrVCbpS3nlsdcfM7777AUP7a0yVmmUTsS7DqU3aBUuVOyQzzIAOKpPEIXvfk2lgGEyiNzlcRtcI2O74uQNTBSLfO+p6uFTNwnuIEaRfI5NULZ8/FTAw7NQg7KlBEctDD5OkcSQH8hZoTQHD90rwRE3EGWp4+t79FztxJQdyWcLDADYrenhvjHSetD99yyOlXf;gCEe9ApTszKbERbxs8kUsw=="

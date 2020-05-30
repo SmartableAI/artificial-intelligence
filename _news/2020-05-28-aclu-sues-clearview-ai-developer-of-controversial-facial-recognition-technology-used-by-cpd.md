@@ -43,16 +43,20 @@ related:
         width: 1200
         height: 800
   - title: "Chicago police drop Clearview facial recognition technology"
-    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns"
-    publishedDateTime: 2020-05-29T22:56:00Z
-    webUrl: "https://www.dailyherald.com/article/20200529/news/305299907"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20200529/news/305299907/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200529/news/305299907/"
+    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns. The American Civil Liberties Union filed a lawsuit Thursday against Clearview AI over its technology that allows users to compare photos with a database of billions of photos collected from the internet."
+    publishedDateTime: 2020-05-30T07:00:00Z
+    webUrl: "https://www.sfgate.com/news/article/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
+    ampWebUrl: "https://www.sfgate.com/news/amp/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 41
+      name: SFGate
+      domain: sfgate.com
+    quality: 59
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
   - title: "The ACLU sues Clearview AI, calling the tool an ‘unprecedented violation’ of privacy rights"
     excerpt: "The American Civil Liberties Union is suing Clearview AI, the maker of a facial-recognition tool used by law enforcement agencies across the country. The ACLU alleges that Clearview’s technology runs afoul of the 2008 Illinois Biometric Information Privacy Act,"
     publishedDateTime: 2020-05-29T15:33:00Z
@@ -67,15 +71,15 @@ related:
         width: 860
         height: 484
   - title: "Chicago police drop Clearview facial recognition technology"
-    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns. The American Civil Liberties Union filed a lawsuit Thursday against Clearview AI over its technology that allows users to compare photos with a database of billions of photos collected from the internet."
-    publishedDateTime: 2020-05-30T03:13:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
+    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
+    publishedDateTime: 2020-05-29T22:57:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article243103416.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article243103416.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article243103416.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: News Tribune
+      domain: thenewstribune.com
     quality: 24
 
 secured: "2tt9BvMp5MCCGCRkRIgkp7jdKp3CVk4Ax3Oi3XdXw7T+ZuzvVg0g4q8qykaiUq5g+JtI8O4uk5vgwa9XOc8yLP6rGmv5vXTm3HB1HI/ekkGhyecRP/248BhyKRfmyaRwDKmvLXOWnz3/Z0u8XasuEh2VRAe8bQwT40TcgP9uwUdR6x4xKz7DMGyi1WDw3DUAZkTrrPZaSX8grslzXLkDe+kRe1Y5zE83skZmh0oEwoevnXxnUvSjM6DcLKuS+vhdxg+YIAqX03L3GAXOO1rRcU4eiUTrD0E1uZ2XISbb9oCaW3CbmR12dJ2OAAOblDGqkOZiXjVcXpfMJERSZ7kCTA5uC2KFBc4Pu4pm70HrjlIYhzObKssZNahhAi9rII+TrDEfjefhcfY7Wfl04GuJGjal1wWNyIHPqE5Nw0946Q2yPbLBPMP5fOvV8TsxTszOIslzqeeESjPTLkN6zLL/JYIAwcX3FwO9zoPVP5e/M2U=;20RnfDOf9G8GqCxvH1yJmg=="
