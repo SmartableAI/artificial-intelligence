@@ -41,17 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Outlook on the Worldwide Artificial Intelligence in Manufacturing Industry to 2027 - Rising Demand of AI-Based Applications Presents Opportunities"
-    excerpt: "The \"Artificial Intelligence in Manufacturing Market by Component, Technology (ML, Computer Vision, NLP), Application"
-    publishedDateTime: 2020-05-25T09:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/05/g16101341/outlook-on-the-worldwide-artificial-intelligence-in-manufacturing-industry-to-2027-rising-demand-o"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16101341"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16101341"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
 
 secured: "2XDEQrIefVIwHumZRqyuEUgAfUWOtQTWCq6Y5XrPvgKYI7sothLJ7EIkScxPN8w0R+6RIUxN1s54bphlgcEvaEzT/lVh5OkKeoppEqjlfB4ZUVWnNUdPAA72XvtBhQOgD2wS1V8w8UaxcDwn3MUZalBsPXKaifhE1PnWcnbLzVRwc8DR2iO+71UvFxJCzfbBO3wWfSmzowKFIoG6yyBuugAmY1vXjd+WQvdR99S0SMrHZqzh00ZFmEGBSAY1VGw9x+zNiHnG4YOmcUL5h27LfFU647Y4bcIzsOMpMTf02WqW/wtHT++6T58fq91Da8um;UbfSH/9vm7wW+e8x0uWekg=="
 ---

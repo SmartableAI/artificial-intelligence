@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
-excerpt: "Binghamton University researchers have continued to develop machine learning for using drones to detect the deadly \"butterfly\" landmine."
-publishedDateTime: 2020-05-27T19:32:00Z
-webUrl: "https://eurekalert.org/pub_releases/2020-05/bu-rud052620.php"
+excerpt: "Using advanced machine learning, drones could be used to detect dangerous 'butterfly' landmines in remote regions of post-conflict countries, according to research."
+publishedDateTime: 2020-05-27T15:55:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/05/200527105053.htm"
 type: article
-quality: 33
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://eurekalert.org/multimedia/pub/web/232917_web.jpg"
-    width: 640
-    height: 360
-    title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
 
 related:
   - title: "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines"
@@ -53,6 +51,6 @@ related:
         width: 640
         height: 360
 
-secured: "BCGjtzn2sxmM5qwqrIA9vHOHw/5IDXc6Vqy8XTkeKNHEw7QZCoYIqkr69I/7QIrdmV9bCNyBEvK0WZzIRsj+r3iQaMSH3cG4il4H0mzMKpwlPwH27cbXl2EqkhQR96PITEFm8iyvQwiHfqRPq04awmhP345nj0icL1pX1Ugih7rxBIwFXugVRgShtMn/V4vYYllPl7elKBGa6yOidD2xPVbdw6vLycLX7vifNOiJGxBrHDZLu2V2JNRk3DK9WXQtm0zNDDLGn7XDHgcMA0dCgyCWo2rBMafADmPZfJ/tKdXzqUm/FGJUdP4erSAg4KYixIKXWFhvJ3sAUMHn4WCagDqT4s+Jm2BjY+c+gQtLgzGCd0peUtVQxpClY93bCbshE5yPksm0V8rVKx8vsY5ZUzxHG2LyzMsGhskefrf2YXqhNqHQRqzhqcx9+zl6SWM04EptHctflQJ/s0qkjX/274JzNcGSfFCaw2AHSenCmSI=;DQ0TUzT1SXdKNHtnJdStsQ=="
+secured: "K9AdVUmcKjIBBpKR3H/ekS06ncqJOywaPCZqloAzJAGITKeU5ng77STHsWcNQ2SaxcSAqznPxVA1KXWh6L1ONIv1Hq8uGWUf47ZVUNVbBpGTrofsyWxS1Y6TE8QdZWxTsXOjrF1dPfzmlRO53eNFs9Eyq56Whf2dtsmAwbd+eTXfH1kSINzeFcfzYR1BDBXvmHhsyKKNYjOsnD/1CI62P1L9hdzV3JmHlvemrBLM4a5BNlXkTU5DujPxFZdPLbOWN68Ds3ptqcodg2MaIqvTNcFQp2EWBkzns5eOXvrX1wP/TXoJ6XfYpW11VcxhFvYL;5B+KgyokWzbfHFTswJAZ5g=="
 ---
 

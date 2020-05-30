@@ -39,6 +39,21 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/Qys-BncoeEz1nrHHcjhZ7In0SsM=/2020/05/28/c821a1fe-212f-4276-a45f-ec9a873c0758/ogi-nuro.jpg"
         width: 1200
         height: 630
+  - title: "CVS Pharmacy partners with Nuro to test self-driving vehicle prescription delivery"
+    excerpt: "CVS Pharmacy plans to test delivering prescriptions using self-driving vehicles next month as part of a pilot program in Houston."
+    publishedDateTime: 2020-05-28T18:12:00Z
+    webUrl: "https://www.cnbc.com/2020/05/28/cvs-pharmacy-nuro-parter-on-driverless-vehicle-prescription-delivery.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/05/28/cvs-pharmacy-nuro-parter-on-driverless-vehicle-prescription-delivery.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/28/cvs-pharmacy-nuro-parter-on-driverless-vehicle-prescription-delivery.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 68
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106555722-1590687344619nuro.jpeg?v=1590687515"
+        width: 1400
+        height: 933
   - title: "CVS Pharmacy to test self-driving delivery vehicle"
     excerpt: "CVS Pharmacy is planning to start delivering prescriptions with a self-driving vehicle. The pilot program is set to launch next month in Houston. The healthcare company has partnered"
     publishedDateTime: 2020-05-28T19:28:00Z

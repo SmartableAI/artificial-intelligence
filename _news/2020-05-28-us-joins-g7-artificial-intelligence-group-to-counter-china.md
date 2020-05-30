@@ -42,6 +42,21 @@ related:
         width: 796
         height: 417
   - title: "US joins G7 artificial intelligence group to counter China"
+    excerpt: "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea. The White House's chief technology officer,"
+    publishedDateTime: 2020-05-30T00:02:00Z
+    webUrl: "https://www.chron.com/news/article/U-S-joins-G7-artificial-intelligence-group-to-15301478.php"
+    ampWebUrl: "https://www.chron.com/news/amp/U-S-joins-G7-artificial-intelligence-group-to-15301478.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/U-S-joins-G7-artificial-intelligence-group-to-15301478.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+  - title: "US joins G7 artificial intelligence group to counter China"
     excerpt: "The White House’s chief technology officer says it is important to establish shared democratic principles as a counter to China’s record of “twisting technology” in ways that threaten civil liberties."
     publishedDateTime: 2020-05-29T14:41:00Z
     webUrl: "https://www.defensenews.com/global/the-americas/2020/05/29/us-joins-g7-artificial-intelligence-group-to-counter-china/"

@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Ai Weiwei says new security law is the end of Hong Kong"
-excerpt: "Dissident Chinese artist Ai Weiwei believes the newly passed national security law for Hong Kong augurs the end for the semi-autonomous city. Ai was arrested"
-publishedDateTime: 2020-05-29T11:03:00Z
-webUrl: "https://apnews.com/610ee73ead622a72f91281f0d7926f23"
+excerpt: "Dissident Chinese artist Ai Weiwei believes the newly passed national security law for Hong Kong augurs the end for the semi-autonomous city"
+publishedDateTime: 2020-05-29T11:23:00Z
+webUrl: "https://abcnews.go.com/Entertainment/wireStory/ai-weiwei-security-law-end-hong-kong-70947179"
+ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/ai-weiwei-security-law-end-hong-kong-70947179"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/ai-weiwei-security-law-end-hong-kong-70947179"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/32e43b308eae4d67acf44a5ba4be0bcb/3000.jpeg"
-    width: 3000
-    height: 2039
+  - url: "https://s.abcnews.com/images/Entertainment/WireAP_32e43b308eae4d67acf44a5ba4be0bcb_16x9_992.jpg"
+    width: 992
+    height: 558
     title: "Ai Weiwei says new security law is the end of Hong Kong"
 
 related:
@@ -39,6 +41,6 @@ related:
         width: 1280
         height: 720
 
-secured: "F2BgDvuoDxkdv0lS67Pzn451nwJi+oPL2AIgRjH+uzDXC8x8/L3veZanWBLzcKmJHodBx/OPHxkCTPmejH4GR/cnwyeYAQUK7GoWzuAexDDihFAPwmhSvkBxjXAIkuBjO68gCrcCdezCbjKxLdofg8SJtVxgeSC6lIG1q0WE/Ac4ZeKReDMr3fRstcoj5FsoU6qSnI5ZxGg3Pg2Auq+j4HVectADx8hLbq9Jo86eewGSfcBbFlPLIU+V9ZWhvViM9VsiMHO7xQEEmKnDlHCz+/jlm++esgWPKXSGSZSo3ziECbZEwLATva/Bu32KraME;hoeccBqgYk04uuTy+bS9xA=="
+secured: "PtmpiMzMalCqdGsfoJHHSlLXofV6fHwSYJ6H+JkSrvJZdZall3+2PpRdENFua1TOGBCxqp83afBNb3wszKifV+JFAde0Kyy+V1TP2AL0nkPqGya9CrH5rZvWTjoVLlPMXRhoAHxhargZNP1x1H9wmOiE4pvDOB5lCP9LWcdQrjKwMqaQ6mlpambJBjCmHKP39SpypyQ2hP2kAe8YNiUp5OA96+Vu0nHZd5EKfC4VjbjlJf9e9YQsLn5lCBudJuLlDoLkjzqc7wHuQdAxk6uWFo7xaiAl1Qpn2Eo6mBH2Dbta70ZSxkyo/51RSopwkfQs;9cuft8kOcbXKGErKZ779DA=="
 ---
 

@@ -39,6 +39,21 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/Qys-BncoeEz1nrHHcjhZ7In0SsM=/2020/05/28/c821a1fe-212f-4276-a45f-ec9a873c0758/ogi-nuro.jpg"
         width: 1200
         height: 630
+  - title: "CVS Pharmacy partners with Nuro to test self-driving vehicle prescription delivery"
+    excerpt: "CVS Pharmacy plans to test delivering prescriptions using self-driving vehicles next month as part of a pilot program in Houston."
+    publishedDateTime: 2020-05-28T18:12:00Z
+    webUrl: "https://www.cnbc.com/2020/05/28/cvs-pharmacy-nuro-parter-on-driverless-vehicle-prescription-delivery.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/05/28/cvs-pharmacy-nuro-parter-on-driverless-vehicle-prescription-delivery.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/28/cvs-pharmacy-nuro-parter-on-driverless-vehicle-prescription-delivery.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 68
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106555722-1590687344619nuro.jpeg?v=1590687515"
+        width: 1400
+        height: 933
   - title: "CVS Pharmacy to test self-driving delivery vehicle"
     excerpt: "CVS Pharmacy is planning to start delivering prescriptions with a self-driving vehicle. The pilot program is set to launch next month in Houston. The healthcare company has partnered"
     publishedDateTime: 2020-05-28T19:28:00Z
@@ -83,6 +98,6 @@ related:
         width: 400
         height: 300
 
-secured: "KTCPk7K8l51bC4ABgrVT857dw7bYr18NGNeMtwdWBp5Nn9TWPP+QSad32fiyYJ2WmT9ug8zyga+hzHPdpZo8HYOk1tllKF0T7aO5YT1QtmZK0/OL/wBkk/YCwKG5Ox1QJMKR5NdzsQHIvpoQvdDHfd7oAkXy3k3Op9B/5gZ3ucsmLyd7dd0+2U34NI3+G0dSDFr3ppQhrPSsHbZXS6d3x0KyXtdaqB0lTfks9f+zXHM2NoitRbMM16eiK59HgyBFv5aQOVru0ldubMCKIhp+xpTDhO6r47pkk7yKgOBKmGJuIvd79xyROs2FykOaqqD2;XT08/tUNluPp4wGrKkrZbw=="
+secured: "IJafELs6P0mKh8kevDfQHz+ymw/EXeCF0Agpsh9ESV41xJAczuMAxM6HxPPCKj8Ex28GfODOqrvIzuXsH0kGrHnHULXJl4ktOGKXhN1BN2w6STIwuNBJ5xqE5Enux9SVoQCOnygUN/PZ5u7VNPcduh9ey2i7K9dzLqCatnnXhM25Fg35kf/pLMOjLCcwt7Ct/tMM8DJAm0h7euzi1InOrmcfKM+EyWPtoP9Kk8iYNLpaI9ADPyk4olVurXnfv1QXU1t9o2hax+8KGR5j5JDv1hN++G/lrE/5zv4GU+iBPU7PQOPDRHfI9r3NbaaaaE9/iE5YvWBZE9Rx4lesWOcL1JfycV36x/i9MtHO+CrZdgb1RHSC8Ul+4lg/LS2yyjRHY2g4BzZyDO51+Gj3oil2kZ7r3nAnwPj0KAq9UEK/yQDA0S8eVfw843M02vgNvIFdNjtYV3HdifaguJ9hBxbwjUWSkZG2sOCJPTVLo9pr72Y=;i184TLfrdnTrppWtf0t8uA=="
 ---
 
