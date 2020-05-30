@@ -5,9 +5,9 @@ excerpt: "The dedicated research report titled Global Healthcare Artificial Inte
 publishedDateTime: 2020-05-30T14:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2020-segmentation-analysis-key-players-industry-share-and-forecast-by-2026-2020-05-30"
 type: article
-quality: 40
-heat: 40
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
   name: MarketWatch
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

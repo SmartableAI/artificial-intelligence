@@ -30,18 +30,22 @@ images:
 
 related:
   - title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
-    excerpt: "Using advanced machine learning, drones could be used to detect dangerous 'butterfly' landmines in remote regions of post-conflict countries, according to research."
-    publishedDateTime: 2020-05-27T15:55:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/05/200527105053.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 43
-  - title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
     excerpt: "Using advanced machine learning, drones could be used to detect dangerous 'butterfly' landmines in remote regions of post-conflict countries, according to research from Binghamton University, State University at New York."
     publishedDateTime: 2020-05-26T18:58:00Z
     webUrl: "https://www.eurekalert.org/pub_releases/2020-05/bu-rud052620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
+    images:
+      - url: "https://eurekalert.org/multimedia/pub/web/232917_web.jpg"
+        width: 640
+        height: 360
+  - title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
+    excerpt: "Binghamton University researchers have continued to develop machine learning for using drones to detect the deadly \"butterfly\" landmine."
+    publishedDateTime: 2020-05-27T19:32:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-05/bu-rud052620.php"
     type: article
     provider:
       name: EurekAlert!

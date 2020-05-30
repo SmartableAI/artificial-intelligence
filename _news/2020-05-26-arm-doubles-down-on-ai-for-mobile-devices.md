@@ -1,22 +1,34 @@
 ---
 category: news
-title: "Arm Doubles Down On AI For Mobile Devices"
-excerpt: "In addition to the A78, Arm debuted a whole new branch of CPUs with the Cortex-X1, a larger, but more powerful design. On the GPU side, the company made two different introductions: one at the top end of the performance chain and the other emphasizing the rapidly growing opportunity for moderately priced smartphones."
-publishedDateTime: 2020-05-26T16:32:00Z
-webUrl: "https://seekingalpha.com/article/4350084-arm-doubles-down-on-ai-for-mobile-devices"
+title: "Arm doubles down on AI for mobile devices"
+excerpt: "If you care the least bit about where the mobile device market is headed, it’s important to keep track of the new advancements that Arm introduces. While you won’t experience them immediately, if you purchase a new smartphones 12-18"
+publishedDateTime: 2020-05-26T19:05:00Z
+webUrl: "https://www.techspot.com/news/85377-arm-doubles-down-ai-mobile-devices.html"
+ampWebUrl: "https://www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html"
 type: article
-quality: 19
-heat: 19
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "YgCXBUqD5p+NM3AYvIFUvfX5Y9Bqk5C08w0olg1oIKfn7mZNUKzlQG9RSTOQHiUNkEWuhpj6rIdCGAp0RiWO7yJKP9RdSYP3gCLS5R3Pil57T1UAmxBEMT/OSV7MQuJC2NO2oE+mE2dLJbKMx2jGBhY2y9qb5PhBpVTt2EGn6WWW9fgnK2wBDkyH6KudSbgnnCpFG+2rXNjNOytZUkWq5LZ90aw48Ugp7PCmz+PUaKV/uCvrP95By3gJlCs8X3cq2tAo6ttMANZpw2eEvcuZIfTSOcOPA7XwZOShWvDjlRTDZUkHcCzdNhtZjcy5vYsS;GzzaOsDOijzCDSM7SmlphQ=="
+images:
+  - url: "https://static.techspot.com/images2/news/bigimage/2019/12/2019-12-10-image-16.jpg"
+    width: 3840
+    height: 2560
+    title: "Arm doubles down on AI for mobile devices"
+
+secured: "e0Ya2vNCfNhHuhKdMXJsXE5AXV+m4PpjgYtNOnTzf1pEmVOTzBB7ZE7Yi6nlxgISFuiOlS6h2nZib1gPhluhD6KcF2wYKQVg9Ic9LVAm3Fm38xpedcx9DZGPxxrIg6TzcbMlz8SeCgclcd8V1izhTMbBkq2aySkwrnA8vh8pCRkkT7qKR2Xuh8AXm8mRqdF5EAVIvqWqxTk6TGs3nQhUBBqtle3y4HiiHDmCYYeI3+v2oIVk9wtkvuIUNv7qG5AFcVOE5M4sVbqUSggZ4tzkjPFIUdSVvRvtpxPoq3OdyR7/Mqg2P+XOeqewm4hA/wpA;jLYfIyweI3ELhaIgkMyx/g=="
 ---
 

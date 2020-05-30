@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-27T19:01:00Z
 webUrl: "https://www.sciencedaily.com/releases/2020/05/200527133147.htm"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
     excerpt: "Researchers have developed new software that can be integrated with existing hardware to enable people using robotic prosthetics or exoskeletons to walk in a safer, more natural manner on different types of terrain."
     publishedDateTime: 2020-05-27T16:36:00Z
     webUrl: "https://www.eurekalert.org/pub_releases/2020-05/ncsu-ric052720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 46
+    images:
+      - url: "https://eurekalert.org/multimedia/pub/web/233069_web.jpg"
+        width: 1440
+        height: 696
+  - title: "Researchers incorporate computer vision and uncertainty into AI for robotic prosthetics"
+    excerpt: "Researchers have developed new software that can be integrated with existing hardware to enable people using robotic prosthetics or exoskeletons to walk in a safer, more natural manner on different types of terrain."
+    publishedDateTime: 2020-05-28T02:26:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-05/ncsu-ric052720.php"
     type: article
     provider:
       name: EurekAlert!

@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
-excerpt: "Using advanced machine learning, drones could be used to detect dangerous 'butterfly' landmines in remote regions of post-conflict countries, according to research."
-publishedDateTime: 2020-05-27T15:55:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/05/200527105053.htm"
+excerpt: "Binghamton University researchers have continued to develop machine learning for using drones to detect the deadly \"butterfly\" landmine."
+publishedDateTime: 2020-05-27T19:32:00Z
+webUrl: "https://eurekalert.org/pub_releases/2020-05/bu-rud052620.php"
 type: article
-quality: 43
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://eurekalert.org/multimedia/pub/web/232917_web.jpg"
+    width: 640
+    height: 360
+    title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
 
 related:
   - title: "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines"
@@ -51,6 +53,6 @@ related:
         width: 640
         height: 360
 
-secured: "K9AdVUmcKjIBBpKR3H/ekS06ncqJOywaPCZqloAzJAGITKeU5ng77STHsWcNQ2SaxcSAqznPxVA1KXWh6L1ONIv1Hq8uGWUf47ZVUNVbBpGTrofsyWxS1Y6TE8QdZWxTsXOjrF1dPfzmlRO53eNFs9Eyq56Whf2dtsmAwbd+eTXfH1kSINzeFcfzYR1BDBXvmHhsyKKNYjOsnD/1CI62P1L9hdzV3JmHlvemrBLM4a5BNlXkTU5DujPxFZdPLbOWN68Ds3ptqcodg2MaIqvTNcFQp2EWBkzns5eOXvrX1wP/TXoJ6XfYpW11VcxhFvYL;5B+KgyokWzbfHFTswJAZ5g=="
+secured: "lXNnFwIqcVnLRDPzORxjpkXZRoEy2FZstbyL3uBtVRd0zqwgVfiV3x2UzS3ZCK56iske2DFD1XcM4hjGajGE292EF8DtpnENY+k3sXHSGrmkjYa2yLG99taBmWApxpYlDF5V3AbIGllHD7xizkhoQtQOEuRBusFWh8CMX3huq4Vm11mYcZfuVkJK1naSh+ZnpcZJi3VRD0zVYvejjzmSKdsZWrGUDJM4g+ratFT0BVWcTe2k696dwCkuCyieL7sb4jaMIYc+IRsmutRFJXV88LpezOSZFUHWfdRpH4CbXy236ZdBxM6b5ZkmN/7M5Ee2;0+KW7u/5gnQ4JBO/nat/Fg=="
 ---
 
