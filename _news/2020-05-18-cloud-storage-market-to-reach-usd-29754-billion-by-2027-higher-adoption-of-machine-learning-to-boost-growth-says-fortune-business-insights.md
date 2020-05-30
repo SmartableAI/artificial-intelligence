@@ -13,6 +13,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1169294/Cloud_Storage_Market.jpg?p=facebook"

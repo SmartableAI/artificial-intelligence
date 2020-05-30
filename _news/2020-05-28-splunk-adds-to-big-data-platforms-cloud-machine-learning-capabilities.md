@@ -5,8 +5,8 @@ excerpt: "Splunk added cloud and machine learning to its big data platform and a
 publishedDateTime: 2020-05-28T15:32:00Z
 webUrl: "https://www.crn.com/news/applications-os/splunk-adds-to-big-data-platform-s-cloud-machine-learning-capabilities"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.crn.com/resources/025d-0f84473f68d1-7bf8e9ff0680-1000/splunk-sign.jpg"
