@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/05/A100.jpg"
