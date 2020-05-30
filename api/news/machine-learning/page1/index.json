@@ -677,23 +677,15 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
-      "publishedDateTime": "2020-05-19T11:45:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16067170/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16067170",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16067170",
+      "publishedDateTime": "2020-05-19T10:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

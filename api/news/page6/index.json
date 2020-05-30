@@ -947,43 +947,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-22-coronavirus-tests-the-value-of-artificial-intelligence-in-medicine.md",
-      "title": "Coronavirus tests the value of artificial intelligence in medicine",
-      "excerpt": "Dr. Albert Hsiao and his colleagues at the University of California-San Diego health system had been working for 18 months on an artificial intelligence program designed to help doctors identify pneumonia on a chest X-ray.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200522/Coronavirus-tests-the-value-of-artificial-intelligence-in-medicine.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200522/Coronavirus-tests-the-value-of-artificial-intelligence-in-medicine.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200522/Coronavirus-tests-the-value-of-artificial-intelligence-in-medicine.aspx",
-      "publishedDateTime": "2020-05-22T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Coronavirus tests the value of artificial intelligence in medicine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-22-probeat-microsofts-ai-supercomputer-was-the-best-of-build-2020.md",
       "title": "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020",
       "excerpt": "OpenAI showed Microsoft's supercomputer not just completing code and offering suggestions, but writing code from English instructions.",
@@ -1116,6 +1079,51 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future.md",
+      "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
+      "excerpt": "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
+      "ampWebUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
+      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
+      "publishedDateTime": "2020-05-22T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_m6h8.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

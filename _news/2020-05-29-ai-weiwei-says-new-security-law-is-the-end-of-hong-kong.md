@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Ai Weiwei says new security law is the end of Hong Kong"
-excerpt: "Dissident Chinese artist Ai Weiwei believes the newly passed national security law for Hong Kong augurs the end for the semi-autonomous city"
-publishedDateTime: 2020-05-29T11:23:00Z
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/ai-weiwei-security-law-end-hong-kong-70947179"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/ai-weiwei-security-law-end-hong-kong-70947179"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/ai-weiwei-security-law-end-hong-kong-70947179"
+excerpt: "Dissident Chinese artist Ai Weiwei believes the newly passed national security law for Hong Kong augurs the end for the semi-autonomous city. Ai was arrested at Beijing's airport in April 2011 and held for 81 days without explanation during a wider crackdown on dissent that coincided with the international ferment of the Arab Spring."
+publishedDateTime: 2020-05-29T19:03:00Z
+webUrl: "https://www.sfgate.com/entertainment/article/Ai-Weiwei-says-new-security-law-is-the-end-of-15302689.php"
+ampWebUrl: "https://www.sfgate.com/entertainment/amp/Ai-Weiwei-says-new-security-law-is-the-end-of-15302689.php"
+cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/entertainment/amp/Ai-Weiwei-says-new-security-law-is-the-end-of-15302689.php"
 type: article
 quality: 57
 heat: 67
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_32e43b308eae4d67acf44a5ba4be0bcb_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     title: "Ai Weiwei says new security law is the end of Hong Kong"
 
 related:
@@ -41,6 +41,6 @@ related:
         width: 1280
         height: 720
 
-secured: "4o+a/1PKQRjaOAz8L7ErA1uvg7bQBLZL6OwjDs9lMQettMUckXKV8nc1XWEAnw/sHoL4kHEHC1dMfp5bP5wsPkwGjXoz1aFWhq+ky2x5JhtC2GHSkQndAlecEXFkyaGIDShYTy42TXda0ssgZOEcEfpXyVxaTqDjj7tJe5cHx2j9+ZnYuBBFCNu5wferkVwZaEFnbwBXVpWtba+BzHbGW+OEe4jl51ByAiV4x63vCDeNamHVbpoRH4dcivPfEUz5P/q3L4TGaXwFceQkf8UA04WkTYbUDOXZsK3vk9GorJ1MMQpUpvzdypx7q4ahzxWaQnIUI2WU7nnnlS6L6dGCsepEp7MZhWdW8Xuz4WToW86bb9JPOfQPXbdBzyWx8uoPgW0wUkFDjfyTu0f5kFOUqDz/KNP9XjAeDb6tyJm6KsqL7T7FZ1ISEyG46lNQf9Xn6ec+gciloVt6mN+EgY33eKHLxGXNughT6wLUzSO25EU=;o06AbohKBJ+yNUWpHvXiJg=="
+secured: "nFl1QIkXfZOOWQq/G2Za4FQ/JFczOJCkpKIrMouE377cdZxpgLYbhwcCpPJNMBqMaFHCqnUWaiyRhNCclA61In9WLw8XRZ37M9Wu2xH7syiCBuGgyw+slD7aSAbjFIsjho4915qRg04pMMQAAGslQq0IiEzmky/S2WuDICHT0LM1wS6oGHZBMwP0bq8L1OHk/h4MdWCG+V97PO5VZenLpVSEsi8o/amuvNK25gMVubFukArSbzR7iQ0KeImxYNjmyg1v0bGf10WHS6pzptzLfY8m5yzWPdylynjz4xSiof2k1ZTwmAA2Yw2uAjck3n2W;q1Ub5vNZ9cjuXEa5hfYEUA=="
 ---
 

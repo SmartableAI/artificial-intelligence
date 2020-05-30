@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-30-this-indian-start-up-is-using-ai-to-monitor-covid-19-progression-inside-patients.md",
+      "title": "This Indian Start-Up Is Using AI To Monitor COVID-19 Progression Inside Patients",
+      "excerpt": "Ray in about a minute and provides details about whether a patient was getting better as a result of the treatments administered.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/351294",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351294",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351294",
+      "publishedDateTime": "2020-05-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590832747-PrashantWarierQureai.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This Indian Start-Up Is Using AI To Monitor COVID-19 Progression Inside Patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-new-ai-technique-speeds-up-language-models-on-edge-devices.md",
       "title": "New AI technique speeds up language models on edge devices",
       "excerpt": "Researchers at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and MIT-IBM Watson AI Lab recently proposed Hardware-Aware Transformers (HAT), an AI model training technique that incorporates Google’s Transformer architecture.",
@@ -1049,51 +1093,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-walmart-employees-are-out-to-show-its-anti-theft-ai-doesnt-work.md",
-      "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
-      "excerpt": "The retailer denies there is any widespread issue with the software, but a group expressed frustration—and public health concerns.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/",
-      "ampWebUrl": "https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/amp",
-      "publishedDateTime": "2020-05-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec715a79c054fb2c4f58e7e/master/pass/Walmart-Self-cHECKOUT.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
