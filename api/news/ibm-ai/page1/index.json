@@ -5,7 +5,7 @@
       "path": "_news/2020-05-29-new-ai-technique-speeds-up-language-models-on-edge-devices.md",
       "title": "New AI technique speeds up language models on edge devices",
       "excerpt": "Researchers at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and MIT-IBM Watson AI Lab recently proposed Hardware-Aware Transformers (HAT), an AI model training technique that incorporates Google’s Transformer architecture.",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {

@@ -25,6 +25,6 @@ images:
     height: 360
     title: "New Digital Studio Lets Brands Build Their Own Realistic Human Avatars Powered by AI"
 
-secured: "RZoeqNs8EEAskYIlwW3760Ib3p47N1plQ8V9uTLuN/QilnF5RVNUcTLcpXNjyHitXhLtmfphAqd1i17f1fUAiMJixUIBFSjxx4f2Q9Kn/bb+6bXqRUrEp7uJLJkIM0WHAxDyk4yjN0151C+rIZ4sZIESI18+9kyRlVO5YJjEqdqok8rnLTjaBaGBj3XfptGnBQn/mCcFeEPtiGh+O8iGwa9M7n/yvFsINWNxRyMBgPNg2K1ZrAmckqGjAdUG4Hx2GGZhnhUp8ymg2jMCQ2N07K6lKhLahk9/sCuE5IehixPuBEZoGhQSYRVS5k+i//UU;gaKBO3lT7Nru0HVvK1ZYhQ=="
+secured: "NsuoHW7KPmlkPDxNBkFdR+bUb9s5RedzBbOh/hBY+Yq5wIL20iUKOkLweLRG2DtSe0SL1f2bPUYoXPssxAY6IpBT5rF53SCWPo+ym7rpUdThTrU3856VPr9ghkFA//A3etT4QY0EUfekVE7NojF0w3PrRGCBvczM+DDVqxHVM6fjS/kqvvG7HHzfaaX28f/+ISpwH7SYq4k63hKx6nBJHWBxjWQY8upAhDs4yTuJEJHak/rV0s49jJ7GPwy2leXw3YA/qegouJ3p2OgTXPBg2haziEZ2ZIU0IF6lS03EsMn3IKNSVMossjlfg+n+3DwQlyUEQt8bkQdJ6WrvKpmTNjHfdNEmwmHjq9fGLkza4EDY8g35cdq+o1hcc52OrM5C4rv0esy7ci/SCzepCnW29QzGxyf8bf6N/fcHhuRmjuLoWmb3/tUzFeYfWQY+FARXRmIYR9a6b+XQviQKmSiQSRYU2k2DSQ2tOKLVzw7SwlM=;U4039ZIXp7nRvsfXwfyGXg=="
 ---
 

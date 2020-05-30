@@ -2,27 +2,27 @@
 category: news
 title: "Indian-American IBM scientist bags inventor of the year award for improving AI capabilities"
 excerpt: "Dr Joshi, who is a master inventor with more than 250 patented inventions in the US, works at the IBM Thomson Watson Research Center in New York."
-publishedDateTime: 2020-05-26T03:38:00Z
-webUrl: "https://www.thehindu.com/news/international/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities/article31676193.ece"
-ampWebUrl: "https://www.thehindu.com/news/international/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities/article31676193.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities/article31676193.ece/amp/"
+publishedDateTime: 2020-05-26T03:39:00Z
+webUrl: "https://www.moneycontrol.com/news/world/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities-5313481.html"
+ampWebUrl: "https://www.moneycontrol.com/news/world/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities-5313481.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities-5313481.html/amp"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.thehindu.com/news/national/ldtktg/article31621518.ece/ALTERNATES/LANDSCAPE_615/BreakNews-3"
-    width: 615
-    height: 384
+  - url: "https://images.moneycontrol.com/static-mcnews/2018/06/Answer-14-770x433.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
     title: "Indian-American IBM scientist bags inventor of the year award for improving AI capabilities"
 
 related:
@@ -42,6 +42,6 @@ related:
         width: 660
         height: 450
 
-secured: "2Xady6pN5tJCPRazMoRsQTdyYG/JURt/9DpAauPT7QryPFT8tGUzp+tX3Qerg84+R2M/Glw4cLJITR1cDRlQ9gtoivr/7yjk6XKyNghIeidGpigSudTg4v4d/jo8CzXcw480cnTHHwfrio3w9JHPG6dspJnz3f3Nb1zThrbP9yKfe0WZWz8cJKZwbPhjsbgtp0am26XEPFGWc30k1HFjGVrV1PpxyxjTt4J2lBTYIV9AH8ZVJJ3UrieDLfmWbqZUrM8yPA43jGjDF2bq6WuzeN3k9vqvK7vuNJo0CJ7YpnEdKs7HCRQ4XT7xbc91a9deEWYFUFq1kpg4Q/78J3fhS+OmtA4VbOJ2F6SN0Ou6/273GsZIdk97gjt8e2/q0lqNQ9MGg/2K42RqZ3y56I+PotTonTqef5rXJjoWb8Y9YkUybvnKnBrqkA81S+c2rIEyDghlod8wD/VBLbNiA5pIIH7gUVIZ/NyXjdqYrlWnt3c=;7VWk9uv/tQr6iEziaYuXsA=="
+secured: "NZSFQqS5z8zFX8hhn8xSX9vKnOUXJGsoqUzw50TBu8JKccCcLNguenh9G+vO5tOHTV1wFXh0TMOUVxkKhJIbp8it7t342itk4IP7YC5cpmnv/lI4uSkEQTqzOEmzKgNd4bXFfjlF7oxAXObvGZGjjkGP+EspiWQ/TCxMnGhqP1eE7leWqs55pUmiYdnFkUqxLqv8G6Eh8/d34uem5F1rwY7GAteXu5dyihJtLAJYz/XVeAG9KkR6C4dAXrEDhkYAomhqrklZpjE4PncM72jxUG9nutoOdDOCwBXXR96I6Vt6+yxoN4bUwRjdXBjCceDb;9cODw9vrwxZVmyRFNp/d7g=="
 ---
 

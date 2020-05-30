@@ -29,6 +29,6 @@ images:
     height: 786
     title: "The Need For Speed: Faster AI Adoption Requires A New Plan"
 
-secured: "VAtklx8pZeQnMC+iPJsfWOyUoUJTVbdWQbexlUZBx5VSm6k9Jx0pQfvCnqkknaDlEBHNNf06z9UwnKuKVqBAMrrmfHhuD7G5VJtv1vxUINl3IuUbjM4cGatNLfS//WO6YxVX1YGuzEhdaDYoXORMS1874vTh+j8x2M+furpfwvcGytz3qCRwNkuD+wccy4GNLfotfPs2G0DoKuHq8nqMkKMTy5qYTEQm1ZfogdAB+3PD2M021HkWWR+7al1JRfJpW7Im5sGKC+PR1Tzsli/yxcPU5QLg7+qihGgCK+wm7CjDt5MpK/PjXXiYX/9jgo65;VfCeaGbwP0o2WJ305v6HAA=="
+secured: "J8fmLWIKGbYG1SGzvYbY2fBzyyuZOva2/X08R/v8U7tVxGQnDRGmdipjo3Uk/9/oZyrzrgti8O3llLHn7kB0f+gaRoxkWTvNM5GsexjKYDFHd8d0TWMQYNZWazbKspKPGK1MGBo81FI3oGchbxBVoAZ9XIRSNudY+d+h5/G8YBnMzWLub1IPH/CX0wvBpjqdzZgLDNr1mGyib3caOW5vuBXk1XEiUFBgOTv04YQS0Rm7IL8blaN310+6sijrgl0oszxNTMe9Afvs9I5l1dS2BmmOvG8ir/rjYpe/Vlpyii0SmT1w/4aTMVKI//95wwBXNxzGRP/XlQu3thAiNJJqPKGBCleV9BVwGhLmMzMivoATpcEp1EuRWIfpXFPthj2wQxwt2iG1GIfRGx3qqjEmXDn2wDkuC+havgMwt3dhThNUkSnK01ro9Z/y95QnJ6WBQqJQ9LJrvbMTPEFnYTYh0D/daiknxEtU4yUTkgREGBQ=;Zh9VpiyPOKZSpxEoJgh3Cw=="
 ---
 

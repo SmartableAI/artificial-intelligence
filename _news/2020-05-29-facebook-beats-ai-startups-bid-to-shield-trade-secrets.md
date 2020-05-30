@@ -7,8 +7,8 @@ webUrl: "https://www.law360.com/articles/1278184/facebook-beats-ai-startup-s-bid
 ampWebUrl: "https://www.law360.com/amp/articles/1278184"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1278184"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 secured: "MI2R5rlol9o568SQzbOq9VAUbsFO/CHSQbsBthR1nkToMN8boHWsX8962dLMQgzAKc1CAIFECUAcaAtUWi5UBo6VZOjGhuw1aHu/2vwc0WSW/kVLQpVYxLLblCPgpCOxcJZCbeBaGUOI/ytnd5fEVRE4fBo941/hqSqyMA6DM4hLrrVrcaTPdt7/K9e7Qa7F9vPmlZM46cEPQBZ6xOqJ0BO8oMPgilS4L6eOrHkd6aZOZNsBVpp0CerlwkUEvtANpGdXeTE2f07NxOTWvjOP1wK9qsJblSyZqAyxDgAS1kiWWVIzNYfzrwKqz90YQMAC;9uxbFk7XVdOTDWit3Zrr9g=="
 ---

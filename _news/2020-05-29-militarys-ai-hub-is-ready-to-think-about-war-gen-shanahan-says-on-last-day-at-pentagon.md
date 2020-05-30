@@ -23,6 +23,6 @@ images:
     height: 1024
     title: "Military’s AI hub is ready to think about war, Gen. Shanahan says on last day at Pentagon"
 
-secured: "0ip7i14WB4nnEIW/upod9SWVuAYiEGjl/O7yCuYRPI5/ECu2RQRbUuHHaSk2v/l/bm4TOH56Xcr5y8blWR4S4unzS0pTlVzPgyxFSvdtXtD8NIMIe2ImopIyb0bZvcxdkP0xT+CH/Bs5zOpUqfoCUKIVg8r4ViZBGNHEC3cWrTfn14X66IO0EPsrbgOEeVaLF10K0U39yON33n7OkIFwnqJYyimDXh6r4oVYc4dmduZ/K2FECM8dXvqWQjELBXf/o0FrjEZhB5iU4bDbFG89FL8LZpKRYLyZcoGLwo9zDxwomNe7LxN6FLLkwbOwLBk0;nt2Auo3SjKKHkNe32Fyq+g=="
+secured: "UkWVcOrMccHJGVyaZTjkYsVFnSNgB6DQBrbBWiYHb8n3OfrruwH46XLpYlloqryNxHGdvJj51330eD8jcy0jJUiO2EGgPwZ2DG4jBoe72HIn2r9C+ktyrGFX3q/VFy0dCbfkw/qW3KE86bV4BMunLit+HuTjcU+Jt5jdTlIHJgqlcoMnc558aozlOqpCAPFLAQIHcE1Mt+bYeiGy8b20+In9I1mjUaCzXCl1GK6G6JSFcUbwoKpE0flLz7QFZFeEYNPeDP9+gAtwT8BHyEMRbPc3PLuDZeITqXr8/e/CXZ5ssgkQRnj+GCIqrXRmxNTBPXjUHnyIaqouELRcxLMgDuAfBFaQA9GMVpU9QQGkX2Ot2JGePLqVzwxsJSj2Uz6xIWNTHote0O/JrvRTzKNPxeSZGj/EtUjZstqcLRDWD6aqsrjAdNeBwFf2vKC5NLsNpdZdr7JQgfOyuaB0Sn5D+5W6ZU5vJ0KwLqNgUtn6eGg=;CfhUG7LOR4FkWDtlcJXx/A=="
 ---
 

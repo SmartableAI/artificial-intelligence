@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-21-gap-is-rushing-more-robots-into-its-warehouses-to-handle-coronavirus-disruption.md",
+      "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
+      "excerpt": "The news illustrates how the pandemic may speed up automation in the retail industry. Companies including Gap and Amazon have long used such systems for a range of tasks, like moving items across warehouse floors.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
+      "publishedDateTime": "2020-05-21T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106547755-1590087185389gap.jpg?v=1590087262",
+          "width": 1326,
+          "height": 745,
+          "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
       "title": "AI chips in 2020: Nvidia and the challengers",
       "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
@@ -1001,43 +1046,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-the-robots-are-taking-our-jobs-threat-gets-real.md",
-      "title": "The Robots-Are-Taking-Our-Jobs Threat Gets Real",
-      "excerpt": "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
-      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
-      "publishedDateTime": "2020-05-20T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-15-facial-recognition-firms-are-scrambling-to-see-around-face-masks.md",
+      "title": "Facial recognition firms are scrambling to see around face masks",
+      "excerpt": "Because of face coverings prompted by the coronavirus pandemic, companies are trying to ID people based on just their eyes and cheek bones.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/health/facial-recognition-firms-are-scrambling-to-see-around-face-masks/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-firms-are-scrambling-to-see-around-face-masks/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-firms-are-scrambling-to-see-around-face-masks/",
+      "publishedDateTime": "2020-05-15T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/bxotKLLLXdGY0MGRcmXGsKAdVIo=/756x567/2020/03/19/c7c10680-5921-4f44-9797-3902b191bcda/coronavirus-masks-n95-health-5058.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Facial recognition firms are scrambling to see around face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-how-amazons-alexa-voice-assistant-is-changing-its-tone-during-the-pandemic.md",
       "title": "How Amazon’s Alexa voice assistant is changing its tone during the pandemic",
       "excerpt": "The ins and outs of the coronavirus outbreak are changing Alexa’s work habits, said Manoj Sindhwani, Amazon’s vice president of Alexa speech.",
@@ -1221,51 +1267,6 @@
           "width": 1200,
           "height": 900,
           "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-releases-ai-tool-for-processing-paycheck-protection-program-loans.md",
-      "title": "Google releases AI tool for processing Paycheck Protection Program loans",
-      "excerpt": "Google released a tool -- PPP Lending AI -- that enables lenders to leverage AI to process applications for the U.S. Paycheck Protection Program.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
-      "publishedDateTime": "2020-05-01T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases AI tool for processing Paycheck Protection Program loans",
           "attribution": null
         }
       ],

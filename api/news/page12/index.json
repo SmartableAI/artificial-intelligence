@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-05-19-ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients.md",
+      "title": "AI is helping get medical research into the hands of doctors and patients",
+      "excerpt": "A patient-centric approach helps advance medical knowledge, which is desperately needed in the middle of a fast-moving pandemic.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "publishedDateTime": "2020-05-19T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/19/96ab2ebc-4b2e-4359-af1c-edd50149a4f4/resize/1200x/f33ff0c5fa127e5b5f86d5a3a01afd04/istock-1200774681.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI is helping get medical research into the hands of doctors and patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-master-ai-machine-learning-with-this-discounted-training-bundle.md",
       "title": "Master AI, Machine Learning With This Discounted Training Bundle",
       "excerpt": "It's time to demystify AI, and The Essential AI and Machine Learning Certification Training Bundle is here to help for just $40.",
@@ -998,35 +1042,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-sony-semiconductor-microsoft-partner-to-create-smart-camera-products-for-enterprise-customers.md",
-      "title": "Sony Semiconductor, Microsoft partner to create smart camera products for enterprise customers",
-      "excerpt": "Sony Semiconductor Solutions (Sony) and Microsoft are partnering to create products that make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. As a result of the partnership,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telecompaper.com/news/sony-semiconductor-microsoft-partner-to-create-smart-camera-products-for-enterprise-customers--1339097",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

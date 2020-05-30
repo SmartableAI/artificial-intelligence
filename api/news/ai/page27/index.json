@@ -2,6 +2,43 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-05-04-facebook-ai-open-sources-a-chatbot-with-empathy-and-personality.md",
+      "title": "Facebook AI open sources a chatbot with empathy and personality",
+      "excerpt": "The most recent addition to Facebook AI’s open source projects is Blender, a state-of-the-art chatbot. What sets it apart is its novel blending of skills.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/facebook-ai-blender-171586.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/05/facebook-ai-blender.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Facebook AI open sources a chatbot with empathy and personality",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-tackling-cybercrime-with-ai-during-covid-19.md",
       "title": "Tackling Cybercrime With AI During COVID-19",
       "excerpt": "On a recent panel discussion with AI experts about the world after coronavirus from an AI perspective, Sophia explained that robots were created to help humans deal with big problems like the pandemic or climate change.",
@@ -1223,43 +1260,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-cisco-and-microsoft-partner-on-iot-device-connectivity.md",
-      "title": "Cisco and Microsoft Partner on IoT Device Connectivity",
-      "excerpt": "With this arrangement, services such as Microsoft Azure Stream Analytics, Microsoft Azure Machine Learning, and Microsoft Azure Notification Hub services can be used to quickly build IoT apps for the enterprise, Shakib said. Additional telemetry processing ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://adtmag.com/articles/2020/03/05/cisco-microsoft-iot-device-connectivity.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "adtmag.com",
-        "domain": "adtmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F1UEM.jpg",
-          "width": 647,
-          "height": 450,
-          "title": "Cisco and Microsoft Partner on IoT Device Connectivity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

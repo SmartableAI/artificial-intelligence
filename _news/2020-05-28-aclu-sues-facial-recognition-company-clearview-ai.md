@@ -71,21 +71,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F57216d80-a0fd-11ea-bfed-15a76691dfdb&client=amp-blogside-v2&signature=3caba45714d89119f1e3dcf6c427996c35b5e497"
         width: 600
         height: 350
-  - title: "The ACLU Is Suing Shady Facial Recognition Startup Clearview AI for Being a Shady Facial Recognition Startup"
-    excerpt: "The facial recognition org Clearview AI—which you might know as the firm that secretly harvested the photos of millions of people from their social media profiles before pawning said photos to law enforcement—is officially facing a lawsuit from the Illinois-based branch of the American Civil Liberties Union,"
-    publishedDateTime: 2020-05-28T23:19:00Z
-    webUrl: "https://gizmodo.com/the-aclu-is-suing-shady-facial-recognition-startup-clea-1843739244"
-    ampWebUrl: "https://gizmodo.com/the-aclu-is-suing-shady-facial-recognition-startup-clea-1843739244/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-aclu-is-suing-shady-facial-recognition-startup-clea-1843739244/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 85
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/znk9sbuuooxranebzxjw.jpg"
-        width: 800
-        height: 450
   - title: "Facial recognition fails accuracy test raises privacy concerns; ACLU sues Clearview AI"
     excerpt: "Existing criticisms of facial recognition technology once again is being called into question as news of Amazon’s “Rekognition” software was found to"
     publishedDateTime: 2020-05-28T21:15:00Z
@@ -99,6 +84,21 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
         width: 700
         height: 379
+  - title: "The ACLU Is Suing Shady Facial Recognition Startup Clearview AI for Being a Shady Facial Recognition Startup"
+    excerpt: "The facial recognition org Clearview AI — which you might know as the firm that secretly harvested the photos of millions of people from their social media profiles before pawning said photos to law enforcement — is officially facing a lawsuit from the Illinois-based branch of the American Civil"
+    publishedDateTime: 2020-05-28T12:50:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/05/the-aclu-is-suing-shady-facial-recognition-startup-clearview-ai-for-being-a-shady-facial-recognition-startup/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/05/the-aclu-is-suing-shady-facial-recognition-startup-clearview-ai-for-being-a-shady-facial-recognition-startup/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/05/the-aclu-is-suing-shady-facial-recognition-startup-clearview-ai-for-being-a-shady-facial-recognition-startup/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 38
+    images:
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/05/29/znk9sbuuooxranebzxjw-1024x576.jpg"
+        width: 1024
+        height: 576
 
 secured: "OU8ZOW6xGWyxAv9bNqqYmONP2VSUITAUhffa0H/R6ZxNjpPU1KiYFC7I4iB6RdNDxScOQmcHQNgHWyqAlJl7YSCwqhzv49Co62f3TaFOLj7svXS7fHeu0SEYFfcxLHHJhB3a7uKlAeTvOlRBJn48xFtbz5ufgr1eKl9ezMxUNE/Ntz8r0oIvXBZep0HkiLzOoXUtf78Nlu/W0rV7YMdoRhLlRJcyiuVbBtR4e5VpNIBbToaeOHxHPewZMcr79twdx9B9jO9LXox4rc6mW1apq2+1mGpl8CKNxe2rSR0SVoviC26wNG1JzlNcS1TD5MDN0LEKnrXIb/jSuTeW7UOTCCMbbmh/4fGYAm9Y+6ASNpEyIASq+aCl0GH8lmbmf72kEr7PY3SEUnPoPoG/gMoP/GrKRs2LKgEmcAuyjKYdqYzGJothvjfPd38ubHAMElYpAu0j6bjgt2ik60RHV/NSQRR7zdkw3yR1R4FqhA9TQx0=;6nVxT75ci2w3KPfMO0tiPA=="
 ---
