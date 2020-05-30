@@ -2,6 +2,51 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-05-03-masked-or-not-mike-pence-keeps-the-peace-with-a-poker-face.md",
+      "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
+      "excerpt": "Task forces and vice presidents don’t get to decide things,” said Tim Pawlenty, the former Minnesota governor.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
+      "publishedDateTime": "2020-05-02T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/03/us/03dc-virus-pence-image1/03dc-virus-pence-image1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-cisco-and-microsoft-partner-on-iot-device-connectivity.md",
       "title": "Cisco and Microsoft Partner on IoT Device Connectivity",
       "excerpt": "With this arrangement, services such as Microsoft Azure Stream Analytics, Microsoft Azure Machine Learning, and Microsoft Azure Notification Hub services can be used to quickly build IoT apps for the enterprise, Shakib said. Additional telemetry processing ...",
@@ -1220,43 +1265,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-artificial-intelligence-amazon-and-ubc-are-working-together-to-chart-coronavirus-treatment.md",
-      "title": "How artificial intelligence, Amazon and UBC are working together to chart coronavirus treatment",
-      "excerpt": "UBC researchers are teaming up with Amazon Web Services to develop a global cloud-based dataset that uses artificial intelligence to build treatment models for COVID-19 patients.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ctvnews.ca/sci-tech/how-artificial-intelligence-amazon-and-ubc-are-working-together-to-chart-coronavirus-treatment-1.4920374?cache=yes%3FclipId%3D89531%3FclipId%3D89531%3FclipId%3D86116",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2020/5/1/1_4920374.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2020/5/1/1_4920374.html",
-      "publishedDateTime": "2020-05-01T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/1/26/1_4784484.jpg?cache_timestamp=1588340116540",
-          "width": 1020,
-          "height": 573,
-          "title": "How artificial intelligence, Amazon and UBC are working together to chart coronavirus treatment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -27,20 +27,20 @@ images:
 
 related:
   - title: "Indian-American IBM scientist bags inventor of the year award for improving AI capabilities"
-    excerpt: "Dr Joshi, who is a master inventor with more than 250 patented inventions in the US, works at the IBM Thomson Watson Research Center in New York."
-    publishedDateTime: 2020-05-26T03:39:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities-5313481.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities-5313481.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities-5313481.html/amp"
+    excerpt: "Dr Joshi, who is a master inventor with more than 250 patented inventions in the US, works at the IBM Thomson Watson ... industry and improving artificial intelligence capabilities."
+    publishedDateTime: 2020-05-26T09:08:00Z
+    webUrl: "https://www.thehindu.com/news/international/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities/article31676193.ece"
+    ampWebUrl: "https://www.thehindu.com/news/international/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities/article31676193.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/indian-american-ibm-scientist-bags-inventor-of-the-year-award-for-improving-ai-capabilities/article31676193.ece/amp/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: The Hindu
+      domain: thehindu.com
     quality: 49
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/06/Answer-14-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://www.thehindu.com/news/national/ldtktg/article31621518.ece/ALTERNATES/LANDSCAPE_615/BreakNews-3"
+        width: 615
+        height: 384
 
 secured: "EnCksZ4lRlex3RgtuoYcGWbkhSwBgwSyxnB0aZOqmgdaMeHbaFplKU0BkTWgC5QuI3/8VU04Sef0snrj/PE9wXxjh8rcoXrjav1MJKUoIj1H03BK+RhFqtggm1g0Kphy5mZmD4+F5WnCtX2sL78cr7Iq1mhqmLyYIFNDmOgp1STio1dq1fipJShoiWoX9quOZkwxepV4I/pt7sv4pryWuQzPMyp2jHM9WCsLtGiPJK1jlxNNCY4NU5V+x5mat45hv7NQA8GedSLyfnb3GKXYfyRQskkEhbKT0/CbiIAm5yyrROwzXHD0OU72Dv5sohaE;Bov/zdhdMUrprE8aiV+FuA=="
 ---

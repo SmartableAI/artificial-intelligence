@@ -4,6 +4,8 @@ title: "Shopify unveils Balance debit card, opens AI-powered fulfillment network
 excerpt: "Shopify Balance debit card, Shop Pay Installments, Local Delivery product, and fulfillment network accepting merchant applications."
 publishedDateTime: 2020-05-20T16:34:00Z
 webUrl: "https://venturebeat.com/2020/05/20/shopify-balance-debit-card-opens-ai-powered-fulfillment-network/"
+ampWebUrl: "https://venturebeat.com/2020/05/20/shopify-balance-debit-card-opens-ai-powered-fulfillment-network/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/20/shopify-balance-debit-card-opens-ai-powered-fulfillment-network/amp/"
 type: article
 quality: 60
 heat: -1
@@ -19,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/05/shopify-balance-card.jpg?w=1200&#038;strip=all"

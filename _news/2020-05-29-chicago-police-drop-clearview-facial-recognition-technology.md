@@ -1,35 +1,32 @@
 ---
 category: news
 title: "Chicago police drop Clearview facial recognition technology"
-excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns. The"
+excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns"
 publishedDateTime: 2020-05-29T22:56:00Z
-webUrl: "https://apnews.com/c354e15c592548eba0e84a7b0702f72e"
+webUrl: "https://www.dailyherald.com/article/20200529/news/305299907"
+ampWebUrl: "https://www.dailyherald.com/amp-article/20200529/news/305299907/"
+cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200529/news/305299907/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
-    width: 700
-    height: 450
-    title: "Chicago police drop Clearview facial recognition technology"
+  - Computer Vision
 
 related:
   - title: "ACLU sues Clearview AI over 'unlawful' facial recognition technology"
-    excerpt: "Facial recognition software provider Clearview AI has been hit with a lawsuit by the American Civil Liberties Union and several other organizations. The lawsuit, filed in state co"
+    excerpt: "Facial recognition software provider Clearview AI has been hit with a lawsuit by the American Civil Liberties Union and several other organizations. The lawsuit, filed in state court in Illinois, accuses the firm of violating state privacy laws over its use of facial recognition and biometric technology."
     publishedDateTime: 2020-05-29T18:05:00Z
-    webUrl: "https://www.tomsguide.com/uk/news/aclu-clearview-ai-lawsuit"
-    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/aclu-clearview-ai-lawsuit"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/aclu-clearview-ai-lawsuit"
+    webUrl: "https://www.tomsguide.com/news/aclu-clearview-ai-lawsuit"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit"
     type: article
     provider:
       name: Tom's Guide
@@ -79,6 +76,6 @@ related:
       domain: houstonchronicle.com
     quality: 24
 
-secured: "WaGO3QJOg+779Ex91+zsFpYbmO50ytsYmlYJzfN84RfQCe6UH/M+9Zghw3PN3+kqT+z1fFA/OICcACPF7qwk6eSGKPNP50tp27ZF9MZEcwZF0kGlkbSo49BGHbc6JbJsf80YJiK1j9LtigryO1DW3DAMYjo04L//i4IjegLC+Whmjh+rGxp3qdPLp0ghifQZa/t/bGdqmV+ldLjUezrBdH2sZY+wJYBXuLWSpaVy5k0Ac8AGi6NSNQRALcTdlzSdweakd24stv3z3RFmWNODrpzMxzSnIA2hYOLyvSqIP3nAbsRtbFlGK/5Zl5El6AFt;Ak4MyZMMt28ETjmD73b/Lw=="
+secured: "HbzYqTDsVVsRbd1mKN+c/a2jMVUFy5El9BHadIzzkqlWTXngMVVLKDIn5ThkekxMukG691kEi2BPR+zWLeY3bKm7NmVmE/8f9ks4XhkDGtNG2m6sEpEB+PKf+h9T0zA3yGDZFlN0kTUg+zQsV7p7q82IlZ1wiPYPUGEEUddPXtcJ7cZfvwgjvV2MFb+Qfh2hj9SCQLa3Nk8/25C/ZM+5wwP9sjWz77+YtPpH/yP686c3XLTs/aDOcWtESQpi2YHHMfZ9LS2R+mpuR4tF12qtdFFTrJ8fwqsd9sjaj5L4z3yJIYfMogSeXtxXKZmS5BAD;gDCDpMtAk3Gd/0m0SLFGOQ=="
 ---
 

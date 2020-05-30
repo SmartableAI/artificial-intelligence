@@ -55,6 +55,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "At 46.21% CAGR, AI in Healthcare Market Share, Current Trends and Research Development Report to 2025"
+    excerpt: "A recent report on AI in Healthcare Market provides a detailed analysis of the industry size, revenue forecasts and geographical landscape pertaining to"
+    publishedDateTime: 2020-05-30T05:26:00Z
+    webUrl: "https://www.medgadget.com/2020/05/at-46-21-cagr-ai-in-healthcare-market-share-current-trends-and-research-development-report-to-2025.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 19
 
 secured: "0MsafToROagXGElvSfU5V9vmpT7PO0WiKlPuVVHsQKY7tZDXJAOQAQei4tVf2S3kYlJevm7X7bdy7otq22Sh+V29C/sTPFIEQdjN8AAIVJm/N0reqdw67wW1JjSKQj03K3R1geV9ZnoiNxEEfW0rpnAupdPj8M1v75xSRCfpjtZoNQqrnYCH5BnrryvVqVYKDj5v7qiGev6g23c2ogsTzCec65Bj1VCs/UVtJodSHi1/51gONvHsHZNKYBt1OuUddQ5SspFdmBoBVfe46f9c0h2ND93fmQQsjVy0duxAs3GIws2EYXtXWTQ9L0j28XAl;hdm1do5vuoaiUDi9yw53WQ=="
 ---

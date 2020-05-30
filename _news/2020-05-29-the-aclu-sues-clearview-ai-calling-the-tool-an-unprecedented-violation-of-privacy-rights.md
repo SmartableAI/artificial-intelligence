@@ -25,11 +25,11 @@ images:
 
 related:
   - title: "ACLU sues Clearview AI over 'unlawful' facial recognition technology"
-    excerpt: "Facial recognition software provider Clearview AI has been hit with a lawsuit by the American Civil Liberties Union and several other organizations. The lawsuit, filed in state co"
+    excerpt: "Facial recognition software provider Clearview AI has been hit with a lawsuit by the American Civil Liberties Union and several other organizations. The lawsuit, filed in state court in Illinois, accuses the firm of violating state privacy laws over its use of facial recognition and biometric technology."
     publishedDateTime: 2020-05-29T18:05:00Z
-    webUrl: "https://www.tomsguide.com/uk/news/aclu-clearview-ai-lawsuit"
-    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/aclu-clearview-ai-lawsuit"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/aclu-clearview-ai-lawsuit"
+    webUrl: "https://www.tomsguide.com/news/aclu-clearview-ai-lawsuit"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit"
     type: article
     provider:
       name: Tom's Guide
@@ -55,18 +55,16 @@ related:
         width: 1320
         height: 743
   - title: "Chicago police drop Clearview facial recognition technology"
-    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns. The"
+    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns"
     publishedDateTime: 2020-05-29T22:56:00Z
-    webUrl: "https://apnews.com/c354e15c592548eba0e84a7b0702f72e"
+    webUrl: "https://www.dailyherald.com/article/20200529/news/305299907"
+    ampWebUrl: "https://www.dailyherald.com/amp-article/20200529/news/305299907/"
+    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200529/news/305299907/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 41
   - title: "Chicago police drop Clearview facial recognition technology"
     excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns. The American Civil Liberties Union filed a lawsuit Thursday against Clearview AI over its technology that allows users to compare photos with a database of billions of photos collected from the internet."
     publishedDateTime: 2020-05-30T03:13:00Z

@@ -7,8 +7,8 @@ webUrl: "https://www.charlotteobserver.com/news/business/national-business/artic
 ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243073231.html"
 cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243073231.html"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "US joins G7 artificial intelligence group to counter China | Raleigh News & Observer"

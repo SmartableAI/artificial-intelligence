@@ -30,7 +30,7 @@ related:
     provider:
       name: Charlotte Observer
       domain: charlotteobserver.com
-    quality: 33
+    quality: 35
 
 secured: "BVybV+BFQsUW+WS+25DN79TyCJCt0nbkPGssHCSRREF5q/8wzHDHSORRLK9vQwwIioef0yphC34cKNzEuBogAZ2XhlSEBKOv2D65DF/P7A1JsVg/A4RGNqsO8HXind6R7v1mZpV0sD3XXXYDp8mgwQ/JGX+lGN1wrjWnGZCVkf4px8unUP5p59bTr8WIQi99CtrUALeC8rnJXpwU5o22qm66HB9dVOLTvm6zilCRvJFC6RcqxwnQbzHklag5qYjOhHRPxPmugYfFvmjwVHswqjY9LwsfTSRNxDXDUK8fKSrG/E2a3N8Wst54y4/BcDbU;Ifi8Qt8PYb5qoYdDA0+Y2A=="
 ---
