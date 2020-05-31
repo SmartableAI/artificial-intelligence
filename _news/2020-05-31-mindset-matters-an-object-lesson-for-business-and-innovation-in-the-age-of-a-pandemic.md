@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Mindset Matters: An Object Lesson For Business, And Innovation In The Age Of A Pandemic"
 
-secured: "1Pki89AkNSsuNmHtoo+tGrhipdUisYMalCe6DoIsdBvmg09rc8wu0/vWULEImaYk8sUtB7xv5wEBjFTY9QfzBwGC8m6vY9JCBOKTIKGeB8RZJ1EPFawZRC2WsPn0kCnT9+/vBLTVS6N0XUODACippKLait4hhsRfA7dq1l9KPiZArLAoxKlbrKLsXcBBx6rPBVegEERLA2UHiFs8xfboTUgBpSG2ytD78g/FzIbD4w9Zo7I5t/0kfooUyH57PvTKMSgBFRhC+iN6Tr/x9YzcJpxzkj1EZe7RTvXYnNI+us3gEng+cqHls0nxnOEdYRtF;7ZT6Yp2PPVfz9EL6s5uiuQ=="
+secured: "nK+ZVB1Enxlx5q5YE6d9nW/EvdrIv2SyUMpwRKpSH1VUX8sxk5VnhDimgTijoNbbViT1rhheQ8ipALUPz2XgCRXP/2ZlXhimVIgo+ZF9Ptvnw/sJHLbk7TgcuJPXOQvu+c5KqpuugUirdckVCctX/5GNAWMd/p2dPwhRxp0Q+kwdX5XmOOA0iRojdx6Kgvkk7RLH1ci22WNHBb3wDQ2kBhatT8Oy0wq/ig+EWDvAXUFhD041AMfjaQxQ9eXNWDdpb6VQcN87vB5ZBY2kGDDsKmp+27KnyWXTQER2St3HUM6kCtxBosl2AR5nHyI/hm1VLvZRp7JS0S0ggavp0clwSAacOccQcHGW7xPq1RFuZKnqADJrbSKARDlTwthBi4IPUQQ2/hKKYYzFUUIkiNfe7hcmxuuVldYRuI9eA0M4IUdBxVKol0IfEt8fpyx1RN5wMgl/5141syq5ZG6DvOYskvnmTE7r+/yEaqe4ipJOdi0=;AhI3FBPY/XKe4B49Q+yErg=="
 ---
 

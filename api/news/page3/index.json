@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-28-square-enix-establishes-new-company-to-pursue-entertainment-ai.md",
+      "title": "Square Enix establishes new company to pursue ‘entertainment AI’",
+      "excerpt": "Square Enix wants to get into the exciting new business of \"entertainment AI.\" Does that mean you'll finally get the digital Tifa of your dreams?",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/amp/",
+      "publishedDateTime": "2020-05-28T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ff7-tifa.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Square Enix establishes new company to pursue ‘entertainment AI’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-its-the-data-stupid-why-ai-might-get-it-wrong.md",
       "title": "It’s The Data, Stupid! Why AI Might Get It Wrong.",
       "excerpt": "Artificial Intelligence is based on data. But that data might not be sufficient, biased, or out-right wrong. To have control over AI we need tools to check for biases.",
@@ -1046,43 +1090,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back.md",
-      "title": "AI could predict risk of lung cancer coming back",
-      "excerpt": "Computer scientists working with pathologists have trained an AI tool to determine which lung cancer patients have a higher risk of their disease coming back",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back",
-      "ampWebUrl": "https://www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back?amp",
-      "cdnAmpWebUrl": "https://www-cancerresearchuk-org.cdn.ampproject.org/c/s/www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back?amp",
-      "publishedDateTime": "2020-05-27T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cancer Research UK",
-        "domain": "cancerresearchuk.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cancerresearchuk.org/sites/default/files/lung-cancer-cells-hero_1.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "AI could predict risk of lung cancer coming back",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-27T06:16:00Z
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-in-india-2020-to-2025rising-demand-share-trends-growth-opportunities-2020-05-27"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     width: 1200
     height: 630
     title: "Computer Vision Market In India 2020 to 2025|Rising Demand, Share, Trends, Growth, Opportunities"
-
-related:
-  - title: "Artificial Intelligence Market Growing at a CAGR of 36.2% | Global Industry Report to 2025 | Covid-19 Pandemic Impact"
-    excerpt: "A recent report on Artificial Intelligence Marketprovides a detailed analysis of the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary obstacles and the latest growth trends accepted by key players that form a part of the competitive spectrum of this business."
-    publishedDateTime: 2020-05-27T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growing-at-a-cagr-of-362-global-industry-report-to-2025-covid-19-pandemic-impact-2020-05-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "z4kKT5dUGSagM7k+K0v/rAnr8HGvFsawya/hUcSAfPdubleSVjr6dtks1I/OHSNr4fzFrI0gu9ltJEOq1mgTemUxeke+qsAvTu6IPff/ohZNQCXTyFvSQ+IUO0xEbPNjaWD1j468E/edRxaoJlB6FDWtsTLjEYKhaRfe4OkQ3tn48MVpbMqhRUs09xcOCecSyntvQpu7PkDkP2hPVtuwtmSombiVUXtHXSFojblhMZ38C7wjFt44345KGQwh3jhUn4REQANHSV8II7kOyxyKngOT65i/D+mW3RqMukyFXHlPKWhKe2tvdsez7MsyXnpR;hmRgnlLmq0x7fV5OTFziGg=="
 ---

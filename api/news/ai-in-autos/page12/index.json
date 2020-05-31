@@ -2,6 +2,88 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-03-the-evolution-of-e-commerce-shaping-benefits-from-emerging-technologies.md",
+      "title": "The Evolution of E-Commerce: Shaping benefits from emerging technologies",
+      "excerpt": "To cope, many organizations are pinning their hopes on emerging technologies such as artificial intelligence (AI), autonomous mobile ... autonomous truck technologies include Alphabet/Waymo, Embark, TuSimple and Starsky Robotics. Rather than fully ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.logisticsmgmt.com/article/the_evolution_of_e_commerce_shaping_benefits_from_emerging_technologies",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.logisticsmgmt.com/images/2020_article/LM2003_COVERGettyImages-800px.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "The Evolution of E-Commerce: Shaping benefits from emerging technologies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-3-top-artificial-intelligence-stocks-to-watch-in-march.md",
+      "title": "3 Top Artificial Intelligence Stocks to Watch in March",
+      "excerpt": "I like things that go \"boom.\" Sonic or otherwise, that means I tend to gravitate towards defense and aerospace stocks. But to tell the truth, over the course of a dozen years writing for The ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/03/3-top-artificial-intelligence-stocks-to-watch-in-m.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/03/3-top-artificial-intelligence-stocks-to-watch-in-m.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/03/3-top-artificial-intelligence-stocks-to-watch-in-m.aspx",
+      "publishedDateTime": "2020-03-03T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F560874%2Fglowing-android-head-with-the-words-artificial-intelligence.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "3 Top Artificial Intelligence Stocks to Watch in March",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019.md",
       "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
       "excerpt": "Baidu’s 52 cars covered a total of 754,000 ... “We have kind of been waiting for some sort of industry standard,” he said. “Self-driving companies aren’t following the exact same ...",
@@ -1230,96 +1312,6 @@
           "width": 1200,
           "height": 675,
           "title": "Altruistic Hopes For AI Self-Driving Car Firms To Share Their Proprietary Tech Is A Starry-Eyed Dream",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-vote-for-the-pacific-northwests-best-innovation-at-the-geekwire-awards.md",
-      "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
-      "excerpt": "(GeekWire Photo / Kevin Lisota) The Pacific Northwest’s status as an innovation hub is well-documented: It is at the center of the cloud computing revolution, a hotspot for artificial intelligence, and it will play a role in the future of driverless cars, mobile technology, video games and much more. But the innovation in the region goes well ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/",
-      "ampWebUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
-      "publishedDateTime": "2020-02-17T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/08/textiosnyder-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-teslas-biggest-problem-with-self-driving-cars-is-that-it-actually-has-to-sell-them-to-customers.md",
-      "title": "Tesla's biggest problem with self-driving cars is that it actually has to sell them to customers",
-      "excerpt": "Tesla is trapped, having created great products that consumers want and love, but also watching as competitors design all-new businesses.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2?amp",
-      "publishedDateTime": "2020-02-17T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5dd9a902fd9db212ca6834d3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Tesla's biggest problem with self-driving cars is that it actually has to sell them to customers",
           "attribution": null
         }
       ],

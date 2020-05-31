@@ -354,6 +354,96 @@
       ]
     },
     {
+      "path": "_news/2020-05-27-amazon-might-buy-self-driving-startup-zoox-report-says.md",
+      "title": "Amazon might buy self-driving startup Zoox, report says",
+      "excerpt": "The purchase would continue Amazon's work to create its own delivery network and cut out driver pay to save cash.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/amazon-buy-self-driving-startup-zoox/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-buy-self-driving-startup-zoox/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-buy-self-driving-startup-zoox/",
+      "publishedDateTime": "2020-05-27T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/KWKx_VshCeTaf6InTIOGGAuLbV4=/2020/05/27/b33d5cd5-0063-4b3b-a074-45b1ebf23ccf/ogi-zoox.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Amazon might buy self-driving startup Zoox, report says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-amazon-in-talks-to-acquire-self-driving-car-startup-zoox.md",
+      "title": "Amazon in Talks to Acquire Self-Driving Car Startup Zoox",
+      "excerpt": "The company has long been an innovator in artificial intelligence. Now it wants to add additional autonomous vehicle technology to its portfolio.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
+      "publishedDateTime": "2020-05-27T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576082%2Fself-driving-electronic-computer-car-on-road.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 760,
+          "title": "Amazon in Talks to Acquire Self-Driving Car Startup Zoox",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox.md",
       "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
       "excerpt": "Amazo AMZN n may be preparing to make a big move into the self-driving vehicle world as the logistics giant is said to be in “advanced” talks to acquire Zoox, a stealthy developer of robotaxi technology,",
@@ -1223,88 +1313,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
-      "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
-      "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_uk/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
-      "ampWebUrl": "https://www.vice.com/amp/en_uk/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_uk/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
-      "publishedDateTime": "2020-05-20T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5ec426f35504fd0099a9f91f/lede/1589913548738-Copy-of-Copy-of-Splitscreen-5.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-changsha-intelligent-manufacturing-on-the-fast-track.md",
-      "title": "Changsha: Intelligent Manufacturing on the Fast Track",
-      "excerpt": "a type of self-driving taxi developed by Chinese tech giant Baidu. \"It's really a convenient service. The taxi arrived in just a few minutes after I typed in my destination address and pressed the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/changsha-intelligent-manufacturing-on-the-fast-track-1029217481",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/changsha-intelligent-manufacturing-on-the-fast-track-1029217481",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/changsha-intelligent-manufacturing-on-the-fast-track-1029217481",
-      "publishedDateTime": "2020-05-19T19:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

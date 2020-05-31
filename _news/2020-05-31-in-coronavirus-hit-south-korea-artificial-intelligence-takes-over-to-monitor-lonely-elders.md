@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "In virus-hit South Korea, AI monitors lonely elders"
-    excerpt: "In a cramped office in eastern Seoul, Hwang Seungwon points a remote control toward a huge NASA-like overhead screen stretching across one of the walls. With each flick of the control, a colorful array of pie charts,"
-    publishedDateTime: 2020-05-31T17:31:00Z
-    webUrl: "https://www.sfgate.com/news/article/In-virus-hit-South-Korea-AI-monitors-lonely-15306048.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/In-virus-hit-South-Korea-AI-monitors-lonely-15306048.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/In-virus-hit-South-Korea-AI-monitors-lonely-15306048.php"
+    excerpt: "Elderly South Koreans are using voice-enabled smart speakers that allow a telecom company to listen to them 24 hours a day for signs of rising loneliness or insecurity"
+    publishedDateTime: 2020-05-31T14:32:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/virus-hit-south-korea-ai-monitors-lonely-elders-70976985"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/virus-hit-south-korea-ai-monitors-lonely-elders-70976985"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/virus-hit-south-korea-ai-monitors-lonely-elders-70976985"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: ABC
+      domain: go.com
     quality: 57
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://s.abcnews.com/images/Technology/WireAP_0afbbec489fe48cf8108eec1c6bc7ea3_16x9_992.jpg"
+        width: 992
+        height: 558
 
 secured: "6I0YavnTocgx1rFmy8AkIevfSxnMDz/1Gh2LFRq5bL+rTYzDgFTM6DQS845PEEByl2irRscZihcCqZDk4ciQNGGraybHAk2bhht1fB/frzrabxqfCgx4y61yL9AeSZauhPNkdDCJ9pAHP5GUjig1q4vaCmCu5gL+mfcQqbDRxjaNmAU0qAgi3td2c0P9XqjW0aIo5yz+Rnujr7bt12zMMDDYAAsUeeE/nF7P3d5Sg3Ffj2E8w6MeFb/ARwLpzczmA7pJFEv3dnGAjk2R3ACtTrhwRbs7hwJICEasRVNe3AZuy7D0pvVQ0oDtmK+ns/cY;/2p7rUZH/7XH4M4Ila94Xg=="
 ---

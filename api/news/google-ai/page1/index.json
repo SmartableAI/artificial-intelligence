@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-31-a-closer-look-at-deepmind-the-google-ai-thats-mastering-starcraft-2.md",
+      "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
+      "excerpt": "Back in 2016 the celebrated computer lab watched one of its AI programs do the unthinkable and win a game of Go against then world champion – and human being – Lee Sedol. Mastering the ancient Chinese board game was just one example of the machine learning DeepMind is hoping it can ultimately use to revolutionise sectors like science,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google",
+      "ampWebUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google?amp",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/deepmind-google?amp",
+      "publishedDateTime": "2020-05-31T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2019/01/starcraft-2-deepmind-commentators-900x506.jpg",
+          "width": 900,
+          "height": 506,
+          "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-responding-to-the-european-commissions-ai-white-paper.md",
       "title": "Responding to the European Commission’s AI white paper",
       "excerpt": "In January, our CEO Sundar Pichai visited Brussels to talk about artificial intelligence and how Google could help people and businesses succeed in the digital age through partnership. Much has changed since then due to COVID-19, but one thing hasn’t—our commitment to the potential of partnership with",
@@ -1243,52 +1280,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-ai-cant-solve-this-the-coronavirus-could-be-highlighting-just-how-overhyped-the-industry-is.md",
-      "title": "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is",
-      "excerpt": "Artificial intelligence has been hailed as a monumental technology that will change the world, but coronavirus is showing that it is still in its infancy.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
-      "publishedDateTime": "2020-04-28T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
-          "width": 3999,
-          "height": 2666,
-          "title": "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Facebook AI"
       ]
     }
   ],
