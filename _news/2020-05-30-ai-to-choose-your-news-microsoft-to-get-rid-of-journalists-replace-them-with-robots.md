@@ -63,6 +63,21 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/03/13/132683-pjimage22.jpg?itok=_VOepYCR"
         width: 918
         height: 506
+  - title: "Microsoft replaces human journalists with Artificial Intelligence"
+    excerpt: "Microsoft - The US-based tech giant has reportedly let go of about 50 employees in the US and another 27 in the UK. Explore more at BGR.in"
+    publishedDateTime: 2020-05-31T03:35:00Z
+    webUrl: "https://www.bgr.in/news/microsoft-replaces-human-journalists-with-artificial-intelligence-895082/"
+    ampWebUrl: "https://www.bgr.in/news/microsoft-replaces-human-journalists-with-artificial-intelligence-895082/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/microsoft-replaces-human-journalists-with-artificial-intelligence-895082/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 57
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2019/06/Microsoft.jpg"
+        width: 805
+        height: 456
   - title: "Microsoft moves to 'replace journalists with robots'"
     excerpt: "Microsoft is planning to replace journalists in its MSN news website with robots, according to reports. The journalists to be made redundant curate news articles, headlines and images from across the internet to be displayed on the MSN website."
     publishedDateTime: 2020-05-30T15:37:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-26T15:36:00Z
 webUrl: "https://www.vendingtimes.com/news/californians-rally-against-expanding-facial-recognition/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 1200
     height: 630
     title: "Californians rally against expanding facial recognition"
-
-related:
-  - title: "California Activists Ramp Up Fight Against Facial Recognition Technology"
-    excerpt: "California privacy advocates are mobilizing to thwart a bill backed by Microsoft Corp. that would regulate facial recognition technology and that is working its way through the state legislature."
-    publishedDateTime: 2020-05-26T10:05:00Z
-    webUrl: "https://www.wsj.com/articles/california-activists-ramp-up-fight-against-facial-recognition-technology-11590485400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 83
-    images:
-      - url: "https://images.wsj.net/im-190401/social"
-        width: 1280
-        height: 640
 
 secured: "NzWXXf0pibdwuIMb/CfLNUOMlct3gOFazh/JK+3gSCz+NvGKA+UitF46lLgEYi0ulunRMBM/H6+yOgEFc3hB1UXiQ39sLS7yn1Y9HX4naWhTHTRlexArHl/xpM1HZxkLjZMMLrcZj5E35o7ioBY/sD5SarahaM22hrTrw6SQWH+TkOkS/y52ZerbS1iz6xXLOa1TzHeGf1OnUFhjXBmw1WsF/s8OlzbrQ+Gf6ZPjsig6bJSejZzK2z3c499ASIO4CadztVdj7M/y0DjNQmjUN0uyT0F61T4cp6Gmz1IcNy+8pPlqU1aiLiUA01fpyYWr;Xe0+BV89shbL5X97kXtamw=="
 ---

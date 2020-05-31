@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
-excerpt: "Binghamton University researchers have continued to develop machine learning for using drones to detect the deadly \"butterfly\" landmine."
-publishedDateTime: 2020-05-27T19:32:00Z
-webUrl: "https://eurekalert.org/pub_releases/2020-05/bu-rud052620.php"
+excerpt: "Using advanced machine learning, drones could be used to detect dangerous 'butterfly' landmines in remote regions of post-conflict countries, according to research."
+publishedDateTime: 2020-05-27T15:55:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/05/200527105053.htm"
 type: article
-quality: 33
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://eurekalert.org/multimedia/pub/web/232917_web.jpg"
-    width: 640
-    height: 360
-    title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
 
 related:
   - title: "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines"
@@ -53,6 +51,6 @@ related:
         width: 640
         height: 360
 
-secured: "ZtYeL7dz9sOov6LjD4LggIhZBswjquKv8EimyA1xucLgBWwK97BNHgqlKOgCqmVMbxufyoPUAzX3ua4gp7t54SIt35nm79uZJMqGR1xuMR/KFL8BkZKKK4SmpelcVbrNoIHv8UdDNBF7Zs5tyn78MiXy1IGXU8KlaOZJFb8u1Tbv7el72pcN25FO8ipl+2bfarsdk2tfseDdr2DkWZkSRfQUo/tGQGToWEO7sRaDoX6TWmI7kPxF1VA1YE+xQV8R4fJKFJT8K5rmhkkag1iwlX3I55ntJ9EKAAbA0EFxPVQYq2NR+1Hvn1PMwa83whPg;yC7/Y6Qet6H8Ii63rBRTbw=="
+secured: "HFn6ZFLe31ukvW9cFSDDCXS7BgunYdfSl0ObMC6FGwo3bzsD2Fh45iFNxft/7DaM0Fws1ewV+44THol67L8Dqpu9B+MZmLP9GQjcQcYkRKE4zD9eNgVHxGE5hTmdNZgZhfY/dheGD4AXU7e5iUyCacvOmZFl6qwb+yYhBvU7XnOPe0qrWxSX6J9dKLNdczj4zn1ZR2LxdyJZEym00FcRkn3oZjf6V19BkOg9pVjtzecYLYj/XmiMu5VujpMCjPo0+q/b+pev3rECyNdCBKtmQs2qdOAXb7aD9etplPr1dRVbO9aJDRdz09L40xVJ8Tj6;TE4Rbtw5nG1bThK8cN9D3g=="
 ---
 
