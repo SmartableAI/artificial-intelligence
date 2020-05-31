@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-27T06:16:00Z
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-in-india-2020-to-2025rising-demand-share-trends-growth-opportunities-2020-05-27"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: MarketWatch
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Cognitive Analytics Market Key Growth Factors, development trends, key manufacturers and competitive forecast 2026"
-    excerpt: "Latest update on Cognitive Analytics Market Analysis report published with an extensive market research, Cognitive Analytics market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Cognitive Analytics industry."
-    publishedDateTime: 2020-05-26T07:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-key-growth-factors-development-trends-key-manufacturers-and-competitive-forecast-2026-2020-05-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

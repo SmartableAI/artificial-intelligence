@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Cognitive Analytics Market Key Growth Factors, development trends, key manufacturers and competitive forecast 2026"
-    excerpt: "Latest update on Cognitive Analytics Market Analysis report published with an extensive market research, Cognitive Analytics market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Cognitive Analytics industry."
-    publishedDateTime: 2020-05-26T07:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-key-growth-factors-development-trends-key-manufacturers-and-competitive-forecast-2026-2020-05-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "RTQ/AvlmhmWv5KfpaNM3obZxSCJ8Je/4OVGM5+yVrgCGzPDNZ1ZuwCgewvcqqsIOHSoLFmGefUoIaqbC/sDluFKVifgGGRjvfdXXl4nnkmuTW6lCoCkyzRV+ZEPUR/NebB8nYPmAMRMqnY85qKG47jy9kyR/0Ow1On9Etn65I5MLkROJY67YoizBeCIkYBQBEHWQc9Gd8a1FhX8L9PHCD+xPW9HRTA+hByMPzsXGgRJymkoeLi2+Mx7v7oDmx0cUbfl/opi9fEDSFnVUKtme3RIBwNJt7J1JCS3pXIr7HUXW8csB7kYJyUJsOpSU6+p8;qwQnmNL0V+6ks1EMng9yug=="
 ---

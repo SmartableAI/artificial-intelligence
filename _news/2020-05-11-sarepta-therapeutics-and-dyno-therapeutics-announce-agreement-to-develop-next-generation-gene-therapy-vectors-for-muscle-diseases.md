@@ -1,21 +1,19 @@
 ---
 category: news
 title: "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases"
-excerpt: "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design AAV vectors -- CAMBRIDGE ..."
-publishedDateTime: 2020-05-11T11:06:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15998024"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024"
+excerpt: "Dyno Therapeutics is a pioneer in applying artificial intelligence (AI) and quantitative high-throughput in vivo experimentation to gene therapy. The company’s proprietary CapsidMap™ platform ..."
+publishedDateTime: 2020-05-11T00:00:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/05/11/2030949/0/en/Sarepta-Therapeutics-and-Dyno-Therapeutics-Announce-Agreement-to-Develop-Next-Generation-Gene-Therapy-Vectors-for-Muscle-Diseases.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "uQPzl52xA0AFEmvC1D3eTLQ2eQOkwK7p0Q3FfDx5DWyVMLtAhq5xjiSwpbXP0LqpTXNjoF4zME1V7TZGRuigBntAOEolYwZSOItHfgyjya3nn4VK26EZqycs902wZIkKaQPc3umL6Ic0UI+pMpxFytMRN+4Y70DguPNhyMNYhyczQeRY8w9zoZ3eqP1qu9527JgrmBex+mkTsIwtwFr2od8pgDLoWtik56HZZOjk15fktoveYTPVPXeSeOqaE4jKWH2N7xI1aRrby1JgBn6KQVcq0n5KF7gwRLfDPO8Gjli5UOdqauvU94djt3qxB9lS;trsb1u25Tt1/0GkPrIerHQ=="
+secured: "dUDW9GUulueuGhad10DS7BlQmELbMwJbt8G87JaOKKzrgnN6B9z5Cv+UvrJxAClP6hk3FMzulV5tfT0MW18mp3zgwVD2Lm/GY9FFyJvTUGP+k/YVRn1aU/THXmWNTxP6OLpQcjBV28jVlIGHeNpDAOJ850qFG7ewZ1kCz2+Iq2mH7o/RSOVlAZHkkwmDeyUnjVRgtRXDhGKfi5F/LqF7b86IW446QCkxz1z5cdA/CuMpfgt1IPWEbu+ZWay/D48Z5dSCU+2NGRj4w9JOgZLMKUK/zKzu5dzdx6HXaBDbWKSLsPnRDPLel7TcG4oAdJCe;8Uet4Y14w2lcHbU/18m75A=="
 ---
 

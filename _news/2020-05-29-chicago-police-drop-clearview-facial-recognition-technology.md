@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Chicago police drop Clearview facial recognition technology"
-excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
-publishedDateTime: 2020-05-29T23:19:00Z
-webUrl: "https://www.washingtontimes.com/news/2020/may/29/chicago-police-drop-clearview-facial-recognition-t/"
+excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns"
+publishedDateTime: 2020-05-29T22:56:00Z
+webUrl: "https://www.dailyherald.com/article/20200529/news/305299907/"
+ampWebUrl: "https://www.dailyherald.com/amp-article/20200529/news/305299907/"
+cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200529/news/305299907/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://twt-assets.washtimes.com/img/icon-facebook.jpg"
-    width: 314
-    height: 314
-    title: "Chicago police drop Clearview facial recognition technology"
 
 related:
   - title: "ACLU sues Clearview AI over 'unlawful' facial recognition technology"
@@ -83,6 +79,6 @@ related:
         width: 860
         height: 484
 
-secured: "6kmlH12GmAATH+bqpnpij9QuPw0PxS+Zudhlq8+aTyzWUrz11nccCdrRARHdJsFrDNSgwvNFK170qIC5Nr2NGek05ncP+XG8iV/753eNjvwLbsIAYUTYelt8eBETnjCSHSttxJtaYY/SQGg6ZcliUzgKh8HST6qEGnHh2fI49bwVVLF5J4DJi7an0iiCPp4m9TmtQleBVgsmSJhZZi6NILM+CwEmZ8U+H8Vtz3HjDS+Nic5Fxfa8BWOxmVcJARzdEZrBqWE7mEsNY/5HACu/+68FsVJfxz/X3dU3ZkmH0VVo29JdbLExpeRQ+iJsRMle;NwlWixYPqKXzxO9AZN+lAQ=="
+secured: "ihkw5s/5zZZn2cHLEr6wVoMBLo109WNNFkLIeSrvhnhj8d+5BHrFkN85440dL+Ht42fes5Yd4Z4E/slqKmwLao59EK+vf6esFb8J4A1E6ozLOPItLEV6fgA9Sd8Clbar+/YXunJz0StJ8HmqWFOIoOgup0MGkancZ8/4A/mybc3+zeNDHnDEaS12aYRynyeY4XkpUg+/cU+2sb63pKPf5LC8EBElEethTdfZtHzV/wKm044zfhnFII2LyuwIAq9v+B/gmn3rZP6r4juwnhML8qJPEVj6sJQjzNl160KrsHuXvVdy6PoR3CIn4NSeENUO;F9BQsAAeoiK441lrX9ca6Q=="
 ---
 

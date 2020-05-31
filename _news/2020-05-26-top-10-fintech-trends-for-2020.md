@@ -25,17 +25,6 @@ images:
     height: 667
     title: "Top 10 fintech trends for 2020"
 
-related:
-  - title: "Top Five Fintech Predictions for 2020"
-    excerpt: "It’s great to see how far the fintech industry has come but let’s put that reflection on pause and take a look at what we can expect from this year. There are certainly big changes afoot, as to be expected as we experience the global pandemic,"
-    publishedDateTime: 2020-05-26T08:32:00Z
-    webUrl: "https://www.finextra.com/blogposting/18804/top-five-fintech-predictions-for-2020"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-
 secured: "btNiraLnUzte0EQvgvHevdkyRX3I6JCe7CwQoZrSOnF0+/ht05WDRbnZjYT/PM/t7sg5elKEbjIWzB7H6lkbd+jyFCnlnEBESgv2pL7Lg9hkNcjO8urfoSxJHI5W7mSrZTebnelqGj08HTCrsOfdEHsERSEBT5b/ebvNJkrGBPVZBgW90nNNYxfaF5mr5gBSHQNMgzCH7l0Z/N7Dmhcbq9VaT7D839EJiWabOKCq2X/M4Hjr3bXEGVGKpNseMvWKELSeM67zs8JjcRxC7/6rqCGtZ7VPy+4xpWCYd3U3u6Xpz1LQ808fG01mbdvEaFZBx9hzWFH/xMOD+oPyl3gSdp1lGCSpVeg4eVe4YF6b8hwih+7TwjpK4i5S0HaifyihYNnrFBcX6oscqTA47nGsS+2SzwnBJTTKzXWdCEAmeLQ0N2UOjwTyFVE2RrJe1NIEmsoLDN8tb4iduS5BNMilAmXwsk1j35I2kR2GTuv1fk4=;kwZywCwHaXlqkoJTdby4rQ=="
 ---
 

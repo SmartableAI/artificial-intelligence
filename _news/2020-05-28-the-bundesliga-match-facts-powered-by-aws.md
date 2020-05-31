@@ -24,19 +24,6 @@ images:
     title: "The Bundesliga Match Facts Powered by AWS"
 
 related:
-  - title: "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and the German Bundesliga will debut the first two Bundesliga Match Facts powe"
-    publishedDateTime: 2020-05-26T07:22:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200526005205/en/Amazon-Web-Services-Bundesliga-Deliver-Real-Time"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 32
-    images:
-      - url: "https://mms.businesswire.com/media/20200526005205/en/793756/23/Bundesliga_Match_Facts.jpg"
-        width: 1200
-        height: 627
   - title: "Amazon Web Services e Bundesliga fornecerão análise de jogos em tempo real com “Bundesliga Match Facts Powered by AWS”"
     excerpt: "Hoje, a Amazon Web Services (AWS), uma empresa do grupo Amazon.com (NASDAQ: AMZN) e a Bundesliga alemã estrearão os dois primeiros Bundesliga Match Facts (Fatos de partida da Bundesliga) com tecnologia da AWS durante o jogo de destaque desta noite às 18h30 CET,"
     publishedDateTime: 2020-05-26T23:54:00Z

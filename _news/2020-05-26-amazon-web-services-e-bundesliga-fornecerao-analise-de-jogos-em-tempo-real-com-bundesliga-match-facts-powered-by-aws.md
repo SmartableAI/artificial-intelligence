@@ -37,19 +37,6 @@ related:
       - url: "https://www.businessghana.com/site/img/../../cms/img/news/2020-05-28-1345261.jpg"
         width: 800
         height: 600
-  - title: "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and the German Bundesliga will debut the first two Bundesliga Match Facts powe"
-    publishedDateTime: 2020-05-26T07:22:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200526005205/en/Amazon-Web-Services-Bundesliga-Deliver-Real-Time"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 32
-    images:
-      - url: "https://mms.businesswire.com/media/20200526005205/en/793756/23/Bundesliga_Match_Facts.jpg"
-        width: 1200
-        height: 627
 
 secured: "v1SLkGCp7/lcx3e9kQbriYJhzPu/J8oS06kBn89wHuH21tOzbE290+a0/nAdJlpn2+gxwIpoHGpAPVuhVdt2HWlD/1A5dmXRhFoVeKHO+89t+54Lfl7OzfdsIJDyahLYAiVBi+7wwWTUmPP1c9uOlpguRpD9THgfotxsHzEhjax1Mm3GT2bWRTikEPpfAOxNStNCpjb4TV3crkr5SUGT0k8EPKQXbgDa6wx+VG+uJS3BgBj4xvSPV9Wb13+FTKJK6yXa7YNIZCliev/9poVT+sCFLzKnZsspELcC+AYQbFB42KOF86cOD6fsm3sXgDiO;IhJm3rt/LvIrrmjpfy53/Q=="
 ---
