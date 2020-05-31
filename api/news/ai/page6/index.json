@@ -2,6 +2,141 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-22-ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology.md",
+      "title": "AI Weekly: Getting back to work under the watchful eye of technology",
+      "excerpt": "As we figure out how to get back to normal, all the same issues around surveillance, AI, data privacy, and safety coalesce in the workplace.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
+      "publishedDateTime": "2020-05-22T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/reuters-thermal-camera-workplace-surveillance-2.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Getting back to work under the watchful eye of technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-nvidia-ai-creates-a-playable-version-of-pac-man-without-any-source-code.md",
+      "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
+      "excerpt": "Up until now, that's seemingly been the case, but one Nvidia-created AI is challenging the norm. To celebrate Pac-Man's 40th anniversary, the hardware maker fed a computer farm a whopping 50,000 \"episodes\" of gameplay from the title -- but",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
+      "publishedDateTime": "2020-05-22T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-22-image-26.jpg",
+          "width": 1680,
+          "height": 940,
+          "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development.md",
+      "title": "Scale AI releases free lidar dataset to power self-driving car development",
+      "excerpt": "High quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "publishedDateTime": "2020-05-22T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/LiDAR-comparison-credit_-Scale-AI.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": "Scale AI releases free lidar dataset to power self-driving car development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev-and-more.md",
       "title": "Podcast: Tesla Full Self-Driving value, Tesla software update, GMC Hummer EV, and more",
       "excerpt": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including the value of Tesla’s Full Self-Driving package, a new Tesla software update,",
@@ -1154,134 +1289,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand.md",
-      "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
-      "excerpt": "Clearview AI facial recognition technology once again made the news for crimefighting reasons, this time in New Zealand. But controversy persists.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techwireasia.com/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
-      "publishedDateTime": "2020-05-21T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/063_1198303844-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-nvidia-reports-308-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar.md",
-      "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
-      "excerpt": "Nvidia posted revenues of $3.08 billion for the first quarter ended April 26, up 39% from a year earlier as data center revenues soared.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
-      "publishedDateTime": "2020-05-21T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Jensen-cooking.jpg?w=1200&#038;strip=all",
-          "width": 1116,
-          "height": 669,
-          "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-top-safety-official-at-waymo-self-driving-unit-stepping-down.md",
-      "title": "Top safety official at Waymo self-driving unit stepping down",
-      "excerpt": "Alphabet Inc’s Waymo self-driving unit said on Thursday that its chief safety officer, Debbie Hersman, was stepping down but would remain as a consultant to the company.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-waymo-safety-idUSKBN22X2Q9",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22X2Q9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22X2Q9",
-      "publishedDateTime": "2020-05-21T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519490622&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K20U",
-          "width": 817,
-          "height": 545,
-          "title": "Top safety official at Waymo self-driving unit stepping down",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

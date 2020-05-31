@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-04-the-rise-of-the-robot.md",
+      "title": "The rise of the robot",
+      "excerpt": "In 1966, a team of engineers at SRI International in California unveiled ‘ Shakey’, the world’s first mobile robot that had the ability to perceive and reason about its surr",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
+      "publishedDateTime": "2020-05-03T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1588339067/itpro/2020/05/shutterstock_bricklaying_robot.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": "The rise of the robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-how-many-jobs-do-robots-really-replace.md",
       "title": "How many jobs do robots really replace?",
       "excerpt": "How many jobs do robots really replace? New research puts a number on the job costs of automation Date: May 4, 2020 Source: Massachusetts Institute of Technology Summary: In many parts of the U.S ...",
@@ -1202,43 +1247,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-robo-nurse-of-the-future.md",
-      "title": "Robo nurse of the future",
-      "excerpt": "Failure to insert an IV line is one of the leading causes of injury and infection. Researchers at Rutgers University in the US have developed a robot that finds blood vessels, even if they’re very small, and successfully inserts a needle or catheter.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/04/robo-nurse-of-the-future/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/11134/gettyimages-1168897253-2048x2048_4038263225044594476.jpg?crop=0.0000000000000013895057943753,0.45791664232810403,0,0.049895857671895291&cropmode=percentage&width=1200&height=450&rnd=132328005720000000",
-          "width": 1200,
-          "height": 450,
-          "title": "Robo nurse of the future",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

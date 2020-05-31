@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-31-how-investment-in-ai-robotics-will-impact-middle-east-economies.md",
+      "title": "How investment in AI, robotics will impact Middle East economies",
+      "excerpt": "Even though there are others in the realm of emerging technologies, AI and RPA seem to grab most of the headlines largely due to nature of impact they tend to have on organisational efficiencies and customer experience.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/saudi-arabia/en/wealth/story/How_investment_in_AI_robotics_will_impact_Middle_East_economies-SNG_175769350/",
+      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/SNG_175769350/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/SNG_175769350/",
+      "publishedDateTime": "2020-05-30T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "How investment in AI, robotics will impact Middle East economies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-agricultural-robots-and-ai-its-a-question-of-when-not-if.md",
       "title": "Agricultural Robots and AI – It’s a question of when, not if",
       "excerpt": "Experts say robotics and artificial intelligence (AI) will drive a deep and transformative change in the agricultural world during the coming decades. It is already clear that",
@@ -199,7 +236,7 @@
       "path": "_news/2020-05-27-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless.md",
       "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
       "excerpt": "As South Korea continues to loosen its social distancing guidelines amid the COVID-19 pandemic, hard-hit movie theaters are trying to find ways to lure customers back.",
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.upi.com/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
@@ -1229,43 +1266,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-warehouse-robots-provide-crucial-link-in-supply-chain.md",
-      "title": "Warehouse Robots Provide Crucial Link In Supply Chain",
-      "excerpt": "Throughout the coronavirus crisis, the e-commerce supply chain – retailers, shippers, third-party logistics operations, fulfillment centers and sortation facilities – delivered. UPS and FedEx drivers came to symbolize a sense of national resiliency.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/",
-      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/amp/",
-      "publishedDateTime": "2020-05-20T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

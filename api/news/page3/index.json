@@ -2,6 +2,97 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-28-us-joins-g7-ai-alliance-to-counter-chinas-influence.md",
+      "title": "US joins G7 AI alliance to counter China’s influence",
+      "excerpt": "The US is joining the rest of the G7 in the Global Partnership on Artificial Intelligence, in an effort to contain China's influence on AI",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/",
+      "publishedDateTime": "2020-05-28T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-56-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "US joins G7 AI alliance to counter China’s influence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-responding-to-the-european-commissions-ai-white-paper.md",
+      "title": "Responding to the European Commission’s AI white paper",
+      "excerpt": "In January, our CEO Sundar Pichai visited Brussels to talk about artificial intelligence and how Google could help people and businesses succeed in the digital age through partnership. Much has changed since then due to COVID-19, but one thing hasn’t—our commitment to the potential of partnership with",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/amp/",
+      "publishedDateTime": "2020-05-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": "Responding to the European Commission’s AI white paper",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-apple-just-bought-another-ai-startup-to-help-siri-catch-up-to-rivals-amazon-and-google.md",
       "title": "Apple just bought another AI startup to help Siri catch up to rivals Amazon and Google",
       "excerpt": "Apple has acquired AI startup Inductiv Inc. to improve Siri, which has fallen behind Amazon's Alexa and the Google Assistant.",
@@ -991,95 +1082,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan.md",
-      "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
-      "excerpt": "The European Commission is proposing to direct billions of euros of financial relief into high tech and green investments to help the bloc recover from the coronavirus crisis. Technologies such as 5G,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/amp/",
-      "publishedDateTime": "2020-05-27T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-914922266.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-baidu-releases-quantum-machine-learning-toolkit-on-github.md",
-      "title": "Baidu releases quantum machine learning toolkit on GitHub",
-      "excerpt": "Chinese tech giant's Paddle Quantum development toolkit now is available on GitHub, enabling developers to build and train quantum neural network models, and includes quantum computing applications.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
-      "publishedDateTime": "2020-05-27T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2014/09/05/40343944-34cd-11e4-9e6a-00505685119a/thumbnail/1200x675/09d197dae3621fd2b39e14fe08ffe2a0/objective-corporation-banks-on-r-and-d-in-revenue-push.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Baidu releases quantum machine learning toolkit on GitHub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

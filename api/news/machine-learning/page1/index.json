@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-31-thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind.md",
+      "title": "Thanks To Renewables And Machine Learning, Google Now Forecasts The Wind",
+      "excerpt": "Using machine learning, they have been able to better predict wind production, better predict electricity supply and demand, and as a result, reduce operating costs. “What we've been doing is working in partnership with the DeepMind team to use machine learning to take the weather data that's available publicly, actually forecast what we ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/05/31/thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind/",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/05/31/thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2020/05/31/thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind/amp/",
+      "publishedDateTime": "2020-05-30T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215156082%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Thanks To Renewables And Machine Learning, Google Now Forecasts The Wind",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-owkin-raises-25m-to-enhance-medical-research-machine-learning-and-collaboration.md",
       "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
       "excerpt": "Owkin is fueling collaborative medical research using machine learning while being compliant with privacy laws. Thomas Clozel discusses the unique benefits of Owkin.",
@@ -1234,54 +1279,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models.md",
-      "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
-      "excerpt": "Nvidia unveiled its latest data center chip architecture, “Ampere,” and a motherboard to power multi-chip servers for AI. The company sees ever-more-gigantic neural networks in coming years.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
-      "publishedDateTime": "2020-05-14T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/14/1da79d85-66af-4eca-b991-3d2cf1492395/nvidia-2020-hgx-platform.jpg",
-          "width": 2000,
-          "height": 1600,
-          "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],

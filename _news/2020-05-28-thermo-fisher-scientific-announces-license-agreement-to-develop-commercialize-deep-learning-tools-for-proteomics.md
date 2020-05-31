@@ -25,21 +25,6 @@ images:
     height: 480
     title: "Thermo Fisher Scientific announces license agreement to develop, commercialize deep learning tools for proteomics"
 
-related:
-  - title: "Thermo Fisher Scientific Announces Collaboration to Provide Access to Deep Learning Tools for Discovery and Targeted Proteomics"
-    excerpt: "Thermo Fisher Scientific, the world leader in serving science, and MSAID GmbH, a software company transforming proteomics with deep"
-    publishedDateTime: 2020-05-26T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/thermo-fisher-scientific-announces-collaboration-to-provide-access-to-deep-learning-tools-for-discovery-and-targeted-proteomics-301064944.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/490330/Thermo_Fisher_Scientific.jpg?p=facebook"
-        width: 2698
-        height: 1414
-
 secured: "vX94o8G3l1qok2z70gUDNF9zO/y+A6xAxqDt5VpQhbDK0wi/Nx/KW1Uqr7jNCCXcBwzb7rhduI5/LqO3InMyBOhYxzFt37p7K4ijbvMTa/187YCQXMnS399lRAk65NlRAuJsqpZ/5U2kduP3L8RzzHvKBnIzT91pmJKEDYTJ3gCf6P95bO6ipa3TC1iW8k/rj7tlZ7k76S7F69r7eozFBikceU7Jtec/mIeWEQW0ZO/46hEgB+F5dZdgxuA7LaZJUWBUTMSbkdJgAHg0tQO/ybVelDloHI63qKStZCstGQNB934kZTgg0OyFEox+bgFPQwsizRduIYe8MqnveaO+mP73Y+jUqfz9crssD8lCroH96h7GgLt7wQdtEV0wL4qbF1A17ZvXVAY4a8+MT5Gjn/LAROD+tPNnFH/f2utoyPgKWewT8HVnFjL3ihjRYHbKy55t7TwRBhV1+IgTnfG9C0Reohsz891E6loFKRcesR4=;oS9uVZwp9YRNBgAcvwVs8Q=="
 ---
 

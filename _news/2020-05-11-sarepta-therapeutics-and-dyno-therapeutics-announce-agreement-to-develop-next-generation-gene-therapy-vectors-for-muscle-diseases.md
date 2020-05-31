@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Sarepta Therapeutics and Dyno Therapeutics Announce Agreement to Develop Next-Generation Gene Therapy Vectors for Muscle Diseases"
-excerpt: "Dyno Therapeutics is a pioneer in applying artificial intelligence (AI) and quantitative high-throughput in vivo experimentation to gene therapy. The company’s proprietary CapsidMap™ platform ..."
-publishedDateTime: 2020-05-11T00:00:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/05/11/2030949/0/en/Sarepta-Therapeutics-and-Dyno-Therapeutics-Announce-Agreement-to-Develop-Next-Generation-Gene-Therapy-Vectors-for-Muscle-Diseases.html"
+excerpt: "Agreement leverages Sarepta's leadership in gene therapy for neuromuscular and cardiovascular diseases and Dyno's CapsidMap artificial intelligence platform to design AAV vectors -- CAMBRIDGE ..."
+publishedDateTime: 2020-05-11T11:06:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/05/g15998024/sarepta-therapeutics-and-dyno-therapeutics-announce-agreement-to-develop-next-generation-gene-ther"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15998024"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15998024"
 type: article
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "dUDW9GUulueuGhad10DS7BlQmELbMwJbt8G87JaOKKzrgnN6B9z5Cv+UvrJxAClP6hk3FMzulV5tfT0MW18mp3zgwVD2Lm/GY9FFyJvTUGP+k/YVRn1aU/THXmWNTxP6OLpQcjBV28jVlIGHeNpDAOJ850qFG7ewZ1kCz2+Iq2mH7o/RSOVlAZHkkwmDeyUnjVRgtRXDhGKfi5F/LqF7b86IW446QCkxz1z5cdA/CuMpfgt1IPWEbu+ZWay/D48Z5dSCU+2NGRj4w9JOgZLMKUK/zKzu5dzdx6HXaBDbWKSLsPnRDPLel7TcG4oAdJCe;8Uet4Y14w2lcHbU/18m75A=="
+secured: "tJGEuiavZ045tSrlok7QCgt6J6Pmz+BhPalLUsAxQ/yh46B4ENIr4XPId/g9wwyQvbOCePvknQvyp45eOz+MAS56cOTeAVd3YIvgjj5Hsm9f0dSubHmqX7Cq5lIURXwvkozxL4DgXbAiRgse19uvSPo+2jk28GjmUEV5dnw7jxa3/CgbfG0IKHRTyUengrRgiLcaGYUpArA9ja+IL8362W/VjcWE+AdtPQK2zpj7I2n6iFAe3rT3ThaZ+JUfEefEo+eOKourpjsIdWunoWB96abl9dX7g9v4zSan/ecAgQGSj1Isk/y86Zf2IEJvKn4A;T8oOZq8MhQ5wwAyZUEq3lQ=="
 ---
 

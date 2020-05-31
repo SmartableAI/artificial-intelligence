@@ -2,6 +2,132 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-04-25-our-love-of-the-cloud-is-making-a-green-energy-future-impossible.md",
+      "title": "Our love of the cloud is making a green energy future impossible",
+      "excerpt": "Add to this, millions of students ‘driving’ to class on the internet instead of walking. Meanwhile in other corners of the digital universe, scientists furiously deploy algorithms to accelerate research. Yet, the pattern-learning phase for a single artificial intelligence application ... apps quickly emerge to help self-evaluate symptoms ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/25/our-love-of-the-cloud-is-making-a-green-energy-future-impossible/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/25/our-love-of-the-cloud-is-making-a-green-energy-future-impossible/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/25/our-love-of-the-cloud-is-making-a-green-energy-future-impossible/amp/",
+      "publishedDateTime": "2020-04-25T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-885294108.jpg?w=1024",
+          "width": 1024,
+          "height": 767,
+          "title": "Our love of the cloud is making a green energy future impossible",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-25-this-ai-is-learning-how-to-replicate-your-childish-penis-drawings.md",
+      "title": "This AI is learning how to replicate your childish penis drawings",
+      "excerpt": "Bored? You can draw crude dicks like you did in your middle school notebooks, only this time you'll help feed an AI. Why was this created? For one, drawing dicks is fun, but the researcher broke down the reasoning behind DickRNN on its Github page. \"I also believe that 'Doodling a penis is a light-hearted symbol for a rebellious act' and ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/dickrnn-dick-doodle-neural-network-ai/",
+      "ampWebUrl": "https://mashable.com/article/dickrnn-dick-doodle-neural-network-ai.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/dickrnn-dick-doodle-neural-network-ai.amp",
+      "publishedDateTime": "2020-04-25T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F25%252F8d%252Fc61f397f6ee24ed39adef220fc602fd4.52fee.png%252F1200x630.png?signature=P67wxHZ_C-_MMwZQldesTtbUIE4=",
+          "width": 1200,
+          "height": 630,
+          "title": "This AI is learning how to replicate your childish penis drawings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-25-2-stocks-to-buy-and-hold-for-the-next-50-years.md",
+      "title": "2 Stocks to Buy and Hold for the Next 50 Years",
+      "excerpt": "So far, Alphabet's long-term growth ideas include self-driving cars, drone delivery services, artificial intelligence, and balloon-based wireless broadband services. Alphabet's medical-science projects include robotic surgery, bioelectronic medicines ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
+      "publishedDateTime": "2020-04-25T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569643%2Fhourglass-and-coins.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "2 Stocks to Buy and Hold for the Next 50 Years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-25-aws-unveils-open-source-model-server-for-pytorch.md",
       "title": "AWS unveils open source model server for PyTorch",
       "excerpt": "Model versioning for A/B testing. Metrics for monitoring. RESTful endpoints for application integration. Any deployment environment can be supported by TorchServe, including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS. Detailed installation instructions can be found on GitHub.",
@@ -944,117 +1070,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design.md",
-      "title": "Google researchers use deep reinforcement learning for optimizing chip design",
-      "excerpt": "However, it is a process that takes substantial time, and efforts are being made to make it more efficient. Considering this, researchers working with Google have now looked towards machine learning to help tackle the problem. In a recent paper titled “Chip Placement with Deep Reinforcement Learning” published on arXiv, the team at Google ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design",
-      "ampWebUrl": "https://www.neowin.net/amp/google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design/",
-      "publishedDateTime": "2020-04-23T23:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1587706306_sharedscreenshot_story.jpg",
-          "width": 760,
-          "height": 421,
-          "title": "Google researchers use deep reinforcement learning for optimizing chip design",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications.md",
-      "title": "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications",
-      "excerpt": "Arista Networks, today announced a new release of its Cognitive WiFi software that seamlessly delivers intelligent application identification, performance optimization, automated troubleshooting and location services ... Zoom and Microsoft Team video ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newswiretoday.com/news/172782/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-united-states-speech-recognition-software-market-will-take-the-highest-jump-during-2020-2025.md",
-      "title": "United States Speech Recognition Software Market will take the highest jump during 2020-2025",
-      "excerpt": "The Speech Recognition Software Market 2020 Research Report investigates the industry thoroughly and offers a complete study on Speech Recognition Software volume, market Share, market Trends, Global Speech Recognition Software Growth aspects,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cmo.com.au/mediareleases/88907/united-states-speech-recognition-software-market/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
-          "width": 600,
-          "height": 246,
-          "title": "United States Speech Recognition Software Market will take the highest jump during 2020-2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

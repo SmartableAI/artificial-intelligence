@@ -2,6 +2,140 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-19-five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal.md",
+      "title": "Five Insights For Leveraging RPA And Process Intelligence In The 'New Normal'",
+      "excerpt": "If we acknowledge that digital transformation can help organizations successfully navigate business operations, especially in today’s “new normal,” the next step is to ask the right questions.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/amp/",
+      "publishedDateTime": "2020-05-19T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-27-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Five Insights For Leveraging RPA And Process Intelligence In The 'New Normal'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence.md",
+      "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
+      "excerpt": "Enhancements in how machines can collect audio and visual data and use it to understand and predictively respond to our actions is a game-changer for the future of IoT.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/amp/",
+      "publishedDateTime": "2020-05-19T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-22-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-state-of-marketing-2020-innovation-is-top-priority-with-186-increase-in-ai-adoption-since-2018.md",
+      "title": "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018",
+      "excerpt": "Salesforce collected data from 7,000 marketing leaders across the globe for its sixth annual “State of Marketing” report. The report demonstrates the values that will remain critical as marketers and their businesses recover.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/state-of-marketing-2020/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/state-of-marketing-2020/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-marketing-2020/",
+      "publishedDateTime": "2020-05-19T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/17/e52e1b8a-c1f0-47b3-bb7c-ccaee81ab1b1/picture2.png",
+          "width": 940,
+          "height": 807,
+          "title": "State of Marketing 2020: Innovation is top priority with 186% increase in AI adoption since 2018",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-sony-microsoft-unveil-latest-joint-ai-play.md",
       "title": "Sony, Microsoft unveil latest joint AI play",
       "excerpt": "Sony’s semiconductor division and Microsoft announced a collaboration to develop AI video analytics systems for",
@@ -1078,142 +1212,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-price-as-elon-musk-sees-value-rise-to-100k.md",
-      "title": "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k",
-      "excerpt": "Driving’ package again as Elon Musk now evaluates the value of the completed version of the package at over $100,000. Over the years, much has been said about how Tesla is approaching self-driving technology differently from the rest of the auto industry.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/",
-      "ampWebUrl": "https://electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/18/tesla-increase-full-self-driving-price-elon-musk-value/amp/",
-      "publishedDateTime": "2020-05-18T18:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 497,
-          "title": "Tesla to increase ‘Full Self-Driving’ price as Elon Musk sees value rise to >$100k",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-and-sony-to-create-smart-camera-solutions-for-ai-enabled-image-sensor.md",
-      "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
-      "excerpt": "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced.",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
-      "publishedDateTime": "2020-05-18T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg",
-          "width": 360,
-          "height": 300,
-          "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-go-x-is-unleashing-100-self-driving-scooters-on-a-large-georgia-business-park.md",
-      "title": "Go X is unleashing 100 self-driving scooters on a large Georgia business park",
-      "excerpt": "These scooters will be summonable by riders and return to a centralized charging and sanitization area when done.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/go-x-peachtree-corners-self-driving-scooter-test-fleet/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/go-x-peachtree-corners-self-driving-scooter-test-fleet/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/go-x-peachtree-corners-self-driving-scooter-test-fleet/",
-      "publishedDateTime": "2020-05-18T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/iOux_pi7WaUB5XY3xN_orqTrf7s=/2020/05/19/51879df2-7acd-4fb0-8f2f-03e439a564cf/screenshot-www-youtube-com-2020-05.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Go X is unleashing 100 self-driving scooters on a large Georgia business park",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
