@@ -1,25 +1,27 @@
 ---
 category: news
 title: "In virus-hit South Korea, AI monitors lonely elders"
-excerpt: "In a cramped office in eastern Seoul, Hwang Seungwon points a remote control toward a huge NASA-like overhead screen stretching across one of the walls. With"
-publishedDateTime: 2020-05-31T03:06:00Z
-webUrl: "https://apnews.com/81029d7e8e40fcba4e2b23b880756300"
+excerpt: "Elderly South Koreans are using voice-enabled smart speakers that allow a telecom company to listen to them 24 hours a day for signs of rising loneliness or insecurity"
+publishedDateTime: 2020-05-31T14:32:00Z
+webUrl: "https://abcnews.go.com/Technology/wireStory/virus-hit-south-korea-ai-monitors-lonely-elders-70976985"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/virus-hit-south-korea-ai-monitors-lonely-elders-70976985"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/virus-hit-south-korea-ai-monitors-lonely-elders-70976985"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/0afbbec489fe48cf8108eec1c6bc7ea3/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://s.abcnews.com/images/Technology/WireAP_0afbbec489fe48cf8108eec1c6bc7ea3_16x9_992.jpg"
+    width: 992
+    height: 558
     title: "In virus-hit South Korea, AI monitors lonely elders"
 
 related:
@@ -39,6 +41,6 @@ related:
         width: 600
         height: 390
 
-secured: "YuY9Zv7sikE3Vawk+qoyC70y8QonqELmqczk9yri/Kpx4ysD8/YDkspqYvr2OLugPRFbdue4ZM09IENcxBiDZE1U0IDmNn31SX+YJW2D1DiEZqkYb4AgP+ly7czoTmv2/1pbwTpLRnkBH+DR23D1vDS6pPMoTUGv39+FhqJbr5Zg6WybDPyruRuuWTF3izPy7mfDCISoMEmovnnHoDVuO7pur6wI1v5JjegJYhueRUXaTBXJjoItSobkRd1aYOeycwi5RVYn8uTMGSvpwwXAYloOu2NDKguSv67U6Pe1V0PljwjgcyzIftTM6MMBx88oVn8WhUYXQCUySb51jSVD3XbjeVGBMQ0PrpdvzSUfYxcQeOcz+iRU3c5VDh6fVaV/eOn48z+y1H4Ni6MfzCtMsw8LSZiwkXN75duxbdR8kyoc1Pn5x1Ix7/nu0QgzNoYCIeXw6XwNx36t9f1mA/nxv51KMOxu2X+ACsVQddETnUA=;hH6GkWrrgK9Cajq1Zb2qIg=="
+secured: "uQVYuDGMIVVapWZ8TzOtp59L5uGgUm3Lrl7msgrJhhDCe7q3vix93gi6eL0tlBDeUTCruCBiqlwd4B6fi+wFVaPG8GkkGSWTn6zBKR7CTgB3PCs8PHKZwWOFssXE+ehx+uQZdsTD9bX1M9TIE3f6GkA80zK9eLarigqLgRHgYaV2JbqTUURUxHRoFzhgH6p4oljL4j1QRHqcWZkCH1Si1d7GoZfuE4roMq2QekyWH3v4m2qZNEJxc1a0NDg4/3oSw8Y4OTnzKzeqVQtTPuHmSCq1N8lk+XvvDmdTMeAE3/rHHT9XdVPmv4s+XNevViCk;scmCW0XTQGtnOtnFRBtOyg=="
 ---
 

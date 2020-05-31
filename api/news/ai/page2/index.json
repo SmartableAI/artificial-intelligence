@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-29-what-businesses-can-learn-about-algorithms-from-the-financial-industry.md",
+      "title": "What Businesses Can Learn About Algorithms From The Financial Industry",
+      "excerpt": "Algorithms can be applied across a business to assist with any processes that need streamlining or any problems that need effective predictive outcomes.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/29/what-businesses-can-learn-about-algorithms-from-the-financial-industry/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/29/what-businesses-can-learn-about-algorithms-from-the-financial-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/05/29/what-businesses-can-learn-about-algorithms-from-the-financial-industry/amp/",
+      "publishedDateTime": "2020-05-29T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F05%2F860.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "What Businesses Can Learn About Algorithms From The Financial Industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-what-todays-execs-need-to-know-about-ai.md",
       "title": "What Today's Execs Need To Know About AI",
       "excerpt": "AI systems aren’t thinking for themselves — they’re just accomplishing the tasks we’ve assigned them in new and better ways.",
@@ -1279,51 +1324,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-apple-buys-canadian-start-up-to-help-improve-machine-learning-and-ai.md",
-      "title": "Apple Buys Canadian Start-Up To Help Improve Machine-Learning And AI",
-      "excerpt": "Technology giant Apple Inc. (NASDAQ:AAPL) has bought a small Canadian start-up company to help it improve machine-learning and artificial intelligence (AI). Apple has purchased Waterloo, Ontario-based company Inductiv Inc.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/apple-buys-canadian-start-up-to-help-improve-machine-learning-and-ai-2020-05-28-71972150",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Apple Buys Canadian Start-Up To Help Improve Machine-Learning And AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

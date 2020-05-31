@@ -90,34 +90,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/KWKx_VshCeTaf6InTIOGGAuLbV4=/2020/05/27/b33d5cd5-0063-4b3b-a074-45b1ebf23ccf/ogi-zoox.jpg"
         width: 1200
         height: 630
-  - title: "Amazon in Advanced Talks to Buy Self-Driving Startup Zoox: WSJ"
-    excerpt: "Amazon.com Inc is in advanced talks to buy self-driving startup Zoox Inc, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology, the Wall Street Journal reported  on Tuesday."
-    publishedDateTime: 2020-05-27T00:53:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/05/26/business/26reuters-zoox-m-a-amazon-com.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-  - title: "WSJ: Amazon in Advanced Talks to Buy Self-Driving Startup Zoox"
-    excerpt: "Amazon.com Inc is in advanced talks to buy self-driving startup Zoox Inc, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology, the Wall Street Journal reported on Tuesday."
-    publishedDateTime: 2020-05-27T00:51:00Z
-    webUrl: "https://www.voanews.com/silicon-valley-technology/wsj-amazon-advanced-talks-buy-self-driving-startup-zoox"
-    ampWebUrl: "https://www.voanews.com/silicon-valley-technology/wsj-amazon-advanced-talks-buy-self-driving-startup-zoox?amp"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/wsj-amazon-advanced-talks-buy-self-driving-startup-zoox?amp"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 44
-    images:
-      - url: "https://media.voltron.voanews.com/Drupal/01live-166/2020-05/000_1HB2E8.jpg"
-        width: 4675
-        height: 3057
   - title: "WSJ: Amazon in talks to buy self-driving tech company Zoox"
     excerpt: "Why it matters: It's the latest move by the e-commerce giant, which appears to be building an electric, autonomous logistics operation through its investments in EV truck maker Rivian, self-driving tech company Aurora Innovation and now,"
     publishedDateTime: 2020-05-27T04:09:00Z

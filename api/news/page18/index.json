@@ -2,6 +2,50 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-05-14-ai-made-up-these-words-the-bobweiser-can-vouch-for-their-quality.md",
+      "title": "AI made up these words. The bobweiser can vouch for their quality",
+      "excerpt": "Instagram's former engineering director trains an algorithm to invent vocabulary. Sometimes, nonsense can make perfect sense.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/ai-made-up-these-nonsense-words-the-bobweiser-can-vouch-for-their-quality/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-made-up-these-nonsense-words-the-bobweiser-can-vouch-for-their-quality/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-made-up-these-nonsense-words-the-bobweiser-can-vouch-for-their-quality/",
+      "publishedDateTime": "2020-05-14T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/AW1VvqXLO7aOfw-b9TUXy1QqewI=/2020/05/14/ef2a55d1-b389-46ab-83d2-61ab30396648/1137415971.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "AI made up these words. The bobweiser can vouch for their quality",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-cruise-gms-self-driving-unit-lays-off-8-percent-of-staff.md",
       "title": "Cruise, GM’s self-driving unit, lays off 8 percent of staff",
       "excerpt": "Cruise, the self-driving car startup that is a majority-owned subsidiary of General Motors, is laying off 150 employees, or about 8 percent of its workforce, to cut costs amid the novel coronavirus pandemic.",
@@ -1034,52 +1078,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance.md",
-      "title": "Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 petaflops of performance",
-      "excerpt": "Nvidia unwrapped its Nvidia A100 artificial intelligence chip today, and CEO Jensen Huang called it the ultimate instrument for advancing AI.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/amp/",
-      "publishedDateTime": "2020-05-14T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/a100.jpg?w=1200&#038;strip=all",
-          "width": 1194,
-          "height": 686,
-          "title": "Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 petaflops of performance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
       ]
     }
   ],
