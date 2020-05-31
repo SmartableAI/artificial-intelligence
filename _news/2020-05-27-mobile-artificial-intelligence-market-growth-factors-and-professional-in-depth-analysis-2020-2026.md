@@ -40,19 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Deep Learning Neural Networks (DNNs) Market Current Trends, Growth Opportunities and Global Outlook 2020 to 2026"
-    excerpt: "New Jersey, United States, - The report is a brilliant presentation of critical dynamics, regional growth, competition, and other important aspects of the Deep Learning Neural Networks (DNNs) Market."
-    publishedDateTime: 2020-05-26T17:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-neural-networks-dnns-market-current-trends-growth-opportunities-and-global-outlook-2020-to-2026-2020-05-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Computer Vision in Artificial Intelligence (AI) Market Size Report 2020-2026: Future Trends and Industry Growth Research Report by Absolute Reports"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Computer Vision in Artificial Intelligence (AI) Market” report provides valuable information regarding new products in the market,"
     publishedDateTime: 2020-05-27T08:03:00Z

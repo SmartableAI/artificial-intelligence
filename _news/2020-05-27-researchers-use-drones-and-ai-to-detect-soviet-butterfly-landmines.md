@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines"
 
 related:
-  - title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
-    excerpt: "Using advanced machine learning, drones could be used to detect dangerous 'butterfly' landmines in remote regions of post-conflict countries, according to research from Binghamton University, State University at New York."
-    publishedDateTime: 2020-05-26T18:58:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-05/bu-rud052620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/232917_web.jpg"
-        width: 640
-        height: 360
   - title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
     excerpt: "Binghamton University researchers have continued to develop machine learning for using drones to detect the deadly \"butterfly\" landmine."
     publishedDateTime: 2020-05-27T19:32:00Z

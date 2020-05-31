@@ -72,6 +72,19 @@ related:
       - url: "https://st1.bgr.in/wp-content/uploads/2019/06/Microsoft.jpg"
         width: 805
         height: 456
+  - title: "Microsoft sacks 50 journalists, moves to replace them with AI robots"
+    excerpt: "Tech giants, Microsoft has fired no fewer than 50 journalists under its employ after it decided to replace them with artificial intelligence robots- a |"
+    publishedDateTime: 2020-05-31T11:20:00Z
+    webUrl: "https://www.ripplesnigeria.com/microsoft-sacks-50-journalists-moves-to-replace-them-with-ai-robots/"
+    type: article
+    provider:
+      name: All protocol(s) observed
+      domain: ripplesnigeria.com
+    quality: 54
+    images:
+      - url: "https://www.ripplesnigeria.com/wp-content/uploads/2020/05/Microsoft-CEO-Satya-Nadella.jpg"
+        width: 650
+        height: 350
   - title: "AI to choose your news? Microsoft to get rid of journalists & replace them with ROBOTS"
     excerpt: "Microsoft has announced that it will be axing its team of journalists that work for MSN.com, and replacing them with news-savvy artificial intelligence."
     publishedDateTime: 2020-05-30T15:52:00Z
