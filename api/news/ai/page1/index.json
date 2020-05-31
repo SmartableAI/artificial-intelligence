@@ -5,7 +5,7 @@
       "path": "_news/2020-05-31-its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer.md",
       "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
       "excerpt": "Graphcore, the four-year-old startup based in Bristol, England, has a chip that takes the kinds of math that a neural network processes and splits them across 1,216 tiny computers, each of which does its work in parallel with its brethren.",
-      "heat": 72,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
