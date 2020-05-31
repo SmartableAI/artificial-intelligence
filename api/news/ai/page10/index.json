@@ -2,35 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-05-19-microsoft-msft-sony-ai-camera-deal-to-boost-business-yield.md",
-      "title": "Microsoft (MSFT)-Sony AI-Camera Deal to Boost Business Yield",
-      "excerpt": "Microsoft MSFT recently inked a deal with Sony Semiconductor Solutions (Sony) aimed at delivering solutions to aid enterprises avail the benefits of AI-driven smart cameras with robust video analytics capabilities.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-sony-ai-camera-deal-to-boost-business-yield-2020-05-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-19-chinese-man-abducted-32-years-ago-as-toddler-reunited-with-birth-parents-thanks-to-facial-recognition-tech.md",
       "title": "Chinese man abducted 32 years ago as toddler reunited with birth parents thanks to facial recognition tech",
       "excerpt": "A Chinese man who was kidnapped as a toddler 32 years ago was reunited with his biological parents during an emotional news conference Monday after police used facial recognition technology to track him down and confirm his identity,",
@@ -1278,6 +1249,51 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal.md",
+      "title": "Five Insights For Leveraging RPA And Process Intelligence In The 'New Normal'",
+      "excerpt": "If we acknowledge that digital transformation can help organizations successfully navigate business operations, especially in today’s “new normal,” the next step is to ask the right questions.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/19/five-insights-for-leveraging-rpa-and-process-intelligence-in-the-new-normal/amp/",
+      "publishedDateTime": "2020-05-19T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-27-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Five Insights For Leveraging RPA And Process Intelligence In The 'New Normal'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

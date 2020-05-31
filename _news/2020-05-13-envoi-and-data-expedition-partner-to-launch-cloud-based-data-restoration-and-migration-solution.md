@@ -1,25 +1,21 @@
 ---
 category: news
 title: "Envoi and Data Expedition Partner to Launch Cloud-Based Data Restoration and Migration Solution"
-excerpt: "Envoi – CloudDat Edition leverages Envoi’s APIs to support other solutions including Amazon Rekognition for video indexing and AWS Elemental MediaConvert, a file-based video transcoding ..."
-publishedDateTime: 2020-05-13T10:00:00Z
-webUrl: "https://www.morningstar.com/news/globe-newswire/7919526/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution"
+excerpt: "Envoi – CloudDat Edition leverages Envoi's APIs to support other solutions including Amazon Rekognition for video indexing and AWS Elemental MediaConvert, a file-based video transcoding service ..."
+publishedDateTime: 2020-05-13T10:37:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/05/g16019011/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16019011"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16019011"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://ml.globenewswire.com/media/7ea6365f-e90e-4fee-84fa-bbe58bce5876/medium/envoi-clouddat-log-in.png"
-    width: 300
-    height: 220
-    title: "Envoi and Data Expedition Partner to Launch Cloud-Based Data Restoration and Migration Solution"
-
-secured: "ufPZbw9nmwyIiz2R2wtqqEBFzk0Chf6+JYmkGId0ZmZCldYh9IuZVzEg8ZowzsPmh85iXd3t9cwxTfpDXWwwiJw0ytQu8eaI0MOEH0TJ1yKq/odGVCkMQ7nMG0jO3MrCnIDOeOxus/TCsWC7Pd8HuPfNCql4/LK8Lw0uC3l9+Z5RqrPWMnmUQmBWFjaBgtvhJtEBnCbUcKh3aS7lBsr8w0U82I1L3fufJNnE3Ajg0S6fk9zANXV2IMS6TkmVZZnkwuX48D+s1ouWFH+yfFHFmLoHUjsrud53EkTYJE4QlHVRlcp2iviAVwo+Xm9u2r8a;PKzYP5AkusJz94o1jLGfdw=="
+secured: "XqiZeytIizkL2qP/SQOnNqaXhpb8vyX4iH92wgDZ21EAkrZrIYdezHMOGwXGWC/ZBKgQ3MVcNEH2o5BHTJ5aKDW0hL7yp+D7F742dFL9X9kYvPAVThPIsg4WvT78A1/hLeD0YGgADF8ihfeBRhhF0L4QMfPvNKHP5o/R6pU0nnEBajTnTrZQtdZto4vJClViS5wo2/mGxjffHZvIK4zdgceVeTCsuGzHhBPD9KTF7j31eMdSLLnKS6Wv3LwQaWK3+7eO4LjbS1OMHifUxBjaqJR8G/va3+RpJE1BRV9oqlc0c/f1zceZZfZmayBH0Q5E;AYnoVXtWbUPewprnb3p7tg=="
 ---
 

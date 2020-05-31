@@ -2,43 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential.md",
-      "title": "Sony, Microsoft Strike Deal on Tiny AI Chip With Huge Potential",
-      "excerpt": "Sony Corp. and Microsoft Corp. have partnered to embed artificial intelligence capabilities into the Japanese company’s latest imaging chip, a big boost for a camera product the electronics giant describes as a world-first for commercial customers.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/sony-microsoft-strike-deal-on-tiny-ai-chip-with-huge-potential",
-      "publishedDateTime": "2020-05-18T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-19-microsoft-and-sony-to-create-smart-camera-solutions-for-ai-enabled-image-sensor.md",
       "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
       "excerpt": "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced.",
@@ -1310,6 +1273,51 @@
         "AWS AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server.md",
+      "title": "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server",
+      "excerpt": "(Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green computing technology, today announced two new systems designed for artificial intelligence (AI) deep learning applications that fully leverage the third-generation NVIDIA HGX™ technology with the new NVIDIA A100™ Tensor Core GPUs as well as full support for the new NVIDIA A100 GPUs across the company's broad portfolio of 1U,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/supermicro-expands-portfolio-with-fully-integrated-nvidia-a100-gpu-powered-systems-delivering-5-petaflops-of-ai-performance-in-a-single-4u-server-2020-05-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Supermicro Expands Portfolio with Fully Integrated NVIDIA A100 GPU-Powered Systems Delivering 5 PetaFLOPS of AI Performance in a Single 4U Server",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

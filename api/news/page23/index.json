@@ -2,51 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2020-05-11-this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy.md",
-      "title": "This AI is learning to spot brain tumors – without infringing privacy",
-      "excerpt": "Intel and Penn Medicine are working on a huge, institution-spanning AI that will help identify brain tumors but without overstepping on strict medical privacy rules. The cross-location AI will use",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/",
-      "ampWebUrl": "https://www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/amp/",
-      "publishedDateTime": "2020-05-11T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/digital-brain.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "This AI is learning to spot brain tumors – without infringing privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-11-intel-and-penn-medicine-are-developing-an-ai-to-spot-brain-tumors.md",
       "title": "Intel and Penn Medicine are developing an AI to spot brain tumors",
       "excerpt": "Using Intel’s AI hardware and software, Penn Medicine will lead 29 international healthcare and research institutions in creating an AI model trained on the largest brain tumor dataset ever -- and it will do so without sharing sensitive patient data.",
@@ -1067,6 +1022,43 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-10-tech-trick-easily-turn-your-handwritten-notes-into-typed-text.md",
+      "title": "Tech trick: Easily turn your handwritten notes into typed text",
+      "excerpt": "According to a blog post from Google itself, the acclaimed object recognition tool will now be able to pick up your handwriting and transcribe it into digital text. No, we’re not talking about ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/",
+      "ampWebUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
+      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
+      "publishedDateTime": "2020-05-10T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kim Komando",
+        "domain": "komando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.komando.com/wp-content/uploads/2020/05/dreamstime_m_145621473-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Tech trick: Easily turn your handwritten notes into typed text",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

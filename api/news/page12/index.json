@@ -2,51 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-05-19-microsoft-builds-a-new-online-developer-conference-experience.md",
-      "title": "Microsoft builds a new online developer conference experience",
-      "excerpt": "A look at what Microsoft announced at Microsoft Build 2020, as well as the considerations that went into making the event virtual",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/msft/microsoft-builds-a-new-online-developer-conference-experience/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/05/KDbEeqOL.jpeg",
-          "width": 680,
-          "height": 383,
-          "title": "Microsoft builds a new online developer conference experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-19-mount-sinais-ai-can-diagnose-covid-19.md",
       "title": "Mount Sinai’s AI can diagnose COVID-19",
       "excerpt": "Researchers from Mount Sinai believe they are the first in the US to use AI, combined with imaging and clinical data, to diagnose COVID-19.",
@@ -1085,6 +1040,43 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-shot-in-the-arm-6-use-cases-of-ai-that-will-disrupt-healthcare-space.md",
+      "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
+      "excerpt": "Machines that think and talk like us may once have been possible only in the realm of science fiction. In 1950, all that changed when British mathematician Alan Turing created the Turing test, still in use today,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space",
+      "ampWebUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space/amp",
+      "publishedDateTime": "2020-05-19T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Healthcare-AI-1589887107545.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

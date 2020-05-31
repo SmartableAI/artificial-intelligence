@@ -1,28 +1,28 @@
 ---
 category: news
 title: "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More"
-excerpt: "The annual Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research spanning the fields of computer vision, deep learning, artificial intelligence,"
-publishedDateTime: 2020-05-28T15:34:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739"
+excerpt: "Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research"
+publishedDateTime: 2020-05-28T15:24:00Z
+webUrl: "https://www.prnewswire.com/news-releases/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-301067121.html"
 type: article
-quality: 30
-heat: 30
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Autos
+  - Machine Learning
   - AI
 
-secured: "6dsEsqrGGxLOVv3fLylq2nKKwyS/A6Y/1p0ENXwF/6R1zZ5vB11VhY4gyb0RUR53Va/WwsPmm9Jl3tM/vZgtdiZAhfgKO3JUSMeNyEtLWag9jSXG3vlAyPSOYQyqqkWONhlQ5lvtJ4uw+9voigqwIxHQEsDvQiHE20iCgjohGPC6HeyhIYcTWgB489TIfvw+KoHwAFnWlmUT02Dpp7xZpGwnh96gs3HIZh+nrOGUCI6/SgyulC1Y2qxE6cWalFrkrIBa0nG9fGp+pzOKFrt9bd47aRva55jtOr273q+1b4l+K4DFkaP7tVitxe21QF9i;NnmeVAzOoAppOOrgkWDnLw=="
+images:
+  - url: "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook"
+    width: 597
+    height: 314
+    title: "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More"
+
+secured: "t9tsFuiFSiRbobWLK9nYEKljCJOPNA1c0M1mxSHsCrvjJYiTi1qRHPNzfRu9lnDWIPv+nvc+hd+1vQWE+GkJrhKE57lbRdmGujfpW6wbMhY9r8C1EVGpgF7BQ4NqiOVOkhCyga5gGPEoq6jyknvU5ABMFT+mFin1+eqFKAGX0GdEfi2B5N2U1p49ylAQXZhqkskxsdrKE6b3r/OueOPIxfzhZ0VULSG1qjNbKBHUA7XzUccCKjjeHTv6cAJU2cwr+UX4Y++CmAtwlTlojxpdap0zZqmNldJ/7qb3HjKOfIS7px+xysm/gDJcAGkjxNEW;ZmRmVENkC6m1IrUsZgilAQ=="
 ---
 

@@ -2,50 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2020-05-10-why-the-way-you-talk-about-artificial-intelligence-needs-to-change.md",
-      "title": "Why The Way You Talk About Artificial Intelligence Needs To Change",
-      "excerpt": "What happens if we don't fix the hype around AI? Is it possible to quantify issues caused by technological terminology misuse? All this and more is asked and answered in Gemma Milne's 'Smoke + Mirrors\" - out now.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/paularmstrongtech/2020/05/10/the-way-you-talk-about-ai-needs-to-change-or-were-all-doomed/",
-      "ampWebUrl": "https://www.forbes.com/sites/paularmstrongtech/2020/05/10/the-way-you-talk-about-ai-needs-to-change-or-were-all-doomed/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paularmstrongtech/2020/05/10/the-way-you-talk-about-ai-needs-to-change-or-were-all-doomed/amp/",
-      "publishedDateTime": "2020-05-10T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea9e569228117000681cfa6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1691%26cropY1%3D561%26cropY2%3D1513",
-          "width": 1200,
-          "height": 676,
-          "title": "Why The Way You Talk About Artificial Intelligence Needs To Change",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-10-artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026.md",
       "title": "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026",
       "excerpt": "Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion in 2019 and is anticipated",
@@ -1229,6 +1185,51 @@
           "width": 800,
           "height": 284,
           "title": "Increasing customer engagement and loyalty with personalized coupon recommendations using Amazon Personalize",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services.md",
+      "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
+      "excerpt": "For new home buyers, a common challenge is to understand how to manage their lawn needs effectively. Now imagine if you’re a farmer and have to do this for many acres of land. As a farmer, some of the challenges you’d typically face include the when (when is the right time to water), the where (where",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T09:22:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/28/weed-detector-1.gif",
+          "width": 1000,
+          "height": 600,
+          "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
           "attribution": null
         }
       ],

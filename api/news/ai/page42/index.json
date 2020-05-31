@@ -2,43 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2020-04-21-ust-global-named-winner-at-the-microsoft-ai-awards-20-for-the-best-innovation-in-artificial-intelligence.md",
-      "title": "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence",
-      "excerpt": "UST Global, a leading digital transformation solutions company, announced that it has won the 2020 most innovative AI application award for societal impact from Microsoft. UST",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://indiaeducationdiary.in/ust-global-named-winner-at-the-microsoft-ai-awards-2-0-for-the-best-innovation-in-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Krishna-Sudheendra-CEO-UST-Global-recieving-the-award-from-Jean-Philippe-Courtois-EVP-and-President-Global-Sales-Marketing-and-Operations-Microsoft-Corporation.jpg?fit=1000%2C1058&ssl=1",
-          "width": 1000,
-          "height": 1058,
-          "title": "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-21-deep-learning-takes-on-tumours.md",
       "title": "Deep learning takes on tumours",
       "excerpt": "The cell movements hold clues to how drugs or gene variants might affect the spread of tumours in the body, and he is tracking the nucleus of each cell in frame after frame of time-lapse microscopy films.",
@@ -1225,6 +1188,50 @@
           "width": 1202,
           "height": 598,
           "title": "How utilities are using AI to adapt to electricity demands",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-brief-unlearnai-closes-12-mln-series-a-to-advance-the-use-of-digital-twins-in-clinical-trials.md",
+      "title": "BRIEF-Unlearn.Ai Closes $12 Mln Series A To Advance The Use Of Digital Twins In Clinical Trials",
+      "excerpt": "UNLEARN.AI CLOSES $12M SERIES A TO ADVANCE THE USE OF DIGITAL TWINS IN CLINICAL TRIALS * UNLEARN.AI - CLOSED A $12 MILLION SERIES A FINANCING. FINANCING ROU",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/brief-unlearnai-closes-12-mln-series-a-t-idUSASA00L44",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSASA00L44",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSASA00L44",
+      "publishedDateTime": "2020-04-20T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BRIEF-Unlearn.Ai Closes $12 Mln Series A To Advance The Use Of Digital Twins In Clinical Trials",
           "attribution": null
         }
       ],

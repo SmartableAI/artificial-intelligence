@@ -2,35 +2,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_news/2020-04-30-how-coronavirus-pandemic-will-impact-on-global-artificial-intelligence-in-healthcare-market-industry-trends-and-developments-2020-2027.md",
-      "title": "How Coronavirus Pandemic Will Impact on Global Artificial Intelligence in Healthcare Market : Industry Trends and Developments 2020-2027",
-      "excerpt": "Data Bridge Market Research has recently added a concise research on the Global Artificial Intelligence in Healthcare Market to depict valuable insights related to significant market trends driving the industry The report features analysis based on key opportunities and challenges",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/2031234/how-coronavirus-pandemic-will-impact-on-global-artificial",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-30-google-executive-attended-meeting-of-key-scientific-group-advising-government.md",
       "title": "Google executive attended meeting of key scientific group advising Government",
       "excerpt": "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ...",
@@ -1222,6 +1193,50 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-these-ai-generated-memes-are-bizarre-and-profound.md",
+      "title": "These AI generated memes are bizarre and profound",
+      "excerpt": "For an entire generation reared in the murky dark corners of the internet, memes are the preferred mode of communication. They help us deal with catastrophic events and manage existential dread; they can even help shape the spread of diseases like the coronavirus.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
+      "publishedDateTime": "2020-04-29T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/8H-_8nn57zlQt9SV6hr1lOKPr24=/940x0/2020/04/30/6f286b36-5379-4b5e-92f6-1e5707ad6403/screen-shot-2020-04-30-at-1-52-02-pm.png",
+          "width": 940,
+          "height": 739,
+          "title": "These AI generated memes are bizarre and profound",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

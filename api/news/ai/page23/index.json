@@ -2,43 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2020-05-07-ai-machine-learning-big-data-critical-in-fight-against-covid-19-experts-emphasize-at-trends-e-discussion.md",
-      "title": "AI, Machine Learning, Big Data critical in fight against Covid-19, experts emphasize at trends e-discussion",
-      "excerpt": "Discussion was part of a series of events organized by TRENDS Research & Advisory to analyze the impact of Covid-19 on various spheres of the global economy",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/AI_Machine_Learning_Big_Data_critical_in_fight_against_Covid19_experts_emphasize_at_trends_ediscussion-ZAWYA20200507073731/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200507073731/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200507073731/",
-      "publishedDateTime": "2020-05-07T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "AI, Machine Learning, Big Data critical in fight against Covid-19, experts emphasize at trends e-discussion",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-07-google-to-teach-journalists-power-of-ai-machine-learning-in-newsroom.md",
       "title": "Google to teach journalists power of AI, machine learning in newsroom",
       "excerpt": "In a global survey conducted by Google last year about the use of AI by news organisations, most respondents highlighted the need to train their newsroom on the potential offered by machine learning a",
@@ -1183,6 +1146,51 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-facebooks-ai-detects-gender-bias-in-text.md",
+      "title": "Facebook’s AI detects gender bias in text",
+      "excerpt": "Facebook researchers plan to release an open source tool that can detect signs of gender bias in text like Wikipedia biographies.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-detects-gender-bias-in-text/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-detects-gender-bias-in-text/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebooks-ai-detects-gender-bias-in-text/amp/",
+      "publishedDateTime": "2020-05-06T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s AI detects gender bias in text",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

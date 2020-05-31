@@ -2,43 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2020-05-10-tech-trick-easily-turn-your-handwritten-notes-into-typed-text.md",
-      "title": "Tech trick: Easily turn your handwritten notes into typed text",
-      "excerpt": "According to a blog post from Google itself, the acclaimed object recognition tool will now be able to pick up your handwriting and transcribe it into digital text. No, we’re not talking about ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/",
-      "ampWebUrl": "https://www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
-      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/turn-handwritten-notes-into-typed-text/738200/?amp",
-      "publishedDateTime": "2020-05-10T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kim Komando",
-        "domain": "komando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.komando.com/wp-content/uploads/2020/05/dreamstime_m_145621473-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Tech trick: Easily turn your handwritten notes into typed text",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-10-how-ai-is-finding-patterns-and-anomalies-in-your-data.md",
       "title": "How AI Is Finding Patterns And Anomalies In Your Data",
       "excerpt": "When companies are looking to apply AI, we always recommend that they look at the seven patterns of AI to determine which pattern, or patterns, they are applying. As one of the more widely used patterns,",
@@ -1016,6 +979,51 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-waymo-self-driving-cars-hit-the-road-again-in-phoenix.md",
+      "title": "Waymo self-driving cars hit the road again in Phoenix",
+      "excerpt": "Those residing in the metro Phoenix area will once again start to see Waymo's self-driving vehicles hitting the road. On Thursday, the Alphabet Inc division said it will start redeploying its autonomous cars starting May 11.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-cars-phoenix-coronavirus/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-cars-phoenix-coronavirus/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-cars-phoenix-coronavirus/",
+      "publishedDateTime": "2020-05-08T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Waymo self-driving cars hit the road again in Phoenix",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

@@ -2,50 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2020-04-30-these-ai-generated-memes-are-bizarre-and-profound.md",
-      "title": "These AI generated memes are bizarre and profound",
-      "excerpt": "For an entire generation reared in the murky dark corners of the internet, memes are the preferred mode of communication. They help us deal with catastrophic events and manage existential dread; they can even help shape the spread of diseases like the coronavirus.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
-      "publishedDateTime": "2020-04-29T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/8H-_8nn57zlQt9SV6hr1lOKPr24=/940x0/2020/04/30/6f286b36-5379-4b5e-92f6-1e5707ad6403/screen-shot-2020-04-30-at-1-52-02-pm.png",
-          "width": 940,
-          "height": 739,
-          "title": "These AI generated memes are bizarre and profound",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-30-cars-could-go-completely-driverless-very-soon-says-ceo-of-chinese-autonomous-driving-tech-start-up.md",
       "title": "Cars could go completely driverless 'very soon,' says CEO of Chinese autonomous driving tech start-up",
       "excerpt": "Despite current regulations and safety concerns over self-driving cars, the time that cars could really go driverless is coming \"very soon,\" according to Jianxiong Xiao, CEO and founder of AutoX ...",
@@ -1264,6 +1220,51 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-facebook-releases-its-blender-chatbot-as-an-open-source-project.md",
+      "title": "Facebook releases its 'Blender' chatbot as an open-source project",
+      "excerpt": "Facebook has spent years training its Blender chatbot on 9.4 billion conversational parameters. Now the company is releasing it as an open-source project.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/facebook-chatbot-ai-open-source-blender-150001320.html",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
+      "publishedDateTime": "2020-04-29T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fec52bd10-8991-11ea-bfbf-a5d10e9a9f52&client=amp-blogside-v2&signature=1b5c7c9ee001fd626753b341ba8ee569497eef1c",
+          "width": 600,
+          "height": 350,
+          "title": "Facebook releases its 'Blender' chatbot as an open-source project",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

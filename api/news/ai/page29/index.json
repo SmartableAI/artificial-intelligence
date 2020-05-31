@@ -2,51 +2,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2020-05-01-openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape.md",
-      "title": "OpenAI unveils neural network capable of creating music and releases debut mixtape",
-      "excerpt": "Training Jukebox involved creating a dataset of more than one million songs including LyricWiki lyrical information and metadata, the research lab says.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape/",
-      "publishedDateTime": "2020-05-01T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/01/eb5d05dc-6a0c-4084-8f83-4e8d529d9bab/resize/1200x/a9adbf8e0894c35893db4417272de7be/neural-network.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "OpenAI unveils neural network capable of creating music and releases debut mixtape",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-01-courseras-23-most-popular-online-courses-right-now-from-public-health-courses-on-covid-19-to-the-science-of-happiness.md",
       "title": "Coursera's 23 most popular online courses right now — from public health courses on COVID-19 to the science of happiness",
       "excerpt": "Coursera is a popular online learning platform. These are the most popular classes in Coursera's library right now, most of which are free to audit and under $100 per month to complete.",
@@ -1264,6 +1219,52 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity.md",
+      "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
+      "excerpt": "Trusting AI to keep the banks safe can be a good or bad thing. It all depends on who wins -- villains or heroes. We'll discover",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity-2020-05-01",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

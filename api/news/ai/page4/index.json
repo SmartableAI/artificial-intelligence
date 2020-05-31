@@ -403,51 +403,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-26-arm-doubles-down-on-ai-for-mobile-devices.md",
-      "title": "Arm doubles down on AI for mobile devices",
-      "excerpt": "If you care the least bit about where the mobile device market is headed, it’s important to keep track of the new advancements that Arm introduces. While you won’t experience them immediately, if you purchase a new smartphones 12-18",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html",
-      "publishedDateTime": "2020-05-26T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2019/12/2019-12-10-image-16.jpg",
-          "width": 3840,
-          "height": 2560,
-          "title": "Arm doubles down on AI for mobile devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher.md",
       "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
       "excerpt": "Some big trends stand to benefit Nvidia and its rivals, Intel and Advanced Micro Devices Inc. (NASDAQ: AMD). These include artificial intelligence, gaming and driverless vehicles.",
@@ -1319,6 +1274,51 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g.md",
+      "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
+      "excerpt": "Samsung has announced a new Exynos chip for its mid-range smartphones, the Exynos 880. The octa-core chip is based on the 8nm FinFET process and features an integrated 5G modem with sub-6GHz support.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g",
+      "ampWebUrl": "https://www.neowin.net/amp/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g/",
+      "publishedDateTime": "2020-05-26T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1590465939_exynos-880_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],
