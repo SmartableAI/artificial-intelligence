@@ -53,6 +53,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Computer Vision in Artificial Intelligence (AI) Market Size Report 2020-2026: Future Trends and Industry Growth Research Report by Absolute Reports"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Computer Vision in Artificial Intelligence (AI) Market” report provides valuable information regarding new products in the market,"
+    publishedDateTime: 2020-05-27T08:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-report-2020-2026-future-trends-and-industry-growth-research-report-by-absolute-reports-2020-05-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "UMsfFe40kPkvGmq7K6FkGgo+P5zeSPZOvY3vFXmqOzwHYgo/DxytH/qKb/v7YQqdNh8tpeoDMfnlCOvTv+NZ4ZS5rB5SL6bBfYNLAlkzxbqlYdoLQXzZNQ8SnNRbzCMv7i9F0u0rFK4EfbnNpJUFN5EzOxuRNZMHeWkaoutMulcd1KmCeskzP+u901zgWXoXl7jtqlxw1XzfvDYDbxImEXd0c+DawvEbu66IvaKyuR+fBpJouSP9kCFQS4Q3icX3Y8pgjw4nphGvBFPH231/JHCorSnbxYKc4XHTnq6y5dBcCq85AfQAejfAqSSWWMJt;GKCaM2Jd/iWcJf5eq2A5gA=="
 ---

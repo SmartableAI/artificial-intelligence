@@ -43,6 +43,19 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2014/09/05/40343944-34cd-11e4-9e6a-00505685119a/thumbnail/1200x675/09d197dae3621fd2b39e14fe08ffe2a0/objective-corporation-banks-on-r-and-d-in-revenue-push.jpg"
         width: 1200
         height: 675
+  - title: "Baidu open-sources its Paddle Quantum machine learning toolkit on GitHub"
+    excerpt: "Chinese internet giant Baidu Inc. has unveiled a new toolkit for quantum machine learning, known as Paddle Quantum. The toolkit, newly open-sourced Wednesday, comes with several quantum computing applications and is meant to be used by developers to build and train quantum neural network models."
+    publishedDateTime: 2020-05-29T13:22:00Z
+    webUrl: "https://siliconangle.com/2020/05/28/baidu-open-sources-quantum-machine-learning-toolkit-github/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/39474552481_55d78dfe04_o.jpg"
+        width: 662
+        height: 435
 
 secured: "KN99UbO8iWG88ex8mcXrmH5nL6Axk9YbQy/DFdDrjpTax6TMp8wONUBaTJpK80L8VIN6PfwH7YJKLnTgXZHUg1gxEBLUds32F6L/tRRxBlFkATFt9eJz58RgWO+Zf4i32y1yU66/18KCJNWQuiTGUpz10Es6GRPX2qamdIKvgpj5vfYmGJ3IyeOnKoNxKbpXX9rxU0/P5ryZhFFctyqnKu3vRHLrNGkvYFJ0nC2hr6/25KVn1SsPC5iJ0B7G/xZoymtwC5Ae1rXSA8QyAZp6TcyDN+swggxh7W8EW5O9yL2zapeWWTUDVSSsH7FQ268IOEOaMKvpZUGRbtjkS7lfHpJXQlcRpzzhWmt6g2ejmzvPC+dq8RlcJ8Zg4YZXzmXpOnqBBo3yxd4OkS0pVm+kAsfvfQct77be5C8nAFA1VkpWZpN9tCnQT5AhgXlEyWaDiOm2oOtUJGl3goZ5Scewi/eQsXHDmV7QQ/8YVAyEBsw=;w3hxuFAos4yt62dKiQx6Lw=="
 ---

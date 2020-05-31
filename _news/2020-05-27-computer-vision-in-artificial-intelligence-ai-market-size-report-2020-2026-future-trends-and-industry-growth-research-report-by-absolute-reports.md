@@ -29,15 +29,41 @@ images:
     title: "Computer Vision in Artificial Intelligence (AI) Market Size Report 2020-2026: Future Trends and Industry Growth Research Report by Absolute Reports"
 
 related:
-  - title: "AI In Computer Vision Market Research Report 2020 Share, Growth, Opportunity, And Forecast-2023"
-    excerpt: "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,"
-    publishedDateTime: 2020-05-26T16:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-2020-share-growth-opportunity-and-forecast-2023-2020-05-26"
+  - title: "Artificial Intelligence in Retail Market 2020 Comprehensive Insights, Opportunties and Forecast to 2026"
+    excerpt: "New Jersey, United States, - The report is a brilliant presentation of critical dynamics, regional growth, competition, and other important aspects of the Artificial Intelligence in Retail Market. The factual,"
+    publishedDateTime: 2020-05-27T15:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-comprehensive-insights-opportunties-and-forecast-to-2026-2020-05-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Deep Learning Neural Networks (DNNs) Market Current Trends, Growth Opportunities and Global Outlook 2020 to 2026"
+    excerpt: "New Jersey, United States, - The report is a brilliant presentation of critical dynamics, regional growth, competition, and other important aspects of the Deep Learning Neural Networks (DNNs) Market."
+    publishedDateTime: 2020-05-26T17:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-neural-networks-dnns-market-current-trends-growth-opportunities-and-global-outlook-2020-to-2026-2020-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Mobile Artificial Intelligence Market Growth Factors and Professional In-Depth Analysis 2020-2026"
+    excerpt: "New Jersey, United States, - The report is a brilliant presentation of critical dynamics, regional growth, competition, and other important aspects of the Mobile Artificial Intelligence Market. The factual,"
+    publishedDateTime: 2020-05-27T14:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-growth-factors-and-professional-in-depth-analysis-2020-2026-2020-05-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
