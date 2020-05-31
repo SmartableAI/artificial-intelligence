@@ -1,19 +1,31 @@
 ---
 category: news
-title: "Arm Doubles Down On AI For Mobile Devices"
-excerpt: "In addition to the A78, Arm debuted a whole new branch of CPUs with the Cortex-X1, a larger, but more powerful design. On the GPU side, the company made two different introductions: one at the top end of the performance chain and the other emphasizing the rapidly growing opportunity for moderately priced smartphones."
-publishedDateTime: 2020-05-26T16:32:00Z
-webUrl: "https://seekingalpha.com/article/4350084-arm-doubles-down-on-ai-for-mobile-devices"
+title: "Arm doubles down on AI for mobile devices"
+excerpt: "If you care the least bit about where the mobile device market is headed, it’s important to keep track of the new advancements that Arm introduces. While you won’t experience them immediately, if you purchase a new smartphones 12-18"
+publishedDateTime: 2020-05-26T19:05:00Z
+webUrl: "https://www.techspot.com/news/85377-arm-doubles-down-ai-mobile-devices.html"
+ampWebUrl: "https://www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85377-arm-doubles-down-ai-mobile-devices.html"
 type: article
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "A3OsIf48WI1q9CbSdONYLI5fZ81iGq+nTM8BzrEs8OP+bO7UEjaX85gn8C/snXo5DoUS07o6Dcf8iWrfCjDEFHrTBjoHzQHOSb1EfAj1+tS8QCBjB3cMrIEwlGTfVo8E9ALofNIjv2UpAOakJhMSj6wEj7DdcYJ0wsAXZlNZEeNoMVDkSfQx5mM/SQRlfrLH4yfpbRYndBlwuJHT5UYYZ9JKzO0hyB1m/cHZZ+I7A68sCVJqEczW8VrPzEurMB9esX0grT/f9nvGExWiDvIAvhOgKxyVJkZ2WytxZ0VIaXQIu6tz+xhBkwx5dJ8Bwg/x;vi5oAKm2EgJWz09KphoLiA=="
+images:
+  - url: "https://static.techspot.com/images2/news/bigimage/2019/12/2019-12-10-image-16.jpg"
+    width: 3840
+    height: 2560
+    title: "Arm doubles down on AI for mobile devices"
+
+secured: "x9Hm8gNCrxfpYXbDiUrIHNFdPFMeN0KjhL2LTbGisf0HZo8L2T3dMWNV3QObGR8qwTZ2gTlfyCTCZp5eTHA95FScyybydtPu5ysT+grun3INhWMGHzP7pWAuhdqCd1LXEvQOrO18X77Rw9whRdjWSgZlZLEX4I8EB7vSARRhRAGf7AmvhzNqVxUE9o12BUash2x8DU9g3SxV92UQBXb5OFP/21CTn7pWTGXSwH2SjFNLNVXeAQ+dk1CPjlabcu239iMcYYvT38hUzxHJ84y9zI5SR6Bi6lBFfQpjFS3gzlmg6jvffS4kaa81pvhswnk0;jPuhwqEcmhV/8aoDnBpjFw=="
 ---
 
