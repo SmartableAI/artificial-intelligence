@@ -5,7 +5,7 @@ excerpt: "The global speech and voice recognition market is expected to rise wit
 publishedDateTime: 2020-05-31T12:42:00Z
 webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-global-industry-size-share-demands-growth-analysis-company-profiles-revenue-and-forecast-2026-2020-05-31"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

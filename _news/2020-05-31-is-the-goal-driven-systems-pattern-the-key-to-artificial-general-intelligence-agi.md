@@ -28,6 +28,6 @@ images:
     height: 900
     title: "Is The Goal-Driven Systems Pattern The Key To Artificial General Intelligence (AGI)?"
 
-secured: "AT8f13AC3Sk/reFvab1lxCFkqeGoDlZgc3es2K84HKSAQZIKQCkuBdAPFkyf9uupB23R9macNO4cTDbypj0tlIzWZ8DJIItCDxg53QxWzN7Qj4iXXhXs46muMS/C0Yw1aZuHnLb7BHqBbq9JrSEBdMPJJi+ML31Slh95+FjXBk6AgSOOScSUoqFrGJKEZFIhqG5mhT27P4SgwzPGbcmHTwTX/hy/QeFFaxAgarVXwmQ+UWQeM19n6KaZtuNrsMeDJs6AU5iVo2X7IE+/457ri4ejLAo+w8vW98N11BZBGfoxViYYWMvYsYrTkLBP02Ag;GE3xO0wIcyy/vBx9XNgR4w=="
+secured: "N1eNK/yv2aKsz+BxLZ9XG8VWfzupNeOk+bLfQOUrUOJEBDVyzsUePWb5ksH/w3yBbgC06gNU546/I1CnqiGVoela5MJbCm/SD0l/5X7aUJzQ+mikxheSSKh3T8E6+wweNV92q6ua+L24nta0h3rahxohJHxKetBN6hIUMAKOxNXM7BOCYe4hwV/ncxatctmHVStmt0Hex37hYKU5WlTpAEnG+YWpN54O0J/R5giRQkmxkJN0aoMusHIxzc5rePAPsmWP7hi/XvZBSPkSFpotq5ojfuls7QzhMGQNLq50oSq8eIU7fbLAJarDr+VPasD4Q/h4N0hSsSdZNIxuSvInBrHR3trMiPWNiIFro/nLd9NNe9SgYX8aoZHHavi3VnmSato3CGObDNs1HcBLfnmGwGXyqRwIY+vmBc9eWJ8KbfnuLWbp5vHoVlF/SGugB/9JLvaiPGeNX01oLvLSbzqGM/Gvf97y2p4Mg1Bd2qJoxtg=;Egazl0gAkLgLaS4H1b8tVA=="
 ---
 
