@@ -52,7 +52,7 @@ related:
     provider:
       name: SFGate
       domain: sfgate.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375

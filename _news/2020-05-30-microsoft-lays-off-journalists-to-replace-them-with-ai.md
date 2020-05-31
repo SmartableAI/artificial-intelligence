@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-n
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "Microsoft lays off journalists to replace them with AI"
 
 related:
+  - title: "Microsoft Replaces MSN Journalists with Artificial intelligence"
+    excerpt: "Dozens of contract journalists at Microsoft’s MSN and Microsoft News organizations are being phased out in favor of artificial intelligence, according to multiple reports this week."
+    publishedDateTime: 2020-05-30T22:09:00Z
+    webUrl: "https://gizmodo.com/microsofts-switching-out-msns-contract-journalists-for-1843782592"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cx1ft2zztgrba3xvwvi1.jpg"
+        width: 1200
+        height: 675
   - title: "Microsoft sacks journalist to 'replace them with robots'"
     excerpt: "Dozens of journalists have been sacked after Microsoft decided to replace them with artificial intelligence software. The curating of stories from news organisations and selection of headlines and pictures for the MSN site is currently done by journalists."
     publishedDateTime: 2020-05-30T11:01:00Z

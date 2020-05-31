@@ -7,7 +7,7 @@ webUrl: "https://www.sfgate.com/news/article/Chicago-police-drop-Clearview-facia
 ampWebUrl: "https://www.sfgate.com/news/amp/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
 cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"

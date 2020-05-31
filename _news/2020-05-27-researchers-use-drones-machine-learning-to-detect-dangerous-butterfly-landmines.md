@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
-excerpt: "Binghamton University researchers have continued to develop machine learning for using drones to detect the deadly \"butterfly\" landmine."
-publishedDateTime: 2020-05-27T19:32:00Z
-webUrl: "https://eurekalert.org/pub_releases/2020-05/bu-rud052620.php"
+excerpt: "Using advanced machine learning, drones could be used to detect dangerous 'butterfly' landmines in remote regions of post-conflict countries, according to research."
+publishedDateTime: 2020-05-27T15:55:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/05/200527105053.htm"
 type: article
-quality: 33
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://eurekalert.org/multimedia/pub/web/232917_web.jpg"
-    width: 640
-    height: 360
-    title: "Researchers use drones, machine learning to detect dangerous 'butterfly' landmines"
 
 related:
   - title: "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines"
@@ -53,6 +51,6 @@ related:
         width: 640
         height: 360
 
-secured: "+gp7Q77LYB+8WB4kux4PDog6Kb3GA+RGpzpBbssZ4Eo9JlaNT4HwFCHL0zGpJZSBU5gqrn2LaVfy6EEUD7ujYMBMtf6JXuv41iEYMsOGMZfwdaEnBD4wQceb7ooXWKaxzfeoG73d9QKMYjYopZicl26Xlo6fkCcPe9c7q7pVyeokxV+Ftg5D9QxdN+n9kEayxKxiQP9Tmvv2Qz6Eh+iNI+NQUbiOsDX4wUrAP4tHwEG+yb1PqACYU/u9EAiAab6omeik3liUxtmmXYZCYKxdte5ZCXPo197AuFD6Oz4KPwqEVZsCWT0AqWWyLeWj1ex/32uBo4c4htaOjgKYZS9gsZ4nzYE3faP7DiEszyzce0gHJtjm+Wioa/s0BUi0SLfFN6wLNU+Oc8gQa+2RHD88MVf55qGbvE8VPGhp4kNQHP/Ts6L3VWl15d7d2EKk2LzIFpmZMts/yxSxhq0mRFyfzxC9FBQ+CFu3kwbO2QtNMI0=;Q83i2z8U+lJ6QIgVuPae6Q=="
+secured: "qDV7aUsT93RHlQKHQ85uIqHIlkRi6D4xd2+gvRWJTke2nUZa2PlzGLwW63t5bExCgmDGRBCFZUfjZKn0SiZ2Aj8qxxzCFhdMDfm7fQPKelzxLgPVx8c+ymLb81JA2e7Y/v1S2pxRFdwzSyDkeyvXy7wY7hl2VqV+SgNS3U0H3vgBi0EH8ndAdrc30bClUEc+RrfEA7/zgkg91JB9z4NLp1zppu5O3+gHLwa1FY5ibh2+X9HI7KWigNgTriAK/j2z4AAII+ZX9ihfHnzEXbMizLjwQNcPYVl6MfbFZ+j0vix/JwCIenqLKrvHTj6J/jTS;If68LsvKu5Sh0EAb58mNwg=="
 ---
 

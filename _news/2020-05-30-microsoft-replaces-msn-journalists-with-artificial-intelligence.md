@@ -1,23 +1,30 @@
 ---
 category: news
-title: "AI to choose your news? Microsoft to get rid of journalists & replace them with ROBOTS"
-excerpt: "Microsoft has announced that it will be axing its team of journalists that work for MSN.com, and replacing them with news-savvy artificial intelligence."
-publishedDateTime: 2020-05-30T15:52:00Z
-webUrl: "https://www.rt.com/news/490241-microsoft-robot-journalists-news-fired/"
-ampWebUrl: "https://www.rt.com/news/490241-microsoft-robot-journalists-news-fired/amp/"
-cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/490241-microsoft-robot-journalists-news-fired/amp/"
+title: "Microsoft Replaces MSN Journalists with Artificial intelligence"
+excerpt: "Dozens of contract journalists at Microsoft’s MSN and Microsoft News organizations are being phased out in favor of artificial intelligence, according to multiple reports this week."
+publishedDateTime: 2020-05-30T22:09:00Z
+webUrl: "https://gizmodo.com/microsofts-switching-out-msns-contract-journalists-for-1843782592"
 type: article
-quality: 46
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: RT
-  domain: rt.com
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cx1ft2zztgrba3xvwvi1.jpg"
+    width: 1200
+    height: 675
+    title: "Microsoft Replaces MSN Journalists with Artificial intelligence"
 
 related:
   - title: "Microsoft lays off journalists to replace them with AI"
@@ -35,19 +42,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/OQ1cQ3E_SYrS9YZz-esPG3MaYgM=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66875825/acastro_180507_1777_microsoft_0002.0.jpg"
         width: 1400
         height: 933
-  - title: "Microsoft Replaces MSN Journalists with Artificial intelligence"
-    excerpt: "Dozens of contract journalists at Microsoft’s MSN and Microsoft News organizations are being phased out in favor of artificial intelligence, according to multiple reports this week."
-    publishedDateTime: 2020-05-30T22:09:00Z
-    webUrl: "https://gizmodo.com/microsofts-switching-out-msns-contract-journalists-for-1843782592"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cx1ft2zztgrba3xvwvi1.jpg"
-        width: 1200
-        height: 675
   - title: "Microsoft sacks journalist to 'replace them with robots'"
     excerpt: "Dozens of journalists have been sacked after Microsoft decided to replace them with artificial intelligence software. The curating of stories from news organisations and selection of headlines and pictures for the MSN site is currently done by journalists."
     publishedDateTime: 2020-05-30T11:01:00Z
@@ -63,6 +57,17 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/03/13/132683-pjimage22.jpg?itok=_VOepYCR"
         width: 918
         height: 506
+  - title: "AI to choose your news? Microsoft to get rid of journalists & replace them with ROBOTS"
+    excerpt: "Microsoft has announced that it will be axing its team of journalists that work for MSN.com, and replacing them with news-savvy artificial intelligence."
+    publishedDateTime: 2020-05-30T15:52:00Z
+    webUrl: "https://www.rt.com/news/490241-microsoft-robot-journalists-news-fired/"
+    ampWebUrl: "https://www.rt.com/news/490241-microsoft-robot-journalists-news-fired/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/490241-microsoft-robot-journalists-news-fired/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 46
   - title: "Microsoft moves to 'replace journalists with robots'"
     excerpt: "Microsoft is planning to replace journalists in its MSN news website with robots, according to reports. The journalists to be made redundant curate news articles, headlines and images from across the internet to be displayed on the MSN website."
     publishedDateTime: 2020-05-30T15:37:00Z
@@ -77,6 +82,6 @@ related:
         width: 2463
         height: 1642
 
-secured: "cQq2d3j/QDoFyppjLYFNEZ0W9xa6TTJkgOaM9ioEPYniMCKqSPSbrCO4mozNkUCBxExNc3IauUr5HxfcdsxohR3XvnPPXthmGqCRWpqvxJLntqcrzZ/xftOWa/mpo+K5eAgFNeF3wfij3K4bwLNg2esH439/Rd5B5ebloKaov7RgAJIfr8bwPnYY4TNphqm3SJF9QOJrQauRJ5hs71cVnYoDk5dmJTtxwrqJWOWwWL7Alc6vxiWTj5QpwoJdV08vQVduc3PhfNpxwvkGScjEvaPehdjkbUo5Rx0vBtnnhC4N805Q7z4UuRqTqvjw+B6nyn7meKhfGPexIYTmjRSmJ2tjaIM7Ji8hH5+bHQkl/rtYW6mFlcgpnAqW9KLxfmFj6ivNWUmE4av4sPGkqHkzmtgnEk6bJVPultgB87dCe5eMK2c/x+nNMO/faK7dJXGCTpbqP7t+0u6t4vmvj5KgTEMkHQG60PyJ5lhdw5oNRT4=;7/rMq1loABi/joKogoaQdw=="
+secured: "BJkSiGwOFvuZeCnIghDZ3843mVA7PkTPPGPSesdbQC3Z4k+3l/xcP2IDYc9/Q6XPQTgf9DjU36UE+iYJuo41lWHbmWkgdfDnBUdgGhUOKYdBoJ4wqKvODRpCzG5UiOMlg1FurOX20wLHxKQdWAas6Rkw+3CSupRUo3fVRKQxr6XLpQgoGeXJ5xHoBzv6GABS9UaRr4/dHgvlaDH42t0q+TUH0sPfS2K03yflXZpX2rw1YZ1nWtNGMzxy4Vy0XcBtX/xHXcEZ9YRyfT5E2Sky2PuVVipTvJzlo+L1gnKSJJA4e0h56Jq8Zi+LgHnV6hvD;M/sNzVi2FDz9EnYFp+a7Bg=="
 ---
 
