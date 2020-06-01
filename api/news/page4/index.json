@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-27-computer-vision-and-uncertainty-in-ai-for-robotic-prosthetics.md",
+      "title": "Computer vision and uncertainty in AI for robotic prosthetics",
+      "excerpt": "Researchers have developed new software that can be integrated with existing hardware to enable people using robotic prosthetics or exoskeletons to walk in a safer, more natural manner on different types of terrain.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200527133147.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-new-models-use-computer-vision-and-ai-to-identify-covid-19-in-x-rays.md",
       "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
       "excerpt": "Students at Cranfield University have designed computer models that can identify COVID-19 in X-rays. The models use computer vision and artificial intelligence (AI) to analyze chest X-ray imagery. It can classify information which would not normally be recognized with the naked eye and assist with the diagnosis of COVID-19.",
@@ -602,43 +639,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-microsoft-azure-cognitive-services-receives-pronunciation-assessment.md",
-      "title": "Microsoft Azure Cognitive Services Receives Pronunciation Assessment",
-      "excerpt": "Microsoft also announced Speaker Recognition improvements for Azure Cognitive Services, as well as an update to Personalizer.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://winbuzzer.com/2020/05/27/microsoft-azure-cognitive-services-receives-pronunciation-assessment-xcxwbn/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2018/07/Samsung-AI-Samsung.jpg",
-          "width": 705,
-          "height": 470,
-          "title": "Microsoft Azure Cognitive Services Receives Pronunciation Assessment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {

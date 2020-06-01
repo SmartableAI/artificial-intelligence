@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-21-current-thinking-how-does-the-brain-work.md",
+      "title": "Current thinking: how does the brain work?",
+      "excerpt": "This is a brain implant that allows paralysed patients to move robotic arms. It is an array of 128 needles that gathers stable neural recordings of potential actions in the motor cortex to transmit movement data. It has up to 256 electrodes and neural ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://eandt.theiet.org/content/articles/2020/04/current-thinking-using-electrodes-to-understand-how-the-brain-works/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IET",
+        "domain": "theiet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eandt.theiet.org/media/11142/c0270936-parkinson_s_disease_with_dbs_electrodes_230916218720977579.jpg?crop=0.0000000000000013895057943753,0.04375000000000006,0,0.46406249999999927&cropmode=percentage&width=1200&height=450&rnd=132328005720000000",
+          "width": 1200,
+          "height": 450,
+          "title": "Current thinking: how does the brain work?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-diamonds-shine-in-energy-storage-solution.md",
       "title": "Diamonds shine in energy storage solution",
       "excerpt": "The new carbon structure could be a potential micro-scale power supply for anything from implanted biomedical sensing systems monitoring heart and brain functions, to small robotics and electronics.",
@@ -1166,51 +1203,6 @@
         "AI",
         "AI in Robotics",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-researchers-teach-robots-to-move-more-like-animals.md",
-      "title": "Researchers teach robots to move more like animals",
-      "excerpt": "Some of the things they’re able to do are very impressive. A group of researchers at the Berkeley Artificial Intelligence Research (BAIR) laboratory at Berkeley are trying to teach robots to move like animals. The scientists say that they have presented a framework for learning robotic locomotion skills by imitating animals. Using a reference ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/",
-      "ampWebUrl": "https://www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/amp/",
-      "publishedDateTime": "2020-04-08T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/robot-motion.jpg",
-          "width": 1280,
-          "height": 608,
-          "title": "Researchers teach robots to move more like animals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

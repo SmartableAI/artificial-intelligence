@@ -8,7 +8,7 @@ ampWebUrl: "https://theenterpriseleader.com/2020/05/27/cambridge-investment-rese
 cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/05/27/cambridge-investment-research-advisors-inc-has-1-33-million-stock-holdings-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.html/amp"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 450
     height: 323
     title: "Cambridge Investment Research Advisors Inc. Has $1.33 Million Stock Holdings in Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ)"
-
-related:
-  - title: "Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ) Stock Position Decreased by Cambridge Investment Research Advisors Inc."
-    excerpt: "Cambridge Investment Research Advisors Inc. lowered its holdings in Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ) by 7.0% in the first quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission."
-    publishedDateTime: 2020-05-27T11:36:00Z
-    webUrl: "https://www.modernreaders.com/news/2020/05/27/global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz-stock-position-decreased-by-cambridge-investment-research-advisors-inc.html"
-    ampWebUrl: "https://www.modernreaders.com/news/2020/05/27/global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz-stock-position-decreased-by-cambridge-investment-research-advisors-inc.html/amp"
-    cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/05/27/global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz-stock-position-decreased-by-cambridge-investment-research-advisors-inc.html/amp"
-    type: article
-    provider:
-      name: modernreaders.com
-      domain: modernreaders.com
-    quality: 53
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks.jpg"
-        width: 450
-        height: 323
 
 secured: "KlYvpEqqs30GNtjoHZgvfeoGtReDiPqYE7LqJsI1XWnvBjpxCl2LhOIp16Y5u62lazUkk0C3vk1/QXYXOe4KkbMpSgkL5Dy0AgBX0sX3GFVpqYA9l1hO8gjUmS20d1n9i9eDbimpj31fvR2J2/iBFAoIN+eMMPXyF7OYU1J9D76geqNB8c1QPlglXntedM5IClwIe/TOY4zUJO0/QdLl/GjzkwVNWSW0l4r3QOysxM5uRRFnh5/lYEgl1az6V1SxW08uBAJsF9+tQ0PJBjAzRIJNo48jGvuVz4I+GEL4YrgkQlTOXM32fNePSr7xMY0/I3uQG3DGv2NWUiaNwA5pYNEYSBWZoM1cTUqnfDtb1CAI4xWCQZyddJYCPeS9nU93wbzxPaTnZ9aYGzLIfSCnTgvq1l5WPgrMj//yOfal3iCJXsbqnjtoWC7RY3vAJoIJVhQdUIV6XwmNIdhJJ/iSgXQDV3KyI0rEYgIw/nRkmC4=;ddOllgLLQEf39mgoVcyKeg=="
 ---

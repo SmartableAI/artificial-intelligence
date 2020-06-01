@@ -1,49 +1,39 @@
 ---
 category: news
 title: "Armed with disinfectant and admonishments, S.Korean robot fights coronavirus spread"
-excerpt: "A self-driving robot equipped with cameras and an LED screen greets visitors at the lobby in the headquarters of South Korea's largest mobile operator, checking their temperature, dispensing hand sanitiser and disinfecting the floor."
-publishedDateTime: 2020-06-01T03:42:00Z
-webUrl: "https://www.reuters.com/article/health-coronavirus-southkorea-robots-idUSL4N2DA2G8"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2DA2G8"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2DA2G8"
+excerpt: "SEOUL, June 1 (Reuters) - A self-driving robot equipped with cameras and an LED screen greets visitors at the lobby in the headquarters of South Korea's largest mobile operator, checking their temperature,"
+publishedDateTime: 2020-06-01T03:43:00Z
+webUrl: "https://news.trust.org/item/20200601025202-uxxt8"
 type: article
-quality: 83
-heat: 93
-published: true
+quality: 13
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Thomson Reuters Foundation
+  domain: trust.org
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-    width: 1200
-    height: 630
-    title: "Armed with disinfectant and admonishments, S.Korean robot fights coronavirus spread"
-
 related:
   - title: "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread"
-    excerpt: "SEOUL (Reuters) - A self-driving robot equipped with cameras and an LED screen greets visitors at the lobby in the headquarters of South Korea's largest mobile operator, checking their temperature, dispensing hand sanitiser and disinfecting the floor."
-    publishedDateTime: 2020-06-01T03:57:00Z
-    webUrl: "https://www.thestar.com.my/news/world/2020/06/01/armed-with-disinfectant-and-admonishments-south-korean-robot-fights-coronavirus-spread"
+    excerpt: "A self-driving robot equipped with cameras and an LED screen greets visitors at the lobby in the headquarters of South Korea's largest mobile operator, checking their temperature, dispensing hand sanitiser and disinfecting the floor."
+    publishedDateTime: 2020-06-01T05:00:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-southkorea-robots-idUSKBN23816M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23816M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23816M"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 31
+      name: Reuters
+      domain: reuters.com
+    quality: 81
     images:
-      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
-        width: 1200
-        height: 630
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200601&t=2&i=1520590902&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG50147"
+        width: 818
+        height: 545
 
-secured: "SeRx4zs8owVbyJA5QgS8IR7BzesV8o5tNNuHu8gbcpx7RUfYeRoPZA/28mYZJY7rYNVbH4rbq+wLxVk/hiqR/iv28N120zN2KPCAmtP+xfJv+o4koiMohPJhX0BP2G2juJiNOuGjU5yu6Dfz4mW1whVPjQp4D9SrQDJRSiGLQ6eXqp2lnmBH6EGLsJrW9u0GQ88h7JXcWPF3B/NsOOiMB6ay6PvuENqp2bTfFBUhU2ci/g19kRoOZiYMJRZM4/Xn99MGJMDP0EFEL/YhbZThIpCPctqWINzTVOJ392JXdlkA1WPCHr83KYvQWFvENk9y;VLbmLySBZtvOl0eHx1fVvA=="
+secured: "kCo+rcK0DGva5gl253TDn2sK2CudOMTBNxByH9EccrljjzcmytN70vj7yoTFK/uXY04p+Ax8PXo15LVwzXLHlrKmWInkEkiKBuZ83ONIRvffhx7SSUc0RG32nIp880YTksIkeTg3BOaeUIZL8kNP7J+Jj7ibwUIMRVpZbEB6oirwAK+/flxMgpR0tnkE1PK81ldEYQn/pkwcNjuxlH0Aa1xKSp4GzWxEzDc3ftk5XuvMGxPOjeWhTBy58sp2vQQXpDkXpzpE+ELDukNLLVA2ppX6QXdvent3JYt4SARv38OhrZg6kJqylEgrLwxrSGfU;8vlsQkKgKDouziZYkR5S3Q=="
 ---
 

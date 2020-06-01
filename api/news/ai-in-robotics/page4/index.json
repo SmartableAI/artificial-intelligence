@@ -2,6 +2,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-04-lets-make-a-deal-with-our-robot-overlords.md",
+      "title": "Let’s Make a Deal With Our Robot Overlords",
+      "excerpt": "The pandemic will accelerate automation. This might be an opportunity for workers.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "publishedDateTime": "2020-05-04T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
       "excerpt": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis by historic, current, and forecast market information. Upcoming Artificial Intelligence in Healthcare Global Market Trends and the impact of COVID-19 on market also discussed in this report.",
@@ -1226,43 +1264,6 @@
         "AI in Robotics",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-current-thinking-how-does-the-brain-work.md",
-      "title": "Current thinking: how does the brain work?",
-      "excerpt": "This is a brain implant that allows paralysed patients to move robotic arms. It is an array of 128 needles that gathers stable neural recordings of potential actions in the motor cortex to transmit movement data. It has up to 256 electrodes and neural ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/04/current-thinking-using-electrodes-to-understand-how-the-brain-works/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/11142/c0270936-parkinson_s_disease_with_dbs_electrodes_230916218720977579.jpg?crop=0.0000000000000013895057943753,0.04375000000000006,0,0.46406249999999927&cropmode=percentage&width=1200&height=450&rnd=132328005720000000",
-          "width": 1200,
-          "height": 450,
-          "title": "Current thinking: how does the brain work?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
