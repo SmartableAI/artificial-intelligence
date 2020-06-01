@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-05-the-relentless-startup-fast-tracking-fords-self-driving-cars.md",
+      "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
+      "excerpt": "Meet Brian Salesky and the team of resourceful engineers at Argo, the little company trying to crack a big problem: safe autonomous driving.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/",
+      "ampWebUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
+      "publishedDateTime": "2020-05-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eb0b525d1f9c7765dcdadbe/master/pass/Backchannel-Argo-Selesky_6564.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto.md",
       "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
       "excerpt": "To this day, the Roomba remains the one successful mainstream home robotic. It was a feat iRobot achieved after a decade or so of throwing concepts against the wall, ultimately achieving success through a combination of outward-facing simplicity and under-the-hood sophistication.",
@@ -1218,51 +1264,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-how-artificial-intelligence-iot-and-big-data-can-save-the-bees.md",
-      "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
-      "excerpt": "Artificial intelligence (AI), internet of things sensors, big data analytics, and other technologies are being used to monitor and develop solutions to mitigate the global issue of declining honey bee and pollinator populations.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
-      "publishedDateTime": "2020-04-21T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9fc586dea8300007de8a08%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

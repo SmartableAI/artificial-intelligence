@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-01-13-ways-microsoft-azure-beats-aws.md",
+      "title": "13 ways Microsoft Azure beats AWS",
+      "excerpt": "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html",
+      "publishedDateTime": "2020-06-01T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "13 ways Microsoft Azure beats AWS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-designing-human-review-workflows-with-amazon-translate-and-amazon-augmented-ai.md",
       "title": "Designing human review workflows with Amazon Translate and Amazon Augmented AI",
       "excerpt": "The world is becoming smaller as many businesses and organizations expand globally. As businesses expand their reach to wider audiences across different linguistic groups, their need for interoperability with multiple languages increases exponentially. Most of the industry work is manual, slow, and expensive",
@@ -1243,51 +1288,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-the-ai-eye-episode-345-ibm-collaborating-with-samsung-m1-imda-on-singapores-5g-industry-40-trial-and-virtusa-achieves-aws-saas-competency.md",
-      "title": "The AI Eye Episode 345: IBM Collaborating with Samsung, M1, IMDA on Singapore's 5G Industry 4.0 Trial and Virtusa Achieves AWS SaaS Competency",
-      "excerpt": "Point Roberts, WA and Vancouver, BC - May 7, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-345-ibm-collaborating-with-samsung-m1-imda-on-singapores-5g-industry-40-trial-and-virtusa-achieves-aws-saas-competency-2020-05-07?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye Episode 345: IBM Collaborating with Samsung, M1, IMDA on Singapore's 5G Industry 4.0 Trial and Virtusa Achieves AWS SaaS Competency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

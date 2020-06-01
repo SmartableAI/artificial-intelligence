@@ -2,6 +2,125 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-19-sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions.md",
+      "title": "Sony joins Microsoft to create AI-driven smart camera solutions",
+      "excerpt": "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. The companies will embed Microsoft Azure AI capabilities on Sony's intelligent vision sensor IMX500,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.webindia123.com/news/articles/Science/20200520/3561442.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
+      "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
+      "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "publishedDateTime": "2020-05-19T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5ec426f35504fd0099a9f91f/lede/1589913548738-Copy-of-Copy-of-Splitscreen-5.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-certified-azure-ai-fundamentals.md",
+      "title": "Microsoft Certified: Azure AI Fundamentals",
+      "excerpt": "This certification will be available on or around June 8, 2020. Azure AI Fundamentals validates foundational knowledge of machine learning and artificial intelligence concepts and related Microsoft Azure services.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Microsoft Certified: Azure AI Fundamentals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity.md",
       "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
       "excerpt": "For Daivergent, matching tech workers with autism to jobs isn't an act of charity. It was 2018, and Leon Campbell was worried about getting a job. The Hunter College grad, now 25, had a degree in computer science,",
@@ -1166,134 +1285,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-readies-more-developer-tools-for-its-project-cortex-knowledge-management-service.md",
-      "title": "Microsoft readies more developer tools for its 'Project Cortex' knowledge-management service",
-      "excerpt": "Microsoft's Project Cortex knowledge service is still on track to be generally available this summer. Microsoft has 75 companies privately testing Cortex and is working to get more developers on board.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-readies-more-developer-tools-for-its-project-cortex-knowledge-management-service/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-readies-more-developer-tools-for-its-project-cortex-knowledge-management-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-readies-more-developer-tools-for-its-project-cortex-knowledge-management-service/",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/19/1e67420f-359a-4072-ad9a-b2eb02c56a6c/thumbnail/1200x675/1b12f9a73cf7a93c43a879cf941ccb5c/msbuyssoftomotive.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft readies more developer tools for its 'Project Cortex' knowledge-management service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates.md",
-      "title": "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates",
-      "excerpt": "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020.",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work.md",
-      "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
-      "excerpt": "The post Microsoft announces new supercomputer, lays out vision for future AI work appeared first on The AI Blog.\n",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/openai-azure-supercomputer/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:59:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/openai-azure-supercomputer-kevin-scott_3_1200x630-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

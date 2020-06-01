@@ -2,6 +2,132 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-29-amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices.md",
+      "title": "Amazon discontinues the Echo Look and migrates AI style recommendations to other apps and devices",
+      "excerpt": "Amazon has discontinued the Alexa-powered Echo Look as it migrates the device's key features to other apps and devices.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/29/amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/29/amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices/amp/",
+      "publishedDateTime": "2020-05-29T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Echo-Look-Model-1-e1590770299625.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon discontinues the Echo Look and migrates AI style recommendations to other apps and devices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-please-keep-artificial-intelligence-from-becoming-another-out-of-touch-bureaucracy.md",
+      "title": "Please, Keep Artificial Intelligence From Becoming Another Out-Of-Touch Bureaucracy",
+      "excerpt": "Successful companies thrive on spontaneity, serendipity and spirit — not mechanized, robotic decision-making, Seventy percent of all AI projects need to be about human collaboration.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/05/29/please-keep-artificial-intelligence-from-becoming-another-out-of-touch-bureaucracy/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/05/29/please-keep-artificial-intelligence-from-becoming-another-out-of-touch-bureaucracy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/05/29/please-keep-artificial-intelligence-from-becoming-another-out-of-touch-bureaucracy/amp/",
+      "publishedDateTime": "2020-05-29T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed136d06fa7be00069cd38b%2F0x0.jpg",
+          "width": 1199,
+          "height": 674,
+          "title": "Please, Keep Artificial Intelligence From Becoming Another Out-Of-Touch Bureaucracy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-owkin-raises-25m-to-enhance-medical-research-machine-learning-and-collaboration.md",
+      "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
+      "excerpt": "Owkin is fueling collaborative medical research using machine learning while being compliant with privacy laws. Thomas Clozel discusses the unique benefits of Owkin.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/",
+      "ampWebUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
+      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
+      "publishedDateTime": "2020-05-29T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "alleywatch.com",
+        "domain": "alleywatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/05/Owkin_Thomas_Clozel.001.jpeg",
+          "width": 1000,
+          "height": 537,
+          "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters.md",
       "title": "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters",
       "excerpt": "OpenAI's GPT-3 language model can generate convincing news articles and achieve state-of-the-art results on a range of NLP tasks with few-shot learning.",
@@ -1176,140 +1302,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-square-enix-establishes-new-company-to-pursue-entertainment-ai.md",
-      "title": "Square Enix establishes new company to pursue ‘entertainment AI’",
-      "excerpt": "Square Enix wants to get into the exciting new business of \"entertainment AI.\" Does that mean you'll finally get the digital Tifa of your dreams?",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/amp/",
-      "publishedDateTime": "2020-05-28T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ff7-tifa.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Square Enix establishes new company to pursue ‘entertainment AI’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-its-the-data-stupid-why-ai-might-get-it-wrong.md",
-      "title": "It’s The Data, Stupid! Why AI Might Get It Wrong.",
-      "excerpt": "Artificial Intelligence is based on data. But that data might not be sufficient, biased, or out-right wrong. To have control over AI we need tools to check for biases.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/",
-      "ampWebUrl": "https://www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/amp/",
-      "publishedDateTime": "2020-05-28T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecfd6dd75134600060969b1%2F0x0.jpg",
-          "width": 940,
-          "height": 788,
-          "title": "It’s The Data, Stupid! Why AI Might Get It Wrong.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent.md",
-      "title": "Clearview AI faces lawsuit over gathering people's images without consent",
-      "excerpt": "Clearview AI has spent months amassing its facial recognition database with more than 3 billion pictures of people it gathered from the internet. Now it faces a lawsuit in Illinois for taking those photos without people's consent.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
-      "publishedDateTime": "2020-05-28T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/2Xk6hmSaVxblXYNhWoSGstkx7-s=/756x567/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview AI faces lawsuit over gathering people's images without consent",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

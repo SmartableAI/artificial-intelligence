@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-01-wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure.md",
+      "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
+      "excerpt": "SAN RAMON, Calif., June 01, 2020 (GLOBE NEWSWIRE) -- WANdisco (LSE: WAND), the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure-2020-06-01",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-31-microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere.md",
       "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
       "excerpt": "With support for edge devices and Azure Sphere, IoT Central can now address new scenarios making it the most versatile SaaS-based IoT solution.",
@@ -1223,51 +1268,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
-      "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
-      "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
-      "heat": 152,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/",
-      "publishedDateTime": "2020-05-19T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024",
-          "width": 1024,
-          "height": 652,
-          "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

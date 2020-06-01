@@ -2,6 +2,133 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-21-deep-learning-market-analysis-as-per-the-latest-covid-19-impact.md",
+      "title": "Deep Learning Market Analysis as per the Latest COVID-19 Impact",
+      "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Deep Learning Market is expected to be around US$ 25.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-as-per-the-latest-covid-19-impact-2020-05-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Analysis as per the Latest COVID-19 Impact",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
+      "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
+      "excerpt": "Unbelievable! 😲 With the help of facial recognition, this man who was abducted as a child 32 years ago, was finally reunited with his birth parents.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://abc7.com/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
+      "ampWebUrl": "https://abc7.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
+      "publishedDateTime": "2020-05-20T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/6200174_052020-ktrk-cnn-facial-recognition-reunites-family-carolina-final.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-sphero-startup-will-make-robots-for-government-and-first-responders.md",
+      "title": "Sphero startup will make robots for government and first responders",
+      "excerpt": "Sphero, the company best known for its BB-8 toy robot, has announced the successful spin-off of its Company Six into a startup that will make robots for the government, military use, and more.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/",
+      "ampWebUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
+      "publishedDateTime": "2020-05-20T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/company_six_logo_main.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": "Sphero startup will make robots for government and first responders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-can-machine-learning-predict-coronavirus-spread.md",
       "title": "Can machine learning predict coronavirus spread?",
       "excerpt": "Using datasets on climate, health and social movement, researchers at Lawrence Berkeley National Lab want to identify what influences COVID-19 transmission.",
@@ -923,125 +1050,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-microsoft-built-a-new-ai-supercomputer-in-azure.md",
-      "title": "Microsoft built a new AI supercomputer in Azure",
-      "excerpt": "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/",
-      "ampWebUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/?amp",
-      "publishedDateTime": "2020-05-20T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/05/Microsoft-built-a-new-AI-supercomputer-in-Azure.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Microsoft built a new AI supercomputer in Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
-      "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-      "excerpt": "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/",
-      "ampWebUrl": "https://www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/amp/",
-      "cdnAmpWebUrl": "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/amp/",
-      "publishedDateTime": "2020-05-20T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKRN",
-        "domain": "wkrn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wkrn.com/wp-content/uploads/sites/73/2020/05/97DEC7C8C9EC4C018B904AD24A8ED6A2_7.jpg?w=576&h=324&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie.md",
-      "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
-      "excerpt": "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "publishedDateTime": "2020-05-20T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/20/9e85075f-4425-4576-995a-976a4acc1b40/guthriewhereareyou.jpg",
-          "width": 1071,
-          "height": 728,
-          "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

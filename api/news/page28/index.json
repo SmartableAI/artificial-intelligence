@@ -2,6 +2,132 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-05-07-ibm-retrains-watson-ai-for-it-operations.md",
+      "title": "IBM retrains Watson AI for IT operations",
+      "excerpt": "IBM is relying on technology from its Red Hat acquisition to deploy a new AIOps tool and help it deliver new edge-of-cloud computing services to support 5G networks",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.html",
+      "ampWebUrl": "https://www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3542690/ibm-retrains-watson-ai-for-it-operations.amp.html",
+      "publishedDateTime": "2020-05-07T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/eye_circuits_system_artificial_intelligence_machine_learning_privacy_by_vijay_patel_gettyimages-936718998_1200x800-100768000-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM retrains Watson AI for IT operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-huaweis-hisilicon-becomes-first-mainland-chinese-chip-company-to-enter-top-10-in-global-sales-says-ic-insights.md",
+      "title": "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights",
+      "excerpt": "HiSilicon’s first quarter revenue surged 54 per cent year on year to US$2.67 billion, although 90 per cent of its sales go to parent Huawei Technologies",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3083314/huaweis-hisilicon-first-mainland-chinese-chip-company-enter-top-10",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3083314/huaweis-hisilicon-first-mainland-chinese-chip-company-enter-top-10",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3083314/huaweis-hisilicon-first-mainland-chinese-chip-company-enter-top-10",
+      "publishedDateTime": "2020-05-07T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/07/13b312c8-9028-11ea-a674-527cfdef49ee_image_hires_175821.JPEG?itok=J7WDgbBI&v=1588845509",
+          "width": 1200,
+          "height": 630,
+          "title": "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-dtex-raises-175-million-to-detect-cyberthreats-with-ai-while-preserving-privacy.md",
+      "title": "Dtex raises $17.5 million to detect cyberthreats with AI while preserving privacy",
+      "excerpt": "Dtex, which is developing a privacy-preserving cybersecurity platform for enterprise customers, raised $17.5 million in venture capital.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/dtex-raises-17-5-million-to-detect-cyberthreats-with-ai-while-preserving-privacy/amp/",
+      "publishedDateTime": "2020-05-07T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/US-cyber-security-company-Dtex-Systems-The-Hague-011.jpg?fit=2500%2C1667&strip=all",
+          "width": 2500,
+          "height": 1667,
+          "title": "Dtex raises $17.5 million to detect cyberthreats with AI while preserving privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-predicting-failing-tests-with-machine-learning.md",
       "title": "Predicting Failing Tests with Machine Learning",
       "excerpt": "Machine learning can be used to predict how tests behave on changes in the code. These predictions reduce the feedback time to developers by providing information at check-in time. Marco Achtziger & Dr.",
@@ -862,134 +988,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization.md",
-      "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
-      "excerpt": "There is so much hype about AI and its ubiquity, fueled by stories about auto-piloted vehicles, creepy facial recognition, and human-free company operations that it's important to sometimes be reminded of AI's core capabilities.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
-      "publishedDateTime": "2020-05-06T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/05/9ba1b354-e835-450f-b505-7ce9a9ac3914/resize/1200x/48a87a86718ea97bb615d302505f9881/istock-1178132567.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-runai-creates-first-fractional-gpu-sharing-for-kubernetes-deep-learning-workloads.md",
-      "title": "Run:AI Creates First Fractional GPU Sharing for Kubernetes Deep Learning Workloads",
-      "excerpt": "AI, a company virtualizing AI infrastructure, today released the first fractional GPU sharing system for deep learning workloads",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/il/news-releases/runai-creates-first-fractional-gpu-sharing-for-kubernetes-deep-learning-workloads-301053864.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Run:AI Creates First Fractional GPU Sharing for Kubernetes Deep Learning Workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr.md",
-      "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
-      "excerpt": "The Global Artificial Intelligence (AI) in Healthcare market is estimated to grow at a CAGR of 48.0% during the forecast period 2017-2023. As per the detailed market study, the global market was valued $1,",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr-2020-05-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

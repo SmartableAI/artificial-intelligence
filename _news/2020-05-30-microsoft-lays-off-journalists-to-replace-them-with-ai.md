@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-n
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -124,6 +124,19 @@ related:
       - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/01/16/20/Miscrosoft1601a.jpg"
         width: 2463
         height: 1642
+  - title: "Microsoft sacks journalists to replace them with robots"
+    excerpt: "Dozens of journalists have been sacked after Microsoft decided to replace them with artificial intelligence software."
+    publishedDateTime: 2020-06-01T11:57:00Z
+    webUrl: "https://www.pulse.ng/news/metro/microsoft-sacks-journalists-to-replace-them-with-robots/c71wrwq"
+    type: article
+    provider:
+      name: Naija Gist - Latest
+      domain: pulse.ng
+    quality: 39
+    images:
+      - url: "https://ocdn.eu/pulscms-transforms/1/jzDktkpTURBXy8yMzRkZTQ3ZWM5ZmU4ZDQwZTNlZDg3NzMxYjJiNDI4Mi5qcGeSlQPMtQDNC1XNBmCTBc0EsM0Cdg"
+        width: 1200
+        height: 630
 
 secured: "JcByl+emnOHpYh8KGcvjTjJxMvcgRNOmKn6LtE0ritFqX9RxKp3RBEtv11JI97ZdW0qAeAodBqDQHdYjID9wwlZih7kJ55OyhHOAzbNx+0PZSLk0/yMBEvFj5uvS2OPaTrkBUHplySNfPq2fBd7FalfmLrs8dEOLPa6PWLI7YMLRxGZWhrq9HC4oznzbILcSi5pLPG95LiEDgvBKQo0biF8wL3lBS/6yw9+zgyAtfyyyPIGvzamdPvyOqcjIJIGMJHnZdu9Uu92W25C6SRQO4aaCeiXulRUy7p3T09/KC30gz5HCehz5UKNJXVQ6F+BVD1zlNxhd705zi32Qm8k6noac+2qI0ky2ZPXSJP4vpa+/qo6ef7q/P1cVuZsl7S0XB1Yi4XlOpJhoQm1aD8OAIZ2i/Il/bqfWwxeCb8NonMTvNyB86d3GAccKqdn/aXBJpC5ojcuOUUeJCEbmhIJ46aj5FSvHJ0gVImgR/NmJTsY=;XciZZbVNxPkSutKdiFqvgQ=="
 ---

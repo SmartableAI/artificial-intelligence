@@ -121,6 +121,19 @@ related:
       name: RT
       domain: rt.com
     quality: 46
+  - title: "Microsoft sacks journalists to replace them with robots"
+    excerpt: "Dozens of journalists have been sacked after Microsoft decided to replace them with artificial intelligence software."
+    publishedDateTime: 2020-06-01T11:57:00Z
+    webUrl: "https://www.pulse.ng/news/metro/microsoft-sacks-journalists-to-replace-them-with-robots/c71wrwq"
+    type: article
+    provider:
+      name: Naija Gist - Latest
+      domain: pulse.ng
+    quality: 39
+    images:
+      - url: "https://ocdn.eu/pulscms-transforms/1/jzDktkpTURBXy8yMzRkZTQ3ZWM5ZmU4ZDQwZTNlZDg3NzMxYjJiNDI4Mi5qcGeSlQPMtQDNC1XNBmCTBc0EsM0Cdg"
+        width: 1200
+        height: 630
 
 secured: "2Nn7pLUnotfB9kUKp24s3biu93gN8rPlEhmp3YwwY5vsXyMUkLsK2qeqTO2gooYz0pwK5Erl0srJpqIN28HLButuUgBSjEMNWGfhPg0UIHTgMUNTzCXs9BPyX2riZy5rsZBuUQA8/XBFbg2kc+zzGmAIYNM8lMkClcSiuV0hV+ObRtGveGSpZbcpEh29Hobzj1+YcM5I/b9Zontqz0F1JFDdK2PlVUbrtSdq0Q2k4c3e5YZqMJKGN7oPsY+dvewpZ7FSLb/GQCAsYOYlvnhi4/zuji87qB+lH5sW9/eRXi+aCmTJ8+GBzjDspJxpmA2O;LpM5Y6PSJ8e3JmY9DbYrDg=="
 ---

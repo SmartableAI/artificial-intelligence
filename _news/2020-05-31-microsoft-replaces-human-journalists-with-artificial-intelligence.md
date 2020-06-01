@@ -120,6 +120,19 @@ related:
       - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/01/16/20/Miscrosoft1601a.jpg"
         width: 2463
         height: 1642
+  - title: "Microsoft sacks journalists to replace them with robots"
+    excerpt: "Dozens of journalists have been sacked after Microsoft decided to replace them with artificial intelligence software."
+    publishedDateTime: 2020-06-01T11:57:00Z
+    webUrl: "https://www.pulse.ng/news/metro/microsoft-sacks-journalists-to-replace-them-with-robots/c71wrwq"
+    type: article
+    provider:
+      name: Naija Gist - Latest
+      domain: pulse.ng
+    quality: 39
+    images:
+      - url: "https://ocdn.eu/pulscms-transforms/1/jzDktkpTURBXy8yMzRkZTQ3ZWM5ZmU4ZDQwZTNlZDg3NzMxYjJiNDI4Mi5qcGeSlQPMtQDNC1XNBmCTBc0EsM0Cdg"
+        width: 1200
+        height: 630
 
 secured: "Bh6s2kflffQ2XZWns5A/WXoW+UIEo0xfg+8b1o8pAO1sw0GndYc85ihQnDL91ErMNl6Ch9APUSL+0utXNPtt6Xg6r5pTSBQtby0edFQKtKCbFcAYkbHpToWKNyCAUXcVxeKf0Z2WHiSFJopUyGP/z7X/baLxCc2//gIykFM3Rk6SvhgqntPICT1U4Y/BBf5tIfxLXxcFz4t7HcUUME55gL0pQB6D99Hx8X7F0n+MlSsTOK7wCVwK/pXimZsNOWC4htfCp2Awll9zDZP+BAPw2llvaMQs5uBY9uoYrt5NHYB0ACfdIDe/DVVcS3AUa/8S;Dt2WvOdmbPlVjNbSpRAnYQ=="
 ---

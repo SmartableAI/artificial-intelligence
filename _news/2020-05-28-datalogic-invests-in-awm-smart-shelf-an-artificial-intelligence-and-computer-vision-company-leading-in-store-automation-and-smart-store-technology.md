@@ -24,17 +24,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Datalogic Invests in AWM Smart Shelf, an Artificial Intelligence and Computer Vision Company, Leading in Store Automation and Smart Store Technology"
-    excerpt: "Datalogic, a global leader in the automatic data capture and process automation markets, announces an investment in AWM Smart Shelf, a California-based artificial intelligence and computer vision company - SmartShelf."
-    publishedDateTime: 2020-05-27T18:19:00Z
-    webUrl: "https://www.newswiretoday.com/news/172961/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
-
 secured: "f77zXilehf4FzrClPluVc81ZHa2yBS/Y/RPlRAxqxM8+xlJgOyPa14wVFRYjMF21NdADve9YZjQh8ZfGqn7juLiaAG9Dey1UDT9YC9L4Fjbf1x55OETFUIQeXEdO/H7PnQCIIj7mJo21tiwJ/wu1qUGUl64aKjOCSHxjbwiyhxOr+grTQJHMN5WAxJfX+qZJLGVwuPYvNXQijL/JrXejaQY8pMnBRDrzglUbPwt1IglIKUiNbFgtEeomi3TNMFf/WjttDMQDUhAXFUy/3EfQlW++MjA+jwXeF88udhqVxBBHbEYG6wYHEdUdVniIXcAh;TiHFJ0SKP32a3rX8vJjN6Q=="
 ---
 

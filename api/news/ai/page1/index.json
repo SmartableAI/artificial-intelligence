@@ -2,6 +2,141 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-01-wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure.md",
+      "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
+      "excerpt": "SAN RAMON, Calif., June 01, 2020 (GLOBE NEWSWIRE) -- WANdisco (LSE: WAND), the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure-2020-06-01",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots.md",
+      "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
+      "excerpt": "Otto Motors, a subsidiary of Clearpath Robotics that supplies autonomous mobile robots to manufacturing and logistics customers, has raised $29 million.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/amp/",
+      "publishedDateTime": "2020-06-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ca755715-d887-4359-bd57-e892aae745b1-e1590608171366.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-13-ways-microsoft-azure-beats-aws.md",
+      "title": "13 ways Microsoft Azure beats AWS",
+      "excerpt": "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html",
+      "publishedDateTime": "2020-06-01T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "13 ways Microsoft Azure beats AWS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures.md",
       "title": "Robot helps SK Telecom disinfect, detect gatherings, and check employee temperatures",
       "excerpt": "A robot equipped with cameras and LED screen greets visitors at the lobby, checking their temperature, dispensing hand sanitiser and disinfecting the floor.",
@@ -688,7 +823,7 @@
       "path": "_news/2020-05-30-microsoft-lays-off-journalists-to-replace-them-with-ai.md",
       "title": "Microsoft lays off journalists to replace them with AI",
       "excerpt": "Microsoft is laying off dozens of journalists and editorial workers at its Microsoft News and MSN organizations. The layoffs are part of a bigger push by Microsoft to rely on artificial intelligence to pick news and content that’s presented on MSN.",
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements",
@@ -1164,132 +1299,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices.md",
-      "title": "Amazon discontinues the Echo Look and migrates AI style recommendations to other apps and devices",
-      "excerpt": "Amazon has discontinued the Alexa-powered Echo Look as it migrates the device's key features to other apps and devices.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/29/amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/29/amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices/amp/",
-      "publishedDateTime": "2020-05-29T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Echo-Look-Model-1-e1590770299625.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon discontinues the Echo Look and migrates AI style recommendations to other apps and devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-please-keep-artificial-intelligence-from-becoming-another-out-of-touch-bureaucracy.md",
-      "title": "Please, Keep Artificial Intelligence From Becoming Another Out-Of-Touch Bureaucracy",
-      "excerpt": "Successful companies thrive on spontaneity, serendipity and spirit — not mechanized, robotic decision-making, Seventy percent of all AI projects need to be about human collaboration.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/05/29/please-keep-artificial-intelligence-from-becoming-another-out-of-touch-bureaucracy/",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/05/29/please-keep-artificial-intelligence-from-becoming-another-out-of-touch-bureaucracy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/05/29/please-keep-artificial-intelligence-from-becoming-another-out-of-touch-bureaucracy/amp/",
-      "publishedDateTime": "2020-05-29T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed136d06fa7be00069cd38b%2F0x0.jpg",
-          "width": 1199,
-          "height": 674,
-          "title": "Please, Keep Artificial Intelligence From Becoming Another Out-Of-Touch Bureaucracy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-owkin-raises-25m-to-enhance-medical-research-machine-learning-and-collaboration.md",
-      "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
-      "excerpt": "Owkin is fueling collaborative medical research using machine learning while being compliant with privacy laws. Thomas Clozel discusses the unique benefits of Owkin.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/",
-      "ampWebUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
-      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
-      "publishedDateTime": "2020-05-29T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/05/Owkin_Thomas_Clozel.001.jpeg",
-          "width": 1000,
-          "height": 537,
-          "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],
