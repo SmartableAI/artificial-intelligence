@@ -1,27 +1,25 @@
 ---
 category: news
 title: "In virus-hit South Korea, AI monitors lonely elders"
-excerpt: "In a cramped office in eastern Seoul, Hwang Seungwon points a remote control toward a huge NASA-like overhead screen stretching across one of the walls. With each flick of the control, a colorful array of pie charts,"
-publishedDateTime: 2020-05-31T17:31:00Z
-webUrl: "https://www.sfgate.com/news/article/In-virus-hit-South-Korea-AI-monitors-lonely-15306048.php"
-ampWebUrl: "https://www.sfgate.com/news/amp/In-virus-hit-South-Korea-AI-monitors-lonely-15306048.php"
-cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/In-virus-hit-South-Korea-AI-monitors-lonely-15306048.php"
+excerpt: "In a cramped office in eastern Seoul, Hwang Seungwon points a remote control toward a huge NASA-like overhead screen stretching across one of the walls. With"
+publishedDateTime: 2020-05-31T03:06:00Z
+webUrl: "https://apnews.com/81029d7e8e40fcba4e2b23b880756300"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://storage.googleapis.com/afs-prod/media/0afbbec489fe48cf8108eec1c6bc7ea3/3000.jpeg"
+    width: 3000
+    height: 2000
     title: "In virus-hit South Korea, AI monitors lonely elders"
 
 related:
@@ -41,6 +39,6 @@ related:
         width: 600
         height: 390
 
-secured: "OhKI2F3d0e54G2UTDwDzNWlze8EoG84bGkCC9JRQsFwH0Vf+4gMPisFJykKYiCiiX3lepy4DIuebpU1x7XrA4sSke/jnIMxgYyK9ROR9gh2slJls1Z+vME58GGUq80FLjrGH1APGiQ13rsu1vsGaUF5gCTBUVFHOJ52flWfh4TLrAuYdLLu+Uxlp0cfYEzFy9rwsRCPBarf1W/JhbMg4lJWSyM6JXr884tE/tUvaFsD6QL1t64X7lhcpD60YJXC/rFeSAHdRYw96WB35wUl2sBCEIEc7bRZXCC/Xs3hCi8p1cBr849sv8KA4rlAukMBD;5s1s0QP7HLNQiJ+rCgVCug=="
+secured: "eR/ub+T474ZqC6YSgTkdcO8K3wT4BPujY6HFmlh1pIeIWmsOfkx0rTs/cdgPy+FlYyxL7EDEtWPQekG6gQCGjmdRv7Zc2tbTnxqsGhGhBWORQmAATBYxxkgWzW06TWfZW8AHMPhxNxYKEas06SQ7oMs3IgsymTRdaBlxZnfxKEGlQ7WM37+/Vucw0V55IScM0ReNhd12/g5n7T2YNUaRR/zPczj+X+4vdjrxqHIW3VD28/uQMv3jIlc5f7p4xiqyVlns58KZOAekNre2uWaTiQi7XMsLQDBSy7RWrKmR9UoV9HdUb0yzNXvAe7YopQvN;vYYaS9CcntKh+ojN1YOFIQ=="
 ---
 
