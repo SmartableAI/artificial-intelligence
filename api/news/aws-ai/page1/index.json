@@ -5,7 +5,7 @@
       "path": "_news/2020-06-01-13-ways-microsoft-azure-beats-aws.md",
       "title": "13 ways Microsoft Azure beats AWS",
       "excerpt": "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS",
-      "heat": 89,
+      "heat": 121,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

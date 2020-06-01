@@ -7,8 +7,8 @@ webUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats
 ampWebUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
 type: article
-quality: 89
-heat: 89
+quality: 121
+heat: 121
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
@@ -29,6 +30,6 @@ images:
     height: 675
     title: "13 ways Microsoft Azure beats AWS"
 
-secured: "Xa9AXfPbyIbAhbfj4LEMXb4dqT0M4cF4q4RnAtNpa3IsPYGy8DlYiMnCKiI5tVEWzM1ZQJOEuuKAsK3Vn/XBEZUxXqef/ndzkML4u9INSlquXSd9H/m2/8LrAeNwVLvXrIt/5Pi9gdjISlgDbAOFk6hW6logOq6+b0axpVycO2hD2ZIxmVEKtErSC8sLeaGKJIuPjOb3QckVBcffMS1JmDzdbQkt3Z/SGpAHwv521aU4xAmcl2AqGORg8dtTmnrSiDrCig6pRqzZNaOSp+YbBqdBTNHb77CprxlPYwXMBnLJjr2lZn3PQ5aeBc21wrUX;hkog1+2KyKf/eR1Oj3zkkg=="
+secured: "Ayq85Te/u5Hx7SSq8QPf92UJNLHzA5Js2UZeNaL7kYZ7b9qpRam6nAl86WeklfE/TeWDLRIZuO52ecMUduGAnU3vQxNSorJczxNeBFqpp0gCXQxVS1YEOyb+NI0395Inw+KJ2qyHdQ6vEnVZ3qF1/zfZxgt4zX1sQ662LfotVeDNEDLECBkSKgDBbG0Scp9m8jxWNu8O15ZLOBr9MTxfEGaVeEb2KM1XpiiIFXqbtijlV+RtsmnT8+0oYG94uo/bhCFXqmj4h+T27KVvUnXAx6qdmCZkec/yHXQS6sQJUbUpEY2u9reHfb85n/kPKtZlSTyrMqdCxJbpUzKr0IVUpuxdqmr0B10MoT/JExYVDy8IqtwYUQXYvGRY/ekwVmN4on+soHsBwz9Vsa48CADNmdue9O1kmUubj+Ds0Nz2fwPf1SgLb6j+IyUtTe+dCYxolvP5jL2IGK8nuCZlgD21yv4VgJk5O/h6NI7dqErJhco=;GHdLzFhKa9yHNfVtQsSV8Q=="
 ---
 

@@ -2,6 +2,95 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-25-huawei-said-to-ask-samsung-sk-hynix-for-stable-supply-of-memory-chips.md",
+      "title": "Huawei said to ask Samsung, SK Hynix for stable supply of memory chips",
+      "excerpt": "The world’s largest telecommunications equipment supplier is one of the five biggest clients for Samsung and SK Hynix, spending around US$8.1 billion to buy memory chips from the two South Korean companies every year.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
+      "publishedDateTime": "2020-05-24T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/25/a17ff3fe-9e1b-11ea-8055-0ae12e466049_image_hires_082942.jpeg?itok=sU7aud-4&v=1590366589",
+          "width": 1200,
+          "height": 630,
+          "title": "Huawei said to ask Samsung, SK Hynix for stable supply of memory chips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-24-new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel.md",
+      "title": "New Social Media App Iris Predicts Mutual Attraction Via Artificial Intel",
+      "excerpt": "Now, the new social media platform Iris looks to artificial intelligence to predict better potential matches while eliminating the possibility of cat-fishing.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/",
+      "ampWebUrl": "https://www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/amp/",
+      "publishedDateTime": "2020-05-24T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211084313%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "New Social Media App Iris Predicts Mutual Attraction Via Artificial Intel",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-24-will-the-real-vcs-please-stand-up.md",
       "title": "Will the real VCs please stand up",
       "excerpt": "It’s time for the VC industry to remember its task is to build the future, not to focus on safe “PE like”  investments and top-up rounds.",
@@ -1034,95 +1123,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-startup-battlefield-is-going-virtual-with-techcrunch-disrupt-2020.md",
-      "title": "Startup Battlefield is going virtual with TechCrunch Disrupt 2020",
-      "excerpt": "TechCrunch Disrupt is now fully virtual. What does this mean for Startup Battlefield? More opportunity. The best companies from across the globe, an even bigger launch platform, the eyes of more investors from around the world and",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/22/startup-battlefield-is-going-virtual-with-techcrunch-disrupt-2020/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/22/startup-battlefield-is-going-virtual-with-techcrunch-disrupt-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/startup-battlefield-is-going-virtual-with-techcrunch-disrupt-2020/amp/",
-      "publishedDateTime": "2020-05-22T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/08/9726191699_6ba4b89744_o.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": "Startup Battlefield is going virtual with TechCrunch Disrupt 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-microsoft-flexed-its-cloud-and-ai-muscles-at-build-2020.md",
-      "title": "Microsoft flexed its cloud and AI muscles at Build 2020",
-      "excerpt": "The company’s investments in cloud and machine learning are starting to deliver real products. It’s a bold proposition, but one with the potential to propel Microsoft’s productivity software ahead of Google’s.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/microsoft-build-2020-flex-ai-cloud-muscle-fluid-framework-healthcare-170004851.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-22T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F8e3ebec0-9ba4-11ea-87d4-3fabe0b95513&client=amp-blogside-v2&signature=be5fc0b80f6e8bad481efcad56d7969a2f70517e",
-          "width": 1119,
-          "height": 630,
-          "title": "Microsoft flexed its cloud and AI muscles at Build 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

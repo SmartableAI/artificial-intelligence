@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-01T07:47:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-experience-significant-growth-during-the-forecast-period-2020-2025-2020-06-01"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     width: 1200
     height: 630
     title: "Artificial Intelligence Market To Experience Significant Growth During The Forecast Period 2020-2025"
+
+related:
+  - title: "Machine Translation Market 2020 Increasing Demand, Growth Analysis and Strategic Outlook – 2025"
+    excerpt: "Market Overview The machine translation market was valued at USD 550.46 million in 2019 and is expected to reach"
+    publishedDateTime: 2020-06-01T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-2020-increasing-demand-growth-analysis-and-strategic-outlook-2025-2020-06-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "u9PsPP/G/OE0DkoGFU1hP0NdoN/GFs6odATbkP2HdnwKE9Fcw5Er9aha+xTCpT0gzUcyEgZ7TAnTexamhA9Col9+ot+U9ZlN0TW21CO3leyJ32qCsBhPGiobSnTLqfnuFdry/EaQzvRbVBYZhZ+mdYWxa/v07QpZmFSK/zqrAp4ETJuncYjRzUY98FYpg4P7gAof5Q5kIPzlprqa2AEmlCFyFaJosruBh3bzz0N3KiRnQw6s4fAVF8azCbfsCqaPX2FQfxsDDNliHwr9o2Y5zbbkScDmM0XfgCtKVn2boqo68J36sTVjZGcFaqZExYz3;0Li5q9qeOAgzjl+qL/g/cw=="
 ---

@@ -2,6 +2,89 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-29-hello-and-welcome-robot-waiters-to-the-rescue-amid-virus.md",
+      "title": "Hello and welcome: Robot waiters to the rescue amid virus",
+      "excerpt": "You can always count on a robot for perfect timing. When Shaosong Hu saw robotic waiters serving food in China last fall, he knew exactly what he wanted for his",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/",
+      "ampWebUrl": "https://www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/amp/",
+      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/amp/",
+      "publishedDateTime": "2020-05-28T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAVY",
+        "domain": "wavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2020/05/cd8882238fca4e639fc2780457003fa9-1.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Hello and welcome: Robot waiters to the rescue amid virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics.md",
+      "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
+      "excerpt": "Monetary Authority of Singapore tasks two teams, comprising banks and artificial intelligence industry players, to develop metrics that ensure the \"responsible use of AI\" for credit risk scoring and customer marketing.",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
+      "publishedDateTime": "2020-05-28T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2014/09/18/c013a710-3f12-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/f86b2d87bc6b68d5b79dc28b17f7b657/building-a-people-centric-datacenter.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-heres-how-mfine-is-using-technology-to-disrupt-healthcare.md",
       "title": "Here's How MFine Is Using Technology To Disrupt Healthcare",
       "excerpt": "The Bengaluru-based start-up offers an online consultation platform and has seen teleconsultations grow 5-6 times in the last few weeks owing to the Coronavirus outbreak",
@@ -1008,95 +1091,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-artificial-intelligence-in-healthcare-market-by-technology-advancement-and-demand-2020-2026.md",
-      "title": "Artificial Intelligence In Healthcare Market by Technology Advancement and Demand 2020-2026",
-      "excerpt": "Global Artificial Intelligence In Healthcare Market Size, Status And Forecast 2020-2026: The report discusses many vital industry facets that influence the \"Global Artificial Intelligence In Healthcare Market\" industry acutely which includes extensive study of competitive edge,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-by-technology-advancement-and-demand-2020-2026-2020-05-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence In Healthcare Market by Technology Advancement and Demand 2020-2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic.md",
-      "title": "AI algorithms are puzzled by our online behavior during the coronavirus pandemic",
-      "excerpt": "At some point, every one of us has had the feeling that online applications like YouTube, Amazon, and Spotify seem to know us better than ourselves, recommending content that we like even before we say it.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/amp/",
-      "publishedDateTime": "2020-05-28T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-32-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "AI algorithms are puzzled by our online behavior during the coronavirus pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
