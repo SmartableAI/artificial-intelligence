@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-n
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Microsoft lays off journalists to replace them with AI"
 
 related:
+  - title: "Microsoft Replaces MSN Journalists With AI Robots"
+    excerpt: "In a nightmare come true, Microsoft is letting go dozens of news editors at Microsoft News in favour of artificial intelligence (AI), according to The Guardian. For those unaware,"
+    publishedDateTime: 2020-05-31T15:33:00Z
+    webUrl: "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html"
+    ampWebUrl: "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 74
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2020/05/ai.jpg"
+        width: 1200
+        height: 675
   - title: "Microsoft Replaces MSN Journalists with Artificial intelligence"
     excerpt: "Dozens of contract journalists at Microsoft’s MSN and Microsoft News organizations are being phased out in favor of artificial intelligence, according to multiple reports this week."
     publishedDateTime: 2020-05-30T22:09:00Z

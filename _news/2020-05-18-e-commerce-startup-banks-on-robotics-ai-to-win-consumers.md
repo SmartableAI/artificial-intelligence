@@ -1,25 +1,27 @@
 ---
 category: news
 title: "E-commerce startup banks on robotics, AI to win consumers"
-excerpt: "Robots will do the shopping at a US startup which is banking on fully automated warehouses for groceries and other merchandise."
-publishedDateTime: 2020-05-18T09:05:00Z
-webUrl: "https://www.thestar.com.my/tech/tech-news/2020/05/18/e-commerce-startup-banks-on-robotics-ai-to-win-consumers"
+excerpt: "Starting fresh with automated warehouses and AI will give the company ... which have been gradually introducing robotics, Borders said. The California startup aims to fill gaps in what Borders ..."
+publishedDateTime: 2020-05-18T08:16:00Z
+webUrl: "https://www.thejakartapost.com/life/2020/05/18/e-commerce-startup-banks-on-robotics-ai-to-win-consumers.html"
+ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/05/18/e-commerce-startup-banks-on-robotics-ai-to-win-consumers.html"
+cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/05/18/e-commerce-startup-banks-on-robotics-ai-to-win-consumers.html"
 type: article
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: The Jakarta Post
+  domain: thejakartapost.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2020/05/18/686638.jpg"
-    width: 1240
-    height: 820
+  - url: "https://img.jakpost.net/c/2020/05/18/2020_05_18_95509_1589776442._medium.jpg"
+    width: 747
+    height: 498
     title: "E-commerce startup banks on robotics, AI to win consumers"
 
-secured: "xRpsPVgPzIAzFFCORRijfq+TRismUhQ3UdfFs9bStC3LmLU3Wl7xZq+IHJeeSIQIhOXj4XJOpnpYlp7uOM/x1aQbnjzecNSJDbbOPcKI+ltwZymAIHaEYNqPKGIN5ZsnJAg53v4u8cJUE34aSSpHzS/x7WjXThxa7MmhxZF4IHrpZCXf5tOcZYNnjaFVTEaFZ/iMsBqcV4fWxzWjdSmfDowJSc+mAiIO5y97OOFNaqEXR3EBn1bHx/IgIjmnZmNITardVKFV7+Yo+zHmma/zIbwv8IyCtIKg/KcXNUyYMtdaVSA2SklKvX9BTnLenaF0;DJGPcb2BFHl0woyITm5Q+w=="
+secured: "XWYt1C3BsbkG/WtOy+KYvDXXZoTbxiRJU44mYt2OzE73evcZeNRepS8MlnzeImP+oKmND8YGc6+MEvXz3LxCnGdzzVCBpcibGlFuv358DsKvob1eK/REbZInLD6dYOY1WksJ1+055KXdMhuizR8/49xj6HYWSW3fVYy9RMEBkAT53GRfFB1QMdVsxIljnFpoZWJkaKiCjag6d4GJbv19rrDf7ZrwrI2gHmVi0YAhof3SkudJ+yJIEFLH8HDAgeO8vFXifT2HHMVTDcCnPLQzXvRWrkxwSKhQfRnXp5tWX4FttPeEAH9p+kK9zMECLkbX;Eh00QRxuL6dSHNY66X4Fdg=="
 ---
 

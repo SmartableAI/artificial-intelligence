@@ -42,6 +42,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/OQ1cQ3E_SYrS9YZz-esPG3MaYgM=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66875825/acastro_180507_1777_microsoft_0002.0.jpg"
         width: 1400
         height: 933
+  - title: "Microsoft Replaces MSN Journalists With AI Robots"
+    excerpt: "In a nightmare come true, Microsoft is letting go dozens of news editors at Microsoft News in favour of artificial intelligence (AI), according to The Guardian. For those unaware,"
+    publishedDateTime: 2020-05-31T15:33:00Z
+    webUrl: "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html"
+    ampWebUrl: "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 74
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2020/05/ai.jpg"
+        width: 1200
+        height: 675
   - title: "Microsoft sacks journalist to 'replace them with robots'"
     excerpt: "Dozens of journalists have been sacked after Microsoft decided to replace them with artificial intelligence software. The curating of stories from news organisations and selection of headlines and pictures for the MSN site is currently done by journalists."
     publishedDateTime: 2020-05-30T11:01:00Z
