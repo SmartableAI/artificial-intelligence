@@ -2,6 +2,139 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-01-openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai.md",
+      "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
+      "excerpt": "A presentation in April by AI chip company Tenstorrent described future neural networks with over one trillion parameters. For a good part of the machine learning community, bigger and bigger language model is going to remain the state of the art.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
+      "publishedDateTime": "2020-05-31T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/01/1b57a8c3-e280-4aa8-9487-e8149a3b63ea/gpt-3-versus-the-others-may-2020.png",
+          "width": 2020,
+          "height": 1148,
+          "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-understanding-the-foundations-of-successful-ai.md",
+      "title": "Understanding the foundations of successful AI",
+      "excerpt": "Despite the disruption to the overall economy and most industries in the wake of COVID-19 pandemic, there are sections of IT that are booming.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/paid-content/article/understanding-the-foundations-of-successful-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/understanding-the-foundations-of-successful-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/understanding-the-foundations-of-successful-ai/",
+      "publishedDateTime": "2020-05-31T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/22/e2eb3989-521e-4ac7-8453-b1837ff492a5/adobestock-300893166.jpg",
+          "width": 6479,
+          "height": 4319,
+          "title": "Understanding the foundations of successful AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-armed-with-disinfectant-and-admonishments-skorean-robot-fights-coronavirus-spread.md",
+      "title": "Armed with disinfectant and admonishments, S.Korean robot fights coronavirus spread",
+      "excerpt": "A self-driving robot equipped with cameras and an LED screen greets visitors at the lobby in the headquarters of South Korea's largest mobile operator, checking their temperature, dispensing hand sanitiser and disinfecting the floor.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-southkorea-robots-idUSL4N2DA2G8",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2DA2G8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2DA2G8",
+      "publishedDateTime": "2020-05-31T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Armed with disinfectant and admonishments, S.Korean robot fights coronavirus spread",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-31-a-closer-look-at-deepmind-the-google-ai-thats-mastering-starcraft-2.md",
       "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
       "excerpt": "Back in 2016 the celebrated computer lab watched one of its AI programs do the unthinkable and win a game of Go against then world champion – and human being – Lee Sedol. Mastering the ancient Chinese board game was just one example of the machine learning DeepMind is hoping it can ultimately use to revolutionise sectors like science,",
@@ -1157,133 +1290,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-agricultural-robots-and-ai-its-a-question-of-when-not-if.md",
-      "title": "Agricultural Robots and AI – It’s a question of when, not if",
-      "excerpt": "Experts say robotics and artificial intelligence (AI) will drive a deep and transformative change in the agricultural world during the coming decades. It is already clear that",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.freshplaza.com/article/9221345/agricultural-robots-and-ai-it-s-a-question-of-when-not-if/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-29T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FreshPlaza",
-        "domain": "freshplaza.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://agfstorage.blob.core.windows.net/misc/FP_com/2020/05/29/Arobo.jpg",
-          "width": 600,
-          "height": 361,
-          "title": "Agricultural Robots and AI – It’s a question of when, not if",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-softbank-leads-500-million-investment-in-chinese-ride-hailing-firm-didis-self-driving-car-unit.md",
-      "title": "SoftBank leads $500 million investment in Chinese ride-hailing firm Didi's self-driving car unit",
-      "excerpt": "Didi said it will use the funding to \"accelerate\" the launch of driverless vehicle services in China and abroad.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/29/softbank-leads-500-million-investment-in-chinese-uber-rival-didi.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/29/softbank-leads-500-million-investment-in-chinese-uber-rival-didi.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/29/softbank-leads-500-million-investment-in-chinese-uber-rival-didi.html",
-      "publishedDateTime": "2020-05-29T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106104268-1567143051659didishowcasesitsautonomousdrivingfleetatthewaicinshanghai.jpg?v=1567143214",
-          "width": 1999,
-          "height": 1074,
-          "title": "SoftBank leads $500 million investment in Chinese ride-hailing firm Didi's self-driving car unit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-didi-chuxing-raises-us500-million-for-self-driving-unit-in-funding-round-led-by-softbank.md",
-      "title": "Didi Chuxing raises US$500 million for self-driving unit in funding round led by SoftBank",
-      "excerpt": "Japanese technology conglomerate SoftBank Group Corp led the funding round, which marks the single largest investment in China’s autonomous driving sector.",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086762/didi-chuxing-raises-us500-million-self-driving-unit-funding-round",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086762/didi-chuxing-raises-us500-million-self-driving-unit-funding-round",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086762/didi-chuxing-raises-us500-million-self-driving-unit-funding-round",
-      "publishedDateTime": "2020-05-29T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/29/6bf5e3f0-a191-11ea-8055-0ae12e466049_image_hires_210054.jpg?itok=mH5oeaGh&v=1590757261",
-          "width": 1200,
-          "height": 630,
-          "title": "Didi Chuxing raises US$500 million for self-driving unit in funding round led by SoftBank",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

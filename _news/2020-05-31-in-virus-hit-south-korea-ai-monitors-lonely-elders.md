@@ -1,25 +1,27 @@
 ---
 category: news
 title: "In virus-hit South Korea, AI monitors lonely elders"
-excerpt: "In a cramped office in eastern Seoul, Hwang Seungwon points a remote control toward a huge NASA-like overhead screen stretching across one of the walls. With"
-publishedDateTime: 2020-05-31T03:06:00Z
-webUrl: "https://apnews.com/81029d7e8e40fcba4e2b23b880756300"
+excerpt: "Elderly South Koreans are using voice-enabled smart speakers that allow a telecom company to listen to them 24 hours a day for signs of rising loneliness or insecurity"
+publishedDateTime: 2020-05-31T14:32:00Z
+webUrl: "https://abcnews.go.com/Technology/wireStory/virus-hit-south-korea-ai-monitors-lonely-elders-70976985"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/virus-hit-south-korea-ai-monitors-lonely-elders-70976985"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/virus-hit-south-korea-ai-monitors-lonely-elders-70976985"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/0afbbec489fe48cf8108eec1c6bc7ea3/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://s.abcnews.com/images/Technology/WireAP_0afbbec489fe48cf8108eec1c6bc7ea3_16x9_992.jpg"
+    width: 992
+    height: 558
     title: "In virus-hit South Korea, AI monitors lonely elders"
 
 related:
@@ -39,6 +41,6 @@ related:
         width: 600
         height: 390
 
-secured: "eR/ub+T474ZqC6YSgTkdcO8K3wT4BPujY6HFmlh1pIeIWmsOfkx0rTs/cdgPy+FlYyxL7EDEtWPQekG6gQCGjmdRv7Zc2tbTnxqsGhGhBWORQmAATBYxxkgWzW06TWfZW8AHMPhxNxYKEas06SQ7oMs3IgsymTRdaBlxZnfxKEGlQ7WM37+/Vucw0V55IScM0ReNhd12/g5n7T2YNUaRR/zPczj+X+4vdjrxqHIW3VD28/uQMv3jIlc5f7p4xiqyVlns58KZOAekNre2uWaTiQi7XMsLQDBSy7RWrKmR9UoV9HdUb0yzNXvAe7YopQvN;vYYaS9CcntKh+ojN1YOFIQ=="
+secured: "nKGCOMoLyCrAleAOa2bIiDoQP6/kK0CoS39P0BbQ54NRztrL4YHRAG8HTJmGpwDPx29Oc4mGKhz+SPyuUJDZWAtT1dduFql6IrlquTqvTBsYIfyXbupGYCbuN08tKJGTFQeXIt9MyY6bvNuTbKgOmkPUxVLdLUq6V2lsjirD8gqnjsvmy1/s6WpeHq21IpKYKCzYEOyUNTh7Oc/E1cE/mDD9ePljKd1AigRReD0buUZuTmu2FelJvgbkbJQ4KukAng+yVGEMPwsx9B0VS9y5jztyzNvfhPuAITUzjOo1tcuF9u6qg7zco9IjmJ0WtVat;INermk/QcvHna9ORuJLWQA=="
 ---
 

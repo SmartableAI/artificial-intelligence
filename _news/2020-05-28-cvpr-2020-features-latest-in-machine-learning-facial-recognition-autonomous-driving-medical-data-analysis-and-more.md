@@ -1,28 +1,28 @@
 ---
 category: news
 title: "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More"
-excerpt: "Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research"
-publishedDateTime: 2020-05-28T15:24:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-301067121.html"
+excerpt: "The annual Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research spanning the fields of computer vision, deep learning, artificial intelligence,"
+publishedDateTime: 2020-05-28T15:34:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739"
 type: article
-quality: 15
-heat: 15
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook"
-    width: 597
-    height: 314
-    title: "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More"
-
-secured: "3WJUC4fqnPXrS2m/v6K80LHUvG8LZYJuhvK/PgOxQK+BLFXgkfOsdlamWHYzjRP5AZCGyZxBIi2MuTBXG7kWnqDUYB2l9cznf/oizkap2o3R0VoghCpkINJ/I8okd123mOuU2mM4lEDlt88mVCz2DK6Fd9K4WVGrBy9WYZ1IjqyRJOz7YEPCXVog8ymC7uEaU29mJhIgatc3kwJYmpryT4SaudELgj3RAve00t7OxNghQI1dEom3Y46gO0Hc1rvZ3tMRkazFcNJz6k5o5ZXrKSARxhefuAIx3t2s4pDJU1PThkhzTEBbLsXcGjOSFqUU;cHm1fN8T5KpAl2n9cOehcg=="
+secured: "+QrqVimzjqGLK8ZihnVarSJy3n5afmJes9yQVCf7M2LbRHI6zrZB2eSPm5NcYwWnmuzBDTE9vSQjmnNuN4oe8u06U2dCXen9s6+GLjN6X9yyLkWIEFfHeg2U0/ig0uHwLT7eJjQc4LmfjVcqpP3Kc0ttJuei4cHql61lbPv9Djxv16zUUCDjaG9Q3+57uqUaaQX01LiIbo/UO7+g7v7sRMluIUelsNjg9NaqFURTY8uj5bGxefyM1V3BBGic9i96qWfqMPER+/k2/Edj0ZC06DktmFTcqp5hu8+eC2NHiIldq8pzqI7f0+riPoMdKQ6i;rzT4BBaoP2yD1jZOH0QRnA=="
 ---
 

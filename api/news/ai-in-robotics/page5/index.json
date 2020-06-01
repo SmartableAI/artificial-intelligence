@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-21-diamonds-shine-in-energy-storage-solution.md",
+      "title": "Diamonds shine in energy storage solution",
+      "excerpt": "The new carbon structure could be a potential micro-scale power supply for anything from implanted biomedical sensing systems monitoring heart and brain functions, to small robotics and electronics.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/04/200421090540.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-robo-nurse-of-the-future.md",
       "title": "Robo nurse of the future",
       "excerpt": "Failure to insert an IV line is one of the leading causes of injury and infection. Researchers at Rutgers University in the US have developed a robot that finds blood vessels, even if they’re very small, and successfully inserts a needle or catheter.",
@@ -1164,43 +1201,6 @@
           "width": 1280,
           "height": 608,
           "title": "Researchers teach robots to move more like animals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-strategic-elements-turns-primary-focus-to-robotics-ai-and-automation.md",
-      "title": "Strategic Elements turns primary focus to robotics, AI and automation",
-      "excerpt": "SOR’s fully-owned artificial intelligence and robotics company Stealth Technologies is working with Honeywell to build experimental autonomous robotic vehicles. Strategic Elements Ltd (ASX:SOR) is increasing its focus on opportunities in robotics, artificial intelligence (AI) and automation, which are likely to see a big increase in ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/916869/strategic-elements-turns-primary-focus-to-robotics-ai-and-automation-916869.html",
-      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/916869",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/916869",
-      "publishedDateTime": "2020-04-07T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors UK",
-        "domain": "proactiveinvestors.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.proactiveinvestors.com.au/thumbs/upload/News/Image/2020_04/1200z740_1586306954_2020-04-08-10-49-14_db8c3de50fe04b48ce8d305771eaa76f.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": "Strategic Elements turns primary focus to robotics, AI and automation",
           "attribution": null
         }
       ],

@@ -2,6 +2,154 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-05-05-2020-insights-deep-learning-suppliers-strategic-positioning-and-leadership-quadrant-researchandmarketscom.md",
+      "title": "2020 Insights - Deep Learning Suppliers Strategic Positioning and Leadership Quadrant - ResearchAndMarkets.com",
+      "excerpt": "The \"Deep Learning Suppliers Strategic Positioning and Leadership Quadrant\" report has been added to ResearchAndMarkets.com's offering. The deep learning manufacture landscape is diverse and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/b15952636/2020-insights-deep-learning-suppliers-strategic-positioning-and-leadership-quadrant-researchandmar",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15952636",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15952636",
+      "publishedDateTime": "2020-05-05T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-watson-aiops-automates-the-detection-of-it-anomalies.md",
+      "title": "IBM Watson AIOps automates the detection of IT anomalies",
+      "excerpt": "IBM has launched a slew of new AI services that aim to help chief information officers (CIOs) to predict and tackle IT problems before they occur. Watson AIOps, unveiled at the company's Think Digital Conference,",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
+      "publishedDateTime": "2020-05-05T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1588670694/itpro/IBMBuilding.jpg",
+          "width": 1000,
+          "height": 690,
+          "title": "IBM Watson AIOps automates the detection of IT anomalies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-xilinx-and-avnet-combine-to-provide-solutions-for-autonomous-car-developers.md",
+      "title": "Xilinx and Avnet combine to provide solutions for autonomous car developers",
+      "excerpt": "Chipmaker Xilinx and Avnet, a designer and distributor of electronics components, have combined to offer a range of solutions for autonomous car development. Xilinx is a big name in the industrial",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://roboticsandautomationnews.com/2020/05/05/xilinx-and-avnet-combine-to-provide-solutions-for-autonomous-car-developers/32076/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics & Automation News",
+        "domain": "roboticsandautomationnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2019/11/restrict-access-ad.jpg",
+          "width": 842,
+          "height": 595,
+          "title": "Xilinx and Avnet combine to provide solutions for autonomous car developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations.md",
+      "title": "IBM rolls out Watson AIOps that helps enterprises automate IT operations",
+      "excerpt": "IBM has launched Watson AIOps, a new offering that uses AI to automate how enterprises self-detect, diagnose and respond to IT anomalies in real time.Watson AIOps enables organisations to introduce au",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations/article31508049.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations/article31508049.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations/article31508049.ece/amp/",
+      "publishedDateTime": "2020-05-05T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/f840m/article31508048.ece/ALTERNATES/LANDSCAPE_615/BL06IBM",
+          "width": 615,
+          "height": 384,
+          "title": "IBM rolls out Watson AIOps that helps enterprises automate IT operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone.md",
       "title": "AI Hub Singapore creates first AI computer vision application that allows businesses to monitor social distancing with a mobile phone",
       "excerpt": "Dubbed SafeDistancer, the innovative application makes use of AI and computer vision to detect people in the phone's camera frame and monitors the distance between them in realtime. When people ...",
@@ -901,184 +1049,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-will-the-pandemic-map-a-new-course-for-autonomous-cars.md",
-      "title": "Will the pandemic map a new course for autonomous cars?",
-      "excerpt": "In a future where human contacts will need greater protection, the driverless car could end up giving people greater control than they had before.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/will-the-pandemic-map-a-new-course-for-autonomous-cars/",
-      "publishedDateTime": "2020-05-04T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/04/13b78c5a-4517-49cb-a584-009e7afe2ab0/200504-gm-motorama-01.jpg",
-          "width": 900,
-          "height": 675,
-          "title": "Will the pandemic map a new course for autonomous cars?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-covid-19-how-universities-made-the-pivot-to-e-learning.md",
-      "title": "COVID-19: How universities made the pivot to e-learning",
-      "excerpt": "One Rhode Island university has transitioned nearly seamlessly into remote learning. Here's how they did it safely and effectively.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
-      "publishedDateTime": "2020-05-04T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/04/3b314e67-8a80-43eb-9c3b-044b9e74526e/thumbnail/1200x675/44abc715eefb0ea033f4e25b30ac2d56/20200428-salveuni-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "COVID-19: How universities made the pivot to e-learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-plotmachines-ai-system-writes-long-form-stories-from-outlines.md",
-      "title": "PlotMachines AI system writes long-form stories from outlines",
-      "excerpt": "In a preprint paper, a team of researchers propose PlotMachines, an AI system that generates coherent long-form stories and articles.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/04/plotmachines-ai-long-form-stories/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/04/plotmachines-ai-long-form-stories/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/plotmachines-ai-long-form-stories/amp/",
-      "publishedDateTime": "2020-05-04T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/shutterstock_275161592.jpg?fit=1000%2C626&strip=all",
-          "width": 1000,
-          "height": 626,
-          "title": "PlotMachines AI system writes long-form stories from outlines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-look-out-alibaba-jdcom-is-expanding-its-cloud-and-ai-presence.md",
-      "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
-      "excerpt": "JD.com , China's largest direct retailer and second-largest e-commerce company, recently partnered with Cloudflare to strengthen its cloud and AI business. Cloudflare, which secur",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
-      "publishedDateTime": "2020-05-04T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570933%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,139 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-20-crypto-startup-school-how-to-scale-companies-using-crypto.md",
+      "title": "Crypto Startup School: How to scale companies using crypto",
+      "excerpt": "In week two of a16z’s Crypto Startup School, three company-builders provide real-world advice on using the qualities of crypto to create new business models and networks.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale-companies-using-crypto/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale-companies-using-crypto/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale-companies-using-crypto/amp/",
+      "publishedDateTime": "2020-05-20T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1170889477.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "Crypto Startup School: How to scale companies using crypto",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data.md",
+      "title": "Waymo is using AI to simulate autonomous vehicle camera data",
+      "excerpt": "Waymo's new machine learning model -- SurfelGAN -- simulates autonomous vehicle camera data highly realistically.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/20/waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/20/waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/20/waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data/amp/",
+      "publishedDateTime": "2020-05-20T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Waymo is using AI to simulate autonomous vehicle camera data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-scientists-claim-they-can-teach-ai-to-judge-right-from-wrong.md",
+      "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
+      "excerpt": "Scientists claim they can \"teach\" an AI moral reasoning by training it to extract ideas of right and wrong from texts",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/20/scientists-claim-they-can-teach-ai-to-judge-right-from-wrong/amp/",
+      "publishedDateTime": "2020-05-20T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-42-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-gms-ultra-cruise-aims-to-take-on-teslas-full-self-driving-option.md",
       "title": "GM's \"Ultra Cruise\" Aims to Take on Tesla's Full Self-Driving Option",
       "excerpt": "General Motors announced it's working on a better-than Super Cruise semi-autonomous driving system internally known as \"Ultra Cruise.\"",
@@ -916,132 +1049,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-this-ai-maestro-wants-to-serenade-you.md",
-      "title": "This AI Maestro Wants to Serenade You",
-      "excerpt": "A composer and the co-creator of Siri are trying to create background music that responds to the listener's feelings.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/",
-      "ampWebUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/amp",
-      "publishedDateTime": "2020-05-20T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec32db73b4719b49ff88aff/master/pass/Biz-Lifescore-Inline.jpg",
-          "width": 2400,
-          "height": 1248,
-          "title": "This AI Maestro Wants to Serenade You",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-warehouse-robots-provide-crucial-link-in-supply-chain.md",
-      "title": "Warehouse Robots Provide Crucial Link In Supply Chain",
-      "excerpt": "Throughout the coronavirus crisis, the e-commerce supply chain – retailers, shippers, third-party logistics operations, fulfillment centers and sortation facilities – delivered. UPS and FedEx drivers came to symbolize a sense of national resiliency.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/",
-      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/amp/",
-      "publishedDateTime": "2020-05-20T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction.md",
-      "title": "When It Comes To Leveraging AI For Your Business, Don't Forget About The Power Of Human Interaction",
-      "excerpt": "Don’t view AI as a replacement for your team, but rather as a member of your team, to provide better workflow, better processes and greater efficiency.",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/20/when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/20/when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/20/when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction/amp/",
-      "publishedDateTime": "2020-05-20T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F05%2F757.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "When It Comes To Leveraging AI For Your Business, Don't Forget About The Power Of Human Interaction",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
