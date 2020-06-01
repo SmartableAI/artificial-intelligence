@@ -24,6 +24,6 @@ images:
     height: 627
     title: "Demand for Enterprise Robots Drives Momentum in the Robotic Components Market as Automation and Artificial Intelligence Propel Revenue to $126.3 Billion by 2025, According to Omdia"
 
-secured: "FJmHvQRj5nS3K/460CGMzU9Z8JcN5bkn/b8xgyXjTt2ermrP6Ndol81mGTXC/N8OtrMkPhuqxTTiuFScw6KeOK5we1e5UydfcEPkYsG7V43VJuciWC44G0roEEWvTLtjaqUOxXMBKJpHqah4p2U0jpNCVi2XoWJjEa524BWVMjjt1iKy1QkAzK4orUpdh3zxwHS9/V10QbENOd5qeCQ1i6WVS1wQGOxcsClKUa9+A4jVIV5Vu+mrIdEGHlWL9r3pti4QCG0xYP4TaoW6wMjOR4PSjO6ztmgSV+IAaEmvmf3KosjMcxvb2j0d35bawupZ;ql1elz3mIYoFsMWJ9XZcgw=="
+secured: "sGevUCNtUO75Xg1tHaJo1jViQVzppRnjybKRfqtMZQlHLfhy53eNnVyh/pKKTBP3M/ZUDPrRhacXCOUVWZWukJYd83iXVeamAz9/+8dJvR+ZqCQLFhQuFJE+LDyv2uRyqX0NKB3/B0fUjX8UgRRKZl3BVQYX1jXqBZPNGqv13W/FeipHzO78CKgxqNKJJEUzmgCcfJMG0eX/4twug9qJGOORavER/5JxCfF00zBr+tD/2/evuf6XkkFyWByXozpNVsueiifywNEQcRILBdW3bZ5Av6fJmx+F/Wpdt/g32sCW2A8Q36K6RsCIK7pkChShDoH//sGru7ZED8nVAq5wUjHFjHTbjfjAmJ4dHc+6buxDlk3K35wOYHl+Y5UGBcgdE0LNdUdsa3UeN7N+6XJXBSqCFhONwHdlPIDI55He0XazrchWByLyv/KBDAqlrdPzVd/Zf3YAi7KaoIMU/vnuszVKgmISNMCE/MBwQuYX11Q=;WiGEqh9aSvU+LFNPIx95Xg=="
 ---
 

@@ -70,16 +70,18 @@ related:
         width: 375
         height: 211
   - title: "Chicago police drop Clearview facial recognition technology"
-    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns"
+    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns. The"
     publishedDateTime: 2020-05-29T22:56:00Z
-    webUrl: "https://www.dailyherald.com/article/20200529/news/305299907/"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20200529/news/305299907/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200529/news/305299907/"
+    webUrl: "https://apnews.com/c354e15c592548eba0e84a7b0702f72e"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: Associated Press
+      domain: apnews.com
     quality: 24
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
 
 secured: "DBysyiLwV2Kq3UcS0i6hvL0/d03aZWUiN9n03GV29kWuwqts328Ge1CKObsFeSn7Q2z8l4vy82ijSXnIKGsRI6jWju64UoQRzVyEsHZVU37FCEnqzqSIOiuFQh2mC7DqrVCbpS3nlsdcfM7777AUP7a0yVmmUTsS7DqU3aBUuVOyQzzIAOKpPEIXvfk2lgGEyiNzlcRtcI2O74uQNTBSLfO+p6uFTNwnuIEaRfI5NULZ8/FTAw7NQg7KlBEctDD5OkcSQH8hZoTQHD90rwRE3EGWp4+t79FztxJQdyWcLDADYrenhvjHSetD99yyOlXf;gCEe9ApTszKbERbxs8kUsw=="
 ---

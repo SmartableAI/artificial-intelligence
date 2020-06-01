@@ -41,21 +41,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576238%2Fgirl-using-a-smart-phone-voice-recognition.jpg&w=1200&op=resize"
         width: 1200
         height: 800
-  - title: "Apple Acquired Machine Learning Startup Inductiv for Siri Improvements"
-    excerpt: "Apple recently purchased Ontario-based machine learning startup Inductiv for the purpose of improving Siri, reports Bloomberg."
-    publishedDateTime: 2020-05-27T22:35:00Z
-    webUrl: "https://www.macrumors.com/2020/05/27/apple-buys-ai-startup-inductiv/"
-    ampWebUrl: "https://www.macrumors.com/2020/05/27/apple-buys-ai-startup-inductiv/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/05/27/apple-buys-ai-startup-inductiv/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 59
-    images:
-      - url: "http://images.macrumors.com/article-new/2019/08/siri-waveform.jpg"
-        width: 600
-        height: 450
   - title: "Apple acquires machine learning startup Inductiv Inc. to improve Siri data"
     excerpt: "Apple has acquired the machine learning startup Inductiv Inc., according to a new report from Bloomberg. The startup had been developing technology that uses artificial intelligence to identify and correct errors in datasets."
     publishedDateTime: 2020-05-27T23:09:00Z

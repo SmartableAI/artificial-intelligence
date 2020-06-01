@@ -27,6 +27,6 @@ images:
     height: 630
     title: "IBM, the silent job cutter, stokes worker anxiety, speculation"
 
-secured: "22Vat8eNLQ1UycIfMISFBQJa+NQn6625QTUwFqiYLTWRAMKjVhjBsGLgxiZvS2/w3UHt6Zsw71cnE2GEscyyb2S1bs2keWkPhrqfDUCRLBcgEbuTWQL9/OmYfS4OB5hjBz/FqcPICQSTpe/yGp8VnyiN5rrBY9M6bErngL05XPAU/J/Bm3tuah0UIKikWGFbFq85kqEMVDeqbyzDL2XmRE5xU+xm12A6eEBs1uJvKWsDfK/kguKRwqmG0jCoNo3QIb1Du6LLU8017J69vAXLfzbp0o7H1MFLLUGQPxZhTf++lKHN1qp1/XAiDZ0E6Ty9;G+OjFgDyhLpC3cJKCjQbIw=="
+secured: "CQt9wJGNTH/Z3LKpR+6LdHLpyt3z979l9rrj/mRIQM1jZEsWWwbPjVomagRHsL3MBNUQRyxFxgVJKm/I/3y4BG0NR/FcCq0I9hphsKSqX++TbdBTJl0N9uVXG5AXy6H1eOmHMnycJB/PR4Idz78V2NciCKfnyJlawc9bw2DxIAe0oTgVgGFaX9k847t/V8nCtSypxAJmgbR9ucWp4Xqanf/Gul0Jkd+X0fy1V5zaRVoqbpqFPu6zDW5FgXYqiQKgs5LoO+gz7JRwAyVBBVezZVCYFKBKFJKM+RJLnQ56wz34Dde8bQPsVvczDVkFohqTIKcyEfRJRollEjsygC99/QwjalVtWmbJqn0JPTto77MF6JUG0/f43dn3onkbnfL+BzXHgt8RIi4/8aJI9jL8YuHEo8poq+uYBPJr4pc1Dm/3aVGKT/uZeSzbuRu2KSRBk9cMOHKyLGszqtfS+jfOFab9OPwuDNpi1r9tYFnRwU8=;Lq+htlYG0id/wh6M8f91/w=="
 ---
 

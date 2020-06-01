@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Chicago police drop Clearview facial recognition technology"
-excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns"
+excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns. The"
 publishedDateTime: 2020-05-29T22:56:00Z
-webUrl: "https://www.dailyherald.com/article/20200529/news/305299907/"
-ampWebUrl: "https://www.dailyherald.com/amp-article/20200529/news/305299907/"
-cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200529/news/305299907/"
+webUrl: "https://apnews.com/c354e15c592548eba0e84a7b0702f72e"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
+    title: "Chicago police drop Clearview facial recognition technology"
 
 related:
   - title: "ACLU sues Clearview AI over 'unlawful' facial recognition technology"
@@ -79,6 +83,6 @@ related:
         width: 860
         height: 484
 
-secured: "/in9YYCNQ5DcsmALYy/x5BrWRejc9UjGQxcPXxaYVr/oez+tCRsxG6yE6XPUnCRDVuhgye4zrPyemr2tk8Qyzc/ZDpcN926rBsOf4Mhqt5Iipti0D5Hfxost6YKPBVafijV7yVEK+4iNAdAvA+OBmPF4MrfzRyOlHrrTfUvnpA10qAx73lVNBhFiJrf7z7bXTNGBoDs+WzZjT5xSkJI8LpCd0F2FSiIct3+JBSY4rPSkk78eYbDV/GAbhqdpkcS7D1LdeKdFJF3Nvu8Ty6hAB2du9EKb9voY5NORnZwY2OTppG3sc9iN2vRyL5ErVdV1;UCyZomk5C+2OvA/npTWCog=="
+secured: "dtucDexYlbWy3E45zgZHnLQsR899WyLKj8nPAogyT7+096WagFvIhDqiRSzeNcJ5CjHkqCXK40EIvOQNMfygnIP4tNmLuiOrALPQTAqu4W6Q9LKzXVUFMAkSY+qIoDQYzJPV0x9b+Yuov2VWSKTfNRBn1rbejgAShQXFxIubWqu+GpJr9Rgc8iVL+N03RJ8ncUExjA2ZXonWlo+aJ2hFVdDsY6mnTxSMce1wzt/gAFNrD0/ugAhuYKtCSRkLjSiOIgquh44TW36sVHBRnWNa4Ujs+gh1kyIyqJGGOcnliz+A2Il14DzSGCwsk42MoaOI;pM14ymyLU5ZoaPXDKikARA=="
 ---
 

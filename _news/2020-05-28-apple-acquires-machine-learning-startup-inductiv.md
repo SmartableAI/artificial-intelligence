@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/28/apple-acquires-machine
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Apple Acquires Machine Learning Startup Inductiv"
 
 related:
-  - title: "Apple Acquired Machine Learning Startup Inductiv for Siri Improvements"
-    excerpt: "Apple recently purchased Ontario-based machine learning startup Inductiv for the purpose of improving Siri, reports Bloomberg."
-    publishedDateTime: 2020-05-27T22:35:00Z
-    webUrl: "https://www.macrumors.com/2020/05/27/apple-buys-ai-startup-inductiv/"
-    ampWebUrl: "https://www.macrumors.com/2020/05/27/apple-buys-ai-startup-inductiv/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/05/27/apple-buys-ai-startup-inductiv/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 59
-    images:
-      - url: "http://images.macrumors.com/article-new/2019/08/siri-waveform.jpg"
-        width: 600
-        height: 450
   - title: "Apple Acquires Machine Learning Startup Inductiv to Improve Siri"
     excerpt: "Apple has bought Inductiv Inc., a Canada-based machine learning startup, to work on Siri, machine learning and data science, reports"
     publishedDateTime: 2020-05-28T08:37:00Z

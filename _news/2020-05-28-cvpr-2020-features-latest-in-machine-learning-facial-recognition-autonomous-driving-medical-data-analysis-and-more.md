@@ -1,22 +1,28 @@
 ---
 category: news
 title: "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More"
-excerpt: "The annual Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research spanning the fields"
-publishedDateTime: 2020-05-28T15:45:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and/article_ee04b226-28a5-56f4-be32-475e0d8b67ff.html"
+excerpt: "Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research"
+publishedDateTime: 2020-05-28T15:24:00Z
+webUrl: "https://www.prnewswire.com/news-releases/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-301067121.html"
 type: article
-quality: 0
-heat: 0
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Computer Vision
+  - Machine Learning
   - AI
 
-secured: "4bg6PMQ+Wqp+j8XXkuGeSWzU2OiBmH7+8UdJuwtquiltsNonsBoEljIR4CsiPFRpSr/3R8WGvJEQI2CZ9CAaylGqGSSdjcxXILFIt0ziCudefarM7+DS6+tV8129wEzF4ppo3IHbmSvdQRMZHA+D1OWbXabIwN455zeookGWyn/Swj9KhIoMZoMPsYs8wewz60zNMz3cEYZtpivJrTcfD2NqlSwAMRDxyWNazu9Nf4IYaJtz+b3hfHBcieCqzFdCdBxuUvJ5xHR5TMvLJjeODHVGfhNpW3Zv3t5HMZD5i6pQrJ/VHhwuYeYkfDyS17bd;nyoLEOY/T/9c6e2O3Be+Ng=="
+images:
+  - url: "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook"
+    width: 597
+    height: 314
+    title: "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More"
+
+secured: "3UW4VYPIgem7GM/6e3qn3DrqHGgQE7gb1tbRcN9ZaNSZzEfnADfvPWoOm3M0YoKlrBK/Lnl6O11euOr+5Qaux+sjlqfoVmNERDelvrBFQEr93JCbF3KnF3iJ4YoqJJAkKVDrMbzmxnfku1WMgpgO4yEeTfBxFxkeDGPTz+TtK0M/ZXrx0gKRQmoiOFpU6NeW+VIATr/gy3SrQhFspMwuTCaEWT0Y/gW7dgRf/lO3b5hF5vSU6Mh10YQKU5lxjbJlDqoH5X7GxHyGXtgt/JxiPm/Fa10+0BjYsHC1a6rLp5+MG+AzyXYvSPskYl7ybGPx;Mm5o47ipjhrKf9sNvktuuA=="
 ---
 

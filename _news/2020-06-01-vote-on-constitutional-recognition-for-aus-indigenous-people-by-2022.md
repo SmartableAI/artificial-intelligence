@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Vote on constitutional recognition for Aus indigenous people by 2022"
-excerpt: "A referendum on constitutional recognition for the the indigenous people of Australia could be held by 2022, a Minister said on Monday."
-publishedDateTime: 2020-06-01T09:59:00Z
-webUrl: "https://www.sify.com/news/vote-on-constitutional-recognition-for-aus-indigenous-people-by-2022-news-international-ugbpulhgajdaa.html"
+excerpt: "A referendum on constitutional recognition for the indigenous people of Australia could be held by 2022, a Minister said on Monday. Ken Wyatt, the first indigenous person to serve as the Minister for Indigenous Australians,"
+publishedDateTime: 2020-06-01T15:36:00Z
+webUrl: "https://news.webindia123.com/news/Articles/World/20200601/3568648.html"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "http://iansphoto.in/web/photoimages_new/400/2019/07/10/1be49a2d47919b47dd0b04faa81a40ef.jpg"
-    width: 400
-    height: 400
-    title: "Vote on constitutional recognition for Aus indigenous people by 2022"
-
-secured: "bseuutts4nNnhZVhH9CMuD3fnmhumjwOV7vRW3nsAQbkQBQohsnCYaZnIQD3gqcEwN60cHtrA0eWDGq14CfWlfXtKKPUUkNQHCN+SeMArzmlXUFK6agvgi1W2gJofOXFUOK6iND5Ho65okPRg+x3giQH+bE4DFSlo4Mp4XTJ5ZnW4QUPA5Bm9OD7HhwJ+mC6Il7G3HHS4+gJn3TGA39xYaEricv8kYP5k4w1Bj42TLKDdTgyblKmM7nEI5q79m4QJQz0rVIHGvttBetY50cHy6N0Ibq2HsCkkIEy8app89wUHcI2iWNFTwu7o4zwWSGk;KtaNRU1Pw8VRDwKw1DKrZg=="
+secured: "JquZOWVTNDTfN0e0Q+RzrcQWR8moGyCzuYIDMmLNVX7RUX1xVDL/KZ49Z4WJCNhF6/FlftoYpcCtn/5VGkTvbXGVxMMby3E+2QFutkAL5Y4mgSbH31QttqHGJeC3JvijX2wp1jTsZtjs48TYdNm9JHqmoFxgFqshCfPWlbMVWOEfLsdtOcQLFKYakkmysWZHpHKDHk+mi4igtWMEfQBfocrOMfW46dag5eORfYiwfrsSMbIeO1xsx2HH79n6WI2mtaIOe00VrKtshKh+kb83ELt32P33WU5mz8Ao5bV29pMQaJp6rQ8b0IJ/mQ9+ObsP;MECwY+xTaag/A8qfHBAoKw=="
 ---
 
