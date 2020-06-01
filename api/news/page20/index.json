@@ -2,50 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2020-05-14-data-security-startup-dathena-snags-12m-in-series-a.md",
-      "title": "Data security startup Dathena snags $12M in Series A",
-      "excerpt": "Singapore-based data security startup Dathena rakes in $12 million in its Series A round, which will be tapped to boost its R&D work and expansion plans in the US market, where it has a sales partnership with Microsoft.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/data-security-startup-dathena-snags-12m-in-series-a/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-security-startup-dathena-snags-12m-in-series-a/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-security-startup-dathena-snags-12m-in-series-a/",
-      "publishedDateTime": "2020-05-14T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2013/09/25/1655ed1c-1d16-11e4-8c7f-00505685119a/thumbnail/1200x675/136f10bf51e85181748a0ab9f24ffc3e/singapore-dollar620x465.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Data security startup Dathena snags $12M in Series A",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-14-generation-and-evaluation-of-artificial-mental-health-records-for-natural-language-processing.md",
       "title": "Generation and evaluation of artificial mental health records for Natural Language Processing",
       "excerpt": "A serious obstacle to the development of Natural Language Processing (NLP) methods in the clinical domain is the accessibility of textual data. The mental health domain is particularly challenging, partly because clinical documentation relies heavily on free text that is difficult to de-identify completely.",
@@ -1044,6 +1000,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-13-amazon-ec2-inf1-instances-now-support-amazon-sagemaker.md",
+      "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
+      "excerpt": "Patrick Moorhead gives an update with Amazon's team that has been busy with customers, optimizing and adding capabilities, some of the Inferentia and EC2 Inf1 instance leads.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
+      "publishedDateTime": "2020-05-13T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebb15cf082ee4000682bb85%2F0x0.jpg",
+          "width": 821,
+          "height": 439,
+          "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

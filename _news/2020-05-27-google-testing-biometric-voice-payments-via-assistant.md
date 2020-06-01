@@ -23,17 +23,6 @@ images:
     height: 725
     title: "Google testing biometric voice payments via Assistant"
 
-related:
-  - title: "Google testing voice-based payment feature through Assistant"
-    excerpt: "Google could use the voice payment feature and integrate it with its smart devices like the Google Home and Home Mini smart speakers."
-    publishedDateTime: 2020-05-27T13:33:00Z
-    webUrl: "https://www.bgr.in/news/google-testing-voice-based-payment-feature-through-assistant-894521/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 4
-
 secured: "Ub+EontvZQTYGjutkgHGOU6zk3f2o3mQF/AbQYrsNUcIxQUrNA0U7ePzk4xWs9NMKGCEJRCS7g6vW22Dm8E8p/qe/YAVOSbAnEPxUhqf78Y+riDjAw7RgoKC5Xt5z1y7YcuFVZOFI/Gl55173rXz9OV/0sfDMoRWN9zPhfdvpQqiARIQmauQtALa/zD1J5p8aHjmBZikwdW6/TOQJw8qP3uujeCetPYqxS6hTBRrpgB7dD0LxEgvfBEflsNcYc3RZcbFkh1ulS6aIOS4E1gGy0F3HsMtcXUUfE00VCJjGgn25cpywPPMk0zyI/MxQcXplfDoTIWdT2NHtlkoeFRvtgH3y8tNqld/UCGzK60r6lP/wXWgTvDh3FingQjpxMidFSwLLU+shc9h8yUgAlqvr8QrAmbSxEcAxCnv7S8a9qC4sk6xodOKQ72Pf+EmbkYSRQoL3qhEWoTDSFzriZOj1l85NDXhocu6XEAz7KrSCH4=;cVsDiH0KuBanDbkOOjbK/w=="
 ---
 

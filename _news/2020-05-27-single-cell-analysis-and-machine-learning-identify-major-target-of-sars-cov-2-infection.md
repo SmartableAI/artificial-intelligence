@@ -23,17 +23,6 @@ images:
     height: 1380
     title: "Single-Cell Analysis and Machine Learning Identify Major Target of SARS-CoV-2 Infection"
 
-related:
-  - title: "Single-cell analysis and machine learning identify major target of COVID-19"
-    excerpt: "Scientists at the Yale School of Medicine (YSM) are using single-cell RNA sequencing to learn how SARS-CoV-2 interacts with a host cell. The two senior authors David van Dijk, Ph.D., an assistant professor of medicine in the Section of Cardiovascular Medicine and Computer Science,"
-    publishedDateTime: 2020-05-27T13:18:00Z
-    webUrl: "https://medicalxpress.com/news/2020-05-single-cell-analysis-machine-major-covid-.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 17
-
 secured: "ItUA+GjXJt+DW3Ip4Q04hzBMKAkwY9YrwExejhqs51gym6JMS3FsWuhbI7SZlPKkHkg9l8DvuYfUKfBjCejGngp8+ZkNJ8I8epnuwqLvMQ/rqB5kPsYSrBjNiJ4kWMGShdmgV5j4j/n8lxrkOnVm6TACDaBrdT7UHG2F2aSOvFyzgiKjdBQ4aSkU9JfadVvNWzGXm9/3L1krUrggDtPuM93AWGmKQ/3EiAYM6jyHrVTMfHAE2GPh3JYeRbaEqrPK3XQDey3m1wRFUmzBBKNNrJx+Oi1EwIRdC6SiqVvlFSwMF8bDd7ZovKTrRGH7JHpqHCkqM5ILDgl/0ztTnbnOnGdxZcJ0fyOzoHaTBpsYYR6+6QGK7TqSQqnwwwxOWOmDgR2AIczpLDFi/armM+EULhJYLfS+j6He6W6izGNZ+w3NX+yHYCRcwU9cCTUPWlCJq+QcUiNLZzzfnUO0v+QsszhFIh2HKQkJC9RnuBm29vk=;bkZcZtwrOwX54FiLeq7z0Q=="
 ---
 

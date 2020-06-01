@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-02-emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet.md",
+      "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
+      "excerpt": "If a marketer can get an accurate read on someone’s emotional response, they can tweak their campaigns and achieve better results.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/amp/",
+      "publishedDateTime": "2020-05-02T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/02/emotions.png?fit=1059%2C619&strip=all",
+          "width": 1059,
+          "height": 619,
+          "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online.md",
       "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
       "excerpt": "An upcoming Animal Crossing AI workshop and ICLR this week may reshape what research conferences look like, but social experiences are still a challenge.",
@@ -1159,35 +1204,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-sdl-offers-machine-translation-free-of-charge-to-health-science-professionals.md",
-      "title": "SDL Offers Machine Translation Free of Charge to Health Science Professionals",
-      "excerpt": "By offering our services free of charge we’re hoping to remove any language barriers that stand in the way of understanding and give these researchers instant access to the information they need to bring an end to the pandemic.” Built using SDL’s Linguistic AI to improve the quality of translations, SDL Machine Translation instantly ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200416005038/en/SDL-Offers-Machine-Translation-Free-Charge-Health",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

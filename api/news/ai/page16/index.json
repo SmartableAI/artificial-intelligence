@@ -2,43 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2020-05-14-a-new-way-to-think-about-artificial-intelligence-with-this-etf.md",
-      "title": "A New Way To Think About Artificial Intelligence With This ETF",
-      "excerpt": "Among the myriad thematic exchange traded funds investors have to consider, artificial intelligence products are numerous and some are catching on with investors. What To",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/trading-ideas/long-ideas/20/05/16028413/a-new-way-to-think-about-artificial-intelligence-with-this-etf",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16028413",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16028413",
-      "publishedDateTime": "2020-05-14T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/artificial-intelligence-3382507_1920_3_0.jpg",
-          "width": 685,
-          "height": 375,
-          "title": "A New Way To Think About Artificial Intelligence With This ETF",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-14-robots-could-patrol-to-enforce-social-distancing-at-tourist-hotspots-this-summer-eu-suggests.md",
       "title": "Robots could patrol to enforce social distancing at tourist hotspots this summer, EU suggests",
       "excerpt": "We’ll be living in the future if artificial intelligence is ultimately deployed across tourist hotspots this summer, with robots potentially patrolling to help enforce safe social distancing and more as the coronavirus pandemic continue,",
@@ -1258,6 +1221,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi.md",
+      "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
+      "excerpt": "Here is the link to the board that looks like a Raspberry Pi. This new hardware was launched ahead of the TensorFlow Dev Summit, revolving around machine learning and ‘AI’ in embedded ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2019/03/05/google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/03/googletpu.png",
+          "width": 800,
+          "height": 438,
+          "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

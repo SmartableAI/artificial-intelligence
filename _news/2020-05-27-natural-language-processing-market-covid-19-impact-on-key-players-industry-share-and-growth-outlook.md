@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-27T15:18:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-covid-19-impact-on-key-players-industry-share-and-growth-outlook-2020-05-27"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 630
     title: "Natural Language Processing Market COVID-19 Impact on Key Players, Industry Share and Growth Outlook"
-
-related:
-  - title: "Speech Technology Market Worth Value Size Share Growth Forecast Trends Outlook Industry Statistics | Valuates Reports"
-    excerpt: "The Global Speech Technology Market is expected to grow from USD 8 59178 Billions in 2018 to USD 28 90167 Billions by the end of 2025 at a Compound Annual Growth Rate CAGR of 18 92 Get Free Sample https"
-    publishedDateTime: 2020-05-27T13:18:00Z
-    webUrl: "https://www.openpr.com/news/2059440/speech-technology-market-worth-value-size-share-growth-forecast"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "/bLEtftTx4RBvNULJH4dkfGJlrhYvODSR2RtubsJuEKQmU8+zIGTxmnB9vSs4dgVtcFwaFn6WS79SFSMfYp2GJXh4eS3B5kZyqGUCZHcPDxPkXvb4QEj2myx+YKfNhYqYuMHfdtCvZyky9PszqhFRXs0hgkSd0D7RWJxoOcuK77U19blJZwd8i1JV6AYz2zUZOTKG6QkwPTHhOYW8g3k6BnjQJagKHijSI4ai6XI6QVtRAw22K54uNGIJ2z3nsVO9MtnfcgPxIegCPWOheWFhA3bsOQzyncxDEQBFcOBIVogvcWx7seprSQ+vLnqfIaH;GRSlb/zGsKcsNBwupRq0dA=="
 ---

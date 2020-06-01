@@ -2,52 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer.md",
-      "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-      "excerpt": "During its Build 2020 developer conference on Tuesday, Microsoft unveiled the new supercomputer built in collaboration with OpenAI, an artificial intelligence startup found by Elon Musk. Microsoft announced that the supercomputer hosted in Azure was developed exclusively to train OpenAI’s large-scale artificial intelligence models.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
-      "publishedDateTime": "2020-05-21T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587037150/itpro/MicrosoftLogo.jpg",
-          "width": 5157,
-          "height": 2973,
-          "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-21-the-trash-apps-new-features-can-create-ai-edited-music-videos-and-more.md",
       "title": "The Trash app’s new features can create AI-edited music videos and more",
       "excerpt": "The team behind Trash, an app that uses artificial intelligence to edit your video footage, launched a number of new features this week that should make it more useful for anyone — but especially independent musicians.",
@@ -1030,6 +984,50 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-crypto-startup-school-how-to-scale-companies-using-crypto.md",
+      "title": "Crypto Startup School: How to scale companies using crypto",
+      "excerpt": "In week two of a16z’s Crypto Startup School, three company-builders provide real-world advice on using the qualities of crypto to create new business models and networks.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale-companies-using-crypto/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale-companies-using-crypto/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/20/crypto-startup-school-how-to-scale-companies-using-crypto/amp/",
+      "publishedDateTime": "2020-05-20T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1170889477.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "Crypto Startup School: How to scale companies using crypto",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }
