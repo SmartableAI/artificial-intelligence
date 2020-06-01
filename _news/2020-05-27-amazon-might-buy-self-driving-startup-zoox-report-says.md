@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-buy-self-driving-startup
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-buy-self-driving-startup-zoox/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 630
     title: "Amazon might buy self-driving startup Zoox, report says"
-
-related:
-  - title: "Amazon moving in on a Silicon Valley self-driving startup, report says"
-    excerpt: "Amazon is believed to be in advanced talks with Zoox, a startup that's been working on an electric robo-taxi that riders can summon via a smartphone app."
-    publishedDateTime: 2020-05-27T06:11:00Z
-    webUrl: "https://www.digitaltrends.com/cars/amazon-reportedly-eyeing-silicon-valley-self-driving-startup/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/amazon-reportedly-eyeing-silicon-valley-self-driving-startup/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/amazon-reportedly-eyeing-silicon-valley-self-driving-startup/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
 
 secured: "jWHN2c9WPhy2+yt0enR7rDrHw/r+Icmy8/S5d1meF2+sxyc5qFKxAeXc/o6+jndyf7+QFsv8KEpEGVye7qwxGG5VgpPSGHLtzV1NH7UUee+mFapJXK5rVExvaNZkQ4l0UdrAwzZ5i4lg4HeQ74IGsjIAX/pdQ+pGSRWzs9qQfEYrzpk9QBSg8uoMlEGMwUNtitk0xlvzZdTbK1zO2jVpTcH8ysqfOlppv7oAzNglHC++tPavpKCWGdOSE2DHccFIGbPowRZo+HImPfA0cz34/Pgr7rBsTQboWxcTbm4KS0F86TynS8ZJcdwUVUviefeGn4p3yJ7KU0C9k/XhavVx0MqIUaFzFx/f+1sZ0izAr7ewbF6btFBW9v9Pg2WF6XZ2IVbMHHF7gTetXfd+A9nWueYe6mwnpoMKza7OfTZHhnjlW3cRDi9soqACcgIox5n3QJHxffcVPuR5P9JmaF7EBSJ1GLQF+Od9heEA2YsomsU=;ZzV3ZcxMP8VkY5XYr7W7Ag=="
 ---
