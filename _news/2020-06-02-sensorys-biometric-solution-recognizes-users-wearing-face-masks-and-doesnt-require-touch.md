@@ -23,21 +23,6 @@ images:
     height: 320
     title: "Sensory’s Biometric Solution Recognizes Users Wearing Face Masks and Doesn't Require Touch"
 
-related:
-  - title: "Finally, a Biometric Solution That Recognizes Users Wearing Face Masks and Doesn't Require Touch"
-    excerpt: "Sensory, a Silicon Valley company pioneering AI at the edge, today announced that its TrulySecure face and voice biometric fusion platform"
-    publishedDateTime: 2020-06-02T15:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/finally-a-biometric-solution-that-recognizes-users-wearing-face-masks-and-doesnt-require-touch-301069400.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1175472/Sensory_Inc_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-
-secured: "i1HNb7Hlz+ZvYHckEh3hxNk6NqAj8QXr48gQdS+ymeDXM/8/Q3uK4YvUoIB/NFjJ9ZbiWBiS3vSjmRDwysOfsOj+OhVouLiHmVZwqfF9v4xfBTXuaQ0y8gAdr6OY+XFTpzSflZlKxZkSWqV1Qn6kBN+yUvJTNbms9ApvtoQDdYIL0wCSWmXt++2UW9vGq9izv2VpRWhJu7vOjvxGyb5z9v1aLLx8p9NzjCsh/t/uImrK4HR7s5dmV2j9xJmZi5cMz9FzQCzaHrAKrrRFTSF1qzCH3FmR1diqbpdMAD8G1phkhtLxs3z97anICHKF5nBS;I/2l7SizoEj5QWs+jo5NMw=="
+secured: "kcFqSSAi3Ik4TsEyKO8h26KB86IwRU/VHGVxdNyHspJSV/nUh46YrebBdCa4DsdLSdKRhDNwI3I6TMUPue/5+8byuHGKNxIIeG1bd/IGZ+HwYFVlQ6tdjQVCPSCDjBEeMD/iNgpd7Nu9pnPfMXYWC09X9JklUS4g/9kwUBo0vvE9eXLj4890znYyt5Zygwz2vx5pp4ESKuhXPTzSd0UAFc66aP03mNTTV0LEEFyQAIop/05DLPvyzyh1Uv4m7fWEWi/TTq6ik3WemkPdz3EA7TajY75BxXZJkbQFBDg7kNKBxoIbF7TqyeBfS4fgTK4KghaO8HDmop54DxnJf0AwKDalGT3MRLKLiYU70GQuUoAkoLCLBbuti+XaFdFaORgnLMWQCTEpykKmSLktgGxSSe603NxkbbGKBr5GjjmN1EVJf4vVzIiorTexbF75j4iqKLzZm+3SfQYjMUCVFmtfnLngSkVAOQJ8c7/9aQ0zhyY=;t/Om4CNL/PtbOBY7aGIalw=="
 ---
 

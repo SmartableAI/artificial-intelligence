@@ -26,21 +26,6 @@ images:
     title: "CVS Health tests self-driving vehicle prescription delivery"
 
 related:
-  - title: "CVS Pharmacy to begin delivering prescriptions with self-driving vehicles"
-    excerpt: "CVS Pharmacy is planning to start delivering prescriptions with a self-driving vehicle. The pilot program is set to launch in June in Houston. The company partnered with Nuro, a company that's been developing autonomous driving technology."
-    publishedDateTime: 2020-05-29T02:03:00Z
-    webUrl: "https://wnyt.com/news/cvs-pharmacy-to-begin-delivering-prescriptions-with-self-driving-vehicles/5744233/"
-    ampWebUrl: "https://amp.wnyt.com/articles/cvs-pharmacy-to-begin-delivering-prescriptions-with-self-driving-vehicles-5744233.html"
-    cdnAmpWebUrl: "https://amp-wnyt-com.cdn.ampproject.org/c/s/amp.wnyt.com/articles/cvs-pharmacy-to-begin-delivering-prescriptions-with-self-driving-vehicles-5744233.html"
-    type: article
-    provider:
-      name: WNYT NewsChannel 13
-      domain: wnyt.com
-    quality: 43
-    images:
-      - url: "https://wnyt.com/wnytimages/repository/2020-05/cvs-ap19050561641382-cropped.jpg"
-        width: 800
-        height: 450
   - title: "CVS tests delivering prescriptions with self-driving vehicles"
     excerpt: "CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro to deliver medicines and other products to customers near a Houston-area store."
     publishedDateTime: 2020-05-29T15:01:00Z

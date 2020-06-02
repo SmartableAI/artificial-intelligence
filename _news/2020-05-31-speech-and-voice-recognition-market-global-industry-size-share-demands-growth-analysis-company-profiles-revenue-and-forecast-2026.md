@@ -55,19 +55,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "COVID-19 impact on Big Data Market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023"
-    excerpt: "The global big data market is expected to grow at a 13.35% CAGR from 2018 to 2023. Towards the end of the assessment period, the market is likely to surpass a valuation of USD 81,"
-    publishedDateTime: 2020-05-29T02:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-big-data-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2023-2020-05-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "2Mgr9h1bGsDKQDdOZdvhE6dvn3kjm29PruY7jCs72L6t1uY1V+L9dxgth6Yjold466oqEsb2w2oyu1teq3QXKIXfqc4MReh3URXuIEw/t7mgJWGttwRfPOGsEGUmpkG+bdwIA/KE93gdTCG5MEQhddFQ94vf6ohnim2NFmwFyeqBC3bbZP0eX422TI4Ky/2857ytBsjS+I9cVGcx6k5jXgfnJ85wu2TxgZy6bmS/XByf0CNxIgEfwXOfsiR0OI3iZRwEjN3/IdMOWWzvSkLvDhNBmha9aq4uZixVjsecAkMqMPkDXkTSLWFOhFr+6vpI;uILP5QinFCCcbiKeFGJ6Kw=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-02T08:39:00Z
 webUrl: "https://itwire.com/hardware-and-storage/dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: ITWire
@@ -24,6 +24,19 @@ images:
     title: "Dell Technologies virtualises GPUs for AI and HPC workloads"
 
 related:
+  - title: "Dell launches AI systems with new VMware-powered GPU virtualization tech"
+    excerpt: "The systems are launching under the brands Dell EMC Ready Solutions for AI and Dell EMC Ready Solutions for vHPC. Both are available immediately. The Dell EMC Ready Solutions for AI combine PowerEdge servers,"
+    publishedDateTime: 2020-06-02T19:03:00Z
+    webUrl: "https://siliconangle.com/2020/06/02/dell-launches-ai-systems-new-vmware-powered-gpu-virtualization-tech/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/dell.png"
+        width: 1062
+        height: 579
   - title: "Dell Technologies Shifts AI Adoption into the Fast Lane with Simplified Advanced Computing"
     excerpt: "News summary Dell Technologies is the first to deliver the latest virtualization capabilities for AI and advanced computing in"
     publishedDateTime: 2020-06-02T12:00:00Z

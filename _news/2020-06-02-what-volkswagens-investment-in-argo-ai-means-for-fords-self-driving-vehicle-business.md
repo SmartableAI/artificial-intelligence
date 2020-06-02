@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-02T10:28:00Z
 webUrl: "https://www.automotiveworld.com/news-releases/what-volkswagens-investment-in-argo-ai-means-for-fords-self-driving-vehicle-business/"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,23 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Ford, VW finalize autonomous vehicle deal with Argo AI"
+    excerpt: "Ford and Volkswagen finalized a deal Tuesday with Pittsburgh-based Argo AI to introduce autonomous vehicle technology to the United States and Europe."
+    publishedDateTime: 2020-06-02T19:14:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2020/06/02/Ford-VW-finalize-autonomous-vehicle-deal-with-Argo-AI/5721591121523/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/06/02/Ford-VW-finalize-autonomous-vehicle-deal-with-Argo-AI/5721591121523/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/02/Ford-VW-finalize-autonomous-vehicle-deal-with-Argo-AI/5721591121523/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 57
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5721591121523/2020/1/48bd56c07fed01b79e02f7d4839e8c9c/v1.5/Ford-VW-finalize-autonomous-vehicle-deal-with-Argo-AI.jpg"
+        width: 800
+        height: 533
 
 secured: "ny6FP9LnQtlyaQjMVJCyEIsU7ir1HYefg4E3221F5iuBiZeUubWop9AEhiaHRl7+DIq7tAkC7RxjsY0Vr45aR6cnF6yYwGmSBI7j8szZLxZLc0qUuA5J3Pg/w/w9Xbhmvr/9v5oGOALfE1QJDxcH2zjmFLgsDFiHqVKLahkfgI8hwUvmx3RZvbD6/jy25AifQLWRjJkfbGrPiBRpxA8WQ8kfYC0GdJ/7opnChdjyI2vC7huH5iJT+fY21MM1T6k/ypsBJeiBaCaSzhWdZ+WWFyS89l6OlfMdqXJRSCSeMQlXlVUxFqH9gYyuqGgycboi;umSpVkGZ6YqG+nRiWnbokw=="
 ---

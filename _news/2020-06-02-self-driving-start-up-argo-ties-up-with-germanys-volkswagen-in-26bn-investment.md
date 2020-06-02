@@ -91,19 +91,19 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12795586/16x9/991/557/d708016128eaa39e37a3c6befa058e44/Dl/89th-geneva-international-motor-show-in-geneva-1.jpg"
         width: 991
         height: 557
-  - title: "Self-Driving Startup Argo Completes $2.6 Billion Tie-Up With VW"
-    excerpt: "Argo AI, the self-driving startup tightly aligned with Ford Motor Co., completed an expected tie-up with Volkswagen AG involving a $2.6 billion investment from the German automaker."
-    publishedDateTime: 2020-06-02T15:45:00Z
-    webUrl: "https://www.ttnews.com/articles/self-driving-startup-argo-completes-26-billion-tie-vw"
+  - title: "Self-driving startup Argo completes $2.6 billion tie-up with VW"
+    excerpt: "VW’s investment includes a $1 billion cash infusion and the folding of its $1.6 billion Autonomous Intelligent Driving unit into Argo."
+    publishedDateTime: 2020-06-02T19:26:00Z
+    webUrl: "https://www.dig-in.com/articles/self-driving-startup-argo-completes-2-6-billion-tie-up-with-vw"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
+      name: Digital Insurance
+      domain: dig-in.com
     quality: 22
     images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/argo-autonomous.jpg?itok=MsCOdZI9"
-        width: 470
-        height: 246
+      - url: "https://arizent.brightspotcdn.com/dims4/default/532f289/2147483647/strip/true/crop/350x184+0+22/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fe1%2F6d%2Fe487ba80485996bd87dd247a5b51%2Fvokswagen-dealer-bloomberg-350.jpg"
+        width: 1200
+        height: 630
 
 secured: "aQ0VkXLZhjiHqpFWTLToa+tMBNP6jYeS4RgtMJ0pr3vdcY2PxamQSRhvYyTZQXHm2kCcfFBrjHwZxCVkht8sPhaLgzyfQNvPWRAy7EM8S/TTiDsmgtO7gUKo+YL9cQ2ok859KIpw5uWiL8a4x817uQUm+4ihBrHr1ZTbl0qBuhBtZ7S6azp0RxUwJc5iVCdvHxSXnXvcNNoBGix28fRRTRtCzVIq2hPqKOzAHasQiDAZcuq2NQl6DEDAoDcMMf+puTYa/3IxHgbE2zsbsnkpNFWp0E6BsBiMUOJrfjap2ggql5w4nC/RMQWqj1KLkPTw;Jwh2EM6fhWZuoHho5Ol/qg=="
 ---

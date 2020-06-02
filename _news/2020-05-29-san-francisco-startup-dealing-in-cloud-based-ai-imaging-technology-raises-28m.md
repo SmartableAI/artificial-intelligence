@@ -22,6 +22,6 @@ images:
     height: 630
     title: "San Francisco startup dealing in cloud-based AI imaging technology raises $28M"
 
-secured: "cJfrArBkLGc1JlzqQ2jl7P3nZQ6aa1fF3hMlZ5NWP8EBmogsaLy9O9TWrfp6Gv6lRT7GX74Edz94JsBsl7suDz4Qy088y+v89Jr71Zc4keOblJMCO0CTFyDerT4yQz/bO8ruWfHQ15m7ed6TGwTcSRzPRNTqPzwU7F7H+xiPOwt4EeTo0Hh1ppHKu2+KDFPcLZu/bDmEsu3b700wKfIyfiMKbw483L7mSX7N0iqICNsJB/oYFgSyHMtgbwZoQyTUg6OJekIEyklV3td+OP2dAWAVUlh57Y2YiJHqSCcn4eg5Eq76qGk2dDyGJM+7UZvj;cIsM/0ZPWyK1DAqmACFhhg=="
+secured: "6rtPRfkowCiTMypzrCeQjZ+JG86kVWJTteFfVnqsoA3DEzZi6SSUmQbwjZxBmIzjPMTFj/J8ybgckaS/bOi9WssT8jEwhV1Pn+FRYLyWiM7LsxWEaRDxSp5O5mrC0jMdmIo5nchBTElsGr/RWq+WXpQfSpTKpeo9EaE/SemGGwA5DJgqT9HCuos5N+N9jbacBmlpuqdWDfzajghte7/2k4mqkJ/ejGPiPfM4HcHvmugGPB/5RwtdSHLjKSrUMe1J3+SoCDwJfKKDDV6CRlxuZIh6SL9afQNi4f///jMOZCX5eIfj9767ivxRE0ViSnh3YBGojQpbrLu1AsVvrNvYem+mD19xjyIzCBo9lsKNwKxe39/04z+ZLFPi60JzUBXDsalukXBHPtzuGhG+74pyk6b4+DLT1rbauXlLvRp6PnaNtOXcAFYi7E+/F5Zr3JhBH3lhDChfp9dt5PpZrySYqrx1/8BJZQSdPhMCnOsD3FE=;MSqwmRo+ujx8kYRiui0vCA=="
 ---
 

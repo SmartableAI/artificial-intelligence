@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-02T08:10:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-global-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2023-2020-06-02?mod=mw_quote_news"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -38,19 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "COVID-19 impact on Big Data Market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023"
-    excerpt: "The global big data market is expected to grow at a 13.35% CAGR from 2018 to 2023. Towards the end of the assessment period, the market is likely to surpass a valuation of USD 81,"
-    publishedDateTime: 2020-05-29T02:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-big-data-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2023-2020-05-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "COVID-19 impact on Big Data Market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023"
-    excerpt: "The global big data market is expected to grow at a 13.35% CAGR from 2018 to 2023. Towards the end of the assessment period, the market is likely to surpass a valuation of USD 81,"
-    publishedDateTime: 2020-05-29T02:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-big-data-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2023-2020-05-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Speech and Voice Recognition Market Global Industry Size, Share, Demands, Growth Analysis, Company Profiles, Revenue and Forecast 2026"
     excerpt: "The global speech and voice recognition market is expected to rise with an impressive CAGR and generate the highest"
     publishedDateTime: 2020-05-31T12:42:00Z

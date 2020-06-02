@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Self-Driving Startup Argo Completes $2.6 Billion Tie-Up With VW"
-excerpt: "Argo AI, the self-driving startup tightly aligned with Ford Motor Co., completed an expected tie-up with Volkswagen AG involving a $2.6 billion investment from the German automaker."
-publishedDateTime: 2020-06-02T15:45:00Z
-webUrl: "https://www.ttnews.com/articles/self-driving-startup-argo-completes-26-billion-tie-vw"
+title: "Self-driving startup Argo completes $2.6 billion tie-up with VW"
+excerpt: "VW’s investment includes a $1 billion cash infusion and the folding of its $1.6 billion Autonomous Intelligent Driving unit into Argo."
+publishedDateTime: 2020-06-02T19:26:00Z
+webUrl: "https://www.dig-in.com/articles/self-driving-startup-argo-completes-2-6-billion-tie-up-with-vw"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Transport Topics
-  domain: ttnews.com
+  name: Digital Insurance
+  domain: dig-in.com
 
 topics:
   - AI
 
 images:
-  - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/argo-autonomous.jpg?itok=MsCOdZI9"
-    width: 470
-    height: 246
-    title: "Self-Driving Startup Argo Completes $2.6 Billion Tie-Up With VW"
+  - url: "https://arizent.brightspotcdn.com/dims4/default/532f289/2147483647/strip/true/crop/350x184+0+22/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fe1%2F6d%2Fe487ba80485996bd87dd247a5b51%2Fvokswagen-dealer-bloomberg-350.jpg"
+    width: 1200
+    height: 630
+    title: "Self-driving startup Argo completes $2.6 billion tie-up with VW"
 
 related:
   - title: "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI"
@@ -104,6 +104,6 @@ related:
         width: 991
         height: 557
 
-secured: "PI0KoIAorHyinb6iPPoVr8f961wbSpKctXZSKfz8cg6Tkbyj4BDB8c84YLxV2PvIhwNv20IkAXeepuSAYQ+2ced9DYDqz3RnZkOTgGjYotxH3sw0mLM3kL9sinlHuN3Oq1n8NwgyKnp5P+8dsehF0ieigM5OXXqGDyfhhbpVKUlK7phHRWIdqUOsD1XBDvQG61aMRgFEIcdL03JQ18GrxxQN+1KIliCYzKbUZeZ0ZsnKsC5Dx56wpD+g3Y4V6yYP5BgkOwWmzd2LOydt5N6fYn6cHREKdz00ngfb41Z0YncAzzF3WD0hB+QZg6OomhMA;HKklq2mwAdWDJzCcOmGU7g=="
+secured: "H/4zAgZci9kN7Go/1fCKigy70aS8hsR3XPBREYbK9U79WkQPsPQC7dKsM8xE75pKQWTvDVLgmvCoQXoW9AxJ8qd7O3a7wU32mcQL8jk6oUAZwTWjdCkFk2Gole8qbn36x23oIOwYznXCrJcSym+3CoR5Hx1VwiwPg7M5/JLKlbOmfRmUSw5j9HmPYCDslPSW1q2TxxLwTrNzVUCA6Sndp13c5cMSzRsca8CZr4fJOmIFVqba1bWErvv7ASySwsytpoFWZWVqMAtQRLWEoCHbEVV58iJos2AEpr8O6qiSTv2iKvFzZcoe87RMZz5y0KQf;CckkmrBrGi5ZtZLcf/V2gw=="
 ---
 

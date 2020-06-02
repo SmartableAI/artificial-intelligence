@@ -560,6 +560,50 @@
       ]
     },
     {
+      "path": "_news/2020-06-02-is-your-sales-team-ready-for-ai.md",
+      "title": "Is Your Sales Team Ready For AI?",
+      "excerpt": "While the human connection factor remains a significant part of closing any deal, the advances in technology, such as AI, can help negate the impact of other factors.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/amp/",
+      "publishedDateTime": "2020-06-02T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F06%2F881.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Is Your Sales Team Ready For AI?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-this-voice-recorder-looks-like-a-cassette-tape-and-uses-ai-to-transcribe-10-languages.md",
       "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
       "excerpt": "It’s said to support 10 languages, including English, Japanese, Korean and Spanish. The company also says it supports 12 Chinese dialects, including Cantonese. It also looks nothing like a pen, though older people tell me it actually resembles something called a cassette tape.",
@@ -776,10 +820,47 @@
       ]
     },
     {
+      "path": "_news/2020-06-02-dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.md",
+      "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
+      "excerpt": "Dell Technologies has announced new configurations aimed at simplifying the use of AI workloads in VMware environments. Dell EMC Ready Solutions for AI: GPU-as-a-Service incorporate VMware vSphere 7 with Bitfusion to allow the creation and sharing of virtual GPU pools. This approach improves GPU utilisation from around 15% to 80% or more ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://itwire.com/hardware-and-storage/dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/7989aae80280791f2f2e85c488ad5bb0_M.jpg",
+          "width": 375,
+          "height": 375,
+          "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-artificial-intelligence-ai-chipset-market-global-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2023.md",
       "title": "Artificial Intelligence (AI) Chipset Market –Global Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2023",
       "excerpt": "Healthcare, and BFSI) and Region - Forecast Till 2023 Artificial intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning, machine learning, neural network processing, and natural language processing. These chipsets are planned with the end goal that they expend low power and offer high processing ...",
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-global-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2023-2020-06-02?mod=mw_quote_news",
@@ -998,95 +1079,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-using-artificial-intelligence-this-start-up-is-helping-enterprises-connect-better.md",
-      "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
-      "excerpt": "Bengaluru-based Yellow Messenger offers an always-on, intelligent conversational automation on text and voice across multiple channels such as WhatsApp, Google Assistant and Alexa.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/351348",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351348",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351348",
-      "publishedDateTime": "2020-06-01T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591031101-Webpnet-compress-image43.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-volkswagen-makes-official-investment-in-argo-ai-will-share-costs-with-ford.md",
-      "title": "Volkswagen makes official investment in Argo AI, will share costs with Ford",
-      "excerpt": "Ford, Volkswagen and Argo AI made it official on Tuesday. VW has made an investment in the self-driving technology company, which charts a course for shared development costs for any autonomous vehicle technologies to come.",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/volkswagen-ford-investment-argo-ai/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/volkswagen-ford-investment-argo-ai/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/volkswagen-ford-investment-argo-ai/",
-      "publishedDateTime": "2020-06-01T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/7PbtLT6iMpt6eKDYw0cRPWAFGLo=/2019/09/25/4f3ce380-0cb8-44fd-a15a-8cbc15b49217/ogi-ford.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Volkswagen makes official investment in Argo AI, will share costs with Ford",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

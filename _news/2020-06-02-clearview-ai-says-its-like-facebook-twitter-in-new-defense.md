@@ -22,6 +22,6 @@ images:
     height: 260
     title: "Clearview AI says it’s like Facebook, Twitter in new defense"
 
-secured: "JnPgd/LYmRav9lnHdW6+QgcfA3WeMfunH4r2oE/uIxE4BJUXDvzx3+jORX8mlNkcPSrs2N1fP/K5OyI5h8yMrBxop10xAcZwGij7zpeOdDRPOacgLd6UFrioq5/xWv05uV7um9SsSStlSgXqfCqa1qnL9OSxrDRh6WUwOYUyskx7AOtQyGLt/5/tyMePJSaCZZxq/2nmNL7IHfduqLyMhr670Mt9AGTBP0NlIO+63pLhxd0Lgr0T19Mamh8Dtorlezk5dsLBN/jefHo7x2JTGU1MqkzGDu8PejEEx56gupFPbSeZEid4n+5x7tZiMXz5;X1HnnPID1y91FMcNPwpoqA=="
+secured: "VeqcOd/2k/kuKO9Mx/IJgqh3eR3uSPQTsNejm/pjorvrgXzhYEAUW5XOrNEcHxcYuZBe38IMxuBTqwcdzqGb4O0JJbr5ODXtONGff6yrh3lkuKyU+V36pNRoxC9TkySbKomH1rxzuvjSHmZngKYhmFFRvvD9/D92m90DBWr0Y0KkYbTUtzUYCdxf5W1/gOMJBQhLcjl9uAp4t2Qz/l6fKMTX0+C7cnFJaZIf4GRJTDgZ7XH+byL+UPULsZW7DLzH9VtmSiLm3Z+JNS2LPvsLS1Y1Gndw6Jcm2ydCVzFlJ3fLypUPQwR+Ezmjewfv0/tMvchvXphfXNF/OH+wcoSwJzHIFjbSh3uQZlpe9ETpBo1gu2w7Nx7kNGkb93L4S2r5s/Llp0WlKOMyvwSdaYrMEBTe5fVDCdrG0SxP7OL6s9tJVl+bUefv7Yb1yKWFtfJNkn/l+jnbbRknB13LXl72T3ANqc7X7gcgbkda4HOYq+4=;H8+gkxOaU2Bd2HnikC2U7A=="
 ---
 
