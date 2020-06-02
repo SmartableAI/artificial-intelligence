@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/05/28/aclu-sues-facial-recognition-star
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/amp/"
 type: article
 quality: 100
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -100,21 +100,6 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
         width: 700
         height: 379
-  - title: "The ACLU Is Suing Shady Facial Recognition Startup Clearview AI for Being a Shady Facial Recognition Startup"
-    excerpt: "The facial recognition org Clearview AI — which you might know as the firm that secretly harvested the photos of millions of people from their social media profiles before pawning said photos to law enforcement — is officially facing a lawsuit from the Illinois-based branch of the American Civil"
-    publishedDateTime: 2020-05-28T12:50:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/05/the-aclu-is-suing-shady-facial-recognition-startup-clearview-ai-for-being-a-shady-facial-recognition-startup/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/05/the-aclu-is-suing-shady-facial-recognition-startup-clearview-ai-for-being-a-shady-facial-recognition-startup/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/05/the-aclu-is-suing-shady-facial-recognition-startup-clearview-ai-for-being-a-shady-facial-recognition-startup/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 38
-    images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/05/29/znk9sbuuooxranebzxjw-1024x576.jpg"
-        width: 1024
-        height: 576
 
 secured: "Ai1pBcX06BhP4yIx9DDKQO90/P5Rw58i2i04TUwgISiYpi79Ke5It6m6+hZsVffXjjgzezC/Lr79vHKr3HxowcH1Q4SUhkjKeM9Ca2UcAwKb6Wan8e+0b2hvjNN9UhkbIW73WhOq3zmd1qmSSrZxWmaBlXx4dz447QBoU/NMb7j6Usmql1KXctgOiL/APErsUouiAio+hLMiU1aN0ZT8ghJ8v1ZdbGaMUQI1+m6wTyD708jJFNk79Isu2IM89pP7g+yphDUbMui6XwqUnkpG67BuBKwgsuFKqPWgpRi1REygITiH/NEomYKu3Es+2YBq2gVbMwnG4ISkvP5WV9FHr4A6imexbsNclyL3e6rnlHaMGLhAGRNa0Np9gS07qD3qNoFxH0u0lHuKUrglyulz3RXa5K11+VLDakYPLMravbymqjzJNnbYCc5wbQVReoWeDr3qFY6HzeVsNYMedF0EoqxNkKkz+kLWwtf7UTX5PIw=;klvpdJv9BpWXf/wkYcsY5w=="
 ---

@@ -96,21 +96,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 54
-  - title: "The ACLU Is Suing Shady Facial Recognition Startup Clearview AI for Being a Shady Facial Recognition Startup"
-    excerpt: "The facial recognition org Clearview AI — which you might know as the firm that secretly harvested the photos of millions of people from their social media profiles before pawning said photos to law enforcement — is officially facing a lawsuit from the Illinois-based branch of the American Civil"
-    publishedDateTime: 2020-05-28T12:50:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/05/the-aclu-is-suing-shady-facial-recognition-startup-clearview-ai-for-being-a-shady-facial-recognition-startup/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/05/the-aclu-is-suing-shady-facial-recognition-startup-clearview-ai-for-being-a-shady-facial-recognition-startup/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/05/the-aclu-is-suing-shady-facial-recognition-startup-clearview-ai-for-being-a-shady-facial-recognition-startup/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 38
-    images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/05/29/znk9sbuuooxranebzxjw-1024x576.jpg"
-        width: 1024
-        height: 576
 
 secured: "WVxnIQ+ioBLs9CWyYVNRBh52uXWXafa41qDrO9q70ZULkD96CF79p6l5q7nGiAXNgq+vQt9zvgfjXuoeyh+rG5wriX/ki3PGP/Wy56HV8ycpRASaheCc6Ployh2DmnumB28R9ZH/DK7Z/QJP7xljbMWIFRnSpFGrX8WbAyXksLAcQdGyoEvYcwk3fnF5x0oPskGkZVqXyM4trOOHZr1bAaKAqRKB6RFMtfGdpYsYfGQlpIHJywLeo1bPn2yLIL7AlzXjifRy842X2LfSbNFAsispKgzijNQDqyxwWsS7v2dZUnAkMRy2QYSRwSTa987Gm/XCaQk3NO54w0p9x5iJi64eg/hZ5rzf4gTMYasKBPS4sWxw6oL78xU1nvdgeaepv2w+t0pKGFAwU0UR/8uXMb+9Lz0mDsi+TUuCKxe5yzmw5TQ07Ls455BDuRadYvfZrEuoGmtcLiyi0EKGl/3BVO69heGcT12ODDA4AuXz76Y=;YjbWOmsv2B5wu2taXS2vJg=="
 ---
