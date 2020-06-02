@@ -20,19 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "New AI tool could predict lung cancer recurrence"
-    excerpt: "Scientists have been working with pathologists to build an artificial intelligence tool that can predict which patients with lung cancer […]"
-    publishedDateTime: 2020-05-28T09:26:00Z
-    webUrl: "https://frontlinegenomics.com/new-ai-tool-could-predict-lung-cancer-recurrence/"
-    type: article
-    provider:
-      name: Front Line Genomics
-      domain: frontlinegenomics.com
-    quality: 39
-    images:
-      - url: "https://frontlinegenomics.com/wp-content/uploads/2020/05/stockvault-artificial-intelligence-concept238841-scaled.jpg"
-        width: 2560
-        height: 1604
   - title: "UK-Developed AI Tool Could Predict Lung Cancer Relapse"
     excerpt: "An AI tool that produces a map of non-small cell lung cancers to reveal areas of high and low immune infiltration could be used to predict the risk of relapse, suggests innovative UK research."
     publishedDateTime: 2020-05-29T06:16:00Z

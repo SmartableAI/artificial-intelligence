@@ -28,15 +28,15 @@ images:
     title: "Artificial Intelligence Market 2020 Impact of COVID-19 Global Analysis, Trend, Segmentation and Opportunities, Forecast To 2026"
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market by Technology Advancement and Demand 2020-2026"
-    excerpt: "Global Artificial Intelligence In Healthcare Market Size, Status And Forecast 2020-2026: The report discusses many vital industry facets that influence the \"Global Artificial Intelligence In Healthcare Market\" industry acutely which includes extensive study of competitive edge,"
-    publishedDateTime: 2020-05-28T10:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-by-technology-advancement-and-demand-2020-2026-2020-05-28"
+  - title: "Impact of COVID-19 Outbreak on Artificial Intelligence (AI) in manufacturing Market 2020 Global Analysis, Opportunities And Forecast To 2024"
+    excerpt: "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,"
+    publishedDateTime: 2020-05-29T02:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-outbreak-on-artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024-2020-05-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

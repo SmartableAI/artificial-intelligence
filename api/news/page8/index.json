@@ -2,51 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-05-23-everything-you-need-to-know-about-neuromorphic-computing.md",
-      "title": "Everything you need to know about neuromorphic computing",
-      "excerpt": "In July, a group of artificial intelligence researchers showcased a self-driving bicycle that could navigate around obstacles, follow a person, and respond to voice commands. While the self-driving bike itself was of little use,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
-      "publishedDateTime": "2020-05-23T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-26-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Everything you need to know about neuromorphic computing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-23-what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus.md",
       "title": "What Can Tesla And Waymo Learn From A Human’s Ability To Focus",
       "excerpt": "Humans focus to drive while autonomous vehicles try to be knowledge oracles. Perhaps the human approach is better.",
@@ -448,6 +403,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-coronavirus-tests-the-value-of-artificial-intelligence-in-medicine.md",
+      "title": "Coronavirus tests the value of artificial intelligence in medicine",
+      "excerpt": "Dr. Albert Hsiao and his colleagues at the University of California-San Diego health system had been working for 18 months on an artificial intelligence program designed to help doctors identify pneumonia on a chest X-ray.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200522/Coronavirus-tests-the-value-of-artificial-intelligence-in-medicine.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200522/Coronavirus-tests-the-value-of-artificial-intelligence-in-medicine.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200522/Coronavirus-tests-the-value-of-artificial-intelligence-in-medicine.aspx",
+      "publishedDateTime": "2020-05-22T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Coronavirus tests the value of artificial intelligence in medicine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -857,43 +849,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-22-coronavirus-tests-the-value-of-artificial-intelligence-in-medicine.md",
-      "title": "Coronavirus tests the value of artificial intelligence in medicine",
-      "excerpt": "The machine-learning programs scroll through millions of pieces of data to detect patterns that may be hard for clinicians to discern. Yet few of the algorithms have been rigorously tested against standard procedures.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fiercebiotech.com/medtech/coronavirus-tests-value-artificial-intelligence-medicine",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-22T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1590154536/xrays.png?Nd_QGcn8yDOQnMg9dgOFPubBxLmN0BeG",
-          "width": 1350,
-          "height": 900,
-          "title": "Coronavirus tests the value of artificial intelligence in medicine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-22-nvidias-ai-recreates-pac-man-from-scratch-just-by-watching-it-being-played.md",
       "title": "Nvidia’s AI recreates Pac-Man from scratch just by watching it being played",
       "excerpt": "For its latest project, Nvidia researchers taught an AI system to recreate the game of Pac-Man simply by watching it being played. There’s no coding involved, no pre-rendered images for the software to draw on.",
@@ -1098,6 +1053,52 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution.md",
+      "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
+      "excerpt": "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/",
+      "ampWebUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
+      "publishedDateTime": "2020-05-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec5a14ac96258473f89195d/master/pass/ai-illo-backchannel.jpg",
+          "width": 3078,
+          "height": 2000,
+          "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

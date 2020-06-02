@@ -2,43 +2,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2020-05-04-after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms.md",
-      "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
-      "excerpt": "After Facebook invested over Rs 43,000 crore in Jio platforms last month, Reliance Industries Limited (RIL) on Monday announced that US private equity firm Silver Lake will invest Rs 5,655 crore (nearly $750 million) into Jio platforms.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gulfnews.com/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
-      "ampWebUrl": "https://gulfnews.com/amp/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
-      "publishedDateTime": "2020-05-03T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2020/05/04/20200504-jio_171de660947_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-04-dems-deploying-darpa-funded-information-warfare-ai-driven-tool-to-target-pro-trump-accounts.md",
       "title": "Dems deploying DARPA-funded information warfare AI-driven tool to target pro-Trump accounts",
       "excerpt": "Trump Democratic political action committee advised by retired Army Gen. Stanley McChrystal is planning to deploy an information warfare tool that received original funding from DARPA, the Pentagon’s research arm -- transforming technology originally envisioned as a way to fight extremist propaganda into a campaign platform to promote Joe Biden.",
@@ -1038,6 +1001,43 @@
           "width": 4000,
           "height": 2400,
           "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-16-things-to-help-battle-your-social-distancing-boredom-all-on-sale.md",
+      "title": "16 things to help battle your social distancing boredom, all on sale",
+      "excerpt": "These top-selling deals are massively discounted — up to 98% off — for no good reason other than to make your social distancing life a little better. From app subscriptions to online courses to smartphone accessories,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/shopping/may-2-social-distancing-boredom-sale/",
+      "ampWebUrl": "https://mashable.com/shopping/may-2-social-distancing-boredom-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/may-2-social-distancing-boredom-sale.amp",
+      "publishedDateTime": "2020-05-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F05%252F02%252Ff2%252Faac2f06ab7924e4bb5490b401614948f.08afc.jpg%252F1200x630.jpg?signature=Ws8OrHmNrSwXDm02XQM7LOdHNn0=",
+          "width": 1200,
+          "height": 630,
+          "title": "16 things to help battle your social distancing boredom, all on sale",
           "attribution": null
         }
       ],

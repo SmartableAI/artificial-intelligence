@@ -29,19 +29,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 39
-  - title: "New AI tool could predict lung cancer recurrence"
-    excerpt: "Scientists have been working with pathologists to build an artificial intelligence tool that can predict which patients with lung cancer […]"
-    publishedDateTime: 2020-05-28T09:26:00Z
-    webUrl: "https://frontlinegenomics.com/new-ai-tool-could-predict-lung-cancer-recurrence/"
-    type: article
-    provider:
-      name: Front Line Genomics
-      domain: frontlinegenomics.com
-    quality: 39
-    images:
-      - url: "https://frontlinegenomics.com/wp-content/uploads/2020/05/stockvault-artificial-intelligence-concept238841-scaled.jpg"
-        width: 2560
-        height: 1604
 
 secured: "O9l09Dg6pshaNzXBWHB+KvjeiKKA9dC2h4PgUh7rpEHAA8ZDuq37gXSBlelUocSTA/ctJ8z6Yf1lvoe/5OVJ/lzgoHSaJFf1f3rn1LiR6A/h/vkjdxn8qD952fRxyOYDYszW7AKR3+1cAE0k5krDDEVgNpyj+5eCvUQ3MNkmXSyB3DY23LiR8/B02WSFALYEqocDV8KCKhZfs+1+I2hpwT1UuVDLkbxohvVy03cSFyrXq0ZV7OGR/BmNKMTNi/zYjjuKc3pjgbVwk6hbsS+gqO88qPtOIoALtqLAcrn7JMJEFHGc2X1OeM24o9CsXuKHIQAcb5k71NJ4Wlg5bNHZKgoZD8fnGApV+pHIaTIrCYCyzqcIDHPVsIuieotJmvrFNTaaKXkjR0AFareU4f19TglNTfDFljGu9yqEGfsl0Vw0bCzTKuImVMkOMRXvowS7PpOBx+zt22s1baP4Do/dPGuJpLaI19gObJgN+vpvHYo=;0mocQGLC3WB4xV67mUxZZg=="
 ---

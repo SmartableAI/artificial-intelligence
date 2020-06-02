@@ -2,43 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back.md",
-      "title": "AI could predict risk of lung cancer coming back",
-      "excerpt": "Computer scientists working with pathologists have trained an AI tool to determine which lung cancer patients have a higher risk of their disease coming back",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back",
-      "ampWebUrl": "https://www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back?amp",
-      "cdnAmpWebUrl": "https://www-cancerresearchuk-org.cdn.ampproject.org/c/s/www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back?amp",
-      "publishedDateTime": "2020-05-27T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cancer Research UK",
-        "domain": "cancerresearchuk.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cancerresearchuk.org/sites/default/files/lung-cancer-cells-hero_1.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "AI could predict risk of lung cancer coming back",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-27-us-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing.md",
       "title": "U.S. funds AI project to enable millisecond-level 5G spectrum sharing",
       "excerpt": "The Department of Defense is backing an initiative that will enable some 5G spectrum to be efficiently shared by multiple users on a millisecond basis.",
@@ -1088,6 +1051,50 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering.md",
+      "title": "Google AI researchers want to teach robots tasks through self-supervised reverse engineering",
+      "excerpt": "Google and Stanford University researchers propose a technique that has AI predict the steps required to reach a goal state.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/amp/",
+      "publishedDateTime": "2020-05-26T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google AI researchers want to teach robots tasks through self-supervised reverse engineering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -2,51 +2,6 @@
   "page": 43,
   "value": [
     {
-      "path": "_news/2020-04-28-the-challenges-of-developing-autonomous-vehicles-during-a-pandemic.md",
-      "title": "The challenges of developing autonomous vehicles during a pandemic",
-      "excerpt": "Waymo, Uber, Cruise, and others have paused autonomous vehicle testing due to the pandemic. Here's how they're continuing development during lockdown.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/amp/",
-      "publishedDateTime": "2020-04-28T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "The challenges of developing autonomous vehicles during a pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-28-self-driving-car-testing-goes-all-virtual-just-like-everything-else.md",
       "title": "Self-driving car testing goes all virtual, just like everything else",
       "excerpt": "Waymo, the self-driving car company spun off from Google, shut down its robo-taxi service in Arizona and stopped testing its vehicles on public roads because of the coronavirus pandemic. But that doesn't mean driverless car testing isn't still happening.",
@@ -1060,6 +1015,50 @@
           "width": 796,
           "height": 398,
           "title": "Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing.md",
+      "title": "Companies equip cameras with AI to track social distancing and mask-wearing",
+      "excerpt": "Stores and workplaces are equipping existing cameras with AI software that can track compliance with guidelines like social distancing and mask-wearing.",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/27/companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/27/companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing/amp/",
+      "publishedDateTime": "2020-04-27T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_731158624-e1576819636533.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Companies equip cameras with AI to track social distancing and mask-wearing",
           "attribution": null
         }
       ],
