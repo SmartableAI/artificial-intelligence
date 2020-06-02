@@ -31,7 +31,7 @@ related:
     provider:
       name: Raleigh News & Observer
       domain: newsobserver.com
-    quality: 17
+    quality: 34
 
 secured: "MS3g9zeGg2ItrgxQLy5tAyMw00w00yL8T8K+Tw955cwBIVQwKm48blFJ/jDkArlfV9h/CLaU6IG0JXBHue+O9ntXHhrECCaXdZ49RiIWo4/KEHgpKLfAFZdzSz/TSVdgZN7I7pWKNGakXJrUzJoJFMlchFw4Ig+jWwL9jqUFQcyXoY2Wux99zvlKoh5CG2f3M7KiVKgnt0GcKVUg92GE38/NvVOEivK0LM8UbnayQT4UUJ6nZA5fzpqV7dfVPL+6xkMCwUVpqNardiXrBrrkgciB+Q7E2Ey1ElgdJb4HlkzHCOSM4O1OASgUQ8LtD+TZ;ERVMxlZNlla3/BnJUfJ9Dw=="
 ---

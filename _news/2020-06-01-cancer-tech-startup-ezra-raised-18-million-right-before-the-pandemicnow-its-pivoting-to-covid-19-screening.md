@@ -28,6 +28,6 @@ images:
     height: 800
     title: "Cancer Tech Startup Ezra Raised $18 Million Right Before The Pandemic—Now It’s Pivoting To Covid-19 Screening"
 
-secured: "yf3KVHs67iQxUhM/LxANrEdpugDhhvXmCSIzu2AW5FGoT6oyFKTTuwZQR0g9v7/AmA3aRn/rq3xnBWlIyjuV989DwXMNW10ME4/4amuEgQUEfyAWi7zt6yuMtYzNlnR7u4Fp/FBtDqqCASA6LFhx/8QBQNT4wzXExr/tnK2o0AsdbBCtT0fKeg0EoLYyPcWnDqsnGV39GkqmXXZdimk8lx5L3ncGfPea+Fa7U/o+NNSnNS4yzmLVJconJRhB9OKucBqPB+CDOcYxLh7GGtyMuwGDyKGNYiUte3LZ0Du0azSkHGae6AtZ5tSSoFQzzTzf;81RFmfjSCPTrSWQ9efkYXg=="
+secured: "2wUWzyhi8B7FdVqEm0ZSiGVm8PiebNQ2zUs83gQzgZeATzJJkiQ760DI1Xv/UxG1npy21gz56LMxZsj3irbo4fukdgsM4/rd49ZdoShkYMaXeQrdCh6SeLKai5A0iT/lAk65A6CjHhVR9mG0hAxHgvZzpoALrCgYVaeWi0E7anxayRTlQjY39EwFxkUQwXtpq9w7UANNspdeur0Bn0RVeG42ghRWT7XeaRXkLv+er+NeKUInd9UXRGn6Lvl4zZkdlZydAUlbIJioOYKAKbs7XPcF0q04/iF+oQhGy27bznT2KB3iZCiMbiR8OqmUOqb29lmmuh1/ZDabHO0eTGjevhrRqEJSHTvavBOCiITF5fQZbzLMbSt1lZeYzJrCP3I9QCTTpAIn9Vc8VxqsO9xC5+mfjr9ffzzhGxasvYlRsi+trYksj5g/oy06fZKcVeaoC17U/qefWu6ZaYEJCppELetA/+Q+EHwytqT+Ku1i4wE=;1Mlv2Zw3nYkc4jzp+2Zdkw=="
 ---
 

@@ -29,6 +29,6 @@ images:
     height: 628
     title: "MIT learns to make robots less clumsy by putting cameras in their fingers"
 
-secured: "qe1ab3QN/znlIBoGD3kK7E3YLXnqvkNtXsX76uFnLeCHPn6C4/SEDHdGm4eTtBon8+91N9MZAdMwwxs5Ktpu9UB1nZs1Asbz/td1h6KRi4VOvsya0CcoagXU9k0ejLDi5v0/QCmbf6wwqhWQ4D3H8bipmGUwSBr+6Ye1irJaTeoiRI4CXE6zl1QCod204g8UASk37gnh/Xr7Z5meIw/dzhQBgpJ83l4poX35LoFOT/5Fph1fZq/zIbBk76FKCfWtlKQYfPUY0UljBoGoo5q+OP/Wpj1BeFY/8AlgN7C4xJgZ4vm6/1zyu4O21Di26Qfn;y5OMzNgkYZHbD9WTDTBZwA=="
+secured: "aQJQIQbOlqpvi2FUt+HzeOrh6/7ePNB5H3Xbbl+SgB75wuoLdb73ciPSrbQ4AFsMGbR72ODz/RZ1pm2A51jSKIqByJvtQ4vUgGCsc+/qs7nnM1HYeYYOSLErkmbwcJeiWv64lg+U3b3L9OQGysLc/bGIj8LNp/RlgrPF86vXiPsc8pfBZKGGc2sORfiEFZE6Y03u+df7v2O3in3oMHOrJwWWJqkKCOmsAFDPH5szBKksALJxmGeHSmFwrQXwD0j/gSgLU1dQY1Q35RvWNo/GXNigMnDw+0imtzCfNGBhP1MAtCsDqYJ9iJN0WpJh1oLg5aDE2SpyMyG8c/hAnu10GMdH/8iBwX5ZJxRWf+DcjkhHKe6g3iUetJSEvs2rkJHXWSKvuHTvV23BktXZMvtsomoAucy18kwzKgYb3eYFqyuh6xoe2a/5Dva0y33YGWlzW/+6W9GcB/QbUQWWaCV20Ju9NJ/ha93dWkNluEZkU9o=;LF5dBDD9h70qSfbd0iRGZw=="
 ---
 

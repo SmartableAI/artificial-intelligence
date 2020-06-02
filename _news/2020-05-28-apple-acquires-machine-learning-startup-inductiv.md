@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/28/apple-acquires-machine
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 1200
     height: 800
     title: "Apple Acquires Machine Learning Startup Inductiv"
-
-related:
-  - title: "Apple Acquires Machine Learning Startup Inductiv to Improve Siri"
-    excerpt: "Apple has bought Inductiv Inc., a Canada-based machine learning startup, to work on Siri, machine learning and data science, reports"
-    publishedDateTime: 2020-05-28T08:37:00Z
-    webUrl: "https://www.macrumors.com/2020/05/28/apple-buys-machine-learning-startup-inductiv-siri/"
-    ampWebUrl: "https://www.macrumors.com/2020/05/28/apple-buys-machine-learning-startup-inductiv-siri/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/05/28/apple-buys-machine-learning-startup-inductiv-siri/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 59
-    images:
-      - url: "http://images.macrumors.com/article-new/2019/08/siri-waveform.jpg"
-        width: 600
-        height: 450
 
 secured: "r4pYuyMNmsR3aoOwjHp5C9cbNRq1OsbYEFjPOUUEIMHShJTUcygs2+/iW2rZnOwVVM6DUCcv8KGI9aoARgtpvQbiITHvRRkHv3BlhtQ1BP2HtP9qWHTOwYG/pfOCg5lAuolNFZTrTpi4cjbEQLcilxga5nkXFIyt9Gmo5tMzD4VkYlk2AGKr4hXYBcRWxh7Y9G8LdehNVaIMhHFqseKxs+q/CiIlBov8lXCpQ+e9og+j32nfPMXpJYWyJmiwY64ukOw2/I6lwdJOYbufgTlJEj6lKmvctiBI9WJ8ShJsBecuBz0hZlEbZALk0dJzP2QclWFMubJM0yR6tK3fcxjXx4j9JlivooQd9s8JPUAXzJi2IrhesciiWkLDx6Wwgjkb7KTPF7MyWNOJLJnEzDybvb3FdIVjkGvftZyov9xKdUU9hKwp5NMM6Z5cQRnjH74lVQDaYDQX2MWjqnQ6HR+/uX/617nDSPJFqrlg48Bv5+Q=;EVIX6tpncR09uuPLlBm/Zg=="
 ---

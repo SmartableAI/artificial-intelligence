@@ -7,7 +7,7 @@ webUrl: "https://www.newsobserver.com/news/business/article243103416.html"
 ampWebUrl: "https://amp.newsobserver.com/news/business/article243103416.html"
 cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article243103416.html"
 type: article
-quality: 17
+quality: 34
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 related:
   - title: "Chicago police drop Clearview facial recognition technology | Charlotte Observer"

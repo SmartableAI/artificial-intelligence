@@ -7,8 +7,8 @@ webUrl: "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-f
 ampWebUrl: "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -18,6 +18,8 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
+  - AI in Robotics
 
 images:
   - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg"
@@ -25,6 +27,6 @@ images:
     height: 900
     title: "7 AI Stocks That Are Looking to the Future"
 
-secured: "Qycmp6uiVS4lqbO1PoXfJX/3B0TlM2LCe9kmQCHYcg1MD+5jSzEIFChTQAVVAU/UFvndZ4xDgX3kJL97hlgbLXy8TdXhwv3tO1jb1/lVSmsFW5VgptxTKFnyW1b3HYhxnlFp7Y9QhyeI7NCriutgTOo65XAsHhxmhwAlTAIylem8Q3wYD/Pp89qADaYZamUH/Aeyed58HiuXd9LDURQiICpxqYYQE5Cd6DGVtnKwl/uh6rtSIMP1Rl/ZyEGwtCF3IiMKxm2YFd5v5FKd/TsIzFIHYcmbD+mcm2/ziQc6kcPF3VPN6ssNcufCfuCXYn0J;qwaFjPTO+j32ckFSqC+WaA=="
+secured: "wgkwATvK74wYHemSVP21H/WzWKI4ruenlYQrXic8N0FtzUrqw3z5eMyznh93goCzuKh+bgUQDrkhYYazHMn6AZtRF7jQRN5g2dqZOKl4X5pBgNTOXIFgsp2yj5Q/tl+xiKQaWjd/iUC22heFLol0QdLl3mq48ud89U7lWvOd77BXTjjw0+cgFFdKKXYN1ywFzuUxQi1nOzvPrKHE3fui8255pqej6/G+H2hMyto5kN9N+GJQXopUgsoD0pcRHgmdzplcJFBhSxcFSaB0YMPEiYE3MPyG6EgMmjfF4/8H96f8F2C27V6ePty5IlpDF6w0tMtQ5X3RGSIBE4e+t1W1OlXn8X08idiAB0htIZmtsd1Y3wc9zZoPtWprDkRrcm1SoFPlhztodgcgiMGHBe9mqVlBCJdRQKgNIfRrdk/TiB23X70NDdCt9UT6T/JnAh7lkH2MDlEEP6rnvDs9xeKSAXrkqn9ci9CSXlLtQmMnoAs=;GH5BbXn9v0jbNXrRwaJcAQ=="
 ---
 
