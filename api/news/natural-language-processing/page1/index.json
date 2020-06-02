@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-02-this-voice-recorder-looks-like-a-cassette-tape-and-uses-ai-to-transcribe-10-languages.md",
+      "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
+      "excerpt": "It’s said to support 10 languages, including English, Japanese, Korean and Spanish. The company also says it supports 12 Chinese dialects, including Cantonese. It also looks nothing like a pen, though older people tell me it actually resembles something called a cassette tape.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10",
+      "publishedDateTime": "2020-06-02T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/02/image2.png?itok=6NP11nIO",
+          "width": 1200,
+          "height": 630,
+          "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-remember-s-voice-samsung-is-finally-shutting-it-down.md",
       "title": "Remember S Voice? Samsung is finally shutting it down",
       "excerpt": "Samsung introduced its Bixby voice assistant back in 2017, and it’s served as the first-party assistant on Samsung gadgets ever since. But this wasn’t Samsung’s first voice assistant, as that would be S Voice.",
@@ -367,7 +412,7 @@
       "path": "_news/2020-05-28-aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations.md",
       "title": "ACLU sues facial recognition startup Clearview AI for privacy and safety violations",
       "excerpt": "The ACLU claims Clearview AI \"will end privacy as we know it if it isn't stopped\" and calls the startup a threat to safety.",
-      "heat": 130,
+      "heat": 120,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/",
@@ -1285,44 +1330,6 @@
         "AI",
         "Natural Language Processing",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-openai-finds-machine-learning-efficiency-is-outpacing-moores-law.md",
-      "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
-      "excerpt": "OpenAI researchers outline a new way to measure AI efficiency, and using their measure, they show AI has been getting more efficient at a wicked pace.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/",
-      "ampWebUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
-      "publishedDateTime": "2020-05-17T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/05/frankie-lopez-sMzlrCmZSwY-unsplash-2.jpg",
-          "width": 1408,
-          "height": 793,
-          "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

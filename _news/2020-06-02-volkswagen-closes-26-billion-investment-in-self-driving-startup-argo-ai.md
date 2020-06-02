@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2390E6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2390E6"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -41,6 +41,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Ford Shares Gain After Volkswagen Closes $2.6 Billion Investment in Self-Driving Venture Argo AI"
+    excerpt: "Volkswagen, the world's second-biggest carmaker, has pumped $2.6 billion into Argo AI, a self-driving vehicle company it jointly owns with Ford."
+    publishedDateTime: 2020-06-02T10:32:00Z
+    webUrl: "https://www.thestreet.com/investing/ford-gains-on-2-6-billion-vw-investment-in-self-driving-jv"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/ford-gains-on-2-6-billion-vw-investment-in-self-driving-jv"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ford-gains-on-2-6-billion-vw-investment-in-self-driving-jv"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 46
+    images:
+      - url: "https://content.jwplatform.com/thumbs/az6hPvaf-720.jpg"
+        width: 720
+        height: 406
   - title: "Self-driving start-up Argo ties up with Germany's Volkswagen in $2.6bn investment"
     excerpt: "VW’s investment includes a $1bn cash infusion and the folding of its $1.6bn Autonomous Intelligent Driving unit into Argo"
     publishedDateTime: 2020-06-02T05:13:00Z

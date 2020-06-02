@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-20-startup-spotlight-forestry-machine-learning-wants-to-help-clients-use-artificial-intelligence-to-improve-business.md",
+      "title": "Startup Spotlight: Forestry Machine Learning wants to help clients use artificial intelligence to improve business",
+      "excerpt": "I also want to bring to the table my experience now from the financial services industry.” While machine learning can be utilized by many organizations, Der said the startup is targeting three ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.richmond.com/business/startup-spotlight-forestry-machine-learning-wants-to-help-clients-use-artificial-intelligence-to-improve-business/article_d2c28a08-e479-593f-af46-2b9ad134b42d.html",
+      "ampWebUrl": "https://www.richmond.com/business/startup-spotlight-forestry-machine-learning-wants-to-help-clients-use-artificial-intelligence-to-improve-business/article_d2c28a08-e479-593f-af46-2b9ad134b42d.amp.html",
+      "cdnAmpWebUrl": "https://www-richmond-com.cdn.ampproject.org/c/s/www.richmond.com/business/startup-spotlight-forestry-machine-learning-wants-to-help-clients-use-artificial-intelligence-to-improve-business/article_d2c28a08-e479-593f-af46-2b9ad134b42d.amp.html",
+      "publishedDateTime": "2020-03-20T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Richmond",
+        "domain": "richmond.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/f2/3f239e0c-da2a-5357-b24b-0472b9339c55/5e739e48844cc.image.jpg?resize=1024%2C709",
+          "width": 1024,
+          "height": 709,
+          "title": "Startup Spotlight: Forestry Machine Learning wants to help clients use artificial intelligence to improve business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-how-machine-learning-improves-banks-customer-experience.md",
       "title": "How Machine Learning Improves Banks’ Customer Experience",
       "excerpt": "Improved machine learning algorithms are pushing this process into the mainstream as a way for banks to significantly improve customer service. Here are four ways financial firms are using machine learning algorithms to their advantage. Customers applying for credit or looking for loan application approval historically waited weeks. Now ...",
@@ -1056,43 +1093,6 @@
           "width": 1200,
           "height": 630,
           "title": "Machine Learning Market Growth Factors, Product Types and Application by Regions Analysis and Forecast by 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-nec-x-and-vaco-partner-on-ai-machine-learning-solution.md",
-      "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
-      "excerpt": "This AI platform runs VACO’s proven Cognitive Computing Framework and can be scaled with the exact number of vector engine (VE) cards needed to process large data sets in real time, for use in machine learning (ML) applications such as PII redaction and GDPR compliance for banking, financial services and insurance (BFSI), as well as several ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hpcwire.com/off-the-wire/nec-x-and-vaco-partner-on-ai-machine-learning-solution/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/necx-vaco-press-image-final-300x225.png",
-          "width": 300,
-          "height": 225,
-          "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
           "attribution": null
         }
       ],

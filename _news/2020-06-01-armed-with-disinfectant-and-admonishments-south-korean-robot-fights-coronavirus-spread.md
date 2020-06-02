@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23816M"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23816M"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread"
 
 related:
+  - title: "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread"
+    excerpt: "Please take part in social distancing,” the white robot firmly but politely reminds three SK Telecom employees who stand chatting nearby. Corporate Korea has long been used robotics for tasks including manufacturing and cleaning,"
+    publishedDateTime: 2020-06-02T11:57:00Z
+    webUrl: "https://tribune.com.pk/story/2233820/8-armed-disinfectant-admonishments-south-korean-robot-fights-coronavirus-spread/"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 31
+    images:
+      - url: "https://c.tribune.com.pk/2020/06/2233820-s-1591089869.jpg"
+        width: 640
+        height: 426
   - title: "Armed with disinfectant and admonishments, S.Korean robot fights coronavirus spread"
     excerpt: "SEOUL, June 1 (Reuters) - A self-driving robot equipped with cameras and an LED screen greets visitors at the lobby in the headquarters of South Korea's largest mobile operator, checking their temperature,"
     publishedDateTime: 2020-06-01T03:43:00Z

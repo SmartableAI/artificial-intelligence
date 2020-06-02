@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-27-vw-admits-teslas-lead-in-software-and-self-driving-in-internal-leak.md",
+      "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
+      "excerpt": "Volkswagen CEO Hebert Diess has admitted that Tesla has a significant lead when it comes to software and its use in its self-driving program, according to leaked internal communications. Tesla pioneered over-the-air software updates in the auto industry.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/",
+      "ampWebUrl": "https://electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/amp/",
+      "publishedDateTime": "2020-04-27T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/Tesla-matrix-hero-post-e1583107083706.jpg?quality=82&strip=all&w=1000",
+          "width": 999,
+          "height": 499,
+          "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-chinese-self-driving-truck-startup-inceptio-raises-100-mln-sources.md",
       "title": "Chinese self-driving truck startup Inceptio raises $100 mln -sources",
       "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, has raised $100 million in its latest funding round from logistics firm GLP, its key strategic investor G7 and other investors, two sources familiar with the matter told Reuters.",
@@ -1216,51 +1261,6 @@
           "width": 1200,
           "height": 600,
           "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may.md",
-      "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
-      "excerpt": "Two of China’s leading self-driving car firms Didi Chuxing and AutoX are reportedly set to launch their ... The race to be among the first to launch commercial autonomous ride-hailing cabs have been raging in China with Pony.ai and Baidu at the forefront. AutoX and Didi are aiming to become among the first to get the nod to commercialize ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/",
-      "ampWebUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp",
-      "publishedDateTime": "2020-04-16T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/auto-x.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
           "attribution": null
         }
       ],

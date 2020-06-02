@@ -2,6 +2,140 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-01-jeff-bezos-is-buying-a-stake-in-uk-digital-supply-chain-startup-beacon.md",
+      "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
+      "excerpt": "Based in London and founded in 2018, Beacon's investors already include executives from Uber, Google and Amazon, the firm says.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
+      "publishedDateTime": "2020-06-01T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106284164-1575739700440gettyimages-1079533948.jpeg?v=1587656573",
+          "width": 5000,
+          "height": 3334,
+          "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-artificial-intelligence-market-to-experience-significant-growth-during-the-forecast-period-2020-2025.md",
+      "title": "Artificial Intelligence Market To Experience Significant Growth During The Forecast Period 2020-2025",
+      "excerpt": "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-experience-significant-growth-during-the-forecast-period-2020-2025-2020-06-01",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Market To Experience Significant Growth During The Forecast Period 2020-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-armed-with-disinfectant-and-admonishments-south-korean-robot-fights-coronavirus-spread.md",
+      "title": "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread",
+      "excerpt": "A self-driving robot equipped with cameras and an LED screen greets visitors at the lobby in the headquarters of South Korea's largest mobile operator, checking their temperature, dispensing hand sanitiser and disinfecting the floor.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-southkorea-robots-idUSKBN23816M",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23816M",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23816M",
+      "publishedDateTime": "2020-05-31T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200601&t=2&i=1520590902&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG50147",
+          "width": 818,
+          "height": 545,
+          "title": "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai.md",
       "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
       "excerpt": "A presentation in April by AI chip company Tenstorrent described future neural networks with over one trillion parameters. For a good part of the machine learning community, bigger and bigger language model is going to remain the state of the art.",
@@ -1146,134 +1280,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-owkin-raises-25m-to-enhance-medical-research-machine-learning-and-collaboration.md",
-      "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
-      "excerpt": "Owkin is fueling collaborative medical research using machine learning while being compliant with privacy laws. Thomas Clozel discusses the unique benefits of Owkin.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/",
-      "ampWebUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
-      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
-      "publishedDateTime": "2020-05-29T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/05/Owkin_Thomas_Clozel.001.jpeg",
-          "width": 1000,
-          "height": 537,
-          "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters.md",
-      "title": "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters",
-      "excerpt": "OpenAI's GPT-3 language model can generate convincing news articles and achieve state-of-the-art results on a range of NLP tasks with few-shot learning.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/amp/",
-      "publishedDateTime": "2020-05-29T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians.md",
-      "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
-      "excerpt": "Amazon's Rekognition software is still struggling with basic facial recognition, according to Comparitech, in a follow-up to an ACLU experiment.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
-      "publishedDateTime": "2020-05-29T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/28/b27f8b73-da86-416d-96d9-0afaac4c2e15/resize/1200x/90102f6995c214b9720d28c40b5482a8/istock-1180918334.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

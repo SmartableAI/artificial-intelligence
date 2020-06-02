@@ -3,7 +3,7 @@ category: news
 title: "Hyundai To Improve Smart Logistics Solutions With Korea Telecom"
 excerpt: "Hyundai Construction Equipment is progressing the capabilities of its smart logistics solutions by signing a Memorandum of Understanding (MoU) with Korea Telecom (KT)."
 publishedDateTime: 2020-06-01T12:30:00Z
-webUrl: "https://www.supplychaindigital.com/technology/hyundai-improve-smart-logistics-solutions-korea-telecom"
+webUrl: "https://www.supplychaindigital.com/technology/hyundai-improve-smart-logistics-solutions-korea-telecom-0"
 type: article
 quality: 39
 heat: 39
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.supplychaindigital.com/sites/default/files/styles/slider_detail/public/topic/image/GettyImages-901807090.jpg?itok=9v03UG6a"
+  - url: "https://www.supplychaindigital.com/sites/default/files/styles/slider_detail/public/topic/image/GettyImages-901807090_1.jpg?itok=37TmM06E"
     width: 778
     height: 518
     title: "Hyundai To Improve Smart Logistics Solutions With Korea Telecom"
 
-secured: "v2TjEkR6gr/cmTixQO4/EmXd/I/zBSddaJq8BxQTuGKFAQSEH2DW9bFXCBG9hKRPPR0pw8E5YWT9tH8dasbGjPX7bk+zwfXRfKGnLfVD03SFtNqMPgNeOdiVaAR+C1Vlv/ymIPwFY9PgiEqPImqc0WzYPsIgus2xL+DScD4OSesz+wFS2URHbw6yCBhXd3GgBVpjRd7J8ZuyVhwdybF5TBc8VYxf2TO65BBvs7JFNsisYyHxZjrcV7hGil2ARk2xeRGGmR/POA+dnnKU8aK/cR1VWXVV3mOVZpf73E0v217UsPFUk4IzNKmGA7sI9Fpb;rsx0Ul/Z6xRB1Pgcx20OxA=="
+secured: "3hY7KOP58uOYWATdp7D8uqeoP09W4uqNHRd17fBUzJ/DUL2Nq2BYFFzz8bhYUEUFAi8xEdEuyRfwj3ggcz1vKO1d6MgWV4VpNaF3nffyIKNnLhQdUzdm8BwAr9t4i9KqWzJlm8BXpNnhs74MDuDJarMfd9bKVYjeC2lZ6zjljPmVeSC1bBNOIMcUyJU5xKj876bINbKQmMcjiGloUraaCo+02c8RzIQl4QL2/z5KGwzLOSn5e7aPPnmWajxSCPMeflZ5dOjm6q6B+XnTMVMYJwYwmaWVsNHE48rhrHapM0IPvC+fnVA65OQ2+oF5yIDU;va7fRFHh5Jg57+QUJUawGg=="
 ---
 

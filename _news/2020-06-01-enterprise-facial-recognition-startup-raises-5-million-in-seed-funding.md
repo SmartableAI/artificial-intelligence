@@ -5,8 +5,8 @@ excerpt: "The round was led by Emergent Ventures, with additional contributions 
 publishedDateTime: 2020-06-01T00:00:00Z
 webUrl: "https://findbiometrics.com/enterprise-facial-recognition-startup-5-million-seed-funding-060102/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://findbiometrics.com/wp-content/uploads/HiRes-23-e1471887350203.jpg"
@@ -23,6 +24,6 @@ images:
     height: 800
     title: "Enterprise Facial Recognition Startup Raises $5 Million in Seed Funding"
 
-secured: "ppCQfJwoTUnV01hYvAaMFEq4C1pt2oq1KRHuf1XpFnZd1bGK7eKQy6+r5FJtYDha1itDVmZ82rfMLikaYcEguhXSrnGitHMfEqCMsCE4dd9wiCpDNQ39L9r/jBDROmyWvftm4GHV5/xX5l1ZvvXxSnh9vgQcTa9AWhQjRXmS1KppWk0qkcccdOFxE+Ozw+Ni8hbB13KldX6BoCRSk5koutM9u4RdeHJYcqV+hof/RVUIwa0na95CJ+krYxF1tOyWxCHQflofc0uYtTG3t2c5fyMFs+8bMUSCs4KIAs9IXC9SJdfhRitWUmlSBQJQlNtq;MSf5+v7/sUiTYdEBnXv6rg=="
+secured: "QNzvQrBky9vjeFwpaQVNiJM84zK8X8B7iDL8KjuefGfZ9+mmpPM/fm+S4n3PE537zQuBE6/hloxJzi9w8PlQVtYpqMXekendqtane6O1+0A1fkAZNrt0I0GEy691QkmCGQ3moKrR9u3+BrJ0k1R58glTeOnx/oQL7bryXJGSUZNIYTYkk5rQdYSCvxrmy9Mu9X/tQI18X+qp5auSGyn+XL1te2/+WT1RH2nKXn8XbmHm2OrBXPeOuIbTbTfML2Q+ZkhMYk6nYaeP4E7VRdy3AFsZYYv/jTvottqdM6aSxngba+Uvk49Q3sUBdaWEuXehrE9w8Dq7oWwwqdwyPPftrWBV5T33Y1jsClWMyvwxD7lRR3NtP9V4D2T1+1v94+tBp2Y7rJED8bJ8akTzatx5JquybJ2Og08gM+7EbquGZtYjveUX8jbeJ3Ip6ENlL3tz0Cy4CEHEJT1mJap9MA2VmB+u6v0ON7YRitaMxU5tOio=;qUcf4ZURCocbISnDTYR4Lg=="
 ---
 

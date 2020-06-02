@@ -52,6 +52,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Ford Shares Gain After Volkswagen Closes $2.6 Billion Investment in Self-Driving Venture Argo AI"
+    excerpt: "Volkswagen, the world's second-biggest carmaker, has pumped $2.6 billion into Argo AI, a self-driving vehicle company it jointly owns with Ford."
+    publishedDateTime: 2020-06-02T10:32:00Z
+    webUrl: "https://www.thestreet.com/investing/ford-gains-on-2-6-billion-vw-investment-in-self-driving-jv"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/ford-gains-on-2-6-billion-vw-investment-in-self-driving-jv"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ford-gains-on-2-6-billion-vw-investment-in-self-driving-jv"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 46
+    images:
+      - url: "https://content.jwplatform.com/thumbs/az6hPvaf-720.jpg"
+        width: 720
+        height: 406
   - title: "VW closes $2.6bn investment in self-driving start-up Argo AI"
     excerpt: "German car maker Volkswagen AG has closed its $2.6bn (roughly R45.1bn) investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post on Tuesday."
     publishedDateTime: 2020-06-02T07:04:00Z

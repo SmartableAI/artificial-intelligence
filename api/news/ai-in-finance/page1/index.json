@@ -267,6 +267,36 @@
       ]
     },
     {
+      "path": "_news/2020-05-15-accelerating-machine-learning-means-new-hardware.md",
+      "title": "Accelerating Machine Learning Means New Hardware",
+      "excerpt": "Machine-learning algorithms can run on microcontrollers, but for complex applications, one really needs hardware acceleration.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21131474/accelerating-machine-learning-means-new-hardware",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-15T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-sparkcognition-and-milize-to-offer-automated-machine-learning-solutions-for-financial-institutions-to-the-apac-region.md",
       "title": "SparkCognition and Milize to Offer Automated Machine Learning Solutions for Financial Institutions to the APAC Region",
       "excerpt": "Based on SparkCognition's international success in fielding machine learning systems in financial services, MILIZE will offer a fraud detection and anti-money laundering solution, built with ...",
@@ -1202,43 +1232,6 @@
           "width": 600,
           "height": 450,
           "title": "Fintech Solution Provider FIS’ VC Division to Invest $150 Million in High-Potential Financial Tech Companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech.md",
-      "title": "lnfibeam Avenues signs deal to acquire US company AI Fintech",
-      "excerpt": "Avenues has signed a binding agreement for acquisition of 100% Shareholding of AI Fintech, Inc, a Company formed and registered in USA Accordingly, AI Fintech, Inc will become a Wholly Owned Subsidiary of the Company.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.indiainfoline.com/article/companies-announcements-bse/lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech-120042500249_1.html",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/companies-announcements-bse/lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech-120042500249_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/companies-announcements-bse/lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech-120042500249_1.html",
-      "publishedDateTime": "2020-04-27T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": "lnfibeam Avenues signs deal to acquire US company AI Fintech",
           "attribution": null
         }
       ],

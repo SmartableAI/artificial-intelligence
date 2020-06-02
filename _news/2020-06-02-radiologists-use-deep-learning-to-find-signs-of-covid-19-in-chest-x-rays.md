@@ -23,6 +23,6 @@ images:
     height: 960
     title: "Radiologists use deep learning to find signs of COVID-19 in chest X-rays"
 
-secured: "zX8UjjCwPcFvKbZ008muyKD1NfZvoJQuR+DM2sFXvH5gIF8E+A4au2CKrmthe4UirVjnQGs1e+PGKjoE8Qi1HFp3FfD+GENgjsg3FUtjpvBOgS0h97MI4/egHSPPt20cQyDtyJ7r0XoLhbtkSXoKuBqOdcEliI8Ob46tY87cAGHviRhb9aRFWL+yB0JrUgLzcxAgbhVlL6f3LkYsz8WtgFz3zQkyKX7bcIS3i9vr34U/kf45XuF1pMvkkpNdDfmkypFSar7iD2BQ/YXp/4YZ2xBaLwX+gN1fDmtqhzA5dS0Bhdgz04dGEgJEUilq+3PN;8KxKrnI9TSKiOikmzPTYxw=="
+secured: "Y5lkyNWgmTFmVJbu5w8e282hMZPPZiheBDJhqbHTK6UV2leaT8Fz0LInAS9/dgkWCah4sNoaw4aYFn2uJRWo8a0LnziN4tRSXo3bxped92/Ckch+DLi2AWLoohWtg7OuXDhmRfS0rHLdpWqVUADKRHtktIn+BDsnRMZ+NVkweBDxJNecHIymnmHholcunbUkvSaoIBnkw+P6jw/glVRzfVEiEm9PEctnfVH01V12+qK4K1Sz0dgfiEfNHnxNGeOKDghToP2O6p83r2EooXM+C43euTDgZXPLfOOHkQl0KACrVmg9Lo1w3ThqD7tMh1g7v1gIIm7x8HpjM09qnlO//yY+Oj7yMvca15R2/BhPW2mjh/eaw9WYLRs4OSzotLYxDZ4FT7+0YFTA+6gcg/QjtN0YmkcFBTNQcZ36WzVkIT3jLpV62MTDgQ/fGl3s/epVaat3pylOR2iK0392j/qTriSwArKQ3btxansw5o4lvaE=;QgSub+cREK9heNu6gl2n8w=="
 ---
 

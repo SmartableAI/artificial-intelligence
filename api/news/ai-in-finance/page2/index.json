@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-27-lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech.md",
+      "title": "lnfibeam Avenues signs deal to acquire US company AI Fintech",
+      "excerpt": "Avenues has signed a binding agreement for acquisition of 100% Shareholding of AI Fintech, Inc, a Company formed and registered in USA Accordingly, AI Fintech, Inc will become a Wholly Owned Subsidiary of the Company.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.indiainfoline.com/article/companies-announcements-bse/lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech-120042500249_1.html",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/companies-announcements-bse/lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech-120042500249_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/companies-announcements-bse/lnfibeam-avenues-signs-deal-to-acquire-us-company-ai-fintech-120042500249_1.html",
+      "publishedDateTime": "2020-04-27T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": "lnfibeam Avenues signs deal to acquire US company AI Fintech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
       "title": "AWS launches human review service for machine learning models",
       "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
@@ -1185,43 +1222,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-startup-spotlight-forestry-machine-learning-wants-to-help-clients-use-artificial-intelligence-to-improve-business.md",
-      "title": "Startup Spotlight: Forestry Machine Learning wants to help clients use artificial intelligence to improve business",
-      "excerpt": "I also want to bring to the table my experience now from the financial services industry.” While machine learning can be utilized by many organizations, Der said the startup is targeting three ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.richmond.com/business/startup-spotlight-forestry-machine-learning-wants-to-help-clients-use-artificial-intelligence-to-improve-business/article_d2c28a08-e479-593f-af46-2b9ad134b42d.html",
-      "ampWebUrl": "https://www.richmond.com/business/startup-spotlight-forestry-machine-learning-wants-to-help-clients-use-artificial-intelligence-to-improve-business/article_d2c28a08-e479-593f-af46-2b9ad134b42d.amp.html",
-      "cdnAmpWebUrl": "https://www-richmond-com.cdn.ampproject.org/c/s/www.richmond.com/business/startup-spotlight-forestry-machine-learning-wants-to-help-clients-use-artificial-intelligence-to-improve-business/article_d2c28a08-e479-593f-af46-2b9ad134b42d.amp.html",
-      "publishedDateTime": "2020-03-20T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Richmond",
-        "domain": "richmond.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/f2/3f239e0c-da2a-5357-b24b-0472b9339c55/5e739e48844cc.image.jpg?resize=1024%2C709",
-          "width": 1024,
-          "height": 709,
-          "title": "Startup Spotlight: Forestry Machine Learning wants to help clients use artificial intelligence to improve business",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
