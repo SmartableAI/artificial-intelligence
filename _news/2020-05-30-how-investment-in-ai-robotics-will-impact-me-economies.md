@@ -39,6 +39,19 @@ related:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
         height: 878
+  - title: "UAE- How investment in AI, robotics will impact ME economies"
+    excerpt: "While most organisations are looking to adapt their businesses in the light of the 'digital' tsunami, the technologies that have seen the highest levels of adoption and interest are undoubtedly Artificial Intelligence (AI) and Robotic Process Automation (RPA)."
+    publishedDateTime: 2020-06-02T07:16:00Z
+    webUrl: "https://menafn.com/1100248937/UAE-How-investment-in-AI-robotics-will-impact-ME-economies"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 69
+    images:
+      - url: "https://menafn.com/updates/pr/2020-05/31/KT_0c7a6f72-1image_story.jpg"
+        width: 780
+        height: 439
 
 secured: "SzmdeGiGt8gpgBMPVCw7upwEP01ZmseBI12zP4N1HGvLCC9nh6YhLzFvGqFBAcW3bngqvyZKUJ+DyW3QXeMNKMKVq2NBXf8BiKpdLPNsI0D0xNl/Tx+TV28QrZzn6umK+XLzDH2emdbmv9eVPbuHrrzIaNLHQZFjn1HkPUMxmQrR9yNAX7HrjPVB+EddwB8YDoWlRPihc8a6wO35jNINSCR4G2zQhQEtxjmrYy66bMzcPui2Y9Ilbhn47bvdgImNYQTDbpfEy8VfiajxvSeOAxfbmMKihk0pcCtS8a35cz6MJ6CtRr47FVLkrddPWqSk6xLwKy1OXdOeWy5aP63JUoXHsl6u5x6Ce6sV7ITBX1+JwZaWC10bMGFXW/vXD9ZAf+ukjKoEJdwkMqFaaqmF3SMOOyf4cnlNiGAVsQGJUWLJRgonXXY2wq2dI7FTeK5bOK33c+yPX6D5qgeqa8p1OVeZDk7ftDvnFGCVqaU6O6c=;2H1j91uu+ELscFbfiNmhug=="
 ---

@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | Use of Industrial IoT to Boost Growth | Technavio"
+    excerpt: "Technavio has been monitoring the global artificial intelligence (AI) market in manufacturing industry and it is poised to grow by USD 7.22 billion during 2019-2023, progressing at a CAGR of about 31% during the forecast period."
+    publishedDateTime: 2020-06-02T03:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200601005543/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 22
+    images:
+      - url: "https://mms.businesswire.com/media/20200601005543/en/795148/23/IRTNTR32119.jpg"
+        width: 1200
+        height: 627
 
 secured: "scrglwrGDU42NllqkEEZ45pW7i0qUc4RV9YDuPS8rOx/k+ihpyjiB865iJka06aaDn8KuwoQiKP8EdrwggdXiQP6S5V2Nff5xIB8Gqq1vEeCjUKBacZrOzq/HJUI47yKmN13g76QJDpBHKg2uDkXfTuzQ/+8d5ky3STgY7YZRr7M4bWxN3UiSReGtssFfYNnA2QU+0XgNjiyP9HpS+x7dvpy5gcZWMP7nFtM3oB4Y3RmAeCGgSo9fhDVgo6P+2rlVoP2uRbhu1ulztR2i0bSOZJI1dC/IEWEC2ENP9OUG5SxRtZ2GWLvZ0J3c/J7uECk;3lSt5BvWqm/KuonJLCM3fA=="
 ---

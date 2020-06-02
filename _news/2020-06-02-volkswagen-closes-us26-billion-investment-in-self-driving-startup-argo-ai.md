@@ -34,7 +34,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200602&t=2&i=1520732535&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5109U"
         width: 841
@@ -65,7 +65,18 @@ related:
       - url: "https://www.thenational.ae/image/policy:1.1027662:1591074780/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
         width: 1200
         height: 675
+  - title: "VW closes $2.6bn investment in self-driving start-up Argo AI"
+    excerpt: "German car maker Volkswagen AG has closed its $2.6bn (roughly R45.1bn) investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post on Tuesday."
+    publishedDateTime: 2020-06-02T07:04:00Z
+    webUrl: "https://timeslive.co.za/motoring/motorsport/2020-06-02-vw-closes-26bn-investment-in-self-driving-start-up-argo-ai/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/motorsport/2020-06-02-vw-closes-26bn-investment-in-self-driving-start-up-argo-ai/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/motorsport/2020-06-02-vw-closes-26bn-investment-in-self-driving-start-up-argo-ai/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 39
 
-secured: "TqnPRh6ulEZiwl5CO4Ifvhrdlp9KELrQoiUvl9e5borl2uLrYdc71SEk71D4jyjq9ychzjG9Rl0szhgLpAGRRto8erqqLnyReuAOz9rjr0CW8j6edWanNNIM1Z3dZszaWXEf1bgMDd3TC7+76xMv8Lyp9+so/Lf8pKaHhhIgO3BFVUTrb0JiJxKgOruMQl0rNqZx81hRAIxavcgc83caWv87NE+j0prpr4GywuXq0P1LLFJ05OjSTHy3c8KcqMKxFg8cPmQBD6D5IUEFYksy9KyoORnxSAxPAbQAccyMRUTug7W9oNZQHWYJ+dumzJ03;lroNgT7826JL/CmyrP7qLw=="
+secured: "L46btOsV8tnKIKoNd5DSfwudbxX3HKZwE18//kwUnr6lj+ncsgjra25uHjkHwXRX0QMLP8QQutlech6RwnstfOffb5fuiVsIWIGoxiT/9dptmLKNi7N1waE8GKOIPHl2ukXboWCMq5hvGY6lTtS/X21W1moLtE0XRirHsdi/CIOCHLB/Y9BOMkqs9QRNCRyrodh3VjPLh6jwCg7Lq7b1kg3DgrL2PYEmUvIJq5/uNsLkNcIaDeiLR9pPghO6TW2G6FuH31eSKZqqfti9zuFYJGpLmevT27eaFkcNFFuN5DrLcncpzrv3Eqn5bePQOuwlrinMPDcyuFa5n2W+eadznNp/zDsskB0aJlDGbX5I9wEgAk4oysTFb/IJ3m0D177OHb4opjz6gS+/4BL6NSiqm3Zz0Ib9FbuDajH6ICsoxBbCGNN67tnrrG0zKTnYxtiuNTZ/NF2a01QL28atVLaujCinD5RKoGmMdbmbGFe4Tbs=;XAUOuIEwySR/73aSILPclg=="
 ---
 

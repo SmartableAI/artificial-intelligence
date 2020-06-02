@@ -5,7 +5,7 @@ excerpt: "Eleven months after Volkswagen Group announced a $2.6 billion investme
 publishedDateTime: 2020-06-02T04:01:00Z
 webUrl: "https://www.autonews.com/mobility-report/vw-finalizes-investment-self-driving-tech-company-argo-ai"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -14,7 +14,6 @@ provider:
   domain: autonews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -39,7 +38,22 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/7PbtLT6iMpt6eKDYw0cRPWAFGLo=/2019/09/25/4f3ce380-0cb8-44fd-a15a-8cbc15b49217/ogi-ford.jpg"
         width: 1200
         height: 630
+  - title: "Self-driving vehicle startup Argo AI completes $2.6B deal with Volkswagen, expands to Europe"
+    excerpt: "Volkswagen Group finalized Tuesday its $2.6 billion investment into Argo AI, the Pittsburgh-based self-driving car startup that came out of stealth in 2017 with $1 billion in backing from Ford. The deal turns Argo into a global company with two customers — VW and Ford — as well as operations in"
+    publishedDateTime: 2020-06-02T06:47:00Z
+    webUrl: "https://techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-completes-2-6b-deal-with-volkswagen-expands-to-europe/"
+    ampWebUrl: "https://techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-completes-2-6b-deal-with-volkswagen-expands-to-europe/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-completes-2-6b-deal-with-volkswagen-expands-to-europe/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 76
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024"
+        width: 1024
+        height: 683
 
-secured: "r57MlaIm9bJxq9fSAo8m0THr5EtFaoLUm/ou4IImagrWl1KAojrgrqjiHhKatbdu/3iYVKf+pHknRAlvis3E/fR3GN6EYpo2+CCqvLFiRIyGpx5FTWkiD4EHnDzLtY85yZSKhMGNytNxXcL50YRE32Z9pSOwSbXBD0VxL+NwBkGRvuQPoNComqmxc/KQ2FgBMV+0Andd12xXOrK8Tdeu+cJPCrL8M2r31NTs48RDskPCJXCMEXZqAP3P/MlISgM4rrR0togT3aK5ArhdEVqeHTE4vpZdnIMAFKvbC/0BruwavStWeHKhq2YYcdIpWmxz;skO1V8al0kSuDojU7brjYw=="
+secured: "8AcNc04Ckanxeh48VIeFmAUTYEMMfpmEgN5+5AsY8PQ85J2j3DNEIY2ySBuGvNW1GHjDDzyAJ5PI2LTavuYKaXxz29hFcztYAxfJglCcp0wNxQFxrShxepKTtR7BYbOGON25iIm9l81o2A6Cgw8l/RwIVgZpsDZoXwsTkbgPa0n4QrWRWhYf2x3I2OrDNKlwE45c6SJ7VM1Y9aH9WHYXjngTavkWiOcgg+2rkr0RaDezChNiQ4xLPZrtP0TQqoYieQoHfWcUXP9JkeTpMWUelHIV5CPuPgH8JtOjMRWsZnCerIG2xHobk7S8nQv8EopF;Veb6lAELeQiXSktC/ZVUVg=="
 ---
 

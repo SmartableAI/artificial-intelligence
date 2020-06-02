@@ -26,18 +26,16 @@ images:
 
 related:
   - title: "In virus-hit South Korea, AI monitors lonely elders"
-    excerpt: "In a cramped office in eastern Seoul, Hwang Seungwon points a remote control toward a huge NASA-like overhead screen stretching across one of the walls. With"
-    publishedDateTime: 2020-05-31T03:06:00Z
-    webUrl: "https://apnews.com/81029d7e8e40fcba4e2b23b880756300"
+    excerpt: "In a cramped office in eastern Seoul, Hwang Seungwon points a remote control toward a huge NASA-like overhead screen stretching across one of the walls. With each flick of the control, a colorful array"
+    publishedDateTime: 2020-05-31T03:07:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/in-virus-hit-south-korea-ai-monitors-lonely-elders/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/in-virus-hit-south-korea-ai-monitors-lonely-elders/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/in-virus-hit-south-korea-ai-monitors-lonely-elders/?amp=1"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/0afbbec489fe48cf8108eec1c6bc7ea3/3000.jpeg"
-        width: 3000
-        height: 2000
 
 secured: "6I0YavnTocgx1rFmy8AkIevfSxnMDz/1Gh2LFRq5bL+rTYzDgFTM6DQS845PEEByl2irRscZihcCqZDk4ciQNGGraybHAk2bhht1fB/frzrabxqfCgx4y61yL9AeSZauhPNkdDCJ9pAHP5GUjig1q4vaCmCu5gL+mfcQqbDRxjaNmAU0qAgi3td2c0P9XqjW0aIo5yz+Rnujr7bt12zMMDDYAAsUeeE/nF7P3d5Sg3Ffj2E8w6MeFb/ARwLpzczmA7pJFEv3dnGAjk2R3ACtTrhwRbs7hwJICEasRVNe3AZuy7D0pvVQ0oDtmK+ns/cY;/2p7rUZH/7XH4M4Ila94Xg=="
 ---

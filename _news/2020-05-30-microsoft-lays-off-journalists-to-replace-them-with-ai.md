@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-n
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -137,6 +137,19 @@ related:
       - url: "https://ocdn.eu/pulscms-transforms/1/jzDktkpTURBXy8yMzRkZTQ3ZWM5ZmU4ZDQwZTNlZDg3NzMxYjJiNDI4Mi5qcGeSlQPMtQDNC1XNBmCTBc0EsM0Cdg"
         width: 1200
         height: 630
+  - title: "Microsoft Replaces Journalists With AI. Can We Rely On AI For News?"
+    excerpt: "Artificial intelligence will aid journalists in streamlining their workflow, curating trending news, and can also help in expediting research."
+    publishedDateTime: 2020-06-02T06:33:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-replaces-journalists-with-ai-can-we-rely-on-ai-for-news/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Microsoft-Replaces-Journalists-With-AI.-Can-We-Rely-On-AI-For-News-scaled.jpg"
+        width: 2560
+        height: 1920
 
 secured: "JcByl+emnOHpYh8KGcvjTjJxMvcgRNOmKn6LtE0ritFqX9RxKp3RBEtv11JI97ZdW0qAeAodBqDQHdYjID9wwlZih7kJ55OyhHOAzbNx+0PZSLk0/yMBEvFj5uvS2OPaTrkBUHplySNfPq2fBd7FalfmLrs8dEOLPa6PWLI7YMLRxGZWhrq9HC4oznzbILcSi5pLPG95LiEDgvBKQo0biF8wL3lBS/6yw9+zgyAtfyyyPIGvzamdPvyOqcjIJIGMJHnZdu9Uu92W25C6SRQO4aaCeiXulRUy7p3T09/KC30gz5HCehz5UKNJXVQ6F+BVD1zlNxhd705zi32Qm8k6noac+2qI0ky2ZPXSJP4vpa+/qo6ef7q/P1cVuZsl7S0XB1Yi4XlOpJhoQm1aD8OAIZ2i/Il/bqfWwxeCb8NonMTvNyB86d3GAccKqdn/aXBJpC5ojcuOUUeJCEbmhIJ46aj5FSvHJ0gVImgR/NmJTsY=;XciZZbVNxPkSutKdiFqvgQ=="
 ---

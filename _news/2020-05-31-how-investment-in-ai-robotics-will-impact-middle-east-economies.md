@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/SNG_175769350/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/SNG_175769350/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
     quality: 69
     images:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20200530/ARTICLE/200539852/AR/0/AR-200539852.jpg&NCS_modified=20200530210308&exif=.jpg"
+        width: 780
+        height: 439
+  - title: "UAE- How investment in AI, robotics will impact ME economies"
+    excerpt: "While most organisations are looking to adapt their businesses in the light of the 'digital' tsunami, the technologies that have seen the highest levels of adoption and interest are undoubtedly Artificial Intelligence (AI) and Robotic Process Automation (RPA)."
+    publishedDateTime: 2020-06-02T07:16:00Z
+    webUrl: "https://menafn.com/1100248937/UAE-How-investment-in-AI-robotics-will-impact-ME-economies"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 69
+    images:
+      - url: "https://menafn.com/updates/pr/2020-05/31/KT_0c7a6f72-1image_story.jpg"
         width: 780
         height: 439
 

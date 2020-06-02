@@ -134,6 +134,19 @@ related:
       - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/01/16/20/Miscrosoft1601a.jpg"
         width: 2463
         height: 1642
+  - title: "Microsoft Replaces Journalists With AI. Can We Rely On AI For News?"
+    excerpt: "Artificial intelligence will aid journalists in streamlining their workflow, curating trending news, and can also help in expediting research."
+    publishedDateTime: 2020-06-02T06:33:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-replaces-journalists-with-ai-can-we-rely-on-ai-for-news/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Microsoft-Replaces-Journalists-With-AI.-Can-We-Rely-On-AI-For-News-scaled.jpg"
+        width: 2560
+        height: 1920
 
 secured: "GzMEYtxfSfpnMEDIe4kXe+COEoyXnu9jJcXFabyOq0PoctkW5SwEZokbB+QpEAcaYpER0hFRE20+VZarHIegH5i3cUYTowZenxw+AFRaLgtTiz4ZJ292pk0SjR0Fej3W+veHHH42h1z51OU0/acaCqGrPk2PXKyylThlDBnCf+PIQsvRJjYBtk+X0i2hibLPa2pB/+aQhFA7+rCLagvtZRdjgkUMrsSZMMhWNgfSfLV2fb82YtJhmMyC8JYNMgDkhfQIpw1zQYHgVl75FoJ05etZcD9GXoIjY/q7dj3HP03hCoftTDS+Ok/KDiBty5v9;LtbeRQvLkRordo8+Z3zqCQ=="
 ---

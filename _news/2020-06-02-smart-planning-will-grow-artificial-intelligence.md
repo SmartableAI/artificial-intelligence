@@ -5,8 +5,8 @@ excerpt: "M any in Kentucky’s tech, academia, government and nonprofit circles
 publishedDateTime: 2020-06-02T01:14:00Z
 webUrl: "https://www.lanereport.com/126465/2020/06/smart-planning-will-grow-ai/"
 type: article
-quality: 41
-heat: -1
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://s3.amazonaws.com/ae-lane-report/wp-content/uploads/2020/06/01095331/Technology-photo.jpg"

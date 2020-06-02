@@ -30,7 +30,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200602&t=2&i=1520732535&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5109U"
         width: 841
@@ -50,6 +50,17 @@ related:
       - url: "https://www.thenational.ae/image/policy:1.1027662:1591074780/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
         width: 1200
         height: 675
+  - title: "VW closes $2.6bn investment in self-driving start-up Argo AI"
+    excerpt: "German car maker Volkswagen AG has closed its $2.6bn (roughly R45.1bn) investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post on Tuesday."
+    publishedDateTime: 2020-06-02T07:04:00Z
+    webUrl: "https://timeslive.co.za/motoring/motorsport/2020-06-02-vw-closes-26bn-investment-in-self-driving-start-up-argo-ai/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/motorsport/2020-06-02-vw-closes-26bn-investment-in-self-driving-start-up-argo-ai/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/motorsport/2020-06-02-vw-closes-26bn-investment-in-self-driving-start-up-argo-ai/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 39
   - title: "Volkswagen closes US$2.6 billion investment in self-driving startup Argo AI"
     excerpt: "German automaker Volkswagen AG has closed its US$2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog"
     publishedDateTime: 2020-06-02T04:45:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-01T14:08:00Z
 webUrl: "https://www.lanereport.com/126465/2020/06/smart-planning-will-grow-ai/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Lane Report
       domain: lanereport.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://s3.amazonaws.com/ae-lane-report/wp-content/uploads/2020/06/01095331/Technology-photo.jpg"
         width: 800

@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Chip maker SMIC plans to raise US$2.8 billion on Shanghai’s Star Market as US moves to stifle China’s tech ambitions"
 
-secured: "wSRC4PATJKX7ARFcpavva8yE9+iP5GXoG7FjmzCgkkj/Zm9FlvBlL+jQOgErriZxn3hQlJOlqJPW4aVBnMQVHQuLKNVHeROCs/z+qxFxtlRMyKBSjcAo3bd3WUp2dWh/74Ere66pSH/YL0lGGVkzIdIGxMuUAP8CmeX2cICfXf5ylzUUSmbP7PHaraF/o9pcj/EpUJVCfhPwYjACc5GDt3EqPsM3jYGEnzW5yHZVvu+Hs++CUm/8uBBliIiaJgpaxcn1OmCgedc3ME0q+EEPXHYXD068bU3n0Bk398jPQKuwaxfazj6hoJPNvDZpuwY7;0gVPtyjang/phLxI3wtANg=="
+secured: "M7xGpZj7ANNP+B1PY/7Y7OskTIES+UGa7z9usjLmowyvTvIfET2scdqqmpH7Mskt6eDMNX3pe5rRXcC/Ue9sNRfznBlS2tjVhF7Ol3vcVUuR7/UfVj5I3M9tSSVSJzxPtqYR/8hGm54gBsFQbKGhN07yxRVjxwfbtetMN6sTVMfftZ5ac8gulFzNEoPADZthjYl3iUqPUTFbzVRPCN2BnSVP8O2xDrLFHTZV/JkLKHzIRazaJooUidjj3NSDJosijzbdsfCB2hnfiyOri8UzP2pm83XQpDSAm5jbmSgAy3aHPVveRZoN9llN3q7NSULW3KvVv9G7KqEG6zkWlsRd0wDAsZPxuDqDbNaQD4KhP9QYjQeovMvwYdjgeSIx67Eti6i/TrGZVPoWcSGUNXT8YBjP/q6OlkxwasWcvYUETUFZv8UJdFOfILFWPhKEBHF/YBsXf50mpISyID0c0P3wcjF4OiLaJlVrFl2qTOqt6p0=;UlbDuSpNl+0FXKicz1o1hQ=="
 ---
 

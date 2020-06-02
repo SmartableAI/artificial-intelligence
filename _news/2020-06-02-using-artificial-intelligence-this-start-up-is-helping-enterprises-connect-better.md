@@ -29,6 +29,6 @@ images:
     height: 338
     title: "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better"
 
-secured: "RP8cQnCjgXcFiRSD8pvb5JtVO+hehiPHcyLkk/ao4ujObJeAb/1A/PKUrFWAYHfyImsK2wBrFKs+Hw8rdEU+vqNDVKYgYGJ9WZI2Dr8dvv0SYyW9SPzEWzbRZv+/cK+wFiDTg2igRPmZ62vk5ohJ1hBuAi51t+/FB8rYEgEzznhQ1CgTIU2JmFVMgC4YHe2S5uFvUnN/5Jn4OpN/LJ9nsN8M/CZ1IMGk6XDawK+XBKwZN37uUBPVJ3H3DtH6WM8iQklq0OBrv7ejXYvBVXW0ioHujGpCtM/6yE9hSCt20kocRnSdsJc0z1KUlrZs0y0f;IIGAI7M+1QwKKcSkQ6LnHw=="
+secured: "WayYhyID6tQA8Ff2AAXhTzl+sCs2D9Laj7ZWKVXaG+dYtPsgBI0PANy5ZU3AnG0stkwVWY/3qgStpY+osohtx3Z6hk8Sje3NxzLJ26dLBazpxebgDiSRPxtSyIt/ODLAxg+g+DkdjxhtDQgW/tb8PyQ/8PZz3tVR094oA3/B1x45cLFSShZXbrHQWByvDsszq/OpUSFwsxkQNTegG3GrP99efkUmjdjm/CE8MfA3YH3q9KeS/1sQ3TEPVeBBnEnunz6BDJDsBHMTMzHhewnLRGZkbMIDBfiCn8rcve6Zd3rtPesh3T7Jz6+SoSw3Mgvif+OD87Ild7GCbW09BScW6GdNfkXjvb8dOO9Rz71w21v2gkwlxjndeR13tYws/5vRKPD2ztHE8/lK/lEwTdq0bqXsK6OYyU9oVU+USj/Qf4tDbu7TeS7GrLIZaJKdTSwtUDvPH5Upg5LEPSLlhBOs0ILhyu5z7KlsOXAe95t5GZA=;G7wV5KBPfdIwvh+X2AozVQ=="
 ---
 

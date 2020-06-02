@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://qtxasset.com/fiercehealthcare/1590595404/GettyImages-1040557296.jpg/GettyImages-1040557296.jpg?HfSiaq5SfjbO67PF3ThEHnRnL0Kb6xTJ"
