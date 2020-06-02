@@ -2,6 +2,88 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-15-child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus.md",
+      "title": "Child psychologist says AI can help the poor amid the coronavirus",
+      "excerpt": "RELATED: Papal academy fosters ethics, multidisciplinary alliances in AI debate Given the Catholic Church’s global nature and its networks with diverse experts in various fields, it is “in a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/",
+      "ampWebUrl": "https://cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2020/05/child-psychologist-says-ai-can-help-the-poor-amid-the-coronavirus/amp/",
+      "publishedDateTime": "2020-05-14T22:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crux",
+        "domain": "cruxnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cruxnow.com/wp-content/uploads/2020/05/binary-1536651_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": "Child psychologist says AI can help the poor amid the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-sony-develops-first-image-sensor-combined-with-ai-chip.md",
+      "title": "Sony develops first image sensor combined with AI chip",
+      "excerpt": "Sony has announced it has developed the world's first image sensor equipped with artificial intelligence (AI) processing. The new image sensor has a configuration consisting of a pixel chip and logic chip.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/sony-develops-first-image-sensor-combined-with-ai-chip/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sony-develops-first-image-sensor-combined-with-ai-chip/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-develops-first-image-sensor-combined-with-ai-chip/",
+      "publishedDateTime": "2020-05-14T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg",
+          "width": 360,
+          "height": 300,
+          "title": "Sony develops first image sensor combined with AI chip",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-15-gms-self-driving-unit-cruise-to-cut-8-of-staff.md",
       "title": "GM's self-driving unit Cruise to cut 8% of staff",
       "excerpt": "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations",
@@ -999,99 +1081,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models.md",
-      "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
-      "excerpt": "Nvidia unveiled its latest data center chip architecture, “Ampere,” and a motherboard to power multi-chip servers for AI. The company sees ever-more-gigantic neural networks in coming years.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
-      "publishedDateTime": "2020-05-14T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/14/1da79d85-66af-4eca-b991-3d2cf1492395/nvidia-2020-hgx-platform.jpg",
-          "width": 2000,
-          "height": 1600,
-          "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-adlingo-ads-builder-turns-an-ad-into-a-conversation.md",
-      "title": "AdLingo Ads Builder turns an ad into a conversation",
-      "excerpt": "My parents were small business owners in the U.S. Virgin Islands where I grew up. They taught me that, though advertising is important, personal relationships are the best way to get new customers and grow your business. When I started working at Google 14 years ago, online advertising was a one-way",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.blog.google/technology/area-120/adlingo-ads-builder/",
-      "ampWebUrl": "https://blog.google/technology/area-120/adlingo-ads-builder/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/area-120/adlingo-ads-builder/amp/",
-      "publishedDateTime": "2020-05-14T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": "AdLingo Ads Builder turns an ad into a conversation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

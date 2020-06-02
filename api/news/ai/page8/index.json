@@ -2,6 +2,96 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-23-what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus.md",
+      "title": "What Can Tesla And Waymo Learn From A Human’s Ability To Focus",
+      "excerpt": "Humans focus to drive while autonomous vehicles try to be knowledge oracles. Perhaps the human approach is better.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/",
+      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/amp/",
+      "publishedDateTime": "2020-05-23T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec8e9886fdb740006902ba2%2F0x0.jpg",
+          "width": 1199,
+          "height": 579,
+          "title": "What Can Tesla And Waymo Learn From A Human’s Ability To Focus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-23-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025.md",
+      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market 2020 Industry Demands, Insight & Forecast by 2025",
+      "excerpt": "The artificial intelligence and robotics in the aerospace and defense market (henceforth, referred to as the market studied) is anticipated to register a CAGR of over 20% during the forecast period. - The use of robots in space exploration,",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025-2020-05-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-23T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market 2020 Industry Demands, Insight & Forecast by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-23-twitter-billionaire-jack-dorsey-automation-will-even-put-tech-jobs-in-jeopardy.md",
       "title": "Twitter billionaire Jack Dorsey: Automation will even put tech jobs in jeopardy",
       "excerpt": "Artificial intelligence will soon write its own software, according to Twitter and Square CEO Jack Dorsey. \"We talk a lot about the self-driving trucks and whatnot\" but automation \"is even coming for programming\" jobs,",
@@ -1209,88 +1299,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-first-rate-cleaning-is-just-the-start-for-this-super-smart-home-robot.md",
-      "title": "First-rate cleaning is just the start for this super-smart Home Robot",
-      "excerpt": "Robot vacuum cleaners can be a great time-saving addition to the home, but Lucy is a whole new ballgame. Using sophisticated object recognition, night vision and AI-based robotic intelligence, Lucy not only puts other robot vacuums in the shade when it comes to cleaning your floor,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/",
-      "ampWebUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
-      "publishedDateTime": "2020-05-21T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ksr-ugc.imgix.net/assets/029/186/787/5fc7090956e99254f2665496fa1cf339_original.jpg?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1590179053&auto=format&frame=1&q=92&s=c09f4cffcaa93e0dc1fa90dabc59a32b",
-          "width": 560,
-          "height": 315,
-          "title": "First-rate cleaning is just the start for this super-smart Home Robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-amazon-urged-not-to-sell-facial-recognition-tool-to-police.md",
-      "title": "Amazon urged not to sell facial recognition tool to police",
-      "excerpt": "It’s not clear how many law enforcement agencies have purchased the tool, called Rekognition, since its launch in late 2016 or since its update last fall, when Amazon added capabilities that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html",
-      "ampWebUrl": "https://www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html/amp",
-      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html/amp",
-      "publishedDateTime": "2020-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Albuquerque Journal",
-        "domain": "abqjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2018/05/22/BC-US-Amazon-Facial-Recognition-IMG-jpg-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Amazon urged not to sell facial recognition tool to police",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

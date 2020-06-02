@@ -411,7 +411,7 @@
     {
       "path": "_news/2020-05-28-cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more.md",
       "title": "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More",
-      "excerpt": "CVPR 2020 registrants will explore topics as varied as medical data analysis, facial recognition, machine learning, autonomous driving, social analytics, fashion applications, and much more. The following sampling of presentations offers a glimpse into the leading research to be introduced at this year's event. \"Presentations debuted at CVPR ...",
+      "excerpt": "Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research",
       "heat": null,
       "tags": null,
       "type": "article",
@@ -621,6 +621,80 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-apple-acquires-inductiv-machine-learning-specialists.md",
+      "title": "Apple acquires Inductiv, machine-learning specialists",
+      "excerpt": "Apple has confirmed that it has acquired the tech startup Inductiv, an engineering team from Ontario that specialises in machine-learning. It’s believed that Apple’s underlying reason for the acquisition of Inductiv is to enhance its virtual assistant,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kitguru.net/lifestyle/mobile/apple/christopher-nohall/apple-acquires-inductiv-machine-learning-specialists/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KitGuru",
+        "domain": "kitguru.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.kitguru.net/wp-content/uploads/2020/05/Siri-732x330.jpg",
+          "width": 732,
+          "height": 330,
+          "title": "Apple acquires Inductiv, machine-learning specialists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-aws-uses-machine-learning-to-create-new-soccer-statistics.md",
+      "title": "AWS Uses Machine Learning to Create New Soccer Statistics",
+      "excerpt": "Amazon Web Services has introduced two new soccer metrics that measure a team’s on-field positioning strategy and the likelihood of scoring a goal based on a shooter’s location. The stats debuted during Tuesday’s broadcast of Borussia Dortmund vs.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sporttechie.com/aws-bundesliga-machine-learning-soccer-statistics",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportTechie",
+        "domain": "sporttechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AWS Uses Machine Learning to Create New Soccer Statistics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1014,79 +1088,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-apple-buys-an-ai-startup-to-improve-siris-data.md",
-      "title": "Apple buys an AI startup to improve Siri's data",
-      "excerpt": "Cleaner data would go a long way toward that goal by reducing the chances that garbage information confuses Siri. Apple has been determined to upgrade Siri in recent times, and made waves when it hired Google’s former AI leader John Giannandrea with that upgrade in mind.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/apple-buys-inductiv-for-siri-data-010651483.html",
-      "ampWebUrl": "https://www.engadget.com/amp/apple-buys-inductiv-for-siri-data-010651483.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-buys-inductiv-for-siri-data-010651483.html",
-      "publishedDateTime": "2020-05-27T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F7ac2f8f0-a074-11ea-bb7f-56e2f6f772d9&client=amp-blogside-v2&signature=69523b6c4d75dbaae8e727bede25174d1162dcf2",
-          "width": 600,
-          "height": 350,
-          "title": "Apple buys an AI startup to improve Siri's data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech.md",
-      "title": "Driverless car roaming through Sharjah community powered by Huawei tech",
-      "excerpt": "In partnership with the Ministry of Health and Prevention Al Zahia deployed a fully operational driverless car ... the car incorporates an advanced Artificial Intelligence (AI) ‘brain’ to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itp.net/business/92638-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech#!",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)"
-excerpt: "Pune, June 02, 2020 (GLOBE NEWSWIRE) -- The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world."
-publishedDateTime: 2020-06-02T10:57:00Z
-webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02-61845727"
+excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world."
+publishedDateTime: 2020-06-02T10:56:00Z
+webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02"
 type: article
 quality: 37
 heat: 37
@@ -18,7 +18,7 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
+  - Computer Vision
   - AI
 
 images:
@@ -49,6 +49,6 @@ related:
       domain: benzinga.com
     quality: 9
 
-secured: "FNX98HaI1jh6ZGIFnnZ/Iep2f2DUO1/JdNS/qUH8neH25G5cTPESWNyOlU8O2UvtmWNDGdG71bJEztu1RiYSoekpcXetqD+YPViFUIDTZqv3GxInm+Kull5JYIyPDp5o+CEopBR0P58fOMXs8p5N9m70HYimTf/pPvnb10ETlk3XdnxLBAeIFV/shZDsi2RisLfx1LHM44yqloiP/+vO+R059WMytfXDbPWv9AvI9pBNMcfI1GXxRoVgtTAI5djhvYXpSUJyO4nI5GKM3aLpLdhB1b3zk04XRF+fe7AlRtSt9d45fBB/QMAMZKMzi/jZ;XAMOj+qk+mJ70Qtf4fPm+g=="
+secured: "i4JgOrReUBTbs6mCQYZUcmrL+ZsWuUEBmp4q04C9SYuYVcT7ydWQfkFUPqSJvD+wGdzy9ohYunJny6WKKvVsBegK88Tx4PuNhrrdkEyaL2jTWGTmzGECa2ziHWPJm4++cHO6knG9GPqHwqBuMEh2f82TqUJJ/nSfy8rb+chhsV0rdzTPw64mdHbO2kl6u8hYvucrh4tYRGPadm12ex9tdf2V+t+n5Y+SP3vayxELTJ0MB+Aey+gn1v0z7Oke6jMFcMicGWfIL4X9Ezf/zcONPkCBW/KYwmG02HWKLJBvoGsP0RCj6DfzzBKFi16LbUUk;rXWhsq9K3JUgf65dM9m5kw=="
 ---
 

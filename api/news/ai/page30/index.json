@@ -2,6 +2,95 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-05-04-tackling-cybercrime-with-ai-during-covid-19.md",
+      "title": "Tackling Cybercrime With AI During COVID-19",
+      "excerpt": "On a recent panel discussion with AI experts about the world after coronavirus from an AI perspective, Sophia explained that robots were created to help humans deal with big problems like the pandemic or climate change.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sap/2020/05/04/tackling-cybercrime-with-ai-during-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/05/04/tackling-cybercrime-with-ai-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/05/04/tackling-cybercrime-with-ai-during-covid-19/amp/",
+      "publishedDateTime": "2020-05-04T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216339679%2F0x0.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": "Tackling Cybercrime With AI During COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-how-should-your-business-get-started-with-ai-begin-with-why.md",
+      "title": "How Should Your Business Get Started With AI? Begin With Why",
+      "excerpt": "When it comes to AI, it’s tempting to focus on the technology rather than the underlying need its intended to address. Asking why may prove to be the key to helping businesses get started with AI.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/",
+      "ampWebUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/amp/",
+      "publishedDateTime": "2020-05-04T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb0259abf28980008468d55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4798%26cropY1%3D363%26cropY2%3D2612",
+          "width": 1200,
+          "height": 563,
+          "title": "How Should Your Business Get Started With AI? Begin With Why",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-democrats-counter-trumps-fake-coronavirus-news-with-ai-that-fought-isis-propaganda.md",
       "title": "Democrats counter Trump’s fake coronavirus news with AI that fought ISIS propaganda",
       "excerpt": "Trump PAC is using AI originally designed to tackle Islamic State propaganda to counter coronavirus disinformation spread by the president.",
@@ -1171,95 +1260,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-tectonai-snags-20-million-to-solve-ais-data-problem.md",
-      "title": "Tecton.ai Snags $20 Million To Solve AI’s Data Problem",
-      "excerpt": "While the COVID-19 pandemic has halted many venture fundings, Tecton.ai has been able to buck the trend. This week the company announced a $20 million investment from Andreessen Horowitz and Sequoia (last year there was a $5 million angel round).",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/02/tectonai-snags-20-million-to-solve-ais-data-problem/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/02/tectonai-snags-20-million-to-solve-ais-data-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/05/02/tectonai-snags-20-million-to-solve-ais-data-problem/amp/",
-      "publishedDateTime": "2020-05-02T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eadc484240a4f00063e7dd1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D410%26cropY2%3D3785",
-          "width": 1200,
-          "height": 675,
-          "title": "Tecton.ai Snags $20 Million To Solve AI’s Data Problem",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet.md",
-      "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
-      "excerpt": "If a marketer can get an accurate read on someone’s emotional response, they can tweak their campaigns and achieve better results.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/amp/",
-      "publishedDateTime": "2020-05-02T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/02/emotions.png?fit=1059%2C619&strip=all",
-          "width": 1059,
-          "height": 619,
-          "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

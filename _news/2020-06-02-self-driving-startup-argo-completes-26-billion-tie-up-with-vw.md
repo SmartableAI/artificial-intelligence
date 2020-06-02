@@ -5,7 +5,7 @@ excerpt: "VW’s investment includes a $1 billion cash infusion and the folding 
 publishedDateTime: 2020-06-02T19:26:00Z
 webUrl: "https://www.dig-in.com/articles/self-driving-startup-argo-completes-2-6-billion-tie-up-with-vw"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/532f289/2147483647/strip/true/crop/350x184+0+22/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fe1%2F6d%2Fe487ba80485996bd87dd247a5b51%2Fvokswagen-dealer-bloomberg-350.jpg"
@@ -104,6 +105,6 @@ related:
         width: 991
         height: 557
 
-secured: "H/4zAgZci9kN7Go/1fCKigy70aS8hsR3XPBREYbK9U79WkQPsPQC7dKsM8xE75pKQWTvDVLgmvCoQXoW9AxJ8qd7O3a7wU32mcQL8jk6oUAZwTWjdCkFk2Gole8qbn36x23oIOwYznXCrJcSym+3CoR5Hx1VwiwPg7M5/JLKlbOmfRmUSw5j9HmPYCDslPSW1q2TxxLwTrNzVUCA6Sndp13c5cMSzRsca8CZr4fJOmIFVqba1bWErvv7ASySwsytpoFWZWVqMAtQRLWEoCHbEVV58iJos2AEpr8O6qiSTv2iKvFzZcoe87RMZz5y0KQf;CckkmrBrGi5ZtZLcf/V2gw=="
+secured: "YqqgPXAlQ26HoAKi7V9TFngjdF4SshOxhn44lCE67KlZNIyCapH5rhX8x7CxDrLKd9RUMnLj1oo9ZLonfX4uz9jf6NRPGEWQgtI0fIdOlWbF1t/QTGHwR0e/AXT7zpUqGDuXkeb8j2bD5CNmFkaf+YvbeCMAhAdJayDyuw4ZZrZzVCsFNdUU7DfUM/I+l0aOR81gIdhss2Z/Bahd0AZtzYrsKBo6FTecerbIr0ZlclgcXSwbZkr+Wd9EJZRDMGCf/YhMKbZEbG+HaSD0go1ZLuKKgUB8Sdc3yknM7NbG8flozyetEIJ2/bZM5KYkyxgaIk4AfGVVLzJ+viOdBFhbnRIHcWrcEvc9JanGSKHhs+m5PE1oE6R/g/m4zbHCpCukYADzQ22v7MLQEeg/4FHMcRFAzkeIkWTvpx+oahld8PQ6TgPZz63etkacjis90lp/1PtCCaaYNThOQo+EDXrL54NvhnC1NnwqeYf4pOKGuyI=;5KJs6MVBMnezfceufCG9JA=="
 ---
 
