@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Envoi and Data Expedition Partner to Launch Cloud-Based Data Restoration and Migration Solution"
-excerpt: "Envoi – CloudDat Edition leverages Envoi's APIs to support other solutions including Amazon Rekognition for video indexing and AWS Elemental MediaConvert, a file-based video transcoding service ..."
-publishedDateTime: 2020-05-13T10:37:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/05/g16019011/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16019011"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16019011"
+excerpt: "Envoi – CloudDat Edition leverages Envoi’s APIs to support other solutions including Amazon Rekognition for video indexing and AWS Elemental MediaConvert, a file-based video transcoding ..."
+publishedDateTime: 2020-05-13T10:00:00Z
+webUrl: "https://www.morningstar.com/news/globe-newswire/7919526/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "3yw432pthNiNU1amvNbU8gsxmodi/IHZDkL95vyokwDlwVD4mlCSdiQQVF02+pz+7B44+X73SjUJFUjHP2cfuJ5hSfo065wWaA4ssLj33pj/CrdtTk6b13eBbExcozU641Aixx3BeHkNVWQAavJcnIdAoBTqggUW99/rtaQbgL/EONSdxr4YIaKgfERSngM/UrbEczg2lq7N7T31tz8WkfysPNm3vAOANtSqzZKIyVotD9twZmdiktmnEwdGNEVrLnAsw67Sytg6UzOUqDpxVq75qOSAvikiSHdqN+gUDtyJUdvNbNpGhHQ3tKzgtrTK;sUBcbjk5JpXnQiEzLK7Qxg=="
+images:
+  - url: "https://ml.globenewswire.com/media/7ea6365f-e90e-4fee-84fa-bbe58bce5876/medium/envoi-clouddat-log-in.png"
+    width: 300
+    height: 220
+    title: "Envoi and Data Expedition Partner to Launch Cloud-Based Data Restoration and Migration Solution"
+
+secured: "FGVsWyvSVGlLuviOFuTWdqVKFG0N1U2yC93necKjdk6s9sn3xsltn5oJqx3QusCdv7ihpiL2miR5H9MpzMGaGRzab0DsSUdwM0EajRcA8Zbk63wvp9Cef/Bt8HI+L/gEybnEkXX77gH53r4fTLDGfFKMs10Rfdqrk8PWQz9STRMGGsQVS1nRVVh7ZWjlga9yh7JO3BoGBzxmhPunrllu8K16TG4owwRxYcJygLysIP3sNOxqZ91WLq84KRvBKgKiguPKF9T+ee04/MK1rbPqDKfpVLXiVjy0nLfdeJVsMxUcbqURqKxfU6PoGyTXRZjB;m9IGPkJS0yCVT25kSPhZuw=="
 ---
 

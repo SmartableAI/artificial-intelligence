@@ -91,6 +91,19 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 39
+  - title: "Self-Driving Startup Argo Completes $2.6 Billion Tie-Up With VW"
+    excerpt: "Argo AI, the self-driving startup tightly aligned with Ford Motor Co., completed an expected tie-up with Volkswagen AG involving a $2.6 billion investment from the German automaker."
+    publishedDateTime: 2020-06-02T15:45:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-startup-argo-completes-26-billion-tie-vw"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 22
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/argo-autonomous.jpg?itok=MsCOdZI9"
+        width: 470
+        height: 246
 
 secured: "L46btOsV8tnKIKoNd5DSfwudbxX3HKZwE18//kwUnr6lj+ncsgjra25uHjkHwXRX0QMLP8QQutlech6RwnstfOffb5fuiVsIWIGoxiT/9dptmLKNi7N1waE8GKOIPHl2ukXboWCMq5hvGY6lTtS/X21W1moLtE0XRirHsdi/CIOCHLB/Y9BOMkqs9QRNCRyrodh3VjPLh6jwCg7Lq7b1kg3DgrL2PYEmUvIJq5/uNsLkNcIaDeiLR9pPghO6TW2G6FuH31eSKZqqfti9zuFYJGpLmevT27eaFkcNFFuN5DrLcncpzrv3Eqn5bePQOuwlrinMPDcyuFa5n2W+eadznNp/zDsskB0aJlDGbX5I9wEgAk4oysTFb/IJ3m0D177OHb4opjz6gS+/4BL6NSiqm3Zz0Ib9FbuDajH6ICsoxBbCGNN67tnrrG0zKTnYxtiuNTZ/NF2a01QL28atVLaujCinD5RKoGmMdbmbGFe4Tbs=;XAUOuIEwySR/73aSILPclg=="
 ---

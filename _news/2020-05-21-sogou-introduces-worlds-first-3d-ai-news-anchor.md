@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Sogou Introduces World's First 3D AI News Anchor"
-excerpt: "PRNewswire/ -- Sogou Inc. (NYSE: SOGO) ('Sogou' or 'the Company'), an innovator in search and a leader in China's internet"
-publishedDateTime: 2020-05-21T04:20:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053"
+excerpt: "The debut of the 3D AI News Anchor marks a milestone for the Sogou Vocational Avatar technology. Sogou achieved this breakthrough by bringing together 3D and AI, which enables the avatar to be more flexible and adaptive to different settings,"
+publishedDateTime: 2020-05-21T04:05:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/sogou-introduces-world-s-first-3d-ai-news-anchor-8892811"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "mzlCG99e7UtwtJhUYeVnEQ6vrLyK5wmGfg3naA/yvCC7m38x2gzHAuiS804PQbOs9bmG1BDMnsJwaIQ8JZ2cHyq9okN7L8rE1VXIuJs/QLmXZ7eoyY+6b/OUjfPl/sUc+cysr3gImaSt2LP6F+kOIP9PinUywRy837jYcd4R1G2zIY6JD0E+goHgO3az6JShThnd7KVwi13sA1Dij4PKG3jhc9JVwRg8P+qdBut2l3fdIXGYsw+u4tUxqlOlF6Bk8hz37ipe0Wy4tVIypdyYFcAxDKSOyPb7+0DWXX6CdY6kFVzBsTRPg8Q3yYpTNa0de5n3Wrxe/pOV3Ujc+as2GYGSGTnWi66Mv2WwxLeKJ2sijv+TvXbXH51jFpV7vF74i7J5filcjMpqytCrFlDUlZzFcZQyyGZ37OSIfR05DiDKE8F5KkVGv1SzdZmbaGngnVDSdP96Y/yMhM4FORLOLfIZgMZ2LtdY0jJY/BJ+TBE=;VCaH2bMpU+RF0ydM4mmSIw=="
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    title: "Sogou Introduces World's First 3D AI News Anchor"
+
+secured: "GpwHQNVgG3aDnysBDuwIASZWGXEdA12QczcpiqeIyPRFUG8Dl3BTHW/0SjN4I97JxjCv6E+ay9IQTjmOWOgMn4vehwTgIrjNIfRkclNJqNzfVZPY0cUpdp0FPGRjIA6ggr6HoxNCw4AhnwoYKRcyAS58CLIOMDyPGa+ZLReY9G8if1fDGYtuby/WCBU+854q7VyxAbcB/Z/RZzATMPzzeFuih/hdvZqpx6mI6uESCqPDGzWu1AhKFjN5kLpOQXGuui11uuExC9+2JNvJOEjq4Cy6dXv0W+Fia7TbaOdNMX6f4OMh3mnJkPyylFYTGOHX;R9VFhg9ntK5K3CBm22SLhg=="
 ---
 

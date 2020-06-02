@@ -25,6 +25,6 @@ images:
     height: 743
     title: "Self-driving 'Apple Car' may combine LiDAR with other sensors for better decision-making"
 
-secured: "DGETXWV9/OwIj4ORi/HjdkPiTmU9w/w6tZIwd/SbX5nASbALKVIN6lcuGCCYbI/BEb3rKapx3mCCzIhMnfUQoVeYVx6HpogcYaMGbdTSCD3eVdM4sJPG75UVXgju4rZe+FPdw4HHm2tvvYMd5Xp0fguqK5F2IHs4Dzvr1qHgeXM2gRjexIqUM9E2op110TopN+NwCPNdeTV9B9BcHdmgC9+M/Oio207mbRY5gnlS9Rm5US2QfbOKsxR26tqP0YtN4pMjNIS4vszuBHfjWANUeCNBPqVzfvjj2r98ehxz3fxFTDgb6wI3x2WR9dKAfNQi;6KAvgz3PMMRL17KYTQCOxQ=="
+secured: "g2/0Kbc/+LYVG/69FnyM2nCiKTUuB9QC9slyPf52bvlRCEj2+CisRnxSnJhh3c+LvuFEBdWcrSknlnLTUlBp2cyZ6Gy02Jpcm+7KQlyEwdQd3D9xYN8THvF123dm9rwlBEouIZBNXACPuID8tK8q0q04W9SakfNKkjZMPb1OQvFtSW7GCRMOshDgjd2mV66xgCMZ6fARogWse2xjLMDbCdmEzXVH1ZtyVp0oCo5tXYo22UuzNwNROOORlQ+VGsvBNDBN22pSrAPplqzcaMG2//HD6b9BW+3xhNLy3ClfkQPH0gT9Ml+yAwKInCfuoo8k5hO0+fj08moG3gU+PxijvGt2JBS1UGECAW8r7wNHkynniGJ5SFRNOhZZmQOodtWh1O/v4wZQxDHhZ6IOkeoslkpn2ifPpUk0eIi9SXgr8BKDaQRjHdIX0o3Xw1Pg2bxDZkDO0kqwguM/29Dv/bx+sHWboVln+tLXaRLiZdxn30A=;+jJghaid+jBkXQGA3/MuDg=="
 ---
 

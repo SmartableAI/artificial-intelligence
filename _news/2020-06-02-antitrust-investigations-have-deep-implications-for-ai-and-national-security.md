@@ -5,8 +5,8 @@ excerpt: "U.S. AI innovation is currently concentrated in the most dominant priv
 publishedDateTime: 2020-06-02T14:47:00Z
 webUrl: "https://www.brookings.edu/techstream/antitrust-investigations-have-deep-implications-for-ai-and-national-security/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.brookings.edu/wp-content/uploads/2020/06/Foster_Antitrust.jpg"
@@ -23,6 +24,6 @@ images:
     height: 2334
     title: "Antitrust investigations have deep implications for AI and national security"
 
-secured: "sQeLLc6girKhx8tE7dIdiU3v0C1DtE/SG8D8EZbpwO8huaCIVWekFvXXFDk2rCYX+PSsWxSgl7Xr/EzFbnHD0lddwHDykMn8o/ll5WY+WSq9fzrF5spguCNoFvcScRsQBSijZB2RwqYjLN0gGqoOuRgrgLQ1/IBrVWz7aEkWuEEDBw4b6uU0Ma3bLy/DdD6q2kOOb9kJzj1hV9ki/c63E0S7wG07neN/HBHHAQbzO1osd569tHYWgDcvm3yD9KDrmIDTcEyFbd0rD9YXFIXvXdOMjmwIVzlrSZYtiJ/hZxJtl5ycaez7N+N8EeItctJn;FhMSmpVguDAfcI9Y9B44GA=="
+secured: "BhegkkrcbIGLKX1ESyjY9E4bLxd9w+OGFnk0HbMIXH6/Pkj4CwGmxlgWUDhYi/VY4kgNnOGTh8JBRW3UlfTb+ElZY3tEKPeN0FrWZ4JFZQEeS033s1XbRpTyuebIIZCMxlZ7jY6W35IPyHNYeDJHdd+0Z+K8pwjJPKT5wF/HOVNYAF6eSHF0V8zkm3PseMYHjnzTyX6zr/46A9J8CbIh85KBXBnP3DoFnNzkEP6BBIswLH84CLkF4LqcLhwe/soastjLqx0s7TMLByzjyHcAcSkXIO/VH8pl1gY+Qfrcocm/zPfQRoKRR3yWlxbgxEdadomyv488Mq+MMFNtJoa4AhCYue4AW00libazgiQyWNPCtsH8HMda7t1PRh4BedRb8l8fe6RJUoCvyOFXfqACqgA9ZYUthHP0a6rh7UesFfz1cDr8j0Hawb1A1BpCzOzz08Fq/l6cIAcH7NGYdRSUsL8730d2aKotX7raRDqwCDU=;uH4kUsCNbAQA1QeQnFZPSA=="
 ---
 

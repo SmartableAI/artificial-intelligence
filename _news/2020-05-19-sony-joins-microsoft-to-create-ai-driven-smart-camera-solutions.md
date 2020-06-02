@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Sony joins Microsoft to create AI-driven smart camera solutions"
-excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers."
-publishedDateTime: 2020-05-19T17:39:00Z
-webUrl: "https://www.sify.com/finance/sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions-news-topnews-ufuk09gagjdei.html"
+excerpt: "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers.The companies will embed Microsoft Azure AI capabilities on Sony's intelligent vision sensor IMX500,"
+publishedDateTime: 2020-05-19T22:47:00Z
+webUrl: "https://menafn.com/1100188927/Sony-joins-Microsoft-to-create-AI-driven-smart-camera-solutions"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.sify.com/uploads/microsoft_logo_ap_ufuk09gahbaeh.jpg"
-    width: 950
-    height: 633
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?508448"
+    width: 379
+    height: 250
     title: "Sony joins Microsoft to create AI-driven smart camera solutions"
 
-secured: "rGdcKyH/M/FE7m1s8ngHzbgsN0tf0tM78bk8Q8aphe6LvFpOPYXp31viPDgRGwAuIuOngMq52DJokBAQGWVCAaiMEESZfiBH3bjsslta2jqqnIKR3AZ6ojaXe9iluBBmC5a2i6q1YFoUrpQHobZkY3qeb2LwaDG0P3OL+GqG0ozXTPUS67bECC8Rant6m2WJDulKrOFDefitgxfhz2uCPjOu00UXvUtA8QJoFMG6fhvJ4Btz13yvk4X0R92SLqWIj04YnAlohzG1WN59lFW3EALO0cSxDzxT1to6SY18gs0/zKr7X2FZutcYlpZt0yfedxLcjiScoKl1s8duygwSYyxRgukgJejgVr8+3BYLPguPZ1sA7eKKqw/64f9hwXhy4/mTdx3ZmYoEv6pNyMsBmzT8ePefJAYYnccMKi3MXUBs0N2ByUWo1kWm5t9r8OgP+w0Tpj9RLqAaGmEpnZcvxZvGwpjadBgUnYDvTedf6X8=;+JDlKs+JGIFBuFq6jG5qLg=="
+secured: "ROk4izhOKOqVMEjIalGhklmpY8IktqW/PWFES61s9Hb4B5l7o7DT0LLQW3AeRzcZeKBGcgtap6YaTDl0bntPgYkHfOtObtipLotqDd0P37ik0p7bCge+5aR4c0rCgEqZTPwc6gvBnbtnkW79gfxFmRTAnY3gg+vW7ehptXzW3sGaBTecdZCcKHyheazPZy0/HRKvs9atN8RHr1OPcQ5CdmaFhecThdd7/sKI6n0/tXaVUv7OLVFimaB0JW3YXRGUWV66B3NRO+yKJCxpA9UOBCLOp9+WSoU8cKTvApVaARChy83LTT7UObg/rDU2X4Vs;gCNLRRnIm19cIRccuXSoLA=="
 ---
 

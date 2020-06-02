@@ -89,6 +89,19 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12795586/16x9/991/557/d708016128eaa39e37a3c6befa058e44/Dl/89th-geneva-international-motor-show-in-geneva-1.jpg"
         width: 991
         height: 557
+  - title: "Self-Driving Startup Argo Completes $2.6 Billion Tie-Up With VW"
+    excerpt: "Argo AI, the self-driving startup tightly aligned with Ford Motor Co., completed an expected tie-up with Volkswagen AG involving a $2.6 billion investment from the German automaker."
+    publishedDateTime: 2020-06-02T15:45:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-startup-argo-completes-26-billion-tie-vw"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 22
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/argo-autonomous.jpg?itok=MsCOdZI9"
+        width: 470
+        height: 246
 
 secured: "bBPG76kir78dtq78lNBHp1WNccJD3YkEdQKBZGdA3jpciCU1frJ6gGmb5HStNyBBk/tm9xeCd/q6RSND7aGsxNOZtHjdXt4K5F+BJVNesKUjb68hffjrgG2sbe6ZuGbDc/Bw9CnhMX7ozx5FeJmVK/XKKOrP0cxhP4fU3CyEk7uVmqF9jIpvJsGCyA35nAn81ymkwWEqdm6awA+t6knRF1yI5OLS+QNv9fE3DNXzmETa/Y2TY46adzRW1PJ7LClrgjNqVFGJyEK7Z8Y/XVoJIkugaZxi4COTPDQ8BUf5ZbwNRlxzLqYSkdDTR93uArXGc+qGkBV63uLu5STDG7S3SfeQ0vM6gOe/HJjEoDi5FJA3Ly5mqZEWcjvLVbJMjv9tWUfSlXbr+3pfpgwouZKisy8KaiAWfY7nskCIdQcOMJ8S3DMSle0XNX+9qCBup68HoS4CRzWtaNuytYTqDONprS/BG5cUma9M7C/BWVAaUqM=;k91ZA0qlr6XQVJWcM2+3Xg=="
 ---

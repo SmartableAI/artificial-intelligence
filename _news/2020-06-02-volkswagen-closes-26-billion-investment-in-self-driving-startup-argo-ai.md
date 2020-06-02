@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-invest
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
 type: article
 quality: 86
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -94,7 +94,20 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12795586/16x9/991/557/d708016128eaa39e37a3c6befa058e44/Dl/89th-geneva-international-motor-show-in-geneva-1.jpg"
         width: 991
         height: 557
+  - title: "Self-Driving Startup Argo Completes $2.6 Billion Tie-Up With VW"
+    excerpt: "Argo AI, the self-driving startup tightly aligned with Ford Motor Co., completed an expected tie-up with Volkswagen AG involving a $2.6 billion investment from the German automaker."
+    publishedDateTime: 2020-06-02T15:45:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-startup-argo-completes-26-billion-tie-vw"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 22
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/argo-autonomous.jpg?itok=MsCOdZI9"
+        width: 470
+        height: 246
 
-secured: "8w+o1s/ZWf3Sjo8aF3nqonnVaGve/Mq5doOnuVu7ZjvaAoV7yjNlZ+lYxXpcnY7hibz48FV85PN7wuQMeAGVhtJj9LuQkhtN+ZQIRO6w3T5H/J5xQ+kl/OnP5DFwML6IJOT2jj2nSZ+p7CjiPpwmGMJjoM1ML/lhN1DSdmtg0RQM49yI8QDgHFZLOGHczGcCnQkHDO7NMQ+y40IdlbiDX6Myr3SXhInbCPoLOKyFNVI2lzclKhBigJSzZ3Wvjk2qDDdvvsCXmrukvLZsZcV2YAYm3sprH/C/vLHRvefp8x6bc9/FFjKLzO3lJYZI0R5Q;8V4ysbfA3Un85/JajMzzPw=="
+secured: "cyBVpidxf3jqr/TPMefNqDeCR1RPjpF6L7QGSz6PmpZUxV1QwhcYhj2gzpL9ufrwktPX1cwzbmp16LOrW6eshC0xgQr3IMRaHaxwPde6ecgDHLAC+A5e1W+imu7HZqveV5IfB6J4EL70Du5O8KgXHdx235wFcX/D3Rvb53Q+hq9BFKj2Wd98tROyiJ2jBl0wc5LZhyzktXzcQh0qnKQTSo4vrN6KkHars1bWiAa/x3SP1hUqIXD6J9v4T5GDPDxSCjJKtsURmmYZPF3Blk4mr7LzmL9kxrJeRlbZmselvK+8IuKvdnQVc/D3PoZ61MiSqagly2Ssv+uuhpQLKy89FOihsTfX+3aAKLkNtuGTD4XvjMsWT/1TOAzMqPHCzQPwZtFdSk7PJyfM1YhPdnC3uQuA7oKtSr+smIV77UKmjccfP2+xNLCqeSN4uIyYi/+V2Lj8XiP2d7euD9sucXgUvg1075aEQZAJqhc54stXvj8=;KEO5yito8THvROnxryZniA=="
 ---
 

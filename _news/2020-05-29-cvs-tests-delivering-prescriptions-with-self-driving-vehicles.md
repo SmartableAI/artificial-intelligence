@@ -54,17 +54,6 @@ related:
       - url: "https://wnyt.com/wnytimages/repository/2020-05/cvs-ap19050561641382-cropped.jpg"
         width: 800
         height: 450
-  - title: "CVS Health tests self-driving vehicle prescription delivery"
-    excerpt: "JANELLE NANOS CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro on the delivery of medicines and other products to customers near a Houston-area store."
-    publishedDateTime: 2020-05-28T23:29:00Z
-    webUrl: "https://www.bostonglobe.com/business/talking-points/2020/05/28/cvs-health-tests-self-driving-vehicle-prescription-delivery/fk5isWtFxFmQic5YFqmFtI/story.html"
-    ampWebUrl: "https://www.bostonglobe.com/business/talking-points/2020/05/28/cvs-health-tests-self-driving-vehicle-prescription-delivery/fk5isWtFxFmQic5YFqmFtI/story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/talking-points/2020/05/28/cvs-health-tests-self-driving-vehicle-prescription-delivery/fk5isWtFxFmQic5YFqmFtI/story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 24
   - title: "CVS to deliver prescriptions via self-driving cars"
     excerpt: "CVS is testing prescription delivery using self-driving vehicles in a partnership with Nuro, a technology company based in Mountain View, Calif. Starting next month, customers in the Houston area can order prescriptions and essentials to be delivered to their homes via self-driving vehicles."
     publishedDateTime: 2020-05-29T16:03:00Z

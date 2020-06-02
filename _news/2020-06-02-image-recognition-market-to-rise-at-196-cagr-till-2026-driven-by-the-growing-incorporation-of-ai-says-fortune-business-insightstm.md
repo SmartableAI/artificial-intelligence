@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)"
-excerpt: "Pune, June 02, 2020 (GLOBE NEWSWIRE) -- The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world."
-publishedDateTime: 2020-06-02T10:57:00Z
-webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02-61845727"
+excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world."
+publishedDateTime: 2020-06-02T10:56:00Z
+webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02"
 type: article
 quality: 37
 heat: 37
@@ -18,7 +18,7 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
+  - Computer Vision
   - AI
 
 images:
@@ -49,6 +49,6 @@ related:
       domain: benzinga.com
     quality: 9
 
-secured: "Nl1rEfBLNAnR3oMYDkRAhHez5D4ZCyaIcCdGXW138lPSb9l3eFiMTuQGkqiZNDHmo7089o7CUoKuR38nnCiGIF6Y6uDZvRJqbyz41sQZVrIywQ6OVXBbdPVB8lCmKjL3eFFnXh1XIFAiQhbaTWhx5g/gB/06RZA7SYWsDkq841bCypfVCxu1KMNAKwakpRX5G5BO4TZkQUPSjXVOH1ivFUXbffXTEvvDySvIvVvx70wxEgNAyLDfDifZ2QtVZ5APAsY/TXZoNPv5XP7fxjyuJGTmocQukxWtV/tPQ2PDzLkMOWF3/9mj5wICI1DCIliH;4+CRwY0NhXrrx51gI75pQw=="
+secured: "ZqtJcgI6DRRSN8fRMHn1AEDuhJ7WgTbxX/DQOIW6KhUVqtB0k4Q0X7C9cEBNi1PCztwRLUOHkZoDYC+2Qc+soxRtsSxRuBYZqXTHPmlOD7YDLQdr3XEPzeTBBqbEnVJHHElcIq6n669UOgGX9Tr/VQsrVz8YRnG/cKFGti+QX6Zow/TxaXCDsoRn+4nj33OtCa8qbJOluYbCjPyCe8MGrcluKSvdS6FTPwsAmXMVsBjnLk2k1G0xMTp69NFyYIiR7MRzxYpB/StNbRk3MMrk/7Osjet9yjrwXS6v/HNBfaHddM1h8tYCTd63UkYORydp;LhK6PTDG1ri0bb57Q3qtrQ=="
 ---
 
