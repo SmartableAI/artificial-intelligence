@@ -5,8 +5,8 @@ excerpt: "NEW YORK, NY / ACCESSWIRE / June 1, 2020 / GNY, the world’s first de
 publishedDateTime: 2020-06-01T14:25:00Z
 webUrl: "https://apnews.com/3dca674397d82d438fea3442f75cfb5c"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

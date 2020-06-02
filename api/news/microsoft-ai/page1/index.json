@@ -993,35 +993,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-19-sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions.md",
-      "title": "Sony joins Microsoft to create AI-driven smart camera solutions",
-      "excerpt": "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. The companies will embed Microsoft Azure AI capabilities on Sony's intelligent vision sensor IMX500,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.webindia123.com/news/articles/Science/20200520/3561442.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-19-microsoft-certified-azure-ai-fundamentals.md",
       "title": "Microsoft Certified: Azure AI Fundamentals",
       "excerpt": "This certification will be available on or around June 8, 2020. Azure AI Fundamentals validates foundational knowledge of machine learning and artificial intelligence concepts and related Microsoft Azure services.",
@@ -1110,6 +1081,43 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions.md",
+      "title": "Sony joins Microsoft to create AI-driven smart camera solutions",
+      "excerpt": "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sify.com/news/sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions-news-education-uftr59bgfdbgj.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/300520-Letter_uf4f1Ojbicjeb.jpg",
+          "width": 4755,
+          "height": 3896,
+          "title": "Sony joins Microsoft to create AI-driven smart camera solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {

@@ -2,6 +2,356 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-27-us-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing.md",
+      "title": "U.S. funds AI project to enable millisecond-level 5G spectrum sharing",
+      "excerpt": "The Department of Defense is backing an initiative that will enable some 5G spectrum to be efficiently shared by multiple users on a millisecond basis.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/27/u-s-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/27/u-s-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/27/u-s-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing/amp/",
+      "publishedDateTime": "2020-05-27T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/08/untitled-design2-e1585324670149.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "U.S. funds AI project to enable millisecond-level 5G spectrum sharing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market.md",
+      "title": "Investments in AI to Grow as COVID-19 Strikes Artificial Intelligence (AI) Chipset Market",
+      "excerpt": "The sudden challenges created by the ongoing COVID-19 are captured effectively to exhibit the long term growth projections",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market-2020-05-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Investments in AI to Grow as COVID-19 Strikes Artificial Intelligence (AI) Chipset Market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-amazon-might-buy-self-driving-startup-zoox-report-says.md",
+      "title": "Amazon might buy self-driving startup Zoox, report says",
+      "excerpt": "The purchase would continue Amazon's work to create its own delivery network and cut out driver pay to save cash.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/amazon-buy-self-driving-startup-zoox/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-buy-self-driving-startup-zoox/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-buy-self-driving-startup-zoox/",
+      "publishedDateTime": "2020-05-27T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/KWKx_VshCeTaf6InTIOGGAuLbV4=/2020/05/27/b33d5cd5-0063-4b3b-a074-45b1ebf23ccf/ogi-zoox.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Amazon might buy self-driving startup Zoox, report says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-seattle-smart-home-startup-wyze-raises-10m-to-launch-new-product-categories-and-improve-ai-tech.md",
+      "title": "Seattle smart home startup Wyze raises $10M to launch new product categories and improve AI tech",
+      "excerpt": "Wyze Labs just raised $10 million as it expands its smart home product offerings and adapts to the COVID-19 crisis. Previous investor Norwest led the Series A-1",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/seattle-smart-home-startup-wyze-raises-10m-launch-new-product-categories-improve-ai-tech/",
+      "ampWebUrl": "https://www.geekwire.com/2020/seattle-smart-home-startup-wyze-raises-10m-launch-new-product-categories-improve-ai-tech/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-smart-home-startup-wyze-raises-10m-launch-new-product-categories-improve-ai-tech/amp/",
+      "publishedDateTime": "2020-05-27T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-27-at-9.07.59-AM-630x414.png",
+          "width": 630,
+          "height": 414,
+          "title": "Seattle smart home startup Wyze raises $10M to launch new product categories and improve AI tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-amazon-in-talks-to-acquire-self-driving-car-startup-zoox.md",
+      "title": "Amazon in Talks to Acquire Self-Driving Car Startup Zoox",
+      "excerpt": "The company has long been an innovator in artificial intelligence. Now it wants to add additional autonomous vehicle technology to its portfolio.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
+      "publishedDateTime": "2020-05-27T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576082%2Fself-driving-electronic-computer-car-on-road.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 760,
+          "title": "Amazon in Talks to Acquire Self-Driving Car Startup Zoox",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan.md",
+      "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
+      "excerpt": "The European Commission is proposing to direct billions of euros of financial relief into high tech and green investments to help the bloc recover from the coronavirus crisis. Technologies such as 5G,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/amp/",
+      "publishedDateTime": "2020-05-27T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-914922266.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-baidu-releases-quantum-machine-learning-toolkit-on-github.md",
+      "title": "Baidu releases quantum machine learning toolkit on GitHub",
+      "excerpt": "Chinese tech giant's Paddle Quantum development toolkit now is available on GitHub, enabling developers to build and train quantum neural network models, and includes quantum computing applications.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
+      "publishedDateTime": "2020-05-27T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2014/09/05/40343944-34cd-11e4-9e6a-00505685119a/thumbnail/1200x675/09d197dae3621fd2b39e14fe08ffe2a0/objective-corporation-banks-on-r-and-d-in-revenue-push.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Baidu releases quantum machine learning toolkit on GitHub",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-microsoft-build-2020-colour-me-azure.md",
+      "title": "Microsoft Build 2020: Colour me Azure",
+      "excerpt": "The Microsoft Build conference is developer heaven. It’s also a great place to learn what’s coming for the rest of us in the Microsoft world, and this year’s conference, virtual though it was, was no different.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
+      "publishedDateTime": "2020-05-27T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/05/azure-regions-620x250.png",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft Build 2020: Colour me Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-former-microsoft-ai-and-bing-chief-harry-shum-joins-fast-growing-startup-news-break-as-chairman.md",
       "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
       "excerpt": "Microsoft’s former top artificial intelligence executive, Harry Shum, has signed on as chairman of the board of News Break, the technology startup founded and led by former Yahoo engineering",
@@ -745,340 +1095,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it.md",
-      "title": "AI is more data-hungry than ever, and DefinedCrowd raises $50M B round to feed it",
-      "excerpt": "As AI has grown from niche to mission-critical technology, the companies that enable it have multiplied and in many cases prospered. A good example of that success is DefinedCrowd, which has gone from the Disrupt stage to globe-spanning AI toolkit to the Fortune 500 in just a couple years.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/26/ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/26/ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/26/ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it/amp/",
-      "publishedDateTime": "2020-05-26T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/definedcrowd.png?w=1024",
-          "width": 1024,
-          "height": 502,
-          "title": "AI is more data-hungry than ever, and DefinedCrowd raises $50M B round to feed it",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty.md",
-      "title": "AI can battle coronavirus, but privacy shouldn’t be a casualty",
-      "excerpt": "Introduced as short-term fixes to the immediate threat of coronavirus, widespread data-sharing, monitoring and surveillance could become fixtures of modern public life.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/amp/",
-      "publishedDateTime": "2020-05-26T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1216351064.jpg?w=1024",
-          "width": 1024,
-          "height": 565,
-          "title": "AI can battle coronavirus, but privacy shouldn’t be a casualty",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars.md",
-      "title": "How Cinelytic is using AI to help Hollywood reboot for the streaming wars",
-      "excerpt": "L.A.-based Cinelytic wants to help Hollywood studios use AI to improve their decision-making and forecasting as they launch their streaming services.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/26/how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/26/how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars/amp/",
-      "publishedDateTime": "2020-05-26T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/cinelytic-e1590410711396.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "How Cinelytic is using AI to help Hollywood reboot for the streaming wars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher.md",
-      "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
-      "excerpt": "Some big trends stand to benefit Nvidia and its rivals, Intel and Advanced Micro Devices Inc. (NASDAQ: AMD). These include artificial intelligence, gaming and driverless vehicles.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/",
-      "ampWebUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
-      "publishedDateTime": "2020-05-26T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2019/02/imageforentry7-azs.jpg?w=400",
-          "width": 400,
-          "height": 225,
-          "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-facebooks-ai-convincingly-inserts-people-into-photos.md",
-      "title": "Facebook’s AI convincingly inserts people into photos",
-      "excerpt": "Facebook researchers propose AI that can insert people into existing images, and even change the hair and clothing styles of those inserted people.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/amp/",
-      "publishedDateTime": "2020-05-26T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AI convincingly inserts people into photos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
-      "excerpt": "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023-2020-05-26",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-arm-doubles-down-on-ai-for-mobile-devices.md",
-      "title": "Arm Doubles Down On AI For Mobile Devices",
-      "excerpt": "In addition to the A78, Arm debuted a whole new branch of CPUs with the Cortex-X1, a larger, but more powerful design. On the GPU side, the company made two different introductions: one at the top end of the performance chain and the other emphasizing the rapidly growing opportunity for moderately priced smartphones.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://seekingalpha.com/article/4350084-arm-doubles-down-on-ai-for-mobile-devices",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-using-artificial-intelligence-to-diagnose-lung-cancer.md",
-      "title": "Using Artificial Intelligence To Diagnose Lung Cancer",
-      "excerpt": "The National Cancer Institute reported that lung cancer accounts for 25% of all cancer deaths. According to Paul Pagano, Interium CEO and Chief Scientific Officer, LungLife AI around 80 percent of lung cancer is diagnosed at a late stage due to inadequate early detection strategies,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/05/26/using-artificial-intelligence-to-diagnose-lung-cancer/",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/05/26/using-artificial-intelligence-to-diagnose-lung-cancer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/05/26/using-artificial-intelligence-to-diagnose-lung-cancer/amp/",
-      "publishedDateTime": "2020-05-26T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180547354%2F0x0.jpg",
-          "width": 1199,
-          "height": 657,
-          "title": "Using Artificial Intelligence To Diagnose Lung Cancer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,10 +2,339 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-29-hello-and-welcome-robot-waiters-to-the-rescue-amid-virus.md",
+      "title": "Hello and welcome: Robot waiters to the rescue amid virus",
+      "excerpt": "You can always count on a robot for perfect timing. When Shaosong Hu saw robotic waiters serving food in China last fall, he knew exactly what he wanted for his",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/",
+      "ampWebUrl": "https://www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/amp/",
+      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/amp/",
+      "publishedDateTime": "2020-05-28T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAVY",
+        "domain": "wavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2020/05/cd8882238fca4e639fc2780457003fa9-1.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Hello and welcome: Robot waiters to the rescue amid virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics.md",
+      "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
+      "excerpt": "Monetary Authority of Singapore tasks two teams, comprising banks and artificial intelligence industry players, to develop metrics that ensure the \"responsible use of AI\" for credit risk scoring and customer marketing.",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
+      "publishedDateTime": "2020-05-28T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2014/09/18/c013a710-3f12-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/f86b2d87bc6b68d5b79dc28b17f7b657/building-a-people-centric-datacenter.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-heres-how-mfine-is-using-technology-to-disrupt-healthcare.md",
+      "title": "Here's How MFine Is Using Technology To Disrupt Healthcare",
+      "excerpt": "The Bengaluru-based start-up offers an online consultation platform and has seen teleconsultations grow 5-6 times in the last few weeks owing to the Coronavirus outbreak",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/351226",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351226",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351226",
+      "publishedDateTime": "2020-05-28T21:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590692668-Webpnet-compress-image43.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Here's How MFine Is Using Technology To Disrupt Healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic.md",
+      "title": "Demand For These Autonomous Delivery Robots Is Skyrocketing During This Pandemic",
+      "excerpt": "Although there is much unknown about the way the world will be post-coronavirus, we're certain that it will include autonomous delivery robots in our workplaces, public spaces, and streets. This technology was given a boost during coronavirus as a viable way for people to receive food and medicine.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/29/demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/29/demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/29/demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic/amp/",
+      "publishedDateTime": "2020-05-28T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed08dc48be1be0006b4b89d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Demand For These Autonomous Delivery Robots Is Skyrocketing During This Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless.md",
+      "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+      "excerpt": "As South Korea continues to loosen its social distancing guidelines amid the COVID-19 outbreak, hard-hit movie theaters are trying to find ways to lure customers back.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/",
+      "ampWebUrl": "https://gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/amp/",
+      "cdnAmpWebUrl": "https://gephardtdaily-com.cdn.ampproject.org/c/s/gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/amp/",
+      "publishedDateTime": "2020-05-28T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gephardt Daily",
+        "domain": "gephardtdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gephardtdaily.com/wp-content/uploads/2020/05/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless.jpg",
+          "width": 693,
+          "height": 386,
+          "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds.md",
+      "title": "ACLU sues Clearview AI claiming the company's tech crosses ethical bounds",
+      "excerpt": "The American Civil Liberties Union has accused Clearview AI's biometric platform of creating a nightmare scenario that many have long feared.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
+      "publishedDateTime": "2020-05-28T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2018/05/09/4cd04908-1033-469f-be2f-dfe55163e039/thumbnail/1200x675/6cc8d2e936c36888209677284ed1acbe/toll-group.png",
+          "width": 1200,
+          "height": 675,
+          "title": "ACLU sues Clearview AI claiming the company's tech crosses ethical bounds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker.md",
+      "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
+      "excerpt": "Preferred Networks (PFN) released the first major version of their open-source hyperparameter optimization (HPO) framework Optuna in January 2020, which has an eager API. This post introduces a method for HPO using Optuna and its reference architecture in Amazon SageMaker. \nAmazon SageMaker supports",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T16:39:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/optuna-1-674x630.gif",
+          "width": 674,
+          "height": 630,
+          "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
+      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 57.4% from its 52-week low price of $14.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2020-05-28?amp",
+      "publishedDateTime": "2020-05-28T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-apple-acquires-machine-learning-startup-inductiv.md",
       "title": "Apple Acquires Machine Learning Startup Inductiv",
       "excerpt": "Apple (NASDAQ:AAPL) has acquired Inductiv, a machine-learning (ML) start-up that uses artificial intelligence (AI) to automatically identify and correct errors that may be lurking",
-      "heat": 119,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.fool.com/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx",
@@ -95,7 +424,7 @@
       "path": "_news/2020-05-28-aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations.md",
       "title": "ACLU sues facial recognition startup Clearview AI for privacy and safety violations",
       "excerpt": "The ACLU claims Clearview AI \"will end privacy as we know it if it isn't stopped\" and calls the startup a threat to safety.",
-      "heat": 150,
+      "heat": 160,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/",
@@ -979,340 +1308,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-ai-weiwei-has-turned-his-most-iconic-artworks-into-charity-face-masks.md",
-      "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
-      "excerpt": "The dissident artist is hoping to raise at least $1 million for vulnerable and displaced people impacted by the Covid-19 pandemic.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-charity-masks/index.html",
-      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
-      "publishedDateTime": "2020-05-28T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200528145627-02-ai-weiwei-mask-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-apple-buys-an-ai-startup-to-improve-siris-data.md",
-      "title": "Apple buys an AI startup to improve Siri's data",
-      "excerpt": "Cleaner data would go a long way toward that goal by reducing the chances that garbage information confuses Siri. Apple has been determined to upgrade Siri in recent times, and made waves when it hired Google’s former AI leader John Giannandrea with that upgrade in mind.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/apple-buys-inductiv-for-siri-data-010651483.html",
-      "ampWebUrl": "https://www.engadget.com/amp/apple-buys-inductiv-for-siri-data-010651483.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-buys-inductiv-for-siri-data-010651483.html",
-      "publishedDateTime": "2020-05-27T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F7ac2f8f0-a074-11ea-bb7f-56e2f6f772d9&client=amp-blogside-v2&signature=69523b6c4d75dbaae8e727bede25174d1162dcf2",
-          "width": 600,
-          "height": 350,
-          "title": "Apple buys an AI startup to improve Siri's data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects.md",
-      "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
-      "excerpt": "Adding to a mounting number of artificial intelligence-related acquisitions, Apple in the past few weeks purchased Ontario-based Inductiv to work on Siri and machine learning initiatives.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects",
-      "ampWebUrl": "https://appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects/amp/",
-      "publishedDateTime": "2020-05-27T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/35976-66479-200527-Siri-xl.jpg",
-          "width": 1092,
-          "height": 692,
-          "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-amazon-is-in-advanced-talks-to-purchase-self-driving-vehicle-start-up-zoox.md",
-      "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
-      "excerpt": "Amazon is reportedly in advanced talks to purchase self-driving vehicle start-up Zoox. Sources familiar with the matter tell The Wall Street Journal that the deal would value the company under $3.2 billion,",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
-      "publishedDateTime": "2020-05-27T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-27-image-45.jpg",
-          "width": 1260,
-          "height": 840,
-          "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-making-it-easier-to-stay-caught-up-with-cortana-in-microsoft-365.md",
-      "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
-      "excerpt": "The post Making it easier to stay caught up with Cortana in Microsoft 365 appeared first on The AI Blog.\n",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/",
-      "ampWebUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/amp/",
-      "cdnAmpWebUrl": "https://www-microsoft-com.cdn.ampproject.org/c/s/www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/amp/",
-      "publishedDateTime": "2020-05-27T12:48:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/05/Cortana-Briefing-SOCIAL.png",
-          "width": 1200,
-          "height": 634,
-          "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-computer-vision-and-uncertainty-in-ai-for-robotic-prosthetics.md",
-      "title": "Computer vision and uncertainty in AI for robotic prosthetics",
-      "excerpt": "Researchers have developed new software that can be integrated with existing hardware to enable people using robotic prosthetics or exoskeletons to walk in a safer, more natural manner on different types of terrain.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200527133147.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-new-models-use-computer-vision-and-ai-to-identify-covid-19-in-x-rays.md",
-      "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
-      "excerpt": "Students at Cranfield University have designed computer models that can identify COVID-19 in X-rays. The models use computer vision and artificial intelligence (AI) to analyze chest X-ray imagery. It can classify information which would not normally be recognized with the naked eye and assist with the diagnosis of COVID-19.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
-      "publishedDateTime": "2020-05-27T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-baidu-accelerates-its-self-driving-car-initiative-with-new-test-center-and-partnership.md",
-      "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
-      "excerpt": "Big investments in autonomous-vehicle and AI technology could be the key to getting Baidu's growth back on track.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
-      "publishedDateTime": "2020-05-27T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576084%2Fgettyimages-1136820871.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

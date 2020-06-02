@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-05-mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements.md",
+      "title": "MediaTek announces the Helio G85 with a 1GHz GPU and HyperEngine improvements",
+      "excerpt": "MediaTek announced its latest chipset from its Helio G gaming series, the G85. It combines a 1GHz GPU with MediaTek's own HyperEngine for what the company is promising is gaming greatness.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements",
+      "ampWebUrl": "https://www.neowin.net/amp/mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements/",
+      "publishedDateTime": "2020-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1588628153_mediatek_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "MediaTek announces the Helio G85 with a 1GHz GPU and HyperEngine improvements",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone.md",
       "title": "AI Hub Singapore creates first AI computer vision application that allows businesses to monitor social distancing with a mobile phone",
       "excerpt": "Dubbed SafeDistancer, the innovative application makes use of AI and computer vision to detect people in the phone's camera frame and monitors the distance between them in realtime. When people ...",
@@ -1131,43 +1177,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-why-samsung-thinks-its-2020-tvs-are-the-perfect-partners-for-the-next-gen-game-consoles.md",
-      "title": "Why Samsung Thinks Its 2020 TVs Are The Perfect Partners For The Next-Gen Game Consoles",
-      "excerpt": "In recognition of the fact that minimizing nput ... This feature has the potential to be especially effective with the new Object Tracking Sound technology found in varying configurations on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnarcher/2020/04/25/why-samsung-thinks-its-2020-tvs-are-the-perfect-partners-for-the-next-gen-game-consoles/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnarcher/2020/04/25/why-samsung-thinks-its-2020-tvs-are-the-perfect-partners-for-the-next-gen-game-consoles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnarcher/2020/04/25/why-samsung-thinks-its-2020-tvs-are-the-perfect-partners-for-the-next-gen-game-consoles/amp/",
-      "publishedDateTime": "2020-04-25T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

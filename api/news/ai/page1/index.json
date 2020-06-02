@@ -2,10 +2,322 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-01-breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week.md",
+      "title": "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week",
+      "excerpt": "AI startup Stitch Fix, a company that uses algorithms and computer vision to help consumers find clothes they like, is apparently taking a bold approach to company expansion: it’s “significantly reducing” the number of employees it has so that it can hire people in other states.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/amp/",
+      "publishedDateTime": "2020-06-01T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/layoffs-796x402.jpg",
+          "width": 796,
+          "height": 402,
+          "title": "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments.md",
+      "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
+      "excerpt": "Researchers at Microsoft and Arizona State University propose in a paper a method of detecting fake news using a technique called weak supervision.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/amp/",
+      "publishedDateTime": "2020-06-01T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/fake_news.shutterstock_559003162-e1582064474697.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us.md",
+      "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
+      "excerpt": "Predicting wildfires is a tricky business. A new artificial intelligence model could help fire agencies allocate resources to mitigate wildfire risks across the West.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "publishedDateTime": "2020-06-01T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/01/b9176e1d-1077-48f8-8817-349aa8ebe44a/resize/1200x/5e79b0a17d7fead9c196dc9e6025c51f/wildfire.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-third-pixel-feature-drop-improves-ai-powered-adaptive-battery-integrates-recorder-and-google-assistant.md",
+      "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
+      "excerpt": "Google's third Pixel feature drop brings a smarter Adaptive Battery, Recorder integration with Google Assistant, and bedtime and personal safety features.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
+      "publishedDateTime": "2020-06-01T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/android-bedtime-graphic.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-mit-learns-to-make-robots-less-clumsy-by-putting-cameras-in-their-fingers.md",
+      "title": "MIT learns to make robots less clumsy by putting cameras in their fingers",
+      "excerpt": "Two new research projects out of MIT give robots the ability to sense what they are picking up. It's useful for delicate tasks such as picking up a potato chip.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/news/mit-csail-gelflex-robot-hand-camera/",
+      "ampWebUrl": "https://www.digitaltrends.com/news/mit-csail-gelflex-robot-hand-camera/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelflex-robot-hand-camera/?amp",
+      "publishedDateTime": "2020-06-01T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/mit-gripper-can-copy-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "MIT learns to make robots less clumsy by putting cameras in their fingers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-alexa-uses-amazon-translate-to-reach-more-international-customers.md",
+      "title": "Alexa uses Amazon Translate to reach more international customers",
+      "excerpt": "Amazon Alexa is available in 15 locales and eight languages. To understand and respond in different languages, Alexa needs to learn new grammar rules, and the content that powers Alexa needs to be translated to new languages. Additionally, Alexa needs to learn about country-specific topics, such as new",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/alexa-uses-amazon-translate-to-reach-more-international-customers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T09:50:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png",
+          "width": 1024,
+          "height": 512,
+          "title": "Alexa uses Amazon Translate to reach more international customers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-amazon-textract-is-now-soc-and-iso-compliant.md",
+      "title": "Amazon Textract is now SOC and ISO compliant",
+      "excerpt": "You can now use Amazon Textract, a machine learning (ML) service that quickly and easily extracts text and data from forms and tables in scanned documents, for workloads that are subject to Service Organization Control (SOC) compliance and International Organization for Standardization (ISO) compliance.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-is-now-soc-and-iso-compliant/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T09:00:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/10/site-merch_Textract_SocialMedia_2.png",
+          "width": 800,
+          "height": 400,
+          "title": "Amazon Textract is now SOC and ISO compliant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars.md",
       "title": "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars",
       "excerpt": "A Kansas soldier that happened to be driving his car on the bridge, waiting in traffic, realized that an active shooter was ahead of him, and so the soldier opted to navigate his car out of traffic and steered directly toward the shooter,",
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/",
@@ -43,7 +355,8 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI in Autos"
       ]
     },
     {
@@ -229,7 +542,7 @@
       "path": "_news/2020-06-01-otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots.md",
       "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
       "excerpt": "Otto Motors, a subsidiary of Clearpath Robotics that supplies autonomous mobile robots to manufacturing and logistics customers, has raised $29 million.",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/",
@@ -410,7 +723,7 @@
       "path": "_news/2020-06-01-jeff-bezos-is-buying-a-stake-in-uk-digital-supply-chain-startup-beacon.md",
       "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
       "excerpt": "Based in London and founded in 2018, Beacon's investors already include executives from Uber, Google and Amazon, the firm says.",
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnbc.com/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
@@ -926,6 +1239,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-30-waymo-to-bring-self-driving-minivans-back-to-bay-area-but-not-for-passengers.md",
+      "title": "Waymo to bring self-driving minivans back to Bay Area, but not for passengers",
+      "excerpt": "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8, but instead of transporting passengers, they will be delivering packages.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp",
+      "publishedDateTime": "2020-05-30T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-30-ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster.md",
       "title": "AI Startup Combines Mouse Neurons With Silicon Chips To Make Computers Smarter, Faster",
       "excerpt": "There aren’t many computer chips that you have to build a life support system for. But when you’re combining actual living brain cells with inorganic silicon chips, you can’t feed them just electricity.",
@@ -959,354 +1309,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-waymos-self-driving-minivans-will-return-to-california-streets-in-june.md",
-      "title": "Waymo's self-driving minivans will return to California streets in June",
-      "excerpt": "The Alphabet-owned company shut down a public testing program for its self-driving minivans in early March, as the global pandemic started to reshape society in the United States. Now that fleet will reportedly return to the streets of San Francisco on June 8.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/waymo-self-driving-san-francisco-package-delivery/",
-      "ampWebUrl": "https://mashable.com/article/waymo-self-driving-san-francisco-package-delivery.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-self-driving-san-francisco-package-delivery.amp",
-      "publishedDateTime": "2020-05-30T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F05%252F30%252Feb%252F5e5b46aaedeb47c0b739f26f3fd553e9.74557.jpg%252F1200x630.jpg?signature=xUO9hqK5LNlxZPLg539Vi6Hjo-s=",
-          "width": 1200,
-          "height": 630,
-          "title": "Waymo's self-driving minivans will return to California streets in June",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-microsoft-lays-off-journalists-to-replace-them-with-ai.md",
-      "title": "Microsoft lays off journalists to replace them with AI",
-      "excerpt": "Microsoft is laying off dozens of journalists and editorial workers at its Microsoft News and MSN organizations. The layoffs are part of a bigger push by Microsoft to rely on artificial intelligence to pick news and content that’s presented on MSN.",
-      "heat": 167,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements",
-      "publishedDateTime": "2020-05-30T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/OQ1cQ3E_SYrS9YZz-esPG3MaYgM=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66875825/acastro_180507_1777_microsoft_0002.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Microsoft lays off journalists to replace them with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-this-indian-start-up-is-using-ai-to-monitor-covid-19-progression-inside-patients.md",
-      "title": "This Indian Start-Up Is Using AI To Monitor COVID-19 Progression Inside Patients",
-      "excerpt": "Ray in about a minute and provides details about whether a patient was getting better as a result of the treatments administered.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/351294",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351294",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351294",
-      "publishedDateTime": "2020-05-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590832747-PrashantWarierQureai.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Indian Start-Up Is Using AI To Monitor COVID-19 Progression Inside Patients",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-new-ai-technique-speeds-up-language-models-on-edge-devices.md",
-      "title": "New AI technique speeds up language models on edge devices",
-      "excerpt": "Researchers at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and MIT-IBM Watson AI Lab recently proposed Hardware-Aware Transformers (HAT), an AI model training technique that incorporates Google’s Transformer architecture.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/amp/",
-      "publishedDateTime": "2020-05-29T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "New AI technique speeds up language models on edge devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery.md",
-      "title": "As wildfire season approaches, AI could pinpoint risky regions using satellite imagery",
-      "excerpt": "The U.S. has suffered from devastating wildfires over the last few years as global temperatures rise and weather patterns change, making the otherwise natural phenomenon especially unpredictable and severe.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/29/as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/29/as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/29/as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery/amp/",
-      "publishedDateTime": "2020-05-29T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/cal-fire-view.jpg?w=1024",
-          "width": 1024,
-          "height": 689,
-          "title": "As wildfire season approaches, AI could pinpoint risky regions using satellite imagery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task.md",
-      "title": "OpenAI and Uber create Virtual Petri Dish to find the best AI model for a task",
-      "excerpt": "Researchers at OpenAI and Uber propose Synthetic Petri Dish, a highly efficient technique for finding optimal AI architectures.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/29/openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/29/openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task/amp/",
-      "publishedDateTime": "2020-05-29T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "OpenAI and Uber create Virtual Petri Dish to find the best AI model for a task",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-the-need-for-speed-faster-ai-adoption-requires-a-new-plan.md",
-      "title": "The Need For Speed: Faster AI Adoption Requires A New Plan",
-      "excerpt": "As companies look to leverage more AI, better planning will be a critical requirement. A look at what businesses should do to move forward with their AI strategies.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/amp/",
-      "publishedDateTime": "2020-05-29T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed161661234f60007ce1e59%2F0x0.jpg",
-          "width": 1200,
-          "height": 786,
-          "title": "The Need For Speed: Faster AI Adoption Requires A New Plan",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-ai-weekly-autonomous-vehicle-companies-pivot-to-charitable-deliveries-during-the-pandemic.md",
-      "title": "AI Weekly: Autonomous vehicle companies pivot to charitable deliveries during the pandemic",
-      "excerpt": "During the pandemic, autonomous vehicles companies like Beep, Gatik, and Optimus Ride are helping to deliver goods to those in need.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/29/ai-weekly-autonomous-vehicle-companies-pivot-to-charitable-deliveries-during-the-pandemic/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/29/ai-weekly-autonomous-vehicle-companies-pivot-to-charitable-deliveries-during-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/ai-weekly-autonomous-vehicle-companies-pivot-to-charitable-deliveries-during-the-pandemic/amp/",
-      "publishedDateTime": "2020-05-29T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/optimus-ride-logo-on-vehicle-e1590635948122.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: Autonomous vehicle companies pivot to charitable deliveries during the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

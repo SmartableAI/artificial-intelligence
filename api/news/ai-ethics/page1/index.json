@@ -5,7 +5,7 @@
       "path": "_news/2020-06-01-heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars.md",
       "title": "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars",
       "excerpt": "A Kansas soldier that happened to be driving his car on the bridge, waiting in traffic, realized that an active shooter was ahead of him, and so the soldier opted to navigate his car out of traffic and steered directly toward the shooter,",
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI in Autos"
       ]
     },
     {

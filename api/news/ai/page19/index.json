@@ -2,6 +2,360 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-05-12-sony-just-teamed-up-with-a-robot-avatar-company-with-big-ambitions.md",
+      "title": "Sony just teamed up with a robot avatar company with big ambitions",
+      "excerpt": "Sony and remotely-controlled robot startup Avatarin are teaming up to make telepresence avatars smarter, borrowing tech from Aibo and more. It’s the latest move by the freshly-founded Sony",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/",
+      "ampWebUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
+      "publishedDateTime": "2020-05-12T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/avatarin-robot-avatar.jpg",
+          "width": 1502,
+          "height": 1063,
+          "title": "Sony just teamed up with a robot avatar company with big ambitions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-how-to-use-google-lens-to-copy-and-paste-handwritten-notes.md",
+      "title": "How to use Google Lens to copy and paste handwritten notes",
+      "excerpt": "Google has just launched an update for its object recognition too, Google Lens. The AI-powred camera assistant is now able to copy and paste your handwritten notes and memos from paper to your ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidpit.com/how-to-use-google-lens-to-copy-and-paste-handwritten-notes",
+      "ampWebUrl": "https://www.androidpit.com/how-to-use-google-lens-to-copy-and-paste-handwritten-notes?amp=true",
+      "cdnAmpWebUrl": "https://www-androidpit-com.cdn.ampproject.org/c/s/www.androidpit.com/how-to-use-google-lens-to-copy-and-paste-handwritten-notes?amp=true",
+      "publishedDateTime": "2020-05-12T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AndroidPIT",
+        "domain": "androidpit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://fscl01.fonpit.de/userfiles/7640001/image/google-pixel-4/AndroidPIT-Google-Pixel-4-Camera-w810h462.jpg",
+          "width": 810,
+          "height": 462,
+          "title": "How to use Google Lens to copy and paste handwritten notes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-nntcs-fully-autonomous-ai-powered-face-recognition-integrated-on-vuzix-smart-glasses-now-supports-4g-and-5g.md",
+      "title": "NNTC's Fully Autonomous AI-Powered Face Recognition Integrated on Vuzix Smart Glasses Now Supports 4G and 5G",
+      "excerpt": "PRNewswire/ -- Vuzix® Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a leading supplier of Smart Glasses and Augmented Reality (AR) technology and products, together with",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nntcs-fully-autonomous-ai-powered-face-recognition-integrated-on-vuzix-smart-glasses-now-supports-4g/article_e6018e63-90da-50c3-9b17-556d9b1517ff.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "NNTC's Fully Autonomous AI-Powered Face Recognition Integrated on Vuzix Smart Glasses Now Supports 4G and 5G",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-how-ai-and-gaze-control-will-help-businesses-reopen-safely.md",
+      "title": "How AI And “Gaze Control” Will Help Businesses Reopen Safely",
+      "excerpt": "When businesses and other institutions open up, they will need to do a lot of things differently. Here's how new technologies like AI and \"gaze control\" can help.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sap/2020/05/12/how-ai-and-gaze-control-will-help-businesses-reopen-safely/",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/05/12/how-ai-and-gaze-control-will-help-businesses-reopen-safely/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/05/12/how-ai-and-gaze-control-will-help-businesses-reopen-safely/amp/",
+      "publishedDateTime": "2020-05-12T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1048105658%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6016%26cropY1%3D312%26cropY2%3D3695",
+          "width": 1200,
+          "height": 675,
+          "title": "How AI And “Gaze Control” Will Help Businesses Reopen Safely",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-how-the-coronavirus-will-permanently-change-healthcare-according-to-26-top-industry-leaders.md",
+      "title": "How the coronavirus will permanently change healthcare, according to 26 top industry leaders",
+      "excerpt": "Coronavirus is changing the future of the healthcare industry",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/whats-next-ceos-future-leaders-200-healthcare-covid-19-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/whats-next-ceos-future-leaders-200-healthcare-covid-19-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/whats-next-ceos-future-leaders-200-healthcare-covid-19-2020-5?amp",
+      "publishedDateTime": "2020-05-12T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5eb5c9d75f726e0d2b19599c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How the coronavirus will permanently change healthcare, according to 26 top industry leaders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-how-ai-is-transforming-the-way-customer-service-teams-work-in-the-2020s.md",
+      "title": "How AI is Transforming the Way Customer Service Teams Work in the 2020s",
+      "excerpt": "AI was once a concept that belonged in the realm of science fiction. There was even a major Hollywood film with that exact two-letter title. It may have been novel then, but as we move into the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.business2community.com/customer-experience/how-ai-is-transforming-the-way-customer-service-teams-work-in-the-2020s-02309605",
+      "ampWebUrl": "https://www.business2community.com/customer-experience/how-ai-is-transforming-the-way-customer-service-teams-work-in-the-2020s-02309605/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/how-ai-is-transforming-the-way-customer-service-teams-work-in-the-2020s-02309605/amp",
+      "publishedDateTime": "2020-05-12T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-dr-ranveer-chandra-chief-scientist-of-microsoft-azure-global-joins-terrameras-science-technology-advisory-council.md",
+      "title": "Dr. Ranveer Chandra, Chief Scientist of Microsoft Azure Global, Joins Terramera’s Science & Technology Advisory Council",
+      "excerpt": "Terramera®, the global agtech leader transforming how food is grown and the economics of agriculture over the next decade, today announced that Dr. Ra",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200512005274/en/Dr.-Ranveer-Chandra-Chief-Scientist-Microsoft-Azure/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A==",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200512005274/en/791007/23/Ranveer.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Dr. Ranveer Chandra, Chief Scientist of Microsoft Azure Global, Joins Terramera’s Science & Technology Advisory Council",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-ibms-watson-aiops-a-killer-app-for-cios.md",
+      "title": "IBM’s Watson AIOps - A Killer App For CIOs",
+      "excerpt": "Watson AIOps could be one of the most powerful tools any CIO can deploy to help them adopt and adapt to hybrid cloud infrastructures and make their digital transformations more successful.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/05/12/ibms-watson-aiopsa-killer-app-for-cios/",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/05/12/ibms-watson-aiopsa-killer-app-for-cios/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/05/12/ibms-watson-aiopsa-killer-app-for-cios/amp/",
+      "publishedDateTime": "2020-05-12T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eba0b07ab221b00075732a8%2F0x0.jpg",
+          "width": 1200,
+          "height": 851,
+          "title": "IBM’s Watson AIOps - A Killer App For CIOs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital.md",
+      "title": "AI Start-Up LexCheck Raises $3 Million Series Seed Investment Led by Kli Capital",
+      "excerpt": "PRNewswire/ -- LexCheck, an artificial intelligence (AI) and legal technology platform based in New York City, has",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649",
+      "publishedDateTime": "2020-05-12T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-javascript-programming-language-developers-this-is-kites-new-free-ai-code-completion-tool.md",
       "title": "JavaScript programming language developers: This is Kite's new free AI code-completion tool",
       "excerpt": "Kite's code completion has supported Python for six years. Last January the company landed $10m in funding as it launched more complex line-of-code completions for Python, helping",
@@ -904,384 +1258,6 @@
         "Microsoft AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-aws-announces-general-availability-of-amazon-kendra.md",
-      "title": "AWS Announces General Availability of Amazon Kendra",
-      "excerpt": "AWS announces the general availability of Amazon Kendra, a highly accurate and easy to use enterprise search service powered by machine learning.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200511005867/en/AWS-Announces-General-Availability-Amazon-Kendra",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200511005867/en/790881/23/AWS_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "AWS Announces General Availability of Amazon Kendra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-arlington-asset-investment-corp-ai-q1-2020-earnings-call-transcript.md",
-      "title": "Arlington Asset Investment Corp (AI) Q1 2020 Earnings Call Transcript",
-      "excerpt": "Arlington Asset Investment Corp Q1 2020 Earnings Call May 11, 2020, 10:00 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
-      "publishedDateTime": "2020-05-11T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-          "width": 580,
-          "height": 618,
-          "title": "Arlington Asset Investment Corp (AI) Q1 2020 Earnings Call Transcript",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation.md",
-      "title": "UPS: How VR, IoT, AI, and big data powers the logistics company's digital transformation",
-      "excerpt": "In light of the novel coronavirus pandemic, there are more eyes than ever on the global supply chain and worker safety as logistics companies and postal agencies work to provide essential delivery services.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/",
-      "publishedDateTime": "2020-05-11T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/03/23/11232f1b-da8c-4e3c-98a8-966c33370e4f/thumbnail/1200x675/486d0069eff46635d66b70183fea7484/2020-ups-part0-main.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "UPS: How VR, IoT, AI, and big data powers the logistics company's digital transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-this-ai-tool-predicts-whos-got-covid-19-without-testing.md",
-      "title": "This AI tool predicts who’s got COVID-19 without testing",
-      "excerpt": "A new AI diagnostic tool trained on crowdsourced data from the COVID Symptom Study app predicts who's got COVID-19 without testing",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/amp/",
-      "publishedDateTime": "2020-05-11T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-32-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This AI tool predicts who’s got COVID-19 without testing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump.md",
-      "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
-      "excerpt": "An AI speech recognition bot designed to analyze speech and compile it into a database broke when it tried to analyze Trump's speech patterns, its creator",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "ampWebUrl": "https://amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
-      "publishedDateTime": "2020-05-11T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/bf3770e6-d718-5402-b212-cb364f2fa018/default-1589197781-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-zoom-xoom-zum-why-does-every-startup-sound-fast-now.md",
-      "title": "Zoom, Xoom, Züm: Why does every startup sound fast now?",
-      "excerpt": "There have been at least 120 startups whose names include something that sounds like “zoom.” Another fact: They have raised a collective $1.8 billion in funding.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/boston/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11660440/zoom-soundalikes-0*400xx2400-2400-0-0.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Zoom, Xoom, Züm: Why does every startup sound fast now?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai.md",
-      "title": "Paradox Raises $40M Series B to Help Companies Embrace the Future of Work with Conversational AI",
-      "excerpt": "Press Release Paradox, the conversational AI platform helping HR and talent teams automate administrative tasks and deliver real-time candidate and employee communications, announced today $40M in Series B funding,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/amp/",
-      "publishedDateTime": "2020-05-11T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20200511005657/en/790786/4/paradox-hq.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 360,
-          "title": "Paradox Raises $40M Series B to Help Companies Embrace the Future of Work with Conversational AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips.md",
-      "title": "Qualcomm and MediaTek chase video and game fans with tweaked 5G chips",
-      "excerpt": "New chips from two top device chipmakers suggest that high frame rate videos and games will be major selling points for even budget 5G phones.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/amp/",
-      "publishedDateTime": "2020-05-11T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/snapdimen.jpg?fit=1440%2C720&strip=all",
-          "width": 1440,
-          "height": 720,
-          "title": "Qualcomm and MediaTek chase video and game fans with tweaked 5G chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ai-can-help-to-inform-pandemic-policy.md",
-      "title": "AI Can Help To Inform Pandemic Policy",
-      "excerpt": "An Interview with Dr. Deborah Duong, Director for AI Development at Rejuve and Director of Network Analytics at SingularityNET and Dr. Ben Goertzel, founder of SingularityNET.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/amp/",
-      "publishedDateTime": "2020-05-11T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x621/https://specials-images.forbesimg.com/imageserve/5eb2eeb5858c030007722ea6/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 621,
-          "title": "AI Can Help To Inform Pandemic Policy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

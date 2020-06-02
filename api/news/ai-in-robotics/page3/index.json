@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-12-sony-just-teamed-up-with-a-robot-avatar-company-with-big-ambitions.md",
+      "title": "Sony just teamed up with a robot avatar company with big ambitions",
+      "excerpt": "Sony and remotely-controlled robot startup Avatarin are teaming up to make telepresence avatars smarter, borrowing tech from Aibo and more. It’s the latest move by the freshly-founded Sony",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/",
+      "ampWebUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
+      "publishedDateTime": "2020-05-12T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/avatarin-robot-avatar.jpg",
+          "width": 1502,
+          "height": 1063,
+          "title": "Sony just teamed up with a robot avatar company with big ambitions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-transformative-robotics-technology-from-brain-corp.md",
       "title": "Transformative Robotics Technology From Brain Corp",
       "excerpt": "With retailers seeking to enhance the customer experience, not to mention overcome current COVID-19 challenges, Brain Corp believes that technology offers a way",
@@ -1223,43 +1268,6 @@
           "width": 724,
           "height": 483,
           "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-robot-vacuum-cleaner-roleplays-seven-dwarfs-in-personality-test.md",
-      "title": "Robot vacuum cleaner roleplays seven dwarfs in personality test",
-      "excerpt": "Oregon State University researchers have used a robot vacuum cleaner equipped with behavioural patterns inspired by the personalities of three characters from Disney's 'Snow White and the Seven Dwarfs' to demonstrate that people can guess a robot’s ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/05/robot-vacuum-cleaner-roleplays-seven-dwarfs-in-personality-test/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/11265/snow-white-and-the-seven-dwarfs.jpg?crop=0,0.33514696685428391,0,0.1730612883051908&cropmode=percentage&width=1200&height=450&rnd=132331555280000000",
-          "width": 1200,
-          "height": 450,
-          "title": "Robot vacuum cleaner roleplays seven dwarfs in personality test",
           "attribution": null
         }
       ],

@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldie
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/amp/"
 type: article
-quality: 70
-heat: 70
+quality: 72
+heat: 72
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed17cfd1234f60007ce207c%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 720
     title: "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars"
 
-secured: "bFW7Gwkc9bIGQMnXUir8ZHYUAxCJvSboPU1KKuJqfOglaBrq06yypbLXCcMQE/8hYxNrFwSpBPwzYK3ZY/wsrc0bcoHSj4B75R9DlHffgsu60y1Fc4LaqfHqyQYHciSOOtsRWiV9o4IJNwHACOuBmjDxfo+toVzMhqIb3jqRzk+46Es8ywhCGtzrbsS02C1pcg/fpUFl92tgXZ2sq6eMrCmcL7X+QRrNHzF0WxYMjlOBgI4Y2s7emkNXaCF4yydoiTQf6yDTmDwFSy4+jHBWlwTUBsEpCaqByYDbsZAuDp+V7nUPgsYW/Uh1GsbC9bVs;0aHDEyr0IZwjPIGreGFeow=="
+secured: "IKc9KsvZAE0Br0brUVPqFdXonjBbZ1VcjnlOI184MPsrmKhtBFmOn2k/Q0goKky7rWXIMpueirvuqUMxuPeyWM4Hc7eAGrpLE/JdBocIP4WVF8mirmA9t4f1D/X71OTCa944YXGPiA2E6HaY6glv7nyEmLUGu+Z7lntt2hpj2xlEDmnrRVuLzkKj1irfzXGcNoIqg8wkksyJY/wNJ5Bs/Mn54zjhpowk8GF9cCamIJX21x4hp5JfEJJLNHQ/F+pk1GWV7OpmSw+1w5eXzRYpnrsTTptoDLmYGu1YPf42UboPoSTtRNpNbb/LobJWbxLsU0fm9272g/jtTmdMt68k9DpPSAfGPt47CMpGnQvsZjci/lIFESyNuBQEIrcrRJ581eZFhed25Tyo6dg4i8MK4IiedgLpy39OZ5BMe1xpE0RNvPCKaaPtNp+FargHF9fzGTHn44x95EO1cdMhroucYI/yzl88KStComoD+5w3kac=;EYdtpqh4fxrQAhNotfCZnQ=="
 ---
 

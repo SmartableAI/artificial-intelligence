@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Ambarella Adopts Cadence Clarity 3D Solver for AI Vision Processor Development"
-excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that Ambarella, Inc. has adopted the Cadence ® Clarity ™ 3D Solver for design of their next-generation AI vision processors. Ambarella’s products are used in a wide variety of human and computer vision applications,"
+excerpt: "Cadence ® Clarity ™ 3D Solver for design of their next-generation AI vision processors. Ambarella’s products are used in a wide variety of human and computer vision applications, including video security,"
 publishedDateTime: 2020-06-01T14:45:00Z
-webUrl: "https://apnews.com/f98bbd2ac21a44a3b47e4ed203b90216"
+webUrl: "https://www.businesswire.com/news/home/20200601005209/en/Ambarella-Adopts-Cadence-Clarity-3D-Solver-AI"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    title: "Ambarella Adopts Cadence Clarity 3D Solver for AI Vision Processor Development"
-
-secured: "o9RQELXYDHFEDkteh8hmZnM4QVKX/4Xyxd6DiLz0N8v9P1W3yYp7vBtyV5+JXxy87hzaD3T+z0wON2uQkVbXTNYGHKmyqnKEf1iAv2nIgm/TOsV63w/s7goJ/zdEB7ssDHkz2suMUJ5qmA+FXps5JYnQPZqPjihvdNXj51eJi2HzAqp6kpiFOhOHWc1TKtSNXAZG1OpxgIOxXkDO08hj6tOf4EhYEz08VaOZexubNpapgQNEXJ5E+Fft5qdtTQTm4t1sPM6s+EMCJv65HQFMDJPVC566yL8eF+No4hCV6m6akTZegJZ6mYaGd5En1ss4;kzzBQHslBX5NAJ1slHMfcw=="
+secured: "HDRnPT74MCcD4dwBPk7cOW6YtKAVARO9arURu54yb5VQK4S/Rw7CsgwRAxwMaoX9VZ/PEeCfO38GjHbd8NoFBELS9LpG9xCvxl+heFvyk463JiTAC6UF86GBIioSZklRE1yTInzvwyST2ni1h5QuHXkhfwn1GXsD2gPhTAHI5fuqcQxYH1vjv3AnW3JYAof+91YGuXknfG0ZUUfoIOVuSt3wizcs+3mO0FxjhvmN+cYIcltnptrHyfw3Vm2YyRargvTYRQz4p2Hi3darecNNJsPuiB2FC8M0M9qMYXTULnK/kYPLHC+MtkUlwLZVortq;V2d+DSTr7HXOfM2ruB/LXQ=="
 ---
 

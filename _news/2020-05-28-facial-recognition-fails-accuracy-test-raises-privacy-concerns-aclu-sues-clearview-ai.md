@@ -85,6 +85,17 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/05/ACLU-Clearview-AI-Lawsuit-Facial-Recognition-scaled.jpg"
         width: 2560
         height: 1280
+  - title: "ACLU sues facial recognition aggregator claiming privacy violation"
+    excerpt: "The American Civil Liberties Union of Illinois is suing a facial recognition aggregator capable of scraping billions of publicly available faces and matching them to search queries from law enforcement."
+    publishedDateTime: 2020-06-01T22:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/politics/aclu-sues-facial-recognition-aggregator-claiming-privacy-violation"
+    ampWebUrl: "https://www.washingtonexaminer.com/politics/aclu-sues-facial-recognition-aggregator-claiming-privacy-violation?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/aclu-sues-facial-recognition-aggregator-claiming-privacy-violation?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 54
   - title: "The ACLU Is Suing Shady Facial Recognition Startup Clearview AI for Being a Shady Facial Recognition Startup"
     excerpt: "The facial recognition org Clearview AI — which you might know as the firm that secretly harvested the photos of millions of people from their social media profiles before pawning said photos to law enforcement — is officially facing a lawsuit from the Illinois-based branch of the American Civil"
     publishedDateTime: 2020-05-28T12:50:00Z

@@ -2,10 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-01-mit-learns-to-make-robots-less-clumsy-by-putting-cameras-in-their-fingers.md",
+      "title": "MIT learns to make robots less clumsy by putting cameras in their fingers",
+      "excerpt": "Two new research projects out of MIT give robots the ability to sense what they are picking up. It's useful for delicate tasks such as picking up a potato chip.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/news/mit-csail-gelflex-robot-hand-camera/",
+      "ampWebUrl": "https://www.digitaltrends.com/news/mit-csail-gelflex-robot-hand-camera/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelflex-robot-hand-camera/?amp",
+      "publishedDateTime": "2020-06-01T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/mit-gripper-can-copy-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "MIT learns to make robots less clumsy by putting cameras in their fingers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots.md",
       "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
       "excerpt": "Otto Motors, a subsidiary of Clearpath Robotics that supplies autonomous mobile robots to manufacturing and logistics customers, has raised $29 million.",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/",
@@ -1211,51 +1256,6 @@
           "width": 817,
           "height": 545,
           "title": "Gap rushes in more robots to warehouses to solve virus disruption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-sphero-startup-will-make-robots-for-government-and-first-responders.md",
-      "title": "Sphero startup will make robots for government and first responders",
-      "excerpt": "Sphero, the company best known for its BB-8 toy robot, has announced the successful spin-off of its Company Six into a startup that will make robots for the government, military use, and more.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/",
-      "ampWebUrl": "https://www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sphero-startup-will-make-robots-for-government-and-first-responders-20621425/amp/",
-      "publishedDateTime": "2020-05-20T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/company_six_logo_main.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": "Sphero startup will make robots for government and first responders",
           "attribution": null
         }
       ],

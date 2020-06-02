@@ -5,8 +5,8 @@ excerpt: "In what now seems a distant pre-pandemic period, excitement about the 
 publishedDateTime: 2020-06-01T15:48:00Z
 webUrl: "https://www.medpagetoday.com/columns/focusonpolicy/86790"
 type: article
-quality: 54
-heat: 54
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
+  - Machine Learning
 
 images:
   - url: "https://clf1.medpagetoday.net/media/images/86xxx/86790.jpg"
@@ -23,6 +25,6 @@ images:
     height: 480
     title: "Artificial Intelligence in Healthcare: A Post-Pandemic Prescription"
 
-secured: "U6m8uEXNN7+wfECcKew//7yBBYnzGHSA3pjtlEvenGWNKebL6bbTMnVoaE4dejznq5ylM/op8eDldEmAodz2+VsdUIcvXrAuqmZ5hQYUn817q4ds0og6HHBHl4F0g0C4/K6AaDjmSstvADEd4BjiAARWoLXzgjIXnurxuPSb+P6g/4stFBOmEAoiLGWYbIDzuyrWSFQTpxBg/Rl60sSVNdaPWxShuEhUShrjjrwNd2oXjt+Rmx8BJnQJ71pqBzzu8qBSIfZFzG+VdaykEAdtpl5pXuk3JnEbOmtJd85wVNfwM0fl/btYVSqa9z+GdJUd;3DJ3flhsAR++14L4qCYOWQ=="
+secured: "XdHFowVHu3HuD3Wv8SOdhKuF745exFS+z4wvVgzmnP7eOW8P6jIPo/zcG3C7EnKqubscLa9MrE2VlHhUK0cBXke6+WcluzKCldiB2ccMbn0GfsJiKnZChbay4hVMlj9QdGF9wApgHLMzL9+DtfXese6K3Nq0K6wlpc6zfBCbM9IMsKCPAcnPoMa7/8MhvERKxwOw0Hiifbj3/k8rX7WCjYAJK8Gakqqg5UV0m8NsiizhMNhMugWuO1L++hqe7V9Ktl487cSPKFprw2WB5sQ9rg0euNuYqsj/JUhAq3GjIAs2mJiW74pTZx9zarMP52li2Hc0wfaNfBVCOU+fx69OyfYeU70OPOuaX4P29pI0+OYMKae6KjKvJhaYd4z3izqCoBeV6gZITY52XwEdAtU4bdxmZOpAYVZ/hfTNUGHrs/VhGt3hk+4pMqBKHUe4hbJYw9/Y4QpvYHmvlcrKd3bKCjUaMzXdDAi+LwbVMt5bJO0=;pKfkh14Qh0vvZ7zKF7ptFg=="
 ---
 

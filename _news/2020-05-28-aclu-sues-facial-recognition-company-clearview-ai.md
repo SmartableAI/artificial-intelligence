@@ -71,6 +71,17 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F57216d80-a0fd-11ea-bfed-15a76691dfdb&client=amp-blogside-v2&signature=3caba45714d89119f1e3dcf6c427996c35b5e497"
         width: 600
         height: 350
+  - title: "ACLU sues facial recognition aggregator claiming privacy violation"
+    excerpt: "The American Civil Liberties Union of Illinois is suing a facial recognition aggregator capable of scraping billions of publicly available faces and matching them to search queries from law enforcement."
+    publishedDateTime: 2020-06-01T22:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/politics/aclu-sues-facial-recognition-aggregator-claiming-privacy-violation"
+    ampWebUrl: "https://www.washingtonexaminer.com/politics/aclu-sues-facial-recognition-aggregator-claiming-privacy-violation?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/aclu-sues-facial-recognition-aggregator-claiming-privacy-violation?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 54
   - title: "Facial recognition fails accuracy test raises privacy concerns; ACLU sues Clearview AI"
     excerpt: "Existing criticisms of facial recognition technology once again is being called into question as news of Amazon’s “Rekognition” software was found to"
     publishedDateTime: 2020-05-28T21:15:00Z

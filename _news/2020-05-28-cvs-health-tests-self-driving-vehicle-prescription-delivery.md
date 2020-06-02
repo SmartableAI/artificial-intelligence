@@ -1,30 +1,24 @@
 ---
 category: news
 title: "CVS Health tests self-driving vehicle prescription delivery"
-excerpt: "CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro to deliver."
-publishedDateTime: 2020-05-28T20:10:00Z
-webUrl: "https://www.bostonherald.com/2020/05/28/cvs-health-tests-self-driving-vehicle-prescription-delivery/"
-ampWebUrl: "https://www.bostonherald.com/2020/05/28/cvs-health-tests-self-driving-vehicle-prescription-delivery/amp/"
-cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/05/28/cvs-health-tests-self-driving-vehicle-prescription-delivery/amp/"
+excerpt: "JANELLE NANOS CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro on the delivery of medicines and other products to customers near a Houston-area store."
+publishedDateTime: 2020-05-28T23:29:00Z
+webUrl: "https://www.bostonglobe.com/business/talking-points/2020/05/28/cvs-health-tests-self-driving-vehicle-prescription-delivery/fk5isWtFxFmQic5YFqmFtI/story.html"
+ampWebUrl: "https://www.bostonglobe.com/business/talking-points/2020/05/28/cvs-health-tests-self-driving-vehicle-prescription-delivery/fk5isWtFxFmQic5YFqmFtI/story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/talking-points/2020/05/28/cvs-health-tests-self-driving-vehicle-prescription-delivery/fk5isWtFxFmQic5YFqmFtI/story.html?outputType=amp"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Boston Herald
-  domain: bostonherald.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.bostonherald.com/wp-content/uploads/2020/05/AP20149516066866.jpg?w=1024&h=683"
-    width: 1024
-    height: 683
-    title: "CVS Health tests self-driving vehicle prescription delivery"
-
-secured: "iI6X1DemoHi4OzHOnIOeG9sHOWOU4alMqKWCTuRZ117+/f0l2Sa+8uJkdGkImcGt+y4Cc3fQrfPKLJBFuWI8zYg+ET+MC3SKdkAyLnewC7Ip68K6NnegQiniYY4xGaLr3jhc6hHQ3PPK5h1imf007HwqOoqGbCRL3X6K0oFAojlBqlf/WtuWXyseJ3cb8tYT+q8m+sA0rutSk8As3ZZejJwX7jNCvJC7Fslb4VPvcMHkdW4YmyOVBZi4nkucN1N+PRNobefeURjQPwa88a1AXsFzdFgxN+dnYsyvzGcO6ZWy4+wt7huaKpkozrGLZ2Sq1PLpE2V2iqMYzC9D5D9x5nzLQAlpz1y/MPmyoTZCWLZRZgwsPEuT9f6xv1lL4ipS0GPuzhuCuE2FXfuj1yNcH9iVk9C+5xmCnl909KKd6yYst8+qDAnRrWekuT8xgyDjokxmOx3mzGlqamy+YuaIHmnTU0X25AGBw9paYs6ZSTM=;X8dh+F7tdx0kVu6/cM8Lvw=="
+secured: "Gi0jERSmoNxojpj1HAvAGO4xXRW6FrFCi4lXhmRcHhqXcpOk7O30FTLRlfTQmRCQyFsSx0LNN7cM5i9lpTt967NWSPxhFCZHycik3NrussVHkXfauAelQgyO9962BfanL0XircVyipZ0hx9ui1F2LaxNHi5M/sGp8PBZLI3FqiyFUae7DEMpy/+quPfrWDpCLQswVofpeUIY0GBTe6roEjAqVT49bqRN6l6apoC4TQOqIc8ndVvZ6vY5CyyVY5VOPUyD+b0OyM3q4R4HY1Nw9hNzwagqD0/Nep67KgOT00eEzUi0odb0WL1OwzPHzPCUkvqQCzgido6p9gYgOOP/uoJGRC8h65RgfAU3XG0/KOzM9FRqXwINUMbALG6alPUR3Hgr8OToDgjSJOD3zbVNbra+LUMsY2hYf/bTeigyoFTXExXPMdSuSSykff7oE+x1prXItGD0cwOMsVjSDlzgAB4qNYmoBGhgxeSJAaDebJs=;MCerlJpkmwFhd3Izcz2ocw=="
 ---
 

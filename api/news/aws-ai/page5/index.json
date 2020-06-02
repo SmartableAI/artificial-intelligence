@@ -2,6 +2,96 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-24-making-accurate-energy-consumption-predictions-with-amazon-forecast.md",
+      "title": "Making accurate energy consumption predictions with Amazon Forecast",
+      "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including energy demand forecasting, estimating product demand, workforce planning, and computing",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T08:17:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/forecast-energy-production-1.gif",
+          "width": 1000,
+          "height": 374,
+          "title": "Making accurate energy consumption predictions with Amazon Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-this-week-amazon-has-a-chance-to-prove-it-can-do-the-right-thing-on-its-own.md",
+      "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
+      "excerpt": "The second solicits an independent investigation and report on Amazon’s facial recognition tech, Rekognition, detailing “the extent to which such technology may endanger, threaten, or violate ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379",
+      "ampWebUrl": "https://gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379/amp",
+      "publishedDateTime": "2020-03-24T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iz0nebw8k7iptywzjctx.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-investigating-performance-issues-with-amazon-codeguru-profiler.md",
       "title": "Investigating performance issues with Amazon CodeGuru Profiler",
       "excerpt": "Amazon CodeGuru (Preview) analyzes your application’s performance characteristics and provides automatic recommendations on how to improve it. Amazon CodeGuru Profiler provides interactive visualizations to show you where your application spends its time. These flame graphs are a powerful tool to help",
@@ -1046,80 +1136,6 @@
           "width": 640,
           "height": 360,
           "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space.md",
-      "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
-      "excerpt": "The firm was praised for its wide range of services, including SageMaker AutoPilot, announced late last year, which automatically generates machine-learning models. However, some shortcomings in SageMaker were also addressed in the report. Amazon’s success in the cloud AI space was entirely predictable, where it has been dominating 33.8% of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/How-AWS-Nudged-Out-IBM-Google-Microsoft-From-The-Cloud-AI-Space-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-at-aws-cloud-day-2020-in-ahmedabad-aws-architects-discussed-how-their-cloud-solutions-could-help-startups-scale.md",
-      "title": "At AWS Cloud Day 2020 in Ahmedabad, AWS architects discussed how their Cloud solutions could help startups scale",
-      "excerpt": "The next session by Abhishek Mahanty, Senior Solutions Architect, AWS, covered the Artificial Intelligence (AI) and Machine Learning (ML) services provided by AWS. \"AI and ML are super popular now because it's the centrepiece for digital transformation,\" he said. Abhishek spoke about how the mission of AWS is to put ML in the hands of every ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups",
-      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
-      "publishedDateTime": "2020-03-09T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/AWSCloudDayAhmedabadImage-1583750134111.png?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "At AWS Cloud Day 2020 in Ahmedabad, AWS architects discussed how their Cloud solutions could help startups scale",
           "attribution": null
         }
       ],
