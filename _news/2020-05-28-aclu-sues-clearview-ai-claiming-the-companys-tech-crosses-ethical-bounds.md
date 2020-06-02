@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aclu-sues-clearview-ai-clai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "ACLU sues Clearview AI claiming the company's tech crosses ethical bounds"
 
 related:
-  - title: "ACLU accuses Clearview AI of privacy ‘nightmare scenario’"
-    excerpt: "The American Civil Liberties Union on Thursday sued facial recognition startup Clearview AI, which has helped hundreds of law enforcement agencies use online photos to solve crimes, accusing the company of “unlawful privacy-destroying surveillance activities."
-    publishedDateTime: 2020-05-28T20:36:00Z
-    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-clearview-ai-privacy-lawsuit-20200528-4xbiro45szahjnjtxwk63bwgwm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-clearview-ai-privacy-lawsuit-20200528-4xbiro45szahjnjtxwk63bwgwm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-clearview-ai-privacy-lawsuit-20200528-4xbiro45szahjnjtxwk63bwgwm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 59
-    images:
-      - url: "https://www.chicagotribune.com/resizer/x0gcXQF_LCUEtlUBGh5CzJBGlRM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KND54AHOTNEXHLYMW3Y5Y7A2NY.jpg"
-        width: 1200
-        height: 800
   - title: "ACLU accuses Clearview AI of privacy ‘nightmare scenario’"
     excerpt: "The American Civil Liberties Union on Thursday sued facial recognition startup Clearview AI, which has helped hundreds of law enforcement agencies use online photos to solve crimes, accusing the company of “unlawful privacy-destroying surveillance activities."
     publishedDateTime: 2020-05-29T00:11:00Z

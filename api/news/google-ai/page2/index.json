@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-30-uber-ai-plays-any-atari-2600-game-with-superhuman-skill.md",
+      "title": "Uber AI plays any Atari 2600 game with 'superhuman' skill",
+      "excerpt": "A team of Uber AI researchers has developed a set of algorithms, Go-Explore, that reportedly beats any Atari 2600 game with s",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/uber-ai-masters-atari-games-012832222.html",
+      "ampWebUrl": "https://www.engadget.com/amp/uber-ai-masters-atari-games-012832222.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uber-ai-masters-atari-games-012832222.html",
+      "publishedDateTime": "2020-04-29T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F8f3ed930-8a57-11ea-9eff-3f7b8dfa6da0&client=amp-blogside-v2&signature=954161227f6ff5db57b37b4e922fd3c5a0386285",
+          "width": 600,
+          "height": 350,
+          "title": "Uber AI plays any Atari 2600 game with 'superhuman' skill",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-google-open-sources-faster-more-efficient-tensorflow-runtime.md",
       "title": "Google open-sources faster, more efficient TensorFlow runtime",
       "excerpt": "Google open-sourced TFRT, a faster and more efficient runtime that'll eventually replace the default runtime in the company's TensorFlow framework.",
@@ -1232,51 +1277,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-transform-your-photo-in-the-style-of-an-iconic-artist.md",
-      "title": "Transform your photo in the style of an iconic artist",
-      "excerpt": "From the bold, swirling movement in Vincent van Gogh's paintings, to the surreal, confident brushstrokes of Frida Kahlo, many famous artists have instantly recognizable styles. Now you can use these styles to transform your own photos. With Art Transfer, a new feature in the Google Arts &amp; Culture",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/amp/",
-      "publishedDateTime": "2020-04-02T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Art_Transfer_mosaic.max-1300x1300.png",
-          "width": 1300,
-          "height": 515,
-          "title": "Transform your photo in the style of an iconic artist",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

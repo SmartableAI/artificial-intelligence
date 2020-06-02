@@ -42,6 +42,21 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/d3GVUkpobEW7uy8jkkVq94-1200-80.jpg"
         width: 1200
         height: 800
+  - title: "Chicago police drop Clearview facial recognition technology"
+    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
+    publishedDateTime: 2020-05-29T22:57:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article243103416.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article243103416.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article243103416.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 44
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/7af7df3d-4037-4962-aa2d-b1a69b20ac6f/2f5ea63d-ad49-4068-a2cb-9c8084f10120/1280x720/match/image.jpg"
+        width: 1194
+        height: 720
   - title: "The ACLU sues Clearview AI, calling the tool an ‘unprecedented violation’ of privacy rights"
     excerpt: "The American Civil Liberties Union is suing Clearview AI, the maker of a facial-recognition tool used by law enforcement agencies across the country. The ACLU alleges that Clearview’s technology runs afoul of the 2008 Illinois Biometric Information Privacy Act,"
     publishedDateTime: 2020-05-29T15:33:00Z
@@ -55,19 +70,6 @@ related:
       - url: "https://s3.us-east-1.wasabisys.com/assets.npgco.com/abc17news.com/2019/10/Money-web-1024x576-860x484.jpg"
         width: 860
         height: 484
-  - title: "Chicago police drop Clearview facial recognition technology"
-    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns. The"
-    publishedDateTime: 2020-05-29T22:56:00Z
-    webUrl: "https://apnews.com/c354e15c592548eba0e84a7b0702f72e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
 
 secured: "/J9p146PcM2l9SR+fA2u0sjXajCuzRwjZYfQBYI5HC7zoi//UcBAe3VLAcjEuo80VIaAPS8zkjgwEUcOpJPFEeJSywDrBTiudNqO2SqTZh9x7kLxgAoQ0nNYHiehBvOLQg50EntlxNc/g6tqqG4e6bn94rgYOxUw4EuzhGMeoBw1bB0ZETM0X6NzJ8C49aZgsXG6aAWDOh16FU1LnWebwlyA0RrZs2BdbKttM/5oE2++cfvs696F+5QrR58yC6VnU1ul/w7aqhcl3PFBFJjCM7yhlW1Pb0vcO8dODA2iUAs3I44xYqslXKZlKbi6LAHm;a4eobBKzPgXqS+8hJLNEUw=="
 ---

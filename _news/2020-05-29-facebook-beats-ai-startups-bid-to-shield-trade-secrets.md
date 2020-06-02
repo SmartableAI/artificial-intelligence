@@ -19,6 +19,19 @@ topics:
   - AI
   - Facebook AI
 
+related:
+  - title: "Tesla Gets OK To View Some Of Self-Driving Car Startup's IP"
+    excerpt: "A California federal judge said a Chinese self-driving car startup must allow a neutral third party to examine its source code and logs in response to Tesla's request for information in a trade secrets suit against a former engineer accused of downloading Tesla's prized Autopilot source code before joining the startup."
+    publishedDateTime: 2020-05-30T01:29:00Z
+    webUrl: "https://www.law360.com/articles/1277540/tesla-gets-ok-to-view-some-of-self-driving-car-startup-s-ip"
+    ampWebUrl: "https://www.law360.com/amp/articles/1277540"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1277540"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
+
 secured: "MI2R5rlol9o568SQzbOq9VAUbsFO/CHSQbsBthR1nkToMN8boHWsX8962dLMQgzAKc1CAIFECUAcaAtUWi5UBo6VZOjGhuw1aHu/2vwc0WSW/kVLQpVYxLLblCPgpCOxcJZCbeBaGUOI/ytnd5fEVRE4fBo941/hqSqyMA6DM4hLrrVrcaTPdt7/K9e7Qa7F9vPmlZM46cEPQBZ6xOqJ0BO8oMPgilS4L6eOrHkd6aZOZNsBVpp0CerlwkUEvtANpGdXeTE2f07NxOTWvjOP1wK9qsJblSyZqAyxDgAS1kiWWVIzNYfzrwKqz90YQMAC;9uxbFk7XVdOTDWit3Zrr9g=="
 ---
 

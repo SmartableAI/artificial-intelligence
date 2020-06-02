@@ -40,6 +40,19 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_0afbbec489fe48cf8108eec1c6bc7ea3_16x9_992.jpg"
         width: 992
         height: 558
+  - title: "AI Monitors Elders in Virus-Hit South Korea"
+    excerpt: "In a cramped office in eastern Seoul, Hwang Seungwon points a remote control toward a huge NASA-like overhead screen stretching across one of the walls. With each flick of the control, a colorful array of pie charts,"
+    publishedDateTime: 2020-06-02T13:38:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21135742/ai-monitors-elders-in-virushit-south-korea"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 37
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/AP20143199251626.5ed518adb13c8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
 
 secured: "6I0YavnTocgx1rFmy8AkIevfSxnMDz/1Gh2LFRq5bL+rTYzDgFTM6DQS845PEEByl2irRscZihcCqZDk4ciQNGGraybHAk2bhht1fB/frzrabxqfCgx4y61yL9AeSZauhPNkdDCJ9pAHP5GUjig1q4vaCmCu5gL+mfcQqbDRxjaNmAU0qAgi3td2c0P9XqjW0aIo5yz+Rnujr7bt12zMMDDYAAsUeeE/nF7P3d5Sg3Ffj2E8w6MeFb/ARwLpzczmA7pJFEv3dnGAjk2R3ACtTrhwRbs7hwJICEasRVNe3AZuy7D0pvVQ0oDtmK+ns/cY;/2p7rUZH/7XH4M4Ila94Xg=="
 ---

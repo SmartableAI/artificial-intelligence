@@ -8,8 +8,8 @@ ampWebUrl: "https://www.chron.com/news/amp/U-S-joins-G7-artificial-intelligence-
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/U-S-joins-G7-artificial-intelligence-group-to-15301478.php"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Houston Chronicle
@@ -26,21 +26,6 @@ images:
     title: "US joins G7 artificial intelligence group to counter China"
 
 related:
-  - title: "U.S. joins G7 artificial intelligence group to counter China"
-    excerpt: "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea. The White House’s"
-    publishedDateTime: 2020-05-28T20:37:00Z
-    webUrl: "https://www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/"
-    ampWebUrl: "https://www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/amp/"
-    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/amp/"
-    type: article
-    provider:
-      name: WAVY
-      domain: wavy.com
-    quality: 59
-    images:
-      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2019/05/cropped-wavy-favicon-1-1.png"
-        width: 512
-        height: 512
   - title: "US joins G7 artificial intelligence group to counter China"
     excerpt: "The White House’s chief technology officer says it is important to establish shared democratic principles as a counter to China’s record of “twisting technology” in ways that threaten civil liberties."
     publishedDateTime: 2020-05-29T14:41:00Z

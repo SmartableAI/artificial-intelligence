@@ -2,6 +2,230 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-29-the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission.md",
+      "title": "The Temptations Of Artificial Intelligence Technology And The Price Of Admission",
+      "excerpt": "The internal workings of ML algorithms are something of a black box, which makes vigilant monitoring of their predictions extremely important.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/29/the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/amp/",
+      "publishedDateTime": "2020-05-29T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-67-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The Temptations Of Artificial Intelligence Technology And The Price Of Admission",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-coronavirus-and-the-rise-of-the-ai-economy.md",
+      "title": "Coronavirus And The Rise Of The AI Economy",
+      "excerpt": "The World Bank has predicted the coronavirus is pushing 40 to 60 million people into extreme poverty. Calls for international solidarity have so far delivered little tangible support and the risk of country debt defaults and corporate bankruptcies and the human costs associated with it is rising.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rainermichaelpreiss/2020/05/29/coronavirus-and-the-rise-of-the-ai-economy/",
+      "ampWebUrl": "https://www.forbes.com/sites/rainermichaelpreiss/2020/05/29/coronavirus-and-the-rise-of-the-ai-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rainermichaelpreiss/2020/05/29/coronavirus-and-the-rise-of-the-ai-economy/amp/",
+      "publishedDateTime": "2020-05-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed0e4ed1234f60007ce136e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Coronavirus And The Rise Of The AI Economy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-walmart-employees-are-out-to-show-its-anti-theft-ai-doesnt-work.md",
+      "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
+      "excerpt": "The retailer denies there is any widespread issue with the software, but a group expressed frustration—and public health concerns.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/",
+      "ampWebUrl": "https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/amp",
+      "publishedDateTime": "2020-05-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec715a79c054fb2c4f58e7e/master/pass/Walmart-Self-cHECKOUT.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-chinese-tech-leader-says-ai-can-play-a-role-in-beijings-goal-of-eliminating-poverty.md",
+      "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
+      "excerpt": "Liu Qingfeng, chairman of Chinese AI champion iFlyTek, says AI technology can play a vital role in lifting China out of poverty by leveling the uneven distribution of resources",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
+      "publishedDateTime": "2020-05-29T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/29/329b6b94-a17c-11ea-8055-0ae12e466049_image_hires_154049.jpg?itok=u_NiLWrk&v=1590738055",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-who-will-own-the-cars-that-drive-themselves.md",
+      "title": "Who Will Own the Cars That Drive Themselves?",
+      "excerpt": "Fleets of vehicles roaming streets waiting to be hailed are more efficient. But the coronavirus has made people think twice about the future of car ownership even when autonomous tech arrives.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/29/business/ownership-autonomous-cars-coronavirus.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/29/business/ownership-autonomous-cars-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/29/business/ownership-autonomous-cars-coronavirus.amp.html",
+      "publishedDateTime": "2020-05-29T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/29/business/28bizsky1-print/29wheels-3-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Who Will Own the Cars That Drive Themselves?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-hello-and-welcome-robot-waiters-to-the-rescue-amid-virus.md",
       "title": "Hello and welcome: Robot waiters to the rescue amid virus",
       "excerpt": "You can always count on a robot for perfect timing. When Shaosong Hu saw robotic waiters serving food in China last fall, he knew exactly what he wanted for his",
@@ -215,7 +439,7 @@
       "path": "_news/2020-05-28-aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds.md",
       "title": "ACLU sues Clearview AI claiming the company's tech crosses ethical bounds",
       "excerpt": "The American Civil Liberties Union has accused Clearview AI's biometric platform of creating a nightmare scenario that many have long feared.",
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds/",
@@ -777,37 +1001,37 @@
     {
       "path": "_news/2020-05-28-cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more.md",
       "title": "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More",
-      "excerpt": "The annual Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research spanning the fields of computer vision, deep learning, artificial intelligence,",
+      "excerpt": "Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
-      "publishedDateTime": "2020-05-28T08:34:00-07:00",
+      "webUrl": "https://www.prnewswire.com/news-releases/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-301067121.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T08:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook",
+          "width": 597,
+          "height": 314,
+          "title": "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Machine Learning",
         "AI"
       ]
     },
@@ -853,228 +1077,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-apple-just-bought-another-ai-startup-to-help-siri-catch-up-to-rivals-amazon-and-google.md",
-      "title": "Apple just bought another AI startup to help Siri catch up to rivals Amazon and Google",
-      "excerpt": "Apple has acquired AI startup Inductiv Inc. to improve Siri, which has fallen behind Amazon's Alexa and the Google Assistant.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5?amp",
-      "publishedDateTime": "2020-05-28T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ecfc2e3aee6a86d3947b893?width=1200&format=jpeg",
-          "width": 1102,
-          "height": 551,
-          "title": "Apple just bought another AI startup to help Siri catch up to rivals Amazon and Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily.md",
-      "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
-      "excerpt": "New York-based artificial intelligence startup Accern announced that it has closed a $13 million Series A funding round led by Fusion Fund. Mighty Capital, Allianz Life Ventures, Vectr Fintech Partners and Viaduct Ventures also participated,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/",
-      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
-      "publishedDateTime": "2020-05-28T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eceac230ca0110007264231%2F0x0.jpg",
-          "width": 1200,
-          "height": 925,
-          "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-why-these-ex-deepmind-engineers-picked-seattle-to-launch-new-ai-startup-phaidra.md",
-      "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
-      "excerpt": "Avocado toast meets red meat and potatoes. That’s not the most familiar way to describe Seattle, but it’s why Phaidra decided to launch its company in the Emerald City. The stealthy startup",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
-      "publishedDateTime": "2020-05-28T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-27-at-1.58.01-PM-300x261.png",
-          "width": 300,
-          "height": 261,
-          "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-vesta-raises-125-million-to-fight-payment-fraud-with-ai.md",
-      "title": "Vesta raises $125 million to fight payment fraud with AI",
-      "excerpt": "Vesta, which provides an AI-powered platform for payment fraud detection and prevention, has raised $125 million in venture capital.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/28/vesta-raises-125-million-to-fight-payment-fraud-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/28/vesta-raises-125-million-to-fight-payment-fraud-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/vesta-raises-125-million-to-fight-payment-fraud-with-ai/amp/",
-      "publishedDateTime": "2020-05-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/EPEau_TX0AAkRoh-e1590178770479.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Vesta raises $125 million to fight payment fraud with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-how-baidus-ai-produces-news-videos-using-just-a-url.md",
-      "title": "How Baidu’s AI produces news videos using just a URL",
-      "excerpt": "AI for news production is one of the areas that has drawn contrasting opinions. On one hand, it might help media houses produce more news in a better format with minimal effort, on the other hand, it might take away the human element of journalism or take people out of jobs.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/how-baidus-ai-produces-news-videos-using-just-a-url/amp/",
-      "publishedDateTime": "2020-05-28T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/10/cryptocurrency-writer-media-blockchain-bitcoin-news-journalism-trust-broken-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": "How Baidu’s AI produces news videos using just a URL",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

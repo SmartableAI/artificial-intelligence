@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-02-ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation.md",
+      "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
+      "excerpt": "Researchers in Italy have melded the emerging science of convolutional neural networks (CNNs) with deep learning — a discipline within artificial intelligence — to achieve a system of market forecasti",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/",
+      "ampWebUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
+      "publishedDateTime": "2020-06-02T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/AI-Stock-Market-Concept-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence.md",
       "title": "All you need to know about symbolic artificial intelligence",
       "excerpt": "Today, artificial intelligence is mostly about artificial neural networks and deep learning. But this is not how it always was. In fact, for most of its six-decade history, the field was dominated by symbolic artificial intelligence,",
@@ -207,6 +244,43 @@
           "width": 1200,
           "height": 800,
           "title": "Apple Acquires Machine Learning Startup Inductiv",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more.md",
+      "title": "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More",
+      "excerpt": "Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-301067121.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook",
+          "width": 597,
+          "height": 314,
+          "title": "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More",
           "attribution": null
         }
       ],
@@ -1189,97 +1263,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-deep-instinct-vies-with-mcafee-and-crowdstrike-for-17b-market.md",
-      "title": "Deep Instinct Vies With McAfee And CrowdStrike For $17B Market",
-      "excerpt": "CrowdStrike faces a formidable challenger in Manhattan-based Deep Instinct. Which can save companies the most money by fending off cyberattacks before they happen?",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/amp/",
-      "publishedDateTime": "2020-05-18T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1203031516%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D258%26cropY2%3D3070",
-          "width": 1200,
-          "height": 675,
-          "title": "Deep Instinct Vies With McAfee And CrowdStrike For $17B Market",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code.md",
-      "title": "Machine learning tool trains on old code to spot bugs in new code",
-      "excerpt": "Microsoft and Altran release Code Defect AI to identify potential problems in software development and suggest fixes.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
-      "publishedDateTime": "2020-05-18T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/resize/1200x/43e40b69690725c1581fd684e8676489/istock-1047259374.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Machine learning tool trains on old code to spot bugs in new code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

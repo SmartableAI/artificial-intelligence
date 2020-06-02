@@ -23,6 +23,6 @@ images:
     height: 445
     title: "Editor’s Blog: Propaganda, PR and artificial intelligence"
 
-secured: "i3yyi8/bQpjDE/brSCBT1em7lcc46d8oYoL5vsvGy9VOC4awdNuBlLCzkkq6RK/M5XlAu1RCmVU9G/wnpGYUjCllsamaoKmf+mi0+4ZwBQB2IHjQo3TzzhHj8ppWgZ8y2k0+KP3YwHFcdQSWphuwX8ikqJGLQB2zj/QgSjJwvD7mY6LSiwm6MHa2isBfAixIe9zJww9jht/jNsfuA826sA1HNEc5RpatmqXzZf/U7XKIf3CQkVwAzNAw1Yj7riX/yvGeAfO/crtfFmZhajhsEi4PlO3qaWtUJ1F61jTp+AjSLjdwVWBncYbkEfEKXRFq;5OVKzf/y9Zorzqx+9+YfLQ=="
+secured: "swdP5/n6brUpRfJxNf2QrQP3R1F4EGZdtoH/ttgZp29illmh5CHOIO6X9H8DHy5KG4TUPB5YgueyYe4h6mBNuQzdAZnq+Toemlf7LwgP+3GNIK0QLI4hsMVPgH3YRlcs5xFPhqX0Exx2aQb7baig+BeDb9n9LMad2PnNpO30ehwhhKb0JWH+/v/oi5Ij7L4etAkFRUJ0Eelzrq+d83esCQOXLJ6hDF9Mm13VT19+o0xqlMUqnGjdpntg5DRY/yx7SV+dDPTLEAyaRTnSx5hvgfJg+Zf7IWXT6tPZg9NDgQheHXxS1yXBZnTrf3u3iusK4kt0PDbziorLdVtFteGaJRrEQoo/vNB+mS3Ptr97ybk4lClwikZ0hyi4Ls5UwCGZ1DBbzREoJq1gF964nq7peIriDjoKTSDjYrug7rY3y9A6T2JOvVgBVkuZL2NLBj0Zq78WGfVIAuoLb0S0xndCBiiPPu/mr5LQzDN8RC6IAds=;MVY0dGKG9oKIBnsXARNFRg=="
 ---
 

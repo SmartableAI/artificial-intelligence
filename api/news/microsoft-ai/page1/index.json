@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-02-tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers.md",
+      "title": "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers",
+      "excerpt": "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Business Wire PA",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/press-releases/2020-06-02/tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion.md",
       "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
       "excerpt": "Dell Technologies is betting that integrated systems, more efficient use of GPUs and the ability run AI workloads within VMware environments will boost AI workloads.",
@@ -48,16 +85,16 @@
       ]
     },
     {
-      "path": "_news/2020-06-01-scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
-      "heat": 112,
+      "path": "_news/2020-06-01-wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure.md",
+      "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
+      "excerpt": "SAN RAMON, Calif., June 01, 2020 (GLOBE NEWSWIRE) -- WANdisco (LSE: WAND), the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively.",
+      "heat": 85,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01",
+      "webUrl": "https://www.marketwatch.com/press-release/wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure-2020-06-01",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T05:00:00-07:00",
+      "publishedDateTime": "2020-06-01T04:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -79,7 +116,7 @@
           "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
-          "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
+          "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
           "attribution": null
         }
       ],
@@ -1224,51 +1261,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-builds-a-new-online-developer-conference-experience.md",
-      "title": "Microsoft builds a new online developer conference experience",
-      "excerpt": "A look at what Microsoft announced at Microsoft Build 2020, as well as the considerations that went into making the event virtual",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/msft/microsoft-builds-a-new-online-developer-conference-experience/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/05/KDbEeqOL.jpeg",
-          "width": 680,
-          "height": 383,
-          "title": "Microsoft builds a new online developer conference experience",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

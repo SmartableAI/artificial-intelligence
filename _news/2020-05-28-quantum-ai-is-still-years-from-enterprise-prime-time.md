@@ -20,6 +20,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/02/ms-quantum-computer-microsoft-100832183-large.jpg"

@@ -7,8 +7,8 @@ webUrl: "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-f
 ampWebUrl: "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/"
 type: article
-quality: 63
-heat: 63
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - Microsoft AI
   - AI in Robotics
+  - Google AI
 
 images:
   - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg"

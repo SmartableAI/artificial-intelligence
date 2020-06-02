@@ -1,28 +1,28 @@
 ---
 category: news
 title: "RSIP Vision Supports the CVPR Conference for the Fifth Consecutive Year with the CVPR Daily Magazine"
-excerpt: "RSIP Vision, a global leader in artificial intelligence (AI) and computer vision technology, and CVPR, the annual Computer Vision and Pattern Recognition conference, announced today the upcoming publication of the CVPR Daily magazine,"
-publishedDateTime: 2020-06-01T13:31:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/rsip-vision-supports-the-cvpr-conference-for-the-fifth-consecutive-year-with-the-cvpr-daily-magazine-1029268753"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/rsip-vision-supports-the-cvpr-conference-for-the-fifth-consecutive-year-with-the-cvpr-daily-magazine-1029268753"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/rsip-vision-supports-the-cvpr-conference-for-the-fifth-consecutive-year-with-the-cvpr-daily-magazine-1029268753"
+excerpt: "RSIP Vision, a global leader in artificial intelligence (AI) and computer vision technology, and CVPR, the annual Computer Vision and"
+publishedDateTime: 2020-06-01T13:05:00Z
+webUrl: "https://www.prnewswire.com/news-releases/rsip-vision-supports-the-cvpr-conference-for-the-fifth-consecutive-year-with-the-cvpr-daily-magazine-301068444.html"
 type: article
-quality: 54
-heat: 54
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "OLIsXrAEheynFsuKHJtr9/BCWbAlJGaTcYJyVqUhGxBY4vX8IpBxLrNyE4e47GFwMfWTRr1WPD5/nGFTPZvHWeNsOERHg83sGRSx28AWPwRL9CoOVKLldH+7pdgepwKFiF0/NOqTHdxpDE1wlkVJRXYjR0ar8fiiMlmpx7Kr2MEkgjcO1TQ6sIwVEdBBsn7K5sHRRrnWMpO9AMrN3aUH3z9D+YIgm9l+8iBrwUlhcQzE/MQ/skM/1jWtff3MXGJU06uTFXWxzvydzH918JJUO/FsQNxJr1rW28EzyfOISXJi9eCnIeYneXXkYZxstlD9aXR+c32/OpsSzpFkJmQYyDwZpCPCUNLcXczW01TGx8/nPmpGTWgTXvw+tpdRp8bfxns+i5rW09CmXOmZsfHSStj412pcCUVkB4+M50PoKQ/4A3PRynTU3Qb/zX/iTYpmAF+/2hkObECfRXPJp786UGxWTXOGBNR18a0CSsVuXng=;xwyWIbEcldPf+zUOfn0ugA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1175165/CVPR_2020.jpg?p=facebook"
+    width: 944
+    height: 494
+    title: "RSIP Vision Supports the CVPR Conference for the Fifth Consecutive Year with the CVPR Daily Magazine"
+
+secured: "sMjfgavZ08k0XeYqqTv9Wmnpg/1iGuU0TOhiz29WTuWT1qCkv20/IfN9Q4XLntIrlLV8THyummqu1qfZZXx1FnqC+g2406Mcm4swybJVips0KUjNW6LR8AHg6ubjx1lqAV6kotIGzZQ0T3oDre4iEHMMGzLJYcq5glEVNZpi89INN1S8cdChZwIUbRAdOj3PC+eOvj//DILi7ns5yvEi0+Z/xcncrdUGCxhl3H2C/E/MrlLcc8HUVVijVaomsVRSnRnJyj14mga2OjRTRbhIVg9rwQyJIwm3DoQ4OAAbabUNIMcMPTMhlHe8IOaRAsCm;CsPBmjfhRftL20F2NVCKYw=="
 ---
 

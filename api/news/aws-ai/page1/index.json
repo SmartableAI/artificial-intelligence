@@ -498,6 +498,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-26-amazon-web-services-and-bundesliga-to-deliver-real-time-game-analysis-with-bundesliga-match-facts-powered-by-aws.md",
+      "title": "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and the German Bundesliga will debut the first two Bundesliga Match Facts powered by AWS during tonight’s highlight match at 18:30 CET featuring Borussia Dortmund vs.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/10e31363d9be4d919e2e75376c43f946",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance.md",
       "title": "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance",
       "excerpt": "The”Global Artificial Intelligence (AI) in Education Market Research Report 2020-2026″ has deeply studied the analysis of significant factors that responsible for the growth of the international market.",
@@ -1175,31 +1212,23 @@
     {
       "path": "_news/2020-05-13-envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution.md",
       "title": "Envoi and Data Expedition Partner to Launch Cloud-Based Data Restoration and Migration Solution",
-      "excerpt": "Envoi – CloudDat Edition leverages Envoi’s APIs to support other solutions including Amazon Rekognition for video indexing and AWS Elemental MediaConvert, a file-based video transcoding ...",
+      "excerpt": "Envoi – CloudDat Edition leverages Envoi's APIs to support other solutions including Amazon Rekognition for video indexing and AWS Elemental MediaConvert, a file-based video transcoding service ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/7919526/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-13T03:00:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g16019011/envoi-and-data-expedition-partner-to-launch-cloud-based-data-restoration-and-migration-solution",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16019011",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16019011",
+      "publishedDateTime": "2020-05-13T03:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/media/7ea6365f-e90e-4fee-84fa-bbe58bce5876/medium/envoi-clouddat-log-in.png",
-          "width": 300,
-          "height": 220,
-          "title": "Envoi and Data Expedition Partner to Launch Cloud-Based Data Restoration and Migration Solution",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1244,51 +1273,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-performing-medical-transcription-analysis-with-amazon-transcribe-medical-and-amazon-comprehend-medical.md",
-      "title": "Performing medical transcription analysis with Amazon Transcribe Medical and Amazon Comprehend Medical",
-      "excerpt": "The healthcare industry is a highly regulated and complex industry where a great deal of information exchange occurs via verbal communication. This audio data can contain valuable information and actionable insights. This post explores how to integrate HIPAA-eligible AWS AI services Amazon Transcribe",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/performing-medical-transcription-analysis-with-amazon-transcribe-medical-and-amazon-comprehend-medical/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T13:41:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/08/mta-8.jpg",
-          "width": 800,
-          "height": 406,
-          "title": "Performing medical transcription analysis with Amazon Transcribe Medical and Amazon Comprehend Medical",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

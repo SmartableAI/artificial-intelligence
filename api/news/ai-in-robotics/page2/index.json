@@ -733,6 +733,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-15-mind-controlled-prosthetic-arms-that-feel.md",
+      "title": "Mind Controlled Prosthetic Arms That Feel",
+      "excerpt": "Those with arm amputations can now for the first time experience the sensations of touch in a mind controlled arm prosthesis that can be used for everyday life. A recent study published in the New England Journal of Medicine reports on 3 patients who have ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.worldhealth.net/news/mind-controlled-prosthetic-arms-feel/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Worldhealth",
+        "domain": "worldhealth.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.worldhealth.net/media/original_images/AdobeStock_13251100.jpeg",
+          "width": 4244,
+          "height": 1936,
+          "title": "Mind Controlled Prosthetic Arms That Feel",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-nvidia-launches-new-ampere-architecture-infrastructure-robotics-and-automotive-technologies-at-gtc-2020.md",
       "title": "NVIDIA Launches New Ampere Architecture, Infrastructure, Robotics And Automotive Technologies At GTC 2020",
       "excerpt": "I watched NVIDIA’s GTC 2020 virtual keynote today, and I found the company scored high on both. Architecture is everything when you are a platform provider and NVIDIA rolled out its new architecture,",
@@ -1195,51 +1232,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-sony-just-teamed-up-with-a-robot-avatar-company-with-big-ambitions.md",
-      "title": "Sony just teamed up with a robot avatar company with big ambitions",
-      "excerpt": "Sony and remotely-controlled robot startup Avatarin are teaming up to make telepresence avatars smarter, borrowing tech from Aibo and more. It’s the latest move by the freshly-founded Sony",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/",
-      "ampWebUrl": "https://www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sony-avatarin-partnership-robot-telepresence-avatars-ai-aibo-12620214/amp/",
-      "publishedDateTime": "2020-05-12T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/avatarin-robot-avatar.jpg",
-          "width": 1502,
-          "height": 1063,
-          "title": "Sony just teamed up with a robot avatar company with big ambitions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

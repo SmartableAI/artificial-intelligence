@@ -20,12 +20,12 @@ topics:
   - AI
 
 related:
-  - title: "Tesla Gets OK To Dig Through Self-Driving Car Startup's IP"
-    excerpt: "A California federal judge said Wednesday that a Chinese self-driving car startup must hand over its source code and logs to Tesla in a trade secrets suit against a former engineer accused of downloading Tesla's prized Autopilot source code before joining the startup."
-    publishedDateTime: 2020-05-28T20:23:00Z
-    webUrl: "https://www.law360.com/articles/1277540/tesla-gets-ok-to-dig-through-self-driving-car-startup-s-ip"
-    ampWebUrl: "https://www.law360.com/amp/articles/1277540"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1277540"
+  - title: "Facebook Beats AI Startup's Bid To Shield Trade Secrets"
+    excerpt: "An artificial intelligence startup has failed to prove that its first employee ran off with the company's trade secrets when he took a job at Facebook, a Massachusetts federal judge said, denying the firm's request to block the former worker's ongoing research at the social media giant."
+    publishedDateTime: 2020-05-29T20:50:00Z
+    webUrl: "https://www.law360.com/articles/1278184/facebook-beats-ai-startup-s-bid-to-shield-trade-secrets"
+    ampWebUrl: "https://www.law360.com/amp/articles/1278184"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1278184"
     type: article
     provider:
       name: Law360

@@ -1,31 +1,25 @@
 ---
 category: news
-title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
-excerpt: "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2020-06-01T12:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01"
+title: "ScientiaMobile’s WURFL Microservice Now Available in the Microsoft Azure Marketplace"
+excerpt: "ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Developers can now take advantage of the productive and trusted Azure cloud platform,"
+publishedDateTime: 2020-06-01T12:18:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/scientiamobile-s-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-1029268289"
 type: article
-quality: 92
-heat: 112
-published: true
+quality: 72
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure"
@@ -41,20 +35,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-05-29T13:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/f5b85ffe40d0191068bb0e60ed78df05"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
 
-secured: "0BjpN+FAYKHVQOg6hYQA0zyHBXNn/7l7UOCrMQCNB+IHR1YdeSU9vI9jT1XZDZvIlwn8WKYrGQCK4nzpgidxJ09LTpXIU24p9SsMxpCjQKel9MUjdu83mAiA7DfYtS/1pavrJffI6Ga8UzjM2CkcoFB1gi+cYDaWgJNV8m8fnhMkagqIkvuNkOcKjYkD9JE692ir3Fh8V/ioqhyO/P9A0Fr8ciYyWLHPX44J5s4hYvn6aBLPO7HkrG7Ok1th/nnU4BnGlOqN8EUGKi8XJ9Zj+2pp/c4/Rm7FEZXl41mdF/bFF+NQW3bmFI4uSF1mefBX;9LUa027JMe5FOQREbj8wew=="
+secured: "5P6nXpt66reoRPP+iqZOWxAz6YsMXvcBtpK2b62HMSWD3DwEGC2fj0vYkHoUI/Hd2K0SrQ2OTGuHXsjlzZxOGVUcxvEKNetZNonfDN70XpKJ5WWWnLidHbXAYLKjirKvVpEpbR+vweTLJG7rARRts7GUKb+OGa07Ki/iiapEVU0EbkdcBEmHfkvM3UnbZZxfZlDx0XdmJyjsfinYagzmbqV9y6KypqO5qOdsLi/LQol11Ur3cGlijIrWGoVf4Ue7dbKi/gJpbloMYCdWlZ7y7rVLx3SoGNOUUSx7GLSih9wNOBw/KDA37Ed28KiTQqgH;OtJr7ko6PxHdw5nGcCq7Fw=="
 ---
 

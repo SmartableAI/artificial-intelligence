@@ -2,6 +2,305 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-05-08-building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services.md",
+      "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
+      "excerpt": "For new home buyers, a common challenge is to understand how to manage their lawn needs effectively. Now imagine if you’re a farmer and have to do this for many acres of land. As a farmer, some of the challenges you’d typically face include the when (when is the right time to water), the where (where",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T09:22:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/28/weed-detector-1.gif",
+          "width": 1000,
+          "height": 600,
+          "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-computer-vision-can-renovate-financial-services-say-deltec-bank-bahamas.md",
+      "title": "Computer Vision Can Renovate Financial Services say Deltec Bank, Bahamas",
+      "excerpt": "Computer vision turns to visit a bank branch into a whole new experience. Financial services can be improved by implementing computer vision technology, which offers many great benefits for ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15992440/computer-vision-can-renovate-financial-services-say-deltec-bank-bahamas",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15992440",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15992440",
+      "publishedDateTime": "2020-05-08T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1587327365.jpeg",
+          "width": 3300,
+          "height": 2550,
+          "title": "Computer Vision Can Renovate Financial Services say Deltec Bank, Bahamas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity.md",
+      "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
+      "excerpt": "How can you snag the dough? There is a contest underway that promises a prize of $1,000,000 to someone or some entity that has managed to innovatively perform an outstandingly good deed with AI that demonstrably benefits humanity.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/amp/",
+      "publishedDateTime": "2020-05-08T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1146017341%2F0x0.jpg%3FcropX1%3D606%26cropX2%3D3484%26cropY1%3D0%26cropY2%3D2160",
+          "width": 1200,
+          "height": 900,
+          "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-catching-fraud-faster-by-building-a-proof-of-concept-in-amazon-fraud-detector.md",
+      "title": "Catching fraud faster by building a proof of concept in Amazon Fraud Detector",
+      "excerpt": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/catching-fraud-faster-by-building-a-proof-of-concept-in-amazon-fraud-detector/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T07:51:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/07/fraud-detector-4.jpg",
+          "width": 800,
+          "height": 566,
+          "title": "Catching fraud faster by building a proof of concept in Amazon Fraud Detector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19.md",
+      "title": "Aidoc obtains FDA clearance for AI that uses CT scans to help diagnose COVID-19",
+      "excerpt": "Startup Aidoc says it has obtained FDA clearance for AI and machine learning tech that uses CT scans to help diagnose COVID-19.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/08/aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/08/aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19/amp/",
+      "publishedDateTime": "2020-05-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Aidoc obtains FDA clearance for AI that uses CT scans to help diagnose COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-deepmind-compares-the-way-children-and-ai-explore.md",
+      "title": "DeepMind compares the way children and AI explore",
+      "excerpt": "In a preprint paper, DeepMind researchers propose a paradigm for comparing the exploration behaviors of children and AI models.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
+      "publishedDateTime": "2020-05-08T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": "DeepMind compares the way children and AI explore",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement.md",
+      "title": "Artificial Intelligence Technology Solutions Announces Health Screening Product Enhancement",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK: AITX) is pleased to announce that Robotic Assistance Devices (RAD), its wholly owned",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-health-screening-product-enhancement-1029182112",
+      "publishedDateTime": "2020-05-08T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-exer-launches-ai-based-fitness-coach-on-your-mobile-phone.md",
       "title": "Exer launches AI-based fitness coach on your mobile phone",
       "excerpt": "Just in time for the home exercise craze, Exer has launched its AI-based fitness coach that shows you how to do exercises properly at home.",
@@ -919,311 +1218,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-inference-moves-to-the-network.md",
-      "title": "Inference Moves To The Network",
-      "excerpt": "Machine-learning inference started out as a data-center activity, but tremendous effort is being put into inference at the edge. At this point, the “edge” is not a well-defined concept, and future inference capabilities will reside not only at the extremes of the data center and a data-gathering device,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://semiengineering.com/inference-moves-to-the-network/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/2020/05/BM_Fig02.png",
-          "width": 936,
-          "height": 624,
-          "title": "Inference Moves To The Network",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-vector-institutes-ai-makes-predictions-about-random-events-like-market-trades.md",
-      "title": "Vector Institute’s AI makes predictions about random events like market trades",
-      "excerpt": "Researchers at the Vector Institute propose an AI approach to modeling random events like stock market fluctuations and hospital visits.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/07/vector-institutes-ai-makes-predictions-about-random-events-like-market-trades/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/07/vector-institutes-ai-makes-predictions-about-random-events-like-market-trades/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/07/vector-institutes-ai-makes-predictions-about-random-events-like-market-trades/amp/",
-      "publishedDateTime": "2020-05-07T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Vector Institute’s AI makes predictions about random events like market trades",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-3-tips-to-find-a-good-ai-partner-for-your-recovery.md",
-      "title": "3 Tips to Find a Good AI Partner for Your Recovery",
-      "excerpt": "The world will never look the way it did before, but productivity and consumption can resume with a little help.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/350214",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350214",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350214",
-      "publishedDateTime": "2020-05-07T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200505205845-GettyImages-1019205322.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "3 Tips to Find a Good AI Partner for Your Recovery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory.md",
-      "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
-      "excerpt": "AI Explorables is Google's initiative to elucidate the key concepts of machine learning via a series of interactive explanations to make the field more accessible and participatory.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1587624429_google_5_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-the-ai-eye-episode-345-ibm-collaborating-with-samsung-m1-imda-on-singapores-5g-industry-40-trial-and-virtusa-achieves-aws-saas-competency.md",
-      "title": "The AI Eye Episode 345: IBM Collaborating with Samsung, M1, IMDA on Singapore's 5G Industry 4.0 Trial and Virtusa Achieves AWS SaaS Competency",
-      "excerpt": "Point Roberts, WA and Vancouver, BC - May 7, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-345-ibm-collaborating-with-samsung-m1-imda-on-singapores-5g-industry-40-trial-and-virtusa-achieves-aws-saas-competency-2020-05-07?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye Episode 345: IBM Collaborating with Samsung, M1, IMDA on Singapore's 5G Industry 4.0 Trial and Virtusa Achieves AWS SaaS Competency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress.md",
-      "title": "Millions of historic newspaper images get the machine learning treatment at the Library of Congress",
-      "excerpt": "Historians interested in the way events and people were chronicled in the old days once had to sort through card catalogs for old papers, then microfiche scans, then digital listings — but modern advances can index them down to each individual word and photo.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/amp/",
-      "publishedDateTime": "2020-05-07T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/newspaper-navigator-scan.jpg?w=1024",
-          "width": 1024,
-          "height": 741,
-          "title": "Millions of historic newspaper images get the machine learning treatment at the Library of Congress",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-elon-musk-says-theres-a-chance-his-ai-brain-chip-company-will-be-putting-implants-in-humans-within-a-year.md",
-      "title": "Elon Musk says there's a chance his AI-brain-chip company will be putting implants in humans within a year",
-      "excerpt": "Elon Musk says his Neuralink brain chip could be ready for a human patient within a year. The chip could help with brain injuries, he says.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5?amp",
-      "publishedDateTime": "2020-05-07T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5eb443f157853276ce3f755d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk says there's a chance his AI-brain-chip company will be putting implants in humans within a year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

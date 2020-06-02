@@ -2,6 +2,276 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future.md",
+      "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
+      "excerpt": "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
+      "ampWebUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
+      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
+      "publishedDateTime": "2020-05-22T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_m6h8.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40.md",
+      "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
+      "excerpt": "The Nvidia GameGAN artificial intelligence recreated the game from scratch after ingesting 50,000 gameplay episodes of the classic game.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
+      "publishedDateTime": "2020-05-22T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/yQEmqA_2RjWodVpXtfPF4mainp8=/756x567/2020/05/22/8fcfffb0-d775-4f67-86be-9cf2467ea18d/nvidia-ai-pac-man.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay.md",
+      "title": "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay",
+      "excerpt": "Nvidia researchers have used generative adversarial networks (GANs) to create a new version of Pac-Man that recreated without studying the game's code",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/amp/",
+      "publishedDateTime": "2020-05-22T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-50-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-google-will-stop-building-custom-ai-for-big-oil-and-gas.md",
+      "title": "Google will stop building custom AI for Big Oil and Gas",
+      "excerpt": "This report exposes how the three largest cloud companies — Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/",
+      "ampWebUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/amp/",
+      "publishedDateTime": "2020-05-22T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/Google-1.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Google will stop building custom AI for Big Oil and Gas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages.md",
+      "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
+      "excerpt": "This report exposes how the three largest cloud companies—Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/",
+      "ampWebUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/amp/",
+      "publishedDateTime": "2020-05-22T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/unilever.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-artificial-intelligence-ai-market-worldwide-is-projected-to-grow-by-us2846-billion.md",
+      "title": "Artificial Intelligence (AI) market worldwide is projected to grow by US$284.6 Billion",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. (C) Copyright 2020 GlobeNewswire, Inc. All rights reserved. The MarketWatch News Department was not involved in the creation of this content. A link that brings you back to the homepage.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-worldwide-is-projected-to-grow-by-us2846-billion-2020-05-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-22T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) market worldwide is projected to grow by US$284.6 Billion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-nvidias-ai-recreates-pac-man-from-scratch-just-by-watching-it-being-played.md",
       "title": "Nvidia’s AI recreates Pac-Man from scratch just by watching it being played",
       "excerpt": "For its latest project, Nvidia researchers taught an AI system to recreate the game of Pac-Man simply by watching it being played. There’s no coding involved, no pre-rendered images for the software to draw on.",
@@ -997,266 +1267,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-a-case-for-cooperation-between-machines-and-humans.md",
-      "title": "A Case for Cooperation Between Machines and Humans",
-      "excerpt": "A computer scientist argues that the quest for fully automated robots is misguided, perhaps even dangerous. His decades of warnings are gaining more attention.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
-      "publishedDateTime": "2020-05-21T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/04/30/business/30hybrid/01hybrid-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "A Case for Cooperation Between Machines and Humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer.md",
-      "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-      "excerpt": "During its Build 2020 developer conference on Tuesday, Microsoft unveiled the new supercomputer built in collaboration with OpenAI, an artificial intelligence startup found by Elon Musk. Microsoft announced that the supercomputer hosted in Azure was developed exclusively to train OpenAI’s large-scale artificial intelligence models.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
-      "publishedDateTime": "2020-05-21T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587037150/itpro/MicrosoftLogo.jpg",
-          "width": 5157,
-          "height": 2973,
-          "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-the-trash-apps-new-features-can-create-ai-edited-music-videos-and-more.md",
-      "title": "The Trash app’s new features can create AI-edited music videos and more",
-      "excerpt": "The team behind Trash, an app that uses artificial intelligence to edit your video footage, launched a number of new features this week that should make it more useful for anyone — but especially independent musicians.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/21/trash-app-music-video/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/21/trash-app-music-video/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/21/trash-app-music-video/amp/",
-      "publishedDateTime": "2020-05-21T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Founders-2.jpg?w=1024",
-          "width": 1024,
-          "height": 592,
-          "title": "The Trash app’s new features can create AI-edited music videos and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-facebook-is-turning-to-ai-to-teach-kids-about-stranger-danger.md",
-      "title": "Facebook Is Turning to AI to Teach Kids About Stranger Danger",
-      "excerpt": "Scams and creepers abound on Facebook Messenger. To combat them, Facebook is now turning to artificial intelligence. A new AI-powered safety feature for Messenger will now help people, particularly kids,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/facebook-is-turning-to-ai-to-teach-kids-about-stranger-1843585415",
-      "ampWebUrl": "https://gizmodo.com/facebook-is-turning-to-ai-to-teach-kids-about-stranger-1843585415/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-is-turning-to-ai-to-teach-kids-about-stranger-1843585415/amp",
-      "publishedDateTime": "2020-05-21T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/sbgcickhdot8flhjjnp1.png",
-          "width": 800,
-          "height": 450,
-          "title": "Facebook Is Turning to AI to Teach Kids About Stranger Danger",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d.md",
-      "title": "China’s latest AI news anchor mimics human voices and gestures in 3D",
-      "excerpt": "Chinese state news agency Xinhua has added a 3D AI news anchor called Xin Xiaowei to its growing lineup of virtual presenters",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/amp/",
-      "publishedDateTime": "2020-05-21T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-45-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "China’s latest AI news anchor mimics human voices and gestures in 3D",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-impetus-streamanalytix-launches-a-cloud-based-version-for-self-service-etl-and-machine-learning.md",
-      "title": "Impetus StreamAnalytix Launches a Cloud-based Version for Self-service ETL and Machine Learning",
-      "excerpt": "Impetus Technologies Inc., a leading software products and services company, announced the launch of its new cloud-based version",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/impetus-streamanalytix-launches-a-cloud-based-version-for-self-service-etl-and-machine-learning-301063525.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/367508/impetus_logo_Logo.jpg?p=facebook",
-          "width": 1494,
-          "height": 785,
-          "title": "Impetus StreamAnalytix Launches a Cloud-based Version for Self-service ETL and Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

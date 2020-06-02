@@ -2,6 +2,305 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-05-02-how-amazon-web-services-stacked-up-against-microsofts-azure.md",
+      "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
+      "excerpt": "Microsoft Corporation (NASDAQ: MSFT) reported strong fiscal third-quarter results and Amazon.com, Inc. (NASDAQ: AMZN) beat on the top-line in its first quarter, but the",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/15934564/how-amazon-web-services-stacked-up-against-microsofts-azure",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15934564",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15934564",
+      "publishedDateTime": "2020-05-02T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/aws_2.png",
+          "width": 4000,
+          "height": 2400,
+          "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-16-things-to-help-battle-your-social-distancing-boredom-all-on-sale.md",
+      "title": "16 things to help battle your social distancing boredom, all on sale",
+      "excerpt": "These top-selling deals are massively discounted — up to 98% off — for no good reason other than to make your social distancing life a little better. From app subscriptions to online courses to smartphone accessories,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/shopping/may-2-social-distancing-boredom-sale/",
+      "ampWebUrl": "https://mashable.com/shopping/may-2-social-distancing-boredom-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/may-2-social-distancing-boredom-sale.amp",
+      "publishedDateTime": "2020-05-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F05%252F02%252Ff2%252Faac2f06ab7924e4bb5490b401614948f.08afc.jpg%252F1200x630.jpg?signature=Ws8OrHmNrSwXDm02XQM7LOdHNn0=",
+          "width": 1200,
+          "height": 630,
+          "title": "16 things to help battle your social distancing boredom, all on sale",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-artificial-intelligence-in-retail-market-share-scope-trends-drivers-challenges-forecast-2023.md",
+      "title": "Artificial Intelligence in Retail Market Share, Scope, Trends, Drivers, Challenges - Forecast 2023",
+      "excerpt": "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-share-scope-trends-drivers-challenges---forecast-2023-2020-05-02",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Retail Market Share, Scope, Trends, Drivers, Challenges - Forecast 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-samsung-steps-up-its-driverless-car-challenge-to-google-uber-apple.md",
+      "title": "Samsung steps up its driverless car challenge to Google, Uber, Apple",
+      "excerpt": "Samsung will be providing the sensors and artificial intelligence technologies for Hyundai cars. Samsung has been granted permission to test its driverless cars on the road in South Korea ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/05/02/samsung-driverless-car-test-approval.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/05/02/samsung-driverless-car-test-approval.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/05/02/samsung-driverless-car-test-approval.html",
+      "publishedDateTime": "2020-05-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102311689-samsung_logo.jpg?v=1554422486",
+          "width": 3000,
+          "height": 1888,
+          "title": "Samsung steps up its driverless car challenge to Google, Uber, Apple",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-uw-team-imagines-a-better-parkinsons-test-lands-in-global-finals-for-microsoft-student-competition.md",
+      "title": "UW team imagines a better Parkinson’s test, lands in global finals for Microsoft student competition",
+      "excerpt": "A team of students from the University of Washington is among the global finalists in Microsoft’s annual Imagine Cup after putting their imaginations — and technical skills — to work in hopes",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/",
+      "ampWebUrl": "https://www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/amp/",
+      "publishedDateTime": "2020-05-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/teamtremor-630x353.png",
+          "width": 630,
+          "height": 353,
+          "title": "UW team imagines a better Parkinson’s test, lands in global finals for Microsoft student competition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-learn-how-to-select-ml-instances-on-the-fly-in-amazon-sagemaker-studio.md",
+      "title": "Learn how to select ML instances on the fly in Amazon SageMaker Studio",
+      "excerpt": "Amazon Web Services (AWS) is happy to announce the general availability of Notebooks within Amazon SageMaker Studio. Amazon SageMaker Studio supports on-the-fly selection of machine learning (ML) instance types, optimized and pre-packaged Amazon SageMaker Images, and sharing of Jupyter notebooks. You",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-how-to-select-ml-instances-on-the-fly-in-amazon-sagemaker-studio/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T15:23:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Learn how to select ML instances on the fly in Amazon SageMaker Studio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape.md",
+      "title": "OpenAI unveils neural network capable of creating music and releases debut mixtape",
+      "excerpt": "Training Jukebox involved creating a dataset of more than one million songs including LyricWiki lyrical information and metadata, the research lab says.",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape/",
+      "publishedDateTime": "2020-05-01T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/01/eb5d05dc-6a0c-4084-8f83-4e8d529d9bab/resize/1200x/a9adbf8e0894c35893db4417272de7be/neural-network.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "OpenAI unveils neural network capable of creating music and releases debut mixtape",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-courseras-23-most-popular-online-courses-right-now-from-public-health-courses-on-covid-19-to-the-science-of-happiness.md",
       "title": "Coursera's 23 most popular online courses right now — from public health courses on COVID-19 to the science of happiness",
       "excerpt": "Coursera is a popular online learning platform. These are the most popular classes in Coursera's library right now, most of which are free to audit and under $100 per month to complete.",
@@ -742,302 +1041,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-stats-perform-hits-a-bulls-eye.md",
-      "title": "Stats Perform Hits a Bull’s Eye",
-      "excerpt": "Amazon Web Services and Formula 1 have partnered to create a simulated racing competition called the F1 DeepRacer ProAm. Participants will use Amazon’s machine-learning software to build autonomous digital racing cars that can race against each other in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sporttechie.com/stats-perform-professional-darts-counter-strike-esports",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportTechie",
-        "domain": "sporttechie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Stats Perform Hits a Bull’s Eye",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic.md",
-      "title": "Drug discovery might be the best use of AI to tackle the pandemic",
-      "excerpt": "BenevolentAI's discovery of a potential coronavirus treatment show's that drug discovery is one application of AI that's living up to the hype",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/",
-      "publishedDateTime": "2020-05-01T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-21-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Drug discovery might be the best use of AI to tackle the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty.md",
-      "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
-      "excerpt": "He sees the vision of how AI and machine learning can help us work better in the post-pandemic world. Gaurav Kataria, VP Product at BetterUp says, “One of the key skills that we are focusing on is learning agility and resilience.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/amp/",
-      "publishedDateTime": "2020-05-01T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eac09d2af7fe60006a119f7%2F0x0.jpg%3FcropX1%3D467%26cropX2%3D9888%26cropY1%3D0%26cropY2%3D5304",
-          "width": 1200,
-          "height": 645,
-          "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-as-a-service-models-can-improve-business-outcomes.md",
-      "title": "How 'As-A-Service' Models Can Improve Business Outcomes",
-      "excerpt": "For some, the transition to “as-a-service” means having a smarter business. To make this model work for you, it’s essential to have a sound strategy in place.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/01/how-as-a-service-models-can-improve-business-outcomes/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/01/how-as-a-service-models-can-improve-business-outcomes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/01/how-as-a-service-models-can-improve-business-outcomes/amp/",
-      "publishedDateTime": "2020-05-01T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F04%2F599.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How 'As-A-Service' Models Can Improve Business Outcomes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-microsoft-introduces-digigirlz-ai-class-brings-artificial-intelligence-to-high-school-girls.md",
-      "title": "Microsoft introduces DigiGirlz AI Class, brings Artificial Intelligence to high-school girls",
-      "excerpt": "Microsoft introduces Alice envisions the future, DigiGirlz AI Class targeting high school girls around the world to develop their understanding of AI.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://microsoftcaregh.com/2020/05/01/microsoft-digigirlz-ai-class-high-school-girls/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "microsoftcaregh.com",
-        "domain": "microsoftcaregh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2.wp.com/microsoftcaregh.com/wp-content/uploads/2020/05/DigiGirlz.jpg?fit=960%2C640&#038;ssl=1",
-          "width": 960,
-          "height": 640,
-          "title": "Microsoft introduces DigiGirlz AI Class, brings Artificial Intelligence to high-school girls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-uk-government-invited-google-deepmind-exec-to-critical-coronavirus-meeting.md",
-      "title": "UK government invited Google DeepMind exec to critical coronavirus meeting",
-      "excerpt": "DeepMind cofounder and CEO Demis Hassabis attended a meeting of the scientific advisory group for emergencies (Sage) on March 18.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/01/coronavirus-uk-government-invited-deepminds-demis-hassabis-to-meeting.html",
-      "publishedDateTime": "2020-05-01T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1529472645",
-          "width": 1024,
-          "height": 678,
-          "title": "UK government invited Google DeepMind exec to critical coronavirus meeting",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-deezer-develops-ai-to-detect-explicit-song-lyrics.md",
-      "title": "Deezer develops AI to detect explicit song lyrics",
-      "excerpt": "Streaming service Deezer is developing technology to automatically detect explicit content in songs. The company has been looking into the issue because record labels often fail to identify offensive lyrics when they submit songs,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-52499375",
-      "ampWebUrl": "https://www.bbc.com/news/amp/entertainment-arts-52499375",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/entertainment-arts-52499375",
-      "publishedDateTime": "2020-05-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11E4F/production/_112059237_gettyimages-1191011684.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Deezer develops AI to detect explicit song lyrics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

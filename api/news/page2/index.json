@@ -2,16 +2,150 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-06-01-scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
-      "heat": 112,
+      "path": "_news/2020-06-01-creating-a-music-genre-model-with-your-own-data-in-aws-deepcomposer.md",
+      "title": "Creating a music genre model with your own data in AWS DeepComposer",
+      "excerpt": "AWS DeepComposer is an educational AWS service that teaches generative AI and uses Generative Adversarial Networks (GANs) to transform a melody that you provide into a completely original song. With AWS DeepComposer, you can use one of the pre-trained music genre models (such as Jazz, Rock, Pop, Symphony,",
+      "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-music-genre-model-with-your-own-data-in-aws-deepcomposer/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T05:00:00-07:00",
+      "publishedDateTime": "2020-06-01T07:48:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/music-genre-2.gif",
+          "width": 500,
+          "height": 415,
+          "title": "Creating a music genre model with your own data in AWS DeepComposer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-ai-news-index-replacing-workers-or-creating-jobs.md",
+      "title": "AI News Index: Replacing Workers Or Creating Jobs?",
+      "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of AI highlight the impact of robots on jobs and the widespread adoption of AI in enterprises worldwide",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/06/01/ai-news-index-replacing-workers-or-creating-jobs/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/06/01/ai-news-index-replacing-workers-or-creating-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/06/01/ai-news-index-replacing-workers-or-creating-jobs/amp/",
+      "publishedDateTime": "2020-06-01T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed25e873c7e9c000678ef1d%2F0x0.jpg",
+          "width": 1200,
+          "height": 590,
+          "title": "AI News Index: Replacing Workers Or Creating Jobs?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-balancing-privacy-concerns-around-facial-recognition.md",
+      "title": "Balancing Privacy Concerns Around Facial Recognition",
+      "excerpt": "There has been recent global uproar around facial recognition technology and whether it’s ethically sound. Its use without citizen consent could have potential safety benefits but is undoubtedly a violation of privacy and does in fact need stronger policy reinforcement.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jumio/2020/06/01/balancing-privacy-concerns-around-facial-recognition/",
+      "ampWebUrl": "https://www.forbes.com/sites/jumio/2020/06/01/balancing-privacy-concerns-around-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jumio/2020/06/01/balancing-privacy-concerns-around-facial-recognition/amp/",
+      "publishedDateTime": "2020-06-01T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ece9f9599211e00077b6791%2F0x0.jpg",
+          "width": 600,
+          "height": 300,
+          "title": "Balancing Privacy Concerns Around Facial Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure.md",
+      "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
+      "excerpt": "SAN RAMON, Calif., June 01, 2020 (GLOBE NEWSWIRE) -- WANdisco (LSE: WAND), the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure-2020-06-01",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T04:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -33,7 +167,7 @@
           "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
-          "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
+          "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
           "attribution": null
         }
       ],
@@ -533,6 +667,42 @@
       ]
     },
     {
+      "path": "_news/2020-05-31-in-virus-hit-south-korea-ai-monitors-lonely-elders.md",
+      "title": "In virus-hit South Korea, AI monitors lonely elders",
+      "excerpt": "Elderly South Koreans are using voice-enabled smart speakers that allow a telecom company to listen to them 24 hours a day for signs of rising loneliness or insecurity",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/virus-hit-south-korea-ai-monitors-lonely-elders-70976985",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/virus-hit-south-korea-ai-monitors-lonely-elders-70976985",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/virus-hit-south-korea-ai-monitors-lonely-elders-70976985",
+      "publishedDateTime": "2020-05-31T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_0afbbec489fe48cf8108eec1c6bc7ea3_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "In virus-hit South Korea, AI monitors lonely elders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-31-microsoft-choosing-ai-to-run-msn-not-journalists.md",
       "title": "Microsoft Choosing AI to Run MSN, Not Journalists",
       "excerpt": "MSN is shifting to a model that relies on artificial intelligence to curate news stories, and thus Microsoft plans to release nearly 80 contractors in the United States and the United Kingdom.",
@@ -899,184 +1069,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-microsoft-lays-off-journalists-to-replace-them-with-ai.md",
-      "title": "Microsoft lays off journalists to replace them with AI",
-      "excerpt": "Microsoft is laying off dozens of journalists and editorial workers at its Microsoft News and MSN organizations. The layoffs are part of a bigger push by Microsoft to rely on artificial intelligence to pick news and content that’s presented on MSN.",
-      "heat": 177,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements",
-      "publishedDateTime": "2020-05-30T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/OQ1cQ3E_SYrS9YZz-esPG3MaYgM=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66875825/acastro_180507_1777_microsoft_0002.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Microsoft lays off journalists to replace them with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-this-indian-start-up-is-using-ai-to-monitor-covid-19-progression-inside-patients.md",
-      "title": "This Indian Start-Up Is Using AI To Monitor COVID-19 Progression Inside Patients",
-      "excerpt": "Ray in about a minute and provides details about whether a patient was getting better as a result of the treatments administered.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/351294",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351294",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351294",
-      "publishedDateTime": "2020-05-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590832747-PrashantWarierQureai.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Indian Start-Up Is Using AI To Monitor COVID-19 Progression Inside Patients",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-new-ai-technique-speeds-up-language-models-on-edge-devices.md",
-      "title": "New AI technique speeds up language models on edge devices",
-      "excerpt": "Researchers at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and MIT-IBM Watson AI Lab recently proposed Hardware-Aware Transformers (HAT), an AI model training technique that incorporates Google’s Transformer architecture.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/amp/",
-      "publishedDateTime": "2020-05-29T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "New AI technique speeds up language models on edge devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery.md",
-      "title": "As wildfire season approaches, AI could pinpoint risky regions using satellite imagery",
-      "excerpt": "The U.S. has suffered from devastating wildfires over the last few years as global temperatures rise and weather patterns change, making the otherwise natural phenomenon especially unpredictable and severe.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/29/as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/29/as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/29/as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery/amp/",
-      "publishedDateTime": "2020-05-29T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/cal-fire-view.jpg?w=1024",
-          "width": 1024,
-          "height": 689,
-          "title": "As wildfire season approaches, AI could pinpoint risky regions using satellite imagery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
