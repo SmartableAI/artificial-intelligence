@@ -97,6 +97,19 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/pharmacy/1.jpg"
         width: 400
         height: 300
+  - title: "CVS Pharmacy tests self-driving vehicle delivery for prescriptions"
+    excerpt: "The company, which partnered with robotics company Nuro, joins other retailers who have recently updated their delivery options."
+    publishedDateTime: 2020-06-01T16:43:00Z
+    webUrl: "https://www.retaildive.com/news/cvs-pharmacy-tests-self-driving-vehicle-delivery-for-prescriptions/578944/"
+    type: article
+    provider:
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 24
+    images:
+      - url: "https://www.retaildive.com/user_media/cache/c9/5f/c95f1523326671716aff15e44f3a49a4.jpg"
+        width: 770
+        height: 363
 
 secured: "cjzDHdPNQTfeANo/mVCwMWyTjAax2tQ1oNqnIYtH4X4YJYpY4FWhBAud0jJdn8+bfutdxQIfi3P45+GyHTw2ahxdMndSBSfwNeTd/F5njZVDjRwhIz43YG9JEMiHFkTYuu0deVn2YpCEnAC6cC1BDGVKgiOgpnypYgVXq0JLMOBFxQHu0jiaiCwz7qHC6auPWciA+/6+TRew+FMs8azeFiJ3wNE14KLU1ihNsC3DpRZ3N9OgCdvXMRI8Dz34RFkrNrT6z7wkqpDu1GnRzZJcQiDB/L8HvMzU93GDoxPxHThZGRYEVf4FZQaiBxmWZt67njeueA2fpneaxjnXpEZPpBomNovi/wmJ9EFUts8inoGoPj6KC4sukq2Jj6UFLLjar1K1siIj3cKdthtU57F5iIk8X7ThYsqQgEpyeiXnArxNwNEqLnpEiW3wc/h8UTjHuYhzSdvdrj4bpbNFZ7gxQLjbzQlEeimzKCQ1rcl4QWc=;7sjFvaNfLhSiQq+a4xWNSQ=="
 ---

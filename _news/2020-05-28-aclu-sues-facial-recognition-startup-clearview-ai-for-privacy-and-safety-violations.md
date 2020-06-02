@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/05/28/aclu-sues-facial-recognition-star
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/amp/"
 type: article
 quality: 100
-heat: 150
+heat: 130
 published: true
 
 provider:
@@ -46,36 +46,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/kQ2DWQKhB8ESuyUYp1ZakUHRY3U=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66863662/acastro_180730_1777_facial_recognition_0002.0.jpg"
         width: 1400
         height: 933
-  - title: "ACLU sues Clearview AI over alleged privacy violations"
-    excerpt: "The ACLU has sued Clearview AI for allegedly violating Illinois privacy law through its face recognition-based surveillance technology."
-    publishedDateTime: 2020-05-28T16:50:00Z
-    webUrl: "https://www.engadget.com/aclu-sues-clearview-ai-164518487.html"
-    ampWebUrl: "https://www.engadget.com/amp/aclu-sues-clearview-ai-164518487.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/aclu-sues-clearview-ai-164518487.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F57216d80-a0fd-11ea-bfed-15a76691dfdb&client=amp-blogside-v2&signature=3caba45714d89119f1e3dcf6c427996c35b5e497"
-        width: 600
-        height: 350
-  - title: "ACLU sues facial recognition company Clearview AI"
-    excerpt: "The ACLU announced on Thursday that it was suing Clearview AI, the controversial facial recognition company, for violating an Illinois biometrics law."
-    publishedDateTime: 2020-05-28T16:52:00Z
-    webUrl: "https://www.dailydot.com/debug/aclu-clearview-ai-facial-recognition-lawsuit/"
-    ampWebUrl: "https://www.dailydot.com/debug/aclu-clearview-ai-facial-recognition-lawsuit/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/aclu-clearview-ai-facial-recognition-lawsuit/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 74
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/05/ACLU-Clearview-AI-Lawsuit-Facial-Recognition-scaled.jpg"
-        width: 2560
-        height: 1280
   - title: "ACLU sues facial recognition aggregator claiming privacy violation"
     excerpt: "The American Civil Liberties Union of Illinois is suing a facial recognition aggregator capable of scraping billions of publicly available faces and matching them to search queries from law enforcement."
     publishedDateTime: 2020-06-01T22:00:00Z

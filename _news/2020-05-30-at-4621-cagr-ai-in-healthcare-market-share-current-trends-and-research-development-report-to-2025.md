@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023"
-    excerpt: "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled"
-    publishedDateTime: 2020-05-28T15:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023-2020-05-28"
+  - title: "Artificial Intelligence-based Cybersecurity Market 2020 by Price, Sales, Revenue, Global Market Share and Forecast to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence-based Cybersecurity Market” report provides valuable information regarding new products in the market,"
+    publishedDateTime: 2020-05-29T11:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-2020-by-price-sales-revenue-global-market-share-and-forecast-to-2026-2020-05-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -24,21 +24,6 @@ images:
     title: "US joins G7 artificial intelligence group to counter China"
 
 related:
-  - title: "US joins G7 AI alliance to counter China’s influence"
-    excerpt: "The US is joining the rest of the G7 in the Global Partnership on Artificial Intelligence, in an effort to contain China's influence on AI"
-    publishedDateTime: 2020-05-28T16:10:00Z
-    webUrl: "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 91
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-56-796x417.png"
-        width: 796
-        height: 417
   - title: "U.S. joins G7 artificial intelligence group to counter China"
     excerpt: "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea. The White House’s"
     publishedDateTime: 2020-05-28T20:37:00Z
@@ -69,6 +54,28 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+  - title: "US joins G7 artificial intelligence group to counter China | Charlotte Observer"
+    excerpt: "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence, after the Trump administration had earlier dismissed the idea."
+    publishedDateTime: 2020-05-28T23:09:00Z
+    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243073231.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243073231.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243073231.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 35
+  - title: "US joins G7 artificial intelligence group to counter China | Raleigh News & Observer"
+    excerpt: "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence, after the Trump administration had earlier dismissed the idea."
+    publishedDateTime: 2020-05-28T23:09:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article243073231.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article243073231.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article243073231.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 32
 
 secured: "BvI71pIaEBSK/2aUQLAHoAz0LVhmdgI3aYp2RBSV+LJ6/NCZU3a/j3A01MEnj0d3p1P/AE4qfNb0Qy4PKOB2A9a3iMuTOMNfrg+T+FkqTlmid+0y/hHzZWU5KyQnvSwnwuW1yegm1C/D9a8hxA0PfEWRjy3TrdzGDR4pHTTqS20fCSiCtsbwe2wg7hFeLJ+6zX2h0dhDXAzC16n6cOreuscFNNVEzFqaVoXOaklJUea+TUcufBBQ7GG1y7dp5ec5a9fD9yXAL624daRt/U0eCHKwZHkltuzkwfz8KxPP8kPGKoUzEwX4g1f8uGuCfr3/RSsFV92HMj4NWx8vnGovrJjs9JWCigbR/zPyxTYifzDoiOxMZqojC49PjCYQgLI1X2dWuZg5npoPIZy6wqEO9CYFYPcVwh1cQuYiAS58JCk1zdfpO/sBkQ791UGQc/tlh514mjR6kktONDII65RuYsqonJfZrPuBauavy621Me4=;mi37OCyWG0jSXJlMulkF5Q=="
 ---

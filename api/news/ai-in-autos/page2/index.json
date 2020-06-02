@@ -2,6 +2,187 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-22-egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages.md",
+      "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
+      "excerpt": "This report exposes how the three largest cloud companies—Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/",
+      "ampWebUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/amp/",
+      "publishedDateTime": "2020-05-22T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/unilever.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-nvidia-reports-308-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar.md",
+      "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
+      "excerpt": "Nvidia posted revenues of $3.08 billion for the first quarter ended April 26, up 39% from a year earlier as data center revenues soared.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
+      "publishedDateTime": "2020-05-21T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Jensen-cooking.jpg?w=1200&#038;strip=all",
+          "width": 1116,
+          "height": 669,
+          "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-top-safety-official-at-waymo-self-driving-unit-stepping-down.md",
+      "title": "Top safety official at Waymo self-driving unit stepping down",
+      "excerpt": "Alphabet Inc’s Waymo self-driving unit said on Thursday that its chief safety officer, Debbie Hersman, was stepping down but would remain as a consultant to the company.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-waymo-safety-idUSKBN22X2Q9",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22X2Q9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22X2Q9",
+      "publishedDateTime": "2020-05-21T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519490622&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K20U",
+          "width": 817,
+          "height": 545,
+          "title": "Top safety official at Waymo self-driving unit stepping down",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-a-case-for-cooperation-between-machines-and-humans.md",
+      "title": "A Case for Cooperation Between Machines and Humans",
+      "excerpt": "A computer scientist argues that the quest for fully automated robots is misguided, perhaps even dangerous. His decades of warnings are gaining more attention.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
+      "publishedDateTime": "2020-05-21T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/30/business/30hybrid/01hybrid-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "A Case for Cooperation Between Machines and Humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-heres-why-elon-musk-keeps-raising-the-price-of-teslas-full-self-driving-option.md",
       "title": "Here’s why Elon Musk keeps raising the price of Tesla’s ‘Full Self-Driving’ option",
       "excerpt": "Driving” version of its Autopilot driver assistance package by around $1,000 on July 1st, CEO Elon Musk announced on Twitter this week. The company has done this before — a few times. It will probably do it again.",
@@ -1104,186 +1285,6 @@
           "width": 1200,
           "height": 600,
           "title": "GM's self-driving car startup Cruise has laid off 8% of its staff, or around 150 workers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-gms-self-driving-unit-cruise-to-cut-8-of-staff.md",
-      "title": "GM's self-driving unit Cruise to cut 8% of staff",
-      "excerpt": "The cuts, announced internally Thursday, are expected to primarily occur outside of the company's engineering operations",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/14/gms-self-driving-unit-crusie-to-cut-8percent-of-staff.html",
-      "publishedDateTime": "2020-05-14T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106347586-1579655957310cruiseorigininsfscastrodistrict.jpg?v=1579656103",
-          "width": 1920,
-          "height": 1471,
-          "title": "GM's self-driving unit Cruise to cut 8% of staff",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-15-gm-self-driving-unit-cruise-cuts-jobs-as-pandemic-hits-sector.md",
-      "title": "GM self-driving unit Cruise cuts jobs as pandemic hits sector",
-      "excerpt": "General Motors Co's self-driving car unit Cruise told staff on Thursday it has decided to lay off workers, the latest start-up in the nascent industry to cut jobs during the coronavirus pandemic.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-gm-autonomous-layoffs/gm-self-driving-tech-unit-cruise-laying-off-about-8-of-staff-idUSKBN22Q34W",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22Q34W",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22Q34W",
-      "publishedDateTime": "2020-05-14T18:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200514&t=2&i=1518677074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4D23U",
-          "width": 830,
-          "height": 545,
-          "title": "GM self-driving unit Cruise cuts jobs as pandemic hits sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-gm-cruise-self-driving-tech-company-sees-round-of-layoffs-report-says.md",
-      "title": "GM Cruise self-driving tech company sees round of layoffs, report says",
-      "excerpt": "The company will lay off about 160 employees. General Motors' ambitious Cruise Automation division will lay off 8% of its workforce, according to a Bloomberg report on Thursday. The company, which hired a vast number of new employees last year,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/gm-cruise-self-driving-tech-company-layoffs/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/gm-cruise-self-driving-tech-company-layoffs/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/gm-cruise-self-driving-tech-company-layoffs/",
-      "publishedDateTime": "2020-05-14T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/-HBTqIvR2Ygwa3wLzsz5LwiJOJE=/2017/10/09/4570d0cc-50a5-4d63-873e-6612deda4970/gm-strobe-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "GM Cruise self-driving tech company sees round of layoffs, report says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-cruise-gms-self-driving-unit-lays-off-8-percent-of-staff.md",
-      "title": "Cruise, GM’s self-driving unit, lays off 8 percent of staff",
-      "excerpt": "Cruise, the self-driving car startup that is a majority-owned subsidiary of General Motors, is laying off 150 employees, or about 8 percent of its workforce, to cut costs amid the novel coronavirus pandemic.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/5/14/21259001/cruise-gm-layoff-self-driving-unit-recruiting-product-design",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/14/21259001/cruise-gm-layoff-self-driving-unit-recruiting-product-design",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/14/21259001/cruise-gm-layoff-self-driving-unit-recruiting-product-design",
-      "publishedDateTime": "2020-05-14T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/7FHj1F4czAfdkj9N6YN4mLOGHiA=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66798730/vpavic_200121_3874_0010.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Cruise, GM’s self-driving unit, lays off 8 percent of staff",
           "attribution": null
         }
       ],

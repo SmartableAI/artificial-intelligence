@@ -52,12 +52,12 @@ related:
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO-01_i.jpg"
         width: 800
         height: 600
 
-secured: "lcuDgXtIip+s5S2HxI4RYEfZO+iCXl0R0xcMFWdc0+yLXwctVo1bpAv17oWkAAAzMl6wTfdv+pXJfwIYVADmdcZ73PDs8MttiJv/f6ZhzH9s4TB+K+vNMo123w4fL2y8WInowhIVI/dU1U3Vb3ZI4S/rtrY67wMncZlyCfsRmWRh/jDXR2BFY0B7rIvRUsF6XxvHIU4M9Mjf5fMv19RDEn6CoIamZHewc5JR/Ddj+FHJa6nH9LFKVqZnSSYI+surGjnhlAzf+Ch6gsiyp1lFr8R9M4BGmDDO9ZCtxaWA/Y3HU/hTCdnB3864WGssQ58M;wbNfu8rx3UWlj1T/6ZIZLw=="
+secured: "xLDHH1iiGLjSzNd+fPQulJpu4joi+1TvjnXUETHb0eXQbcb/ZaiKlLWBPjANdIbWEp9yLtmPp4exxUaoQ7P1NgLeK+z5d8ZmBTUTE3zl0j0JjtFX+zWknfTKQbmS9DYN3MaPGOo89xHEpP/AFpiEHDXyLBfaUtsSBlKZb2p/DhJymj3zwRcOeo1nk6CCbmwRJJrlid8rRHhWvLFaYu4spWOgaUMFNzfTQ4d6a5PU5zu7Ns/xHdKBSswqkFkmfj3K1T/dtIY0VI86kcVB4l1IyO2TQ8P7Ijv/Fp8hXudHghJPnomCG+4m3HHchGYcCHQrtKKmwTAD1tif9fklL436cL/ekLka5hz4zl9s54iDXWDfE6te2z+0cOkfOW81RP0w7vHBZ3iKn+JgVsy5da1YMB+CuRUpj3U+oyqWYf1ST+KNWDMqH8+B/Mp/TnJrhK1t/+6aZjP3vzz5Ipz8P374R2RkZ7xuEMekrjuw9wfRPgs=;KUtaqV++spAW/Si4Er3VDQ=="
 ---
 

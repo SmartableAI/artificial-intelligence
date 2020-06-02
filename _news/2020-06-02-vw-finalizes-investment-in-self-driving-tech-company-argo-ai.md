@@ -5,7 +5,7 @@ excerpt: "Eleven months after Volkswagen Group announced a $2.6 billion investme
 publishedDateTime: 2020-06-02T04:01:00Z
 webUrl: "https://www.autonews.com/mobility-report/vw-finalizes-investment-self-driving-tech-company-argo-ai"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO-01_i.jpg"
@@ -54,6 +55,6 @@ related:
         width: 1024
         height: 683
 
-secured: "8AcNc04Ckanxeh48VIeFmAUTYEMMfpmEgN5+5AsY8PQ85J2j3DNEIY2ySBuGvNW1GHjDDzyAJ5PI2LTavuYKaXxz29hFcztYAxfJglCcp0wNxQFxrShxepKTtR7BYbOGON25iIm9l81o2A6Cgw8l/RwIVgZpsDZoXwsTkbgPa0n4QrWRWhYf2x3I2OrDNKlwE45c6SJ7VM1Y9aH9WHYXjngTavkWiOcgg+2rkr0RaDezChNiQ4xLPZrtP0TQqoYieQoHfWcUXP9JkeTpMWUelHIV5CPuPgH8JtOjMRWsZnCerIG2xHobk7S8nQv8EopF;Veb6lAELeQiXSktC/ZVUVg=="
+secured: "TP1SuhfU5Ei1hBazTACA76Xif0rlB9wzdhsSucYxrQ/8zbRGa0ntKlHLmH9lF6U4vXQ7dWaYW1N1C7d2cif/jTXmzuo+hY9yr5OSt3LaLeKGsB0ZwWc7Iibr8kLA1mYjfWp4FBwsLrzDuKFyLGwo9MQa5F/NyBBmmjfUFpZ9nQIG3dlHMm8wWiVNyYQEyiGuEusRQh9zBvog1x2NDeR9XztBtIAo31Nm198JeaxLfBISIJj+9Vi3WgwhfrfCJYOG2CDVcehxGVBNbQfrkCvZKe79r9vvu5mDwDMYkJk8wZ28VzdyBEsBiCuxfQ/W+EVM85t1aRIByT8VH5J/QH2kegpLDhBsDeXRbe5KpbWjo5BKYXZedMn7dz9Ax/M+02hHgTmHHnWeyhnBNC5h2srMmWS4Sdyq3Lxg7zWHPurBIkKXEBQow9UeOzPppRdqUxj+hrkqCxKFyg68yfBOE/DuHW7cCcK/s3/fQgafC01bohs=;u6ZA2XIu2zbtZ/KgJ4JisA=="
 ---
 

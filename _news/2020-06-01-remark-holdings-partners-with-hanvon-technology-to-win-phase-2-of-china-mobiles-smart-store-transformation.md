@@ -23,6 +23,6 @@ images:
     height: 335
     title: "Remark Holdings Partners with Hanvon Technology to Win Phase 2 of China Mobile's Smart Store Transformation"
 
-secured: "RctUjEqN09JWD3tiYCJJ2IfehjA3cG/B9SbpSPPP+izDpzyhYnhl8oQ7QpvN6NA9IOQexGJR/S/LP63sdNPE3inm8oE0GHGsKIvwnVliBq6MD0dNS9L3WpgvTnOoQAfEqGd+u/OlDeOvCpRvKq8v2N+qHwKKdlBvE2EwWKL8ZauM6z8rKPwZZIqCKqzQHTtvM98LOI4kVYLUz3EepxjZ2c73I+Ab/iYzpiLy/TkZPJfTpjEdfFTzIHyZGqrXMrmHc3a/Uw+Y++ysu/S5Eds+YNLaI+0zqVLn6jDJ4oZavGgOWVDp8FlAdG/MukZlBfLT;PA6wIc11/nwBBf56pLgfnQ=="
+secured: "8JHPKCs/nV1V2kkFMTqJh5UDsVCu0xoWMNAm9wPwwN3y/buJOcARQ1aAIcusSh9NMmbczQ+q8A6ABnfrO7z88C+fV9BTxXN9D9cchmHhLvuApZQ1hbpFxGXLfWxYPFGJ/Uxdzy3H55x8H3hrv41Mu8eyNbXiOkJV/1f0rFcltAO7zoow+fDdGxAX7bhEDz2QiBezJeYdRY1YwRvKunSWZIt29y5syGOP6R2i8D0rDV1GkrwiiiY3nffSAHn68PsdAp1Lgo4m6E74gxGCgZo41DZLkQwc6iExodIpjmfHhys1nJYZqBLreWNIIqGeqRNORfWccPqH0EQ6dLdB+1WCHmM+5brdMYRDuh++9/TAV71XM7geNJxA9GhtTU7zy4tUpTWq0gQo8ngqrhzBZyDydMtUMcLzzrrptB3LWfTtr05ZEZ0rqd3ZAwEof7rDFVZqvFv+x+dGQhkewK5EbwiUutvhICQM/vDR5pnbcBVgAXU=;wDS4A9e4f5MmhzmV2mpGwg=="
 ---
 

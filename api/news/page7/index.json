@@ -2,6 +2,311 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-26-wada-looks-to-artificial-intelligence-to-catch-dopers.md",
+      "title": "WADA looks to artificial intelligence to catch dopers",
+      "excerpt": "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/",
+      "ampWebUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
+      "cdnAmpWebUrl": "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
+      "publishedDateTime": "2020-05-26T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSEE",
+        "domain": "yourcentralvalley.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2020/05/4878bde720924c678f20a60662f1f937.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "WADA looks to artificial intelligence to catch dopers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-definedcrowd-raises-505-million-for-ai-data-set-curation.md",
+      "title": "DefinedCrowd raises $50.5 million for AI data set curation",
+      "excerpt": "Seattle-based DefinedCrowd, which describes itself as a “smart” data curation platform, has raised $50.5 million in venture capital.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/amp/",
+      "publishedDateTime": "2020-05-26T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/social-thumbnail-e1590501305895.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": "DefinedCrowd raises $50.5 million for AI data set curation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-seattle-startup-definedcrowd-lands-50m-to-help-mastercard-bmw-others-improve-their-ai-services.md",
+      "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
+      "excerpt": "Artificial intelligence services require mountains of reliable data to reach their full potential. Seattle startup DefinedCrowd is filling that need for Fortune 500 companies such as Mastercard",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/",
+      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
+      "publishedDateTime": "2020-05-26T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/DanielaBraga_DefinedCrowd_3-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai.md",
+      "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
+      "excerpt": "Arm roles out new CPU, GPU and NPU products, as well as a new program to customize products for greater performance.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
+      "publishedDateTime": "2020-05-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/22/80cb27af-160b-43d9-b352-4b453d8c729e/armprocessors.png",
+          "width": 766,
+          "height": 371,
+          "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools.md",
+      "title": "Bluecore raises $50M for its first-party, AI-based marketing automation tools",
+      "excerpt": "As more online brands look for ways to move beyond third-party cookies as a way of gaining more direct insights about their users and customers, a startup that has developed a platform to help them has raised a big round of funding.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/26/bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/26/bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/26/bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/amp/",
+      "publishedDateTime": "2020-05-26T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-832158646-1.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": "Bluecore raises $50M for its first-party, AI-based marketing automation tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-benefits-technology-advancement-and-future-scope-till-2024.md",
+      "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Benefits, Technology Advancement and Future Scope Till 2024",
+      "excerpt": "The artificial intelligence and robotics in the aerospace and defense market (henceforth, referred to as the market studied) is anticipated to register a CAGR of over 20% during the forecast period. – The use of robots in space exploration,",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-benefits-technology-advancement-and-future-scope-till-2024-2020-05-26",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Benefits, Technology Advancement and Future Scope Till 2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-google-is-working-on-voice-confirmation-for-purchases-with-assistant.md",
+      "title": "Google is working on voice confirmation for purchases with Assistant",
+      "excerpt": "Soon you’ll be able to make purchases through Google Assistant using just your voice. As Android Police reports, a new Voice Match setting has been discovered in the Assistants",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/google-is-working-on-voice-confirmation-for-purchases-104045532.html",
+      "ampWebUrl": "https://www.engadget.com/amp/google-is-working-on-voice-confirmation-for-purchases-104045532.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-is-working-on-voice-confirmation-for-purchases-104045532.html",
+      "publishedDateTime": "2020-05-26T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2Fc70d8f70-9f31-11ea-adf0-744b518d1e33&client=amp-blogside-v2&signature=aef3787a22a2d6ec748bb8accc3503bb80f07b03",
+          "width": 600,
+          "height": 350,
+          "title": "Google is working on voice confirmation for purchases with Assistant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-google-assistant-now-lets-some-users-confirm-payments-with-their-voice.md",
       "title": "Google Assistant now lets some users confirm payments with their voice",
       "excerpt": "Google is testing a new feature with some Assistant users, which lets them use their voice to confirm certain types of payments. The feature is still being tested and there are some limits.",
@@ -767,319 +1072,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-huawei-said-to-ask-samsung-sk-hynix-for-stable-supply-of-memory-chips.md",
-      "title": "Huawei said to ask Samsung, SK Hynix for stable supply of memory chips",
-      "excerpt": "The world’s largest telecommunications equipment supplier is one of the five biggest clients for Samsung and SK Hynix, spending around US$8.1 billion to buy memory chips from the two South Korean companies every year.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
-      "publishedDateTime": "2020-05-24T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/25/a17ff3fe-9e1b-11ea-8055-0ae12e466049_image_hires_082942.jpeg?itok=sU7aud-4&v=1590366589",
-          "width": 1200,
-          "height": 630,
-          "title": "Huawei said to ask Samsung, SK Hynix for stable supply of memory chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel.md",
-      "title": "New Social Media App Iris Predicts Mutual Attraction Via Artificial Intel",
-      "excerpt": "Now, the new social media platform Iris looks to artificial intelligence to predict better potential matches while eliminating the possibility of cat-fishing.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/amp/",
-      "publishedDateTime": "2020-05-24T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211084313%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "New Social Media App Iris Predicts Mutual Attraction Via Artificial Intel",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-will-the-real-vcs-please-stand-up.md",
-      "title": "Will the real VCs please stand up",
-      "excerpt": "It’s time for the VC industry to remember its task is to build the future, not to focus on safe “PE like”  investments and top-up rounds.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/24/will-the-real-vcs-please-stand-up/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/24/will-the-real-vcs-please-stand-up/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/24/will-the-real-vcs-please-stand-up/amp/",
-      "publishedDateTime": "2020-05-24T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/raised_hand.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Will the real VCs please stand up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-ai-is-the-uncertainty-cure-enterprises-want-in-2020.md",
-      "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
-      "excerpt": "Supervised machine learning algorithms is the most popular machine learning technique in enterprises today. 73% of enterprises with advanced expertise in AI are making extensive use of supervised machine learning techniques to interpret,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/",
-      "publishedDateTime": "2020-05-24T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca991785e6c7000617bd7a%2F0x0.jpg",
-          "width": 1193,
-          "height": 872,
-          "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-nvidia-ceo-jensen-huang-on-the-metaverse-permanent-wfh-and-accelerating-raises.md",
-      "title": "Nvidia CEO Jensen Huang on the Metaverse, permanent WFH, and accelerating raises",
-      "excerpt": "Nvidia posted big earnings gains and unveiled its A100 artificial intelligence chip in the past two weeks. We talked with CEO Jensen Huang about that.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/amp/",
-      "publishedDateTime": "2020-05-24T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Jensen-cooking.jpg?w=1200&#038;strip=all",
-          "width": 1116,
-          "height": 669,
-          "title": "Nvidia CEO Jensen Huang on the Metaverse, permanent WFH, and accelerating raises",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face.md",
-      "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
-      "excerpt": "Hello and welcome back to TechCrunch’s China Roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. It’s been a tumultuous week for Chinese tech firms abroad: Huawei’s mounting pressure from the U.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/amp/",
-      "publishedDateTime": "2020-05-24T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/kevin-mayer-e1590307306151.jpg?w=1021",
-          "width": 1021,
-          "height": 545,
-          "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel.md",
-      "title": "The Station: Hertz files for bankruptcy, hailing “self-driving” scooters, Memorial Day travel",
-      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hi and welcome back to The Station. Memorial Day is this coming Monday,",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/amp/",
-      "publishedDateTime": "2020-05-24T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/micromobility-comeback.jpg?w=1024",
-          "width": 1024,
-          "height": 544,
-          "title": "The Station: Hertz files for bankruptcy, hailing “self-driving” scooters, Memorial Day travel",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

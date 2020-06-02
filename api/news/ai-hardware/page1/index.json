@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-02-artificial-intelligence-ai-chipset-market-global-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2023.md",
+      "title": "Artificial Intelligence (AI) Chipset Market –Global Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2023",
+      "excerpt": "Healthcare, and BFSI) and Region - Forecast Till 2023 Artificial intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning, machine learning, neural network processing, and natural language processing. These chipsets are planned with the end goal that they expend low power and offer high processing ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-global-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2023-2020-06-02?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chipset Market –Global Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion.md",
       "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
       "excerpt": "Dell Technologies is betting that integrated systems, more efficient use of GPUs and the ability run AI workloads within VMware environments will boost AI workloads.",
@@ -1260,44 +1306,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-hosted-ai-for-finding-code-defects-emitted-but-does-it-work.md",
-      "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-      "excerpt": "Altran – in association with Microsoft – has pushed out an open source project to find code defects via AI whenever you commit code. It is easy to see why Microsoft is keen. T",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "publishedDateTime": "2020-05-19T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/05/18/codedefect.jpg",
-          "width": 800,
-          "height": 408,
-          "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

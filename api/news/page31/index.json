@@ -2,6 +2,403 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-05-06-health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes.md",
+      "title": "Health care at ICLR: AI tackles poor data, low resources, and black boxes",
+      "excerpt": "In the field of medicine, AI can make a positive impact, but healthcare presents unique problems in data and with resources and explainability.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/06/health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/06/health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes/amp/",
+      "publishedDateTime": "2020-05-06T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/pexels-photo-236380-e1511747322253.jpeg?fit=1200%2C795&strip=all",
+          "width": 1200,
+          "height": 795,
+          "title": "Health care at ICLR: AI tackles poor data, low resources, and black boxes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-call-of-ai-ethics-the-origin-story.md",
+      "title": "Call of AI Ethics: The origin story",
+      "excerpt": "Dr. Francesca Rossi, IBM fellow, AI ethics global leader, and distinguished research staff member, IBM Research, tells Tonya Hall about the Call of AI Ethics that was initiated by the Vatican and presented to Pope Francis.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/call-of-ai-ethics-the-origin-story/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/06/9607c290-d166-4c72-8aa5-8d924164ec86/thumbnail/770x578/4386903680cf78bb5d3ee9cc9c177802/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Call of AI Ethics: The origin story",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-virtusa-achieves-aws-saas-competency-status.md",
+      "title": "Virtusa Achieves AWS SaaS Competency Status",
+      "excerpt": "Achieving the AWS SaaS Competency differentiates Virtusa as an AWS Partner Network (APN) member that possesses deep domain expertise in the Builders categories of the new AWS SaaS Competency. APN Consulting Partners in the Builders category have deep expertise in building cloud-native SaaS applications via software development.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/virtusa-achieves-aws-saas-competency-status-1029170762",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools.md",
+      "title": "Programming languages: Python developers reveal what they use it for and their top tools",
+      "excerpt": "New global survey shows that Python developers love machine learning, but just don't call them data scientists.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/",
+      "publishedDateTime": "2020-05-06T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/22/a17d7717-dbc3-4b7f-b230-403db29add1b/thumbnail/1200x675/7791e5900ab4aa0f77cb2a33e9ca29d9/developer-demand-for-python-skills-has-e-5dd7bd800aef250001f131fb-1-nov-22-2019-11-48-21-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Programming languages: Python developers reveal what they use it for and their top tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-logistics-ai-startup-covariant-reaps-40-million-in-funding-round.md",
+      "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
+      "excerpt": "Artificial-intelligence robotics startup Covariant raised $40 million to expand its logistics automation technology to new industries and ramp up hiring, the company said Wednesday.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/logistics-ai-startup-covariant-reaps-40-million-in-funding-round-11588719951",
+      "publishedDateTime": "2020-05-06T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183896/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Logistics AI Startup Covariant Reaps $40 Million in Funding Round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-runai-brings-virtualization-to-gpus-running-kubernetes-workloads.md",
+      "title": "Run:AI brings virtualization to GPUs running Kubernetes workloads",
+      "excerpt": "In the early 2000s, VMware introduced the world to virtual servers that allowed IT to make more efficient use of idle server capacity. Today, Run:AI is introducing that same concept to GPUs running containerized machine learning projects on Kubernetes.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpus-running-kubernetes-workloads/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpus-running-kubernetes-workloads/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpus-running-kubernetes-workloads/amp/",
+      "publishedDateTime": "2020-05-06T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Screenshot-2020-05-06-08.37.37.png?w=680",
+          "width": 680,
+          "height": 348,
+          "title": "Run:AI brings virtualization to GPUs running Kubernetes workloads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-industrial-ai-startup-covariant-raises-a-40m-series-b.md",
+      "title": "Industrial AI startup Covariant raises a $40M Series B",
+      "excerpt": "Covariant this week announced that it has raised a $40 million Series B, led by Index Ventures. The funding brings the three-year-old Berkeley startup’s total funding up to $67 million. Co-founded by top UC Berkeley professor Pieter Abbeel,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/industrial-ai-startup-covariant-raises-a-40m-series-b/amp/",
+      "publishedDateTime": "2020-05-06T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/If7huQ20.jpeg?w=1024",
+          "width": 1024,
+          "height": 691,
+          "title": "Industrial AI startup Covariant raises a $40M Series B",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-covariant-raises-40-million-to-bring-robots-to-low-tech-industries.md",
+      "title": "Covariant raises $40 million to bring robots to low-tech industries",
+      "excerpt": "Robotics startup Covariant may be best known for robotic grasping, but it aims to enter new industries, like mail delivery and agriculture.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/06/covariant-raises-40-million-to-bring-robots-to-low-tech-industries/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/06/covariant-raises-40-million-to-bring-robots-to-low-tech-industries/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/covariant-raises-40-million-to-bring-robots-to-low-tech-industries/amp/",
+      "publishedDateTime": "2020-05-06T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/covariant-founders.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Covariant raises $40 million to bring robots to low-tech industries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-spell-machine-learning-platform-goes-on-prem.md",
+      "title": "Spell machine learning platform goes on-prem",
+      "excerpt": "An end-to-end machine learning platform designed for ease of use, Spell now offers incarnations for both public cloud and data center deployment",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3541757/spell-machine-learning-platform-goes-on-prem.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3541757/spell-machine-learning-platform-goes-on-prem.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541757/spell-machine-learning-platform-goes-on-prem.amp.html",
+      "publishedDateTime": "2020-05-06T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_vector_by_kohb_gettyimages_1146634284-100817775-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Spell machine learning platform goes on-prem",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics.md",
       "title": "Cloudera Machine Learning MLOps suite generally available as it aims to manage models, analytics",
       "excerpt": "Cloudera Data Platform has seen solid traction in recent quarters from Cloudera and the hope is that CML MLOps will ride shotgun.",
@@ -670,389 +1067,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-register-now-aws-summit-online.md",
-      "title": "Register Now! | AWS Summit Online",
-      "excerpt": "Join in to AWS Summit Online Australia/New Zealand on Wednesday 13 May 2020 and learn how cloud technology can help your business to lower costs, improve efficiency, and innovate at scale.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/resource-library/webcasts/register-now/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/webcasts/register-now/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/webcasts/register-now/",
-      "publishedDateTime": "2020-05-05T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-women-leaders-in-ai.md",
-      "title": "Women Leaders in AI",
-      "excerpt": "“Success must include two things: the development of an individual to his utmost potentiality and a contribution of some kind to one’s world.” — Eleanor Roosevelt\nThroughout history, across countries, industries, and professions, women trailblazers have opened the door for millions of other women to",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/women-leaders-in-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/WLAI_BlogLeadspace_v2_FINAL_x2-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "Women Leaders in AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-people-think-robots-are-pretty-incompetent-and-not-funny-new-study-says.md",
-      "title": "People think robots are pretty incompetent and not funny, new study says",
-      "excerpt": "People think robots are pretty incompetent and not funny, new study says Date: May 6, 2020 Source: Georgia Institute of Technology Summary: Detecting gender bias against robots was the original ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200506104414.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibms-new-ceo-lays-out-his-roadmap.md",
-      "title": "IBM’s new CEO lays out his roadmap",
-      "excerpt": "Unsurpisingly, many of the subsequent announcements at the conference hinged on hybrid cloud, enabled in large part by IBM’s $34 billion acquisition of Red Hat in 2018. Take the technical preview of IBM Cloud Satellite.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.amp.html",
-      "publishedDateTime": "2020-05-05T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/ibm-cloud-native-100836782-large.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": "IBM’s new CEO lays out his roadmap",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero.md",
-      "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
-      "excerpt": "AI algorithms for deep-reinforcement learning have demonstrated the ability to learn at very high levels in constrained domains.",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/amp/",
-      "publishedDateTime": "2020-05-05T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-769726995.jpg?w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-how-nvidia-hopes-to-industrialize-ai-with-mlops.md",
-      "title": "How NVIDIA hopes to industrialize AI with MLOps",
-      "excerpt": "We still spend far too much time training machine learning models rather than deploying them. Could MLOps--which brings data scientists and DevOps together--be a solution?",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
-      "publishedDateTime": "2020-05-05T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/577ae693-b828-4a28-93b5-9d7ba518a5c2/resize/1200x/a0c1793f8d8ebe9e2fc334808c235fb0/istock-1017199998.jpg",
-          "width": 1200,
-          "height": 848,
-          "title": "How NVIDIA hopes to industrialize AI with MLOps",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-study-shows-how-our-brains-replay-recent-experiences-during-sleep.md",
-      "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
-      "excerpt": "This was done as part of a BrainGate pilot clinical trial, in which computer cursors, robotic prosthetic limbs ... were able to do so with a mind-controlled cursor, thanks to the implant.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411",
-      "ampWebUrl": "https://gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/study-shows-how-our-brains-replay-recent-experiences-du-1843259411/amp",
-      "publishedDateTime": "2020-05-05T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fnaf5qpslovyxvkyr4he.jpg",
-          "width": 800,
-          "height": 448,
-          "title": "Study Shows How Our Brains Replay Recent Experiences During Sleep",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-epitopesworld-taps-ai-to-predict-covid-19-vaccine-success.md",
-      "title": "Epitopes.world taps AI to predict COVID-19 vaccine success",
-      "excerpt": "A new freely available platform -- Epitopes.world -- taps AI to accelerate the development of vaccines targeting the novel coronavirus (COVID-19).",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/05/epitopes-world-taps-ai-to-predict-covid-19-vaccine-success/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/05/epitopes-world-taps-ai-to-predict-covid-19-vaccine-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/epitopes-world-taps-ai-to-predict-covid-19-vaccine-success/amp/",
-      "publishedDateTime": "2020-05-05T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Epitopes.world taps AI to predict COVID-19 vaccine success",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-an-ai-can-simulate-an-economy-millions-of-times-to-create-fairer-tax-policy.md",
-      "title": "An AI can simulate an economy millions of times to create fairer tax policy",
-      "excerpt": "Led by Richard Socher, the team has developed a system called the AI Economist that uses reinforcement learning—the same sort of technique behind DeepMind’s AlphaGo and AlpahZero—to identify ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/",
-      "ampWebUrl": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/amp/",
-      "publishedDateTime": "2020-05-05T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/05/tax.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "An AI can simulate an economy millions of times to create fairer tax policy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

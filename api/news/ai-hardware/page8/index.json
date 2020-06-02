@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-19-northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai.md",
+      "title": "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI",
+      "excerpt": "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
+      "publishedDateTime": "2020-02-18T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus.md",
       "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
       "excerpt": "This intelligence report provides a comprehensive analysis of the Global Artificial Intelligence Chips Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
@@ -1236,51 +1273,6 @@
       "topics": [
         "AI",
         "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-ai-driven-biomarkers-of-aging.md",
-      "title": "AI Driven Biomarkers Of Aging",
-      "excerpt": "AI will allow for enhanced precision in creating panels of actionable biomarkers obtained via digital wearable devices.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
-      "publishedDateTime": "2020-01-28T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30aae6f133f400076af2dd%2F0x0.jpg",
-          "width": 1200,
-          "height": 585,
-          "title": "AI Driven Biomarkers Of Aging",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI Hardware"
       ]
     }

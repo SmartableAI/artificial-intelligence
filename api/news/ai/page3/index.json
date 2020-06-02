@@ -2,6 +2,178 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-29-openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar.md",
+      "title": "OpenAI’s new text generator writes sad poems and corrects lousy grammar",
+      "excerpt": "OpenAI has quietly unveiled GPT-3, the latest incarnation of its headline-grabbing text generator, which comes with an enormous 175 billion parameters",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/29/openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/29/openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/29/openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/amp/",
+      "publishedDateTime": "2020-05-29T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-58-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "OpenAI’s new text generator writes sad poems and corrects lousy grammar",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-agricultural-robots-and-ai-its-a-question-of-when-not-if.md",
+      "title": "Agricultural Robots and AI – It’s a question of when, not if",
+      "excerpt": "Experts say robotics and artificial intelligence (AI) will drive a deep and transformative change in the agricultural world during the coming decades. It is already clear that",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.freshplaza.com/article/9221345/agricultural-robots-and-ai-it-s-a-question-of-when-not-if/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-29T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FreshPlaza",
+        "domain": "freshplaza.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://agfstorage.blob.core.windows.net/misc/FP_com/2020/05/29/Arobo.jpg",
+          "width": 600,
+          "height": 361,
+          "title": "Agricultural Robots and AI – It’s a question of when, not if",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-softbank-leads-500-million-investment-in-chinese-ride-hailing-firm-didis-self-driving-car-unit.md",
+      "title": "SoftBank leads $500 million investment in Chinese ride-hailing firm Didi's self-driving car unit",
+      "excerpt": "Didi said it will use the funding to \"accelerate\" the launch of driverless vehicle services in China and abroad.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/29/softbank-leads-500-million-investment-in-chinese-uber-rival-didi.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/29/softbank-leads-500-million-investment-in-chinese-uber-rival-didi.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/29/softbank-leads-500-million-investment-in-chinese-uber-rival-didi.html",
+      "publishedDateTime": "2020-05-29T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106104268-1567143051659didishowcasesitsautonomousdrivingfleetatthewaicinshanghai.jpg?v=1567143214",
+          "width": 1999,
+          "height": 1074,
+          "title": "SoftBank leads $500 million investment in Chinese ride-hailing firm Didi's self-driving car unit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-didi-chuxing-raises-us500-million-for-self-driving-unit-in-funding-round-led-by-softbank.md",
+      "title": "Didi Chuxing raises US$500 million for self-driving unit in funding round led by SoftBank",
+      "excerpt": "Japanese technology conglomerate SoftBank Group Corp led the funding round, which marks the single largest investment in China’s autonomous driving sector.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086762/didi-chuxing-raises-us500-million-self-driving-unit-funding-round",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086762/didi-chuxing-raises-us500-million-self-driving-unit-funding-round",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086762/didi-chuxing-raises-us500-million-self-driving-unit-funding-round",
+      "publishedDateTime": "2020-05-29T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/29/6bf5e3f0-a191-11ea-8055-0ae12e466049_image_hires_210054.jpg?itok=mH5oeaGh&v=1590757261",
+          "width": 1200,
+          "height": 630,
+          "title": "Didi Chuxing raises US$500 million for self-driving unit in funding round led by SoftBank",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-chinas-didi-raises-more-than-500-million-for-self-driving-tech.md",
       "title": "China’s Didi Raises More Than $500 Million for Self-Driving Tech",
       "excerpt": "Chinese ride-hailing giant Didi Chuxing Technology raised more than $500 million in a funding round led by SoftBank Group for its autonomous driving subsidiary, as it competes with well-backed U.S. startups over self-driving technology.",
@@ -735,6 +907,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-28-us-joins-g7-artificial-intelligence-group-to-counter-china.md",
+      "title": "U.S. joins G7 artificial intelligence group to counter China",
+      "excerpt": "The U.S. has joined an international panel for setting ethical guidelines for the use of artificial intelligence. The Trump administration had earlier dismissed the idea. The White House’s",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/",
+      "ampWebUrl": "https://www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/amp/",
+      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/u-s-joins-g7-artificial-intelligence-group-to-counter-china/amp/",
+      "publishedDateTime": "2020-05-28T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAVY",
+        "domain": "wavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2019/05/cropped-wavy-favicon-1-1.png",
+          "width": 512,
+          "height": 512,
+          "title": "U.S. joins G7 artificial intelligence group to counter China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-apple-acquires-machine-learning-startup-inductiv.md",
       "title": "Apple Acquires Machine Learning Startup Inductiv",
       "excerpt": "Apple (NASDAQ:AAPL) has acquired Inductiv, a machine-learning (ML) start-up that uses artificial intelligence (AI) to automatically identify and correct errors that may be lurking",
@@ -783,7 +992,7 @@
       "path": "_news/2020-05-28-cvs-pharmacy-prescriptions-go-high-tech-with-self-driving-delivery.md",
       "title": "CVS Pharmacy prescriptions go high-tech with self-driving delivery",
       "excerpt": "As we continue to sort out life in the coronavirus era, many households are making use of delivery services for things like groceries, baby food and pet supplies. Soon, Houston residents will be able to have their CVS Pharmacy prescriptions delivered with a self-driving car performing the service.",
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/roadshow/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
@@ -828,7 +1037,7 @@
       "path": "_news/2020-05-28-aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations.md",
       "title": "ACLU sues facial recognition startup Clearview AI for privacy and safety violations",
       "excerpt": "The ACLU claims Clearview AI \"will end privacy as we know it if it isn't stopped\" and calls the startup a threat to safety.",
-      "heat": 150,
+      "heat": 130,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/",
@@ -1094,230 +1303,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-responding-to-the-european-commissions-ai-white-paper.md",
-      "title": "Responding to the European Commission’s AI white paper",
-      "excerpt": "In January, our CEO Sundar Pichai visited Brussels to talk about artificial intelligence and how Google could help people and businesses succeed in the digital age through partnership. Much has changed since then due to COVID-19, but one thing hasn’t—our commitment to the potential of partnership with",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/amp/",
-      "publishedDateTime": "2020-05-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": "Responding to the European Commission’s AI white paper",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
-      "excerpt": "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023-2020-05-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-apple-just-bought-another-ai-startup-to-help-siri-catch-up-to-rivals-amazon-and-google.md",
-      "title": "Apple just bought another AI startup to help Siri catch up to rivals Amazon and Google",
-      "excerpt": "Apple has acquired AI startup Inductiv Inc. to improve Siri, which has fallen behind Amazon's Alexa and the Google Assistant.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5?amp",
-      "publishedDateTime": "2020-05-28T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ecfc2e3aee6a86d3947b893?width=1200&format=jpeg",
-          "width": 1102,
-          "height": 551,
-          "title": "Apple just bought another AI startup to help Siri catch up to rivals Amazon and Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily.md",
-      "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
-      "excerpt": "New York-based artificial intelligence startup Accern announced that it has closed a $13 million Series A funding round led by Fusion Fund. Mighty Capital, Allianz Life Ventures, Vectr Fintech Partners and Viaduct Ventures also participated,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/",
-      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
-      "publishedDateTime": "2020-05-28T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eceac230ca0110007264231%2F0x0.jpg",
-          "width": 1200,
-          "height": 925,
-          "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-why-these-ex-deepmind-engineers-picked-seattle-to-launch-new-ai-startup-phaidra.md",
-      "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
-      "excerpt": "Avocado toast meets red meat and potatoes. That’s not the most familiar way to describe Seattle, but it’s why Phaidra decided to launch its company in the Emerald City. The stealthy startup",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
-      "publishedDateTime": "2020-05-28T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-27-at-1.58.01-PM-300x261.png",
-          "width": 300,
-          "height": 261,
-          "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],
