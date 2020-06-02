@@ -21,20 +21,20 @@ topics:
 
 related:
   - title: "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI"
-    excerpt: "German automaker Volkswagen AG has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post on Tuesday."
-    publishedDateTime: 2020-06-02T04:19:00Z
-    webUrl: "https://www.reuters.com/article/us-volkswagen-argo-idUSKBN2390E6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2390E6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2390E6"
+    excerpt: "Volkswagen AG has closed on its $2.6 billion investment in Argo AI, the Pittsburgh-based autonomous vehicle startup announced in a blog post Tuesday."
+    publishedDateTime: 2020-06-02T14:59:00Z
+    webUrl: "https://www.cnbc.com/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 88
+      name: CNBC
+      domain: cnbc.com
+    quality: 86
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200602&t=2&i=1520732535&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5109U"
-        width: 841
-        height: 545
+      - url: "https://image.cnbcfm.com/api/v1/image/106016157-1562936612118img_2062.jpg?v=1562936715"
+        width: 3758
+        height: 2504
   - title: "Ford Shares Gain After Volkswagen Closes $2.6 Billion Investment in Self-Driving Venture Argo AI"
     excerpt: "Volkswagen, the world's second-biggest carmaker, has pumped $2.6 billion into Argo AI, a self-driving vehicle company it jointly owns with Ford."
     publishedDateTime: 2020-06-02T10:32:00Z

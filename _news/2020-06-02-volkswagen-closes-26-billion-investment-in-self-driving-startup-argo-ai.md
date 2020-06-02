@@ -1,32 +1,31 @@
 ---
 category: news
 title: "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI"
-excerpt: "German automaker Volkswagen AG has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post on Tuesday."
-publishedDateTime: 2020-06-02T04:19:00Z
-webUrl: "https://www.reuters.com/article/us-volkswagen-argo-idUSKBN2390E6"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2390E6"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2390E6"
+excerpt: "Volkswagen AG has closed on its $2.6 billion investment in Argo AI, the Pittsburgh-based autonomous vehicle startup announced in a blog post Tuesday."
+publishedDateTime: 2020-06-02T14:59:00Z
+webUrl: "https://www.cnbc.com/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
 type: article
-quality: 88
-heat: 138
+quality: 86
+heat: 136
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CNBC
+  domain: cnbc.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-  - AI in Autos
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200602&t=2&i=1520732535&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5109U"
-    width: 841
-    height: 545
+  - url: "https://image.cnbcfm.com/api/v1/image/106016157-1562936612118img_2062.jpg?v=1562936715"
+    width: 3758
+    height: 2504
     title: "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI"
 
 related:
@@ -96,6 +95,6 @@ related:
         width: 991
         height: 557
 
-secured: "yPCu47/NQ40fKz/b8KCn2CxZwOpUjdLnBT1tT/y+OsRS0jzmHncuTn63CXSTghHp7WKa8ngrgda9gQkn+UH0xMPa+V2Jxg3Kxo0xPbJtgHim2IEEB61gZfHorjZCQzteyc0kx43kBGhWZPoBvXudSUb+lA0SuhbEpQE1ETQGjOp/lmrpBhe59UqAXnSLqb9y1qiGoV1gWvCYOss+jFte2BdE32J5AlLdIkU1nGnMy7hmokwjq42z5kd4g4woIUH3OdOl7xOfTaDqpCGct/OqFsDIIe+Iexrq48IqhYT6RbIqMO+lHW4dqurCGiRsADXrcAcIc3RptDAR7TdCbOpfVfQWKFsh7pvyXDHIv39vwloXt+ctF5ntcx4ohMRsKPGFyiEp+StMu3aQ6xD02+KNqpv9k2TGz189+WEicyBLIDBWXIAKMPyVtEJuC9/R9YOO1w7yzyxS1UGJFLrmDKlWgPnf1hSFAmQUQ4jl827RWM0=;Ob72nMQZvYdj+Dr8yQHBrw=="
+secured: "8w+o1s/ZWf3Sjo8aF3nqonnVaGve/Mq5doOnuVu7ZjvaAoV7yjNlZ+lYxXpcnY7hibz48FV85PN7wuQMeAGVhtJj9LuQkhtN+ZQIRO6w3T5H/J5xQ+kl/OnP5DFwML6IJOT2jj2nSZ+p7CjiPpwmGMJjoM1ML/lhN1DSdmtg0RQM49yI8QDgHFZLOGHczGcCnQkHDO7NMQ+y40IdlbiDX6Myr3SXhInbCPoLOKyFNVI2lzclKhBigJSzZ3Wvjk2qDDdvvsCXmrukvLZsZcV2YAYm3sprH/C/vLHRvefp8x6bc9/FFjKLzO3lJYZI0R5Q;8V4ysbfA3Un85/JajMzzPw=="
 ---
 

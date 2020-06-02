@@ -24,6 +24,6 @@ images:
     height: 400
     title: "Are you a laid-off tech worker? This AI startup may be able to help."
 
-secured: "bJr2EIpaW8IsjZvpNTVKqYxV+wowGsvX/hqTx5L/tutUP95sUZQrIZ/4Hr7AvWHw9E5VnQphLhDz2l1pn/UXDg1yOHet80Dfi0h8QsD0k05Mw2ZXgnWzD0Mzu9iTzrnr6svVsru4XXn1hGrhxyzr5u5/+5TQZpidbi4exL+K1O9N1JX3qs3ymPh2Z7JGVRfJVBrk5itWotledRqgPVsntzs55GSfiQPWwEZDRX/48O+RkiB6l2+BilT4ux8fWgkjYRpUmnZ1f94ctgq5FMlqGwVm9NMyTrbvN8zXiL2jcdZyq/Ch5v91DUofVOpvIqqo;spzN92HTtMw8RH00v95yrA=="
+secured: "Z/IXa2laSkVsvvWua0JtwJWJJAAabU94jxfGRuqk9Q6/sdkLIixOftqt3Lw9P0pfWjJqHpNmkrzP80ZXEn+GAdeeqoz8jUeIVQp7H6vFpjkrvBYA69xrRifzPc2+NOurcr+YEJQzCSkHl+D3PDDbqcN8En1LLJGd9IVfSkGx5xBQWK33tWk/qDGd9iNEC5vtQFJLZ0UR0pWBeo9bFtIyiYK0q3tzCIe+X9q3hjzKUBD6QR71dOq3rPzLNJCGf/4IlhPDkibf5kO+7fKMdgrSSpMdbDIToqekFNkFPN/FtFIm2hKilIpnihexXEN1ZEfZSfhKm8euz+hx8LYI2RrAyvQABcD9Ht3WTv+hxkoOxW2a9eqMZrtUJI2ikiOXtRI6AFEMCrL4x5usCBHSIFjY5F541LAOaUhdqWYyDKkI6ibY8f8lqvAChZgsVIlcVzzZnbrL4uTW6No++roBWPeDloRJrGJyh6HqiQzDWZ9KBUY=;ztm2BqVqskqxC8n0HY0MaQ=="
 ---
 

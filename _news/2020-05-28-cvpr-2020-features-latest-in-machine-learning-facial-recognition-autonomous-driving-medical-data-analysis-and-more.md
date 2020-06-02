@@ -1,25 +1,19 @@
 ---
 category: news
 title: "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More"
-excerpt: "Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research"
-publishedDateTime: 2020-05-28T15:24:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-301067121.html"
+excerpt: "The annual Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research spanning the fields"
+publishedDateTime: 2020-05-28T15:45:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and/article_ee04b226-28a5-56f4-be32-475e0d8b67ff.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook"
-    width: 597
-    height: 314
-    title: "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More"
-
-secured: "snRGmaMNXZCIIuiq2t+SDhwZ9LJfPE/vRiQcBU+m2ioGoiodLX6/akTGwLedzzaGW1nZq00Ad7+bOrgsCuYCwEum2JVJHUswF7MoZqFOL7Xr72PXArCeRLNYIdlqd07hZG7EJa5Vztc6Muc2KcsMP95G1FMPSxWVpS1+trkKWSAX6C7Ql3TW2o7y6WYzz04BZ3HfS/U8oQPPu1M8gwX87PWgBR6uwtQlvPmG80EJAdy8gTBMwITBqwFTahD00rmonFuHJjgGZ4T6reqeXl0fssz0twGnpl8Canj6tgU+HfxEAkOSzvMLOoIo+8nDSkT5;jnUYEFr9y4tefa8yB3pitA=="
+secured: "Y12e0EJpXluKlTSMCFHwj6iPDSPezpHHJVpQhHjiD6AHpAHvb7UyMo5jZjDFaxudOlHHU6GCmodwvpxyb2v8aM3Gs6EpoeDCsyhn27u1xLNJXhbl2h0KDW8jvXdS+ykdtbTV3fvHzo5pCxNgd0taOUWdyTaRUNqxVZqRL/dmogIlBTbU09YP4tJxWBM45/YxZjLMCKDzBL/i6c1pEQa3OM2iCSwHeVG8bHpZ7rNV0J8yEg87lqD2tsCP9m1pVGIrHf+2V+F5ovODoieSiqTtKXuRCshiaWjxNWCLREsj//kelHBgkedE2OpYP5XTD7g4;o5hYajhjRUMBpUA6JbNU/w=="
 ---
 
