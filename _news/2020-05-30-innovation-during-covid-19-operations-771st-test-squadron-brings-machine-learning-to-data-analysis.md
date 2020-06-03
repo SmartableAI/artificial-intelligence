@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-30T00:16:00Z
 webUrl: "https://www.edwards.af.mil/News/Article/2202754/innovation-during-covid-19-operations-771st-test-squadron-brings-machine-learni/"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -23,23 +23,6 @@ images:
     height: 465
     title: "Innovation during COVID-19 Operations: 771st Test Squadron brings machine learning to data analysis"
 
-related:
-  - title: "How The US Can Learn About Successful Innovation Strategies From Israel, The Startup Nation"
-    excerpt: "In Israel, the government takes an active role in promoting and funding technological innovation, which is key to maintaining a thriving startup ecosystem. According to an account by Avi Hasson, former chief scientist at the Israel Innovation Authority,"
-    publishedDateTime: 2020-05-29T21:34:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed17eb35e2c7400068b0804%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8688%26cropY1%3D441%26cropY2%3D5328"
-        width: 1199
-        height: 677
-
-secured: "5RA5lfSLwB0fd+653M/dZuOTwbs3QDBu8Tx0iBo3gIEZQ4sXqNJOqtOJmXpSz60Rtih1qYbcuQQpTBF1gf3c/5w0TcEhDP1mTqIrV5aioGouQ9ys7EJoEOCtKRkU4KyDFZCcfCSEZtp4tCE4ALsRSt4bOAuXUq88Wq6QprfFmEXo7c1MOja1XfXK+6ePLY7cC1iLLHq8ibRSFl772ay/PE9/cMXOBeSic68qUpkYW0YvrOtjtTU/x3MDeDzVHH20NRs1M2TOZuc+LEi6Tppubk941vmJtfEAD5UFeizVqKVbDsk+i81MRZqa/0JMSbuU;DbdIk5DTdJqpAz8CoG67sg=="
+secured: "GgAHtVbadlPwC0yC68GmDis/D4j1l25U0VDKcc/G2Od0IXieO2FAunVfYXEHlawdSFDGKPtkkcgLiNVwypNLAjURTsUtpHMMd/JPZmHeImSlrLgBnedZOFjn9xTXINSRfSTQnYNdGo1joHIA4PNBiwG5F8U7ES1Np90MUMpBGvj9fRSy5lc60EN0HVeQbEMc4g6Jst4JWKIupyQFxjMRtDh/KbAY+UFrkn/GlM90kCfhPc/9EsmCAaLFsc3RspJakBgdnLKrGjUSJr6duqUPN/lHIB4DDGrRuJIgdZoM1WdQgFVWrQGtzHbqX1ph/mswKaUxDjcTy5f+Tcu6ROmKz2w0DicyXLdf60qcOrvG4CrvqR0x7zMMuoYotmKaXzTsCfK8e1BbOTRv5H/4mTtK3Wf/aSP4JTyTQbKnDzeYQQbhNZvaQ3WZaDoKv8V7hyJflR3SyXLBpXX9WwFj2imfTHMMiyxen/eabFOtpiLyhvY=;3NZE4HjPXAeSTKHsKaDvHg=="
 ---
 

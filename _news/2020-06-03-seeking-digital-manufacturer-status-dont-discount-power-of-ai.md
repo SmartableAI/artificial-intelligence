@@ -5,8 +5,8 @@ excerpt: "Mohawk Group tells story of how leveraging AI has enabled its success 
 publishedDateTime: 2020-06-03T09:39:00Z
 webUrl: "https://www.industryweek.com/technology-and-iiot/article/21132190/seeking-digital-manufacturer-status-dont-discount-power-of-ai"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 secured: "qd469xuGLrtq506VyW9s4ae2XTkbO+ywF5CeCUg31q/98jnjtjH/fakJQ3lh0ejECwXsJI7ja8ulJo4RKUNksap1jdeFKpGbihdVFZjgFhtTzAa1G3mUDggliEyZxNTXzDrJVeHTr4H7iFpS5WC3mS6ajHXlC0TZeq+k7vDclM6xel2Va3BAxye4t4wxshfOq+WHPYAtISAapDYUlwLjJmkCeFxtB6PM9MlMiIzMVJPpvBDTnbbyn8+PYcsQu+grow4k8LiFmUIBs8AXRyENqWghYQdWPngN3LTg2AFMu3LCuWh0ix9W7kbE65t8AC9wli69fgQFY8V4N+0v94KHoM7dYeRIlcVZRiPR1IF/1nOt2jRnWhp7v0de6dYugkrFOnJc3ybc3lXoITaKLLcMlCGVZkeXJ4VQ30DP0Uo6AW/TbxgbHZhIPbUlMIufsO4ZezZB3lpk9DeIjNzKNWTbt9NWw20X5z6s9WC+PCQOKqY=;cK4A2A0kMxTbxQmeaprtgw=="
 ---

@@ -5,8 +5,8 @@ excerpt: "The \"Artificial Intelligence, Industrial IoT, and Smart Machines in E
 publishedDateTime: 2020-06-03T13:45:00Z
 webUrl: "https://www.prnewswire.com/news-releases/global-enterprise--industrial-automation-outlook-2020-2025-focus-on-artificial-intelligence-industrial-iot-and-smart-machines-301070053.html"
 type: article
-quality: 10
-heat: 10
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
@@ -23,6 +25,6 @@ images:
     height: 419
     title: "Global Enterprise & Industrial Automation Outlook, 2020-2025: Focus on Artificial Intelligence, Industrial IoT and Smart Machines"
 
-secured: "xHro2y1Z0Fyzf1cZUA7yjuuF74e8lz9dDYQFSAgHTb0bo0yADjQeY/7vT1gYpYgEsoIN8iFOiRIgxn9tAd3i2a6bbAuvvSgunFUAhgPC4/1wsaPZ8kQPZJh8yoELgCjOSX8S9oJzGA80FzdmveUaUBPF7oKrd25o47RpqcHFC2rjzTANVwFxwYlnlTYynYKiBQSCeHCU83WOVVhlsg6XE1ZKUG62w5WxiGjMA3NCHOO8N2dMShlypoyUBbUeigsuzMwl0a5AHT2K7NVvdYXtExKGW7yQrIMwwI2EG94HgZ1gFKBPdqYjTZVt63VbGrwj;lBJ5kc+zYPlOt042v680NA=="
+secured: "8UNwY6ysde95zBCKDvrOOk0I0/jH6LP6ayQIC8CD1eduv5uk02BEoh7gENbsABFoNWT3qwqFE/mV6VYRlJNCQ5n1VolObwYQMnvbg6XBs1QyMnwfDZy9EMo4KZAzZrHkhSUVy8hTZZDWqfj67Kqx0WXf1d3RQok/Ex0RmB63viTbbgQ96WIfIEGXI8ria5P+Z31kf9JYmnfoPTxaCKsweKgec4teu1hKtJQEy7eKC5kEQ84LUwJnS/eulHA89+/TCkaF0ARsc1q7/PWwLL3AyLaYnbWVkZ5Kn2qZEdDXURCZu7DxX9uYlYJOXbli/bOvdM3fcHGes/jhl0hz/Ghti8eacLemjsE01uDSQk3tSUrLlzI0FZ+9L0vyxKiUnIuS+9Wrul4+Lo8a7O5FhGCdpmkfVK390FjZlrN6LI+ex7p31t285gaVoyPlZ9UsfZmAdfQ6geG9ZV90XhKfx+uEfMJi9SV1Ds2YvDjuHwe6L0A=;vS7t0uIamoS9yUejc8BXew=="
 ---
 

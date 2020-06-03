@@ -2,8 +2,8 @@
 category: news
 title: "Waymo to bring self-driving minivans back to Bay Area for delivering packages"
 excerpt: "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations."
-publishedDateTime: 2020-06-03T03:31:00Z
-webUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?itm_source=12&itm_content=1x7&itm_term=2376504"
+publishedDateTime: 2020-06-03T02:07:00Z
+webUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?itm_source=10&itm_content=2x2&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp"
 type: article
@@ -58,6 +58,6 @@ related:
       domain: digitaltrends.com
     quality: 66
 
-secured: "CO/p34CeR3Z5TGjto2lPDarKYfNFFnXhlLEAUnLV3XedHbv9h/7XNoIl+8rimmNHry8EscoTraPIajyC7AUChbRuYaTQ7DoELzdUK4bUdt3YxOvO6QFkh5rZnTLPm6zs9+kAwnFMws54zdfvt6nlLqpWjxOpUyP2Zltldg74iWVhVSvmKLWRODZwLXi8dkEKyglB5dijVlebsH+bL77vGhvwCYNrbfT7HL7DWJVuvIfIdwUHuQwHK/7P74It+T3c7Up+9hEUupBQ7nac2LkH3MCSMpC8pB8z16luRUNuHPdxfH1zEhE10o/FjARkqnPX;bDKM0a8CXRJUeBW7mqIN1g=="
+secured: "fDFv5jEsRPzxmx9g4zqSg2ucBm9lA9ApZv6H0XMs7XCMiC0lKeh/NLXz1qJP8yaVx6fKHRmbQ2isgUmQdAOotVW+bfVmxV9gbK5C8AfWNvR6pefMulp/X12hR6yw1EEaGBGYnysYPrdZxmQiSPP6Ex6R82Cq/0Tlc3abpK0k3YDRvGDjtUgOprE7rj1creguQTYkKlrPEX0j7tdZgK17ffUN664BY8KP6GV6eMuFPgbzi8s72wsQWxw96rItXNl+D0+KIuDT6pLH2CNk9uicIhbf1bdBzSivXLEPrhatyNKLEl+MdbzBpmxxqo3jvcjk;nCu6MA6B5tsmCAsR/oPvnw=="
 ---
 

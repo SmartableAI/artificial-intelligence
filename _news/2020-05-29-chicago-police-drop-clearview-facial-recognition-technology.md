@@ -1,19 +1,21 @@
 ---
 category: news
-title: "Chicago police drop Clearview facial recognition technology"
+title: "Chicago Police Drop Clearview Facial Recognition Technology"
 excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
-publishedDateTime: 2020-05-29T22:57:00Z
-webUrl: "https://www.thenewstribune.com/news/business/article243103416.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/business/article243103416.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article243103416.html"
+publishedDateTime: 2020-05-29T23:18:00Z
+webUrl: "https://www.usnews.com/news/best-states/illinois/articles/2020-05-29/chicago-police-drop-clearview-facial-recognition-technology"
 type: article
-quality: 24
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -35,29 +37,7 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
-  - title: "Chicago police drop Clearview facial recognition technology | Charlotte Observer"
-    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
-    publishedDateTime: 2020-05-29T22:57:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243103416.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243103416.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243103416.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 36
-  - title: "Chicago police drop Clearview facial recognition technology | Raleigh News & Observer"
-    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
-    publishedDateTime: 2020-05-29T22:57:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article243103416.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/business/article243103416.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article243103416.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 34
 
-secured: "DWafl/jtJ8SxNoreCZN2yCl6Gha7k86NzKyr3vumk66qCM7agucv4HszYYY/pgoaVuOX/1/IQJ/KUKREXMylCZTCScwiVsTnrNuRo8HPYD/kif+BQ4OjfBYkvpSOB3EQVz9i9LLo5V07p2atwbX8lBbxTwizgTtnTUctfnLXkm7WzWR+Je0NhH3o1Hdjqr0EtIOT4FR+Hv5rtx5FcyKge3ZVojozNAned2f35n4DSw3/XGvEDQVXmAeSyD7+H6kSQsGS1zhgrqEGJGjLS5t5MxUjkiqeAsEVu88D0eozjZpY7XS8NTY7KeFC2hfrIZnc;7mVlzfhIkeXkkTREM5Fvmw=="
+secured: "KQQMVZUygKCk+N5ayEi+Loi+SWCLdPSRjT9hmRLFUO1rpJYPUnzT+0OEQ7LNJgjriB7X0MV9FOLCosEbOCwtMEEpQzBQV1LXKmyfeukZkNfQpy8yYJRIDBw+7FnSAhj7q3+JKlIfup4eIIJgjB649fre8rxNtEds6JpPaEYATDnQJZatlMBke9yuvtlo2sC0VXKNOJvk7rVUlhul2ng6hsLcu+dolXWSAnpuSTNsir6FRp/lPwUhlHJLI5KDlXz4b7JGc4iUL0ulbJwy0SusQ4hSVSoVwVQ8UT0386oc7mu+NKRhgcwYRx2GHKvgODZW;vYNUEXLvXAlK3c4fJU1yCA=="
 ---
 

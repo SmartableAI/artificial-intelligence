@@ -29,6 +29,6 @@ images:
     height: 355
     title: "RealNetworks expands facial recognition tech to ID celebrities in videos — and it’s actually pretty useful"
 
-secured: "ZLyTh/kN4rQbyAv/4bsGwRxTsk47sD2U8JwdZkS04kLqydT+4W/8LWxoRTbQHBAycckpZysVEztqPaO37Q+kIj5z9icTo8Ivab9w7g8sppAC3hCoRHt9AI4KwoQ2Az9u5GL/XDiSxmj6UZmv1rS4Pir3RWWni0sxOKBXwVNK/qyWlz9DT+foBMsEmBj2kJ6RZwXuoBB7x7PRIMvxsi+B/y4yyWt41yKS6EMtcjGfPgYNAfmhWlOQjVsa5KC60ybzclrfHevRR6NdQmaQNhDPnKfosrTodPMYcvoPxIivL2yMP+VB8kAzDef9HnYHwqeC;Aw1II4AFMvZto8uJwJjP4w=="
+secured: "UpKHDjp5izqCgjwrJ4dOQ3yEVgg95GZ7krxmBQUzlsi81dDGPhlmIQKyqGcD2BMaZNE9VGS5I9PRZ5ysYpnH8B6+GfU2WPvVlmJum23YT4zhoO1yffvzcwf6P/pv2xrHhoy1BNZcui1BItmkI/VwyembxVHCAkvfdgiYg5HpG/HzMBwLUb4feXyU9TiXVyJS9Ugm59KpCKRjaBi+6ssJaxOI2SL1nxubs9DYV+nJVfphhaW/cRnzG3gjETqB6v+ov/J/HDDO8d28+WT/yFmbGuszc6E6VoFqvrWkDsWWRBn7uhylDOHaebZrMiekVzQn/+6aRZFQCZ9sltJ2hSMUDeFkejaWZRyk9TBUoIATB2ADiD/I+IbRCXtJre8YgYVkw4X+zyaKAzvlQk2l+mZYyWJ11qol1j0tpIgGGuzdfuJ2Ka6crBkdvB9daBcvYHOc/rA1f/8+38B3MonH6HvOneh8QFwwLZOZEfAWUWpvXBM=;H3IBR6+wqdvSy9TLMNcNGw=="
 ---
 

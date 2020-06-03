@@ -20,8 +20,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106016157-1562936612118img_2062.jpg?v=1562936715"
@@ -109,6 +109,6 @@ related:
         width: 1200
         height: 630
 
-secured: "TJvyEVsrea5i2Y89QgrzkUNwon9z3T6PGPBrLBmfrYphwPQ/2pm+dqkf3OVrzUNQEogADYgX2/h5R87SzyInB9eW5nn8FeGTdDlo8vgHbUDdPxVGENvpGuc9myWzcfw+tqi+weViZbF6Yo/+jEm5Qj8MA6j5zi1M9U0HjIjVttzGnc86wxps7wTFfEHhmjATEvFbWaGEJ8EnwWL/LieHzfqYT2FNcTIGeo3rug+FyuqIrmNfG9P5VfWUZmVUwk08nJYSnxHnDAIEUwButLzrC24Gju9PWyJiStzWJaLl6Hg771y/ysMOpo0b9dnPJG3YwrmSZuUcOJ/egxhifYe2+Td/NJ5pxqMjYQtzcrLaeQ2Jzg4Pvmc9bzgQv01w/Cr1BJY/9xWMjQBFsZnJN4ly086Wh6F8WkMa2YhEnOmvMzoe0PMkLJeoeHguto/C524P+ecMAF0vspWegL4M95CgDDWHKrVSbD0Zvy52SniJZP0=;6FETdCCmCbu/sahyLQbSvQ=="
+secured: "mZGFzFvRerpbiMmC4Xr0Jx8OfjTdfQcqpj+DsJmieIGxI1IdfjBnAu+JnVM0AtqUq9pUHZeS6+dlfD1y/92aajGPn5B5y3JiacF8DYvN85RcZ0oipgthT0fDNKFqXPbIT8lTXjC7DLl/+CTUltGBK0lxlyG3pNNYoLYKQV4ZQFJ2sbMPggKtNSukaDrZMWSUnl+nDqiwG20CVBE7KenW725+t2zGiecMug8u0N0/OtcG6DLrbzfnbj7LYvbue/LmfXT4fHiIpCOBLyUurBPDlKBZuxmLlG18uWHyz7adSYglBCc2+Gk42vqJAVhXicpY;P5E2h3DRA/lkdZgbGf3FaQ=="
 ---
 
