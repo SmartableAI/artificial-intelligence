@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/05/29/softbank-leads-500-million-inves
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/29/softbank-leads-500-million-investment-in-chinese-uber-rival-didi.html"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 1999
     height: 1074
     title: "SoftBank leads $500 million investment in Chinese ride-hailing firm Didi's self-driving car unit"
-
-related:
-  - title: "SoftBank leads $500m funding in Chinese ride-hailer Didi"
-    excerpt: "Companies are also racing to put their fleets in motion. Internet search engine Baidu, known for its self-driving vehicle platform Apollo, rolled out a fleet of 45 robotaxis in the central Chinese city of Changsha last September and then expanded the service to Beijing and Cangzhou in Hebei Province. Smaller rivals WeRide and AutoX also ..."
-    publishedDateTime: 2020-05-29T11:01:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/SoftBank-leads-500m-funding-in-Chinese-ride-hailer-Didi"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F7%2F8%2F9%2F26229874-4-eng-GB%2FCropped-1587102266DSC07383-1.jpg?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces"
-        width: 1600
-        height: 900
 
 secured: "4ht500aj/xIz20dj9Mu+g5/Uv1wqh/kg9RgzuWzz7Fq3F8oBXUO/XUKx9g+z9W8hURh03O5UKIoJrS6ZdD6GKYeSpFDVBGhWcwIybGxGlx1ci+ba4ej1rk+Y1s9Pd+BghJZS/LB5MYywUAu6GDbWdz8pzO08PwH1zJVWS/q0fMz0iEoMh3SWtmQgoSK2G6FDiMNLOHtbQpGw6fHjyId7l8OLFbBB1tER0gtSF1sR7K3NHuv3Ywunr67umLwKhHis8riiYEQUHRIe6haVXpr/G88y11kxya+d+/fQifNfNlIiBKMK1iSxFKzHXtNHngipTThelrgjUAxcIC1gnB7kMZ/IDAed4i/WcquXS92tx7C8QAQMxUr6xYJO1VPbm+puETrGoTjcJp7WW1td9DaCqc2LWp1rBI37txV7Q3XGfZG12TMnVNfyH6qTxlLm559WwUhfmF2FZpfzAytai6kn4WrGdS25JztUUrJcTyK9VU4=;yoF5HRqlBm79G7pMQ7QvrQ=="
 ---

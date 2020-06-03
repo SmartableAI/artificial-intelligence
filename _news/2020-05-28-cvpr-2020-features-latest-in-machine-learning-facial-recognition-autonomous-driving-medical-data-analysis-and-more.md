@@ -1,25 +1,25 @@
 ---
 category: news
 title: "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More"
-excerpt: "Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research"
-publishedDateTime: 2020-05-28T15:24:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-301067121.html"
+excerpt: "The annual Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research spanning the fields of computer vision, deep learning, artificial intelligence,"
+publishedDateTime: 2020-05-28T15:34:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook"
-    width: 597
-    height: 314
-    title: "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More"
-
-secured: "liLfpJgfRDvWYslhxB9uZnDYuFwItL6J3Nt9TA3ONQ6aDM1iiTtkv8LZF0SOZ4jcQY9eFWfkJqVKraIJBzTsFTgKeSKekQvnMGdBnBcSoToIN/8I7kVdGPO+SjrDUaXXC59l83XIR/sDNLyzD6Jqlw7uK28+OOcT0s/zsNkGQk2u0ZZQrbZJQaRC+WvcpGDQ64ybG1IWFqRpr4xhoGNEqNxS1A5wJHHjPqCHc66z0Z1xrSHKx+F9mbkaNafZDr9H9GbcWIOIJe5SJxmINGd2U0tLgBXUly6kKjEGV+Bu30kim7gx2WWpEonlfh3MEnSe;DkMhUDytC0rM4KrgfbpeLA=="
+secured: "MrBslezXdr4H60W9UpX/kjzMyb3CpcdwNfM7b5ff2E2bwS22FEK0+b+/y8t0mH88VLDkKnq9TKs+e9BrIn16Kq/PZ2G/V08+aiman4Lc/ICV4UJl/YTNStDw2kJwnaNyK9Wjc66luLIn7TKXI6OLzd6QlcTUOeDAibx1oVROde8lbNQi+BlgSQGr9ESkL+ObxB5yt4lLpKhk3SEP/SjMzgcrLagOStAaXPDMJ3tP9SwuH9AZfNAY74Ga6cqujZM5KEvryTDpPYckJa7JR9VXOkHuZSzcYNjX11+ykU9uet5TV+Zg12cCzHNMVl6RQP/g;CeicuQz/HQqfPNiRQc1b0A=="
 ---
 

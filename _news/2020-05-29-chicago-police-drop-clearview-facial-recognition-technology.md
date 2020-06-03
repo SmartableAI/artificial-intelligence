@@ -1,29 +1,25 @@
 ---
 category: news
-title: "Chicago police drop Clearview facial recognition technology"
+title: "Chicago Police Drop Clearview Facial Recognition Technology"
 excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
-publishedDateTime: 2020-05-29T22:57:00Z
-webUrl: "https://www.thenewstribune.com/news/business/article243103416.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/business/article243103416.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article243103416.html"
+publishedDateTime: 2020-05-29T23:18:00Z
+webUrl: "https://www.usnews.com/news/best-states/illinois/articles/2020-05-29/chicago-police-drop-clearview-facial-recognition-technology"
 type: article
-quality: 44
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/7af7df3d-4037-4962-aa2d-b1a69b20ac6f/2f5ea63d-ad49-4068-a2cb-9c8084f10120/1280x720/match/image.jpg"
-    width: 1194
-    height: 720
-    title: "Chicago police drop Clearview facial recognition technology"
 
 related:
   - title: "ACLU sues Clearview AI over 'unlawful' facial recognition technology"
@@ -70,6 +66,6 @@ related:
         width: 860
         height: 484
 
-secured: "2Vbu/f/31DMaZ7s1X607cWUU7DBdeTccp8GcQIfgv8ujC3+NqemSZkKhzFag9JjgfX9v+TB8+Y/EmPcx0vIBucQ+WkDmzVbWMT/hqpCU7dI0BBWqw7g2LdYQ9Rl1KneDYvWOrch9XLbYErZHa4g87La+YUm4DOCUoK3rp3dstaES3HUuvCLtiDZHrLvWI5FMELlQ++WiMFJ8OGT5qGE0Wz3hhl9rztY3oC/3voGx+7s9Ro0xU7xiR+R1WzupzQbMhWLsSXDNjrF0kR0MODoowvWWEllLIl/cwkS32CUkdvxSLreIo6nZoAGVblDgjFGi;LtTiEuG5H0EfTfBtBc06hg=="
+secured: "voH3uQqkBJ4TqcFQe0mu11ykpr8JWY8Aom0dvGMSdQBJE6xN9vhnmV0NfJo6DpfIF/zvchughIlEQKzdEA00VB6lXeRl19RfycigisqfB0oU/ZxFpJBDZT8dOL2zrfXLi44q+zhoH0vHIsTd14SGsZP8efxXIjdBX+8rGI9Q8OONWFZSMTVnRxZ7tPUTTqJJhtQT+CNUmfIARURCnJn0pBJPudCjDFcsE5fpB9DVtPOjFJ5mxYeb5fn0a5J/YrncSscqj3MGzRNYUXe92jTOfLsapIBpb8BzCKoOMMkRyTpxmSTrnobxBKdk9c1Xqzf0;oSWdVChdKmtjDSt1msbBdA=="
 ---
 

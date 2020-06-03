@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/chinas-didi-raises-more-than-500-mi
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinas-didi-raises-more-than-500-million-for-self-driving-tech-11590753837"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1280
     height: 640
     title: "China’s Didi Raises More Than $500 Million for Self-Driving Tech"
-
-related:
-  - title: "China's Didi Chuxing raises over $500 mln for self-driving unit"
-    excerpt: "China's Didi Chuxing said on Friday it had completed a fundraising round of over $500 million for its autonomous driving subsidiary that was led by SoftBank Group's Vision Fund 2. BEIJING/SHANGHAI, May 29 (Reuters) - China's Didi Chuxing said on Friday it had completed a fundraising round of over $500 million for its autonomous driving subsidiary that was led by SoftBank Group's 9984."
-    publishedDateTime: 2020-05-29T09:28:00Z
-    webUrl: "https://www.nasdaq.com/articles/chinas-didi-chuxing-raises-over-%24500-mln-for-self-driving-unit-2020-05-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/chinas-didi-chuxing-raises-over-%24500-mln-for-self-driving-unit-2020-05-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinas-didi-chuxing-raises-over-%24500-mln-for-self-driving-unit-2020-05-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
 
 secured: "r3JUztpmE3hR/J4GCrP8XNdVX5+uLnyHgso8fMAQSIdaZsq2Mp3nRGXBjcVDg4YZD5Pxhaasu0p3KlFy9nW5mZsorePiB4UhYlIiuy0NsIkLUPMnSF0TKdBN2M2Hj6GkyeR3dtKfP2PSrNbt3SXECCBUVGY6z8mFoH3pREM1VZTrwfwmeU81hR5n4MDf/z5hmH4/ogHYFjyrzDIC+q07XSM6dgkqPnYGef6gAWn6p9dqCvgfxTVJWhnMJ8mxYbIUgfMKL3m91hMzpBawt0RSTI6ZacLixeeUju0YrTeLyR7X9jBwpjmC20MnsOsV/RsViABTvk9zWGpooyMpCrc8EDpyygP5+UXIes/KOS4UZy21FI445wMUmdtFcvuIUzyuMYfYGMUx/WxqDLvDQupeAlgTu8DTB3NML7R2+G/guC9GMELB2N4kT97T9MqwjHrH01m45yMItqXGQ9L+6K+pWu5n+QVqJKV57Tfx+njNf9A=;mV2/YJeSi2vPMltoC//gQg=="
 ---

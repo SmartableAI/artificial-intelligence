@@ -5,7 +5,7 @@ excerpt: "Argo, founded in 2016 by Bryan Salesky and Peter Rander, is now jointl
 publishedDateTime: 2020-06-02T04:19:00Z
 webUrl: "https://money.usnews.com/investing/news/articles/2020-06-02/volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai"
 type: article
-quality: 48
+quality: 46
 heat: -1
 published: false
 
@@ -18,7 +18,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 related:
@@ -101,6 +100,6 @@ related:
         width: 1200
         height: 630
 
-secured: "+4EY5ypIQ13Z+XRv/9NrrBDLhrIAkIWq643QqUrQ6BUYXp0noSxG0QDt7mIWi1cAXNJSf/LQ/GrtR0I3A5GVbiSZghLKKNNp4iYG1525oSXGWUlNtFNakUxtQLWizmfkYJOUcRH3huJA102JfyQFSL2cOTE3TRoepylLs9s2cQLpavFp+Tez1yloDC3XubtAZCqszbQxUbDwI8qxGVDCyKIKZQiIeak6BWvOBo3Ma/e5XRVaw4wbwMpNGHrgFPYDFi7sRihJhgYP6LqGK4c/2PztpYtaL9z/6tHedlKPycUD257rMaeucjk5UVBxqzkPLpD04txfcVOcAEFKuHp5GHQs4d7PsZdGpEh9GqScVBPEGwWRb7Wt/vzhxeJdOsdey3FvUwoM3CJr//H6TY6iJJVh/mrMCVgRNlyxlAEqqXSNw8yyEKiOKX9Q1TsAlUr9p6OQeVdx2otvfYqp7YY3C8Ehaw551Hi+4AFEbaaiND8=;etsFfqF4eSkqgl5PyOtivA=="
+secured: "AH4owJzY9Mof8crMkAC2u5Ii5jEC9pSzqwcXYuiV88NHoJ/vMEUwX7ibIUDbIuO37Auy+je0ZXJrj9pp0olFAvc0cA96ImgeCShfSNpfdTQ0TJvaBgUmfx6fwMzhYSDo4LgrftP1zUOejNMNquSvD9cyuAZFnCG9hQEfVZsUXllBCNZHj/8xDVRN6gqgA83ite95Yx88UgFRdPvdiZNCorw0NHb1afEJ9APsCE++++4WlKv0qQAbLtOMS3kWFpJ0Cvx6dWEwfKSF85W/goIg8+Gyn0kg7YPi5oCXK5AtiGFxs6qMhHegDnP0T/ZHtmGu3uaqOuJnfNPbd8SOiDoCFZFFdAgrR5fZ6VlEDZ3medfq/2oO4MdtS9NeZ7KCmBU+u/tiYnSaJl89hVgZf1CT/jefIuUGBvIxAKZRkiLZCuPhKyiaT4Qx8/7HgN9UFA88Ks9NInxsnLNAUyAh+JEVkTHl3PPX1RXSmDGbAd6bnbY=;Q9z86eV6D7RD83LpTS8/Og=="
 ---
 

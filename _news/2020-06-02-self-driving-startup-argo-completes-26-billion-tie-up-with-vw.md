@@ -35,15 +35,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Volkswagen Closes $2.6 Billion Investment in Self-Driving Startup Argo AI"
-    excerpt: "Argo, founded in 2016 by Bryan Salesky and Peter Rander, is now jointly controlled by VW and Ford Motor Co, which made an initial investment in Argo shortly after it was founded. Details of the VW investment,"
-    publishedDateTime: 2020-06-02T04:19:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2020-06-02/volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
   - title: "Ford Shares Gain After Volkswagen Closes $2.6 Billion Investment in Self-Driving Venture Argo AI"
     excerpt: "Volkswagen, the world's second-biggest carmaker, has pumped $2.6 billion into Argo AI, a self-driving vehicle company it jointly owns with Ford."
     publishedDateTime: 2020-06-02T10:32:00Z
@@ -59,6 +50,15 @@ related:
       - url: "https://content.jwplatform.com/thumbs/az6hPvaf-720.jpg"
         width: 720
         height: 406
+  - title: "Volkswagen Closes $2.6 Billion Investment in Self-Driving Startup Argo AI"
+    excerpt: "Argo, founded in 2016 by Bryan Salesky and Peter Rander, is now jointly controlled by VW and Ford Motor Co, which made an initial investment in Argo shortly after it was founded. Details of the VW investment,"
+    publishedDateTime: 2020-06-02T04:19:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-06-02/volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
   - title: "Self-driving start-up Argo ties up with Germany's Volkswagen in $2.6bn investment"
     excerpt: "VW’s investment includes a $1bn cash infusion and the folding of its $1.6bn Autonomous Intelligent Driving unit into Argo"
     publishedDateTime: 2020-06-02T05:13:00Z

@@ -2,6 +2,51 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-04-27-ai-in-computer-vision-market-and-region-global-forecast-to-2023-market-effect-of-covid19.md",
+      "title": "AI In Computer Vision Market and Region-Global Forecast to 2023 (market Effect of COVID19)",
+      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-and-region-global-forecast-to-2023-market-effect-of-covid19-2020-04-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI In Computer Vision Market and Region-Global Forecast to 2023 (market Effect of COVID19)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-former-public-school-speech-therapist-releases-insightful-new-book-to-raise-awareness-of-importance-of-speech-therapy-in-schools.md",
       "title": "Former Public School Speech Therapist Releases Insightful New Book to Raise Awareness of Importance of Speech Therapy in Schools",
       "excerpt": "Author W. Ray reflects on her time as a public school speech therapist including the ups and downs of the position and how rewarding, humorous and challenging it can be",
@@ -963,43 +1008,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-why-samsung-thinks-its-2020-tvs-are-the-perfect-partners-for-the-next-gen-game-consoles.md",
-      "title": "Why Samsung Thinks Its 2020 TVs Are The Perfect Partners For The Next-Gen Game Consoles",
-      "excerpt": "In recognition of the fact that minimizing nput ... This feature has the potential to be especially effective with the new Object Tracking Sound technology found in varying configurations on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnarcher/2020/04/25/why-samsung-thinks-its-2020-tvs-are-the-perfect-partners-for-the-next-gen-game-consoles/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnarcher/2020/04/25/why-samsung-thinks-its-2020-tvs-are-the-perfect-partners-for-the-next-gen-game-consoles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnarcher/2020/04/25/why-samsung-thinks-its-2020-tvs-are-the-perfect-partners-for-the-next-gen-game-consoles/amp/",
-      "publishedDateTime": "2020-04-25T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

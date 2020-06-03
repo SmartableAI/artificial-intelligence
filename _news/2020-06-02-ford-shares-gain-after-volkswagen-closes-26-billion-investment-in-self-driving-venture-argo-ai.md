@@ -45,7 +45,7 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 48
+    quality: 46
   - title: "Self-driving start-up Argo ties up with Germany's Volkswagen in $2.6bn investment"
     excerpt: "VW’s investment includes a $1bn cash infusion and the folding of its $1.6bn Autonomous Intelligent Driving unit into Argo"
     publishedDateTime: 2020-06-02T05:13:00Z

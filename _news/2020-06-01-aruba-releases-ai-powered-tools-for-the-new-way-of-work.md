@@ -28,6 +28,6 @@ images:
     height: 900
     title: "Aruba releases AI-powered tools for the new way of work"
 
-secured: "E6I7tuafkS9+s1mwLvLYR3jn4UdM7LcG7Joe888CNrGdH6A//2j48VAhhMJUxV1Rcm39lrJJhXekwIAepqqEy/e6cUSCqUSuarQWbxik1f8Z1qasGqY6XLT2hXfxXuITQKjfLoAcjk1wqsmhaZjlkRokqZ5r1PhFS1ADvAivxQj8A12n9hf/fUj8xhufIXRJ6szFFziHwY/NAln/iMzkduVpHG1WcfYSTMsLsV/09T4EjglxfJbvdtDbAnUx4xIcTz8561UrmcU8lZIkViaK+AaUGmDyR/CBqo9cs+0/FhxcZUz3c5xurFspLhKJTKbq;qTNgE5bo8np8F3jeZhIFdQ=="
+secured: "yc67+RHIG+2piS0Htwdhh+AucEZTON1lg7gBP0SJPCYK7GpOSBBZiYGeF07f2smJj3ANDdPHmK84qfYG2Ubcx9HEXmJh67xqfef8cdX8mjqeasNElas2+1XAa+ViBx5xkk/4vG9llp5u7aEVeVFpy49yG4U3BWRC7ofDg1dcRugmk+9SIsb4Puwvg67V6fIVet7MAUKRf0jN3tTLCCq+1pT+QHzM1WqvOuHq+XSlOilRMclKXF4fn5q5v+e6FZ6JFrKl+waLMjmSD9PfF3qJmMfbaW5wjbRK0CaMFvXTkLyt27kxhvLbLYZ7H6hB5kd83VMbxJ0Yp5ZeOKyLkEVmzE5G3O9Nc5Xe6JFmuKf1TrHEa0+Cs03g8qcbkmbRHFThd8//ItHPmcFOrCbQDLDDv6/X+v4KvZ4gzTK8Ubn/T4r6KS1Bx1EshHbS+OyWS+ZoGVl3PYfpSdVzzrawAJUGvKdj9NRkNTp3ceOCy85097U=;KkhImCLyWgSRyR/m0MX5ow=="
 ---
 

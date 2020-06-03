@@ -5,8 +5,8 @@ excerpt: "Microsoft Contest To Pit Security Machine Learning Models Against Each
 publishedDateTime: 2020-06-01T22:54:00Z
 webUrl: "https://rcpmag.com/Blogs/Scott-Bekker/2020/06/Security-ML-Contest.aspx"
 type: article
-quality: 51
-heat: 51
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlueWavyWindows.jpg"

@@ -2,6 +2,43 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-04-30-the-danger-of-facial-recognition-in-our-childrens-classrooms.md",
+      "title": "The Danger of Facial Recognition in Our Children’s Classrooms",
+      "excerpt": "Schools in China have recently reported using facial recognition to monitor how attentive students are in the classroom. Cameras are installed above the blackboard and, by identifying facial expressions,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rstreet.org/2020/04/30/the-danger-of-facial-recognition-in-our-childrens-classrooms/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "R Street Institute",
+        "domain": "rstreet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rstreet.org/wp-content/uploads/2018/04/yoest-facebook-share-default.png",
+          "width": 1200,
+          "height": 628,
+          "title": "The Danger of Facial Recognition in Our Children’s Classrooms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-openai-introduces-jukebox-a-new-ai-model-that-generates-genre-specific-music-with-lyrics.md",
       "title": "OpenAI introduces Jukebox, a new AI model that generates genre-specific music with lyrics",
       "excerpt": "The way OpenAI did it was also fascinating. They used raw audio to train the model — which spits out raw audio in return — instead of using “symbolic music,” like player pianos use, because symbolic music doesn’t include voices.",
@@ -978,43 +1015,6 @@
           "width": 2300,
           "height": 1533,
           "title": "Moxie Is the Robot Pal You Dreamed of as a Kid",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-mind-controlled-bionic-arm-with-sense-of-touch-could-be-available-in-two-years.md",
-      "title": "Mind-controlled bionic arm with sense of touch ‘could be available in two years’",
-      "excerpt": "The prosthesis is mind controlled via the electrical muscle and nerve signals sent through the arm stump and captured by the electrodes. The signals are passed into the implant, which goes through the skin and connects to the prosthesis. The signals are ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/04/mind-controlled-bionic-arm-with-sense-of-touch-could-be-available-in-two-years/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/11220/dreamstime_xxl_139573292.jpg?crop=0,0.27989870707194014,0,0.22791379292805983&cropmode=percentage&width=1200&height=450&rnd=132328005740000000",
-          "width": 1200,
-          "height": 450,
-          "title": "Mind-controlled bionic arm with sense of touch ‘could be available in two years’",
           "attribution": null
         }
       ],

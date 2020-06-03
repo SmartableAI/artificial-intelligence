@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Sogou Introduces World's First 3D AI News Anchor"
-excerpt: "The debut of the 3D AI News Anchor marks a milestone for the Sogou Vocational Avatar technology. Sogou achieved this breakthrough by bringing together 3D and AI, which enables the avatar to be more flexible and adaptive to different settings,"
-publishedDateTime: 2020-05-21T04:05:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/sogou-introduces-world-s-first-3d-ai-news-anchor-8892811"
+excerpt: "PRNewswire/ -- Sogou Inc. (NYSE: SOGO) ('Sogou' or 'the Company'), an innovator in search and a leader in China's internet"
+publishedDateTime: 2020-05-21T04:20:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053"
 type: article
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    title: "Sogou Introduces World's First 3D AI News Anchor"
-
-secured: "E9TyeXrdJCzFnEXvQ3MBg8JVmUNsOS43GLrV7A6PnGxP8lHSZIYZxXjPLjLYYx67kKaZuYgrlbmXMfDHe/xkJZ9kqAZBHwZW84hJmvjtmfbKsUMDURxwPc33zqZ4RO6G0kh2WWjkgYoSOeu8IeHdc3EoDDj2ROz/KtZIF69M9sD2di1Gsybfc9D7vbR7xhjv37klXBY5nyahFnxY992l/A6mEhCqYDWDe8LvdcsT3ismWFMxFvvIVMLBmZCIKnLW3c6qerkivLzy39nxxa+Ym7Mwbcd8UjDauJIRwIdS8zdhHAQ4C1dE8yDksUpY7WCPd2jeg+3NfhJg/pvfo0VWGJIjPY4RIV65T1LGxBfLjkeyym0uuFD4mo4Qhv8IKy/Im8/C8KsWY3G5F5wXAog6DIoMvzDGbL2IQvNCCVj8psNUXwS+vwAgEnSh7OhgyoB9FxUa8PCh8m8wfuV8Aw+wLjymSFG5Tv5WPBMv4z5HNfs=;qG72tEI7+Bg445/hQRDxKg=="
+secured: "KkGwqhTQp0XuDhZ9r+oR47AhTxm7RABw/SJry/mQlz3hbTIloxbeU0ZL/T3v4fhI5nEILqq7qCsxJWumwoxle01LgkvFLQJMLqHU2hEoDTvtjbxclGnyNRCy/QotU1M24kgOBzHmokrad7RerXJeL5TDgqW3SEmJDpRLIdgGyoHHESDQYzPxGnxVB+ibFxWQCSIG+fUYrCTkJWBj/VPmJ6gRL4T5LhVtMmiQAOorPJ3Hc/6m3R9AmkSqY4jDo5GBzXBGOSBB3DQ6LxGzR+Km0yPc1L8LKzI4rZeGBZYQb6ezzh3uNn3e+XvZEllbV1+WdSK2b4N4nGQZBF8ppt7cyvUu2IMsqfNSTuV4YbwJ4qR0n1NNZrLcLF1E+1TDtjeqe7MJMru/0+/PUalWE7TpiWWZynyUn7S1U3BzAFaeG2GQJdFUZKRcCBDB8JS1+5LciYCeitvttXm4CFQiFbY7fcnI6k5CznTV2zCewqrZypw=;F8gciZoPA8rCvkRYceXnYQ=="
 ---
 
