@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-02T06:23:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact-2020-06-02"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -32,6 +32,19 @@ related:
     excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include BAE Systems Plc,"
     publishedDateTime: 2020-06-02T06:02:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-analysis-as-per-the-latest-covid-19-impact-2020-06-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Enterprise Artificial Intelligence Market Analysis as per the Latest COVID-19 Impact"
+    excerpt: "The global Enterprise Artificial Intelligence market report scope includes detailed study covering underlying factors influencing the industry trends. Based on Deployment, the global Enterprise Artificial Intelligence market is segmented in Cloud and On-Premises."
+    publishedDateTime: 2020-06-02T06:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-analysis-as-per-the-latest-covid-19-impact-2020-06-02"
     type: article
     provider:
       name: MarketWatch

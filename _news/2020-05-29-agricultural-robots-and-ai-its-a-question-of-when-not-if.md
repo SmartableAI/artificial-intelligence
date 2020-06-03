@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-29T13:26:00Z
 webUrl: "https://www.freshplaza.com/article/9221345/agricultural-robots-and-ai-it-s-a-question-of-when-not-if/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 600
     height: 361
     title: "Agricultural Robots and AI – It’s a question of when, not if"
-
-related:
-  - title: "Agricultural robots and AI: A question of when and not if"
-    excerpt: "Robotics and artificial intelligence will drive a deep and transformative change in the agricultural world during the coming decades, according to a new report by IDTechEx. Seeing, localising, and"
-    publishedDateTime: 2020-05-29T12:10:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/05/29/agricultural-robots-and-ai-a-question-of-when-and-not-if/32612/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 34
 
 secured: "/m4Yy5f8udRxmwYv4s44H+fXHn3AO8vJIP3Nn0G0sW5haLtblX03SPrvv01GJxKXokvZfqzMuQ9P+iTq1eIlQk+IuXFPR5GHzzdOvp1XQJnUXoMCAem6ULG9bJWp36TtLwPUwk7ZUsjAhbxpWWjdYcvY6c5YTcG5H6xs7J83gQ0WnJrzUaVQ0ECJqJ46mUoLMNA+QqinV0glpIYPVJQ7B4iF5IUlEqfxlqSzrNU1CvQsP1jaE3G/HY6Tz0MaJ+Ikf3gyGrxO1dGOyztgdI9VBRgjNoKJLKIGCUn7/iGAJUVfU0V6uiEjYBiiZqzYQKxQrIBuLPAF4IYAmTlhjt/vJKm5YJyS+nLZybOR5/swRrYYd//YiAs7MXvafjFzH6Gj3/pPxeLojRubN/TAK9Nl0rcTWCelssYxxEqAkwcQrUwrBVN5Y2lDAT0pPO+R4uXMOsYHrs5iElYfRkMDxXp23/u6hnTyCiubU4NLcgakppc=;pdkEqQLLwm1FnvY1fLmAJA=="
 ---

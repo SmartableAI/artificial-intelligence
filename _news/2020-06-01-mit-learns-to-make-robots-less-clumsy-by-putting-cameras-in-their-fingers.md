@@ -3,7 +3,7 @@ category: news
 title: "MIT learns to make robots less clumsy by putting cameras in their fingers"
 excerpt: "Two new research projects out of MIT give robots the ability to sense what they are picking up. It's useful for delicate tasks such as picking up a potato chip."
 publishedDateTime: 2020-06-01T17:18:00Z
-webUrl: "https://www.digitaltrends.com/news/mit-csail-gelflex-robot-hand-camera/?itm_source=7&itm_content=1x4&itm_term=2376504"
+webUrl: "https://www.digitaltrends.com/news/mit-csail-gelflex-robot-hand-camera/"
 ampWebUrl: "https://www.digitaltrends.com/news/mit-csail-gelflex-robot-hand-camera/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelflex-robot-hand-camera/?amp"
 type: article
@@ -23,6 +23,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "47IAIeNQ25gKPPA07QJQrI1bJSCLbMG0VoiEEJn38+mGZVjlrASlBkc22zjwRt1VkJCzhexYNHl9xZ0k64yvAKCct/TQc+UE05/Xx0gZ9Qa+rxhMkbyZqBpsnotrVgjZ9oiZrclHC04EpwjQMMP47fovJ2HO3DrBaWaFCwrVcaWEg/QAnwnZWvoiWe8KaSZEqSOszruph9/h2lagkwfTn7UfeJFZRORWT0VJ/NM119t0aPbeGe5w5ZshaQOq7RMdPWNg+Q53kNnI1pNQXba1j8DR2UTDEWXsM8SLk9QfP8PtzrdIXqlkRrA8xBzUj9+yyi4OA6v7c5IE0bYlXz3qnRrN22rEdl7RlPongL55qcTCDW/T6pvu2ATlfF/L6UcqrDk7ksPfW1ZaaxtA54cvewQuqrFEME4bQxkzfmm+pZF2b4PDLFna9UlJRygdPVZco3mh+/w/vURpEuIPAjnfp+OEgJs/G6STIbOmzWcU3M4=;IjtJU7EmClI0VysDrtdnJw=="
+secured: "AJL+81s4u+xuqiPxlIiTUkGsd/SQsor95uhegVTDCborajgo5+EkGH6e1bbkhQXcawnjueX5Oz8mNCxQh6gI4ywCqQ1aYLJfWO38AebwURfHjp9QqPR1u57I1REu7IHdW2whDsTHkOxoGNzA2aaQavyqftaZz4+PgaITCoBEx8TuuK+fUtvsm3j/3P/cBSFE13KU03ArD9MpC9ab1lSOQ36lxiaViPQ/inTQwXgefhTg0XYgA6Ag07wXSA4HVgzBrdMQy3md7D8JlAJsQs+b7it8Rh9VzjPVieTmDAnLlBlYMdDacYmGxzo8lWjShFIxp9SAZL41ZOWe7kjUJMWvQ+K+YbYh+vcvVsg953bn8HL3w+1lYIWRW9lwSmLbI4AvFsrAN3LmLy2xQaf10SUUrG3tzExHznnt/iGfbE06TWNbFJUgFrJ4fwjx0T9NsDDKAde7DgJ+dBx6csTzvotVQha7mF2kLkqALC2cnjoJzzc=;qSPZXZOEQH+POpFdX2lR8g=="
 ---
 

@@ -25,6 +25,17 @@ images:
     height: 698
     title: "S. Korea's self-driving upstarts take on tech giants"
 
+related:
+  - title: "South Korea’s self-driving upstarts take on tech giants"
+    excerpt: "In a workshop that blends a corporate office with a tool-packed garage, around 20 South Koreans are looking to take on the multi-billion-dollar giants of Google parent Alphabet with a self-driving car of their own."
+    publishedDateTime: 2020-06-03T05:26:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/06/03/south-koreas-self-driving-upstarts-take-on-tech-giants/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
+
 secured: "9Q0ySyQnKsuQfLnDayC+5sZcOaG0CMpOWUBK7QABO6XMYsAl1m0in3wvL8jVFOtDEPpCKLvaLHilMTBX6KAHCzaLCf5jykAeUGSv2y2AU24hymlorARdxbcWsUQtLrs9KwFakPZ4VOog7R5RuvjN+VMGknQcDMOj54xD1kT0wLpN9pAO//XRoUOk05Oyhe7hOS3ltQTdXexMNlv8vvoML4StdRvggNYcyufhOqQ9GcR0Z7vYFugEjK1F4dk4cFun7bRYA67Ids0qKgtS8Mn/dEG9ZIgO7SGYAj5EbNBwBXEJG51LuvoKrik2gy+t9J8A;qQM222sA5aafPmnLnJ6bZg=="
 ---
 

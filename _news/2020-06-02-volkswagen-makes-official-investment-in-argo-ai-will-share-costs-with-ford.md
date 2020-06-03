@@ -39,7 +39,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 76
+    quality: 78
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024"
         width: 1024

@@ -7,7 +7,7 @@ webUrl: "https://techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-
 ampWebUrl: "https://techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-completes-2-6b-deal-with-volkswagen-expands-to-europe/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-completes-2-6b-deal-with-volkswagen-expands-to-europe/amp/"
 type: article
-quality: 76
+quality: 78
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024"

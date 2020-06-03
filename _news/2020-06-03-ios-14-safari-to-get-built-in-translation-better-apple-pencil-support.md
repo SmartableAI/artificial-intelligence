@@ -29,6 +29,6 @@ images:
     height: 800
     title: "iOS 14 Safari to get built-in translation, better Apple Pencil support"
 
-secured: "KK8D2OUMpZg+pWbi2/KIpgQe4Cy07jDJafvWt6ZNdyZodVEs6Wvn26sNP9JYZZfacRmRF6XTk/LDTr9dajkNn8HtLb8FRnW71qGSX5ESVkaoCTS+NIMnL4/C92dDq3YEuQ+bmBzmPeyQF8Xrc2gEqJ9xyN5/iwUuAmrbaXmw6Gup03bNT+ZaqwHW7cadOKdXhtk+9StIwx7sXqE0kkppkxYxFJ8p/4GGImFTtw1zU4svhsBcRb5UsDGtunpQNYj34Cfm/NQh7BlOVG9uB4RIWWeOrc0TogHjv7YfosQtT5jPe0VVYm+ksJ6bfdkatMRr;I4ZhuUAbXkFxuEgvGUhx2Q=="
+secured: "EnqroAj3fx2a/p6UChaGpH274J4IitFDVqDO0tdn6XYPBgSBOR36VFH1e00rzYa/P/c3Zj8QErvGfkQA8ZKCCQ2AYxJz+65R1xDbDJJNePWaaiJ4pwp8YtgAEeh7VpADEEDB8Iqx86SYR2aBIFpXuM13tb/zLJqTG+Qxud9k2ryh6jLnRZb8VmrBWOAy+1E7YQCZLDDdpnt73VzaLq/G+T16uah+dowjT4jJEZOJ4gfLENxzjQp25692+nOZikbg3EZsKztGIue826wLoHvtpb3Dn6iJlCt/PcGQVwwpWcVTzkHElD70f8mOo8g3qbCbTK+NJcC9qvXrF1W2/zU77DjULm8dTaqGFPp5+mTo7D2SvpPPUpsDXZRDW9h6ecBY3cCMLCeiD28COfOwDzEci7tHr1aQe7fF7m/LCyX+1BCxGvJmO23YWRry8F+LVQg3pCVAlhATCR2C4bfaZgcYhVKzGjdMWSs+rhGd8syaJcg=;gcKOfWFhSPLnZmij9IGC2w=="
 ---
 
