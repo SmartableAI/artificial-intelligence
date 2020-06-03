@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techn
 ampWebUrl: "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/"
 type: article
-quality: 81
-heat: 81
+quality: 83
+heat: 83
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?w=1200&#038;strip=all"
@@ -28,6 +29,6 @@ images:
     height: 600
     title: "How Google is using emerging AI techniques to improve language translation quality"
 
-secured: "l2UjmWv0HjfvJkler9rP5+RFgwtajAFFPFTR4bPC3vB632+stgDq3KInQe/+J6t0v37Vl8cpcSczVjpuG6PPz4wZ0d42bBe1IitzyB0fYSBn5tNh050meU8NZpgU7dbA1RJhiBkpSOoSJafUxt+Vfex0ivMZ8meBVCoLaJ18CWwzQ2zUrpqWwhPLb05pGuC1wHnRew4l0RyZM6cJi/CahNjH19w7NPgC/DHlBuq+YfZcuNYnRtRo+5Vy4kCKfgQg+sFd1lQKMJJCPrsbkYooy66bIx3Xa/IoMrhCWSRkNbBz1mNgSF+jqKTlRe6vrjMu;68cmST2/KZfe8BLwBTmJHQ=="
+secured: "rKlG8/NNb0p07V9S7cKykxILx4EGY1jUy5qZGQQjMES14yl5st67ugj3PTvKqEGGQSIPNUeLnu+ivfmUTjy8opSH9fbQ7SAssjSPdH78NWv42+NNQ64MeKB1tXFpIh8WwmA7eLRhRbVHXwhKIuiBOMk6KGbsU9f27Hpg0JLfhcQZESY2ub9yoTwsS91ucQ95jJzToNSKj38uizGW9FceAGK+XwrgPsAW2HoqHq/UfIP3xj7I0GAtUs4f8O+lWwXuKUDWP1kEazUbH0oVf6/ZTIr7UHewMbZbmGaK7mJ8yUu7aULwylcEYhDlUcV76DbLgBiJOl3/RdzydOszpqvOrP2iHyMetAoi8ub/fPFHc2D0GD/7Azz+SfgtoAGarjg6vxFchU1hAeqLFVqdoS3ruk4SNzIsKxcmiL8sHmbnH0RstCAEZ4knYkkLuA2fFriOHirhvCwE4NI+x3lpc5nhCZWboUWAqhbvN4SrDJDbh70=;blq7zdMvie4TD40yUgrCBA=="
 ---
 

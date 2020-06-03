@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-02-overjet-raises-785m-for-its-dental-focused-ai-tech.md",
+      "title": "Overjet raises $7.85M for its dental-focused AI tech",
+      "excerpt": "Overjet, a startup focused on using AI to help dentists and insurance companies understand dental scans, today announced that it has raised $7.85 million in what it describes as a seed round. According to Overjet’s CEO Wardah Inam (an MIT PhD in electrical engineering and computer science),",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/06/02/overjet-raises-7-85m-for-its-dental-focused-ai-tech/",
+      "ampWebUrl": "https://techcrunch.com/2020/06/02/overjet-raises-7-85m-for-its-dental-focused-ai-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/02/overjet-raises-7-85m-for-its-dental-focused-ai-tech/amp/",
+      "publishedDateTime": "2020-06-02T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-02-at-10.43.56-AM.png?w=1014",
+          "width": 1014,
+          "height": 626,
+          "title": "Overjet raises $7.85M for its dental-focused AI tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-ai-breathes-new-life-into-a-classic-80s-synth.md",
+      "title": "AI breathes new life into a classic ‘80s synth",
+      "excerpt": "(Modern FM synths are substantially more manageable.) This led most users to simply stick with the presets. A new AI tool could help DX7 fans move beyond those basic sounds, though. This DX7 Cartridge Does Not Exist uses machine learning to generate new patches based on a sample pool of hand-crafted ones, and creates a file that can be loaded ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/yamaha-dx7-ai-patches-155010833.html",
+      "ampWebUrl": "https://www.engadget.com/amp/yamaha-dx7-ai-patches-155010833.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/yamaha-dx7-ai-patches-155010833.html",
+      "publishedDateTime": "2020-06-02T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F328f6380-a4e7-11ea-ad2e-3031439db2fc&client=amp-blogside-v2&signature=c9d3c63a7f4563e15056eb9a6046956318246d58",
+          "width": 600,
+          "height": 350,
+          "title": "AI breathes new life into a classic ‘80s synth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-service-robotics-market-industry-size-growth-factors-and-major-segments-forecast-research-report.md",
       "title": "Service Robotics Market Industry Size, Growth Factors and Major Segments, Forecast Research Report",
       "excerpt": "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at",
@@ -134,50 +222,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
-      "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
-      "excerpt": "Volkswagen AG has closed on its $2.6 billion investment in Argo AI, the Pittsburgh-based autonomous vehicle startup announced in a blog post Tuesday.",
-      "heat": 146,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html",
-      "publishedDateTime": "2020-06-02T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106016157-1562936612118img_2062.jpg?v=1562936715",
-          "width": 3758,
-          "height": 2504,
-          "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -957,6 +1001,35 @@
       ]
     },
     {
+      "path": "_news/2020-06-02-vw-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
+      "title": "VW closes $2.6 billion investment in self-driving startup Argo AI",
+      "excerpt": "German automaker Volkswagen AG VOWG_p.DE has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post o",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/vw-closes-%242.6-billion-investment-in-self-driving-startup-argo-ai-2020-06-02",
+      "ampWebUrl": "https://www.nasdaq.com/articles/vw-closes-%242.6-billion-investment-in-self-driving-startup-argo-ai-2020-06-02?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/vw-closes-%242.6-billion-investment-in-self-driving-startup-argo-ai-2020-06-02?amp",
+      "publishedDateTime": "2020-06-01T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-using-artificial-intelligence-this-start-up-is-helping-enterprises-connect-better.md",
       "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
       "excerpt": "Bengaluru-based Yellow Messenger offers an always-on, intelligent conversational automation on text and voice across multiple channels such as WhatsApp, Google Assistant and Alexa.",
@@ -1222,95 +1295,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-third-pixel-feature-drop-improves-ai-powered-adaptive-battery-integrates-recorder-and-google-assistant.md",
-      "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
-      "excerpt": "Google's third Pixel feature drop brings a smarter Adaptive Battery, Recorder integration with Google Assistant, and bedtime and personal safety features.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
-      "publishedDateTime": "2020-06-01T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/android-bedtime-graphic.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-alexa-uses-amazon-translate-to-reach-more-international-customers.md",
-      "title": "Alexa uses Amazon Translate to reach more international customers",
-      "excerpt": "Amazon Alexa is available in 15 locales and eight languages. To understand and respond in different languages, Alexa needs to learn new grammar rules, and the content that powers Alexa needs to be translated to new languages. Additionally, Alexa needs to learn about country-specific topics, such as new",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/alexa-uses-amazon-translate-to-reach-more-international-customers/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T09:50:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png",
-          "width": 1024,
-          "height": 512,
-          "title": "Alexa uses Amazon Translate to reach more international customers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

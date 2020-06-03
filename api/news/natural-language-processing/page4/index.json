@@ -2,6 +2,97 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-23-artificial-intelligence-can-take-banks-to-the-next-level.md",
+      "title": "Artificial intelligence can take banks to the next level",
+      "excerpt": "This struggle with customer service is ongoing for financial institutions. But it's an area in which artificial intelligence (AI), and its ability to work with unstructured data like voice and images, can help. \"There are two things that artificial intelligence does really well,\" said Ameek Singh, vice president of IBM's Watson applications and ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-can-take-banks-to-the-next-level/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-can-take-banks-to-the-next-level/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-can-take-banks-to-the-next-level/",
+      "publishedDateTime": "2020-04-23T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/23/e7141a30-003c-4e34-ad1d-6cc7c76daf90/resize/1200x/331adc6fa5179da2d9e9d3f835c07f81/woman-clerk-in-a-bank-flat-vector-vector-id483987118-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial intelligence can take banks to the next level",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-natural-language-processing-nlp-market-to-garner-overwhelming-hike-in-revenues-by-2027.md",
+      "title": "Natural Language Processing (NLP) Market to Garner Overwhelming Hike In Revenues by 2027",
+      "excerpt": "According to the research held by Acumenresearchandconsulting.com, \"The global Natural Language Processing (NLP) market is expected to reach US$ XX Mn with a CAGR of XX.X% during the forecast period from 2020 to 2027\".",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-garner-overwhelming-hike-in-revenues-by-2027-2020-04-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market to Garner Overwhelming Hike In Revenues by 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-google-introduces-improved-ai-to-address-gender-bias-in-translate.md",
       "title": "Google introduces improved AI to address gender bias in translate",
       "excerpt": "In 2018, the search giant addressed that problem by providing a translation in both genders for sentences in a gender-neutral language like Turkish. Yesterday, Google’s AI team released a new model that’s more scalable — meaning it can be applied to translate phrases in other languages. This new rollout brings support for gender-specific ...",
@@ -1145,89 +1236,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-cambridge-quantum-computing-performs-the-worlds-first-quantum-natural-language-processing-experiment.md",
-      "title": "Cambridge Quantum Computing Performs the World's First Quantum Natural Language Processing Experiment",
-      "excerpt": "This is the first time that natural language processing has been executed on a quantum computer. Furthermore, by achieving the results without relying on quantum RAM, CQC scientists have created a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/cambridge-quantum-computing-performs-the-world-s-first-quantum-natural-language-processing-experiment-855433841.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Cambridge Quantum Computing Performs the World's First Quantum Natural Language Processing Experiment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-watson-speech-to-text-review.md",
-      "title": "Watson Speech to Text review",
-      "excerpt": "There’s plenty to be said in favor of IBM’s Watson Speech to Text service, such as its ability to convert hours of audio into text quickly and accurately. But price, integration complexity ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/reviews/watson-speech-to-text-review",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/6WnT9aAw8R87L9RDATTztk-1200-80.jpg",
-          "width": 1200,
-          "height": 712,
-          "title": "Watson Speech to Text review",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

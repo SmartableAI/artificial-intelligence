@@ -1,32 +1,24 @@
 ---
 category: news
-title: "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI"
-excerpt: "Volkswagen AG has closed on its $2.6 billion investment in Argo AI, the Pittsburgh-based autonomous vehicle startup announced in a blog post Tuesday."
-publishedDateTime: 2020-06-02T14:59:00Z
-webUrl: "https://www.cnbc.com/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
+title: "Volkswagen Closes $2.6 Billion Investment in Self-Driving Startup Argo AI"
+excerpt: "Argo, founded in 2016 by Bryan Salesky and Peter Rander, is now jointly controlled by VW and Ford Motor Co, which made an initial investment in Argo shortly after it was founded. Details of the VW investment,"
+publishedDateTime: 2020-06-02T04:19:00Z
+webUrl: "https://money.usnews.com/investing/news/articles/2020-06-02/volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai"
 type: article
-quality: 86
-heat: 146
-published: true
+quality: 46
+heat: -1
+published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106016157-1562936612118img_2062.jpg?v=1562936715"
-    width: 3758
-    height: 2504
-    title: "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI"
 
 related:
   - title: "VW closes $2.6 billion investment in self-driving startup Argo AI"
@@ -108,6 +100,6 @@ related:
         width: 1200
         height: 630
 
-secured: "nn9C1D0C5m+HLOSKzPfBr6m1K97zrkZrCJp4Dl5t5nAJxsIytdBe7BjyPnwgEi8KFlgC6M4s30NKLKy5eHWGg7Jwg57d6SAEA9BHB333zL4191HJsgCspjSxaUe+a+UOTIFCu9YJf6cOXm1W/XJmi9t5cs6rlP/Q76yim3Ws1vbT5pWWFh1xpWcuHD5vUvXY4XxDMOmrYSlXvuZsaavY/4KU9mgPrqgi5S67iuvXlOXvTpuI5jXCGTwl9eHJJhRBteYmvFonBIc5UseaP3S26DKBaZjLUJRD3ME4EJYj52Kfjy5AuulQIT+3JtgAiMv0;EcbBTVbyhfheLsGyuKgaqQ=="
+secured: "e3qoMbwP2QmBXW6UtuuX3Er18vz83dE1eQRipyout8UYSrTGlxxJoMpoknNk/6vxKRardkMhYERPBl6JDkDUFLbUpeMDmZWGC5EZamQ+J/hMtASvfdkq0RTGvipOF2p6Yd71awuhKx5BB6cyYsKKWgC2S2a9mTJM4nhZG0XqGnPkJsizTbdY47rF0+s+2pa4HVdR1CmB1lQ1dgUGYBIlj+U5yuvoA3ZmE4nIjdy9gzdmaRd7jxyCCS+sn3M0tBzz47D/dy8SqVsjt/4siTM7xks7pvO7upk75aSHYXNwFHN0xa7S+6dXtv16utjW0ByNhh1FZwH2aEQ8/CsVr5WVh2q0gKITGq9NybqVXgkWYvU89sWCxmiqhiQd3Pa78q6QY8EZRH8dwGgc7yylT3eEGKOjbuNw90HqqCCGMdqq5oGAKIsixTcP3DxoRKuKs4hcElKbXRu4hVgy6ilObXwNJoBRlEFaebTki3fJIg+70PE=;rxjN/lihuhYrQFARRqBeyQ=="
 ---
 

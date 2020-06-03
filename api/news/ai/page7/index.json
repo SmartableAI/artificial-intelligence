@@ -2,6 +2,140 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-27-train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker.md",
+      "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
+      "excerpt": "At re:Invent 2019, AWS shared the fastest training times on the cloud for two popular machine learning (ML) models: BERT (natural language processing) and Mask-RCNN (object detection). To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T09:00:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/26/albert-nlp-6.gif",
+          "width": 1000,
+          "height": 580,
+          "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines.md",
+      "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
+      "excerpt": "Scientists have developed a method of automatically detecting hidden landmines by using AI to scan images captured by drones",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
+      "publishedDateTime": "2020-05-27T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-53-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers.md",
+      "title": "IBM publishes wide-ranging free data sets to assist AI developers",
+      "excerpt": "Among the recent additions are three Watson Studio projects. IBM Watson Studio is an enterprise-focused AI developer tool which helps data scientists and researchers to build models and prepare ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/nz/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "publishedDateTime": "2020-05-27T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "IBM publishes wide-ranging free data sets to assist AI developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless.md",
       "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
       "excerpt": "As South Korea continues to loosen its social distancing guidelines amid the COVID-19 pandemic, hard-hit movie theaters are trying to find ways to lure customers back.",
@@ -1160,117 +1294,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-benefits-technology-advancement-and-future-scope-till-2024.md",
-      "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Benefits, Technology Advancement and Future Scope Till 2024",
-      "excerpt": "The artificial intelligence and robotics in the aerospace and defense market (henceforth, referred to as the market studied) is anticipated to register a CAGR of over 20% during the forecast period. – The use of robots in space exploration,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-benefits-technology-advancement-and-future-scope-till-2024-2020-05-26",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Benefits, Technology Advancement and Future Scope Till 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr-by-2026-446-cagr-coronavirus-covid19-impact-analysis.md",
-      "title": "AI Chips Market 2020 Will Emerge Globally And Grow With High CAGR by 2026 | 44.6% CAGR | Coronavirus-COVID19 Impact Analysis",
-      "excerpt": "The Global AI Chips Market was valued at USD XX Bn in 2018 and is expected to reach USD XX Bn by 2026 growing at a CAGR of 44 6 by 2027 The ripple effect of Coronavirus COVID19 on the",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
-      "ampWebUrl": "https://www.openpr.com/amp/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
-      "publishedDateTime": "2020-05-26T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-vizient-inc-partners-with-ibm-watson-health-to-help-support-healthcare-providers-performance-improvement-needs.md",
-      "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
-      "excerpt": "Vizient announces an agreement with IBM Watson Health to integrate its analytics tools with Vizient's CDB and ODB healthcare bench marking tools.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200526005221/en/Vizient-Partners-IBM-Watson-Health-Support-Healthcare",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200526005221/en/637378/23/Vizient_Logo_V2.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

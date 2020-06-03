@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-03T18:40:55Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 465
     title: "Pioneering personalized user experiences at StockX with Amazon Personalize"
 
-secured: "cpRcTFB0+n7almFN5b1MdgVxONW/+p+cZl40kVSccO5i20eYWwK0UHKRvNDF+JmD/pJJPQf+3M2gOjAN6xolN3o1mtJGvk4MkfjTlVazsVdr+W/Pu5DpLJaM2ABnJlQiJzSqtJXjSVX4obIsmFrBJ8ALNXREU4YWqB/kbjZZSADWpMwz/ntPti810HUwHlp7gVUMv4GywBluPITcv1r2EZkrMC8QwIBdmcdvyuBtLbcxbA99lNdiUCJ9XA30Qnt5eMHa522mbMBD4xTxX3mVqw9FfvF8yrg067X3I71R6JxV75l/y7HkO6wdUUdUJAlS3M5FWMMqv0V56r6SHJ2Qkw==;S0W+lX9gmOJD0exZHYdJ8w=="
+secured: "q30ABLunAk+uI01OJly9aBW/vADONtEyy4sWIeJTwbw092fLHjEWQ5z4sdAPv22ChKN7WxRPU77KL/+FFuNrF47Kb2K55Mfu7g+Ol0qU60wr+tMO0baUdS8p3TRp05xv2Swb/yW/et4Q7xxQKw2EdHIJc9HYsRdlQgATLtY/IyAZvTgs3n9NrVqhFsYzL1NNrNLggD70Lkl+gohtraEZr2aiRtd2lComWXSjmipyudoBXwvIsOoRfUEjeFY0WFUCJaIXfEiP3l/BVLZRvg/JSux8OiV876+wsUDAhvjHdwfBGS09jqT+ZdYt9gIKBPjxDaBbpq6MaSaszBPJOn06kA==;NM/w/5ow1sHcwihhHe+2ag=="
 ---
 

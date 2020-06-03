@@ -2,6 +2,125 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-05-06-how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice.md",
+      "title": "How Microsoft, OpenAI, and OECD are putting AI ethics principles into practice",
+      "excerpt": "A case study on how to convert AI ethics principles into actions looks at Microsoft's AETHER, OpenAI's GPT-2 release, and OECD and G20 ethics principles.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/amp/",
+      "publishedDateTime": "2020-05-06T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "How Microsoft, OpenAI, and OECD are putting AI ethics principles into practice",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-volvo-cars-will-use-luminars-lidar-to-enable-highway-self-driving-in-2022.md",
+      "title": "Volvo Cars Will Use Luminar's Lidar to Enable Highway Self-Driving in 2022",
+      "excerpt": "Swedish automaker Volvo Cars said that it will add lidar sensors and new perception technology from Silicon Valley start-up Luminar to some of its models starting in 2022. Luminar's lidar technology will allow Volvo to offer highway self-driving as an option,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx",
+      "publishedDateTime": "2020-05-06T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F572202%2Fvolvo_luminar_roofline_lidar_integration.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 632,
+          "title": "Volvo Cars Will Use Luminar's Lidar to Enable Highway Self-Driving in 2022",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-unfounded-criticism-of-chinese-tech-firms-its-just-business.md",
+      "title": "Unfounded Criticism Of Chinese Tech Firms: It's Just Business",
+      "excerpt": "Dismal factory activity data in China and the U.S., coupled with downbeat earnings from tech giants dragged down equity indices in both countries. Feeling unlov",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/article/4343620-unfounded-criticism-of-chinese-tech-firms-just-business",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-todays-cache-security-issue-in-aarogya-setu-app-and-more.md",
       "title": "Today’s cache | Security issue in Aarogya Setu app, and more",
       "excerpt": "The Helio G85 will boost performance of AI camera tasks such as object recognition, smart photo album, scene detection and segmentation with background removal. This will enable smartphone makers ...",
@@ -963,141 +1082,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-computer-vision-is-transforming-healthcare-with-rapid-cell-counting-and-patient-identification.md",
-      "title": "Computer vision is transforming healthcare with rapid cell counting and patient identification",
-      "excerpt": "Fast forward to the present day and computer vision is being used to identify and count cell nuclei not only more accurately than people can count, but far faster. To accomplish this, an AI model is trained to identify cell nuclei.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/06/visual-ai-how-computer-vision-is-transforming-health-care-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/06/visual-ai-how-computer-vision-is-transforming-health-care-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/06/visual-ai-how-computer-vision-is-transforming-health-care-syndication/amp/",
-      "publishedDateTime": "2020-05-06T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-copy-1-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Computer vision is transforming healthcare with rapid cell counting and patient identification",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
-      "title": "3 Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "publishedDateTime": "2020-05-06T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571563%2Fgettyimages-1135819437.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 729,
-          "title": "3 Artificial Intelligence Stocks to Buy in May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus.md",
-      "title": "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus",
-      "excerpt": "Argonne National Laboratory is using the CS-1 computer, from AI chip startup Cerebras Systems, to run learning models aimed at discovering compounds that can be used in existing or new drugs to help create a vaccine or treatments.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403",
-      "publishedDateTime": "2020-05-06T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-183667/social",
-          "width": 1280,
-          "height": 640,
-          "title": "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

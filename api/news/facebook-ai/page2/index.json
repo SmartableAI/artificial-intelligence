@@ -2,6 +2,45 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-11-papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate.md",
+      "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
+      "excerpt": "The Pontifical Academy for Life \"strives to interweave faith with science and technology, to identify paths for multiple voices to walk alongside one another.\"",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/",
+      "ampWebUrl": "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/amp/",
+      "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/amp/",
+      "publishedDateTime": "2020-05-11T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Angelus",
+        "domain": "angelusnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://angelusnews.com/wp-content/uploads/2020/05/20200511T1049-681-CNS-VATICAN-AI-NATURE-e1589211174823.jpg",
+          "width": 1602,
+          "height": 906,
+          "title": "Papal academy fosters ethics, multidisciplinary alliances in AI debate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus.md",
       "title": "Facebook cancels its 2020-2021 AI Residency program due to coronavirus",
       "excerpt": "Facebook today announced that it plans to cancel its 2020-2021 in-person AI Residency program as a result of the novel coronavirus pandemic. In a statement sent to VentureBeat via email, Facebook vice president of AI Jerome Pesenti said that the decision was motivated by health and safety concerns.",
@@ -1244,51 +1283,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-facebook-proposes-3d-navigation-task-for-training-autonomous-robots.md",
-      "title": "Facebook proposes 3D navigation task for training autonomous robots",
-      "excerpt": "“Crucially, VLN-CE … provides the [research] community with a testbed where these sort ... In 2018, the company open-sourced AI that can navigate New York City streets with 360-degree images. More recently, a Facebook team published a paper describing a system that learns how to get around an office by watching videos.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/amp/",
-      "publishedDateTime": "2020-04-10T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook proposes 3D navigation task for training autonomous robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

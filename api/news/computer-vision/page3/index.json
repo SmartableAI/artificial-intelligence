@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-07-computer-vision-better-service-lower-costs.md",
+      "title": "Computer Vision = Better Service + Lower Costs",
+      "excerpt": "So where humans weren’t the answer, they turned to a computer vision-based POS system developed by Flytech and its subsidiary Berry AI.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/resources/202638/computer-vision-better-service-lower-costs",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": "Computer Vision = Better Service + Lower Costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-todays-cache-security-issue-in-aarogya-setu-app-and-more.md",
       "title": "Today’s cache | Security issue in Aarogya Setu app, and more",
       "excerpt": "The Helio G85 will boost performance of AI camera tasks such as object recognition, smart photo album, scene detection and segmentation with background removal. This will enable smartphone makers ...",
@@ -1129,43 +1174,6 @@
           "width": 1200,
           "height": 628,
           "title": "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-countdown-to-kindergarten-tips-activities-from-creative-discovery-museum-to-prepare-little-ones-for-school.md",
-      "title": "Countdown to kindergarten: Tips, activities from Creative Discovery Museum to prepare little ones for school",
-      "excerpt": "Along with shape recognition, color recognition is an important step in cognitive development for children. It plays a part in object recognition, and helps a child develop the descriptive ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.timesfreepress.com/news/tfp-families/story/2020/apr/27/countdown-kindergarten-tips-activities-creative-discovery-museum-prepare-little-ones-school/521623/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Free Press",
-        "domain": "timesfreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.timesfreepress.com/img/photos/2020/04/27/gettyimages11354749461996225658_t1070_hcd394fbf6fdeeaf7133cf06c6bb2d88de71e4110.jpg",
-          "width": 1070,
-          "height": 714,
-          "title": "Countdown to kindergarten: Tips, activities from Creative Discovery Museum to prepare little ones for school",
           "attribution": null
         }
       ],

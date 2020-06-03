@@ -2,6 +2,117 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-05-19-qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support.md",
+      "title": "Qeexo Named May \"Partner of the Month\" by Renesas for its AutoML Support",
+      "excerpt": "This honor reinforces Qeexo's methodology that pairing the Qeexo AutoML platform with a flexible MCU hardware platform is a strong value proposition for edge/endpoint processing. Qeexo's end-to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16067170/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16067170",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16067170",
+      "publishedDateTime": "2020-05-19T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-helps-sony-power-the-worlds-first-ai-image-sensor-with-azure.md",
+      "title": "Microsoft helps Sony power the world’s first AI image sensor with Azure",
+      "excerpt": "Sony is the top image sensor supplier to the smartphone industry and has a presence in other segments as well. The IMX500 is designed to power enterprise systems such as industrial cameras for monitoring product lines.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/05/19/microsoft-helps-sony-power-worlds-first-ai-image-sensor-azure/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-3.png",
+          "width": 718,
+          "height": 400,
+          "title": "Microsoft helps Sony power the world’s first AI image sensor with Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-adds-microsoft-powered-artificial-intelligence-to-imx500-video-camera-sensors.md",
+      "title": "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors",
+      "excerpt": "Sony is making video cameras smarter. The IMX500 line of intelligent video sensors will come with embedded access to artificial intelligence (AI) tools from Microsoft (NASDAQ:MSFT",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "publishedDateTime": "2020-05-19T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575066%2Findustrial-monitor-camera.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 925,
+          "title": "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment.md",
       "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
       "excerpt": "Developers, to help you advance your AI and machine learning (ML) skills with hands-on and engaging learning, the AWS Machine Learning Scholarship Program from Udacity is now open for enrollment. \nAWS and Udacity are collaborating to educate developers of all skill levels to expand their AWS ML expertise.",
@@ -935,141 +1046,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-elon-musk-says-teslas-full-self-driving-option-will-get-more-expensive-again-on-july-1.md",
-      "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
-      "excerpt": "Tesla has said that the technology will eventually move to a subscription model when it becomes advanced enough to actually self-drive.",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-price-increase-july-1-2020-5?amp",
-      "publishedDateTime": "2020-05-19T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ec3d9b9988ee3401360e504?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk says Tesla's 'full self-driving' option will get more expensive — again — on July 1",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit.md",
-      "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
-      "excerpt": "Space-specific silicon company Xilinx has developed a new processor for in-space and satellite applications that records a number of firsts: It’s the first 20nm process that’s rated for use in space,",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/xilinx-launches-a-new-reconfigurable-space-grade-chip-optimized-for-local-machine-learning-on-orbit/amp/",
-      "publishedDateTime": "2020-05-19T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/xilinx-space-tablet.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Xilinx launches a new reconfigurable space-grade chip optimized for local machine learning on orbit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-the-ai-show-how-intel-built-a-chip-with-a-sense-of-smell.md",
-      "title": "The AI Show: How Intel built a chip with a sense of smell",
-      "excerpt": "Intel designed a neuromorphic AI chip to learn faster on less training data than traditional artificial intelligence techniques.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/19/the-ai-show-how-intel-built-a-chip-with-a-sense-of-smell/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Nahuku-neuromorphic-board.jpg?fit=578%2C385&strip=all",
-          "width": 577,
-          "height": 385,
-          "title": "The AI Show: How Intel built a chip with a sense of smell",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
