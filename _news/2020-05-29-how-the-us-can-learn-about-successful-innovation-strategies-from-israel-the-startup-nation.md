@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/amp/"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Forbes
@@ -27,6 +27,21 @@ images:
     width: 1199
     height: 677
     title: "How The US Can Learn About Successful Innovation Strategies From Israel, The Startup Nation"
+
+related:
+  - title: "Innovation during COVID-19 Operations: 771st Test Squadron brings machine learning to data analysis"
+    excerpt: "The 771st has recently employed a machine learning tool nicknamed “Sasha” and is showing promise in data analysis, according to engineers at Edwards Air Force Base, California."
+    publishedDateTime: 2020-05-30T00:16:00Z
+    webUrl: "https://www.edwards.af.mil/News/Article/2202754/innovation-during-covid-19-operations-771st-test-squadron-brings-machine-learni/"
+    type: article
+    provider:
+      name: AF.mil
+      domain: af.mil
+    quality: 25
+    images:
+      - url: "https://media.defense.gov/2020/May/29/2002308063/825/780/0/200529-F-HC101-2002.JPG"
+        width: 825
+        height: 465
 
 secured: "mdudjRTFLLY8rO3aF5530vemruVVq2Yfr9dHQlQAdZ1t+aKRN7oZbaU0nRCIsMmhEO76qdRQSFN84wuRksg0qzJ8JQqfdvhaHIZDBi23dzhUM3JXihe8OWfnQSlYTtmuNVWeOB5OcXNzmWvd69lhCAKBgUgpLXWB773Dc5AY08Lk51CJlPBKwXRECVPJp4EXngsPaCVW1mZNEgBNGZZF1G4khMZxDTDmJc2S/tAdXKlNI5M6maYvcUOqJy3UcPI8aMAM8jeTRvR4x5VJr1SgROFrTTLvDrURUddgfG5A+xn6Loc0DQcWYWfhSA04aTqT2Lfs2OsX+QzDVAG5dtdjEFkS2f9NY9Pe/1PX1powCIciSvQLdIprPT/SR8SmPNYmjeWivCJkBC+X16WmIH4FYep/d28s2Euap60kA/T2hAxu6GJIStUvCUXovGfFphyvvDdTzCZjDF9AxoJXIUEwuQn+gWdSTRGXwWkReAt7Qsc=;xucsgMcu8frb7A/Ksm2Q+Q=="
 ---

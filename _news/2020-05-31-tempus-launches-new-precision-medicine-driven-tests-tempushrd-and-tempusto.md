@@ -19,6 +19,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Tempus Launches New Precision Medicine-Driven Tests: Tempus|HRD and Tempus|TO"
+    excerpt: "Tempus, a technology company advancing precision medicine through the practical application of artificial intelligence in healthcare, announced the launch of two new oncology tests designed to equip physicians with even more precise genomic data in an effort to improve therapeutic outcomes."
+    publishedDateTime: 2020-06-01T07:31:00Z
+    webUrl: "https://www.financialbuzz.com/tempus-launches-new-precision-medicine-driven-tests-tempushrd-and-tempusto/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 1
+
 secured: "QspTEDdECZsnImIbk/RDzk4pwOU+cr/Xc6m6bTtZyMwZjFpVrvTzXC23AnVJP0h43MJ+WSGqlh7fTy7eZllMyJBKEQVU72pdSZBsm8Tm2AeGmMny7I95iX1ZNOGcPbSD/wvekBmlZT8kY+74knLckICS2DUepikBl1VRViGj5+7W5fqDQbNzISKftjF+XVCzv526wSj+1WNZXr+edY43Td8PLUUYaletMi35VB/FXphDCxOXb16ICf5URaHLNDdipanJ1Z8YAuRyV0TZwg9SzFWQ85ANveaa5RS4Bve+YbUNGIi/rDb1ya8VOLoTeWrJ;Ut7qGFKH1WHgCLi88mE0RA=="
 ---
 

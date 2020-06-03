@@ -8,8 +8,8 @@ ampWebUrl: "https://www.sfgate.com/news/amp/Chicago-police-drop-Clearview-facial
 cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Chicago-police-drop-Clearview-facial-recognition-15304403.php"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: SFGate
@@ -27,30 +27,39 @@ images:
     title: "Chicago police drop Clearview facial recognition technology"
 
 related:
-  - title: "ACLU sues Clearview AI over 'unlawful' facial recognition technology"
-    excerpt: "Facial recognition software provider Clearview AI has been hit with a lawsuit by the American Civil Liberties Union and several other organizations. The lawsuit, filed in state court in Illinois, accuses the firm of violating state privacy laws over its use of facial recognition and biometric technology."
-    publishedDateTime: 2020-05-29T18:05:00Z
-    webUrl: "https://www.tomsguide.com/news/aclu-clearview-ai-lawsuit"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 74
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/d3GVUkpobEW7uy8jkkVq94-1200-80.jpg"
-        width: 1200
-        height: 800
-  - title: "Chicago Police Drop Clearview Facial Recognition Technology"
+  - title: "Chicago police drop Clearview facial recognition technology | Charlotte Observer"
     excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
-    publishedDateTime: 2020-05-29T23:18:00Z
-    webUrl: "https://www.usnews.com/news/best-states/illinois/articles/2020-05-29/chicago-police-drop-clearview-facial-recognition-technology"
+    publishedDateTime: 2020-05-29T22:57:00Z
+    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243103416.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243103416.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243103416.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 36
+  - title: "Chicago police drop Clearview facial recognition technology | Raleigh News & Observer"
+    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
+    publishedDateTime: 2020-05-29T22:57:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article243103416.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article243103416.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article243103416.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
     quality: 34
+  - title: "Chicago police drop Clearview facial recognition technology"
+    excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
+    publishedDateTime: 2020-05-29T22:57:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article243103416.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article243103416.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article243103416.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 24
 
 secured: "/J9p146PcM2l9SR+fA2u0sjXajCuzRwjZYfQBYI5HC7zoi//UcBAe3VLAcjEuo80VIaAPS8zkjgwEUcOpJPFEeJSywDrBTiudNqO2SqTZh9x7kLxgAoQ0nNYHiehBvOLQg50EntlxNc/g6tqqG4e6bn94rgYOxUw4EuzhGMeoBw1bB0ZETM0X6NzJ8C49aZgsXG6aAWDOh16FU1LnWebwlyA0RrZs2BdbKttM/5oE2++cfvs696F+5QrR58yC6VnU1ul/w7aqhcl3PFBFJjCM7yhlW1Pb0vcO8dODA2iUAs3I44xYqslXKZlKbi6LAHm;a4eobBKzPgXqS+8hJLNEUw=="
 ---
