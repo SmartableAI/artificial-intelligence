@@ -54,21 +54,15 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
-  - title: "Chicago police drop Clearview facial recognition technology"
+  - title: "Chicago Police Drop Clearview Facial Recognition Technology"
     excerpt: "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns."
-    publishedDateTime: 2020-05-29T22:57:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article243103416.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article243103416.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article243103416.html"
+    publishedDateTime: 2020-05-29T23:18:00Z
+    webUrl: "https://www.usnews.com/news/best-states/illinois/articles/2020-05-29/chicago-police-drop-clearview-facial-recognition-technology"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 44
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/84c6aaaf-b000-4ef8-a33e-e4651cbfb1c3/21f3ee06-e24d-4903-9976-c8af40a965d4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "DBysyiLwV2Kq3UcS0i6hvL0/d03aZWUiN9n03GV29kWuwqts328Ge1CKObsFeSn7Q2z8l4vy82ijSXnIKGsRI6jWju64UoQRzVyEsHZVU37FCEnqzqSIOiuFQh2mC7DqrVCbpS3nlsdcfM7777AUP7a0yVmmUTsS7DqU3aBUuVOyQzzIAOKpPEIXvfk2lgGEyiNzlcRtcI2O74uQNTBSLfO+p6uFTNwnuIEaRfI5NULZ8/FTAw7NQg7KlBEctDD5OkcSQH8hZoTQHD90rwRE3EGWp4+t79FztxJQdyWcLDADYrenhvjHSetD99yyOlXf;gCEe9ApTszKbERbxs8kUsw=="
 ---

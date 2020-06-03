@@ -26,19 +26,6 @@ images:
     title: "CVS Health tests self-driving vehicle prescription delivery"
 
 related:
-  - title: "CVS tests delivering prescriptions with self-driving vehicles"
-    excerpt: "CVS Health will try delivering prescriptions with self-driving vehicles in a test that begins next month. The drugstore chain said Thursday that it will partner with the Silicon Valley robotics company Nuro to deliver medicines and other products to customers near a Houston-area store."
-    publishedDateTime: 2020-05-29T15:01:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/cvs-tests-delivering-prescriptions-self-driving-vehicles"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/cvs_pharmacy_i.jpg"
-        width: 800
-        height: 600
   - title: "CVS to deliver prescriptions via self-driving cars"
     excerpt: "CVS is testing prescription delivery using self-driving vehicles in a partnership with Nuro, a technology company based in Mountain View, Calif. Starting next month, customers in the Houston area can order prescriptions and essentials to be delivered to their homes via self-driving vehicles."
     publishedDateTime: 2020-05-29T16:03:00Z

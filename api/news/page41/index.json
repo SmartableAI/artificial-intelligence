@@ -2,6 +2,309 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-04-30-duolingos-ai-drives-its-english-proficiency-tests.md",
+      "title": "Duolingo’s AI drives its English proficiency tests",
+      "excerpt": "Duolingo tapped AI and machine learning to create a cheaper, faster English proficiency test that the company claims is on par with proctored exams.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
+      "publishedDateTime": "2020-04-30T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/06/duolingo_logo.png?fit=1000%2C600&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": "Duolingo’s AI drives its English proficiency tests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next.md",
+      "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
+      "excerpt": "Microsoft is ready to roll out its 'spring refresh' of WVD, while working on a grander plan to make WVD more of a full-fledged cloud-managed desktop.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "publishedDateTime": "2020-04-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg",
+          "width": 875,
+          "height": 557,
+          "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-ai-in-africa-teaching-a-bot-to-read-my-mums-texts.md",
+      "title": "AI in Africa: Teaching a bot to read my mum's texts",
+      "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-africa-52411797",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-africa-52411797",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797",
+      "publishedDateTime": "2020-04-30T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FD69/production/_112037846_img_20180827_082945_171.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "AI in Africa: Teaching a bot to read my mum's texts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-tesla-profits-says-full-self-driving-will-be-subscription-by-year-end.md",
+      "title": "Tesla Profits, Says Full Self-Driving Will Be Subscription by Year-End",
+      "excerpt": "CEO Elon Musk said the self-driving feature will roll out by the end of 2020, and he also complained that COVID-19 shelter-in-place rules infringe on rights.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.caranddriver.com/news/a32324475/tesla-posts-profit-q1-2020/",
+      "ampWebUrl": "https://www.caranddriver.com/news/amp32324475/tesla-posts-profit-q1-2020/",
+      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp32324475/tesla-posts-profit-q1-2020/",
+      "publishedDateTime": "2020-04-30T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Car and Driver",
+        "domain": "caranddriver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-logo-is-seen-at-its-factory-in-fremont-california-on-news-photo-1588013368.jpg?crop=1xw:0.82183xh;center,top&resize=1200:*",
+          "width": 1024,
+          "height": 512,
+          "title": "Tesla Profits, Says Full Self-Driving Will Be Subscription by Year-End",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-australian-businesses-lead-in-ai-deployment-but-bias-challenges-still-exist-genpact.md",
+      "title": "Australian businesses lead in AI deployment but bias challenges still exist: Genpact",
+      "excerpt": "Australians still fear AI bias and that algorithms can make decisions that affect them without their knowledge, a new report has found.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
+      "publishedDateTime": "2020-04-30T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/08/08/f6ceef89-c938-405c-9ff0-71b03a212cbd/thumbnail/1200x675/7d7f9d66decc95dc28d1267da7a0d33a/woolworths.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Australian businesses lead in AI deployment but bias challenges still exist: Genpact",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-why-white-box-models-in-enterprise-data-science-work-more-efficiently.md",
+      "title": "Why White-Box Models in Enterprise Data Science Work More Efficiently",
+      "excerpt": "WEEK DATA POINTS: Once the industry standard, black-box-type machine-learning projects tended to offer high degrees of accuracy, but they also generated minimal actionable insights and resulted in a lack of accountability in the data-driven decision-making process.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/why-white-box-models-in-enterprise-data-science-work-more-efficiently",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/04/White.box.black.box.JPG?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": "Why White-Box Models in Enterprise Data Science Work More Efficiently",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-its-no-joke-ai-beats-humans-at-making-you-laugh.md",
+      "title": "It's No Joke: AI Beats Humans At Making You Laugh",
+      "excerpt": "Research shows people don’t trust recommendations from algorithms—and that’s a problem for companies that increasingly rely on AI-based technology to persuade consumers.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/",
+      "ampWebUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/amp/",
+      "publishedDateTime": "2020-04-30T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9747a11048ea0006cbddb7%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "It's No Joke: AI Beats Humans At Making You Laugh",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-moxie-is-the-robot-pal-you-dreamed-of-as-a-kid.md",
       "title": "Moxie Is the Robot Pal You Dreamed of as a Kid",
       "excerpt": "Whereas other companion robots like the household assistant Jibo or Paro the robotic seal are designed for adults or the elderly, Moxie is built to foster social, cognitive, and emotional development in children.",
@@ -728,304 +1031,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-uber-ai-plays-any-atari-2600-game-with-superhuman-skill.md",
-      "title": "Uber AI plays any Atari 2600 game with 'superhuman' skill",
-      "excerpt": "A team of Uber AI researchers has developed a set of algorithms, Go-Explore, that reportedly beats any Atari 2600 game with s",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/uber-ai-masters-atari-games-012832222.html",
-      "ampWebUrl": "https://www.engadget.com/amp/uber-ai-masters-atari-games-012832222.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uber-ai-masters-atari-games-012832222.html",
-      "publishedDateTime": "2020-04-29T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F8f3ed930-8a57-11ea-9eff-3f7b8dfa6da0&client=amp-blogside-v2&signature=954161227f6ff5db57b37b4e922fd3c5a0386285",
-          "width": 600,
-          "height": 350,
-          "title": "Uber AI plays any Atari 2600 game with 'superhuman' skill",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask.md",
-      "title": "With IOS 13.5 Public Beta 2, Face ID Can Recognize When You're Wearing A Mask",
-      "excerpt": "The iOS 13.4.5 Public Beta cycle had been anything but normal. First, developers got the beta a week before Public Beta testers (that usually only happens when a brand-new version of iOS is released).",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/anthonykarcz/2020/04/29/with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask/",
-      "ampWebUrl": "https://www.forbes.com/sites/anthonykarcz/2020/04/29/with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2020/04/29/with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask/amp/",
-      "publishedDateTime": "2020-04-29T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x399/https://specials-images.forbesimg.com/imageserve/5eaa056a12fcd40006de04b7/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 399,
-          "title": "With IOS 13.5 Public Beta 2, Face ID Can Recognize When You're Wearing A Mask",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-google-co-founder-sergey-brin-lays-out-the-many-ways-the-company-uses-ai-today.md",
-      "title": "Google co-founder Sergey Brin lays out the many ways the company uses A.I. today",
-      "excerpt": "Sergey Brin's Founders' Letter outlines the ways Alphabet uses artificial ... intelligence every day. He highlights that the company employs it to: understand images in Google Photos; enable Waymo ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2018/04/27/alphabet-founders-letter-2017-sergey-brin-on-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/04/27/alphabet-founders-letter-2017-sergey-brin-on-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/04/27/alphabet-founders-letter-2017-sergey-brin-on-ai.html",
-      "publishedDateTime": "2020-04-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104642952-GettyImages-152766137.jpg?v=1529475925",
-          "width": 2000,
-          "height": 1322,
-          "title": "Google co-founder Sergey Brin lays out the many ways the company uses A.I. today",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-items-tagged-with-uber.md",
-      "title": "Items tagged with uber",
-      "excerpt": "Researchers around the world are working on new types of artificial intelligence (AI) that can dominate in games created by humans. Typically, these AI complete video games with much higher scores ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hothardware.com/tags/uber",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/51493/content/atari-2600.jpg",
-          "width": 708,
-          "height": 472,
-          "title": "Items tagged with uber",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-salesforces-ai-economist-aims-to-help-leaders-design-tax-policies.md",
-      "title": "Salesforce's AI Economist aims to help leaders design tax policies",
-      "excerpt": "Ultimately, Salesforce's AI Research team says, the objective is to help leaders create policies that can lead to specific social objectives like helping the middle class.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/salesforces-ai-economist-aims-to-help-leaders-design-tax-policies/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/salesforces-ai-economist-aims-to-help-leaders-design-tax-policies/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforces-ai-economist-aims-to-help-leaders-design-tax-policies/",
-      "publishedDateTime": "2020-04-29T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/29/4893d2dd-2004-4181-9ae3-25646c529748/thumbnail/1200x675/8421de85502367deec41769a3ababe07/gcpvegas.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Salesforce's AI Economist aims to help leaders design tax policies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-microsoft-ceo-nadella-remote-work-driving-orders-of-magnitude-increase-in-teams-wvd.md",
-      "title": "Microsoft CEO Nadella: Remote Work Driving ‘Orders Of Magnitude’ Increase In Teams, WVD",
-      "excerpt": "Microsoft appears to be seeing more tailwinds than headwinds from the COVID-19 crisis, with all of its major segments seeing growth amid the widespread shift to remote work. Microsoft said that surging demand for the Teams collaboration app,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crn.com/news/cloud/microsoft-ceo-nadella-remote-work-driving-orders-of-magnitude-increase-in-teams-wvd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/025c-0f4a9cff790a-f8477d6f8479-1000/nadella_satya_microsoft-azure.jpg",
-          "width": 609,
-          "height": 457,
-          "title": "Microsoft CEO Nadella: Remote Work Driving ‘Orders Of Magnitude’ Increase In Teams, WVD",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-six-areas-where-ai-is-improving-customer-experiences.md",
-      "title": "Six Areas Where AI Is Improving Customer Experiences",
-      "excerpt": "This year's hard reset is amplifying how vital customer relationships are and how much potential AI has to find new ways to improve them.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/amp/",
-      "publishedDateTime": "2020-04-29T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea9ff80228117000681d192%2F0x0.jpg",
-          "width": 1200,
-          "height": 687,
-          "title": "Six Areas Where AI Is Improving Customer Experiences",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

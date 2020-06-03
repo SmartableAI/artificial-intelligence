@@ -2,51 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-05-22-scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development.md",
-      "title": "Scale AI releases free lidar dataset to power self-driving car development",
-      "excerpt": "High quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
-      "publishedDateTime": "2020-05-22T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/LiDAR-comparison-credit_-Scale-AI.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Scale AI releases free lidar dataset to power self-driving car development",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-22-podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev-and-more.md",
       "title": "Podcast: Tesla Full Self-Driving value, Tesla software update, GMC Hummer EV, and more",
       "excerpt": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including the value of Tesla’s Full Self-Driving package, a new Tesla software update,",
@@ -1295,6 +1250,51 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-05-15-update-1-gm-ceo-calls-self-driving-unit-layoffs-prudent-still-sees-huge-opportunity.md",
+      "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
+      "excerpt": "General Motors Co’s top executive on Friday said layoffs announced a day earlier at the company’s self-driving Cruise unit were “prudent” but insisted that she sees a “huge opportunity” for its vehicles to move both people and packages.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/autos-gm-idUSL1N2CX2GA",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22R30M",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22R30M",
+      "publishedDateTime": "2020-05-15T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200515&t=2&i=1518809247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4E23K",
+          "width": 811,
+          "height": 545,
+          "title": "UPDATE 1-GM CEO calls self-driving unit layoffs 'prudent,' still sees 'huge opportunity'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

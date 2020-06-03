@@ -2,6 +2,251 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-22-ibm-making-big-job-cuts-even-to-watson-and-ai-as-it-pivots-to-cloud.md",
+      "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
+      "excerpt": "A thread on the Watching IBM Facebook group mentions cuts in cloud and cognitive software teams and Watson health. Whole departments of ... cutting staff from AI-driven initiatives that aren’t doing well, or all of the above.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/22/ibm_layoffs/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
+      "publishedDateTime": "2020-05-21T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/03/03/shutterstock_ibm.jpg",
+          "width": 994,
+          "height": 600,
+          "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-first-rate-cleaning-is-just-the-start-for-this-super-smart-home-robot.md",
+      "title": "First-rate cleaning is just the start for this super-smart Home Robot",
+      "excerpt": "Robot vacuum cleaners can be a great time-saving addition to the home, but Lucy is a whole new ballgame. Using sophisticated object recognition, night vision and AI-based robotic intelligence, Lucy not only puts other robot vacuums in the shade when it comes to cleaning your floor,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/",
+      "ampWebUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
+      "publishedDateTime": "2020-05-21T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ksr-ugc.imgix.net/assets/029/186/787/5fc7090956e99254f2665496fa1cf339_original.jpg?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1590179053&auto=format&frame=1&q=92&s=c09f4cffcaa93e0dc1fa90dabc59a32b",
+          "width": 560,
+          "height": 315,
+          "title": "First-rate cleaning is just the start for this super-smart Home Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-amazon-urged-not-to-sell-facial-recognition-tool-to-police.md",
+      "title": "Amazon urged not to sell facial recognition tool to police",
+      "excerpt": "It’s not clear how many law enforcement agencies have purchased the tool, called Rekognition, since its launch in late 2016 or since its update last fall, when Amazon added capabilities that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html",
+      "ampWebUrl": "https://www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html/amp",
+      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html/amp",
+      "publishedDateTime": "2020-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Albuquerque Journal",
+        "domain": "abqjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2018/05/22/BC-US-Amazon-Facial-Recognition-IMG-jpg-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Amazon urged not to sell facial recognition tool to police",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-details-emerge-about-use-of-facial-recognition-software-by-london-police.md",
+      "title": "Details emerge about use of facial recognition software by London police",
+      "excerpt": "Several London police officers ‘played around’ with controversial facial recognition software after being provided free access by the vendor. One used it in an investigation.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://london.ctvnews.ca/details-emerge-about-use-of-facial-recognition-software-by-london-police-1.4949479?cache=yes%3FautoPlay%3Dtrue%3FclipId%3D89531%2F5-things-to-know-for-friday-september-13-2019-1.4591474",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/london/2020/5/21/1_4949479.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/london/2020/5/21/1_4949479.html",
+      "publishedDateTime": "2020-05-21T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/london/2020/5/21/1_4949479/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 573,
+          "title": "Details emerge about use of facial recognition software by London police",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry.md",
+      "title": "Google says it won’t build new AI solutions for the fossil fuel industry",
+      "excerpt": "Google today confirmed it will “no longer develop artificial intelligence (AI) software and tools for oil and gas drilling operations ... [Read: Employees say Google cut diversity programs to make conservatives happy] If this is the start of Google and Alphabet extricating themselves entirely from working with big oil, it deserves a ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/amp/",
+      "publishedDateTime": "2020-05-21T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Sundar-Pichai-Alphabet-Google-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Google says it won’t build new AI solutions for the fossil fuel industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-gap-is-speeding-up-its-rollout-of-warehouse-robots-to-limit-person-to-person-contact-amid-the-coronavirus.md",
+      "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
+      "excerpt": "Gap Inc. is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
+      "publishedDateTime": "2020-05-21T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ec6ecbf3ad861791b7c0226?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand.md",
       "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
       "excerpt": "Clearview AI facial recognition technology once again made the news for crimefighting reasons, this time in New Zealand. But controversy persists.",
@@ -792,260 +1037,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-facebook-leverages-ai-to-improve-kids-safety-in-messenger.md",
-      "title": "Facebook leverages AI to improve kids’ safety in Messenger",
-      "excerpt": "Facebook is rolling out an AI feature that gives users under the age of 18 tips on interacting with unfamiliar adults and avoiding scams.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/facebook-leverages-ai-to-improve-kids-safety-in-messenger/amp/",
-      "publishedDateTime": "2020-05-21T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/facebook-messenger-f8-e1584730735130.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook leverages AI to improve kids’ safety in Messenger",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-airtel-acquires-10-stake-in-ai-startup-voicezen.md",
-      "title": "Airtel acquires 10% stake in AI startup Voicezen",
-      "excerpt": "New Delhi, May 21 () Bharti Airtel has acquired 10 per cent stake in Gurgaon-based start-up Voicezen, which focusses on conversational artificial intelligence technologies, in an all-cash deal, the private operator said on Thursday.",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/articleshow/75868862.cms",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/airtel-acquires-10-stake-in-ai-startup-voicezen/amp_articleshow/75868862.cms",
-      "publishedDateTime": "2020-05-21T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/75868862.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": "Airtel acquires 10% stake in AI startup Voicezen",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-bb-8-toy-robot-maker-spins-off-robotics-startup-for-first-responders.md",
-      "title": "BB-8 toy robot maker spins off robotics startup for first responders",
-      "excerpt": "Sphero is perhaps best known for its mini Star Wars droids, but the company also makes edutainment bots for kids. And now the firm has turned its Public Safety Division into a brand new company focused on developing robots and AI software for emergency personnel,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/robotics/sphero-company-six/",
-      "ampWebUrl": "https://newatlas.com/robotics/sphero-company-six/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sphero-company-six/?amp=true",
-      "publishedDateTime": "2020-05-21T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/06aad15/2147483647/strip/true/crop/845x563+78+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe7%2Fe6%2Fa6b004194a4dad0bc7c3ff904cbd%2Fhero.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "BB-8 toy robot maker spins off robotics startup for first responders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus.md",
-      "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
-      "excerpt": "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network.",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
-      "publishedDateTime": "2020-05-21T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/20/80b822d9-b20b-4ba7-8a9a-461401bce55e/resize/400x/90d28741c1cdcb3f5513125869884ad8/nvidia-v100-t4-gpus.jpg",
-          "width": 400,
-          "height": 450,
-          "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-robots-help-out-in-bahrains-covid-19-quarantines.md",
-      "title": "Robots help out in Bahrain’s COVID-19 quarantines",
-      "excerpt": "Bahrain has introduced robots into places where patients of the new coronavirus are isolated and treated in an effort to protect health workers from contracting the potentially fatal virus, officials have said “This experiment is the first of its kind in Bahrain and has been done to utilise artificial intelligence technology and determine the scope of its benefits in providing medical care in isolation and treatment centres,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gulfnews.com/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
-      "ampWebUrl": "https://gulfnews.com/amp/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
-      "publishedDateTime": "2020-05-21T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2020/05/21/20200521_Bahrain_robot_17236e75595_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "Robots help out in Bahrain’s COVID-19 quarantines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption.md",
-      "title": "Gap rushes in more robots to warehouses to solve virus disruption",
-      "excerpt": "U.S. apparel chain Gap Inc is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic, the company told Reuters.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-gap-automation-foc-idUSKBN22X14Y",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22X14Y",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22X14Y",
-      "publishedDateTime": "2020-05-21T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519427977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K0SD",
-          "width": 817,
-          "height": 545,
-          "title": "Gap rushes in more robots to warehouses to solve virus disruption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

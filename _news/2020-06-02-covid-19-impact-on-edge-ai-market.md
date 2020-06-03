@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "COVID-19 Impact on Artificial Intelligence Market"
+    excerpt: "The Artificial Intelligence Market is segmented on the lines of its technology, end-user and regional. Based on technology it covers Machine learning, Natural language processing, Image processing and Speech recognition."
+    publishedDateTime: 2020-06-03T06:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-market-2020-06-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "AnwHhLy0Gj5i9Wpf0sgCr1z3USEO3WnrmoPD+fsFAlbXyocDSdT3WJNWhSXqGJiVol4IR+4fAMWGblTFD06G6G/3s2fq0aayx/UtU5S/uDyIqczHXotMHS8ARwbQ20k+Ych2cu+/SwJ6/7BfGf4cqk6+fldpsjCOwNPQA4d0wQ03jRmedKi2uogUbG/yw68EgvoxLT4P9cXQSMg4smqn5rV+VfyXlEMvhH6ZtMgxQB0M2r1FL0ffbGnRlmAVD1vZ66+t3Fw/wd1ZNEP9O0zo2Wol2MxOOl9iDrtnWsfGAt4N6rrSJpnXqJ1RuXk1doDC;xoy7527SevjH8URalzHfBQ=="
 ---

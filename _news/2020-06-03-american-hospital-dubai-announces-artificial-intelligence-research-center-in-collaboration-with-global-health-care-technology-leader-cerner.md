@@ -3,7 +3,7 @@ category: news
 title: "American Hospital Dubai announces artificial intelligence research center in collaboration with global health care technology leader Cerner"
 excerpt: "American Hospital Dubai, part of Mohamed & Obaid Al Mulla Group, has announced the launch of the first artificial intelligence (AI)"
 publishedDateTime: 2020-06-03T05:33:00Z
-webUrl: "https://www.khaleejtimes.com/dubai/American-Hospital-Dubai-announces-artificial-intelligence-research-center-in-collaboration-with-global-health-care-technology-leader-Cerner"
+webUrl: "https://www.khaleejtimes.com/news/uae-health/American-Hospital-Dubai-announces-artificial-intelligence-research-center-in-collaboration-with-global-health-care-technology-leader-Cerner"
 type: article
 quality: 20
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://images.khaleejtimes.com/storyimage/KT/20200603/SPONSOREDCONTENT/200609585/AR/0/AR-200609585.jpg&NCS_modified=20200603073936&exif=.jpg"
+  - url: "https://images.khaleejtimes.com/storyimage/KT/20200603/SPONSOREDCONTENT/200609585/AR/0/AR-200609585.jpg&NCS_modified=20200603082757&exif=.jpg"
     width: 1140
     height: 600
     title: "American Hospital Dubai announces artificial intelligence research center in collaboration with global health care technology leader Cerner"
@@ -40,6 +40,6 @@ related:
         width: 1200
         height: 878
 
-secured: "Vb/3JMYH8V6gR6IqEIc+6Z6vim5Q2TWakSrELg2bririTaJWoy1nrkPk19xUxe1sPOw0s6qmZvOhgvP+y5NvMXSfepTcbgyr4OFxfrnOMApuLYQGIoEoDcXonVlTCzIv790/9vQCqX7F4JZbkJFTs2A1gEt1TiGwJGXSv9BYOdZTr6adlWk1e16xruc9Lp4bfCbfWnLz2vl1uBNEMuf/7k2Pkl308psuO/fmdKNweyT2k3HghIT+xKc5ZiMyp+FHWBhh/bDlFaOkHGdk49VvBF4RvwUOmO3xVeibnbkoIIh+UAduFtx+AjN+HjHGB8bC;TNzJYoOf1x7q6uIQ/4FE8w=="
+secured: "b2oeqkmDH2eDaKZeCHmw7sl7I+izGuY/ok7FGSwT3BjADg0kxDB17/dkcMzyMi9oGXLqfWDuj3RXTi8Ei7iooaFesjp89VYIOfw0zgWYMrh5RaEXOrDhc3IIrq9DVWFuDsZ5iuI5gjzOHX89s+30Xuk5s8XV0FV6XJcqtXqxl1i/L9f5shBvSWnFKCzopH9XQu5aRMupu4MQMUVK6V3KXevg7OLVsoj3OTcdWwYmP8kz41KOK8VRvFg0b9gsYT3khPke2VOVbAioyI6URG9PEkEuVXRG2z23o/1bImIGnNqyyCFyi5EkM7qlfbwpwuC1;UFoKD4pc7SyVsyNBPmOuyg=="
 ---
 

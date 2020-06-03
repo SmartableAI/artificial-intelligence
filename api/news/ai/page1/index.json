@@ -2,6 +2,185 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-03-bbc-testing-beeb-ai-voice-assistant-with-windows-insiders.md",
+      "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
+      "excerpt": "The Beeb AI assistant aims to help users in the UK by navigating BBC services and access BBC content. There are no plans to build a device to rival Amazon Echo or Google Home, alt",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
+      "publishedDateTime": "2020-06-03T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815849/itpro/2017/01/voice_assistantbigstock.jpg",
+          "width": 900,
+          "height": 592,
+          "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-lg-and-kt-to-use-ai-for-pandemic-prevention.md",
+      "title": "LG and KT to use AI for pandemic prevention",
+      "excerpt": "LG will collaborate with KT to use AI for future pandemic prevention, as well as for the development of new products and services.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
+      "publishedDateTime": "2020-06-03T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/03/2912e5be-a2d1-4213-9fd1-1e9c4cef4c32/kt5-kt-5g.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": "LG and KT to use AI for pandemic prevention",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-robot-chef-uses-machine-learning-to-perfect-its-omelette-making-skills.md",
+      "title": "Robot chef uses machine learning to perfect its omelette-making skills",
+      "excerpt": "From robots that flip burgers in California to ones that serve up bratwursts in Berlin, we are starting to see how machines can play sous-chef in kitchens around the world. But scientists at the University of Cambridge have been exploring how these culinary robots might not only do some of",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/",
+      "ampWebUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/robot-chef-machine-perfect-omelette/?amp=true",
+      "publishedDateTime": "2020-06-02T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/aafb1bf/2147483647/strip/true/crop/1008x672+149+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fec%2F80%2F62314aaa432b9113b18408421b27%2Fscreen-shot-2020-06-03-at-4.28.56%20pm.png",
+          "width": 1200,
+          "height": 800,
+          "title": "Robot chef uses machine learning to perfect its omelette-making skills",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-facebook-paypal-back-indonesian-start-up-gojeks-asia-digital-payments-push.md",
+      "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
+      "excerpt": "The deal announced Wednesday marks Facebook’s first investment in an Indonesian company and is a major boost for Gojek, the country’s largest start-up which made its name in the ride-hailing business.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
+      "publishedDateTime": "2020-06-02T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/03/af227d42-a564-11ea-8ea0-d7434be00753_image_hires_144031.jpg?itok=sZyyj_K0&v=1591166440",
+          "width": 1200,
+          "height": 630,
+          "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents.md",
       "title": "BBC Beeb voice assistant is built to understand different UK accents",
       "excerpt": "The British Broadcasting Corporation or BBC may be best known for being, well, a broadcasting company but it actually has left very important legacies in the tech industry today. The BBC Micro in",
@@ -995,7 +1174,7 @@
       "path": "_news/2020-06-02-artificial-intelligence-ai-chipset-market-global-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2023.md",
       "title": "Artificial Intelligence (AI) Chipset Market –Global Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2023",
       "excerpt": "Healthcare, and BFSI) and Region - Forecast Till 2023 Artificial intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning, machine learning, neural network processing, and natural language processing. These chipsets are planned with the end goal that they expend low power and offer high processing ...",
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-global-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2023-2020-06-02?mod=mw_quote_news",
@@ -1124,185 +1303,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-covid-19-impact-on-artificial-intelligence-platform-market.md",
-      "title": "COVID-19 Impact on Artificial Intelligence Platform Market",
-      "excerpt": "The global Artificial Intelligence Platform market is segregated on the basis of Component as Tools and Services. Based on Deployment the global Artificial Intelligence Platform market is segmented in Cloud and On-Premises.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-platform-market-2020-06-02",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "COVID-19 Impact on Artificial Intelligence Platform Market",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-sensetimes-ai-makes-sure-you-park-your-shared-bike-properly.md",
-      "title": "SenseTime’s AI makes sure you park your shared bike properly",
-      "excerpt": "SenseTime’s new AI surveillance system is part of the Chinese government’s push to promote smart city projects",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
-      "publishedDateTime": "2020-06-01T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/01/5fc6bf5b-787e-48f8-852f-921fd82869b1.jpeg?itok=OSgMQyHn",
-          "width": 1200,
-          "height": 630,
-          "title": "SenseTime’s AI makes sure you park your shared bike properly",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-using-artificial-intelligence-this-start-up-is-helping-enterprises-connect-better.md",
-      "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
-      "excerpt": "Bengaluru-based Yellow Messenger offers an always-on, intelligent conversational automation on text and voice across multiple channels such as WhatsApp, Google Assistant and Alexa.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/351348",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351348",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351348",
-      "publishedDateTime": "2020-06-01T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591031101-Webpnet-compress-image43.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-volkswagen-makes-official-investment-in-argo-ai-will-share-costs-with-ford.md",
-      "title": "Volkswagen makes official investment in Argo AI, will share costs with Ford",
-      "excerpt": "Ford, Volkswagen and Argo AI made it official on Tuesday. VW has made an investment in the self-driving technology company, which charts a course for shared development costs for any autonomous vehicle technologies to come.",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/volkswagen-ford-investment-argo-ai/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/volkswagen-ford-investment-argo-ai/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/volkswagen-ford-investment-argo-ai/",
-      "publishedDateTime": "2020-06-01T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/7PbtLT6iMpt6eKDYw0cRPWAFGLo=/2019/09/25/4f3ce380-0cb8-44fd-a15a-8cbc15b49217/ogi-ford.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Volkswagen makes official investment in Argo AI, will share costs with Ford",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

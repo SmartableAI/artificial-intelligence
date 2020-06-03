@@ -2,6 +2,231 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-29-chinas-didi-raises-more-than-500-million-for-self-driving-tech.md",
+      "title": "China’s Didi Raises More Than $500 Million for Self-Driving Tech",
+      "excerpt": "Chinese ride-hailing giant Didi Chuxing Technology raised more than $500 million in a funding round led by SoftBank Group for its autonomous driving subsidiary, as it competes with well-backed U.S. startups over self-driving technology.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/chinas-didi-raises-more-than-500-million-for-self-driving-tech-11590753837",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/chinas-didi-raises-more-than-500-million-for-self-driving-tech-11590753837",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinas-didi-raises-more-than-500-million-for-self-driving-tech-11590753837",
+      "publishedDateTime": "2020-05-29T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-192120/social",
+          "width": 1280,
+          "height": 640,
+          "title": "China’s Didi Raises More Than $500 Million for Self-Driving Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-what-businesses-can-learn-about-algorithms-from-the-financial-industry.md",
+      "title": "What Businesses Can Learn About Algorithms From The Financial Industry",
+      "excerpt": "Algorithms can be applied across a business to assist with any processes that need streamlining or any problems that need effective predictive outcomes.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/29/what-businesses-can-learn-about-algorithms-from-the-financial-industry/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/29/what-businesses-can-learn-about-algorithms-from-the-financial-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/05/29/what-businesses-can-learn-about-algorithms-from-the-financial-industry/amp/",
+      "publishedDateTime": "2020-05-29T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F05%2F860.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "What Businesses Can Learn About Algorithms From The Financial Industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-what-todays-execs-need-to-know-about-ai.md",
+      "title": "What Today's Execs Need To Know About AI",
+      "excerpt": "AI systems aren’t thinking for themselves — they’re just accomplishing the tasks we’ve assigned them in new and better ways.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/what-todays-execs-need-to-know-about-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/what-todays-execs-need-to-know-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/29/what-todays-execs-need-to-know-about-ai/amp/",
+      "publishedDateTime": "2020-05-29T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-74-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "What Today's Execs Need To Know About AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-how-open-source-data-can-drive-automotive-innovation.md",
+      "title": "How Open-Source Data Can Drive Automotive Innovation",
+      "excerpt": "Progress on these fronts will be crucial to making smart cars even more intelligent and bringing self-driving cars to fruition, but industry stakeholders are also concentrating on another key to automotive innovation: open-source data,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/how-open-source-data-can-drive-automotive-innovation/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/how-open-source-data-can-drive-automotive-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/29/how-open-source-data-can-drive-automotive-innovation/amp/",
+      "publishedDateTime": "2020-05-29T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-69-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How Open-Source Data Can Drive Automotive Innovation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission.md",
+      "title": "The Temptations Of Artificial Intelligence Technology And The Price Of Admission",
+      "excerpt": "The internal workings of ML algorithms are something of a black box, which makes vigilant monitoring of their predictions extremely important.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/29/the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/amp/",
+      "publishedDateTime": "2020-05-29T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-67-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The Temptations Of Artificial Intelligence Technology And The Price Of Admission",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-coronavirus-and-the-rise-of-the-ai-economy.md",
       "title": "Coronavirus And The Rise Of The AI Economy",
       "excerpt": "The World Bank has predicted the coronavirus is pushing 40 to 60 million people into extreme poverty. Calls for international solidarity have so far delivered little tangible support and the risk of country debt defaults and corporate bankruptcies and the human costs associated with it is rising.",
@@ -985,27 +1210,19 @@
     {
       "path": "_news/2020-05-28-cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more.md",
       "title": "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More",
-      "excerpt": "The annual Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research spanning the fields of computer vision, deep learning, artificial intelligence,",
+      "excerpt": "The annual Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research spanning the fields",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
-      "publishedDateTime": "2020-05-28T08:34:00-07:00",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and/article_ee04b226-28a5-56f4-be32-475e0d8b67ff.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T08:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1015,7 +1232,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1061,214 +1278,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-apple-just-bought-another-ai-startup-to-help-siri-catch-up-to-rivals-amazon-and-google.md",
-      "title": "Apple just bought another AI startup to help Siri catch up to rivals Amazon and Google",
-      "excerpt": "Apple has acquired AI startup Inductiv Inc. to improve Siri, which has fallen behind Amazon's Alexa and the Google Assistant.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5?amp",
-      "publishedDateTime": "2020-05-28T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ecfc2e3aee6a86d3947b893?width=1200&format=jpeg",
-          "width": 1102,
-          "height": 551,
-          "title": "Apple just bought another AI startup to help Siri catch up to rivals Amazon and Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily.md",
-      "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
-      "excerpt": "New York-based artificial intelligence startup Accern announced that it has closed a $13 million Series A funding round led by Fusion Fund. Mighty Capital, Allianz Life Ventures, Vectr Fintech Partners and Viaduct Ventures also participated,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/",
-      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/05/28/artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily/amp/",
-      "publishedDateTime": "2020-05-28T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eceac230ca0110007264231%2F0x0.jpg",
-          "width": 1200,
-          "height": 925,
-          "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-why-these-ex-deepmind-engineers-picked-seattle-to-launch-new-ai-startup-phaidra.md",
-      "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
-      "excerpt": "Avocado toast meets red meat and potatoes. That’s not the most familiar way to describe Seattle, but it’s why Phaidra decided to launch its company in the Emerald City. The stealthy startup",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
-      "publishedDateTime": "2020-05-28T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-27-at-1.58.01-PM-300x261.png",
-          "width": 300,
-          "height": 261,
-          "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-apple-acquires-inductiv-machine-learning-specialists.md",
-      "title": "Apple acquires Inductiv, machine-learning specialists",
-      "excerpt": "Apple has confirmed that it has acquired the tech startup Inductiv, an engineering team from Ontario that specialises in machine-learning. It’s believed that Apple’s underlying reason for the acquisition of Inductiv is to enhance its virtual assistant,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.kitguru.net/lifestyle/mobile/apple/christopher-nohall/apple-acquires-inductiv-machine-learning-specialists/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KitGuru",
-        "domain": "kitguru.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.kitguru.net/wp-content/uploads/2020/05/Siri-732x330.jpg",
-          "width": 732,
-          "height": 330,
-          "title": "Apple acquires Inductiv, machine-learning specialists",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-aws-uses-machine-learning-to-create-new-soccer-statistics.md",
-      "title": "AWS Uses Machine Learning to Create New Soccer Statistics",
-      "excerpt": "Amazon Web Services has introduced two new soccer metrics that measure a team’s on-field positioning strategy and the likelihood of scoring a goal based on a shooter’s location. The stats debuted during Tuesday’s broadcast of Borussia Dortmund vs.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sporttechie.com/aws-bundesliga-machine-learning-soccer-statistics",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportTechie",
-        "domain": "sporttechie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AWS Uses Machine Learning to Create New Soccer Statistics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

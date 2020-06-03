@@ -42,19 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market Industry Size, Emerging Technologies, Future Demands and Industry Growth Opportunities Forecast 2026"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2020-05-29T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-size-emerging-technologies-future-demands-and-industry-growth-opportunities-forecast-2026-2020-05-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "2Mgr9h1bGsDKQDdOZdvhE6dvn3kjm29PruY7jCs72L6t1uY1V+L9dxgth6Yjold466oqEsb2w2oyu1teq3QXKIXfqc4MReh3URXuIEw/t7mgJWGttwRfPOGsEGUmpkG+bdwIA/KE93gdTCG5MEQhddFQ94vf6ohnim2NFmwFyeqBC3bbZP0eX422TI4Ky/2857ytBsjS+I9cVGcx6k5jXgfnJ85wu2TxgZy6bmS/XByf0CNxIgEfwXOfsiR0OI3iZRwEjN3/IdMOWWzvSkLvDhNBmha9aq4uZixVjsecAkMqMPkDXkTSLWFOhFr+6vpI;uILP5QinFCCcbiKeFGJ6Kw=="
 ---

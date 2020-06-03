@@ -1,0 +1,34 @@
+---
+category: news
+title: "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push"
+excerpt: "The deal announced Wednesday marks Facebook’s first investment in an Indonesian company and is a major boost for Gojek, the country’s largest start-up which made its name in the ride-hailing business."
+publishedDateTime: 2020-06-03T06:41:00Z
+webUrl: "https://www.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments"
+ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments"
+type: article
+quality: 71
+heat: 71
+published: true
+
+provider:
+  name: South China Morning Post
+  domain: scmp.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/03/af227d42-a564-11ea-8ea0-d7434be00753_image_hires_144031.jpg?itok=sZyyj_K0&v=1591166440"
+    width: 1200
+    height: 630
+    title: "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push"
+
+secured: "j1FnXXbNMlYXM4ezQ+H3wSf5Hu5aHVPh9A1ns9kxu7DBfcJ6T0yBk72j1gBwmr6ssKvFEmzLzVH6Yl92SsmWXZYGZQYPUtlUcy1O51zIeTtWn9aB4138p9JmZa+bD+WkkkyJek40Jr/GzlHUhArXoJa94PxJCNXMsdAMrTfVOpj2JB7ITCCE4mFHQLwngYVWZtRdYn6b697DzbK7OOuew2g46TbdTq6Q86tZ76ngvCvbAJm5G/CIReWxrGwAFWSBSriJyjWjixJqjUhg+4X+YiP/L8c6lNCn7iF9fRPk+J/XlqHPc1GobeRno9RhZyZ1;hbm+SnYdlPb0iXy4HqoTrw=="
+---
+

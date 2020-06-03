@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-03-bbc-testing-beeb-ai-voice-assistant-with-windows-insiders.md",
+      "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
+      "excerpt": "The Beeb AI assistant aims to help users in the UK by navigating BBC services and access BBC content. There are no plans to build a device to rival Amazon Echo or Google Home, alt",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
+      "publishedDateTime": "2020-06-03T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815849/itpro/2017/01/voice_assistantbigstock.jpg",
+          "width": 900,
+          "height": 592,
+          "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers.md",
       "title": "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers",
       "excerpt": "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Business Wire PA",
@@ -1239,35 +1284,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-msft-sony-ai-camera-deal-to-boost-business-yield.md",
-      "title": "Microsoft (MSFT)-Sony AI-Camera Deal to Boost Business Yield",
-      "excerpt": "Microsoft MSFT recently inked a deal with Sony Semiconductor Solutions (Sony) aimed at delivering solutions to aid enterprises avail the benefits of AI-driven smart cameras with robust video analytics capabilities.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-sony-ai-camera-deal-to-boost-business-yield-2020-05-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

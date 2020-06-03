@@ -2,6 +2,207 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-26-arm-doubles-down-on-ai-for-mobile-devices.md",
+      "title": "Arm Doubles Down On AI For Mobile Devices",
+      "excerpt": "In addition to the A78, Arm debuted a whole new branch of CPUs with the Cortex-X1, a larger, but more powerful design. On the GPU side, the company made two different introductions: one at the top end of the performance chain and the other emphasizing the rapidly growing opportunity for moderately priced smartphones.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/article/4350084-arm-doubles-down-on-ai-for-mobile-devices",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-using-artificial-intelligence-to-diagnose-lung-cancer.md",
+      "title": "Using Artificial Intelligence To Diagnose Lung Cancer",
+      "excerpt": "The National Cancer Institute reported that lung cancer accounts for 25% of all cancer deaths. According to Paul Pagano, Interium CEO and Chief Scientific Officer, LungLife AI around 80 percent of lung cancer is diagnosed at a late stage due to inadequate early detection strategies,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/05/26/using-artificial-intelligence-to-diagnose-lung-cancer/",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/05/26/using-artificial-intelligence-to-diagnose-lung-cancer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/05/26/using-artificial-intelligence-to-diagnose-lung-cancer/amp/",
+      "publishedDateTime": "2020-05-26T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180547354%2F0x0.jpg",
+          "width": 1199,
+          "height": 657,
+          "title": "Using Artificial Intelligence To Diagnose Lung Cancer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-ai-in-computer-vision-market-research-report-2020-share-growth-opportunity-and-forecast-2023.md",
+      "title": "AI In Computer Vision Market Research Report 2020 Share, Growth, Opportunity, And Forecast-2023",
+      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-2020-share-growth-opportunity-and-forecast-2023-2020-05-26",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI In Computer Vision Market Research Report 2020 Share, Growth, Opportunity, And Forecast-2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-creating-a-complete-tensorflow-2-workflow-in-amazon-sagemaker.md",
+      "title": "Creating a complete TensorFlow 2 workflow in Amazon SageMaker",
+      "excerpt": "Managing the complete lifecycle of a deep learning project can be challenging, especially if you use multiple separate tools and services. For example, you may use different tools for data preprocessing, prototyping training and inference code, full-scale model training and tuning, model deployments,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-complete-tensorflow-2-workflow-in-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T08:47:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Creating a complete TensorFlow 2 workflow in Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-wada-looks-to-artificial-intelligence-to-catch-dopers.md",
+      "title": "WADA looks to artificial intelligence to catch dopers",
+      "excerpt": "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/",
+      "ampWebUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
+      "cdnAmpWebUrl": "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
+      "publishedDateTime": "2020-05-26T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSEE",
+        "domain": "yourcentralvalley.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2020/05/4878bde720924c678f20a60662f1f937.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "WADA looks to artificial intelligence to catch dopers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-definedcrowd-raises-505-million-for-ai-data-set-curation.md",
       "title": "DefinedCrowd raises $50.5 million for AI data set curation",
       "excerpt": "Seattle-based DefinedCrowd, which describes itself as a “smart” data curation platform, has raised $50.5 million in venture capital.",
@@ -221,6 +422,43 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-vizient-inc-partners-with-ibm-watson-health-to-help-support-healthcare-providers-performance-improvement-needs.md",
+      "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
+      "excerpt": "Vizient announces an agreement with IBM Watson Health to integrate its analytics tools with Vizient's CDB and ODB healthcare bench marking tools.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200526005221/en/Vizient-Partners-IBM-Watson-Health-Support-Healthcare",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200526005221/en/637378/23/Vizient_Logo_V2.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -834,244 +1072,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-why-robots-will-need-humans-in-the-future.md",
-      "title": "Why robots will need humans in the future",
-      "excerpt": "Ben Shneiderman, a University of Maryland computer scientist who has for decades warned against blindly automating tasks with computers, thinks fully automated cars and the tech industry’s vision for a robotic future is misguided.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html",
-      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
-      "publishedDateTime": "2020-05-25T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando Sentinel",
-        "domain": "orlandosentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/resizer/-RkmdLbQY_5T6dnGwSJV5mIp7-g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JTAXB6YFGFAU7AZ5272JMTGK3I.png",
-          "width": 1200,
-          "height": 858,
-          "title": "Why robots will need humans in the future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-conversational-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
-      "title": "Conversational Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
-      "excerpt": "Kenneth Research has published a detailed report on Conversational Artificial Intelligence (AI) Market which has",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-overall-study-report-with-top-key-players-2020-05-25",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-25T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Conversational Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas.md",
-      "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
-      "excerpt": "Robochamps, an edtech start-up dedicated to introducing kids to early AI education, recently launched online courses in robotics and coding in multiple languages, including Hindi, Gujarati, Punjabi, a",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece/amp/",
-      "publishedDateTime": "2020-05-25T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-nvidia-launches-new-gpu-for-ai-systems.md",
-      "title": "NVIDIA Launches New GPU for AI Systems",
-      "excerpt": "DGX A100 includes dual AMD Rome EPYC CPUs with PCIe 4.0. Exploded view of the NVIDIA DGX A100. (1) 8 NVIDIA A100 GPUs; (2) 6 NVSwitches; (3) Mellanox Connect-6; (4) Dual AMD 64-core EPYC CPUs/1TB system memory;",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engineering.com/Hardware/ArticleID/20316/NVIDIA-Launches-New-GPU-for-AI-Systems.aspx",
-      "ampWebUrl": "https://mobile.engineering.com/amp/20316.html",
-      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20316.html",
-      "publishedDateTime": "2020-05-25T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering",
-        "domain": "engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.engineering.com/portals/0/BlogFiles/2_ima3.jpg",
-          "width": 640,
-          "height": 336,
-          "title": "NVIDIA Launches New GPU for AI Systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home.md",
-      "title": "ECOVACS ROBOTICS Launches the DEEBOT OZMO T8 Family Putting AI to Work For a Better Looking Home",
-      "excerpt": "ECOVACS ROBOTICS launched the DEEBOT OZMO T8 family, its latest series of high-end intelligent robotic vacuum cleaner. First family member DEEBOT OZMO T8 AIVI features ECOVACS' optimized AIVI™ (Artificial Intelligence and Visual Interpretation) Technology for faster obstacle recognition,",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
-      "publishedDateTime": "2020-05-24T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-breaking-through-the-glass-ceiling-a-spring-for-women-in-artificial-intelligence.md",
-      "title": "Breaking Through The Glass Ceiling - A Spring For Women In Artificial Intelligence",
-      "excerpt": "To conclude, while there is still a long way to go before we see equal numbers of women in AI for healthcare, the glass ceiling is breaking and I cannot think of a better career choice for a young woman.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-05-24T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F915025868%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D926%26cropY2%3D3626",
-          "width": 1200,
-          "height": 563,
-          "title": "Breaking Through The Glass Ceiling - A Spring For Women In Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

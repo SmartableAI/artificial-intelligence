@@ -54,10 +54,10 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/nz/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
-      "publishedDateTime": "2020-05-27T06:29:00-07:00",
+      "webUrl": "https://www.techradar.com/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "publishedDateTime": "2020-05-27T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -134,6 +134,43 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-vizient-inc-partners-with-ibm-watson-health-to-help-support-healthcare-providers-performance-improvement-needs.md",
+      "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
+      "excerpt": "Vizient announces an agreement with IBM Watson Health to integrate its analytics tools with Vizient's CDB and ODB healthcare bench marking tools.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200526005221/en/Vizient-Partners-IBM-Watson-Health-Support-Healthcare",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200526005221/en/637378/23/Vizient_Logo_V2.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1234,51 +1271,6 @@
           "width": 1024,
           "height": 682,
           "title": "IBM and Red Hat expand their telco, edge and AI enterprise offerings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-ceo-lays-out-new-initiatives-in-cloud-ai.md",
-      "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
-      "excerpt": "As he addresses the need for growth, Arvind Krishna must drive into the headwinds of a global economic crisis triggered by the coronavirus pandemic.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
-      "publishedDateTime": "2020-05-04T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-183494/social",
-          "width": 1280,
-          "height": 640,
-          "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
           "attribution": null
         }
       ],

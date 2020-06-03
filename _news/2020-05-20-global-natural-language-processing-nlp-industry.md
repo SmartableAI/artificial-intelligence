@@ -1,24 +1,19 @@
 ---
 category: news
 title: "Global Natural Language Processing (NLP) Industry"
-excerpt: "Reportlinker.com announces the release of the report \"Global Natural Language Processing (NLP) Industry\" -  2%. The shifting dynamics supporting this growth makes it critical for businesses in this space to keep abreast of the changing pulse of the market."
+excerpt: "New York, May 20, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Natural Language Processing (NLP) Industry\" - https://www ..."
 publishedDateTime: 2020-05-20T06:15:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/05/g16072287/global-natural-language-processing-nlp-industry"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16072287"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072287"
+webUrl: "https://www.globenewswire.com/news-release/2020/05/20/2036115/0/en/Global-Natural-Language-Processing-NLP-Industry.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "UQ5zBlbwxSLlWLkZ2t/14xRXM0aC+ye5gg6yfC7SnO9Tja+ySnvGMUB7FHgJAULVFbMiFB8yh3rIfuC583VkEk5o0EKWMT9JYGSPjamBZlx0VtNtDEyDKsIliLlRt82ExYPCLxMjOsb/tFI0s/zokuZ9YAuhdjwWJghkOAheYu8a1YMaM1XhriMd5dq0DSSNIKLGuqpvri5rFYsUmwcWuMJJccnbSSDLNfIqyWtYRGux/cO5g/1zKBu9piin0p3LBK1z3UYmAdizwJGz8t8zE5MJKVPJ7fGIh9lFpopirM8tVAWJydt5t8uc17yxDSQk;FpKwdWq7Zb4P0te6FwPoNA=="
+secured: "hQIdDypdOcrRlRegs3QJOpJ3vWth+TcMuRyQ61v1+KAZLy1H+rrqfe/DaUW1q6/kOUPiGsr9PXXTe1WrS9Ca+Rg8LXF9Sydxm2TCoOWoByqyL0AwWxLFoV0RLtlP3t5Scas29j4i3anIKpWIDj46AFzplzP8DJBl+gO8x3EkAIOOkvvZHioT+C2Y8Ds1v+rit4/7m93izre+OAM0wOHOg3/sZQ6HwT3OO1VwtnQKEjZ+KtxZSpBuKmFZge31u2gQWm+zaZpAXbw/FgQq1m094dhYqNNORn0PANPhxOBV6zwMZW83P6hWA93qcA4STo6Z;2vpqCSij7//ScwUFs4+Ypw=="
 ---
 

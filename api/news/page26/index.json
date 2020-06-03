@@ -2,6 +2,302 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-05-11-arlington-asset-investment-corp-ai-q1-2020-earnings-call-transcript.md",
+      "title": "Arlington Asset Investment Corp (AI) Q1 2020 Earnings Call Transcript",
+      "excerpt": "Arlington Asset Investment Corp Q1 2020 Earnings Call May 11, 2020, 10:00 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/05/11/arlington-asset-investment-corp-ai-q1-2020-earning.aspx",
+      "publishedDateTime": "2020-05-11T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+          "width": 580,
+          "height": 618,
+          "title": "Arlington Asset Investment Corp (AI) Q1 2020 Earnings Call Transcript",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation.md",
+      "title": "UPS: How VR, IoT, AI, and big data powers the logistics company's digital transformation",
+      "excerpt": "In light of the novel coronavirus pandemic, there are more eyes than ever on the global supply chain and worker safety as logistics companies and postal agencies work to provide essential delivery services.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ups-how-vr-iot-ai-and-big-data-powers-the-logistics-companys-digital-transformation/",
+      "publishedDateTime": "2020-05-11T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/03/23/11232f1b-da8c-4e3c-98a8-966c33370e4f/thumbnail/1200x675/486d0069eff46635d66b70183fea7484/2020-ups-part0-main.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "UPS: How VR, IoT, AI, and big data powers the logistics company's digital transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-this-ai-tool-predicts-whos-got-covid-19-without-testing.md",
+      "title": "This AI tool predicts who’s got COVID-19 without testing",
+      "excerpt": "A new AI diagnostic tool trained on crowdsourced data from the COVID Symptom Study app predicts who's got COVID-19 without testing",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/amp/",
+      "publishedDateTime": "2020-05-11T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-32-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI tool predicts who’s got COVID-19 without testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump.md",
+      "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
+      "excerpt": "An AI speech recognition bot designed to analyze speech and compile it into a database broke when it tried to analyze Trump's speech patterns, its creator",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
+      "ampWebUrl": "https://amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-speech-recognition-bot-breaks-after-trying-to-analyze-trump/",
+      "publishedDateTime": "2020-05-11T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/bf3770e6-d718-5402-b212-cb364f2fa018/default-1589197781-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": "AI Speech Recognition Bot Breaks After Trying To Analyze Trump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-women-leaders-in-ai-it-leader-seema-gaur-on-putting-ai-to-work-in-insurance.md",
+      "title": "Women Leaders in AI: IT Leader Seema Gaur on Putting AI to Work in Insurance",
+      "excerpt": "Seema Gaur is the head of IT at one of the largest general insurance companies in India. She was honored in 2019 by IBM as a pioneer in putting AI to work in her business. Seema and her team are working to bring in the best technology to make the user journey more efficient, improve the agent experience,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/women-leaders-in-ai-it-leader-seema-gaur-on-putting-ai-to-work-in-insurance/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T09:56:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/Seema-Gaur-gradient.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Women Leaders in AI: IT Leader Seema Gaur on Putting AI to Work in Insurance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-zoom-xoom-zum-why-does-every-startup-sound-fast-now.md",
+      "title": "Zoom, Xoom, Züm: Why does every startup sound fast now?",
+      "excerpt": "There have been at least 120 startups whose names include something that sounds like “zoom.” Another fact: They have raised a collective $1.8 billion in funding.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/boston/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11660440/zoom-soundalikes-0*400xx2400-2400-0-0.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Zoom, Xoom, Züm: Why does every startup sound fast now?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai.md",
+      "title": "Paradox Raises $40M Series B to Help Companies Embrace the Future of Work with Conversational AI",
+      "excerpt": "Press Release Paradox, the conversational AI platform helping HR and talent teams automate administrative tasks and deliver real-time candidate and employee communications, announced today $40M in Series B funding,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/amp/",
+      "publishedDateTime": "2020-05-11T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20200511005657/en/790786/4/paradox-hq.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 360,
+          "title": "Paradox Raises $40M Series B to Help Companies Embrace the Future of Work with Conversational AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips.md",
       "title": "Qualcomm and MediaTek chase video and game fans with tweaked 5G chips",
       "excerpt": "New chips from two top device chipmakers suggest that high frame rate videos and games will be major selling points for even budget 5G phones.",
@@ -757,310 +1053,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ai-and-machine-learning-help-google-read-along-teach-kids-reading-skills.md",
-      "title": "AI and machine learning help Google Read Along teach kids reading skills",
-      "excerpt": "The tech giant recent launched the new app to help support kids as they improve their reading. The Google Read Along application was recently added to app stor",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.qrcodepress.com/ai-and-machine-learning-help-google-read-along-teach-kids-reading-skills/8537872/",
-      "ampWebUrl": "https://www.qrcodepress.com/ai-and-machine-learning-help-google-read-along-teach-kids-reading-skills/8537872/amp/",
-      "cdnAmpWebUrl": "https://www-qrcodepress-com.cdn.ampproject.org/c/s/www.qrcodepress.com/ai-and-machine-learning-help-google-read-along-teach-kids-reading-skills/8537872/amp/",
-      "publishedDateTime": "2020-05-11T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "QR Code Press",
-        "domain": "qrcodepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.qrcodepress.com/wp-content/uploads/2020/05/Google-Read-Along-AI-machine-learning-book.jpg",
-          "width": 875,
-          "height": 492,
-          "title": "AI and machine learning help Google Read Along teach kids reading skills",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-vochi-the-computer-vision-based-video-editing-and-effects-app-raises-15m-seed.md",
-      "title": "Vochi, the ‘computer vision’-based video editing and effects app, raises $1.5M seed",
-      "excerpt": "Vochi, a startup operating out of Belarus that’s created a “computer vision”-based video editing and effects app for mobile phones, has raised $1.5 million in seed funding. Leading the round is Ukraine-based Genesis Investments (backer of BetterMe and Jiji).",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/11/vochi/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/11/vochi/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/vochi/amp/",
-      "publishedDateTime": "2020-05-11T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/VOCHI_cover.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Vochi, the ‘computer vision’-based video editing and effects app, raises $1.5M seed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-to-enforce-social-distancing.md",
-      "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
-      "excerpt": "Amazon is developing a robot that would roll through grocery stores and distribution centers, using banks of ultraviolet light to kill viruses on surfaces. The company provided “60 Minutes”",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/",
-      "ampWebUrl": "https://www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-enforce-social-distancing/amp/",
-      "publishedDateTime": "2020-05-10T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/uvrobot-630x379.png",
-          "width": 630,
-          "height": 379,
-          "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-ai-is-great-news-for-digital-marketers-who-are-bored-of-being-data-drones.md",
-      "title": "AI is great news for digital marketers who are bored of being data drones",
-      "excerpt": "For the last 15 years, marketers have been told to lead with data, to become more like machines. Now there’s a new mandate to succeed: be more human.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/growth-quarters/2020/05/11/ai-is-great-news-for-digital-marketers-who-are-bored-of-being-data-drones/",
-      "ampWebUrl": "https://thenextweb.com/growth-quarters/2020/05/11/ai-is-great-news-for-digital-marketers-who-are-bored-of-being-data-drones/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/05/11/ai-is-great-news-for-digital-marketers-who-are-bored-of-being-data-drones/amp/",
-      "publishedDateTime": "2020-05-10T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/AI-data-digital-marketer-gq-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI is great news for digital marketers who are bored of being data drones",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-finding-success-and-competitive-differentiation-through-carefully-planned-ai-implementation.md",
-      "title": "Finding success and competitive differentiation through carefully planned AI implementation",
-      "excerpt": "Across the wide spectrum of technology, artificial intelligence (AI) is the one experiencing the real boom in spending.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/paid-content/article/finding-success-and-competitive-differentiation-through-carefully-planned-ai-implementation/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/finding-success-and-competitive-differentiation-through-carefully-planned-ai-implementation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-success-and-competitive-differentiation-through-carefully-planned-ai-implementation/",
-      "publishedDateTime": "2020-05-10T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/11/b53de64e-673a-471b-aa02-0c95d22817c4/adobestock-180578830.jpg",
-          "width": 5309,
-          "height": 3539,
-          "title": "Finding success and competitive differentiation through carefully planned AI implementation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6.md",
-      "title": "What Are The Best Big Data Cloud Storage Providers? Here Are The Top 6",
-      "excerpt": "The amounts of data organizations accumulate is growing exponentially. This means we need to find the right place to store the data. In this article, we look at the best cloud storage providers for your big data.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/11/what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/11/what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/11/what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6/amp/",
-      "publishedDateTime": "2020-05-10T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb8d364e33df900063dfc40%2F0x0.jpg",
-          "width": 1200,
-          "height": 776,
-          "title": "What Are The Best Big Data Cloud Storage Providers? Here Are The Top 6",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-monash-university-researchers-use-ai-technology-to-examine-hospital-readmissions.md",
-      "title": "Monash University researchers use AI technology to examine hospital readmissions",
-      "excerpt": "Researchers from Monash University have undertaken a study using artificial intelligence (AI) to understand the reasons behind hospital readmissions. According to the university, the study involved using AI technology to examine 10 years' worth of patient records.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-use-ai-technology-to-examine-hospital-readmissions/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-use-ai-technology-to-examine-hospital-readmissions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-use-ai-technology-to-examine-hospital-readmissions/",
-      "publishedDateTime": "2020-05-10T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2013/11/13/ba035051-4c63-11e3-90a0-0291187ef9b6/thumbnail/1200x675/635e48b6fd8caa407250956c6594274b/toronto-lake-flickr.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Monash University researchers use AI technology to examine hospital readmissions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
