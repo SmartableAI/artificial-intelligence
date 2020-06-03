@@ -8,8 +8,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/vw-closes-%242.6-billion-investment-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/vw-closes-%242.6-billion-investment-in-self-driving-startup-argo-ai-2020-06-02?amp"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Nasdaq
@@ -20,21 +20,15 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI"
-    excerpt: "Volkswagen AG has closed on its $2.6 billion investment in Argo AI, the Pittsburgh-based autonomous vehicle startup announced in a blog post Tuesday."
-    publishedDateTime: 2020-06-02T14:59:00Z
-    webUrl: "https://www.cnbc.com/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
+  - title: "Volkswagen Closes $2.6 Billion Investment in Self-Driving Startup Argo AI"
+    excerpt: "Argo, founded in 2016 by Bryan Salesky and Peter Rander, is now jointly controlled by VW and Ford Motor Co, which made an initial investment in Argo shortly after it was founded. Details of the VW investment,"
+    publishedDateTime: 2020-06-02T04:19:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-06-02/volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106016157-1562936612118img_2062.jpg?v=1562936715"
-        width: 3758
-        height: 2504
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
   - title: "Ford Shares Gain After Volkswagen Closes $2.6 Billion Investment in Self-Driving Venture Argo AI"
     excerpt: "Volkswagen, the world's second-biggest carmaker, has pumped $2.6 billion into Argo AI, a self-driving vehicle company it jointly owns with Ford."
     publishedDateTime: 2020-06-02T10:32:00Z
