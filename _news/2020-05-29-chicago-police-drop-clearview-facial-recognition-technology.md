@@ -52,19 +52,6 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
-  - title: "The ACLU sues Clearview AI, calling the tool an ‘unprecedented violation’ of privacy rights"
-    excerpt: "The American Civil Liberties Union is suing Clearview AI, the maker of a facial-recognition tool used by law enforcement agencies across the country. The ACLU alleges that Clearview’s technology runs afoul of the 2008 Illinois Biometric Information Privacy Act,"
-    publishedDateTime: 2020-05-29T15:33:00Z
-    webUrl: "https://abc17news.com/money/2020/05/29/the-aclu-sues-clearview-ai-calling-the-tool-an-unprecedented-violation-of-privacy-rights/"
-    type: article
-    provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 29
-    images:
-      - url: "https://s3.us-east-1.wasabisys.com/assets.npgco.com/abc17news.com/2019/10/Money-web-1024x576-860x484.jpg"
-        width: 860
-        height: 484
 
 secured: "731lYMylnAYz/r/d6LXXBImCMtrU+7LELR0HZDV8XR5MMAxcPhJZslH2RR87+0WFFF963jaVEW0MByErJvN5t/N5IWdKh9H8V1BPNNCCDvMDYfPTn4yA9Iqgd2ok19T3Of7qHITGX+Bhw/XHo0cA1y79stEDL250eg5rGNiZNwCIgctlwBnGYCB5ckTm60XBAsuqLLHXaaZjPxQ4qSt/gynH442JmQAjtnF0Ldt1jzZkMtYN68ie+2jM5NUeAiyHdFue6yR24B9LuPGYzNvCalMolhYYqyei/4JWQ/hsP5ockDJlXDzDO8kqYdorMovv;B+Jc2ZDHbxyhZuo1r9fpBw=="
 ---

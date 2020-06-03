@@ -598,6 +598,35 @@
       ]
     },
     {
+      "path": "_news/2020-05-26-ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr-by-2026-446-cagr-coronavirus-covid19-impact-analysis.md",
+      "title": "AI Chips Market 2020 Will Emerge Globally And Grow With High CAGR by 2026 | 44.6% CAGR | Coronavirus-COVID19 Impact Analysis",
+      "excerpt": "The Global AI Chips Market was valued at USD XX Bn in 2018 and is expected to reach USD XX Bn by 2026 growing at a CAGR of 44 6 by 2027 The ripple effect of Coronavirus COVID19 on the",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
+      "ampWebUrl": "https://www.openpr.com/amp/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
+      "publishedDateTime": "2020-05-26T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-samsung-announces-the-mid-range-exynos-880-chip-with-integrated-5g.md",
       "title": "Samsung announces the mid-range Exynos 880 chip with integrated 5G",
       "excerpt": "Samsung has announced a new Exynos chip for its mid-range smartphones, the Exynos 880. The octa-core chip is based on the 8nm FinFET process and features an integrated 5G modem with sub-6GHz support.",
@@ -675,6 +704,43 @@
           "width": 1200,
           "height": 630,
           "title": "Lasertec, a tiny maker of US$40 million chip testing machines, is Japan’s hottest stock thanks to EUV",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-adobe-premiere-pro-may-2020-amd-vs-nvidia-gpu-encoding-performance.md",
+      "title": "Adobe Premiere Pro May 2020 AMD vs NVIDIA GPU Encoding Performance",
+      "excerpt": "The latest versions of Adobe's Premiere Pro and Media Encoder bring significant encode performance improvements to our graphics cards. With this 14.2 release, we revisited all 21 GPUs we just finished testing for our latest Radeon Pro review,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techgage.com/article/adobe-premiere-pro-may-2020-amd-vs-nvidia-gpu-encoding-performance/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-25T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techgage",
+        "domain": "techgage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techgage.com/wp-content/uploads/2020/06/Adobe-Premiere-Pro-Logo-600x315-cropped.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Adobe Premiere Pro May 2020 AMD vs NVIDIA GPU Encoding Performance",
           "attribution": null
         }
       ],
@@ -1203,97 +1269,6 @@
           "width": 1200,
           "height": 630,
           "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker.md",
-      "title": "Alibaba to invest $1B on AI integration with smart speaker",
-      "excerpt": "Chinese e-commerce giant will use the funds to bolster its artificial intelligence and Internet of Things ecosystem that supports Tmall Genie, including linking more content and services from Alibaba's wider ecosystem that spans entertainment,",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
-      "publishedDateTime": "2020-05-20T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/20/a4c65357-021e-45d8-bf8e-cd3831167937/thumbnail/1200x675/871569821e3baf939ac18c93fecddce5/tmall-logo.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Alibaba to invest $1B on AI integration with smart speaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-edge-ai-market-analysis-as-per-the-latest-covid-19-impact.md",
-      "title": "Edge AI Market Analysis as per the Latest COVID-19 Impact",
-      "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The global Edge AI market report provides geographic analysis covering regions,",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-analysis-as-per-the-latest-covid-19-impact-2020-05-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Edge AI Market Analysis as per the Latest COVID-19 Impact",
           "attribution": null
         }
       ],

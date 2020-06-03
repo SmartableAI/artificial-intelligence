@@ -426,6 +426,35 @@
       ]
     },
     {
+      "path": "_news/2020-05-26-ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr-by-2026-446-cagr-coronavirus-covid19-impact-analysis.md",
+      "title": "AI Chips Market 2020 Will Emerge Globally And Grow With High CAGR by 2026 | 44.6% CAGR | Coronavirus-COVID19 Impact Analysis",
+      "excerpt": "The Global AI Chips Market was valued at USD XX Bn in 2018 and is expected to reach USD XX Bn by 2026 growing at a CAGR of 44 6 by 2027 The ripple effect of Coronavirus COVID19 on the",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
+      "ampWebUrl": "https://www.openpr.com/amp/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2057966/ai-chips-market-2020-will-emerge-globally-and-grow-with-high-cagr",
+      "publishedDateTime": "2020-05-26T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-vizient-inc-partners-with-ibm-watson-health-to-help-support-healthcare-providers-performance-improvement-needs.md",
       "title": "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs",
       "excerpt": "Vizient announces an agreement with IBM Watson Health to integrate its analytics tools with Vizient's CDB and ODB healthcare bench marking tools.",
@@ -1027,50 +1056,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-an-ai-beat-humans-in-a-selfie-personality-test.md",
-      "title": "An AI beat humans in a selfie personality test",
-      "excerpt": "Another study has found that artificial intelligence is able to beat humans — this time it involves judging selfies to determine the subject’s personality traits. The machine was best",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/an-ai-beat-humans-in-a-selfie-personality-test-25621913/",
-      "ampWebUrl": "https://www.slashgear.com/an-ai-beat-humans-in-a-selfie-personality-test-25621913/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/an-ai-beat-humans-in-a-selfie-personality-test-25621913/amp/",
-      "publishedDateTime": "2020-05-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/robot_hand_main_uns.jpg",
-          "width": 1437,
-          "height": 800,
-          "title": "An AI beat humans in a selfie personality test",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -5,8 +5,8 @@ excerpt: "The Artificial Intelligence Chipsets Market is segmented on the lines 
 publishedDateTime: 2020-06-03T06:39:00Z
 webUrl: "https://www.marketwatch.com/press-release/coronavirus-impact-on-artificial-intelligence-chipsets-market-2020-06-03"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

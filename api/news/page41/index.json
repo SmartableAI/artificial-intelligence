@@ -2,6 +2,95 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-04-30-tesla-confirms-self-driving-as-a-subscription-service-but-brace-yourself-for-the-price.md",
+      "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
+      "excerpt": "Driving package (FSD) as a subscription service, but you should brace yourself for the price. We reported earlier this week that Tesla is working on a pay-as-you-go subscription for its self-driving package based on some code that leaked in Tesla’s in-app purchase system.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/",
+      "ampWebUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
+      "publishedDateTime": "2020-04-30T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 458,
+          "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers.md",
+      "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
+      "excerpt": "LinkedIn today launched a new AI feature that provides helpful feedback to members on their answers to job interview questions.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
+      "publishedDateTime": "2020-04-30T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-duolingos-ai-drives-its-english-proficiency-tests.md",
       "title": "Duolingo’s AI drives its English proficiency tests",
       "excerpt": "Duolingo tapped AI and machine learning to create a cheaper, faster English proficiency test that the company claims is on par with proctored exams.",
@@ -949,88 +1038,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-cars-could-go-completely-driverless-very-soon-says-ceo-of-chinese-autonomous-driving-tech-start-up.md",
-      "title": "Cars could go completely driverless 'very soon,' says CEO of Chinese autonomous driving tech start-up",
-      "excerpt": "Despite current regulations and safety concerns over self-driving cars, the time that cars could really go driverless is coming \"very soon,\" according to Jianxiong Xiao, CEO and founder of AutoX ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/30/cars-could-go-completely-driverless-very-soon-ceo-of-chinas-autox.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/30/cars-could-go-completely-driverless-very-soon-ceo-of-chinas-autox.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/30/cars-could-go-completely-driverless-very-soon-ceo-of-chinas-autox.html",
-      "publishedDateTime": "2020-04-29T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105865395-1556002110737gettyimages-1087813864.jpeg?v=1588220919",
-          "width": 4000,
-          "height": 2667,
-          "title": "Cars could go completely driverless 'very soon,' says CEO of Chinese autonomous driving tech start-up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
-      "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
-      "excerpt": "There are too many to list. They begin with basic tools like SageMaker for training models to respond to your data. These tools have attracted plenty of developers and that may be why the sales literature brags that “85 per cent of TensorFlow projects in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reseller.co.nz/article/678881/14-ways-aws-beats-microsoft-azure-google-cloud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/andy_jassy_aws.jpg",
-          "width": 800,
-          "height": 500,
-          "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -26,19 +26,6 @@ images:
     title: "CVS Health tests self-driving vehicle prescription delivery"
 
 related:
-  - title: "CVS to deliver prescriptions via self-driving cars"
-    excerpt: "CVS is testing prescription delivery using self-driving vehicles in a partnership with Nuro, a technology company based in Mountain View, Calif. Starting next month, customers in the Houston area can order prescriptions and essentials to be delivered to their homes via self-driving vehicles."
-    publishedDateTime: 2020-05-29T16:03:00Z
-    webUrl: "https://www.beckershospitalreview.com/pharmacy/cvs-to-deliver-prescriptions-via-self-driving-cars.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 24
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/pharmacy/1.jpg"
-        width: 400
-        height: 300
   - title: "CVS Pharmacy tests self-driving vehicle delivery for prescriptions"
     excerpt: "The company, which partnered with robotics company Nuro, joins other retailers who have recently updated their delivery options."
     publishedDateTime: 2020-06-01T16:43:00Z

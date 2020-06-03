@@ -2,6 +2,97 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-05-02-scientists-make-artificial-skin-for-robots-taking-us-one-step-closer-to-a-world-of-androids.md",
+      "title": "Scientists make artificial skin for robots, taking us one step closer to a world of androids",
+      "excerpt": "Scientists from around the world are developing robotic skin that helps machines gain the sense of touch. It's estimated that robots will displace 20 million human workers by 2030.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/02/scientists-make-artificial-skin-for-robotic-androids.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/02/scientists-make-artificial-skin-for-robotic-androids.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/02/scientists-make-artificial-skin-for-robotic-androids.html",
+      "publishedDateTime": "2020-05-02T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105897943-1557249763884gettyimages-1044123062.jpeg?v=1557249783",
+          "width": 4000,
+          "height": 2667,
+          "title": "Scientists make artificial skin for robots, taking us one step closer to a world of androids",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity.md",
+      "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
+      "excerpt": "Trusting AI to keep the banks safe can be a good or bad thing. It all depends on who wins -- villains or heroes. We'll discover",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity-2020-05-02",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-05-02-how-amazon-web-services-stacked-up-against-microsofts-azure.md",
       "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
       "excerpt": "Microsoft Corporation (NASDAQ: MSFT) reported strong fiscal third-quarter results and Amazon.com, Inc. (NASDAQ: AMZN) beat on the top-line in its first quarter, but the",
@@ -967,80 +1058,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup.md",
-      "title": "Former St. Louis Fed executive takes role at fast-growing fintech startup",
-      "excerpt": "\"Julie brings a wealth of banking and regulatory knowledge to our board of directors, and we are excited to welcome her to the Neocova team\"",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
-      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
-      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/former-st-louis-fed-executive-takes-role-at-fast-growing-fintech-startup/63-f90d1bb9-3ba2-44d7-962b-74495e0d690c",
-      "publishedDateTime": "2020-05-01T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSDK",
-        "domain": "ksdk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.ksdk.com/assets/KSDK/images/a1d1230c-9cbf-4633-b16d-796ce263ce58/a1d1230c-9cbf-4633-b16d-796ce263ce58_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": "Former St. Louis Fed executive takes role at fast-growing fintech startup",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-lane-mendelsohn-of-vantagepoint-ai-predicted-the-oil-collapse-months-in-advance-whats-next.md",
-      "title": "Lane Mendelsohn of Vantagepoint AI Predicted the Oil Collapse Months in Advance - What's Next?",
-      "excerpt": "Lane Mendelsohn, a leading expert in the FinTech Industry and President of Vantagepoint AI, started predicting the downward spiral of oil back",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lane-mendelsohn-of-vantagepoint-ai-predicted-the-oil-collapse-months-in-advance---whats/article_73a1302a-e835-514f-8c4a-17782f5da056.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/5a/e5ab8c04-49d7-56ba-a91b-42fa906186cf/5eac1729ccb15.image.jpg?resize=400%2C233",
-          "width": 400,
-          "height": 233,
-          "title": "Lane Mendelsohn of Vantagepoint AI Predicted the Oil Collapse Months in Advance - What's Next?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

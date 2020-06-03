@@ -2,6 +2,88 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-05-12-dr-ranveer-chandra-chief-scientist-of-microsoft-azure-global-joins-terrameras-science-technology-advisory-council.md",
+      "title": "Dr. Ranveer Chandra, Chief Scientist of Microsoft Azure Global, Joins Terramera’s Science & Technology Advisory Council",
+      "excerpt": "Terramera®, the global agtech leader transforming how food is grown and the economics of agriculture over the next decade, today announced that Dr. Ra",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200512005274/en/Dr.-Ranveer-Chandra-Chief-Scientist-Microsoft-Azure/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A==",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200512005274/en/791007/23/Ranveer.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Dr. Ranveer Chandra, Chief Scientist of Microsoft Azure Global, Joins Terramera’s Science & Technology Advisory Council",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-12-ibms-watson-aiops-a-killer-app-for-cios.md",
+      "title": "IBM’s Watson AIOps - A Killer App For CIOs",
+      "excerpt": "Watson AIOps could be one of the most powerful tools any CIO can deploy to help them adopt and adapt to hybrid cloud infrastructures and make their digital transformations more successful.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/05/12/ibms-watson-aiopsa-killer-app-for-cios/",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/05/12/ibms-watson-aiopsa-killer-app-for-cios/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/05/12/ibms-watson-aiopsa-killer-app-for-cios/amp/",
+      "publishedDateTime": "2020-05-12T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eba0b07ab221b00075732a8%2F0x0.jpg",
+          "width": 1200,
+          "height": 851,
+          "title": "IBM’s Watson AIOps - A Killer App For CIOs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital.md",
       "title": "AI Start-Up LexCheck Raises $3 Million Series Seed Investment Led by Kli Capital",
       "excerpt": "PRNewswire/ -- LexCheck, an artificial intelligence (AI) and legal technology platform based in New York City, has",
@@ -1184,95 +1266,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai.md",
-      "title": "Paradox Raises $40M Series B to Help Companies Embrace the Future of Work with Conversational AI",
-      "excerpt": "Press Release Paradox, the conversational AI platform helping HR and talent teams automate administrative tasks and deliver real-time candidate and employee communications, announced today $40M in Series B funding,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/paradox-raises-40m-series-b-to-help-companies-embrace-the-future-of-work-with-conversational-ai/amp/",
-      "publishedDateTime": "2020-05-11T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20200511005657/en/790786/4/paradox-hq.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 360,
-          "title": "Paradox Raises $40M Series B to Help Companies Embrace the Future of Work with Conversational AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips.md",
-      "title": "Qualcomm and MediaTek chase video and game fans with tweaked 5G chips",
-      "excerpt": "New chips from two top device chipmakers suggest that high frame rate videos and games will be major selling points for even budget 5G phones.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/qualcomm-and-mediatek-chase-video-and-game-fans-with-tweaked-5g-chips/amp/",
-      "publishedDateTime": "2020-05-11T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/snapdimen.jpg?fit=1440%2C720&strip=all",
-          "width": 1440,
-          "height": 720,
-          "title": "Qualcomm and MediaTek chase video and game fans with tweaked 5G chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

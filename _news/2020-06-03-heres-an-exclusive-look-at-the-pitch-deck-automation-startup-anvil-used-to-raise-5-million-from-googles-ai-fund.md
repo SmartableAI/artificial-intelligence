@@ -26,6 +26,6 @@ images:
     height: 600
     title: "Here's an exclusive look at the pitch deck automation startup Anvil used to raise $5 million from Google's AI fund"
 
-secured: "H8BgdbHCEmxZc45P50LuU1CfU0qpzca3mSaApTvGGvjgKDog5+mtHhw0t43xBl/T4n6ris2VutVWI0m1xIicTixocNb8zAQOmkB2tXboVgZb/26sAgwepYG6y4YmVzQHEkeBfJB15lldr19UBC5OgLsdo2P0U9N/qe4oZvWK9H9CoVmZcO+Qd+qh3mYX0UxwvHP48L/f/irBXu4f/3yxRnby3hM0ZEiCkVylRl3fB4wfC/JX1R2pRsM1+EouSx0BvOenfb1XJKgCCsoeuuewO3nEmjqkfHLAOwA+EVsXNEu9BBN6bd2TLAtDd/pTJ9tt;cHFoG/P5AB09Or7Gyv0XQQ=="
+secured: "QYkJjufH/Hp+GkWOz/3v66YFCUZxCG+LvxNOWphXXaFXvqPTwcAJAYEhbn0+0ynTgng5KOVtPj6CID8sk4ssTTcETJBjrofEJVAMJob4sVkOFqbN3UpD6jeAHT4R8wzCtKje3k+Qp1WchP5VA0dtaCRlDAuxDb/CP+SvdIwXgLTRgR8nb+xGgXW8VcNuAe5qoKQctbGReQdkzH+VWuuj6yPIKzyOZ/w36NFwHAU8ebPs4yzJKDObHv7lsiDdTF/6XaUWuM9CkjiNDsuVOFwI9xpMzWQGSKtI6lpJ4z+nPo86umlOJryTQkBjh8jfTx8oiXdKctE5r/HlUB8ihH2U6GD1v1AScepL4u8lOAPwrWuuZWDgnVPHWVjS1TJCUXctmSwuGo/2SvkCXqbXjXfvD0qJCTNRrgVmN5oRFcyxd4svE54ISiB7QP2PSOy1BvUh+LXdeOQTKZKICsQwKycpWasV9UxqkfD/cPNqwA1e66w=;CIqAKiFCvhM5B5LvmNP88A=="
 ---
 

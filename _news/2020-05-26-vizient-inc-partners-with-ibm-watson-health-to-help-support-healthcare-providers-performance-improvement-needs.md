@@ -20,6 +20,6 @@ images:
     height: 627
     title: "Vizient Inc. Partners with IBM Watson Health to Help Support Healthcare Providers’ Performance Improvement Needs"
 
-secured: "ZBzxtlxYJsiAl5Q9VFVzYP+fsD8y/b69lK6iN8AekFir9KPGZpByW0aZ2FsNOyz8j2FVVeMX54NPg0UROQupn12hOv17ETMQKN+5S/XfB2lEnPzT8uJtkwRdJCw3fhiOdrF8OMG8+n7qrUK/6GdRlDaUJiPOHHyT54dtR5DlMVoARc8bH1ulLfMgQJelwwUjGydQeAgdYq04CjUooQ4sB3QBH+SvKA/boTxHBrvQoxXDcRIdRACHe4bFHhL8NOVPbh75M4j+7fbEzk4wd4ebWHSQRkSNfQhx1yHZj4w46YM6GTpMBlnLuOfQB9MlMYo8;CQlqwzj5cbzuoE8PxRJmRA=="
+secured: "/6Nk2V5awOaZ9MdNVv0bY9pPtwFHsocjfegkIIpfuzfHOTNUtx3qsOt6aS8H70bWWz4ArmO/pcTS5gCYrXVXcP4wB7S9sJVAxd3kKy1CiiQooQSTvKyaAxCsCjEx02KNwxUIGhN7VWw+wJqvSop7OuYesbBr2z0GoC29SIs1wNaEir3zGnmEpRJaXjGr/8uj+wsYk7jxIvTP5an9UvRPnqjf+dMokSYmWW6eYpJfzQZMOoWuyzuFGp1TxISkR7R9/goBWm/rw/6ecSO8/5Cg5Khmy60WCn622cs03R/N/b4Ts/YByUxntJO58Snn/wwN/wGpyE/MSSApTlKOzhdhpXS82ZGJCfgu1QPvDg2+rqOFeDgWQQk9Q/bfK3u4Key2noQaux3IS2fMc1Cx0q3Mefsb3n5gcZcgxD8XVdjbVqLt/k9LFoyHTD+Jzh/i6XKd4FEQ81ZBkoTLyKpzpDkv4/+pWLH816SYnx800B2Cs90=;ZP0+/r5MNAprJ3oaRELjfQ=="
 ---
 

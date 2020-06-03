@@ -2,6 +2,98 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-05-14-this-ai-will-judge-you-for-eating-microwave-meals.md",
+      "title": "This AI will judge you for eating microwave meals",
+      "excerpt": "MIT CSAIL has created an AI system called Sapple that uses motion sensors and smart energy meters to work out how you're using microwaves and hair dryers",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/14/this-ai-will-judge-you-for-eating-microwave-meals/amp/",
+      "publishedDateTime": "2020-05-14T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-36-796x377.png",
+          "width": 796,
+          "height": 377,
+          "title": "This AI will judge you for eating microwave meals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-14-nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models.md",
+      "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
+      "excerpt": "Nvidia unveiled its latest data center chip architecture, “Ampere,” and a motherboard to power multi-chip servers for AI. The company sees ever-more-gigantic neural networks in coming years.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-ampere-plus-worlds-most-complex-motherboard-will-fuel-gigantic-ai-models/",
+      "publishedDateTime": "2020-05-14T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/14/1da79d85-66af-4eca-b991-3d2cf1492395/nvidia-2020-hgx-platform.jpg",
+          "width": 2000,
+          "height": 1600,
+          "title": "Nvidia’s ‘Ampere,’ plus world’s most complex motherboard, will fuel gigantic AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-adlingo-ads-builder-turns-an-ad-into-a-conversation.md",
       "title": "AdLingo Ads Builder turns an ad into a conversation",
       "excerpt": "My parents were small business owners in the U.S. Virgin Islands where I grew up. They taught me that, though advertising is important, personal relationships are the best way to get new customers and grow your business. When I started working at Google 14 years ago, online advertising was a one-way",
@@ -1192,79 +1284,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-sparkcognition-and-milize-to-offer-automated-machine-learning-solutions-for-financial-institutions-to-the-apac-region.md",
-      "title": "SparkCognition and Milize to Offer Automated Machine Learning Solutions for Financial Institutions to the APAC Region",
-      "excerpt": "Based on SparkCognition's international success in fielding machine learning systems in financial services, MILIZE will offer a fraud detection and anti-money laundering solution, built with ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16030440/sparkcognition-and-milize-to-offer-automated-machine-learning-solutions-for-financial-institutions",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16030440",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16030440",
-      "publishedDateTime": "2020-05-14T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-kustomer-acquires-replyai-to-enhance-chatbots-on-its-crm-platform.md",
-      "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
-      "excerpt": "Today, Kustomer is announcing some M&A that will help in that strategy: it is acquiring Reply.ai, a startup originally founded in Madrid that has built a code-free platform for companies to create ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/kustomer-acquires-reply-ai-to-enhance-chatbots-on-its-crm-platform/amp/",
-      "publishedDateTime": "2020-05-14T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/08/chat-bots.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Kustomer acquires Reply.ai to enhance chatbots on its CRM platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
