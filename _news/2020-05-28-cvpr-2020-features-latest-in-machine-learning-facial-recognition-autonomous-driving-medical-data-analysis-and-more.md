@@ -20,6 +20,6 @@ images:
     height: 314
     title: "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More"
 
-secured: "ESfsFEeMUxuabU5ldcU2HdLbALJoSZWeAQyJEPJPkZiHMxaF3YIgoFXwA47xinLoZLF18ZIDvhe1K6oYa+A3WtwiZ4rMcDIHtCLdcew7qn6Elri2LXtOkCSI5oKBf+dp76vc91V4bknxJM9xkBwrjDzVnJgcxkyKrZtfMcaNVlOOR/ou5N3fzaTvbllb+DdDUjT/FeZiPAeef7pqASAgkouXc7RApMioitAyEwCqnD5mDIyUaoHBmtdqBh6BDEcUMcGWV205/ZkbUV0R9CSli0NycusC/j/y+28a8GQbvMkBvRc5r0SB6KIuO8CeMYOc;bNwd5WCD8vko7SvrAyk5wA=="
+secured: "zhVEhkwwNo3KsUz8zvBZyhMhUou9z+z21KQTfmxH0sVgIU+/56Lw1UuCJZwIWNfWLDFDWZ0zcgVOZSnwMUOnS5l1sdi6kbew/zckSQbiineEZ5b5nISXgalwRaSRdvxTn8UEWLjl20LCHf4Vk/trZCPXRNqa+PA6So/kKgnsaG4R91EVQPO2qrjJ4LO0VETPXVsZMX9FSDf3X1oVlBhrcSwhsxPadnnzFqRIj4ivbUJ27cHibcYElKpcbnW31H+X/CBiJ+OSL1HJLkupSiD5rKqrVB0YrTOOa8kq5CpV7kXoWgI76CLCCXoaNUrG9onn;g/LeOrQwYv01buQ4nEtb3A=="
 ---
 

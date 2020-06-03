@@ -2,6 +2,51 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-24-ai-is-the-uncertainty-cure-enterprises-want-in-2020.md",
+      "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
+      "excerpt": "Supervised machine learning algorithms is the most popular machine learning technique in enterprises today. 73% of enterprises with advanced expertise in AI are making extensive use of supervised machine learning techniques to interpret,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/amp/",
+      "publishedDateTime": "2020-05-24T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca991785e6c7000617bd7a%2F0x0.jpg",
+          "width": 1193,
+          "height": 872,
+          "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-05-24-nvidia-ceo-jensen-huang-on-the-metaverse-permanent-wfh-and-accelerating-raises.md",
       "title": "Nvidia CEO Jensen Huang on the Metaverse, permanent WFH, and accelerating raises",
       "excerpt": "Nvidia posted big earnings gains and unveiled its A100 artificial intelligence chip in the past two weeks. We talked with CEO Jensen Huang about that.",
@@ -1071,51 +1116,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future.md",
-      "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-      "excerpt": "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
-      "ampWebUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
-      "publishedDateTime": "2020-05-22T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_m6h8.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

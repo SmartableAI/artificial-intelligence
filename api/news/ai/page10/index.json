@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-21-samsung-takes-another-step-in-us116-billion-plan-to-take-on-chip-maker-tsmc.md",
+      "title": "Samsung takes another step in US$116 billion plan to take on chip maker TSMC",
+      "excerpt": "South Korea’s largest company has started construction on a new fabrication plant that is dedicated to its made-to-order chip foundry business, an arena that Taiwan Semiconductor Manufacturing Co dominates.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
+      "publishedDateTime": "2020-05-21T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/21/686ef5e6-9b42-11ea-96ff-7aff439fc3be_image_hires_172643.jpeg?itok=_vSkaSW2&v=1590053214",
+          "width": 1200,
+          "height": 630,
+          "title": "Samsung takes another step in US$116 billion plan to take on chip maker TSMC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-meeting-the-challenges-of-today-and-tomorrow-with-azure-ai.md",
       "title": "Meeting the challenges of today and tomorrow with Azure AI",
       "excerpt": "It’s inspiring to see how customers continue to reimagine how they work with the help of AI, which is more important today than ever. Our customers are finding innovative ways to deliver crisis management solutions, drive cost-savings, redefine customer engagement, and accelerate decision-making.\r\n\r\nHere",
@@ -1198,51 +1243,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie.md",
-      "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
-      "excerpt": "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
-      "publishedDateTime": "2020-05-20T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/20/9e85075f-4425-4576-995a-976a4acc1b40/guthriewhereareyou.jpg",
-          "width": 1071,
-          "height": 728,
-          "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

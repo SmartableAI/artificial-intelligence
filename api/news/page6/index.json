@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-28-ai-weiwei-has-turned-his-most-iconic-artworks-into-charity-face-masks.md",
+      "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
+      "excerpt": "The dissident artist is hoping to raise at least $1 million for vulnerable and displaced people impacted by the Covid-19 pandemic.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-charity-masks/index.html",
+      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
+      "publishedDateTime": "2020-05-28T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200528145627-02-ai-weiwei-mask-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-apple-buys-an-ai-startup-to-improve-siris-data.md",
       "title": "Apple buys an AI startup to improve Siri's data",
       "excerpt": "Cleaner data would go a long way toward that goal by reducing the chances that garbage information confuses Siri. Apple has been determined to upgrade Siri in recent times, and made waves when it hired Google’s former AI leader John Giannandrea with that upgrade in mind.",
@@ -889,13 +933,13 @@
       "path": "_news/2020-05-27-ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers.md",
       "title": "IBM publishes wide-ranging free data sets to assist AI developers",
       "excerpt": "Among the recent additions are three Watson Studio projects. IBM Watson Studio is an enterprise-focused AI developer tool which helps data scientists and researchers to build models and prepare ...",
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
-      "ampWebUrl": "https://www.techradar.com/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
-      "publishedDateTime": "2020-05-27T06:30:00-07:00",
+      "webUrl": "https://www.techradar.com/nz/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ibm-publishes-wide-ranging-free-data-sets-to-assist-ai-developers",
+      "publishedDateTime": "2020-05-27T06:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -1009,51 +1053,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-gamemakers-inject-ai-to-develop-more-lifelike-characters.md",
-      "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
-      "excerpt": "And in a neat twist, the researchers are harnessing an AI technique that proved itself by playing some of the earliest console videogames. A team from EA and the University of British Columbia in Vancouver is using a technique called reinforcement learning,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/",
-      "ampWebUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/amp",
-      "publishedDateTime": "2020-05-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec806238971d7886fd3602d/master/pass/Biz-pacman-157739391.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

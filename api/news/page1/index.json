@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-02-bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft.md",
+      "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
+      "excerpt": "The BBC has launched an early beta version of its previously announced Beeb voice assistant in partnership with Microsoft.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/amp/",
+      "publishedDateTime": "2020-06-02T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/feat.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever.md",
       "title": "Pandemic is showing us we need safe and ethical AI more than ever",
       "excerpt": "It’s the perfect time to invest in new practices for accountability and oversight.",
@@ -399,7 +444,7 @@
       "path": "_news/2020-06-02-locus-robotics-raises-40-million-to-take-its-warehouse-robots-global.md",
       "title": "Locus Robotics raises $40 million to take its warehouse robots global",
       "excerpt": "Locus Robotics, a developer and provider of autonomous mobile warehouse robots, has raised $40 million in venture capital.",
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/06/02/locus-robotics-raises-40-million-to-take-its-warehouse-robots-global/",
@@ -1034,51 +1079,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-sensetimes-ai-makes-sure-you-park-your-shared-bike-properly.md",
-      "title": "SenseTime’s AI makes sure you park your shared bike properly",
-      "excerpt": "SenseTime’s new AI surveillance system is part of the Chinese government’s push to promote smart city projects",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
-      "publishedDateTime": "2020-06-01T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/01/5fc6bf5b-787e-48f8-852f-921fd82869b1.jpeg?itok=OSgMQyHn",
-          "width": 1200,
-          "height": 630,
-          "title": "SenseTime’s AI makes sure you park your shared bike properly",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

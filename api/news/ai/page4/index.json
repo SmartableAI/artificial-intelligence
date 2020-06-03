@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-29-who-will-own-the-cars-that-drive-themselves.md",
+      "title": "Who Will Own the Cars That Drive Themselves?",
+      "excerpt": "Fleets of vehicles roaming streets waiting to be hailed are more efficient. But the coronavirus has made people think twice about the future of car ownership even when autonomous tech arrives.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/29/business/ownership-autonomous-cars-coronavirus.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/29/business/ownership-autonomous-cars-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/29/business/ownership-autonomous-cars-coronavirus.amp.html",
+      "publishedDateTime": "2020-05-29T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/29/business/28bizsky1-print/29wheels-3-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Who Will Own the Cars That Drive Themselves?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-hello-and-welcome-robot-waiters-to-the-rescue-amid-virus.md",
       "title": "Hello and welcome: Robot waiters to the rescue amid virus",
       "excerpt": "You can always count on a robot for perfect timing. When Shaosong Hu saw robotic waiters serving food in China last fall, he knew exactly what he wanted for his",
@@ -1223,51 +1268,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-artificial-intelligence-in-healthcare-market-by-technology-advancement-and-demand-2020-2026.md",
-      "title": "Artificial Intelligence In Healthcare Market by Technology Advancement and Demand 2020-2026",
-      "excerpt": "Global Artificial Intelligence In Healthcare Market Size, Status And Forecast 2020-2026: The report discusses many vital industry facets that influence the \"Global Artificial Intelligence In Healthcare Market\" industry acutely which includes extensive study of competitive edge,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-by-technology-advancement-and-demand-2020-2026-2020-05-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence In Healthcare Market by Technology Advancement and Demand 2020-2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

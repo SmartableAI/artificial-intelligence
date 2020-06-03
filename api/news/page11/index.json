@@ -2,6 +2,42 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-21-veterans-affairs-launches-first-chatbot-to-field-covid-19-questions.md",
+      "title": "Veterans Affairs Launches First Chatbot to Field COVID-19 Questions",
+      "excerpt": "VA contact centers have seen a significant increase in calls from veterans since the start of the COVID-19 pandemic. This surge in calls drove the rapid development of VA’s first chatbot,” officials wrote in a blog post.",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/05/veterans-affairs-launches-first-chatbot-field-covid-19-questions/165579/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/upload/2020/05/21/NGchatbot20200521/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Veterans Affairs Launches First Chatbot to Field COVID-19 Questions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-gain-customer-insights-using-amazon-aurora-machine-learning.md",
       "title": "Gain customer insights using Amazon Aurora machine learning",
       "excerpt": "In recent years, AWS customers have been running machine learning (ML) on an increasing variety of datasets and data sources. Because a large percentage of organizational data is stored in relational databases such as Amazon Aurora, there’s a common need to make this relational data available for training",
@@ -1009,43 +1045,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-sogou-introduces-worlds-first-3d-ai-news-anchor.md",
-      "title": "Sogou Introduces World's First 3D AI News Anchor",
-      "excerpt": "The debut of the 3D AI News Anchor marks a milestone for the Sogou Vocational Avatar technology. Sogou achieved this breakthrough by bringing together 3D and AI, which enables the avatar to be more flexible and adaptive to different settings,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/sogou-introduces-world-s-first-3d-ai-news-anchor-8892811",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Sogou Introduces World's First 3D AI News Anchor",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

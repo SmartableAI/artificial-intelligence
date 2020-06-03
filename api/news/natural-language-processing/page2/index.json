@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-17-10-ways-ai-can-improve-voice-of-the-customer-programs.md",
+      "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
+      "excerpt": "Gaining insight and intelligence to energize existing customer relationships calls for greater use of AI in VoC programs.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/amp/",
+      "publishedDateTime": "2020-05-17T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec1682ea4ff430007767803%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
       "title": "Edward Saatchi on virtual beings: AI is the next great art form",
       "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
@@ -1241,35 +1286,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-tribepad-adds-live-video-interviewing-and-smart-language-translations-to-its-video-platform-to-help-recruiters-during-covid-19-lockdown.md",
-      "title": "Tribepad adds live video interviewing and smart language translations to its video platform to help recruiters during COVID-19 lockdown",
-      "excerpt": "Leading recruitment software provider, Tribepad, has today announced the launch of two new features to its award-winning video interviewing platform: live interviews and smart translations. The new additions come at a crucial time as organisations seek new ways to continue recruitment during the COVID-19 pandemic.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.personneltoday.com/pr/2020/05/tribepad-adds-live-video-interviewing-and-smart-language-translations-to-its-video-platform-to-help-recruiters-during-covid-19-lockdown/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Personnel Today",
-        "domain": "personneltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

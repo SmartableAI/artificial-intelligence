@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-02-sensetimes-ai-makes-sure-you-park-your-shared-bike-properly.md",
+      "title": "SenseTime’s AI makes sure you park your shared bike properly",
+      "excerpt": "SenseTime’s new AI surveillance system is part of the Chinese government’s push to promote smart city projects",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
+      "publishedDateTime": "2020-06-01T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/01/5fc6bf5b-787e-48f8-852f-921fd82869b1.jpeg?itok=OSgMQyHn",
+          "width": 1200,
+          "height": 630,
+          "title": "SenseTime’s AI makes sure you park your shared bike properly",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-using-artificial-intelligence-this-start-up-is-helping-enterprises-connect-better.md",
       "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
       "excerpt": "Bengaluru-based Yellow Messenger offers an always-on, intelligent conversational automation on text and voice across multiple channels such as WhatsApp, Google Assistant and Alexa.",
@@ -1073,43 +1118,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-a-closer-look-at-deepmind-the-google-ai-thats-mastering-starcraft-2.md",
-      "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
-      "excerpt": "Back in 2016 the celebrated computer lab watched one of its AI programs do the unthinkable and win a game of Go against then world champion – and human being – Lee Sedol. Mastering the ancient Chinese board game was just one example of the machine learning DeepMind is hoping it can ultimately use to revolutionise sectors like science,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google",
-      "ampWebUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google?amp",
-      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/deepmind-google?amp",
-      "publishedDateTime": "2020-05-31T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2019/01/starcraft-2-deepmind-commentators-900x506.jpg",
-          "width": 900,
-          "height": 506,
-          "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
