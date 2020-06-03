@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/06/02/vw-closes-2point6-billion-investment-in
 ampWebUrl: "https://www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html"
 type: article
-quality: 88
-heat: 148
+quality: 86
+heat: 146
 published: true
 
 provider:
@@ -20,7 +20,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -109,6 +108,6 @@ related:
         width: 1200
         height: 630
 
-secured: "mZGFzFvRerpbiMmC4Xr0Jx8OfjTdfQcqpj+DsJmieIGxI1IdfjBnAu+JnVM0AtqUq9pUHZeS6+dlfD1y/92aajGPn5B5y3JiacF8DYvN85RcZ0oipgthT0fDNKFqXPbIT8lTXjC7DLl/+CTUltGBK0lxlyG3pNNYoLYKQV4ZQFJ2sbMPggKtNSukaDrZMWSUnl+nDqiwG20CVBE7KenW725+t2zGiecMug8u0N0/OtcG6DLrbzfnbj7LYvbue/LmfXT4fHiIpCOBLyUurBPDlKBZuxmLlG18uWHyz7adSYglBCc2+Gk42vqJAVhXicpY;P5E2h3DRA/lkdZgbGf3FaQ=="
+secured: "qCqSmRM8kxg5jnZYkC13Zh5cMBt/vWP0Lxyf/e8jDnBBPumKTJS3ZCEzeyPSiyGOLAnKtgmVui39zBs7LnZG0FeeR4pmVxDLhTOm5bcvv+mNovXbvcK/FHBClQVpXleiIjQC/WOWZ+XQXOT/7OvYPLQUACkKwVcEvn080wRby3nwJIV66J7/NT4js1lP9TB+qtNJgJs2Tmd/p/L3tRQe3mMe23pJMUaN4U8gaMBn1CUe6pUZdELhGRwJpdOo59s+Rmwc2logPnOhJOar6ltNBS1WM88ReVRZElFAtORoetClRXego2tRKaofLYgFQf/2;hWryut372Js+uJgp40nTMg=="
 ---
 

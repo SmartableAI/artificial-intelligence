@@ -2,14 +2,14 @@
 category: news
 title: "Waymo to bring self-driving minivans back to Bay Area for delivering packages"
 excerpt: "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations."
-publishedDateTime: 2020-06-03T02:07:00Z
-webUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?itm_source=10&itm_content=2x2&itm_term=2376504"
+publishedDateTime: 2020-06-03T03:31:00Z
+webUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?itm_source=12&itm_content=1x7&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp"
 type: article
-quality: 66
-heat: -1
-published: false
+quality: 86
+heat: 116
+published: true
 
 provider:
   name: Digital Trends
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/waymo-one-ride-sharing-3-1200x630-c-ar1.91.jpg"
+    width: 720
+    height: 376
+    title: "Waymo to bring self-driving minivans back to Bay Area for delivering packages"
 
 related:
   - title: "Waymo to bring self-driving minivans back to Bay Area, but not for passengers"
@@ -58,6 +64,6 @@ related:
       domain: digitaltrends.com
     quality: 66
 
-secured: "fDFv5jEsRPzxmx9g4zqSg2ucBm9lA9ApZv6H0XMs7XCMiC0lKeh/NLXz1qJP8yaVx6fKHRmbQ2isgUmQdAOotVW+bfVmxV9gbK5C8AfWNvR6pefMulp/X12hR6yw1EEaGBGYnysYPrdZxmQiSPP6Ex6R82Cq/0Tlc3abpK0k3YDRvGDjtUgOprE7rj1creguQTYkKlrPEX0j7tdZgK17ffUN664BY8KP6GV6eMuFPgbzi8s72wsQWxw96rItXNl+D0+KIuDT6pLH2CNk9uicIhbf1bdBzSivXLEPrhatyNKLEl+MdbzBpmxxqo3jvcjk;nCu6MA6B5tsmCAsR/oPvnw=="
+secured: "eAy//8sGIdtwVlqOeBQGunnbRsaGn3ijjVK50EpfjcpGYNmPtb67SJl5x9oim/AnkMYdLgdvFk5UYb60XPd6zegZxb3DwKiskJPEBj3sItak7mv0Aa8EgalpMoaFtw27ihCEQR8ZIwYrb08lQP0m2rBdvg8k6MjyRxMGZUuHMv8nkleeq5zrKY3FvsSyGNdM+geOxn7cK+bDoDcWYr3iGEshSYxQuTjO2uz2ZM0q61Od3PINQbMwHNNjVGnWgLR2Wl+Dv5BbpDnxmkOonelVfTxthYitKgX7HkCIeHkrDQDVwtMPHDHzo9z3ez+LxKLA;lHlYZhGN3ghJjUs0fe0T8g=="
 ---
 

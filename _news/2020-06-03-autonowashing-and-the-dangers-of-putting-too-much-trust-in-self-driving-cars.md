@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-03T14:35:00Z
 webUrl: "https://thenextweb.com/shift/2020/06/03/autonowashing-dangers-too-much-trust-self-driving-cars-tesla-gm-mercedes/"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -27,6 +27,21 @@ images:
     height: 448
     title: "Autonowashing and the dangers of putting too much trust in ‘self-driving’ cars"
 
-secured: "QQ5vsjocGYNTYmoZtu7XH68euuMOlBznMGEnTKoX92W9G49kB+qC43qbumbzxOViO8BUoTCeCbahuZH1hnqJbNEeTQNN2A8W6nFaSu1VB66PSMKYssjzqxbhljyUoFYwPs77Qrto4sl52rCGDSikreAEtHuCMtJcfDHzUOBDvyXi7MDPV7cGouS/ApkyMf+84wndZNXuLK8dY3LUzenP48c7k+bcT54D/nE4rYyA9W4hCvvl2vtCqg3wvA04U2hYASTl1W2xT3/byfzNCgSQ7j7/V6uhaPBVlanxiADtx27oD8X6WGDTDa1eo/kg0n6I;NT9q/DC4aPoq1yy6yjih6Q=="
+related:
+  - title: "Innovation and connection drive these 'Canes toward a self-driving service in Miami."
+    excerpt: "Three 'Canes working together at Ford Autonomous Vehicles LLC are focused on building a self-driving business which will launch as a commercial service in Miami in 2022. The business will include a fleet of fully autonomous service vehicles increasing mobility of both passengers and products."
+    publishedDateTime: 2020-06-03T17:05:00Z
+    webUrl: "https://news.miami.edu/alumni/stories/2020/05/alumni-lead-the-way-for-ford-autonomous-vehicle-program.html"
+    type: article
+    provider:
+      name: Miami
+      domain: miami.edu
+    quality: 17
+    images:
+      - url: "https://news.miami.edu/alumni/_assets/images/images-stories/2020/05/ford-alumni-940x529.jpg"
+        width: 940
+        height: 529
+
+secured: "z50yykNeNZsFzpj27zMxTPTB0FeXqWzci8jan5dj5hBO2kNO6W1tOMTmysfsouFd6t4zlZ5b/l2iqXxSUn6kDVVKHtPCMAI9b0EYnY9Czqwoc2UNDKy03whRyI98tdsN4axYHWEIHW01AqqXIHzZNNZQFwTPQmE+mM+2/w9Jm54OxQSG+GZavRRxjI4IsrUXPqqptlj/pLMYzdq9jAmYzgLn70DkMmwrxM1J9knoZEyiMacUfygT1alsJl1QECndIdMLZg8RGc92q/6vBM1z+wavnWyvre8Y+2b4HEdnwG6L7tXxvvlsba9h0ssf7YhFufJ/jqhvrpUyEg1pKWqIzzEnv/xCL5Yik5DCQ3NyfLIASkfT+Jymk8bFeFUA6Fxa35jhqb03fP0FQBe0Tm3jOy4L5aO53adfBhHadnqWuWBKzNnJG8HyAL7ihngxSQF7YRtyzeEOz29XGJ6/NelwpSc5m1y+1zRTwRbYLvulamg=;3FzUAAAeBK3N0U9ApJXVKg=="
 ---
 

@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Anvil leverages AI to expedite paperwork processing"
 
-secured: "joWmt4JRlLnvM4EfvotnjirPkl8V3H+uUwuJRhsX+YN3C98/c48AnvRKdRq/idGR3PLeaLcXvRmiO5bixP1TsiIjfILBba+zc942goKrONaaMf47TBEUsgNBtWBQVQRkTRt2nv/MP5Y57DTYfnAcOiDV0+k9blru5MpCUBH10Mm/UH5gjdSDj6XEP91F5hDLzHk7YXaM9MkNGZNZ+RYue+XiF0ihb96/DmHLyrgKqaw/2j/1NXTdtG70Zv+0Y84QkoAS8ilA6TbMKBoXERZpPP/U4Vc2PstYrI4GV3RJz+pq2KOLof2Fh/WfOKlOhK/9;58KLKBWcVEpx8ckI5mx9Cg=="
+secured: "sJ10bsUstU1knn8kkrLAAkKLVhpfv7Qm/e5ohrMOlj4dyGrJ//eK9NQTAV7AC3iANz9tvaT2hnQs+uQyBlPQxrJfW5aK/qvYuBSisVmLa7B6VRRYvrBKIm5Azujk4T18OulBuX4jH+XZftm6J04xCUbYlUkUFjfuNY6hJYBEeY4A+gPknRzYuaBhB9Q1Rvo/io+NdwWglT71yXa62eiCxeNfsa3XGjmUDVF/5uuN0CSNqmz4z9suieK8kevoOmg1NJTSO+cGXVsExi+GY3WaSEdHODxnDzIwSqB/h4e4fW26COBNb5t8WEQKo5ovjObGCh9QE5BMb6HFNyPIKyay/tPO61wJ+92xrUzKDbjDIbi7EFtH0yTQAKmpy5zVc06ny/AjOPbEFtwsmWcCQR9aL58mtH/Jz8/e2B6isGZAVyUuHiQU6orbFPFft8nITOIxKQPJqzqrBfIT5SnhMcRYWV8ZEmN8XPWrq/noEndg1jk=;MP3u1GQ1OdifO5uTwicIwA=="
 ---
 

@@ -20,6 +20,6 @@ images:
     height: 627
     title: "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”"
 
-secured: "J8yPZvGDfgOqhxwB430uHh4mCyfo2fjFLAGBzhFEMsuvQqxBe9KXeY4PxPhbxFMVlXNxHxMHYPaCb+5SL90qGcr+/Wj13H9VNcOEIGEYgM5o9oH0jR3ZJ+87NEYeJLV/CE9gvsuefydCteC/E9vXAlDEjyp4r4DuCZaOBd/EoFQv50UHIG7zir1SOcmxY0RzbkLx51c0hVizpyJP/xDh9nsOQq36fq7c7jEWBFLTfCfX5ZuxBfm/tuHGyA+jDNvnMf3+ICYEWM02rR8Ahb3m+9fx/c767Pw12RCdneSk31hT7yvz2ro0KL6kbx1Wefko;vDH4S+2u5UckESXgJPbPvQ=="
+secured: "D2Wge+2Pm726JumgiTi644s+GJ0R1wbNaoqkaaZPn/jL7msdK2MYwdylqc8IUSnMWQKRwTY+7D7Vn91VKtL5oihP+T4eEt1eAhJr3AHNk9isHIiegFF7GIvRBk+j58d1aFmc+pke9Ox1I3K88CbW/I7upyHXOb2X/S4/ValjcamDLrqSii+Nq9xso5rnKrskKXwW2CflMaQ7c55XO8cNDbXNyLzu9ppnwA9TGeQeowVRCp07or7/zmd4NPJsMEfogWDoKwgk/kTU7o7SLxoFD5qIjr7qQIJaDANpr8S8IJdeWQnIF2U1G9RHZtNiS8zDsosn2/DLeZpTd82BytH3RAqhaAvAqiO9D0UH5KSdMJfuoFZiwTfaqnQ8G0USvrgkm5t1dEU+fD/5x0LUHC/hKY73fyWKGNwns9zqJLM7f4WOlomvF4dEVX1CQiRl0ep68nJF1GhW6+Zq1fNpECeIenn9O3XafAPv/CqtliY9ZPI=;yiL6UsiXhVZdqbUPP/jHdg=="
 ---
 

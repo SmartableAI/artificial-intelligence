@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Should you be worried about cameras in robot vacuums?"
-excerpt: "Robot vacuums can now map your rooms, and some even have cameras. Is this a privacy problem? We break down what to look for and the safeguards robot vacs take."
+excerpt: "Now we’re dealing with robot vacuum companies entering new territory. Thankfully, some companies do have safeguards in place. “All images that are captured for object recognition are processed on board the robot vacuum immediately, and are not sent out through the cloud to any servers,” said Richard Chang, CEO and Founder of Roborock."
 publishedDateTime: 2020-06-02T13:15:00Z
-webUrl: "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/"
+webUrl: "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?itm_source=26&itm_content=2x2&itm_term=2356592"
 ampWebUrl: "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp"
 type: article
@@ -23,6 +23,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "ca8A2rWDQPopQjmE7LtTmuz5YbT+MDmpDi/hWfj/UQNgEbp/XfM2fwlrOrejqBiZ22tKaNrGRIc8qjqEMn5r8sPdFxoVtSue+tcTQ+MYgveNlTwgZDjUG1YvyLpvfDrrNO6AzJRPqFiTH4BGMLmm4W/9KYbKsVXEPsLigcarUN7G5SToXfxyMe9/JgJvX2atFAPG+NB0k8EqmISIZUbc9jHXGQS2eCbGDF4+hMjis4V16Q3PEKxYK4zzNW+M7d45YuuZ60rkMUbX2FMp87qyNWG/kun1dZ5e3+an/eCJ6LukHCYNJSPyBsGl6NmwlgVWsEiJS3A+fJWpf01yUAY6TQZIy6vjA7Jtswx4fqlSf7F+XmcKa+HopbJYZnzYdWfveeYfdAlu4aPhhisaveJlKFy6ORv8n5E47gFfOon7Q3rJWvrB8dgUvrZDG3B7uL0JT/XuJORoT40sDMPP7zdbTlHFNbH0ZDwg3kIZEXj4wfs=;8J1D/1wSmNaSiUa2LsEaOA=="
+secured: "Zu2IqjtM7id/DsEYldh8ipQA8gei+T5Lpet4Xh9P2UFFSUlKW2uVTIMnHZQoq7lCfEwf94AqCN4HjvIrR+slXs4u8PQh4QO+GBd1CS4kbrn09h/37vamFUZGZyRpT2vHv9nTH0H4iwmfSpRuF5ltL5KzMni6IBNWHIPcOvFSW4YhW6GmC69xon+WnLVQxCCyzx3W7NDMJ809nq4I6nMEjcBX/LYRZqRV06HCBRHxacPdOOLxyIyIq3QyNzPYedbV8w4Jha4Vs91MfiM/w6N1tYX1sJjOn1+Uj8f7yPSiIJplWxVvwSFRu59M+T6frnN0KjV/FPodNxw48/B3Lgdgbio83pOrs/kjTlk2vNmJn+nbkxnOYwW0mwB+O0VybSYv9Y5r/b+NUjoEUM/HbDY4C51v2I9gvl6CJaJ+VZsQvb8eqR6W2cmPsEOGqWLScHs2j+ZbGq0Em36ZsVOnqh6xgbrIEe9OVDseGCbUX8Bqzfk=;Z+CFMITojgux0apROG6X5g=="
 ---
 

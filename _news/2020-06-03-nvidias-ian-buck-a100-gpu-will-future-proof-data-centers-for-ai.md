@@ -23,6 +23,6 @@ images:
     height: 457
     title: "Nvidia's Ian Buck: A100 GPU Will 'Future-Proof' Data Centers For AI"
 
-secured: "EZddFli11RrHy1WDzaG/JdEKxUo3iWkSnudxKqR2uC0rMkYO20mwOlpTUui7olqh+GezmYxeFgrUATWsFrnyB5QM46BrZSvqEmXnHtodiY+5kZnzGVliNYbW+UQ9zCt+CPKHb/CvcG8rIEv+XOed0xAt9e1ZQ/P7u83gGNuFntp5DwbXP2yiHXWKNONkrw6sXXcSbiLzOGQtvw9cc7g5cfffUh7M/gcfzVmWc95GYD5K6xqzChbrLVmckPKKaCBI4bGhqNjc+HK/Awc85ks9UnYjr5OX03WgPjd826h83N01Fh3iYoApAFa6LUs2TtOK;vg0JZIqnUpoQM4fDN2M96w=="
+secured: "4bbe5RI7E/lwtlykk4R348kb/MeETmv3zcOiNW9Zt/nsl4MqjMQt08Gx3a5ea7iiCQPWRYzPJNvQHPa5d/T348Uo+BE1sCE2/KyJGMxIn5QLx6RRZ4iUShjrmBTYVnfBwCU9iqTHkzN3FMoqEydD8v+vusPSPUYUiVbK14aHZ33bZze45oidPne2Ck0d8UrjSvenLIcQmd27MkQ5EwQx+tMGSOn1plcL5em/B5EL6wYP5hgJ0/9psSk/5TR3QDnPogYc85wu8x+EtuPiCF6cWcF2RfQP2nBgXrugYBRJifVb2FMRhz70XyBNobJXJgQ9OgmN0g2e718fmHPko3bpOrylhxrUee7Cnrci8MatdtYc4y5YciZl+KxvpKheeavjnGJe4pNj0pp73ChMK2sxFhN5jNbXcldy27vZfjZV6+NKmz6HHSnegUzsqP/jwwNq4VAFLNt09j73a+O1XdjA3Rl3XYQg0k32coyZT8PVMKo=;kt0DahXcPm+RZbjwdo2jSg=="
 ---
 
