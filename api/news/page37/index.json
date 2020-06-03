@@ -2,6 +2,168 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-05-04-covid-19-how-universities-made-the-pivot-to-e-learning.md",
+      "title": "COVID-19: How universities made the pivot to e-learning",
+      "excerpt": "One Rhode Island university has transitioned nearly seamlessly into remote learning. Here's how they did it safely and effectively.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
+      "publishedDateTime": "2020-05-04T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/04/3b314e67-8a80-43eb-9c3b-044b9e74526e/thumbnail/1200x675/44abc715eefb0ea033f4e25b30ac2d56/20200428-salveuni-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "COVID-19: How universities made the pivot to e-learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-plotmachines-ai-system-writes-long-form-stories-from-outlines.md",
+      "title": "PlotMachines AI system writes long-form stories from outlines",
+      "excerpt": "In a preprint paper, a team of researchers propose PlotMachines, an AI system that generates coherent long-form stories and articles.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/04/plotmachines-ai-long-form-stories/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/04/plotmachines-ai-long-form-stories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/plotmachines-ai-long-form-stories/amp/",
+      "publishedDateTime": "2020-05-04T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/shutterstock_275161592.jpg?fit=1000%2C626&strip=all",
+          "width": 1000,
+          "height": 626,
+          "title": "PlotMachines AI system writes long-form stories from outlines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-look-out-alibaba-jdcom-is-expanding-its-cloud-and-ai-presence.md",
+      "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
+      "excerpt": "JD.com , China's largest direct retailer and second-largest e-commerce company, recently partnered with Cloudflare to strengthen its cloud and AI business. Cloudflare, which secur",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
+      "publishedDateTime": "2020-05-04T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570933%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-intel-buys-moovit-transit-app-for-900-mln-to-help-develop-robotaxis.md",
+      "title": "Intel buys Moovit transit app for $900 mln to help develop robotaxis",
+      "excerpt": "Chipmaker Intel Corp INTC.O has bought Israeli public transit app maker Moovit for about $900 million to help it develop self-d",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0",
+      "ampWebUrl": "https://www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-buys-moovit-transit-app-for-%24900-mln-to-help-develop-robotaxis-2020-05-04-0?amp",
+      "publishedDateTime": "2020-05-04T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-the-impending-artificial-intelligence-revolution-in-healthcare.md",
       "title": "The Impending Artificial Intelligence Revolution in Healthcare",
       "excerpt": "Why has AI been slow in delivering change in the care processes of healthcare? With a wealth of new AI algorithms and computing power",
@@ -865,169 +1027,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-ai-picks-up-signs-of-glaucoma-18-months-ahead-of-current-methods.md",
-      "title": "AI picks up signs of glaucoma 18 months ahead of current methods",
-      "excerpt": "From kidney stones, to heart trouble, to cancer, artificial intelligence stands to revolutionize the field of medical diagnostics by spotting signs of disease earlier than us humans are capable of. Scientists in the UK have been putting these capabilities to the test for detecting glaucoma,",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/medical/ai-glaucoma-18-months-methods/",
-      "ampWebUrl": "https://newatlas.com/medical/ai-glaucoma-18-months-methods/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/ai-glaucoma-18-months-methods/?amp=true",
-      "publishedDateTime": "2020-05-04T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/c9d8663/2147483647/strip/true/crop/720x480+0+124/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F67%2Fc1%2F963214b54c418741f253bda1a026%2F230757-web.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI picks up signs of glaucoma 18 months ahead of current methods",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-mls-players-can-restart-individual-workouts-on-wednesday.md",
-      "title": "MLS Players Can Restart Individual Workouts on Wednesday",
-      "excerpt": "Workouts will be voluntary and players will have access to outdoor fields, unless local policies prohibit access.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sporttechie.com/mls-players-restart-individual-workouts-coronavirus",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportTechie",
-        "domain": "sporttechie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png",
-          "width": 1200,
-          "height": 675,
-          "title": "MLS Players Can Restart Individual Workouts on Wednesday",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms.md",
-      "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
-      "excerpt": "After Facebook invested over Rs 43,000 crore in Jio platforms last month, Reliance Industries Limited (RIL) on Monday announced that US private equity firm Silver Lake will invest Rs 5,655 crore (nearly $750 million) into Jio platforms.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gulfnews.com/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
-      "ampWebUrl": "https://gulfnews.com/amp/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
-      "publishedDateTime": "2020-05-03T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2020/05/04/20200504-jio_171de660947_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-dems-deploying-darpa-funded-information-warfare-ai-driven-tool-to-target-pro-trump-accounts.md",
-      "title": "Dems deploying DARPA-funded information warfare AI-driven tool to target pro-Trump accounts",
-      "excerpt": "Trump Democratic political action committee advised by retired Army Gen. Stanley McChrystal is planning to deploy an information warfare tool that received original funding from DARPA, the Pentagon’s research arm -- transforming technology originally envisioned as a way to fight extremist propaganda into a campaign platform to promote Joe Biden.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/politics/dems-deploying-darpa-funded-information-warfare-tool-to-promote-biden",
-      "ampWebUrl": "https://www.foxnews.com/politics/dems-deploying-darpa-funded-information-warfare-tool-to-promote-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-deploying-darpa-funded-information-warfare-tool-to-promote-biden.amp",
-      "publishedDateTime": "2020-05-03T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/640/320/Gen-Stanley-McChrystal-Getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "Dems deploying DARPA-funded information warfare AI-driven tool to target pro-Trump accounts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-13-the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution.md",
+      "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
+      "excerpt": "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has announced the general availability of Amazon Kendra, described as an enterprise search solution which leverages \"machine learning to enable organizations to index all of their internal data sources,",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-aws-makes-amazon-kendra-generally-available-and-honeywell-announces-ai-powered-thermorebellion-temperature-monitoring-solution-2020-05-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye: AWS Makes Amazon Kendra Generally Available and Honeywell Announces AI-Powered ThermoRebellion Temperature Monitoring Solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-amazon-ec2-inf1-instances-now-support-amazon-sagemaker.md",
       "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
       "excerpt": "Patrick Moorhead gives an update with Amazon's team that has been busy with customers, optimizing and adding capabilities, some of the Inferentia and EC2 Inf1 instance leads.",
@@ -1162,51 +1208,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker.md",
-      "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
-      "excerpt": "Battlesnake is an AI competition in which you build AI-powered snakes. Battlesnake’s rules are similar to the traditional snakes game. Your goal is to be the last surviving snake when competing against other snakes. Developers of all levels build snakes using techniques ranging from unique heuristic-based",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T16:51:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/13/battlesnake-sagemaker-14.gif",
-          "width": 600,
-          "height": 423,
-          "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-03-cvs-launches-pilot-program-for-self-driving-vehicles-to-deliver-prescriptions.md",
+      "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
+      "excerpt": "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
+      "publishedDateTime": "2020-06-03T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577101%2Fself-driving-vehicle.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 569,
+          "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-waymo-to-bring-self-driving-minivans-back-to-bay-area-for-delivering-packages.md",
       "title": "Waymo to bring self-driving minivans back to Bay Area for delivering packages",
       "excerpt": "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations.",
@@ -1233,51 +1278,6 @@
           "width": 1199,
           "height": 579,
           "title": "What Can Tesla And Waymo Learn From A Human’s Ability To Focus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-twitter-billionaire-jack-dorsey-automation-will-even-put-tech-jobs-in-jeopardy.md",
-      "title": "Twitter billionaire Jack Dorsey: Automation will even put tech jobs in jeopardy",
-      "excerpt": "Artificial intelligence will soon write its own software, according to Twitter and Square CEO Jack Dorsey. \"We talk a lot about the self-driving trucks and whatnot\" but automation \"is even coming for programming\" jobs,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html",
-      "publishedDateTime": "2020-05-22T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105868105-1556088770264gettyimages-1134474993.jpeg?v=1590167235",
-          "width": 594,
-          "height": 396,
-          "title": "Twitter billionaire Jack Dorsey: Automation will even put tech jobs in jeopardy",
           "attribution": null
         }
       ],

@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-23-twitter-billionaire-jack-dorsey-automation-will-even-put-tech-jobs-in-jeopardy.md",
+      "title": "Twitter billionaire Jack Dorsey: Automation will even put tech jobs in jeopardy",
+      "excerpt": "Artificial intelligence will soon write its own software, according to Twitter and Square CEO Jack Dorsey. \"We talk a lot about the self-driving trucks and whatnot\" but automation \"is even coming for programming\" jobs,",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html",
+      "publishedDateTime": "2020-05-22T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105868105-1556088770264gettyimages-1134474993.jpeg?v=1590167235",
+          "width": 594,
+          "height": 396,
+          "title": "Twitter billionaire Jack Dorsey: Automation will even put tech jobs in jeopardy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development.md",
       "title": "Scale AI releases free lidar dataset to power self-driving car development",
       "excerpt": "High quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
@@ -1250,51 +1295,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-no-matter-how-sophisticated-artificial-intelligence-systems-still-need-human-oversight.md",
-      "title": "No matter how sophisticated, artificial intelligence systems still need human oversight",
-      "excerpt": "AI and machine learning systems are only as good as the data we feed them. Witness the fallout from the COVID-19 crisis, which threw many AI algorithms out of whack: 'If machines are to be trusted, we need to watch over them.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
-      "publishedDateTime": "2020-05-17T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/17/8e854e40-61b9-473f-ad50-ea490c404772/asimo-honda-cropped.jpg",
-          "width": 534,
-          "height": 640,
-          "title": "No matter how sophisticated, artificial intelligence systems still need human oversight",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

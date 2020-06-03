@@ -504,6 +504,35 @@
       ]
     },
     {
+      "path": "_news/2020-05-27-rajant-introduces-jon-lederman-as-vice-president-of-artificial-intelligence.md",
+      "title": "RAJANT INTRODUCES JON LEDERMAN AS VICE PRESIDENT OF ARTIFICIAL INTELLIGENCE",
+      "excerpt": "Rajant Corporation, the provider of Kinetic Mesh® wireless networks, announced today Jon Lederman joined the team as Vice President of Artificial Intelligence (AI). In this newly created position, Mr.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g16120766/rajant-introduces-jon-lederman-as-vice-president-of-artificial-intelligence",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16120766",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16120766",
+      "publishedDateTime": "2020-05-27T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless.md",
       "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
       "excerpt": "As South Korea continues to loosen its social distancing guidelines amid the COVID-19 pandemic, hard-hit movie theaters are trying to find ways to lure customers back.",
@@ -1228,43 +1257,6 @@
           "width": 1200,
           "height": 800,
           "title": "BB-8 toy robot maker spins off robotics startup for first responders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-robots-help-out-in-bahrains-covid-19-quarantines.md",
-      "title": "Robots help out in Bahrain’s COVID-19 quarantines",
-      "excerpt": "Bahrain has introduced robots into places where patients of the new coronavirus are isolated and treated in an effort to protect health workers from contracting the potentially fatal virus, officials have said “This experiment is the first of its kind in Bahrain and has been done to utilise artificial intelligence technology and determine the scope of its benefits in providing medical care in isolation and treatment centres,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gulfnews.com/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
-      "ampWebUrl": "https://gulfnews.com/amp/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
-      "publishedDateTime": "2020-05-21T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2020/05/21/20200521_Bahrain_robot_17236e75595_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "Robots help out in Bahrain’s COVID-19 quarantines",
           "attribution": null
         }
       ],

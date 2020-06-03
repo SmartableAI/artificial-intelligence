@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskele
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 618
     title: "Caltech AI lab optimizes exoskeleton gait for human comfort"
 
-secured: "PR8LnskKvdMFFNnahXbz4uik9sDOy4XcdQrIWmOSO0Kkxxo9dbiOZ5+NuUtRq6qKfGGHJ3yBZOo4BzV/3NICg0qUaLKFmEGr4VBtBw/duFtjA/zi+lTW5ildWiUyFGD3Dl4OouUaKbB7c+4vTsc12GHkkFpE9588KoXT9JrsZBYwAi5lusHCLIUG+/XDaZ95in2836Qt7B32HbTD50OvtG+tJz1gqAA7p+Rz11VxCMVxQGSRjnm1g9J4L/YQGgOSAdg82HZcJkoXLr0AXy2DHz8KVqoIUjBN5xaJjO5cWgXGPU36A39kjDB99qmDp3WL;ydxy5RK87guFHQdzasocXA=="
+secured: "H/gGJSHJl6dvkxfWZ3bpgpIGCtarpXdeXJO8Bjokgbme7K2dmfKSJJiPsjULzBKYCK/bYUo47Ob7PX+/7nFxi3kIFk84fPpfcxzoOG28BiKeR2a5JT79MD5cfZnCtI4NYfocZX5uSF27RwknqriOa23kd/XfIH1hmL6YXeAWlaT0R3Bbvc7qUWTQVve92EnEjilp119oUKdSZv29TQajh6PfVkXlOMqvIujQbXBd39AEAPN1qjjP4V1KfOTzHPfGb7nSOIAD9or4ChYL1Chg0DyaNXdnbvAyJDcOao6kgaCNHfRrLWRdL4u5MGix0uss;6Avbww/49DvtPoJCec4wdQ=="
 ---
 

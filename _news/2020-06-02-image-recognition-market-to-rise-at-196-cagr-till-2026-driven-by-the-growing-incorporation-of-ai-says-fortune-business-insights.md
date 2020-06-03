@@ -21,14 +21,14 @@ topics:
 
 related:
   - title: "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)"
-    excerpt: "Pune, June 02, 2020 (GLOBE NEWSWIRE) -- The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world."
-    publishedDateTime: 2020-06-02T10:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02-61845727"
+    excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world."
+    publishedDateTime: 2020-06-02T10:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

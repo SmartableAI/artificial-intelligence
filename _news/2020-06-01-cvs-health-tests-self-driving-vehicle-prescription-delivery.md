@@ -8,7 +8,7 @@ ampWebUrl: "https://www.yakimaherald.com/news/business/national/cvs-health-tests
 cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/news/business/national/cvs-health-tests-self-driving-vehicle-prescription-delivery/article_c6fda4b6-fb87-5359-a291-51b3a4d3f89c.amp.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "CVS Health tests self-driving vehicle prescription delivery"
 
 related:
+  - title: "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions"
+    excerpt: "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers."
+    publishedDateTime: 2020-06-03T18:35:00Z
+    webUrl: "https://www.fool.com/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577101%2Fself-driving-vehicle.jpg&w=1200&op=resize"
+        width: 1200
+        height: 569
   - title: "CVS Pharmacy tests self-driving vehicle delivery for prescriptions"
     excerpt: "The company, which partnered with robotics company Nuro, joins other retailers who have recently updated their delivery options."
     publishedDateTime: 2020-06-01T16:43:00Z

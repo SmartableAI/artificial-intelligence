@@ -2,10 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-03-pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize.md",
+      "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
+      "excerpt": "This is a guest post by Sam Bean and Nic Roberts II at StockX. In their own words, “StockX is a Detroit startup company revolutionizing ecommerce with a unique Bid/Ask marketplace—our platform models the New York Stock Exchange and treats goods like sneakers and streetwear as high-value, tradable commodities.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T11:40:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/02/stockx-2.gif",
+          "width": 907,
+          "height": 465,
+          "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-cvs-launches-pilot-program-for-self-driving-vehicles-to-deliver-prescriptions.md",
+      "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
+      "excerpt": "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
+      "publishedDateTime": "2020-06-03T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577101%2Fself-driving-vehicle.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 569,
+          "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-how-google-is-using-emerging-ai-techniques-to-improve-language-translation-quality.md",
+      "title": "How Google is using emerging AI techniques to improve language translation quality",
+      "excerpt": "Google Translate is quantifiably improving across 108 languages thanks in part to new AI and machine learning techniques.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/",
+      "publishedDateTime": "2020-06-03T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "How Google is using emerging AI techniques to improve language translation quality",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor.md",
       "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
       "excerpt": "In a new paper, researchers at LightOn managed to train an AI model on an optical chip and achieve over 95% accuracy on a popular data set.",
-      "heat": 81,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/",
@@ -42,14 +176,15 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
       "path": "_news/2020-06-03-caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort.md",
       "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
       "excerpt": "Caltech researchers supplemented a lower body exoskeleton with AI that optimizes gait recognition for human preference and comfort.",
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/",
@@ -1181,141 +1316,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-service-robotics-market-industry-size-growth-factors-and-major-segments-forecast-research-report.md",
-      "title": "Service Robotics Market Industry Size, Growth Factors and Major Segments, Forecast Research Report",
-      "excerpt": "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-industry-size-growth-factors-and-major-segments-forecast-research-report-2020-06-02",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-02T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Service Robotics Market Industry Size, Growth Factors and Major Segments, Forecast Research Report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-dell-technologies-launches-new-hpc-systems-to-boost-ai-workloads.md",
-      "title": "Dell Technologies launches new HPC systems to boost AI workloads",
-      "excerpt": "Dell EMC Ready Solutions for vHPC are capable of delivering up to 18 times faster AI model development, says Forrester",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355881/dell-technologies-launches-new-hpc-systems-to-boost",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355881/dell-technologies-launches-new-hpc-systems-to-boost?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/digital-transformation/355881/dell-technologies-launches-new-hpc-systems-to-boost?amp",
-      "publishedDateTime": "2020-06-02T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570815380/itpro/2015/11/dell_rr1.jpg",
-          "width": 1000,
-          "height": 565,
-          "title": "Dell Technologies launches new HPC systems to boost AI workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-introducing-amazon-sagemaker-components-for-kubeflow-pipelines.md",
-      "title": "Introducing Amazon SageMaker Components for Kubeflow Pipelines",
-      "excerpt": "Today we’re announcing Amazon SageMaker Components for Kubeflow Pipelines. This post shows how to build your first Kubeflow pipeline with Amazon SageMaker components using the Kubeflow Pipelines SDK. \nKubeflow is a popular open-source machine learning (ML) toolkit for Kubernetes users who want to build",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-components-for-kubeflow-pipelines/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-02T08:00:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/01/sagemaker-kubeflow-pipelines-006.jpg",
-          "width": 1000,
-          "height": 578,
-          "title": "Introducing Amazon SageMaker Components for Kubeflow Pipelines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],
