@@ -2,6 +2,126 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-22-sony-and-microsoft-develop-ai-imaging-chip-what-it-means-for-industry.md",
+      "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
+      "excerpt": "Sony & Microsoft have developed the 1st AI-enabled imaging chip, looking to push it further with AI-powered smart camera solutions in AR & other arenas",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techwireasia.com/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
+      "publishedDateTime": "2020-05-21T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/000_1DZ2ZD-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-ibm-making-big-job-cuts-even-to-watson-and-ai-as-it-pivots-to-cloud.md",
+      "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
+      "excerpt": "A thread on the Watching IBM Facebook group mentions cuts in cloud and cognitive software teams and Watson health. Whole departments of ... cutting staff from AI-driven initiatives that aren’t doing well, or all of the above.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/22/ibm_layoffs/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
+      "publishedDateTime": "2020-05-21T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/03/03/shutterstock_ibm.jpg",
+          "width": 994,
+          "height": 600,
+          "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-first-rate-cleaning-is-just-the-start-for-this-super-smart-home-robot.md",
+      "title": "First-rate cleaning is just the start for this super-smart Home Robot",
+      "excerpt": "Robot vacuum cleaners can be a great time-saving addition to the home, but Lucy is a whole new ballgame. Using sophisticated object recognition, night vision and AI-based robotic intelligence, Lucy not only puts other robot vacuums in the shade when it comes to cleaning your floor,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/",
+      "ampWebUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
+      "publishedDateTime": "2020-05-21T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ksr-ugc.imgix.net/assets/029/186/787/5fc7090956e99254f2665496fa1cf339_original.jpg?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1590179053&auto=format&frame=1&q=92&s=c09f4cffcaa93e0dc1fa90dabc59a32b",
+          "width": 560,
+          "height": 315,
+          "title": "First-rate cleaning is just the start for this super-smart Home Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-amazon-urged-not-to-sell-facial-recognition-tool-to-police.md",
       "title": "Amazon urged not to sell facial recognition tool to police",
       "excerpt": "It’s not clear how many law enforcement agencies have purchased the tool, called Rekognition, since its launch in late 2016 or since its update last fall, when Amazon added capabilities that ...",
@@ -1077,176 +1197,31 @@
       ]
     },
     {
-      "path": "_news/2020-05-21-microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus.md",
-      "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
-      "excerpt": "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network.",
-      "heat": 122,
+      "path": "_news/2020-05-21-patriot-one-selected-for-45m-cad-co-investment-from-digital-technology-supercluster-covid-19-program.md",
+      "title": "Patriot One Selected for $4.5M CAD Co-Investment from Digital Technology Supercluster COVID-19 Program",
+      "excerpt": "The Health & Safety Modules are additional video object recognition solutions that have been added to the PATSCAN Platform, which also includes weapon detection, disturbance and fight detection ...",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
-      "publishedDateTime": "2020-05-21T03:55:00-07:00",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/05/21/2036990/0/en/Patriot-One-Selected-for-4-5M-CAD-Co-Investment-from-Digital-Technology-Supercluster-COVID-19-Program.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/20/80b822d9-b20b-4ba7-8a9a-461401bce55e/resize/400x/90d28741c1cdcb3f5513125869884ad8/nvidia-v100-t4-gpus.jpg",
-          "width": 400,
-          "height": 450,
-          "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-robots-help-out-in-bahrains-covid-19-quarantines.md",
-      "title": "Robots help out in Bahrain’s COVID-19 quarantines",
-      "excerpt": "Bahrain has introduced robots into places where patients of the new coronavirus are isolated and treated in an effort to protect health workers from contracting the potentially fatal virus, officials have said “This experiment is the first of its kind in Bahrain and has been done to utilise artificial intelligence technology and determine the scope of its benefits in providing medical care in isolation and treatment centres,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gulfnews.com/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
-      "ampWebUrl": "https://gulfnews.com/amp/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/gulf/bahrain/robots-help-out-in-bahrains-covid-19-quarantines-1.1590059107750",
-      "publishedDateTime": "2020-05-21T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2020/05/21/20200521_Bahrain_robot_17236e75595_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "Robots help out in Bahrain’s COVID-19 quarantines",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption.md",
-      "title": "Gap rushes in more robots to warehouses to solve virus disruption",
-      "excerpt": "U.S. apparel chain Gap Inc is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic, the company told Reuters.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-gap-automation-foc-idUSKBN22X14Y",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN22X14Y",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22X14Y",
-      "publishedDateTime": "2020-05-21T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200521&t=2&i=1519427977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4K0SD",
-          "width": 817,
-          "height": 545,
-          "title": "Gap rushes in more robots to warehouses to solve virus disruption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-samsung-takes-another-step-in-us116-billion-plan-to-take-on-chip-maker-tsmc.md",
-      "title": "Samsung takes another step in US$116 billion plan to take on chip maker TSMC",
-      "excerpt": "South Korea’s largest company has started construction on a new fabrication plant that is dedicated to its made-to-order chip foundry business, an arena that Taiwan Semiconductor Manufacturing Co dominates.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
-      "publishedDateTime": "2020-05-21T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/21/686ef5e6-9b42-11ea-96ff-7aff439fc3be_image_hires_172643.jpeg?itok=_vSkaSW2&v=1590053214",
-          "width": 1200,
-          "height": 630,
-          "title": "Samsung takes another step in US$116 billion plan to take on chip maker TSMC",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
+        "Computer Vision",
         "AI"
       ]
     }

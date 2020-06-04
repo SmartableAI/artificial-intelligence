@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://news.wisc.edu/content/uploads/2020/05/stopsign.png"

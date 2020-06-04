@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-04-ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists.md",
+      "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
+      "excerpt": "In a paper, Uber researchers describe an autonomous vehicle perception system that reasons about the behavior of pedestrians, vehicles, and cyclists.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
+      "publishedDateTime": "2020-06-04T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-covid-19-contact-tracing.md",
+      "title": "Scientists led by AI scholar Yoshua Bengio urge privacy, opt-in approach for COVID-19 contact tracing",
+      "excerpt": "Testing appears to be still urgently needed for containing and ultimately eradicating COVID-19. Canadian AI scholar Yoshua Bengio and colleagues from multiple institutions urge privacy measures for contact tracing.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
+      "publishedDateTime": "2020-06-04T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/04/1c1c209b-430d-4aeb-98a0-50f0bd2d80dd/bengio-et-al-digital-contact-tracing-impact-may-2020.png",
+          "width": 1248,
+          "height": 1214,
+          "title": "Scientists led by AI scholar Yoshua Bengio urge privacy, opt-in approach for COVID-19 contact tracing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-ark-invest-ai-training-costs-dropped-100-fold-between-2017-and-2019.md",
       "title": "ARK Invest: AI training costs dropped 100-fold between 2017 and 2019",
       "excerpt": "According to a new report from ARK Invest, the cost of training AI models has delined steeply over the past decade -- and will continue to decline.",
@@ -85,7 +174,7 @@
       "path": "_news/2020-06-04-ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities.md",
       "title": "IBM AI Fairness 360 open source toolkit adds new functionalities",
       "excerpt": "The new version expands capabilities of its discrimination and bias protection, bringing the tool to R users and scikit-learn.",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
@@ -123,7 +212,46 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era.md",
+      "title": "AI, machine learning to support digital lending landscape in post-covid era",
+      "excerpt": "Among other sectors, digital payments have experienced a significant boost. Areas such as online grocery stores, online pharmacies, OTT players, EDTechs, online gaming, recharges and utility payments have seen an uptick in digital payments due to a growth in their adoption.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
+      "ampWebUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
+      "publishedDateTime": "2020-06-04T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/06/04/600x338/c5507094-a63e-11ea-a5bb-117a420bfddf_1591291821232_1591291923562.jpg",
+          "width": 600,
+          "height": 338,
+          "title": "AI, machine learning to support digital lending landscape in post-covid era",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -264,7 +392,7 @@
       "path": "_news/2020-06-04-10-ways-enterprises-are-getting-results-from-ai-strategies.md",
       "title": "10 Ways Enterprises Are Getting Results From AI Strategies",
       "excerpt": "AI pilots are progressing into production based on their combined contributions to improving customer experience, stabilizing and increasing revenues, and reducing costs.",
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterprises-are-getting-results-from-ai-strategies/",
@@ -958,132 +1086,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort.md",
-      "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
-      "excerpt": "Caltech researchers supplemented a lower body exoskeleton with AI that optimizes gait recognition for human preference and comfort.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
-      "publishedDateTime": "2020-06-03T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/caltech.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-bbc-voice-assistant-on-windows-10-uses-microsofts-azure-ai.md",
-      "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
-      "excerpt": "The BBC's new voice assistant strives to understand people with different accents. It utilizes Azure AI and is available in preview now on Windows 10.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai",
-      "ampWebUrl": "https://www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai?amp",
-      "publishedDateTime": "2020-06-03T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/10/surface-laptop-3-13-review-3.jpg?itok=blTqM47F",
-          "width": 800,
-          "height": 600,
-          "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development.md",
-      "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
-      "excerpt": "DeepMind this week released Acme, an open source distributed framework for reinforcement learning algorithm development.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/amp/",
-      "publishedDateTime": "2020-06-03T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

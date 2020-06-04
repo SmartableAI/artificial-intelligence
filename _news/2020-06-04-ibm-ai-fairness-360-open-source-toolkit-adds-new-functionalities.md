@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/ibm-ai-fairness-360-open-source-to
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2020/06/04/b2b39573-694b-48e3-ae4c-25afe5b67e19/resize/1200x/b3887efefd581e931bb5f3ce3bd52519/ibm-image.jpg"
@@ -29,6 +30,6 @@ images:
     height: 900
     title: "IBM AI Fairness 360 open source toolkit adds new functionalities"
 
-secured: "7JEotRqrTEai84tDm2aPbqVxH9bbXzNMr0zzQRQRBUv6BCMJkihndiA72Cl4Z6PEeohoiSSMScIPHy0EScgDxNou26o9544kJWF59iuUXa84FZu0f8lZfMShi+V6muW+cmygVMC7GH9it82iYkWvxyC/VxlvJu0iI94oO7taZrgUmcP+mtens33Z70f28m4k0h1dDWZbW6OQfmIPkTuPhG0jLywH6IDC5EZf46WTwZ1PiCBwh7TmwiXQN42CwUhj1QSK8Spy8q9elWa75C3a9+EK0fr2NrfQVWpfU+5hrg37abbOKzL6G9pauAfvYfUg;FN3EZ130Dul+ml56Qbge+Q=="
+secured: "qN1CmKBIu8U66vEB8MEp3SfponHFqN3Wp0S9oDhulfjmXnL9KC0sOny3vS4dAbg9d2WMdvORby9GzQX1wKAHQtBQJtsHfbT97xksrjIXberKG3JfbsL6RAZwFR2jWzFzKpFX9cMWCpqILwrP5Nf3cPq7SuuHDgSFl160EUcKq4ANZj1gxc1oUm4yVABdKzmd3+KPkdEca5gu98Bodt0y/e+cBZzg3P370W9S1dFNJrCVOf9M8UtHgXM7nExAdzn9eYPF6k78Kcbui+6v/epreEC0vRawQNBEWlyiEjnSWQXrfUEYARUzxKJO9JT/ZmHqyayuGk6mPCSINg3N9ZneGqlAU73WkdWUCLDGCUlwrO9V95Sg36xKdHAFY4cQ4aP/rLPbY/Ly+b6wtEq+C8wTh1SqezqRLBn3jBue201Q7YLNxQhXdKgkyU+PJGg1V4pxVrftqKTFEqfui9oaKFx8xvko8GHuSnbb16POA/LnT58=;DL5fpT0JBvB5a1eZ6z1FMg=="
 ---
 

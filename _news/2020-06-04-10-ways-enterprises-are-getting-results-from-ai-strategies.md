@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterprises-are-getting-results-from-ai-strategies/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     height: 709
     title: "10 Ways Enterprises Are Getting Results From AI Strategies"
 
-secured: "Fs7BjmC0GKIUv8ZUp8ALX6NY4S1VhH0n2A+P9FYbuEZLuGx60BZdvqOmZwtyF/0G4hBWeZv4LDBEStz08rV9usWigH9wYdg+7MDrlyx+hgvnTWY+QpS5D+GCkHwf+NYw94c0JAwErK8tEbxqVgTmPAsAL3ZOz7hx4r32HWQdPC0ot5PIo/Dqki50a6Xn6s4gQEIDI9mbNLs/E1fNQkA4ey1P6PKZH72lN9Aj65qn0+aC/EwZO/1R/OMfG2NfqheDRFEIx9TPokilPjl2tvRAXF7byg1PdIsIIJu35PmQbrq1yiOA0TGGX1ilWQ7JNDHl;/ejDexLTvsLC0diK6w+84Q=="
+related:
+  - title: "Getting it right: Using consumer-facing AI tools wisely"
+    excerpt: "Consumers are entitled to explanations if organizations are using AI to make decisions about them The use of artificial intelligence technology can be a double-edged sword. On the one hand, the growing ability of AI machines and algorithms to make predictions,"
+    publishedDateTime: 2020-06-04T21:10:00Z
+    webUrl: "https://www.canadianlawyermag.com/news/opinion/getting-it-right-using-consumer-facing-ai-tools-wisely/330244"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0348_637098267027226915.png"
+        width: 600
+        height: 600
+
+secured: "4JzGcjEbztTfjWzMQEoN9EHzgigdy6N8c6rx+QBh1/w+lUuszmqwx+1Lr6vD5+SCu6iHTem9xNqDvyN7iBIN/hP5KrClxgob8XVFfrtMMipgKv4rW3IuZghicus/jc+fHva3tgLOd7NWUT2CBCpThV/MuxFK/ty0zjwoOdlVykTXU9SgI5bmkAMTRKZXrRHKlreXqPXkCzCpdJ0wFG2sZg+imkoHrtEy2UhQFzgglma1zu/5bkNqpf8h5XWsajOasX/V5MTQ7xQNYK8+fdTXZrkFy3IWhJfdptI6cCVzBJqKzoOORNqHNYaDJBbwCPCNLJpLD3bsLNbg03Zjpuf/iFh7U3RDXWp6BJUYLfRmBYII5dAcq4TkYscZG+k12qpaCUxWobvmH/VAuoRlv7gT8S+XmVNsn2cjDAo/eFx//WeyAl/gKEIPsA+2LXtrAjLJthn0lZbxqO70Y5mx2WfwHnhRKPaEdleaIsjRvuHZkhU=;8mIl6f/Dyogq8nNzqiZCSQ=="
 ---
 

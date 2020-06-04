@@ -39,21 +39,6 @@ related:
       - url: "https://www.techworm.net/wp-content/uploads/2020/05/ai.jpg"
         width: 1200
         height: 675
-  - title: "Microsoft replaces human journalists with Artificial Intelligence"
-    excerpt: "Microsoft - The US-based tech giant has reportedly let go of about 50 employees in the US and another 27 in the UK. Explore more at BGR.in"
-    publishedDateTime: 2020-05-31T03:35:00Z
-    webUrl: "https://www.bgr.in/news/microsoft-replaces-human-journalists-with-artificial-intelligence-895082/"
-    ampWebUrl: "https://www.bgr.in/news/microsoft-replaces-human-journalists-with-artificial-intelligence-895082/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/microsoft-replaces-human-journalists-with-artificial-intelligence-895082/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 57
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2019/06/Microsoft.jpg"
-        width: 805
-        height: 456
   - title: "Microsoft Replaces MSN News Contractors With Artificial Intelligence"
     excerpt: "According to new reports from both The Seattle Times and The Guardian, tech giant Microsoft is now replacing its news contractors at MSN with artificial intelligence, terminating its relationship with roughly 50 contractors in the U."
     publishedDateTime: 2020-06-01T08:49:00Z

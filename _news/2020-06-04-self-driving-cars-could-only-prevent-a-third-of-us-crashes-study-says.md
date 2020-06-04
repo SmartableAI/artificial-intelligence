@@ -39,19 +39,17 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fb618a410-3970-11ea-afd7-78fc2104beb5&client=amp-blogside-v2&signature=2adb1b3feaaf29682c22943c45bad82071d5e703"
         width: 600
         height: 350
-  - title: "Self-Driving Cars Could Only Prevent a Third of U.S. Crashes: Study"
-    excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
-    publishedDateTime: 2020-06-04T14:29:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/06/04/technology/04reuters-autos-self-driving.html"
+  - title: "Self-driving cars could only prevent a third of U.S. crashes -study"
+    excerpt: "June 4 (Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
+    publishedDateTime: 2020-06-04T21:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
   - title: "Self-Driving Cars May Prevent Only a Third of Road Crashes, Study Shows"
     excerpt: "Consumer Reports shares details of a new IIHS study that shows that only about one-third of crashes would be prevented by fully automated self-driving cars. To save more lives, automated vehicle developers need to change their approach to safety."
     publishedDateTime: 2020-06-04T14:06:00Z
@@ -62,6 +60,6 @@ related:
       domain: consumerreports.org
     quality: 4
 
-secured: "2Gx9i6+4BNVAyzQ2xZdRBlEB39RJhEp6ElV/LP0zaE4Ln8O5mjLdS8Z14jCzfTC3rpfuNf83UzuA+h0ngfQ1LnF8oaqudYjc6A7o8FXKZXJkIDWsv9L5WNYLBsYYJk76p5FZUO7UZg+3/aW/y8j8DVUf/Yh7we0NmNoFoOD8IBbZCUsltfdz8dUqgv2qKzO7iiHI95xPOhh0pw/gATlgy0oKedT9f+NhtVRC+y2hayBQTNZ9nMfeqDoXoeSjxhw8H6Xj3C/06ckT0CLmT9ereb7v+lHNf6TIFOWIb4bLmjQc/ph+sDO+am7TJ9tTKDiX;723OnTm2HLaB45k4WRsHVw=="
+secured: "U/FcbkKYJTsd7X5xTcPn+G4EylX0A2U08VgHDMhYMZh+0zK3rlOM+1fDSeeHrMrDLOfBM4Kwz7xqjwreBK56jOVez8BtGpVosQ4oFk/R2Wr2k4vpi4b8xgzoxRV6SLeR2hCPumcWCZ+OmhJh2x9KCfMyX3JB5yYWz6vKVMDvheIlQA3z7/nIaPa7p54viJKn6afpDPreW1+aXEbe+TeBRiT/CcsMU+g+H6RdK9que2KAKubiLHlBfk9CnjMkqmqRWG8l5W0hNRqj1cCwt16PckLlcdTZX3jJIcgqqBSWNObbjL22U5aDsRC/rtl2UGZ3RFBizR5s7meulMOqcsBvWZaifyYzOMizncFJsofWPjU7GIgf9ZwYJHPnN9FhWL8ZguDKlb1IucM5wAbvGLE1L4bvxrUsQ/39np6/oEwqBC2S6cvEAbZP94gMZDFDLPM0NpgPZl1VGvsI3WDOuXZHtvfOalvAymtq2qsRtdoDwhI=;f0T8ZdSejbWV93jgGnPIwQ=="
 ---
 

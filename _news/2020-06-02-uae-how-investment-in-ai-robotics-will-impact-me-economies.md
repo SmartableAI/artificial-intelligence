@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-02T07:16:00Z
 webUrl: "https://menafn.com/1100248937/UAE-How-investment-in-AI-robotics-will-impact-ME-economies"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 780
     height: 439
     title: "UAE- How investment in AI, robotics will impact ME economies"
-
-related:
-  - title: "How investment in AI, robotics will impact Middle East economies"
-    excerpt: "Even though there are others in the realm of emerging technologies, AI and RPA seem to grab most of the headlines largely due to nature of impact they tend to have on organisational efficiencies and customer experience."
-    publishedDateTime: 2020-05-31T04:02:00Z
-    webUrl: "https://www.zawya.com/saudi-arabia/en/wealth/story/How_investment_in_AI_robotics_will_impact_Middle_East_economies-SNG_175769350/"
-    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/SNG_175769350/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/SNG_175769350/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 89
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
 
 secured: "6wOs1JS9R1/pkfBSLx+XAECgpa1UWmk4OQF7mNgyGjdx6DI5J61LquABqhrdXGgL7Z8e3Nr4P7z0WNWkzmlKs8Z/31kWC7ZBN8NcZAo1ntpphR3jn1DCohXscAZGYXll8yTZAZWibegyHH/GSFzCUk8zgNigu5/q3Z2A2lijTPmEUTsmKoQD31v2SbCX+FJC9xu+mryGU9RJwikiF/SoXPp3a7HN9P6Yj32PAOei8ezYCse6veMGSAwn4H1LSSWPN7TWzDmJJyAyBHWNsWPlRcSzFN3JudJFzTy2lqR2I1sZFWTqQ7yM2HxnKL5oRQytmVbE4uAroXYyBXMOQ1t38SlUOJTayu3zViUYIz3j0u6INrF+1u7Fv0LhVK6BkryYPBGdJj1icWzYyebez+Yeeo7TMceKevKwYEHw/llhJ+z7tHfuucQSSPBQeosl7fZ7BPZBBE/sM+uatvAmu2e07OSJHHGs69xtx3kZkaWY/nI=;xD+UJDKCg/1kSk1V4Kob7g=="
 ---

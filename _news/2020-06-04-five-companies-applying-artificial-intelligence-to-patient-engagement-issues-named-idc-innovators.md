@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Five Companies Applying Artificial Intelligence to Patient Engagement Issues Named IDC Innovators"
 
-secured: "Glv5Ce1jtuPS2H7Z1x9LmGFLxPd/Xg5wR8J3or9S9tBrHjl/S4vdzFWobcXo9hfm+sBHnTDlskot5BbL9gCD/duXNb6LZhaU6Mni60kEN/f1GnIPI8eaWjSA7PeAdnPz7/j3ayhgPUDWfV1kyMabZw8++Mvie6dY4qoMz+OOTeLg6jkuCHpbwmnaOBTmaKx2AvFURXW/1vhOMHoKEe7oM82fE9GUDnp7PBYYIvULcxu+7JHNrZ/7DXqCmiByiqai7u6+A9WFDZm1A6FURzU+mXXG+xQDS5bjwNuHxGRancf40Sd8U78tZD+NvA3/qAZx;/Cpi/bqaAOOHDQ0Bpq91VQ=="
+secured: "NligRvd/dezKtiGaZEnEDnfz8Mo5+dCdrtWUoRhs1AGNnClYMWJZF3dw3JcX3Fgg3d1q1X9aC9A86tQUwp83j6rZf7uCTxVgZTGb+Bpwf12SmJz1c8F+zQazyJKvCwNJBXdO/N2XBmT2klcaYi1w7gH1GCqKYCSiKp+DiPOiQq5Gqo+yKFpJQFEy10k/j6cUUDfuv2qVPwAwDdaNVcoRQLTmIR6eoDqvX/LvantWhO89UhdGlxbB2bcsOFPF8QOBOIg2oYANCJIlvpOaSpj7wMZKaOc/Ihzi8j7vOB9+SRfk3OuEEfE5sCAWrYwD5ZE/RE3hUemOpZTxuVkeI/hQ4JKvlznBG/UbkaBaopHL5ZePhYsPWWKUlOuHMuwtb3duvSBSPvWTd9PgAoD2FrEIB9naFDTsJVTAfnr9fS4YJVc7w81Vj5m6i0datsE1xXYiak8N8dI1JaOCm2RXBhXdkLWAL7wtiNFRz3Vukjzp0/o=;dKFnr5L+h44Uk84j24DGaA=="
 ---
 

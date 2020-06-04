@@ -2,6 +2,139 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-03-1touchio-employs-ai-to-identify-and-protect-sensitive-enterprise-data.md",
+      "title": "1touch.io employs AI to identify and protect sensitive enterprise data",
+      "excerpt": "Network analytics-based data discovery startup 1touch.io today emerged from stealth with $14 million in funding. The company, whose products are designed to help enterprises automatically and continuously identify repositories that process,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/amp/",
+      "publishedDateTime": "2020-06-03T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/1touch-io-e1590687948124.jpg?w=1200&#038;strip=all",
+          "width": 1199,
+          "height": 601,
+          "title": "1touch.io employs AI to identify and protect sensitive enterprise data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-taiwan-dangles-us335-million-to-woo-foreign-chip-makers.md",
+      "title": "Taiwan dangles US$335 million to woo foreign chip makers",
+      "excerpt": "The seven-year plan aims to subsidise as much as half of all the research and development costs incurred by global chip companies that build centres on the island.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
+      "publishedDateTime": "2020-06-03T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/03/4211fca8-a593-11ea-8ea0-d7434be00753_image_hires_202834.jpeg?itok=U9BP19zM&v=1591187324",
+          "width": 1200,
+          "height": 630,
+          "title": "Taiwan dangles US$335 million to woo foreign chip makers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-real-networks-2020-and-star-search-use-ai-to-identify-celebrities-in-videos.md",
+      "title": "Real Networks 20/20 and Star Search use AI to identify celebrities in videos",
+      "excerpt": "RealNetworks unveiled two video innovations for consumers that use artificial intelligence to identify faces of celebrities in videos.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/03/real-networks-20-20-and-star-search-use-ai-to-identify-celebrities-in-videos/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/real-networks-20-20-and-star-search-use-ai-to-identify-celebrities-in-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/real-networks-20-20-and-star-search-use-ai-to-identify-celebrities-in-videos/amp/",
+      "publishedDateTime": "2020-06-03T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/real-StarSearch-the-office-cast.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 612,
+          "title": "Real Networks 20/20 and Star Search use AI to identify celebrities in videos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-realnetworks-expands-facial-recognition-tech-to-id-celebrities-in-videos-and-its-actually-pretty-useful.md",
       "title": "RealNetworks expands facial recognition tech to ID celebrities in videos — and it’s actually pretty useful",
       "excerpt": "RealNetworks is releasing a browser extension that automatically identifies celebrities and other public figures in YouTube and Netflix videos, using the same facial recognition technology that",
@@ -1176,132 +1309,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-yandex-reveals-its-fourth-generation-self-driving-hyundai.md",
-      "title": "Yandex reveals its fourth-generation self-driving Hyundai",
-      "excerpt": "Researchers all around the world are working hard on self-driving cars to help people unable to drive themselves to get around and take the roads around the nation and the world safer. Yandex has",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/",
-      "ampWebUrl": "https://www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/amp/",
-      "publishedDateTime": "2020-06-02T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/yandex-sdc.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "Yandex reveals its fourth-generation self-driving Hyundai",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers.md",
-      "title": "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers",
-      "excerpt": "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Business Wire PA",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/press-releases/2020-06-02/tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-02T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-is-your-sales-team-ready-for-ai.md",
-      "title": "Is Your Sales Team Ready For AI?",
-      "excerpt": "While the human connection factor remains a significant part of closing any deal, the advances in technology, such as AI, can help negate the impact of other factors.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/amp/",
-      "publishedDateTime": "2020-06-02T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F06%2F881.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Is Your Sales Team Ready For AI?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

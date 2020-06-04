@@ -1,9 +1,9 @@
 ---
 category: news
 title: "What's Next: Does the AI Commission Care About Our Privacy? + Telehealth’s Post-Pandemic Future + Uber Shaves Down Legal Team"
-excerpt: "Privacy might not be the top concern for a Congressionally appointed commission that could shape the future of AI law."
-publishedDateTime: 2020-06-03T19:00:00Z
-webUrl: "https://www.law.com/2020/05/27/whats-next-does-the-ai-commission-care-about-our-privacy-telehealths-post-pandemic-future-uber-shaves-down-legal-team/"
+excerpt: "But that’s a sentiment that could be shifting. Earlier this month, the AI Commission released a white paper on the privacy and ethics of contact tracing during the global health crisis. “We were very impressed, they hit all the right notes,” Davisson said. “We think artificial intelligence is an immensely complicated subject area that ..."
+publishedDateTime: 2020-06-03T18:58:00Z
+webUrl: "https://www.law.com/2020/06/03/whats-next-does-the-ai-commission-care-about-our-privacy-telehealths-post-pandemic-future-uber-shaves-down-legal-team/"
 type: article
 quality: 12
 heat: 12
@@ -23,6 +23,6 @@ images:
     height: 360
     title: "What's Next: Does the AI Commission Care About Our Privacy? + Telehealth’s Post-Pandemic Future + Uber Shaves Down Legal Team"
 
-secured: "2GCKG1U+lQB1XWKkD4ppMpKgMoFq4txyQzsHGdHR/evr9mqKN4QOJ3ANsF7vs6+BzW6TNax9STCiMQK71r8h4gcBIiMRROHjjuE4Pv4G4IudXNLIrboCe2irhrdBYxj35QC0WGAUVh9m+KrjC4sEhoPmiIW2brcdBD7CfPr/Wnedc8BbQUjBoaVWOhQbjzsxWBcAEqKxnFRUBTYKCES+YaO24l259goONyNdKfCtcCxEmkBi42tp0rv+y/cfPVNrmTzu9c5Fq5HeRhjEZENJmulkLN1JzHxzJEvpGURCJ+U1WZABe/Jy0QC7DauNrqcF;qUWuV1R5Sov/1jTWESFQIQ=="
+secured: "V+7ji7udu3YkslmNcO1ipkW9Ckk1SfttvVZFsslphtxUoDqcz0ncfQR/jX5voZJj7MW1oqqfeemALd082JfHQ3oGcqafcmjdZTvgZaMMZQaWNKien1tF/AIOCoSETMLX/Ztav8O38cKxd5MTC7NI5Sq7TTFSNBD+D+VOXF6Us9Z6SWi7Ab7KSvZ68/g7uuijmFZveSegj8Q/lTjX0t5ui90Uk7d9Gz/ltwHCobwFM9Ten5pmjbIMMOoDMXuuTgISh+H4vqn4cCm+bDnj3f8Kngz8AJcoEOexxXaaGO6fRY7CqCNmTvXwRuaPkTIqLIRY;e+fIkxrmDA3mBC8E8avZgw=="
 ---
 

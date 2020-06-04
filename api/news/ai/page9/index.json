@@ -2,6 +2,132 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-26-36-million-unemployed-how-ai-can-create-jobs.md",
+      "title": "36 Million Unemployed: How AI Can Create Jobs",
+      "excerpt": "Artificial Intelligence (AI) is the transformative technology for this decade. With 36 million unemployed in US today, can AI also create jobs? Examples of jobs created in finance, human rights, manufacturing,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/suzytaherian/2020/05/26/36-million-unemployed-how-ai-can-create-jobs/",
+      "ampWebUrl": "https://www.forbes.com/sites/suzytaherian/2020/05/26/36-million-unemployed-how-ai-can-create-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/suzytaherian/2020/05/26/36-million-unemployed-how-ai-can-create-jobs/amp/",
+      "publishedDateTime": "2020-05-26T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecadd84a866ac0006728767%2F0x0.jpg",
+          "width": 700,
+          "height": 431,
+          "title": "36 Million Unemployed: How AI Can Create Jobs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision.md",
+      "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
+      "excerpt": "Scandit, a company that develops mobile barcode scanning and computer vision technology, has raised $80 million in a series C round of funding.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
+      "publishedDateTime": "2020-05-26T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Scandit-Retail-Product-Rating.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-rico-gear-using-artificial-intelligence-to-create-rugby-training-app.md",
+      "title": "Rico Gear using artificial intelligence to create rugby training app",
+      "excerpt": "Gear, who played 20 Tests for the All Blacks, is setting up an app to help players improve, but with so many training apps on the market his point of difference is using artificial intelligence. \"The artificial intelligence is going to get to the point where to show the difference between elite and beginner and everything in between,",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tvnz.co.nz/one-news/sport/rugby/rico-gear-using-artificial-intelligence-create-rugby-training-app",
+      "ampWebUrl": "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYyNiUyRnJpY28=",
+      "cdnAmpWebUrl": "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDUlMkYyNiUyRnJpY28=",
+      "publishedDateTime": "2020-05-26T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TVNZ 1",
+        "domain": "tvnz.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/05/26/GEAR_Rico_173888.jpg?w=700&h=393.75&fit=crop&auto=format",
+          "width": 700,
+          "height": 394,
+          "title": "Rico Gear using artificial intelligence to create rugby training app",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-amazon-web-services-and-bundesliga-to-deliver-real-time-game-analysis-with-bundesliga-match-facts-powered-by-aws.md",
       "title": "Amazon Web Services and Bundesliga to Deliver Real Time Game Analysis with “Bundesliga Match Facts Powered by AWS”",
       "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and the German Bundesliga will debut the first two Bundesliga Match Facts powe",
@@ -1163,141 +1289,6 @@
         "AI",
         "Microsoft AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-hitting-the-books-do-we-really-want-our-robots-to-have-consciousness.md",
-      "title": "Hitting the Books: Do we really want our robots to have consciousness?",
-      "excerpt": "Although I argue for self-awareness, I do not believe that we need to worry about consciousness. Let’s first try to build some interesting robots without consciousness and see how far we get.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
-      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
-      "publishedDateTime": "2020-05-23T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F8b194eb0-9c5b-11ea-b6fd-8ed4d5e48c49&client=amp-blogside-v2&signature=63f3f512471b9e4ba21e47e49d51de72ff3205b3",
-          "width": 600,
-          "height": 350,
-          "title": "Hitting the Books: Do we really want our robots to have consciousness?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-everything-you-need-to-know-about-neuromorphic-computing.md",
-      "title": "Everything you need to know about neuromorphic computing",
-      "excerpt": "In July, a group of artificial intelligence researchers showcased a self-driving bicycle that could navigate around obstacles, follow a person, and respond to voice commands. While the self-driving bike itself was of little use,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
-      "publishedDateTime": "2020-05-23T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-26-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Everything you need to know about neuromorphic computing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus.md",
-      "title": "What Can Tesla And Waymo Learn From A Human’s Ability To Focus",
-      "excerpt": "Humans focus to drive while autonomous vehicles try to be knowledge oracles. Perhaps the human approach is better.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/",
-      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/amp/",
-      "publishedDateTime": "2020-05-23T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec8e9886fdb740006902ba2%2F0x0.jpg",
-          "width": 1199,
-          "height": 579,
-          "title": "What Can Tesla And Waymo Learn From A Human’s Ability To Focus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

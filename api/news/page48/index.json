@@ -2,6 +2,186 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-04-28-apple-iphone-12-how-this-security-feature-could-solve-the-face-mask-problem.md",
+      "title": "Apple iPhone 12: How This Security Feature Could Solve The Face Mask Problem",
+      "excerpt": "You try to open your iPhone using Face ID, but your face mask gets in the way. Apple iPhones use depth perception to detect your face for Face ID, so many of the tricks don’t work. It’s frustrating for many Apple fans,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/04/27/apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem/",
+      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/04/27/apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/04/27/apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem/amp/",
+      "publishedDateTime": "2020-04-27T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e43ce58f133f400076c3c67%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Apple iPhone 12: How This Security Feature Could Solve The Face Mask Problem",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-artificial-intelligence-ai-in-healthcare-market-in-india-share-revenue-growth-development-and-demand-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market in India Share, Revenue Growth, Development And Demand Forecast To 2023",
+      "excerpt": "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-share-revenue-growth-development-and-demand-forecast-to-2023-2020-04-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market in India Share, Revenue Growth, Development And Demand Forecast To 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean.md",
+      "title": "How Satellites And Machine Learning Are Being Used To Detect Plastic In The Ocean",
+      "excerpt": "New research shows that satellite data analyzed with a machine learning algorithm can detect ocean plastic with up to 100% accuracy.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/allenelizabeth/2020/04/27/how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean/",
+      "ampWebUrl": "https://www.forbes.com/sites/allenelizabeth/2020/04/27/how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/allenelizabeth/2020/04/27/how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean/amp/",
+      "publishedDateTime": "2020-04-27T19:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea4eb34165a170006a5c771%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": "How Satellites And Machine Learning Are Being Used To Detect Plastic In The Ocean",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services.md",
+      "title": "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services",
+      "excerpt": "According to foreign media reports, Intel recently launched a series of software and hardware products, including",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services-2020-04-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-go-read-this-analysis-of-the-new-iphone-ses-ai-powered-depth-camera-system.md",
       "title": "Go read this analysis of the new iPhone SE’s AI-powered depth camera system",
       "excerpt": "For portrait photos, the iPhone SE’s camera uses machine learning to estimate depth of field, and Ben Sandofsky, one of the developers of mobile photography app Halide, took a closer look at how at how portrait photos taken by the SE’s single camera actually work.",
@@ -846,170 +1026,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-computer-vision-technology-provide-safety-improves-operation-efficiency-says-deltec-bank-bahamas.md",
-      "title": "Computer Vision Technology Provide Safety, Improves Operation Efficiency says Deltec Bank – Bahamas",
-      "excerpt": "Security is a major issue when dealing with financial information. That's why fintech companies are turning to computer vision to combat this problem and provide greater security for their customers.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15888714/computer-vision-technology-provide-safety-improves-operation-efficiency-says-deltec-bank-bahamas",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15888714",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15888714",
-      "publishedDateTime": "2020-04-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1587328009.jpeg",
-          "width": 3300,
-          "height": 2550,
-          "title": "Computer Vision Technology Provide Safety, Improves Operation Efficiency says Deltec Bank – Bahamas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy.md",
-      "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
-      "excerpt": "MYCIN was an AI program developed at Stanford University in the early 1970s, designed to assist physicians by recommending treatments for certain infectious diseases.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/amp/",
-      "publishedDateTime": "2020-04-27T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea5f65911e2a700077f78af%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D579%26cropY1%3D0%26cropY2%3D325",
-          "width": 579,
-          "height": 326,
-          "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room.md",
-      "title": "Amazon’s AI uses a microphone array to localize multiple speakers in a room",
-      "excerpt": "A team of Amazon researchers proposes a machine learning model that's able to localize multiple sound sources from microphone data alone.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/amp/",
-      "publishedDateTime": "2020-04-27T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon’s AI uses a microphone array to localize multiple speakers in a room",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-cognitivescales-cortex-certifai-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "CognitiveScale customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. Adopters of AI and ML (machine learning) are ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/cognitivescales-cortex-certifai-now-available-in-the-microsoft-azure-marketplace-301047031.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

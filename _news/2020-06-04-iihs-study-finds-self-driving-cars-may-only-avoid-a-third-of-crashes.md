@@ -30,19 +30,17 @@ images:
     title: "IIHS study finds self-driving cars may only avoid a third of crashes"
 
 related:
-  - title: "Self-Driving Cars Could Only Prevent a Third of U.S. Crashes: Study"
-    excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
-    publishedDateTime: 2020-06-04T14:29:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/06/04/technology/04reuters-autos-self-driving.html"
+  - title: "Self-driving cars could only prevent a third of U.S. crashes -study"
+    excerpt: "June 4 (Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
+    publishedDateTime: 2020-06-04T21:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
   - title: "Self-driving cars could only prevent a third of U.S. crashes, study says"
     excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
     publishedDateTime: 2020-06-04T16:27:00Z
@@ -66,6 +64,6 @@ related:
       domain: consumerreports.org
     quality: 4
 
-secured: "EZOfwK4DL9hWFwlTCd2EcfPzdoaFhcrI4Ty6UBBhtwZM93ROmsVZDjTwyjaCFBRawljfw83rD8rcWLXTI/Wm86VIGLJIM2Ogd9JI4cbRjOtL2laCFxqb8qDzbEDPMjzyl+qgg+/TWKO6eJWnN85W9Ns7TA+cXdUf2hlZIvOV0oweRQfPG/8Beh1sr+AXyAuYBK4M+6rqKOuTnToCwMDu3tDa+/VKEQFBzZH2DcKvbsr/0u2Uz7oEcfYj6yLVs+TqA9ubN9xEeXVykVLXy10barY0pu658lEZaSg8ok15LPdWp7Auxr+LHyat/+A0wz4O;mQTANfjt27nhiUvP4qoKDQ=="
+secured: "BHTyVOlemF+FAVPRZiFDKqAKEv4CD5nuU5ThkNZHQliWMd4m5byVXUkXAf8YH07dtjVRuBVSfGWyIFrjfHLZXz7UojKgTNz7Q+hRsw8IgE5pOzUc7cxtPZqIa0PcpJTcuKfow4Z9chThvURd2KzWNwc95mP4jSs2ZXr8YQzKFMutU6inYpKoM2HVcjASAkifnqb4Ul3kOrxh8EHZ3Sm8nbqQD+VrnAdBjSEMavTNoUdOdoh69QihXxdb4qgkpBHrmwf2KEv7RPVHjTI/kDRjx1EW7dJt1E3y1Pp0v7jOVuWPsBKgeiNOncgVclEh7mfib0gwnYLTbGDXtRjV376d3xltaOSHeoFDb/TvimUvqVtVsjxrNGIKbHz/0yS0VzHZhSCcCcBMRxm26whoJf6x5srprpsfNtmltM93orZ9BrMd41RGzGwV3Q4XGrQcAT/KN54hwhxRO8doITTQa68zBG3CTqiJzqUCLNa+goqaGl4=;R/qzeUvOHBbTyAe0xPofgw=="
 ---
 

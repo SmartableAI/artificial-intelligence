@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-04-ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists.md",
+      "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
+      "excerpt": "In a paper, Uber researchers describe an autonomous vehicle perception system that reasons about the behavior of pedestrians, vehicles, and cyclists.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/",
+      "ampWebUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
+      "publishedDateTime": "2020-06-04T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-iihs-study-finds-self-driving-cars-may-only-avoid-a-third-of-crashes.md",
       "title": "IIHS study finds self-driving cars may only avoid a third of crashes",
       "excerpt": "An IIHS study suggests that self-driving cars might only avoid a third of existing crashes unless they prioritize safety above all else.",
@@ -1227,51 +1272,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-scale-ai-releases-free-lidar-data-set-to-power-self-driving-car-development.md",
-      "title": "Scale AI releases free lidar data set to power self-driving car development",
-      "excerpt": "High-quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
-      "publishedDateTime": "2020-05-23T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/LiDAR-comparison-credit_-Scale-AI.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Scale AI releases free lidar data set to power self-driving car development",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

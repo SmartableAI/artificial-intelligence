@@ -1,31 +1,23 @@
 ---
 category: news
-title: "Self-Driving Cars Could Only Prevent a Third of U.S. Crashes: Study"
-excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
-publishedDateTime: 2020-06-04T14:29:00Z
-webUrl: "https://www.nytimes.com/reuters/2020/06/04/technology/04reuters-autos-self-driving.html"
+title: "Self-driving cars could only prevent a third of U.S. crashes -study"
+excerpt: "June 4 (Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday."
+publishedDateTime: 2020-06-04T21:06:00Z
+webUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04"
+ampWebUrl: "https://www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-cars-could-only-prevent-a-third-of-u.s.-crashes-study-2020-06-04?amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
-    title: "Self-Driving Cars Could Only Prevent a Third of U.S. Crashes: Study"
 
 related:
   - title: "IIHS study finds self-driving cars may only avoid a third of crashes"
@@ -66,6 +58,6 @@ related:
       domain: consumerreports.org
     quality: 4
 
-secured: "cW9ymXh+s3VgCHpgZWDgMSHwU3bhuAihqtaZXGFxeHkltjlDOaNdd2oCTCXZWOjCXxP4DHvxEyxWR62WIT3DuWNTKcjbwN3X2BSXxCRM9EA5VtBDyQOHjqD+bQattLGVt9luh6Q+I8brej8iPZ7Dlj5UIrgHzOyW5yjw+PY4Vk/4Q2IFGYOVihr5rcwPQdw9CYVlgA71LQ5X/opzE7Rnu8g1NA5dsY4d2NmGPLEH+qt8zYBjDxbc4s4cQtIBOqSy0FU1b/cYeAfBoO23d7AUKAcPFaTT5SXN+dfvIeN+JvLMzxpStXvxf3W66E3aKwxJ;rtXKiEQVzcq7sOJM7CDfRQ=="
+secured: "6kR8SAX8eL70Iore+6FEEjWpqjVKJswRcHqZQTcPfkdxUqacXVrpWJnuBrA8vLd+pO/KkDPHPvAqEyUXW1tbcfwAap7g4w0JURfn/XC2xZonT+TsZ9ztqynSr1aSw6I2W+4MTJR7Tzi4dCP77BblP2hk/TNe6FbArfKiG2nCQE08sy9icJLKCqT3n/O3Qj6xrEeJFPZb90tRmtuztpUkVJcLDoTyydzP5QuyF4whO9UyDYliQcOu+ycxLx9tFmutFUeWb/mpMVGeKzk8zucCDRmxSq3i0DPde+BlKDS63AIJyvzBzuEQfkZYNqHZ63kP7V+tr/ZyVqBYvrIpWLJbFrwwwh5dFptEh6neiyGi0iRVKY0Mjn8jAvJL3zm/MkTFeA59DRKoEqD0qxzW1Pz+cf81UHrzoVusTynQ/tBqukiSaabt9/ekdsP2BQj8EL2CAcWaV3wqb/WormbN/3Zo2SKLFvn5JbYSXVXghgUHfLM=;16zae20sYBkpXfqBU3BXhw=="
 ---
 

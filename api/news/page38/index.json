@@ -2,6 +2,163 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-05-05-deep-learning-hybrid-method-to-automatically-diagnose-periodontal-bone-loss-and-stage-periodontitis-scientific-reports.md",
+      "title": "Deep Learning Hybrid Method to Automatically Diagnose Periodontal Bone Loss and Stage Periodontitis | Scientific Reports",
+      "excerpt": "The novel hybrid framework that combined deep learning architecture and the conventional CAD approach demonstrated high accuracy and excellent reliability in the automatic diagnosis of periodontal ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41598-020-64509-z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-64509-z/MediaObjects/41598_2020_64509_Fig1_HTML.png",
+          "width": 506,
+          "height": 685,
+          "title": "Deep Learning Hybrid Method to Automatically Diagnose Periodontal Bone Loss and Stage Periodontitis | Scientific Reports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-new-directions-in-theoretical-machine-learning.md",
+      "title": "New Directions in Theoretical Machine Learning",
+      "excerpt": "The Simons Symposium on New Directions in Theoretical Machine Learning brought together a select group of ... there have been impressive advances in computer generated text); image recognition is working far more accurately in new domains (relevant to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.simonsfoundation.org/event/new-directions-in-theoretical-machine-learning-2019/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Simons Foundation",
+        "domain": "simonsfoundation.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://simonsfoundation.imgix.net/sf-share.jpg?q=40&#038;auto=compress",
+          "width": 1200,
+          "height": 630,
+          "title": "New Directions in Theoretical Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto.md",
+      "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
+      "excerpt": "To this day, the Roomba remains the one successful mainstream home robotic. It was a feat iRobot achieved after a decade or so of throwing concepts against the wall, ultimately achieving success through a combination of outward-facing simplicity and under-the-hood sophistication.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/amp/",
+      "publishedDateTime": "2020-05-04T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/moxie.jpg?w=990",
+          "width": 990,
+          "height": 811,
+          "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-lets-make-a-deal-with-our-robot-overlords.md",
+      "title": "Let’s Make a Deal With Our Robot Overlords",
+      "excerpt": "The pandemic will accelerate automation. This might be an opportunity for workers.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "publishedDateTime": "2020-05-04T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
       "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
       "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
@@ -856,184 +1013,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars.md",
-      "title": "Data storage and AI are driving the evolution of autonomous cars",
-      "excerpt": "The future of connected and fully autonomous vehicles depends on the ability of tech companies to deliver state-of-the-art, high-endurance storage.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/04/data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/04/data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars/amp/",
-      "publishedDateTime": "2020-05-04T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/autonomous-vehicles.GettyImages-1148108337.jpg?fit=2262%2C1208&strip=all",
-          "width": 2262,
-          "height": 1208,
-          "title": "Data storage and AI are driving the evolution of autonomous cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-11-strategic-ways-to-leverage-ai-for-better-sales-results.md",
-      "title": "11 Strategic Ways To Leverage AI For Better Sales Results",
-      "excerpt": "With the incorporation of AI in sales, teams are now becoming increasingly able to predict and quickly meet sales goals.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/amp/",
-      "publishedDateTime": "2020-05-04T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F04%2F11_Strategic_Ways_To_Leverage_AI_For_Better_Sales_Results-1200x1015.png",
-          "width": 1200,
-          "height": 1015,
-          "title": "11 Strategic Ways To Leverage AI For Better Sales Results",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-global-ai-in-sports-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026.md",
-      "title": "Global AI in Sports Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026",
-      "excerpt": "AI in Sports Market 2020 Wiseguyreports.Com Adds \"AI in Sports - Global Market Growth, Opportunities, Analysis of Top",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-sports-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026-2020-05-04",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global AI in Sports Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-how-can-ai-improve-sales-and-support.md",
-      "title": "How Can AI Improve Sales And Support?",
-      "excerpt": "No matter which route you choose, you should aim to create or purchase a scalable platform that enables your business to implement data-driven decision-making wherever possible.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/04/how-can-ai-improve-sales-and-support/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/04/how-can-ai-improve-sales-and-support/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/04/how-can-ai-improve-sales-and-support/amp/",
-      "publishedDateTime": "2020-05-04T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-77.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How Can AI Improve Sales And Support?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

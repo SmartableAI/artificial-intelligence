@@ -7,9 +7,9 @@ webUrl: "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support
 ampWebUrl: "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Mint
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.livemint.com/img/2020/06/04/600x338/c5507094-a63e-11ea-a5bb-117a420bfddf_1591291821232_1591291923562.jpg"
@@ -25,6 +26,6 @@ images:
     height: 338
     title: "AI, machine learning to support digital lending landscape in post-covid era"
 
-secured: "HKBcTL/TthtrTqRckSdGlIVyyZmjo4+iIBj9re7HBBQ99FKBo0ZCu+N870G90JJA4w7zJrOBHAR8gXLSx+ejm/CxyrH17MyRVPlNcZrkMgllD7Kkv4yMSWxPsD6Bydt9c7woVhnGXpAThZUJBaoK/EefdTzYBCr3ng2t688fBEALFLGfJsIskrZkAoRVaEvgsHSvZnhLnMVgJENJyU/fJv+UZAMJpXH63QcRHTD38/6a4i/h/g93j5qZLrd/Jrk90w9LXtyYbWOc1VJOwjOrDsph203F9TiFyypIZHPI7myU5dC2ZewgnzC93X2jsYVH;2ABO+a1b0+RC50bMPPDEug=="
+secured: "F1ltovNMJIMwVSe7HKCgZ1gE/HPos6//hpxut6HI01qv22WBa5qHYDzIc/mIgbV8HDQmvNaGGZAhp6fVKPpJsBw7+GGNBxL0rCWtFTSIueO8KjmvDf2/+fT6OhFJa4yN2TB7NjXbHE4nELOOKNci9c2HS83mke1HoDJPBmp051vV7LBisP4ajOiPEpT1aITLUfrinoJwRuqh94imeGrGC1Ovd9Gzfeo7SSE3qUxi1Pon4w9JAAfP1DN+n7ECR5OoTc2osRQGQoOF1fu7Nsq4pKpv/QJEtsSMntblC6MUdmIm9L5Ohz3dnYSKmPt76x86ocTCpz0Qgb4kSnBajaQMB04ZdcptQPwiqzGf7I35E2D+CtOxASxKnhnJvPc9nePC70XKFoexnxy31fi42YI7lLffz1EUNIYxYd/OzfzQ2ee1sivjLC4/S7BJLDR+Z7mc3OUhnDlEolQZmKJLyEkJJHevjMO7rZ1FmwpVWaAZGGM=;uZWN7M795ERfT8lHlkrxnw=="
 ---
 
