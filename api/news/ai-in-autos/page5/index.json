@@ -2,43 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-05-04-after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms.md",
-      "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
-      "excerpt": "After Facebook invested over Rs 43,000 crore in Jio platforms last month, Reliance Industries Limited (RIL) on Monday announced that US private equity firm Silver Lake will invest Rs 5,655 crore (nearly $750 million) into Jio platforms.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gulfnews.com/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
-      "ampWebUrl": "https://gulfnews.com/amp/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/after-facebook-silver-lake-to-invest-rs-5655-crore-in-reliance-jio-platforms-1.1588574170461",
-      "publishedDateTime": "2020-05-03T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2020/05/04/20200504-jio_171de660947_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "After Facebook, Silver Lake to invest Rs 5,655 crore in Reliance Jio Platforms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-04-silver-lake-reliance-jio-deal-5-key-things-you-need-to-know.md",
       "title": "Silver Lake-Reliance Jio deal: 5 key things you need to know",
       "excerpt": "The deal comes shortly after Facebook announced investing Rs 43,574 crore in Reliance’s Jio platforms in exchange of 9.99% stake. The deal also covers WhatsApp-JioMart partnership aimed at the smaller retailers in the country.",
@@ -1223,6 +1186,51 @@
           "width": 641,
           "height": 480,
           "title": "Innovation Ultimatum: A Futurist Looks At How Business Can Use New Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-waymo-keeps-autonomous-driving-simulations-running-as-cars-stay-parked.md",
+      "title": "Waymo keeps autonomous driving simulations running as cars stay parked",
+      "excerpt": "Waymo is continuing to run autonomous driving simulations as its fleet of test cars and trucks remains parked due to the ongoing coronavirus pandemic.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-simulations-continue-despite-coronavirus/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-simulations-continue-despite-coronavirus/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-car-simulations-continue-despite-coronavirus/?amp",
+      "publishedDateTime": "2020-04-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/chandler_depot-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Waymo keeps autonomous driving simulations running as cars stay parked",
           "attribution": null
         }
       ],

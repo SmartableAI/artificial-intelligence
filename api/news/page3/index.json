@@ -2,6 +2,97 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-02-artificial-intelligence-ai-chipset-market-global-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2023.md",
+      "title": "Artificial Intelligence (AI) Chipset Market –Global Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2023",
+      "excerpt": "Healthcare, and BFSI) and Region - Forecast Till 2023 Artificial intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning, machine learning, neural network processing, and natural language processing. These chipsets are planned with the end goal that they expend low power and offer high processing ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-global-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2023-2020-06-02?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chipset Market –Global Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence.md",
+      "title": "All you need to know about symbolic artificial intelligence",
+      "excerpt": "Today, artificial intelligence is mostly about artificial neural networks and deep learning. But this is not how it always was. In fact, for most of its six-decade history, the field was dominated by symbolic artificial intelligence,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-02T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-3-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "All you need to know about symbolic artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact.md",
       "title": "Artificial Intelligence Chipset Market Analysis as per the Latest COVID-19 Impact",
       "excerpt": "The global Artificial Intelligence Chipset Market is segregated on the basis of Component as Hardware and Software. Based on Technology the global Artificial Intelligence Chipset market is segmented in Machine Learning,",
@@ -134,35 +225,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-vw-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
-      "title": "VW closes $2.6 billion investment in self-driving startup Argo AI",
-      "excerpt": "German automaker Volkswagen AG VOWG_p.DE has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post o",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/vw-closes-%242.6-billion-investment-in-self-driving-startup-argo-ai-2020-06-02",
-      "ampWebUrl": "https://www.nasdaq.com/articles/vw-closes-%242.6-billion-investment-in-self-driving-startup-argo-ai-2020-06-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/vw-closes-%242.6-billion-investment-in-self-driving-startup-argo-ai-2020-06-02?amp",
-      "publishedDateTime": "2020-06-01T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1052,50 +1114,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-jeff-bezos-is-buying-a-stake-in-uk-digital-supply-chain-startup-beacon.md",
-      "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
-      "excerpt": "Based in London and founded in 2018, Beacon's investors already include executives from Uber, Google and Amazon, the firm says.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
-      "publishedDateTime": "2020-06-01T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106284164-1575739700440gettyimages-1079533948.jpeg?v=1587656573",
-          "width": 5000,
-          "height": 3334,
-          "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

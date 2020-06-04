@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Healthcare Artificial Intelligence Market 2020 Segmentation Analysis, Key Players, Industry Share and Forecast by 2026"
-    excerpt: "The dedicated research report titled Global Healthcare Artificial Intelligence Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 envelopes all-in information of the market and vital understanding on the global market at a holistic global perspective,"
-    publishedDateTime: 2020-05-30T14:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2020-segmentation-analysis-key-players-industry-share-and-forecast-by-2026-2020-05-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "ocsOfgyeC25A3NkGJsRQVbptREP5oyXh+wjPT1jqa2EipXfTK9S3H+5rYlfVIP8DjAqhi4b9bVoNilIBPRat5eDbfUO0PEv+6645y9CcJ26N/ZnLMA48rlM2K1l7euRlJnqf3D2qNnbfHcrKmxr5Y9FNbvSeKOp+w7LQTkHDxAHf3i4eIwwfQZesLNtYgDTJsa6wGxEiUzXGSBYcKUiVM8lMh/Cijs3jJWRWS6Q6bN9Xzt0KXWWCncFdz5+bkC+z+fC9KRn1gOoY9ZGQL6KGUhg89heTqnu1EOdA/lWtItARvkiwxYze8PZUAP+3N4CV;nlwKsQOmfg1EMj0Ww+nLyg=="
 ---
