@@ -2,6 +2,51 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-04-27-moneyball-medicine-data-driven-healthcare-transformation.md",
+      "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
+      "excerpt": "Thriving in the New Data-Driven Healthcare Market, author Harry Glorikian offers a prescription for how data and analytics will shape the future of healthcare delivery in the United States. We are all familiar with the Moneyball concept and how it transformed professional sports over the course of the past two decades – with an assist from Brad Pitt.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/",
+      "ampWebUrl": "https://www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/amp/",
+      "publishedDateTime": "2020-04-26T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1185375168%2F0x0.jpg",
+          "width": 1200,
+          "height": 567,
+          "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-autox-alibabas-autonavi-roll-out-robotaxis-in-shanghais-ride-hailing-services-market.md",
       "title": "AutoX, Alibaba’s AutoNavi roll out robotaxis in Shanghai’s ride-hailing services market",
       "excerpt": "Autonomous driving start-up AutoX is now offering its fleet of robotaxis as part of ride-hailing options on Autonavi’s Amap app, which aggregates mobility services provided by more than 40 companies in China.",
@@ -1020,44 +1065,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-iss-news-space-stations-cimon-2-ai-robot-to-revolutionise-coronavirus-social-care.md",
-      "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
-      "excerpt": "SPACE experts have revealed IBM's revolutionary Crew Interactive MObile CompanioN (CIMON-2) continues to exceed expectations aboard the International Space Station (ISS). One of the AI robot's developers has now revealed how the project can aid social care in the post-coronavirus world.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp",
-      "publishedDateTime": "2020-04-24T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care-1273593.jpg?r=1587753177377",
-          "width": 590,
-          "height": 350,
-          "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

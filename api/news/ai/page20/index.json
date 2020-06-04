@@ -2,6 +2,51 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-05-14-ai-models-are-struggling-to-cope-with-our-rapidly-changing-world.md",
+      "title": "AI models are struggling to cope with our rapidly changing world",
+      "excerpt": "Based on data that described the world before the crisis, these won't be making correct predictions anymore, pointing to a fundamental problem in they way AI is being designed. David Cox, IBM director of the MIT-IBM Watson AI Lab, explains that faulty AI is particularly problematic in the case of so-called black box predictive models ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-models-are-struggling-to-cope-with-our-rapidly-changing-world/",
+      "publishedDateTime": "2020-05-14T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/05/889b37c6-5a4a-4b33-8393-75fe2b2d6727/thumbnail/1200x675/2543f3afd4c8d758aca9e08eb2aef9d4/5gs-first-antenna-winterfeldtstrasse.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI models are struggling to cope with our rapidly changing world",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-are-ai-investments-dead-thanks-to-covid-19.md",
       "title": "Are AI investments dead thanks to COVID-19?",
       "excerpt": "And how do you go from managing data points to injecting AI in the enterprise? Read More I reached out to Ryohei Fujimaki, Ph.D., an expert on AI/ML and the founder and CEO of dotData, which delivers data science automation to the enterprise,",
@@ -1222,51 +1267,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-13-amazon-ec2-inf1-instances-now-support-amazon-sagemaker.md",
-      "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
-      "excerpt": "Patrick Moorhead gives an update with Amazon's team that has been busy with customers, optimizing and adding capabilities, some of the Inferentia and EC2 Inf1 instance leads.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
-      "publishedDateTime": "2020-05-13T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebb15cf082ee4000682bb85%2F0x0.jpg",
-          "width": 821,
-          "height": 439,
-          "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

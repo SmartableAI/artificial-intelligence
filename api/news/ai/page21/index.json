@@ -2,6 +2,51 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-05-13-amazon-ec2-inf1-instances-now-support-amazon-sagemaker.md",
+      "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
+      "excerpt": "Patrick Moorhead gives an update with Amazon's team that has been busy with customers, optimizing and adding capabilities, some of the Inferentia and EC2 Inf1 instance leads.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/13/amazon-ec2-inf1-instances-now-support-amazon-sagemaker/amp/",
+      "publishedDateTime": "2020-05-13T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebb15cf082ee4000682bb85%2F0x0.jpg",
+          "width": 821,
+          "height": 439,
+          "title": "Amazon EC2 Inf1 Instances Now Support Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure.md",
       "title": "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure",
       "excerpt": "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating digital transformation,",
@@ -1207,42 +1252,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-12-ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital.md",
-      "title": "AI Start-Up LexCheck Raises $3 Million Series Seed Investment Led by Kli Capital",
-      "excerpt": "PRNewswire/ -- LexCheck, an artificial intelligence (AI) and legal technology platform based in New York City, has",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-start-up-lexcheck-raises-3-million-series-seed-investment-led-by-kli-capital-1029192649",
-      "publishedDateTime": "2020-05-12T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

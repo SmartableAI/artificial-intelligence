@@ -2,6 +2,51 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-04-14-natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025.md",
+      "title": "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025",
+      "excerpt": "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025-2020-04-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-covid-19-software-firms-sharpen-focus-on-ai-big-data-as-it-spending-drops.md",
       "title": "Covid-19: Software firms sharpen focus on AI, big data as IT spending drops",
       "excerpt": "IBM has made its AI platform ‘Watson Assistant for Citizens’ on the public cloud available free of charge for at least 90 days. It helps citizens understand and respond to common questions ...",
@@ -966,35 +1011,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-3m-funding-for-coronavirus-research.md",
-      "title": "$3m funding for coronavirus research",
-      "excerpt": "ARTIFICIAL intelligence software to improve coronavirus diagnosis around the world and other critical research will be fast-tracked under new Federal Government funding. Health Minister Greg Hunt ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.couriermail.com.au/coronavirus/3m-funding-for-coronavirus-research/news-story/065b5118cd43dce48a17e4c9840d96a9",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Courier-Mail",
-        "domain": "couriermail.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

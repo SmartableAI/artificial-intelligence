@@ -2,6 +2,51 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-05-24-china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face.md",
+      "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
+      "excerpt": "Hello and welcome back to TechCrunch’s China Roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. It’s been a tumultuous week for Chinese tech firms abroad: Huawei’s mounting pressure from the U.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/amp/",
+      "publishedDateTime": "2020-05-24T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/kevin-mayer-e1590307306151.jpg?w=1021",
+          "width": 1021,
+          "height": 545,
+          "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-24-the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel.md",
       "title": "The Station: Hertz files for bankruptcy, hailing “self-driving” scooters, Memorial Day travel",
       "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hi and welcome back to The Station. Memorial Day is this coming Monday,",
@@ -1295,50 +1340,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine.md",
-      "title": "Nvidia researchers use AI to recreate PAC-MAN, without a game engine",
-      "excerpt": "Using generative adversarial networks, Nvidia opens up a line of research that could have implications not just for game creation but for real-world settings like factory floors.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine/",
-      "publishedDateTime": "2020-05-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/21/cd740e5d-f593-4f7a-818a-c5d8b479437e/embargoed-pac-man-nvidia-logos.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Nvidia researchers use AI to recreate PAC-MAN, without a game engine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

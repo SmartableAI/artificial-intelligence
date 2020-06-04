@@ -2,6 +2,43 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-05-19-whats-the-role-of-microsoft-azure-in-the-iot-sphere.md",
+      "title": "What’s the role of Microsoft Azure in the IoT sphere?",
+      "excerpt": "An article by Kevin E. Kline, Principal Program Manager at SentryOne. Microsoft Azure is a cloud-based IaaS (infrastructure as a service) that has technically been around since 2008, and provides nearly two dozen categories of specific services.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/",
+      "ampWebUrl": "https://iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
+      "cdnAmpWebUrl": "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/05/19/50113-whats-the-role-of-microsoft-azure-in-the-iot-sphere/amp/",
+      "publishedDateTime": "2020-05-19T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOT Business News",
+        "domain": "iotbusinessnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://iotbusinessnews.com/WordPress/wp-content/uploads/technology-code-software.jpg",
+          "width": 800,
+          "height": 360,
+          "title": "What’s the role of Microsoft Azure in the IoT sphere?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
       "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
       "excerpt": "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
@@ -968,52 +1005,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-sony-to-use-microsofts-azure-ai-technology-in-new-smart-camera-sensors.md",
-      "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
-      "excerpt": "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also",
-      "heat": 141,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/",
-      "ampWebUrl": "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/",
-      "publishedDateTime": "2020-05-18T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

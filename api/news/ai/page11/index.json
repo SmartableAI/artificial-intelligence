@@ -2,6 +2,42 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-21-super-hi-fi-is-reshaping-the-sound-of-streaming-with-ai.md",
+      "title": "Super Hi-Fi Is Reshaping The Sound Of Streaming With AI",
+      "excerpt": "The Los Angeles-based company is working with digital music services to improve listening experiences and build their sonic brands.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/",
+      "ampWebUrl": "https://www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/amp/",
+      "publishedDateTime": "2020-05-21T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-machine-learning-models-estimate-seasonal-impact-of-covid-19.md",
       "title": "Machine Learning Models Estimate Seasonal Impact of COVID-19",
       "excerpt": "Researchers will use machine learning to determine the impact environmental factors have on the transmission of COVID-19.",
@@ -1204,43 +1240,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-ai-and-machine-learning-for-game-design-the-positive-influencers.md",
-      "title": "AI and Machine Learning for Game Design: The Positive Influencers",
-      "excerpt": "Artificial intelligence and machine learning help improve the game designing approach with evaluation and response support.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gamasutra.com/blogs/VivekSonchhatra/20200520/363256/AI_and_Machine_Learning_for_Game_Design_The_Positive_Influencers.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gamasutra",
-        "domain": "gamasutra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/235501.png",
-          "width": 465,
-          "height": 465,
-          "title": "AI and Machine Learning for Game Design: The Positive Influencers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

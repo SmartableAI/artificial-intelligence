@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-builds-massive-supercomputer-for-smarter-ai.md",
+      "title": "Microsoft builds massive supercomputer for smarter AI",
+      "excerpt": "The Azure machine has 285,000 processor cores and 10,000 GPUs to tackle a new class of artificial intelligence tasks.",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
+      "publishedDateTime": "2020-05-19T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft builds massive supercomputer for smarter AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions.md",
       "title": "Sony joins Microsoft to create AI-driven smart camera solutions",
       "excerpt": "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers.",
@@ -1188,52 +1234,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-microsoft-just-gave-the-sony-ai-camera-an-azure-brain.md",
-      "title": "Microsoft just gave the Sony AI camera an Azure brain",
-      "excerpt": "It was only last week that Sony showed off its new embedded AI smart camera sensor, and already Microsoft is promising an artificial intelligence for the innovative chip. The Sony IMX500 stacks a",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/",
-      "ampWebUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/",
-      "publishedDateTime": "2020-05-18T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg",
-          "width": 2307,
-          "height": 1334,
-          "title": "Microsoft just gave the Sony AI camera an Azure brain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

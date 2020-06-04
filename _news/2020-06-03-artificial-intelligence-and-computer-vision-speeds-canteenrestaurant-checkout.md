@@ -5,8 +5,8 @@ excerpt: "In addition to leaving only a short time for the workers to enjoy thei
 publishedDateTime: 2020-06-03T20:18:00Z
 webUrl: "https://www.embedded-computing.com/guest-blogs/artificial-intelligence-and-computer-vision-speeds-canteen-restaurant-checkout"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVlZDgwNDRkY2NlNDAuanBnJnZlcnNpb249MDAwMCZzaWc9ODc1YzVhYmM1NjUxZDMwNDdkODc4Yjc2YTE1NDY1OTQ%253D"

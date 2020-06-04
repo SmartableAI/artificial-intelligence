@@ -2,6 +2,35 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-05-greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autoblog.com/press-releases/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace_23004/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-microsoft-cisco-collaboration-leveraging-iot-data-to-drive-better-business-value.md",
       "title": "Microsoft-Cisco Collaboration: Leveraging IoT Data to Drive Better Business Value",
       "excerpt": "Microsoft Azure IoT and Cisco IoT, industrial IoT market leaders, they have decided to team up to share the availability of an integrated Azure IoT solution, that provides the necessary software, hardware,",
@@ -1178,43 +1207,6 @@
           "width": 1200,
           "height": 675,
           "title": "Google Cloud's Anthos for AWS generally available, Microsoft Azure in preview",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications.md",
-      "title": "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications",
-      "excerpt": "Arista announces new capabilities that enhance the WiFi experience for critical video collaboration applications and cloud-based problem resolution.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200422005166/en/Arista-Delivers-Cognitive-WiFi-Collaboration-Video-Chat",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200422005166/en/178582/23/arista_200pt_FINAL.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications",
           "attribution": null
         }
       ],

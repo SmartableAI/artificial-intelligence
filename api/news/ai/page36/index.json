@@ -2,6 +2,51 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-04-30-google-co-founder-sergey-brin-lays-out-the-many-ways-the-company-uses-ai-today.md",
+      "title": "Google co-founder Sergey Brin lays out the many ways the company uses A.I. today",
+      "excerpt": "Sergey Brin's Founders' Letter outlines the ways Alphabet uses artificial ... intelligence every day. He highlights that the company employs it to: understand images in Google Photos; enable Waymo ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/04/27/alphabet-founders-letter-2017-sergey-brin-on-ai.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/04/27/alphabet-founders-letter-2017-sergey-brin-on-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/04/27/alphabet-founders-letter-2017-sergey-brin-on-ai.html",
+      "publishedDateTime": "2020-04-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104642952-GettyImages-152766137.jpg?v=1529475925",
+          "width": 2000,
+          "height": 1322,
+          "title": "Google co-founder Sergey Brin lays out the many ways the company uses A.I. today",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-items-tagged-with-uber.md",
       "title": "Items tagged with uber",
       "excerpt": "Researchers around the world are working on new types of artificial intelligence (AI) that can dominate in games created by humans. Typically, these AI complete video games with much higher scores ...",
@@ -1219,51 +1264,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-salesforces-ai-economist-taps-reinforcement-learning-to-generate-optimal-tax-policies.md",
-      "title": "Salesforce’s AI Economist taps reinforcement learning to generate optimal tax policies",
-      "excerpt": "Salesforce's AI Economist uses reinforcement learning to generate economic policies that achieve specific societal outcomes.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/29/salesforces-ai-economist-taps-reinforcement-learning-to-generate-optimal-tax-policies/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/29/salesforces-ai-economist-taps-reinforcement-learning-to-generate-optimal-tax-policies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/salesforces-ai-economist-taps-reinforcement-learning-to-generate-optimal-tax-policies/amp/",
-      "publishedDateTime": "2020-04-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/02/Salesforce-Dreamforce-2015-Novet-2-e1587682542428.jpg?fit=1198%2C599&strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": "Salesforce’s AI Economist taps reinforcement learning to generate optimal tax policies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

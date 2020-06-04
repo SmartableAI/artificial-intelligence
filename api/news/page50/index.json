@@ -2,6 +2,44 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-04-24-iss-news-space-stations-cimon-2-ai-robot-to-revolutionise-coronavirus-social-care.md",
+      "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
+      "excerpt": "SPACE experts have revealed IBM's revolutionary Crew Interactive MObile CompanioN (CIMON-2) continues to exceed expectations aboard the International Space Station (ISS). One of the AI robot's developers has now revealed how the project can aid social care in the post-coronavirus world.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp",
+      "publishedDateTime": "2020-04-24T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care-1273593.jpg?r=1587753177377",
+          "width": 590,
+          "height": 350,
+          "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-amazon-a2i-is-now-generally-available.md",
       "title": "Amazon A2I is now generally available",
       "excerpt": "AWS is excited to announce the general availability of Amazon Augmented AI (Amazon A2I), a new service that makes it easy to implement human reviews of machine learning (ML) predictions at scale. Amazon A2I removes the undifferentiated heavy lifting associated with building and managing expensive and",
@@ -1010,43 +1048,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-former-fox-cto-joins-microsoft-azures-media-and-entertainment-business.md",
-      "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
-      "excerpt": "Hanno Basse, the former chief technology officer at 20th Century Fox, has been named CTO for Microsoft Azure Media and Entertainment. In his new role, he’s working with entertainment industry customers, partners, industry groups and vendors to create applications for Microsoft’s cloud, edge and AI technologies. His initial focus is ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hollywoodreporter.com/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
-      "ampWebUrl": "https://www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
-      "publishedDateTime": "2020-04-23T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn1.thr.com/sites/default/files/imagecache/768x433/2019/06/hanno_basse-getty-h_2019_.jpg",
-          "width": 768,
-          "height": 433,
-          "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

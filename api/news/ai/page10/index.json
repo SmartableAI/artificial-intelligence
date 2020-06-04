@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-22-nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine.md",
+      "title": "Nvidia researchers use AI to recreate PAC-MAN, without a game engine",
+      "excerpt": "Using generative adversarial networks, Nvidia opens up a line of research that could have implications not just for game creation but for real-world settings like factory floors.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine/",
+      "publishedDateTime": "2020-05-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/21/cd740e5d-f593-4f7a-818a-c5d8b479437e/embargoed-pac-man-nvidia-logos.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Nvidia researchers use AI to recreate PAC-MAN, without a game engine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-pac-man-once-felt-futuristic-now-theres-a-new-one-built-entirely-by-ai.md",
       "title": "'Pac-Man' once felt futuristic. Now there's a new one built entirely by AI.",
       "excerpt": "Using the same technology that powers deepfakes, Nvidia developed an AI that created its own version of 'Pac-Man,' which turns 40 on May 22.",
@@ -1212,42 +1256,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-super-hi-fi-is-reshaping-the-sound-of-streaming-with-ai.md",
-      "title": "Super Hi-Fi Is Reshaping The Sound Of Streaming With AI",
-      "excerpt": "The Los Angeles-based company is working with digital music services to improve listening experiences and build their sonic brands.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/",
-      "ampWebUrl": "https://www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/amp/",
-      "publishedDateTime": "2020-05-21T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

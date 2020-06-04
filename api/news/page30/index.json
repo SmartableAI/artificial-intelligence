@@ -2,6 +2,50 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-05-08-exer-launches-ai-based-fitness-coach-on-your-mobile-phone.md",
+      "title": "Exer launches AI-based fitness coach on your mobile phone",
+      "excerpt": "Just in time for the home exercise craze, Exer has launched its AI-based fitness coach that shows you how to do exercises properly at home.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/08/exer-launches-ai-based-fitness-coach-on-your-mobile-phone/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/08/exer-launches-ai-based-fitness-coach-on-your-mobile-phone/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/exer-launches-ai-based-fitness-coach-on-your-mobile-phone/amp/",
+      "publishedDateTime": "2020-05-08T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/exer-ai-3.jpg?fit=1200%2C647&strip=all",
+          "width": 1200,
+          "height": 647,
+          "title": "Exer launches AI-based fitness coach on your mobile phone",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-how-facial-recognition-will-change-retail.md",
       "title": "How Facial Recognition Will Change Retail",
       "excerpt": "Through the use of facial recognition technology, retail stores may be able to proactively help limit unsatisfactory customer service experiences.",
@@ -948,50 +992,6 @@
           "width": 1200,
           "height": 600,
           "title": "Vector Institute’s AI makes predictions about random events like market trades",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-3-tips-to-find-a-good-ai-partner-for-your-recovery.md",
-      "title": "3 Tips to Find a Good AI Partner for Your Recovery",
-      "excerpt": "The world will never look the way it did before, but productivity and consumption can resume with a little help.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/350214",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350214",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350214",
-      "publishedDateTime": "2020-05-07T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200505205845-GettyImages-1019205322.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "3 Tips to Find a Good AI Partner for Your Recovery",
           "attribution": null
         }
       ],
