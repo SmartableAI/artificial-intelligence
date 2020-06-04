@@ -5,8 +5,8 @@ excerpt: "Formerly known as Engineer.ai, the company laid off 39 of its roughly 
 publishedDateTime: 2020-06-04T14:37:00Z
 webUrl: "https://www.businessinsider.com/engineerai-builderai-layoffs-14-percent-staff-2020-6"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/5ed89e785af6cc3e2245bd44?width=1200&format=jpeg"

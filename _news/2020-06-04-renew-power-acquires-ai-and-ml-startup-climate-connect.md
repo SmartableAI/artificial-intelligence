@@ -26,20 +26,18 @@ images:
 
 related:
   - title: "ReNew Power to acquire AI startup Climate Connect"
-    excerpt: "New Delhi, Jun 4 () Clean energy firm ReNew Power on Thursday said it has inked a definitive agreement to acquire artificial intelligence and machine learning startup Climate Connect. The acquisition will give ReNew Power access to energy management services."
-    publishedDateTime: 2020-06-04T09:36:00Z
-    webUrl: "https://www.businessinsider.in/business/news/renew-power-to-acquire-ai-startup-climate-connect/articleshow/76193840.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/news/renew-power-to-acquire-ai-startup-climate-connect/amp_articleshow/76193840.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/renew-power-to-acquire-ai-startup-climate-connect/amp_articleshow/76193840.cms"
+    excerpt: "ReNew Power Pvt. Ltd said on Thursday it has agreed to acquire Regent Climate Connect Knowledge Solutions Pvt. Ltd, an artificial"
+    publishedDateTime: 2020-06-04T14:13:00Z
+    webUrl: "https://www.vccircle.com/renew-power-to-acquire-ai-startup-climate-connect/"
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 57
+      name: VCCircle
+      domain: vccircle.com
+    quality: 37
     images:
-      - url: "https://www.businessinsider.in/thumb/76193840.cms?height=275&width=412"
-        width: 412
-        height: 275
+      - url: "https://assets.vccircle.com/uploads/2018/09/renewablePowerPixabay.jpg"
+        width: 810
+        height: 506
 
 secured: "qS+W/yiwnbdGmU0/X3AKGjP7JO3nbpKrMNVzTHSqhUMmg/YzVSfJgjAprxQcY5YVBr/nGWmJ0A3dSWxuEVDByq/TRSD+McYHH38P2Tgu8VITdMemX7FTW1ODzr24zxjZKoWZI8k3XZF1AHRCpwNhc3achsZGaCKY4Ww7UrE1tUfpW+HlrRPMrln4XRzQYRimzxz117BA7bhLAPzpgCzqE5Hpi7uwQTwRr48S++/+gDppKiRU8ziTQCwBYYWJ+1Mr7lk6W9mw8tKx27KulWtBUXcQHcw+2+3HFdtI+av2s795g/lrvpMA4BzVV66u8PrJXjZG4qWiBhmEwK7ds5qS/hw9dL6hWYMWNDVEdjqreH/DK+Ye44t18IMLMIZrUNKmhBedp/tLjWsnUps9xqAmfpP5yLmcsp5ccLZv0/bR/Ca2wjpLPwtur7MGWxhiTNCpm1mrXusAYE4JRokGcwhXvSbyFO8NvNL7oC6Yt8l7Lig=;PtZJas0Th8eSkt/J1ap8ew=="
 ---

@@ -1,27 +1,25 @@
 ---
 category: news
 title: "ReNew Power to acquire AI startup Climate Connect"
-excerpt: "New Delhi, Jun 4 () Clean energy firm ReNew Power on Thursday said it has inked a definitive agreement to acquire artificial intelligence and machine learning startup Climate Connect. The acquisition will give ReNew Power access to energy management services."
-publishedDateTime: 2020-06-04T09:36:00Z
-webUrl: "https://www.businessinsider.in/business/news/renew-power-to-acquire-ai-startup-climate-connect/articleshow/76193840.cms"
-ampWebUrl: "https://www.businessinsider.in/business/news/renew-power-to-acquire-ai-startup-climate-connect/amp_articleshow/76193840.cms"
-cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/renew-power-to-acquire-ai-startup-climate-connect/amp_articleshow/76193840.cms"
+excerpt: "ReNew Power Pvt. Ltd said on Thursday it has agreed to acquire Regent Climate Connect Knowledge Solutions Pvt. Ltd, an artificial"
+publishedDateTime: 2020-06-04T14:13:00Z
+webUrl: "https://www.vccircle.com/renew-power-to-acquire-ai-startup-climate-connect/"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider India
-  domain: businessinsider.in
+  name: VCCircle
+  domain: vccircle.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.businessinsider.in/thumb/76193840.cms?height=275&width=412"
-    width: 412
-    height: 275
+  - url: "https://assets.vccircle.com/uploads/2018/09/renewablePowerPixabay.jpg"
+    width: 810
+    height: 506
     title: "ReNew Power to acquire AI startup Climate Connect"
 
 related:
@@ -41,6 +39,6 @@ related:
         width: 800
         height: 400
 
-secured: "topN5+3NGiIl4flNpxse+uzBKQs2VLxjQXoYluR10BAzttrVxRXmYgeAlWTKvsPF7nGUVSZp1SAO0zt+OUGbuGciBh/6LGewiQuxV8QqmynRIIIau86H0GsmEuZJ8Hp8wjyjW3fXP0enhHZpss9WWkzbk1eY+FNUuDH3KhkMAJqOfp6NVc4bzr5Ql+WGYeVQrnzcrR6IwSL6Hv0CQpSnXGnx78s1mU1g5jRundRQNL6cz+VjCdAMV12nPDnGrOdsU1QD/kwJNQBq1Sl7imiULTQ5N2yDKw51Gv16hNfOykbn5C59BAL0lECH5TWzxYO7;kACAxuNM5ZXIWe+zOHQJwA=="
+secured: "B4UKEmIYttiO8tqLQUaEGbw0yQcYs0bE45aw4GxQhP4Oq/3NKVS1gqFzS68uXVVhKY8AmS714zFwBqyYpQYZ6G0AHWh+VHLEUaCx/QoJ1q6VMgbgqzEqqDNw8ALs87UYKDAm12DAf4cKSKibPsN/MX5ZasGP1TS+At91/AFMCaVZdFmxE+Sq9YEwbUb6SAC4NvHE9SWYpQ3HvFUdFaCvDGNP+Nbxeu1lSSL2DpZmwSZG+OQ39ZKEEtSWw+njsFMRfF0Iiqk8klBnr1o04W5wSaw1zRxoMsBjtCPNDR0VR+uH/VfLaz+bpZ93B/iAa71C;T0fhXQPCymJxVWW3/72aeA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-04T14:16:00Z
 webUrl: "https://www.fastcompany.com/90503520/how-this-company-is-fighting-healthcare-fraud-with-ai"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     height: 720
     title: "How this company is fighting healthcare fraud with AI"
 
-secured: "Zr5hwXSB+BZD4wwdl0oekf3ChV1gyiVrLFwOn36lfaPCf6zqEmSRKmxbQU7Ob5fhzpAYsmNJRxTI+3qrJcIZbAbPMqtKpagDqGvx9NSFXFwVZkP2mWV4tLjBgFtbE43C3PTSrrARiUvqkxFvK2Og2gD9QqlquALBy2bWi90U8JNNw23Xk00qRexwHU2h6VZif9kkZZEjKMC2un7tdw1XZO0Y91Q3Z+T+WpJgahkXtQGpRO/Vwxh7LVGYL5DcbBVzfFban2XRzqcEp7ac7kGTFRdgTFM3R3suWa1FgckjFNyqLE4k5qOzoVMuEV4skFdR;jlrBmnwMvg+YQFn4rASftQ=="
+related:
+  - title: "Healthcare Finance Direct and Enova Decisions team up to build the new standard of patient underwriting for elective healthcare financing"
+    excerpt: "June 4, 2020 /PRNewswire/ -- Healthcare Finance Direct (HFD), a leading FinTech company ... By using Enova Decision's core capabilities in artificial intelligence, machine learning, and data analytics, HFD can bring modern underwriting capabilities to patients seeking alternative payment options for elective treatment. \"Enova has been ..."
+    publishedDateTime: 2020-06-04T19:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/healthcare-finance-direct-and-enova-decisions-team-up-to-build-the-new-standard-of-patient-underwriting-for-elective-healthcare-financing-301071027.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 6
+    images:
+      - url: "https://mma.prnewswire.com/media/1176995/Healthcare_Finance_Direct_Logo.jpg?p=facebook"
+        width: 818
+        height: 428
+
+secured: "E8ONxPS1+kVetQJQdD/Rfftm37yFrvwixYvt0nLuNWSM5Smjrz5qhjo1RXpiW070dOZKCRopW+mGVM/U+axw9HF3X/STwvESqPLSSCg+iqfPMCBv9QJ4KhXDFzQKqp7FhmUOp/+vzJFrXdbZbPkhpw6AUpe8wMDJTeeTwudFCvkTdRoXpyUtzh51iRT79cUYZogjTOpee4rvxaeDLT0J9s7/96yNTwCHfCXpQuIourcdjoJq+0vxn4hXuiD3huEGIMwkiOouqUWvpQecBDevAtzdnJ3BCzxoe2Yv22van6hII/PDBDVTMQOjntxpV2MZVOOXDcLKe7XgYSmHqVllw/TqkT/KkHrx0rV0BW6j5XgjbTLOBdmEwObxxgpUpGx/BE35w1qvwhdZExNMcCNLvel04hsKetP5ws6LnxewbKE1gJYsvS7z4HcBEqzq1f2BSyW7mu1pGtJFRbWBZoDxHuWt08EPk6W7mQuUWAA2vFc=;zMyBekC/lUPf4Ji3bu9Ftg=="
 ---
 

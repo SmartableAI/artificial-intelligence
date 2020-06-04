@@ -18,6 +18,21 @@ topics:
   - AI
 
 related:
+  - title: "IIHS study finds self-driving cars may only avoid a third of crashes"
+    excerpt: "An IIHS study suggests that self-driving cars might only avoid a third of existing crashes unless they prioritize safety above all else."
+    publishedDateTime: 2020-06-04T16:45:00Z
+    webUrl: "https://www.engadget.com/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html"
+    ampWebUrl: "https://www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fb618a410-3970-11ea-afd7-78fc2104beb5&client=amp-blogside-v2&signature=2adb1b3feaaf29682c22943c45bad82071d5e703"
+        width: 600
+        height: 350
   - title: "Self-Driving Cars Could Only Prevent a Third of U.S. Crashes: Study"
     excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
     publishedDateTime: 2020-06-04T14:29:00Z
@@ -31,6 +46,19 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Self-driving cars could only prevent a third of U.S. crashes, study says"
+    excerpt: "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, an analysis of traffic accidents released on Thursday has found."
+    publishedDateTime: 2020-06-04T16:27:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-cars-could-only-prevent-third-us-crashes-study-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/selfdrive.jpg"
+        width: 800
+        height: 600
 
 secured: "vlzfC2i0Xiv9p6K4GFobwgRHyWjQ3sYJHLgNe2/qxH/ZkGBrOO3l3kf5ABqXCRi7A35xG0qAnsh0QuxcFYrgx4U5ljwp1ay3tSFSA3pXDM0GXDu7t7AbQmzrT+ZCvWVsiuDmOd1pyqc+hhNdeiIuoxefUquKo8fUZNsNVqWPq/tKIfods6gKUQC1Ua2WM74dDPiP5G+Qp6+iatVQLDeEoxE3GPY+Rjw3KB8sKza3yhzaX/YY35J9NxcfLgseISOZQy8DSeoGu3TLJsNhU1SLDTt0aSGiduF+aIboSyRKJaYD1rnwdia/JEmFawnnhDH/z2/zivRQeQn45r5GD30Hhl89i18fo8mqndiQtrXsg6KtorikJhf3EP+dJLBDahSPBd0HCdDZoD70VFzdVa1FjiZJNNaHfXHf1Qsj2Mum8XWACtSpBaiqCHQVJttlu7QH/XtXSHELKU4iDFh2m8ROKaXbHeLySfSCsW8/5fQwcVY=;toVFenW+d4GxrH7p9zSBPQ=="
 ---

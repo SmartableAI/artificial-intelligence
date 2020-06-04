@@ -8,7 +8,7 @@ ampWebUrl: "https://www.technowize.com/south-korean-bar-hires-robot-bartender-to
 cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/south-korean-bar-hires-robot-bartender-to-maintain-social-distancing/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 800
     title: "South Korean Bar Hires Robot Bartender to Maintain Social Distancing"
 
-secured: "xYs+HQ+j6mvuja4HM+C0qR3nzViqorHmoAa3fyvw4VZLFZ2KUkO71pjH8A4UU19nUtLZG7u1HJ9piTMpH4Uo6ds63xpA68DXYFfKM9bDfcc+IQFHIC4W5H7/4qaN5G6iizcBbAAtGv3Ol6Dcaue90M2AgRY2Mr2pIHhYJ8jaVndm54D04VF9sFGOV+Iu/dro/KPEQDLl+fKEJTiilYxR2UadQDnwGHaV+73XXZd9UmSlosAkNCSeKloOGnb4L86XFDHxU+34GKSPeqtz54PqJKm/mcaiKNnH58+rj80FZA6Mo8qJVOrnWH/1bB8Ai5omgcunXA0l6X7o+dnPaE18pGAJHaTAo1ugw99meACc8UQBrvd7Ykm217MfHuWwyjdQMpG0Tl3kyYsf9/sa1SjpbmgY7YJjP1Fd1oKelz6yE2WxyjSwEyGjYj7vYQpVAcrRDEGqmF97JScxue9Y286SRJepAMm8bNfvPX6aMnxoZ5w=;FRs5WCLQcRnxvgo0DpjGYg=="
+secured: "tTvoZXhMktuJFl6GN6Z00iXV0RAYRm911Ef40sA021fl7ktADOT0Zc4T90S0ThBkDc+gaRg0ZQAdl2Jd6sarVQcR9JG+O527P86DaxjWWLVxEabiAow2rU18vWqA+JiSjptxWUGt6gCMHhRKkATHzvpkNJdMFNRJQl6DvB+b0Xomdr3jKrTsseERWjkbPMyufcRxfvVl1VNSdPHS/rXzLYUrJViiNcYf5npeG+p+tnjezQknF7TBGePxJTp+NF3y9eSy2alItnOkQVN/ZrUkV7wUE9gCcQeX9IJ6wrqhL+Vi+QblUuNBcy7LIMIKhSIX+L2nZCBydYxeiu2cDe+dnmkvv22NNUUj6NVqBLqx0rxV3bStmn2+utXdNWL3tsLLApxKQLXxFFMGframNJDqZqm3J2g+YRWBLCHdZ8BLTvxQlzXmAfUWvIeh65n12P+ucNLH28OO8M9Hf5o2BFchyOBvZf+5tKonZ0b+qAnw5oE=;tkGFRt5qePwvLnN4R1SQiw=="
 ---
 

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
-excerpt: "H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless"
-publishedDateTime: 2020-06-04T13:01:00Z
-webUrl: "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html"
+excerpt: "H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration,"
+publishedDateTime: 2020-06-04T17:43:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Autos
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400"
+    width: 400
+    height: 400
     title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
 
-secured: "pB79O9cB93K9457FxI/zcJiM/UaqBzfD7bgo6ZqgKAzvvNiUu2wZYrZp/VPEMeaRbGxR1MvJddyymKMH1PEu6GwfW7YO1GvuLgEygV72NCEkXEKvKOBMqa4Y4/dOwrkua+bc7hJQTOldQGrIvhJrO17pzF2TQ0hu9JKUy5TNxE/627eUPtzgeMBWJQQgOB/1nruAo1QBhxUhhN/G8YmMHEmgqLIYHI53dIiOVUiSNYR24QJdz4OsHU7dVP8tkHGN/fO6A1xm9EKO5OPwJsYT0oA/jW/HURiBv05hY3e6uP/DycfvIUus8pdRHQvTIduSF0+V/zwGWK0NWiYroOgG4gCDckvL9IRx3I5aOiI2vd7e9v2CutUKb2n9eAJ7OdgHKDyw4LdW9Sj6W2iYyjgFIGsv45s3dsedahGEH+RSazOux1pA2UjBJyQM6WADgv2luA4BwSLlFx+soJ7YMJATkweIQM3WzWygiwvq+keP/f0=;0pbkXU9FQ0XnVUNN1UzU8w=="
+secured: "99NjheTT7nJtBtp9blgdyZQGjbJVrMy5HX16S+4CwhdIT3NnIaOEcOclTb/tDzBr5/MdSw1zOiexBoPazvasbLelycVjC4ms8ETRkQYqzg6HwPorKwBsjRlHkdVxnJkt+kpAn7GLtQx9LTPe21GmgEmK50qC6O2WC6XekLTN6xtyfpX6meS9AV1IoBzyjo8bFL9ENnf4F40QD6LH6ku2lAnley/HZqwNGg0HRLzoT/MEzXKVu/v3pW+eZAfu5y8r70bF+tin9s+j/ZvOF/pZZplU4WxdYkLDcXLe2EF6DUEoYm+5D3nj8OS/L86PkVrd;8qayQTMACpeNwUXK+836Yg=="
 ---
 
